@@ -1,0 +1,2 @@
+## <a name="microsoft-open-source-code-of-conduct"></a>รหัสแหล่งที่มาของ Microsoft เปิดของคอม
+โครงการนี้ได้นำการ[Microsoft เปิดแหล่งรหัสของการดำเนินการ](https://opensource.microsoft.com/codeofconduct/) สำหรับข้อมูลเพิ่มเติมให้ดู[รหัสของการดำเนินการบ่อย](https://opensource.microsoft.com/codeofconduct/faq/)หรือติดต่อ[opencode@microsoft.com](mailto:opencode@microsoft.com)กับคำถามเพิ่มเติมหรือข้อคิดเห็นใด ๆ
