@@ -1,0 +1,28 @@
+---
+title: การปรับใช้โปรแกรมประยุกต์ Intune - 991 Id ของกฎ
+ms.author: pebaum
+author: pebaum
+ms.date: 8/2/2018
+ms.audience: ITPro
+ms.topic: article
+ROBOTS: NOINDEX, NOFOLLOW
+localization_priority: Priority
+ms.assetid: d3fcac43-f659-47ba-a45e-f32863680685
+ms.openlocfilehash: 8c7b8f416e5a263ea5adbb0241169a9ee501ccfa
+ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.translationtype: MT
+ms.contentlocale: th-TH
+ms.lasthandoff: 01/15/2019
+ms.locfileid: "28316217"
+---
+# <a name="id-like-to-sign-up-for-teams-free-but-i-cant"></a>ฉันต้องการลงทะเบียนสำหรับทีมอิสระ แต่ฉันไม่
+
+บางชนิดขององค์กรไม่เหมาะสมสำหรับทีมงาน Microsoft ฟรี ข่าวดีก็คือ ว่า คุณอาจมีสิทธิ์รับทดลองใช้ฟรี — หรือคุณอาจจะมีการเข้าถึงกลุ่มคน อ่านเมื่อ
+  
+- ถ้าคุณกำลังลงชื่อเข้าใช้งาน Office 365 ผิด หรือโรงเรียนบัญชี คุณจะไม่สามารถลงทะเบียนสำหรับทีมงานอิสระ แต่องค์กรของคุณอาจอยู่แล้วโดยใช้กลุ่มคน หรือมีสิทธิได้รับการทดลองใช้ฟรี 1 ปี ไปยังทีมบนเว็บ และลงชื่อเข้าใช้เพื่อดูถ้าคุณไม่มีสิทธิ์
+    
+- บัญชีที่โรงเรียนหรือสถาบันการศึกษาอื่น ๆ ไม่มีสิทธิ์สำหรับข้อเสนอฟรีทีมงานนี้ อย่างไรก็ตาม ครูและนักเรียนได้เหมาะสมสำหรับรุ่นของ Office 365 ที่มีรุ่นเต็มของทีม Microsoft และอื่นๆ ฟรี เช็คเอาท์[Office 365 ที่อนุญาตให้ใช้สิทธิ์สำหรับทีมงานของ Microsoft](https://docs.microsoft.com/microsoftteams/office-365-licensing)
+    
+- บัญชีที่สถาบันรัฐบาลของสหรัฐอเมริกาไม่เหมาะสมสำหรับกลุ่มคนอิสระข้อเสนอนี้ เนื่องจากความต้องการเฉพาะของตนเอง เมื่อต้องการเรียนรู้เกี่ยวกับแผน Office 365 สำหรับองค์กรของรัฐบาล (รวมทั้งการทดลองใช้ฟรี), อ่าน[Office 365 ที่อนุญาตให้ใช้สิทธิ์สำหรับทีมงานของ Microsoft](https://docs.microsoft.com/microsoftteams/office-365-licensing)
+    
+
