@@ -1,0 +1,33 @@
+---
+title: คืนค่าคอลเลกชันของไซต์ที่ถูกลบไปแล้ว
+ms.author: kaarins
+author: kaarins
+manager: scotv
+ms.date: 5/1/2018
+ms.audience: Admin
+ms.topic: article
+ROBOTS: NOINDEX, NOFOLLOW
+localization_priority: Priority
+ms.collection: Adm_O365
+ms.custom: Adm_O365
+ms.assetid: cf7521c3-97b4-465a-97eb-6c0a41338a30
+ms.openlocfilehash: b3c72033dfcc093dd0c2837d2866c6a78d64449c
+ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.translationtype: MT
+ms.contentlocale: th-TH
+ms.lasthandoff: 01/15/2019
+ms.locfileid: "28316511"
+---
+# <a name="restore-a-deleted-site-collection"></a>คืนค่าคอลเลกชันของไซต์ที่ถูกลบไปแล้ว
+
+เมื่อ admin การลบคอลเลกชันไซต์คลาสสิค ถูกวางไว้ในไซต์คอลเลกชันถังรีไซเคิล ซึ่งจะถูกเก็บอยู่ 93 วันก่อนที่จะถูกลบออกอย่างถาวร เมื่อต้องการคืนค่าไซต์คอลเลกชัน:
+  
+1. ในศูนย์ดูแลแบบคลาสสิกของ SharePoint คลิก **'ถังรีไซเคิล'** ใน ribbon 
+    
+2. เลือกกล่องกาเครื่องหมายที่อยู่ถัดจากไซต์คอลเลกชันที่คุณต้องการคืนค่า
+    
+3. คลิก**เรียกคืนรายการที่ถูกลบไปแล้ว**
+    
+เมื่อต้องการคืนค่าไซต์การสื่อสารที่ถูกลบไปแล้ว คุณสามารถใช้ตัวอย่างศูนย์ดูแล SharePoint ใหม่ มิฉะนั้น คุณจำเป็นต้องใช้ PowerShell เมื่อต้องการคืนค่าไซต์ที่เป็นสมาชิกของกลุ่มมี Office 365 คุณต้องคืนค่ากลุ่มในศูนย์ดูแลการแลกเปลี่ยน กลุ่มสามารถคืนค่าได้เท่ากับ 30 วันหลังจากที่พวกเขากำลังถูกลบ
+  
+

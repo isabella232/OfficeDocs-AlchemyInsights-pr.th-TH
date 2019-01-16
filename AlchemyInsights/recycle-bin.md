@@ -1,0 +1,35 @@
+---
+title: ถังรีไซเคิล
+ms.author: stevhord
+author: bentoncity
+manager: scotv
+ms.date: 3/1/2018
+ms.audience: Admin
+ms.topic: article
+ROBOTS: NOINDEX, NOFOLLOW
+localization_priority: Priority
+ms.collection: Adm_O365
+ms.custom: Adm_O365
+ms.assetid: 456586ec-330c-41be-b2f9-65f9947eb41a
+ms.openlocfilehash: a4b1ce6c6a454939bb47fcfb183914fb26b1f6c5
+ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.translationtype: MT
+ms.contentlocale: th-TH
+ms.lasthandoff: 01/15/2019
+ms.locfileid: "28317182"
+---
+# <a name="restore-items-in-sharepoint-online"></a>คืนค่ารายการใน SharePoint แบบออนไลน์
+
+เมื่อคุณลบรายการใน SharePoint แบบออนไลน์ กำลังถูกเก็บไว้ทั้งหมดของวัน 93 ความไซต์ถังรีไซเคิลทั้งหมดเวลา จนกว่าคุณลบข้อมูลนั้น หรือลบรายการออก ในกรณีดังกล่าว สินค้าไปยังไซต์คอลเลกชันถังรีไซเคิล ซึ่งจะยังคงอยู่สำหรับส่วนที่เหลือของวัน 93 เมื่อสิ้นสุดรอบเวลา รายการถูกลบอย่างถาวร เมื่อต้องการเรียกคืน รายการที่ถูกลบจากไซต์ถังรีไซเคิล:
+  
+1. ไปไซต์ และคลิก**ถังรีไซเคิล**ในบานหน้าต่างด้านซ้าย 
+    
+    ถ้าคุณไม่เห็น**ถังรีไซเคิล**ในบานหน้าต่างด้านซ้าย คลิกไอคอนการตั้งค่าในมุมขวาด้านบน แล้ว คลิ ก**เนื้อหาไซต์** ถังรีไซเคิลที่อยู่ทางขวาสุดของแถบคำสั่งที่อยู่ด้านบน
+    
+2. บนหน้า**ถังรีไซเคิล**เลือกรายการคุณต้องการคืนค่า ด้วยการชี้การคลิกไอคอนเครื่องหมายที่ปรากฏ 
+    
+3. คลิก'**คืนค่า**'
+    
+[กู้คืนรายการที่ถูกลบจากไซต์คอลเลกชันถังรีไซเคิล](https://go.microsoft.com/fwlink/?linkid=866439)
+  
+
