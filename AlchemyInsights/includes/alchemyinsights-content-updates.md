@@ -1,3 +1,11 @@
+---
+ms.openlocfilehash: 06c6f31405751acbe0477456685be44a43a37460
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.translationtype: MT
+ms.contentlocale: th-TH
+ms.lasthandoff: 01/22/2019
+ms.locfileid: "29383513"
+---
 <!-- This file is generated automatically each week. Changes made to this file will be overwritten.-->
 
 
@@ -624,3 +632,14 @@
 | 1/11/2019 | [การลบผู้ใช้](/AlchemyInsights/deleting-users) | การปรับเปลี่ยน |
 | 1/11/2019 | [การจัดวางอย่างราบเดียวเข้าสู่ระบบ](/AlchemyInsights/deploy-seamless-single-sign-on) | การปรับเปลี่ยน |
 | 1/11/2019 | [ปิดใช้งานการเข้าถึงไปยัง Yammer](/AlchemyInsights/disable-access-to-yammer) | การปรับเปลี่ยน |
+
+
+## <a name="week-of-january-14-2019"></a>สัปดาห์ของเดือน 14 มกราคม 2019
+
+
+| เผยแพร่บน |ชื่อเรื่องหัวข้อ | การเปลี่ยนแปลง |
+|------|------------|--------|
+| 1/14/2019 | ตัวยึดตำแหน่ง alchemy | ถูกเอาออก |
+| 1/14/2019 | เพิ่มโดเมน alchemy | ถูกเอาออก |
+| 1/14/2019 | [โฮมเพความเข้าใจ alchemy](/AlchemyInsights/index) | การปรับเปลี่ยน |
+| 1/17/2019 | [เป็นการดีที่สุดคือชื่อแฟ้มเดียวกัน [กฎ #-อธิบาย]](/AlchemyInsights/1-alchemy-insight-template) | เพิ่ม |
