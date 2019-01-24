@@ -12,11 +12,11 @@ ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: c8f2a1a1-9704-4d08-ba60-d836b9a5f981
 ms.openlocfilehash: 14c7b17a710137e156d6f8ac31d67701c9a86ac2
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28316972"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29493988"
 ---
 # <a name="how-do-i-change-from-credit-card-payments-to-invoice"></a>ฉันเปลี่ยนจากการชำระเงินบัตรเครดิตการออกอินวอยซ์
 

@@ -12,11 +12,11 @@ ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: 94b46e45-0a79-4dc3-9c2b-94fb021a7f4a
 ms.openlocfilehash: cd0647aabfd8e3783b1320ced1c2244098eb0257
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28317101"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29494003"
 ---
 # <a name="copy-items-in-a-sharepoint-document-library"></a>คัดลอกรายการในไลบรารีเอกสาร SharePoint
 
@@ -35,6 +35,6 @@ ms.locfileid: "28317101"
 3. คลิก**คัดลอกที่นี่**
     
 > [!NOTE]
->  คุณสามารถคัดลอกได้ถึง 500 เมกะไบต์ของแฟ้มและโฟลเดอร์ในครั้งเดียว > เมื่อคุณใช้การ**คัดลอกไป**กับเอกสารที่มีประวัติรุ่น เฉพาะรุ่นล่าสุดจะถูกคัดลอก 
+>  คุณสามารถคัดลอกได้ถึง 500 เมกะไบต์ของแฟ้มและโฟลเดอร์ในครั้งเดียว > เมื่อคุณใช้**การคัดลอกไป**กับเอกสารที่มีประวัติรุ่น รุ่นล่าสุดเท่านั้นที่จะถูกคัดลอก 
   
 
