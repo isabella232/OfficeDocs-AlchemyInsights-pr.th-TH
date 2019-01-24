@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 06c6f31405751acbe0477456685be44a43a37460
+ms.openlocfilehash: 213940d30877da1794b78f1d86bd2fa251bf4121
 ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 01/22/2019
-ms.locfileid: "29383513"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29454449"
 ---
 <!-- This file is generated automatically each week. Changes made to this file will be overwritten.-->
 
@@ -14,7 +14,7 @@ ms.locfileid: "29383513"
 ## <a name="week-of-january-07-2019"></a>สัปดาห์ของเดือนเดียวมกราคม 2019
 
 
-| เผยแพร่บน |ชื่อเรื่องหัวข้อ | การเปลี่ยนแปลง |
+| เผยแพร่บน |ชื่อเรื่องหัวข้อ | เปลี่ยน |
 |------|------------|--------|
 | 1/7/2019 | [เปลี่ยนรหัสผ่านของคุณ](/AlchemyInsights/change-your-password-in-outlook.com) | เพิ่ม |
 | 1/7/2019 | [เปลี่ยนแปลงสิทธิ์ในกล่องจดหมาย](/AlchemyInsights/changing-permissions-on-a-mailbox) | เพิ่ม |
@@ -302,7 +302,7 @@ ms.locfileid: "29383513"
 | วันที่ 10/1/2019 | [การสร้างไซต์สื่อสาร](/AlchemyInsights/create-a-communication-site) | เพิ่ม |
 | วันที่ 10/1/2019 | [สร้างกระแส](/AlchemyInsights/create-a-flow) | เพิ่ม |
 | วันที่ 10/1/2019 | [การสร้างไซต์ทีมสมัยใหม่](/AlchemyInsights/create-a-modern-team-site) | เพิ่ม |
-| วันที่ 10/1/2019 | [สร้างกล่องจดหมายที่ใช้ร่วมกัน](/AlchemyInsights/create-a-shared-mailbox) | เพิ่ม |
+| วันที่ 10/1/2019 | สร้างกล่องจดหมายที่แชร์ | เพิ่ม |
 | วันที่ 10/1/2019 | [การสร้างไซต์ SharePoint](/AlchemyInsights/create-a-sharepoint-site) | เพิ่ม |
 | วันที่ 10/1/2019 | [สร้างไซต์ใน SharePoint แบบออนไลน์](/AlchemyInsights/create-a-site-in-sharepoint-online) | เพิ่ม |
 | วันที่ 10/1/2019 | [สร้าง และใช้กล่องจดหมายที่ใช้ร่วมกัน](/AlchemyInsights/create-and-use-a-shared-mailbox-0) | เพิ่ม |
@@ -599,7 +599,7 @@ ms.locfileid: "29383513"
 | 1/11/2019 | [การสร้างไซต์สื่อสาร](/AlchemyInsights/create-a-communication-site) | การปรับเปลี่ยน |
 | 1/11/2019 | [สร้างกระแส](/AlchemyInsights/create-a-flow) | การปรับเปลี่ยน |
 | 1/11/2019 | [การสร้างไซต์ทีมสมัยใหม่](/AlchemyInsights/create-a-modern-team-site) | การปรับเปลี่ยน |
-| 1/11/2019 | [สร้างกล่องจดหมายที่ใช้ร่วมกัน](/AlchemyInsights/create-a-shared-mailbox) | การปรับเปลี่ยน |
+| 1/11/2019 | สร้างกล่องจดหมายที่แชร์ | การปรับเปลี่ยน |
 | 1/11/2019 | [การสร้างไซต์ SharePoint](/AlchemyInsights/create-a-sharepoint-site) | การปรับเปลี่ยน |
 | 1/11/2019 | [สร้างไซต์ใน SharePoint แบบออนไลน์](/AlchemyInsights/create-a-site-in-sharepoint-online) | การปรับเปลี่ยน |
 | 1/11/2019 | [สร้าง และใช้กล่องจดหมายที่ใช้ร่วมกัน](/AlchemyInsights/create-and-use-a-shared-mailbox-0) | การปรับเปลี่ยน |
@@ -637,7 +637,7 @@ ms.locfileid: "29383513"
 ## <a name="week-of-january-14-2019"></a>สัปดาห์ของเดือน 14 มกราคม 2019
 
 
-| เผยแพร่บน |ชื่อเรื่องหัวข้อ | การเปลี่ยนแปลง |
+| เผยแพร่บน |ชื่อเรื่องหัวข้อ | เปลี่ยน |
 |------|------------|--------|
 | 1/14/2019 | ตัวยึดตำแหน่ง alchemy | ถูกเอาออก |
 | 1/14/2019 | เพิ่มโดเมน alchemy | ถูกเอาออก |
