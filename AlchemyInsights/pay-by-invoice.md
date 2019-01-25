@@ -12,11 +12,11 @@ ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: 3e687777-13bf-467e-9746-a1f35571178f
 ms.openlocfilehash: 12fe685feddf2e0698a1917200e8d1084501f8a8
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28317085"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29493828"
 ---
 # <a name="pay-by-invoice"></a>ชำระเงินตามใบแจ้งหนี้
 

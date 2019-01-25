@@ -12,13 +12,13 @@ ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: d2329ee5-86b7-4803-990e-f4222120faf2
 ms.openlocfilehash: e53827376daabae49acde8261ae09a5dd3f439a5
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28316917"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29493852"
 ---
-# <a name="create-a-shared-mailbox"></a>สร้างกล่องจดหมายที่ใช้ร่วมกัน
+# <a name="create-a-shared-mailbox"></a>สร้างกล่องจดหมายที่แชร์
 
 กล่องจดหมายที่ใช้ร่วมกันช่วยให้ส่ง และรับอีเมลสำหรับแฝง เช่น sales@contoso.com โดยไม่มอบหมายสิทธิ์การใช้งานอื่นมากกว่าหนึ่งคน เมื่อต้องการสร้างกล่องจดหมายที่ใช้ร่วมกัน ไปที่การ[แนะนำทางอีเมลที่ใช้ร่วมกัน](https://portal.office.com/adminportal/home)
   
