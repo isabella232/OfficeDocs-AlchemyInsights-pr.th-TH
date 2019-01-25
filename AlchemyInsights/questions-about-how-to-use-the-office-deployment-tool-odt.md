@@ -10,11 +10,11 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: 3e88e0f3-c86d-4ab8-b076-59d0552318f9
 ms.openlocfilehash: c16b7ac7d79794307fa33ed1039305ed5b842cf6
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28315996"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29493663"
 ---
 # <a name="questions-about-how-to-use-the-office-deployment-tool-odt"></a>คำถามเกี่ยวกับวิธีการใช้เครื่องมือการปรับใช้ Office (ODT)
 
