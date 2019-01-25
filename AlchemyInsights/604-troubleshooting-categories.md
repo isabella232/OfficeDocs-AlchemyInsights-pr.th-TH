@@ -12,14 +12,14 @@ ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: dc8c3acf-fe72-4b92-8cdc-6a635502eeb1
 ms.openlocfilehash: 836ace5e633f94b90eb7d104ea1d54a0b5d12dbb
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28316500"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29493829"
 ---
-# <a name="troubleshoot-issues-with-outlook-categories"></a><span data-ttu-id="526d4-102">แก้ไขปัญหาเกี่ยวกับประเภทของ Outlook</span><span class="sxs-lookup"><span data-stu-id="526d4-102">Troubleshoot issues with Outlook categories</span></span>
+# <a name="troubleshoot-issues-with-outlook-categories"></a><span data-ttu-id="596d5-102">แก้ไขปัญหาเกี่ยวกับประเภทของ Outlook</span><span class="sxs-lookup"><span data-stu-id="596d5-102">Troubleshoot issues with Outlook categories</span></span>
 
-<span data-ttu-id="526d4-103">สำหรับข้อมูลเพิ่มเติม ให้ดู[สร้างและกำหนดประเภทของสี](https://support.office.com/article/A1FDE97E-15E1-4179-A1A0-8A91EF89B8DC)</span><span class="sxs-lookup"><span data-stu-id="526d4-103">For more information, see [Create and assign color categories](https://support.office.com/article/A1FDE97E-15E1-4179-A1A0-8A91EF89B8DC).</span></span>
+<span data-ttu-id="596d5-103">สำหรับข้อมูลเพิ่มเติม ให้ดู[สร้างและกำหนดประเภทของสี](https://support.office.com/article/A1FDE97E-15E1-4179-A1A0-8A91EF89B8DC)</span><span class="sxs-lookup"><span data-stu-id="596d5-103">For more information, see [Create and assign color categories](https://support.office.com/article/A1FDE97E-15E1-4179-A1A0-8A91EF89B8DC).</span></span>
   
 
