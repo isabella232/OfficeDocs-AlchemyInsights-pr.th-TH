@@ -10,11 +10,11 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: 352a02d7-1368-4e3f-a8cf-bac207e414b0
 ms.openlocfilehash: 2130f3fffccdc71e2777991d34ed39402142c23c
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28317162"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29493891"
 ---
  **ตัวเลือกการชำระเงิน**
   
@@ -32,7 +32,7 @@ ms.locfileid: "28317162"
   
 ถ้าคุณชำระเงินตามใบแจ้งหนี้สำหรับการบอกรับเป็นสมาชิกของคุณ คุณจะได้รับอีเมลที่บอกว่า คำสั่งเรียกเก็บเงินของคุณนั้นพร้อมที่จะดู อีเมลนี้ไม่ประกอบด้วยสำเนาของคำสั่งที่เรียกเก็บเงินของคุณ อย่างไรก็ตาม คุณสามารถเลือกจะ[ได้รับสำเนาของคำสั่งที่เรียกเก็บเงินของคุณในอีเมล](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/pay-for-your-subscription?view=o365-worldwide#receive-a-copy-of-your-billing-statement-in-email) คำสั่งที่เรียกเก็บเงินของคุณรวมถึงรายละเอียดเกี่ยวกับตัวเลือกของคุณสำหรับการชำระเงิน ถ้าคุณป้อนหมายเลขใบสั่ง (PO) ซื้อเมื่อคุณซื้อการสมัครใช้งาน หมายเลขปรากฏบนใบแจ้งยอดที่เรียกเก็บเงินของคุณ สำหรับข้อมูลเกี่ยวกับการเข้าถึงใบแจ้งหนี้ ดู[มุมมองที่เรียกเก็บเงินหรือใบแจ้งหนี้ของคุณ](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/view-your-bill-or-invoice?view=o365-worldwide)
   
- **เปลี่ยนวิธีจ่ายของคุณ**
+ เปลี่ยนวิธีการชำระเงิน
   
 ถ้าคุณต้องการเปลี่ยนวิธีที่คุณจ่ายเงินสำหรับการสมัครใช้งานปัจจุบัน ให้ทำตามคำแนะนำ[ที่นี่](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/change-payment-method?view=o365-worldwide)
   

@@ -12,11 +12,11 @@ ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: 8b0e6b9b-67c9-4716-8602-ebb58b364ef9
 ms.openlocfilehash: e063892e3ba6e161e6b9f8e5ef4f02ad0b2084a4
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28316653"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29493963"
 ---
 # <a name="manage-your-sharepoint-or-onedrive-storage"></a>จัดเก็บข้อมูลของ SharePoint หรือ OneDrive
 
@@ -28,7 +28,7 @@ ms.locfileid: "28316653"
     
 สำหรับข้อมูลเกี่ยวกับวิธีคำนวณวงเงินของคุณ ดู[วงเงินออนไลน์ของ SharePoint](https://go.microsoft.com/fwlink/p/?LinkID=856113) เมื่อต้องการซื้อเก็บข้อมูลมากขึ้น ดู[พื้นที่การจัดเก็บการเปลี่ยนแปลงสำหรับการสมัครใช้งาน](https://go.microsoft.com/fwlink/?linkid=866428)
   
- **OneDrive**
+ OneDrive
   
 เมื่อต้องการเปลี่ยนเก็บข้อมูลเริ่มต้นสำหรับผู้ใช้ OneDrive ที่มีอยู่ และใหม่:
   
