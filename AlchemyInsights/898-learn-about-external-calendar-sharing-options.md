@@ -10,14 +10,14 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: 70bff353-d2e9-47ee-bccc-d59758efe8eb
 ms.openlocfilehash: 055fd0028350b4755aea746f1a1a413d5898bede
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28317233"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29493612"
 ---
-# <a name="learn-about-external-calendar-sharing-options"></a><span data-ttu-id="83e68-102">เรียนรู้เกี่ยวกับปฏิทินภายนอกที่ใช้งานร่วมกันของตัวเลือก</span><span class="sxs-lookup"><span data-stu-id="83e68-102">Learn about external calendar sharing options</span></span>
+# <a name="learn-about-external-calendar-sharing-options"></a><span data-ttu-id="3dd59-102">เรียนรู้เกี่ยวกับปฏิทินภายนอกที่ใช้งานร่วมกันของตัวเลือก</span><span class="sxs-lookup"><span data-stu-id="3dd59-102">Learn about external calendar sharing options</span></span>
 
-<span data-ttu-id="83e68-103">ดู[ปฏิทินที่ใช้ร่วมกันกับผู้ใช้ภายนอก](https://support.office.com/article/fb00dd4e-2d5f-4e8d-8ff4-94b2cf002bdd.aspx)</span><span class="sxs-lookup"><span data-stu-id="83e68-103">See [Share calendars with external users](https://support.office.com/article/fb00dd4e-2d5f-4e8d-8ff4-94b2cf002bdd.aspx).</span></span>
+<span data-ttu-id="3dd59-103">ดู[ปฏิทินที่ใช้ร่วมกันกับผู้ใช้ภายนอก](https://support.office.com/article/fb00dd4e-2d5f-4e8d-8ff4-94b2cf002bdd.aspx)</span><span class="sxs-lookup"><span data-stu-id="3dd59-103">See [Share calendars with external users](https://support.office.com/article/fb00dd4e-2d5f-4e8d-8ff4-94b2cf002bdd.aspx).</span></span>
   
 
