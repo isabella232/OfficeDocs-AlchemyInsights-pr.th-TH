@@ -12,11 +12,11 @@ ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: ace29990-1bf3-4378-833d-22e418f0fba7
 ms.openlocfilehash: a041d21bcbc77b8069178dc74e92d07df312af7a
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28316418"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29493049"
 ---
 # <a name="upload-files-to-onedrive-or-sharepoint"></a>อัปโหลดแฟ้ม OneDrive หรือ SharePoint
 
@@ -27,6 +27,6 @@ ms.locfileid: "28316418"
 3. แฟ้มเลือก และลากไปยังตำแหน่งใน OneDrive หรือ SharePoint หมายเหตุ: ถ้าคุณใช้ Microsoft ขอบ Mozilla FireFox หรือ Google โครเมียม คุณสามารถจะอัปโหลดโฟลเดอร์และแฟ้มทั้งหมดที่อยู่ในนั้น
     
 > [!NOTE]
->  คุณสามารถอัปโหลดแฟ้มขนาดได้ถึง 15 GB ได้ > เส้นทางแบบเต็มของแฟ้ม (รวมถึงชื่อแฟ้ม) ต้องไม่มากกว่า 400 อักขระความยาว > หากคุณต้องการอัปโหลดแฟ้มมากกว่า 100[ใช้ไคลเอ็นต์การซิงค์ OneDrive](https://go.microsoft.com/fwlink/?linkid=866427) 
+>  คุณสามารถอัปโหลดแฟ้มขนาดได้ถึง 15 GB ได้ > เส้นทางแบบเต็มของแฟ้ม (รวมถึงชื่อแฟ้ม) ต้องไม่มากกว่า 400 อักขระความยาว > ถ้าคุณต้องการอัปโหลดแฟ้มมากกว่า 100[ใช้ไคลเอ็นต์การซิงค์ OneDrive](https://go.microsoft.com/fwlink/?linkid=866427) 
   
 
