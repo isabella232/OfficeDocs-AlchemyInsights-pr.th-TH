@@ -12,11 +12,11 @@ ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: 5ad2f1f2-9650-4eb0-b4fa-2f52a09f535a
 ms.openlocfilehash: dba20a24df6e70d51fd06d929373dd3c0b2b6d92
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28316516"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29493007"
 ---
 # <a name="sync-sharepoint-files-with-the-new-onedrive-sync-client"></a>ซิงค์แฟ้ม SharePoint ด้วยไคลเอ็นต์การซิงค์ OneDrive ใหม่
 
@@ -29,7 +29,7 @@ ms.locfileid: "28316516"
     > [!NOTE]
     > ถ้าตัวเลือกนี้ไม่ปรากฏ องค์กรของคุณไว้เพื่อใช้ไคลเอนต์ซิงค์ OneDrive ใหม่เพื่อซิงค์แฟ้ม SharePoint 
   
-4. คลิก**ตกลง**
+4. คลิก ตกลง
     
 สำหรับข้อมูลเพิ่มเติม ดู[ให้ผู้ใช้สามารถซิงค์แฟ้ม SharePoint ด้วยไคลเอ็นต์การซิงค์ OneDrive ใหม่](https://go.microsoft.com/fwlink/?linkid=866433) สำหรับคำแนะนำเพื่อให้ผู้ใช้ของคุณ ดู[SharePoint ซิงค์แฟ้มกับไคลเอนต์ซิงค์ OneDrive ใหม่](https://go.microsoft.com/fwlink/?linkid=866427)
   

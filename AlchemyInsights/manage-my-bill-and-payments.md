@@ -12,11 +12,11 @@ ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: fee67567-01bd-4375-b97c-4b9e0dab2eb1
 ms.openlocfilehash: 235ca5612db09cdce46a098988f2133b1f0e277e
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28316697"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29493052"
 ---
 # <a name="manage-my-bill-and-payments"></a>จัดการการเรียกเก็บเงินและการชำระเงินของฉัน
 

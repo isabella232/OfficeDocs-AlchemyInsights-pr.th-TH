@@ -11,11 +11,11 @@ localization_priority: Priority
 ms.assetid: a4a66aa8-b9c5-488b-9da1-8290e700fcc5
 description: เริ่มบทความของคุณ ด้วยการแนะนำแบบสั้นมาก (1 ประโยค) ทำให้ตัวคุณเองในสถานที่ของผู้อ่าน - เหตุใดพวกเขาที่นี่หรือไม่ พวกเขาควรทำอะไรได้บ้าง
 ms.openlocfilehash: 07b0d97e3181e758677007380c4d4d6006e4f995
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28316343"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29493380"
 ---
 เริ่มบทความของคุณ ด้วยการแนะนำแบบสั้นมาก (1 ประโยค) ทำให้ตัวคุณเองในสถานที่ของผู้อ่าน - เหตุใดพวกเขาที่นี่หรือไม่ พวกเขาควรทำอะไรได้บ้าง 
   

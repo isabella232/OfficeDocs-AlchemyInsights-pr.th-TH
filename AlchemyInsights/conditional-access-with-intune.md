@@ -9,11 +9,11 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: aecba7c5-e86d-4ec8-9d44-679f5a3d659d
 ms.openlocfilehash: 59f1aefaeec3d655b2388b00e7d58a8c2338504b
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28316098"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29493836"
 ---
 # <a name="conditional-access-with-intune"></a>การเข้าถึงแบบมีเงื่อนไขกับ Intune
 
@@ -25,7 +25,7 @@ ms.locfileid: "28316098"
     
 - แน่ใจว่า ทั้ง**นโยบายการปฏิบัติตามกฎระเบียบ**และ**นโยบายการเข้าถึงแบบมีเงื่อนไข**จะมุ่งเป้าไปยังกลุ่มที่ต้องการของผู้ใช้ ซึ่งอาจจำเป็นต้องสร้างกลุ่มเฉพาะของผู้ใช้ในไดเรกทอรีที่ใช้งานอยู่ของ Azure 
     
-อ่านเพิ่มเติม:
+อ่านเพิ่มเติม
   
 - [วิธีปฏิบัติที่ดีที่สุดเข้าแบบมีเงื่อนไข](https://docs.microsoft.com/en-us/azure/active-directory/conditional-access/best-practices)
     
