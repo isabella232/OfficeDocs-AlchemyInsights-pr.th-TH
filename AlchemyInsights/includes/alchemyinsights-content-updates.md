@@ -1,11 +1,3 @@
----
-ms.openlocfilehash: 213940d30877da1794b78f1d86bd2fa251bf4121
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
-ms.translationtype: MT
-ms.contentlocale: th-TH
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29454449"
----
 <!-- This file is generated automatically each week. Changes made to this file will be overwritten.-->
 
 
@@ -14,7 +6,7 @@ ms.locfileid: "29454449"
 ## <a name="week-of-january-07-2019"></a>สัปดาห์ของเดือนเดียวมกราคม 2019
 
 
-| เผยแพร่บน |ชื่อเรื่องหัวข้อ | เปลี่ยน |
+| เผยแพร่บน |ชื่อเรื่องหัวข้อ | การเปลี่ยนแปลง |
 |------|------------|--------|
 | 1/7/2019 | [เปลี่ยนรหัสผ่านของคุณ](/AlchemyInsights/change-your-password-in-outlook.com) | เพิ่ม |
 | 1/7/2019 | [เปลี่ยนแปลงสิทธิ์ในกล่องจดหมาย](/AlchemyInsights/changing-permissions-on-a-mailbox) | เพิ่ม |
@@ -302,7 +294,7 @@ ms.locfileid: "29454449"
 | วันที่ 10/1/2019 | [การสร้างไซต์สื่อสาร](/AlchemyInsights/create-a-communication-site) | เพิ่ม |
 | วันที่ 10/1/2019 | [สร้างกระแส](/AlchemyInsights/create-a-flow) | เพิ่ม |
 | วันที่ 10/1/2019 | [การสร้างไซต์ทีมสมัยใหม่](/AlchemyInsights/create-a-modern-team-site) | เพิ่ม |
-| วันที่ 10/1/2019 | สร้างกล่องจดหมายที่แชร์ | เพิ่ม |
+| วันที่ 10/1/2019 | [สร้างกล่องจดหมายที่ใช้ร่วมกัน](/AlchemyInsights/create-a-shared-mailbox) | เพิ่ม |
 | วันที่ 10/1/2019 | [การสร้างไซต์ SharePoint](/AlchemyInsights/create-a-sharepoint-site) | เพิ่ม |
 | วันที่ 10/1/2019 | [สร้างไซต์ใน SharePoint แบบออนไลน์](/AlchemyInsights/create-a-site-in-sharepoint-online) | เพิ่ม |
 | วันที่ 10/1/2019 | [สร้าง และใช้กล่องจดหมายที่ใช้ร่วมกัน](/AlchemyInsights/create-and-use-a-shared-mailbox-0) | เพิ่ม |
@@ -599,7 +591,7 @@ ms.locfileid: "29454449"
 | 1/11/2019 | [การสร้างไซต์สื่อสาร](/AlchemyInsights/create-a-communication-site) | การปรับเปลี่ยน |
 | 1/11/2019 | [สร้างกระแส](/AlchemyInsights/create-a-flow) | การปรับเปลี่ยน |
 | 1/11/2019 | [การสร้างไซต์ทีมสมัยใหม่](/AlchemyInsights/create-a-modern-team-site) | การปรับเปลี่ยน |
-| 1/11/2019 | สร้างกล่องจดหมายที่แชร์ | การปรับเปลี่ยน |
+| 1/11/2019 | [สร้างกล่องจดหมายที่ใช้ร่วมกัน](/AlchemyInsights/create-a-shared-mailbox) | การปรับเปลี่ยน |
 | 1/11/2019 | [การสร้างไซต์ SharePoint](/AlchemyInsights/create-a-sharepoint-site) | การปรับเปลี่ยน |
 | 1/11/2019 | [สร้างไซต์ใน SharePoint แบบออนไลน์](/AlchemyInsights/create-a-site-in-sharepoint-online) | การปรับเปลี่ยน |
 | 1/11/2019 | [สร้าง และใช้กล่องจดหมายที่ใช้ร่วมกัน](/AlchemyInsights/create-and-use-a-shared-mailbox-0) | การปรับเปลี่ยน |
@@ -637,9 +629,25 @@ ms.locfileid: "29454449"
 ## <a name="week-of-january-14-2019"></a>สัปดาห์ของเดือน 14 มกราคม 2019
 
 
-| เผยแพร่บน |ชื่อเรื่องหัวข้อ | เปลี่ยน |
+| เผยแพร่บน |ชื่อเรื่องหัวข้อ | การเปลี่ยนแปลง |
 |------|------------|--------|
 | 1/14/2019 | ตัวยึดตำแหน่ง alchemy | ถูกเอาออก |
 | 1/14/2019 | เพิ่มโดเมน alchemy | ถูกเอาออก |
 | 1/14/2019 | [โฮมเพความเข้าใจ alchemy](/AlchemyInsights/index) | การปรับเปลี่ยน |
 | 1/17/2019 | [เป็นการดีที่สุดคือชื่อแฟ้มเดียวกัน [กฎ #-อธิบาย]](/AlchemyInsights/1-alchemy-insight-template) | เพิ่ม |
+
+
+## <a name="week-of-january-21-2019"></a>สัปดาห์ของเดือน 21 มกราคม 2019
+
+
+| เผยแพร่บน |ชื่อเรื่องหัวข้อ | การเปลี่ยนแปลง |
+|------|------------|--------|
+| 1/22/2019 | [1047 antiSpam 550 5.7.708 บริการไม่พร้อมใช้งาน เข้าถึงถูกปฏิเสธ ปริมาณการใช้งานที่ไม่มีการยอมรับจาก IP นี้](/AlchemyInsights/1047-antispam-550-5-7-708-service-unavailable-access-denied-traffic-not-accepted) | การปรับเปลี่ยน |
+| 1/22/2019 | [1049 antiSpam 4.5.3 แนะหลายผู้รับ (AS780090)](/AlchemyInsights/1049-antispam-4-5-3-too-many-recipients-as780090) | การปรับเปลี่ยน |
+| 1/22/2019 | [1050 antispam 4.7.500 เซิร์ฟเวอร์ว่าง กรุณาลองอีกครั้งภายหลังจาก [XXX.XXX.XXX.XXX]](/AlchemyInsights/1050-antispam-4-7-500-server-busy-please-try-again-later-from-xxx-xxx-xxx-xxx) | การปรับเปลี่ยน |
+| 1/22/2019 | [Antispam 1051 4.7.500 ในการเข้าถึงถูกปฏิเสธ โปรดลองอีกครั้งในภายหลัง](/AlchemyInsights/1051-antispam-4-7-500-access-denied-please-try-again-later) | การปรับเปลี่ยน |
+| 1/22/2019 | [อีเมลที่ส่งทอดผ่านทาง Office 365](/AlchemyInsights/relay-email-through-office-365) | การปรับเปลี่ยน |
+| 1/24/2019 | [การสร้างกลุ่มตัวควบคุม](/AlchemyInsights/control-creation-of-groups) | การปรับเปลี่ยน |
+| 1/24/2019 | [การตัดสินค้าจากคลัง outlook กับ Exchange 2007](/AlchemyInsights/outlook-issues-with-exchange-2007) | เพิ่ม |
+| 1/24/2019 | [คืนค่ากลุ่ม 365 Office การใช้ศูนย์ดูแล Exchange](/AlchemyInsights/restore-an-office-365-group-using-eac%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B) | เปลี่ยนชื่อ |
+| 1/24/2019 | [แก้ไขปัญหาเกี่ยวกับ Microsoft Intune](/AlchemyInsights/troubleshoot-issues-with-microsoft-intune) | เปลี่ยนชื่อ |
