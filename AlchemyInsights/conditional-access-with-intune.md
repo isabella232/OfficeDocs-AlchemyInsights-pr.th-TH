@@ -8,12 +8,12 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: aecba7c5-e86d-4ec8-9d44-679f5a3d659d
-ms.openlocfilehash: 59f1aefaeec3d655b2388b00e7d58a8c2338504b
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: 3b50bc96a879017b62e42e1849f72e68408a0d9d
+ms.sourcegitcommit: 0ae6cbb8cf2836da98300767ed81b411d6551bee
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29493836"
+ms.lasthandoff: 01/30/2019
+ms.locfileid: "29662346"
 ---
 # <a name="conditional-access-with-intune"></a>การเข้าถึงแบบมีเงื่อนไขกับ Intune
 
@@ -25,10 +25,10 @@ ms.locfileid: "29493836"
     
 - แน่ใจว่า ทั้ง**นโยบายการปฏิบัติตามกฎระเบียบ**และ**นโยบายการเข้าถึงแบบมีเงื่อนไข**จะมุ่งเป้าไปยังกลุ่มที่ต้องการของผู้ใช้ ซึ่งอาจจำเป็นต้องสร้างกลุ่มเฉพาะของผู้ใช้ในไดเรกทอรีที่ใช้งานอยู่ของ Azure 
     
-อ่านเพิ่มเติม
+อ่านเพิ่มเติม:
   
-- [วิธีปฏิบัติที่ดีที่สุดเข้าแบบมีเงื่อนไข](https://docs.microsoft.com/en-us/azure/active-directory/conditional-access/best-practices)
+- [วิธีปฏิบัติที่ดีที่สุดเข้าแบบมีเงื่อนไข](https://docs.microsoft.com/azure/active-directory/conditional-access/best-practices)
     
-- [เริ่มต้น ด้วยการเข้าถึงแบบมีเงื่อนไข](https://docs.microsoft.com/en-us/azure/active-directory/active-directory-conditional-access-azure-portal-get-started)
+- [เริ่มต้น ด้วยการเข้าถึงแบบมีเงื่อนไข](https://docs.microsoft.com/azure/active-directory/active-directory-conditional-access-azure-portal-get-started)
     
 

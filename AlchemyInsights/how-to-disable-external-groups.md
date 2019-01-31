@@ -8,12 +8,12 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: 4e429507-039b-410e-a994-54b443d4e91e
-ms.openlocfilehash: 4807dbfbabcea1f13785bd39bb48e4bbaa8d0f0f
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: 09d8b134a4e99912301aa92c2e989fec9dd30a7b
+ms.sourcegitcommit: 0ae6cbb8cf2836da98300767ed81b411d6551bee
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29493854"
+ms.lasthandoff: 01/30/2019
+ms.locfileid: "29656406"
 ---
 # <a name="how-to-disable-external-groups"></a>วิธีการปิดการใช้งานของกลุ่มภายนอก
 
@@ -27,6 +27,6 @@ Yammer ส่งข้อความภายนอกใช้ขนส่ง�
     
 - เลือก**บันทึก** 
     
-สำหรับข้อมูลเพิ่มเติม ให้ดูที่[ควบคุมการส่งข้อความในเครือข่าย Yammer มีกฎการแลกเปลี่ยนการขนส่งภายนอก](https://support.office.com/en-us/article/Control-external-messaging-in-a-Yammer-network-with-Exchange-Transport-Rules-f8fd6403-c8f3-4307-9230-65304d6000d9)
+สำหรับข้อมูลเพิ่มเติม ให้ดูที่[ควบคุมการส่งข้อความในเครือข่าย Yammer มีกฎการแลกเปลี่ยนการขนส่งภายนอก](https://support.office.com/article/Control-external-messaging-in-a-Yammer-network-with-Exchange-Transport-Rules-f8fd6403-c8f3-4307-9230-65304d6000d9)
   
 

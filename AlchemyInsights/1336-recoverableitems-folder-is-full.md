@@ -9,12 +9,12 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: a3a923e8-fece-4a26-b8b6-00970d75275e
-ms.openlocfilehash: ee96abfa179c36ebaf43dbd327d4608b849395d3
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: b8b3e5389778b3aff0fbe2f6506ba2b2fc3abc7e
+ms.sourcegitcommit: 0ae6cbb8cf2836da98300767ed81b411d6551bee
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29493460"
+ms.lasthandoff: 01/30/2019
+ms.locfileid: "29655686"
 ---
 # <a name="the-recoverable-items-folder-is-full"></a>โฟลเดอร์รายการที่ได้รับคืนที่จะเต็ม
 
@@ -36,7 +36,7 @@ ms.locfileid: "29493460"
     
 - [ค้นหาจดหมาย](https://docs.microsoft.com/powershell/module/exchange/mailboxes/Search-Mailbox)
     
-สำหรับกล่องจดหมายที่คงค้าง มี admins เพื่อลบการระงับก่อนที่จะสามารถมีรายการที่ถูกลบจากโฟลเดอร์รายการที่กู้คืน ดูข้อมูลเพิ่มเติม[ลบรายการในชุดรายการได้รับคืนที่โฟลเดอร์ของกล่องจดหมายที่ใช้ cloud บนค้างไว้](https://docs.microsoft.com/en-us/office365/securitycompliance/delete-items-in-the-recoverable-items-folder-of-mailboxes-on-hold)
+สำหรับกล่องจดหมายที่คงค้าง มี admins เพื่อลบการระงับก่อนที่จะสามารถมีรายการที่ถูกลบจากโฟลเดอร์รายการที่กู้คืน ดูข้อมูลเพิ่มเติม[ลบรายการในชุดรายการได้รับคืนที่โฟลเดอร์ของกล่องจดหมายที่ใช้ cloud บนค้างไว้](https://docs.microsoft.com/office365/securitycompliance/delete-items-in-the-recoverable-items-folder-of-mailboxes-on-hold)
   
 เพื่อช่วยป้องกันไม่ให้กลายเป็นทั้งหมดในโฟลเดอร์รายการที่ได้รับคืน admins สามารถเพิ่มขีดจำกัดการเก็บข้อมูลของสินค้าได้รับคืนโฟลเดอร์สำหรับกล่องจดหมายบนค้างไว้ และตั้งค่านโยบายการเก็บข้อมูลกล่องจดหมายที่ย้ายสินค้าจากโฟลเดอร์รายการที่กู้คืนไปที่เก็บถาวรของผู้ใช้ กล่องจดหมาย ดู[เพิ่มโควต้าสำหรับกล่องจดหมายในที่เก็บสินค้าได้รับคืน](https://docs.microsoft.com/office365/securitycompliance/increase-the-recoverable-quota-for-mailboxes-on-hold)
   
