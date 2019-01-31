@@ -11,18 +11,18 @@ localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: 33641df2-fc29-493f-a6c6-2777d8b4ef11
-ms.openlocfilehash: 5068d2ce7c2bb96551d6eeb6f60044bbe741e1cb
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: 4029a07e1108a515b9dac2def814243ae3c76c22
+ms.sourcegitcommit: 0ae6cbb8cf2836da98300767ed81b411d6551bee
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29493014"
+ms.lasthandoff: 01/30/2019
+ms.locfileid: "29661662"
 ---
 # <a name="switch-plans-to-increase-mailbox-size"></a>สวิตช์วางแผนเพื่อเพิ่มขนาดของกล่องจดหมาย
 
 ถ้าขนาดกล่องจดหมายเป็น 100 GB ไม่มีวิธีการเพิ่ม ในกรณีดังกล่าว ทำตาม[คำแนะนำนี้](https://support.office.com/client/e57572ff-0ba7-4782-ba5d-cdac3142ea71) 
   
-ถ้าจดหมายมีขนาด 50 GB คุณสามารถเพิ่มได้ถึง 100 กิกะ โดยสลับไป[E3 องค์กร 365 Office](https://products.office.com/en-us/business/office-365-enterprise-e3-business-software)หรือ[E5 องค์กร 365 Office](https://products.office.com/en-us/business/office-365-enterprise-e5-business-software) ต่อไปนี้เป็นขั้นตอนเพื่อสลับไปยังแผน Office 365 อื่น:
+ถ้าจดหมายมีขนาด 50 GB คุณสามารถเพิ่มได้ถึง 100 กิกะ โดยสลับไป[E3 องค์กร 365 Office](https://products.office.com/business/office-365-enterprise-e3-business-software)หรือ[E5 องค์กร 365 Office](https://products.office.com/business/office-365-enterprise-e5-business-software) ต่อไปนี้เป็นขั้นตอนเพื่อสลับไปยังแผน Office 365 อื่น:
   
 1. ใน Office 365 admin ศูนย์ ไปหน้าการ[บอกรับเป็นสมาชิก](https://go.microsoft.com/fwlink/p/?linkid=842054)หรือเลือก**การเรียกเก็บเงิน** \> **บอกรับเป็นสมาชิก**
     

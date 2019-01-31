@@ -11,12 +11,12 @@ localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: ed852342-e33f-4450-8400-63d30df09476
-ms.openlocfilehash: 5be8a8f9f67939c7e2671855da259818269d9299
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: c95f07b9fb7251442577c014e4005dbe3f92ceb4
+ms.sourcegitcommit: 0ae6cbb8cf2836da98300767ed81b411d6551bee
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29493943"
+ms.lasthandoff: 01/30/2019
+ms.locfileid: "29661770"
 ---
 # <a name="fix-problems-with-open-with-explorer"></a>แก้ปัญหาเกี่ยวกับการเปิดด้วย Explorer
 
@@ -31,6 +31,6 @@ ms.locfileid: "29493943"
 > [!NOTE]
 > เปิดไลบรารีในแฟ้ม Explorer จะสะดวกถ้าคุณต้องการคัดลอก หรือย้ายแฟ้มและโฟลเดอร์หลายทันที แต่ ถ้าคุณต้องการทำงานเป็นประจำในไลบรารี เราขอแนะนำให้ตรงกัน เมื่อต้องการแก้ไขปัญหาที่เปิดในแฟ้ม Explorer ดู[เปิดใน Explorer](https://go.microsoft.com/fwlink/?linkid=871665) สำหรับข้อมูลเกี่ยวกับการตั้งค่าการซิงค์ ดู[SharePoint ซิงค์แฟ้มกับไคลเอนต์ซิงค์ OneDrive ใหม่](https://go.microsoft.com/fwlink/?linkid=871666)
   
-โปรดดูบทความ[วิธีใช้คำสั่ง "เปิดด้วย Explorer " การแก้ไขปัญหาใน SharePoint แบบออนไลน์](https://support.office.com/en-us/article/How-to-use-the-Open-with-Explorer-command-to-troubleshoot-issues-in-SharePoint-Online-87155331-0c92-4224-a4c1-da5c21c4ade4)สำหรับข้อมูลเพิ่มเติม 
+โปรดดูบทความ[วิธีใช้คำสั่ง "เปิดด้วย Explorer " การแก้ไขปัญหาใน SharePoint แบบออนไลน์](https://support.office.com/article/How-to-use-the-Open-with-Explorer-command-to-troubleshoot-issues-in-SharePoint-Online-87155331-0c92-4224-a4c1-da5c21c4ade4)สำหรับข้อมูลเพิ่มเติม 
   
 
