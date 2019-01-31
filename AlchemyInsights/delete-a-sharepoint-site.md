@@ -2,51 +2,30 @@
 title: ลบไซต์ SharePoint
 ms.author: kirks
 author: Techwriter40
-ms.date: 12/3/2018
+ms.date: 1/24/2019
 ms.audience: ITPro
 ms.topic: article
+ms.prod: office-online-server
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: c060815d-1d3f-4a13-81c2-0377bbeda202
-ms.openlocfilehash: a450105487642906754d7a7c0182d788cd1d8240
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: ddedfff905b4f3eb78cdd8b17233d45f864dadd4
+ms.sourcegitcommit: 0ae6cbb8cf2836da98300767ed81b411d6551bee
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29493895"
+ms.lasthandoff: 01/30/2019
+ms.locfileid: "29660035"
 ---
-# <a name="delete-a-sharepoint-site"></a><span data-ttu-id="9538b-102">ลบไซต์ SharePoint</span><span class="sxs-lookup"><span data-stu-id="9538b-102">Delete a SharePoint site</span></span>
-
- <span data-ttu-id="9538b-103">**ลบไซต์ที่อยู่ในกลุ่มที่มี Office 365:**</span><span class="sxs-lookup"><span data-stu-id="9538b-103">**Delete sites that belong to an Office 365 group:**</span></span>
+# <a name="delete-a-sharepoint-site"></a><span data-ttu-id="3364d-102">ลบไซต์ SharePoint</span><span class="sxs-lookup"><span data-stu-id="3364d-102">Delete a SharePoint site</span></span>
+ <span data-ttu-id="3364d-103">**ลบไซต์จากศูนย์ดูแล SharePoint ใหม่**</span><span class="sxs-lookup"><span data-stu-id="3364d-103">**Delete sites from the new SharePoint admin center**</span></span>
   
-<span data-ttu-id="9538b-p101">เมื่อผู้ใช้สร้างไซต์สำหรับทีมใหม่จาก SharePoint บ้าน (หรือคุณสร้างไซต์สำหรับทีมใหม่จากหน้าตัวอย่างศูนย์ดูแล SharePoint ใหม่), กลุ่ม Office 365 ที่สอดคล้องกันถูกสร้างขึ้นโดยอัตโนมัติ Office 365 ทีมที่เกี่ยวข้องกับกลุ่มไซต์ยังถูกสร้างขึ้นเมื่อคุณสร้างกลุ่มที่มี Office 365 หรือกลุ่มคนในทีมงานของ Microsoft เมื่อต้องการลบไซต์ SharePoint ที่เป็นสมาชิกของกลุ่มมี Office 365 คุณจำเป็นต้องลบกลุ่ม Office 365 ตัวเอง</span><span class="sxs-lookup"><span data-stu-id="9538b-p101">When users create a new team site from SharePoint Home (or you create a new team site from the new SharePoint admin center preview), a corresponding Office 365 group is automatically created. Office 365 group-connected team sites are also created when you create an Office 365 group or a team in Microsoft Teams. To delete a SharePoint site that belongs to an Office 365 group, you need to delete the Office 365 group itself.</span></span> 
+<span data-ttu-id="3364d-p101">เมื่อต้องการลบไซต์ที่มีการใช้งาน ไปที่ศูนย์กลางการดูแล SharePoint ปัจจุบัน คลิก "ลองใช้ได้เลย" ในมุมขวาด้านบน เลือก**ไซต์ที่ใช้งานอยู่**เลือกไซต์ จากนั้น**ลบ** เมื่อต้องการ[ดูและคืนค่าลบไซต์ในศูนย์กลางการดูแล SharePoint ใหม่](https://docs.microsoft.com/sharepoint/view-and-restore-deleted-sites-in-new-admin-center)เลือก**ลบไซต์** สำหรับข้อมูลเพิ่มเติม ให้ดู[จัดการไซต์ในศูนย์กลางการดูแล SharePoint ใหม่](https://docs.microsoft.com/sharepoint/manage-sites-in-new-admin-center)</span><span class="sxs-lookup"><span data-stu-id="3364d-p101">To delete an active site, go to the current SharePoint admin center, click "Try it now" in the upper right. Select **Active sites**, select the site, and then select **Delete**. To [view and restore deleted sites in the new SharePoint admin center](https://docs.microsoft.com/sharepoint/view-and-restore-deleted-sites-in-new-admin-center), select **Deleted sites**. For more info, see [Manage sites in the new SharePoint admin center](https://docs.microsoft.com/sharepoint/manage-sites-in-new-admin-center).</span></span>
   
-1. <span data-ttu-id="9538b-107">ไป[หน้ากลุ่มของ Office 365 admin ศูนย์](https://portal.office.com/adminportal/home#/groups)</span><span class="sxs-lookup"><span data-stu-id="9538b-107">Go to the [Groups page of the Office 365 admin center](https://portal.office.com/adminportal/home#/groups).</span></span>
+<span data-ttu-id="3364d-p102">**สำคัญ:** ถ้าไซต์เป็นส่วนหนึ่งของนโยบายการเก็บข้อมูล คุณอาจไม่สามารถลบได้จนกว่าไซต์นั้นจะถูกเอาออกจากการ[ความปลอดภัย&amp;ศูนย์ดูแลการปฏิบัติตามกฎระเบียบ](https://protection.office.com/?rfr=AdminCenter#/homepage)ได้ ดู[ภาพรวมของนโยบายการเก็บข้อมูล](https://docs.microsoft.com/office365/securitycompliance/retention-policies#content-in-onedrive-accounts-and-sharepoint-sites)สำหรับรายละเอียดเพิ่มเติม</span><span class="sxs-lookup"><span data-stu-id="3364d-p102">**Important:** If the site is part of a retention policy, you may not be able to delete it until the site is removed from the [Security &amp; Compliance Admin Center](https://protection.office.com/?rfr=AdminCenter#/homepage). See [Overview of Retention Policies](https://docs.microsoft.com/office365/securitycompliance/retention-policies#content-in-onedrive-accounts-and-sharepoint-sites) for more info.</span></span> 
   
-2. <span data-ttu-id="9538b-108">เลือกกล่องกาเครื่องหมายที่อยู่ถัดจากกลุ่ม</span><span class="sxs-lookup"><span data-stu-id="9538b-108">Select the check box next to the group.</span></span>
-  
-3. <span data-ttu-id="9538b-109">เลือก**ลบ**</span><span class="sxs-lookup"><span data-stu-id="9538b-109">Select **Delete**.</span></span> 
-  
-<span data-ttu-id="9538b-110">หมายเหตุ: เมื่อคุณลบกลุ่ม สามารถมีการหน่วงเวลาก่อนไซต์จะถูกเอาออกจาก SharePoint</span><span class="sxs-lookup"><span data-stu-id="9538b-110">NOTE: When you delete a group, there can be a delay before the site is removed from SharePoint.</span></span>
-  
- <span data-ttu-id="9538b-111">**ลบไซต์การสื่อสารหรือไซต์แบบคลาสสิก:**</span><span class="sxs-lookup"><span data-stu-id="9538b-111">**Delete communication sites or classic sites:**</span></span>
-  
-1. <span data-ttu-id="9538b-112">ไปไซต์</span><span class="sxs-lookup"><span data-stu-id="9538b-112">Go to the site.</span></span>
-  
-2. <span data-ttu-id="9538b-113">คลิก \*\* ค่า \*\* (ไอคอนเกียร์ล้อ) ในมุมขวาด้านบน</span><span class="sxs-lookup"><span data-stu-id="9538b-113">Click the \*\* Settings \*\* (gear wheel icon) in the upper right.</span></span> 
-  
-3. <span data-ttu-id="9538b-p102">คลิก**การตั้งค่าไซต์** ภายใต้**ข้อมูลไซต์**หรือการ**กระทำในไซต์**คลิก**ลบไซต์นี้**และจากนั้น คลิก**ลบ**</span><span class="sxs-lookup"><span data-stu-id="9538b-p102">Click **Site settings**. Under **Site Information** or **Site Actions**, click **Delete this site**, and then click **Delete**.</span></span> 
-  
- <span data-ttu-id="9538b-116">**ลบไซต์คอลเลกชัน SharePoint:**</span><span class="sxs-lookup"><span data-stu-id="9538b-116">**Delete a SharePoint site collection:**</span></span>
-  
-<span data-ttu-id="9538b-117">เมื่อต้องการลบแบบคลาสสิกของไซต์คอลเลกชัน:</span><span class="sxs-lookup"><span data-stu-id="9538b-117">To delete a classic site collection:</span></span>
-  
-1. <span data-ttu-id="9538b-118">ในแบบคลาสสิก SharePoint admin ศูนย์ บนหน้าไซต์คอลเลกชัน เลือก**กล่องกาเครื่องหมาย**ถัดจากไซต์คอลเลกชัน</span><span class="sxs-lookup"><span data-stu-id="9538b-118">In the classic SharePoint admin center, on the site collections page, select the **check box** next to the site collection.</span></span> 
-  
-2. <span data-ttu-id="9538b-119">บนแท็บไซต์คอลเลกชัน เลือก**ลบ**</span><span class="sxs-lookup"><span data-stu-id="9538b-119">On the Site Collections tab, select **Delete.**</span></span>
-  
- <span data-ttu-id="9538b-120">**ลบไซต์ โดยบังเอิญหรือไม่**</span><span class="sxs-lookup"><span data-stu-id="9538b-120">**Deleted a site by accident?**</span></span>
-  
-<span data-ttu-id="9538b-121">ดูการ[คืนค่าคอลเลกชันของไซต์ที่ถูกลบไปแล้ว](https://go.microsoft.com/fwlink/?linkid=867660)</span><span class="sxs-lookup"><span data-stu-id="9538b-121">See [Restore a deleted site collection](https://go.microsoft.com/fwlink/?linkid=867660).</span></span>
+<span data-ttu-id="3364d-110">เคล็ดลับ:</span><span class="sxs-lookup"><span data-stu-id="3364d-110">Tips:</span></span>
+- <span data-ttu-id="3364d-p103">ผู้ดูแลส่วนกลางและผู้ดูแล SharePoint สามารถเดี๋ยวนี้ลบไซต์ที่อยู่ใน**Office 365 กลุ่ม** ดำเนินการนี้จะลบกลุ่มและทั้งหมดของทรัพยากร รวมถึงกล่องจดหมาย Outlook และปฏิทิน และทีมสถานีใด ๆ สำหรับข้อมูลเพิ่มเติม ดู[ลบไซต์ SharePoint](https://docs.microsoft.com/sharepoint/manage-sites-in-new-admin-center#delete-a-site)</span><span class="sxs-lookup"><span data-stu-id="3364d-p103">Global admins and SharePoint admins can now delete sites that belong to an **Office 365 Group**. This will delete the group and all its resources, including the Outlook mailbox and calendar, and any Teams channels. For more info, see [Delete a SharePoint site](https://docs.microsoft.com/sharepoint/manage-sites-in-new-admin-center#delete-a-site)</span></span>
+- <span data-ttu-id="3364d-p104">คุณสามารถกู้คืนไซต์ถูกลบสำหรับวัน 93 หมายเหตุว่า ต้องคืนค่าดัชนีกลุ่มถูกลบภายใน 30 วัน สำหรับข้อมูลเพิ่มเติม ดู[มุมมองและการคืนค่าไซต์ที่ถูกลบ](https://docs.microsoft.com/sharepoint/view-and-restore-deleted-sites-in-new-admin-center)</span><span class="sxs-lookup"><span data-stu-id="3364d-p104">You can recover deleted sites for 93 days. Note that deleted groups must be restored within 30 days. For more info, see [View and restore deleted sites](https://docs.microsoft.com/sharepoint/view-and-restore-deleted-sites-in-new-admin-center).</span></span>
+- <span data-ttu-id="3364d-117">เมื่อต้องการเอาไซต์ ด้วย Powershell ดูตัวอย่างการ cmdlet [SPSite เอา](https://docs.microsoft.com/powershell/module/sharepoint-server/remove-spsite?view=sharepoint-ps)</span><span class="sxs-lookup"><span data-stu-id="3364d-117">To completely remove a site with Powershell, see the [Remove-SPSite](https://docs.microsoft.com/powershell/module/sharepoint-server/remove-spsite?view=sharepoint-ps) cmdlet example.</span></span> 
   
 
