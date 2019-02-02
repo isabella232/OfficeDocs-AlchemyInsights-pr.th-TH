@@ -11,16 +11,17 @@ localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: (guid of old soc version if any)
-ms.openlocfilehash: 1bb1cb35f06e16a2dc85b7e2642b9fa0d203945e
-ms.sourcegitcommit: b032c2ac45540b1eb5dd68a4ec7ce1a5d6922f0e
+ms.openlocfilehash: 278a26f4b986a85e33442baef690d3bb44462ace
+ms.sourcegitcommit: 32355b76d45b730a069575efeec708149d4aeaa3
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 01/30/2019
-ms.locfileid: "29662949"
+ms.lasthandoff: 02/01/2019
+ms.locfileid: "29697149"
 ---
-# <a name="required-customer-facing-h1-h2-doesnt-work"></a>จำเป็นต้องใช้ลูกค้าหัน H1, H2 ไม่ทำงาน
-ตัวอย่างข้อความบล็อก - ทำตามคำแนะนำเหล่านี้:
+# <a name="required-alchemy-header-h1-h2s-dont-work"></a>จำเป็นต้องใช้ Alchemy หัว H1, H2 ของไม่ทำงาน
+แนวทางปฏิบัติและแนวทางในการเขียนแก้ Alchemy:
 
+1. **ซ้อนความเข้าใจ Alchemy ในโฟลเดอร์**- นี้จะเป็นแบ่งโครงสร้าง url เรากำลังค้นหาลงในการซ่อมแซมนี้
 1. แฟ้มในโฟลเดอร์**AlchemyInsights**ควรมีกฎรหัสและชื่อของกฎจาก[เว็บไซต์คู่ค้า Alchemy](https://alchemyportal.azurewebsites.net)ในชื่อแฟ้ม
     1. เช่น***976-How-to-enable-litigation-hold***
 1. ใช้ข้อมูลเมตาที่ด้านบนของแฟ้มนี้เป็นแม่แบบของคุณ ไม่มีอะไรอื่นที่ถูกต้อง
@@ -35,7 +36,6 @@ ms.locfileid: "29662949"
 
 และนี่คือจริง ๆ แล้วยาวเกินไปสักเล็กน้อย แนวทางปฏิบัติที่ดีที่สุดคือ อักขระประมาณ 400---
 
-หลังจากที่เนื้อหาของคุณมาพร้อม ดึงการถ่ายทอดสดสาขา แล้ว ไปที่[เว็บไซต์คู่ค้า Alchemy](https://alchemyportal.azurewebsites.net)และป้อนชื่อแฟ้มลงในฟิลด์ url ตรวจสอบว่า ช่วยตรวจทาน และเผยแพร่ข้อความว่า "ใช่" และจากนั้น คลิกกฎการปรับปรุง (ซึ่งจะค้นหา prettier ในพอร์ทัล - ปล่อยเร็ว ๆ นี้รุ่นใหม่)
-
+หลังจากที่เนื้อหาของคุณมาพร้อม ดึงการถ่ายทอดสดสาขา แล้ว ไปที่[เว็บไซต์คู่ค้า Alchemy](https://alchemyportal.azurewebsites.net)และป้อนชื่อแฟ้มลงในฟิลด์ url ตรวจสอบว่า ช่วยตรวจทาน และเผยแพร่ข้อความว่า "ใช่" และจากนั้น คลิกกฎการปรับปรุง **(ซึ่งจะค้นหา prettier ในพอร์ทัล - ปล่อยเร็ว ๆ นี้รุ่นใหม่)** 
 ![ฟิลด์ url](media/for-content-team.PNG)
 

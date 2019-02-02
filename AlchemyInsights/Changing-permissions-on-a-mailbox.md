@@ -9,13 +9,15 @@ ms.service: o365-administration
 localization_priority: Priority
 ROBOTS: NOINDEX, NOFOLLOW
 ms.custom: 0bae85bc-2a1f-436b-af07-82d0eb79cb8b
-ms.openlocfilehash: ec22ba79980779e7f218607e3b4ca7012eb8d35f
-ms.sourcegitcommit: 0ae6cbb8cf2836da98300767ed81b411d6551bee
+ms.openlocfilehash: 49f7849f780de3348a73c8530ee99682dbbe354f
+ms.sourcegitcommit: 32355b76d45b730a069575efeec708149d4aeaa3
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 01/30/2019
-ms.locfileid: "29657954"
+ms.lasthandoff: 02/01/2019
+ms.locfileid: "29697185"
 ---
+# <a name="changing-permissions-on-a-mailbox"></a>เปลี่ยนแปลงสิทธิ์ในกล่องจดหมาย
+
 ถ้าผู้ใช้เข้าถึงกล่องจดหมายอื่นที่ไม่ใช่ของตนเองที่จำเป็น จำเป็นต้องได้รับสิทธิ์ในการทำงานกับกล่องจดหมายเหล่านั้น วิธีกำหนดสิทธิ์เหล่านั้นขึ้นอยู่กับชนิดกล่องจดหมาย ถ้าผู้ใช้ต้องการเข้าถึง:
   
 - กล่องจดหมายของผู้ใช้อื่น - โปรดดู[ให้สิทธิ์กล่องจดหมายไปยังผู้ใช้อื่นใน Office 365](https://support.office.com/article/give-mailbox-permissions-to-another-user-in-office-365-admin-help-1dbcf12f-a9de-4d1d-b0b3-a227f8a736d8)
