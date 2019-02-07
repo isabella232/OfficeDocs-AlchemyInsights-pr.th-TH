@@ -8,12 +8,12 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: 6a7bc2f3-7d03-4c6f-b15f-cc7e89d92102
-ms.openlocfilehash: 4b95206e9185f386abafd865ff8c4dc5dd5738d1
-ms.sourcegitcommit: 0ae6cbb8cf2836da98300767ed81b411d6551bee
+ms.openlocfilehash: 23961a99287ef1d8c5b7fdc93953975e3460aca0
+ms.sourcegitcommit: 5dee2fcb492bd922092a6de8045a95febe57b97e
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 01/30/2019
-ms.locfileid: "29655650"
+ms.lasthandoff: 02/06/2019
+ms.locfileid: "29759551"
 ---
 # <a name="having-email-delivery-issues"></a>มีปัญหาการส่งอีเมลหรือไม่
 
@@ -21,10 +21,10 @@ ms.locfileid: "29655650"
   
 {HealthCheckString }
   
-ระเบียน NS หรือ MX ของโดเมน (DNS) ตั้งค่าไม่ได้ถูกกำหนดค่าอย่างถูกต้องสำหรับการส่งอีเมกับบริการของ Office 365 คุณสามารถอ้างอิงไปยัง[ระเบียน DNS ที่ปรับปรุงใน Office 365](https://support.office.com/article/https://support.office.com/article/Create-DNS-records-for-Office-365-when-you-manage-your-DNS-records-B0F3FDCA-8A80-4E8E-9EF3-61E8A2A9AB23.aspx)สำหรับคำแนะนำโดยละเอียด 
+ระเบียน NS หรือ MX ของโดเมน (DNS) ตั้งค่าไม่ได้ถูกกำหนดค่าอย่างถูกต้องสำหรับการส่งอีเมกับบริการของ Office 365 คุณสามารถอ้างอิงไปยัง[ระเบียน DNS ที่ปรับปรุงใน Office 365](https://support.office.com/article/Create-DNS-records-for-Office-365-when-you-manage-your-DNS-records-B0F3FDCA-8A80-4E8E-9EF3-61E8A2A9AB23.aspx)สำหรับคำแนะนำโดยละเอียด 
   
-เมื่อต้องการแก้ไขปัญหา โปรดไปที่หน้า[โดเมน](https://support.office.com/article/https://portal.office.com/adminportal/home.aspx#/Domains)ใน Office 365 Admin ศูนย์ ทางเราจะช่วยคุณได้ด้วย 
+เมื่อต้องการแก้ไขปัญหา โปรดไปที่หน้า[โดเมน](https://admin.microsoft.com/adminportal/home#/Domains)ใน Office 365 Admin ศูนย์ ทางเราจะช่วยคุณได้ด้วย 
   
-การ[ตรวจสอบโดเมน FAQ](https://support.office.com/article/https://support.office.com/article/7b7b075d-79f9-4e37-8a9e-fb60c1d95166.aspx)วิธีแก้ไขปัญหาทั่วไปอื่น ๆ 
+การ[ตรวจสอบโดเมน FAQ](https://support.office.com/article/7b7b075d-79f9-4e37-8a9e-fb60c1d95166.aspx)วิธีแก้ไขปัญหาทั่วไปอื่น ๆ 
   
 

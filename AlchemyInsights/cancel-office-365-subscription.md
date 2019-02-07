@@ -11,12 +11,12 @@ localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: 8518f535-1bd3-4bf0-8e6e-e3468459bd5e
-ms.openlocfilehash: 773805beea21453c2aeb0682d026afd3cfd8ccb9
-ms.sourcegitcommit: 0ae6cbb8cf2836da98300767ed81b411d6551bee
+ms.openlocfilehash: 01900178c853e516bb1480af434db0735f2cb11b
+ms.sourcegitcommit: 5dee2fcb492bd922092a6de8045a95febe57b97e
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 01/30/2019
-ms.locfileid: "29656334"
+ms.lasthandoff: 02/06/2019
+ms.locfileid: "29759414"
 ---
 # <a name="cancelling-your-office-365-subscription"></a>กำลังยกเลิกการสมัครใช้งาน Office 365 ได้อย่างไร
 
@@ -24,10 +24,10 @@ ms.locfileid: "29656334"
   
 - ถ้าคุณเป็นลูกค้าทดลอง ไม่มีสิ่งใดที่จะยกเลิก การบอกรับเป็นสมาชิกทดลองใช้หมดอายุโดยอัตโนมัติยกเว้นว่าคุณระบุวิธีการชำระเงิน
     
-- ถ้าคุณมีสิทธิ์การใช้งานน้อยกว่า 25 กำหนด คุณสามารถยกเลิกการสมัครใช้งานออนไลน์ ไปที่[การเรียกเก็บเงิน](https://support.office.com/article/https://portal.office.com/adminportal/home.aspx#/subscriptions)\>ที่**บอกรับเป็นสมาชิก**และจากนั้น เลือก**การกระทำเพิ่มเติม** \> **ยกเลิกการบอกรับเป็นสมาชิก**
+- ถ้าคุณมีสิทธิ์การใช้งานน้อยกว่า 25 กำหนด คุณสามารถยกเลิกการสมัครใช้งานออนไลน์ ไปที่[การเรียกเก็บเงิน](https://admin.microsoft.com/adminportal/home#/subscriptions)\>ที่**บอกรับเป็นสมาชิก**และจากนั้น เลือก**การกระทำเพิ่มเติม** \> **ยกเลิกการบอกรับเป็นสมาชิก**
     
 - ถ้าคุณมีใบอนุญาตที่มอบหมายมากกว่า 25 คุณสามารถอย่างใดอย่างหนึ่งเอาผู้ใช้ออกได้จนกว่าคุณได้น้อยกว่า 25 หรือใช้ตัวเลือก "แจ้งให้เราเรียกคุณ" การพูดคุยกับวิศวกรฝ่ายสนับสนุน
     
-- เมื่อต้องการเรียนรู้เพิ่มเติม เกี่ยวกับการยกเลิกการสมัครใช้งาน หรือ สำหรับคำแนะนำทีละขั้นตอน ดู[ยกเลิก Office 365 สำหรับธุรกิจ](https://support.office.com/article/https://support.office.com/article/Cancel-Office-365-for-business-b1bc0bef-4608-4601-813a-cdd9f746709a?wt.mc_id=o365_portal_mmaven&amp;ui=en-US&amp;rs=en-US&amp;ad=US.aspx)
+- เมื่อต้องการเรียนรู้เพิ่มเติม เกี่ยวกับการยกเลิกการสมัครใช้งาน หรือ สำหรับคำแนะนำทีละขั้นตอน ดู[ยกเลิก Office 365 สำหรับธุรกิจ](https://support.office.com/article/Cancel-Office-365-for-business-b1bc0bef-4608-4601-813a-cdd9f746709a?wt.mc_id=o365_portal_mmaven&amp;ui=en-US&amp;rs=en-US&amp;ad=US.aspx)
     
 

@@ -11,12 +11,12 @@ localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: ae8140e0-1802-4387-9fcc-3e4deda115d8
-ms.openlocfilehash: c4697f30471fd8c2e6b4ff1c13703c9cafc2eef3
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: 45f48ad40c893c6f78d42a0c8bb1e8f4df610e0b
+ms.sourcegitcommit: 5dee2fcb492bd922092a6de8045a95febe57b97e
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29500157"
+ms.lasthandoff: 02/06/2019
+ms.locfileid: "29758651"
 ---
 # <a name="get-in-app-support-for-the-outlook-mobile-app"></a>ได้รับการสนับสนุนในโปรแกรมประยุกต์สำหรับแอพลิเคชันโมบาย Outlook
 
@@ -28,6 +28,6 @@ ms.locfileid: "29500157"
     
 4. เคาะ**ส่ง**และคุณจะได้รับการแจ้งเตือนในโปรแกรมประยุกต์เมื่อตัวแทนฝ่ายสนับสนุนติดต่อคุณ 
     
-สำหรับคำแนะนำโดยละเอียด ดู[ขอความช่วยเหลือในโปรแกรมประยุกต์สำหรับ Outlook สำหรับ iOS และ Android](https://support.office.com/article/https://support.office.com/article/218a22d1-9fa5-4889-b689-de1c63493243.aspx#ID0EAABAAA=Contact_Support)
+สำหรับคำแนะนำโดยละเอียด ดู[ขอความช่วยเหลือในโปรแกรมประยุกต์สำหรับ Outlook สำหรับ iOS และ Android](https://support.office.com/article/218a22d1-9fa5-4889-b689-de1c63493243.aspx#ID0EAABAAA=Contact_Support)
   
 
