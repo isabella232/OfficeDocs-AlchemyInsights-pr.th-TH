@@ -7,20 +7,20 @@ ms.audience: ITPro
 ms.topic: article
 ms.prod: office-online-server
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+localization_priority: Normal
 ms.assetid: de63d2e1-f053-40ed-ac1a-041ddafefba0
-ms.openlocfilehash: 20c207c7447ea96672a03529707e855e63c7d83f
-ms.sourcegitcommit: 0ae6cbb8cf2836da98300767ed81b411d6551bee
+ms.openlocfilehash: 228d048dba0f4b175855eebdf2b0019f7d1ed4f0
+ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 01/30/2019
-ms.locfileid: "29660978"
+ms.lasthandoff: 02/12/2019
+ms.locfileid: "29940317"
 ---
-# <a name="publishing-infrastructure-with-a-communication-site"></a><span data-ttu-id="83c22-102">โครงสร้างพื้นฐานการเผยแพร่ไซต์สื่อสาร</span><span class="sxs-lookup"><span data-stu-id="83c22-102">Publishing Infrastructure with a Communication Site</span></span>
+# <a name="publishing-infrastructure-with-a-communication-site"></a><span data-ttu-id="0d405-102">โครงสร้างพื้นฐานการเผยแพร่ไซต์สื่อสาร</span><span class="sxs-lookup"><span data-stu-id="0d405-102">Publishing Infrastructure with a Communication Site</span></span>
 
 
-<span data-ttu-id="83c22-103">การเปิดใช้งานลักษณะการทำงานของ Infrastructure การเผยแพร่เซิร์ฟเวอร์ SharePoint จะ**ไม่ได้รับการสนับสนุน**กับไซต์การสื่อสาร</span><span class="sxs-lookup"><span data-stu-id="83c22-103">Enabling the SharePoint Server Publishing Infrastructure feature is **not supported** with Communication Sites.</span></span> 
+<span data-ttu-id="0d405-103">การเปิดใช้งานลักษณะการทำงานของ Infrastructure การเผยแพร่เซิร์ฟเวอร์ SharePoint จะ**ไม่ได้รับการสนับสนุน**กับไซต์การสื่อสาร</span><span class="sxs-lookup"><span data-stu-id="0d405-103">Enabling the SharePoint Server Publishing Infrastructure feature is **not supported** with Communication Sites.</span></span> 
   
-<span data-ttu-id="83c22-104">สำหรับข้อมูลเพิ่มเติม ดู[ไซต์เคลื่อนไหวจากเผยแพร่ไปยังไซต์การสื่อสาร](https://docs.microsoft.com/sharepoint/publishing-sites-classic-to-modern-experience)</span><span class="sxs-lookup"><span data-stu-id="83c22-104">For more info, see [Moving from Publishing sites to Communication sites](https://docs.microsoft.com/sharepoint/publishing-sites-classic-to-modern-experience).</span></span> 
+<span data-ttu-id="0d405-104">สำหรับข้อมูลเพิ่มเติม ดู[ไซต์เคลื่อนไหวจากเผยแพร่ไปยังไซต์การสื่อสาร](https://docs.microsoft.com/sharepoint/publishing-sites-classic-to-modern-experience)</span><span class="sxs-lookup"><span data-stu-id="0d405-104">For more info, see [Moving from Publishing sites to Communication sites](https://docs.microsoft.com/sharepoint/publishing-sites-classic-to-modern-experience).</span></span> 
   
 
