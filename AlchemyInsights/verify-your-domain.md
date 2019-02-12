@@ -7,25 +7,25 @@ ms.date: 4/5/2018
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: 81fd176b-3d67-4e52-9ab8-d36602412734
-ms.openlocfilehash: d37cdae616fabd2813dc7c8074e94b05f0391d20
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: 7332650d1763e2bbd13be48f406fb04b8849a6c1
+ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29493856"
+ms.lasthandoff: 02/12/2019
+ms.locfileid: "29911251"
 ---
-# <a name="verify-your-domain"></a><span data-ttu-id="4f20a-102">ตรวจสอบว่า โดเมนของคุณ</span><span class="sxs-lookup"><span data-stu-id="4f20a-102">Verify your domain</span></span>
+# <a name="verify-your-domain"></a><span data-ttu-id="3fe68-102">ตรวจสอบว่า โดเมนของคุณ</span><span class="sxs-lookup"><span data-stu-id="3fe68-102">Verify your domain</span></span>
 
- <span data-ttu-id="4f20a-103">**เรกคอร์ดที่อาจจะยังไม่มีการปรับปรุงผ่านอินเทอร์เน็ต**</span><span class="sxs-lookup"><span data-stu-id="4f20a-103">**The record probably hasn't updated across the Internet.**</span></span>
+ <span data-ttu-id="3fe68-103">**เรกคอร์ดที่อาจจะยังไม่มีการปรับปรุงผ่านอินเทอร์เน็ต**</span><span class="sxs-lookup"><span data-stu-id="3fe68-103">**The record probably hasn't updated across the Internet.**</span></span>
   
-<span data-ttu-id="4f20a-104">โดยทั่วไปเพียงใช้สักครู่เพื่อให้สามารถดูเรกคอร์ดใหม่ให้เรา แต่ในบางครั้งซึ่งอาจใช้เวลานานถึงสองสามชั่วโมง</span><span class="sxs-lookup"><span data-stu-id="4f20a-104">It typically only takes a few minutes for us to be able to see the new record, but occasionally it can take as long as a few hours.</span></span> 
+<span data-ttu-id="3fe68-104">โดยทั่วไปเพียงใช้สักครู่เพื่อให้สามารถดูเรกคอร์ดใหม่ให้เรา แต่ในบางครั้งซึ่งอาจใช้เวลานานถึงสองสามชั่วโมง</span><span class="sxs-lookup"><span data-stu-id="3fe68-104">It typically only takes a few minutes for us to be able to see the new record, but occasionally it can take as long as a few hours.</span></span> 
   
-- <span data-ttu-id="4f20a-p101">ถ้าคุณเคยรอที่นานแล้ว ตรวจสอบว่า คุณได้คัดลอก และวางค่าที่แน่นอนในการตรวจสอบระเบียน TXT ที่โฮสต์ DNS ของคุณอีกครั้ง ปัญหาหนึ่งที่พบไม่ได้รวมถึงการ " MS =" เป็นส่วนหนึ่งของเรกคอร์ด เราต้องการที่มากเกินไป</span><span class="sxs-lookup"><span data-stu-id="4f20a-p101">If you've waited that long already, double-check that you've copied and pasted the exact value into the TXT verification record at your DNS host. One common issue is not including the "MS=" part of the record. We need that too!</span></span>
+- <span data-ttu-id="3fe68-p101">ถ้าคุณเคยรอที่นานแล้ว ตรวจสอบว่า คุณได้คัดลอก และวางค่าที่แน่นอนในการตรวจสอบระเบียน TXT ที่โฮสต์ DNS ของคุณอีกครั้ง ปัญหาหนึ่งที่พบไม่ได้รวมถึงการ " MS =" เป็นส่วนหนึ่งของเรกคอร์ด เราต้องการที่มากเกินไป</span><span class="sxs-lookup"><span data-stu-id="3fe68-p101">If you've waited that long already, double-check that you've copied and pasted the exact value into the TXT verification record at your DNS host. One common issue is not including the "MS=" part of the record. We need that too!</span></span>
     
-- <span data-ttu-id="4f20a-p102">ในบางโฮสต์ DNS คุณจำเป็นต้องใช้มีขั้นตอนเพิ่มเติมเพื่อบันทึกแฟ้มโซน (ระเบียน DNS เก็บ) เพื่อที่จะปรับปรุงผ่านอินเทอร์เน็ต ตรวจสอบให้แน่ใจว่า คุณได้บันทึกการเปลี่ยนแปลงของคุณเพื่อให้ Office 365 สามารถมองเห็น และตรวจสอบเรกคอร์ด</span><span class="sxs-lookup"><span data-stu-id="4f20a-p102">At some DNS hosts, you have to take an extra step to save the zone file (where the DNS record is stored) so that it will update across the Internet. Make sure you've saved your changes so Office 365 can see and verify the record.</span></span>
+- <span data-ttu-id="3fe68-p102">ในบางโฮสต์ DNS คุณจำเป็นต้องใช้มีขั้นตอนเพิ่มเติมเพื่อบันทึกแฟ้มโซน (ระเบียน DNS เก็บ) เพื่อที่จะปรับปรุงผ่านอินเทอร์เน็ต ตรวจสอบให้แน่ใจว่า คุณได้บันทึกการเปลี่ยนแปลงของคุณเพื่อให้ Office 365 สามารถมองเห็น และตรวจสอบเรกคอร์ด</span><span class="sxs-lookup"><span data-stu-id="3fe68-p102">At some DNS hosts, you have to take an extra step to save the zone file (where the DNS record is stored) so that it will update across the Internet. Make sure you've saved your changes so Office 365 can see and verify the record.</span></span>
     
 
