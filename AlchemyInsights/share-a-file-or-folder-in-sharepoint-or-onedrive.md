@@ -6,34 +6,34 @@ ms.date: 5/24/2018
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+localization_priority: Normal
 ms.assetid: 29782984-30d5-4c1b-b1dd-eff6fab41078
-ms.openlocfilehash: a7bcfa9ea64d11032fdd738484a16810c965c96e
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: 29e4e5c105fa5c68a286c277c4039f15a77d5c5d
+ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29493273"
+ms.lasthandoff: 02/12/2019
+ms.locfileid: "29941779"
 ---
-# <a name="share-a-file-or-folder-in-sharepoint-or-onedrive"></a><span data-ttu-id="5df27-102">ใช้ร่วมกันของแฟ้มหรือโฟลเดอร์ใน SharePoint หรือ OneDrive</span><span class="sxs-lookup"><span data-stu-id="5df27-102">Share a file or folder in SharePoint or OneDrive</span></span>
+# <a name="share-a-file-or-folder-in-sharepoint-or-onedrive"></a><span data-ttu-id="b6c9c-102">ใช้ร่วมกันของแฟ้มหรือโฟลเดอร์ใน SharePoint หรือ OneDrive</span><span class="sxs-lookup"><span data-stu-id="b6c9c-102">Share a file or folder in SharePoint or OneDrive</span></span>
 
-1. <span data-ttu-id="5df27-103">เปิดเบราว์เซอร์ และไปแฟ้มหรือโฟลเดอร์ที่คุณต้องการใช้ร่วมกัน เลือก จากนั้น**ใช้ร่วมกัน**</span><span class="sxs-lookup"><span data-stu-id="5df27-103">Open a browser and go to the file or folder you want to share, select it, and then select **Share**.</span></span> 
+1. <span data-ttu-id="b6c9c-103">เปิดเบราว์เซอร์ และไปแฟ้มหรือโฟลเดอร์ที่คุณต้องการใช้ร่วมกัน เลือก จากนั้น**ใช้ร่วมกัน**</span><span class="sxs-lookup"><span data-stu-id="b6c9c-103">Open a browser and go to the file or folder you want to share, select it, and then select **Share**.</span></span> 
     
-2. <span data-ttu-id="5df27-104">(ไม่จำเป็น) ถ้าชนิดของลิงค์ไม่ หนึ่งคุณต้องคลิกลูกศรเพื่อเลือกชนิดอื่น:</span><span class="sxs-lookup"><span data-stu-id="5df27-104">(Optional) If the link type isn't the one you want, click the down arrow to select a different type:</span></span>
+2. <span data-ttu-id="b6c9c-104">(ไม่จำเป็น) ถ้าชนิดของลิงค์ไม่ หนึ่งคุณต้องคลิกลูกศรเพื่อเลือกชนิดอื่น:</span><span class="sxs-lookup"><span data-stu-id="b6c9c-104">(Optional) If the link type isn't the one you want, click the down arrow to select a different type:</span></span>
     
-  - <span data-ttu-id="5df27-p101">**ทุกคน**ให้เข้าถึงใครก็ตามที่ได้รับการเชื่อมโยงนี้ ว่าพวกเขาได้รับจากคุณโดยตรง หรือส่งต่อจากบุคคลอื่น ซึ่งอาจรวมถึงบุคคลภายนอกองค์กรของคุณ</span><span class="sxs-lookup"><span data-stu-id="5df27-p101">**Anyone** gives access to anyone who receives this link, whether they receive it directly from you or forwarded from someone else. This may include people outside of your organization.</span></span> 
+  - <span data-ttu-id="b6c9c-p101">**ทุกคน**ให้เข้าถึงใครก็ตามที่ได้รับการเชื่อมโยงนี้ ว่าพวกเขาได้รับจากคุณโดยตรง หรือส่งต่อจากบุคคลอื่น ซึ่งอาจรวมถึงบุคคลภายนอกองค์กรของคุณ</span><span class="sxs-lookup"><span data-stu-id="b6c9c-p101">**Anyone** gives access to anyone who receives this link, whether they receive it directly from you or forwarded from someone else. This may include people outside of your organization.</span></span> 
     
-  - <span data-ttu-id="5df27-107">**บุคคลใน\<องค์กรของคุณ\>** ให้แก่ทุกคนในองค์กรของคุณมีการเข้าถึงการเชื่อมโยง ว่าพวกเขาได้รับโดยตรงจากคุณ หรือถูกส่งต่อจากบุคคลอื่น</span><span class="sxs-lookup"><span data-stu-id="5df27-107">**People in \<Your Organization\>** gives everyone in your organization access to the link, whether they receive it directly from you or forwarded from someone else.</span></span> 
+  - <span data-ttu-id="b6c9c-107">**บุคคลใน\<องค์กรของคุณ\>** ให้แก่ทุกคนในองค์กรของคุณมีการเข้าถึงการเชื่อมโยง ว่าพวกเขาได้รับโดยตรงจากคุณ หรือถูกส่งต่อจากบุคคลอื่น</span><span class="sxs-lookup"><span data-stu-id="b6c9c-107">**People in \<Your Organization\>** gives everyone in your organization access to the link, whether they receive it directly from you or forwarded from someone else.</span></span> 
     
-  - <span data-ttu-id="5df27-p102">ให้สิทธิ์เข้าใช้**เฉพาะบุคคล**สำหรับผู้ใช้คุณระบุ ถึงแม้ว่าคนอื่นอยู่แล้วอาจเข้าถึง ถ้าผู้ส่งคำเชิญให้ใช้ร่วมกัน เฉพาะผู้ที่เข้าถึงรายการที่มีอยู่จะสามารถใช้การเชื่อมโยง</span><span class="sxs-lookup"><span data-stu-id="5df27-p102">**Specific people** gives access only to the people you specify, although other people may already have access. If people forward the sharing invitation, only people who already have access to the item will be able to use the link.</span></span> 
+  - <span data-ttu-id="b6c9c-p102">ให้สิทธิ์เข้าใช้**เฉพาะบุคคล**สำหรับผู้ใช้คุณระบุ ถึงแม้ว่าคนอื่นอยู่แล้วอาจเข้าถึง ถ้าผู้ส่งคำเชิญให้ใช้ร่วมกัน เฉพาะผู้ที่เข้าถึงรายการที่มีอยู่จะสามารถใช้การเชื่อมโยง</span><span class="sxs-lookup"><span data-stu-id="b6c9c-p102">**Specific people** gives access only to the people you specify, although other people may already have access. If people forward the sharing invitation, only people who already have access to the item will be able to use the link.</span></span> 
     
     > [!NOTE]
-    > <span data-ttu-id="5df27-p103">ถ้าค่าใดค่าหนึ่งในตัวเลือกเหล่านี้ไม่พร้อมใช้งาน หรือ ถ้าคุณต้องการให้ชนิดการเชื่อมโยงที่แตกต่างกันจะปรากฏตามค่าเริ่มต้น คุณสามารถเปลี่ยนการตั้งค่าทั่วทั้งองค์กรของคุณ โดยไปที่ศูนย์กลางการดูแล SharePoint แบบคลาสสิก และคลิกการ**ใช้ร่วมกัน**ในบานหน้าต่างด้านซ้าย [ศึกษาเพิ่มเติม](https://go.microsoft.com/fwlink/?linkid=866426)</span><span class="sxs-lookup"><span data-stu-id="5df27-p103">If one of these options isn't available, or if you want a different link type to appear by default, you can change your organization-wide settings by going to the classic SharePoint admin center and clicking **sharing** in the left pane. [Learn more](https://go.microsoft.com/fwlink/?linkid=866426)</span></span>
+    > <span data-ttu-id="b6c9c-p103">ถ้าค่าใดค่าหนึ่งในตัวเลือกเหล่านี้ไม่พร้อมใช้งาน หรือ ถ้าคุณต้องการให้ชนิดการเชื่อมโยงที่แตกต่างกันจะปรากฏตามค่าเริ่มต้น คุณสามารถเปลี่ยนการตั้งค่าทั่วทั้งองค์กรของคุณ โดยไปที่ศูนย์กลางการดูแล SharePoint แบบคลาสสิก และคลิกการ**ใช้ร่วมกัน**ในบานหน้าต่างด้านซ้าย [ศึกษาเพิ่มเติม](https://go.microsoft.com/fwlink/?linkid=866426)</span><span class="sxs-lookup"><span data-stu-id="b6c9c-p103">If one of these options isn't available, or if you want a different link type to appear by default, you can change your organization-wide settings by going to the classic SharePoint admin center and clicking **sharing** in the left pane. [Learn more](https://go.microsoft.com/fwlink/?linkid=866426)</span></span>
   
-3. <span data-ttu-id="5df27-p104">โดยค่าเริ่มต้น**อนุญาตให้แก้ไข**เปิดอยู่ ถ้าคุณต้องการให้คนอื่นดูแฟ้มของคุณเท่านั้น ยกเลิกเลือกกล่องกาเครื่องหมาย</span><span class="sxs-lookup"><span data-stu-id="5df27-p104">By default, **Allow editing** is turned on. If you want people to only view your files, clear the check box.</span></span> 
+3. <span data-ttu-id="b6c9c-p104">โดยค่าเริ่มต้น**อนุญาตให้แก้ไข**เปิดอยู่ ถ้าคุณต้องการให้คนอื่นดูแฟ้มของคุณเท่านั้น ยกเลิกเลือกกล่องกาเครื่องหมาย</span><span class="sxs-lookup"><span data-stu-id="b6c9c-p104">By default, **Allow editing** is turned on. If you want people to only view your files, clear the check box.</span></span> 
     
-4. <span data-ttu-id="5df27-114">ป้อนชื่อของบุคคลที่คุณต้องการใช้ร่วมกับและข้อความ ถ้าคุณต้องการ</span><span class="sxs-lookup"><span data-stu-id="5df27-114">Enter the names of the people you want to share with and a message, if you want.</span></span>
+4. <span data-ttu-id="b6c9c-114">ป้อนชื่อของบุคคลที่คุณต้องการใช้ร่วมกับและข้อความ ถ้าคุณต้องการ</span><span class="sxs-lookup"><span data-stu-id="b6c9c-114">Enter the names of the people you want to share with and a message, if you want.</span></span>
     
-5. <span data-ttu-id="5df27-115">คลิก**ส่ง**</span><span class="sxs-lookup"><span data-stu-id="5df27-115">Click **Send**.</span></span> 
+5. <span data-ttu-id="b6c9c-115">คลิก**ส่ง**</span><span class="sxs-lookup"><span data-stu-id="b6c9c-115">Click **Send**.</span></span> 
     
 
