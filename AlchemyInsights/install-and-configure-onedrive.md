@@ -6,23 +6,23 @@ ms.date: 6/10/2018
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+localization_priority: Normal
 ms.assetid: 242bf619-d235-49de-88a3-9f6173c542d1
-ms.openlocfilehash: c4a461538c02fd9a5e2d5a3c2637856fb325d79c
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: ec6b1a1678096ca132e70693fda6f80ce7d5e6cd
+ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29493839"
+ms.lasthandoff: 02/12/2019
+ms.locfileid: "29939223"
 ---
-# <a name="install-and-configure-onedrive"></a><span data-ttu-id="83f83-102">ติดตั้ง และตั้งค่าคอนฟิก OneDrive</span><span class="sxs-lookup"><span data-stu-id="83f83-102">Install and configure OneDrive</span></span>
+# <a name="install-and-configure-onedrive"></a><span data-ttu-id="5dc7b-102">ติดตั้ง และตั้งค่าคอนฟิก OneDrive</span><span class="sxs-lookup"><span data-stu-id="5dc7b-102">Install and configure OneDrive</span></span>
 
-<span data-ttu-id="83f83-p101">ไคลเอ็นต์การซิงค์ OneDrive ถูกติดตั้ง ด้วย Windows 10 เมื่อต้อง การติดตั้ง OneDrive สำหรับ Windows 7 หรือ Mac หรือ เพื่อรับโปรแกรมประยุกต์เคลื่อนโทรศัพท์หรือแท็บเล็ตของคุณ ไป[http://onedrive.com/download](http://onedrive.com/download)</span><span class="sxs-lookup"><span data-stu-id="83f83-p101">The OneDrive sync client is preinstalled with Windows 10. To install OneDrive for Windows 7 or Mac, or to get the mobile app for your phone or tablet, go to [http://onedrive.com/download](http://onedrive.com/download).</span></span>
+<span data-ttu-id="5dc7b-p101">ไคลเอ็นต์การซิงค์ OneDrive ถูกติดตั้ง ด้วย Windows 10 เมื่อต้อง การติดตั้ง OneDrive สำหรับ Windows 7 หรือ Mac หรือ เพื่อรับโปรแกรมประยุกต์เคลื่อนโทรศัพท์หรือแท็บเล็ตของคุณ ไป[http://onedrive.com/download](http://onedrive.com/download)</span><span class="sxs-lookup"><span data-stu-id="5dc7b-p101">The OneDrive sync client is preinstalled with Windows 10. To install OneDrive for Windows 7 or Mac, or to get the mobile app for your phone or tablet, go to [http://onedrive.com/download](http://onedrive.com/download).</span></span>
   
-<span data-ttu-id="83f83-105">เมื่อต้องการติดตั้งไคลเอ็นต์การซิงค์ OneDrive ใน Windows ดู:</span><span class="sxs-lookup"><span data-stu-id="83f83-105">To set up the OneDrive sync client in Windows, see:</span></span>
+<span data-ttu-id="5dc7b-105">เมื่อต้องการติดตั้งไคลเอ็นต์การซิงค์ OneDrive ใน Windows ดู:</span><span class="sxs-lookup"><span data-stu-id="5dc7b-105">To set up the OneDrive sync client in Windows, see:</span></span>
   
-- [<span data-ttu-id="83f83-106">ตั้งค่าคอมพิวเตอร์ของคุณให้ตรงกันของคุณ OneDrive สำหรับธุรกิจแฟ้มใน Office 365</span><span class="sxs-lookup"><span data-stu-id="83f83-106">Set up your computer to sync your OneDrive for Business files in Office 365</span></span>](https://go.microsoft.com/fwlink/?linkid=533375)
+- [<span data-ttu-id="5dc7b-106">ตั้งค่าคอมพิวเตอร์ของคุณให้ตรงกันของคุณ OneDrive สำหรับธุรกิจแฟ้มใน Office 365</span><span class="sxs-lookup"><span data-stu-id="5dc7b-106">Set up your computer to sync your OneDrive for Business files in Office 365</span></span>](https://go.microsoft.com/fwlink/?linkid=533375)
     
-- [<span data-ttu-id="83f83-107">ซิงค์แฟ้ม SharePoint ด้วยไคลเอ็นต์การซิงค์ OneDrive ใหม่</span><span class="sxs-lookup"><span data-stu-id="83f83-107">Sync SharePoint files with the new OneDrive sync client</span></span>](https://go.microsoft.com/fwlink/?linkid=871666)
+- [<span data-ttu-id="5dc7b-107">ซิงค์แฟ้ม SharePoint ด้วยไคลเอ็นต์การซิงค์ OneDrive ใหม่</span><span class="sxs-lookup"><span data-stu-id="5dc7b-107">Sync SharePoint files with the new OneDrive sync client</span></span>](https://go.microsoft.com/fwlink/?linkid=871666)
     
 

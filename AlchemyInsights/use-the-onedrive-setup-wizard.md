@@ -7,19 +7,19 @@ ms.date: 3/2/2018
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: 8b711af6-3d0e-4334-ae67-8b3cb76293de
-ms.openlocfilehash: 50f7f2a647092a05527dfe4e1c1691f9cca3050a
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: 5222ce6c8d8708059cb9ecfd3685f6a7f88f7e53
+ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29493359"
+ms.lasthandoff: 02/12/2019
+ms.locfileid: "29939799"
 ---
-# <a name="set-up-onedrive"></a><span data-ttu-id="2ab48-102">ตั้งค่า OneDrive</span><span class="sxs-lookup"><span data-stu-id="2ab48-102">Set up OneDrive</span></span>
+# <a name="set-up-onedrive"></a><span data-ttu-id="b070c-102">ตั้งค่า OneDrive</span><span class="sxs-lookup"><span data-stu-id="b070c-102">Set up OneDrive</span></span>
 
-<span data-ttu-id="2ab48-103">เมื่อต้องการตั้งค่า OneDrive ได้อย่างรวดเร็วสำหรับองค์กรของคุณ[ใช้ตัวช่วยสร้างการตั้งค่า OneDrive](https://portal.office.com/onboarding/odfbquickstartguide)</span><span class="sxs-lookup"><span data-stu-id="2ab48-103">To set up OneDrive quickly for your organization, [use the OneDrive setup wizard](https://portal.office.com/onboarding/odfbquickstartguide).</span></span>
+<span data-ttu-id="b070c-103">เมื่อต้องการตั้งค่า OneDrive ได้อย่างรวดเร็วสำหรับองค์กรของคุณ[ใช้ตัวช่วยสร้างการตั้งค่า OneDrive](https://portal.office.com/onboarding/odfbquickstartguide)</span><span class="sxs-lookup"><span data-stu-id="b070c-103">To set up OneDrive quickly for your organization, [use the OneDrive setup wizard](https://portal.office.com/onboarding/odfbquickstartguide).</span></span>
   
 
