@@ -7,14 +7,14 @@ ms.date: 11/5/2018
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+localization_priority: Normal
 ms.assetid: ac265ee6-c946-476e-9bf0-0ea0e8adc98a
-ms.openlocfilehash: 7242bf2b101b45fec0fe00ab33fa6db150004ee5
-ms.sourcegitcommit: 0ae6cbb8cf2836da98300767ed81b411d6551bee
+ms.openlocfilehash: d2d21fb5546d36990d69b76e3ceb72ce2edf3d80
+ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 01/30/2019
-ms.locfileid: "29657378"
+ms.lasthandoff: 02/12/2019
+ms.locfileid: "29933499"
 ---
 คุณกำลังมีปัญหากับ**การป้องกันการสูญเสียข้อมูล (DLP)** ไม่ทำงานสำหรับเนื้อหาที่ประกอบด้วยตัว**เลขประกันสังคม (SSN)** เมื่อใช้ชนิดข้อมูลที่เป็นความลับใน Office 365 ได้อย่างไร ถ้าเป็นเช่นนั้น ทำให้แน่ใจว่า เนื้อหาของคุณประกอบด้วยข้อมูลที่จำเป็นสำหรับสิ่งที่นโยบาย DLP ถูกต้อง 
   
