@@ -838,3 +838,57 @@
 | 1/30/2019 | [ข้อผิดพลาดใน OWA 123 รับบัญชีผู้ใช้ถูกปิดใช้งานหรือไม่](/AlchemyInsights/123-getting-an-account-disabled-error-in-owa) | การปรับเปลี่ยน |
 | วันที่ 1/2/2019 | [เป็นการดีที่สุดคือชื่อแฟ้มเดียวกัน [กฎ #-อธิบาย]](/AlchemyInsights/1-alchemy-insight-template) | การปรับเปลี่ยน |
 | วันที่ 1/2/2019 | [เปลี่ยนแปลงสิทธิ์ในกล่องจดหมาย](/AlchemyInsights/changing-permissions-on-a-mailbox) | การปรับเปลี่ยน |
+
+
+## <a name="week-of-february-04-2019"></a>สัปดาห์ของเดือน 04 กุมภาพันธ์ 2019
+
+
+| เผยแพร่บน |ชื่อเรื่องหัวข้อ | การเปลี่ยนแปลง |
+|------|------------|--------|
+| วันที่ 4/2/2019 | [เพิ่มผู้ใช้ใน Office 365](/AlchemyInsights/add-users-to-office-365) | การปรับเปลี่ยน |
+| วันที่ 6/2/2019 | [พนักงานที่เหลือ](/AlchemyInsights/employee-leaving) | การปรับเปลี่ยน |
+| วันที่ 6/2/2019 | [Admin takeover](/AlchemyInsights/admin-takeover) | การปรับเปลี่ยน |
+| วันที่ 6/2/2019 | [การมีข้อผิดพลาด TenantAccessBlockedException เมื่อคุณเข้าถึงอีเมล 127 หรือไม่](/AlchemyInsights/127-getting-a-tenantaccessblockedexception-error-when-accessing-email) | การปรับเปลี่ยน |
+| วันที่ 6/2/2019 | [ชื่อที่ใช้แสดงการเปลี่ยนแปลง 959](/AlchemyInsights/959-change-display-name) | การปรับเปลี่ยน |
+| วันที่ 6/2/2019 | [เพิ่ม หรือลบนามแฝงอีเมลสำหรับผู้ใช้](/AlchemyInsights/add-or-remove-an-email-alias-for-a-user) | การปรับเปลี่ยน |
+| วันที่ 6/2/2019 | เพิ่มที่นั่งกับการจ่ายล่วงหน้า | ถูกเอาออก |
+| วันที่ 6/2/2019 | [เพิ่มผู้ใช้ใน Office 365](/AlchemyInsights/add-users-to-office-365) | การปรับเปลี่ยน |
+| วันที่ 6/2/2019 | [เพิ่มผู้ใช้ภายนอกไปยัง กลุ่มการแจกจ่ายหรือไม่](/AlchemyInsights/adding-external-users-to-a-distribution-group) | การปรับเปลี่ยน |
+| วันที่ 6/2/2019 | Admin - โปรแกรมติดตั้ง Office 365 สากลและการจัดการ | ถูกเอาออก |
+| วันที่ 6/2/2019 | ผู้ดูแลระบบ - จัดการผู้ใช้ของฉัน กลุ่ม และทรัพยากร | ถูกเอาออก |
+| วันที่ 6/2/2019 | Admin - โดเมนการตั้งค่าและตั้งค่า DNS | ถูกเอาออก |
+| วันที่ 6/2/2019 | Admin - เข้าสู่ระบบ และรหัสผ่านที่ออกใช้ | ถูกเอาออก |
+| วันที่ 6/2/2019 | [ยกเลิกการสมัครใช้งานของ Office 365](/AlchemyInsights/cancel-office-365-subscription) | การปรับเปลี่ยน |
+| วันที่ 6/2/2019 | [เปลี่ยนที่อยู่ของผู้ใช้ชื่อและอีเมล](/AlchemyInsights/change-a-user-s-name-and-email-address) | การปรับเปลี่ยน |
+| วันที่ 6/2/2019 | Commerce - จัดการตั๋ว ชำระเงิน การบอกรับเป็นสมาชิก และสิทธิ์การใช้งาน | ถูกเอาออก |
+| วันที่ 6/2/2019 | [การมีข้อผิดพลาด TenantAccessBlockedException เมื่อคุณเข้าถึงอีเมลหรือไม่](/AlchemyInsights/getting-a-tenantaccessblockedexception-error-when-accessing-email) | การปรับเปลี่ยน |
+| วันที่ 6/2/2019 | [มีปัญหาการส่งอีเมลหรือไม่](/AlchemyInsights/having-email-delivery-issues-0) | การปรับเปลี่ยน |
+| วันที่ 6/2/2019 | [มีปัญหาการส่งอีเมลหรือไม่](/AlchemyInsights/having-email-delivery-issues) | การปรับเปลี่ยน |
+| วันที่ 6/2/2019 | [มีปัญหาการรับ Outlook เพื่อเชื่อมต่อหรือไม่](/AlchemyInsights/having-issues-getting-outlook-to-connect-0) | การปรับเปลี่ยน |
+| วันที่ 6/2/2019 | [มีปัญหาการรับ Outlook เพื่อเชื่อมต่อหรือไม่](/AlchemyInsights/having-issues-getting-outlook-to-connect) | การปรับเปลี่ยน |
+| วันที่ 6/2/2019 | Intune - ดาวน์โหลด การตั้งค่า และใช้ Intune | ถูกเอาออก |
+| วันที่ 6/2/2019 | [ปัญหากับ Skype สำหรับธุรกิจหรือไม่](/AlchemyInsights/issue-with-skype-for-business) | การปรับเปลี่ยน |
+| วันที่ 6/2/2019 | ODSP | ถูกเอาออก |
+| วันที่ 6/2/2019 | ไคลเอ็นต์ office - Excel | ถูกเอาออก |
+| วันที่ 6/2/2019 | [ผู้ใช้การคืนค่าลบ](/AlchemyInsights/restore-deleted-user) | การปรับเปลี่ยน |
+| วันที่ 6/2/2019 | [เหตุการณ์การบริการอยู่ระหว่างดำเนินการ](/AlchemyInsights/service-incident-in-progress-0) | การปรับเปลี่ยน |
+| วันที่ 6/2/2019 | [เหตุการณ์การบริการอยู่ระหว่างดำเนินการ](/AlchemyInsights/service-incident-in-progress-1) | การปรับเปลี่ยน |
+| วันที่ 6/2/2019 | [เหตุการณ์การบริการอยู่ระหว่างดำเนินการ](/AlchemyInsights/service-incident-in-progress-2) | การปรับเปลี่ยน |
+| วันที่ 6/2/2019 | [เหตุการณ์การบริการอยู่ระหว่างดำเนินการ](/AlchemyInsights/service-incident-in-progress-3) | การปรับเปลี่ยน |
+| วันที่ 6/2/2019 | [เหตุการณ์การบริการอยู่ระหว่างดำเนินการ](/AlchemyInsights/service-incident-in-progress-4) | การปรับเปลี่ยน |
+| วันที่ 6/2/2019 | [เหตุการณ์การบริการอยู่ระหว่างดำเนินการ](/AlchemyInsights/service-incident-in-progress-5) | การปรับเปลี่ยน |
+| วันที่ 6/2/2019 | [เหตุการณ์การบริการอยู่ระหว่างดำเนินการ](/AlchemyInsights/service-incident-in-progress) | การปรับเปลี่ยน |
+| วันที่ 6/2/2019 | [การตั้งค่าโครงการ](/AlchemyInsights/setting-up-project) | การปรับเปลี่ยน |
+| วันที่ 6/2/2019 | การตั้งค่าคุณลักษณะการปฏิบัติตามกฎระเบียบต้องเก็บถาวร เก็บข้อมูล ดำเนินคดี eDiscovery และ MDM | ถูกเอาออก |
+| วันที่ 6/2/2019 | ใช้ตัวติดตั้งแบบออฟไลน์สำหรับสำนักงาน | ถูกเอาออก |
+| วันที่ 6/2/2019 | Yammer - การตั้งค่า และใช้บริการของ Yammer | ถูกเอาออก |
+| 2/7/2019 | [ความล้มเหลวของ Excel ได้อย่างไร](/AlchemyInsights/excel-crashing) | การปรับเปลี่ยน |
+| 2/7/2019 | [วิธีการเพิ่ม หรือแก้ไขคำ VatID](/AlchemyInsights/how-to-add-or-edit-a-vatid) | การปรับเปลี่ยน |
+| 2/7/2019 | [เพิ่มการศึกษาสำหรับรุ่น Minecraft กับ Office 365](/AlchemyInsights/minecraft-edition-with-office-365-education-for-free) | การปรับเปลี่ยน |
+| 2/7/2019 | [606 ข้อมูลการมอบหมาย](/AlchemyInsights/606-information-on-delegation) | การปรับเปลี่ยน |
+| 2/7/2019 | [กลุ่มของคุณไม่ปรากฏในรายการของกลุ่ม](/AlchemyInsights/your-groupaimkiobjectnot-showing-in-groups-list) | การปรับเปลี่ยน |
+| วันที่ 8/2/2019 | [DLP เคล็ดลับนโยบายที่ไม่ทำงาน](/AlchemyInsights/dlp-policy-tips-not-working) | การปรับเปลี่ยน |
+| วันที่ 8/2/2019 | [กฎ DLP สำหรับสหรัฐอเมริกา / หมาย เลขหนังสือเดินทางสหราชอาณาจักรที่ไม่ทำงาน](/AlchemyInsights/dlp-rule-for-us-uk-passport-number-not-working) | การปรับเปลี่ยน |
+| วันที่ 8/2/2019 | [เพิ่มการศึกษาสำหรับ office 365](/AlchemyInsights/office-365-education-for-free) | การปรับเปลี่ยน |
+| วันที่ 8/2/2019 | [Licences จำเป็นสำหรับ Microsoft สิ่งที่ต้องทำ](/AlchemyInsights/required-licences-for-microsoft-todo) | การปรับเปลี่ยน |
+| วันที่ 8/2/2019 | [นโยบายการเก็บข้อมูลในศูนย์ดูแล Exchange ไม่ทำงาน](/AlchemyInsights/retention-policies-in-exchange-admin-center-not-working) | การปรับเปลี่ยน |
