@@ -6,35 +6,35 @@ ms.date: 8/1/2018
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+localization_priority: Normal
 ms.assetid: dcb86c54-769e-4832-9f88-bc45f1e5f36c
-ms.openlocfilehash: f4153f8a87a138d548c133142b0d48a319bd4b71
-ms.sourcegitcommit: 0ae6cbb8cf2836da98300767ed81b411d6551bee
+ms.openlocfilehash: 756c5e98ed3e9cedd0152b5747ea6bf1ed31778e
+ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 01/30/2019
-ms.locfileid: "29656586"
+ms.lasthandoff: 02/12/2019
+ms.locfileid: "29902384"
 ---
-# <a name="monitoring-conditional-access"></a><span data-ttu-id="5c935-102">ตรวจสอบการเข้าถึงแบบมีเงื่อนไข</span><span class="sxs-lookup"><span data-stu-id="5c935-102">Monitoring Conditional Access</span></span>
+# <a name="monitoring-conditional-access"></a><span data-ttu-id="4b612-102">ตรวจสอบการเข้าถึงแบบมีเงื่อนไข</span><span class="sxs-lookup"><span data-stu-id="4b612-102">Monitoring Conditional Access</span></span>
 
-<span data-ttu-id="5c935-p101">ผู้ใช้ที่เป็นเป้าหมาย มีการเข้าถึงแบบมีเงื่อนไขจะได้รับอีเมลการแจ้งเตือนถ้าพวกเขาไม่ตรงกับความต้องการเข้าถึงขององค์กรของคุณ เมื่อต้องการแก้ไข เราขอแนะนำการแก้ไขปัญหาต่อไปนี้อย่างใดอย่างหนึ่ง:</span><span class="sxs-lookup"><span data-stu-id="5c935-p101">Users targeted with conditional access will receive a notification email if they do not meet your organization's access requirements. To resolve, we recommend one or more of the following solutions:</span></span>
+<span data-ttu-id="4b612-p101">ผู้ใช้ที่เป็นเป้าหมาย มีการเข้าถึงแบบมีเงื่อนไขจะได้รับอีเมลการแจ้งเตือนถ้าพวกเขาไม่ตรงกับความต้องการเข้าถึงขององค์กรของคุณ เมื่อต้องการแก้ไข เราขอแนะนำการแก้ไขปัญหาต่อไปนี้อย่างใดอย่างหนึ่ง:</span><span class="sxs-lookup"><span data-stu-id="4b612-p101">Users targeted with conditional access will receive a notification email if they do not meet your organization's access requirements. To resolve, we recommend one or more of the following solutions:</span></span>
   
-- <span data-ttu-id="5c935-p102">ถ้าอุปกรณ์เป็น presumed เมื่อต้องการลงทะเบียน คำแนะนำผู้ใช้ไปยังแอพลิเคชันเว็บไซต์บริษัท และตรวจสอบว่า จะปรากฏอยู่ในเว็บไซต์บริษัท หากโปรแกรมไม่ ผู้ใช้ควรลงทะเบียนอุปกรณ์</span><span class="sxs-lookup"><span data-stu-id="5c935-p102">If the device is presumed to be enrolled, advise the user to go to the Company Portal app and verify that it appears in the Company Portal. If it doesn't, the user should enroll the device.</span></span>
+- <span data-ttu-id="4b612-p102">ถ้าอุปกรณ์เป็น presumed เมื่อต้องการลงทะเบียน คำแนะนำผู้ใช้ไปยังแอพลิเคชันเว็บไซต์บริษัท และตรวจสอบว่า จะปรากฏอยู่ในเว็บไซต์บริษัท หากโปรแกรมไม่ ผู้ใช้ควรลงทะเบียนอุปกรณ์</span><span class="sxs-lookup"><span data-stu-id="4b612-p102">If the device is presumed to be enrolled, advise the user to go to the Company Portal app and verify that it appears in the Company Portal. If it doesn't, the user should enroll the device.</span></span>
     
-- <span data-ttu-id="5c935-p103">ในเว็บไซต์ Azure ไป**Intune\>ปฏิบัติตามกฎระเบียบอุปกรณ์** ภายใต้**จอภาพ**ให้คลิก**การปฏิบัติตามกฎระเบียบอุปกรณ์** ดูรายงานการปฏิบัติตามกฎระเบียบของอุปกรณ์เพื่อตรวจสอบว่า อุปกรณ์ของผู้ใช้ถูกทำเครื่องหมายเป็นไปตามข้อกำหนด</span><span class="sxs-lookup"><span data-stu-id="5c935-p103">In the Azure portal go to **Intune \> Device compliance**. Under **Monitor** click **Device compliance**. View your device compliance report to verify that the user's device is marked as compliant.</span></span> 
+- <span data-ttu-id="4b612-p103">ในเว็บไซต์ Azure ไป**Intune\>ปฏิบัติตามกฎระเบียบอุปกรณ์** ภายใต้**จอภาพ**ให้คลิก**การปฏิบัติตามกฎระเบียบอุปกรณ์** ดูรายงานการปฏิบัติตามกฎระเบียบของอุปกรณ์เพื่อตรวจสอบว่า อุปกรณ์ของผู้ใช้ถูกทำเครื่องหมายเป็นไปตามข้อกำหนด</span><span class="sxs-lookup"><span data-stu-id="4b612-p103">In the Azure portal go to **Intune \> Device compliance**. Under **Monitor** click **Device compliance**. View your device compliance report to verify that the user's device is marked as compliant.</span></span> 
     
-- <span data-ttu-id="5c935-p104">ในเว็บไซต์ Azure ไป**Intune\>ปฏิบัติตามกฎระเบียบอุปกรณ์** ภายใต้การ**จัดการ**คลิก**นโยบาย** ในรายการของนโยบายการปฏิบัติตามกฎระเบียบ ตรวจสอบว่า มีกำหนดโพรไฟล์กับอุปกรณ์ของผู้ใช้ ถ้ามีกำหนดโพรไฟล์ไม่มี แล้ว Intune จะไม่สามารถยืนยันสถานะการปฏิบัติตามกฎระเบียบของอุปกรณ์</span><span class="sxs-lookup"><span data-stu-id="5c935-p104">In the Azure portal go to **Intune \> Device compliance**. Under **Manage**, click **Policies**. In the list of compliance policies, verify that a profile is assigned to your user's device. If no profile is assigned, then Intune will not be able to confirm the device's compliance status.</span></span> 
+- <span data-ttu-id="4b612-p104">ในเว็บไซต์ Azure ไป**Intune\>ปฏิบัติตามกฎระเบียบอุปกรณ์** ภายใต้การ**จัดการ**คลิก**นโยบาย** ในรายการของนโยบายการปฏิบัติตามกฎระเบียบ ตรวจสอบว่า มีกำหนดโพรไฟล์กับอุปกรณ์ของผู้ใช้ ถ้ามีกำหนดโพรไฟล์ไม่มี แล้ว Intune จะไม่สามารถยืนยันสถานะการปฏิบัติตามกฎระเบียบของอุปกรณ์</span><span class="sxs-lookup"><span data-stu-id="4b612-p104">In the Azure portal go to **Intune \> Device compliance**. Under **Manage**, click **Policies**. In the list of compliance policies, verify that a profile is assigned to your user's device. If no profile is assigned, then Intune will not be able to confirm the device's compliance status.</span></span> 
     
-- <span data-ttu-id="5c935-114">แก้ไขการมอบหมายแบบมีเงื่อนไขในการเข้าถึงของผู้ใช้</span><span class="sxs-lookup"><span data-stu-id="5c935-114">Edit the user's conditional access assignment.</span></span>
+- <span data-ttu-id="4b612-114">แก้ไขการมอบหมายแบบมีเงื่อนไขในการเข้าถึงของผู้ใช้</span><span class="sxs-lookup"><span data-stu-id="4b612-114">Edit the user's conditional access assignment.</span></span>
     
-1. <span data-ttu-id="5c935-115">ในเว็บไซต์ Azure ไป**Intune\>เข้าตามเงื่อนไข\>นโยบาย**</span><span class="sxs-lookup"><span data-stu-id="5c935-115">In the Azure portal go to **Intune \> Conditional access \> Policies**</span></span>
+1. <span data-ttu-id="4b612-115">ในเว็บไซต์ Azure ไป**Intune\>เข้าตามเงื่อนไข\>นโยบาย**</span><span class="sxs-lookup"><span data-stu-id="4b612-115">In the Azure portal go to **Intune \> Conditional access \> Policies**</span></span>
     
-2. <span data-ttu-id="5c935-116">เลือกนโยบายการเลือกจากรายการ</span><span class="sxs-lookup"><span data-stu-id="5c935-116">Select a policy from the list</span></span>
+2. <span data-ttu-id="4b612-116">เลือกนโยบายการเลือกจากรายการ</span><span class="sxs-lookup"><span data-stu-id="4b612-116">Select a policy from the list</span></span>
     
-3. <span data-ttu-id="5c935-117">คลิก**ผู้ใช้และกลุ่ม**</span><span class="sxs-lookup"><span data-stu-id="5c935-117">Click **Users and groups**</span></span>
+3. <span data-ttu-id="4b612-117">คลิก**ผู้ใช้และกลุ่ม**</span><span class="sxs-lookup"><span data-stu-id="4b612-117">Click **Users and groups**</span></span>
     
-4. <span data-ttu-id="5c935-p105">เมื่อต้องการกำหนดเป้าหมายนโยบายที่บุคคลอื่น เพิ่มลงในรายการการ**รวม** เพื่อให้แน่ใจว่า บุคคลที่ถูกตัดออกจากนโยบาย เพิ่มเข้าไปในรายการข้อ**ยกเว้น**</span><span class="sxs-lookup"><span data-stu-id="5c935-p105">To target a certain policy at someone, add them to the **Include** list. To ensure that a person is omitted from the policy, add them to the **Exclude** list.</span></span> 
+4. <span data-ttu-id="4b612-p105">เมื่อต้องการกำหนดเป้าหมายนโยบายที่บุคคลอื่น เพิ่มลงในรายการการ**รวม** เพื่อให้แน่ใจว่า บุคคลที่ถูกตัดออกจากนโยบาย เพิ่มเข้าไปในรายการข้อ**ยกเว้น**</span><span class="sxs-lookup"><span data-stu-id="4b612-p105">To target a certain policy at someone, add them to the **Include** list. To ensure that a person is omitted from the policy, add them to the **Exclude** list.</span></span> 
     
-<span data-ttu-id="5c935-120">อ่านเพิ่มเติม:[วิธีการอุปกรณ์ตรวจสอบการเข้าถึงแบบมีเงื่อนไข](https://docs.microsoft.com/intune/conditional-access-exchange-monitor)</span><span class="sxs-lookup"><span data-stu-id="5c935-120">Read more: [How to Monitor Conditional Access devices](https://docs.microsoft.com/intune/conditional-access-exchange-monitor)</span></span>
+<span data-ttu-id="4b612-120">อ่านเพิ่มเติม:[วิธีการอุปกรณ์ตรวจสอบการเข้าถึงแบบมีเงื่อนไข](https://docs.microsoft.com/intune/conditional-access-exchange-monitor)</span><span class="sxs-lookup"><span data-stu-id="4b612-120">Read more: [How to Monitor Conditional Access devices](https://docs.microsoft.com/intune/conditional-access-exchange-monitor)</span></span>
   
 
