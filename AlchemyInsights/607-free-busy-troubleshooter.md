@@ -1,7 +1,7 @@
 ---
 title: ตัวแก้ไขปัญหา ว่าง/607
 ms.author: pdigia
-author: pdigia
+author: pebaum
 manager: jackiesm
 ms.date: 3/23/2018
 ms.audience: Admin
@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: 69e8da45-4d29-48ea-8279-d35313367216
-ms.openlocfilehash: fa831bf1a2582e406996d3134571616efa250c0e
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 41972629b2d9653890b47c55a5a827d52f41ca89
+ms.sourcegitcommit: 6bd248764239282688cac98347c2356b701389e4
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29935731"
+ms.lasthandoff: 02/13/2019
+ms.locfileid: "29969804"
 ---
 # <a name="issues-seeing-calendar-freebusy-information"></a>ปัญหาในการดูข้อมูลว่าง/ไม่ว่างในปฏิทิน
 
