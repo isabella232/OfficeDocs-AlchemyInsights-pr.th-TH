@@ -11,21 +11,15 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: fb7a525e-3527-4b4f-84a7-8d969e97abf7
-ms.openlocfilehash: e3ff2a2926bad48e13a468b0f211257cb81be40e
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: faa946a845c4e3b59fb33c6bf12de555e49777b6
+ms.sourcegitcommit: e4128331c72e8bc9aa1d627aec2a41b8da0f5dbd
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29921583"
+ms.lasthandoff: 02/14/2019
+ms.locfileid: "30049822"
 ---
 # <a name="update-dns-records"></a>ปรับปรุงระเบียน DNS
-
-
-
 การตั้งค่าระเบียน DNS ของคุณมีความสำคัญกับการสมัครใช้งาน Office 365 ของคุณทำงานกับชื่อโดเมนแบบกำหนดเองของคุณ ใช้การเชื่อมโยงด้านล่างเพื่อเพิ่ม หรือปรับปรุงระเบียน DNS ของคุณ
   
-- [สร้างระเบียน DNS ที่ให้บริการจัดการโฮสต์สำหรับใด ๆ DNS สำหรับ Office 365](https://docs.microsoft.com/office365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider)
-    
+- [สร้างระเบียน DNS ที่ให้บริการจัดการโฮสต์สำหรับใด ๆ DNS สำหรับ Office 365](https://docs.microsoft.com/office365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider)  
 - [เพิ่ม หรือแก้ไขระเบียน DNS ที่กำหนดเอง](https://support.office.com/article/AF00A516-DD39-4EDA-AF3E-1EAF686C8DC9)
-    
-
