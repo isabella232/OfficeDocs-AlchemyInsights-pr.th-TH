@@ -11,21 +11,21 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: cebb7a4a-33e1-474e-a5d0-dbd02a80b1e9
-ms.openlocfilehash: 8984d8dfdd8f1ff540b418dfbfe382cffac978e5
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: d29764266f44aee5f8f8e2c93ad67b2a33c6f417
+ms.sourcegitcommit: c003a5db7edc3a44fb5b31b46cd45f12b62d172a
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29933859"
+ms.lasthandoff: 02/22/2019
+ms.locfileid: "30209756"
 ---
 # <a name="give-users-access-to-sharepoint-and-onedrive"></a>ให้ผู้ใช้สามารถเข้าถึง SharePoint และ OneDrive
 
 > [!NOTE]
 > ถ้าไม่พร้อมใช้งานสำหรับผู้ใช้หลายคนที่ก่อนหน้านี้ มีการเข้าถึงไซต์ SharePoint หรือการ OneDrive อาจมีปัญหากับบริการชั่วคราว [ตรวจสอบแดชบอร์ความสมบูรณ์ของการบริการ](https://portal.office.com/adminportal/home#/servicehealth)
   
-ถ้าคุณต้องการให้คนในองค์กรของคุณเพื่อให้สามารถเข้าสู่ระบบ และใช้ SharePoint และ OneDrive คุณจำเป็นต้องเพิ่มบัญชีนั้น และให้แน่ใจว่า พวกเขามีสิทธิ์การใช้งานที่ให้ความเข้ากับ SharePoint และ OneDrive วิธีที่ง่ายที่สุดในการเพิ่มผู้ใช้ใน Office 365 admin ศูนย์อยู่
+ถ้าคุณต้องการให้คนในองค์กรของคุณเพื่อให้สามารถเข้าสู่ระบบ และใช้ SharePoint และ OneDrive คุณจำเป็นต้องเพิ่มบัญชีนั้น และให้แน่ใจว่า พวกเขามีสิทธิ์การใช้งานที่ให้ความเข้ากับ SharePoint และ OneDrive วิธีที่ง่ายที่สุดในการเพิ่มผู้ใช้ใน Microsoft 365 admin ศูนย์อยู่
   
-1. ไป[หน้าผู้ใช้ที่ใช้งานอยู่ใน Office 365 admin ศูนย์](https://portal.office.com/adminportal/home#/users)และจากนั้น คลิก**เพิ่มผู้ใช้**
+1. ไป[หน้าผู้ใช้ที่ใช้งานอยู่ใน Microsoft 365 admin ศูนย์](https://portal.office.com/adminportal/home#/users)และจากนั้น คลิก**เพิ่มผู้ใช้**
     
 2. กรอกข้อมูลสำหรับผู้ใช้ และให้แน่ ใจว่า ภายใต้**ใบอนุญาตของผลิตภัณฑ์**มีกำหนดสิทธิ์การใช้งาน**แบบออนไลน์ของ SharePoint**ถูกเลือก 
     

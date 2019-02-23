@@ -8,12 +8,12 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 6a7bc2f3-7d03-4c6f-b15f-cc7e89d92102
-ms.openlocfilehash: 2f96c6ee5d2f58265057641694c0536a42a5faa3
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 89e9507141a28422de16455d95b052df77c6545a
+ms.sourcegitcommit: c003a5db7edc3a44fb5b31b46cd45f12b62d172a
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29905059"
+ms.lasthandoff: 02/22/2019
+ms.locfileid: "30210008"
 ---
 # <a name="having-email-delivery-issues"></a>มีปัญหาการส่งอีเมลหรือไม่
 
@@ -23,7 +23,7 @@ ms.locfileid: "29905059"
   
 ระเบียน NS หรือ MX ของโดเมน (DNS) ตั้งค่าไม่ได้ถูกกำหนดค่าอย่างถูกต้องสำหรับการส่งอีเมกับบริการของ Office 365 คุณสามารถอ้างอิงไปยัง[ระเบียน DNS ที่ปรับปรุงใน Office 365](https://support.office.com/article/Create-DNS-records-for-Office-365-when-you-manage-your-DNS-records-B0F3FDCA-8A80-4E8E-9EF3-61E8A2A9AB23.aspx)สำหรับคำแนะนำโดยละเอียด 
   
-เมื่อต้องการแก้ไขปัญหา โปรดไปที่หน้า[โดเมน](https://admin.microsoft.com/adminportal/home#/Domains)ใน Office 365 Admin ศูนย์ ทางเราจะช่วยคุณได้ด้วย 
+เมื่อต้องการแก้ไขปัญหา โปรดไปที่หน้า[โดเมน](https://admin.microsoft.com/adminportal/home#/Domains)ใน Microsoft 365 admin ศูนย์ ทางเราจะช่วยคุณได้ด้วย 
   
 การ[ตรวจสอบโดเมน FAQ](https://support.office.com/article/7b7b075d-79f9-4e37-8a9e-fb60c1d95166.aspx)วิธีแก้ไขปัญหาทั่วไปอื่น ๆ 
   
