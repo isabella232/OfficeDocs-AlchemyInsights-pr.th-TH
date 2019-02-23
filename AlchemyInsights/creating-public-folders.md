@@ -11,27 +11,27 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: 2f8699c8-1eb6-4f5e-8c06-08e960092b1a
-ms.openlocfilehash: 5cbc69c723b311f4e1c5b8fb2831c878641a065d
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: ec33ae6f35f22666185ae3e45c2222329e8f9207
+ms.sourcegitcommit: c003a5db7edc3a44fb5b31b46cd45f12b62d172a
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29914167"
+ms.lasthandoff: 02/22/2019
+ms.locfileid: "30208136"
 ---
-# <a name="creating-public-folders"></a><span data-ttu-id="f917d-102">การสร้างโฟลเดอร์สาธารณะ</span><span class="sxs-lookup"><span data-stu-id="f917d-102">Creating public folders</span></span>
+# <a name="creating-public-folders"></a><span data-ttu-id="362aa-102">การสร้างโฟลเดอร์สาธารณะ</span><span class="sxs-lookup"><span data-stu-id="362aa-102">Creating public folders</span></span>
 
-<span data-ttu-id="f917d-p101">ก่อนที่ผู้ใช้ของคุณสามารถใช้โฟลเดอร์สาธารณะใน Office 365 คุณจะต้องสร้างกล่องจดหมายโฟลเดอร์สาธารณะอย่างน้อยหนึ่งครั้ง เพื่อสร้าง:</span><span class="sxs-lookup"><span data-stu-id="f917d-p101">Before your users can use public folders in Office 365, you will need to create at least one public folder mailbox. To create:</span></span>
+<span data-ttu-id="362aa-p101">ก่อนที่ผู้ใช้ของคุณสามารถใช้โฟลเดอร์สาธารณะใน Office 365 คุณจะต้องสร้างกล่องจดหมายโฟลเดอร์สาธารณะอย่างน้อยหนึ่งครั้ง เพื่อสร้าง:</span><span class="sxs-lookup"><span data-stu-id="362aa-p101">Before your users can use public folders in Office 365, you will need to create at least one public folder mailbox. To create:</span></span>
   
-1. <span data-ttu-id="f917d-105">ใน Office 365 admin ศูนย์ ไปยัง**ศูนย์ Admin** \> **แลกเปลี่ยน**</span><span class="sxs-lookup"><span data-stu-id="f917d-105">In the Office 365 admin center, go to **Admin centers** \> **Exchange**.</span></span>
+1. <span data-ttu-id="362aa-105">ใน Microsoft 365 admin ศูนย์ ไปยัง**ศูนย์ Admin** \> **แลกเปลี่ยน**</span><span class="sxs-lookup"><span data-stu-id="362aa-105">In the Microsoft 365 admin center, go to **Admin centers** \> **Exchange**.</span></span>
     
-2. <span data-ttu-id="f917d-106">ไปที่**โฟลเดอร์'สาธารณะ'** \> **กล่องจดหมายโฟลเดอร์สาธารณะ**แล้ว คลิก**เพิ่ม**</span><span class="sxs-lookup"><span data-stu-id="f917d-106">Go to **Public folders** \> **Public folder mailboxes**, and then click **Add**.</span></span>
+2. <span data-ttu-id="362aa-106">ไปที่**โฟลเดอร์'สาธารณะ'** \> **กล่องจดหมายโฟลเดอร์สาธารณะ**แล้ว คลิก**เพิ่ม**</span><span class="sxs-lookup"><span data-stu-id="362aa-106">Go to **Public folders** \> **Public folder mailboxes**, and then click **Add**.</span></span>
     
-3. <span data-ttu-id="f917d-107">ใน**กล่องจดหมายโฟลเดอร์สาธารณะ**ใส่ชื่อให้กับกล่องจดหมายโฟลเดอร์สาธารณะ</span><span class="sxs-lookup"><span data-stu-id="f917d-107">In **Public Folder Mailbox**, provide a name for the public folder mailbox.</span></span>
+3. <span data-ttu-id="362aa-107">ใน**กล่องจดหมายโฟลเดอร์สาธารณะ**ใส่ชื่อให้กับกล่องจดหมายโฟลเดอร์สาธารณะ</span><span class="sxs-lookup"><span data-stu-id="362aa-107">In **Public Folder Mailbox**, provide a name for the public folder mailbox.</span></span>
     
-4. <span data-ttu-id="f917d-108">คลิก **บันทึก**</span><span class="sxs-lookup"><span data-stu-id="f917d-108">Click **Save**.</span></span>
+4. <span data-ttu-id="362aa-108">คลิก **บันทึก**</span><span class="sxs-lookup"><span data-stu-id="362aa-108">Click **Save**.</span></span>
     
-<span data-ttu-id="f917d-p102">เมื่อกล่องจดหมายถูกสร้างขึ้น คุณสามารถเริ่มต้นการสร้างแต่ละโฟลเดอร์ หรือแจ้งผู้ใช้ของคุณเพื่อ[เริ่มต้นการสร้าง และการใช้โฟลเดอร์'สาธารณะ'ใน Outlook](https://support.office.com/article/Create-and-share-a-public-folder-in-Outlook-a2835011-d524-4a5c-a207-05c159bb2a97) ในฐานะผู้ดูแล คุณยังสามารถ[สร้างโฟลเดอร์สาธารณะสำหรับองค์กรของคุณ](https://technet.microsoft.com/library/bb691104%28v=exchg.150%29.aspx)</span><span class="sxs-lookup"><span data-stu-id="f917d-p102">Once a mailbox has been created, you can start creating individual folders or tell your users to [start creating and using public folders in Outlook](https://support.office.com/article/Create-and-share-a-public-folder-in-Outlook-a2835011-d524-4a5c-a207-05c159bb2a97). As an administrator, you can also [create public folders for your organization](https://technet.microsoft.com/library/bb691104%28v=exchg.150%29.aspx).</span></span>
+<span data-ttu-id="362aa-p102">เมื่อกล่องจดหมายถูกสร้างขึ้น คุณสามารถเริ่มต้นการสร้างแต่ละโฟลเดอร์ หรือแจ้งผู้ใช้ของคุณเพื่อ[เริ่มต้นการสร้าง และการใช้โฟลเดอร์'สาธารณะ'ใน Outlook](https://support.office.com/article/Create-and-share-a-public-folder-in-Outlook-a2835011-d524-4a5c-a207-05c159bb2a97) ในฐานะผู้ดูแล คุณยังสามารถ[สร้างโฟลเดอร์สาธารณะสำหรับองค์กรของคุณ](https://technet.microsoft.com/library/bb691104%28v=exchg.150%29.aspx)</span><span class="sxs-lookup"><span data-stu-id="362aa-p102">Once a mailbox has been created, you can start creating individual folders or tell your users to [start creating and using public folders in Outlook](https://support.office.com/article/Create-and-share-a-public-folder-in-Outlook-a2835011-d524-4a5c-a207-05c159bb2a97). As an administrator, you can also [create public folders for your organization](https://technet.microsoft.com/library/bb691104%28v=exchg.150%29.aspx).</span></span>
   
-<span data-ttu-id="f917d-111">โฟลเดอร์'สาธารณะ'จะไม่สามารถเข้าถึงได้บนอุปกรณ์โมบาย</span><span class="sxs-lookup"><span data-stu-id="f917d-111">Public folders are not accessible on mobile devices.</span></span>
+<span data-ttu-id="362aa-111">โฟลเดอร์'สาธารณะ'จะไม่สามารถเข้าถึงได้บนอุปกรณ์โมบาย</span><span class="sxs-lookup"><span data-stu-id="362aa-111">Public folders are not accessible on mobile devices.</span></span>
   
 
