@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: faefe872-1fb6-4a0d-8ea6-3c034a484351
-ms.openlocfilehash: 8fe5e7ca24f8d3ddeb9c38090ad098eed1dbb32b
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 5434c0e01c65687269c8f3fa37bbe903f15dd3f0
+ms.sourcegitcommit: c003a5db7edc3a44fb5b31b46cd45f12b62d172a
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29919459"
+ms.lasthandoff: 02/22/2019
+ms.locfileid: "30208102"
 ---
 # <a name="compare-office-365-plans"></a>เปรียบเทียบแผน Office 365
 
@@ -26,7 +26,7 @@ ms.locfileid: "29919459"
   
 ถ้าองค์กรของคุณมีความสนใจในการเปรียบเทียบแผนทั้งหมด และการกำหนดราคา ตรวจทาน[เปรียบเทียบแผน Office 365 ทั้งหมด](https://products.office.com/business/compare-more-office-365-for-business-plans)
   
-ถ้าองค์กรของคุณได้ซื้อ Office 365 แผนการ และความสนใจในการสลับไปแผนอื่นคุณสามารถดังนั้นจากศูนย์ Office 365 Admin ไปที่การ[บอกรับเป็นสมาชิก](https://go.microsoft.com/fwlink/p/?linkid=842054)หรือเลือก**การเรียกเก็บเงิน** \> **บอกรับเป็นสมาชิก** เลือก**แผนสวิตช์**เพื่อดูรายการของแผนใหม่ที่พร้อมใช้งาน 
+ถ้าองค์กรของคุณได้ซื้อ Office 365 แผนการ และความสนใจในการสลับไปแผนอื่นคุณสามารถอื่น ๆ จาก Microsoft 365 admin ศูนย์ ไปที่การ[บอกรับเป็นสมาชิก](https://go.microsoft.com/fwlink/p/?linkid=842054)หรือเลือก**การเรียกเก็บเงิน** \> **บอกรับเป็นสมาชิก** เลือก**แผนสวิตช์**เพื่อดูรายการของแผนใหม่ที่พร้อมใช้งาน 
   
 องค์กรของคุณยังสามารถผสม และตรงกับ Office 365 แผนเพื่อตอบสนองความต้องการและข้อกำหนดของลักษณะการทำงานของผู้ใช้ จาก Office 365 Admin ไปเพจการ[ซื้อบริการ](https://go.microsoft.com/fwlink/p/?linkid=868433)หรือเลือก**การเรียกเก็บเงิน** \> **บริการการซื้อ**
   

@@ -11,16 +11,16 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: 12edf610-e7f1-4693-b767-a8d67b09c10b
-ms.openlocfilehash: a932770042274ed721c2394c2edf2db1e9dae4b5
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: bf7ba2f9f90d6c7220973b13ade4f154a0ca3655
+ms.sourcegitcommit: c003a5db7edc3a44fb5b31b46cd45f12b62d172a
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29901243"
+ms.lasthandoff: 02/22/2019
+ms.locfileid: "30208213"
 ---
 # <a name="trying-to-find-a-trial"></a>กำลังพยายามค้นหาการทดลองหรือไม่
 
-ถ้าคุณต้องการที่จะลองใหม่การบริการคุณสามารถค้นหารายการของการบอกรับเป็นสมาชิกที่มีพร้อมใช้งานสำหรับรุ่นทดลองใช้ใน Office 365 admin ศูนย์
+ถ้าคุณต้องการที่จะลองใหม่การบริการคุณสามารถค้นหารายการของการบอกรับเป็นสมาชิกที่มีพร้อมใช้งานสำหรับรุ่นทดลองใช้ใน Microsoft 365 admin ศูนย์
   
 1. ไปเพจการ[ซื้อบริการ](https://go.microsoft.com/fwlink/p/?linkid=868433)หรือเลือก**การเรียกเก็บเงิน** \> **บริการการซื้อ**
     

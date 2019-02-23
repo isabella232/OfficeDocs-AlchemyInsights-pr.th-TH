@@ -11,18 +11,18 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: 7a82ec04-fdf6-43e9-924c-66157b180890
-ms.openlocfilehash: ba7da00f2a82b016af812dedc13f3e5131c99f05
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 51691206576822cdfb71e28e58ccf81fc1fa9654
+ms.sourcegitcommit: c003a5db7edc3a44fb5b31b46cd45f12b62d172a
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29925867"
+ms.lasthandoff: 02/22/2019
+ms.locfileid: "30207956"
 ---
 # <a name="switch-plans-to-increase-mailbox-size"></a>สวิตช์วางแผนเพื่อเพิ่มขนาดของกล่องจดหมาย
 
 ถ้าจดหมายมีขนาด 50 GB คุณสามารถเพิ่มขนาดของกล่องจดหมายที่จะ 100 GB ด้วยการสลับไปยัง[E3 องค์กร 365 Office](https://products.office.com/business/office-365-enterprise-e3-business-software)หรือ[E5 องค์กร 365 Office](https://products.office.com/business/office-365-enterprise-e5-business-software) ต่อไปนี้เป็นขั้นตอนเพื่อสลับไปยังแผน Office 365 อื่น:
   
-1. ใน Office 365 admin ศูนย์ ไปหน้าการ[บอกรับเป็นสมาชิก](https://go.microsoft.com/fwlink/p/?linkid=842054)หรือเลือก**การเรียกเก็บเงิน** \> **บอกรับเป็นสมาชิก**
+1. ใน Microsoft 365 admin ศูนย์ ไปหน้าการ[บอกรับเป็นสมาชิก](https://go.microsoft.com/fwlink/p/?linkid=842054)หรือเลือก**การเรียกเก็บเงิน** \> **บอกรับเป็นสมาชิก**
     
 2. เลือก**แผนสวิตช์**เพื่อดูรายการของแผนใหม่ที่พร้อมใช้งาน 
     
