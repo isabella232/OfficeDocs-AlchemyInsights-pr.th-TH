@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: 2ef840ec-7e1a-4df2-944b-d643fe08bd8f
-ms.openlocfilehash: 49750888b92a62058efe8f09ccb03930afae43f5
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: e4932e5d5cedcd98917ee6578a818284b8a93926
+ms.sourcegitcommit: d1fb75d8359a248a03ddb1af50bab31ec3de6e2d
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29941527"
+ms.lasthandoff: 02/25/2019
+ms.locfileid: "30243844"
 ---
 # <a name="block-or-unblock-senders"></a>บล็อก หรือยกเลิกบล็อกผู้ส่ง
 
@@ -28,7 +28,7 @@ ms.locfileid: "29941527"
     
 3. เมื่อต้องการบล็อกผู้ส่ง ป้อนอยู่อีเมลหรือโดเมนที่คุณต้องการบล็อก และเลือก**เพิ่ม** 
     
-    เมื่อต้องการยกเลิกบล็อกผู้ส่ง เลือกรายการในรายการ และเลือก**เอา**![ลบ](media/deb47846-8483-4f9d-813a-fc8fe288b583.png)
+    เมื่อต้องการยกเลิกบล็อกผู้ส่ง เลือกรายการในรายการ และเลือก**เอาออก**
     
 4. เลือก**บันทึก** 
     
