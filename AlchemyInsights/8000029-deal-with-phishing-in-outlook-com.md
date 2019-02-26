@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: 99ff945c-a5b0-463b-8626-734c2c88f1c3
-ms.openlocfilehash: 4683bd62adb7bf9096dc7e5fedca8b42d6dcccf0
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: ed917050637d3984cc120fa26ecb29719a921878
+ms.sourcegitcommit: d1fb75d8359a248a03ddb1af50bab31ec3de6e2d
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29930534"
+ms.lasthandoff: 02/25/2019
+ms.locfileid: "30244528"
 ---
 # <a name="deal-with-phishing-scams-in-your-inbox"></a>เชื่อมโยงกับกลโกงของฟิชชิ่งในกล่องขาเข้าของคุณ
 
@@ -32,6 +32,6 @@ ms.locfileid: "29930534"
   
 ถ้าคุณกำลังดูการเพิ่มสแปม อ่านวิธีการ[ช่วยเก็บสแปมและอีเมลขยะออกจากกล่องขาเข้าของคุณ](https://go.microsoft.com/fwlink/p/?linkid=873140)
   
-เมื่อต้องการบล็อกที่อยู่อีเมล ไปที่การ**ตั้งค่า**![ตั้งค่า](media/f4b2e798-fff1-4a14-931f-5677a4543b58.png) \> **ตัวเลือก** \> **ชื่อผู้ส่งที่ถูกบล็อก** เมื่อต้องการเพิ่มที่อยู่หรือโดเมนลงในรายชื่อผู้ส่งที่ปลอดภัยของคุณ เลือก**ผู้ส่งที่ปลอดภัย** 
+เมื่อต้องการบล็อกที่อยู่อีเมล ไปที่การ**ตั้งค่า** \> **ตัวเลือก** \> **ชื่อผู้ส่งที่ถูกบล็อก** เมื่อต้องการเพิ่มที่อยู่หรือโดเมนลงในรายชื่อผู้ส่งที่ปลอดภัยของคุณ เลือก**ผู้ส่งที่ปลอดภัย** 
   
 

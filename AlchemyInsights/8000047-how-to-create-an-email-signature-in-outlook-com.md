@@ -9,22 +9,22 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 0ebfc3b9-de3c-487c-b01b-7b027e4c562f
-ms.openlocfilehash: a66b7961a81ab7a0ec76edf7fa0c1e2e85b9eed7
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 384104963a98e07a77dbfaba64787ef30fb4be29
+ms.sourcegitcommit: d1fb75d8359a248a03ddb1af50bab31ec3de6e2d
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29938431"
+ms.lasthandoff: 02/25/2019
+ms.locfileid: "30244168"
 ---
 # <a name="how-to-create-an-email-signature"></a>วิธีการสร้างลายเซ็นอีเมล
 
 ถ้าคุณกำลังใช้รุ่นทดลองใช้ Outlook.com:
   
-- ที่ด้านบนของหน้า เลือกการ**ตั้งค่า**![ตั้งค่า](media/f4b2e798-fff1-4a14-931f-5677a4543b58.png) \> **การตั้งค่ามุมมองแบบเต็ม** \> **เรียบเรียงและตอบกลับ** 
+- ที่ด้านบนของหน้า เลือกการ**ตั้งค่า** \> **การตั้งค่ามุมมองแบบเต็ม** \> **เรียบเรียงและตอบกลับ** 
     
 ถ้าคุณกำลังใช้แบบคลาสสิ Outlook.com:
   
-- ที่ด้านบนของหน้า เลือกการ**ตั้งค่า**![ตั้งค่า](media/f4b2e798-fff1-4a14-931f-5677a4543b58.png) \> **ตัวเลือก** \> **เม** \> **เค้า** \> **ลายเซ็นอีเมล** 
+- ที่ด้านบนของหน้า เลือกการ**ตั้งค่า** \> **ตัวเลือก** \> **เม** \> **เค้า** \> **ลายเซ็นอีเมล** 
     
  **หมายเหตุ:** คุณสามารถมีลายเซ็นเดียวเท่านั้นสำหรับแต่ละบัญชี 
   

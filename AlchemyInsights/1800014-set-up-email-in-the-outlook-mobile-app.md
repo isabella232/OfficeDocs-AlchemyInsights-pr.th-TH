@@ -11,16 +11,16 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: d2b46122-b59a-4b94-9cae-5e42be819022
-ms.openlocfilehash: 7345e635de059adc10a07be8edf854431b133e72
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 8b47c1963523c9be8eb5e1fb2cdfd283f82c321c
+ms.sourcegitcommit: d1fb75d8359a248a03ddb1af50bab31ec3de6e2d
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29925543"
+ms.lasthandoff: 02/25/2019
+ms.locfileid: "30244384"
 ---
 # <a name="set-up-email-in-the-outlook-mobile-app"></a>ตั้งค่าอีเมลในแอพลิเคชันโมบาย Outlook
 
-1. เลือกการ**เริ่มต้นใช้งาน**ถ้ามีการตั้งค่าครั้งแรกค่าอีเมลใน app. การเคลื่อนมิฉะนั้น เคาะ**เมนู**![ปุ่มเมนูตัว](media/265b9089-9630-42dd-a244-d9a412d8fe47.png)แล้ว เคาะ**การตั้งค่า** \> **เพิ่มบัญชี** \> **เพิ่มบัญชีอีเมล** 
+1. เลือกการ**เริ่มต้นใช้งาน**ถ้าเป็นครั้งแรกที่คุณตั้งค่าอีเมลใน app. การเคลื่อนมิฉะนั้น เคาะ**เมนู**และจากนั้น เคาะ**การตั้งค่า** \> **เพิ่มบัญชี** \> **เพิ่มบัญชีอีเมล** 
     
 2. ป้อนที่อยู่อีเมลที่คุณ และเคาะ**ดำเนินการต่อ**หรือ**เพิ่มบัญชี**
     
