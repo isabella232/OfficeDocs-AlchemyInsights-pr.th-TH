@@ -9,16 +9,16 @@ ms.prod: office-online-server
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 3899a788-feaa-4ea4-a40b-09542f4cc148
-ms.openlocfilehash: 457bf53f2817b1e0a68b0647c84cb6b66ef0a43a
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 73ff9c5cb09cd4209912ef459e8c7df2560c2d27
+ms.sourcegitcommit: 431f60d51f4203b22e655a37358667d844e3e576
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29927775"
+ms.lasthandoff: 03/07/2019
+ms.locfileid: "30468574"
 ---
 # <a name="have-you-enabled-teams-for-your-students"></a>คุณได้เปิดใช้งานกลุ่มคนสำหรับนักเรียนของคุณหรือไม่
 
 
-มีคณะและพนักงานสามารถเข้าถึงกลุ่มคน แต่นักเรียนของคุณไม่ได้อย่างไร ทีมงานต้องถูกเปิดใช้งานอย่างชัดเจน สำหรับนักเรียนของคุณ เช่นเดียว กับ สำหรับคณะและพนักงาน เมื่อต้องการทำเช่นนี้ โปรดดูรูปที่ 2 จาก 5 ขั้นตอนในบทความที่พบ[ที่นี่](https://docs.microsoft.com/education/get-started/enable-microsoft-teams)
+มีคณะและพนักงานสามารถเข้าถึงกลุ่มคน แต่นักเรียนของคุณไม่ได้อย่างไร ทีมงานต้องถูกเปิดใช้งานอย่างชัดเจน สำหรับนักเรียนของคุณ เช่นเดียว กับ สำหรับคณะและพนักงาน เมื่อต้องการทำเช่นนี้ โปรดดู[ทีมงาน Microsoft เปิดใช้งานสำหรับโรงเรียนของคุณ](https://docs.microsoft.com/education/get-started/enable-microsoft-teams)
   
 
