@@ -11,19 +11,19 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: (guid of old soc version if any)
-ms.openlocfilehash: 01d8b03209e734f1218de61d964524b1b9e1d044
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: e248c2ee3cbb9a86f21c1f36be10c893df76ff52
+ms.sourcegitcommit: 3070905131e6d8449981231a3551c0bb4ca38ae6
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29939330"
+ms.lasthandoff: 03/14/2019
+ms.locfileid: "30634523"
 ---
 # <a name="required-alchemy-header-h1-h2s-dont-work"></a>จำเป็นต้องใช้ Alchemy หัว H1, H2 ของไม่ทำงาน
 แนวทางปฏิบัติและแนวทางในการเขียนแก้ Alchemy:
 
 1. **ซ้อนความเข้าใจ Alchemy ในโฟลเดอร์**- นี้จะเป็นแบ่งโครงสร้าง url เรากำลังค้นหาลงในการซ่อมแซมนี้
 1. แฟ้มในโฟลเดอร์**AlchemyInsights**ควรมีกฎรหัสและชื่อของกฎจาก[เว็บไซต์คู่ค้า Alchemy](https://alchemyportal.azurewebsites.net)ในชื่อแฟ้ม
-    1. เช่น***976-How-to-enable-litigation-hold***
+    1. ในอดีต ***976-How-to-enable-litigation-hold***
 1. ใช้ข้อมูลเมตาที่ด้านบนของแฟ้มนี้เป็นแม่แบบของคุณ ไม่มีอะไรอื่นที่ถูกต้อง
 1. ใน[เว็บไซต์คู่ค้า Alchemy](https://alchemyportal.azurewebsites.net)นำทางลงไปส่วน**ลูกค้าช่วยเรื่อง:** และการใช้ที่ชี้เป็นการเริ่มต้นสำหรับชื่อเรื่อง H1 ของคุณสำหรับการช่วย 
     > [!NOTE]
