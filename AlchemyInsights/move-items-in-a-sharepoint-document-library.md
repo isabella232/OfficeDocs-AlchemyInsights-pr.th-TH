@@ -9,14 +9,14 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: 8f240745-f75d-412d-9588-4fc7ad862041
-ms.openlocfilehash: fc166470e0f40c9dea5f21bf2d89912459fc8142
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: d3b7b8504d4ffcdccfe39645ee462e4e2e36b660
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29900271"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30759997"
 ---
 # <a name="move-items-in-a-sharepoint-document-library"></a>ย้ายรายการลงในไลบรารีเอกสาร SharePoint
 

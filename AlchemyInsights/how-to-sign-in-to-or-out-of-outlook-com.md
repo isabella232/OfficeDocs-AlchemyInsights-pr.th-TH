@@ -1,0 +1,26 @@
+---
+title: 8000055 วิธีการการเข้าสู่ระบบไป หรือออก จาก Outlook.com
+ms.author: daeite
+author: daeite
+manager: jackiesm
+ms.date: 7/16/2018
+ms.audience: ITPro
+ms.topic: article
+ROBOTS: NOINDEX, NOFOLLOW
+localization_priority: Normal
+ms.custom: 8000055
+ms.assetid: a4a4c974-7a8b-46c7-92d9-f17084d89677
+ms.openlocfilehash: 210fe6b8893e8f2896e994d0d8853b485338efd2
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.translationtype: MT
+ms.contentlocale: th-TH
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30788070"
+---
+# <a name="how-to-sign-in-to-or-out-of-outlookcom"></a>วิธีการเข้าสู่ระบบไป หรือออก จาก Outlook.com
+
+ถ้าไม่สามารถลงนามในการ Outlook.com ของคุณ Hotmail สด หรือ MSN อีเมลบัญชี หรือคุณไม่แน่ใจในวิธีการเข้าสู่ระบบ หรือออกจาก[ต่อไปนี้เป็นวิธีแก้ไขปัญหาบางอย่าง](https://go.microsoft.com/fwlink/p/?linkid=2005840)ได้
+  
+ถ้าคุณยังคงประสบปัญหาในการเซ็นชื่อ ดู[เมื่อคุณไม่สามารถเข้าสู่ระบบบัญชี Microsoft ของคุณ](https://go.microsoft.com/fwlink/p/?linkid=837479)
+  
+
