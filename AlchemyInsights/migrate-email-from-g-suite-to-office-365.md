@@ -9,14 +9,14 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: 09a4c114-ef71-4958-ad1d-d5acdc47cd05
-ms.openlocfilehash: 617fb743edbee5f63da8ee0408a1af48490e94d1
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 1949ad3b6c7f34c4cd2f87f280145b7f8e151370
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29940318"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30764999"
 ---
 # <a name="migrate-email-from-g-suite-to-office-365"></a>โยกย้ายอีเมลจากชุด G ไป Office 365
 
