@@ -9,26 +9,26 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: dae7b5b0-1003-40bd-b59f-8c5009fc8d82
-ms.openlocfilehash: 02930690acf5abea6673123f2f95631280faaeae
-ms.sourcegitcommit: ed5d2fdfd9e2622e3cce192a80402f32d3a8ca78
+ms.openlocfilehash: c6277ee3705c30399b230852e849e47ec3f15187
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 03/07/2019
-ms.locfileid: "30475473"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30759889"
 ---
-# <a name="restore-a-user-in-office-365"></a><span data-ttu-id="1baee-102">การคืนค่าผู้ใช้ใน Office 365</span><span class="sxs-lookup"><span data-stu-id="1baee-102">Restore a user in Office 365</span></span>
+# <a name="restore-a-user-in-office-365"></a><span data-ttu-id="bfbac-102">การคืนค่าผู้ใช้ใน Office 365</span><span class="sxs-lookup"><span data-stu-id="bfbac-102">Restore a user in Office 365</span></span>
 
-<span data-ttu-id="1baee-103">คืนค่าผู้ใช้ใน Office 365 โดยใช้ขั้นตอนเหล่านี้:</span><span class="sxs-lookup"><span data-stu-id="1baee-103">Restore a user in Office 365 using these steps:</span></span>
+<span data-ttu-id="bfbac-103">คืนค่าผู้ใช้ใน Office 365 โดยใช้ขั้นตอนเหล่านี้:</span><span class="sxs-lookup"><span data-stu-id="bfbac-103">Restore a user in Office 365 using these steps:</span></span>
   
-1. <span data-ttu-id="1baee-104">ไปที่[ผู้ใช้\>ลบผู้ใช้](https://admin.microsoft.com/adminportal/home#/deletedusers)</span><span class="sxs-lookup"><span data-stu-id="1baee-104">Go to [Users \> Deleted users](https://admin.microsoft.com/adminportal/home#/deletedusers).</span></span>
+1. <span data-ttu-id="bfbac-104">ไปที่[ผู้ใช้\>ลบผู้ใช้](https://admin.microsoft.com/adminportal/home#/deletedusers)</span><span class="sxs-lookup"><span data-stu-id="bfbac-104">Go to [Users \> Deleted users](https://admin.microsoft.com/adminportal/home#/deletedusers).</span></span>
     
-2. <span data-ttu-id="1baee-105">เลือกผู้ใช้ จาก นั้นเลือก**คืนค่า**</span><span class="sxs-lookup"><span data-stu-id="1baee-105">Choose the user, then select **Restore**.</span></span>
+2. <span data-ttu-id="bfbac-105">เลือกผู้ใช้ จาก นั้นเลือก**คืนค่า**</span><span class="sxs-lookup"><span data-stu-id="bfbac-105">Choose the user, then select **Restore**.</span></span>
     
-3. <span data-ttu-id="1baee-106">ทำตามพร้อมท์เพื่อตั้งค่ารหัสผ่าน</span><span class="sxs-lookup"><span data-stu-id="1baee-106">Follow the prompts to set the password.</span></span>
+3. <span data-ttu-id="bfbac-106">ทำตามพร้อมท์เพื่อตั้งค่ารหัสผ่าน</span><span class="sxs-lookup"><span data-stu-id="bfbac-106">Follow the prompts to set the password.</span></span>
     
-4. <span data-ttu-id="1baee-107">คลิก**ส่งอีเมล และปิด**และคุณทำเสร็จแล้ว</span><span class="sxs-lookup"><span data-stu-id="1baee-107">Click **Send email and close**, and you're done!</span></span>
+4. <span data-ttu-id="bfbac-107">คลิก**ส่งอีเมล และปิด**และคุณทำเสร็จแล้ว</span><span class="sxs-lookup"><span data-stu-id="bfbac-107">Click **Send email and close**, and you're done!</span></span>
     
 
-<span data-ttu-id="1baee-108">ไม่ได้ง่ายนั่นหรือไม่</span><span class="sxs-lookup"><span data-stu-id="1baee-108">Wasn't that easy?</span></span> <span data-ttu-id="1baee-109">สำหรับรายละเอียดและขั้นตอน ด้วยภาพหน้าจอ เช็คเอาท์บทความนี้:[ผู้ใช้ใน Office 365 การคืนค่า](https://support.office.com/article/2c261e42-5dd1-48b0-845f-2a016d29cfc1.aspx)</span><span class="sxs-lookup"><span data-stu-id="1baee-109">For more details and steps with screen shots, check out this article: [Restore a user in Office 365](https://support.office.com/article/2c261e42-5dd1-48b0-845f-2a016d29cfc1.aspx).</span></span> <span data-ttu-id="1baee-110">ถ้าคุณทราบถึงการแทนที่คุณจำเป็นต้องใช้กล่องจดหมายของผู้ใช้การคืนค่า ดู:[ลบ หรือคืนค่ากล่องจดหมายของผู้ใช้ใน Exchange แบบออนไลน์](https://docs.microsoft.com/exchange/recipients-in-exchange-online/delete-or-restore-mailboxes)</span><span class="sxs-lookup"><span data-stu-id="1baee-110">If you realize you instead need to restore user's mailbox, see: [Delete or restore user mailboxes in Exchange Online](https://docs.microsoft.com/exchange/recipients-in-exchange-online/delete-or-restore-mailboxes).</span></span>
+<span data-ttu-id="bfbac-108">ไม่ได้ง่ายนั่นหรือไม่</span><span class="sxs-lookup"><span data-stu-id="bfbac-108">Wasn't that easy?</span></span> <span data-ttu-id="bfbac-109">สำหรับรายละเอียดและขั้นตอน ด้วยภาพหน้าจอ เช็คเอาท์บทความนี้:[ผู้ใช้ใน Office 365 การคืนค่า](https://support.office.com/article/2c261e42-5dd1-48b0-845f-2a016d29cfc1.aspx)</span><span class="sxs-lookup"><span data-stu-id="bfbac-109">For more details and steps with screen shots, check out this article: [Restore a user in Office 365](https://support.office.com/article/2c261e42-5dd1-48b0-845f-2a016d29cfc1.aspx).</span></span> <span data-ttu-id="bfbac-110">ถ้าคุณทราบถึงการแทนที่คุณจำเป็นต้องใช้กล่องจดหมายของผู้ใช้การคืนค่า ดู:[ลบ หรือคืนค่ากล่องจดหมายของผู้ใช้ใน Exchange แบบออนไลน์](https://docs.microsoft.com/exchange/recipients-in-exchange-online/delete-or-restore-mailboxes)</span><span class="sxs-lookup"><span data-stu-id="bfbac-110">If you realize you instead need to restore user's mailbox, see: [Delete or restore user mailboxes in Exchange Online](https://docs.microsoft.com/exchange/recipients-in-exchange-online/delete-or-restore-mailboxes).</span></span>
