@@ -9,14 +9,14 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: 26a7eebb-1424-4ddc-a123-af1cc94bc40f
-ms.openlocfilehash: 55529265d2356a911624026107fb639f93e29abd
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 518261787b1b0df99ee7b3dc3e51dec70e4373bc
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29925399"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30755173"
 ---
 # <a name="adfs-federation-certificate-expiring"></a>สหพันธรัฐ ADFS ใบรับรองหมดอายุ
 

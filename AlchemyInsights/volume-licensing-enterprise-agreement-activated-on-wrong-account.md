@@ -9,14 +9,14 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: 3eddff13-0dc2-41ff-995a-83df2c941eb7
-ms.openlocfilehash: 463624dccc15df31422c02d284bf61f31609c37f
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 454287824158de97fa233b08769febcafb4b4a72
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29898219"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30754993"
 ---
 # <a name="volume-licensing-enterprise-agreement-activated-on-wrong-account"></a>ไดรฟ์ข้อมูลที่อนุญาตให้ใช้สิทธิ์ข้อตกลงองค์กรเปิดใช้งานบนบัญชีที่ไม่ถูกต้อง
 
