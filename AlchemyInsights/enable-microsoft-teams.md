@@ -9,19 +9,19 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: c35b64bd-537d-4a33-98df-ad02de8fb71b
-ms.openlocfilehash: 98a7a07a85506f8f94b5a55ebf0e797443a0260a
-ms.sourcegitcommit: 431f60d51f4203b22e655a37358667d844e3e576
+ms.openlocfilehash: 8a8b91e8ddf93ea30a4d1818944e6215c5580fd2
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 03/07/2019
-ms.locfileid: "30468934"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30766979"
 ---
-# <a name="enable-and-use-microsoft-teams"></a><span data-ttu-id="366d4-102">เปิดใช้งาน และใช้ทีมงานของ Microsoft</span><span class="sxs-lookup"><span data-stu-id="366d4-102">Enable and Use Microsoft Teams</span></span>
+# <a name="enable-and-use-microsoft-teams"></a><span data-ttu-id="0356b-102">เปิดใช้งาน และใช้ทีมงานของ Microsoft</span><span class="sxs-lookup"><span data-stu-id="0356b-102">Enable and Use Microsoft Teams</span></span>
 
 
-<span data-ttu-id="366d4-103">ถ้าคุณไม่มีการเข้าถึง Microsoft ทีมเลย เช็คเอาท์[ฉันจะใช้งานการเข้าถึง Microsoft ทีม](https://support.office.com/article/How-do-I-get-access-to-Microsoft-Teams-fc7f1634-abd3-4f26-a597-9df16e4ca65b.aspx)</span><span class="sxs-lookup"><span data-stu-id="366d4-103">If you don’t have access to Microsoft Teams at all, check out [How do I get access to Microsoft Teams](https://support.office.com/article/How-do-I-get-access-to-Microsoft-Teams-fc7f1634-abd3-4f26-a597-9df16e4ca65b.aspx)</span></span>
+<span data-ttu-id="0356b-103">ถ้าคุณไม่มีการเข้าถึง Microsoft ทีมเลย เช็คเอาท์[ฉันจะใช้งานการเข้าถึง Microsoft ทีม](https://support.office.com/article/How-do-I-get-access-to-Microsoft-Teams-fc7f1634-abd3-4f26-a597-9df16e4ca65b.aspx)</span><span class="sxs-lookup"><span data-stu-id="0356b-103">If you don’t have access to Microsoft Teams at all, check out [How do I get access to Microsoft Teams](https://support.office.com/article/How-do-I-get-access-to-Microsoft-Teams-fc7f1634-abd3-4f26-a597-9df16e4ca65b.aspx)</span></span>
 
-<span data-ttu-id="366d4-104">ถ้าคุณมี Microsoft ทีมเรียบร้อยแล้ว และจำเป็นต้องทราบวิธีการตั้งค่าคอนฟิก และจัดการ ดูการ[ตั้งค่าผู้ดูแลสำหรับทีมงานของ Microsoft](https://support.office.com/article/Administrator-settings-for-Microsoft-Teams-3966a3f5-7e0f-4ea9-a402-41888f455ba2.aspx)</span><span class="sxs-lookup"><span data-stu-id="366d4-104">If you already have Microsoft Teams and need to know how to configure and manage it, see [Administrator settings for Microsoft Teams](https://support.office.com/article/Administrator-settings-for-Microsoft-Teams-3966a3f5-7e0f-4ea9-a402-41888f455ba2.aspx)</span></span>
+<span data-ttu-id="0356b-104">ถ้าคุณมี Microsoft ทีมเรียบร้อยแล้ว และจำเป็นต้องทราบวิธีการตั้งค่าคอนฟิก และจัดการ ดูการ[ตั้งค่าผู้ดูแลสำหรับทีมงานของ Microsoft](https://support.office.com/article/Administrator-settings-for-Microsoft-Teams-3966a3f5-7e0f-4ea9-a402-41888f455ba2.aspx)</span><span class="sxs-lookup"><span data-stu-id="0356b-104">If you already have Microsoft Teams and need to know how to configure and manage it, see [Administrator settings for Microsoft Teams](https://support.office.com/article/Administrator-settings-for-Microsoft-Teams-3966a3f5-7e0f-4ea9-a402-41888f455ba2.aspx)</span></span>
 
