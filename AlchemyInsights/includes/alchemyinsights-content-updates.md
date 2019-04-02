@@ -472,62 +472,16 @@
 | 3/22/2019 | [1488-perform-eDiscovery-and-content-searches](/AlchemyInsights/perform-ediscovery-and-content-searches) | เปลี่ยนชื่อ |
 
 
-## <a name="week-of-february-18-2019"></a>สัปดาห์ของเดือน 18 กุมภาพันธ์ 2019
+## <a name="week-of-march-25-2019"></a>สัปดาห์ของวันที่ 25 มีนาคม 2019
 
 
 | เผยแพร่บน |ชื่อเรื่องหัวข้อ | การเปลี่ยนแปลง |
 |------|------------|--------|
-| วันที่ 19/2/2019 | [ได้รับข้อผิดพลาดที่ 'พารามิเตอร์ไม่พบ' ได้อย่างไร](/AlchemyInsights/got-a-parameter-cannot-be-found-error) | การปรับเปลี่ยน |
-| วันที่ 19/2/2019 | [ย้ายอีเมลไปยัง Office 365](/AlchemyInsights/move-email-to-office-365) | การปรับเปลี่ยน |
-| วันที่ 19/2/2019 | [กล่องจดหมายการคืนค่าลบ](/AlchemyInsights/restore-deleted-mailbox) | การปรับเปลี่ยน |
-| วันที่ 21/2/2019 | [วิธีการติดตั้ง Mac Office จากเว็บไซต์](/AlchemyInsights/647-how-to-install-mac-office-from-the-portal) | เปลี่ยนชื่อ |
-| 2/22/2019 | [1048 5.7.750 บริการไม่พร้อมใช้งาน ไคลเอนต์ที่ถูกบล็อกไม่ให้ส่งมาจากโดเมนที่ไม่ได้ลงทะเบียน](/AlchemyInsights/1048-5-7-750-service-unavailable-client-blocked-from-sending-from-unregistered-d) | การปรับเปลี่ยน |
-| 2/22/2019 | [125 การได้รับข้อผิดพลาดของสิทธิ์การใช้งานที่ไม่ถูกต้องใน Outlook บนเว็บหรือไม่](/AlchemyInsights/125-getting-an-invalid-license-error-in-outlook-on-the-web) | การปรับเปลี่ยน |
-| 2/22/2019 | [126 การรับกล่องจดหมายไม่พบข้อผิดพลาดใน OWA หรือไม่](/AlchemyInsights/126-getting-a-mailbox-cannot-be-found-error-in-owa) | การปรับเปลี่ยน |
-| 2/22/2019 | [การมีข้อผิดพลาด TenantAccessBlockedException เมื่อคุณเข้าถึงอีเมล 127 หรือไม่](/AlchemyInsights/127-getting-a-tenantaccessblockedexception-error-when-accessing-email) | การปรับเปลี่ยน |
-| 2/22/2019 | [การมีข้อผิดพลาด TenantAccessBlockedException เมื่อคุณเข้าถึงอีเมล 128 หรือไม่](/AlchemyInsights/128-getting-a-tenantaccessblockedexception-error-when-accessing-email) | การปรับเปลี่ยน |
-| 2/22/2019 | [711 การสร้างรายการการแจกจ่ายหรือกลุ่ม](/AlchemyInsights/711-creating-a-distribution-list-or-group) | การปรับเปลี่ยน |
-| 2/22/2019 | [912 บ็อกซ์ Focused ตั้งค่าคอนฟิกสำหรับทุกคนในองค์กรของคุณ](/AlchemyInsights/912-configure-focused-inbox-for-everyone-in-your-organization) | การปรับเปลี่ยน |
-| 2/22/2019 | [เอาโดเมน](/AlchemyInsights/remove-domain) | การปรับเปลี่ยน |
-| 2/22/2019 | [เพิ่มกลุ่มลงในไซต์ SharePoint](/AlchemyInsights/add-a-group-to-a-sharepoint-site) | การปรับเปลี่ยน |
-| 2/22/2019 | [เพิ่มนามแฝงอีเมอื่น](/AlchemyInsights/add-another-email-alias) | การปรับเปลี่ยน |
-| 2/22/2019 | [เพิ่มผู้ติดต่อไปยังกลุ่ม O365](/AlchemyInsights/add-contacts-to-o365-group) | การปรับเปลี่ยน |
-| 2/22/2019 | [เปลี่ยนแปลง UPN](/AlchemyInsights/change-upn) | การปรับเปลี่ยน |
-| 2/22/2019 | [การเปลี่ยนแปลงการอนุญาตสำหรับโฟลเดอร์สาธารณะ](/AlchemyInsights/changing-public-folder-permissions) | การปรับเปลี่ยน |
-| 2/22/2019 | [การเปลี่ยนแปลงพฤติกรรมการส่งเป็นกล่องจดหมายที่ใช้ร่วมกัน](/AlchemyInsights/changing-shared-mailbox-send-as-behavior) | การปรับเปลี่ยน |
-| 2/22/2019 | [ตรวจสอบสถานะการซิงค์ข้อมูลเฉพาะตัวของ AAD](/AlchemyInsights/check-aad-identity-sync-status) | การปรับเปลี่ยน |
-| 2/22/2019 | [เปรียบเทียบแผน Office 365](/AlchemyInsights/compare-office-365-plans) | การปรับเปลี่ยน |
-| 2/22/2019 | [การสร้างไซต์แบบคลาสสิก](/AlchemyInsights/create-a-classic-site) | การปรับเปลี่ยน |
-| 2/22/2019 | [สร้างไซต์ใน SharePoint แบบออนไลน์](/AlchemyInsights/create-a-site-in-sharepoint-online) | การปรับเปลี่ยน |
-| 2/22/2019 | [การสร้างโฟลเดอร์สาธารณะ](/AlchemyInsights/creating-public-folders) | การปรับเปลี่ยน |
-| 2/22/2019 | [ลบไซต์ SharePoint](/AlchemyInsights/delete-a-sharepoint-site-0) | การปรับเปลี่ยน |
-| 2/22/2019 | [ให้ผู้ใช้สามารถเข้าถึง SharePoint และ OneDrive](/AlchemyInsights/give-users-access-to-sharepoint-and-onedrive) | การปรับเปลี่ยน |
-| 2/22/2019 | [ได้รับข้อผิดพลาดที่ 'พารามิเตอร์ไม่พบ' ได้อย่างไร](/AlchemyInsights/got-a-parameter-cannot-be-found-error) | การปรับเปลี่ยน |
-| 2/22/2019 | [มีปัญหาการส่งอีเมลหรือไม่](/AlchemyInsights/having-email-delivery-issues-0) | การปรับเปลี่ยน |
-| 2/22/2019 | [มีปัญหาการส่งอีเมลหรือไม่](/AlchemyInsights/having-email-delivery-issues) | การปรับเปลี่ยน |
-| 2/22/2019 | [มีปัญหาการรับ Outlook เพื่อเชื่อมต่อหรือไม่](/AlchemyInsights/having-issues-getting-outlook-to-connect-0) | การปรับเปลี่ยน |
-| 2/22/2019 | [มีปัญหาการรับ Outlook เพื่อเชื่อมต่อหรือไม่](/AlchemyInsights/having-issues-getting-outlook-to-connect) | การปรับเปลี่ยน |
-| 2/22/2019 | [วิธีการกำหนดสิทธิ์การใช้งาน Office ให้กับผู้ใช้ Mac](/AlchemyInsights/how-to-assign-office-licenses-to-mac-users) | การปรับเปลี่ยน |
-| 2/22/2019 | [วิธีการซื้อสิทธิ์การใช้งานสำหรับการสมัครใช้งานทางธุรกิจของ Office 365](/AlchemyInsights/how-to-buy-licenses-for-your-office-365-business-subscription) | การปรับเปลี่ยน |
-| 2/22/2019 | [วิธีการเพิ่มการจัดเก็บข้อมูลใน OneDrive สำหรับธุรกิจ](/AlchemyInsights/how-to-increase-storage-in-onedrive-for-business) | การปรับเปลี่ยน |
-| 2/22/2019 | [วิธีการเปิดใช้งานการสมัครใช้งาน](/AlchemyInsights/how-to-reactivate-a-subscription) | การปรับเปลี่ยน |
-| 2/22/2019 | [เพิ่มขนาดกล่องจดหมายสำหรับองค์กร Sku](/AlchemyInsights/increase-mailbox-size-for-enterprise-skus) | การปรับเปลี่ยน |
-| 2/22/2019 | [เพิ่มขนาดกล่องจดหมายสำหรับ Sku SMB](/AlchemyInsights/increase-mailbox-size-for-smb-skus) | การปรับเปลี่ยน |
-| 2/22/2019 | [เพิ่มขนาดของกล่องจดหมาย](/AlchemyInsights/increase-mailbox-size) | การปรับเปลี่ยน |
-| 2/22/2019 | [ปัญหากับ Skype สำหรับธุรกิจหรือไม่](/AlchemyInsights/issue-with-skype-for-business) | การปรับเปลี่ยน |
-| 2/22/2019 | [จัดการบัญชีผู้ใช้ให้ตรงกัน](/AlchemyInsights/manage-synchronized-user-accounts) | การปรับเปลี่ยน |
-| 2/22/2019 | [ตรวจสอบการใช้งาน OneDrive และ SharePoint และกิจกรรม](/AlchemyInsights/monitor-onedrive-and-sharepoint-usage-and-activity) | การปรับเปลี่ยน |
-| 2/22/2019 | [เปิดใช้งานการสมัครใช้งาน](/AlchemyInsights/reactivate-a-subscription) | การปรับเปลี่ยน |
-| 2/22/2019 | [คืนค่า OneDrive ถูกลบไปแล้ว](/AlchemyInsights/restore-a-deleted-onedrive) | การปรับเปลี่ยน |
-| 2/22/2019 | [คืนค่ากลุ่ม 365 Office การใช้ศูนย์ดูแล Exchange](/AlchemyInsights/restore-an-office-365-group-using-eac%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B) | การปรับเปลี่ยน |
-| 2/22/2019 | [การตั้งค่าการบอกรับเป็นสมาชิก O365 การสิ่งจำเป็นสำหรับธุรกิจของคุณ](/AlchemyInsights/setting-up-your-o365-business-essentials-subscription) | การปรับเปลี่ยน |
-| 2/22/2019 | [ใช้ร่วมกันกับผู้ใช้ภายนอกไม่ทำงาน](/AlchemyInsights/sharing-with-external-users-isn-t-working) | การปรับเปลี่ยน |
-| 2/22/2019 | [กำลังพยายามค้นหาการทดลองหรือไม่](/AlchemyInsights/trying-to-find-a-trial) | การปรับเปลี่ยน |
-| 2/22/2019 | [เปิดการใช้งานร่วมกัน หรือปิดสำหรับ SharePoint ภายนอก](/AlchemyInsights/turn-external-sharing-on-or-off-for-sharepoint-0) | การปรับเปลี่ยน |
-| 2/22/2019 | [เปิดการใช้งานร่วมกัน หรือปิดสำหรับ SharePoint ภายนอก](/AlchemyInsights/turn-external-sharing-on-or-off-for-sharepoint) | การปรับเปลี่ยน |
-| 2/22/2019 | [สิทธิ์ของผู้ใช้](/AlchemyInsights/user-permissions) | การปรับเปลี่ยน |
-| 2/22/2019 | [เมื่อมีการสร้างขึ้นคำสั่งเรียกเก็บเงิน](/AlchemyInsights/when-is-the-billing-statement-generated) | การปรับเปลี่ยน |
-| 2/22/2019 | [วิธีการตรวจสอบโดเมนของคุณกับ Office 365](/AlchemyInsights/how-to-verify-your-domain-with-office-365) | การปรับเปลี่ยน |
+| 3/25/2019 | [เปลี่ยนภาษาของ Outlook.com](/AlchemyInsights/outlook-com-change-language) | การปรับเปลี่ยน |
+| วันที่ 27/3/2019 | [ลบไซต์ SharePoint](/AlchemyInsights/delete-a-sharepoint-site) | การปรับเปลี่ยน |
+| วันที่ 28/3/2019 | จำกัดการ SharePoint แบบออนไลน์สำหรับโหมดคลาสสิก | เพิ่ม |
+| วันที่ 28/3/2019 | [ไม่สามารถเพิ่มค่าเริ่มต้นเวิร์กโฟลว์การอนุมัติ 2010](/AlchemyInsights/can-t-add-default-2010-approval-workflow) | การปรับเปลี่ยน |
+| วันที่ 28/3/2019 | [จำกัดการ SharePoint แบบออนไลน์สำหรับโหมดคลาสสิก](/AlchemyInsights/restrict-sharepoint-online-to-classic-mode) | เปลี่ยนชื่อ |
 
 
 ## <a name="week-of-february-25-2019"></a>สัปดาห์ของเดือน 25 กุมภาพันธ์ 2019
