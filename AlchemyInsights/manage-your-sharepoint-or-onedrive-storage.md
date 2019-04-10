@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 8b0e6b9b-67c9-4716-8602-ebb58b364ef9
-ms.openlocfilehash: a6e6d95f79b058326255f480b1f72ceb8d94bfd9
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.openlocfilehash: 450b416b5e0635bb8868f7eaf8296930af68f1a5
+ms.sourcegitcommit: 228c986911ecf73217116a5d1fdcd2e89362774e
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30761220"
+ms.lasthandoff: 04/09/2019
+ms.locfileid: "31747329"
 ---
 # <a name="manage-your-sharepoint-or-onedrive-storage"></a>จัดเก็บข้อมูลของ SharePoint หรือ OneDrive
 
@@ -24,7 +24,7 @@ ms.locfileid: "30761220"
   
 สำหรับองค์กรโดยส่วนใหญ่ เก็บ SharePoint จะถูกจัดการโดยอัตโนมัติดังนั้นคุณไม่จำเป็นต้องการตั้งค่าขีดจำกัดสำหรับแต่ละไซต์คอลเลกชัน เมื่อต้องการตรวจสอบจำนวนเก็บ SharePoint คุณมี:
   
-- ในแบบคลาสสิก SharePoint admin ศูนย์ ในมุมบนขวาของหน้าไซต์คอลเลกชัน ค้นหาสำหรับจัดเก็บข้อมูลของคุณทั้งหมด และพร้อมใช้งาน
+- ในการ SharePoint admin ศูนย์ใหม่ ในมุมบนขวาของหน้าไซต์ ค้นหาสำหรับจัดเก็บข้อมูลของคุณทั้งหมด และพร้อมใช้งาน
     
 สำหรับข้อมูลเกี่ยวกับวิธีคำนวณวงเงินของคุณ ดู[วงเงินออนไลน์ของ SharePoint](https://go.microsoft.com/fwlink/p/?LinkID=856113) เมื่อต้องการซื้อเก็บข้อมูลมากขึ้น ดู[พื้นที่การจัดเก็บการเปลี่ยนแปลงสำหรับการสมัครใช้งาน](https://go.microsoft.com/fwlink/?linkid=866428)
   

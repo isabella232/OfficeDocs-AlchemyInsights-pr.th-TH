@@ -1,6 +1,6 @@
 ---
 title: สร้างไซต์ใน SharePoint แบบออนไลน์
-ms.author: clake
+ms.author: stevhord
 author: spowriter
 manager: scotv
 ms.date: 5/21/2018
@@ -11,29 +11,18 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 84f2b70e-2b23-4039-8305-85783798feed
-ms.openlocfilehash: 925384f501da14aa19acc9e147123dbeb19a67fa
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.openlocfilehash: c6fca2bf2dd2c204d5a2101029524932e6482555
+ms.sourcegitcommit: 228c986911ecf73217116a5d1fdcd2e89362774e
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30764603"
+ms.lasthandoff: 04/09/2019
+ms.locfileid: "31747761"
 ---
 # <a name="create-a-site"></a>การสร้างไซต์
 
-คุณสามารถสร้างชนิดที่แตกต่างกันของไซต์ใน SharePoint แบบออนไลน์ เมื่อต้องการสร้างชนิดไซต์ใหม่ ดูหัวข้อเหล่านี้
-  
-- [สร้างไซต์สำหรับทีมที่มีกลุ่มที่มี Office 365](https://go.microsoft.com/fwlink/?linkid=866292)
+คุณสามารถสร้างชนิดที่แตกต่างกันของไซต์ใน SharePoint แบบออนไลน์ เมื่อต้องการเรียนรู้วิธีการทำเช่นนี้ในศูนย์กลางการดูแล SharePoint ใหม่ ดู[การสร้างไซต์](https://go.microsoft.com/fwlink/?linkid=866295) สำหรับข้อมูลเกี่ยวกับการอนุญาตให้ผู้ใช้สร้างไซต์ของตนเอง ดู[การสร้างไซต์การจัดการใน SharePoint แบบออนไลน์](https://go.microsoft.com/fwlink/?linkid=866296)
+ 
+สำหรับข้อมูลเกี่ยวกับชนิดของไซต์ใหม่ ดู[กลุ่มเชื่อมต่อไซต์ทีม](https://go.microsoft.com/fwlink/?linkid=866292)หรือ[ไซต์การสื่อสาร](https://go.microsoft.com/fwlink/?linkid=866294)
     
-- [การสร้างไซต์สื่อสารใน SharePoint แบบออนไลน์](https://go.microsoft.com/fwlink/?linkid=866294)
-    
-คุณยังสามารถสร้างไซต์เหล่านี้ได้จากหน้าตัวอย่างศูนย์ดูแล SharePoint ใหม่
-  
-การสร้างไซต์แบบคลาสสิค ทำอย่างหนึ่งต่อไปนี้:
-  
-- ไป[หน้าไซต์ใน Microsoft 365 admin ศูนย์](https://portal.office.com/adminportal/home#/SitesList)และจากนั้น เลือก**เพิ่มไซต์**
-    
-- ในแบบคลาสสิก SharePoint admin ศูนย์ บนหน้าไซต์คอลเลกชัน เลือก**สร้าง** \> **ไซต์คอลเลกชันส่วนตัว**
-    
-สำหรับรายละเอียดเพิ่มเติม โปรดดู[สร้างไซต์คอลเลกชัน](https://go.microsoft.com/fwlink/?linkid=866295) สำหรับข้อมูลเกี่ยวกับการอนุญาตให้ผู้ใช้สร้างไซต์ของตนเอง ดู[การสร้างไซต์การจัดการใน SharePoint แบบออนไลน์](https://go.microsoft.com/fwlink/?linkid=866296)
-  
+
 

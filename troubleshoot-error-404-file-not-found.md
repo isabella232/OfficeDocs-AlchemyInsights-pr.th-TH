@@ -7,12 +7,12 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 1b15444c-367b-4523-8e08-1c77bbea7524
-ms.openlocfilehash: 2b0f6d84c53b812fe0552fc05473eebdfcc8d71a
-ms.sourcegitcommit: 56c52c73e752414d66785f175c3a0e2925ad41c1
+ms.openlocfilehash: 467feb3cb436a2e0135162657876e5c45d8d56bd
+ms.sourcegitcommit: 228c986911ecf73217116a5d1fdcd2e89362774e
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 04/02/2019
-ms.locfileid: "31044058"
+ms.lasthandoff: 04/09/2019
+ms.locfileid: "31747257"
 ---
 # <a name="troubleshoot-error-404-file-not-found"></a>การแก้ไขปัญหาข้อผิดพลาด 404 ไม่พบไฟล์
 
@@ -23,7 +23,7 @@ ms.locfileid: "31044058"
 สำหรับไซต์แบบคลาสสิกที่มีอยู่ในศูนย์กลางการดูแลแบบคลาสสิก ดู[คืนค่าคอลเลกชันของไซต์ที่ถูกลบไปแล้ว](https://docs.microsoft.com/en-us/sharepoint/restore-deleted-site-collection)
 
 
-สำหรับสมัยใหม่ไซต์ (ไซต์อื่น ๆ หรือการสื่อสาร กลุ่มการเชื่อมต่อ ) ที่มีอยู่ในการแสดงตัวอย่างศูนย์ดูแลใหม่ ดู[มุมมองและการคืนค่าลบไซต์ในศูนย์กลางการดูแล SharePoint ใหม่](https://docs.microsoft.com/en-us/sharepoint/restore-deleted-site-collection)
+สำหรับสมัยใหม่ไซต์ (ไซต์อื่น ๆ หรือการสื่อสาร กลุ่มการเชื่อมต่อ ) ที่มีอยู่ในศูนย์กลางการดูแล SharePoint ใหม่ ดู[มุมมองและการคืนค่าลบไซต์ในศูนย์กลางการดูแล SharePoint ใหม่](https://docs.microsoft.com/en-us/sharepoint/restore-deleted-site-collection)
 
 เมื่อต้องการแก้ไข 404 เพราะข้อผิดพลาดสำหรับแฟ้ม (หรือรายการอื่น) ที่ถูกเปลี่ยนชื่อ ย้าย หรือลบออก:
 

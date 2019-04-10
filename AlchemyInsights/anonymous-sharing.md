@@ -8,18 +8,18 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: d57ca274-af16-4cc1-8c67-8c499f5c1d37
-ms.openlocfilehash: ee558542fe692e5dd637a2943b8b8b436b329ef5
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 402e10c131a0c331938854e2176983f1007fb315
+ms.sourcegitcommit: 228c986911ecf73217116a5d1fdcd2e89362774e
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29914347"
+ms.lasthandoff: 04/09/2019
+ms.locfileid: "31747437"
 ---
 # <a name="anonymous-sharing"></a>การใช้ร่วมกันแบบไม่ระบุชื่อ
 
  **เปิดใช้งานการเข้าถึงแบบไม่ระบุชื่อ**
   
-ในศูนย์ดูแลแบบคลาสสิกของ SharePoint คลิก**ใช้ร่วมกัน**ในบานหน้าต่างด้านซ้าย 
+ในศูนย์การดูแล SharePoint ใหม่คลิก**ใช้ร่วมกัน**ในบานหน้าต่างด้านซ้าย 
   
 - เลือกต่อไปนี้:**อนุญาตให้ใช้งานร่วมกันเพื่อพิสูจน์ตัวจริงของผู้ใช้ภายนอกและการใช้การเข้าถึงแบบไม่ระบุชื่อ**
   
