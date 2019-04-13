@@ -11,19 +11,17 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 763
 ms.assetid: fcaafe9d-80ee-404b-9a70-00bc4aa5e28a
-ms.openlocfilehash: b8e17e586c5e7ad909ff56481cc08d20b03cb798
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.openlocfilehash: 0923f9144a9bbc7c73c9b7d0c61d310fd1935ba1
+ms.sourcegitcommit: 1a4b8fa9e38a95ca811085af516edb81caf2018c
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30787370"
+ms.lasthandoff: 04/13/2019
+ms.locfileid: "31858799"
 ---
 เป็นผู้ดูแลระบบการ คุณมีความสามารถในการบล็อกการเข้าถึงของ PowerShell แบบออนไลน์ของอัตราแลกเปลี่ยนสำหรับผู้ใช้ของคุณ สำหรับข้อมูลเพิ่มเติม ดูหัวข้อเหล่านี้:
-  
-- [เปิดใช้งาน หรือปิดใช้งานการเข้าถึงของ PowerShell แบบออนไลน์ของอัตราแลกเปลี่ยน](https://docs.microsoft.com/powershell/exchange/exchange-online/disable-access-to-exchange-online-powershell)
-    
-- [ไคลเอนต์การเข้าถึงกฎการแลกเปลี่ยนแบบออนไลน์](https://technet.microsoft.com/library/mt842508.aspx) (ค้นหาโพรโทคอล**RemotePowerShell** ) 
-    
-    **หมายเหตุ**: ตามที่อธิบายไว้ในหัวข้อ ระวังไม่ให้บล็อกการเข้าถึงของ PowerShell แบบออนไลน์ของอัตราแลกเปลี่ยนสำหรับผู้ดูแล
-    
 
+- [เปิดใช้งาน หรือปิดใช้งานการเข้าถึงของ PowerShell แบบออนไลน์ของอัตราแลกเปลี่ยน](https://docs.microsoft.com/powershell/exchange/exchange-online/disable-access-to-exchange-online-powershell)
+
+- [ไคลเอนต์การเข้าถึงกฎการแลกเปลี่ยนแบบออนไลน์](https://technet.microsoft.com/library/mt842508.aspx) (ค้นหาโพรโทคอล**RemotePowerShell** ) 
+
+**หมายเหตุ**: ตามที่อธิบายไว้ในหัวข้อ ระวังไม่ให้บล็อกการเข้าถึงของ PowerShell แบบออนไลน์ของอัตราแลกเปลี่ยนสำหรับผู้ดูแล
