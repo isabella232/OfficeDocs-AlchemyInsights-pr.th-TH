@@ -11,23 +11,21 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 713
 ms.assetid: 870f16c0-24ac-4dec-a3e3-14719e6a496a
-ms.openlocfilehash: 6efbbd71199cf831cd43c1864c1f7fc23839de70
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.openlocfilehash: 491014e8f452faed4b78140b5fdf4bbd82ddba58
+ms.sourcegitcommit: 1a4b8fa9e38a95ca811085af516edb81caf2018c
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30780335"
+ms.lasthandoff: 04/13/2019
+ms.locfileid: "31858619"
 ---
 # <a name="add-an-email-address-for-a-distribution-group"></a>เพิ่มอยู่อีเมลสำหรับกลุ่มการกระจายสินค้า
 
 เมื่อต้องการเพิ่มที่อยู่อีเมลสำหรับกลุ่มการแจกจ่ายที่มีอยู่ ให้ทำตามขั้นตอนเหล่านี้:
-  
-1. ในการ[แลกเปลี่ยน admin ศูนย์](https://outlook.office365.com/ecp/)ไปที่**ผู้รับ** \> **กลุ่ม**
-    
-2. เลือกกลุ่มการกระจายสินค้าที่คุณต้องการแก้ไข และจากนั้น คลิก**แก้ไข**
-    
-3. ในคุณสมบัติของกลุ่ม ไปที่แท็บ**ตัวเลือกอีเมล**เพื่อเพิ่มที่อยู่อีเมล 
-    
-สำหรับข้อมูลเพิ่มเติม ให้ดู[ตัวเลือกอีเมล](https://technet.microsoft.com/library/bb124513.aspx#emailoptions)
-  
 
+1. ในการ[แลกเปลี่ยน admin ศูนย์](https://outlook.office365.com/ecp/)ไปที่**ผู้รับ** \> **กลุ่ม**
+
+2. เลือกกลุ่มการกระจายสินค้าที่คุณต้องการแก้ไข และจากนั้น คลิก**แก้ไข**
+
+3. ในคุณสมบัติของกลุ่ม ไปที่แท็บ**ตัวเลือกอีเมล**เพื่อเพิ่มที่อยู่อีเมล 
+
+สำหรับข้อมูลเพิ่มเติม ให้ดู[ตัวเลือกอีเมล](https://technet.microsoft.com/library/bb124513.aspx#emailoptions)

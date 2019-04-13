@@ -11,15 +11,13 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 182
 ms.assetid: a3a5ea91-6989-4616-9290-c7b24484e8c8
-ms.openlocfilehash: 6ec4ef9a59319731a80c77ef865fa0c265e918c5
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.openlocfilehash: 549805ddc255df5292d0f3c4e31bc055e611c7bf
+ms.sourcegitcommit: 1a4b8fa9e38a95ca811085af516edb81caf2018c
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30772635"
+ms.lasthandoff: 04/13/2019
+ms.locfileid: "31858331"
 ---
 # <a name="use-sara-to-diagnose-and-resolve-outlook-authentication-issues"></a>ใช้ SaRA เพื่อวินิจฉัย และแก้ไขปัญหาการรับรองความถูกต้องของ Outlook
 
-เราขอแนะนำคุณใช้[Outlook ถูกขอรหัสผ่านของฉัน](https://aka.ms/SaRA-OutlookPwdPrompt)วินิจฉัยบนเครื่องคอมพิวเตอร์ที่ได้รับผลกระทบเมื่อต้องการแก้ไขปัญหาที่ Outlook พร้อมท์สำหรับรหัสผ่านอย่างต่อเนื่อง นี้[SaRA](https://diagnostics.office.com/#/)วินิจฉัยไม่เช็คอัตโนมัติ และส่งกลับค่าการแก้ไขปัญหาที่คุณสามารถใช้การแก้ไขปัญหาใด ๆ ที่ตรวจพบ 
-  
-
+เราขอแนะนำคุณใช้[Outlook ถูกขอรหัสผ่านของฉัน](https://aka.ms/SaRA-OutlookPwdPrompt)วินิจฉัยบนเครื่องคอมพิวเตอร์ที่ได้รับผลกระทบเมื่อต้องการแก้ไขปัญหาที่ Outlook พร้อมท์สำหรับรหัสผ่านอย่างต่อเนื่อง นี้[SaRA](https://diagnostics.office.com/#/)วินิจฉัยไม่เช็คอัตโนมัติ และส่งกลับค่าการแก้ไขปัญหาที่คุณสามารถใช้การแก้ไขปัญหาใด ๆ ที่ตรวจพบ
