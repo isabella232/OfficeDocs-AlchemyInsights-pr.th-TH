@@ -11,17 +11,17 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: ff6d4c25-bbee-4dc3-b1d2-b72081ecdca2
-ms.openlocfilehash: cffdf016de756bd5a06152543c56396d5ffa9eea
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.openlocfilehash: b1edf5063c46e0957d61c9a112c12d33a5117009
+ms.sourcegitcommit: e87b3f691444db3b9f460c9a3109146dc7ad4f80
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30758197"
+ms.lasthandoff: 04/15/2019
+ms.locfileid: "31869398"
 ---
-# <a name="diagnose-and-resolve-outlook-connectivity-issues"></a><span data-ttu-id="23f7e-102">วินิจฉัย และแก้ไขปัญหาการเชื่อมต่อ Outlook</span><span class="sxs-lookup"><span data-stu-id="23f7e-102">Diagnose and resolve Outlook connectivity issues</span></span>
+# <a name="diagnose-and-resolve-outlook-connectivity-issues"></a><span data-ttu-id="bd472-102">วินิจฉัย และแก้ไขปัญหาการเชื่อมต่อ Outlook</span><span class="sxs-lookup"><span data-stu-id="bd472-102">Diagnose and resolve Outlook connectivity issues</span></span>
 
-<span data-ttu-id="23f7e-103">เพื่อวินิจฉัย และแก้ไขปัญหาการเชื่อมต่อ Outlook ของคุณ คุณสามารถเรียกใช้[เครื่องมือการเชื่อมต่อ Outlook](https://aka.ms/SaRA-OutlookDisconnect)บนเครื่องคอมพิวเตอร์ที่ได้รับผลกระทบ</span><span class="sxs-lookup"><span data-stu-id="23f7e-103">In order to diagnose and fix your Outlook connectivity issues, you can run the [Outlook connectivity tool](https://aka.ms/SaRA-OutlookDisconnect) on the affected machine.</span></span> 
+<span data-ttu-id="bd472-103">เพื่อวินิจฉัย และแก้ไขปัญหาการเชื่อมต่อ Outlook ของคุณ คุณสามารถเรียกใช้[เครื่องมือการเชื่อมต่อ Outlook](https://aka.ms/SaRA-OutlookDisconnect-Alchemy)บนเครื่องคอมพิวเตอร์ที่ได้รับผลกระทบ</span><span class="sxs-lookup"><span data-stu-id="bd472-103">In order to diagnose and fix your Outlook connectivity issues, you can run the [Outlook connectivity tool](https://aka.ms/SaRA-OutlookDisconnect-Alchemy) on the affected machine.</span></span> 
   
-<span data-ttu-id="23f7e-104">เครื่องมือนี้จะดำเนินการตรวจสอบการวินิจฉัย และแนะนำวิธีแก้ไขปัญหาที่เป็นไปได้สำหรับคุณเพื่อแก้ไขปัญหาการเชื่อมต่อ Outlook</span><span class="sxs-lookup"><span data-stu-id="23f7e-104">This tool will perform diagnostic checks and suggest possible solutions for you to address the Outlook connectivity issue.</span></span>
+<span data-ttu-id="bd472-104">เครื่องมือนี้จะดำเนินการตรวจสอบการวินิจฉัย และแนะนำวิธีแก้ไขปัญหาที่เป็นไปได้สำหรับคุณเพื่อแก้ไขปัญหาการเชื่อมต่อ Outlook</span><span class="sxs-lookup"><span data-stu-id="bd472-104">This tool will perform diagnostic checks and suggest possible solutions for you to address the Outlook connectivity issue.</span></span>
   
 
