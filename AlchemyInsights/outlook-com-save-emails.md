@@ -10,12 +10,12 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 8000088
-ms.openlocfilehash: 1444dedf40529bf14fa65fe90f98b70e6c5a784c
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.openlocfilehash: 435415ca29d9ba26e6c27919ab1dcc0e64368357
+ms.sourcegitcommit: ffe2f489b1ac3aae62aa784c959da6a41c3261eb
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30779180"
+ms.lasthandoff: 04/17/2019
+ms.locfileid: "31903755"
 ---
 # <a name="saving-messages-in-outlookcom"></a>บันทึกข้อความใน Outlook.com
 
@@ -29,4 +29,4 @@ ms.locfileid: "30779180"
 4. เลือกการ**พิมพ์**
 5. ใส่ชื่อแฟ้ม แล้วเลือก**บันทึก**
 
-**หมายเหตุ:** ซึ่งจะทำได้บนคอมพิวเตอร์สาธารณะ หรือที่ใช้ร่วมกันกับผู้ใช้รายอื่นไม่สามารถเข้าถึง Pdf ใด ๆ คุณสามารถบันทึกลงในคอมพิวเตอร์ และลบ
+**หมายเหตุ:** ซึ่งจะทำได้บนคอมพิวเตอร์สาธารณะ หรือที่ใช้ร่วมกันกับผู้ใช้รายอื่นไม่สามารถเข้าถึง Pdf ใด ๆ คุณสามารถบันทึกลงในคอมพิวเตอร์ และอย่าลบ

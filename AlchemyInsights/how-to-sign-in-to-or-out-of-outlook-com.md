@@ -10,16 +10,16 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 8000055
 ms.assetid: a4a4c974-7a8b-46c7-92d9-f17084d89677
-ms.openlocfilehash: 210fe6b8893e8f2896e994d0d8853b485338efd2
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.openlocfilehash: 4b39951da279f67d4ece472277cc39c667fb0041
+ms.sourcegitcommit: ffe2f489b1ac3aae62aa784c959da6a41c3261eb
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30788070"
+ms.lasthandoff: 04/17/2019
+ms.locfileid: "31903432"
 ---
 # <a name="how-to-sign-in-to-or-out-of-outlookcom"></a>วิธีการเข้าสู่ระบบไป หรือออก จาก Outlook.com
 
-ถ้าไม่สามารถลงนามในการ Outlook.com ของคุณ Hotmail สด หรือ MSN อีเมลบัญชี หรือคุณไม่แน่ใจในวิธีการเข้าสู่ระบบ หรือออกจาก[ต่อไปนี้เป็นวิธีแก้ไขปัญหาบางอย่าง](https://go.microsoft.com/fwlink/p/?linkid=2005840)ได้
+ถ้าคุณไม่สามารถเข้าสู่ระบบของคุณ Outlook.com, Hotmail สด หรือ MSN อีเมลบัญชี หรือคุณไม่แน่ใจในวิธีการเข้าสู่ระบบ หรือออกจาก[ต่อไปนี้เป็นวิธีแก้ไขปัญหาบางอย่าง](https://go.microsoft.com/fwlink/p/?linkid=2005840)
   
 ถ้าคุณยังคงประสบปัญหาในการเซ็นชื่อ ดู[เมื่อคุณไม่สามารถเข้าสู่ระบบบัญชี Microsoft ของคุณ](https://go.microsoft.com/fwlink/p/?linkid=837479)
   

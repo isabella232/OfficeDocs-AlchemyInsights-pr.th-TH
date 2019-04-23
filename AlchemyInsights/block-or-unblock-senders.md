@@ -11,20 +11,20 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 8000015
 ms.assetid: 2ef840ec-7e1a-4df2-944b-d643fe08bd8f
-ms.openlocfilehash: ce2ee427887ac51dfbbcbc7b7d9e511cab7e3da7
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.openlocfilehash: 2c58a22878b5d36554a17d4363303ccf6207a4ac
+ms.sourcegitcommit: ffe2f489b1ac3aae62aa784c959da6a41c3261eb
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30788525"
+ms.lasthandoff: 04/17/2019
+ms.locfileid: "31903575"
 ---
 # <a name="block-or-unblock-senders"></a>บล็อก หรือยกเลิกบล็อกผู้ส่ง
 
 เพิ่มที่อยู่อีเมลหรือโดเมนใด ๆ ไปยังรายการผู้ส่งที่ถูกบล็อกของคุณย้ายข้อความเหล่านี้โดยตรงไปยังโฟลเดอร์อีเมลขยะของคุณ อีเมลโดยอัตโนมัติได้เอาออกจากโฟลเดอร์อีเมลขยะหลัง 14 วัน และไม่สามารถกู้คืน
   
-1. ไปที่**การตั้งค่า** \> **การตั้งค่าทั้งหมดของมุมมอง** 
+1. ไปที่**การตั้งค่า** \> **ดูการตั้งค่า Outlook ทั้งหมด** 
     
-2. เลือก**จดหมาย** \> **อีเมลขยะ** 
+2. เลือก[**เม** \> **อีเมลขยะ**](https://outlook.live.com/mail/options/mail/junkEmail) 
     
 3. เมื่อต้องการบล็อกผู้ส่ง ป้อนอยู่อีเมลหรือโดเมนที่คุณต้องการบล็อก และเลือก**เพิ่ม** 
     

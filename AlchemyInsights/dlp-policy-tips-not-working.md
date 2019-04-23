@@ -9,18 +9,18 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: c03d30be-474a-4a34-b3c0-240eb2a2c466
-ms.openlocfilehash: ffed863e8d44d2513fbcf53edd9bfa14b859b913
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: cddc790c7ad64cb917fb91df9fcdb60fd22bb306
+ms.sourcegitcommit: e87b3f691444db3b9f460c9a3109146dc7ad4f80
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29900811"
+ms.lasthandoff: 04/15/2019
+ms.locfileid: "31869614"
 ---
 # <a name="dlp-policy-tip-issues"></a>คำแนะนำนโยบาย DLP การตัดสินค้าจากคลัง
 
 เมื่อใช้**นโยบาย DLP**ผู้ใช้สามารถได้รับการแจ้งของการละเมิดนโยบายด้วย**เคล็ดลับนโยบาย** ผู้ดูแลระบบสามารถกำหนดค่านโยบายเคล็ดลับเมื่อต้องการแสดงใน ขณะที่การทดสอบของนโยบาย DLP หรือนโยบายอยู่ในโหมดเต็มรูปแบบบังคับ 
   
-เมื่อต้องการตั้งค่าคอนฟิกนโยบาย เคล็ดลับเกี่ยวกับนโยบาย DLP ของคุณในศูนย์ความปลอดภัยและการปฏิบัติตามกฎระเบียบในโหมดเต็มรูปแบบบังคับทำต่อไปนี้:
+เมื่อต้องการตั้งค่าคอนฟิกนโยบายเคล็ดลับบนนโยบาย DLP ของคุณในศูนย์ความปลอดภัยและการปฏิบัติตามกฎระเบียบในโหมดเต็มรูปแบบบังคับ ทำต่อไปนี้:
   
 - ให้แน่ใจว่า กฎ DLP โดยใช้ขั้นตอน**การเปิดใช้งาน**เคล็ดลับนโยบายได้[ที่นี่](https://docs.microsoft.com/office365/securitycompliance/use-notifications-and-policy-tips)
     

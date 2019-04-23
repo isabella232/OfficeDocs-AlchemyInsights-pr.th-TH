@@ -3,86 +3,6 @@
 
 
 
-## <a name="week-of-march-04-2019"></a>สัปดาห์ของเดือน 04 มีนาคม 2019
-
-
-| เผยแพร่บน |ชื่อเรื่องหัวข้อ | การเปลี่ยนแปลง |
-|------|------------|--------|
-| วันที่ 4/3/2019 | 8000011 Outlook.com กู้คืนอีเมล | เพิ่ม |
-| วันที่ 4/3/2019 | [ตอบรับการอ่าน 8000034 ใน Outlook.com](/AlchemyInsights/8000034-read-receipts-in-outlook-com) | การปรับเปลี่ยน |
-| วันที่ 4/3/2019 | [8000047 วิธีการการสร้างลายเซ็นอีเมลใน Outlook.com](/AlchemyInsights/8000047-how-to-create-an-email-signature-in-outlook-com) | การปรับเปลี่ยน |
-| วันที่ 4/3/2019 | [รูปภาพแทรก Outlook.com 8000086](/AlchemyInsights/80000860-outlook-com-insert-image) | เพิ่ม |
-| วันที่ 4/3/2019 | [ทางลัดแป้นพิมพ์ Outlook.com 8000087](/AlchemyInsights/8000087-outlook-com-keyboard-shortcuts) | เพิ่ม |
-| วันที่ 4/3/2019 | [8000088 บันทึกอีเมลใน Outlook.com](/AlchemyInsights/8000088-outlook-com-save-emails) | การปรับเปลี่ยน |
-| วันที่ 4/3/2019 | [ชื่อผู้ส่งที่ปลอดภัย Outlook.com 8000089](/AlchemyInsights/8000089-outlook-com-safe-senders) | เพิ่ม |
-| วันที่ 4/3/2019 | 8000011 Outlook.com กู้คืนอีเมล | ถูกเอาออก |
-| วันที่ 4/3/2019 | 1575 PowerApps และ Microsoft ขั้นตอนการวางแผนที่ส่วนขยาย | เพิ่ม |
-| วันที่ 4/3/2019 | [เปลี่ยนโดเมนสำหรับกลุ่ม Office 365](/AlchemyInsights/change-domain-for-group) | เปลี่ยนชื่อ |
-| วันที่ 4/3/2019 | [1575 PowerApps และ Microsoft ขั้นตอนการวางแผนที่ส่วนขยาย](/AlchemyInsights/1575-powerapps-and-microsoft-flow-plan-extension) | เปลี่ยนชื่อ |
-| วันที่ 4/3/2019 | [เปิดใช้งานการรับรองความถูกต้อง Multifactor](/AlchemyInsights/enable-multifactor-authentication) | การปรับเปลี่ยน |
-| วันที่ 4/3/2019 | [8000054 Outlook.com เก็บข้อมูลเกินขีดจำกัด](/AlchemyInsights/8000054-2-outlook-com-usage-limit-exceeded) | เพิ่ม |
-| วันที่ 4/3/2019 | [ความปลอดภัยขององค์กร 423 - EmailAccountCompromised](/AlchemyInsights/423-org-securityemailaccountcompromised) | การปรับเปลี่ยน |
-| วันที่ 4/3/2019 | [8000029 จัดการกับสแปมหรือฟิชชิ่งใน Outlook.com](/AlchemyInsights/8000029-deal-with-spam-or-phishing-in-outlook-com) | การปรับเปลี่ยน |
-| วันที่ 4/3/2019 | [เอาโดเมน](/AlchemyInsights/remove-domain) | การปรับเปลี่ยน |
-| วันที่ 4/3/2019 | [เพิ่มผู้ใช้ใน Office 365](/AlchemyInsights/add-users-to-office-365) | การปรับเปลี่ยน |
-| วันที่ 4/3/2019 | [คุณได้รับสแปมมากเกินไปหรือ phish ในกล่องจดหมายของคุณได้อย่างไร](/AlchemyInsights/are-you-getting-too-much-spam-or-phish-in-your-mailbox) | การปรับเปลี่ยน |
-| วันที่ 4/3/2019 | [เปลี่ยน NameServers](/AlchemyInsights/change-nameservers) | การปรับเปลี่ยน |
-| วันที่ 4/3/2019 | [สร้างโปรแกรมประยุกต์ใน PowerApps](/AlchemyInsights/create-apps-in-powerapps) | การปรับเปลี่ยน |
-| วันที่ 4/3/2019 | [Migrations ตัดกับ Office 365](/AlchemyInsights/cutover-migrations-to-office-365) | การปรับเปลี่ยน |
-| วันที่ 4/3/2019 | [มีปัญหาการส่งอีเมลหรือไม่](/AlchemyInsights/having-email-delivery-issues-0) | การปรับเปลี่ยน |
-| วันที่ 4/3/2019 | [มีปัญหาการส่งอีเมลหรือไม่](/AlchemyInsights/having-email-delivery-issues) | การปรับเปลี่ยน |
-| วันที่ 4/3/2019 | [ฉันเพิ่มบัตรเครดิตหรือไม่](/AlchemyInsights/how-do-i-add-a-credit-card) | การปรับเปลี่ยน |
-| วันที่ 4/3/2019 | [วิธีฉันปรับปรุงข้อมูลบัตรเครดิตของฉันได้อย่างไร](/AlchemyInsights/how-do-i-update-my-credit-card-information) | การปรับเปลี่ยน |
-| วันที่ 4/3/2019 | [วิธีการติดตั้ง Office](/AlchemyInsights/how-to-install-office) | การปรับเปลี่ยน |
-| วันที่ 4/3/2019 | [โยกย้ายอีเมลจาก IMAP](/AlchemyInsights/migrate-email-from-imap) | การปรับเปลี่ยน |
-| วันที่ 4/3/2019 | [ตัวเลือกการชำระเงิน](/AlchemyInsights/payment-options) | การปรับเปลี่ยน |
-| วันที่ 4/3/2019 | [ขั้นตอนที่แนะนำจะกระทำถ้าบัญชีผู้ใช้ถูกละเมิด](/AlchemyInsights/recommended-steps-to-take-if-an-account-is-compromised) | การปรับเปลี่ยน |
-| วันที่ 4/3/2019 | [ผู้ส่งที่ถูกบล็อกสำหรับการส่งสแปมมากเกินไป](/AlchemyInsights/sender-blocked-for-sending-too-much-spam) | การปรับเปลี่ยน |
-| วันที่ 4/3/2019 | [ส่งคำขอการสนับสนุน Dynamics 365](/AlchemyInsights/submit-dynamics-365-support-requests) | การปรับเปลี่ยน |
-| วันที่ 4/3/2019 | [ใช้โดเมนอยู่แล้ว](/AlchemyInsights/the-domain-is-already-in-use) | การปรับเปลี่ยน |
-| วันที่ 4/3/2019 | [ปัญหาในการดำเนินการซื้อในพอร์ทัล Office 365](/AlchemyInsights/trouble-completing-a-purchase-in-the-office-365-portal) | การปรับเปลี่ยน |
-| วันที่ 4/3/2019 | [ปรับปรุงระเบียน DNS](/AlchemyInsights/update-dns-records-0) | การปรับเปลี่ยน |
-| วันที่ 4/3/2019 | [ปรับปรุงระเบียน DNS](/AlchemyInsights/update-dns-records) | การปรับเปลี่ยน |
-| วันที่ 4/3/2019 | [อัพเดตรายละเอียดของการชำระเงิน](/AlchemyInsights/update-payment-details) | การปรับเปลี่ยน |
-| วันที่ 4/3/2019 | [ตรวจสอบโดเมน](/AlchemyInsights/verify-domain) | การปรับเปลี่ยน |
-| วันที่ 4/3/2019 | [การตั้งค่าการส่งต่อไปยังที่อยู่อีเมลของหลาย](/AlchemyInsights/setting-up-forwarding-to-multiple-email-addresses) | การปรับเปลี่ยน |
-| วันที่ 4/3/2019 | [แก้ปัญหา 'ไม่ยอมรับโดเมน'ข้อผิดพลาด](/AlchemyInsights/solving-the-not-an-accepted-domain-error) | การปรับเปลี่ยน |
-| วันที่ 6/3/2019 | [1581 เปิด และใช้กล่องจดหมายที่ใช้ร่วมกันใน Outlook บนเว็บ](/AlchemyInsights/1581-open-and-use-a-shared-mailbox-in-owa) | การปรับเปลี่ยน |
-| วันที่ 6/3/2019 | [ทีมงานกะ](/AlchemyInsights/1686-teams-shifts) | เพิ่ม |
-| วันที่ 6/3/2019 | [1703 ต้องการข้อมูลเกี่ยวกับทีม และโทรศัพท์ Polycom](/AlchemyInsights/1703-need-information-on-teams-and-polycom-phones) | เพิ่ม |
-| วันที่ 6/3/2019 | [การติดตั้งโมดูลทีม PS และข้อมูลอ้างอิง](/AlchemyInsights/1787-teams-ps-module-install-ref) | เพิ่ม |
-| วันที่ 6/3/2019 | [615 ชนิดของการใช้ร่วมกันและวิธีการตั้งค่าเหล่านั้น](/AlchemyInsights/615-types-of-sharing-and-how-to-set-them-up) | การปรับเปลี่ยน |
-| วันที่ 6/3/2019 | [Freemium กลุ่มคน](/AlchemyInsights/997-teams-freemium) | เพิ่ม |
-| วันที่ 6/3/2019 | [คุณมีข้อความถูกต้องตามกฎหมายที่ถูกทำเครื่องหมายเป็นสแปมหรือไม่](/AlchemyInsights/do-you-have-legitimate-messages-being-marked-as-spam) | การปรับเปลี่ยน |
-| วันที่ 6/3/2019 | [เปิดใช้งาน Microsoft ทีม](/AlchemyInsights/enable-microsoft-teams) | การปรับเปลี่ยน |
-| วันที่ 6/3/2019 | [คุณได้เปิดใช้งานกลุ่มคนสำหรับนักเรียนของคุณหรือไม่](/AlchemyInsights/have-you-enabled-teams-for-your-students) | การปรับเปลี่ยน |
-| วันที่ 6/3/2019 | [วิธีการเปิดใช้งานการสมัครใช้งาน](/AlchemyInsights/how-to-reactivate-a-subscription) | การปรับเปลี่ยน |
-| วันที่ 6/3/2019 | การปรับใช้โปรแกรมประยุกต์ Intune - 991 Id ของกฎ | ถูกเอาออก |
-| วันที่ 6/3/2019 | [ปัญหากับ Skype สำหรับธุรกิจหรือไม่](/AlchemyInsights/issue-with-skype-for-business) | การปรับเปลี่ยน |
-| วันที่ 6/3/2019 | [ทีมงาน Microsoft - การเข้าถึงของแขก](/AlchemyInsights/microsoft-teamsguest-access) | การปรับเปลี่ยน |
-| วันที่ 6/3/2019 | [ทีมงาน Microsoft - การคืนค่าไซต์ทีมที่ถูกลบไปแล้ว](/AlchemyInsights/microsoft-teamsrestoring-a-deleted-team-site) | การปรับเปลี่ยน |
-| วันที่ 6/3/2019 | [อีเมลที่ส่งทอดผ่านทาง Office 365](/AlchemyInsights/relay-email-through-office-365) | การปรับเปลี่ยน |
-| วันที่ 6/3/2019 | [ซิงค์แฟ้ม SharePoint ด้วยไคลเอ็นต์การซิงค์ OneDrive ใหม่](/AlchemyInsights/sync-sharepoint-files-with-the-new-onedrive-sync-client) | การปรับเปลี่ยน |
-| วันที่ 6/3/2019 | [ปรับรุ่นไปเป็นรุ่นเต็มของทีมงานของ Microsoft](/AlchemyInsights/upgrade-to-the-full-version-of-microsoft-teams) | การปรับเปลี่ยน |
-| 3/7/2019 | [อีเม Outlook.com 8000064 ไม่สามารถซิงค์ - สเปน](/AlchemyInsights/8000064-outlook-com-fix-email-sync-spanish) | เพิ่ม |
-| 3/7/2019 | [8000065 Outlook.com อีเมลขยะสแปม - สเปน](/AlchemyInsights/8000065-outlook-com-junk-spam-spanish) | เพิ่ม |
-| 3/7/2019 | [8000066 - กฎ 1 - Outlook.com hacked - สเปน](/AlchemyInsights/8000066-1-outlook-com-hacked-spanish) | เพิ่ม |
-| 3/7/2019 | [8000066 - กฎ 2 - Outlook.com hacked - สเปน](/AlchemyInsights/8000066-2-outlook-com-hacked-spanish) | เพิ่ม |
-| 3/7/2019 | [8000067 - บัญชีปิด Outlook.com - สเปน](/AlchemyInsights/8000067-outlook-com-close-account-spanish) | เพิ่ม |
-| 3/7/2019 | [8000068 - Outlook.com เพิ่มบัญชี - สเปน](/AlchemyInsights/8000068-outlook-com-add-account-spanish) | เพิ่ม |
-| 3/7/2019 | [8000069 - ผู้ส่งบล็อก Outlook.com - สเปน](/AlchemyInsights/8000069-outlook-com-block-sender-spanish) | เพิ่ม |
-| 3/7/2019 | [8000070 - Outlook.com ไม่สามารถเข้าสู่ระบบ - สเปน](/AlchemyInsights/8000070-outlook-com-cant-sign-in-spanish) | เพิ่ม |
-| 3/7/2019 | [ผู้ใช้การคืนค่าลบ](/AlchemyInsights/restore-deleted-user) | การปรับเปลี่ยน |
-| วันที่ 8/3/2019 | 8000043 POP, IMAP และ SMTP การตั้งค่าสำหรับ Outlook.com | ถูกเอาออก |
-| วันที่ 8/3/2019 | [8000043 POP, IMAP และ SMTP การตั้งค่าสำหรับ Outlook.com](/AlchemyInsights/8000043-outlook-com-pop-imap-and-smtp-settings) | เปลี่ยนชื่อ |
-| วันที่ 8/3/2019 | [8000071 Outlook.com แก้ไขอีเมลซิงค์ - ฝรั่งเศส](/AlchemyInsights/8000071-outlook-com-fix-email-sync-french) | เพิ่ม |
-| วันที่ 8/3/2019 | [8000072 Outlook.com จดหมายขยะ - ฝรั่งเศส](/AlchemyInsights/8000072-outlook-com-junk-mail-french) | เพิ่ม |
-| วันที่ 8/3/2019 | [บัญชี Outlook.com 8000073 hacked - ภาษาฝรั่งเศส](/AlchemyInsights/8000073-outlook-com-account-hacked-french) | เพิ่ม |
-| วันที่ 8/3/2019 | [8000074 Outlook.com ปิดบัญชี - ฝรั่งเศส](/AlchemyInsights/8000074-outlook-com-close-account-french) | เพิ่ม |
-| วันที่ 8/3/2019 | [8000075 Outlook.com เปลี่ยนรหัสผ่าน - ฝรั่งเศส](/AlchemyInsights/8000075-outlook-com-change-password-french) | เพิ่ม |
-| วันที่ 8/3/2019 | [8000076 Outlook.com บล็อกผู้ส่ง - ฝรั่งเศส](/AlchemyInsights/8000076-outlook-com-block-sender-french) | เพิ่ม |
-
-
 ## <a name="week-of-march-11-2019"></a>สัปดาห์ของเดือน 11 มีนาคม 2019
 
 
@@ -504,3 +424,109 @@
 | วันที่ 2/4/2019 | ไซต์และโครงสร้างเนื้อหาที่ถูกเอาออก | เพิ่ม |
 | วันที่ 2/4/2019 | การแก้ไขปัญหาข้อผิดพลาด 404 ไม่พบไฟล์ | เพิ่ม |
 | วันที่ 3/4/2019 | [550 5.7.705 รหัสข้อผิดพลาดปฏิเสธการเข้าถึง ผู้เช่าเกินขีดจำกัด](/AlchemyInsights/error-code-550-5-7-705-access-denied-tenant-has-exceeded-threshold) | การปรับเปลี่ยน |
+
+
+## <a name="week-of-april-08-2019"></a>สัปดาห์ของเดือน 08 เมษายน 2019
+
+
+| เผยแพร่บน |ชื่อเรื่องหัวข้อ | การเปลี่ยนแปลง |
+|------|------------|--------|
+| วันที่ 9/4/2019 | [ย้ายข้อความอีเมลไปยังกล่องจดหมายการเก็บถาวร](/AlchemyInsights/move-email-messages-to-the-archive-mailbox) | การปรับเปลี่ยน |
+| วันที่ 9/4/2019 | [การใช้ร่วมกันแบบไม่ระบุชื่อ](/AlchemyInsights/anonymous-sharing) | การปรับเปลี่ยน |
+| วันที่ 9/4/2019 | [ตรวจสอบแฟ้มหลาย ๆ แฟ้มในคราวเดียวกัน](/AlchemyInsights/check-in-several-files-at-once) | การปรับเปลี่ยน |
+| วันที่ 9/4/2019 | [การเชื่อมต่อไซต์ทีม SharePoint คลาสสิกให้กับกลุ่ม](/AlchemyInsights/connect-a-classic-sharepoint-team-site-to-a-group) | การปรับเปลี่ยน |
+| วันที่ 9/4/2019 | [สร้างไซต์ใน SharePoint แบบออนไลน์](/AlchemyInsights/create-a-site-in-sharepoint-online) | การปรับเปลี่ยน |
+| วันที่ 9/4/2019 | [การสร้างไซต์](/AlchemyInsights/create-a-site) | เปลี่ยนชื่อ |
+| วันที่ 9/4/2019 | [ลบไซต์ SharePoint](/AlchemyInsights/delete-a-sharepoint-site-0) | การปรับเปลี่ยน |
+| วันที่ 9/4/2019 | [ลบไซต์](/AlchemyInsights/delete-site-collection) | การปรับเปลี่ยน |
+| วันที่ 9/4/2019 | [ข้อผิดพลาดเมื่อคุณใช้แฟ้มร่วมกัน](/AlchemyInsights/error-message-when-sharing-files) | การปรับเปลี่ยน |
+| วันที่ 9/4/2019 | [ภายนอกที่ใช้ร่วมกันกับไซต์สำหรับทีม](/AlchemyInsights/external-sharing-with-a-team-site) | การปรับเปลี่ยน |
+| วันที่ 9/4/2019 | [วิธีการใช้เก็บคำออนไลน์ของ SharePoint](/AlchemyInsights/how-to-use-the-sharepoint-online-term-store) | การปรับเปลี่ยน |
+| วันที่ 9/4/2019 | [จัดการการค้นหาพจนานุกรมใน SharePoint แบบออนไลน์](/AlchemyInsights/manage-search-dictionaries-in-sharepoint-online) | การปรับเปลี่ยน |
+| วันที่ 9/4/2019 | [จัดเก็บข้อมูลของ SharePoint หรือ OneDrive](/AlchemyInsights/manage-your-sharepoint-or-onedrive-storage) | การปรับเปลี่ยน |
+| วันที่ 9/4/2019 | [คืนค่าไซต์ถูกลบไปแล้ว](/AlchemyInsights/restore-a-deleted-site-collection) | การปรับเปลี่ยน |
+| วันที่ 9/4/2019 | [การคืนค่าไซต์ย่อยที่ถูกลบไปแล้ว](/AlchemyInsights/restore-a-deleted-subsite) | การปรับเปลี่ยน |
+| วันที่ 9/4/2019 | [ใช้ร่วมกันของแฟ้มหรือโฟลเดอร์ใน SharePoint หรือ OneDrive](/AlchemyInsights/share-a-file-or-folder-in-sharepoint-or-onedrive) | การปรับเปลี่ยน |
+| วันที่ 9/4/2019 | [เก็บ SharePoint](/AlchemyInsights/sharepoint-storage) | การปรับเปลี่ยน |
+| วันที่ 9/4/2019 | [ใช้ร่วมกันกับผู้ใช้ภายนอกไม่ทำงาน](/AlchemyInsights/sharing-with-external-users-isn-t-working) | การปรับเปลี่ยน |
+| วันที่ 9/4/2019 | [ซิงค์แฟ้ม SharePoint ด้วยไคลเอ็นต์การซิงค์ OneDrive ใหม่](/AlchemyInsights/sync-sharepoint-files-with-the-new-onedrive-sync-client) | การปรับเปลี่ยน |
+| วันที่ 9/4/2019 | [เปิดการใช้งานร่วมกัน หรือปิดสำหรับไซต์ภายนอก](/AlchemyInsights/turn-external-sharing-on-or-off-for-a-site) | การปรับเปลี่ยน |
+| วันที่ 9/4/2019 | [เปิดการใช้งานร่วมกัน หรือปิดสำหรับ SharePoint ภายนอก](/AlchemyInsights/turn-external-sharing-on-or-off-for-sharepoint-0) | การปรับเปลี่ยน |
+| วันที่ 9/4/2019 | [เปิดการใช้งานร่วมกัน หรือปิดสำหรับ SharePoint ภายนอก](/AlchemyInsights/turn-external-sharing-on-or-off-for-sharepoint) | การปรับเปลี่ยน |
+| วันที่ 9/4/2019 | การแก้ไขปัญหาข้อผิดพลาด 404 ไม่พบไฟล์ | การปรับเปลี่ยน |
+| วันที่ 9/4/2019 | [ปฏิเสธการเข้าถึงไซต์โครงการ Web App](/AlchemyInsights/access-denied-to-a-project-online-site) | เพิ่ม |
+| วันที่ 9/4/2019 | [ออนไลน์โครงการอยู่ในสถานะแบบอ่านอย่างเดียว](/AlchemyInsights/project-online-is-in-a-read-only-state) | เพิ่ม |
+| วันที่ 9/4/2019 | [โครงการ Web App หายไปจากไซต์คอลเลกชันของ SharePoint](/AlchemyInsights/project-web-app-missing-from-site-collection) | เพิ่ม |
+| วันที่ 12/4/2019 | [1048 5.7.750 บริการไม่พร้อมใช้งาน ไคลเอนต์ที่ถูกบล็อกไม่ให้ส่งมาจากโดเมนที่ไม่ได้ลงทะเบียน](/AlchemyInsights/5-7-750-service-unavailable-client-blocked-from-sending-from-unregistered-d) | การปรับเปลี่ยน |
+| วันที่ 12/4/2019 | [713 เพิ่มอยู่อีเมลที่เพิ่มเติมไปยังรายชื่อการแจกจ่าย](/AlchemyInsights/adding-an-additional-email-address-to-a-distribution-list) | การปรับเปลี่ยน |
+| วันที่ 12/4/2019 | [ผู้ติดต่อภายนอกเพิ่ม 718 / บุคคลภายนอกองค์กรไปยังรายชื่อการแจกจ่าย](/AlchemyInsights/adding-external-contactspeople-outside-of-organization-to-a-distribution-lis) | การปรับเปลี่ยน |
+| วันที่ 12/4/2019 | [714 Allowing ผู้ส่งภายนอกกับรายการการแจกจ่ายอีเมล](/AlchemyInsights/allowing-external-senders-to-email-distribution-lists) | การปรับเปลี่ยน |
+| วันที่ 12/4/2019 | [717 Allowing ให้ผู้ใช้ส่งอีเมลที่เป็นรายการการแจกจ่าย](/AlchemyInsights/allowing-users-to-send-email-as-a-distribution-list) | การปรับเปลี่ยน |
+| วันที่ 12/4/2019 | [1049 antiSpam 4.5.3 แนะหลายผู้รับ (AS780090)](/AlchemyInsights/antispam-4-5-3-too-many-recipients-as780090) | การปรับเปลี่ยน |
+| วันที่ 12/4/2019 | [Antispam 1051 4.7.500 ในการเข้าถึงถูกปฏิเสธ โปรดลองอีกครั้งในภายหลัง](/AlchemyInsights/antispam-4-7-500-access-denied-please-try-again-later) | การปรับเปลี่ยน |
+| วันที่ 12/4/2019 | [1050 antispam 4.7.500 เซิร์ฟเวอร์ว่าง กรุณาลองอีกครั้งภายหลังจาก [XXX.XXX.XXX.XXX]](/AlchemyInsights/antispam-4-7-500-server-busy-please-try-again-later-from-xxx-xxx-xxx-xxx) | การปรับเปลี่ยน |
+| วันที่ 12/4/2019 | [1047 antiSpam 550 5.7.708 บริการไม่พร้อมใช้งาน เข้าถึงถูกปฏิเสธ ปริมาณการใช้งานที่ไม่มีการยอมรับจาก IP นี้](/AlchemyInsights/antispam-550-5-7-708-service-unavailable-access-denied-traffic-not-accepted) | การปรับเปลี่ยน |
+| วันที่ 12/4/2019 | [รหัสผ่าน app 500](/AlchemyInsights/app-passwords) | การปรับเปลี่ยน |
+| วันที่ 12/4/2019 | [บล็อค 726 ส่งต่ออีเมล](/AlchemyInsights/blocking-email-forwarding) | การปรับเปลี่ยน |
+| วันที่ 12/4/2019 | [บล็อกการแลกเปลี่ยนแบบออนไลน์ PowerShell 763 การเข้าถึงสำหรับผู้ใช้](/AlchemyInsights/blocking-exchange-online-powershell-access-for-users) | การปรับเปลี่ยน |
+| วันที่ 12/4/2019 | [ข้อมูลปฏิทิน 608 ในการเซ็ตอัพไฮบริดสลี](/AlchemyInsights/calendar-information-on-hybrid-setups) | การปรับเปลี่ยน |
+| วันที่ 12/4/2019 | [613 ปฏิทินเผยแพร่ข้อมูล](/AlchemyInsights/calendar-publishing-information) | การปรับเปลี่ยน |
+| วันที่ 12/4/2019 | [618 ปฏิทินนโยบายที่ใช้ร่วมกัน](/AlchemyInsights/calendar-sharing-policy) | การปรับเปลี่ยน |
+| วันที่ 12/4/2019 | [398 ปฏิทิน - การจอง](/AlchemyInsights/calendarbooking) | การปรับเปลี่ยน |
+| วันที่ 12/4/2019 | [ปฏิทิน 399 - ผู้รับมอบสิทธิ์](/AlchemyInsights/calendardelegate) | การปรับเปลี่ยน |
+| วันที่ 12/4/2019 | [ปฏิทิน 400 - FreeBusy](/AlchemyInsights/calendarfreebusy) | การปรับเปลี่ยน |
+| วันที่ 12/4/2019 | [ปฏิทิน 402 - O365Groups](/AlchemyInsights/calendaro365groups) | การปรับเปลี่ยน |
+| วันที่ 12/4/2019 | [ปฏิทิน 1081 - RBA CatchAll](/AlchemyInsights/calendarrba-catchall) | การปรับเปลี่ยน |
+| วันที่ 12/4/2019 | [912 บ็อกซ์ Focused ตั้งค่าคอนฟิกสำหรับทุกคนในองค์กรของคุณ](/AlchemyInsights/configure-focused-inbox-for-everyone-in-your-organization) | การปรับเปลี่ยน |
+| วันที่ 12/4/2019 | [Connecting 761 การแลกเปลี่ยน PowerShell ออนไลน์เมื่อมีการเปิดใช้งาน MFA](/AlchemyInsights/connecting-to-exchange-online-powershell-when-mfa-is-enabled) | การปรับเปลี่ยน |
+| วันที่ 12/4/2019 | [การเชื่อมต่อ 760 เพื่อแลกเปลี่ยน PowerShell ออนไลน์](/AlchemyInsights/connecting-to-exchange-online-powershell) | การปรับเปลี่ยน |
+| วันที่ 12/4/2019 | [712 แปลงรายการการแจกจ่ายไปยังกลุ่ม Office 365](/AlchemyInsights/converting-a-distribution-list-to-an-office-365-group) | การปรับเปลี่ยน |
+| วันที่ 12/4/2019 | [711 การสร้างรายการการแจกจ่ายหรือกลุ่ม](/AlchemyInsights/creating-a-distribution-list-or-group) | การปรับเปลี่ยน |
+| วันที่ 12/4/2019 | [ผู้สร้าง 744 เมื่อองค์กรอยู่ในโหมดไฮบริดสลี](/AlchemyInsights/creating-users-when-organization-is-in-hybrid-mode) | การปรับเปลี่ยน |
+| วันที่ 12/4/2019 | [สร้าง 743 ที่ผู้ใช้ไม่ มีสิทธิ์การใช้งาน](/AlchemyInsights/creating-users-without-a-license) | การปรับเปลี่ยน |
+| วันที่ 12/4/2019 | [1065 deprecation ของ EOP ขาออก IP ที่อยู่ rangesMC146155](/AlchemyInsights/deprecation-of-eop-outbound-ip-address-ranges-mc146155) | การปรับเปลี่ยน |
+| วันที่ 12/4/2019 | [1314 ทำซ้ำวัตถุด้าน](/AlchemyInsights/duplicate-object-remediation) | การปรับเปลี่ยน |
+| วันที่ 12/4/2019 | [เปิดใช้งาน POP หรือ IMAP บัญชี 934](/AlchemyInsights/enable-pop-and-imap-accounts) | การปรับเปลี่ยน |
+| วันที่ 12/4/2019 | [รหัสข้อผิดพลาด 5.7.501 550 ถูกปฏิเสธการเข้าถึง การตรวจพบสแปมสิ่งไม่เหมาะสม](/AlchemyInsights/error-code-550-5-7-501-access-denied-spam-abuse-detected) | การปรับเปลี่ยน |
+| วันที่ 12/4/2019 | [550 5.7.705 รหัสข้อผิดพลาดปฏิเสธการเข้าถึง ผู้เช่าเกินขีดจำกัด](/AlchemyInsights/error-code-550-5-7-705-access-denied-tenant-has-exceeded-threshold) | การปรับเปลี่ยน |
+| วันที่ 12/4/2019 | [126 การรับกล่องจดหมายไม่พบข้อผิดพลาดใน OWA หรือไม่](/AlchemyInsights/getting-a-mailbox-cannot-be-found-error-in-owa) | การปรับเปลี่ยน |
+| วันที่ 12/4/2019 | [การมีข้อผิดพลาด TenantAccessBlockedException เมื่อคุณเข้าถึงอีเมล 127 หรือไม่](/AlchemyInsights/getting-a-tenantaccessblockedexception-error-when-accessing-email) | การปรับเปลี่ยน |
+| วันที่ 12/4/2019 | [646 วิธีการการตั้งค่าคอนฟิก AADConnect](/AlchemyInsights/how-to-configure-aadconnect) | การปรับเปลี่ยน |
+| วันที่ 12/4/2019 | [955 วิธีการตั้งค่าคอนฟิก MFA](/AlchemyInsights/how-to-configure-mfa) | การปรับเปลี่ยน |
+| วันที่ 12/4/2019 | [614 วิธีการเพื่อสร้าง และจัดการกล่องจดหมายในห้อง](/AlchemyInsights/how-to-create-and-manage-room-mailboxes) | การปรับเปลี่ยน |
+| วันที่ 12/4/2019 | [ไฮบริดสลี 401 - FreeBusy](/AlchemyInsights/hybridfreebusy) | การปรับเปลี่ยน |
+| วันที่ 12/4/2019 | [กฎของกล่องขาเข้า 929 deflectTransport กฎ](/AlchemyInsights/inbox-rules-to-deflecttransport-rules) | การปรับเปลี่ยน |
+| วันที่ 12/4/2019 | [กฎของกล่องขาเข้า 922](/AlchemyInsights/inbox-rules) | การปรับเปลี่ยน |
+| วันที่ 12/4/2019 | [เพิ่ม EWS การควบคุมปริมาณวงเงินสำหรับการย้ายจดหมาย](/AlchemyInsights/increase-ews-throttling-for-mail-migration) | เพิ่ม |
+| วันที่ 12/4/2019 | [1264 IP ที่ถูกบล็อคสำหรับการส่งสแปมมากเกินไป (550 5.7.51)](/AlchemyInsights/ip-blocked-for-sending-too-much-spam-550-5-7-51) | การปรับเปลี่ยน |
+| วันที่ 12/4/2019 | [เมื่อผู้ใช้กำลังมีปัญหาในการส่ง 322 ปัญหา](/AlchemyInsights/issues-when-a-user-is-having-issues-sending) | การปรับเปลี่ยน |
+| วันที่ 12/4/2019 | [เมื่อผู้ใช้ไม่ได้รับอีเม 321 ประเด็น](/AlchemyInsights/issues-when-a-user-isn-t-receiving-email) | การปรับเปลี่ยน |
+| วันที่ 12/4/2019 | [การตัดสินค้าจากคลัง 323 มีความล่าช้าในอีเมล](/AlchemyInsights/issues-with-delays-in-email) | การปรับเปลี่ยน |
+| วันที่ 12/4/2019 | [การตัดสินค้าจากคลัง 324 ด้วย email(s) ไปยังปลายทางที่ไม่ถูกต้อง](/AlchemyInsights/issues-with-email-s-going-to-the-wrong-destination) | การปรับเปลี่ยน |
+| วันที่ 12/4/2019 | [898 การเรียนรู้เกี่ยวกับปฏิทินภายนอกที่ใช้งานร่วมกันของตัวเลือก](/AlchemyInsights/learn-about-external-calendar-sharing-options) | การปรับเปลี่ยน |
+| วันที่ 12/4/2019 | [617 การเรียนรู้เกี่ยวกับตัวเลือกการใช้งานร่วมกันภายนอก](/AlchemyInsights/learn-about-external-sharing-options) | การปรับเปลี่ยน |
+| วันที่ 12/4/2019 | [610 การเรียนรู้เกี่ยวกับกลุ่ม Office 365](/AlchemyInsights/learn-about-office-365-groups) | การปรับเปลี่ยน |
+| วันที่ 12/4/2019 | [612 การเรียนรู้วิธีเกี่ยวกับปฏิทินและโฟลเดอร์สาธารณะ](/AlchemyInsights/learn-how-about-calendars-and-public-folders) | การปรับเปลี่ยน |
+| วันที่ 12/4/2019 | [603 เรียนรู้วิธีการปรับการตั้งค่าวาระการประชุม](/AlchemyInsights/learn-how-to-adjust-agenda-settings) | การปรับเปลี่ยน |
+| วันที่ 12/4/2019 | [723 ทำนามแฝงอีเมลที่เป็นอีเมลหลักสำหรับผู้ใช้](/AlchemyInsights/making-an-email-alias-a-primary-email-for-the-user) | การปรับเปลี่ยน |
+| วันที่ 12/4/2019 | [โปรแกรมประยุกต์ Microsoft 597 จอง](/AlchemyInsights/microsoft-bookings-app) | การปรับเปลี่ยน |
+| วันที่ 12/4/2019 | [กฎการย้าย StalledDueTo * 973](/AlchemyInsights/migration-stalleddueto-rule) | การปรับเปลี่ยน |
+| วันที่ 12/4/2019 | [1581 เปิด และใช้กล่องจดหมายที่ใช้ร่วมกันใน Outlook บนเว็บ](/AlchemyInsights/open-and-use-a-shared-mailbox-in-owa) | การปรับเปลี่ยน |
+| วันที่ 12/4/2019 | [ความปลอดภัยขององค์กร 423 - EmailAccountCompromised](/AlchemyInsights/org-securityemailaccountcompromised) | การปรับเปลี่ยน |
+| วันที่ 12/4/2019 | [ความปลอดภัยขององค์กร 424 - บวกเท็จสแปม](/AlchemyInsights/org-securityspam-false-positive) | การปรับเปลี่ยน |
+| วันที่ 12/4/2019 | [1332 OWA - กฎของกล่องขาเข้าจะไม่ดำเนินการสำหรับกล่องจดหมาย](/AlchemyInsights/owainbox-rule-s-are-not-executing-for-a-mailbox) | การปรับเปลี่ยน |
+| วันที่ 12/4/2019 | [182 โปรดเรียกใช้ SaRA ในการวิเคราะห์&amp;แก้ปัญหาการรับรองความถูกต้องของ Outlook](/AlchemyInsights/please-run-sara-to-diagnoseresolve-outlook-authentication-issues) | การปรับเปลี่ยน |
+| วันที่ 12/4/2019 | [ข้อผิดพลาดนโยบาย 412 เมื่อปฏิทินที่ใช้ร่วมกัน](/AlchemyInsights/policy-error-when-sharing-calendar) | การปรับเปลี่ยน |
+| วันที่ 12/4/2019 | [408 RBA](/AlchemyInsights/rba) | การปรับเปลี่ยน |
+| วันที่ 12/4/2019 | [1336 RecoverableItems โฟลเดอร์นั้นเต็ม](/AlchemyInsights/recoverableitems-folder-is-full) | การปรับเปลี่ยน |
+| วันที่ 12/4/2019 | [1374 แก้ไข howto กล่องจดหมายที่สอง](/AlchemyInsights/resolve-two-mailboxes-howto) | การปรับเปลี่ยน |
+| วันที่ 12/4/2019 | [ขีดจำกัดกฎ 924](/AlchemyInsights/rule-limits) | การปรับเปลี่ยน |
+| วันที่ 12/4/2019 | [414 ค้นหาประสบการณ์การใช้งานการปรับปรุง](/AlchemyInsights/search-experience-updated) | การปรับเปลี่ยน |
+| วันที่ 12/4/2019 | [902 (ข้อผิดพลาดเนื่องจากวัตถุที่ซ้ำกัน)](/AlchemyInsights/sync-errors-due-to-duplicate-objects) | การปรับเปลี่ยน |
+| วันที่ 12/4/2019 | [ผู้เช่า Office 365 รุ่นทดลองใช้ที่ถูกบล็อค โดย Spamhaus](/AlchemyInsights/trial-office-365-tenant-blocked-by-spamhaus) | การปรับเปลี่ยน |
+| วันที่ 12/4/2019 | [911 ปิดเน้นกล่องขาเข้าในไคลเอนต์](/AlchemyInsights/turning-off-focused-inbox-in-the-client) | การปรับเปลี่ยน |
+| วันที่ 12/4/2019 | [615 ชนิดของการใช้ร่วมกันและวิธีการตั้งค่าเหล่านั้น](/AlchemyInsights/types-of-sharing-and-how-to-set-them-up) | การปรับเปลี่ยน |
+| วันที่ 12/4/2019 | [การทำความเข้าใจ 413 วาระการประชุมจดหมาย](/AlchemyInsights/understanding-agenda-mail) | การปรับเปลี่ยน |
+| วันที่ 12/4/2019 | [AADConnect การปรับรุ่น 932](/AlchemyInsights/upgrading-aadconnect) | การปรับเปลี่ยน |
+| วันที่ 12/4/2019 | [นามแฝงอีเมลที่ใช้ 725 บนอุปกรณ์มือถือ](/AlchemyInsights/using-email-alias-on-mobile-device) | การปรับเปลี่ยน |
+| วันที่ 12/4/2019 | [ข้อผิดพลาด Winsock 1554 10061](/AlchemyInsights/winsock-error-10061) | การปรับเปลี่ยน |
