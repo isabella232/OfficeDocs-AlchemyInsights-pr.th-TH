@@ -12,24 +12,24 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: ba037d2d-3c99-4d01-8d60-ca5d624da9b1
 ms.openlocfilehash: 2ebf127b0c66b34e2a9cc492542c48e2f854c3c9
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30767087"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32371895"
 ---
-# <a name="prepaid-renewal"></a><span data-ttu-id="2f91f-102">ต่ออายุจ่ายล่วงหน้า</span><span class="sxs-lookup"><span data-stu-id="2f91f-102">Prepaid renewal</span></span>
+# <a name="prepaid-renewal"></a><span data-ttu-id="4d1af-102">ต่ออายุจ่ายล่วงหน้า</span><span class="sxs-lookup"><span data-stu-id="4d1af-102">Prepaid renewal</span></span>
 
-1. <span data-ttu-id="2f91f-103">ในศูนย์ดูแล ไปหน้าการ[บอกรับเป็นสมาชิก](https://go.microsoft.com/fwlink/p/?linkid=842054)หรือเลือก**การเรียกเก็บเงิน** \> **บอกรับเป็นสมาชิก**</span><span class="sxs-lookup"><span data-stu-id="2f91f-103">In the Admin center, go to the [Subscriptions](https://go.microsoft.com/fwlink/p/?linkid=842054) page, or choose **Billing** \> **Subscriptions**.</span></span>
+1. <span data-ttu-id="4d1af-103">ในศูนย์ดูแล ไปหน้าการ[บอกรับเป็นสมาชิก](https://go.microsoft.com/fwlink/p/?linkid=842054)หรือเลือก**การเรียกเก็บเงิน** \> **บอกรับเป็นสมาชิก**</span><span class="sxs-lookup"><span data-stu-id="4d1af-103">In the Admin center, go to the [Subscriptions](https://go.microsoft.com/fwlink/p/?linkid=842054) page, or choose **Billing** \> **Subscriptions**.</span></span>
     
-2. <span data-ttu-id="2f91f-104">เลือกการบอกรับเป็นสมาชิกที่จ่ายล่วงหน้าคุณต้องการขยาย จาก นั้นเลือก**ขยาย**</span><span class="sxs-lookup"><span data-stu-id="2f91f-104">Choose the prepaid subscription you would like to extend, then choose **Extend**.</span></span>
+2. <span data-ttu-id="4d1af-104">เลือกการบอกรับเป็นสมาชิกที่จ่ายล่วงหน้าคุณต้องการขยาย จาก นั้นเลือก**ขยาย**</span><span class="sxs-lookup"><span data-stu-id="4d1af-104">Choose the prepaid subscription you would like to extend, then choose **Extend**.</span></span>
     
-3. <span data-ttu-id="2f91f-105">เลือกตัวเลือกสำหรับ**หมายเลขผลิตภัณฑ์**</span><span class="sxs-lookup"><span data-stu-id="2f91f-105">Choose the option for **Product key**.</span></span> <span data-ttu-id="2f91f-106">(หากหมายเลขผลิตภัณฑ์ที่สั่งซื้อ ณที่ตั้งการขายปลีกนี่ คุณอาจมีตัวเลือกในการขยาย ด้วยวิธีการชำระเงินอื่น ๆ)</span><span class="sxs-lookup"><span data-stu-id="2f91f-106">(If this was a product key purchased at a retail location, you might have the option to extend with other payment methods.)</span></span>
+3. <span data-ttu-id="4d1af-105">เลือกตัวเลือกสำหรับ**หมายเลขผลิตภัณฑ์**</span><span class="sxs-lookup"><span data-stu-id="4d1af-105">Choose the option for **Product key**.</span></span> <span data-ttu-id="4d1af-106">(หากหมายเลขผลิตภัณฑ์ที่สั่งซื้อ ณที่ตั้งการขายปลีกนี่ คุณอาจมีตัวเลือกในการขยาย ด้วยวิธีการชำระเงินอื่น ๆ)</span><span class="sxs-lookup"><span data-stu-id="4d1af-106">(If this was a product key purchased at a retail location, you might have the option to extend with other payment methods.)</span></span>
     
-4. <span data-ttu-id="2f91f-107">ใส่หมายเลขผลิตภัณฑ์</span><span class="sxs-lookup"><span data-stu-id="2f91f-107">Enter the product key.</span></span>
+4. <span data-ttu-id="4d1af-107">ใส่หมายเลขผลิตภัณฑ์</span><span class="sxs-lookup"><span data-stu-id="4d1af-107">Enter the product key.</span></span>
     
-5. <span data-ttu-id="2f91f-108">ตรวจสอบว่า ข้อมูลถูกต้อง จาก นั้นเลือก**ถัดไป**</span><span class="sxs-lookup"><span data-stu-id="2f91f-108">Make sure the information is correct, then choose **Next**.</span></span>
+5. <span data-ttu-id="4d1af-108">ตรวจสอบว่า ข้อมูลถูกต้อง จาก นั้นเลือก**ถัดไป**</span><span class="sxs-lookup"><span data-stu-id="4d1af-108">Make sure the information is correct, then choose **Next**.</span></span>
     
-6. <span data-ttu-id="2f91f-109">เลือกปุ่มตัวเลือกเพื่อขยายวันสิ้นสุดของใบอนุญาตที่มีอยู่ จาก นั้นเลือก**ถัดไป**</span><span class="sxs-lookup"><span data-stu-id="2f91f-109">Choose the radio button to extend the end date of the existing licenses, then choose **Next**.</span></span>
+6. <span data-ttu-id="4d1af-109">เลือกปุ่มตัวเลือกเพื่อขยายวันสิ้นสุดของใบอนุญาตที่มีอยู่ จาก นั้นเลือก**ถัดไป**</span><span class="sxs-lookup"><span data-stu-id="4d1af-109">Choose the radio button to extend the end date of the existing licenses, then choose **Next**.</span></span>
     
 
