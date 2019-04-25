@@ -12,11 +12,11 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 063b56f2-625b-4520-99db-4e92941d3940
 ms.openlocfilehash: fc76591cc19058b70394fa94e6a2db059e76870e
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30766439"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32371606"
 ---
 # <a name="reset-or-change-passwords"></a>ตั้งค่า หรือเปลี่ยนรหัสผ่าน
 

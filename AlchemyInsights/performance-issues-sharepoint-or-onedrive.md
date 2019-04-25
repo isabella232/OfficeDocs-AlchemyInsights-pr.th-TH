@@ -9,11 +9,11 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 9225ec0f-771f-4d7a-8157-e188953107aa
 ms.openlocfilehash: 706775085ef37df20de09c0a68097ca2d6ce6790
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29905311"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32372435"
 ---
 # <a name="sharepoint-or-onedrive-slow-inaccessible-or-unavailable-for-multiple-users"></a>SharePoint หรือ OneDrive ช้า ไม่สามารถเข้าถึง หรือไม่พร้อมใช้งานสำหรับผู้ใช้หลายคน
 

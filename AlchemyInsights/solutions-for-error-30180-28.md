@@ -10,11 +10,11 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 2caadb7a-3b1e-4332-b928-03c1d51da8d3
 ms.openlocfilehash: 5f67fb6d67c634e2b792a430709b4b664a4eedc2
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29928639"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32369985"
 ---
 # <a name="solutions-for-error-30180-28"></a>วิธีแก้ปัญหาสำหรับข้อผิดพลาด 30180-28
 

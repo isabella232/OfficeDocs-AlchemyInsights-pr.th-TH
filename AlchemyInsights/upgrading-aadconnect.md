@@ -11,11 +11,11 @@ localization_priority: Normal
 ms.custom: 932
 ms.assetid: 8f43f36c-9722-43a4-b0de-c5341c06dac5
 ms.openlocfilehash: 8ffa8f64019077034bc4fad61d1d843849c42898
-ms.sourcegitcommit: 1a4b8fa9e38a95ca811085af516edb81caf2018c
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 04/13/2019
-ms.locfileid: "31858979"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32389782"
 ---
 # <a name="upgrade-azure-ad-connect"></a>การเชื่อมต่อ Azure AD การปรับรุ่น
 

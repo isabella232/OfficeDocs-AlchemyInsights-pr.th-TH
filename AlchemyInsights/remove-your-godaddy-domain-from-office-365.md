@@ -9,11 +9,11 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 32314f8a-aaec-4d01-9fd3-009bfdcecd12
 ms.openlocfilehash: 16b1d230b8f8d89fea2892494f33691a67592361
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29925723"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32388922"
 ---
 # <a name="remove-your-godaddy-domain-from-office-365"></a>การเอาโดเมน GoDaddy ของคุณออกจาก Office 365
 

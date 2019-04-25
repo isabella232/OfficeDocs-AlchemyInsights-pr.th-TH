@@ -12,11 +12,11 @@ ms.collection: Adm_O365
 ms.custom: 204
 ms.assetid: 86752487-615c-447d-aebf-bf5abd49db20
 ms.openlocfilehash: a8cc842946372a46f103a09952568b14116036d6
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30772845"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32417732"
 ---
 # <a name="how-to-find-and-recover-missing-messages-contacts-or-calendar-items-in-outlook"></a>วิธีการค้นหา และกู้คืนข้อความที่หายไป ผู้ติดต่อ หรือรายการปฏิทินใน Outlook
 

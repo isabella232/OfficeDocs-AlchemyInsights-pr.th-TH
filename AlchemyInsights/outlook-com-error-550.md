@@ -10,11 +10,11 @@ ms.custom: 8000081
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.openlocfilehash: d3e94779ebbc6d7e6b1ba1d3f445e6f34f2274e1
-ms.sourcegitcommit: e87b3f691444db3b9f460c9a3109146dc7ad4f80
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 04/15/2019
-ms.locfileid: "31872526"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32419069"
 ---
 # <a name="error-550553-in-outlookcom"></a>ข้อผิดพลาด 550/553 ใน Outlook.com
 

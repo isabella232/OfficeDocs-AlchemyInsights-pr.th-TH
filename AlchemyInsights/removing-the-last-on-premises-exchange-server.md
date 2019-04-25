@@ -10,11 +10,11 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 2e0be4a5-ece8-461d-a80c-202c5ede5ecf
 ms.openlocfilehash: 661fbe8d7d1c3f7a777c96b0e5e79bfb184be71b
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29900199"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32371570"
 ---
 # <a name="removing-the-last-on-premises-exchange-server"></a>การเอาออกเซิร์ฟเวอร์ Exchange ในสถานที่สุดท้าย
 

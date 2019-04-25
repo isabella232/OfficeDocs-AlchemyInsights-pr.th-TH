@@ -10,11 +10,11 @@ localization_priority: Normal
 ROBOTS: NOINDEX, NOFOLLOW
 ms.custom: 0ba5e44e-f0ae-4978-98a3-90065447af08
 ms.openlocfilehash: 542d1c91b87e6d7b918d091f463cf56697213778
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29920179"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32389618"
 ---
 เมื่อต้องการตั้งค่ารหัสผ่านทั้งหมดจะไม่หมดอายุ ไป[ความปลอดภัย&amp;ความเป็นส่วนตัว](https://portal.office.com/adminportal/home#/settings/security) คลิก**แก้ไข**ถัดจาก**นโยบายรหัสผ่าน**และแถบเลื่อนไปยัง**บน**การเปิดใช้งาน
   

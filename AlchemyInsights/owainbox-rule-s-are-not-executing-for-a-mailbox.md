@@ -11,11 +11,11 @@ localization_priority: Normal
 ms.custom: 1332
 ms.assetid: 383d1c77-5e4b-4a69-92d6-c404d890b6b7
 ms.openlocfilehash: c0b221b5335254bd0f1eb4b258efa6946376ca12
-ms.sourcegitcommit: 1a4b8fa9e38a95ca811085af516edb81caf2018c
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 04/13/2019
-ms.locfileid: "31858763"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32372579"
 ---
 # <a name="an-inbox-rule-doesnt-work-as-expected"></a>กฎของกล่องขาเข้าไม่ทำงานตามที่คาดไว้
 

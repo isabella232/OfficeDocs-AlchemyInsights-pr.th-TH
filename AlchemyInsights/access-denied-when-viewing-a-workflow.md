@@ -9,11 +9,11 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 47ceb983-f9a4-4c55-a40c-03d5c3d75dc9
 ms.openlocfilehash: 43369c600687d6ac253f70a8535dc2bd0d41687e
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29918847"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32389906"
 ---
 # <a name="access-denied-when-viewing-a-workflow"></a>การเข้าถึงถูกปฏิเสธเมื่อดูเวิร์กโฟลว์
 

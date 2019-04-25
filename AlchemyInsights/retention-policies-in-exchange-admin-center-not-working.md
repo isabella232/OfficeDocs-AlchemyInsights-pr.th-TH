@@ -10,11 +10,11 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: a48fd5fd-4af7-4d5f-b617-b0f9334ccaa7
 ms.openlocfilehash: c9061fa728edaab6575a7b1027783e56739a6d14
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29935011"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32371317"
 ---
 # <a name="retention-policies-in-exchange-admin-center"></a>นโยบายการเก็บข้อมูลในศูนย์ดูแลอัตราแลกเปลี่ยน
 
