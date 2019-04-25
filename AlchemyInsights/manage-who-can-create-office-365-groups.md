@@ -12,11 +12,11 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: f68aada0-7700-4e61-b822-6ce203afd145
 ms.openlocfilehash: 9a567f9725a287c796d8b7e71fecddcb37660f47
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30763235"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32409034"
 ---
 # <a name="manage-who-can-create-office-365-groups"></a>จัดการที่สามารถสร้างกลุ่ม 365 Office
 
