@@ -12,11 +12,11 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 49d77463-d3da-4106-abcf-2d5209106ea2
 ms.openlocfilehash: eda1feb55a22a21849b6d017600b7c47e49b5174
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30753661"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32420951"
 ---
 # <a name="switch-to-a-different-office-365-for-business-plan"></a>สลับไปยัง Office 365 แตกต่างกันสำหรับการวางแผนทางธุรกิจ
 

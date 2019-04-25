@@ -10,11 +10,11 @@ localization_priority: Normal
 ROBOTS: NOINDEX, NOFOLLOW
 ms.custom: 0ba48253-6088-4c95-94d8-815753c46c4c
 ms.openlocfilehash: 8c7b56515d6eb96447b4bf4521d34f0ede5e6b95
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29906355"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32390062"
 ---
 # <a name="frequent-excel-crashes"></a>ครั้งกว่าล้มเหลว Excel ได้อย่างไร
 

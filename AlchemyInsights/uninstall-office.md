@@ -11,11 +11,11 @@ localization_priority: Normal
 ms.assetid: 6d728dd5-4b98-4bc3-a866-c0ec82779b6b
 description: ขั้นตอนด้านล่างนี้อธิบายวิธีการถอนการติดตั้ง Office ออกจากพีซี
 ms.openlocfilehash: 5702f41f3c43183381608f2a2cfc8218887ba21a
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29940215"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32423814"
 ---
 # <a name="uninstall-office"></a>ถอนการติดตั้ง Office
 
