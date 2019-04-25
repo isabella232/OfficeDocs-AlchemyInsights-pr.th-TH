@@ -9,11 +9,11 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: b5c75a18-1db8-42e9-8b95-730913a61491
 ms.openlocfilehash: 06e3df2b5099dbc1f90c1dd06b372dcedfe4fc42
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29927487"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32402686"
 ---
 # <a name="error-message-when-sharing-files-from-windows-explorer"></a>ข้อความแสดงข้อผิดพลาดเมื่อใช้งานร่วมกันของแฟ้มจาก Windows Explorer
 

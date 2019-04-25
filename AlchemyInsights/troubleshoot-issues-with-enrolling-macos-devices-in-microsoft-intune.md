@@ -10,11 +10,11 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 71174bae-870a-4d5b-856b-891a054cf61e
 ms.openlocfilehash: 787037983d026fa159fc64f2f0bfc283462c291e
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29941239"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32420297"
 ---
 # <a name="troubleshoot-issues-with-enrolling-macos-devices-in-microsoft-intune"></a>แก้ไขปัญหาเกี่ยวกับการลงทะเบียนอุปกรณ์ macOS ใน Microsoft Intune
 
