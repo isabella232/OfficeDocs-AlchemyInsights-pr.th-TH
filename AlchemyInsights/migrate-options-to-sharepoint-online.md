@@ -9,11 +9,11 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: c8c339c9-2e50-4daa-aa91-3eb5053e2bc6
 ms.openlocfilehash: fadc34a277e8cf8dc085e647c14b8bd381782941
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29934939"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32419194"
 ---
 # <a name="migrate-options-to-sharepoint-online"></a>ย้ายตัวเลือกไปยัง SharePoint Online
 

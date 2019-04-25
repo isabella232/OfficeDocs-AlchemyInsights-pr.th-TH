@@ -3,20 +3,6 @@
 
 
 
-## <a name="week-of-march-11-2019"></a>สัปดาห์ของเดือน 11 มีนาคม 2019
-
-
-| เผยแพร่บน |ชื่อเรื่องหัวข้อ | การเปลี่ยนแปลง |
-|------|------------|--------|
-| วันที่ 12/3/2019 | กล่องขาเข้า Outlook.com 8000054 ไม่ได้โหลด | เพิ่ม |
-| วันที่ 12/3/2019 | [กล่องขาเข้า Outlook.com 8000078 ไม่ได้โหลด](/AlchemyInsights/8000078-outlook-com-inbox-not-loading) | เปลี่ยนชื่อ |
-| วันที่ 12/3/2019 | [กล่องขาเข้า Outlook.com 8000078 ไม่ได้โหลด](/AlchemyInsights/8000078-outlook-com-inbox-not-loading) | การปรับเปลี่ยน |
-| วันที่ 13/3/2019 | [อีเมลที่ส่งทอดผ่านทาง Office 365](/AlchemyInsights/relay-email-through-office-365) | การปรับเปลี่ยน |
-| วันที่ 14/3/2019 | [เป็นการดีที่สุดคือชื่อแฟ้มเดียวกัน [กฎ #-อธิบาย]](/AlchemyInsights/1-alchemy-insight-template) | การปรับเปลี่ยน |
-| วันที่ 14/3/2019 | [เพิ่มขนาดของกล่องจดหมาย](/AlchemyInsights/increase-mailbox-size) | การปรับเปลี่ยน |
-| วันที่ 15/3/2019 | [การเรียกคืนบนเดสก์ท็อป outlook หรือแทนข้อความอีเมล](/AlchemyInsights/outlook-desktop-recall-or-replace-message) | เพิ่ม |
-
-
 ## <a name="week-of-march-18-2019"></a>สัปดาห์ของวันที่ 18 มีนาคม 2019
 
 
@@ -530,3 +516,47 @@
 | วันที่ 12/4/2019 | [AADConnect การปรับรุ่น 932](/AlchemyInsights/upgrading-aadconnect) | การปรับเปลี่ยน |
 | วันที่ 12/4/2019 | [นามแฝงอีเมลที่ใช้ 725 บนอุปกรณ์มือถือ](/AlchemyInsights/using-email-alias-on-mobile-device) | การปรับเปลี่ยน |
 | วันที่ 12/4/2019 | [ข้อผิดพลาด Winsock 1554 10061](/AlchemyInsights/winsock-error-10061) | การปรับเปลี่ยน |
+
+
+## <a name="week-of-april-15-2019"></a>สัปดาห์ของเดือน 15 เมษายน 2019
+
+
+| เผยแพร่บน |ชื่อเรื่องหัวข้อ | การเปลี่ยนแปลง |
+|------|------------|--------|
+| วันที่ 15/4/2019 | [Alchemy - วินิจฉัย และแก้ไขปัญหาการเชื่อมต่อ Outlook](/AlchemyInsights/alchemydiagnose-and-resolve-outlook-connectivity-issues) | การปรับเปลี่ยน |
+| วันที่ 15/4/2019 | [Alchemy - สร้างโปรไฟล์ Outlook ของคุณ](/AlchemyInsights/alchemyrecreate-your-outlook-profile) | การปรับเปลี่ยน |
+| วันที่ 15/4/2019 | [DLP อาจจำเป็นต้องเป็นชนิดกำหนดเอง](/AlchemyInsights/dlp-might-need-custom-type) | เพิ่ม |
+| วันที่ 15/4/2019 | [DLP ไม่ทำงานตามที่คาดไว้](/AlchemyInsights/dlp-not-working-as-expected) | การปรับเปลี่ยน |
+| วันที่ 15/4/2019 | [DLP เคล็ดลับนโยบายที่ไม่ทำงาน](/AlchemyInsights/dlp-policy-tips-not-working) | การปรับเปลี่ยน |
+| วันที่ 15/4/2019 | [ข้อผิดพลาด Outlook.com 550](/AlchemyInsights/outlook-com-error-550) | เพิ่ม |
+| วันที่ 15/4/2019 | [Outlook.com เกินโควตา](/AlchemyInsights/outlook-com-over-quota) | เพิ่ม |
+| วันที่ 15/4/2019 | [เอา Outlook.com Skype](/AlchemyInsights/outlook-com-remove-skype-rule-1) | เพิ่ม |
+| วันที่ 15/4/2019 | [เอา Outlook.com Skype](/AlchemyInsights/outlook-com-remove-skype-rule-2) | เพิ่ม |
+| วันที่ 15/4/2019 | [182 โปรดเรียกใช้ SaRA ในการวิเคราะห์&amp;แก้ปัญหาการรับรองความถูกต้องของ Outlook](/AlchemyInsights/please-run-sara-to-diagnoseresolve-outlook-authentication-issues) | การปรับเปลี่ยน |
+| 4/16/2019 | [9000233 Outlook.com PIN](/AlchemyInsights/outlook-com-pin) | การปรับเปลี่ยน |
+| 4/16/2019 | [เอา Outlook.com Skype](/AlchemyInsights/outlook-com-remove-skype-rule-1) | การปรับเปลี่ยน |
+| 4/16/2019 | [8000088 บันทึกอีเมลใน Outlook.com](/AlchemyInsights/outlook-com-save-emails) | การปรับเปลี่ยน |
+| 4/16/2019 | [แฟ้มที่แนบ 8000052 ใน Outlook.com](/AlchemyInsights/attach-files-in-outlook-com) | การปรับเปลี่ยน |
+| 4/16/2019 | [บล็อก 8000015 หรือยกเลิกบล็อกผู้ส่ง](/AlchemyInsights/block-or-unblock-senders) | การปรับเปลี่ยน |
+| 4/16/2019 | [8000014 วิธีการเปลี่ยนภาษาใน Outlook.com](/AlchemyInsights/how-to-change-language-in-outlook-com) | การปรับเปลี่ยน |
+| 4/16/2019 | [8000059 วิธีการการเปลี่ยนแปลงเค้าโครงของคุณ](/AlchemyInsights/how-to-change-your-layout) | การปรับเปลี่ยน |
+| 4/16/2019 | [8000033 วิธีการตอบกลับหรือส่งต่อข้อความในรุ่นทดลองใช้ Outlook.com](/AlchemyInsights/how-to-reply-to-or-forward-messages-in-the-outlook-com-beta) | การปรับเปลี่ยน |
+| 4/16/2019 | [8000055 วิธีการการเข้าสู่ระบบไป หรือออก จาก Outlook.com](/AlchemyInsights/how-to-sign-in-to-or-out-of-outlook-com) | การปรับเปลี่ยน |
+| 4/16/2019 | [8000062 ย้ายโฟลเดอร์ใน Outlook.com](/AlchemyInsights/moving-a-folder-in-outlook-com) | การปรับเปลี่ยน |
+| 4/16/2019 | [ใช้ป้ายชื่อในระดับความลับโดยอัตโนมัติ](/AlchemyInsights/auto-apply-sensitivity-labels) | เพิ่ม |
+| 4/16/2019 | [ป้ายชื่อความอ่อนไหวไม่ปรากฏ](/AlchemyInsights/sensitivity-labels-not-appearing) | เพิ่ม |
+| 4/16/2019 | [ป้ายชื่อการเก็บข้อมูลใหม่ที่สร้างขึ้นโดยอัตโนมัติ](/AlchemyInsights/new-retention-labels-created-automatically) | เพิ่ม |
+| 4/16/2019 | [SharePoint และบันทึกการตรวจสอบ OneDrive](/AlchemyInsights/classic-sharepoint-audit-log-reports) | เพิ่ม |
+| 4/16/2019 | [ระบุเหตุการณ์ข้อความลบในบันทึกการตรวจสอบ](/AlchemyInsights/identify-delete-message-events-in-audit-logs) | เพิ่ม |
+| 4/16/2019 | [ระบุการส่งต่ออีเมภายนอกบนกล่องจดหมายในบันทึกการตรวจสอบ](/AlchemyInsights/identify-external-email-forwarding-on-mailboxes-in-audit-logs) | เพิ่ม |
+| 4/16/2019 | [ระบุกิจกรรมกฎของกล่องขาเข้าในบันทึกการตรวจสอบ](/AlchemyInsights/identify-inbox-rule-activity-in-audit-logs) | เพิ่ม |
+| 4/16/2019 | [ระบุที่อยู่ IP และไคลเอนต์ในบันทึกการตรวจสอบ](/AlchemyInsights/identify-ip-address-and-client-in-audit-logs) | เพิ่ม |
+| 4/16/2019 | [แฟ้ม.pst ซ่อมแซมก่อนการนำเข้า](/AlchemyInsights/repair-pst-before-importing) | เพิ่ม |
+| 4/16/2019 | [รายงานบันทึกการตรวจสอบ SharePoint แบบคลาสสิก](/AlchemyInsights/sharepoint-and-onedrive-audit-logs) | เพิ่ม |
+| 4/16/2019 | [รายงานบันทึกการตรวจสอบ SharePoint แบบคลาสสิก](/AlchemyInsights/classic-sharepoint-audit-log-reports) | การปรับเปลี่ยน |
+| 4/16/2019 | [ระบุการส่งต่ออีเมภายนอกบนกล่องจดหมายในบันทึกการตรวจสอบ](/AlchemyInsights/identify-external-email-forwarding-on-mailboxes-in-audit-logs) | การปรับเปลี่ยน |
+| 4/16/2019 | [ระบุกิจกรรมกฎของกล่องขาเข้าในบันทึกการตรวจสอบ](/AlchemyInsights/identify-inbox-rule-activity-in-audit-logs) | การปรับเปลี่ยน |
+| 4/16/2019 | [รายงานบันทึกการตรวจสอบ SharePoint แบบคลาสสิก](/AlchemyInsights/sharepoint-and-onedrive-audit-logs) | การปรับเปลี่ยน |
+| วันที่ 4/17/2019 | [แก้ไขปัญหาการส่งอีเมลไปยังโฟลเดอร์สาธารณะที่ใช้จดหมาย](/AlchemyInsights/fix-email-delivery-issues-to-public-folders) | เพิ่ม |
+| วันที่ 4/17/2019 | [ทีมงานกะ](/AlchemyInsights/teams-shifts) | การปรับเปลี่ยน |
+| 4/18/2019 | [8000011 กู้คืนอีเมลใน Outlook.com](/AlchemyInsights/recover-deleted-email-in-outlook-com) | การปรับเปลี่ยน |

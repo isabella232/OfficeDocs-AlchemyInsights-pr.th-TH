@@ -9,11 +9,11 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 729fdf4e-810a-4a99-9438-60ae8291fe4c
 ms.openlocfilehash: b3041ad829993480937fae111c9d43762ac86c3c
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29941455"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32410869"
 ---
 # <a name="information-about-gdpr"></a>ข้อมูลเกี่ยวกับ GDPR
 

@@ -10,11 +10,11 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: b54d4f87-e366-47e5-b3d8-42477f72f6a3
 ms.openlocfilehash: e722f6c73cc6da093498ee81dbb8ff0a898524d0
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29916507"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32410177"
 ---
 # <a name="installation-hangs-or-gets-stuck"></a>ติดตั้งแฮง หรือได้รับการติดอยู่
 
