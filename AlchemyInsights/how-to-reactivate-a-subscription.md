@@ -12,28 +12,28 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 7dc125f8-491d-4bc2-a2f2-b73c7bda3035
 ms.openlocfilehash: 643c1778ea080442fbd9d0c33258938af52b150c
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30766871"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32416907"
 ---
-# <a name="how-to-reactivate-a-subscription"></a><span data-ttu-id="a4275-102">วิธีการเปิดใช้งานการสมัครใช้งาน</span><span class="sxs-lookup"><span data-stu-id="a4275-102">How to reactivate a subscription</span></span>
+# <a name="how-to-reactivate-a-subscription"></a><span data-ttu-id="8fcd6-102">วิธีการเปิดใช้งานการสมัครใช้งาน</span><span class="sxs-lookup"><span data-stu-id="8fcd6-102">How to reactivate a subscription</span></span>
 
-<span data-ttu-id="a4275-103">ถ้าการบอกรับเป็นสมาชิกของคุณหมดอายุแล้ว ถูกยกเลิก หรือปิดใช้งาน โดย Microsoft คุณสามารถใน Microsoft 365 admin ศูนย์ในภายหลัง</span><span class="sxs-lookup"><span data-stu-id="a4275-103">If your subscription expired, has been cancelled, or disabled by Microsoft, you can reactivate it in the Microsoft 365 admin center.</span></span>
+<span data-ttu-id="8fcd6-103">ถ้าการบอกรับเป็นสมาชิกของคุณหมดอายุแล้ว ถูกยกเลิก หรือปิดใช้งาน โดย Microsoft คุณสามารถใน Microsoft 365 admin ศูนย์ในภายหลัง</span><span class="sxs-lookup"><span data-stu-id="8fcd6-103">If your subscription expired, has been cancelled, or disabled by Microsoft, you can reactivate it in the Microsoft 365 admin center.</span></span>
   
-1. <span data-ttu-id="a4275-104">ในศูนย์ดูแล ไปหน้าการ[บอกรับเป็นสมาชิก](https://go.microsoft.com/fwlink/p/?linkid=842054)หรือเลือก**การเรียกเก็บเงิน** \> **บอกรับเป็นสมาชิก**</span><span class="sxs-lookup"><span data-stu-id="a4275-104">In the Admin center, go to the [Subscriptions](https://go.microsoft.com/fwlink/p/?linkid=842054) page, or choose **Billing** \> **Subscriptions**.</span></span>
+1. <span data-ttu-id="8fcd6-104">ในศูนย์ดูแล ไปหน้าการ[บอกรับเป็นสมาชิก](https://go.microsoft.com/fwlink/p/?linkid=842054)หรือเลือก**การเรียกเก็บเงิน** \> **บอกรับเป็นสมาชิก**</span><span class="sxs-lookup"><span data-stu-id="8fcd6-104">In the Admin center, go to the [Subscriptions](https://go.microsoft.com/fwlink/p/?linkid=842054) page, or choose **Billing** \> **Subscriptions**.</span></span>
     
-2. <span data-ttu-id="a4275-105">เลือกการบอกรับเป็นสมาชิกที่คุณต้องการเปิดใช้งานใหม่</span><span class="sxs-lookup"><span data-stu-id="a4275-105">Choose the subscription that you would like to reactivate.</span></span>
+2. <span data-ttu-id="8fcd6-105">เลือกการบอกรับเป็นสมาชิกที่คุณต้องการเปิดใช้งานใหม่</span><span class="sxs-lookup"><span data-stu-id="8fcd6-105">Choose the subscription that you would like to reactivate.</span></span>
     
-3. <span data-ttu-id="a4275-106">เลือก**เปิดใช้งาน**ปุ่มทางด้านขวา</span><span class="sxs-lookup"><span data-stu-id="a4275-106">Choose the **Reactivate** button on the right.</span></span> 
+3. <span data-ttu-id="8fcd6-106">เลือก**เปิดใช้งาน**ปุ่มทางด้านขวา</span><span class="sxs-lookup"><span data-stu-id="8fcd6-106">Choose the **Reactivate** button on the right.</span></span> 
     
-4. <span data-ttu-id="a4275-107">คุณจะถูกถามเพื่อปรับปรุงรายละเอียดการชำระเงิน</span><span class="sxs-lookup"><span data-stu-id="a4275-107">You will be asked to update the payment details.</span></span> <span data-ttu-id="a4275-108">เมื่อข้อมูลทั้งหมดถูกต้อง เลือก**ส่ง**</span><span class="sxs-lookup"><span data-stu-id="a4275-108">When all information is correct, choose **Submit**.</span></span>
+4. <span data-ttu-id="8fcd6-107">คุณจะถูกถามเพื่อปรับปรุงรายละเอียดการชำระเงิน</span><span class="sxs-lookup"><span data-stu-id="8fcd6-107">You will be asked to update the payment details.</span></span> <span data-ttu-id="8fcd6-108">เมื่อข้อมูลทั้งหมดถูกต้อง เลือก**ส่ง**</span><span class="sxs-lookup"><span data-stu-id="8fcd6-108">When all information is correct, choose **Submit**.</span></span>
     
-5. <span data-ttu-id="a4275-109">การยืนยันจะแสดงที่ด้านล่างของหน้าจอ</span><span class="sxs-lookup"><span data-stu-id="a4275-109">A confirmation will show on the bottom of the screen.</span></span> <span data-ttu-id="a4275-110">เลือก**ปิด**เพื่อกลับไปยังหน้าการ**บอกรับเป็นสมาชิก**</span><span class="sxs-lookup"><span data-stu-id="a4275-110">Choose **Close** to return to the **Subscriptions** page.</span></span> 
+5. <span data-ttu-id="8fcd6-109">การยืนยันจะแสดงที่ด้านล่างของหน้าจอ</span><span class="sxs-lookup"><span data-stu-id="8fcd6-109">A confirmation will show on the bottom of the screen.</span></span> <span data-ttu-id="8fcd6-110">เลือก**ปิด**เพื่อกลับไปยังหน้าการ**บอกรับเป็นสมาชิก**</span><span class="sxs-lookup"><span data-stu-id="8fcd6-110">Choose **Close** to return to the **Subscriptions** page.</span></span> 
     
-6. <span data-ttu-id="a4275-111">ถ้าไม่ปรากฏการบอกรับเป็นสมาชิก ที่ใช้งานอยู่หลังจากไม่กี่นาที รีเฟรชหน้า</span><span class="sxs-lookup"><span data-stu-id="a4275-111">If the subscription does not appear Active after a few minutes, refresh the page.</span></span>
+6. <span data-ttu-id="8fcd6-111">ถ้าไม่ปรากฏการบอกรับเป็นสมาชิก ที่ใช้งานอยู่หลังจากไม่กี่นาที รีเฟรชหน้า</span><span class="sxs-lookup"><span data-stu-id="8fcd6-111">If the subscription does not appear Active after a few minutes, refresh the page.</span></span>
     
-<span data-ttu-id="a4275-112">สำหรับข้อมูลเพิ่มเติม ดู:[ต่ออายุ Office 365 สำหรับธุรกิจ](https://support.office.com/article/8d83b530-f4ca-47f6-a666-e5791cbacc7e)</span><span class="sxs-lookup"><span data-stu-id="a4275-112">For more information, see: [Renew Office 365 for business](https://support.office.com/article/8d83b530-f4ca-47f6-a666-e5791cbacc7e)</span></span>
+<span data-ttu-id="8fcd6-112">สำหรับข้อมูลเพิ่มเติม ดู:[ต่ออายุ Office 365 สำหรับธุรกิจ](https://support.office.com/article/8d83b530-f4ca-47f6-a666-e5791cbacc7e)</span><span class="sxs-lookup"><span data-stu-id="8fcd6-112">For more information, see: [Renew Office 365 for business](https://support.office.com/article/8d83b530-f4ca-47f6-a666-e5791cbacc7e)</span></span>
   
 
