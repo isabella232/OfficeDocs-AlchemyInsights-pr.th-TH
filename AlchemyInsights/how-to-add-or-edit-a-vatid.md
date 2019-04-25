@@ -10,11 +10,11 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: ec278e2b-cc7a-43be-8af5-f381a50d7471
 ms.openlocfilehash: 6ddad639ecf1aaa2b1f6d1a9989643696954b185
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29940231"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32400078"
 ---
 # <a name="how-to-add-or-edit-a-vatid"></a>วิธีการเพิ่ม หรือแก้ไขคำ VatID
 

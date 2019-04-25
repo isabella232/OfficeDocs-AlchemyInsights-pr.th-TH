@@ -12,11 +12,11 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: ec57734d-073d-4aee-8c7c-f4aa9e7130ae
 ms.openlocfilehash: 7464784fb11b872c395c206a510577c2a4c33835
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30758629"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32399232"
 ---
 # <a name="canceling-your-office-365-subscription"></a>การยกเลิกการสมัครใช้งาน Office 365 ได้อย่างไร
 

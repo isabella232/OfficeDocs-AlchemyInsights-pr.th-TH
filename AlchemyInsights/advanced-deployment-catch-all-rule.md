@@ -9,11 +9,11 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 82019d6f-44bf-41ef-a950-fcfd1bcc55c0
 ms.openlocfilehash: 570fa6c5efa1bd0d35a71e45d6ff61ae44951bdc
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29937027"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32398215"
 ---
 # <a name="deploy-office-apps"></a>การปรับใช้โปรแกรมประยุกต์ของ Office
 

@@ -12,11 +12,11 @@ ms.collection: Adm_O365
 ms.custom: 616
 ms.assetid: 411509f0-932c-4636-9233-7eeb677f7b11
 ms.openlocfilehash: 57fd34d76ec2955e7a79fe4e1cedd9935f99cbff
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30772250"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32396309"
 ---
 # <a name="calendar-sharing"></a>ใช้ปฏิทินร่วมกัน
 

@@ -11,11 +11,11 @@ localization_priority: Normal
 ms.custom: 1956
 ms.assetid: ''
 ms.openlocfilehash: 45665f900014c52e6a920325b0a3b0f6f79fb72d
-ms.sourcegitcommit: d1c1d5bcb52ba9083e8dd7603feb72436c5154c8
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 04/17/2019
-ms.locfileid: "31910635"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32401461"
 ---
 # <a name="fix-email-delivery-issues-to-mail-enabled-public-folders"></a>แก้ไขปัญหาการส่งอีเมลไปยังโฟลเดอร์สาธารณะที่ใช้จดหมาย
 

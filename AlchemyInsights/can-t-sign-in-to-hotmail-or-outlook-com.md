@@ -11,11 +11,11 @@ localization_priority: Normal
 ms.custom: 8000077
 ms.assetid: 51addffd-7c85-49ef-8ef5-dfa2605605dc
 ms.openlocfilehash: 313eef09bd321a06212a9f03ed988a91c34cc169
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30785620"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32395564"
 ---
 # <a name="cant-sign-in-to-hotmail-or-outlookcom"></a>ไม่สามารถเข้าสู่ระบบของ Hotmail หรือ Outlook.com หรือไม่
 

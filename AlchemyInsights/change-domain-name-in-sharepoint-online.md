@@ -9,11 +9,11 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: db1e9f37-0a02-4869-9a2b-9eadeb22f318
 ms.openlocfilehash: 419d30f087018e093c034d95f30e3058ea953d5c
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29942283"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32394579"
 ---
 # <a name="change-domain-name-in-sharepoint-online"></a>เปลี่ยนชื่อโดเมนใน SharePoint แบบออนไลน์
 

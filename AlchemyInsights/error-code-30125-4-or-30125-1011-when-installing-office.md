@@ -10,11 +10,11 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: e8b46cc3-4dde-4386-8bc0-c21b0ef708b3
 ms.openlocfilehash: 56f78580480dd35671c88f0203db29c646de9d25
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29903835"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32402650"
 ---
 # <a name="error-code-30125-4-or-30125-1011-when-installing-office"></a>รหัสข้อผิดพลาด 30125 4 หรือ 30125-1011 เมื่อการติดตั้ง Office
 

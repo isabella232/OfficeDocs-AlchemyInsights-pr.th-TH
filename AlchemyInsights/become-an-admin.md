@@ -9,11 +9,11 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: acff9f3e-e5d9-4eee-b1b3-9895a7cb27fc
 ms.openlocfilehash: dd8fccdf3519aa84cc7d7af65b74722494904ef8
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29922735"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32396625"
 ---
 # <a name="become-an-admin"></a>กลาย เป็นผู้ดูแล
 
