@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 063b56f2-625b-4520-99db-4e92941d3940
 ms.openlocfilehash: fc76591cc19058b70394fa94e6a2db059e76870e
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30766439"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32371606"
 ---
-# <a name="reset-or-change-passwords"></a><span data-ttu-id="743b6-102">ตั้งค่า หรือเปลี่ยนรหัสผ่าน</span><span class="sxs-lookup"><span data-stu-id="743b6-102">Reset or change passwords</span></span>
+# <a name="reset-or-change-passwords"></a><span data-ttu-id="74035-102">ตั้งค่า หรือเปลี่ยนรหัสผ่าน</span><span class="sxs-lookup"><span data-stu-id="74035-102">Reset or change passwords</span></span>
 
-<span data-ttu-id="743b6-103">ผู้ใช้สามารถเปลี่ยนรหัสผ่านของตนเองจาก[บัญชีของฉัน ความปลอดภัย&amp;ความเป็นส่วนตัว](https://portal.office.com/account/#security)ได้</span><span class="sxs-lookup"><span data-stu-id="743b6-103">A user can change their own password from [My account, Security &amp; privacy](https://portal.office.com/account/#security).</span></span>
+<span data-ttu-id="74035-103">ผู้ใช้สามารถเปลี่ยนรหัสผ่านของตนเองจาก[บัญชีของฉัน ความปลอดภัย&amp;ความเป็นส่วนตัว](https://portal.office.com/account/#security)ได้</span><span class="sxs-lookup"><span data-stu-id="74035-103">A user can change their own password from [My account, Security &amp; privacy](https://portal.office.com/account/#security).</span></span>
   
-<span data-ttu-id="743b6-104">ถ้าผู้ใช้ลืมรหัสผ่านของพวกเขา การดูแลสามารถตั้งรหัสผ่านไปยัง[ผู้ใช้\>ผู้ใช้ที่ใช้งานอยู่](https://portal.office.com/adminportal/home#/users)เลือกผู้ใช้ และคลิกการ**ตั้งค่ารหัสผ่าน**ได้</span><span class="sxs-lookup"><span data-stu-id="743b6-104">If the user has forgotten their password, an admin can reset the password by going to [Users \> Active Users](https://portal.office.com/adminportal/home#/users), select the user(s) and click **Reset password**.</span></span> 
+<span data-ttu-id="74035-104">ถ้าผู้ใช้ลืมรหัสผ่านของพวกเขา การดูแลสามารถตั้งรหัสผ่านไปยัง[ผู้ใช้\>ผู้ใช้ที่ใช้งานอยู่](https://portal.office.com/adminportal/home#/users)เลือกผู้ใช้ และคลิกการ**ตั้งค่ารหัสผ่าน**ได้</span><span class="sxs-lookup"><span data-stu-id="74035-104">If the user has forgotten their password, an admin can reset the password by going to [Users \> Active Users](https://portal.office.com/adminportal/home#/users), select the user(s) and click **Reset password**.</span></span> 
   
-<span data-ttu-id="743b6-105">[คลิกที่นี่เพื่อเรียนรู้เพิ่มเติม](https://support.office.com/article/admins-reset-office-365-business-passwords-7a5d073b-7fae-4aa5-8f96-9ecd041aba9c)หรือเพื่อให้ผู้ใช้ตั้งรหัสผ่านที่ลืมของตนเอง</span><span class="sxs-lookup"><span data-stu-id="743b6-105">[Click here to learn more](https://support.office.com/article/admins-reset-office-365-business-passwords-7a5d073b-7fae-4aa5-8f96-9ecd041aba9c), or to let users reset their own forgotten passwords.</span></span>
+<span data-ttu-id="74035-105">[คลิกที่นี่เพื่อเรียนรู้เพิ่มเติม](https://support.office.com/article/admins-reset-office-365-business-passwords-7a5d073b-7fae-4aa5-8f96-9ecd041aba9c)หรือเพื่อให้ผู้ใช้ตั้งรหัสผ่านที่ลืมของตนเอง</span><span class="sxs-lookup"><span data-stu-id="74035-105">[Click here to learn more](https://support.office.com/article/admins-reset-office-365-business-passwords-7a5d073b-7fae-4aa5-8f96-9ecd041aba9c), or to let users reset their own forgotten passwords.</span></span>
   
 
