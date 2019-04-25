@@ -12,11 +12,11 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: c3fffed1-33b2-4382-ae99-c3a4816497e6
 ms.openlocfilehash: 82644b45852a77739aa926a272338fc2662677fe
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30754345"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32402000"
 ---
 # <a name="extend-your-trial-for-office-365-for-business"></a>ขยายรุ่นทดลองใช้ของคุณสำหรับ Office 365 สำหรับธุรกิจ
 

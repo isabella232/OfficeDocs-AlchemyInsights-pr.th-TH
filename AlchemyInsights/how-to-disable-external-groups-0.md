@@ -9,11 +9,11 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 962c2a4f-7dac-4ccc-98a8-d0d283c95808
 ms.openlocfilehash: 5bed0ed8e72acd98a6cd356f6c71b4acc8e48a6d
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29916651"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32399538"
 ---
 # <a name="how-to-disable-external-groups"></a>วิธีการปิดการใช้งานของกลุ่มภายนอก
 

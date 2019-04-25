@@ -9,11 +9,11 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: c2016465-a57b-40da-b938-412467fea205
 ms.openlocfilehash: 5c7b57695700e2eede51d3ee971da2dc20768a62
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29933823"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32393893"
 ---
 # <a name="changing-message-or-attachment-size"></a>การเปลี่ยนขนาดข้อความหรือสิ่งที่แนบมา
 

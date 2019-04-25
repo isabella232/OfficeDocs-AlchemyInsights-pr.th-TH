@@ -10,11 +10,11 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 52347c04-c0fd-4d54-9251-1d1ce79f8405
 ms.openlocfilehash: 5ba3718d0cd1b8b2539f28e263d0fefb5c8f54ee
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29901747"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32400114"
 ---
 # <a name="how-to-activate-office"></a>วิธีการเปิดใช้งาน Office
 
