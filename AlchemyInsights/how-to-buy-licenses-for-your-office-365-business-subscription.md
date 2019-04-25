@@ -10,11 +10,11 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 4ece4b95-0d06-4658-af45-28de859bdc9d
 ms.openlocfilehash: 1d9c0009e743e2cb514124ba5b9c3292580d9a88
-ms.sourcegitcommit: c003a5db7edc3a44fb5b31b46cd45f12b62d172a
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 02/22/2019
-ms.locfileid: "30207992"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32399934"
 ---
 # <a name="how-to-buy-licenses-for-your-office-365-business-subscription"></a>วิธีการซื้อสิทธิ์การใช้งานสำหรับการสมัครใช้งานทางธุรกิจของ Office 365
 

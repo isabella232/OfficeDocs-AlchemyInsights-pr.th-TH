@@ -9,11 +9,11 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: caa0f310-0bb7-48e3-8ad2-cb358b53bbba
 ms.openlocfilehash: ce67797a1838630ab3a42e1eeeefc401a0e3f753
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29906895"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32398477"
 ---
 # <a name="adding-external-users-to-a-distribution-group"></a>เพิ่มผู้ใช้ภายนอกไปยัง กลุ่มการแจกจ่ายหรือไม่
 
