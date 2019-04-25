@@ -10,11 +10,11 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: e62b9f80-b017-42dc-9464-f4e32c19d6c9
 ms.openlocfilehash: a4c6029c632178136396a91ba9754752dc8f7180
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29932851"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32407633"
 ---
 # <a name="create-a-sharepoint-site"></a>การสร้างไซต์ SharePoint
 

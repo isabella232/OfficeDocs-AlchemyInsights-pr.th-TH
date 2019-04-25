@@ -9,11 +9,11 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 01e4349d-4c16-4d93-9cbd-c5739d1c5762
 ms.openlocfilehash: 0dcb3505c38b550fac2d22ce027f16179922012a
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29905923"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32390554"
 ---
 # <a name="trying-to-remove-your-domain"></a>กำลังพยายามลบโดเมนของคุณหรือไม่
 

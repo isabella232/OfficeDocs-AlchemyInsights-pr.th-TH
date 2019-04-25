@@ -10,11 +10,11 @@ ms.prod: office-online-server
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.openlocfilehash: 65d359f9826e689963cfe5e83b37227cbadd526b
-ms.sourcegitcommit: ffe2f489b1ac3aae62aa784c959da6a41c3261eb
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 04/17/2019
-ms.locfileid: "31909620"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32408737"
 ---
 # <a name="auto-apply-sensitivity-labels"></a>ใช้ป้ายชื่อในระดับความลับโดยอัตโนมัติ
 

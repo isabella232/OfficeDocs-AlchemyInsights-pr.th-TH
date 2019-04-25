@@ -10,11 +10,11 @@ ms.assetid: 9075ad24-3c60-48be-811b-4c28be4ec14c
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.openlocfilehash: 86226363eb2f8804ce7fc23459a2b380f3853675
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29925795"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32390158"
 ---
 # <a name="activation-troubleshooting"></a>เปิดใช้งานการแก้ไขปัญหา
 

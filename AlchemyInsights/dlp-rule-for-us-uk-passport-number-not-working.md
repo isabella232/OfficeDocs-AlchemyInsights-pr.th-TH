@@ -10,11 +10,11 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: fc178b8b-943b-4346-a2bd-a75c6af6f80f
 ms.openlocfilehash: bb80ef07364a575f6032bb105cff83cd8f95bd63
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29912133"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32404400"
 ---
 # <a name="problems-with-dlp---usuk-passport-numbers"></a>ปัญหาเกี่ยวกับ DLP - สหรัฐอเมริกา / หมายเลขหนังสือเดินทางสหราชอาณาจักร
 

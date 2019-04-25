@@ -10,11 +10,11 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 86685ad6-5988-415d-817a-57a75ff17119
 ms.openlocfilehash: 120b9e70203e1b3e277f07e2eb351db39c38a699
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29899587"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32405893"
 ---
 # <a name="delegated-mailbox-permissions-in-a-hybrid-environment"></a>กล่องจดหมายที่มอบหมายสิทธิ์ในสภาพแวดล้อมไฮบริดสลี
 

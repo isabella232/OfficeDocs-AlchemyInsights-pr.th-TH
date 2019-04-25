@@ -9,11 +9,11 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: f3bed6ed-48c1-47af-9e6f-29f716aa8d6b
 ms.openlocfilehash: c463a1f4f7936ff5fb14365a7723bed37003f448
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29939979"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32406577"
 ---
 # <a name="daily-email-limit-exceeded-workflow-is-suspended-error"></a>อีเมลของรายวันเกินขีดจำกัด ลำดับงานเป็นข้อผิดพลาดของการเลื่อนออกไป
 

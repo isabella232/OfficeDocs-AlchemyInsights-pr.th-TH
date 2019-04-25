@@ -10,11 +10,11 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 52484e19-9328-42f4-b675-7e0be9338a8b
 ms.openlocfilehash: 9ecfb5bb167a0c959d39d47713bbb0e64862abb8
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29926947"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32410429"
 ---
 - เมื่อต้องการใช้การดำเนินคดี ระงับหรือแบบแทนที่ค้างไว้เพื่อกล่องจดหมาย จำเป็นต้องมี[สิทธิ์การใช้งาน Exchange ออนไลน์แผน 2](https://docs.microsoft.com/office365/servicedescriptions/office-365-platform-service-description/office-365-plan-options) ถ้าคุณมีแผนอื่น มอบหมายสิทธิ์แยก[เก็บถาวรแบบออนไลน์ของอัตราแลกเปลี่ยน](https://docs.microsoft.com/office365/servicedescriptions/exchange-online-archiving-service-description/exchange-online-archiving-service-description)ในบัญชี 
     

@@ -9,11 +9,11 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: ddc083c7-d01f-4f97-a232-5eafe8abddce
 ms.openlocfilehash: 0ffb6b6290fe49b5bb0c59c215b285c5f9901397
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29905851"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32404748"
 ---
 # <a name="disable-access-to-yammer"></a>ปิดใช้งานการเข้าถึงไปยัง Yammer
 

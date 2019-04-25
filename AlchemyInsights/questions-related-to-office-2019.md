@@ -10,11 +10,11 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 7fc322ce-08fa-4b87-98ac-c8a35bd6c8ee
 ms.openlocfilehash: d4d116a1d6ad43922c892b93ec9fbf316f8796ce
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29929182"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32388615"
 ---
 # <a name="about-office-2019"></a>เกี่ยวกับ Office 2019
 
