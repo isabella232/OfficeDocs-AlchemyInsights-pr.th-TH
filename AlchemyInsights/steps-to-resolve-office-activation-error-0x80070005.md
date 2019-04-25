@@ -10,11 +10,11 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: d291c13a-723e-4425-8e49-baa465ec2505
 ms.openlocfilehash: 7dcb04d0e1613ed75e664345ecc35cae86dadc1f
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29921511"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32373767"
 ---
 # <a name="steps-to-resolve-office-activation-error-0x80070005"></a>ขั้นตอนการแก้ไขข้อผิดพลาดการเปิดใช้งาน office 0x80070005
 

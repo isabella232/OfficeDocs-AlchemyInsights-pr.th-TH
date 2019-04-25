@@ -10,11 +10,11 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: f3195f97-4f11-482f-8cb4-58f1ab93cd8c
 ms.openlocfilehash: c9b28dd1a8a7e4ac2b38a95868461e2f1d137f1d
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29934975"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32400808"
 ---
 # <a name="getting-an-exchange-hybrid-key"></a>การเรียกคีย์ไฮบริการแลกเปลี่ยน
 

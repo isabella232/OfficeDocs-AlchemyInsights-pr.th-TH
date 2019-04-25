@@ -11,11 +11,11 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: f8cf946c-89c7-4770-8f1f-d111e654e6cb
 ms.openlocfilehash: 87044ccbbf9d2ca4ddab200a890811ff7a7ad483
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29914599"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32371029"
 ---
 # <a name="solutions-for-unsupported-operating-system"></a>วิธีแก้ไขปัญหาสำหรับ "ระบบปฏิบัติการที่ไม่สนับสนุน"
 

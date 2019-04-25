@@ -11,11 +11,11 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 2c03462c-8a6a-4042-a6fd-cd9e009b8a3f
 ms.openlocfilehash: c0aa4df7896dfec6492a6e03fe170fb238c6016e
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29898975"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32369697"
 ---
 # <a name="solutions-for-error-30088-4"></a>วิธีแก้ปัญหาสำหรับข้อผิดพลาด 30088-4
 
