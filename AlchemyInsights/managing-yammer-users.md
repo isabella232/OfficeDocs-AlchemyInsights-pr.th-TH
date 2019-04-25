@@ -9,11 +9,11 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 34b5611b-e77e-4dd1-9480-a12c190fbaa3
 ms.openlocfilehash: 124cebf935444632517851ef37436f3f931f1b42
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29901887"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32408881"
 ---
 # <a name="managing-yammer-users"></a>การจัดการผู้ใช้ Yammer
 

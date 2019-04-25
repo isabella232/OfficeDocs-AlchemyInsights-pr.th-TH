@@ -10,11 +10,11 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: c060815d-1d3f-4a13-81c2-0377bbeda202
 ms.openlocfilehash: 708365cefa79c9bc0268897ac34d980306a846c2
-ms.sourcegitcommit: 74e18e743273d5e759e8f00bd8fb16c471d42b40
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 03/27/2019
-ms.locfileid: "30935620"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32405643"
 ---
 # <a name="delete-a-sharepoint-site"></a>ลบไซต์ SharePoint
 **ลบไซต์จากศูนย์ดูแล SharePoint ใหม่** ด้วยการใช้ศูนย์กลางการดูแล SharePoint ใหม่ คุณสามารถลบไซต์แบบคลาสสิก และสมัยใหม่ เลือก**ไซต์ที่ใช้งานอยู่**เลือกไซต์ จากนั้น**ลบ** เมื่อต้องการ[ดูและคืนค่าลบไซต์ในศูนย์กลางการดูแล SharePoint ใหม่](https://docs.microsoft.com/sharepoint/view-and-restore-deleted-sites-in-new-admin-center)เลือก**ลบไซต์** สำหรับข้อมูลเพิ่มเติม ดู[ลบไซต์ในศูนย์กลางการดูแล SharePoint ใหม่](https://docs.microsoft.com/en-us/sharepoint/delete-site-collection#delete-a-site-in-the-new-sharepoint-admin-center)

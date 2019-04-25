@@ -12,11 +12,11 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 1fb88cca-5dd4-4167-8783-13646082cfa0
 ms.openlocfilehash: 7ec0bb975ac5600e3d79588b09a93a36a92b8e75
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30755857"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32371497"
 ---
 # <a name="repeated-login-to-open-vtirpc"></a>เข้าสู่ระบบซ้ำ ๆ เพื่อเปิด _vti_rpc
 

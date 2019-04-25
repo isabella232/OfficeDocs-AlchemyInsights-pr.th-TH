@@ -12,11 +12,11 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: f2ec4d9c-4841-4c8f-8f85-574395f8c728
 ms.openlocfilehash: 0162486b36a945576c1be822f7abba7641fa3cd1
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30766115"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32404948"
 ---
 # <a name="delete-a-classic-sharepoint-team-site-or-subsite"></a>ลบไซต์ย่อยหรือไซต์ทีม SharePoint แบบคลาสสิก
 
