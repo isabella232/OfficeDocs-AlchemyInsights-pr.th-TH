@@ -9,11 +9,11 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: df781750-3d27-4077-ab0f-b9ea764ad5fa
 ms.openlocfilehash: f32262a370abf8b6e0801cd0741f827a9d4be707
-ms.sourcegitcommit: c003a5db7edc3a44fb5b31b46cd45f12b62d172a
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 02/22/2019
-ms.locfileid: "30207884"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32421403"
 ---
 # <a name="setting-up-your-o365-business-essentials-subscription"></a>การตั้งค่าการบอกรับเป็นสมาชิก O365 การสิ่งจำเป็นสำหรับธุรกิจของคุณ
 
