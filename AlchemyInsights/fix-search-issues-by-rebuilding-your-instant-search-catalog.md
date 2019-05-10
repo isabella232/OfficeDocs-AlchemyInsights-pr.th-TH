@@ -11,33 +11,24 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 1800005
 ms.assetid: 812a5c80-db64-43de-a892-f539c5f87174
-ms.openlocfilehash: 925fc5aae484d0b3dc3ccdcd467598390a47aebe
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: f5a6eaae111e75c844d638f4d9b4eda5280ab42a
+ms.sourcegitcommit: 67535d801ba448e6ea7131fdebbc0e7ae9beffe2
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32401203"
+ms.lasthandoff: 05/10/2019
+ms.locfileid: "33867957"
 ---
-# <a name="fix-search-issues-by-rebuilding-your-instant-search-catalog"></a><span data-ttu-id="c6cdf-102">แก้ไขปัญหาการค้นหา ด้วยการสร้างแค็ตตาล็อกการค้นหาทันที</span><span class="sxs-lookup"><span data-stu-id="c6cdf-102">Fix search issues by rebuilding your Instant Search catalog</span></span>
+# <a name="troubleshoot-search-issues"></a><span data-ttu-id="92519-102">แก้ไขปัญหาการค้นหา</span><span class="sxs-lookup"><span data-stu-id="92519-102">Troubleshoot search issues</span></span>
 
-1. <span data-ttu-id="c6cdf-103">ปิด Outlook และเปิด **'แผงควบคุม'**</span><span class="sxs-lookup"><span data-stu-id="c6cdf-103">Close Outlook and open **Control Panel**.</span></span>
-    
-    > [!NOTE]
-    > <span data-ttu-id="c6cdf-104">ขึ้นอยู่กับรุ่นของ Office ที่คุณกำลังใช้ คุณอาจต้องคลิกปุ่ม**เริ่ม**และบนเมนู**เริ่ม**ให้คลิกขวาที่ **'แผงควบคุม'**</span><span class="sxs-lookup"><span data-stu-id="c6cdf-104">Depending on the version of Office you're using, you might need to click the **Start** button, and on the **Start** menu, right-click **Control Panel**.</span></span> 
-  
-2. <span data-ttu-id="c6cdf-105">ทำอย่างหนึ่งต่อไปนี้:</span><span class="sxs-lookup"><span data-stu-id="c6cdf-105">Do one of the following:</span></span>
-    
-  - <span data-ttu-id="c6cdf-106">เลือก**ตัวเลือกการทำดัชนี**</span><span class="sxs-lookup"><span data-stu-id="c6cdf-106">Choose **Indexing Options**.</span></span>
-    
-  - <span data-ttu-id="c6cdf-107">ในกล่อง**ค้นหา**พิมพ์*ทำดัชนี*และจากนั้น เลือก**ตัวเลือกการทำดัชนี**</span><span class="sxs-lookup"><span data-stu-id="c6cdf-107">In the **Search** box, type  *Indexing*  , and then choose **Indexing Options**.</span></span>
-    
-3. <span data-ttu-id="c6cdf-108">ในกล่องโต้ตอบการ**จัดทำดัชนีตำแหน่งที่ตั้ง**ภายใต้**เปลี่ยนตำแหน่งที่ตั้งที่เลือก**เลือกกล่องกาเครื่องหมายสำหรับตำแหน่งที่ตั้งที่คุณต้องการแก้ไข และจากนั้น คลิก**ตกลง**</span><span class="sxs-lookup"><span data-stu-id="c6cdf-108">In the **Indexed Locations** dialog box, under **Change selected locations**, select the check box for the location you want to modify, and then click **OK**.</span></span>
-    
-4. <span data-ttu-id="c6cdf-109">ในกล่องโต้ตอบ**ตัวเลือกขั้นสูง**บนแท็บการ**ตั้งค่าดัชนี**ภายใต้การ**แก้ไขปัญหาเบื้องต้น**คลิก**สร้างใหม่**</span><span class="sxs-lookup"><span data-stu-id="c6cdf-109">In the **Advanced Options** dialog box, on the **Index Settings** tab, under **Troubleshooting**, click **Rebuild**.</span></span>
-    
-    > [!NOTE]
-    > <span data-ttu-id="c6cdf-110">การ**สร้างดัชนี**กล่องโต้ตอบคำเตือนที่เปิดแบบ "ดัชนีอาจใช้เวลานานในการทำให้เสร็จสมบูรณ์"</span><span class="sxs-lookup"><span data-stu-id="c6cdf-110">A **Rebuild Index** dialog box opens warning that the "index might take a long time to complete."</span></span> <span data-ttu-id="c6cdf-111">เลือก**ตกลง**เพื่อเริ่มต้นการสร้างดัชนี</span><span class="sxs-lookup"><span data-stu-id="c6cdf-111">Choose **OK** to start rebuilding the index.</span></span> 
-  
-<span data-ttu-id="c6cdf-112">สำหรับข้อมูลเพิ่มเติม ให้ดูปัญหาที่ทราบ[ไม่มีผลลัพธ์การค้นหาสำหรับบัญชี POP/IMAP](https://support.office.com/article/51c9d2c7-a3db-4358-afdf-50d3a9e57039.aspx)</span><span class="sxs-lookup"><span data-stu-id="c6cdf-112">For more information, see the known issue [No search results for POP/IMAP accounts](https://support.office.com/article/51c9d2c7-a3db-4358-afdf-50d3a9e57039.aspx).</span></span>
-  
+<span data-ttu-id="92519-103">ถ้าคุณกำลังมีปัญหาเกี่ยวกับการค้นหา โปรดดูลิงค์ด้านล่างสำหรับความช่วยเหลือในการแก้ไขปัญหา</span><span class="sxs-lookup"><span data-stu-id="92519-103">If you're having problems with search, please see the links below for help troubleshooting.</span></span>
 
+<span data-ttu-id="92519-104">เหล่านี้คือ ปัญหาพบบ่อยที่สุด และเป็นดีสำหรับการเริ่มต้น:</span><span class="sxs-lookup"><span data-stu-id="92519-104">These are the most common issues, and are a good place to start:</span></span>
+- [<span data-ttu-id="92519-105">ค้นหาใน outlook ส่งกลับผลลัพธ์ใด ๆ</span><span class="sxs-lookup"><span data-stu-id="92519-105">Outlook search returns no results</span></span>](https://support.office.com/article/2556b11f-f4d8-46be-b0a7-de33a3f4f066#bkmk_noresults)
+- [<span data-ttu-id="92519-106">ค้นหาใน outlook ส่งกลับผลลัพธ์ที่ไม่สมบูรณ์</span><span class="sxs-lookup"><span data-stu-id="92519-106">Outlook search returns incomplete results</span></span>](https://support.office.com/article/2556b11f-f4d8-46be-b0a7-de33a3f4f066#bkmk_incompleteresults)
+- [<span data-ttu-id="92519-107">ค้นหา outlook ไม่พบอีเมล์ที่เก่ากว่า</span><span class="sxs-lookup"><span data-stu-id="92519-107">Outlook search can't find older emails</span></span>](https://support.office.com/article/2556b11f-f4d8-46be-b0a7-de33a3f4f066#bkmk_olderemails)
+
+<span data-ttu-id="92519-108">การแก้ไขปัญหาสำหรับปัญหาทั่วไปน้อยสามารถพบได้ที่นี่:</span><span class="sxs-lookup"><span data-stu-id="92519-108">Possible solutions for less common problems can be found here:</span></span>
+- [<span data-ttu-id="92519-109">Outlook 2016 เท่านั้น: แท็บการค้นหาเป็นสีเทา</span><span class="sxs-lookup"><span data-stu-id="92519-109">Outlook 2016 only: Search tab is grayed out</span></span>](https://support.office.com/article/2556b11f-f4d8-46be-b0a7-de33a3f4f066#bkmk_greytab)
+- [<span data-ttu-id="92519-110">กล่องจดหมายที่ใช้ร่วมกัน: ปัญหากับผลลัพธ์การค้นหา</span><span class="sxs-lookup"><span data-stu-id="92519-110">Shared Mailbox: Problems with search results</span></span>](https://support.office.com/article/2556b11f-f4d8-46be-b0a7-de33a3f4f066#bkmk_sharedmailbox)
+- [<span data-ttu-id="92519-111">ข้อผิดพลาด: ประสิทธิภาพการค้นหาจะได้รับผลกระทบได้เนื่องจาก มีปัญหากับวิธีการกำหนดค่า Outlook</span><span class="sxs-lookup"><span data-stu-id="92519-111">Error: Search performance will be impacted because of a problem with how Outlook is configured</span></span>](https://support.office.com/article/51c9d2c7-a3db-4358-afdf-50d3a9e57039)
+- [<span data-ttu-id="92519-112">โฟลเดอร์การค้นหาแสดงรายการ PersonMetadata ที่ไม่คาดคิดที่ไม่มีชื่อเรื่อง</span><span class="sxs-lookup"><span data-stu-id="92519-112">Search folders show unexpected PersonMetadata items with no subject</span></span>](https://support.microsoft.com/en-us/help/4035436/outlook-search-folders-show-items-with-blank-subject)
