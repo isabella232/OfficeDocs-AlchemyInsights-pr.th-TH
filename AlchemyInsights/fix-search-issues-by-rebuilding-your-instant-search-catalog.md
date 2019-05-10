@@ -11,33 +11,24 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 1800005
 ms.assetid: 812a5c80-db64-43de-a892-f539c5f87174
-ms.openlocfilehash: 925fc5aae484d0b3dc3ccdcd467598390a47aebe
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: f5a6eaae111e75c844d638f4d9b4eda5280ab42a
+ms.sourcegitcommit: 67535d801ba448e6ea7131fdebbc0e7ae9beffe2
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32401203"
+ms.lasthandoff: 05/10/2019
+ms.locfileid: "33867957"
 ---
-# <a name="fix-search-issues-by-rebuilding-your-instant-search-catalog"></a>แก้ไขปัญหาการค้นหา ด้วยการสร้างแค็ตตาล็อกการค้นหาทันที
+# <a name="troubleshoot-search-issues"></a>แก้ไขปัญหาการค้นหา
 
-1. ปิด Outlook และเปิด **'แผงควบคุม'**
-    
-    > [!NOTE]
-    > ขึ้นอยู่กับรุ่นของ Office ที่คุณกำลังใช้ คุณอาจต้องคลิกปุ่ม**เริ่ม**และบนเมนู**เริ่ม**ให้คลิกขวาที่ **'แผงควบคุม'** 
-  
-2. ทำอย่างหนึ่งต่อไปนี้:
-    
-  - เลือก**ตัวเลือกการทำดัชนี**
-    
-  - ในกล่อง**ค้นหา**พิมพ์*ทำดัชนี*และจากนั้น เลือก**ตัวเลือกการทำดัชนี**
-    
-3. ในกล่องโต้ตอบการ**จัดทำดัชนีตำแหน่งที่ตั้ง**ภายใต้**เปลี่ยนตำแหน่งที่ตั้งที่เลือก**เลือกกล่องกาเครื่องหมายสำหรับตำแหน่งที่ตั้งที่คุณต้องการแก้ไข และจากนั้น คลิก**ตกลง**
-    
-4. ในกล่องโต้ตอบ**ตัวเลือกขั้นสูง**บนแท็บการ**ตั้งค่าดัชนี**ภายใต้การ**แก้ไขปัญหาเบื้องต้น**คลิก**สร้างใหม่**
-    
-    > [!NOTE]
-    > การ**สร้างดัชนี**กล่องโต้ตอบคำเตือนที่เปิดแบบ "ดัชนีอาจใช้เวลานานในการทำให้เสร็จสมบูรณ์" เลือก**ตกลง**เพื่อเริ่มต้นการสร้างดัชนี 
-  
-สำหรับข้อมูลเพิ่มเติม ให้ดูปัญหาที่ทราบ[ไม่มีผลลัพธ์การค้นหาสำหรับบัญชี POP/IMAP](https://support.office.com/article/51c9d2c7-a3db-4358-afdf-50d3a9e57039.aspx)
-  
+ถ้าคุณกำลังมีปัญหาเกี่ยวกับการค้นหา โปรดดูลิงค์ด้านล่างสำหรับความช่วยเหลือในการแก้ไขปัญหา
 
+เหล่านี้คือ ปัญหาพบบ่อยที่สุด และเป็นดีสำหรับการเริ่มต้น:
+- [ค้นหาใน outlook ส่งกลับผลลัพธ์ใด ๆ](https://support.office.com/article/2556b11f-f4d8-46be-b0a7-de33a3f4f066#bkmk_noresults)
+- [ค้นหาใน outlook ส่งกลับผลลัพธ์ที่ไม่สมบูรณ์](https://support.office.com/article/2556b11f-f4d8-46be-b0a7-de33a3f4f066#bkmk_incompleteresults)
+- [ค้นหา outlook ไม่พบอีเมล์ที่เก่ากว่า](https://support.office.com/article/2556b11f-f4d8-46be-b0a7-de33a3f4f066#bkmk_olderemails)
+
+การแก้ไขปัญหาสำหรับปัญหาทั่วไปน้อยสามารถพบได้ที่นี่:
+- [Outlook 2016 เท่านั้น: แท็บการค้นหาเป็นสีเทา](https://support.office.com/article/2556b11f-f4d8-46be-b0a7-de33a3f4f066#bkmk_greytab)
+- [กล่องจดหมายที่ใช้ร่วมกัน: ปัญหากับผลลัพธ์การค้นหา](https://support.office.com/article/2556b11f-f4d8-46be-b0a7-de33a3f4f066#bkmk_sharedmailbox)
+- [ข้อผิดพลาด: ประสิทธิภาพการค้นหาจะได้รับผลกระทบได้เนื่องจาก มีปัญหากับวิธีการกำหนดค่า Outlook](https://support.office.com/article/51c9d2c7-a3db-4358-afdf-50d3a9e57039)
+- [โฟลเดอร์การค้นหาแสดงรายการ PersonMetadata ที่ไม่คาดคิดที่ไม่มีชื่อเรื่อง](https://support.microsoft.com/en-us/help/4035436/outlook-search-folders-show-items-with-blank-subject)
