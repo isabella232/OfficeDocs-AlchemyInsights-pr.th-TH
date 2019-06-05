@@ -1,0 +1,27 @@
+---
+title: บทบาทผู้ดูแลและวิธีการกำหนด
+ms.author: kirks
+author: Techwriter40
+manager: pamgreen
+ms.audience: Admin
+ms.topic: article
+ROBOTS: NOINDEX, NOFOLLOW
+localization_priority: Normal
+ms.collection: Adm_O365
+ms.custom: ''
+ms.assetid: ca7d439d-ffe7-4351-bfd1-b022e4056138
+ms.openlocfilehash: a8bfe01e6ab2a0204f9d5a6399a82cac4a4419a0
+ms.sourcegitcommit: 6d341637dbb14e90726a1ce1d68f077ace9bb765
+ms.translationtype: MT
+ms.contentlocale: th-TH
+ms.lasthandoff: 06/04/2019
+ms.locfileid: "34717260"
+---
+# <a name="experiencing-problems-with-a-cloud-service"></a>ประสบปัญหากับบริการ cloud หรือไม่
+
+ถ้าคุณมีปัญหากับบริการ cloud คุณสามารถตรวจสอบ[ความสมบูรณ์ของบริการ](https://admin.microsoft.com/AdminPortal/Home#/servicehealth)เพื่อตรวจสอบว่า เป็นปัญหาที่ทราบ ด้วยความละเอียดอยู่ระหว่างดำเนินการก่อนที่คุณโปรดติดต่อฝ่ายสนับสนุน หรือใช้เวลาในการแก้ไขปัญหา ปัญหาอาจเป็นชั่วคราวมาก และระบุอยู่แล้ว โดย Microsoft อย่างไรก็ตามอาจมี lapse ในเวลาระหว่างรหัสการตัดสินค้าจากคลังและการลงรายการบัญชีไปยังแดชบอร์ดความสมบูรณ์ของการบริการ กรุณาตรวจสอบแดชบอร์ดบริการการปรับปรุงต่อไป
+
+**นโยบายการแจ้งเตือน**
+
+เมื่อเกิดปัญหาการบริการ Microsoft รู้ว่า สื่อสารเหมาะ เป้าหมาย และแม่นยำเป็นสิ่งสำคัญสำหรับสำหรับลูกค้า Microsoft Office 365 ผู้ดูแลระบบที่แจ้งให้ทราบ ด้วยการปรับปรุงเฉพาะผู้เช่า[แดชบอร์ดบริการสุขภาพ (SHD)](https://admin.microsoft.com/AdminPortal/Home#/servicehealth)บนพอร์ทัล Office 365 Admin มีโปรแกรมปรับปรุงที่แก้ไขปัญหาบริการบน cadence เป็นรายชั่วโมง หรือ ถ้าจำเป็นต้องมี cadence ที่แตกต่างกัน ดังกล่าวจะระบุในการลงรายการบัญชีในการติดต่อสื่อสาร SHD สำหรับข้อมูลเพิ่มเติม ให้ดู[วิธีการตรวจสอบความสมบูรณ์บริการของ Office 365](https://docs.microsoft.com/en-us/office365/enterprise/view-service-health)
+
