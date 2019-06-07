@@ -7,18 +7,43 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 4d197afd-e806-40ad-ac20-4b10bc497edb
-ms.openlocfilehash: 48259de7b605f667ce424d3c8be00362b08ea716
-ms.sourcegitcommit: 6d341637dbb14e90726a1ce1d68f077ace9bb765
+ms.openlocfilehash: 2432b84a06dbf3e5efd69945516174a1f70e0a9f
+ms.sourcegitcommit: 4b7e478ce700c0b781efec3857ac4dce5bdf00c6
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 06/04/2019
-ms.locfileid: "34719885"
+ms.lasthandoff: 06/07/2019
+ms.locfileid: "34760676"
 ---
 # <a name="enable-external-sharing-in-sharepoint-online"></a>เปิดใช้งานการใช้ร่วมกันภายนอกใน SharePoint แบบออนไลน์
 
-ถ้าองค์กรของคุณทำงานที่เกี่ยวข้องกับเอกสารที่ใช้ร่วมกัน หรือการทำงานร่วมกับผู้ขาย ลูกค้า หรือลูกค้าโดยตรง จาก นั้นคุณสามารถใช้ใน<a href="https://docs.microsoft.com/en-us/sharepoint/external-sharing-overview">ลักษณะการทำงานของ SharePoint แบบออนไลน์ที่ใช้ร่วมกันภายนอก</a>เพื่อใช้เนื้อหาร่วมกันกับบุคคลภายนอกของคุณ องค์กร
+ถ้าองค์กรของคุณทำงานที่เกี่ยวข้องกับเอกสารที่ใช้ร่วมกัน หรือการทำงานร่วมกับผู้ขาย ลูกค้า หรือลูกค้าโดยตรง จาก นั้นคุณสามารถใช้ใน[ลักษณะการทำงานของ SharePoint แบบออนไลน์ที่ใช้ร่วมกันภายนอก](https://docs.microsoft.com/sharepoint/external-sharing-overview)เพื่อใช้เนื้อหาร่วมกันกับบุคคลภายนอกของคุณ องค์กร
 
-สำหรับข้อมูลเพิ่มเติมเกี่ยวกับการร่วมกันภายนอก (แขก) โปรดเยี่ยมชมลิงค์ด้านล่าง</span></u></strong></p> <ul> <li style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; line-height: normal;"><span style="font-size: 10.5pt; mso-fareast-font-family: 'Times New Roman'; mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin; color: black;"><a href="https://docs.microsoft.com/en-us/sharepoint/external-sharing-overview#what-is-an-external-user">ผู้ใช้ภายนอกคืออะไร</a></span></li> <li style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; line-height: normal;"><span style="font-size: 10.5pt; mso-fareast-font-family: 'Times New Roman'; mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin; color: black;"><a href="https://docs.microsoft.com/en-us/sharepoint/external-sharing-overview#what-happens-when-i-share-a-site-or-document">เกิดอะไรขึ้นเมื่อฉันใช้ร่วมกับไซต์หรือเอกสาร</a></span></li> <li style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; line-height: normal;"><span style="font-size: 10.5pt; mso-fareast-font-family: 'Times New Roman'; mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin; color: black;"><a href="https://docs.microsoft.com/en-us/sharepoint/turn-external-sharing-on-or-off">เปิดการใช้ร่วมกัน หรือปิดสำหรับ SharePoint แบบออนไลน์ภายนอก</a></span></li> <li style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; line-height: normal;"><span style="font-size: 10.5pt; mso-fareast-font-family: 'Times New Roman'; mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin; color: black;"><a href="https://docs.microsoft.com/en-us/sharepoint/change-external-sharing-site">เปิดการใช้งานร่วมกัน หรือปิดสำหรับไซต์ภายนอก</a></span></li> <li style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; line-height: normal;"><span style="font-size: 10.5pt; mso-fareast-font-family: 'Times New Roman'; mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin; color: black;"><a href="https://docs.microsoft.com/en-us/office365/admin/create-groups/manage-guest-access-in-groups?view=o365-worldwide">จัดการการเข้าถึงของแขกใน Office 365 กลุ่ม</a></span></li> <li style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; line-height: normal;"><span style="font-size: 10.5pt; mso-fareast-font-family: 'Times New Roman'; mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin; color: black;"><a href="https://docs.microsoft.com/en-us/sharepoint/create-b2b-extranet">ใช้ Sharepoint แบบออนไลน์เป็นโซลูชันเอกซ์ทราเน็ตธุรกิจ (B2B)</a></span></li> <li style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; line-height: normal;"><span style="font-size: 10.5pt; mso-fareast-font-family: 'Times New Roman'; mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin; color: black;"><a href="https://support.office.com/en-us/article/share-sharepoint-files-or-folders-1fe37332-0f9a-4719-970e-d2578da4941c">ใช้ SharePoint แฟ้มหรือโฟลเดอร์ร่วมกัน</a></span></li> <li style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; line-height: normal;"><span style="font-size: 10.5pt; mso-fareast-font-family: 'Times New Roman'; mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin; color: black;"><a href="https://support.office.com/en-us/article/stop-sharing-onedrive-or-sharepoint-files-or-folders-or-change-permissions-0a36470f-d7fe-40a0-bd74-0ac6c1e13323?ui=en-US&amp;rs=en-US&amp;ad=US">หยุดการใช้ร่วมกันหรือโฟลเดอร์ที่แฟ้ม OneDrive หรือ SharePoint หรือเปลี่ยนแปลงสิทธิ์</a></span></li> <li style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; line-height: normal;"><span style="font-size: 10.5pt; mso-fareast-font-family: 'Times New Roman'; mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin; color: black;"><a href="https://docs.microsoft.com/en-us/sharepoint/remove-users#delete-a-guest-from-the-microsoft-365-admin-center"><span style="color: #0066cc; background: #BFE6FF;">ลบผู้ใช้ภายนอก
+สำหรับข้อมูลเพิ่มเติมเกี่ยวกับการร่วมกันภายนอก (แขก) โปรดเยี่ยมชมลิงค์ด้านล่าง
 
-ได้รับข้อผิดพลาดกับผู้ใช้ภายนอก (guest) หรือไม่ &nbsp;ตรวจสอบการเชื่อมโยงด้านล่างนี้ </span></u></strong></p> <ul> <li style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; line-height: normal;"><a href="https://docs.microsoft.com/en-us/sharepoint/sharepoint-onedrive-error-message">ข้อผิดพลาดใน OSE ที่ใช้ร่วมกันใน Sharepoint หรือ OneDrive</a></li> <li style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; line-height: normal;"><span style="font-size: 10.5pt; mso-fareast-font-family: 'Times New Roman'; mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin; color: black;"><a href="https://support.office.com/en-us/article/Error-message-when-an-external-user-accepts-a-SharePoint-Online-invitation-by-using-another-account-f0d34413-ea7c-42c7-a485-c4e5d421e5f0">ข้อความแสดงข้อผิดพลาดเมื่อผู้ใช้ภายนอกยอมรับคำเชิญของ SharePoint แบบออนไลน์ โดยใช้บัญชีผู้ใช้อื่น</a></span></li> <li style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; line-height: normal;"><span style="font-size: 10.5pt; mso-fareast-font-family: 'Times New Roman'; mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin; color: black;"><a href="https://support.office.com/client/d678b57a-53ad-4414-9423-d8726a0c532f">ปฏิเสธการเข้าถึงโฟลเดอร์ที่ใช้ร่วมกัน</a>&nbsp;</span></li> </ul>
+[ผู้ใช้ภายนอกคืออะไร](https://docs.microsoft.com/sharepoint/external-sharing-overview#what-is-an-external-user)
 
+[เกิดอะไรขึ้นเมื่อฉันใช้ร่วมกับไซต์หรือเอกสาร](https://docs.microsoft.com/sharepoint/external-sharing-overview#what-happens-when-i-share-a-site-or-document)
+
+[เปิดการใช้ร่วมกัน หรือปิดสำหรับ SharePoint แบบออนไลน์ภายนอก](https://docs.microsoft.com/sharepoint/turn-external-sharing-on-or-off)
+
+[เปิดการใช้งานร่วมกัน หรือปิดสำหรับไซต์ภายนอก](https://docs.microsoft.com/sharepoint/change-external-sharing-site)
+
+[จัดการการเข้าถึงของแขกใน Office 365 กลุ่ม](https://docs.microsoft.com/office365/admin/create-groups/manage-guest-access-in-groups?view=o365-worldwide)
+
+[ใช้ Sharepoint แบบออนไลน์เป็นโซลูชันเอกซ์ทราเน็ตธุรกิจ (B2B)](https://docs.microsoft.com/sharepoint/create-b2b-extranet)
+
+[ใช้ SharePoint แฟ้มหรือโฟลเดอร์ร่วมกัน](https://support.office.com/article/share-sharepoint-files-or-folders-1fe37332-0f9a-4719-970e-d2578da4941c)
+
+[หยุดการใช้ร่วมกันหรือโฟลเดอร์ที่แฟ้ม OneDrive หรือ SharePoint หรือเปลี่ยนแปลงสิทธิ์](https://support.office.com/article/stop-sharing-onedrive-or-sharepoint-files-or-folders-or-change-permissions-0a36470f-d7fe-40a0-bd74-0ac6c1e13323?ui=en-US&amp;rs=en-US&amp;ad=US)
+
+[ลบผู้ใช้ภายนอก](https://docs.microsoft.com/sharepoint/remove-users#delete-a-guest-from-the-microsoft-365-admin-center)
+
+ได้รับข้อผิดพลาดกับผู้ใช้ภายนอก (guest) หรือไม่
+
+ตรวจสอบการเชื่อมโยงด้านล่าง 
+
+- [ข้อผิดพลาดใน OSE ที่ใช้ร่วมกันใน Sharepoint หรือ OneDrive](https://docs.microsoft.com/sharepoint/sharepoint-onedrive-error-message)
+
+- [ข้อความแสดงข้อผิดพลาดเมื่อผู้ใช้ภายนอกยอมรับคำเชิญของ SharePoint แบบออนไลน์ โดยใช้บัญชีผู้ใช้อื่น](https://support.office.com/article/Error-message-when-an-external-user-accepts-a-SharePoint-Online-invitation-by-using-another-account-f0d34413-ea7c-42c7-a485-c4e5d421e5f0)
+
+- [ปฏิเสธการเข้าถึงโฟลเดอร์ที่ใช้ร่วมกัน](https://support.office.com/client/d678b57a-53ad-4414-9423-d8726a0c532f)

@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: e13940be-483f-46ed-a88c-d36bbaf04ad5
-ms.openlocfilehash: 2258ab81f9f4d0d659dcfb410c2ffef0cd9b81a4
-ms.sourcegitcommit: 241e21b6da226563bf70bdb1f5bad3d91c38cd2c
+ms.openlocfilehash: f467ac76f91b1a43787cadff6b225a24400a2249
+ms.sourcegitcommit: 4b7e478ce700c0b781efec3857ac4dce5bdf00c6
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 06/05/2019
-ms.locfileid: "34735126"
+ms.lasthandoff: 06/07/2019
+ms.locfileid: "34759519"
 ---
 # <a name="external-sharing-settings-for-sharepoint--onedrive"></a>การตั้งค่าสำหรับ SharePoint & OneDrive ที่ใช้ร่วมกันภายนอก
 
@@ -37,4 +37,4 @@ ms.locfileid: "34735126"
 - เลือกไซต์ที่ใช้งานอยู่เมื่อต้องการดูไซต์ที่พร้อมใช้งาน
 - ไซต์เลือก และเลือกปุ่ม**ใช้ร่วมกัน**จากเมนูเพื่อตรวจสอบการตั้งค่าสำหรับไซต์
 
-สำหรับข้อมูลเพิ่มเติม ดู[ภาพรวมการใช้งานร่วมกันภายนอก](https://docs.microsoft.com/en-us/sharepoint/external-sharing-overview)
+สำหรับข้อมูลเพิ่มเติม ดู[ภาพรวมการใช้งานร่วมกันภายนอก](https://docs.microsoft.com/sharepoint/external-sharing-overview)
