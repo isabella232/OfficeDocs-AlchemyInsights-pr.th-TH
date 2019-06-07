@@ -10,14 +10,22 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 7ae05f21-eb16-4d71-9e19-4f097eb100d2
-ms.openlocfilehash: e648a740c4aa0df096534b506e01446ef087bc23
-ms.sourcegitcommit: 6d341637dbb14e90726a1ce1d68f077ace9bb765
+ms.openlocfilehash: 299a31719696778d66afc4f1c4f9b7c3ff3970f3
+ms.sourcegitcommit: 4b7e478ce700c0b781efec3857ac4dce5bdf00c6
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 06/04/2019
-ms.locfileid: "34719185"
+ms.lasthandoff: 06/07/2019
+ms.locfileid: "34758084"
 ---
 # <a name="workflows-in-sharepoint"></a>เวิร์กโฟลว์ใน SharePoint
 
-<p>เวิร์กโฟลว์ SharePoint ถูกตั้งโปรแกรมไว้ล่วงหน้าขนาดเล็กโปรแกรมประยุกต์ที่ราบธุรกิจ และทำให้กระบวนการทางธุรกิจที่หลากหลาย เวิร์กโฟลว์จะมีช่วงตั้งแต่เก็บรวบรวมลายเซ็น คำติชม หรือการอนุมัติสำหรับแผนหรือเอกสาร การติดตามสถานะปัจจุบันของกระบวนงานเป็นงานประจำ</p> <p><strong>เริ่มต้น:</strong> ถ้าคุณ&rsquo;re เพิ่งเริ่มต้นใช้งานกับเวิร์กโฟลว์ SharePoint ดู<a href="https://support.office.com/en-us/article/introduction-to-sharepoint-workflow-07982276-54e8-4e17-8699-5056eff4d9e3">บทนำสู่เวิร์กโฟลว์ SharePoint</a>สำหรับข้อมูลเพิ่มเติม</p> <p><strong>กระแส Microsoft:</strong> พิจารณาการใช้ Microsoft กระแสแทนโซลูชันเวิร์กโฟลว์ SharePoint แบบคลาสสิก สำหรับข้อมูลเพิ่มเติม โปรดดูที่<a href="https://support.office.com/en-us/article/create-a-flow-for-a-list-or-library-in-sharepoint-online-or-onedrive-for-business-a9c3e03b-0654-46af-a254-20252e580d01">สร้างขั้นตอนการสำหรับรายการหรือไลบรารี SharePoint แบบออนไลน์หรือ OneDrive</a></p> <p><strong>เวิร์กโฟลว์การแก้ไขปัญหา และการตรวจแก้จุดบกพร่อง:</strong> ลำดับงานการตรวจแก้จุดบกพร่องคล้ายกับที่รุ่นก่อนหน้านี้ สำหรับข้อมูลเพิ่มเติม ดู<a href="https://docs.microsoft.com/en-us/sharepoint/dev/general-development/debugging-sharepoint-server-workflows">เวิร์กโฟลว์ SharePoint ตรวจแก้จุดบกพร่อง</a> สำหรับข้อมูลเพิ่มเติมในการแก้ไขปัญหาเบื้องต้น ดู<a title="SharePoint Server การแก้ไขปัญหาข้อผิดพลาดการตรวจสอบลำดับงาน" href="https://docs.microsoft.com/en-us/sharepoint/dev/general-development/troubleshooting-sharepoint-server-workflow-validation-errors-in-visio">การแก้ไขปัญหาข้อผิดพลาดการตรวจสอบลำดับงาน SharePoint Server</a>&nbsp;</p>
+เวิร์กโฟลว์ SharePoint ถูกตั้งโปรแกรมไว้ล่วงหน้าขนาดเล็กโปรแกรมประยุกต์ที่ราบธุรกิจ และทำให้กระบวนการทางธุรกิจที่หลากหลาย เวิร์กโฟลว์จะมีช่วงตั้งแต่เก็บรวบรวมลายเซ็น คำติชม หรือการอนุมัติสำหรับแผนหรือเอกสาร การติดตามสถานะปัจจุบันของกระบวนงานเป็นงานประจำ
+
+เริ่มต้น: ถ้าคุณกำลังเพิ่งเริ่มต้นใช้งานกับเวิร์กโฟลว์ SharePoint ดู[บทนำสู่เวิร์กโฟลว์ SharePoint สำหรับข้อมูลเพิ่มเติม](https://support.office.com/article/introduction-to-sharepoint-workflow-07982276-54e8-4e17-8699-5056eff4d9e3)
+
+**กระแส Microsoft**: ให้พิจารณาการใช้ Microsoft กระแสแทนโซลูชันเวิร์กโฟลว์ SharePoint คลาสสิก สำหรับข้อมูลเพิ่มเติม ให้ดูที่[การสร้างขั้นตอนการสำหรับรายการหรือไลบรารี SharePoint แบบออนไลน์หรือ OneDrive](https://support.office.com/article/create-a-flow-for-a-list-or-library-in-sharepoint-online-or-onedrive-for-business-a9c3e03b-0654-46af-a254-20252e580d01)
+
+**เวิร์กโฟลว์การแก้ไขปัญหา และการตรวจแก้จุดบกพร่อง**:
+
+ลำดับงานการตรวจแก้จุดบกพร่องคล้ายกับที่รุ่นก่อนหน้านี้ สำหรับข้อมูลเพิ่มเติม ดู[เวิร์กโฟลว์ SharePoint ตรวจแก้จุดบกพร่อง](https://docs.microsoft.com/sharepoint/dev/general-development/debugging-sharepoint-server-workflows) สำหรับข้อมูลเพิ่มเติมในการแก้ไขปัญหาเบื้องต้น ดู[SharePoint Server การแก้ไขปัญหาข้อผิดพลาดการตรวจสอบลำดับงาน](https://docs.microsoft.com/sharepoint/dev/general-development/troubleshooting-sharepoint-server-workflow-validation-errors-in-visio)
 

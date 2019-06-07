@@ -7,14 +7,16 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 82dcee94-656f-4ec8-a9b2-730adb564c06
-ms.openlocfilehash: 8a1087f7d9731665de47db74cf082314550bf0bb
-ms.sourcegitcommit: 6d341637dbb14e90726a1ce1d68f077ace9bb765
+ms.openlocfilehash: 1c1893e40835066b1da5e95c301f21ccb0fcb4c1
+ms.sourcegitcommit: 4b7e478ce700c0b781efec3857ac4dce5bdf00c6
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 06/04/2019
-ms.locfileid: "34719920"
+ms.lasthandoff: 06/07/2019
+ms.locfileid: "34760778"
 ---
 # <a name="desktop-app-for-sharepoint"></a>แอพลิเคชันเดสก์ท็อปสำหรับ SharePoint
 
-<p><span style="background-attachment: scroll; background-clip: border-box; background-color: white; background-image: none; background-origin: padding-box; background-position-x: 0%; background-position-y: 0%; background-repeat: repeat; background-size: auto; color: black; font-family: Verdana,Arial,Helvetica,sans-serif; font-size: 14px; font-style: normal; font-variant: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-decoration: none; text-indent: 0px; text-transform: none; -webkit-text-stroke-width: 0px; white-space: normal; word-spacing: 0px;">ป้อนไว้ในโปรแกรมตัวอย่างส่วนตัวสำหรับองค์กรของคุณ</span> <strong style="color: #000000; font-family: Verdana,Arial,Helvetica,sans-serif; font-size: 14px; font-style: normal; font-variant: normal; font-weight: bold; letter-spacing: normal; orphans: 2; text-align: left; text-decoration: none; text-indent: 0px; text-transform: none; -webkit-text-stroke-width: 0px; white-space: normal; word-spacing: 0px;"><span style="color: black; font-family: &amp;quot;">แอพลิเคชันเดสก์ท็อปสำหรับ SharePoint</span></strong> <span style="background-attachment: scroll; background-clip: border-box; background-color: white; background-image: none; background-origin: padding-box; background-position-x: 0%; background-position-y: 0%; background-repeat: repeat; background-size: auto; color: black; font-family: Verdana,Arial,Helvetica,sans-serif; font-size: 14px; font-style: normal; font-variant: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-decoration: none; text-indent: 0px; text-transform: none; -webkit-text-stroke-width: 0px; white-space: normal; word-spacing: 0px;"><span style="float: none; orphans: 2; -webkit-text-stroke-width: 0px; word-spacing: 0px;">. Microsoft ไม่อยู่ในขณะนี้สนับสนุนแอพลิเคชันเดสก์ท็อปสำหรับ SharePoint (แสดงตัวอย่างส่วนตัว) โปรดใช้คู่ค้า enlisted แสดงตัวอย่างส่วนตัวของ Microsoft เพื่อขอความช่วยเหลือ โดยแอพลิเคชันเดสก์ท็อปสำหรับ SharePoint</span></span><u></u><span style="text-decoration: line-through;"></span></p>
+องค์กรของคุณถูกป้อนในโปรแกรมตัวอย่างส่วนตัวสำหรับแอพลิเคชันเดสก์ท็อปสำหรับ SharePoint
+
+Microsoft ไม่อยู่ในขณะนี้สนับสนุนแอพลิเคชันเดสก์ท็อปสำหรับ SharePoint (แสดงตัวอย่างส่วนตัว) โปรดใช้คู่ค้า enlisted แสดงตัวอย่างส่วนตัวของ Microsoft เพื่อขอความช่วยเหลือ โดยแอพลิเคชันเดสก์ท็อปสำหรับ SharePoint
 

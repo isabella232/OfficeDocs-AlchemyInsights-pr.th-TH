@@ -8,14 +8,26 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 7fd02fc7-4aaf-4ae6-b514-ceda456b74e2
-ms.openlocfilehash: 5fcf591c5312daf7b817b17056078506f1d4a77b
-ms.sourcegitcommit: 6d341637dbb14e90726a1ce1d68f077ace9bb765
+ms.openlocfilehash: ebafb4ec807f6e6b9c26935e766456414212de81
+ms.sourcegitcommit: 4b7e478ce700c0b781efec3857ac4dce5bdf00c6
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 06/04/2019
-ms.locfileid: "34718975"
+ms.lasthandoff: 06/07/2019
+ms.locfileid: "34756883"
 ---
 # <a name="edit-a-read-only-file"></a>แก้ไขแฟ้มแบบอ่านอย่างเดียว
 
-<p style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; line-height: normal;"><span style="mso-fareast-font-family: 'Times New Roman'; mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin;">คุณอาจพบว่า เมื่อคุณกำลังเปิดแฟ้ม เปิดเป็นแบบอ่านอย่างเดียว ในบางกรณี นี่คือความปลอดภัยที่เพิ่ม เช่นเมื่อคุณกำลังเปิดแฟ้มจากอินเทอร์เน็ต และบางครั้ง ดังกล่าวอาจเกิดจากการตั้งค่าที่คุณสามารถเปลี่ยน ในบทความ&ldquo;<a href="https://support.office.com/en-us/article/Why-did-my-file-open-read-only-3ab4b792-da50-4b38-8628-14c64e1f1d15"><span style="color: blue;">เหตุไม่ได้เปิดอยู่ในแฟ้มแบบอ่านอย่างเดียว</span></a>&rdquo;เราเค้าร่างบางสถานการณ์ที่เปิดแฟ้มเป็นแบบอ่านอย่างเดียวและบางขั้นตอนที่คุณสามารถทำการเปลี่ยนแปลงที่</span></p> <p style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; line-height: normal;"><strong><span style="mso-fareast-font-family: 'Times New Roman'; mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin;">ที่นี่&rsquo;s วิธีการเปิด office แฟ้มสำหรับการแก้ไข</span></strong></p> <ul> <li style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; line-height: normal;"><span style="mso-fareast-font-family: 'Times New Roman'; mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin;">แทนที่จะคลิกที่ชื่อเรื่องของเอกสาร คลิก<strong>เปิดเมนู</strong>(สามจุด), แล้ว คลิ ก<strong>แก้ไข</strong></span></li> </ul> <p style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; line-height: normal;"><strong><span style="mso-fareast-font-family: 'Times New Roman'; mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin;">หมายเหตุ:</span></strong></p> <ul> <li style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; line-height: normal;"><span style="mso-fareast-font-family: 'Times New Roman'; mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin;">ถ้าคุณ&rsquo;d แต่มีเอกสารที่เปิดสำหรับการแก้ไขใน Office Online เมื่อคุณคลิกชื่อเรื่อง คุณสามารถตั้งค่าไลบรารีเพื่อทำสิ่งนั้น (ตราบใดที่คุณมีสิทธิ์ในการเปลี่ยนการตั้งค่าไลบรารี):</span></li> </ul> <ul> <li style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; line-height: normal;"><span style="mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin;">ถ้าคุณมีไลบรารีกับ<strong style="box-sizing: border-box;">เช็คเอาท์</strong>คอลัมน์ที่<strong style="box-sizing: border-box;">จำ</strong>เป็น/metadata,&nbsp;หรือเมื่อ<strong style="box-sizing: border-box;">ความปลอดภัยของรายการแบบร่าง</strong>ไว้ถึงเป็น&nbsp;<strong style="box-sizing: border-box;">เท่านั้นที่สามารถแก้ไขผู้ใช้</strong>หรือ&nbsp;<strong style="box-sizing: border-box;">เท่านั้นที่สามารถอนุมัติรายการผู้ใช้</strong>ในเวอร์ชัน การตั้งค่าของการ SharePoint ไลบรารีเอกสาร รายการเหล่านี้จะถูกซิงโครไนส์เป็น<strong style="mso-bidi-font-weight: normal;">แบบอ่านอย่างเดียว</strong></span></li> </ul> <ul> <li style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; line-height: normal;"><span style="mso-fareast-font-family: 'Times New Roman'; mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin;">เอกสาร Office เปิดขึ้นในมุมมองที่ได้รับการป้องกันแม้ว่าคุณเปิดใช้งานการตั้งค่านโยบาย "Office เปิดเอกสารเป็นแบบอ่าน/เขียนในขณะที่เรียกดู" สำหรับข้อมูลเพิ่มเติม โปรดดูที่<a href="https://support.microsoft.com/en-us/help/983047/an-office-document-opens-in-protected-view-even-though-you-enable-the">นี้<span style="color: blue;">บทความ</span></a></span></li> </ul>
+คุณอาจพบว่า เมื่อคุณกำลังเปิดแฟ้ม เปิดเป็นแบบอ่านอย่างเดียว ในบางกรณี นี่คือความปลอดภัยที่เพิ่ม เช่นเมื่อคุณกำลังเปิดแฟ้มจากอินเทอร์เน็ต และบางครั้ง ดังกล่าวอาจเกิดจากการตั้งค่าที่คุณสามารถเปลี่ยน ในบทความ[เหตุใดจึงไม่ได้เปิดอยู่ในแฟ้มแบบอ่านอย่างเดียว](https://support.office.com/article/Why-did-my-file-open-read-only-3ab4b792-da50-4b38-8628-14c64e1f1d15)เราจัดเค้าร่างบางสถานการณ์ที่เปิดแฟ้มเป็นแบบอ่านอย่างเดียวและบางขั้นตอนที่คุณสามารถทำการเปลี่ยนแปลงที่
+
+ต่อไปนี้คือวิธีการเปิดแฟ้ม office สำหรับการแก้ไข
+
+แทนที่จะคลิกที่ชื่อเรื่องของเอกสาร คลิก**เปิดเมนู**(สามจุด), แล้ว คลิ ก**แก้ไข**
+
+หมายเหตุ:
+
+- ถ้าคุณแทนที่จะต้องมีเอกสารที่เปิดสำหรับการแก้ไขใน Office Online เมื่อคุณคลิกชื่อเรื่อง คุณสามารถตั้งค่าไลบรารีเพื่อทำสิ่งนั้น (ตราบใดที่คุณมีสิทธิ์ในการเปลี่ยนการตั้งค่าไลบรารี)
+
+- ถ้าคุณมีไลบรารีกับเช็คเอาท์ คอลัมน์ที่จำเป็น หรือเมื่อผู้ใช้เท่านั้นที่สามารถแก้ไขในการตั้งค่ารุ่นของ SharePoint เอกสารไลบรารี รายการเหล่านี้จะถูกซิงโครไนส์แบบอ่านอย่างเดียว
+
+- เอกสาร Office เปิดขึ้นในมุมมองที่ได้รับการป้องกันแม้ว่าคุณเปิดใช้งานการตั้งค่านโยบาย "Office เปิดเอกสารเป็นแบบอ่าน/เขียนในขณะที่เรียกดู" สำหรับข้อมูลเพิ่มเติม โปรดดูที่นี่[บทความ](https://support.microsoft.com/help/983047/an-office-document-opens-in-protected-view-even-though-you-enable-the)
 
