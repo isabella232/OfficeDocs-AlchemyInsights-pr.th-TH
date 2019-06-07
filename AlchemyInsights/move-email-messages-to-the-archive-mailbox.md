@@ -1,20 +1,20 @@
 ---
 title: ย้ายข้อความอีเมลไปยังกล่องจดหมายการเก็บถาวร
-ms.author: cmcatee
-author: cmcatee-MSFT
-manager: mnirkhe
+ms.author: chrisda
+author: chrisda
+manager: dansimp
 ms.date: 11/7/2018
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 59cd8630-6196-4680-ad92-1ce0e479f924
-ms.openlocfilehash: 37f256ef31402f5139fdd7c2af8f3a6ca9dc3525
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: fb5745b60d42e1f7d7bb9b7a336a51b62c2ff92a
+ms.sourcegitcommit: 4b7e478ce700c0b781efec3857ac4dce5bdf00c6
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32418344"
+ms.lasthandoff: 06/07/2019
+ms.locfileid: "34762384"
 ---
 # <a name="move-email-to-the-archive-mailbox"></a>ย้ายอีเมลไปยังกล่องจดหมายการเก็บถาวร
  
