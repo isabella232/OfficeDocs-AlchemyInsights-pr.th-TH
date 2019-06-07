@@ -2,32 +2,32 @@
 title: โยกย้ายข้อมูลโฟลเดอร์สาธารณะไป Office 365
 ms.author: dmaguire
 author: msdmaguire
-manager: serdars
+manager: dansimp
 ms.date: 5/9/2018
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 6e536c7d-ab36-413e-9702-63e51adb3452
-ms.openlocfilehash: a2c428b45672c3d895b88a653b541a1ab37326c8
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: c5f138cce6efb7764e0fd9f4ba9dd17c166fcfab
+ms.sourcegitcommit: 4b7e478ce700c0b781efec3857ac4dce5bdf00c6
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32418596"
+ms.lasthandoff: 06/07/2019
+ms.locfileid: "34755868"
 ---
-# <a name="migrate-public-folder-data-to-office-365"></a><span data-ttu-id="aa9bb-102">โยกย้ายข้อมูลโฟลเดอร์สาธารณะไป Office 365</span><span class="sxs-lookup"><span data-stu-id="aa9bb-102">Migrate public folder data to Office 365</span></span>
+# <a name="migrate-public-folder-data-to-office-365"></a><span data-ttu-id="c5f4b-102">โยกย้ายข้อมูลโฟลเดอร์สาธารณะไป Office 365</span><span class="sxs-lookup"><span data-stu-id="c5f4b-102">Migrate public folder data to Office 365</span></span>
 
-<span data-ttu-id="aa9bb-103">ถ้าคุณไม่มีล็อตของโฟลเดอร์สาธารณะที่จะนำเข้ามาใน Office 365 วิธีง่ายที่สุดเพื่อนำมาใส่จะเป็นการ คัดลอกข้อมูลลงไป PST แฟ้ม และจากนั้น นำเข้าไปยัง Office 365</span><span class="sxs-lookup"><span data-stu-id="aa9bb-103">If you don't have a lot of public folders to bring into Office 365, the easiest way to bring them would be to copy the data into .PST files and then import them into Office 365.</span></span> <span data-ttu-id="aa9bb-104">สำหรับข้อมูลจำนวนเล็กน้อย แบบปกติลาก และปล่อยของโฟลเดอร์สาธารณะไปยัง แฟ้ม PST สามารถเพียงพอ</span><span class="sxs-lookup"><span data-stu-id="aa9bb-104">For small amounts of data, a simple drag and drop of public folder into a .PST file can be sufficient.</span></span> <span data-ttu-id="aa9bb-105">ถ้าคุณมีข้อมูลเพิ่มเติมกว่านั้น (จนถึง 30GB), เราได้[จัดทำเอกสารกระบวนการ](https://technet.microsoft.com/library/dn874017%28v=exchg.150%29.aspx)ที่คุณสามารถใช้เพื่อส่งออกโฟลเดอร์ไปยังแฟ้ม PST</span><span class="sxs-lookup"><span data-stu-id="aa9bb-105">If you have more data than that (up to 30GB), we have [documented a process](https://technet.microsoft.com/library/dn874017%28v=exchg.150%29.aspx) that you can use to export folders to PST files.</span></span> 
+<span data-ttu-id="c5f4b-103">ถ้าคุณไม่มีล็อตของโฟลเดอร์สาธารณะที่จะนำเข้ามาใน Office 365 วิธีง่ายที่สุดเพื่อนำมาใส่จะเป็นการ คัดลอกข้อมูลลงไป PST แฟ้ม และจากนั้น นำเข้าไปยัง Office 365</span><span class="sxs-lookup"><span data-stu-id="c5f4b-103">If you don't have a lot of public folders to bring into Office 365, the easiest way to bring them would be to copy the data into .PST files and then import them into Office 365.</span></span> <span data-ttu-id="c5f4b-104">สำหรับข้อมูลจำนวนเล็กน้อย แบบปกติลาก และปล่อยของโฟลเดอร์สาธารณะไปยัง แฟ้ม PST สามารถเพียงพอ</span><span class="sxs-lookup"><span data-stu-id="c5f4b-104">For small amounts of data, a simple drag and drop of public folder into a .PST file can be sufficient.</span></span> <span data-ttu-id="c5f4b-105">ถ้าคุณมีข้อมูลเพิ่มเติมกว่านั้น (จนถึง 30GB), เราได้[จัดทำเอกสารกระบวนการ](https://technet.microsoft.com/library/dn874017%28v=exchg.150%29.aspx)ที่คุณสามารถใช้เพื่อส่งออกโฟลเดอร์ไปยังแฟ้ม PST</span><span class="sxs-lookup"><span data-stu-id="c5f4b-105">If you have more data than that (up to 30GB), we have [documented a process](https://technet.microsoft.com/library/dn874017%28v=exchg.150%29.aspx) that you can use to export folders to PST files.</span></span> 
   
-<span data-ttu-id="aa9bb-106">สำหรับองค์กรขนาดใหญ่ที่จะย้ายโฟลเดอร์สาธารณะลงใน Office 365 เรามีข้อแนะนำต่าง ๆ ที่พร้อมใช้งาน:</span><span class="sxs-lookup"><span data-stu-id="aa9bb-106">For larger organizations who are moving public folders into Office 365, we have several guides available:</span></span>
+<span data-ttu-id="c5f4b-106">สำหรับองค์กรขนาดใหญ่ที่จะย้ายโฟลเดอร์สาธารณะลงใน Office 365 เรามีข้อแนะนำต่าง ๆ ที่พร้อมใช้งาน:</span><span class="sxs-lookup"><span data-stu-id="c5f4b-106">For larger organizations who are moving public folders into Office 365, we have several guides available:</span></span>
   
-- <span data-ttu-id="aa9bb-107">[ย้ายโฟลเดอร์สาธารณะแบบดั้งเดิม](https://technet.microsoft.com/library/dn874017%28v=exchg.150%29.aspx) (Exchange 2010 และรุ่นก่อนหน้า)</span><span class="sxs-lookup"><span data-stu-id="aa9bb-107">[Migrate legacy public folders](https://technet.microsoft.com/library/dn874017%28v=exchg.150%29.aspx) (Exchange 2010 and earlier)</span></span> 
+- <span data-ttu-id="c5f4b-107">[ย้ายโฟลเดอร์สาธารณะแบบดั้งเดิม](https://technet.microsoft.com/library/dn874017%28v=exchg.150%29.aspx) (Exchange 2010 และรุ่นก่อนหน้า)</span><span class="sxs-lookup"><span data-stu-id="c5f4b-107">[Migrate legacy public folders](https://technet.microsoft.com/library/dn874017%28v=exchg.150%29.aspx) (Exchange 2010 and earlier)</span></span> 
     
-- [<span data-ttu-id="aa9bb-108">ย้ายโฟลเดอร์สาธารณะของ Exchange 2013</span><span class="sxs-lookup"><span data-stu-id="aa9bb-108">Migrate Exchange 2013 public folders</span></span>](https://technet.microsoft.com/library/mt798260%28v=exchg.150%29.aspx)
+- [<span data-ttu-id="c5f4b-108">ย้ายโฟลเดอร์สาธารณะของ Exchange 2013</span><span class="sxs-lookup"><span data-stu-id="c5f4b-108">Migrate Exchange 2013 public folders</span></span>](https://technet.microsoft.com/library/mt798260%28v=exchg.150%29.aspx)
     
-- [<span data-ttu-id="aa9bb-109">โฟลเดอร์สาธารณะของ Exchange 2016 mirate</span><span class="sxs-lookup"><span data-stu-id="aa9bb-109">Mirate Exchange 2016 public folders</span></span>](https://technet.microsoft.com/library/mt798260%28v=exchg.160%29.aspx)
+- [<span data-ttu-id="c5f4b-109">โฟลเดอร์สาธารณะของ Exchange 2016 mirate</span><span class="sxs-lookup"><span data-stu-id="c5f4b-109">Mirate Exchange 2016 public folders</span></span>](https://technet.microsoft.com/library/mt798260%28v=exchg.160%29.aspx)
     
-<span data-ttu-id="aa9bb-110">นอกจากนี้คุณยังมีตัวเลือกในการ[โยกย้ายโฟลเดอร์สาธารณะไปยัง Office 365 กลุ่ม](https://technet.microsoft.com/library/mt843872%28v=exchg.150%29.aspx)</span><span class="sxs-lookup"><span data-stu-id="aa9bb-110">You also have the option to [migrate public folders to Office 365 Groups](https://technet.microsoft.com/library/mt843872%28v=exchg.150%29.aspx).</span></span>
+<span data-ttu-id="c5f4b-110">นอกจากนี้คุณยังมีตัวเลือกในการ[โยกย้ายโฟลเดอร์สาธารณะไปยัง Office 365 กลุ่ม](https://technet.microsoft.com/library/mt843872%28v=exchg.150%29.aspx)</span><span class="sxs-lookup"><span data-stu-id="c5f4b-110">You also have the option to [migrate public folders to Office 365 Groups](https://technet.microsoft.com/library/mt843872%28v=exchg.150%29.aspx).</span></span>
   
 
