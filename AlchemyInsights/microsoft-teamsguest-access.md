@@ -9,12 +9,12 @@ ms.prod: office-online-server
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 7c44ed9c-e944-4a4a-b36f-81b637131a9f
-ms.openlocfilehash: 0890950c48ffae7cfc13c641446088819f1cf04c
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: e49caf53cfbd96704d048a899e123301525a8e6a
+ms.sourcegitcommit: 136b8209c52c2a05d0f2fdaab93b2cd92253fa2c
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32418810"
+ms.lasthandoff: 06/07/2019
+ms.locfileid: "34769878"
 ---
 # <a name="microsoft-teams---guest-access"></a>ทีมงาน Microsoft - การเข้าถึงของแขก
 
@@ -26,5 +26,5 @@ ms.locfileid: "32418810"
 1. เพิ่มผู้ใช้ที่เป็นแขกทีมของคุณ
 1. ตั้งค่าสิทธิ์ผู้ใช้ที่เป็นแขก
 
-ดูข้อมูลเพิ่มเติม รวมทั้งวิดีโอที่แสดงวิธีใช้[การเข้าถึงของแขกในทีม Microsoft](https://docs.microsoft.com/en-us/microsoftteams/guest-access)
+ดูข้อมูลเพิ่มเติม รวมทั้งวิดีโอที่แสดงวิธีใช้[การเข้าถึงของแขกในทีม Microsoft](https://docs.microsoft.com/microsoftteams/guest-access)
 

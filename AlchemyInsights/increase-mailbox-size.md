@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 33641df2-fc29-493f-a6c6-2777d8b4ef11
-ms.openlocfilehash: c2fa0a3489def709ed4f1823237ba98e3dd52cc2
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: f30db7cdb083356b0ad02348b7c5188280dc88f0
+ms.sourcegitcommit: 136b8209c52c2a05d0f2fdaab93b2cd92253fa2c
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32412518"
+ms.lasthandoff: 06/07/2019
+ms.locfileid: "34769914"
 ---
 # <a name="switch-plans-to-increase-mailbox-size"></a>สวิตช์วางแผนเพื่อเพิ่มขนาดของกล่องจดหมาย
 
@@ -34,4 +34,4 @@ ms.locfileid: "32412518"
     
 สำหรับรายละเอียดเพิ่มเติม ให้ดู[สลับไปยัง Office 365 แผนอื่น](https://support.office.com/article/73318661-8f33-478b-bcc7-fb8d69dbb22a)
   
-ถ้าคุณมี[แผน O365 ที่สนับสนุนการเก็บถาวรในสถาน](https://docs.microsoft.com/en-us/office365/servicedescriptions/exchange-online-archiving-service-description/exchange-online-archiving-service-description)คุณสามารถเรียกเก็บอีเมลที่เพิ่มเติม โดยการเปิดใช้งานในกล่องจดหมายการเก็บถาวร  ในกล่องจดหมายการเก็บถาวรช่วยให้คุณเก็บข้อมูลเพิ่มเติม และช่วยให้คุณสามารถย้าย คัดลอกและการค้นหาข้อความในทั้งสองหลักและกล่องจดหมายการเก็บถาวร สำหรับขั้นตอนในการเปิดใช้งานในกล่องจดหมายการเก็บถาวร ดูที่[เปิดใช้งานในกล่องจดหมายการเก็บถาวร](https://docs.microsoft.com/en-us/office365/securitycompliance/enable-archive-mailboxes)
+ถ้าคุณมี[แผน O365 ที่สนับสนุนการเก็บถาวรในสถาน](https://docs.microsoft.com/office365/servicedescriptions/exchange-online-archiving-service-description/exchange-online-archiving-service-description)คุณสามารถเรียกเก็บอีเมลที่เพิ่มเติม โดยการเปิดใช้งานในกล่องจดหมายการเก็บถาวร  ในกล่องจดหมายการเก็บถาวรช่วยให้คุณเก็บข้อมูลเพิ่มเติม และช่วยให้คุณสามารถย้าย คัดลอกและการค้นหาข้อความในทั้งสองหลักและกล่องจดหมายการเก็บถาวร สำหรับขั้นตอนในการเปิดใช้งานในกล่องจดหมายการเก็บถาวร ดูที่[เปิดใช้งานในกล่องจดหมายการเก็บถาวร](https://docs.microsoft.com/office365/securitycompliance/enable-archive-mailboxes)

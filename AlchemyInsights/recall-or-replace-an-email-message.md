@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 1860
 ms.assetid: ''
-ms.openlocfilehash: 6e66b5d60fe9ac66c2f2f8f7e99e753652c3a59e
-ms.sourcegitcommit: bcb2612ab8ba2aee5165e3912dca95cc1bdd09f4
+ms.openlocfilehash: 461969bee3b871fd2c4a8418406ea2b6de791191
+ms.sourcegitcommit: 136b8209c52c2a05d0f2fdaab93b2cd92253fa2c
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 05/16/2019
-ms.locfileid: "34096654"
+ms.lasthandoff: 06/07/2019
+ms.locfileid: "34770827"
 ---
 # <a name="recall-or-replace-an-email-message"></a>การเรียกคืน หรือแทนข้อความอีเมล
 
@@ -36,7 +36,7 @@ ms.locfileid: "34096654"
 
 ***ค้นหาและข้อความอีเมลบในองค์กรของคุณ*** เพื่อค้นหา และลบข้อความอีเมลในองค์กรของคุณ เป็นสิ่งที่ง่ายที่สุดถ้าคุณไม่มีผู้ดูแลระบบส่วนกลาง ถ้าคุณไม่ได้เป็นผู้ดูแลส่วนกลาง บัญชีของคุณต้องเพิ่ม ลงในกลุ่มบทบาทผู้จัดการ eDiscovery หรือ เพื่อค้นหาการปฏิบัติตามกฎระเบียบจัดการบทบาท การลบข้อความ คุณจำเป็นต้องเข้าร่วมกลุ่มบทบาทการจัดการองค์กรหรือบทบาทจัดการค้นหาและกำจัด อนุญาตให้บทบาทเหล่านี้จะถูกกำหนดใน[ศูนย์กลางการปฏิบัติตามกฎระเบียบ & ความปลอดภัย](https://protection.office.com/)
 
-1. การ[สร้างเนื้อหามีการค้นหา](https://docs.microsoft.com/en-us/office365/securitycompliance/content-search)เพื่อค้นหาข้อความที่จะลบ
-2. [เชื่อมต่อกับ PowerShell ศูนย์ปฏิบัติตามกฎระเบียบ & ความปลอดภัย](https://docs.microsoft.com/en-us/powershell/exchange/office-365-scc/connect-to-scc-powershell/connect-to-scc-powershell?view=exchange-ps) 
+1. การ[สร้างเนื้อหามีการค้นหา](https://docs.microsoft.com/office365/securitycompliance/content-search)เพื่อค้นหาข้อความที่จะลบ
+2. [เชื่อมต่อกับ PowerShell ศูนย์ปฏิบัติตามกฎระเบียบ & ความปลอดภัย](https://docs.microsoft.com/powershell/exchange/office-365-scc/connect-to-scc-powershell/connect-to-scc-powershell?view=exchange-ps) 
 
-ถ้าคุณกำลังใช้ MFA ดู[& Office 365 ปลอดภัย PowerShell ศูนย์ปฏิบัติตามกฎระเบียบการเชื่อมต่อโดยใช้การรับรองความถูกต้องด้วยหลายปัจจัย](https://docs.microsoft.com/en-us/powershell/exchange/office-365-scc/connect-to-scc-powershell/mfa-connect-to-scc-powershell?view=exchange-ps) 
+ถ้าคุณกำลังใช้ MFA ดู[& Office 365 ปลอดภัย PowerShell ศูนย์ปฏิบัติตามกฎระเบียบการเชื่อมต่อโดยใช้การรับรองความถูกต้องด้วยหลายปัจจัย](https://docs.microsoft.com/powershell/exchange/office-365-scc/connect-to-scc-powershell/mfa-connect-to-scc-powershell?view=exchange-ps) 

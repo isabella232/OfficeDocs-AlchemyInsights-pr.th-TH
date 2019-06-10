@@ -9,16 +9,16 @@ ms.topic: article
 ms.prod: office-online-server
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.openlocfilehash: 950b20b9982bbac8620a153315598a2b6ea08c6f
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 6f36420280cc016c1117d19c15c2887d4e308f77
+ms.sourcegitcommit: 136b8209c52c2a05d0f2fdaab93b2cd92253fa2c
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32418167"
+ms.lasthandoff: 06/07/2019
+ms.locfileid: "34771218"
 ---
 # <a name="new-retention-labels-created-automatically"></a>ป้ายชื่อการเก็บข้อมูลใหม่ที่สร้างขึ้นโดยอัตโนมัติ
 
-คุณอาจเห็น[สามเก็บข้อมูลสำหรับป้ายชื่อใหม่](https://docs.microsoft.com/en-us/office365/securitycompliance/file-plan-manager#default-retention-labels-and-label-policy)ที่สร้างขึ้นโดยอัตโนมัติในองค์กรของคุณภายใต้**ป้ายชื่อเงินวางประกัน**ในศูนย์ดูแลความปลอดภัยหรือการปฏิบัติตามกฎระเบียบ ชื่อของป้ายชื่อมี:
+คุณอาจเห็น[สามเก็บข้อมูลสำหรับป้ายชื่อใหม่](https://docs.microsoft.com/office365/securitycompliance/file-plan-manager#default-retention-labels-and-label-policy)ที่สร้างขึ้นโดยอัตโนมัติในองค์กรของคุณภายใต้**ป้ายชื่อเงินวางประกัน**ในศูนย์ดูแลความปลอดภัยหรือการปฏิบัติตามกฎระเบียบ ชื่อของป้ายชื่อมี:
 
 - ขั้นตอนในการดำเนินงาน
 - ธุรกิจทั่วไป
@@ -30,4 +30,4 @@ ms.locfileid: "32418167"
 
 1. เลือกป้ายชื่อเก็บข้อมูลที่คุณต้องการเอา >**ลบป้ายชื่อ** > **ใช่**เพื่อลบป้ายชื่อ
 
-มีตัวจัดการการวางแผนแฟ้ม คุณสามารถจัดเก็บข้อมูลป้าย และนโยบายในองค์กรของคุณ - สำหรับข้อมูลเพิ่มเติม ดู[ภาพรวมของการจัดการการวางแผนแฟ้ม](https://docs.microsoft.com/en-us/office365/securitycompliance/file-plan-manager)
+มีตัวจัดการการวางแผนแฟ้ม คุณสามารถจัดเก็บข้อมูลป้าย และนโยบายในองค์กรของคุณ - สำหรับข้อมูลเพิ่มเติม ดู[ภาพรวมของการจัดการการวางแผนแฟ้ม](https://docs.microsoft.com/office365/securitycompliance/file-plan-manager)
