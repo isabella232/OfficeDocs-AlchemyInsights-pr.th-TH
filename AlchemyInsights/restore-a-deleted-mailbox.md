@@ -9,12 +9,13 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 7b5b4e06-6943-4b2f-b8e4-cdaf13e65c77
-ms.openlocfilehash: ed76b06d20bdaa74708ac6d95902f4c726838071
-ms.sourcegitcommit: 4b7e478ce700c0b781efec3857ac4dce5bdf00c6
+ms.custom: ''
+ms.openlocfilehash: 3fa5fe283ebc89faff984e85731cdd3d70f5a7e6
+ms.sourcegitcommit: a9be2e396022382e92cf40c0d0d82f2f59c2e259
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 06/07/2019
-ms.locfileid: "34761814"
+ms.lasthandoff: 06/12/2019
+ms.locfileid: "34899569"
 ---
 # <a name="restore-a-deleted-mailbox"></a>การคืนค่ากล่องจดหมายถูกลบไปแล้ว
 
@@ -23,11 +24,10 @@ ms.locfileid: "34761814"
 ในเว็บไซต์ผู้ดูแล:
   
 - ไปยัง**ผู้ใช้** \> **ผู้ใช้ที่ใช้งานอยู่** เลือกผู้ใช้สงสัย
-    
-- เลือก ** แก้ไข ** จะปรับเปลี่ยนสิทธิ์การใช้งานผลิตภัณฑ์ 
-    
+
+- เลือก**แก้ไข**ในการปรับเปลี่ยนสิทธิ์การใช้งานผลิตภัณฑ์
+
 - กำหนดสิทธิ์การใช้งานที่ออนไลน์ของ Exchange ไปยังผู้ใช้ จากนั้น**บันทึก**
-    
+
 กล่องจดหมายที่ใช้ร่วมกันจะได้รับคืนภายใน 30 วัน คุณสามารถค้นหาจดหมายที่ใช้ร่วมกันภายใต้**ผู้ใช้** \> **ผู้ใช้ที่ถูกลบ**ได้ กล่องจดหมายที่ใช้ร่วมกันไม่จำเป็นต้องมีสิทธิ์การใช้งานการแลกเปลี่ยนแบบออนไลน์
   
-
