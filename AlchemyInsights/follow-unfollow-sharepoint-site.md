@@ -1,0 +1,26 @@
+---
+title: ติดตามหรือยกเลิกให้ทำตามไซต์ SharePoint
+ms.author: kirks
+author: Techwriter40
+ms.date: 6/20/2019
+ms.audience: ITPro
+ms.topic: article
+ROBOTS: NOINDEX, NOFOLLOW
+localization_priority: Normal
+ms.assetid: ''
+ms.openlocfilehash: a79bc2557feccc3ceb5b02a4c1c79093ddf31233
+ms.sourcegitcommit: 2bc5a3a7cfdc2b43ea22dd41fea1a13e312d5de2
+ms.translationtype: MT
+ms.contentlocale: th-TH
+ms.lasthandoff: 06/20/2019
+ms.locfileid: "35119777"
+---
+# <a name="follow-or-un-follow-a-sharepoint-site"></a>ติดตามหรือยกเลิกให้ทำตามไซต์ SharePoint
+
+สามารถทำได้หลายวิธีตามไซต์ที่คุณสนใจใน SharePoint ซึ่งจะช่วยให้คุณสามารถค้นหาไซต์ในรายการของคุณได้อย่างง่ายดาย และช่วยให้คุณสามารถดูกิจกรรมจากไซต์ 
+
+ชมวิดีโอเป็นไป[ตามไซต์ SharePoint](https://support.office.com/en-us/article/Video-Follow-a-SharePoint-site-33DB6FA5-9528-45D7-BCC7-F9C1FAAACAE0) 
+
+ถ้าคุณไม่สามารถติดตามหรือยกเลิกให้ทำตามไซต์ และผลลัพธ์ไม่ได้สิ่งคาดว่าจะรู้สึก ดูว่า ปัญหาเกี่ยวข้องกับผู้ใช้คนเดียวหรือผู้ใช้ทั้งหมดภายในองค์กรของคุณ ถ้าปัญหาที่พบ โดยผู้ใช้ทั้งหมด อาจมีปัญหากับบริการชั่วคราว 
+
+ตรวจสอบ[ความสมบูรณ์ของแดชบอร์ดบริการซึ่ง](https://admin.microsoft.com/AdminPortal/Home#/servicehealth)เมื่อต้องการดูถ้าองค์กรของคุณได้รับผลกระทบ
