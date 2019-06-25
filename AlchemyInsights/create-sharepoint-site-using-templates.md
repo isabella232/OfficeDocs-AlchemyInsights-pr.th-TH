@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 84f2b70e-2b23-4039-8305-85783798feed
-ms.openlocfilehash: a964751e52972875a8794ce311546f5816a36ca6
-ms.sourcegitcommit: 4b7e478ce700c0b781efec3857ac4dce5bdf00c6
+ms.openlocfilehash: 9ab06cbd1648da31d8a04e61c237a2326b4bbe93
+ms.sourcegitcommit: f856d46a325c517fc29d935c27f21b77c4219e66
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 06/07/2019
-ms.locfileid: "34753728"
+ms.lasthandoff: 06/24/2019
+ms.locfileid: "35199292"
 ---
 # <a name="create-sharepoint-sites-using-templates"></a>สร้างไซต์ SharePoint โดยใช้แม่แบบ
 
@@ -31,7 +31,7 @@ ms.locfileid: "34753728"
 
 - ไซต์บันทึกแม่แบบในคำสั่งไม่ได้รับการสนับสนุน และอาจทำให้เกิดปัญหาบนไซต์ที่ใช้ SharePoint Server ประกาศโครงสร้างพื้นฐาน
 
-แม่แบบไซต์ไม่สามารถสร้าง หรือทำงานไม่ถูกต้อง
+**แม่แบบไซต์ไม่สามารถสร้าง หรือทำงานไม่ถูกต้อง**
 
 แม่แบบนี้อาจไม่มี[ลักษณะการทำงาน](https://social.technet.microsoft.com/wiki/contents/articles/14423.sharepoint-2013-existing-features-guid.aspx)และจะไม่เปิดใช้งาน ถ้าคุณลักษณะนี้ไม่พร้อมใช้งานเพื่อเรียกใช้งานในไซต์คอลเลกชันปัจจุบัน คุณไม่สามารถใช้แม่แบบไซต์เพื่อสร้างไซต์
 

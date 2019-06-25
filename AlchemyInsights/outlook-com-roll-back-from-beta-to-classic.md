@@ -1,25 +1,26 @@
 ---
-title: 8000035 ร้องขอการย้อนกลับจาก Outlook.com เบต้าไป Outlook.com แบบคลาสสิก
+title: ร้องขอการย้อนกลับจาก Outlook.com เบต้าไป Outlook.com แบบคลาสสิก
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 3/1/2018
+ms.date: 6/20/2019
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.custom: 8000035
-ms.openlocfilehash: 4f131df08d5a9cdb8c72f19381c6a7906665d2f0
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.custom:
+- "8000035"
+ms.openlocfilehash: 82189ce9fedc7a85e0295ae06bb8c4190d8962f1
+ms.sourcegitcommit: ec6f8091c3d96c2d28296b70ecf6ee2857f9c335
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32391962"
+ms.lasthandoff: 06/21/2019
+ms.locfileid: "35117596"
 ---
 # <a name="the-new-outlookcom"></a>การ Outlook.com ใหม่
 
-คุณจะไม่สามารถปล่อยเบต้า Outlook.com และกลับไปยังรุ่นคลาสสิกของ Outlook.com
+คุณจะไม่สามารถปล่อยให้ประสบการณ์ Outlook.com ใหม่ และกลับไปยังรุ่นคลาสสิกของ Outlook.com
 
 ถ้าคุณต้องการให้ผลป้อนกลับเกี่ยวกับการ Outlook.com ใหม่ ไปยัง[ฟอรัม UserVoice](https://go.microsoft.com/fwlink/p/?linkid=851599) คุณสามารถลงคะแนนให้กับแนวคิดเกี่ยวกับ หรือการตัดสินค้าจากคลังที่คุณต้องการดูส่ง และเราจะตอบสนองกับข้อคิดเห็นด้านบนและคำแนะนำโดยตรง
 
-[เรียนรู้เพิ่มเติมเกี่ยวกับการ Outlook.com ใหม่](https://go.microsoft.com/fwlink/p/?linkid=874356)
+[รับความช่วยเหลือเกี่ยวกับ Outlook.com](https://support.office.com/article/40676ad0-c831-45ac-a023-5be633be798d?wt.mc_id=Office_Outlook_com_Alchemy)

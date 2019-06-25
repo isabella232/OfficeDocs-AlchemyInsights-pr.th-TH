@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "1936"
 - "9000201"
-ms.openlocfilehash: c32e6c4146a315f2f5b83b307108227ec4b72567
-ms.sourcegitcommit: f2b5fdfde0b407828b06fa5c91403c960a30294f
+ms.openlocfilehash: e80a37e186f43f1243594fa115b3d9467d935be5
+ms.sourcegitcommit: 0bff5e2cddacaf2feb44c43e48c8c196f9dfd1e3
 ms.translationtype: MT
 ms.contentlocale: th-TH
 ms.lasthandoff: 06/06/2019
-ms.locfileid: "34738109"
+ms.locfileid: "34748837"
 ---
 # <a name="uninstall-visio"></a>ถอนการติดตั้ง Visio
 
@@ -29,6 +29,6 @@ ms.locfileid: "34738109"
     
     หลังจากเริ่มการทำงาน การสนับสนุนและผู้ช่วยกู้คืนอีกครั้งเปิดโดยอัตโนมัติเพื่อให้การถอนการติดตั้งเสร็จสมบูรณ์
     
-3. แสดงกล่องโต้ตอบที่เหลือทำตาม และถ้าคุณมีการสมัครใช้งานออนไลน์ของ Visio คุณสามารถติดตั้ง Visio จาก Office 365[บัญชีเว็บไซต์](https://portal.office.com/account#installs) สำหรับวิธีใช้เพิ่มเติมหรือความช่วยเหลือเกี่ยวกับการติดตั้ง Visio รุ่นที่ไม่ได้สมัครสมาชิก ดู[ติดตั้ง Visio](https://support.office.com/article/f98f21e3-aa02-4827-9167-ddab5b025710?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1936) 
+3. แสดงกล่องโต้ตอบที่เหลือทำตาม และถ้าคุณมีการสมัครใช้งานออนไลน์ของ Visio คุณสามารถติดตั้ง Visio จาก Office 365[บัญชีเว็บไซต์](https://portal.office.com/account#installs) สำหรับวิธีใช้เพิ่มเติมหรือความช่วยเหลือเกี่ยวกับการติดตั้ง Visio เช่น Visio Professional รุ่นที่ไม่ได้สมัครสมาชิก ดู[ติดตั้ง Visio](https://support.office.com/article/f98f21e3-aa02-4827-9167-ddab5b025710?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1936) 
     
 สำหรับรายการของตัวเลือกถอนการติดตั้งอื่น ๆ เลือก[ถอนการติดตั้ง Office จากพีซี](https://support.office.com/article/9dd49b83-264a-477a-8fcc-2fdf5dbf61d8?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1936)
