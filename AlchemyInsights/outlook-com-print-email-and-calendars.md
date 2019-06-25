@@ -14,23 +14,23 @@ ms.custom:
 - "808"
 - "809"
 - "1327"
-ms.openlocfilehash: db963210d99ad41fe69eeae11baac9590f429448
-ms.sourcegitcommit: 03af2db31b45958e5f541d7740078cf65e0589ce
+ms.openlocfilehash: 81da5338117b49a21c95de2beae8319c55c83c4a
+ms.sourcegitcommit: efed0ae44bd6c61d751dd008b2885bd7e7d86521
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 06/04/2019
-ms.locfileid: "34709035"
+ms.lasthandoff: 06/14/2019
+ms.locfileid: "34957399"
 ---
-# <a name="print-email-and-calendars"></a><span data-ttu-id="55262-102">พิมพ์อีเมลและปฏิทิน</span><span class="sxs-lookup"><span data-stu-id="55262-102">Print email and calendars</span></span>
+# <a name="print-email-and-calendars"></a><span data-ttu-id="fd1d0-102">พิมพ์อีเมลและปฏิทิน</span><span class="sxs-lookup"><span data-stu-id="fd1d0-102">Print email and calendars</span></span>
 
-<span data-ttu-id="55262-103">เมื่อต้องการพิมพ์ข้อความอีเมล:</span><span class="sxs-lookup"><span data-stu-id="55262-103">To print an email message:</span></span>
+<span data-ttu-id="fd1d0-103">เมื่อต้องการพิมพ์ข้อความอีเมล:</span><span class="sxs-lookup"><span data-stu-id="fd1d0-103">To print an email message:</span></span>
   
-1. <span data-ttu-id="55262-104">เลือกข้อความคุณต้องการพิมพ์</span><span class="sxs-lookup"><span data-stu-id="55262-104">Select the message you want to print.</span></span>
-1. <span data-ttu-id="55262-105">ด้านบนของบานหน้าต่างการอ่าน เลือกสามจุด จากนั้น**พิมพ์**</span><span class="sxs-lookup"><span data-stu-id="55262-105">Above the reading pane, select the three dots and then select **Print**.</span></span>
+1. <span data-ttu-id="fd1d0-104">เลือกข้อความคุณต้องการพิมพ์</span><span class="sxs-lookup"><span data-stu-id="fd1d0-104">Select the message you want to print.</span></span>
+1. <span data-ttu-id="fd1d0-105">ที่มุมบนขวาของข้อความ เลือกสามจุด จากนั้น**พิมพ์**</span><span class="sxs-lookup"><span data-stu-id="fd1d0-105">At the top right corner of the message, select the three dots and then select **Print**.</span></span>
 
-<span data-ttu-id="55262-106">การพิมพ์ปฏิทินของคุณ:</span><span class="sxs-lookup"><span data-stu-id="55262-106">To print your calendar:</span></span>
+<span data-ttu-id="fd1d0-106">การพิมพ์ปฏิทินของคุณ:</span><span class="sxs-lookup"><span data-stu-id="fd1d0-106">To print your calendar:</span></span>
 
-1. <span data-ttu-id="55262-107">ที่มุมบนขวาของหน้า เลือก**พิมพ์**</span><span class="sxs-lookup"><span data-stu-id="55262-107">At the top right corner of the page, select **Print**.</span></span>
-1. <span data-ttu-id="55262-108">เลือกมุมมองและเวลาช่วง และเลือก**พิมพ์**</span><span class="sxs-lookup"><span data-stu-id="55262-108">Choose the view and time range, and select **Print**.</span></span>
+1. <span data-ttu-id="fd1d0-107">ที่มุมบนขวาของหน้า เลือก**พิมพ์**</span><span class="sxs-lookup"><span data-stu-id="fd1d0-107">At the top right corner of the page, select **Print**.</span></span>
+1. <span data-ttu-id="fd1d0-108">เลือกมุมมองและเวลาช่วง และเลือก**พิมพ์**</span><span class="sxs-lookup"><span data-stu-id="fd1d0-108">Choose the view and time range, and select **Print**.</span></span>
 
-<span data-ttu-id="55262-109">เรียนรู้เพิ่มเติมเกี่ยวกับวิธีการ[พิมพ์อีเมลและปฏิทินใน Outlook.com](https://go.microsoft.com/fwlink/p/?linkid=2001208&amp;clcid=0x409)</span><span class="sxs-lookup"><span data-stu-id="55262-109">Learn more about how to [print email and calendars in Outlook.com](https://go.microsoft.com/fwlink/p/?linkid=2001208&amp;clcid=0x409).</span></span>
+<span data-ttu-id="fd1d0-109">เรียนรู้เพิ่มเติมเกี่ยวกับวิธีการ[พิมพ์อีเมลและปฏิทินใน Outlook.com](https://go.microsoft.com/fwlink/p/?linkid=2001208&amp;clcid=0x409)</span><span class="sxs-lookup"><span data-stu-id="fd1d0-109">Learn more about how to [print email and calendars in Outlook.com](https://go.microsoft.com/fwlink/p/?linkid=2001208&amp;clcid=0x409).</span></span>
