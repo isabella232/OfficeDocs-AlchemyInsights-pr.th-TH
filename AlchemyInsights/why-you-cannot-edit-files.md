@@ -1,5 +1,5 @@
 ---
-title: เปิดแฟ้มแบบอ่านอย่างเดียว
+title: แฟ้มถูกล็อกเพื่อแก้ไข
 ms.author: kirks
 author: Techwriter40
 manager: pamgreen
@@ -9,12 +9,12 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 39748581-d319-403c-8501-9b785e4a0ed8
-ms.openlocfilehash: 2b311b134afe0c71dcc6bfdcd387eec1a624c312
-ms.sourcegitcommit: 4b7e478ce700c0b781efec3857ac4dce5bdf00c6
+ms.openlocfilehash: 154e1c8493f8846087e943119f1308af9bff33eb
+ms.sourcegitcommit: 204c8fadd59a597a18ebde24b3c63fbb656ec1b6
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 06/07/2019
-ms.locfileid: "34757123"
+ms.lasthandoff: 06/25/2019
+ms.locfileid: "35222687"
 ---
 # <a name="why-you-might-not-be-able-to-edit-files"></a>ทำไมคุณอาจไม่สามารถแก้ไขแฟ้มได้อย่างไร
 
@@ -24,9 +24,9 @@ ms.locfileid: "34757123"
 
 สำหรับไลบรารี OneDrive, OneDrive จะแสดงไอคอนล็อกถัดจากสถานะการซิงค์ และผู้ใช้จะไม่สามารถทำให้ตรงกันในไลบรารีได้จนกว่าการตั้งค่าดังกล่าวจะถูกเอาออก
 
-สำหรับข้อมูลเพิ่มเติมเกี่ยวกับแฟ้มที่ถูกล็อกสำหรับ Word/Excel โปรดอ้างอิงบทความด้านล่าง
+สำหรับข้อมูลเพิ่มเติมเกี่ยวกับแฟ้มที่ถูกล็อกสำหรับ Word หรือ Excel โปรดอ้างอิงบทความด้านล่าง
 
-[แฟ้ม Excel ถูกล็อกเพื่อแก้ไขโดยผู้ใช้อื่น](https://support.office.com/article/Excel-file-is-locked-for-editing-by-another-user-6fa93887-2c2c-45f0-abcc-31b04aed68b3)
+- [แฟ้ม Excel ถูกล็อกเพื่อแก้ไขโดยผู้ใช้อื่น](https://support.office.com/article/Excel-file-is-locked-for-editing-by-another-user-6fa93887-2c2c-45f0-abcc-31b04aed68b3)
 
-[แฟ้ม Word ถูกล็อกเพื่อแก้ไขโดยผู้ใช้อื่น](https://support.microsoft.com/help/313472/the-document-is-locked-for-editing-by-another-user-error-message-when)
+- [แฟ้ม Word ถูกล็อกเพื่อแก้ไขโดยผู้ใช้อื่น](https://support.microsoft.com/help/313472/the-document-is-locked-for-editing-by-another-user-error-message-when)
 

@@ -10,18 +10,18 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 7ae05f21-eb16-4d71-9e19-4f097eb100d2
-ms.openlocfilehash: 299a31719696778d66afc4f1c4f9b7c3ff3970f3
-ms.sourcegitcommit: 4b7e478ce700c0b781efec3857ac4dce5bdf00c6
+ms.openlocfilehash: e083431df1a86aad3d428901754f8150f5059b45
+ms.sourcegitcommit: 204c8fadd59a597a18ebde24b3c63fbb656ec1b6
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 06/07/2019
-ms.locfileid: "34758084"
+ms.lasthandoff: 06/25/2019
+ms.locfileid: "35223191"
 ---
 # <a name="workflows-in-sharepoint"></a>เวิร์กโฟลว์ใน SharePoint
 
 เวิร์กโฟลว์ SharePoint ถูกตั้งโปรแกรมไว้ล่วงหน้าขนาดเล็กโปรแกรมประยุกต์ที่ราบธุรกิจ และทำให้กระบวนการทางธุรกิจที่หลากหลาย เวิร์กโฟลว์จะมีช่วงตั้งแต่เก็บรวบรวมลายเซ็น คำติชม หรือการอนุมัติสำหรับแผนหรือเอกสาร การติดตามสถานะปัจจุบันของกระบวนงานเป็นงานประจำ
 
-เริ่มต้น: ถ้าคุณกำลังเพิ่งเริ่มต้นใช้งานกับเวิร์กโฟลว์ SharePoint ดู[บทนำสู่เวิร์กโฟลว์ SharePoint สำหรับข้อมูลเพิ่มเติม](https://support.office.com/article/introduction-to-sharepoint-workflow-07982276-54e8-4e17-8699-5056eff4d9e3)
+**เริ่มต้น:** ถ้าคุณกำลังเพิ่งเริ่มต้นใช้งานกับเวิร์กโฟลว์ SharePoint ดู[บทนำสู่เวิร์กโฟลว์ SharePoint สำหรับข้อมูลเพิ่มเติม](https://support.office.com/article/introduction-to-sharepoint-workflow-07982276-54e8-4e17-8699-5056eff4d9e3)
 
 **กระแส Microsoft**: ให้พิจารณาการใช้ Microsoft กระแสแทนโซลูชันเวิร์กโฟลว์ SharePoint คลาสสิก สำหรับข้อมูลเพิ่มเติม ให้ดูที่[การสร้างขั้นตอนการสำหรับรายการหรือไลบรารี SharePoint แบบออนไลน์หรือ OneDrive](https://support.office.com/article/create-a-flow-for-a-list-or-library-in-sharepoint-online-or-onedrive-for-business-a9c3e03b-0654-46af-a254-20252e580d01)
 

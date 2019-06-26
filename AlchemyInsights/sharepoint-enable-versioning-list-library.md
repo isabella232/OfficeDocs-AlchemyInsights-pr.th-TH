@@ -7,12 +7,12 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: a84868ba-7657-4f34-8a57-df9c6f9732dc
-ms.openlocfilehash: d9adb02292132e60af206e2fd7fe3204ff03471f
-ms.sourcegitcommit: 4b7e478ce700c0b781efec3857ac4dce5bdf00c6
+ms.openlocfilehash: d75ce74f32e4d51fa18e49a853c7a6a3da641240
+ms.sourcegitcommit: 204c8fadd59a597a18ebde24b3c63fbb656ec1b6
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 06/07/2019
-ms.locfileid: "34760534"
+ms.lasthandoff: 06/25/2019
+ms.locfileid: "35223623"
 ---
 # <a name="enable-versioning-for-a-sharepoint-list-or-library"></a>เปิดใช้งานการกำหนดรุ่นสำหรับรายการ SharePoint หรือไลบรารี
 
@@ -21,18 +21,18 @@ ms.locfileid: "34760534"
 
 สำหรับข้อมูลเพิ่มเติมเกี่ยวกับการกำหนดรุ่นโปรดเยี่ยมชมด้านล่างของบทความ
 
-[วิธีการกำหนดรุ่นไม่ทำในรายการ SharePoint หรือไลบรารี](https://support.office.com/article/how-does-versioning-work-in-a-sharepoint-list-or-library-0f6cd105-974f-44a4-aadb-43ac5bdfd247)
+- [วิธีการกำหนดรุ่นไม่ทำในรายการ SharePoint หรือไลบรารี](https://support.office.com/article/how-does-versioning-work-in-a-sharepoint-list-or-library-0f6cd105-974f-44a4-aadb-43ac5bdfd247)
 
-[เปิดใช้งาน และกำหนดค่าการกำหนดรุ่นสำหรับรายการหรือไลบรารี](https://support.office.com/article/enable-and-configure-versioning-for-a-list-or-library-1555d642-23ee-446a-990a-bcab618c7a37?ocmsassetID=HA102772148&amp;CTT=3&amp;CorrelationId=52441bb1-a619-4375-89d5-19d28769890f&amp;ui=en-US&amp;rs=en-US&amp;ad=US)
+- [เปิดใช้งาน และกำหนดค่าการกำหนดรุ่นสำหรับรายการหรือไลบรารี](https://support.office.com/article/enable-and-configure-versioning-for-a-list-or-library-1555d642-23ee-446a-990a-bcab618c7a37?ocmsassetID=HA102772148&amp;CTT=3&amp;CorrelationId=52441bb1-a619-4375-89d5-19d28769890f&amp;ui=en-US&amp;rs=en-US&amp;ad=US)
 
-[วิธีการดูประวัติรุ่น](https://support.office.com/article/View-the-version-history-of-an-item-or-file-in-a-list-or-library-53262060-5092-424D-A50B-C798B0EC32B1)
+- [วิธีการดูประวัติรุ่น](https://support.office.com/article/View-the-version-history-of-an-item-or-file-in-a-list-or-library-53262060-5092-424D-A50B-C798B0EC32B1)
 
-[คืนค่ารุ่นก่อนหน้าของแฟ้มใน OneDrive](https://support.office.com/article/restore-a-previous-version-of-a-file-in-onedrive-159cad6d-d76e-4981-88ef-de6e96c93893?ui=en-US&amp;rs=en-US&amp;ad=US)
+- [คืนค่ารุ่นก่อนหน้าของแฟ้มใน OneDrive](https://support.office.com/article/restore-a-previous-version-of-a-file-in-onedrive-159cad6d-d76e-4981-88ef-de6e96c93893?ui=en-US&amp;rs=en-US&amp;ad=US)
 
-[ดูไฟล์ Office เวอร์ชันก่อนหน้า](https://support.office.com/article/view-previous-versions-of-office-files-5c1e076f-a9c9-41b8-8ace-f77b9642e2c2)
+- [ดูไฟล์ Office เวอร์ชันก่อนหน้า](https://support.office.com/article/view-previous-versions-of-office-files-5c1e076f-a9c9-41b8-8ace-f77b9642e2c2)
 
-[ขีดจำกัดการกำหนดรุ่น](https://docs.microsoft.com/office365/servicedescriptions/sharepoint-online-service-description/sharepoint-online-limits)
+- [ขีดจำกัดการกำหนดรุ่น](https://docs.microsoft.com/office365/servicedescriptions/sharepoint-online-service-description/sharepoint-online-limits)
 
-หมายเหตุ: ถ้าคุณเป็นลูกค้า Office 365 การกำหนดรุ่นในขณะนี้เปิดอยู่ตามค่าเริ่มต้นเมื่อคุณสร้าง OneDrive ใหม่สำหรับไลบรารีของธุรกิจ และดังกล่าวโดยอัตโนมัติจะบันทึกเอกสารรุ่นล่าสุด 500 ซึ่งจะช่วยให้คุณสามารถป้องกันการสูญเสียข้อมูลหรือเอกสารสำคัญ ถ้าคุณมีไลบรารีที่มีอยู่ บน OneDrive ของคุณสำหรับไซต์ธุรกิจ หรือไซต์สำหรับทีมที่ไม่มีการเปิดใช้งานการกำหนดรุ่น คุณสามารถเปิดการกำหนดรุ่นสำหรับอุปกรณ์เหล่านี้เมื่อใดก็
+**หมายเหตุ:** ถ้าคุณเป็นลูกค้า Office 365 การกำหนดรุ่นในขณะนี้เปิดอยู่ตามค่าเริ่มต้นเมื่อคุณสร้าง OneDrive ใหม่สำหรับไลบรารีของธุรกิจ และดังกล่าวโดยอัตโนมัติจะบันทึกเอกสารรุ่นล่าสุด 500 ซึ่งจะช่วยให้คุณสามารถป้องกันการสูญเสียข้อมูลหรือเอกสารสำคัญ ถ้าคุณมีไลบรารีที่มีอยู่ บน OneDrive ของคุณสำหรับไซต์ธุรกิจ หรือไซต์สำหรับทีมที่ไม่มีการเปิดใช้งานการกำหนดรุ่น คุณสามารถเปิดการกำหนดรุ่นสำหรับอุปกรณ์เหล่านี้เมื่อใดก็
 
 
