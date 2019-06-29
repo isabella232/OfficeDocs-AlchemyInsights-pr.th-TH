@@ -6,15 +6,18 @@ manager: joallard
 ms.date: 3/21/2019
 ms.audience: Admin
 ms.topic: article
-ms.custom: 9000251
+ms.custom:
+- "1841"
+- "1845"
+- "9000251"
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.openlocfilehash: 1f883b62da3012a9b9eaff8bee76889f735a4e09
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: b385a16e8538f0633d5746f1abc8eb62c9c83df0
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32388668"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35376780"
 ---
 # <a name="cant-send-email-in-outlookcom"></a>ไม่สามารถส่งอีเมลใน Outlook.com
 
