@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "1800"
 - "9000201"
-ms.openlocfilehash: 9a516f6ca1fa351f8484271da0bdc47ba7f12447
-ms.sourcegitcommit: a9be2e396022382e92cf40c0d0d82f2f59c2e259
+ms.openlocfilehash: f74846f805789731305fa321799007c151309033
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 06/12/2019
-ms.locfileid: "34883179"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35358920"
 ---
 # <a name="activate-visio"></a>เปิดใช้งาน Visio
 
@@ -27,8 +27,8 @@ ms.locfileid: "34883179"
 
 เมื่อต้องการเปิดใช้งาน Visio:
 
-1. [ติดตั้ง Visio](https://support.office.com/article/f98f21e3-aa02-4827-9167-ddab5b025710?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1800)ถ้าไม่ได้ติดตั้งไว้แล้ว
-2. เมื่อติดตั้งเสร็จสมบูรณ์ เปิด Visio ในหลายกรณี โปรแกรมประยุกต์เรียกใช้งานโดยอัตโนมัติ และคุณสามารถเริ่มต้นการใช้ Visio ทันที ถ้าได้รับพร้อมท์ให้เข้าสู่ระบบ ตรวจสอบให้แน่ใจว่าคุณได้เข้าสู่ระบบ โดยทำงานเดียวกันหรือบัญชีโรงเรียนที่มีการกำหนดสิทธิ์การใช้งาน Visio 
+1. ติดตั้ง Visio จาก[เว็บไซต์ของฉันบัญชี](https://portal.office.com/account#installs)ของคุณไม่ได้ติดตั้งไว้แล้ว สำหรับวิธีใช้ดู[ติดตั้ง Visio](https://support.office.com/article/f98f21e3-aa02-4827-9167-ddab5b025710?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1800)
+2. เมื่อติดตั้งเสร็จสมบูรณ์ เปิดในโปรแกรมประยุกต์ Visio Visio จะเรียกใช้เป็นไปได้โดยอัตโนมัติ และคุณสามารถเริ่มใช้ทันที ถ้าไม่ได้ คุณอาจได้รับพร้อมท์การเข้าสู่ระบบ ตรวจสอบให้แน่ใจว่าคุณได้เข้าสู่ระบบ โดยทำงานเดียวกันหรือบัญชีโรงเรียนที่มีการกำหนดสิทธิ์การใช้งาน Visio ทำตามพร้อมท์เพื่อดำเนินต่อ ด้วยการเปิดใช้งาน 
 
 สำหรับปัญหาการเปิดใช้งาน การเรียกใช้[ตัวแก้ไขปัญหาการเปิดใช้งาน](https://aka.ms/SARA-OfficeActivation-Alchemy)บนคอมพิวเตอร์ที่ได้รับผลกระทบ
 

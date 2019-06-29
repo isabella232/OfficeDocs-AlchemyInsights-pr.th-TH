@@ -9,14 +9,16 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: 606
+ms.custom:
+- "606"
+- "3800004"
 ms.assetid: f67467cc-d434-41e1-847c-120412b12c3f
-ms.openlocfilehash: 633fd9111cac64a8cb85db18d03968089bf2a128
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: dddff0f6ab0fec8d2f8cac41ca3440d181f1dc67
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32410797"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35382468"
 ---
 # <a name="troubleshooting-delegation-in-outlook-and-outlook-on-the-web"></a>การมอบหมายการแก้ไขปัญหาใน Outlook และ Outlook บนเว็บ
 
@@ -28,7 +30,7 @@ ms.locfileid: "32410797"
 1. เพิ่มอยู่อีเมล์ของผู้ใช้ที่ได้รับผลกระทบ
 1. เลือก "ฉันมีปัญหากับสิทธิ์ของผู้รับมอบสิทธิ์"
 1. ที่พรอมต์ถัดไป ถ้าคุณเป็นคนแสดงสิทธิ์ ป้อนอยู่อีเมล์ของผู้รับมอบสิทธิ์ของคุณ ถ้าคุณได้รับสิทธิ์ และคุณเป็นผู้รับมอบสิทธิ์ ป้อนอยู่อีเมลของบุคคลที่มอบสิทธิ์ให้คุณ
-1. ในเมนูถัดไป เลือกตัวเลือกที่เหมาะสมกับสถานการณ์ของคุณ 
+1. ในเมนูถัดไป เลือกตัวเลือกที่เหมาะสมกับสถานการณ์ของคุณ
 1. ในเมนูถัดไป เลือกระดับสิทธิ์
 1. ในขั้นนี้ เครื่องมือ SaRA จะดำเนินการตรวจสอบอัตโนมัติ และก็จะมีรายละเอียดที่เป็นไปได้ หรืออีกทางหนึ่งคือ จะให้แฟ้มบันทึกการวินิจฉัยซึ่งสามารถใช้สำหรับการแก้ไขปัญหาเพิ่มเติม
 1. คุณสามารถค้นหาแฟ้มบันทึกในโฟลเดอร์ผลลัพธ์ SaRA อยู่ที่ C:\Users\Username\AppData\Local\SaraResults

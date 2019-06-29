@@ -7,14 +7,16 @@ ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.custom: 1800029
+ms.custom:
+- "1423"
+- "1800029"
 ms.assetid: 8a8c9e34-abd7-40f3-b59d-c87ca7400020
-ms.openlocfilehash: be664418e6e61807e94958cee2fe0a5b6368696c
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 8b861185cbc1df1804e3e51683702249a66725a7
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32392785"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35363852"
 ---
 # <a name="connected-accounts-are-no-longer-supported"></a>บัญชีที่เชื่อมต่อไม่ได้รับการสนับสนุน
 
@@ -28,4 +30,3 @@ Microsoft ได้เอาความสามารถในการเพ�
   
 [ส่งต่ออีเมลโดยอัตโนมัติในจดหมาย Yahoo](https://help.yahoo.com/kb/SLN22028.mdl?guccounter=1)
   
-

@@ -1,22 +1,26 @@
 ---
-title: เปลี่ยนภาษาของ Outlook.com
+title: เปลี่ยนภาษาของภาษา วัน และรูปแบบเวลา หรือโซนเวลาใน Outlook.com
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 3/21/2019
+ms.date: 5/24/2019
 ms.audience: Admin
 ms.topic: article
-ms.custom: 9000249
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.openlocfilehash: ceca4283a2cfb908c4bf5a6526a2c59182d3e8f9
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.custom:
+- "269"
+- "1839"
+- "8000014"
+- "9000249"
+ms.openlocfilehash: 133cf9ba507e551d00a3f109f7e3ef7bddc7abed
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32388813"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35376370"
 ---
-# <a name="change-display-language-in-outlookcom"></a>เปลี่ยนภาษาที่แสดงใน Outlook.com
+# <a name="change-your-language-date-and-time-format-or-time-zone"></a>เปลี่ยนภาษาของคุณ วัน และรูปแบบเวลา หรือโซนเวลา
 
 1. เปิดของคุณ[ภาษา และเวลาตั้งค่า](https://go.microsoft.com/fwlink/?linkid=2085505)
 1. เลือกภาษา รูปแบบวัน เวลารูปแบบ และโซนเวลาที่คุณต้องการใช้

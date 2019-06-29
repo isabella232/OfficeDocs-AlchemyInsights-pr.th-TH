@@ -1,28 +1,28 @@
 ---
-title: 8000041 เปลี่ยนลักษณะที่ปรากฏของกล่องจดหมายของคุณ Outlook.com
+title: เปลี่ยนลักษณะที่ปรากฏของกล่องจดหมายของคุณ Outlook.com
 ms.author: daeite
 author: daeite
-manager: jackiesm
-ms.date: 11/2/2018
-ms.audience: ITPro
+manager: joallard
+ms.date: 6/4/2019
+ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.custom: 8000041
+ms.custom:
+- "775"
+- "789"
+- "792"
+- "8000041"
 ms.assetid: 089589c9-6d5e-4073-8ec9-e297ee2397f4
-ms.openlocfilehash: 20c8ac5d15d878f2ebddbe2b31831a89eb6a0cc2
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 9c9e7b18761d712b9e953276e5da7338bff15619
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32394057"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35362664"
 ---
-# <a name="change-the-look-of-your-outlookcom-mailbox"></a>เปลี่ยนลักษณะที่ปรากฏของกล่องจดหมายของคุณ Outlook.com
+# <a name="change-the-look-of-your-mailbox"></a>เปลี่ยนลักษณะที่ปรากฏของกล่องจดหมายของคุณ
 
-คุณสามารถเปลี่ยนลักษณะที่ปรากฏของข้อความรายการและการอ่านบานหน้าต่างใน Outlook.com เลือกว่าควรเรียงลำดับข้อความของคุณลงในแท็บอื่น ๆ และ Focused และระบุว่าคุณต้องการให้อีเมลของคุณเพื่อให้แสดงเป็นแต่ละข้อความหรือการสนทนา
+คุณสามารถเปลี่ยนลักษณะที่ปรากฏของข้อความรายการและการอ่านบานหน้าต่างในการ[ตั้งค่าเค้าโครง](https://outlook.live.com/mail/options/mail/layout) เลือกอีเมลของคุณควรแสดงเป็นแต่ละข้อความหรือการสนทนา ถ้าข้อความใหม่ควรปรากฏที่ด้านบนหรือด้านล่างของรายการข้อความ และอื่น ๆ
   
-เรียนรู้วิธีการ[เปลี่ยนลักษณะที่ปรากฏของกล่องจดหมายของคุณ Outlook.com](https://go.microsoft.com/fwlink/p/?linkid=2001401&amp;clcid=0x409)
-  
- **หมายเหตุ:** คุณจะไม่สามารถปล่อยเบต้า Outlook.com และกลับไปยังรุ่นคลาสสิกของ Outlook.com [ศึกษาเพิ่มเติมเกี่ยวกับการ Outlook.com ใหม่](https://go.microsoft.com/fwlink/p/?linkid=874356)
-  
-
+เมื่อต้องการเรียนรู้เพิ่มเติม ดู[การเปลี่ยนแปลงลักษณะที่ปรากฏของกล่องจดหมายของคุณ Outlook.com](https://go.microsoft.com/fwlink/p/?linkid=2001401&amp;clcid=0x409)

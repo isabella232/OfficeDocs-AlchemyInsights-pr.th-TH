@@ -9,12 +9,15 @@ ms.topic: article
 ms.prod: office-online-server
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.openlocfilehash: ffb31ee0910ec41fca5a6ac69b98805023828097
-ms.sourcegitcommit: 136b8209c52c2a05d0f2fdaab93b2cd92253fa2c
+ms.custom:
+- "1778"
+- "9000181"
+ms.openlocfilehash: 7336a6603b160a43b71e722487728df9af3e15b4
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 06/07/2019
-ms.locfileid: "34770792"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35355752"
 ---
 # <a name="sensitivity-labels-not-appearing"></a>ป้ายชื่อความอ่อนไหวไม่ปรากฏ
 
@@ -25,8 +28,7 @@ ms.locfileid: "34770792"
 - ยืนยันว่า ป้ายชื่อความไวได้รับการ[เผยแพร่](https://docs.microsoft.com/Office365/SecurityCompliance/sensitivity-labels#what-label-policies-can-do)ไปยังผู้ใช้และกลุ่มที่คุณต้องการ
 
 - ยืนยันว่า ผู้ใช้มีโปรแกรมประยุกต์ที่สนับสนุนความไวป้าย - ดู[ป้ายความไวในเอกสารของคุณ](https://support.office.com/article/apply-sensitivity-labels-to-your-documents-and-email-within-office-2f96e7cd-d5a4-403b-8bd7-4cc636bae0f9?ad=US&ui=en-US&rs=en-US#bkmk_whereavailable)
- 
- 
+
 - ถ้าคุณกำลัง[ย้ายป้ายชื่อ Azure การป้องกันข้อมูล](https://docs.microsoft.com/azure/information-protection/configure-policy-migrate-labels)ระวังการพิจารณาแสดงไว้[ที่นี่](https://docs.microsoft.com/azure/information-protection/configure-policy-migrate-labels#considerations-for-unified-labels)
 
 - สนับสนุนการป้องกันการสูญหายของข้อมูล (DLP): ขณะนี้ เก็บข้อมูลป้ายชื่อเท่านั้นสามารถใช้เป็นเงื่อนไขในนโยบาย DLP ได้  การสนับสนุนสำหรับป้ายชื่อความไวในนโยบาย DLP ยังไม่พร้อมใช้งานได้ แต่เรากำลังทำงานอยู่
