@@ -8,27 +8,29 @@ ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.custom: 1332
+ms.custom:
+- "1332"
+- "3700002"
 ms.assetid: 383d1c77-5e4b-4a69-92d6-c404d890b6b7
-ms.openlocfilehash: 28b03183552e00dd2522fff51b061cc27d5032ef
-ms.sourcegitcommit: 4b7e478ce700c0b781efec3857ac4dce5bdf00c6
+ms.openlocfilehash: 7d1848830847fc6722da20e09a4875f49bf02bd3
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 06/07/2019
-ms.locfileid: "34762242"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35360936"
 ---
-# <a name="an-inbox-rule-doesnt-work-as-expected"></a><span data-ttu-id="a1dc4-102">กฎของกล่องขาเข้าไม่ทำงานตามที่คาดไว้</span><span class="sxs-lookup"><span data-stu-id="a1dc4-102">An Inbox rule doesn't work as expected</span></span>
+# <a name="an-inbox-rule-doesnt-work-as-expected"></a><span data-ttu-id="f3fda-102">กฎของกล่องขาเข้าไม่ทำงานตามที่คาดไว้</span><span class="sxs-lookup"><span data-stu-id="f3fda-102">An Inbox rule doesn't work as expected</span></span>
 
-<span data-ttu-id="a1dc4-103">ตรวจสอบการตั้งค่าต่อไปนี้:</span><span class="sxs-lookup"><span data-stu-id="a1dc4-103">Verify the following settings:</span></span>
+<span data-ttu-id="f3fda-103">ตรวจสอบการตั้งค่าต่อไปนี้:</span><span class="sxs-lookup"><span data-stu-id="f3fda-103">Verify the following settings:</span></span>
 
-- <span data-ttu-id="a1dc4-104">ข้อความสามารถถูกเปลี่ยนเส้นทาง ส่งต่อ หรือโดยอัตโนมัติขึ้นอยู่กับกฎของกล่องขาเข้าเพียงครั้งเดียวเรียบร้อยแล้ว</span><span class="sxs-lookup"><span data-stu-id="a1dc4-104">A message can be redirected, forwarded, or replied to automatically based on Inbox rules only one time.</span></span> <span data-ttu-id="a1dc4-105">กฎการเปลี่ยนทิศทาง (ผิดกฎของกล่องขาเข้าหรือกระแสกฎสำหรับจดหมาย หรือที่เรียกอีกอย่างหนึ่งว่ากฎการขนส่ง) สามารถเพิ่มได้สูงสุดสิบการผู้รับส่งต่อข้อความ</span><span class="sxs-lookup"><span data-stu-id="a1dc4-105">A redirecting rule (an Inbox rule or mail flow rule, also known as a transport rule) can add a maximum of ten forwarding recipients to a message.</span></span> <span data-ttu-id="a1dc4-106">สำหรับข้อมูลเพิ่มเติม ให้ดู[สมุดรายวัน ขน ส่ง และอินบ็อกซ์ขีดจำกัดกฎ](https://docs.microsoft.com/office365/servicedescriptions/exchange-online-service-description/exchange-online-limits)</span><span class="sxs-lookup"><span data-stu-id="a1dc4-106">For more information, see [Journal, Transport, and Inbox rule limits](https://docs.microsoft.com/office365/servicedescriptions/exchange-online-service-description/exchange-online-limits).</span></span>
+- <span data-ttu-id="f3fda-104">ข้อความสามารถถูกเปลี่ยนเส้นทาง ส่งต่อ หรือโดยอัตโนมัติขึ้นอยู่กับกฎของกล่องขาเข้าเพียงครั้งเดียวเรียบร้อยแล้ว</span><span class="sxs-lookup"><span data-stu-id="f3fda-104">A message can be redirected, forwarded, or replied to automatically based on Inbox rules only one time.</span></span> <span data-ttu-id="f3fda-105">กฎการเปลี่ยนทิศทาง (ผิดกฎของกล่องขาเข้าหรือกระแสกฎสำหรับจดหมาย หรือที่เรียกอีกอย่างหนึ่งว่ากฎการขนส่ง) สามารถเพิ่มได้สูงสุดสิบการผู้รับส่งต่อข้อความ</span><span class="sxs-lookup"><span data-stu-id="f3fda-105">A redirecting rule (an Inbox rule or mail flow rule, also known as a transport rule) can add a maximum of ten forwarding recipients to a message.</span></span> <span data-ttu-id="f3fda-106">สำหรับข้อมูลเพิ่มเติม ให้ดู[สมุดรายวัน ขน ส่ง และอินบ็อกซ์ขีดจำกัดกฎ](https://docs.microsoft.com/office365/servicedescriptions/exchange-online-service-description/exchange-online-limits)</span><span class="sxs-lookup"><span data-stu-id="f3fda-106">For more information, see [Journal, Transport, and Inbox rule limits](https://docs.microsoft.com/office365/servicedescriptions/exchange-online-service-description/exchange-online-limits).</span></span>
 
-- <span data-ttu-id="a1dc4-107">กฎของกล่องขาเข้าไม่ทำงานกับกล่องจดหมายอื่นบันทึกนั้น</span><span class="sxs-lookup"><span data-stu-id="a1dc4-107">Inbox rules don't work on the alternate journaling mailbox.</span></span> <span data-ttu-id="a1dc4-108">สำหรับข้อมูลเพิ่มเติมเกี่ยวกับกล่องจดหมายบันทึกสำรอง ดู[กล่องจดหมายบันทึกสำรอง](https://docs.microsoft.com/Exchange/security-and-compliance/journaling/journaling#alternate-journaling-mailbox)</span><span class="sxs-lookup"><span data-stu-id="a1dc4-108">For more information about the alternate journaling mailbox, see [Alternate journaling mailbox](https://docs.microsoft.com/Exchange/security-and-compliance/journaling/journaling#alternate-journaling-mailbox).</span></span>
+- <span data-ttu-id="f3fda-107">กฎของกล่องขาเข้าไม่ทำงานกับกล่องจดหมายอื่นบันทึกนั้น</span><span class="sxs-lookup"><span data-stu-id="f3fda-107">Inbox rules don't work on the alternate journaling mailbox.</span></span> <span data-ttu-id="f3fda-108">สำหรับข้อมูลเพิ่มเติมเกี่ยวกับกล่องจดหมายบันทึกสำรอง ดู[กล่องจดหมายบันทึกสำรอง](https://docs.microsoft.com/Exchange/security-and-compliance/journaling/journaling#alternate-journaling-mailbox)</span><span class="sxs-lookup"><span data-stu-id="f3fda-108">For more information about the alternate journaling mailbox, see [Alternate journaling mailbox](https://docs.microsoft.com/Exchange/security-and-compliance/journaling/journaling#alternate-journaling-mailbox).</span></span>
 
-<span data-ttu-id="a1dc4-109">เมื่อต้องการแก้ไขปัญหาเหล่านี้ ดู[KB 2829319](https://support.microsoft.com/kb/2829319)</span><span class="sxs-lookup"><span data-stu-id="a1dc4-109">To fix these issues, see [KB 2829319](https://support.microsoft.com/kb/2829319).</span></span>
+<span data-ttu-id="f3fda-109">เมื่อต้องการแก้ไขปัญหาเหล่านี้ ดู[KB 2829319](https://support.microsoft.com/kb/2829319)</span><span class="sxs-lookup"><span data-stu-id="f3fda-109">To fix these issues, see [KB 2829319](https://support.microsoft.com/kb/2829319).</span></span>
 
-<span data-ttu-id="a1dc4-110">ถ้าไม่สามารถใช้กับปัญหาก่อนหน้านี้ เรียกใช้การวินิจฉัยรายงานกฎกล่องขาเข้าก่อนที่คุณเลื่อนระดับปัญหาไปยังฝ่ายสนับสนุนของ Microsoft:</span><span class="sxs-lookup"><span data-stu-id="a1dc4-110">If the previous issues don't apply, run the Inbox rule diagnostic report before you escalate the issue to Microsoft Support:</span></span>
+<span data-ttu-id="f3fda-110">ถ้าไม่สามารถใช้กับปัญหาก่อนหน้านี้ เรียกใช้การวินิจฉัยรายงานกฎกล่องขาเข้าก่อนที่คุณเลื่อนระดับปัญหาไปยังฝ่ายสนับสนุนของ Microsoft:</span><span class="sxs-lookup"><span data-stu-id="f3fda-110">If the previous issues don't apply, run the Inbox rule diagnostic report before you escalate the issue to Microsoft Support:</span></span>
 
-1. <span data-ttu-id="a1dc4-111">เปิดกล่องจดหมายใน Outlook บนเว็บ และคลิกการ**ตั้งค่า** \> **ตัวเลือก** \> **จัดระเบียบอี** \> **กฎของกล่องขาเข้า**</span><span class="sxs-lookup"><span data-stu-id="a1dc4-111">Open the mailbox in Outlook on the web, and click **Settings** \> **Options** \> **Organize email** \> **Inbox rules**.</span></span>
+1. <span data-ttu-id="f3fda-111">เปิดกล่องจดหมายใน Outlook บนเว็บ และคลิกการ**ตั้งค่า** \> **ตัวเลือก** \> **จัดระเบียบอี** \> **กฎของกล่องขาเข้า**</span><span class="sxs-lookup"><span data-stu-id="f3fda-111">Open the mailbox in Outlook on the web, and click **Settings** \> **Options** \> **Organize email** \> **Inbox rules**.</span></span>
 
-2. <span data-ttu-id="a1dc4-112">ที่ด้านล่างของหน้า คลิก**ถ้ากฎของคุณกำลังทำงานอยู่ให้คลิกที่นี่เพื่อสร้างรายงานการวินิจฉัย**</span><span class="sxs-lookup"><span data-stu-id="a1dc4-112">At the bottom of the page, click **If your rules are not working click here to generate a diagnostic report**.</span></span>
+2. <span data-ttu-id="f3fda-112">ที่ด้านล่างของหน้า คลิก**ถ้ากฎของคุณกำลังทำงานอยู่ให้คลิกที่นี่เพื่อสร้างรายงานการวินิจฉัย**</span><span class="sxs-lookup"><span data-stu-id="f3fda-112">At the bottom of the page, click **If your rules are not working click here to generate a diagnostic report**.</span></span>
