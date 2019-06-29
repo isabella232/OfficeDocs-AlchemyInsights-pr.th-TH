@@ -8,14 +8,16 @@ ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.custom: 1370
+ms.custom:
+- "1370"
+- "3100005"
 ms.assetid: ''
-ms.openlocfilehash: 0fb5d6aa0c99f7f68459c40302869bed69583b3f
-ms.sourcegitcommit: 4b7e478ce700c0b781efec3857ac4dce5bdf00c6
+ms.openlocfilehash: 89877331d328d798177fab3150d5219c5b484a70
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 06/07/2019
-ms.locfileid: "34755171"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35383152"
 ---
 # <a name="audit-logs-for-deleted-email-messages"></a>บันทึกการตรวจสอบสำหรับข้อความอีเมลที่ถูกลบ
 

@@ -7,14 +7,16 @@ ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.custom: 997
-ms.assetid: d3fcac43-f659-47ba-a45e-f32863680685
-ms.openlocfilehash: 6913bee931574266d1464a9f7862393747fe3746
-ms.sourcegitcommit: 136b8209c52c2a05d0f2fdaab93b2cd92253fa2c
+ms.custom:
+- "997"
+- "6500005"
+ms.assetid: d3fcac43-f659-47ba-a45e-f32863680685yeah
+ms.openlocfilehash: 3df8cb761c3a9a64cc1d249f44707b0bdeefebea
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 06/07/2019
-ms.locfileid: "34771433"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35354024"
 ---
 # <a name="id-like-to-sign-up-for-teams-free-but-i-cant"></a>ฉันต้องการลงทะเบียนสำหรับทีมอิสระ แต่ฉันไม่
 
@@ -23,5 +25,3 @@ ms.locfileid: "34771433"
 - สถาบันการศึกษาไม่มีสิทธิ์สำหรับข้อเสนอนี้ฟรี ครูและนักเรียน สามารถรับ แม้ว่ารุ่นของ Office 365 ซึ่งรวมถึงรุ่นเต็มของทีม Microsoft ฟรี ดู[Office 365 ที่อนุญาตให้ใช้สิทธิ์สำหรับทีมงานของ Microsoft](https://docs.microsoft.com/microsoftteams/office-365-licensing)
 
 - สถาบันของรัฐบาลสหรัฐอเมริกาไม่มีสิทธิ์สำหรับข้อเสนอนี้ฟรี เมื่อต้องการเรียนรู้เกี่ยวกับแผน Office 365 สำหรับองค์กรของรัฐบาล (รวมทั้งการทดลองใช้ฟรี), อ่าน[Office 365 ที่อนุญาตให้ใช้สิทธิ์สำหรับทีมงานของ Microsoft](https://docs.microsoft.com/microsoftteams/office-365-licensing)
-
-

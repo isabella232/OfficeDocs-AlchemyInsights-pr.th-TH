@@ -9,15 +9,17 @@ ms.topic: article
 ms.service: o365-administration
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: ''
+ms.custom:
+- "377"
+- "1800016"
 ROBOTS: NOINDEX, NOFOLLOW
 ms.assetid: dbd710ec-cdeb-473f-aab4-bdf99de29610
-ms.openlocfilehash: d0e1211e8cdd20b9d3792fda2c50507f7860f466
-ms.sourcegitcommit: 5718d96f30f25619845223e8622ce13b4a52114c
+ms.openlocfilehash: 4c93a542fe4bf615bfa7a2cc0a2ce8e443a4dedc
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 05/10/2019
-ms.locfileid: "33883146"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35357588"
 ---
 # <a name="outlook-crash-troubleshooting-steps"></a>ขั้นตอนการแก้ไขปัญหาความล้มเหลวของ outlook
 
@@ -25,10 +27,9 @@ ms.locfileid: "33883146"
   
 ขั้นตอนที่ 1: ตรวจสอบปัญหาที่เป็นไปได้ มีเพิ่มเติม
   
-ขั้นตอนที่ 2: ซ่อมแซม Outlook และเรียกใช้เครื่อง[มือสนับสนุนและผู้ช่วยกู้คืนเพื่อแก้ไขปัญหาข้อผิดพลาดในการเริ่มต้น Outlook](https://aka.ms/SaRA-OutlookWontStart)บนเครื่องคอมพิวเตอร์ที่ได้รับผลกระทบ 
+ขั้นตอนที่ 2: ซ่อมแซม Outlook และเรียกใช้เครื่อง[มือสนับสนุนและผู้ช่วยกู้คืนเพื่อแก้ไขปัญหาข้อผิดพลาดในการเริ่มต้น Outlook](https://aka.ms/SaRA-OutlookWontStart)บนเครื่องคอมพิวเตอร์ที่ได้รับผลกระทบ
   
-ขั้นตอนที่ 3: สร้างโปรไฟล์ Outlook ใหม่ หรือคุณสามารถเรียกใช้[เครื่องมือโพรไฟล์ Outlook](https://aka.ms/SaRA-OutlookSetupProfile)บนเครื่องคอมพิวเตอร์ที่ได้รับผลกระทบ 
+ขั้นตอนที่ 3: สร้างโปรไฟล์ Outlook ใหม่ หรือคุณสามารถเรียกใช้[เครื่องมือโพรไฟล์ Outlook](https://aka.ms/SaRA-OutlookSetupProfile)บนเครื่องคอมพิวเตอร์ที่ได้รับผลกระทบ
   
 ถ้าปัญหานี้เกิดขึ้นหลังจากการปรับปรุง และขั้นตอนข้างต้นไม่ทำงาน คุณอาจต้องแปลงกลับไปเป็นรุ่นก่อนหน้านี้ ดู[วิธีการแปลงกลับไปรุ่นก่อนหน้าของ Office 2013 หรือ 2016 ให้ Office คลิก-ทูรัน](https://support.microsoft.com/help/2770432)
   
-
