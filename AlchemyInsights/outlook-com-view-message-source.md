@@ -8,14 +8,16 @@ ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.custom: 8000092
-ms.openlocfilehash: 7096bbf872165329f53b095b50f6b2405c68521f
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.custom:
+- "1424"
+- "8000092"
+ms.openlocfilehash: 563b00912e7089d0bb6601585cea6d38507c4732
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32373227"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35390208"
 ---
-# <a name="how-to-view-message-headers-or-message-source"></a><span data-ttu-id="f2652-102">วิธีการดูส่วนหัวข้อความหรือข้อความแหล่งที่มา</span><span class="sxs-lookup"><span data-stu-id="f2652-102">How to view message headers or message source</span></span>
+# <a name="how-to-view-message-headers-or-message-source"></a><span data-ttu-id="19732-102">วิธีการดูส่วนหัวข้อความหรือข้อความแหล่งที่มา</span><span class="sxs-lookup"><span data-stu-id="19732-102">How to view message headers or message source</span></span>
 
-<span data-ttu-id="f2652-103">เมื่อต้องการดูส่วนหัวและรายละเอียดอื่น ๆ ในอีเมล เลือกสามจุดที่มุมด้านบนของบานหน้าต่างการอ่าน และเลือก**ดูข้อความต้นฉบับ**</span><span class="sxs-lookup"><span data-stu-id="f2652-103">To see the headers and other details in an email, select the three dots at the top corner of the reading pane and select **View message source**.</span></span>
+<span data-ttu-id="19732-103">เมื่อต้องการดูส่วนหัวและรายละเอียดอื่น ๆ ในอีเมล เลือกสามจุดที่มุมด้านบนของบานหน้าต่างการอ่าน และเลือก**ดูข้อความต้นฉบับ**</span><span class="sxs-lookup"><span data-stu-id="19732-103">To see the headers and other details in an email, select the three dots at the top corner of the reading pane and select **View message source**.</span></span>
