@@ -9,23 +9,23 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: ''
+ms.custom:
+- "340"
+- "1500010"
 ms.assetid: 870f4834-a10c-49cd-ac5f-ccb1f0a9215f
-ms.openlocfilehash: d1207f4fa2917f5d3dde3dea850fdd7ee0f05e50
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 21e5ff7bc5d4a8d88c1d99a52e89998867c20374
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32417186"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35383764"
 ---
 # <a name="how-to-purchase-office-365-for-non-profits"></a>วิธีการซื้อ Office 365 สำหรับกำไรที่ไม่ใช่
 
 สถานะของคุณเป็น Microsoft ที่เข้าเกณฑ์ Nonprofit องค์กรได้รับการอนุมัติ การซื้อ:
   
 1. ในศูนย์ดูแล ไปเพจการ[ซื้อบริการ](https://go.microsoft.com/fwlink/p/?linkid=868433)หรือเลือก**การเรียกเก็บเงิน** \> **บริการการซื้อ**
-    
-2. เลือกจากรายการภายใต้**แผนกำไรที่ไม่ใช่**
-    
-3. โฮเวอร์เหนือการบอกรับเป็นสมาชิกที่คุณต้องการซื้อ และเลือก**ซื้อเดี๋ยวนี้**
-    
 
+2. เลือกจากรายการภายใต้**แผนกำไรที่ไม่ใช่**
+
+3. โฮเวอร์เหนือการบอกรับเป็นสมาชิกที่คุณต้องการซื้อ และเลือก**ซื้อเดี๋ยวนี้**
