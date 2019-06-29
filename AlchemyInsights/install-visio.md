@@ -12,24 +12,24 @@ ms.collection: Adm_O365
 ms.custom:
 - "1764"
 - "9000201"
-ms.openlocfilehash: ed36ddd74a4d8a92b1743fe75574993e7de2e193
-ms.sourcegitcommit: a9be2e396022382e92cf40c0d0d82f2f59c2e259
+ms.openlocfilehash: 5d4ee6859fef7cd91630e12eab5a5c7206c13dde
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 06/12/2019
-ms.locfileid: "34914125"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35381892"
 ---
 # <a name="install-visio"></a>ติดตั้ง Visio
 
 ขาย Visio เป็นโปรแกรมประยุกต์แบบสแตนด์อโลนดังนั้นถ้าคุณไม่มีก็ได้[ซื้อ หรือลอง Visio](https://products.office.com/visio) 
 
-ถ้าคุณมีการสมัครใช้งาน Visio ออนไลน์แผน 2 ผู้ใช้จะไม่เห็นตัวเลือกในการติดตั้ง Visio จากการ**ติดตั้งของฉัน**ใน[ไซต์ของฉันบัญชี](https://portal.office.com/account#installs)เว้นแต่จะมีการ[กำหนดสิทธิ์การใช้งาน](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1764)
-
 **หมายเหตุ**: ไม่มีเดสก์ท็อปรุ่นของ Visio, Visio แผนออนไลน์ 1 ดังนั้นจึงเป็นไปได้ไม่มีการติดตั้ง
 
-สำหรับคำแนะนำเฉพาะเจาะจงเกี่ยวกับการดาวน์โหลด และติดตั้ง Visio ดู[ติดตั้ง Visio](https://support.office.com/article/f98f21e3-aa02-4827-9167-ddab5b025710?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1764) 
+ถ้าคุณมีการสมัครใช้งาน Visio ออนไลน์แผน 2 คุณต้อง[กำหนดสิทธิ์การใช้งาน](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1764)ให้กับผู้ใช้ หรือพวกเขาจะไม่มีตัวเลือกการติดตั้ง Visio จากการ**ติดตั้งของฉัน**ใน[ไซต์ของฉันบัญชี](https://portal.office.com/account#installs) 
 
-ถ้าคุณสมัครใช้งาน/ลิขสิทธิ์ถูกต้อง และกำลังรันเป็นปัญหาระหว่างการติดตั้ง ติดตั้ง Visio ที่ใช้[สนับสนุนและผู้ช่วยกู้คืน](https://aka.ms/SaRA-VisioSetupScenario)
+สิทธิ์การใช้งานไดรฟ์ข้อมูลที่ไม่ใช่รุ่นมาตรฐานของ Visio หรือ Visio Professional เชื่อมโยงกับบัญชี Microsoft และไม่สามารถจัดการได้ในศูนย์กลางการดูแล เมื่อต้องการติดตั้งรุ่นเหล่านี้ ผู้ใช้ต้องเข้าสู่ระบบ[account.microsoft.com](https://account.microsoft.com)ด้วยบัญชี Microsoft ที่เกี่ยวข้องกับ Visio รุ่นนี้
+
+สำหรับรายละเอียดเพิ่มเติมวิธีดู[ติดตั้ง Visio](https://support.office.com/article/f98f21e3-aa02-4827-9167-ddab5b025710?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1764)และทำตามขั้นตอนสำหรับรุ่นของ Visio
 
 สำหรับข้อมูลเพิ่มเติมดู:<br>
 [คำแนะนำในการปรับใช้สำหรับ Visio](https://docs.microsoft.com/deployoffice/deployment-guide-for-visio)<br>
