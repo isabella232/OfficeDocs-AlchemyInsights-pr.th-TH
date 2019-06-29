@@ -9,31 +9,32 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
-ms.custom: ''
+ms.custom:
+- "441"
+- "1500017"
 ms.assetid: 7dc125f8-491d-4bc2-a2f2-b73c7bda3035
-ms.openlocfilehash: 643c1778ea080442fbd9d0c33258938af52b150c
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 5d446cefffb1598a5d2c8cd17b6eba64205f00f2
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32416907"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35383656"
 ---
 # <a name="how-to-reactivate-a-subscription"></a>วิธีการเปิดใช้งานการสมัครใช้งาน
 
 ถ้าการบอกรับเป็นสมาชิกของคุณหมดอายุแล้ว ถูกยกเลิก หรือปิดใช้งาน โดย Microsoft คุณสามารถใน Microsoft 365 admin ศูนย์ในภายหลัง
   
 1. ในศูนย์ดูแล ไปหน้าการ[บอกรับเป็นสมาชิก](https://go.microsoft.com/fwlink/p/?linkid=842054)หรือเลือก**การเรียกเก็บเงิน** \> **บอกรับเป็นสมาชิก**
-    
+
 2. เลือกการบอกรับเป็นสมาชิกที่คุณต้องการเปิดใช้งานใหม่
-    
-3. เลือก**เปิดใช้งาน**ปุ่มทางด้านขวา 
-    
+
+3. เลือก**เปิดใช้งาน**ปุ่มทางด้านขวา
+
 4. คุณจะถูกถามเพื่อปรับปรุงรายละเอียดการชำระเงิน เมื่อข้อมูลทั้งหมดถูกต้อง เลือก**ส่ง**
-    
-5. การยืนยันจะแสดงที่ด้านล่างของหน้าจอ เลือก**ปิด**เพื่อกลับไปยังหน้าการ**บอกรับเป็นสมาชิก** 
-    
+
+5. การยืนยันจะแสดงที่ด้านล่างของหน้าจอ เลือก**ปิด**เพื่อกลับไปยังหน้าการ**บอกรับเป็นสมาชิก**
+
 6. ถ้าไม่ปรากฏการบอกรับเป็นสมาชิก ที่ใช้งานอยู่หลังจากไม่กี่นาที รีเฟรชหน้า
-    
+
 สำหรับข้อมูลเพิ่มเติม ดู:[ต่ออายุ Office 365 สำหรับธุรกิจ](https://support.office.com/article/8d83b530-f4ca-47f6-a666-e5791cbacc7e)
   
-

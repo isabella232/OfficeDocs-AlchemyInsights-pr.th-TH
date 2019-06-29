@@ -9,37 +9,38 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 20e9bd42-2db0-4dd7-b480-966571494dd9
-ms.openlocfilehash: aa2262ed487ae4160f13490e92163a145e657862
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.custom:
+- "784"
+- "6200002"
+ms.openlocfilehash: fa48b76fb49cdeef0734e77520c9bf95c150f317
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32390662"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35353556"
 ---
 # <a name="troubleshoot-issues-with-enrolling-windows-devices-in-microsoft-intune"></a>แก้ไขปัญหาเกี่ยวกับการลงทะเบียนอุปกรณ์ Windows ใน Microsoft Intune
 
-ตรวจทานทรัพยากรแสดงรายการด้านล่างเพื่อแก้ไขปัญหาของคุณเดี๋ยวนี้ 
+ตรวจทานทรัพยากรแสดงรายการด้านล่างเพื่อแก้ไขปัญหาของคุณเดี๋ยวนี้
   
 ข้อผิดพลาดทั่วไปบางอย่างและขั้นตอนการแก้ปัญหา:
   
- **ไม่สามารถติดตั้งซอฟต์แวร์ 0x80cf4017:** ใบรับรองบัญชีของคุณหมดอายุแล้ว ดาวน์โหลดแพคเกจซอฟต์แวร์ไคลเอนต์พีซีในคอนโซล Admin Intune อีกครั้ง ตรวจทานเอกสารนี้สำหรับข้อมูลเพิ่มเติม 
+ **ไม่สามารถติดตั้งซอฟต์แวร์ 0x80cf4017:** ใบรับรองบัญชีของคุณหมดอายุแล้ว ดาวน์โหลดแพคเกจซอฟต์แวร์ไคลเอนต์พีซีในคอนโซล Admin Intune อีกครั้ง ตรวจทานเอกสารนี้สำหรับข้อมูลเพิ่มเติม
   
- **รหัสข้อผิดพลาด 0x801c0003:** ข้อผิดพลาดอาจเกิดขึ้นได้ในสถานการณ์ต่อไปนี้: 
+ **รหัสข้อผิดพลาด 0x801c0003:** ข้อผิดพลาดอาจเกิดขึ้นได้ในสถานการณ์ต่อไปนี้:
   
 1. ผู้ใช้มีอุปกรณ์เพิ่มเติมที่ลงทะเบียนไว้เกินขีดจำกัดของอุปกรณ์ ตรวจทานเอกสารเหล่านี้เมื่อต้องการ[เอาอุปกรณ์ออก](https://docs.microsoft.com/intune/devices-wipe)หรือ[เปลี่ยนแปลงขีดจำกัดของอุปกรณ์](https://docs.microsoft.com/intune/enrollment-restrictions-set#set-device-limit-restrictions)
-    
-2. "ผู้ใช้อาจเข้าร่วมอุปกรณ์เพื่อโฆษณา Azure" ถูกตั้งค่าเป็น "ไม่มี" ตั้งค่าทั้งหมด หรือเลือกผู้ใช้ ตรวจทาน[เอกสารนี้](https://docs.microsoft.com/azure/active-directory/device-management-azure-portal#configure-device-settings)สำหรับข้อมูลเพิ่มเติม 
-    
+
+2. "ผู้ใช้อาจเข้าร่วมอุปกรณ์เพื่อโฆษณา Azure" ถูกตั้งค่าเป็น "ไม่มี" ตั้งค่าทั้งหมด หรือเลือกผู้ใช้ ตรวจทาน[เอกสารนี้](https://docs.microsoft.com/azure/active-directory/device-management-azure-portal#configure-device-settings)สำหรับข้อมูลเพิ่มเติม
+
 3. อุปกรณ์มีการลงทะเบียนแล้ว โดยผู้ใช้อื่น ถ้าเป็นกรณีนี้ เอาอุปกรณ์ออกจากคอนโซล Azure Intune หรืออุปกรณ์ที่ unenroll ด้วยตนเองก่อนที่จะลองอีกครั้ง
-    
+
 4. อุปกรณ์ดังกล่าว Windows 10 หน้าแรก เฉพาะ Windows 10 Pro การศึกษา และองค์กร Sku สามารถรวมไดเรกทอรีที่ใช้งานอยู่ของ Azure
-    
+
 ทรัพยากรเพิ่มเติมเพื่อช่วยแก้ไขปัญหาของคุณ:
   
-1. ใช้[ไซต์การแก้ไขปัญหาเบื้องต้น Intune](https://devicemanagement.microsoft.com/#blade/Microsoft_Intune_DeviceSettings/TroubleshootBlade)เพื่อวินิจฉัย และแก้ปัญหาความล้มเหลวทั่วไปในการลงทะเบียน ตรวจทาน[เอกสารนี้](https://docs.microsoft.com/intune/help-desk-operators)สำหรับรายละเอียดเพิ่มเติม 
-    
-2. ตรวจทานเอกสารเหล่านี้สำหรับรายการของข้อผิดพลาดทั่วไปที่ป้องกันการลงทะเบียนและวิธีแก้ปัญหาแต่ละ:[คำแนะนำในการแก้ไขปัญหา](https://support.microsoft.com/help/4089533/troubleshooting-windows-device-enrollment-problems-in-microsoft-intune)และการ[แก้ไขปัญหาเอกสาร](https://docs.microsoft.com/intune-classic/troubleshoot/troubleshoot-device-enrollment-in-intune)
-    
-[เรียนรู้วิธีการลงทะเบียนอุปกรณ์ Windows ใน Microsoft Intune](https://docs.microsoft.com/intune/windows-enroll)
-  
+1. ใช้[ไซต์การแก้ไขปัญหาเบื้องต้น Intune](https://devicemanagement.microsoft.com/#blade/Microsoft_Intune_DeviceSettings/TroubleshootBlade)เพื่อวินิจฉัย และแก้ปัญหาความล้มเหลวทั่วไปในการลงทะเบียน ตรวจทาน[เอกสารนี้](https://docs.microsoft.com/intune/help-desk-operators)สำหรับรายละเอียดเพิ่มเติม
 
+2. ตรวจทานเอกสารเหล่านี้สำหรับรายการของข้อผิดพลาดทั่วไปที่ป้องกันการลงทะเบียนและวิธีแก้ปัญหาแต่ละ:[คำแนะนำในการแก้ไขปัญหา](https://support.microsoft.com/help/4089533/troubleshooting-windows-device-enrollment-problems-in-microsoft-intune)และการ[แก้ไขปัญหาเอกสาร](https://docs.microsoft.com/intune-classic/troubleshoot/troubleshoot-device-enrollment-in-intune)
+
+[เรียนรู้วิธีการลงทะเบียนอุปกรณ์ Windows ใน Microsoft Intune](https://docs.microsoft.com/intune/windows-enroll)
