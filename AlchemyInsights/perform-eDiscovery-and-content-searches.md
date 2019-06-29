@@ -9,14 +9,16 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: 1488
+ms.custom:
+- "1488"
+- "3200003"
 ms.assetid: ''
-ms.openlocfilehash: 5830f4ce5be6a5c10e0696a57f0b83b4c5606f2b
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: d2187cffc8b6c29785b2c5151d1f608f1efbbd15
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32373335"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35371452"
 ---
 # <a name="how-to-perform-content-searches-and-ediscovery-searches"></a>วิธีการดำเนินการค้นหาเนื้อหาและการค้นหา eDiscovery
 
@@ -26,8 +28,8 @@ ms.locfileid: "32373335"
 2. คลิก**ค้นหา & สืบสวน > เนื้อหาค้นหา**
 3. คลิก**ค้นหาใหม่**เพื่อสร้างการค้นหาใหม่
 4. ป้อนเงื่อนไขการค้นหารวมทั้งคำสำคัญและตำแหน่งที่ตั้งของเนื้อหา  
-5. คลิก**บันทึกการเรียกใช้ &** เพื่อตั้งชื่อการค้นหา นั้น แล้ว แสดงตัวอย่างผลลัพธ์ 
- 
+5. คลิก**บันทึกการเรียกใช้ &** เพื่อตั้งชื่อการค้นหา นั้น แล้ว แสดงตัวอย่างผลลัพธ์
+
 สำหรับคำแนะนำโดยละเอียดเกี่ยวกับการสร้างการค้นหา และส่งออกผลลัพธ์ ดู[บทความนี้](https://docs.microsoft.com/office365/securitycompliance/content-search)
 
 **การค้นหา eDiscovery**

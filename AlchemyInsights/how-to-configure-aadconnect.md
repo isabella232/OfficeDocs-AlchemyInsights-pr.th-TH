@@ -8,14 +8,16 @@ ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.custom: 646
+ms.custom:
+- "646"
+- "1300023"
 ms.assetid: 599698ac-6709-477a-a66f-169b3165064e
-ms.openlocfilehash: 2dc4ae7d6809c24ce599ac128570e9354c9f2b30
-ms.sourcegitcommit: 4b7e478ce700c0b781efec3857ac4dce5bdf00c6
+ms.openlocfilehash: 0569cb10c1d1dd422709de5d2569e43ee9d75386
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 06/07/2019
-ms.locfileid: "34752580"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35385396"
 ---
 # <a name="configure-sync-features"></a>การตั้งค่าคอนฟิกลักษณะการทำข้อมูลให้ตรงกัน
 
@@ -23,7 +25,7 @@ ms.locfileid: "34752580"
 
 - ขีดจำกัด[การกรอง](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnectsync-configure-filtering)วัตถุจะซิงโครไนส์เพื่อโฆษณา Azure โดยค่าเริ่มต้น ผู้ใช้ ผู้ติดต่อ กลุ่ม และทั้งหมด Windows 10 บัญชีคอมพิวเตอร์มีการซิงโครไนส์ คุณสามารถรวม หรือไม่รวมวัตถุที่ยึดตามโดเมน Ou หรือแอททริบิวต์อื่น ๆ
 
-- [Syncronization แฮชของรหัสผ่าน](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnectsync-implement-password-hash-synchronization)ซิงโครไนส์แฮชของรหัสผ่านจากไดเรกทอรีที่ใช้งานอยู่ในสถานที่เพื่อโฆษณา Azure ซึ่งช่วยให้การจัดการรหัสผ่านในสถานหนึ่ง แต่ใช้รหัสผ่านเดียวกันในทั้งสองในสถาน และสภาพแวดล้อมที่ cloud เนื่องจากไดเรกทอรีที่ใช้งานอยู่ไม่เชื่อถือแหล่งที่มา คุณสามารถใช้นโยบายรหัสผ่านของคุณเอง
+- [ซิงโครไนส์แฮชของรหัสผ่าน](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnectsync-implement-password-hash-synchronization)ซิงโครไนส์แฮชของรหัสผ่านจากไดเรกทอรีที่ใช้งานอยู่ในสถานที่เพื่อโฆษณา Azure ซึ่งช่วยให้การจัดการรหัสผ่านในสถานหนึ่ง แต่ใช้รหัสผ่านเดียวกันในทั้งสองในสถาน และสภาพแวดล้อมที่ cloud เนื่องจากไดเรกทอรีที่ใช้งานอยู่ไม่เชื่อถือแหล่งที่มา คุณสามารถใช้นโยบายรหัสผ่านของคุณเอง
 
 - [(SSPR) การรีเซ็ตรหัสผ่านด้วยตนเอง](https://docs.microsoft.com/azure/active-directory/authentication/quickstart-sspr)อนุญาตให้ผู้ใช้สามารถรีเซ็ตรหัสผ่านของตนเองใน cloud ขณะที่ยังคง ใช้นโยบายรหัสผ่านของคุณในสถาน
 

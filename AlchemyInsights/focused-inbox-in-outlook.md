@@ -8,14 +8,16 @@ ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.custom: 1800019
+ms.custom:
+- "908"
+- "1800019"
 ms.assetid: f01362e1-17da-4528-b116-9b3240dd3f15
-ms.openlocfilehash: 5d5fbc73eea062031250669d7f45c2b3419183f9
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 1305dd1e08da01b34cfbb0804a6828d42e069c33
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32401131"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35387292"
 ---
 # <a name="focused-inbox-in-outlook"></a>กล่องขาเข้าของโฟกัสใน Outlook
 
@@ -26,7 +28,5 @@ ms.locfileid: "32401131"
 ศึกษาเพิ่มเติม:
   
 - [ดูกล่องขาเข้าที่เน้นในการดำเนินการ](https://go.microsoft.com/fwlink/p/?linkid=2002212&amp;clcid=0x409)
-    
-- [การตั้งค่าคอนฟิกเน้นกล่องขาเข้าสำหรับทุกคนในองค์กรของคุณด้วย PowerShell](https://go.microsoft.com/fwlink/p/?linkid=2002308&amp;clcid=0x409)
-    
 
+- [การตั้งค่าคอนฟิกเน้นกล่องขาเข้าสำหรับทุกคนในองค์กรของคุณด้วย PowerShell](https://go.microsoft.com/fwlink/p/?linkid=2002308&amp;clcid=0x409)

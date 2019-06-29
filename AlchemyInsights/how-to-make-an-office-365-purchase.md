@@ -9,33 +9,33 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: ''
+ms.custom:
+- "531"
+- "1400007"
 ms.assetid: c45da4c9-ba12-4ceb-8eda-94331a6a97e4
-ms.openlocfilehash: 3242e2db85d20364b1678a1ec9c1ed9a93156bd5
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: ffffbe80c67e223aa7084dd93944c63a055c069e
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32417553"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35384340"
 ---
 # <a name="how-to-make-an-office-365-purchase"></a>วิธีการทำให้การซื้อ Office 365
 
 สามารถทำการซื้อใน Office 365 Admin กึ่งกลาง ไปหน้าการ[บอกรับเป็นสมาชิก](https://go.microsoft.com/fwlink/p/?linkid=842054)หรือเลือก**การเรียกเก็บเงิน** \> **บอกรับเป็นสมาชิก**
   
 - การซื้อ Office 365 การบอกรับเป็นสมาชิกไปยังเพจ[การซื้อบริการ](https://go.microsoft.com/fwlink/p/?linkid=868433)หรือเลือก**การเรียกเก็บเงิน** \> **บริการการซื้อ**
-    
+
 - การซื้อเพิ่มเติม ใบอนุญาตไปยังเพจการ[บอกรับเป็นสมาชิก](https://go.microsoft.com/fwlink/p/?linkid=842054)หรือเลือก**การเรียกเก็บเงิน** \> **บอกรับเป็นสมาชิก** บนหน้าการ**บอกรับเป็นสมาชิก**บอกรับเป็นสมาชิกที่คุณต้องการเพิ่มสิทธิ์การใช้งานเพื่อเลือก และจากนั้น เลือก**เพิ่ม/เอาออกสิทธิ์การใช้งาน**
-    
+
 - เมื่อต้องการสลับไปแผนอื่น:
-    
-  - เลือก ** สลับแผน ** เพื่อดูรายการของแผนใหม่ที่พร้อมใช้งาน 
-    
-  - เลือกแผนเมื่อต้องการดูต้นทุนรวมใหม่ต่อเดือน ตรวจสอบให้แน่ใจว่าอ่านข้อมูลคีย์ จาก นั้นเลือก**ถัดไป**เพื่อทำเช็คเอาท์ 
-    
+
+  - เลือก**แผนสวิตช์**เพื่อดูรายการของแผนใหม่ที่พร้อมใช้งาน
+
+  - เลือกแผนเมื่อต้องการดูต้นทุนรวมใหม่ต่อเดือน ตรวจสอบให้แน่ใจว่าอ่านข้อมูลคีย์ จาก นั้นเลือก**ถัดไป**เพื่อทำเช็คเอาท์
+  
  **ทรัพยากรเพิ่มเติม**
   
 - [กำหนดสิทธิ์การใช้งานกับผู้ใช้ใน Office 365 สำหรับธุรกิจ](https://support.office.com/article/997596b5-4173-4627-b915-36abac6786dc)
-    
-- [ยกเลิก Office 365 สำหรับธุรกิจ](https://support.office.com/article/b1bc0bef-4608-4601-813a-cdd9f746709a)
-    
 
+- [ยกเลิก Office 365 สำหรับธุรกิจ](https://support.office.com/article/b1bc0bef-4608-4601-813a-cdd9f746709a)

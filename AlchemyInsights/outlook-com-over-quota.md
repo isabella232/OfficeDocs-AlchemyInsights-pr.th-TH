@@ -8,13 +8,15 @@ ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.custom: 8000084
-ms.openlocfilehash: 8f314b20f6095b83cb12b340f10aa04eb8f6dbc9
-ms.sourcegitcommit: 01ead85a22e62931db4cc73604b65ae4d923f974
+ms.custom:
+- "1350"
+- "8000084"
+ms.openlocfilehash: d86f039cb0dba7cb7e4d21c0e43c1a3448265146
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 05/06/2019
-ms.locfileid: "33632098"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35373684"
 ---
 # <a name="email-and-storage-quota-in-outlookcom"></a>อีเมลและการเก็บข้อมูลโควต้าใน Outlook.com
 
@@ -24,4 +26,6 @@ ms.locfileid: "33632098"
 
 **ขีดจำกัดการจัดเก็บ**
 
-ถ้ากล่องขาเข้าของคุณเต็ม คุณจะไม่สามารถส่ง หรือรับข้อความใด ๆ และบุคคลที่ส่งการอีเมลคุณจะได้รับข้อผิดพลาดว่ากล่องขาเข้าของคุณเต็ม คุณสามารถ[ดูจำนวนที่คุณใช้เก็บ](https://go.microsoft.com/fwlink/?linkid=2052089)หรือคุณสามารถ[เรียนรู้วิธีการที่ให้มีที่ว่างในกล่องจดหมายของคุณ](https://support.office.com/article/7ac99134-69e5-4619-ac0b-2d313bba5e9e)
+ถ้ากล่องขาเข้าของคุณเต็ม คุณจะไม่สามารถส่ง หรือรับข้อความใด ๆ และบุคคลที่ส่งการอีเมลคุณจะได้รับข้อผิดพลาดว่ากล่องขาเข้าของคุณเต็ม คุณสามารถดูการเก็บข้อมูลจำนวนเท่าใดที่คุณมี โดยไปที่[**ตั้งค่า** > **ดูการตั้งค่า Outlook ทั้งหมด** > **ทั่วไป**> เก็บ](https://outlook.live.com/mail/options/general/storage)หรือคุณสามารถ[เรียนรู้วิธีการที่ให้มีที่ว่างในกล่องจดหมายของคุณ](https://support.office.com/article/7ac99134-69e5-4619-ac0b-2d313bba5e9e)ได้
+
+ถ้าคุณมีบัญชีพิเศษ คุณสามารถดูการเก็บข้อมูลของคุณไปยัง[**ตั้งค่า** > **ดูการตั้งค่า Outlook ทั้งหมด** > **พิเศษ**> คุณลักษณะ](https://outlook.live.com/mail/options/premium/features)ได้

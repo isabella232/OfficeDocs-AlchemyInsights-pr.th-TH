@@ -6,18 +6,21 @@ manager: joallard
 ms.date: 4/15/2019
 ms.audience: Admin
 ms.topic: article
-ms.custom: 8000081
+ms.custom:
+- "1328"
+- "8000081"
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.openlocfilehash: d3e94779ebbc6d7e6b1ba1d3f445e6f34f2274e1
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 7f2ee8a5b8a027433d3ecf150ab9f7bd8bdcba47
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32419069"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35375268"
 ---
 # <a name="error-550553-in-outlookcom"></a>ข้อผิดพลาด 550/553 ใน Outlook.com
 
 เมื่อคุณไม่ได้อยู่ที่บ้าน และส่งอีเมลจากบัญชีของคุณเชื่อมต่อโดยใช้ Outlook.com ข้อความอีเมลคุณอาจมีการส่งคืนเป็น 550, 553 หรือข้อความแสดงข้อผิดพลาดห้ามสับเปลี่ยน
-1. ตรวจสอบ[อีเมลการตั้งค่าการซิงค์](https://go.microsoft.com/fwlink/?linkid=2031283)ของคุณให้เป็นค่าเริ่มต้นของคุณจากรายชื่อเหมือนกับชื่อโดเมนของคุณทางอีเมล ถ้าคุณมีโดเมนอีเมลของคุณเองรวม เปลี่ยนแปลงไปยังที่อยู่ของคุณ outlook.com/live.com/hotmail.com
-2. ตรวจสอบการ[ตั้งค่าบัญชีการเชื่อมต่อ](https://go.microsoft.com/fwlink/?linkid=875264&clcid=0x409)เพื่อให้แน่ใจว่า คุณได้เปิดใช้งานการรับรองความถูกต้องหรือไม่
+
+1. ตรวจสอบ[อีเมลการตั้งค่าการซิงค์](https://go.microsoft.com/fwlink/?linkid=2031283)ของคุณใน**การตั้งค่า** > **ดูการตั้งค่า Outlook ทั้งหมด** > **เม** > **อีเมลการซิงค์**
+1. ตรวจสอบให้แน่ใจว่า ค่าเริ่มต้นของคุณจากที่อยู่จะเหมือนกับชื่อโดเมนของคุณทางอีเมล ถ้าคุณมีโดเมนอีเมลของคุณเองรวม เปลี่ยนกับ outlook.com, live.com หรือ hotmail.com อยู่

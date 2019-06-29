@@ -9,14 +9,16 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: 976
+ms.custom:
+- "976"
+- "3100023"
 ms.assetid: ''
-ms.openlocfilehash: bf450ed6e619c46b7fc4d867284fe5b18854e769
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 84889f9e2ee72197f5ebd0f3a5bf337d0af563d4
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32408702"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35384772"
 ---
 # <a name="place-a-mailbox-on-legal-hold"></a>ระงับกล่องจดหมายทางกฎหมาย
 
@@ -25,4 +27,3 @@ ms.locfileid: "32408702"
 - เมื่อต้องการเปิดใช้งานการดำเนินคดีค้างไว้สำหรับผู้ใช้คนเดียว[ให้ทำตามขั้นตอนเหล่านี้](https://docs.microsoft.com/office365/SecurityCompliance/place-a-mailbox-on-litigation-hold) เมื่อมีการดำเนินคดีค้างไว้จะเปิดใช้งาน เนื้อหาทั้งหมดในกล่องจดหมายจะถูกรักษาไว้
 
 - เมื่อต้องการวางการหยุดบนกล่องจดหมายทั้งหมดในองค์กรของคุณ คุณสามารถใช้นโยบายการเก็บข้อมูล Office 365 โดย[ทำตามขั้นตอนเหล่านี้](https://docs.microsoft.com/office365/securitycompliance/retention-policies#applying-a-retention-policy-to-an-entire-organization-or-specific-locations) หมายเหตุว่า สำหรับนโยบายการเก็บข้อมูลทั่วทั้งองค์กร ผู้ใช้ใหม่จะถูกกำหนดโดยอัตโนมัติไปยังกรมธรรม์
-
