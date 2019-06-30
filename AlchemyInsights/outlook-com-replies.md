@@ -8,25 +8,27 @@ ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.custom: 9000240
-ms.openlocfilehash: b9bac51c32cecf6f4c5f86a4dd1be55225f8ef1d
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.custom:
+- "1825"
+- "9000240"
+ms.openlocfilehash: b485432de902929685fec85a64951599bbbeff20
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32392570"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35372568"
 ---
 # <a name="replying-in-outlookcom"></a>ตอบกลับใน Outlook.com
 
 เมื่อต้องการตอบกลับข้อความหนึ่งครั้งละ:
 
-1. ในรายการข้อความของคุณ เลือกข้อความที่คุณต้องการส่งต่อ
+1. ในรายการข้อความของคุณ เลือกข้อความที่คุณต้องการตอบกลับ
 2. ที่ด้านบนขวาของบานหน้าต่างข้อความ เลือกลูกศร**ตอบกลับ**หรือลูกศร**ตอบกลับทั้งหมด**
 3. พิมพ์ข้อความของคุณ และจากนั้น เลือก**ส่ง**
 
 การตอบกลับอัตโนมัติไปยังข้อความทั้งหมด:
 
-1. เปิด[การตั้งค่าการตอบกลับอัตโนมัติ](https://outlook.live.com/mail/options/mail/automaticReplies/automaticRepliesOption)ของคุณ
+1. ไปที่**การตั้งค่า** > **ดูการตั้งค่า Outlook ทั้งหมด** > **เม** > **ตอบกลับอัตโนมัติ**เมื่อต้องการเปิดการ[ตั้งค่าการตอบกลับอัตโนมัติ](https://outlook.live.com/mail/options/mail/automaticReplies)ของคุณ
 2. เลือกสลับ**เปิดการตอบกลับอัตโนมัติ**
 3. เลือกกล่องกาเครื่องหมาย**ส่งการตอบกลับเท่านั้นในระหว่างรอบระยะเวลา**ช่วยให้คุณสามารถ:
     - ส่งข้อความตอบกลับเฉพาะ เมื่อคุณเลือก ถ้าคุณไม่ตั้งค่ารอบระยะเวลา ตอบกลับอัตโนมัติของคุณยังคงอยู่ในจนกว่าคุณปิดการทำงาน

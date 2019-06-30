@@ -9,17 +9,18 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: ''
+ms.custom:
+- "235"
+- "2200007"
 ms.assetid: bd398934-d6bf-43a7-ae1f-6921402c07ef
-ms.openlocfilehash: 0a398d2d6792e9e6af33dfe0678e40f71f6928ac
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 3437582885556104ad4eea14845acb0fd1c431fb
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32406485"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35362948"
 ---
 # <a name="ctrlh-shows-find-not-replace-in-excel"></a>CTRL + H แสดงการค้นหา ไม่แทนที่ใน Excel
 
 ใน Excel 2016 การกด CTRL + H เปิดกล่องโต้ตอบการค้นหาและการแทน และค้นหาแท็บแสดง แทนที่แท็บแทนที่จะ คลิกแทนที่บนแท็บหน้าแรกไม่เหมือนกัน ปัญหานี้ถูกแก้ไขในรุ่น 1708 (8431.2094) เมื่อต้องการแก้ไขปัญหานี้ ปรับปรุง Office รุ่นล่าสุด เลือก**แฟ้ม** \> **บัญชี** \> **ตัวเลือกอัพเด** \> **ปรับปรุงเดี๋ยวนี้**
   
-

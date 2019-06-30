@@ -9,21 +9,22 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: ''
+ms.custom:
+- "640"
+- "3500008"
 ms.assetid: c360a785-bfff-4f8a-9a91-44e40f696799
-ms.openlocfilehash: 940a42679f482a77e2f4ac93b1cd127fdd0c443f
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: e85b0af127ff7c92c7c9e0a42f5084de5de689c6
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32418093"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35379444"
 ---
 # <a name="move-email-to-office-365"></a>ย้ายอีเมลไปยัง Office 365
 
-คุณมีหลายตัวเลือกสำหรับการย้ายข้อมูลอีเมลถึง Office 365 [โปรแกรมช่วยแนะนำการโยกย้ายจดหมาย Office 365](https://aka.ms/alchemyinsight-mailmigrationadvisor)ช่วยให้คุณสามารถเลือกดีที่สุดสำหรับสภาพแวดล้อมของคุณ และยัง แนะนำเกี่ยวกับการโยกย้ายจดหมาย 
+คุณมีหลายตัวเลือกสำหรับการย้ายข้อมูลอีเมลถึง Office 365 [โปรแกรมช่วยแนะนำการโยกย้ายจดหมาย Office 365](https://aka.ms/alchemyinsight-mailmigrationadvisor)ช่วยให้คุณสามารถเลือกดีที่สุดสำหรับสภาพแวดล้อมของคุณ และยัง แนะนำเกี่ยวกับการโยกย้ายจดหมาย
   
-เมื่อต้องการอ่านเกี่ยวกับตัวเลือกของคุณโดยไม่ต้องเริ่มการโยกย้าย โปรดดู[วิธีในการโยกย้ายหลายบัญชีอีเมลเพื่อ Office 365](https://support.office.com/article/0a4913fe-60fb-498f-9155-a86516418842)
+เมื่อต้องการอ่านเกี่ยวกับตัวเลือกของคุณโดยไม่ต้องเริ่มการโยกย้าย โปรดดู[กำหนดบนเส้นทางการย้าย](https://docs.microsoft.com/en-us/Exchange/mailbox-migration/decide-on-a-migration-path)
 
-นอกจากนี้ถ้าหน้า[หัน Office 365 มี FastTrack](https://www.microsoft.com/fasttrack/microsoft-365/office-365)สำหรับวิธีการโยกย้าย assited ถ้ามีสิทธิ์ก็
+นอกจากนี้ถ้าหน้า[หัน Office 365 มี FastTrack](https://www.microsoft.com/fasttrack/microsoft-365/office-365)สำหรับการช่วยเหลือการโยกย้าย ถ้ามีสิทธิ์ก็
   
-

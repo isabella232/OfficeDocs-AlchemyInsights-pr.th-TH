@@ -9,13 +9,15 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: 6700005
-ms.openlocfilehash: 2b4f229e780cb5f6bb024b10396cdfb14dcabf26
-ms.sourcegitcommit: 7e2122a7e08525f628986978f396b3a138d2326d
+ms.custom:
+- "1063"
+- "6700005"
+ms.openlocfilehash: fb739d776f5a9a384ecdb948eee4b06daba81e90
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 05/07/2019
-ms.locfileid: "33661718"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35366984"
 ---
 # <a name="troubleshooting-intune-policy-and-profiles"></a>การแก้ไขปัญหานโยบาย Intune และโพรไฟล์
 

@@ -9,23 +9,23 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: 204
+ms.custom:
+- "204"
+- "1800008"
 ms.assetid: 86752487-615c-447d-aebf-bf5abd49db20
-ms.openlocfilehash: a8cc842946372a46f103a09952568b14116036d6
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 9bf97ec7c5eee2218419cac73f23126086dd5c6e
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32417732"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35384556"
 ---
 # <a name="how-to-find-and-recover-missing-messages-contacts-or-calendar-items-in-outlook"></a>วิธีการค้นหา และกู้คืนข้อความที่หายไป ผู้ติดต่อ หรือรายการปฏิทินใน Outlook
 
-- คุณสามารถใช้[ฉันมีปัญหาในการส่ง การ รับ หรือการค้นหาเครื่องมือของข้อความอีเมล](https://aka.ms/SaRA-OutlookSendReceive)บนเครื่องคอมพิวเตอร์ที่ได้รับผลกระทบ เครื่องมือนี้จะตรวจหาจำนวนประเด็น และจะแนะนำวิธีแก้ไขปัญหาที่เป็นไปได้ 
-    
-- [กำหนดว่าถ้าบัญชีถูกละเมิด](https://support.microsoft.com/help/2551603/how-to-determine-whether-your-office-365-account-has-been-compromised) ถ้าสมบูรณ์ ให้ทำตามขั้นตอนใน[การตอบสนองไปยังบัญชีอีเมลที่ถูกโจมตีใน Office 365](https://docs.microsoft.com/office365/enterprise/responding-to-a-compromised-email-account)
-    
-- [ค้นหาข้อความหรือรายการที่ใช้ค้นหาทันที](https://support.office.com/article/69748862-5976-47b9-98e8-ed179f1b9e4d)
-    
-- [กู้คืนรายการที่ถูกลบใน Outlook สำหรับ Windows](https://support.office.com/article/49e81f3c-c8f4-4426-a0b9-c0fd751d48ce)
-    
+- คุณสามารถใช้[ฉันมีปัญหาในการส่ง การ รับ หรือการค้นหาเครื่องมือของข้อความอีเมล](https://aka.ms/SaRA-OutlookSendReceive)บนเครื่องคอมพิวเตอร์ที่ได้รับผลกระทบ เครื่องมือนี้จะตรวจหาจำนวนประเด็น และจะแนะนำวิธีแก้ไขปัญหาที่เป็นไปได้
 
+- [กำหนดว่าถ้าบัญชีถูกละเมิด](https://support.microsoft.com/help/2551603/how-to-determine-whether-your-office-365-account-has-been-compromised) ถ้าสมบูรณ์ ให้ทำตามขั้นตอนใน[การตอบสนองไปยังบัญชีอีเมลที่ถูกโจมตีใน Office 365](https://docs.microsoft.com/office365/enterprise/responding-to-a-compromised-email-account)
+
+- [ค้นหาข้อความหรือรายการที่ใช้ค้นหาทันที](https://support.office.com/article/69748862-5976-47b9-98e8-ed179f1b9e4d)
+
+- [กู้คืนรายการที่ถูกลบใน Outlook สำหรับ Windows](https://support.office.com/article/49e81f3c-c8f4-4426-a0b9-c0fd751d48ce)

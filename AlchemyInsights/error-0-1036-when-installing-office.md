@@ -8,31 +8,31 @@ ms.topic: article
 ms.prod: office-online-server
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
+ms.custom:
+- "984"
+- "2000020"
 ms.assetid: 42017e50-9544-4869-86e6-0009d325aa1b
-ms.openlocfilehash: 6fe26f87c6108d25a28a5c55b31710d332b1ac79
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 509b539b80d9dcbb10ec3b7ed294cbc2280b7f7f
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32402794"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35388372"
 ---
 # <a name="error-0-1036-when-installing-office"></a>ข้อผิดพลาด 0-1036 เมื่อการติดตั้ง office
 
-
 ลองวิธีแก้ปัญหาเหล่านี้เพื่อแก้ไขข้อผิดพลาดของ Office 0-1036:
   
-- รีสตาร์ทคอมพิวเตอร์ และลอง[ติดตั้ง Office](https://portal.office.com/OLS/MySoftware.aspx)อีกครั้ง 
-    
-- ดาวน์โหลด และติดตั้งการ[สนับสนุนและผู้ช่วยกู้คืน](https://aka.ms/SARA-OfficeUninstall-Alchemy)
-    
-1. เมื่อเปิด จากการ**ถอนการติดตั้ง Office ผลิตภัณฑ์**เลือกเวอร์ชันคุณต้องการถอนการติดตั้ง แล้วเลือก**ถัดไป**
-    
-2. ดำเนินต่อผ่านหน้าจอ และรีสตาร์ทเครื่องคอมพิวเตอร์เมื่อได้รับพร้อมท์
-    
-    หลังจากเริ่มการทำงาน การสนับสนุนและผู้ช่วยกู้คืนอีกครั้งเปิดโดยอัตโนมัติเพื่อให้การถอนการติดตั้งเสร็จสมบูรณ์
-    
-3. ทำตามขั้นที่เหลือพร้อมต์ และ[ติดตั้ง Office](https://portal.office.com/OLS/MySoftware.aspx)หรือปิดผู้ช่วย 
-    
-- [ใช้ตัวติดตั้งแบบออฟไลน์ของ Office](https://support.office.com/article/f0a85fe7-118f-41cb-a791-d59cef96ad1c?wt.mc_id=Alchemy_ClientDIA)เมื่อต้องการติดตั้ง Office 
-    
+- รีสตาร์ทคอมพิวเตอร์ และลอง[ติดตั้ง Office](https://portal.office.com/OLS/MySoftware.aspx)อีกครั้ง
 
+- ดาวน์โหลด และติดตั้งการ[สนับสนุนและผู้ช่วยกู้คืน](https://aka.ms/SARA-OfficeUninstall-Alchemy)
+
+1. เมื่อเปิด จากการ**ถอนการติดตั้ง Office ผลิตภัณฑ์**เลือกเวอร์ชันคุณต้องการถอนการติดตั้ง แล้วเลือก**ถัดไป**
+
+2. ดำเนินต่อผ่านหน้าจอ และรีสตาร์ทเครื่องคอมพิวเตอร์เมื่อได้รับพร้อมท์
+
+    หลังจากเริ่มการทำงาน การสนับสนุนและผู้ช่วยกู้คืนอีกครั้งเปิดโดยอัตโนมัติเพื่อให้การถอนการติดตั้งเสร็จสมบูรณ์
+
+3. ทำตามขั้นที่เหลือพร้อมต์ และ[ติดตั้ง Office](https://portal.office.com/OLS/MySoftware.aspx)หรือปิดผู้ช่วย
+
+- [ใช้ตัวติดตั้งแบบออฟไลน์ของ Office](https://support.office.com/article/f0a85fe7-118f-41cb-a791-d59cef96ad1c?wt.mc_id=Alchemy_ClientDIA)เมื่อต้องการติดตั้ง Office
