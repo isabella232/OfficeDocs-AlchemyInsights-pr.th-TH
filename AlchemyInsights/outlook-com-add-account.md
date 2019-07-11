@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.custom:
 - "1819"
 - "9000236"
-ms.openlocfilehash: e9cd0cffaae247ee2442713434c9d8bb256dba19
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 7620537310b48b34124d815d112c9544d91f5283
+ms.sourcegitcommit: 017ab30091ab205b31e62e611443e3ac5feac658
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35377788"
+ms.lasthandoff: 07/10/2019
+ms.locfileid: "35614153"
 ---
 # <a name="add-your-other-email-accounts-to-outlookcom"></a>เพิ่มบัญชีอีเมลอื่น ๆ ของคุณลงใน Outlook.com
 
@@ -32,6 +32,6 @@ ms.locfileid: "35377788"
 
 คุณสามารถส่งอีเมจากบัญชีใด ๆ ที่คุณได้เชื่อมต่อกับบัญชี Outlook.com ของคุณ เมื่อเขียนอีเมล เลือก**จาก**นั้นเลือกที่อยู่อีเมลที่คุณต้องการใช้ หรือ[เริ่มต้นของคุณจากรายชื่อการปรับปรุง](https://go.microsoft.com/fwlink/?linkid=875264)
 
-สำหรับข้อมูลเพิ่มเติม อ่าน[เพิ่มของคุณทางอีเมลบัญชีอื่น ๆ เพื่อ Outlook.com](https://support.office.com/article/c5224df4-5885-4e79-91ba-523aa743f0ba)
+สำหรับข้อมูลเพิ่มเติม อ่าน[เพิ่มของคุณทางอีเมลบัญชีอื่น ๆ เพื่อ Outlook.com](https://support.office.com/article/c5224df4-5885-4e79-91ba-523aa743f0ba?wt.mc_id=Office_Outlook_com_Alchemy)
 
-ถ้าคุณต้องการสร้างที่อยู่อีเมใหม่ที่ใช้บัญชี Outlook.com อ่าน[เพิ่มหรือลบนามแฝงอีเมล](https://support.office.com/article/459b1989-356d-40fa-a689-8f285b13f1f2)
+ถ้าคุณต้องการสร้างที่อยู่อีเมใหม่ที่ใช้บัญชี Outlook.com อ่าน[เพิ่มหรือลบนามแฝงอีเมล](https://support.office.com/article/459b1989-356d-40fa-a689-8f285b13f1f2?wt.mc_id=Office_Outlook_com_Alchemy)

@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.custom:
 - "1820"
 - "9000236"
-ms.openlocfilehash: 16fed7fc9995ba9b4143495fc268d5b3a31d2a01
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 33bd6fa8a26eb27c1d829268ac0956c2dbf90d58
+ms.sourcegitcommit: 017ab30091ab205b31e62e611443e3ac5feac658
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35377644"
+ms.lasthandoff: 07/10/2019
+ms.locfileid: "35614189"
 ---
 # <a name="add-your-gmail-account-to-outlookcom"></a>เพิ่มบัญชี Gmail ของคุณใน Outlook.com
 
@@ -30,4 +30,4 @@ ms.locfileid: "35377644"
 
 คุณสามารถส่งอีเมลใน Outlook.com จากบัญชี Gmail ของคุณเชื่อมต่ออยู่ เมื่อเขียนอีเมล เลือก**จาก**และเลือกของคุณที่อยู่ Gmail หรือ[เริ่มต้นของคุณจากรายชื่อการปรับปรุง](https://go.microsoft.com/fwlink/?linkid=875264)
 
-สำหรับข้อมูลเพิ่มเติม ดู[เพิ่มของคุณทางอีเมลบัญชีอื่น ๆ เพื่อ Outlook.com](https://support.office.com/article/c5224df4-5885-4e79-91ba-523aa743f0ba)
+สำหรับข้อมูลเพิ่มเติม ดู[เพิ่มของคุณทางอีเมลบัญชีอื่น ๆ เพื่อ Outlook.com](https://support.office.com/article/c5224df4-5885-4e79-91ba-523aa743f0ba?wt.mc_id=Office_Outlook_com_Alchemy)
