@@ -11,22 +11,22 @@ ms.custom:
 - "9000252"
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.openlocfilehash: 5a6d2d14f410f4934e9f6b0766a0883925009653
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 9b52870f67c137101318d91ac0bf86708c281dd2
+ms.sourcegitcommit: 42f0dc9fdf5b93a68b048e8aee2eb9b6cf66a6eb
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35376852"
+ms.lasthandoff: 07/15/2019
+ms.locfileid: "35697246"
 ---
 # <a name="cant-receive-email"></a>ไม่สามารถรับอีเมล
 
 ถ้าคุณกำลังมีปัญหากับ Outlook.com ตรวจสอบ[สถานะของบริการ](https://go.microsoft.com/fwlink/p/?linkid=837482)ครั้งแรก
 
-1. ถ้าเปิดกล่องขาเข้าที่เน้นอยู่ ตรวจสอบกล่องขาเข้าอื่น ๆ ของคุณ เมื่อต้องการเรียนรู้วิธีการปิดเน้นกล่องขาเข้า ดู[ปิดเน้นกล่องขาเข้า](https://support.office.com/article/f714d94d-9e63-4217-9ccb-6cb2986aa1b2)
+1. ถ้าเปิดกล่องขาเข้าที่เน้นอยู่ ตรวจสอบกล่องขาเข้าอื่น ๆ ของคุณ เมื่อต้องการเรียนรู้วิธีการปิดเน้นกล่องขาเข้า ดู[ปิดเน้นกล่องขาเข้า](https://support.office.com/article/f714d94d-9e63-4217-9ccb-6cb2986aa1b2?wt.mc_id=Office_Outlook_com_Alchemy)
 1. ค้นหาใน[โฟลเดอร์อีเมลขยะ](https://outlook.live.com/mail/junkemail)ของคุณไว้ ถ้ากล่องขาเข้าของคุณเต็ม คุณจะไม่ได้รับข้อความใหม่ เมื่อต้องการให้มีที่ว่างในกล่องขาเข้าของคุณ ลองล้างโฟลเดอร์อีเมลขยะของคุณ โดยการคลิกขวาที่โฟลเดอร์อีเมลขยะ และเลือก**โฟลเดอร์ที่ว่างเปล่า**
 1. ตรวจสอบตัวกรองของกล่องขาเข้าของคุณ เมื่อต้องการเปลี่ยนแปลงของการกรองและการเรียงลำดับ เลือก**ตัวกรอง**ที่ด้านบนของรายการข้อความของคุณ
 1. ตรวจสอบของคุณ[แสดงรายการผู้ส่งที่ถูกบล็อกและรายชื่อผู้ส่งที่ปลอดภัย](https://outlook.live.com/mail/options/mail/junkEmail)หรือไม่
 1. ตรวจสอบ[กฎของกล่องขาเข้า](https://outlook.live.com/mail/options/mail/rules)ของคุณ
-1. ถ้าคุณไม่สามารถส่ง หรือรับอีเมล บัญชีของคุณอาจเป็นการชั่วคราวถูกบล็อกเนื่องจากเราสังเกตเห็นบางอย่างผิดปกติในการลงชื่อเข้าใช้กิจกรรม เมื่อต้องการเรียนรู้วิธีการยกเลิกบล็อกบัญชีของคุณ ดู[ยกเลิกการบล็อกบัญชี Outlook.com ของฉัน](https://support.office.com/article/f4ad2701-d166-4d8b-8a6a-9af2a1f8a4c4)
+1. ถ้าคุณไม่สามารถส่ง หรือรับอีเมล บัญชีของคุณอาจเป็นการชั่วคราวถูกบล็อกเนื่องจากเราสังเกตเห็นบางอย่างผิดปกติในการลงชื่อเข้าใช้กิจกรรม เมื่อต้องการเรียนรู้วิธีการยกเลิกบล็อกบัญชีของคุณ ดู[ยกเลิกการบล็อกบัญชี Outlook.com ของฉัน](https://support.office.com/article/f4ad2701-d166-4d8b-8a6a-9af2a1f8a4c4?wt.mc_id=Office_Outlook_com_Alchemy)
 
-เรียนรู้เพิ่มเติมเกี่ยวกับ[ปัญหาการซ่อมแซมการซิงค์อีเมล](https://support.office.com/article/d39e3341-8d79-4bf1-b3c7-ded602233642)
+เรียนรู้เพิ่มเติมเกี่ยวกับ[ปัญหาการซ่อมแซมการซิงค์อีเมล](https://support.office.com/article/d39e3341-8d79-4bf1-b3c7-ded602233642?wt.mc_id=Office_Outlook_com_Alchemy)
