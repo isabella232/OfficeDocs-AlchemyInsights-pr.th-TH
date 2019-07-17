@@ -11,15 +11,15 @@ localization_priority: Normal
 ms.custom:
 - "1151"
 - "8000073"
-ms.openlocfilehash: e3bfb2421ab63ab760b8094ef260b28d52ece4df
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 294bdb7ba7ab490ea715c11c34830a0f5bac0311
+ms.sourcegitcommit: a413a0e27ef4ab8c484fa9fccff8bbef381c8b96
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35377968"
+ms.lasthandoff: 07/16/2019
+ms.locfileid: "35746176"
 ---
 # <a name="mon-compte-outlookcom-a-t-pirat"></a>จ. compte Outlook.com été piraté ตัว
 
 Votre Si compte piraté เป็น été, cela signifie ฉพาะ quelqu'un s'est procuré votre mot de passe อการ compte votre utiliser peut qu'il pour accéder เซ็ต vos informations personnelles ou envoyer des courriers indésirables
 
-Pour compte votre récupérer[คำแนะนำในแฟ้ม suivez](https://support.office.com/fr-fr/article/mon-compte-outlook-com-a-été-piraté-35993ac5-ac2f-494e-aacb-5232dda453d8?ui=fr-FR&rs=fr-FR&ad=FR)
+Pour compte votre récupérer[คำแนะนำในแฟ้ม suivez](https://support.office.com/fr-fr/article/mon-compte-outlook-com-a-été-piraté-35993ac5-ac2f-494e-aacb-5232dda453d8?ui=fr-FR&rs=fr-FR&ad=FR?wt.mc_id=Office_Outlook_com_Alchemy)
