@@ -8,12 +8,12 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 7fd02fc7-4aaf-4ae6-b514-ceda456b74e2
-ms.openlocfilehash: ebafb4ec807f6e6b9c26935e766456414212de81
-ms.sourcegitcommit: 8b200a117fa8932f11fc649560496ffb308909da
+ms.openlocfilehash: 5da4914548348418c42e1e1b52d1428c0ed0af9b
+ms.sourcegitcommit: 20b6a1fb3f0d899f3b204e3c066262d10623a4ea
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 06/21/2019
-ms.locfileid: "35132741"
+ms.lasthandoff: 07/25/2019
+ms.locfileid: "35903957"
 ---
 # <a name="edit-a-read-only-file"></a>แก้ไขแฟ้มแบบอ่านอย่างเดียว
 
@@ -25,7 +25,7 @@ ms.locfileid: "35132741"
 
 หมายเหตุ:
 
-- ถ้าคุณแทนที่จะต้องมีเอกสารที่เปิดสำหรับการแก้ไขใน Office Online เมื่อคุณคลิกชื่อเรื่อง คุณสามารถตั้งค่าไลบรารีเพื่อทำสิ่งนั้น (ตราบใดที่คุณมีสิทธิ์ในการเปลี่ยนการตั้งค่าไลบรารี)
+- ถ้าคุณแทนที่จะต้องมีเอกสารที่เปิดสำหรับการแก้ไขใน Office เมื่อคุณคลิกชื่อเรื่อง คุณสามารถตั้งค่าไลบรารีเพื่อทำสิ่งนั้น (ตราบใดที่คุณมีสิทธิ์ในการเปลี่ยนการตั้งค่าไลบรารี)
 
 - ถ้าคุณมีไลบรารีกับเช็คเอาท์ คอลัมน์ที่จำเป็น หรือเมื่อผู้ใช้เท่านั้นที่สามารถแก้ไขในการตั้งค่ารุ่นของ SharePoint เอกสารไลบรารี รายการเหล่านี้จะถูกซิงโครไนส์แบบอ่านอย่างเดียว
 
