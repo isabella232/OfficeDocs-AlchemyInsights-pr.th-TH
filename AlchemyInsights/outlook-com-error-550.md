@@ -11,16 +11,16 @@ ms.custom:
 - "8000081"
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.openlocfilehash: 7f2ee8a5b8a027433d3ecf150ab9f7bd8bdcba47
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: f1d5625c35cfbee4b3d38df0ad1bf48e471824c4
+ms.sourcegitcommit: a53157190ed2c4bdade088afa45dd942a559fb95
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35375268"
+ms.lasthandoff: 07/31/2019
+ms.locfileid: "36044439"
 ---
 # <a name="error-550553-in-outlookcom"></a>ข้อผิดพลาด 550/553 ใน Outlook.com
 
 เมื่อคุณไม่ได้อยู่ที่บ้าน และส่งอีเมลจากบัญชีของคุณเชื่อมต่อโดยใช้ Outlook.com ข้อความอีเมลคุณอาจมีการส่งคืนเป็น 550, 553 หรือข้อความแสดงข้อผิดพลาดห้ามสับเปลี่ยน
 
-1. ตรวจสอบ[อีเมลการตั้งค่าการซิงค์](https://go.microsoft.com/fwlink/?linkid=2031283)ของคุณใน**การตั้งค่า** > **ดูการตั้งค่า Outlook ทั้งหมด** > **เม** > **อีเมลการซิงค์**
+1. ตรวจสอบ[อีเมลการตั้งค่าการซิงค์](https://go.microsoft.com/fwlink/?linkid=2031283)ของคุณใน**การตั้งค่า** <img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABIAAAASCAMAAABhEH5lAAAA51BMVEX6+fj6+fDr+fjK+fj69LRxsuj6+cjY+fi/+fin3ev6+ddMk81HdK5AaatHLn/ntXTrsW5cRmLOk0pAND5KNCl1NCOi3fiGwvjJ3fDBz+F6teFgpdt6stX68c314syTucirtchum8bjz8BQh7/6+b47fbrKtapiian63aFDaaHJuZJiQo36woVabH7ZtHiOQnTHm2wlKmqriWF/cFzVnVTFjlSyeUkrNEmBLkWfaUGsaT67fTrj9Pi19PjO8fiv5vj69OFWm9Pt3aZ1Qo0lNHQ1P2iYTWGOQmHcpV5kRlqvc0mrbERpPzMoEeekAAAAxElEQVQY03WQ5w6CUAyFy3Jv3HsrICoKqLj3fP/nsTcNakjsn9t+bW/OKfyL6iTCc49e/ktuRs2WEhE1U/qgQQfEzGkNyxzVXLdw0ASW+a7BZp3HpJ+cpovUjcv6PYtvSmKj4/SswTMaBgg9FQF5axWysKoson4cGMYCvlEAQDwK7XkZwEVbRBpDPC46ygbAbPl31p4Wvd8nwiRCLnIArJb1ZBD7KFWMkdQLSUVIhowsGaIwzzVHikfVV8lzHPv3OGTfTd4gnRNqGdZ49AAAAABJRU5ErkJggg==' /> > **ดูการตั้งค่า Outlook ทั้งหมด** > **เม** > **อีเมลการซิงค์**
 1. ตรวจสอบให้แน่ใจว่า ค่าเริ่มต้นของคุณจากที่อยู่จะเหมือนกับชื่อโดเมนของคุณทางอีเมล ถ้าคุณมีโดเมนอีเมลของคุณเองรวม เปลี่ยนกับ outlook.com, live.com หรือ hotmail.com อยู่
