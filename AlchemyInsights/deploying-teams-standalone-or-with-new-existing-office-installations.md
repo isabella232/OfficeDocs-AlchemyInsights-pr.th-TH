@@ -1,0 +1,40 @@
+---
+title: ปรับใช้ทีม เป็นแบบสแตนด์อโลน หรือ ด้วยการติดตั้ง Office ใหม่ หรือที่มีอยู่
+ms.author: danbrown
+author: DHB-MSFT
+manager: laurawi
+ms.date: 08/01/2019
+ms.audience: Admin
+ms.topic: article
+ROBOTS: NOINDEX, NOFOLLOW
+localization_priority: Normal
+ms.collection: Adm_O365
+ms.custom:
+- "9000660"
+- "2509"
+ms.openlocfilehash: 3318e1b17cc99e927e1011f7ca9eca8dec616d59
+ms.sourcegitcommit: 4600dd4fb577bf5f5482a24616c2d9a6b81e8052
+ms.translationtype: MT
+ms.contentlocale: th-TH
+ms.lasthandoff: 08/01/2019
+ms.locfileid: "36054249"
+---
+# <a name="deploying-teams-as-standalone-or-with-new-or-existing-office-installations"></a><span data-ttu-id="06a36-102">ปรับใช้ทีม เป็นแบบสแตนด์อโลน หรือ ด้วยการติดตั้ง Office ใหม่ หรือที่มีอยู่</span><span class="sxs-lookup"><span data-stu-id="06a36-102">Deploying Teams as standalone or with new or existing Office installations</span></span>
+
+<span data-ttu-id="06a36-103">ทีมงาน Microsoft อยู่ในขณะนี้รวมอยู่เป็นส่วนหนึ่งของการ***ติดตั้งใหม่***ของ Office 365 ProPlus, Office 365 ธุรกิจ และ Office สำหรับ Mac.</span><span class="sxs-lookup"><span data-stu-id="06a36-103">Microsoft Teams is now included as part of ***new installations*** of Office 365 ProPlus, Office 365 Business, and Office for Mac.</span></span> <span data-ttu-id="06a36-104">สำหรับข้อมูลเพิ่มเติม ดู[เมื่อจะทีม Microsoft เริ่มต้นที่มาพร้อมกับการติดตั้ง Office ใหม่หรือไม่?](https://docs.microsoft.com/deployoffice/teams-install#when-will-microsoft-teams-start-being-included-with-new-installations-of-office-365-proplus)</span><span class="sxs-lookup"><span data-stu-id="06a36-104">For more information, see [When will Microsoft Teams start being included with new installations of Office?](https://docs.microsoft.com/deployoffice/teams-install#when-will-microsoft-teams-start-being-included-with-new-installations-of-office-365-proplus)</span></span>
+
+<span data-ttu-id="06a36-105">นอกจากนี้ เริ่มต้น ด้วยรุ่น 1906 ในช่องรายเดือน ทีมจะ***เพิ่มการติดตั้งที่มีอยู่***ของ Office 365 ProPlus (และ Office 365 ธุรกิจ) บนอุปกรณ์ที่ใช้ Windows เมื่อคุณปรับปรุงการติดตั้งที่มีอยู่เป็นรุ่นล่าสุด</span><span class="sxs-lookup"><span data-stu-id="06a36-105">Additionally, starting with Version 1906 in Monthly Channel, Teams will be ***added to existing installations*** of Office 365 ProPlus (and Office 365 Business) on devices running Windows when you update your existing installation to the latest version.</span></span> <span data-ttu-id="06a36-106">สำหรับข้อมูลเพิ่มเติม ดู[อะไรเกี่ยวกับการติดตั้ง Office ที่มีอยู่หรือไม่?](https://docs.microsoft.com/deployoffice/teams-install#what-about-existing-installations-of-office-365-proplus)</span><span class="sxs-lookup"><span data-stu-id="06a36-106">For more information, see [What about existing installations of Office?](https://docs.microsoft.com/deployoffice/teams-install#what-about-existing-installations-of-office-365-proplus)</span></span>
+
+> [!NOTE]
+> <span data-ttu-id="06a36-107">ถ้าคุณไม่ต้องการรอสำหรับกำหนดการไวร์นี้ คุณสามารถปรับใช้ทีมเป็นแบบสแตนด์อโลนสำหรับผู้ใช้ของคุณโดย[ทำตามคำแนะนำเหล่านี้](https://docs.microsoft.com/MicrosoftTeams/msi-deployment) หรือคุณสามารถให้ผู้ใช้ของคุณติดตั้งทีมงานให้กับพวกเขาเองจาก [https://teams.microsoft.com/downloads](https://teams.microsoft.com/downloads)ได้</span><span class="sxs-lookup"><span data-stu-id="06a36-107">If you don't want to wait for this rollout schedule, you can deploy Teams as standalone for your users by [following these instructions](https://docs.microsoft.com/MicrosoftTeams/msi-deployment) or you can have your users install Teams for themselves from [https://teams.microsoft.com/downloads](https://teams.microsoft.com/downloads).</span></span>
+
+<span data-ttu-id="06a36-108">ถ้าองค์กรของคุณไม่พร้อมใช้งานในทีม เรามีขั้นตอนคุณสามารถนำไปใช้ในการ***แยกกลุ่มคน***จากการติดตั้ง[ใหม่](https://docs.microsoft.com/deployoffice/teams-install#how-to-exclude-microsoft-teams-from-new-installations-of-office-365-proplus)หรือ[ที่มีอยู่](https://docs.microsoft.com/deployoffice/teams-install#use-group-policy-to-control-the-installation-of-microsoft-teams)ของสำนักงาน</span><span class="sxs-lookup"><span data-stu-id="06a36-108">If your organization isn't ready to deploy Teams, we have the steps you can take to ***exclude Teams*** from [new](https://docs.microsoft.com/deployoffice/teams-install#how-to-exclude-microsoft-teams-from-new-installations-of-office-365-proplus) or [existing](https://docs.microsoft.com/deployoffice/teams-install#use-group-policy-to-control-the-installation-of-microsoft-teams) installations of Office.</span></span> <span data-ttu-id="06a36-109">ถ้าคุณต้องการให้ทีมสามารถติด ตั้ง แต่ไม่ต้องทีมงานจะเริ่มต้นโดยอัตโนมัติสำหรับผู้ใช้หลังจากที่มีการติดตั้ง ดู[ทีมงาน Microsoft ป้องกันไม่ให้เริ่มทำงานโดยอัตโนมัติหลังจากการติดตั้ง](https://docs.microsoft.com/deployoffice/teams-install#use-group-policy-to-prevent-microsoft-teams-from-starting-automatically-after-installation)</span><span class="sxs-lookup"><span data-stu-id="06a36-109">If you want Teams to be installed, but don't want Teams to start automatically for the user after it's installed, see [Prevent Microsoft Teams from starting automatically after installation](https://docs.microsoft.com/deployoffice/teams-install#use-group-policy-to-prevent-microsoft-teams-from-starting-automatically-after-installation).</span></span>
+
+<span data-ttu-id="06a36-110">เมื่อต้องการ***ถอนการติดตั้งทีมงาน***จากอุปกรณ์ใช้ Windows ดู[ทีมงานการถอนการติดตั้ง Microsoft](https://support.office.com/article/3b159754-3c26-4952-abe7-57d27f5f4c81)</span><span class="sxs-lookup"><span data-stu-id="06a36-110">To ***uninstall Teams*** from a device running Windows, see [Uninstall Microsoft Teams](https://support.office.com/article/3b159754-3c26-4952-abe7-57d27f5f4c81).</span></span> <span data-ttu-id="06a36-111">เมื่อต้องการล้างข้อมูลทีม Microsoft จากเครื่องเป้าหมายหรือผู้ใช้หลาย ดู[ล้างข้อมูลการปรับใช้ Microsoft ทีม](https://docs.microsoft.com/microsoftteams/scripts/powershell-script-teams-deployment-clean-up)</span><span class="sxs-lookup"><span data-stu-id="06a36-111">To cleanup Microsoft Teams from multiple target machines or users, see [Microsoft Teams deployment clean up](https://docs.microsoft.com/microsoftteams/scripts/powershell-script-teams-deployment-clean-up).</span></span>
+
+<span data-ttu-id="06a36-112">ถ้าคุณกำลังใช้คอมพิวเตอร์ที่ใช้ร่วมกัน บริการเดสก์ท็อประยะไกล (RDS), หรือโครงสร้างพื้นฐานเดสก์ท็อปเสมือน (VDI), ดู[คอมพิวเตอร์ที่ใช้ร่วมกันและสภาพแวดล้อม VDI กับทีมงานของ Microsoft](https://docs.microsoft.com/deployoffice/teams-install#shared-computer-and-vdi-environments-with-microsoft-teams)</span><span class="sxs-lookup"><span data-stu-id="06a36-112">If you're using shared computers, Remote Desktop Services (RDS), or Virtual Desktop Infrastructure (VDI), see [Shared computer and VDI environments with Microsoft Teams](https://docs.microsoft.com/deployoffice/teams-install#shared-computer-and-vdi-environments-with-microsoft-teams).</span></span>
+
+<span data-ttu-id="06a36-113">ถ้าคุณกำลังใช้ Office สำหรับ Mac ดู[การติดตั้ง Microsoft ทีมบน Mac เป็น](https://docs.microsoft.com/deployoffice/teams-install#microsoft-teams-installations-on-a-mac)</span><span class="sxs-lookup"><span data-stu-id="06a36-113">If you're using Office for Mac, see [Microsoft Teams installations on a Mac](https://docs.microsoft.com/deployoffice/teams-install#microsoft-teams-installations-on-a-mac).</span></span>
+
+> [!NOTE]
+> <span data-ttu-id="06a36-114">หลังจากที่มีการติดตั้ง ทีมงานจะ[อัพเดตโดยอัตโนมัติ](https://docs.microsoft.com/deployoffice/teams-install#feature-and-quality-updates-for-microsoft-teams)โดยประมาณทุกสองสัปดาห์ ด้วยคุณลักษณะใหม่ ๆ และการปรับปรุงคุณภาพ</span><span class="sxs-lookup"><span data-stu-id="06a36-114">After Teams is installed, it's [automatically updated](https://docs.microsoft.com/deployoffice/teams-install#feature-and-quality-updates-for-microsoft-teams) approximately every two weeks with new features and quality updates.</span></span> 
