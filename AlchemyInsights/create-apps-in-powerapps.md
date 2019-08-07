@@ -9,10 +9,10 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: 0095e6a2-884c-4733-aa4b-783f574ad4b7
 ms.openlocfilehash: 7637f90b0358eb6435884faa860473622d3d72c7
-ms.sourcegitcommit: f1c96fd3890d4e211f7d6bf73b9105fdaab2e11c
+ms.sourcegitcommit: 327a2c77afc2ff3d67d3aaaea1a92068a3c4bb1f
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 03/05/2019
+ms.lasthandoff: 08/06/2019
 ms.locfileid: "30404982"
 ---
 # <a name="create-apps-with-powerapps"></a>สร้างโปรแกรมประยุกต์ ด้วย PowerApps
