@@ -7,18 +7,15 @@ ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.custom:
-- "824"
-- "5800003"
 ms.assetid: aaa8b266-5cd6-4aea-86c1-b54e062dd2bc
-ms.openlocfilehash: 507987f147a1b6a09df4da02d307fbf330d7fd8d
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: bbfd396d8073af2e9e8d239e0fbee790fd4756c9
+ms.sourcegitcommit: 631e527967f4d641bc9227642ffe38967ae87a00
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35387508"
+ms.lasthandoff: 08/09/2019
+ms.locfileid: "36269971"
 ---
 # <a name="fix-onedrive-sync-problems"></a>แก้ไขปัญหาการซิงค์ของ OneDrive
 
-ถ้า OneDrive ไม่ได้ซิงค์แฟ้มตามที่คุณคาดหวัง คุณสามารถ[แก้ไขปัญหาการซิงค์ของ OneDrive](https://go.microsoft.com/fwlink/?linkid=866431)
+ถ้า OneDrive ไม่ได้ซิงค์แฟ้มตามที่คุณคาดหวัง คุณสามารถ[แก้ไขปัญหาการซิงค์ของ OneDrive](https://support.office.com/article/fix-onedrive-for-business-sync-problems-207e983e-146d-404c-a994-672ef29e1f90?ui=en-US&rs=en-US&ad=US)
   

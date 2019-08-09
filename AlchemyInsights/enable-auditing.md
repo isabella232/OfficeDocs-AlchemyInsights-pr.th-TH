@@ -1,5 +1,5 @@
 ---
-title: 286-เปิดใช้งานการตรวจสอบ
+title: บันทึกการตรวจสอบเปิดใช้งานและการค้นหา
 ms.author: markjjo
 author: markjjo
 manager: lauraw
@@ -13,14 +13,14 @@ ms.custom:
 - "286"
 - "3100005"
 ms.assetid: ''
-ms.openlocfilehash: 84794755f7756838393f11d617fcc8a5e3748e9f
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 8c965cb1c2b6a4cb46b5c1b0145932c4c54ba97d
+ms.sourcegitcommit: 631e527967f4d641bc9227642ffe38967ae87a00
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35388480"
+ms.lasthandoff: 08/09/2019
+ms.locfileid: "36270547"
 ---
-# <a name="search-the-audit-log"></a>ค้นหาบันทึกการตรวจสอบ
+# <a name="enable-and-search-audit-log"></a>บันทึกการตรวจสอบเปิดใช้งานและการค้นหา
 
 เมื่อต้องการค้นหาบันทึกการตรวจสอบ Office 365 ให้ทำตาม[ขั้นตอนเหล่านี้](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance#search-the-audit-log)
 
