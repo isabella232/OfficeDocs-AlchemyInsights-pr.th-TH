@@ -12,10 +12,10 @@ ms.custom:
 - "25"
 - "9"
 ms.openlocfilehash: af8c714b9476907a409047d93b98e6be3a551de4
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.sourcegitcommit: 25110a298bef81fe02af177b9fa880331c28948d
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 06/28/2019
+ms.lasthandoff: 08/12/2019
 ms.locfileid: "35359276"
 ---
 # <a name="trying-to-remove-your-domain"></a>กำลังพยายามลบโดเมนของคุณหรือไม่
