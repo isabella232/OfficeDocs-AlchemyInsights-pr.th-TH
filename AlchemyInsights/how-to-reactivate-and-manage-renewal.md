@@ -13,18 +13,18 @@ ms.custom:
 - "349"
 - "1500012"
 ms.assetid: 6bec74c6-c7a6-4fa7-b5fc-c246c6ec5269
-ms.openlocfilehash: 43689cd59be9838c7d4625ed74ef06a4e934517c
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 3c049644fed3deca18968068afeaa0b7a490f9fe
+ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35383548"
+ms.lasthandoff: 08/13/2019
+ms.locfileid: "36389955"
 ---
 # <a name="how-to-reactivate-and-manage-recurring-billing"></a>วิธีการเปิดใช้งาน และจัดการการเรียกเก็บเงินที่ที่เกิดซ้ำ
 
 ดูเหมือนว่าคุณได้บอกรับเป็นสมาชิกที่หมดอายุ ถ้าคุณต้องการเปิดใช้งาน ที่นี่ของวิธีนี้
   
-1. ในศูนย์ดูแล ไปหน้าการ[บอกรับเป็นสมาชิก](https://go.microsoft.com/fwlink/p/?linkid=842054)หรือไปยัง**การเรียกเก็บเงิน** \> **บอกรับเป็นสมาชิก**
+1. ในศูนย์ดูแล ไป**การเรียกเก็บเงิน**\>หน้าการ[บอกรับเป็นสมาชิก](https://go.microsoft.com/fwlink/p/?linkid=842054)
 
 2. เลือกการบอกรับเป็นสมาชิกที่**หมดอายุ**หรือ**ถูกปิดใช้งาน**
 
@@ -36,11 +36,10 @@ ms.locfileid: "35383548"
 
 เมื่อต้องการจัดการรายเดือน หรือรายปีการเรียกเก็บเงินคุณสามารถสลับไป**เรียกเก็บเงินซ้ำ**หรือปิด
   
-1. ในศูนย์ดูแล ไปหน้าการ[บอกรับเป็นสมาชิก](https://go.microsoft.com/fwlink/p/?linkid=842054)หรือไปยัง**การเรียกเก็บเงิน** \> **บอกรับเป็นสมาชิก**
+1. ในศูนย์ดูแล ไป**การเรียกเก็บเงิน**\>หน้าการ[บอกรับเป็นสมาชิก](https://go.microsoft.com/fwlink/p/?linkid=842054)
 
 2. เลือกการบอกรับเป็นสมาชิกที่คุณต้องการจัดการการเรียกเก็บเงินที่ที่เกิดซ้ำ
 
 3. สลับ**เรียกเก็บเงินซ้ำ**สลับเพื่อ**เปิด**หรือ**ปิด**
 
-สำหรับข้อมูลเพิ่มเติม ดู:[จัดการการเรียกเก็บเงินสำหรับการสมัครใช้งานที่เกิดซ้ำ](https://support.office.com/article/8d83b530-f4ca-47f6-a666-e5791cbacc7e)
-  
+สำหรับข้อมูลเพิ่มเติม ให้ดู[เปิดใช้งานการเรียกเก็บเงิน หรือปิดที่เกิดซ้ำ](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/renew-your-subscription#turn-recurring-billing-off-or-on)
