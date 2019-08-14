@@ -13,18 +13,18 @@ ms.custom:
 - "325"
 - "150008"
 ms.assetid: 7fd08e48-6f3c-4259-88da-4d06288f2b7d
-ms.openlocfilehash: a32f90e3d6c7f7c9fbbe5b320825f2a81a3a2bf6
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 46f48dc401268599821df0fcd51fefa0b8968493
+ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35385708"
+ms.lasthandoff: 08/13/2019
+ms.locfileid: "36386315"
 ---
 # <a name="how-to-assign-a-license-to-a-user"></a>วิธีการกำหนดสิทธิ์การใช้งานให้กับผู้ใช้
 
 ผู้ใช้ต้องมีใบอนุญาตการเข้าถึงบริการ ต่อไปนี้เป็นขั้นตอนเพื่อเพิ่ม เปลี่ยนแปลง หรือเอาสิทธิ์การใช้งานออกจากผู้ใช้
   
-1. ในศูนย์ดูแล ไปหน้า[ผู้ใช้ที่ใช้งานอยู่](https://go.microsoft.com/fwlink/p/?linkid=834822)หรือเลือก**ผู้ใช้** \> **ผู้ใช้ที่ใช้งานอยู่**
+1. ในศูนย์ดูแล ไปที่**ผู้ใช้**\>หน้า[ผู้ใช้ที่ใช้งานอยู่](https://go.microsoft.com/fwlink/p/?linkid=834822)
 
 2. เลือกกล่องอยู่ถัดจากชื่อของผู้ใช้ที่คุณต้องการกำหนด เปลี่ยนแปลง หรือเอาสิทธิ์การใช้งาน
 
@@ -38,5 +38,4 @@ ms.locfileid: "35385708"
 
 5. ที่ด้านล่างของบานหน้าต่าง**สิทธิ์การใช้งานผลิตภัณฑ์**เลือก**บันทึก** \> **ปิด** \> **ปิด**
 
-สำหรับข้อมูลเพิ่มเติม ให้ดู[กำหนดสิทธิ์การใช้งานสำหรับผู้ใช้ใน Office 365 สำหรับธุรกิจ](https://support.office.com/article/997596b5-4173-4627-b915-36abac6786dc)และ[เอาสิทธิ์การใช้งานจากผู้ใช้ใน Office 365 สำหรับธุรกิจ](https://support.office.com/article/9b497c85-d0a4-4735-80fa-d3565bc05bd1)
-  
+สำหรับข้อมูลเพิ่มเติม ให้ดู[กำหนดสิทธิ์การใช้งานสำหรับผู้ใช้ใน Office 365 สำหรับธุรกิจ](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/assign-licenses-to-users)และ[เอาสิทธิ์การใช้งานจากผู้ใช้ใน Office 365 สำหรับธุรกิจ](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/remove-licenses-from-users)

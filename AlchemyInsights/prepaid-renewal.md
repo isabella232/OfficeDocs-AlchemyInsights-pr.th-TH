@@ -13,16 +13,16 @@ ms.custom:
 - "662"
 - "1500012"
 ms.assetid: ba037d2d-3c99-4d01-8d60-ca5d624da9b1
-ms.openlocfilehash: 156b1b9563f2996dd4c9303ea1506e4c5e74917c
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: db7b3094291c476afde2769a9c803a53d4432319
+ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35371234"
+ms.lasthandoff: 08/13/2019
+ms.locfileid: "36388619"
 ---
 # <a name="prepaid-renewal"></a>ต่ออายุจ่ายล่วงหน้า
 
-1. ในศูนย์ดูแล ไปหน้าการ[บอกรับเป็นสมาชิก](https://go.microsoft.com/fwlink/p/?linkid=842054)หรือเลือก**การเรียกเก็บเงิน** \> **บอกรับเป็นสมาชิก**
+1. ในศูนย์ดูแล ไป**การเรียกเก็บเงิน**\>หน้าการ[บอกรับเป็นสมาชิก](https://go.microsoft.com/fwlink/p/?linkid=842054)
 
 2. เลือกการบอกรับเป็นสมาชิกที่จ่ายล่วงหน้าคุณต้องการขยาย จาก นั้นเลือก**ขยาย**
 
@@ -33,3 +33,5 @@ ms.locfileid: "35371234"
 5. ตรวจสอบว่า ข้อมูลถูกต้อง จาก นั้นเลือก**ถัดไป**
 
 6. เลือกปุ่มตัวเลือกเพื่อขยายวันสิ้นสุดของใบอนุญาตที่มีอยู่ จาก นั้นเลือก**ถัดไป**
+
+คุณกำลังใช้ศูนย์ดูแลแบบใหม่หรือไม่ สำหรับขั้นตอนใหม่ ดู[สิทธิ์การใช้งานเพื่อเพิ่ม หรือขยายการบอกรับเป็นสมาชิกที่ได้รับการชำระเงินสำหรับการใช้หมายเลขผลิตภัณฑ์](https://docs.microsoft.com/en-us/office365/admin/misc/add-licenses-using-product-key)

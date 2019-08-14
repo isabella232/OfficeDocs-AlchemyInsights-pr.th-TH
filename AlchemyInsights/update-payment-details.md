@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "428"
 - "1500016"
-ms.openlocfilehash: 76415c71ecfe81e38dbcbd55d2aca38dfeeaa38b
-ms.sourcegitcommit: 20b6a1fb3f0d899f3b204e3c066262d10623a4ea
+ms.openlocfilehash: a97f7ce806013e3454c2c89621acddf571e940ac
+ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 07/25/2019
-ms.locfileid: "35903738"
+ms.lasthandoff: 08/13/2019
+ms.locfileid: "36387791"
 ---
 # <a name="update-payment-details"></a>อัพเดตรายละเอียดของการชำระเงิน
 
-1. ในศูนย์ดูแล ไปหน้า[วิธีการชำระเงิน](https://go.microsoft.com/fwlink/p/?linkid=2018806)หรือเลือก**การเรียกเก็บเงิน** \> **วิธีการชำระเงิน**
+1. ในศูนย์ดูแล ไป**การเรียกเก็บเงิน**\>หน้า[วิธีการชำระเงิน](https://go.microsoft.com/fwlink/p/?linkid=2018806)
 
     > [!NOTE]
     > ถ้าคุณพบการวนรอบที่ส่งกลับไปโฮมเพจของผู้ดูแลก่อนการปรับปรุงของคุณจะเสร็จสมบูรณ์ ลองโหมด Inprivate หรือ Incognito
@@ -37,4 +37,4 @@ ms.locfileid: "35903738"
 
 5. เมื่อต้องการลบวิธีการชำระเงินนี้ เลือก**ลบ**
 
-ดูข้อมูลเพิ่มเติม[เพิ่ม การปรับปรุง หรือลบข้อมูลบัตรเครดิตหรือบัญชีธนาคารใน Office 365 สำหรับธุรกิจ](https://support.office.com/article/30ba9c83-50d8-4020-90ed-830a5b8c8724)และ[บัตรเครดิตการแก้ไขปัญหาเบื้องต้นและบัญชีธนาคาร](https://support.office.com/article/30ba9c83-50d8-4020-90ed-830a5b8c8724)
+ดูข้อมูลเพิ่มเติม[เพิ่ม การปรับปรุง หรือลบข้อมูลบัตรเครดิตหรือบัญชีธนาคารใน Office 365 สำหรับธุรกิจ](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account)และ[บัตรเครดิตการแก้ไขปัญหาเบื้องต้นและบัญชีธนาคาร](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account#troubleshooting-credit-cards-and-bank-accounts)

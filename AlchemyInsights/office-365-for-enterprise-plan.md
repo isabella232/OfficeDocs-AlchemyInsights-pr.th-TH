@@ -13,14 +13,13 @@ ms.custom:
 - "474"
 - "1500026"
 ms.assetid: 5e423a8a-db05-4c46-804b-b8d9c54ba62b
-ms.openlocfilehash: 4019bab45a1542e8a0ec45ca36f876f75e7d4c46
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 83c81a5b07377abe77155699817bb6527ad4a3e7
+ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35378796"
+ms.lasthandoff: 08/13/2019
+ms.locfileid: "36390675"
 ---
 # <a name="office-365-for-enterprise-plan"></a>Office 365 สำหรับองค์กรแผน
 
-มีแผนต่าง ๆ ห้ากับ Office 365 สำหรับองค์กร [เปรียบเทียบ Office 365 สำหรับองค์กรแผนและการกำหนดราคา](https://products.office.com/business/compare-more-office-365-for-business-plans)
-  
+มีแผนต่าง ๆ ห้ากับ Office 365 สำหรับองค์กร [เปรียบเทียบ Office 365 สำหรับองค์กรแผนและการกำหนดราคา](https://products.office.com/business/compare-more-office-365-for-business-plans)  

@@ -13,18 +13,18 @@ ms.custom:
 - "441"
 - "1500017"
 ms.assetid: 7dc125f8-491d-4bc2-a2f2-b73c7bda3035
-ms.openlocfilehash: 5d446cefffb1598a5d2c8cd17b6eba64205f00f2
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 886f6933daed7fc21c858591286b05b7093d627e
+ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35383656"
+ms.lasthandoff: 08/13/2019
+ms.locfileid: "36390855"
 ---
 # <a name="how-to-reactivate-a-subscription"></a>วิธีการเปิดใช้งานการสมัครใช้งาน
 
 ถ้าการบอกรับเป็นสมาชิกของคุณหมดอายุแล้ว ถูกยกเลิก หรือปิดใช้งาน โดย Microsoft คุณสามารถใน Microsoft 365 admin ศูนย์ในภายหลัง
   
-1. ในศูนย์ดูแล ไปหน้าการ[บอกรับเป็นสมาชิก](https://go.microsoft.com/fwlink/p/?linkid=842054)หรือเลือก**การเรียกเก็บเงิน** \> **บอกรับเป็นสมาชิก**
+1. ในศูนย์ดูแล ไป**การเรียกเก็บเงิน**\>หน้าการ[บอกรับเป็นสมาชิก](https://go.microsoft.com/fwlink/p/?linkid=842054)
 
 2. เลือกการบอกรับเป็นสมาชิกที่คุณต้องการเปิดใช้งานใหม่
 
@@ -36,5 +36,4 @@ ms.locfileid: "35383656"
 
 6. ถ้าไม่ปรากฏการบอกรับเป็นสมาชิก ที่ใช้งานอยู่หลังจากไม่กี่นาที รีเฟรชหน้า
 
-สำหรับข้อมูลเพิ่มเติม ดู:[ต่ออายุ Office 365 สำหรับธุรกิจ](https://support.office.com/article/8d83b530-f4ca-47f6-a666-e5791cbacc7e)
-  
+สำหรับข้อมูลเพิ่มเติม ดู:[ต่ออายุ Office 365 สำหรับธุรกิจ](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/renew-your-subscription)

@@ -13,18 +13,18 @@ ms.custom:
 - "488"
 - "1500033"
 ms.assetid: 12edf610-e7f1-4693-b767-a8d67b09c10b
-ms.openlocfilehash: beed41b96dde1b120a98391187424367e868071e
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: d11e5e28dbc524e9e894c0d2e504495f3811a763
+ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35366768"
+ms.lasthandoff: 08/13/2019
+ms.locfileid: "36387863"
 ---
 # <a name="trying-to-find-a-trial"></a>กำลังพยายามค้นหาการทดลองหรือไม่
 
-ถ้าคุณต้องการที่จะลองใหม่การบริการคุณสามารถค้นหารายการของการบอกรับเป็นสมาชิกที่มีพร้อมใช้งานสำหรับรุ่นทดลองใช้ใน Microsoft 365 admin ศูนย์
+ถ้าคุณต้องการที่จะลองใหม่การบริการคุณสามารถค้นหารายการของการบอกรับเป็นสมาชิกที่มีพร้อมใช้งานสำหรับรุ่นทดลองใช้ในศูนย์กลางการดูแล
   
-1. ไปเพจการ[ซื้อบริการ](https://go.microsoft.com/fwlink/p/?linkid=868433)หรือเลือก**การเรียกเก็บเงิน** \> **บริการการซื้อ**
+1. ในศูนย์ดูแล ไป**การเรียกเก็บเงิน**\>หน้า[บริการการซื้อ](https://go.microsoft.com/fwlink/p/?linkid=868433)
 
 2. การสมัครใช้งานที่ตรงกับความต้องการของ เมาส์ ค้นหา และเลือก**เริ่มทดลองใช้ฟรี**
 

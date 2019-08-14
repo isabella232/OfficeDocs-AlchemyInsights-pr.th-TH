@@ -3,15 +3,6 @@
 
 
 
-## <a name="week-of-july-01-2019"></a>สัปดาห์ของเดือน 01 กรกฎาคม 2019
-
-
-| เผยแพร่บน |ชื่อเรื่องหัวข้อ | การเปลี่ยนแปลง |
-|------|------------|--------|
-| วันที่ 1/7/2019 | [รายงานบันทึกการตรวจสอบ SharePoint แบบคลาสสิก](/AlchemyInsights/sharepoint-and-onedrive-audit-logs) | การปรับเปลี่ยน |
-| วันที่ 2/7/2019 | [รายละเอียดเพิ่มเติมเกี่ยวกับนโยบายการเก็บข้อมูล](/AlchemyInsights/office-security-compliance-retention-policy) | การปรับเปลี่ยน |
-
-
 ## <a name="week-of-july-08-2019"></a>สัปดาห์ของเดือน 08 กรกฎาคม 2019
 
 
@@ -220,3 +211,69 @@
 | 8/2/2019 | [จัดระเบียบอีเมลของคุณใน Outlook บนเว็บ](/AlchemyInsights/owa-organize-email) | การปรับเปลี่ยน |
 | 8/2/2019 | [พิมพ์อีเมล ปฏิทิน และสิ่งที่แนบมาใน Outlook บนเว็บ](/AlchemyInsights/owa-print-email-calendars-attachments) | การปรับเปลี่ยน |
 | 8/2/2019 | [ตอบรับการอ่านใน Outlook บนเว็บ](/AlchemyInsights/owa-read-receipts) | การปรับเปลี่ยน |
+
+
+## <a name="week-of-august-05-2019"></a>สัปดาห์ของเดือน 05 สิงหาคม 2019
+
+
+| เผยแพร่บน |ชื่อเรื่องหัวข้อ | การเปลี่ยนแปลง |
+|------|------------|--------|
+| วันที่ 5/8/2019 | [วิธีการตอบกลับหรือส่งต่อข้อความใน Outlook บนเว็บ](/AlchemyInsights/owa-reply-forward-messages) | การปรับเปลี่ยน |
+| วันที่ 5/8/2019 | [8000003 ค้นหาจดหมายและบุคคลใน Outlook บนเว็บ](/AlchemyInsights/owa-search-mail-and-people) | การปรับเปลี่ยน |
+| วันที่ 5/8/2019 | [สร้างลายเซ็นใน Outlook บนเว็บ](/AlchemyInsights/owa-signature) | การปรับเปลี่ยน |
+| วันที่ 5/8/2019 | [S/MIME ใน Outlook บนเว็บ](/AlchemyInsights/owa-smime) | การปรับเปลี่ยน |
+| วันที่ 5/8/2019 | [หยุดข้อความให้ไปที่โฟลเดอร์อีเมลขยะใน Outlook บนเว็บ](/AlchemyInsights/owa-stop-email-from-going-to-junk-folder) | การปรับเปลี่ยน |
+| วันที่ 5/8/2019 | [ปิดเน้นกล่องขาเข้า](/AlchemyInsights/owa-turn-off-focused-inbox) | การปรับเปลี่ยน |
+| วันที่ 5/8/2019 | [1332 OWA - กฎของกล่องขาเข้าจะไม่ดำเนินการสำหรับกล่องจดหมาย](/AlchemyInsights/owainbox-rule-s-are-not-executing-for-a-mailbox) | การปรับเปลี่ยน |
+| วันที่ 6/8/2019 | [การทดสอบรูปแบบอินไลน์ Alchemy](/AlchemyInsights/testing-alchemy-inline-images) | การปรับเปลี่ยน |
+| วันที่ 6/8/2019 | [การป้องกันการคุกคามขั้นสูงใน SharePoint และ OneDrive](/AlchemyInsights/advanced-threat-protection-in-sharepoint) | การปรับเปลี่ยน |
+| วันที่ 6/8/2019 | [Ransomware โจมตีใน SharePoint หรือ OneDrive](/AlchemyInsights/ransomware-attack-in-sharepoint) | การปรับเปลี่ยน |
+| วันที่ 6/8/2019 | [สมัยใหม่ไซต์เป็นไซต์ราก](/AlchemyInsights/modern-site-as-the-root-site) | การปรับเปลี่ยน |
+| วันที่ 6/8/2019 | [ปัญหาขณะโยกย้ายข้อมูลกับ SharePoint แบบออนไลน์](/AlchemyInsights/sharepoint-data-size-migration-issues) | การปรับเปลี่ยน |
+| วันที่ 6/8/2019 | [ดาวน์โหลดหรือป้องกันไม่ให้ดาวน์โหลดแฟ้มจาก OneDrive หรือ SharePoint](/AlchemyInsights/sharepoint-onedrive-download-files) | การปรับเปลี่ยน |
+| วันที่ 6/8/2019 | [การแก้ไขปัญหาการเข้าถึงปฏิเสธข้อความ OneDrive สำหรับไซต์ทางธุรกิจ](/AlchemyInsights/sharepoint-onedrive-restore-users-admin%20rights) | การปรับเปลี่ยน |
+| วันที่ 6/8/2019 | [คืนค่าโฟลเดอร์หรือแฟ้มที่ถูกลบไปแล้ว](/AlchemyInsights/sharepoint-deleted-items-restore) | การปรับเปลี่ยน |
+| วันที่ 6/8/2019 | [การกำหนดรุ่นใน SharePoint และ OneDrive](/AlchemyInsights/sharepoint-enable-versioning-list-library) | การปรับเปลี่ยน |
+| วันที่ 6/8/2019 | [ข้อมูลการลบและการเก็บข้อมูล OneDrive](/AlchemyInsights/one-drive-retention-and-deletion) | การปรับเปลี่ยน |
+| วันที่ 7/8/2019 | [ป้องกันไม่ให้แฟ้มถูกดาวน์โหลดจาก SharePoint หรือ OneDrive](/AlchemyInsights/prevent-download) | การปรับเปลี่ยน |
+| วันที่ 7/8/2019 | [คืนค่าโฟลเดอร์หรือแฟ้มที่ถูกลบไปแล้ว](/AlchemyInsights/sharepoint-deleted-items-restore) | การปรับเปลี่ยน |
+| วันที่ 7/8/2019 | [เปิดใช้งานการใช้ร่วมกันภายนอกใน SharePoint แบบออนไลน์](/AlchemyInsights/sharepoint-enable-external-sharing) | การปรับเปลี่ยน |
+| วันที่ 7/8/2019 | [แก้ไขปัญหาการซิงค์ของ OneDrive](/AlchemyInsights/fix-onedrive-sync-issues) | การปรับเปลี่ยน |
+| วันที่ 7/8/2019 | [แก้ไขปัญหาการซิงค์ของ OneDrive](/AlchemyInsights/fix-onedrive-sync-problems) | การปรับเปลี่ยน |
+| วันที่ 7/8/2019 | [ไม่มีการส่งอีเมลการเวิร์กโฟลว์](/AlchemyInsights/workflow-email-not-being-sent) | การปรับเปลี่ยน |
+| วันที่ 7/8/2019 | [ไม่สามารถเริ่มต้นเวิร์กโฟลว์](/AlchemyInsights/workflow-is-not-starting) | การปรับเปลี่ยน |
+| วันที่ 7/8/2019 | [การป้องกันการคุกคามขั้นสูงใน SharePoint และ OneDrive](/AlchemyInsights/advanced-threat-protection-in-sharepoint) | การปรับเปลี่ยน |
+| วันที่ 7/8/2019 | [การเชื่อมโยงไซต์ฮับ](/AlchemyInsights/associate-a-hub-site) | การปรับเปลี่ยน |
+| วันที่ 7/8/2019 | [การสร้างไซต์ SharePoint](/AlchemyInsights/create-a-sharepoint-site) | การปรับเปลี่ยน |
+| วันที่ 7/8/2019 | [สมัยใหม่ไซต์เป็นไซต์ราก](/AlchemyInsights/modern-site-as-the-root-site) | การปรับเปลี่ยน |
+| วันที่ 7/8/2019 | [เก็บข้อมูล OneDrive และการลบ](/AlchemyInsights/one-drive-retention-and-deletion) | การปรับเปลี่ยน |
+| วันที่ 7/8/2019 | [ปัญหาทั่วไปของ OneDrive และวิธีแก้ปัญหา](/AlchemyInsights/onedrive-common-issues-and-resolutions) | การปรับเปลี่ยน |
+| วันที่ 7/8/2019 | [Ransomware โจมตีใน SharePoint หรือ OneDrive](/AlchemyInsights/ransomware-attack-in-sharepoint) | การปรับเปลี่ยน |
+| วันที่ 7/8/2019 | [ภายนอกที่ใช้ร่วมกันใน SharePoint แบบออนไลน์](/AlchemyInsights/sharepoint-enable-external-sharing-to-share-documents) | การปรับเปลี่ยน |
+| วันที่ 7/8/2019 | [การกำหนดรุ่นใน SharePoint และ OneDrive](/AlchemyInsights/sharepoint-enable-versioning-list-library) | การปรับเปลี่ยน |
+| วันที่ 7/8/2019 | [ผู้ติดต่อภายนอกจะไม่สามารถยอมรับการเชิญร่วมกัน](/AlchemyInsights/sharepoint-external-contact-cannot-accept-invite) | การปรับเปลี่ยน |
+| วันที่ 7/8/2019 | [ปัญหาทั่วไปของ SharePoint แบบออนไลน์และวิธีแก้ปัญหา](/AlchemyInsights/sharepoint-get-started-faq) | การปรับเปลี่ยน |
+| วันที่ 7/8/2019 | [สมัยใหม่ไซต์เป็นไซต์ราก](/AlchemyInsights/sharepoint-modernize-classic-site) | การปรับเปลี่ยน |
+| วันที่ 7/8/2019 | [ดาวน์โหลดหรือป้องกันไม่ให้ดาวน์โหลดแฟ้มจาก OneDrive หรือ SharePoint](/AlchemyInsights/sharepoint-onedrive-download-files) | การปรับเปลี่ยน |
+| วันที่ 7/8/2019 | [การติด ตั้ง ติดตั้ง และซิงค์แฟ้ม OneDrive หรือ SharePoint บน Mac](/AlchemyInsights/sharepoint-onedrive-sync-files-mac) | การปรับเปลี่ยน |
+| วันที่ 7/8/2019 | [แก้ไขปัญหา "เปิดด้วย Explorer" ใน SharePoint แบบออนไลน์](/AlchemyInsights/sync-sharepoint-files-with-onedrive) | การปรับเปลี่ยน |
+| วันที่ 8/8/2019 | [การป้องกันการคุกคามขั้นสูงใน SharePoint และ OneDrive](/AlchemyInsights/advanced-threat-protection-in-sharepoint) | การปรับเปลี่ยน |
+| วันที่ 8/8/2019 | [การเชื่อมโยงไซต์ฮับ](/AlchemyInsights/associate-a-hub-site) | การปรับเปลี่ยน |
+| วันที่ 8/8/2019 | [การสร้างไซต์ SharePoint](/AlchemyInsights/create-a-sharepoint-site) | การปรับเปลี่ยน |
+| วันที่ 8/8/2019 | [404 เพราะข้อผิดพลาด: ไม่พบแฟ้ม](/AlchemyInsights/error-404-access-site-file-sharepoint-onedrive) | การปรับเปลี่ยน |
+| วันที่ 8/8/2019 | [แก้ไขปัญหาการซิงค์ OneDrive บน Mac เป็น](/AlchemyInsights/fix-onedrive-sync-issues-on-a-mac) | การปรับเปลี่ยน |
+| วันที่ 8/8/2019 | [แผนผังไลบรารี SharePoint ไปยังไดรฟ์เครือข่าย](/AlchemyInsights/map-sharepoint-library-to-network-drive-new) | การปรับเปลี่ยน |
+| วันที่ 8/8/2019 | [สมัยใหม่ไซต์เป็นไซต์ราก](/AlchemyInsights/modern-site-as-the-root-site) | การปรับเปลี่ยน |
+| วันที่ 8/8/2019 | [เก็บข้อมูล OneDrive และการลบ](/AlchemyInsights/one-drive-retention-and-deletion) | การปรับเปลี่ยน |
+| วันที่ 8/8/2019 | [Ransomware โจมตีใน SharePoint หรือ OneDrive](/AlchemyInsights/ransomware-attack-in-sharepoint) | การปรับเปลี่ยน |
+| วันที่ 8/8/2019 | [คืนค่าโฟลเดอร์หรือแฟ้มที่ถูกลบไปแล้ว](/AlchemyInsights/sharepoint-deleted-items-restore) | การปรับเปลี่ยน |
+| วันที่ 8/8/2019 | [ผู้ใช้ภายนอกจะไม่สามารถเข้าถึงเนื้อหาใน SharePoint แบบออนไลน์](/AlchemyInsights/sharepoint-external-sharing-issues) | การปรับเปลี่ยน |
+| วันที่ 8/8/2019 | [ภาพรวมไซต์ของ SharePoint ฮับ](/AlchemyInsights/sharepoint-hub-sites) | การปรับเปลี่ยน |
+| วันที่ 8/8/2019 | [ดาวน์โหลดหรือป้องกันไม่ให้ดาวน์โหลดแฟ้มจาก OneDrive หรือ SharePoint](/AlchemyInsights/sharepoint-onedrive-download-files) | การปรับเปลี่ยน |
+| วันที่ 8/8/2019 | [จัดการ schema ค้นหาใน SharePoint แบบออนไลน์](/AlchemyInsights/sharepoint-search-schema) | การปรับเปลี่ยน |
+| วันที่ 8/8/2019 | [ขั้นตอนในการสร้างเวิร์กโฟลว์ SharePoint](/AlchemyInsights/steps-to-create-a-sharepoint-workflow) | การปรับเปลี่ยน |
+| วันที่ 8/8/2019 | [สลับไซต์รากของคุณแบบคลาสสิคกับไซต์สมัยใหม่](/AlchemyInsights/swap-your-classic-root-site-with-a-modern-site) | การปรับเปลี่ยน |
+| วันที่ 8/8/2019 | [แก้ไขปัญหา "เปิดด้วย Explorer" ใน SharePoint แบบออนไลน์](/AlchemyInsights/sync-sharepoint-files-with-onedrive) | การปรับเปลี่ยน |
+| วันที่ 8/8/2019 | [เวิร์กโฟลว์การแก้ไขปัญหา](/AlchemyInsights/workflow-troubleshooting) | การปรับเปลี่ยน |
+| วันที่ 8/8/2019 | [ล็อกการเปิดใช้งานและตรวจสอบการค้นหา](/AlchemyInsights/enable-auditing) | การปรับเปลี่ยน |
+| วันที่ 8/8/2019 | [บันทึกการตรวจสอบเปิดใช้งานและการค้นหา](/AlchemyInsights/enable-auditing) | การปรับเปลี่ยน |

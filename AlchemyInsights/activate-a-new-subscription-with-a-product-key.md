@@ -13,17 +13,15 @@ ms.custom:
 - "480"
 - "1500028"
 ms.assetid: c7b98eab-707b-4487-a463-294b010f0da6
-ms.openlocfilehash: 7907f873e6873239c0a981432036899c5b917728
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 1e1a822ddcb382d21dc6045b12db9762cecd4e5f
+ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35359496"
+ms.lasthandoff: 08/13/2019
+ms.locfileid: "36385775"
 ---
 # <a name="activate-a-new-subscription-with-a-product-key"></a>เปิดใช้งานการบอกรับเป็นสมาชิกใหม่กับหมายเลขผลิตภัณฑ์
 
-1. เมื่อต้องการเปิดใช้งานการบอกรับเป็นสมาชิกใหม่กับหมายเลขผลิตภัณฑ์ของคุณ ไป[https://office.com/setupkey](https://office.com/setupkey)หน้า 
-    
-2. ป้อนหมายเลขผลิตภัณฑ์ของ Office 365 และทำตามพร้อมท์เพื่อเปิดใช้งานการสมัครใช้งาน ถ้าคุณมีปัญหาเกี่ยวกับการเปิดใช้งาน เช็คเอาท์[รายการของข้อผิดพลาดคีย์ผลิตภัณฑ์ทั่วไปและการแก้ไขปัญหา](https://support.office.com/article/88d337ab-e7b1-43eb-a25e-7d6204e91099)นี้
-    
+1. เมื่อต้องการเปิดใช้งานการบอกรับเป็นสมาชิกใหม่กับหมายเลขผลิตภัณฑ์ของคุณ ไป[https://office.com/setupkey](https://office.com/setupkey)หน้า
 
+2. ป้อนหมายเลขผลิตภัณฑ์ของ Office 365 และทำตามพร้อมท์เพื่อเปิดใช้งานการสมัครใช้งาน ถ้าคุณมีปัญหาเกี่ยวกับการเปิดใช้งาน เช็คเอาท์[รายการของข้อผิดพลาดคีย์ผลิตภัณฑ์ทั่วไปและการแก้ไขปัญหา](https://docs.microsoft.com/en-us/office365/admin/misc/product-key-errors-and-solutions)นี้
