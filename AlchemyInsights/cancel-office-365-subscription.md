@@ -11,23 +11,21 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 8518f535-1bd3-4bf0-8e6e-e3468459bd5e
-ms.openlocfilehash: 545d39d9ea83acfc2e5def49ac3877edbc8275de
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 353e0b4bb3ac1e0ecd9b7436dde6860ba8950925
+ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32395528"
+ms.lasthandoff: 08/13/2019
+ms.locfileid: "36386195"
 ---
-# <a name="cancelling-your-office-365-subscription"></a><span data-ttu-id="422cc-102">กำลังยกเลิกการสมัครใช้งาน Office 365 ได้อย่างไร</span><span class="sxs-lookup"><span data-stu-id="422cc-102">Cancelling your Office 365 subscription?</span></span>
+# <a name="cancelling-your-office-365-subscription"></a><span data-ttu-id="a68f0-102">กำลังยกเลิกการสมัครใช้งาน Office 365 ได้อย่างไร</span><span class="sxs-lookup"><span data-stu-id="a68f0-102">Cancelling your Office 365 subscription?</span></span>
 
-<span data-ttu-id="422cc-103">เราขออภัยเมื่อต้องการดูคุณไป แต่ต่อไปนี้เป็นตัวเลือกของคุณเมื่อต้องการยกเลิกการสมัครใช้งาน:</span><span class="sxs-lookup"><span data-stu-id="422cc-103">We're sorry to see you go, but here are your options to cancel your subscription:</span></span>
+<span data-ttu-id="a68f0-103">เราขออภัยเมื่อต้องการดูคุณไป แต่ต่อไปนี้เป็นตัวเลือกของคุณเมื่อต้องการยกเลิกการสมัครใช้งาน:</span><span class="sxs-lookup"><span data-stu-id="a68f0-103">We're sorry to see you go, but here are your options to cancel your subscription:</span></span>
   
-- <span data-ttu-id="422cc-104">ถ้าคุณเป็นลูกค้าทดลอง ไม่มีสิ่งใดที่จะยกเลิก</span><span class="sxs-lookup"><span data-stu-id="422cc-104">If you are a trial customer, there is nothing to cancel.</span></span> <span data-ttu-id="422cc-105">การบอกรับเป็นสมาชิกทดลองใช้หมดอายุโดยอัตโนมัติยกเว้นว่าคุณระบุวิธีการชำระเงิน</span><span class="sxs-lookup"><span data-stu-id="422cc-105">Trial subscriptions expire automatically unless you provide a payment method.</span></span>
-    
-- <span data-ttu-id="422cc-106">ถ้าคุณมีสิทธิ์การใช้งานน้อยกว่า 25 กำหนด คุณสามารถยกเลิกการสมัครใช้งานออนไลน์</span><span class="sxs-lookup"><span data-stu-id="422cc-106">If you have fewer than 25 assigned licenses, you can cancel your subscription online.</span></span> <span data-ttu-id="422cc-107">ไปที่[การเรียกเก็บเงิน](https://admin.microsoft.com/adminportal/home#/subscriptions)\>ที่**บอกรับเป็นสมาชิก**และจากนั้น เลือก**การกระทำเพิ่มเติม** \> **ยกเลิกการบอกรับเป็นสมาชิก**</span><span class="sxs-lookup"><span data-stu-id="422cc-107">Go to [Billing](https://admin.microsoft.com/adminportal/home#/subscriptions) \> **Subscriptions**, and then choose **More actions** \> **Cancel subscription**.</span></span>
-    
-- <span data-ttu-id="422cc-108">ถ้าคุณมีใบอนุญาตที่มอบหมายมากกว่า 25 คุณสามารถอย่างใดอย่างหนึ่งเอาผู้ใช้ออกได้จนกว่าคุณได้น้อยกว่า 25 หรือใช้ตัวเลือก "แจ้งให้เราเรียกคุณ" การพูดคุยกับวิศวกรฝ่ายสนับสนุน</span><span class="sxs-lookup"><span data-stu-id="422cc-108">If you have more than 25 assigned licenses, you can either remove users until you have fewer than 25, or use the "Let us call you" option to talk to a support engineer.</span></span>
-    
-- <span data-ttu-id="422cc-109">เมื่อต้องการเรียนรู้เพิ่มเติม เกี่ยวกับการยกเลิกการสมัครใช้งาน หรือ สำหรับคำแนะนำทีละขั้นตอน ดู[ยกเลิก Office 365 สำหรับธุรกิจ](https://support.office.com/article/Cancel-Office-365-for-business-b1bc0bef-4608-4601-813a-cdd9f746709a?wt.mc_id=o365_portal_mmaven&amp;ui=en-US&amp;rs=en-US&amp;ad=US.aspx)</span><span class="sxs-lookup"><span data-stu-id="422cc-109">To learn more about canceling a subscription, or for step-by-step instructions, see [Cancel Office 365 for business](https://support.office.com/article/Cancel-Office-365-for-business-b1bc0bef-4608-4601-813a-cdd9f746709a?wt.mc_id=o365_portal_mmaven&amp;ui=en-US&amp;rs=en-US&amp;ad=US.aspx).</span></span>
-    
+- <span data-ttu-id="a68f0-104">ถ้าคุณเป็นลูกค้าทดลอง ไม่มีสิ่งใดที่จะยกเลิก</span><span class="sxs-lookup"><span data-stu-id="a68f0-104">If you are a trial customer, there is nothing to cancel.</span></span> <span data-ttu-id="a68f0-105">การบอกรับเป็นสมาชิกทดลองใช้หมดอายุโดยอัตโนมัติยกเว้นว่าคุณระบุวิธีการชำระเงิน</span><span class="sxs-lookup"><span data-stu-id="a68f0-105">Trial subscriptions expire automatically unless you provide a payment method.</span></span>
 
+- <span data-ttu-id="a68f0-106">ถ้าคุณมีสิทธิ์การใช้งานน้อยกว่า 25 กำหนด คุณสามารถยกเลิกการสมัครใช้งานออนไลน์</span><span class="sxs-lookup"><span data-stu-id="a68f0-106">If you have fewer than 25 assigned licenses, you can cancel your subscription online.</span></span> <span data-ttu-id="a68f0-107">ไปที่**การเรียกเก็บเงิน**\>ที่[บอกรับเป็นสมาชิก](https://go.microsoft.com/fwlink/p/?linkid=842054)และจากนั้น เลือก**การกระทำเพิ่มเติม** \> **ยกเลิกการบอกรับเป็นสมาชิก**</span><span class="sxs-lookup"><span data-stu-id="a68f0-107">Go to **Billing** \> [Subscriptions](https://go.microsoft.com/fwlink/p/?linkid=842054), and then choose **More actions** \> **Cancel subscription**.</span></span>
+
+- <span data-ttu-id="a68f0-108">ถ้าคุณมีใบอนุญาตที่มอบหมายมากกว่า 25 คุณสามารถอย่างใดอย่างหนึ่งเอาผู้ใช้ออกได้จนกว่าคุณได้น้อยกว่า 25 หรือใช้ตัวเลือก "แจ้งให้เราเรียกคุณ" การพูดคุยกับวิศวกรฝ่ายสนับสนุน</span><span class="sxs-lookup"><span data-stu-id="a68f0-108">If you have more than 25 assigned licenses, you can either remove users until you have fewer than 25, or use the "Let us call you" option to talk to a support engineer.</span></span>
+
+- <span data-ttu-id="a68f0-109">เมื่อต้องการเรียนรู้เพิ่มเติม เกี่ยวกับการยกเลิกการสมัครใช้งาน หรือ สำหรับคำแนะนำทีละขั้นตอน ดู[การยกเลิกการสมัครใช้งาน](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/cancel-your-subscription)</span><span class="sxs-lookup"><span data-stu-id="a68f0-109">To learn more about canceling a subscription, or for step-by-step instructions, see [Cancel your subscription](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/cancel-your-subscription).</span></span>
