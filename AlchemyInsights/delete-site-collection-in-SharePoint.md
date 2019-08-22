@@ -8,12 +8,12 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: ''
-ms.openlocfilehash: a6ff804fae307212c454b80ead863667dbdbe781
-ms.sourcegitcommit: ec6f8091c3d96c2d28296b70ecf6ee2857f9c335
+ms.openlocfilehash: bb5d99e767d5344bab509df4fe2349e8760bf17b
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 06/21/2019
-ms.locfileid: "35121408"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36513126"
 ---
 # <a name="delete-a-site-collection"></a>ลบไซต์คอลเลกชัน
 
@@ -28,4 +28,4 @@ ms.locfileid: "35121408"
 
 คุณควรแจ้งให้ผู้ดูแลระบบไซต์และเจ้าของไซต์ย่อยใด ๆ ก่อนที่คุณลบไซต์เพื่อให้สามารถย้ายข้อมูลไปยังตำแหน่งอื่น และนอกจากนี้ ให้แจ้งผู้ใช้เมื่อไซต์จะถูกลบ 
 
-ดูข้อมูลเพิ่มเติม[ลบไซต์คอลเลกชัน](https://docs.microsoft.com/en-us/sharepoint/delete-site-collection) 
+ดูข้อมูลเพิ่มเติม[ลบไซต์คอลเลกชัน](https://docs.microsoft.com/sharepoint/delete-site-collection) 

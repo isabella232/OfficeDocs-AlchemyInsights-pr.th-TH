@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: c8f0d578-272b-41f2-8a67-af363969203c
-ms.openlocfilehash: a4e1445e74137b38af4bb1d753082facd30c4cae
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 52d8fd39b21b2ac8f1a9965981e8fdc536ea18f0
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32408522"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36519282"
 ---
 # <a name="change-the-default-onedrive-storage-space-for-your-users"></a>เปลี่ยนพื้นที่การจัดเก็บ OneDrive เริ่มต้นสำหรับผู้ใช้ของคุณ
 

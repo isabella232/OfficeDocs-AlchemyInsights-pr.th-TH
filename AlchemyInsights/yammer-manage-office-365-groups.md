@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "995"
 - "6000003"
-ms.openlocfilehash: 93f55a70d696dc24b4f502dfacd4c1340582878a
-ms.sourcegitcommit: e17e7d17fdb638349bb320b318085138d18f284c
+ms.openlocfilehash: 9c2742b715064d55d9525860f78c530294f90999
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 07/16/2019
-ms.locfileid: "35753376"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36530982"
 ---
 # <a name="manage-office-365-groups-in-yammer"></a>จัดการกลุ่ม Office 365 ใน Yammer
 
@@ -30,4 +30,4 @@ ms.locfileid: "35753376"
 
   2. เรียกดู**ผู้ดูแลเครือข่าย การตั้งค่าการรักษาความปลอดภัย**และให้แน่ใจว่า**Office 365 Identity**บังคับใช้สำหรับผู้ใช้ Yammer
 
-สำหรับข้อมูลเพิ่มเติมเกี่ยวกับกลุ่ม Office 365 และ Yammer โปรดดู[Yammer และ office 365 กลุ่ม](https://docs.microsoft.com/en-us/yammer/manage-yammer-groups/yammer-and-office-365-groups?redirectSourcePath=%252fen-us%252farticle%252fYammer-and-Office-365-Groups-d8c239dc-a48b-47ab-b85e-6b4b8191a869) สำหรับข้อมูลเกี่ยวกับการจัดการกลุ่ม ดู[จัดการกลุ่มใน Yammer](https://support.office.com/article/Manage-a-group-in-Yammer-6e05c6d6-5548-4c88-89cd-e6757a514ef2)
+สำหรับข้อมูลเพิ่มเติมเกี่ยวกับกลุ่ม Office 365 และ Yammer โปรดดู[Yammer และ office 365 กลุ่ม](https://docs.microsoft.com/yammer/manage-yammer-groups/yammer-and-office-365-groups?redirectSourcePath=%252fen-us%252farticle%252fYammer-and-Office-365-Groups-d8c239dc-a48b-47ab-b85e-6b4b8191a869) สำหรับข้อมูลเกี่ยวกับการจัดการกลุ่ม ดู[จัดการกลุ่มใน Yammer](https://support.office.com/article/Manage-a-group-in-Yammer-6e05c6d6-5548-4c88-89cd-e6757a514ef2)

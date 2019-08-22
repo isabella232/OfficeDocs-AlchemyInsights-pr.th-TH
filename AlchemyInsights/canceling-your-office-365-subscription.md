@@ -13,12 +13,12 @@ ms.custom:
 - "4"
 - "1400001"
 ms.assetid: e0ba53f0-3b0a-4082-a42f-40f2b45ad91a
-ms.openlocfilehash: eddf21bfa9e891baf054ac53abe9affb95305688
-ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
+ms.openlocfilehash: 548fef4d13a466e82c98d40fb25e546e45a871f5
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 08/13/2019
-ms.locfileid: "36387280"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36519711"
 ---
 # <a name="canceling-your-office-365-subscription"></a>การยกเลิกการสมัครใช้งาน Office 365 ได้อย่างไร
 
@@ -30,4 +30,4 @@ ms.locfileid: "36387280"
 
 - ถ้าคุณมีใบอนุญาตที่มอบหมายมากกว่า 25 คุณสามารถอย่างใดอย่างหนึ่งเอาผู้ใช้ออกได้จนกว่าคุณได้น้อยกว่า 25 หรือใช้ตัวเลือก "แจ้งให้เราเรียกคุณ" การพูดคุยกับวิศวกรฝ่ายสนับสนุน
 
-- เมื่อต้องการเรียนรู้เพิ่มเติม เกี่ยวกับการยกเลิกการสมัครใช้งาน หรือ สำหรับคำแนะนำทีละขั้นตอน ดู[การยกเลิกการสมัครใช้งาน](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/cancel-your-subscription)
+- เมื่อต้องการเรียนรู้เพิ่มเติม เกี่ยวกับการยกเลิกการสมัครใช้งาน หรือ สำหรับคำแนะนำทีละขั้นตอน ดู[การยกเลิกการสมัครใช้งาน](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/cancel-your-subscription)
