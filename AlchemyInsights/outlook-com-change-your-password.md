@@ -13,12 +13,12 @@ ms.custom:
 - "201"
 - "8000002"
 ms.assetid: 4dfaeb2a-2cef-444d-9415-c68a50df1a49
-ms.openlocfilehash: e4f07cb5a56c970c38fcd6af15a2d8e25f174219
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: b001cf17c2dc77d6012768ff4ee5dd23dc525215
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35376096"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36547438"
 ---
 # <a name="change-your-password"></a>เปลี่ยนรหัสผ่านของคุณ
 
