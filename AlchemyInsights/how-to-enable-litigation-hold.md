@@ -13,12 +13,12 @@ ms.custom:
 - "976"
 - "3100023"
 ms.assetid: ''
-ms.openlocfilehash: 5d88e5bf12d244943e1d985522deb2443f6bb844
-ms.sourcegitcommit: 699ac3b0d66e0640f8e933eba3c2a4ba1cfcf3c7
+ms.openlocfilehash: faca9675b6bd7383684ff728380e1e25c03c227e
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 07/30/2019
-ms.locfileid: "35937877"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36540776"
 ---
 # <a name="place-a-mailbox-on-legal-hold"></a>ระงับกล่องจดหมายทางกฎหมาย
 
@@ -26,4 +26,4 @@ ms.locfileid: "35937877"
 
 - เมื่อต้องการเปิดใช้งานการดำเนินคดีค้างไว้สำหรับผู้ใช้คนเดียว[ให้ทำตามขั้นตอนเหล่านี้](https://docs.microsoft.com/office365/SecurityCompliance/place-a-mailbox-on-litigation-hold) เมื่อมีการดำเนินคดีค้างไว้จะเปิดใช้งาน เนื้อหาทั้งหมดในกล่องจดหมายจะถูกรักษาไว้
 
-- เมื่อต้องการวางการหยุดบนกล่องจดหมายทั้งหมดในองค์กรของคุณ คุณสามารถใช้นโยบายการเก็บข้อมูล Office 365 โดย[ทำตามขั้นตอนเหล่านี้](https://docs.microsoft.com/en-us/office365/securitycompliance/create-a-litigation-hold) หมายเหตุว่า สำหรับนโยบายการเก็บข้อมูลทั่วทั้งองค์กร ผู้ใช้ใหม่จะถูกกำหนดโดยอัตโนมัติไปยังกรมธรรม์
+- เมื่อต้องการวางการหยุดบนกล่องจดหมายทั้งหมดในองค์กรของคุณ คุณสามารถใช้นโยบายการเก็บข้อมูล Office 365 โดย[ทำตามขั้นตอนเหล่านี้](https://docs.microsoft.com/office365/securitycompliance/create-a-litigation-hold) หมายเหตุว่า สำหรับนโยบายการเก็บข้อมูลทั่วทั้งองค์กร ผู้ใช้ใหม่จะถูกกำหนดโดยอัตโนมัติไปยังกรมธรรม์

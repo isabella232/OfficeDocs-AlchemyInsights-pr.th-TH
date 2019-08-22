@@ -13,14 +13,14 @@ ms.custom:
 - "1839"
 - "8000014"
 - "9000249"
-ms.openlocfilehash: 133cf9ba507e551d00a3f109f7e3ef7bddc7abed
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 2c50650d25fc826a00e198fda2aab6f126db95ac
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35376370"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36537372"
 ---
-# <a name="change-your-language-date-and-time-format-or-time-zone"></a>เปลี่ยนภาษาของคุณ วัน และรูปแบบเวลา หรือโซนเวลา
+# <a name="change-your-language-date-and-time-format-or-time-zone-in-outlookcom"></a>เปลี่ยนภาษาของคุณ วัน และรูปแบบเวลา หรือโซนเวลาใน Outlook.com
 
 1. เปิดของคุณ[ภาษา และเวลาตั้งค่า](https://go.microsoft.com/fwlink/?linkid=2085505)
 1. เลือกภาษา รูปแบบวัน เวลารูปแบบ และโซนเวลาที่คุณต้องการใช้

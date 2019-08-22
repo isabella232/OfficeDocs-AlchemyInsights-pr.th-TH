@@ -7,15 +7,13 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 8110efbf-917f-46ce-af1a-75a8a1d49510
-ms.openlocfilehash: 108bed3dc8ca617abfaba2f7f1aa27a672f3d8c7
-ms.sourcegitcommit: 241e21b6da226563bf70bdb1f5bad3d91c38cd2c
+ms.openlocfilehash: 814e2157147b192d9a23084ed6d9715777a4dc3d
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 06/05/2019
-ms.locfileid: "34736351"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36535167"
 ---
-"ติดตั้ง"
-
 # <a name="sharepoint-online-or-onedrive-setting-up"></a>SharePoint แบบออนไลน์หรือ OneDrive "ติดตั้ง"
 
 เมื่อมีเพิ่มผู้ใช้ ผู้เช่า Office 365 ที่มีอยู่เหล่านั้นอาจดู SharePoint แบบออนไลน์หรือ OneDrive สำหรับธุรกิจไอคอนที่แสดงเป็น "ตั้งค่า" จนกว่ากระบวนการเตรียมใช้งานเสร็จสมบูรณ์แล้ว

@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "428"
 - "1500016"
-ms.openlocfilehash: a97f7ce806013e3454c2c89621acddf571e940ac
-ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
+ms.openlocfilehash: 174d4f364b9266f8ba8d51522b0956eddc61ea9e
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 08/13/2019
-ms.locfileid: "36387791"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36532602"
 ---
 # <a name="update-payment-details"></a>อัพเดตรายละเอียดของการชำระเงิน
 
-1. ในศูนย์ดูแล ไป**การเรียกเก็บเงิน**\>หน้า[วิธีการชำระเงิน](https://go.microsoft.com/fwlink/p/?linkid=2018806)
+1. ในศูนย์ดูแล Microsoft 365 ไป**การเรียกเก็บเงิน**\>หน้า[วิธีการชำระเงิน](https://go.microsoft.com/fwlink/p/?linkid=2018806)
 
     > [!NOTE]
     > ถ้าคุณพบการวนรอบที่ส่งกลับไปโฮมเพจของผู้ดูแลก่อนการปรับปรุงของคุณจะเสร็จสมบูรณ์ ลองโหมด Inprivate หรือ Incognito
@@ -31,10 +31,10 @@ ms.locfileid: "36387791"
     > [!NOTE]
     > ถ้าผู้ดูแลอื่นเพิ่มวิธีการชำระเงิน คุณจะไม่สามารถปรับปรุงข้อมูลบัตรเครดิตหรือบัญชีธนาคารได้ ถ้าบัตรเครดิตจะหมดอายุ และผู้ดูแลอื่น ๆ ที่ไม่สามารถปรับปรุงได้ คุณสามารถป้องกันการขัดจังหวะบริการ โดยเพิ่มบัตรเครดิตอื่นหรือบัญชีธนาคารใหม่สำหรับการบอกรับเป็นสมาชิกโดยการเลือก**วิธีการชำระเงินเพิ่ม**
   
-3. บนหน้า**รายละเอียดการชำระเงิน**เลือก**แก้ไขรายละเอียดการชำระเงิน**
+3. ในบานหน้าต่าง**รายละเอียดของวิธีการชำระเงิน**เลือก**แก้ไข**
 
 4. ทำการปรับปรุง และจากนั้น เลือก**บันทึก**
 
 5. เมื่อต้องการลบวิธีการชำระเงินนี้ เลือก**ลบ**
 
-ดูข้อมูลเพิ่มเติม[เพิ่ม การปรับปรุง หรือลบข้อมูลบัตรเครดิตหรือบัญชีธนาคารใน Office 365 สำหรับธุรกิจ](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account)และ[บัตรเครดิตการแก้ไขปัญหาเบื้องต้นและบัญชีธนาคาร](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account#troubleshooting-credit-cards-and-bank-accounts)
+ดูข้อมูลเพิ่มเติม[เพิ่ม การปรับปรุง หรือลบข้อมูลบัตรเครดิตหรือบัญชีธนาคารใน Office 365 สำหรับธุรกิจ](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account)และ[บัตรเครดิตการแก้ไขปัญหาเบื้องต้นและบัญชีธนาคาร](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account#troubleshooting-credit-cards-and-bank-accounts)

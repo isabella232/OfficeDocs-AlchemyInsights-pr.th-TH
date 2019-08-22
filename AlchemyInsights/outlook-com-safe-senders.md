@@ -11,16 +11,16 @@ localization_priority: Normal
 ms.custom:
 - "1400"
 - "8000089"
-ms.openlocfilehash: 81ee40a9f9598b6a9fbc0f28c04a0d229c8442c8
-ms.sourcegitcommit: f507896c3909cfd02395d3214ab49f7a08f021e3
+ms.openlocfilehash: 296ecfc6f02c136d885ff9d447291b3f73ef96c6
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 07/09/2019
-ms.locfileid: "35602018"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36535374"
 ---
 # <a name="stop-messages-from-going-into-your-junk-email-folder"></a>หยุดข้อความจากไปที่โฟลเดอร์อีเมลขยะของคุณ
 
-มีบางครั้งที่คุณไม่ต้องการข้อความจากเฉพาะบุคคลหรือโดเมนให้สิ้นสุดค่าในโฟลเดอร์อีเมลขยะของคุณ ข้อความจากที่อยู่หรือโดเมนในรายชื่อผู้ส่งที่ปลอดภัยจะไม่ถูกย้ายไปยังโฟลเดอร์อีเมลขยะของคุณ
+มีบางครั้งที่คุณไม่ต้องการข้อความจากเฉพาะบุคคลหรือโดเมนให้สิ้นสุดค่าในโฟลเดอร์อีเมลขยะของคุณใน Outlook.com ข้อความจากที่อยู่หรือโดเมนในรายชื่อผู้ส่งที่ปลอดภัยจะไม่ถูกย้ายไปยังโฟลเดอร์อีเมลขยะของคุณ
 
 1. เปิด[การตั้งค่าผู้ส่งที่ปลอดภัย](https://go.microsoft.com/fwlink/?linkid=2035804)ของคุณ
 2. ภายใต้**ชื่อผู้ส่งที่ปลอดภัยและโดเมน**ป้อนอยู่อีเมลหรือโดเมนที่คุณต้องการเพิ่ม และเลือก**เพิ่ม**

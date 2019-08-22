@@ -12,12 +12,12 @@ ms.custom:
 - "915"
 - "2000021"
 ms.assetid: d071ce0c-c29e-4917-8860-950e5efd26af
-ms.openlocfilehash: b43cd025777c40fd137fe21d897b5c013af5a053
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: b32abb6684e8a2a4a3fdac19045073d1ba598303
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35354744"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36559752"
 ---
 # <a name="steps-to-resolve-office-activation-error-0x80072efd"></a>ขั้นตอนการแก้ไขข้อผิดพลาดการเปิดใช้งาน Office 0x80072EFD
 
