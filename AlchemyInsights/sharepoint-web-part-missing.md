@@ -9,12 +9,12 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 9000207
-ms.openlocfilehash: fa6c87838d27e4f21c087eec35a5dc4a25e301e3
-ms.sourcegitcommit: 4b7e478ce700c0b781efec3857ac4dce5bdf00c6
+ms.openlocfilehash: a68fefa2f92ee43a6e26807fe89d034589b2476b
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 06/07/2019
-ms.locfileid: "34758189"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36502604"
 ---
 # <a name="missing-web-part-in-sharepoint-site-collection"></a>ไม่พบ Web Part ในไซต์คอลเลกชันของ SharePoint
 

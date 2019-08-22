@@ -10,14 +10,14 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: f7d730bf-0d6e-424c-970c-6137c71cb50b
-ms.openlocfilehash: f0126f7f753275e9bbf8c3a09a6af5faf9a27862
-ms.sourcegitcommit: 4b7e478ce700c0b781efec3857ac4dce5bdf00c6
+ms.openlocfilehash: 6aea12d44a44a3e11eaf3fb1bd47ff3e9dbfd9e7
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 06/07/2019
-ms.locfileid: "34758749"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36507866"
 ---
-# <a name="create-group-connected-site-in-sharepoint-online"></a>สร้างกลุ่มไซต์ที่เชื่อมโยงใน SharePoint แบบออนไลน์
+# <a name="issues-when-creating-or-group-connected-sites-in-sharepoint-online"></a>ปัญหาเมื่อสร้างหรือกลุ่มไซต์ใน SharePoint แบบออนไลน์ที่เชื่อมต่ออยู่
 
 มีอยู่สองของปัญหาทั่วไปที่พบในขณะที่สร้าง หรือสร้างกลุ่มใหม่ให้เชื่อมต่อไซต์
 

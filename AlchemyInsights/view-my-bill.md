@@ -13,19 +13,17 @@ ms.custom:
 - "437"
 - "1500005"
 ms.assetid: 464d32fd-2487-4885-af0f-d4096b694861
-ms.openlocfilehash: bd058a965dfc0f014ab8efca1f330ec7180f8696
-ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
+ms.openlocfilehash: 3583bf871a7325f0bb2a28d3ac1641fd5525d403
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 08/13/2019
-ms.locfileid: "36387783"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36506138"
 ---
 # <a name="view-my-bill"></a>ดูรายการของฉัน
 
-1. ในศูนย์ดูแล ไป**การเรียกเก็บเงิน**\>หน้า[ตั๋ว](https://go.microsoft.com/fwlink/p/?linkid=848039)
+1. ในศูนย์ดูแล Microsoft 365 ไป**การเรียกเก็บเงิน**\>หน้า[ชำระเงิน & สูตร](https://go.microsoft.com/fwlink/p/?linkid=848039)
 
-2. เลือกเดือนและวันที่ของอินวอยซ์คุณต้องการ และจากนั้น เลือก**มุมมอง**
+2. เลือกช่วงวันที่จากรายการแบบหล่นลง และจากนั้น เลือกใบสั่งที่คุณต้องการดู
 
-3. เลือกใบสั่ง จากนั้น เลือก**ดูรายละเอียด**
-
-สำหรับข้อมูลเพิ่มเติมดู[มุมมองที่เรียกเก็บเงินหรือใบแจ้งหนี้ของคุณ](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/view-your-bill-or-invoice)
+สำหรับข้อมูลเพิ่มเติมดู[มุมมองที่เรียกเก็บเงินหรือใบแจ้งหนี้ของคุณ](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/view-your-bill-or-invoice)

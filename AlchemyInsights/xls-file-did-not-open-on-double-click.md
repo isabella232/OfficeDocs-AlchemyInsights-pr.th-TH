@@ -11,14 +11,14 @@ ms.collection: Adm_O365
 ms.custom:
 - "776"
 - "2100015"
-ms.openlocfilehash: bd3bb83ae707b3c5ac81f8b66d11aec0e3724c39
-ms.sourcegitcommit: e17e7d17fdb638349bb320b318085138d18f284c
+ms.openlocfilehash: 7d2356ff2c688dd4f1ec1ca3751c45246eae1ba0
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 07/16/2019
-ms.locfileid: "35753411"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36530766"
 ---
-# <a name="setting-file-associations-back-to-defaults"></a>ความสัมพันธ์ของแฟ้มการตั้งค่ากลับเป็นค่าเริ่มต้น
+# <a name="excel-file-doesnt-open"></a>แฟ้ม Excel ไม่เปิด
 
 ลองใช้หนึ่งในคำแนะนำเหล่านี้:
 

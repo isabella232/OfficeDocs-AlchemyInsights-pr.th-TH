@@ -9,20 +9,20 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 854014b6-39a2-4b76-a696-ecc3ab7251fd
-ms.openlocfilehash: 7bba3d7fc4e432c7c266ce8aa87322fc784a8ac0
-ms.sourcegitcommit: 4b7e478ce700c0b781efec3857ac4dce5bdf00c6
+ms.openlocfilehash: 1e925ef8e83dfc5d16b4d19dee88f1a26abe6ef4
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 06/07/2019
-ms.locfileid: "34754294"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36520542"
 ---
 # <a name="check-in-several-files-at-once"></a>ตรวจสอบแฟ้มหลาย ๆ แฟ้มในคราวเดียวกัน
 
-กำลังตรวจสอบแฟ้มเข้าและออกเป็นวิธีดีในการติดตาม และควบคุมวิธีการปรับปรุงเนื้อหา ถ้าคุณต้องการเปลี่ยนแปลงไปยังแฟ้มบนไซต์ และคุณต้องการให้แน่ใจว่าไม่มีใคร สามารถแก้ไข เช็คเอาท์แฟ้ม เมื่อคุณได้เช็คเอาท์แฟ้ม คุณสามารถแก้ไขได้แบบออนไลน์ หรือออฟไลน์ และบันทึกหลายครั้ง ถ้าจำเป็น
+กำลังตรวจสอบแฟ้มเอกสาร SharePoint กับไลบรารีนี้เป็นวิธีที่ยอดเยี่ยมในการติดตามและควบคุมวิธีการปรับปรุงเนื้อหา ถ้าคุณต้องการเปลี่ยนแปลงไปยังแฟ้มบนไซต์ และคุณต้องการให้แน่ใจว่าไม่มีใคร สามารถแก้ไข เช็คเอาท์แฟ้ม เมื่อคุณได้เช็คเอาท์แฟ้ม คุณสามารถแก้ไขได้แบบออนไลน์ หรือออฟไลน์ และบันทึกหลายครั้ง ถ้าจำเป็น
 
 ด้านล่างมีบางการเชื่อมโยงที่เป็นประโยชน์เกี่ยวกับคุณลักษณะนี้
 
-- [วิธีการตรวจสอบออก เช็คอิน หรือละทิ้งการเปลี่ยนแปลงไปยังแฟ้ม](https://support.office.com/article/check-out-check-in-or-discard-changes-to-files-in-a-library-7e2c12a9-a874-4393-9511-1378a700f6de)
+- [วิธีการเช็คเอาท์ เช็คอิน หรือละทิ้งการเปลี่ยนแปลงไปยังแฟ้ม](https://support.office.com/article/check-out-check-in-or-discard-changes-to-files-in-a-library-7e2c12a9-a874-4393-9511-1378a700f6de)
 
 - [ด้านบนคำถามเกี่ยวกับการเช็คเอาท์ เช็คอิน และรุ่น](https://support.office.com/article/Top-questions-about-check-out-check-in-and-versions-7E941339-E972-4C7A-A79A-80A1FCF84076)
 

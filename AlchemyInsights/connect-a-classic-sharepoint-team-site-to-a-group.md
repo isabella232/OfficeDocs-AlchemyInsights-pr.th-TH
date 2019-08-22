@@ -8,12 +8,12 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: a1f6b170-bead-4e1c-b119-f6affd2b2264
-ms.openlocfilehash: a04d56256bfa55e2b4c912c5294891f109059c3c
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 389880415621b7623c9f7ea9f43417eab878806a
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32408307"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36504801"
 ---
 # <a name="connect-classic-sharepoint-team-sites-to-new-office-365-groups"></a>การเชื่อมต่อไซต์ทีม SharePoint คลาสสิกให้กลุ่มใหม่ของ Office 365
 

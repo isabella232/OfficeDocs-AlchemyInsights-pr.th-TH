@@ -8,12 +8,12 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: b812e53a-d519-4f3e-8438-4115a8e8e906
-ms.openlocfilehash: 615aa2c40cd5633ab5e3fb1605fbc1c3afa430be
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 0f576239078d9807dbf0b11d7d705f1b7d56acca
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32400556"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36523206"
 ---
 # <a name="having-issues-getting-outlook-to-connect"></a>มีปัญหาการรับ Outlook เพื่อเชื่อมต่อหรือไม่
 

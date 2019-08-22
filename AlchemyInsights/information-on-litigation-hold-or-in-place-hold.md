@@ -9,13 +9,15 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 52484e19-9328-42f4-b675-7e0be9338a8b
-ms.openlocfilehash: 7d300bd006c3e7fae68da1245037819396122fc9
-ms.sourcegitcommit: 4b7e478ce700c0b781efec3857ac4dce5bdf00c6
+ms.openlocfilehash: c3f47e3230270e69b8a5bb7ee4167b0b534460dd
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 06/07/2019
-ms.locfileid: "34754949"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36498974"
 ---
+# <a name="about-litigation-holds-and-in-place-holds"></a>เกี่ยวกับการดำเนินคดีหยุดและหยุดในตำแหน่ง
+
 - เมื่อต้องการใช้การดำเนินคดี ระงับหรือแบบแทนที่ค้างไว้เพื่อกล่องจดหมาย จำเป็นต้องมี[สิทธิ์การใช้งาน Exchange ออนไลน์แผน 2](https://docs.microsoft.com/office365/servicedescriptions/office-365-platform-service-description/office-365-plan-options) ถ้าคุณมีแผนอื่น มอบหมายสิทธิ์แยก[เก็บถาวรแบบออนไลน์ของอัตราแลกเปลี่ยน](https://docs.microsoft.com/office365/servicedescriptions/exchange-online-archiving-service-description/exchange-online-archiving-service-description)ในบัญชี 
     
 - **เมื่อต้องการเปิดใช้งานการหยุดดำเนินคดี**สำหรับผู้ใช้คนเดียว ให้ทำตามขั้นตอนต่าง ๆ ที่ระบุไว้[ที่นี่](https://docs.microsoft.com/office365/SecurityCompliance/place-a-mailbox-on-litigation-hold) เมื่อเปิดใช้งานหยุดการดำเนินคดี เนื้อหาทั้งหมดในกล่องจดหมายจะถูกหยุดไว้

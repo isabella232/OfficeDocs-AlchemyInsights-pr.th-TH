@@ -11,12 +11,12 @@ ms.custom:
 - "917"
 - "2000020"
 ms.assetid: b1074430-489e-4d49-bfe4-3d8783d8073c
-ms.openlocfilehash: 6fc4bd5f6971ca833084a6a8ad6c25b3fdafb8dc
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: edac051840594f13b22ccd83f5cd6e3da5f84cbc
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35381748"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36498434"
 ---
 # <a name="installing-office-on-a-terminal-server"></a>การติดตั้ง Office บนเทอร์มินัลเซิร์ฟเวอร์
 
@@ -26,7 +26,7 @@ ms.locfileid: "35381748"
 
 - คุณต้องเปิดใช้งาน[คอมพิวเตอร์ที่ใช้ร่วมกัน](https://docs.microsoft.com/DeployOffice/overview-of-shared-computer-activation-for-office-365-proplus)
 
-ถ้าคุณต้องการติดตั้ง Office 365 ProPlus ใน RDS จากพอร์ทัล Office 365, ***ซึ่งใช้การตั้งค่าติดตั้งเริ่มต้น***, ให้ทำตามขั้นตอนเหล่านี้:
+ถ้าคุณต้องการติดตั้ง Office 365 ProPlus ใน RDS จากพอร์ทัล Office 365***ซึ่งใช้การตั้งค่าติดตั้งเริ่มต้น***ให้ทำตามขั้นตอนเหล่านี้:
   
 1. ตรวจสอบแผน Office 365 ใดที่คุณมี [เรียนรู้วิธี](https://docs.microsoft.com/office365/admin/admin-overview/what-subscription-do-i-have)
 
@@ -36,7 +36,7 @@ ms.locfileid: "35381748"
 
 4. บนเซิร์ฟเวอร์ RDS เข้าสู่ระบบของพอร์ทัล Office 365 กับบัญชีผู้ดูแลและ[ติดตั้ง Office 365 ProPlus](https://portal.office.com/OLS/MySoftware.aspx)
 
-5. หลังจากที่มีการติดตั้ง Office, ***ไม่เปิด หรือเข้าสู่ระบบ*** โปรแกรมประยุกต์ Office ใด ๆ
+5. หลังจากที่มีการติดตั้ง Office***ไม่เปิด หรือลงชื่อเข้าใช้ใน***โปรแกรมประยุกต์ Office ใด ๆ
 
 6. บนเซิร์ฟเวอร์ RDS เปิดใช้งานคอมพิวเตอร์ที่ใช้ร่วมกัน โดยการแก้ไขรีจิสทรีโดยทำตามขั้นตอนเหล่านี้:
 
@@ -46,7 +46,7 @@ ms.locfileid: "35381748"
 
 3. ใน Registry Editor เพิ่มค่าสายอักขระของ**SharedComputerLicensing**ด้วยการตั้งค่าของ 1 ภายใต้ HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft \Office\ClickToRun\Configuration
 
-7. บนเซิร์ฟเวอร์ RDS, ***เข้าสู่ระบบเป็นผู้ใช้*** และ[ตรวจสอบว่า เปิดใช้งานคอมพิวเตอร์ที่ใช้ร่วมกันถูกเปิดใช้งาน Office 365 ProPlus](https://docs.microsoft.com/DeployOffice/troubleshoot-issues-with-shared-computer-activation-for-office-365-proplus#verify-that-activation-for-office-365-proplus-succeeded)
+7. บนเซิร์ฟเวอร์ RDS***เข้าสู่ระบบในชื่อผู้ใช้***และ[ตรวจสอบว่า เปิดใช้งานคอมพิวเตอร์ที่ใช้ร่วมกันถูกเปิดใช้งาน Office 365 ProPlus](https://docs.microsoft.com/DeployOffice/troubleshoot-issues-with-shared-computer-activation-for-office-365-proplus#verify-that-activation-for-office-365-proplus-succeeded)
 
 สำหรับรายละเอียดเพิ่มเติมเกี่ยวกับข้อกำหนดเบื้องต้น คำแนะนำการตั้งค่า และคำแนะนำในการติดตั้งแบบกำหนดเองโดยใช้เครื่องมือการปรับใช้ Office โปรดดูที่[ปรับใช้ Office 365 ProPlus โดยใช้บริการเดสก์ท็อประยะไกล](https://docs.microsoft.com/DeployOffice/deploy-office-365-proplus-by-using-remote-desktop-services)
   

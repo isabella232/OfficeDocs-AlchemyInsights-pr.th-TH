@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: ace29990-1bf3-4378-833d-22e418f0fba7
-ms.openlocfilehash: 960331625e01a4b6ec71cf09184cfdde8f9e4bde
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 6a2559521b4160dc337796ed8d4721ec49acf703
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32399089"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36529469"
 ---
 # <a name="upload-files-to-onedrive-or-sharepoint"></a>อัปโหลดแฟ้ม OneDrive หรือ SharePoint
 

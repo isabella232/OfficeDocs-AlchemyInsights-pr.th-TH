@@ -12,12 +12,12 @@ ms.assetid: ''
 ms.custom:
 - "9000700"
 - "2600"
-ms.openlocfilehash: b4dd2e85084186ea86a433755f69e975734ca54b
-ms.sourcegitcommit: 631e527967f4d641bc9227642ffe38967ae87a00
+ms.openlocfilehash: cbf508a1a031b7dbe60d9b060df2f08211a3dc17
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 08/09/2019
-ms.locfileid: "36272145"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36521370"
 ---
 # <a name="onedrive-puid-mismatch"></a>ไม่ตรงกัน OneDrive PUID
 จะปรากฏพบ[PUID ตรง](https://docs.microsoft.com/sharepoint/support/administration/access-denied-or-need-permission-error-sharepoint-online-or-onedrive-for-business#when-accessing-a-onedrive-site)ใน OneDrive สำหรับธุรกิจ โปรดทำตามขั้นตอนด้านล่างเพื่อให้เราอาจช่วยคุณได้เร็วที่สุด:

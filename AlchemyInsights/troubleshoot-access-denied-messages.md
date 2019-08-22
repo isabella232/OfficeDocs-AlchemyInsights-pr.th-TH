@@ -8,16 +8,16 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: d678b57a-53ad-4414-9423-d8726a0c532f
-ms.openlocfilehash: f1a4803838b6511ef4fe7f03cafa4aa13b3c9734
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: e4fea7188bd77ba876e2a245414372c3ff836059
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32420719"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36500442"
 ---
 # <a name="troubleshoot-access-denied-messages"></a>การแก้ไขปัญหาข้อความที่มีการเข้าถึงถูกปฏิเสธ
 
-ถ้าใครบางคนได้รับข้อความ "Access Denied" ไปยังโฟลเดอร์ที่ใช้ร่วมกัน ดูแลไซต์คอลเลกชันอาจใช้งาน "จำกัดผู้ใช้สิทธิ์ lockdown โหมดการเข้าถึง" เมื่อต้องการปิดใช้งานนี้: 
+ถ้าใครบางคนได้รับข้อความ "Access Denied" ไปยังโฟลเดอร์ที่ใช้ร่วมกันใน SharePoint ดูแลไซต์คอลเลกชันอาจใช้งาน "จำกัดผู้ใช้สิทธิ์ lockdown โหมดการเข้าถึง" เมื่อต้องการปิดใช้งานนี้: 
   
 1. เรียกดูไปยังไซต์ คลิกไอคอนการตั้งค่า และจากนั้น คลิก**การตั้งค่าไซต์**
     
