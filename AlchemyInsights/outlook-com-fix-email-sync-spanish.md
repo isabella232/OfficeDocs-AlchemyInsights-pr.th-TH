@@ -11,13 +11,13 @@ localization_priority: Normal
 ms.custom:
 - "1136"
 - "8000064"
-ms.openlocfilehash: 8f7c27368c580986510e6ce80fd2ee7b3b1e1858
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 6560fce61b030e98f944296e0f15c75ccc85c4e0
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35374908"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36536788"
 ---
-# <a name="problemas-de-sincronizacin-del-correo-electrnico"></a><span data-ttu-id="fe463-102">Problemas de sincronización del correo electrónico</span><span class="sxs-lookup"><span data-stu-id="fe463-102">Problemas de sincronización del correo electrónico</span></span>
+# <a name="problemas-de-sincronizacin-del-correo-electrnico"></a><span data-ttu-id="0ee75-102">Problemas de sincronización del correo electrónico</span><span class="sxs-lookup"><span data-stu-id="0ee75-102">Problemas de sincronización del correo electrónico</span></span>
 
-<span data-ttu-id="fe463-103">Si puede enviar o recibir correo electrónico, o ไม่มีไม่มี conectarse puede Outlook.com, pruebe [estas soluciones](https://support.office.com/es-es/article/solución-de-problemas-de-sincronización-del-correo-electrónico-de-outlook-com-d39e3341-8d79-4bf1-b3c7-ded602233642?ui=es-ES&rs=es-ES&ad=ES)</span><span class="sxs-lookup"><span data-stu-id="fe463-103">Si no puede enviar o recibir correo electrónico, o no puede conectarse a Outlook.com, pruebe [estas soluciones](https://support.office.com/es-es/article/solución-de-problemas-de-sincronización-del-correo-electrónico-de-outlook-com-d39e3341-8d79-4bf1-b3c7-ded602233642?ui=es-ES&rs=es-ES&ad=ES).</span></span>
+<span data-ttu-id="0ee75-103">Si puede enviar o recibir correo electrónico, o ไม่มีไม่มี conectarse puede Outlook.com, pruebe [estas soluciones](https://support.office.com/es-es/article/solución-de-problemas-de-sincronización-del-correo-electrónico-de-outlook-com-d39e3341-8d79-4bf1-b3c7-ded602233642?ui=es-ES&rs=es-ES&ad=ES?wt.mc_id=Office_Outlook_com_Alchemy)</span><span class="sxs-lookup"><span data-stu-id="0ee75-103">Si no puede enviar o recibir correo electrónico, o no puede conectarse a Outlook.com, pruebe [estas soluciones](https://support.office.com/es-es/article/solución-de-problemas-de-sincronización-del-correo-electrónico-de-outlook-com-d39e3341-8d79-4bf1-b3c7-ded602233642?ui=es-ES&rs=es-ES&ad=ES?wt.mc_id=Office_Outlook_com_Alchemy).</span></span>
