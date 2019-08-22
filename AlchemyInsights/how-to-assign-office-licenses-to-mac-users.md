@@ -13,24 +13,24 @@ ms.assetid: 22777888-c472-437c-87cf-e3c52f3b310c
 ms.custom:
 - "651"
 - "2000017"
-ms.openlocfilehash: a68e6a78f042a57f88c44e7b5cf62bdacebefba4
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: bde7f68684003b551297f8befc52e438a6fa5e58
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35385419"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36522522"
 ---
-# <a name="how-to-assign-office-licenses-to-mac-users"></a><span data-ttu-id="46f9b-102">วิธีการกำหนดสิทธิ์การใช้งาน Office ให้กับผู้ใช้ Mac</span><span class="sxs-lookup"><span data-stu-id="46f9b-102">How to assign Office licenses to Mac users</span></span>
+# <a name="how-to-assign-office-licenses-to-mac-users"></a><span data-ttu-id="afbcc-102">วิธีการกำหนดสิทธิ์การใช้งาน Office ให้กับผู้ใช้ Mac</span><span class="sxs-lookup"><span data-stu-id="afbcc-102">How to assign Office licenses to Mac users</span></span>
 
-- <span data-ttu-id="46f9b-103">ใน Microsoft 365 admin ศูนย์ ไปหน้า[ผู้ใช้ที่ใช้งานอยู่](https://go.microsoft.com/fwlink/p/?linkid=834822)หรือเลือก**ผู้ใช้** \> **ผู้ใช้ที่ใช้งานอยู่**</span><span class="sxs-lookup"><span data-stu-id="46f9b-103">In the Microsoft 365 admin center, go to the [Active users](https://go.microsoft.com/fwlink/p/?linkid=834822) page, or choose **Users** \> **Active users**.</span></span>
+1. <span data-ttu-id="afbcc-103">ในศูนย์ดูแล ไปที่**ผู้ใช้**\>หน้า[ผู้ใช้ที่ใช้งานอยู่](https://go.microsoft.com/fwlink/p/?linkid=834822)</span><span class="sxs-lookup"><span data-stu-id="afbcc-103">In the admin center, go to the **Users** \> [Active users](https://go.microsoft.com/fwlink/p/?linkid=834822) page.</span></span>
 
-- <span data-ttu-id="46f9b-104">เลือกกล่องอยู่ถัดจากชื่อของผู้ใช้ที่คุณต้องการกำหนดสิทธิ์การใช้งาน</span><span class="sxs-lookup"><span data-stu-id="46f9b-104">Select the box next to the name of the user to whom you want to assign a license.</span></span>
+2. <span data-ttu-id="afbcc-104">เลือกชื่อของผู้ใช้ที่คุณต้องการกำหนด เปลี่ยนแปลง หรือเอาสิทธิ์การใช้งาน</span><span class="sxs-lookup"><span data-stu-id="afbcc-104">Select the name of the user to whom you want to assign, change, or remove a license.</span></span>
 
-- <span data-ttu-id="46f9b-105">บนด้านขวา ในแถว**ใบอนุญาตผลิตภัณฑ์**เลือก**แก้ไข**เท่านั้น</span><span class="sxs-lookup"><span data-stu-id="46f9b-105">On the right, in the **Product licenses** row, choose **Edit**.</span></span>
+3. <span data-ttu-id="afbcc-105">บนแท็บ**ใบอนุญาตและ Apps**เลือกสิทธิ์การใช้งานที่คุณต้องการกำหนดให้กับผู้ใช้รายนี้</span><span class="sxs-lookup"><span data-stu-id="afbcc-105">On the **Licenses and Apps** tab, select the license that you want to assign to this user.</span></span>
 
-- <span data-ttu-id="46f9b-106">ในบานหน้าต่าง s**สิทธิ์การใช้งานผลิตภัณฑ์**สลับสลับไปยังตำแหน่ง**บน**สำหรับสิทธิ์การใช้งานที่คุณต้องการกำหนดให้กับผู้ใช้รายนี้</span><span class="sxs-lookup"><span data-stu-id="46f9b-106">In the **Product license**s pane, switch the toggle to the **On** position for the license that you want to assign to this user.</span></span>
+    <span data-ttu-id="afbcc-106">โดยค่าเริ่มต้น บริการทั้งหมดที่สัมพันธ์กับสิทธิ์การใช้งานนั้นจะถูกกำหนดให้กับผู้ใช้โดยอัตโนมัติ</span><span class="sxs-lookup"><span data-stu-id="afbcc-106">By default, all services associated with that license are automatically assigned to the user.</span></span> <span data-ttu-id="afbcc-107">เมื่อต้องการจำกัด บริการใดจะพร้อมใช้งานสำหรับผู้ใช้ ยกเลิกเลือกกล่องกาเครื่องหมายสำหรับบริการที่คุณไม่ต้องการให้ผู้ใช้ดังกล่าวได้</span><span class="sxs-lookup"><span data-stu-id="afbcc-107">To limit which services are available to the user, clear the check box for the services that you don't want that user to have.</span></span>
 
-- <span data-ttu-id="46f9b-107">ที่ด้านล่างของบานหน้าต่าง**สิทธิ์การใช้งานผลิตภัณฑ์**เลือก**บันทึก** \> **ปิด** \> **ปิด**</span><span class="sxs-lookup"><span data-stu-id="46f9b-107">At the bottom of the **Product licenses** pane, choose **Save** \> **Close** \> **Close**.</span></span>
+4. <span data-ttu-id="afbcc-108">ที่ด้านล่างของบานหน้าต่าง เลือก**บันทึกการเปลี่ยนแปลง**</span><span class="sxs-lookup"><span data-stu-id="afbcc-108">At the bottom of the pane, choose **Save changes**.</span></span>
 
-<span data-ttu-id="46f9b-108">สำหรับข้อมูลเพิ่มเติม:[กำหนดสิทธิ์การใช้งานสำหรับผู้ใช้ใน Office 365 สำหรับธุรกิจ](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users)</span><span class="sxs-lookup"><span data-stu-id="46f9b-108">For more information: [Assign licenses to users in Office 365 for business](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users)</span></span>
+<span data-ttu-id="afbcc-109">สำหรับข้อมูลเพิ่มเติม:[กำหนดสิทธิ์การใช้งานสำหรับผู้ใช้ใน Office 365 สำหรับธุรกิจ](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users)</span><span class="sxs-lookup"><span data-stu-id="afbcc-109">For more information: [Assign licenses to users in Office 365 for business](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users)</span></span>
   
