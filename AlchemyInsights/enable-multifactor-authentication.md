@@ -16,25 +16,27 @@ search.appverid:
 - MOP150
 - MBS150
 ms.assetid: 785fc94f-fa62-461b-ba00-cf875e45d48f
-ms.openlocfilehash: 80295232bfd23979665755566e9fb45a440d0f85
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 7c49f63632f89696165136d823123c599acecc21
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32403694"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36527490"
 ---
-# <a name="enable-multi-factor-authentication"></a><span data-ttu-id="c294a-102">เปิดใช้งานการรับรองความถูกต้องด้วยหลายปัจจัย</span><span class="sxs-lookup"><span data-stu-id="c294a-102">Enable multi-factor authentication</span></span>
+# <a name="enable-multi-factor-authentication"></a><span data-ttu-id="c4bf9-102">เปิดใช้งานการรับรองความถูกต้องด้วยหลายปัจจัย</span><span class="sxs-lookup"><span data-stu-id="c4bf9-102">Enable multi-factor authentication</span></span>
 
-1. <span data-ttu-id="c294a-103">นำทางไปยัง**ผู้ใช้** \> **ผู้ใช้ที่ใช้งานอยู่**</span><span class="sxs-lookup"><span data-stu-id="c294a-103">Navigate to **Users** \> **Active users**</span></span>
+<span data-ttu-id="c4bf9-103">เมื่อต้องการเปิดใช้งานการรับรองความถูกต้องด้วยหลายปัจจัยใน Microsoft 365 admin ศูนย์:</span><span class="sxs-lookup"><span data-stu-id="c4bf9-103">To enable multi-factor authentication in the Microsoft 365 admin center:</span></span>
+
+1. <span data-ttu-id="c4bf9-104">ไปยัง**ผู้ใช้**\>หน้า**ผู้ใช้ที่ใช้งานอยู่**</span><span class="sxs-lookup"><span data-stu-id="c4bf9-104">Go to the **Users** \> **Active users** page.</span></span>
     
-2. <span data-ttu-id="c294a-104">คลิก**เพิ่มเติม** \> **การรับรองความถูกต้องด้วยหลายปัจจัย Azure โปรแกรมติดตั้ง**</span><span class="sxs-lookup"><span data-stu-id="c294a-104">Click **More** \> **Setup Azure multi-factor auth**.</span></span> 
+2. <span data-ttu-id="c4bf9-105">ที่ด้านบนของหน้า เลือก**การรับรองความถูกต้องด้วยหลายปัจจัย**</span><span class="sxs-lookup"><span data-stu-id="c4bf9-105">At the top of the page, select **Multi-factor authentication**.</span></span> 
     
-3. <span data-ttu-id="c294a-105">ค้นหาผู้ใช้หรือผู้ใช้ที่คุณต้องการเปิดใช้งานสำหรับ MFA</span><span class="sxs-lookup"><span data-stu-id="c294a-105">Find the user or users who you want to enable for MFA.</span></span> <span data-ttu-id="c294a-106">คุณอาจต้องการเปลี่ยนมุมมองสถานะการรับรองความถูกต้องด้วยหลายปัจจัยด้านบนเพื่อดูผู้ใช้ทั้งหมด</span><span class="sxs-lookup"><span data-stu-id="c294a-106">In order to see all the users, you might need to change the Multi-Factor Auth status view at the top.</span></span>
+3. <span data-ttu-id="c4bf9-106">ค้นหาผู้ใช้หรือผู้ใช้ที่คุณต้องการเปิดใช้งานการรับรองความถูกต้องด้วยหลายปัจจัย</span><span class="sxs-lookup"><span data-stu-id="c4bf9-106">Find the user or users who you want to enable for multi-factor authentication.</span></span> <span data-ttu-id="c4bf9-107">เมื่อต้องการดูผู้ใช้ทั้งหมด คุณอาจต้องเปลี่ยนแปลงตัวกรอง**สถานะการรับรองความถูกต้องด้วยหลายปัจจัย**ด้านบน</span><span class="sxs-lookup"><span data-stu-id="c4bf9-107">To see all the users, you might need to change the **Multi-Factor Auth status** filter at the top.</span></span>
     
-4. <span data-ttu-id="c294a-107">กล่องกาเครื่องหมายถัดจากผู้ใช้ที่คุณต้องการเปิดใช้งานการตรวจสอบหรือไม่</span><span class="sxs-lookup"><span data-stu-id="c294a-107">Check the check box next to the users you want to enable.</span></span>
+4. <span data-ttu-id="c4bf9-108">เลือกกล่องกาเครื่องหมายถัดจากผู้ใช้ที่คุณต้องการเปิดใช้งาน</span><span class="sxs-lookup"><span data-stu-id="c4bf9-108">Select the check box next to the users you want to enable.</span></span>
     
-5.  <span data-ttu-id="c294a-108">ในบานหน้าต่างรายละเอียดผู้ใช้ขวา ภายใต้**ขั้นตอนด่วน**คุณจะเปิดใช้งานดู และจัดการการตั้งค่าผู้ใช้</span><span class="sxs-lookup"><span data-stu-id="c294a-108">On the right user info pane, under **quick steps** you'll see Enable and Manage user settings.</span></span> <span data-ttu-id="c294a-109">เลือก**เปิดใช้งาน**</span><span class="sxs-lookup"><span data-stu-id="c294a-109">Choose **Enable**.</span></span> 
+5.  <span data-ttu-id="c4bf9-109">ในผู้ใช้ขวาข้อมูลบานหน้าต่าง ภายใต้**ขั้นตอนด่วน**เลือก**เปิดใช้งาน**</span><span class="sxs-lookup"><span data-stu-id="c4bf9-109">In the right user info pane, under **quick steps**, select **Enable**.</span></span> 
     
-6. <span data-ttu-id="c294a-110">ในกล่องโต้ตอบ ที่เปิด**คลิกเปิดใช้งานการรับรองความถูกต้องด้วยหลายปัจจัย**</span><span class="sxs-lookup"><span data-stu-id="c294a-110">In the dialog box that opens, **click enable multi-factor auth**.</span></span> 
+6. <span data-ttu-id="c4bf9-110">ในกล่องโต้ตอบที่เปิด เลือก**เปิดใช้งานการรับรองความถูกต้องด้วยหลายปัจจัย**</span><span class="sxs-lookup"><span data-stu-id="c4bf9-110">In the dialog box that opens, select **enable multi-factor auth**.</span></span> 
     
 

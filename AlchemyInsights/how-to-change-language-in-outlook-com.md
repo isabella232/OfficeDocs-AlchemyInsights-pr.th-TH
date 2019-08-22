@@ -13,19 +13,19 @@ ms.custom:
 - "8000014"
 - "269"
 ms.assetid: 6b5e5d32-d247-4dd9-b2d4-c4805a2f5e2d
-ms.openlocfilehash: 1f354ea7195a0927abc5c46538b66c6c705bfc20
-ms.sourcegitcommit: 9c6c2ff5865275dc8e3d48132180108884647365
+ms.openlocfilehash: 81d7272729c9770d4476f3c880b1a8ac3b6f90cd
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 05/24/2019
-ms.locfileid: "34430582"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36541685"
 ---
-# <a name="change-your-language"></a><span data-ttu-id="3c326-102">เปลี่ยนภาษาของคุณ</span><span class="sxs-lookup"><span data-stu-id="3c326-102">Change your language</span></span>
+# <a name="change-your-language"></a><span data-ttu-id="6512b-102">เปลี่ยนภาษาของคุณ</span><span class="sxs-lookup"><span data-stu-id="6512b-102">Change your language</span></span>
 
-1. <span data-ttu-id="3c326-103">ไปที่การตั้งค่า[**ภาษาและเวลา**](https://outlook.live.com/mail/options/general/timeAndLanguage/regional)(**ตั้งค่า** \> **ดูการตั้งค่า Outlook ทั้งหมด** > **ทั่วไป** > **ภาษาและเวลา**)</span><span class="sxs-lookup"><span data-stu-id="3c326-103">Go to [**Language and time**](https://outlook.live.com/mail/options/general/timeAndLanguage/regional) settings (**Settings** \> **View all Outlook settings** > **General** > **Language and time**).</span></span>
+1. <span data-ttu-id="6512b-103">เมื่อต้องการเปลี่ยภาษาใน Outlook ไปที่การตั้งค่า[**ภาษาและเวลา**](https://outlook.live.com/mail/options/general/timeAndLanguage/regional)(**ตั้งค่า** \> **ดูการตั้งค่า Outlook ทั้งหมด** > **ทั่วไป** > **ภาษาและเวลา**)</span><span class="sxs-lookup"><span data-stu-id="6512b-103">To chang the language in Outlook, go to [**Language and time**](https://outlook.live.com/mail/options/general/timeAndLanguage/regional) settings (**Settings** \> **View all Outlook settings** > **General** > **Language and time**).</span></span>
 
-2. <span data-ttu-id="3c326-104">เลือกภาษาของคุณ</span><span class="sxs-lookup"><span data-stu-id="3c326-104">Choose your language.</span></span>
+2. <span data-ttu-id="6512b-104">เลือกภาษาของคุณ</span><span class="sxs-lookup"><span data-stu-id="6512b-104">Choose your language.</span></span>
 
-3. <span data-ttu-id="3c326-105">เลือก**บันทึก**</span><span class="sxs-lookup"><span data-stu-id="3c326-105">Select **Save**.</span></span>
+3. <span data-ttu-id="6512b-105">เลือก**บันทึก**</span><span class="sxs-lookup"><span data-stu-id="6512b-105">Select **Save**.</span></span>
 
-<span data-ttu-id="3c326-106">เมื่อต้องการเรียนรู้เพิ่มเติม ดู[เปลี่ยนโซนเวลาและการตั้งค่าภาษาใน Outlook.com](https://go.microsoft.com/fwlink/p/?linkid=873132)</span><span class="sxs-lookup"><span data-stu-id="3c326-106">To learn more, see [Change the time zone and language settings in Outlook.com](https://go.microsoft.com/fwlink/p/?linkid=873132).</span></span>
+<span data-ttu-id="6512b-106">เมื่อต้องการเรียนรู้เพิ่มเติม ดู[เปลี่ยนโซนเวลาและการตั้งค่าภาษาใน Outlook.com](https://go.microsoft.com/fwlink/p/?linkid=873132)</span><span class="sxs-lookup"><span data-stu-id="6512b-106">To learn more, see [Change the time zone and language settings in Outlook.com](https://go.microsoft.com/fwlink/p/?linkid=873132).</span></span>

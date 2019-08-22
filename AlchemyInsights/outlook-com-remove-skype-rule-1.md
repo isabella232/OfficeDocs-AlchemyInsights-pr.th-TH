@@ -11,15 +11,15 @@ localization_priority: Normal
 ms.custom:
 - "1348"
 - "8000082"
-ms.openlocfilehash: 08ad9846feb52242459274f0ca75fa8facbd38e3
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 4ce51c6bc7af6cf1cd6d82feeff0d9be9159bdbd
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35372676"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36535122"
 ---
-# <a name="skype-icon-missing"></a><span data-ttu-id="69db4-102">ไม่พบไอคอน Skype</span><span class="sxs-lookup"><span data-stu-id="69db4-102">Skype icon missing</span></span>
+# <a name="skype-icon-missing"></a><span data-ttu-id="5e8a1-102">ไม่พบไอคอน Skype</span><span class="sxs-lookup"><span data-stu-id="5e8a1-102">Skype icon missing</span></span>
 
-<span data-ttu-id="69db4-103">เราได้เอาไอคอน Skype จาก Outlook.com เป็นส่วนหนึ่งของการออกแบบฟื้นฟูและคุณลักษณะการปรับปรุงเรากำลัง excited จะถูกนำออกชั่วคราว ขอขอบคุณสำหรับความอดทนของคุณในขณะที่เราได้จัดเตรียมแบบใหม่ และปรับปรุงประสบการณ์การใช้งานสำหรับคุณ</span><span class="sxs-lookup"><span data-stu-id="69db4-103">We've temporarily removed the Skype icon from Outlook.com as part of a design refresh and feature update we are excited to be rolling out. We appreciate your patience while we prepare a new and improved experience for you.</span></span>
+<span data-ttu-id="5e8a1-103">เราได้เอาไอคอน Skype จาก Outlook.com เป็นส่วนหนึ่งของการออกแบบฟื้นฟูและคุณลักษณะการปรับปรุงเรากำลัง excited จะถูกนำออกชั่วคราว ขอขอบคุณสำหรับความอดทนของคุณในขณะที่เราได้จัดเตรียมแบบใหม่ และปรับปรุงประสบการณ์การใช้งานสำหรับคุณ</span><span class="sxs-lookup"><span data-stu-id="5e8a1-103">We've temporarily removed the Skype icon from Outlook.com as part of a design refresh and feature update we are excited to be rolling out. We appreciate your patience while we prepare a new and improved experience for you.</span></span>
 
-<span data-ttu-id="69db4-104">คุณยังคงสามารถใช้ Skype ได้โดยใช้เบราว์เซอร์ของคุณที่[web.skype.com](https://web.skype.com/)</span><span class="sxs-lookup"><span data-stu-id="69db4-104">You can still use Skype through your browser at [web.skype.com](https://web.skype.com/).</span></span>
+<span data-ttu-id="5e8a1-104">คุณยังคงสามารถใช้ Skype ได้โดยใช้เบราว์เซอร์ของคุณที่[web.skype.com](https://web.skype.com/)</span><span class="sxs-lookup"><span data-stu-id="5e8a1-104">You can still use Skype through your browser at [web.skype.com](https://web.skype.com/).</span></span>
