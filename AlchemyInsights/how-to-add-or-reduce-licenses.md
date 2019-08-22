@@ -13,20 +13,20 @@ ms.custom:
 - "319"
 - "1500007"
 ms.assetid: 69797abf-3e60-4be2-b0a7-26022a14397e
-ms.openlocfilehash: f2d9896f10f122e3d1e6b24de441144134d03570
-ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
+ms.openlocfilehash: b6a8e6dc08941bf18c3ef8f36a14d63a41b34d4d
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 08/13/2019
-ms.locfileid: "36388835"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36522450"
 ---
 # <a name="how-to-add-or-reduce-licenses"></a>วิธีการเพิ่ม หรือลดสิทธิ์การใช้งาน
 
-ต่อไปนี้คือวิธีการเอาออก หรือซื้อสิทธิ์การใช้งานเพิ่มเติม
+ต่อไปนี้คือวิธีการเอาออก หรือซื้อสิทธิ์การใช้งานเพิ่มเติมของ Office 365
   
-1. ในศูนย์ดูแล ไป**การเรียกเก็บเงิน**\>หน้าการ[บอกรับเป็นสมาชิก](https://go.microsoft.com/fwlink/p/?linkid=842054)
+1. ในศูนย์ดูแล ไป**การเรียกเก็บเงิน**\>หน้า[บริการ & ผลิตภัณฑ์](https://go.microsoft.com/fwlink/p/?linkid=842054)
 
-2. ทางด้านซ้าย เลือกการบอกรับเป็นสมาชิกที่คุณต้องการเพิ่ม/เอาออกสิทธิ์การใช้งาน
+2. เลือกการบอกรับเป็นสมาชิกที่คุณต้องการเพิ่ม/เอาออกสิทธิ์การใช้งาน
 
 3. เลือก**เพิ่ม/เอาออกสิทธิ์การใช้งาน**
 
@@ -34,19 +34,17 @@ ms.locfileid: "36388835"
 
     ตัวอย่างเช่น ถ้าคุณอยู่ในขณะนี้มีสิทธิ์การใช้งาน 25 และคุณต้องการเอา 5 ป้อน 20 ในฟิลด์นี้
 
-5. เลือก**ส่ง**
+5. เลือก**ส่งการเปลี่ยนแปลง**
 
 > [!NOTE]
 > ค่าธรรมเนียมใหม่ (การเพิ่มสิทธิ์การใช้งาน) หรือเครดิต (สิทธิ์การใช้งานลดลง) ใด ๆ จะแสดงให้เห็นในบิลถัดไป
 
-คุณกำลังใช้ศูนย์ดูแลแบบใหม่หรือไม่ สำหรับขั้นตอนใหม่ ดู[ซื้อสิทธิ์การใช้งานสำหรับ Office 365 ของคุณสำหรับการสมัครใช้งานทางธุรกิจ](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/buy-licenses)
+สำหรับข้อมูลเพิ่มเติม ดู[ซื้อสิทธิ์การใช้งานสำหรับ Office 365 ของคุณสำหรับการสมัครใช้งานทางธุรกิจ](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/buy-licenses)
 
- **ทรัพยากร**
+ **ทรัพยากรเพิ่มเติม**
   
-- [เอาสิทธิ์การใช้งานจาก Office 365 ของคุณสำหรับการสมัครใช้งานทางธุรกิจ](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/remove-licenses-from-subscription)
+- [เอาสิทธิ์การใช้งานจาก Office 365 ของคุณสำหรับการสมัครใช้งานทางธุรกิจ](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/remove-licenses-from-subscription)
 
-- [ซื้อสิทธิ์การใช้งานสำหรับ Office 365 ของคุณสำหรับการสมัครใช้งานทางธุรกิจ](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/buy-licenses)
+- [ยกเลิก Office 365 สำหรับธุรกิจ](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/cancel-your-subscription)
 
-- [ยกเลิก Office 365 สำหรับธุรกิจ](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/cancel-your-subscription)
-
-- [ซื้อ Office 365 อื่นสำหรับการสมัครใช้งานทางธุรกิจ](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/buy-another-subscription)
+- [ซื้อ Office 365 อื่นสำหรับการสมัครใช้งานทางธุรกิจ](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/buy-another-subscription)

@@ -12,19 +12,19 @@ ms.assetid: ''
 ms.custom:
 - "9000687"
 - "2579"
-ms.openlocfilehash: 0f6f962314d9099bd21c281a23ad2e95742da4a8
-ms.sourcegitcommit: 631e527967f4d641bc9227642ffe38967ae87a00
+ms.openlocfilehash: ffb1466fe436d6cab7ae5fdd60c671f5dd2654dd
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 08/09/2019
-ms.locfileid: "36270763"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36501098"
 ---
 # <a name="swap-your-classic-root-site-with-a-modern-site"></a>สลับไซต์รากของคุณแบบคลาสสิคกับไซต์สมัยใหม่
 
 ถ้าระบบของคุณถูกตั้งค่าไว้ก่อน 2019 เมษายน คุณสามารถเปลี่ยนไซต์รากของคุณไปยังไซต์สมัยใหม่ โดยใช้ Microsoft PowerShell:
 
 - ถ้าคุณมีไซต์อื่นที่คุณต้องการใช้เป็นไซต์รากของคุณ คุณสามารถแทน (สลับ) รากไซต์ดังกล่าว 
-    - ใช้[Invoke SPSiteSwap](https://docs.microsoft.com/powershell/module/sharepoint-online/invoke-spositeswap?view=sharepoint-ps)การสลับตำแหน่งของไซต์ที่มีไซต์อื่นในขณะที่เก็บถาวรไซต์ดั้งเดิม พร้อมใช้งานสำหรับทั้งไซต์สำหรับทีม (ไม่ได้เชื่อมต่อไปยังกลุ่ม) และไซต์การสื่อสาร 
+    - ใช้[Invoke SPOSiteSwap](https://docs.microsoft.com/powershell/module/sharepoint-online/invoke-spositeswap?view=sharepoint-ps)การสลับตำแหน่งของไซต์ที่มีไซต์อื่นในขณะที่เก็บถาวรไซต์ดั้งเดิม พร้อมใช้งานสำหรับทั้งไซต์สำหรับทีม (ไม่ได้เชื่อมต่อไปยังกลุ่ม) และไซต์การสื่อสาร 
 
 - ความสามารถเพิ่มเติมจะถูกนำมาใช้ในไม่ช้า ที่จะช่วยให้คุณสามารถเก็บโดยใช้เนื้อหาบนไซต์ แต่แปลงในไซต์ที่มีอยู่ไปยังไซต์สื่อสาร 
 >[!Important]

@@ -13,12 +13,12 @@ ms.custom:
 - "99"
 - "5200001"
 ms.assetid: 4b8b89f8-bfd8-4a60-812a-daf5d519788e
-ms.openlocfilehash: f6e09cc80d5fb4767a859f3b82c23d4b2ec256a7
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: db37089c11842c070b6bfbbb6f668aa392fd9b2c
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35368892"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36507614"
 ---
 # <a name="sharepoint-online-public-websites-are-being-discontinued"></a>เว็บไซต์สาธารณะแบบออนไลน์ของ SharePoint ถูกเสมอ
 

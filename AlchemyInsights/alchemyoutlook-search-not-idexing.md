@@ -11,18 +11,18 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 446b22df-807d-4778-a54f-767c2cc83fba
-ms.openlocfilehash: 4b55ef73a9234f605fd3dd02dc801866273be1a6
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: eab8994e85149e0e4b6c0ed8ae455820cd78607a
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32397953"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36505850"
 ---
 # <a name="outlook-search-not-indexing"></a>ไม่มีการทำดัชนีค้นหาของ outlook
 
 เราจะเกี่ยวข้อง Outlook ค้นหาประเด็นที่เกี่ยวข้องกับล่าสุดปรับปรุงความปลอดภัยสำหรับ Windows
   
-เมื่อต้องการค้นหาใน Outlook คุณอาจได้รับข้อผิดพลาดนี้: ** สิ่งที่ผิด และการค้นหาของคุณไม่สามารถเรียกใช้งาน **, หรือ**ผลลัพธ์การค้นหาอาจไม่สมบูรณ์เนื่องจากรายการยังกำลังถูกทำดัชนี**ได้ การแก้ไขถูกนำออกใช้เป็นการปรับปรุง Windows ไม่จำเป็น โปรดติดตั้งหนึ่งสอดคล้องกับรุ่นของ Windows ที่คุณจะเห็นปัญหานี้ใน: 
+เมื่อต้องการค้นหาใน Outlook คุณอาจได้รับข้อผิดพลาดเหล่านี้อย่างใดอย่างหนึ่ง:**สิ่งที่ผิด และการค้นหาไม่สามารถทำให้เสร็จสมบูรณ์**หรือ**ผลลัพธ์การค้นหาอาจไม่สมบูรณ์เนื่องจากรายการยังกำลังถูกทำดัชนี**ได้ การแก้ไขถูกนำออกใช้เป็นการปรับปรุง Windows ไม่จำเป็น โปรดติดตั้งหนึ่งสอดคล้องกับรุ่นของ Windows ที่คุณจะเห็นปัญหานี้ใน: 
   
 > [Windows 7 - การปรับปรุงเดือน 27 มิถุนายน 2017](https://support.microsoft.com/kb/4022168.aspx)
     

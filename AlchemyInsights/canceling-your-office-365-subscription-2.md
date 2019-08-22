@@ -13,12 +13,12 @@ ms.custom:
 - "87"
 - "1400001"
 ms.assetid: ec57734d-073d-4aee-8c7c-f4aa9e7130ae
-ms.openlocfilehash: 4e18a07b54a3d47767998c7680d92f741b0fb5c6
-ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
+ms.openlocfilehash: 18cacee394e7f1be20002cc64a9db8dd9afc61a3
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 08/13/2019
-ms.locfileid: "36387286"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36520974"
 ---
 # <a name="canceling-your-office-365-subscription"></a>การยกเลิกการสมัครใช้งาน Office 365 ได้อย่างไร
 
@@ -28,4 +28,4 @@ ms.locfileid: "36387286"
   
 อีกวิธีหนึ่งคือ ใช้ตัวเลือก "แจ้งให้เราเรียกคุณ" การพูดคุยกับวิศวกรฝ่ายสนับสนุน
   
-เมื่อต้องการเรียนรู้เพิ่มเติม เกี่ยวกับการยกเลิกการสมัครใช้งาน หรือ สำหรับคำแนะนำทีละขั้นตอน ให้ดูที่บทความนี้:[ยกเลิกการสมัครใช้งาน](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/cancel-your-subscription)
+เมื่อต้องการเรียนรู้เพิ่มเติม เกี่ยวกับการยกเลิกการสมัครใช้งาน หรือ สำหรับคำแนะนำทีละขั้นตอน ให้ดูที่บทความนี้:[ยกเลิกการสมัครใช้งาน](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/cancel-your-subscription)

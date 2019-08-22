@@ -9,14 +9,14 @@ ms.topic: article
 ms.custom: 9000260
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.openlocfilehash: aced684777ef82860b969aea8825699b78b04c5a
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 3d3a6c253317137b7069a978b907c97d61bf7313
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32389799"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36496130"
 ---
-# <a name="recall-or-replace-an-email-message"></a>การเรียกคืน หรือแทนข้อความอีเมล
+# <a name="recall-or-replace-an-outlook-email-message"></a>การเรียกคืน หรือแทนข้อความอีเมลของ Outlook
 
 - เป็นผู้ดูแลระบบ คุณสามารถ**เรียกคืนข้อความในนามของผู้ใช้ที่ใช้ PowerShell** คุณไม่สามารถเรียกคืนข้อความจากศูนย์ดูแล
 - คุณสามารถ**เฉพาะข้อความเรียกคืนซึ่งจะถูกส่งไปยังบุคคลในองค์กรของคุณ** ถ้าข้อความถูกส่งไปยังที่อยู่ Gmail ตัวอย่างเช่น คุณไม่สามารถเรียกคืนนั้น

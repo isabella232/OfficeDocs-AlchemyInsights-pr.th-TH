@@ -9,12 +9,12 @@ localization_priority: Normal
 ms.custom:
 - "1708"
 - "6200013"
-ms.openlocfilehash: 92b41db66c7f64973dbccc9cc8ba5cd5e9818549
-ms.sourcegitcommit: a413a0e27ef4ab8c484fa9fccff8bbef381c8b96
+ms.openlocfilehash: 030190352426de39cda53be3429e7bb8c2c42000
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 07/16/2019
-ms.locfileid: "35748986"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36529110"
 ---
 # <a name="dynamics-365-editable-grid-keyboard-shortcuts"></a>แป้นพิมพ์ลัดของ Dynamics 365 มองกริดที่แก้ไขได้
 
