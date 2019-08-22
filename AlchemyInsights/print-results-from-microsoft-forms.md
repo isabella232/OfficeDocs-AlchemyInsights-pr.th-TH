@@ -11,15 +11,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "2545"
 - "9000672"
-ms.openlocfilehash: 979e2923377ec7f1d2a400658bd23c4d817fcc77
-ms.sourcegitcommit: 1320693af1222a8c55f67d714dcd084d72b3ffd4
+ms.openlocfilehash: 32b72684c4c838f75353303109db8a6a7f391f30
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 07/24/2019
-ms.locfileid: "35849484"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36510354"
 ---
-# <a name="print-results-in-a-summary-of-responses"></a><span data-ttu-id="b65ce-102">พิมพ์ผลลัพธ์ในข้อมูลสรุปของการตอบสนอง</span><span class="sxs-lookup"><span data-stu-id="b65ce-102">Print results in a summary of responses</span></span>
+# <a name="print-results-in-a-summary-of-responses"></a><span data-ttu-id="c614d-102">พิมพ์ผลลัพธ์ในข้อมูลสรุปของการตอบสนอง</span><span class="sxs-lookup"><span data-stu-id="c614d-102">Print results in a summary of responses</span></span>
 
-<span data-ttu-id="b65ce-103">คุณสามารถ[พิมพ์ฟอร์ม Microsoft ผลลัพธ์](https://support.office.com/article/print-a-form-22100b98-ba3c-41c1-9513-f76caca664fc)เป็นข้อมูลสรุป ของการตอบสนอง หรือ สำหรับแต่ละ</span><span class="sxs-lookup"><span data-stu-id="b65ce-103">You can [print Microsoft Forms results](https://support.office.com/article/print-a-form-22100b98-ba3c-41c1-9513-f76caca664fc) as a summary of responses or for an individual.</span></span> 
+<span data-ttu-id="c614d-103">คุณสามารถ[พิมพ์ฟอร์ม Microsoft ผลลัพธ์](https://support.office.com/article/print-a-form-22100b98-ba3c-41c1-9513-f76caca664fc)เป็นข้อมูลสรุป ของการตอบสนอง หรือ สำหรับแต่ละ</span><span class="sxs-lookup"><span data-stu-id="c614d-103">You can [print Microsoft Forms results](https://support.office.com/article/print-a-form-22100b98-ba3c-41c1-9513-f76caca664fc) as a summary of responses or for an individual.</span></span> 
 
-<span data-ttu-id="b65ce-104">คุณไม่สามารถพิมพ์แบบฟอร์ม โดยไม่มีการตอบรับ แต่คุณสามารถร้องขอ หรือลงคะแนนให้กับคุณลักษณะนี้ โดยการเยี่ยมชม[ไซต์ Microsoft ฟอร์ม UserVoice](https://microsoftforms.uservoice.com/forums/386451-welcome-to-microsoft-forms-suggestion-box)</span><span class="sxs-lookup"><span data-stu-id="b65ce-104">You can't print forms without responses, but you can request or vote on this feature by visiting the [Microsoft Forms UserVoice site](https://microsoftforms.uservoice.com/forums/386451-welcome-to-microsoft-forms-suggestion-box).</span></span>
+<span data-ttu-id="c614d-104">คุณไม่สามารถพิมพ์แบบฟอร์ม โดยไม่มีการตอบรับ แต่คุณสามารถร้องขอ หรือลงคะแนนให้กับคุณลักษณะนี้ โดยการเยี่ยมชม[ไซต์ Microsoft ฟอร์ม UserVoice](https://microsoftforms.uservoice.com/forums/386451-welcome-to-microsoft-forms-suggestion-box)</span><span class="sxs-lookup"><span data-stu-id="c614d-104">You can't print forms without responses, but you can request or vote on this feature by visiting the [Microsoft Forms UserVoice site](https://microsoftforms.uservoice.com/forums/386451-welcome-to-microsoft-forms-suggestion-box).</span></span>

@@ -13,22 +13,22 @@ ms.custom:
 - "875"
 - "876"
 - "3100010"
-ms.openlocfilehash: 50e51be8560ed3817f956cb0c8d111e57b504574
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: a18878032c2da76c930c6d4d3fa572f46350de39
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35386428"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36523386"
 ---
-# <a name="having-email-delivery-issues"></a><span data-ttu-id="67c18-102">มีปัญหาการส่งอีเมลหรือไม่</span><span class="sxs-lookup"><span data-stu-id="67c18-102">Having email delivery issues?</span></span>
+# <a name="having-email-delivery-issues"></a><span data-ttu-id="6a15a-102">มีปัญหาการส่งอีเมลหรือไม่</span><span class="sxs-lookup"><span data-stu-id="6a15a-102">Having email delivery issues?</span></span>
 
-<span data-ttu-id="67c18-103">เราได้ตรวจพบว่า ผู้ใช้ของคุณไม่ได้รับอีเมล์ที่ส่งไป domain(s) ต่อไปนี้:</span><span class="sxs-lookup"><span data-stu-id="67c18-103">We've detected that your users can't receive emails sent to the following domain(s):</span></span>
+<span data-ttu-id="6a15a-103">เราได้ตรวจพบว่า ผู้ใช้ของคุณไม่ได้รับอีเมล์ที่ส่งไป domain(s) ต่อไปนี้:</span><span class="sxs-lookup"><span data-stu-id="6a15a-103">We've detected that your users can't receive emails sent to the following domain(s):</span></span>
   
-<span data-ttu-id="67c18-104">{HealthCheckString }</span><span class="sxs-lookup"><span data-stu-id="67c18-104">{HealthCheckString}</span></span>
+<span data-ttu-id="6a15a-104">{HealthCheckString }</span><span class="sxs-lookup"><span data-stu-id="6a15a-104">{HealthCheckString}</span></span>
   
-<span data-ttu-id="67c18-105">ระเบียน NS หรือ MX ของโดเมน (DNS) ตั้งค่าไม่ได้ถูกกำหนดค่าอย่างถูกต้องสำหรับการส่งอีเมกับบริการของ Office 365</span><span class="sxs-lookup"><span data-stu-id="67c18-105">The NS or MX records of the domain (DNS) settings aren't configured correctly for email delivery to your Office 365 service.</span></span> <span data-ttu-id="67c18-106">คุณสามารถอ้างอิงไปยัง[ระเบียน DNS ที่ปรับปรุงใน Office 365](https://support.office.com/article/Create-DNS-records-for-Office-365-when-you-manage-your-DNS-records-B0F3FDCA-8A80-4E8E-9EF3-61E8A2A9AB23.aspx)สำหรับคำแนะนำโดยละเอียด</span><span class="sxs-lookup"><span data-stu-id="67c18-106">You can refer to [Updating DNS records in Office 365](https://support.office.com/article/Create-DNS-records-for-Office-365-when-you-manage-your-DNS-records-B0F3FDCA-8A80-4E8E-9EF3-61E8A2A9AB23.aspx) for detailed instructions.</span></span>
+<span data-ttu-id="6a15a-105">ระเบียน NS หรือ MX ของโดเมน (DNS) ตั้งค่าไม่ได้ถูกกำหนดค่าอย่างถูกต้องสำหรับการส่งอีเมกับบริการของ Office 365</span><span class="sxs-lookup"><span data-stu-id="6a15a-105">The NS or MX records of the domain (DNS) settings aren't configured correctly for email delivery to your Office 365 service.</span></span> <span data-ttu-id="6a15a-106">คุณสามารถอ้างอิงไปยัง[ระเบียน DNS ที่ปรับปรุงใน Office 365](https://support.office.com/article/Create-DNS-records-for-Office-365-when-you-manage-your-DNS-records-B0F3FDCA-8A80-4E8E-9EF3-61E8A2A9AB23.aspx)สำหรับคำแนะนำโดยละเอียด</span><span class="sxs-lookup"><span data-stu-id="6a15a-106">You can refer to [Updating DNS records in Office 365](https://support.office.com/article/Create-DNS-records-for-Office-365-when-you-manage-your-DNS-records-B0F3FDCA-8A80-4E8E-9EF3-61E8A2A9AB23.aspx) for detailed instructions.</span></span>
   
-<span data-ttu-id="67c18-107">เมื่อต้องการแก้ไขปัญหา โปรดไปที่หน้า[โดเมน](https://admin.microsoft.com/adminportal/home#/Domains)ใน Microsoft 365 admin ศูนย์ ทางเราจะช่วยคุณได้ด้วย</span><span class="sxs-lookup"><span data-stu-id="67c18-107">To fix it, please go to the [Domains](https://admin.microsoft.com/adminportal/home#/Domains) page in the Microsoft 365 admin center, and we'll help you with it.</span></span>
+<span data-ttu-id="6a15a-107">เมื่อต้องการแก้ไขปัญหา โปรดไปที่หน้า[โดเมน](https://admin.microsoft.com/adminportal/home#/Domains)ใน Microsoft 365 admin ศูนย์ ทางเราจะช่วยคุณได้ด้วย</span><span class="sxs-lookup"><span data-stu-id="6a15a-107">To fix it, please go to the [Domains](https://admin.microsoft.com/adminportal/home#/Domains) page in the Microsoft 365 admin center, and we'll help you with it.</span></span>
   
-<span data-ttu-id="67c18-108">การ[ตรวจสอบโดเมน FAQ](https://support.office.com/article/7b7b075d-79f9-4e37-8a9e-fb60c1d95166.aspx)วิธีแก้ไขปัญหาทั่วไปอื่น ๆ</span><span class="sxs-lookup"><span data-stu-id="67c18-108">[Check the Domains FAQ](https://support.office.com/article/7b7b075d-79f9-4e37-8a9e-fb60c1d95166.aspx) for other common solutions.</span></span>
+<span data-ttu-id="6a15a-108">การ[ตรวจสอบโดเมน FAQ](https://support.office.com/article/7b7b075d-79f9-4e37-8a9e-fb60c1d95166.aspx)วิธีแก้ไขปัญหาทั่วไปอื่น ๆ</span><span class="sxs-lookup"><span data-stu-id="6a15a-108">[Check the Domains FAQ](https://support.office.com/article/7b7b075d-79f9-4e37-8a9e-fb60c1d95166.aspx) for other common solutions.</span></span>
   

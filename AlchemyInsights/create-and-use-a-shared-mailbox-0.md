@@ -9,23 +9,23 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 63f7d676-7cd9-4549-ba84-c3a8a7867f63
-ms.openlocfilehash: 2ee7f564323a182ef38318e892f8ab03eadfdd34
-ms.sourcegitcommit: 4b7e478ce700c0b781efec3857ac4dce5bdf00c6
+ms.openlocfilehash: 3e2f6e33c105ecc271b8c8e68898658801d5db22
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 06/07/2019
-ms.locfileid: "34753618"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36515970"
 ---
-# <a name="create-and-use-a-shared-mailbox"></a><span data-ttu-id="13f0a-102">สร้าง และใช้กล่องจดหมายที่ใช้ร่วมกัน</span><span class="sxs-lookup"><span data-stu-id="13f0a-102">Create and use a shared mailbox</span></span>
+# <a name="create-and-use-a-shared-mailbox"></a><span data-ttu-id="0bf7c-102">สร้าง และใช้กล่องจดหมายที่ใช้ร่วมกัน</span><span class="sxs-lookup"><span data-stu-id="0bf7c-102">Create and use a shared mailbox</span></span>
 
-<span data-ttu-id="13f0a-103">กล่องจดหมายที่ใช้ร่วมกันช่วยให้ส่ง และรับอีเมลสำหรับแฝง เช่น**sales@contoso.com**โดยไม่มอบหมายสิทธิ์การใช้งานอื่นมากกว่าหนึ่งคน</span><span class="sxs-lookup"><span data-stu-id="13f0a-103">A shared mailbox lets more than one person send and receive email for an alias, like **sales@contoso.com**, without assigning another license.</span></span>
+<span data-ttu-id="0bf7c-103">กล่องจดหมายที่ใช้ร่วมกันช่วยให้ส่ง และรับอีเมลสำหรับแฝง เช่น**sales@contoso.com**โดยไม่มอบหมายสิทธิ์การใช้งานอื่นมากกว่าหนึ่งคน</span><span class="sxs-lookup"><span data-stu-id="0bf7c-103">A shared mailbox lets more than one person send and receive email for an alias, like **sales@contoso.com**, without assigning another license.</span></span>
   
-<span data-ttu-id="13f0a-104">[สร้างกล่องจดหมายที่ใช้ร่วมกัน](https://support.office.com/article/Create-a-shared-mailbox-871a246d-3acd-4bba-948e-5de8be0544c9)ที่อธิบายถึงวิธีการ:</span><span class="sxs-lookup"><span data-stu-id="13f0a-104">[Create a shared mailbox](https://support.office.com/article/Create-a-shared-mailbox-871a246d-3acd-4bba-948e-5de8be0544c9) explains how to:</span></span> 
+<span data-ttu-id="0bf7c-104">[สร้างกล่องจดหมายที่ใช้ร่วมกัน](https://support.office.com/article/Create-a-shared-mailbox-871a246d-3acd-4bba-948e-5de8be0544c9)ที่อธิบายถึงวิธีการ:</span><span class="sxs-lookup"><span data-stu-id="0bf7c-104">[Create a shared mailbox](https://support.office.com/article/Create-a-shared-mailbox-871a246d-3acd-4bba-948e-5de8be0544c9) explains how to:</span></span> 
   
-- <span data-ttu-id="13f0a-105">สร้างกล่องจดหมายที่ใช้ร่วมกัน</span><span class="sxs-lookup"><span data-stu-id="13f0a-105">Create a shared mailbox</span></span>
+- <span data-ttu-id="0bf7c-105">สร้างกล่องจดหมายที่ใช้ร่วมกัน</span><span class="sxs-lookup"><span data-stu-id="0bf7c-105">Create a shared mailbox</span></span>
     
-- <span data-ttu-id="13f0a-106">ให้สิทธิ์ในการใช้กล่องจดหมายที่ใช้ร่วมกันของผู้ใช้ของคุณ</span><span class="sxs-lookup"><span data-stu-id="13f0a-106">Give your users permissions to use a shared mailbox</span></span>
+- <span data-ttu-id="0bf7c-106">ให้สิทธิ์ในการใช้กล่องจดหมายที่ใช้ร่วมกันของผู้ใช้ของคุณ</span><span class="sxs-lookup"><span data-stu-id="0bf7c-106">Give your users permissions to use a shared mailbox</span></span>
     
-- <span data-ttu-id="13f0a-107">การเข้าถึงกล่องจดหมายที่ใช้ร่วมกัน ใน Outlook หรือ Outlook บนเว็บ</span><span class="sxs-lookup"><span data-stu-id="13f0a-107">Access the shared mailbox in Outlook or in Outlook on the web</span></span>
+- <span data-ttu-id="0bf7c-107">การเข้าถึงกล่องจดหมายที่ใช้ร่วมกัน ใน Outlook หรือ Outlook บนเว็บ</span><span class="sxs-lookup"><span data-stu-id="0bf7c-107">Access the shared mailbox in Outlook or in Outlook on the web</span></span>
     
 
