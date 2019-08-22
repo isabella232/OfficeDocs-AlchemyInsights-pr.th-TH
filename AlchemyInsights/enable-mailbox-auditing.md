@@ -11,25 +11,25 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 19997b0a-394f-4943-8908-c601696a332c
-ms.openlocfilehash: 81041685cf383a231a9a9739d6daffd6039b4602
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 1ef60017f1ea656296bc7b2aa3bc5365646f11f3
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32403766"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36527634"
 ---
-# <a name="enable-mailbox-auditing"></a><span data-ttu-id="ed5ab-102">เปิดใช้งานการตรวจสอบของกล่องจดหมาย</span><span class="sxs-lookup"><span data-stu-id="ed5ab-102">Enable mailbox auditing</span></span>
+# <a name="enable-mailbox-auditing"></a><span data-ttu-id="7ad91-102">เปิดใช้งานการตรวจสอบของกล่องจดหมาย</span><span class="sxs-lookup"><span data-stu-id="7ad91-102">Enable mailbox auditing</span></span>
 
-<span data-ttu-id="ed5ab-103">เมื่อต้องการเปิดใช้งานการตรวจสอบของกล่องจดหมายสำหรับผู้ใช้คนเดียวหรือทั้งองค์กร ต้องรันการ cmdlet ของต่อไปนี้จากเชลล์พลังงานระยะไกล:</span><span class="sxs-lookup"><span data-stu-id="ed5ab-103">To enable Mailbox Auditing for either a single user or an entire organization the following cmdlets must be run from Remote Power Shell:</span></span>
+<span data-ttu-id="7ad91-103">เมื่อต้องการเปิดใช้งานการตรวจสอบของกล่องจดหมายสำหรับผู้ใช้คนเดียวหรือทั้งองค์กร ต้องรันการ cmdlet ของต่อไปนี้จากเชลล์พลังงานระยะไกล:</span><span class="sxs-lookup"><span data-stu-id="7ad91-103">To enable Mailbox Auditing for either a single user or an entire organization the following cmdlets must be run from Remote Power Shell:</span></span>
   
- <span data-ttu-id="ed5ab-104">**ผู้ใช้คนเดียว**</span><span class="sxs-lookup"><span data-stu-id="ed5ab-104">**Single User**</span></span>
+ <span data-ttu-id="7ad91-104">**ผู้ใช้คนเดียว**</span><span class="sxs-lookup"><span data-stu-id="7ad91-104">**Single User**</span></span>
   
-<span data-ttu-id="ed5ab-105">ตั้งค่าจดหมาย - รหัสประจำตัว "เจนด" - AuditEnabled $true</span><span class="sxs-lookup"><span data-stu-id="ed5ab-105">Set-Mailbox -Identity "Jane Dow" -AuditEnabled $true</span></span>
+<span data-ttu-id="7ad91-105">ตั้งค่าจดหมาย - รหัสประจำตัว "เจนด" - AuditEnabled $true</span><span class="sxs-lookup"><span data-stu-id="7ad91-105">Set-Mailbox -Identity "Jane Dow" -AuditEnabled $true</span></span>
   
- <span data-ttu-id="ed5ab-106">**องค์กร**</span><span class="sxs-lookup"><span data-stu-id="ed5ab-106">**Organization**</span></span>
+ <span data-ttu-id="7ad91-106">**องค์กร**</span><span class="sxs-lookup"><span data-stu-id="7ad91-106">**Organization**</span></span>
   
-<span data-ttu-id="ed5ab-107">รับจดหมาย - ResultSize ไม่จำกัด - กรอง {RecipientTypeDetails - eq "UserMailbox" } | ตั้งค่าจดหมาย - AuditEnabled $true</span><span class="sxs-lookup"><span data-stu-id="ed5ab-107">Get-Mailbox -ResultSize Unlimited -Filter {RecipientTypeDetails -eq "UserMailbox"} | Set-Mailbox -AuditEnabled $true</span></span>
+<span data-ttu-id="7ad91-107">รับจดหมาย - ResultSize ไม่จำกัด - กรอง {RecipientTypeDetails - eq "UserMailbox" } | ตั้งค่าจดหมาย - AuditEnabled $true</span><span class="sxs-lookup"><span data-stu-id="7ad91-107">Get-Mailbox -ResultSize Unlimited -Filter {RecipientTypeDetails -eq "UserMailbox"} | Set-Mailbox -AuditEnabled $true</span></span>
   
-[<span data-ttu-id="ed5ab-108">ศึกษาเพิ่มเติม</span><span class="sxs-lookup"><span data-stu-id="ed5ab-108">Learn more</span></span>](https://support.office.com/article/aaca8987-5b62-458b-9882-c28476a66918)
+[<span data-ttu-id="7ad91-108">ศึกษาเพิ่มเติม</span><span class="sxs-lookup"><span data-stu-id="7ad91-108">Learn more</span></span>](https://support.office.com/article/aaca8987-5b62-458b-9882-c28476a66918)
   
 

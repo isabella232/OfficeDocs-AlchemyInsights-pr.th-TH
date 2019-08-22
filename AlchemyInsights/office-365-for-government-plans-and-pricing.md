@@ -13,15 +13,17 @@ ms.custom:
 - "477"
 - "1500026"
 ms.assetid: 541063f0-181a-4d1a-895f-ea90ec3b29bb
-ms.openlocfilehash: 8d716ef3f79691971d04801731d2dd4b080b36f8
-ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
+ms.openlocfilehash: 71436f099cc81f7fbce88c76fc62406fb9d0abbd
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 08/13/2019
-ms.locfileid: "36389379"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36522139"
 ---
-<span data-ttu-id="8d3ef-102">แผนของรัฐบาลสหรัฐอเมริกา office 365 ถูกออกแบบมาสำหรับความต้องการเฉพาะขององค์กรรัฐบาลของสหรัฐอเมริกา</span><span class="sxs-lookup"><span data-stu-id="8d3ef-102">Office 365 U.S. Government plans are designed for the unique needs of U.S. government organizations.</span></span> <span data-ttu-id="8d3ef-103">มีคุณลักษณะและความสามารถของบริการ Office 365 ในชุมชน cloud รัฐบาลเป็นส่วน ๆ ที่ช่วยให้องค์กรสามารถเป็นไปตามมาตรฐานด้านความปลอดภัยและการปฏิบัติตามกฎระเบียบของสหรัฐอเมริกา</span><span class="sxs-lookup"><span data-stu-id="8d3ef-103">They provide all the features and capabilities of Office 365 services in a segmented government cloud community that enables organizations to meet U.S. compliance and security standards.</span></span>
-  
-- [<span data-ttu-id="8d3ef-104">ตรวจทานแผนของรัฐบาล</span><span class="sxs-lookup"><span data-stu-id="8d3ef-104">Review the Government plans</span></span>](https://products.office.com/government/compare-office-365-government-plans)
+# <a name="office-365-government-plans"></a><span data-ttu-id="15d39-102">การวางแผนของรัฐบาล office 365</span><span class="sxs-lookup"><span data-stu-id="15d39-102">Office 365 Government plans</span></span>
 
-- [<span data-ttu-id="8d3ef-105">เปรียบเทียบแผน Office 365 ทั้งหมด</span><span class="sxs-lookup"><span data-stu-id="8d3ef-105">Compare all Office 365 plans</span></span>](https://products.office.com/business/compare-more-office-365-for-business-plans)
+<span data-ttu-id="15d39-103">แผนของรัฐบาลสหรัฐอเมริกา office 365 ถูกออกแบบมาสำหรับความต้องการเฉพาะขององค์กรรัฐบาลของสหรัฐอเมริกา</span><span class="sxs-lookup"><span data-stu-id="15d39-103">Office 365 U.S. Government plans are designed for the unique needs of U.S. government organizations.</span></span> <span data-ttu-id="15d39-104">มีคุณลักษณะและความสามารถของบริการ Office 365 ในชุมชน cloud รัฐบาลเป็นส่วน ๆ ที่ช่วยให้องค์กรสามารถเป็นไปตามมาตรฐานด้านความปลอดภัยและการปฏิบัติตามกฎระเบียบของสหรัฐอเมริกา</span><span class="sxs-lookup"><span data-stu-id="15d39-104">They provide all the features and capabilities of Office 365 services in a segmented government cloud community that enables organizations to meet U.S. compliance and security standards.</span></span>
+  
+- [<span data-ttu-id="15d39-105">ตรวจทานแผนของรัฐบาล</span><span class="sxs-lookup"><span data-stu-id="15d39-105">Review the Government plans</span></span>](https://products.office.com/government/compare-office-365-government-plans)
+
+- [<span data-ttu-id="15d39-106">เปรียบเทียบแผน Office 365 ทั้งหมด</span><span class="sxs-lookup"><span data-stu-id="15d39-106">Compare all Office 365 plans</span></span>](https://products.office.com/business/compare-more-office-365-for-business-plans)
