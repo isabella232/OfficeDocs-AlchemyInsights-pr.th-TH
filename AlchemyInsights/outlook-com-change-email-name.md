@@ -12,16 +12,16 @@ ms.assetid: f0b69874-8a7b-480c-8329-01872c6c21df
 ms.custom:
 - "8000036"
 - "838"
-ms.openlocfilehash: 353703d159072cc8daa7f52d02f7fc1afd72d1df
-ms.sourcegitcommit: a7e5ca472000dfec471950bafd12eee8d7144f74
+ms.openlocfilehash: c20b8c0919ebe89c473a1f7b9067cceecf13f2c6
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 07/16/2019
-ms.locfileid: "35701450"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36537476"
 ---
 # <a name="change-your-email-name"></a>เปลี่ยนชื่อของคุณทางอีเมล
 
-ถ้าคุณมีที่อยู่อีเมล และต้องการเปลี่ยน ชื่อผู้รับจะเห็นในข้อความของคุณ:
+ถ้าคุณมี Outlook.com หนึ่งที่อยู่อีเมล และต้องการเปลี่ยน ชื่อผู้รับจะเห็นในข้อความของคุณ:
   
 1. เลือกรูปภาพสำหรับบัญชีของคุณที่มุมบนขวาของหน้า
 2. เลือก**โพรไฟล์ของฉัน**

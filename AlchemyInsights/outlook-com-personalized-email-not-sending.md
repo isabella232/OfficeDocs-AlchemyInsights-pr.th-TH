@@ -9,14 +9,14 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 8000083
-ms.openlocfilehash: 69241cad34058df87886ee4db7826ceb2779fbf7
-ms.sourcegitcommit: 7c0575fd30f0f4448e530e1ec40eabb362cb4670
+ms.openlocfilehash: 7363af1d4fc1a0f4131bebc325485dc99a30e2eb
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 07/09/2019
-ms.locfileid: "35595198"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36545890"
 ---
-# <a name="my-personalized-email-address-isnt-sending-or-receiving"></a>ที่อยู่อีเมลของบุคคลของฉันไม่ได้ส่ง หรือรับ
+# <a name="my-personalized-outlookcom-email-address-isnt-sending-or-receiving"></a>ที่อยู่อีเม Outlook.com แบบส่วนบุคคลของฉันไม่ได้ส่ง หรือรับ
 
 เลือกไอคอนบนแถบเครื่องมือเพื่อเปิดแดชบอร์ดพิเศษข้าวหลามตัด
 

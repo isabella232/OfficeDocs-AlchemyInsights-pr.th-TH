@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "2429"
 - "9000575"
-ms.openlocfilehash: dfe2d67bff68d4d1b88c04fbdfe3b1cf9e557e02
-ms.sourcegitcommit: 20b6a1fb3f0d899f3b204e3c066262d10623a4ea
+ms.openlocfilehash: 665611e3fbb93a7142b8eac0c1f84208661d46d2
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 07/25/2019
-ms.locfileid: "35904029"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36534438"
 ---
 # <a name="suggestions-for-resolving-onenote-2016-is-missing"></a>คำแนะนำสำหรับการแก้ไข OneNote 2016 ขาดหายไป
 
