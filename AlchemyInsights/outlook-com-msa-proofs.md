@@ -15,16 +15,16 @@ ms.custom:
 - "1010"
 - "8000060"
 ms.assetid: a4403b0c-6f4c-4e2f-b3bd-4e814de10aff
-ms.openlocfilehash: e597d00b157e3bf2ee90d6c602fa365a52ee4434
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 7a547841700f739f59ac17969e444f781093fb2e
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35373900"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36535986"
 ---
 # <a name="security-info-and-security-codes"></a>ข้อมูลความปลอดภัยและรหัสความปลอดภัย
 
-เมื่อต้องการเพิ่มข้อมูลความปลอดภัยให้กับบัญชีของคุณ:
+เมื่อต้องการเพิ่มข้อมูลความปลอดภัยให้กับบัญชี Microsoft ของคุณ:
 
 1. เข้าสู่ระบบ[ความปลอดภัยพื้นฐาน](https://account.microsoft.com/security)กับบัญชี Microsoft ของคุณ
 1. เลือก**ข้อมูลที่ติดต่อความปลอดภัย**

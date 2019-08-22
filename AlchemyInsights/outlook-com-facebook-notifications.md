@@ -12,14 +12,14 @@ ms.collection: Adm_O365
 ms.custom:
 - "1968"
 - "9000339"
-ms.openlocfilehash: 1313c16454bd23c245d971963bbfab1fc3fa224a
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 80ddadfedb5a8a0dff2a7b9cf371e03fae58bdff
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35375052"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36536994"
 ---
-# <a name="facebook-notifications"></a>การแจ้งเตือน Facebook
+# <a name="facebook-notifications-using-outlookcom"></a>แจ้งเตือน Facebook ที่ใช้ Outlook.com
 
 ถ้าคุณไม่ต้องการรับการแจ้งเตือนจาก Facebook คุณสามารถเปลี่ยนการ[ตั้งค่า Facebook](https://www.facebook.com/settings?tab=notifications)ของคุณ หรือตั้งค่ากฎการกล่องขาเข้า
 

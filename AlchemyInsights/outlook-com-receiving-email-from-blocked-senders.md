@@ -13,16 +13,16 @@ ms.custom:
 - "920"
 - "944"
 - "8000015"
-ms.openlocfilehash: cc352670c7604e83dc3a0742c2caea334182303c
-ms.sourcegitcommit: 6be59c8adfbe651833959d251f829496be1a1331
+ms.openlocfilehash: b0610e1eb58a080e4acc334658286e8fdf3ecb50
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 08/01/2019
-ms.locfileid: "36049159"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36535590"
 ---
 # <a name="receiving-email-from-blocked-senders"></a>รับอีเมลจากผู้ส่งที่ถูกบล็อก
 
-ถ้าอีเมจากผู้ส่งที่ถูกบล็อกยังคงปรากฏในกล่องขาเข้าของคุณ ผู้ส่งอาจมีการซ่อนที่อยู่อีเมลที่แท้จริงของพวกเขา เมื่อต้องการตรวจสอบที่อยู่อีเมลที่แท้จริงของผู้ส่ง:
+ถ้าอีเมจากผู้ส่งที่ถูกบล็อกยังคงปรากฏในกล่องขาเข้า Outlook.com ผู้ส่งอาจมีการซ่อนที่อยู่อีเมลที่แท้จริงของพวกเขา เมื่อต้องการตรวจสอบที่อยู่อีเมลที่แท้จริงของผู้ส่ง:
   
 1. เลือกสามจุด <img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABYAAAAPCAYAAADgbT9oAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAAB3RJTUUH4wYLFhkF94QzeAAAAAd0RVh0QXV0aG9yAKmuzEgAAAAMdEVYdERlc2NyaXB0aW9uABMJISMAAAAKdEVYdENvcHlyaWdodACsD8w6AAAADnRFWHRDcmVhdGlvbiB0aW1lADX3DwkAAAAJdEVYdFNvZnR3YXJlAF1w/zoAAAALdEVYdERpc2NsYWltZXIAt8C0jwAAAAh0RVh0V2FybmluZwDAG+aHAAAAB3RFWHRTb3VyY2UA9f+D6wAAAAh0RVh0Q29tbWVudAD2zJa/AAAABnRFWHRUaXRsZQCo7tInAAAAL0lEQVQ4jWP8////fwYaACZaGDpq8HAzuKGhnqGhoR5DIaniNHMx42gGGTUYAwAAw6QRD6XFR1wAAAAASUVORK5CYII=' />
  ที่ด้านบนของหน้าต่างข้อความและเลือก**ดูแหล่งข้อความ**
