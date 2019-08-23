@@ -11,13 +11,13 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "8000031"
-ms.openlocfilehash: 1ef90f60d0a8d963d40a04ec78bd451b235e4d1b
-ms.sourcegitcommit: c65fb26afcaa8446c3e5490ed14c4f403b9d0945
+ms.openlocfilehash: 7e6a6d0fd6493a27908d3885eb90570dce54f3bf
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 06/03/2019
-ms.locfileid: "34683368"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36557484"
 ---
-# <a name="cant-delete-files-or-photos-from-files"></a><span data-ttu-id="cae9c-102">ไม่สามารถลบแฟ้มหรือรูปภาพจากแฟ้ม</span><span class="sxs-lookup"><span data-stu-id="cae9c-102">Can't delete files or photos from Files</span></span>
+# <a name="cant-delete-files-or-photos-from-files-in-outlook-on-the-web"></a><span data-ttu-id="58e52-102">ไม่สามารถลบแฟ้มหรือรูปถ่ายจากแฟ้มใน Outlook บนเว็บ</span><span class="sxs-lookup"><span data-stu-id="58e52-102">Can't delete files or photos from files in Outlook on the web</span></span>
 
-<span data-ttu-id="cae9c-103">**แฟ้ม**แสดงแฟ้มและรูปภาพที่แนบไปกับข้อความในกล่องจดหมายของคุณ</span><span class="sxs-lookup"><span data-stu-id="cae9c-103">**Files** shows the files and photos attached to messages in your mailbox.</span></span> <span data-ttu-id="cae9c-104">เมื่อต้องการลบแฟ้มและรูปภาพจากแฟ้ม คุณต้องการลบข้อความอีเมลที่แนบไป</span><span class="sxs-lookup"><span data-stu-id="cae9c-104">To remove files and photos from Files, you need to delete the email messages they're attached to.</span></span> <span data-ttu-id="cae9c-105">หลังจากการลบข้อความ คุณต้องลบออกจากโฟลเดอร์รายการที่ถูกลบของคุณด้วย</span><span class="sxs-lookup"><span data-stu-id="cae9c-105">After deleting the messages, you also need to delete them from your Deleted Items folder.</span></span>
+<span data-ttu-id="58e52-103">**แฟ้ม**แสดงแฟ้มและรูปภาพที่แนบไปกับข้อความในกล่องจดหมายของคุณ</span><span class="sxs-lookup"><span data-stu-id="58e52-103">**Files** shows the files and photos attached to messages in your mailbox.</span></span> <span data-ttu-id="58e52-104">เมื่อต้องการลบแฟ้มและรูปภาพจากแฟ้ม คุณต้องการลบข้อความอีเมลที่แนบไป</span><span class="sxs-lookup"><span data-stu-id="58e52-104">To remove files and photos from Files, you need to delete the email messages they're attached to.</span></span> <span data-ttu-id="58e52-105">หลังจากการลบข้อความ คุณต้องลบออกจากโฟลเดอร์รายการที่ถูกลบของคุณด้วย</span><span class="sxs-lookup"><span data-stu-id="58e52-105">After deleting the messages, you also need to delete them from your Deleted Items folder.</span></span>
