@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: c0fde770-ba1d-4aeb-8c9a-83b646fc80ce
-ms.openlocfilehash: a29d55b634cae68d859010c1099baab4c516c203
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 4639bae977d74f8d9416582d3757475f43e15500
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32405679"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36514097"
 ---
 # <a name="delete-a-sharepoint-page"></a>ลบเพจ SharePoint
 
@@ -28,6 +28,6 @@ ms.locfileid: "32405679"
     
 4. เลือกเพจที่ และจากนั้น คลิกที่**จุดไข่ปลา (...)** ทางด้านขวาของหน้า 
     
-5. คลิก ** ลบ ** 
+5. คลิก**ลบ** 
     
 
