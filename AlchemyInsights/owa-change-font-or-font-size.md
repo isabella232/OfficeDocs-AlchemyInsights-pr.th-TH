@@ -12,14 +12,14 @@ ms.collection: Adm_O365
 ms.custom:
 - "8000013"
 - "1999"
-ms.openlocfilehash: 907cb0a0fcc111f993dbc0d580ff397340eab8ab
-ms.sourcegitcommit: 327a2c77afc2ff3d67d3aaaea1a92068a3c4bb1f
+ms.openlocfilehash: 28efa991c3449716af7453051e2cfd7ceea56467
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 08/06/2019
-ms.locfileid: "36171190"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36557441"
 ---
-# <a name="change-font-or-font-size"></a>เปลี่ยนแบบอักษรหรือขนาดแบบอักษร
+# <a name="change-font-or-font-size-in-outlook-on-the-web"></a>เปลี่ยนแบบอักษรหรือขนาดแบบอักษรใน Outlook บนเว็บ
 
 เมื่อต้องการอ่านอีเมล คุณสามารถใช้ฟังก์ชันซูมของเบราว์เซอร์ของคุณเพื่อให้ข้อความบนหน้าจอของคุณใหญ่ขึ้น หรือเล็กลง
   

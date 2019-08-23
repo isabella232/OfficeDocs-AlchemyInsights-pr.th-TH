@@ -9,14 +9,14 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: ''
-ms.openlocfilehash: a71d835c7500fb319c3ae95efaceb06835fd4032
-ms.sourcegitcommit: 327a2c77afc2ff3d67d3aaaea1a92068a3c4bb1f
+ms.openlocfilehash: 0f358f34b0b458ddf7c030d521542f1c20ffb806
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 08/06/2019
-ms.locfileid: "36171413"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36556800"
 ---
-# <a name="insert-a-picture-in-an-email-message"></a>แทรกรูปภาพในข้อความอีเมล
+# <a name="insert-a-picture-in-outlook-on-the-web"></a>แทรกรูปภาพใน Outlook บนเว็บ
 
 ถ้าคุณต้องการเพิ่มรูปภาพที่แสดงในเนื้อความของอีเมลของคุณ คุณสามารถเพิ่มรูปภาพในแนวเดียวกัน
 

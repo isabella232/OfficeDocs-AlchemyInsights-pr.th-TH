@@ -13,23 +13,23 @@ ms.custom:
 - "482"
 - "1500028"
 ms.assetid: 2d59f23f-7aad-4b57-9039-0bd2bbf929a3
-ms.openlocfilehash: 8e64c5f315fd52a34d735ba653e9cb28821f2031
-ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
+ms.openlocfilehash: 846fa7ebdfed5d9160f97556451e4c6d557b2a8c
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 08/13/2019
-ms.locfileid: "36391071"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36553379"
 ---
-# <a name="reactivate-a-subscription"></a>เปิดใช้งานการสมัครใช้งาน
+# <a name="reactivate-an-office-365-subscription"></a>เปิดใช้งานการสมัครใช้งานของ Office 365
 
 การบอกรับเป็นสมาชิกของคุณหมดอายุ ถูกปิดใช้งาน โดย Microsoft หรือคุณได้ยกเลิกในกึ่งกลางของคำบอกรับเป็นสมาชิก คุณสามารถเปิดใช้งานในศูนย์ดูแล
   
-1. ในศูนย์ดูแล ไป**การเรียกเก็บเงิน**\>หน้าการ[บอกรับเป็นสมาชิก](https://go.microsoft.com/fwlink/p/?linkid=842054)
+1. ในศูนย์ดูแล ไป**การเรียกเก็บเงิน**\>หน้า[บริการ & ผลิตภัณฑ์](https://go.microsoft.com/fwlink/p/?linkid=842054)
 
-2. เลือกการบอกรับเป็นสมาชิกที่คุณต้องการเปิดใช้อีกครั้ง จาก นั้นเลือก**เปิดใช้งานใหม่**
+2. เลือกการบอกรับเป็นสมาชิกที่คุณต้องการเปิดใช้งานใหม่ ในส่วนของการเรียกเก็บเงิน เลือก**เปิดใช้งานใหม่**
 
-    ถ้าคุณไม่เห็น**เปิดใช้อีกครั้ง**เป็นการดำเนินการที่พร้อมใช้งาน ใช้ตัวเลือก "แจ้งให้เราเรียกคุณ" การพูดคุยกับวิศวกรฝ่ายสนับสนุนการเปิดใช้งานการสมัครใช้งาน
+    ถ้าคุณไม่เห็น**เปิดใช้อีกครั้ง**เป็นการกระทำที่พร้อมใช้งาน[โปรดติดต่อฝ่ายสนับสนุน](https://docs.microsoft.com/office365/admin/contact-support-for-business-products?view=o365-worldwide)การเปิดใช้งานการสมัครใช้งาน
 
-3. ป้อนรายละเอียดการชำระเงินของคุณ คุณสามารถปรับปรุงข้อมูลของคุณที่มีอยู่การชำระเงินที่นี่
+3. ยืนยันรายละเอียดการชำระเงินของคุณ คุณสามารถปรับปรุงข้อมูลของคุณที่มีอยู่การชำระเงินที่นี่ เมื่อคุณเสร็จสิ้นการป้อนวิธีการชำระเงิน เลือก**เปิดใช้งานใหม่**
 
-คุณกำลังใช้ศูนย์ดูแลแบบใหม่หรือไม่ สำหรับขั้นตอนใหม่ ดูที่[เปิดใช้งานการสมัครใช้งาน](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/reactivate-your-subscription)
+สำหรับข้อมูลเพิ่มเติม ดูที่[เปิดใช้งานการสมัครใช้งาน](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/reactivate-your-subscription)

@@ -10,14 +10,14 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: e13940be-483f-46ed-a88c-d36bbaf04ad5
-ms.openlocfilehash: 6417ff45a94c7b8fb50c8a1f9f84873714e3eaaf
-ms.sourcegitcommit: 327a2c77afc2ff3d67d3aaaea1a92068a3c4bb1f
+ms.openlocfilehash: 30f4b30a86f6c65ff1dc348c279341e299b0275b
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 08/06/2019
-ms.locfileid: "36059199"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36507902"
 ---
-# <a name="external-sharing-settings-for-sharepoint--onedrive"></a>การตั้งค่าสำหรับ SharePoint & OneDrive ที่ใช้ร่วมกันภายนอก
+# <a name="warning-message-your-organizations-policies-dont-allow-you-to-share-with-these-users"></a>ข้อความแจ้งเตือน: นโยบายขององค์กรของคุณไม่อนุญาตให้คุณใช้ร่วมกันกับผู้ใช้เหล่านี้
 
 ผู้ใช้อาจพบข้อความเตือนเมื่อพยายามใช้ร่วมกันกับผู้ใช้ภายนอกองค์กรของคุณ ข้อความถูก**นโยบายขององค์กรของคุณไม่อนุญาตให้คุณใช้ร่วมกันกับผู้ใช้เหล่านี้ ไปยังภายนอกร่วมกันใน Office 365 admin ศูนย์การเปิดใช้งาน** ซึ่งมักจะเกิดขึ้นในครั้งแรกที่พยายามที่จะใช้ร่วมกัน กับผู้ใช้ภายนอก หรือเมื่อใช้ร่วมกับผู้ใช้ภายนอกใหม่
 

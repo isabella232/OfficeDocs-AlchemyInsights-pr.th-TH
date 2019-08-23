@@ -9,16 +9,16 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: ''
-ms.openlocfilehash: 3f5ce5dbd9307aae9fc497f501d1da9194c45ff9
-ms.sourcegitcommit: 204be4a6ae03700b75eae6b09b4e9ab283089fbf
+ms.openlocfilehash: bf4ae61907e2a179bba39edb4f8eb05608e00907
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 08/03/2019
-ms.locfileid: "36171351"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36556728"
 ---
 # <a name="print-email-calendars-and-attachments"></a>พิมพ์อีเมล ปฏิทิน และสิ่งที่แนบมา
 
-เมื่อต้องการพิมพ์ข้อความอีเมล:
+เมื่อต้องการพิมพ์ข้อความอีเมลใน Outlook บนเว็บ:
   
 1. เลือกข้อความคุณต้องการพิมพ์
 1. ที่มุมบนขวาของข้อความ เลือกสามจุด จากนั้น**พิมพ์**
