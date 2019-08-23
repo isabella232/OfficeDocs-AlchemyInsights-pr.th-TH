@@ -13,14 +13,14 @@ ms.custom:
 - "1639"
 - "9000134"
 ms.assetid: 352a02d7-1368-4e3f-a8cf-bac207e414b0
-ms.openlocfilehash: fbdbdec10ddc5724122c02ad1350c11aaf63867e
-ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
+ms.openlocfilehash: 74cec40931491a9194252dd44894c602b3c849cd
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 08/13/2019
-ms.locfileid: "36388691"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36555288"
 ---
-# <a name="payment-options"></a>ตัวเลือกการชำระเงิน
+# <a name="payment-options-for-office-365-for-business-subscriptions"></a>ตัวเลือกการชำระเงินสำหรับ Office 365 สำหรับธุรกิจการบอกรับเป็นสมาชิก
 
 **ตัวเลือกการชำระเงิน**
   
@@ -30,7 +30,7 @@ ms.locfileid: "36388691"
   
 เมื่อคุณชำระเงิน ด้วยบัตรเครดิตหรือบัญชีธนาคาร คุณจะสามารถโดยอัตโนมัติคิดค่าธรรมเนียมสำหรับการบอกรับสมาชิกของคุณเป็นวันหลังจากวันใบแจ้งหนี้ จนถึงจุดสิ้นสุดของคำที่คุณบอกรับเป็นสมาชิก คุณสามารถ[ปรับปรุงบัตรเครดิตหรือข้อมูลบัญชีธนาคารของคุณ](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account)เมื่อใดก็ ตามที่คุณต้องการ คุณยังสามารถเลือกที่จะ[ได้รับสำเนาของคำสั่งที่เรียกเก็บเงินของคุณในอีเมล](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/pay-for-your-subscription#receive-a-copy-of-your-billing-statement-in-email)
   
-ถ้าบัตรเครดิตของคุณถูกปฏิเสธ หรือได้เลยกำหนดชำระ ยอดดุลคุณสามารถเลือก**การชำระค่าจ้างในขณะนี้**ตัวเลือกในการ**เรียกเก็บเงิน**\>หน้าการ[บอกรับเป็นสมาชิก](https://portal.office.com/adminportal/home#/subscriptions)ได้
+ถ้าบัตรเครดิตของคุณถูกปฏิเสธ หรือได้เลยกำหนดชำระ ยอดดุลคุณสามารถเลือกตัวเลือก**ชำระยอดดุล**ในใบ**เรียกเก็บเงิน**\>หน้า[บริการ & ผลิตภัณฑ์](https://portal.office.com/adminportal/home#/subscriptions)ได้
   
 **ชำระเงินตามใบแจ้งหนี้ (เช็คหรือการโอนเงินทางอิเล็กทรอนิกส์)**
   

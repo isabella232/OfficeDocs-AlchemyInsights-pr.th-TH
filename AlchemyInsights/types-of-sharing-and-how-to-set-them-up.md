@@ -14,14 +14,14 @@ ms.custom:
 - "878"
 - "3500012"
 ms.assetid: 361f5405-ac43-46f6-b1b9-5d91f61617ec
-ms.openlocfilehash: c43edb77041915108d05a5e89e6107ee7838857f
-ms.sourcegitcommit: 25110a298bef81fe02af177b9fa880331c28948d
+ms.openlocfilehash: 6680b79ec120e28076f3de01818ea27334921a05
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 08/12/2019
-ms.locfileid: "35366624"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36558744"
 ---
-# <a name="different-types-of-shared-calendars-and-how-to-set-them-up"></a>ชนิดของปฏิทินที่ใช้ร่วมกันและวิธีการตั้งค่าที่แตกต่างกัน
+# <a name="different-types-of-shared-outlook-calendars-and-how-to-set-them-up"></a>ชนิดของปฏิทินที่ใช้ร่วมกันของ Outlook และวิธีการตั้งค่าที่แตกต่างกัน
 
 - [สร้างกล่องจดหมายที่ใช้ร่วมกัน](https://support.office.com/article/871a246d-3acd-4bba-948e-5de8be0544c9)
 

@@ -9,14 +9,14 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: ''
-ms.openlocfilehash: d9e30e18f9821f689878867b1619d01767c34274
-ms.sourcegitcommit: 327a2c77afc2ff3d67d3aaaea1a92068a3c4bb1f
+ms.openlocfilehash: 2a9f35dc83e82bc169e89404ae5e697792821b79
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 08/06/2019
-ms.locfileid: "36171377"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36557520"
 ---
-# <a name="change-the-look-of-your-mailbox"></a>เปลี่ยนลักษณะที่ปรากฏของกล่องจดหมายของคุณ
+# <a name="change-the-look-of-your-outlook-mailbox"></a>เปลี่ยนลักษณะที่ปรากฏของกล่องจดหมาย Outlook ของคุณ
 
 คุณสามารถเปลี่ยนลักษณะที่ปรากฏของข้อความรายการและการอ่านบานหน้าต่างเพื่อดู และวิธีคุณต้องการทำงานของ เลือกว่า ควรแสดงข้อความของคุณทีละรายการ หรือ เป็นการส นทนา ข้อความใหม่ควรปรากฏที่ด้านบนหรือด้านล่างของรายการข้อความ และอื่น ๆ
 

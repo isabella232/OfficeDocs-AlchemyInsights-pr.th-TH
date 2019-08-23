@@ -13,12 +13,12 @@ ms.custom:
 - "1488"
 - "3200003"
 ms.assetid: ''
-ms.openlocfilehash: 992037e999b94ceb470470151a69f5455e12ce3f
-ms.sourcegitcommit: e98443a049108e0dc83d63895af66944bdb1f108
+ms.openlocfilehash: 15f5a26c34e32d1f77b73d57e9518b1bb1e68320
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 08/16/2019
-ms.locfileid: "36444791"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36555252"
 ---
 # <a name="how-to-perform-content-searches-and-ediscovery-searches"></a>วิธีการดำเนินการค้นหาเนื้อหาและการค้นหา eDiscovery
 
@@ -32,6 +32,6 @@ ms.locfileid: "36444791"
 4. ป้อนเงื่อนไขการค้นหารวมทั้งคำสำคัญและตำแหน่งที่ตั้งของเนื้อหา  
 5. คลิก**บันทึกการเรียกใช้ &** เพื่อตั้งชื่อการค้นหา นั้น แล้ว แสดงตัวอย่างผลลัพธ์
 
-สำหรับคำแนะนำโดยละเอียดเกี่ยวกับเนื้อหาการค้นหา ส่งออกผลลัพธ์ และสร้างกรณี eDiscovery เพื่อจัดเก็บข้อมูล ดู[เนื้อหาการค้นหา](https://docs.microsoft.com/en-us/office365/securitycompliance/content-search)และ[eDiscovery กรณี](https://docs.microsoft.com/en-us/office365/securitycompliance/ediscovery-cases)
+สำหรับคำแนะนำโดยละเอียดเกี่ยวกับเนื้อหาการค้นหา ส่งออกผลลัพธ์ และสร้างกรณี eDiscovery เพื่อจัดเก็บข้อมูล ดู[เนื้อหาการค้นหา](https://docs.microsoft.com/office365/securitycompliance/content-search)และ[eDiscovery กรณี](https://docs.microsoft.com/office365/securitycompliance/ediscovery-cases)
 
-เข้าใจเพิ่มเติมเกี่ยวกับการค้นหาเนื้อหาโดยตรวจดู[ขีดจำกัดและความต้องการ](https://docs.microsoft.com/en-us/office365/securitycompliance/limits-for-content-search)และ[ตรวจดัชนีสินค้าบางส่วน](https://docs.microsoft.com/en-us/office365/securitycompliance/investigating-partially-indexed-items-in-ediscovery)และอื่น ๆ ผลลัพธ์ต้องระวัง
+เข้าใจเพิ่มเติมเกี่ยวกับการค้นหาเนื้อหาโดยตรวจดู[ขีดจำกัดและความต้องการ](https://docs.microsoft.com/office365/securitycompliance/limits-for-content-search)และ[ตรวจดัชนีสินค้าบางส่วน](https://docs.microsoft.com/office365/securitycompliance/investigating-partially-indexed-items-in-ediscovery)และอื่น ๆ ผลลัพธ์ต้องระวัง
