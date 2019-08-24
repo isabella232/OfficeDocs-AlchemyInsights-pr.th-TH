@@ -11,16 +11,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000265"
 - "1874"
-ms.openlocfilehash: 2f75f1e60af06da47fe846e84bbb370dd60084e9
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: d5ea73c967013822854dbd408d4628d991c90378
+ms.sourcegitcommit: cd79ecca88b2cb166f78f44ab8bc4e8136729418
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36543872"
+ms.lasthandoff: 08/23/2019
+ms.locfileid: "36620778"
 ---
 # <a name="modern-site-as-root-site"></a>สมัยใหม่ไซต์เป็นไซต์ราก
 
-เราได้เริ่มไวร์คุณลักษณะใหม่ที่จะอนุญาตให้คุณสลับไซต์รากของไซต์คลาสสิกกับไซต์สมัยใหม่ ใช้[Invoke SPSiteSwap](https://docs.microsoft.com/powershell/module/sharepoint-online/invoke-spositeswap?view=sharepoint-ps)การสลับตำแหน่งของไซต์ที่มีไซต์อื่นในขณะที่เก็บถาวรไซต์ดั้งเดิม พร้อมใช้งานสำหรับทั้งไซต์สำหรับทีม (ไม่ได้เชื่อมต่อไปยังกลุ่ม) และไซต์การสื่อสาร 
+เราได้เริ่มไวร์คุณลักษณะใหม่ที่จะอนุญาตให้คุณสลับไซต์รากของไซต์คลาสสิกกับไซต์สมัยใหม่ ใช้[Invoke SPOSiteSwap](https://docs.microsoft.com/powershell/module/sharepoint-online/invoke-spositeswap?view=sharepoint-ps)การสลับตำแหน่งของไซต์ที่มีไซต์อื่นในขณะที่เก็บถาวรไซต์ดั้งเดิม พร้อมใช้งานสำหรับทั้งไซต์สำหรับทีม (ไม่ได้เชื่อมต่อไปยังกลุ่ม) และไซต์การสื่อสาร 
 
 >[!Important]
 > ลบไซต์รากคลาสสิกของการสร้างไซต์สื่อสารแบบสมัยใหม่ นี้จะไม่ได้รับการสนับสนุน โดย Microsoft การลบไซต์รากจะทำให้ไซต์ SharePoint ทั้งหมดในองค์กรของคุณไม่สามารถเข้าถึงผู้ใช้ทั้งหมด จนกว่าคุณคืนค่าไซต์ หรือสร้างไซต์ใหม่ที่ URL เดียวกัน เราจะสื่อสารคุณลักษณะนี้ผ่านทางข้อความกึ่งกลาง คุณควรคาดหวังคุณลักษณะต้องการในการเช่าของคุณในไม่ช้า

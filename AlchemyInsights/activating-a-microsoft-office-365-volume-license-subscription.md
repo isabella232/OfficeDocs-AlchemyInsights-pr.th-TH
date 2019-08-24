@@ -13,12 +13,12 @@ ms.custom:
 - "481"
 - "1500028"
 ms.assetid: 7a6919fc-afe4-40c7-8ada-d8ce523ad8a8
-ms.openlocfilehash: 15cdb1130674e92d8a673453921dddb291c5971f
-ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
+ms.openlocfilehash: bd83dc5bbab9fb39abb751246795cd7d7895ce2b
+ms.sourcegitcommit: ea64deba1eec3fb768a2f732cfe0ec79bb03694a
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 08/13/2019
-ms.locfileid: "36385884"
+ms.lasthandoff: 08/23/2019
+ms.locfileid: "36574489"
 ---
 # <a name="activating-a-microsoft-office-365-volume-license-subscription"></a>เปิดใช้งานการสมัครใช้งานไดรฟ์ข้อมูลสิทธิ์การใช้งาน Microsoft Office 365
 
@@ -32,4 +32,4 @@ ms.locfileid: "36385884"
 
 5. ลงชื่อเข้าใช้ Office 365 ([https://portal.office.com](https://portal.office.com)) โดยใช้ข้อมูลประจำตัวผู้ดูแลระบบ Office 365 ของคุณที่มีอยู่ หลังจากที่คุณเสร็จเรียบร้อยแล้วเข้าสู่ระบบ คุณจะได้รับอีเมอื่นที่ยืนยันการซื้อของคุณ
 
-6. หลังจากที่คุณได้ลงชื่อเข้าใช้ คุณสามารถไป**การเรียกเก็บเงิน**\>หน้าการ[บอกรับเป็นสมาชิก](https://go.microsoft.com/fwlink/p/?linkid=842054)เพื่อตรวจสอบว่า มีการเปิดใช้งานภายในของผู้เช่าของคุณสั่งซื้อ Office 365 บอกรับเป็นสมาชิกได้ (คุณยังสามารถเลือกแท็บการ**บอกรับเป็นสมาชิก**ใน VLSC เพื่อดูรายละเอียดการตรวจสอบว่า มีการฝากเงินการสมัครใช้งาน)
+6. หลังจากที่คุณได้ลงชื่อเข้าใช้ คุณสามารถไป**การเรียกเก็บเงิน**\>หน้า[บริการ & ผลิตภัณฑ์](https://go.microsoft.com/fwlink/p/?linkid=842054)เพื่อตรวจสอบว่า มีการเปิดใช้งานภายในของผู้เช่าของคุณสั่งซื้อ Office 365 บอกรับเป็นสมาชิกได้ (คุณยังสามารถเลือกแท็บการ**บอกรับเป็นสมาชิก**ใน VLSC เพื่อดูรายละเอียดการตรวจสอบว่า มีการฝากเงินการสมัครใช้งาน)

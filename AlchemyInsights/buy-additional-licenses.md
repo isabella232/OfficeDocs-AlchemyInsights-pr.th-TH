@@ -13,12 +13,12 @@ ms.custom:
 - "530"
 - "1400007"
 ms.assetid: 75fdfd6d-cae7-40fd-bc50-8674bcd3a771
-ms.openlocfilehash: a9c2f53ff074d548659757cae9456c3c4633d4ec
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 5cf6100e0affd23bc320df8acad7810e402bdb5f
+ms.sourcegitcommit: ea64deba1eec3fb768a2f732cfe0ec79bb03694a
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36518058"
+ms.lasthandoff: 08/23/2019
+ms.locfileid: "36575968"
 ---
 # <a name="buy-additional-office-365-licenses"></a>ซื้อสิทธิ์การใช้งานเพิ่มเติมของ Office 365
 
@@ -32,9 +32,10 @@ ms.locfileid: "36518058"
 
     > [!NOTE]
     > ถ้าคุณจ่ายเงินสำหรับการสมัครใช้งานของคุณ โดยใช้บัตรเครดิตหรือบัญชีธนาคาร ใบอนุญาตใหม่ใด ๆ ที่คุณซื้อสามารถใช้งานได้ทันทีหลังจากที่คุณได้รับการยืนยันใบสั่ง ถ้าคุณชำระเงินตามใบแจ้งหนี้ คุณอาจต้องรอให้การตรวจสอบสินเชื่อก่อนที่จะพร้อมใช้งานของสิทธิ์การใช้งานของคุณใหม่
-  
+
+คุณกำลังใช้ศูนย์ดูแลแบบเก่าหรือไม่ สำหรับขั้นตอนเดิม หรือเมื่อต้อง การเรียนรู้เพิ่มเติม ดู[ซื้อสิทธิ์การใช้งานสำหรับ Office 365 ของคุณสำหรับการสมัครใช้งานทางธุรกิจ](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/buy-licenses)  
+
 **ทรัพยากรเพิ่มเติม**
 
 - [กำหนดสิทธิ์การใช้งานกับผู้ใช้ใน Office 365 สำหรับธุรกิจ](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users)
 
-สำหรับข้อมูลเพิ่มเติม ดู[ซื้อสิทธิ์การใช้งานสำหรับ Office 365 ของคุณสำหรับการสมัครใช้งานทางธุรกิจ](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/buy-licenses)

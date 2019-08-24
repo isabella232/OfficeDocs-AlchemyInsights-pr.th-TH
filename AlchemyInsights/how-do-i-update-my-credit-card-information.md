@@ -13,12 +13,12 @@ ms.custom:
 - "430"
 - "1500001"
 ms.assetid: 2f1bd3a4-a577-47f4-9ec4-5e094ccc7ee2
-ms.openlocfilehash: 85e6691e02ae04fd2813dc8a883b879ff4bca1ff
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 4ba0625d61d1a51f8e011765992dead21a15831f
+ms.sourcegitcommit: ea64deba1eec3fb768a2f732cfe0ec79bb03694a
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36522810"
+ms.lasthandoff: 08/23/2019
+ms.locfileid: "36575361"
 ---
 # <a name="how-do-i-update-my-credit-card-information"></a>วิธีฉันปรับปรุงข้อมูลบัตรเครดิตของฉันได้อย่างไร
 
@@ -33,4 +33,4 @@ ms.locfileid: "36522810"
 
 4. ปรับปรุงข้อมูลของบัตรเครดิตหรือบัญชีธนาคาร (ชื่อบนบัตรเครดิต หรือบัญชีธนาคาร หมายเลขโทรศัพท์ที่อยู่สำหรับเรียกเก็บเงิน หรือวันหมดอายุ) ตามความจำเป็น จาก นั้นเลือก**บันทึก** > **ทำ**งาน
 
-สำหรับข้อมูลเพิ่มเติม ดู[เพิ่ม ปรับ ปรุง หรือเอาบัตรเครดิตหรือบัญชีธนาคารใน Office 365 สำหรับธุรกิจ](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account)
+คุณกำลังใช้ศูนย์ดูแลแบบเก่าหรือไม่ สำหรับขั้นตอนเดิม หรือเมื่อต้อง การเรียนรู้เพิ่มเติม ดู[เพิ่ม ปรับ ปรุง หรือเอาบัตรเครดิตหรือบัญชีธนาคารใน Office 365 สำหรับธุรกิจ](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account)
