@@ -13,12 +13,12 @@ ms.custom:
 - "319"
 - "1500007"
 ms.assetid: 69797abf-3e60-4be2-b0a7-26022a14397e
-ms.openlocfilehash: b6a8e6dc08941bf18c3ef8f36a14d63a41b34d4d
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 64a7566ff4e1759e8687179d49bac47f7e28bf6a
+ms.sourcegitcommit: ea64deba1eec3fb768a2f732cfe0ec79bb03694a
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36522450"
+ms.lasthandoff: 08/23/2019
+ms.locfileid: "36574961"
 ---
 # <a name="how-to-add-or-reduce-licenses"></a>วิธีการเพิ่ม หรือลดสิทธิ์การใช้งาน
 
@@ -39,7 +39,7 @@ ms.locfileid: "36522450"
 > [!NOTE]
 > ค่าธรรมเนียมใหม่ (การเพิ่มสิทธิ์การใช้งาน) หรือเครดิต (สิทธิ์การใช้งานลดลง) ใด ๆ จะแสดงให้เห็นในบิลถัดไป
 
-สำหรับข้อมูลเพิ่มเติม ดู[ซื้อสิทธิ์การใช้งานสำหรับ Office 365 ของคุณสำหรับการสมัครใช้งานทางธุรกิจ](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/buy-licenses)
+คุณกำลังใช้ศูนย์ดูแลแบบเก่าหรือไม่ สำหรับขั้นตอนเดิม หรือเมื่อต้อง การเรียนรู้เพิ่มเติม ดู[ซื้อสิทธิ์การใช้งานสำหรับ Office 365 ของคุณสำหรับการสมัครใช้งานทางธุรกิจ](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/buy-licenses)
 
  **ทรัพยากรเพิ่มเติม**
   
