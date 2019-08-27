@@ -12,18 +12,18 @@ ms.custom:
 - "632"
 - "3500007"
 ms.assetid: a53e3a0a-db1c-410e-8340-e93c06155f60
-ms.openlocfilehash: f4b85ebd2ced927a5cd0d7c79c9df6fe93fa9e8c
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 6535ee5e133c6674e460de3b54fe35602bc80915
+ms.sourcegitcommit: 7101e29c3c890ee23dc10a10d608f90f4de13b3a
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36514890"
+ms.lasthandoff: 08/26/2019
+ms.locfileid: "36631859"
 ---
 # <a name="creating-public-folders"></a>การสร้างโฟลเดอร์สาธารณะ
 
 ก่อนที่ผู้ใช้ของคุณสามารถใช้โฟลเดอร์สาธารณะใน Office 365 คุณจะต้องสร้างกล่องจดหมายโฟลเดอร์สาธารณะอย่างน้อยหนึ่งครั้ง เพื่อสร้าง:
   
-1. ในเว็บไซต์ O365 ใช้เมนูทางซ้าย นำทางไปยัง**ศูนย์ Admin** \> **แลกเปลี่ยน**
+1. ใน Microsoft 365 admin ศูนย์ ไปยัง**ศูนย์ Admin** \> **แลกเปลี่ยน**
 
 2. นำทางไปยัง**โฟลเดอร์สาธารณะ** \> **กล่องจดหมายโฟลเดอร์สาธารณะ**แล้ว คลิก**เพิ่ม**
 
