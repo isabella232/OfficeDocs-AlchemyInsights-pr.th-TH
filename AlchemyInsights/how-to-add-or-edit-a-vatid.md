@@ -1,5 +1,5 @@
 ---
-title: วิธีการเพิ่ม หรือแก้ไขคำ VatID
+title: วิธีการเพิ่มหรือแก้ไข VatID
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -12,27 +12,27 @@ ms.custom:
 - "664"
 - "1500034"
 ms.assetid: ec278e2b-cc7a-43be-8af5-f381a50d7471
-ms.openlocfilehash: ff90ca14e4036b9a3b470e08cf749fd437ba6d78
-ms.sourcegitcommit: ea64deba1eec3fb768a2f732cfe0ec79bb03694a
+ms.openlocfilehash: ff4471727b38b6d43b9639b551f92b87e9e9360c
+ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 08/23/2019
-ms.locfileid: "36575017"
+ms.lasthandoff: 08/29/2019
+ms.locfileid: "36664339"
 ---
-# <a name="how-to-add-or-edit-a-vatid"></a>วิธีการเพิ่ม หรือแก้ไขคำ VatID
+# <a name="how-to-add-or-edit-a-vatid"></a>วิธีการเพิ่มหรือแก้ไข VatID
 
-1.  ในศูนย์ดูแล Microsoft 365 ไป**การเรียกเก็บเงิน**\>หน้า[บริการ & ผลิตภัณฑ์](https://go.microsoft.com/fwlink/p/?linkid=842054)
+1. ในศูนย์ดูแล Microsoft ๓๖๕ให้ไปที่หน้า[บริการผลิตภัณฑ์](https://go.microsoft.com/fwlink/p/?linkid=842054)**สำหรับการเรียกเก็บเงิน** \>
 
-2. ค้นหาบัตรบอกรับเป็นสมาชิกสำหรับการบอกรับเป็นสมาชิกที่คุณต้องการปรับปรุง
+2. ค้นหาบัตรการสมัครสมาชิกสำหรับการสมัครใช้งานที่คุณต้องการอัปเดต
 
-3. ในส่วนของ **& การตั้งค่าการดำเนินการ**เลือก**แก้ไขที่อยู่ในการใช้บริการ**
+3. ในส่วนการ**ตั้งค่า _ Amp_ การดำเนินการ**เลือก**แก้ไขที่อยู่การใช้บริการ**
 
-4. บนหน้า**แก้ไขที่อยู่ของคุณใช้งานการบริการ**ป้อน ID ของ VAT ในกล่อง**หมายเลข VAT**จากนั้น**บันทึก**
+4. บนหน้า**แก้ไขที่อยู่ของการใช้บริการ**ให้ป้อนหมายเลข vat ของคุณในกล่อง**หมายเลข Vat**แล้วเลือก**บันทึก**
 
-    เมื่อเสร็จสิ้น VAT จะไม่ถูกคิดค่าธรรมเนียมในบิลถัดไป
+    เมื่อเสร็จสมบูรณ์แล้ว VAT จะไม่ถูกเรียกเก็บเงินในบิลถัดไปของคุณ
 
-คุณกำลังใช้ศูนย์ดูแลแบบเก่าหรือไม่ สำหรับขั้นตอนเดิม หรือเมื่อต้อง การเรียนรู้เพิ่มเติม ดู[ภาษีใดจะฉันจะคิดค่าธรรมเนียมสำหรับ Office 365 ?](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/what-tax-will-i-be-charged)
+หากต้องการเรียนรู้เพิ่มเติมโปรดดู[ภาษีที่ฉันจะถูกเรียกเก็บสำหรับ Office ๓๖๕หรือไม่](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/what-tax-will-i-be-charged)
 
-**ทรัพยากรเพิ่มเติม**
+**แหล่งข้อมูลเพิ่มเติม**
 
 [เพิ่มหมายเลข VAT ของคุณ](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/what-tax-will-i-be-charged?view=o365-worldwide#add-your-vat-id-eu-countries-only)

@@ -14,25 +14,25 @@ ms.custom:
 - "369"
 - "1500009"
 ms.assetid: f7b8d5c5-2d9d-441e-91c7-0a042149ea0c
-ms.openlocfilehash: e83c61a479e438d50e5592b4930edc71ae797784
-ms.sourcegitcommit: ea64deba1eec3fb768a2f732cfe0ec79bb03694a
+ms.openlocfilehash: 8a93e783c590559b850c53841a61e2afb57f9eba
+ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 08/23/2019
-ms.locfileid: "36574817"
+ms.lasthandoff: 08/29/2019
+ms.locfileid: "36663943"
 ---
 # <a name="how-to-purchase-education-offer"></a>วิธีการซื้อข้อเสนอการศึกษา
 
-คุณได้รับอนุมัติสำหรับ Office 365 ศึกษา การซื้อ:
+คุณได้รับการอนุมัติสำหรับ Office ๓๖๕การศึกษา วิธีการสั่งซื้อ:
   
-1. ในศูนย์ดูแล ไป**การเรียกเก็บเงิน**\>หน้า[บริการ & ผลิตภัณฑ์](https://go.microsoft.com/fwlink/p/?linkid=842054)
+1. ในศูนย์การจัดการให้ไปที่หน้า[บริการผลิตภัณฑ์](https://go.microsoft.com/fwlink/p/?linkid=842054)**สำหรับการเรียกเก็บเงิน** \>
 
-2. เลือกการทดลองสำหรับ**นักเรียนหรือคณะ**
+2. เลือกการทดลองสำหรับ**นักเรียนหรือคณาจารย์**
 
-3. ในส่วนของ**สิทธิ์การใช้งาน**เลือก**ซื้อการบอกรับเป็นสมาชิก**
+3. ในส่วน**ใบอนุญาต**ให้เลือกการ**บอกรับเป็นสมาชิกการซื้อ**
 
-4. ทำตามขั้นตอนเหลือจะเช็คเอาท์
+4. ทำตามขั้นตอนที่เหลือเพื่อเช็คเอาท์
 
-ถ้าคุณต้องการซื้อการสมัครใช้งานอื่นนอกเหนือจากสิ่งที่อยู่ในการทดลอง ไป**การเรียกเก็บเงิน** \> [บริการที่ซื้อ](https://go.microsoft.com/fwlink/p/?linkid=868433)หน้า และเลือกจากรายการภายใต้**แผนการศึกษา**
+หากคุณต้องการซื้อการสมัครใช้งานอื่นนอกเหนือจากสิ่งที่อยู่ในการพิจารณาคดีให้ไปที่หน้า[บริการซื้อ](https://go.microsoft.com/fwlink/p/?linkid=868433)การ**เรียกเก็บเงิน** \>และเลือกจากรายการภายใต้**แผนการศึกษา**
 
-คุณกำลังใช้ศูนย์ดูแลแบบเก่าหรือไม่ สำหรับขั้นตอนเดิม หรือเมื่อต้อง การเรียนรู้เพิ่มเติม ดู[ซื้อแผนเดียวกันเป็นรุ่นทดลองใช้ของคุณ](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/buy-a-subscription-from-your-free-trial#buy-the-same-plan-as-your-trial)
+หากต้องการเรียนรู้เพิ่มเติมโปรดดู[ซื้อแผนเดียวกันกับการทดลองใช้ของคุณ](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/buy-a-subscription-from-your-free-trial#buy-the-same-plan-as-your-trial)

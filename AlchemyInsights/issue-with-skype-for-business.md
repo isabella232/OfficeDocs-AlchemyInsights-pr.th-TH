@@ -1,8 +1,7 @@
 ---
-title: ปัญหากับ Skype สำหรับธุรกิจหรือไม่
+title: ปัญหาเกี่ยวกับ Skype สำหรับธุรกิจหรือไม่
 ms.author: v-crytho
 author: CrystalThomasMS
-ms.date: 8/21/2017
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,24 +10,24 @@ ms.assetid: db38c1dd-e61b-48cd-8f52-40add3dc5632
 ms.custom:
 - "66"
 - "4000001"
-ms.openlocfilehash: 2345822cc022fa1113a9aa4203fb09eff872a2cc
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 08a59e9ebcae5ab0daff6089b54a73339fea6fc9
+ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36498038"
+ms.lasthandoff: 08/29/2019
+ms.locfileid: "36661567"
 ---
-# <a name="issue-with-skype-for-business"></a>ปัญหากับ Skype สำหรับธุรกิจหรือไม่
+# <a name="issue-with-skype-for-business"></a>ปัญหาเกี่ยวกับ Skype สำหรับธุรกิจหรือไม่
 
-เราได้ตรวจพบว่า domain(s) ต่อไปนี้ที่มีปัญหาที่อาจทำให้ Skype สำหรับธุรกิจทำงานได้อย่างถูกต้อง:
+เราตรวจพบว่าโดเมนต่อไปนี้มีปัญหาที่อาจป้องกันไม่ให้ Skype สำหรับธุรกิจทำงานได้อย่างถูกต้อง:
   
-{HealthCheckString }
+{HealthCheckString}
   
-NS, CNAME หรือ SRV ระเบียนของการตั้งค่าโดเมน (DNS) ถูกกำหนดค่าอย่างถูกต้องสำหรับ Skype สำหรับธุรกิจ คุณสามารถอ้างอิงไปยัง[ระเบียน DNS ที่ปรับปรุงใน Office 365](https://support.office.com/article/Create-DNS-records-for-Office-365-when-you-manage-your-DNS-records-B0F3FDCA-8A80-4E8E-9EF3-61E8A2A9AB23.aspx)สำหรับคำแนะนำโดยละเอียด
+ระเบียน NS, CNAME หรือ SRV ของการตั้งค่าโดเมน (DNS) จะไม่ถูกกำหนดค่าอย่างถูกต้องสำหรับ Skype สำหรับธุรกิจ คุณสามารถอ้างอิงถึงการ[ปรับปรุงระเบียน DNS ใน Office ๓๖๕](https://support.office.com/article/Create-DNS-records-for-Office-365-when-you-manage-your-DNS-records-B0F3FDCA-8A80-4E8E-9EF3-61E8A2A9AB23.aspx)สำหรับคำแนะนำโดยละเอียด
   
-เมื่อต้องการแก้ไขปัญหา โปรดไปที่หน้า[โดเมน](https://admin.microsoft.com/adminportal/home#/Domains)ใน Microsoft 365 admin ศูนย์ ทางเราจะช่วยคุณได้ด้วย
+หากต้องการแก้ไขโปรดไปที่หน้า[โดเมน](https://admin.microsoft.com/adminportal/home#/Domains)ในศูนย์ดูแลของ Microsoft ๓๖๕และเราจะช่วยคุณได้
   
-ถ้าคุณมีปัญหาในการสื่อสารกับผู้ใช้ที่อยู่ภายนอกองค์กรของคุณ คุณสามารถอ้างอิงถึง[การติดตั้ง Skype สำหรับการติดต่อสื่อสารภายนอกธุรกิจออนไลน์](https://support.microsoft.com/help/10041/set-up-skype-for-business-online-external-communications.aspx)สำหรับคำแนะนำโดยละเอียด
+ถ้าคุณกำลังมีปัญหาในการสื่อสารกับผู้ใช้ที่อยู่ภายนอกองค์กรของคุณคุณสามารถอ้างถึงการ[ตั้งค่า Skype สำหรับการสื่อสารภายนอกของธุรกิจแบบออนไลน์](https://support.microsoft.com/help/10041/set-up-skype-for-business-online-external-communications.aspx)สำหรับคำแนะนำโดยละเอียด
   
-การ[ตรวจสอบโดเมน FAQ](https://support.office.com/article/7b7b075d-79f9-4e37-8a9e-fb60c1d95166.aspx)วิธีแก้ไขปัญหาทั่วไปอื่น ๆ
+[ตรวจสอบคำถามที่พบบ่อยเกี่ยวกับโดเมน](https://support.office.com/article/7b7b075d-79f9-4e37-8a9e-fb60c1d95166.aspx)สำหรับโซลูชันทั่วไปอื่นๆ
   

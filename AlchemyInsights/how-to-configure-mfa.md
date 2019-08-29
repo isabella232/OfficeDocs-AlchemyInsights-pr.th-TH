@@ -1,9 +1,8 @@
 ---
-title: 955 วิธีการตั้งค่าคอนฟิก MFA
+title: ๙๕๕วิธีการกำหนดค่า MFA
 ms.author: chrisda
 author: chrisda
 manager: dansimp
-ms.date: 6/15/2018
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,15 +11,15 @@ ms.custom:
 - "955"
 - "1300007"
 ms.assetid: 88731c82-90d4-4019-a627-8ca6a82224af
-ms.openlocfilehash: 2864e583d8214434530efb663ee71d75dcd9100a
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 851aed83ff87777666130dfd2009073d852cb643
+ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36541172"
+ms.lasthandoff: 08/29/2019
+ms.locfileid: "36664051"
 ---
-# <a name="configure-multi-factor-authentication-in-office-365"></a>กำหนดค่าการรับรองความถูกต้องด้วยหลายปัจจัยใน Office 365
+# <a name="configure-multi-factor-authentication-in-office-365"></a>กำหนดค่าการรับรองความถูกต้องด้วยหลายปัจจัยใน Office ๓๖๕
 
-เมื่อต้องการตั้งค่าคอนฟิก MFA ดู[ตั้งค่าการรับรองความถูกต้องด้วยหลายปัจจัยสำหรับผู้ใช้ Office 365](https://support.office.com/article/8f0454b2-f51a-4d9c-bcde-2c48e41621c6.aspx)
+ในการกำหนดค่า MFA โปรดดูที่[การตั้งค่าการรับรองความถูกต้องด้วยหลายปัจจัยสำหรับผู้ใช้ Office ๓๖๕](https://support.office.com/article/8f0454b2-f51a-4d9c-bcde-2c48e41621c6.aspx)
 
-หมายเหตุว่า คุณต้องเป็นผู้ดูแลส่วนกลางมี Office 365 เมื่อต้องการเปิดใช้งาน และตั้งค่าคอนฟิก MFA
+โปรดทราบว่าคุณจำเป็นต้องเป็นผู้ดูแลส่วนกลางของ Office ๓๖๕เพื่อเปิดใช้งานและกำหนดค่า MFA

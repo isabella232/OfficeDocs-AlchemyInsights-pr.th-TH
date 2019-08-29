@@ -1,9 +1,8 @@
 ---
-title: ดูรายการของฉัน
+title: ดูใบเรียกเก็บเงินของฉัน
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
-ms.date: 8/7/2018
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,17 +12,17 @@ ms.custom:
 - "437"
 - "1500005"
 ms.assetid: 464d32fd-2487-4885-af0f-d4096b694861
-ms.openlocfilehash: 3583bf871a7325f0bb2a28d3ac1641fd5525d403
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 10a38a78db566642e723c9068631df4dafd06cc1
+ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36506138"
+ms.lasthandoff: 08/29/2019
+ms.locfileid: "36665707"
 ---
-# <a name="view-my-bill"></a>ดูรายการของฉัน
+# <a name="view-my-bill"></a>ดูใบเรียกเก็บเงินของฉัน
 
-1. ในศูนย์ดูแล Microsoft 365 ไป**การเรียกเก็บเงิน**\>หน้า[ชำระเงิน & สูตร](https://go.microsoft.com/fwlink/p/?linkid=848039)
+1. ในศูนย์ดูแลของ Microsoft ๓๖๕ไปที่หน้าการ[ชำระเงิน](https://go.microsoft.com/fwlink/p/?linkid=848039)ของใบ**เรียกเก็บ** \>เงิน
 
-2. เลือกช่วงวันที่จากรายการแบบหล่นลง และจากนั้น เลือกใบสั่งที่คุณต้องการดู
+2. เลือกช่วงวันที่จากรายการแบบหล่นลงแล้วเลือกลำดับที่คุณต้องการดู
 
-สำหรับข้อมูลเพิ่มเติมดู[มุมมองที่เรียกเก็บเงินหรือใบแจ้งหนี้ของคุณ](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/view-your-bill-or-invoice)
+สำหรับข้อมูลเพิ่มเติมโปรดดูที่[การเรียกเก็บเงินหรือใบแจ้งหนี้ของคุณ](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/view-your-bill-or-invoice)

@@ -13,12 +13,12 @@ ms.custom:
 - "350"
 - "1500012"
 ms.assetid: f1a3f310-a87f-4a42-a9c3-4ea894caf52e
-ms.openlocfilehash: 1adf0879ad7e4a0152315d4c7ce290b386de13da
-ms.sourcegitcommit: ea64deba1eec3fb768a2f732cfe0ec79bb03694a
+ms.openlocfilehash: 015a3e81b4f96d71f34439c2b8977fdbcb1ec567
+ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 08/23/2019
-ms.locfileid: "36576039"
+ms.lasthandoff: 08/29/2019
+ms.locfileid: "36661459"
 ---
 # <a name="manage-recurring-billing"></a>จัดการการเรียกเก็บเงินที่ที่เกิดซ้ำ
 
@@ -32,4 +32,4 @@ ms.locfileid: "36576039"
 
 4. เลือก**ส่งการเปลี่ยนแปลง**
 
-คุณกำลังใช้ศูนย์ดูแลแบบเก่าหรือไม่ สำหรับขั้นตอนเดิม หรือเมื่อต้อง การเรียนรู้เพิ่มเติม ดู[เปิดใช้งานการเรียกเก็บเงิน หรือปิดที่เกิดซ้ำ](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/renew-your-subscription?view=o365-worldwide#turn-recurring-billing-off-or-on)
+เมื่อต้องการเรียนรู้เพิ่มเติม ดู[เปิดใช้งานการเกิดซ้ำสำหรับเรียกเก็บเงิน หรือปิด](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/renew-your-subscription?view=o365-worldwide#turn-recurring-billing-off-or-on)

@@ -1,9 +1,8 @@
 ---
-title: แก้ไขปัญหาเกี่ยวกับการลงทะเบียนอุปกรณ์ Windows ใน Microsoft Intune
+title: การแก้ไขปัญหาเกี่ยวกับการทะเบียนอุปกรณ์ Windows ใน Microsoft Intune
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
-ms.date: 10/24/2018
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,35 +11,35 @@ ms.assetid: 20e9bd42-2db0-4dd7-b480-966571494dd9
 ms.custom:
 - "784"
 - "6200002"
-ms.openlocfilehash: be66135b80f32f78266ef2b6a7b3f5b30e24d5fc
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 7b298360fe31d3f52ef382e5b8f25ee3588c36c8
+ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36559680"
+ms.lasthandoff: 08/29/2019
+ms.locfileid: "36665851"
 ---
-# <a name="troubleshoot-issues-with-enrolling-windows-devices-in-microsoft-intune"></a>แก้ไขปัญหาเกี่ยวกับการลงทะเบียนอุปกรณ์ Windows ใน Microsoft Intune
+# <a name="troubleshoot-issues-with-enrolling-windows-devices-in-microsoft-intune"></a>การแก้ไขปัญหาเกี่ยวกับการทะเบียนอุปกรณ์ Windows ใน Microsoft Intune
 
-ตรวจทานทรัพยากรแสดงรายการด้านล่างเพื่อแก้ไขปัญหาของคุณเดี๋ยวนี้
+ตรวจสอบแหล่งข้อมูลที่แสดงด้านล่างเพื่อแก้ไขปัญหาของคุณตอนนี้
   
-ข้อผิดพลาดทั่วไปบางอย่างและขั้นตอนการแก้ปัญหา:
+บางข้อความผิดพลาดทั่วไปและขั้นตอนการแก้ปัญหา:
   
- **ไม่สามารถติดตั้งซอฟต์แวร์ 0x80cf4017:** ใบรับรองบัญชีของคุณหมดอายุแล้ว ดาวน์โหลดแพคเกจซอฟต์แวร์ไคลเอนต์พีซีในคอนโซล Admin Intune อีกครั้ง ตรวจทานเอกสารนี้สำหรับข้อมูลเพิ่มเติม
+ **ซอฟต์แวร์ไม่สามารถติดตั้ง, 0x80cf4017:** ใบรับรองบัญชีของคุณหมดอายุแล้ว ดาวน์โหลดแพคเกจซอฟต์แวร์ไคลเอ็นต์คอมพิวเตอร์อีกครั้งในคอนโซลการดูแล Intune ตรวจทานเอกสารฉบับนี้สำหรับข้อมูลเพิ่มเติม
   
- **รหัสข้อผิดพลาด 0x801c0003:** ข้อผิดพลาดอาจเกิดขึ้นได้ในสถานการณ์ต่อไปนี้:
+ **รหัสข้อผิดพลาด 0x801c0003:** ข้อผิดพลาดสามารถเกิดขึ้นได้ในสถานการณ์ต่อไปนี้:
   
-1. ผู้ใช้มีอุปกรณ์เพิ่มเติมที่ลงทะเบียนไว้เกินขีดจำกัดของอุปกรณ์ ตรวจทานเอกสารเหล่านี้เมื่อต้องการ[เอาอุปกรณ์ออก](https://docs.microsoft.com/intune/devices-wipe)หรือ[เปลี่ยนแปลงขีดจำกัดของอุปกรณ์](https://docs.microsoft.com/intune/enrollment-restrictions-set#set-device-limit-restrictions)
+-  ผู้ใช้มีอุปกรณ์ที่ลงทะเบียนมากกว่าขีดจำกัดของอุปกรณ์ ตรวจทานเอกสารเหล่านี้เพื่อ[ลบอุปกรณ์](https://docs.microsoft.com/intune/devices-wipe)หรือ[เปลี่ยนขีดจำกัดของอุปกรณ์](https://docs.microsoft.com/intune/enrollment-restrictions-set#set-device-limit-restrictions)
 
-2. "ผู้ใช้อาจเข้าร่วมอุปกรณ์เพื่อโฆษณา Azure" ถูกตั้งค่าเป็น "ไม่มี" ตั้งค่าทั้งหมด หรือเลือกผู้ใช้ ตรวจทาน[เอกสารนี้](https://docs.microsoft.com/azure/active-directory/device-management-azure-portal#configure-device-settings)สำหรับข้อมูลเพิ่มเติม
+-  "ผู้ใช้อาจเข้าร่วมอุปกรณ์กับโฆษณา Azure" ถูกตั้งค่าเป็น "ไม่มี" ตั้งค่าให้ทั้งหมดหรือเลือกผู้ใช้ ตรวจทาน[เอกสารประกอบนี้](https://docs.microsoft.com/azure/active-directory/device-management-azure-portal#configure-device-settings)สำหรับข้อมูลเพิ่มเติม
 
-3. อุปกรณ์มีการลงทะเบียนแล้ว โดยผู้ใช้อื่น ถ้าเป็นกรณีนี้ เอาอุปกรณ์ออกจากคอนโซล Azure Intune หรืออุปกรณ์ที่ unenroll ด้วยตนเองก่อนที่จะลองอีกครั้ง
+-  อุปกรณ์ได้ลงทะเบียนโดยผู้ใช้รายอื่นแล้ว ถ้าเป็นกรณีนี้ให้เอาอุปกรณ์ออกจากคอนโซล Azure Intune หรือยกเลิกการลงทะเบียนอุปกรณ์ด้วยตนเองก่อนที่จะลองอีกครั้ง
 
-4. อุปกรณ์ดังกล่าว Windows 10 หน้าแรก เฉพาะ Windows 10 Pro การศึกษา และองค์กร Sku สามารถรวมไดเรกทอรีที่ใช้งานอยู่ของ Azure
+-  อุปกรณ์คือ Windows 10 Home เฉพาะ Windows 10 Pro, การศึกษาและองค์กร Sku สามารถเข้าร่วมไดเรกทอรีที่ใช้งานอยู่ของ Azure
 
-ทรัพยากรเพิ่มเติมเพื่อช่วยแก้ไขปัญหาของคุณ:
+แหล่งข้อมูลเพิ่มเติมเพื่อช่วยแก้ไขปัญหาของคุณ:
   
-1. ใช้[ไซต์การแก้ไขปัญหาเบื้องต้น Intune](https://devicemanagement.microsoft.com/#blade/Microsoft_Intune_DeviceSettings/TroubleshootBlade)เพื่อวินิจฉัย และแก้ปัญหาความล้มเหลวทั่วไปในการลงทะเบียน ตรวจทาน[เอกสารนี้](https://docs.microsoft.com/intune/help-desk-operators)สำหรับรายละเอียดเพิ่มเติม
+-  ใช้การ[แก้ปัญหาเว็บไซต์ Intune](https://devicemanagement.microsoft.com/#blade/Microsoft_Intune_DeviceSettings/TroubleshootBlade)เพื่อวินิจฉัยและแก้ไขความล้มเหลวในการลงทะเบียนทั่วไป ตรวจทาน[เอกสารนี้](https://docs.microsoft.com/intune/help-desk-operators)สำหรับรายละเอียดเพิ่มเติม
 
-2. ตรวจทานเอกสารเหล่านี้สำหรับรายการของข้อผิดพลาดทั่วไปที่ป้องกันการลงทะเบียนและวิธีแก้ปัญหาแต่ละ:[คำแนะนำในการแก้ไขปัญหา](https://support.microsoft.com/help/4089533/troubleshooting-windows-device-enrollment-problems-in-microsoft-intune)และการ[แก้ไขปัญหาเอกสาร](https://docs.microsoft.com/intune-classic/troubleshoot/troubleshoot-device-enrollment-in-intune)
+-  ตรวจทานเอกสารเหล่านี้สำหรับรายการข้อผิดพลาดทั่วไปที่ป้องกันการลงทะเบียนและแก้ปัญหาสำหรับแต่ละ[คำแนะนำการแก้ไขปัญหา](https://support.microsoft.com/help/4089533/troubleshooting-windows-device-enrollment-problems-in-microsoft-intune)และ[เอกสาร](https://docs.microsoft.com/intune-classic/troubleshoot/troubleshoot-device-enrollment-in-intune)
 
 [เรียนรู้วิธีการลงทะเบียนอุปกรณ์ Windows ใน Microsoft Intune](https://docs.microsoft.com/intune/windows-enroll)

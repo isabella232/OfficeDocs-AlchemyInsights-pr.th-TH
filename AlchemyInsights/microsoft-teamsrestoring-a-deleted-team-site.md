@@ -1,8 +1,7 @@
 ---
-title: ทีมงาน Microsoft - การคืนค่าไซต์ทีมที่ถูกลบไปแล้ว
+title: ทีม Microsoft-การคืนค่าไซต์ทีมที่ถูกลบ
 ms.author: heidip
 author: microsoftheidi
-ms.date: 6/8/2018
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,14 +10,14 @@ ms.custom:
 - "404"
 - "6500002"
 ms.assetid: b26be13f-7b8f-4393-9083-2b4d97b6cd80
-ms.openlocfilehash: 45d2303134c83c8fb16533ff07dec0cf52ee8ba8
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 84aaa331fdd4d4e10fcbebe41800c86b3a457649
+ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36544810"
+ms.lasthandoff: 08/29/2019
+ms.locfileid: "36666967"
 ---
-# <a name="restoring-a-deleted-team-site"></a>คืนค่าไซต์ทีมที่ถูกลบไปแล้ว
+# <a name="restoring-a-deleted-team-in-microsoft-teams"></a>การกู้คืนทีมที่ถูกลบใน Microsoft Teams
 
-ไม่ได้คุณบังเอิญลบกลุ่มคนออกได้อย่างไร ถ้าคุณเคยใช้น้อยกว่า 30 วันหลังจากที่คุณลบกลุ่มคน คุณจะขอให้โชค คุณสามารถคืนค่า เมื่อต้องการทำเช่นนี้ ให้ทำตามขั้นตอนที่นี่:[คืนทีมถูกลบไปแล้ว](https://blogs.technet.microsoft.com/skypehybridguy/2017/07/23/restoring-a-deleted-team-in-microsoft-teams/)
+คุณลบทีมโดยไม่ได้ตั้งใจหรือไม่ หากคุณลบทีมออกไปน้อยกว่า30วันคุณจะโชคร้าย คุณสามารถเรียกคืนได้ โดยทำตามขั้นตอนที่นี่: การ[กู้คืนทีมที่ถูกลบ](https://blogs.technet.microsoft.com/skypehybridguy/2017/07/23/restoring-a-deleted-team-in-microsoft-teams/)
   

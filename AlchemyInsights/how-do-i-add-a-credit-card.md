@@ -1,5 +1,5 @@
 ---
-title: ฉันเพิ่มบัตรเครดิตหรือไม่
+title: ฉันจะเพิ่มบัตรเครดิตได้อย่างไร?
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -13,21 +13,21 @@ ms.custom:
 - "432"
 - "1500001"
 ms.assetid: fbce8401-1a2c-4372-af0b-d855c1cd5f31
-ms.openlocfilehash: 3135c72aefac97eb58cfa8e2deffebe318c20753
-ms.sourcegitcommit: ea64deba1eec3fb768a2f732cfe0ec79bb03694a
+ms.openlocfilehash: b12540bbd7e7e3524f259736fec440b712289754
+ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 08/23/2019
-ms.locfileid: "36575679"
+ms.lasthandoff: 08/29/2019
+ms.locfileid: "36664483"
 ---
-# <a name="how-do-i-add-a-credit-card"></a>ฉันเพิ่มบัตรเครดิตหรือไม่
+# <a name="how-do-i-add-a-credit-card"></a>ฉันจะเพิ่มบัตรเครดิตได้อย่างไร?
 
-1. ในศูนย์ดูแล Microsoft 365 ไป**การเรียกเก็บเงิน**\>หน้า[วิธีการชำระเงิน](https://go.microsoft.com/fwlink/p/?linkid=2018806)
+1. ในศูนย์ดูแลของ Microsoft ๓๖๕ไปที่หน้า[วิธีการชำระเงินสำหรับการ](https://go.microsoft.com/fwlink/p/?linkid=2018806)**เรียกเก็บเงิน** \>
 
-2. เลือก**วิธีการชำระเงินเพิ่ม**
+2. เลือก**เพิ่มวิธีการชำระเงิน**
 
-3. บนหน้า**วิธีการชำระเงิน**เลือกวิธีการชำระเงินจากเมนูแบบหล่นลง
+3. ในหน้า**วิธีการชำระเงิน**ให้เลือกวิธีการชำระเงินจากเมนูแบบเลื่อนลง
 
-4. ป้อนข้อมูลสำหรับบัญชีธนาคารหรือบัตรเครดิตใหม่ จาก นั้นเลือก**บันทึก**
+4. ป้อนข้อมูลสำหรับบัตรเครดิตหรือบัญชีธนาคารใหม่จากนั้นเลือก**บันทึก**
 
-คุณกำลังใช้ศูนย์ดูแลแบบเก่าหรือไม่ สำหรับขั้นตอนเดิม หรือเมื่อต้อง การเรียนรู้เพิ่มเติม ดู[เพิ่ม ปรับ ปรุง หรือเอาบัตรเครดิตหรือบัญชีธนาคารใน Office 365 สำหรับธุรกิจ](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account)
+หากต้องการเรียนรู้เพิ่มเติมโปรดดูที่[เพิ่มปรับปรุงหรือลบบัตรเครดิตหรือบัญชีธนาคารใน Office ๓๖๕สำหรับธุรกิจ](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account)

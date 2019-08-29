@@ -13,12 +13,12 @@ ms.custom:
 - "456"
 - "1500020"
 ms.assetid: 713d37dd-a34c-469f-b96b-99d63e793fe9
-ms.openlocfilehash: 37f1cc48d328b1307f528124695529b30a5f0c65
-ms.sourcegitcommit: ea64deba1eec3fb768a2f732cfe0ec79bb03694a
+ms.openlocfilehash: 9c2d0ec8723235eb666cff01789817a531213df9
+ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 08/23/2019
-ms.locfileid: "36575607"
+ms.lasthandoff: 08/29/2019
+ms.locfileid: "36665059"
 ---
 # <a name="expired-subscription"></a>หมดอายุการบอกรับเป็นสมาชิก
 
@@ -34,7 +34,7 @@ ms.locfileid: "36575607"
 
 3. ยืนยันรายละเอียดการชำระเงินของคุณ คุณสามารถปรับปรุงข้อมูลของคุณที่มีอยู่การชำระเงินที่นี่ เมื่อคุณเสร็จสิ้นการป้อนวิธีการชำระเงิน เลือก**เปิดใช้งานใหม่**
 
-คุณกำลังใช้ศูนย์ดูแลแบบเก่าหรือไม่ สำหรับขั้นตอนเดิม หรือเมื่อต้อง การเรียนรู้เพิ่มเติม ดู[เปิดใช้งานการสมัครใช้งาน](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/reactivate-your-subscription)
+เมื่อต้องการเรียนรู้เพิ่มเติม ดู[เปิดใช้งานการสมัครใช้งาน](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/reactivate-your-subscription)
 
 **ซื้อสินค้าใหม่**
   
@@ -46,4 +46,4 @@ ms.locfileid: "36575607"
 
 4. ทำตามขั้นตอนเหลือเพื่อทำการเช็คเอาท์
 
-คุณกำลังใช้ศูนย์ดูแลแบบเก่าหรือไม่ สำหรับขั้นตอนเดิม หรือเมื่อต้อง การเรียนรู้เพิ่มเติม ดู[ซื้อการสมัครใช้งานอื่น](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/buy-another-subscription)
+เมื่อต้องการเรียนรู้เพิ่มเติม ดู[ซื้อการสมัครใช้งานอื่น](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/buy-another-subscription)
