@@ -1,5 +1,5 @@
 ---
-title: การยกเลิกการสมัครใช้งาน Office 365 ได้อย่างไร
+title: การยกเลิกการสมัครใช้งาน Office ๓๖๕ของคุณหรือไม่
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -13,17 +13,17 @@ ms.custom:
 - "86"
 - "1400001"
 ms.assetid: dc0504f1-00ad-4769-be87-492ad98e42f0
-ms.openlocfilehash: 8b6f0148a955fe3004471f1963e8ffa840ba7257
-ms.sourcegitcommit: ea64deba1eec3fb768a2f732cfe0ec79bb03694a
+ms.openlocfilehash: b365fe9638eb5b1f8654baf010327041524f2572
+ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 08/23/2019
-ms.locfileid: "36575787"
+ms.lasthandoff: 08/29/2019
+ms.locfileid: "36665563"
 ---
-# <a name="canceling-your-office-365-subscription"></a>การยกเลิกการสมัครใช้งาน Office 365 ได้อย่างไร
+# <a name="canceling-your-office-365-subscription"></a>การยกเลิกการสมัครใช้งาน Office ๓๖๕ของคุณหรือไม่
 
-ขออภัยที่เห็นคุณไป
+เราเสียใจที่ได้เห็นคุณไป!
   
-ขึ้นอยู่กับข้อมูลขององค์กรของคุณ เราเชื่อว่า สมาชิกปัจจุบันทั้งหมดของคุณได้น้อยกว่า 25 ที่นั่ง เมื่อต้องการยกเลิกการสมัครใช้งานออนไลน์ ไป**การเรียกเก็บเงิน**\>หน้า[บริการ & ผลิตภัณฑ์](https://go.microsoft.com/fwlink/p/?linkid=842054) ในส่วนของ **& การตั้งค่าการดำเนินการ**เลือก**ยกเลิกการบอกรับเป็นสมาชิก**
+ขึ้นอยู่กับข้อมูลองค์กรของคุณเราเชื่อว่าการสมัครใช้งานปัจจุบันของคุณทั้งหมดมีที่นั่งน้อยกว่า25ที่ หากต้องการยกเลิกการสมัครใช้งานแบบออนไลน์ให้ไปที่หน้า[บริการผลิตภัณฑ์](https://go.microsoft.com/fwlink/p/?linkid=842054)**สำหรับการเรียกเก็บเงิน** \> ในส่วนการ**ตั้งค่า _ Amp_ การดำเนิน**การให้เลือก**ยกเลิกการสมัคร**ใช้งาน
   
-คุณกำลังใช้ศูนย์ดูแลแบบเก่าหรือไม่ สำหรับขั้นตอนเดิม หรือเมื่อต้อง การเรียนรู้เพิ่มเติม ดู[การยกเลิกการสมัครใช้งาน](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/cancel-your-subscription)
+หากต้องการเรียนรู้เพิ่มเติมโปรดดูที่[ยกเลิกการสมัครใช้งานของคุณ](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/cancel-your-subscription)

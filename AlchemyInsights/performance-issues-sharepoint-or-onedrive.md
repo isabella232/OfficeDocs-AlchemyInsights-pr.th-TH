@@ -1,8 +1,7 @@
 ---
-title: ปัญหาเกี่ยวกับประสิทธิภาพการทำงาน-SharePoint หรือ OneDrive
+title: ปัญหาประสิทธิภาพการทำงาน-SharePoint หรือ OneDrive
 ms.author: kirks
 author: Techwriter40
-ms.date: 1/3/2019
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,20 +12,20 @@ ms.custom:
 - "2418"
 - "5200018"
 ms.assetid: 9225ec0f-771f-4d7a-8157-e188953107aa
-ms.openlocfilehash: a7e84ef41c5c3486eb0bc15ddf4f550c797b5f0c
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 2f32319f5ffc2af8c7f260b8405d164d1195a6e5
+ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36555000"
+ms.lasthandoff: 08/29/2019
+ms.locfileid: "36666751"
 ---
-# <a name="sharepoint-or-onedrive-slow-inaccessible-or-unavailable-for-multiple-users"></a>SharePoint หรือ OneDrive ช้า ไม่สามารถเข้าถึง หรือไม่พร้อมใช้งานสำหรับผู้ใช้หลายคน
+# <a name="sharepoint-or-onedrive-slow-inaccessible-or-unavailable-for-multiple-users"></a>SharePoint หรือ OneDrive ช้า, ไม่สามารถเข้าถึงได้หรือไม่พร้อมใช้งานสำหรับผู้ใช้หลายคน
 
-SharePoint หรือ OneDrive อาจช้า ไม่สามารถเข้าถึง หรือไม่พร้อมใช้งานด้วยเหตุผลหลายประการ:
+SharePoint หรือ OneDrive อาจช้าไม่สามารถเข้าถึงหรือไม่พร้อมใช้งานด้วยเหตุผลหลายประการ:
   
-- ถ้าไซต์ SharePoint หรือ OneDrive ของคุณช้า หรือล่าช้าสำหรับผู้ใช้หลายคน อาจมีปัญหากับบริการชั่วคราวที่ผู้ใช้พบความล่าช้าเป็นระยะ ๆ หรือข้อผิดพลาดในการนำทางเมื่อเข้าถึงไซต์ SharePoint หรือ OneDrive เนื้อหา ตรวจสอบ[ความสมบูรณ์ของแดชบอร์ดบริการซึ่ง](https://admin.microsoft.com/AdminPortal/Home#/servicehealth)เมื่อต้องการดูถ้าองค์กรของคุณได้รับผลกระทบ
+- ถ้าไซต์ SharePoint หรือ OneDrive ของคุณช้าหรือล่าช้าสำหรับผู้ใช้หลายคนอาจมีปัญหาการบริการแบบถาวรที่ผู้ใช้พบความล่าช้าหรือข้อผิดพลาดการนำทางเป็นระยะๆเมื่อเข้าถึงไซต์ SharePoint หรือเนื้อหา OneDrive ตรวจสอบ[แดชบอร์ดความสมบูรณ์ของบริการ](https://admin.microsoft.com/AdminPortal/Home#/servicehealth)เพื่อดูว่าองค์กรของคุณได้รับผลกระทบหรือไม่
   
-- ถ้าคุณพบกับประสิทธิภาพของช้ากับไซต์ SharePoint**แบบคลาสสิก**หรือหน้า ใช้[เครื่องมือการวินิจฉัยหน้า](https://aka.ms/perftool)เพื่อวิเคราะห์หน้า
+- ถ้าคุณพบกับประสิทธิภาพการทำงานที่ช้าด้วยไซต์หรือเพจแบบ**คลาสสิก**ของ SharePoint ใช้[เครื่องมือวินิจฉัยหน้า](https://aka.ms/perftool)เพื่อวิเคราะห์เพจ
   
-- หากคุณยังคงประสบประสิทธิภาพช้าทั่วไป โปรดตรวจทานทรัพยากรที่ด้านล่างของบทความนี้:[รู้จักกับประสิทธิภาพการทำงานที่ปรับแต่งสำหรับ SharePoint แบบออนไลน์](https://go.microsoft.com/fwlink/?linkid=2024334)
+- หากคุณยังคงพบประสิทธิภาพการทำงานช้าทั่วไปโปรดตรวจทานทรัพยากรที่ด้านล่างของบทความนี้:[บทนำเกี่ยวกับการปรับประสิทธิภาพการทำงานสำหรับ SharePoint แบบออนไลน์](https://go.microsoft.com/fwlink/?linkid=2024334)
   

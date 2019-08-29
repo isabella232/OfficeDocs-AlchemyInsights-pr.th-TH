@@ -1,5 +1,5 @@
 ---
-title: การป้องกันการคุกคามขั้นสูง 365 office
+title: การป้องกันภัยคุกคามขั้นสูงของ Office ๓๖๕
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -10,23 +10,23 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 1036
 ms.assetid: ''
-ms.openlocfilehash: c12d3c2a0e7037b609ed4b31ee893108869c9a56
-ms.sourcegitcommit: 4b7e478ce700c0b781efec3857ac4dce5bdf00c6
+ms.openlocfilehash: ec9e74a1c1054d45356b8347a87e36c592c47fbf
+ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 06/07/2019
-ms.locfileid: "34765487"
+ms.lasthandoff: 08/29/2019
+ms.locfileid: "36664519"
 ---
-# <a name="office-365-advanced-threat-protection"></a>การป้องกันการคุกคามขั้นสูง 365 office
+# <a name="office-365-advanced-threat-protection"></a>การป้องกันภัยคุกคามขั้นสูงของ Office ๓๖๕
 
-- เซฟสิ่งที่แนบ เชื่อม โยงเซฟ และป้องกันฟิชชิ่งเป็นส่วนหนึ่งของ Office 365 ขั้นสูงคุกคามป้องกัน (ATP) องค์กร E5, A5 การศึกษา และ Microsoft 365 ธุรกิจรวม ATP แผนอื่น ๆ ทั้งหมดต้องมีการบอกรับเป็นสมาชิก ATP add-on
+- สิ่งที่แนบมาอย่างปลอดภัย, การเชื่อมโยงที่ปลอดภัยและการป้องกันฟิชชิ่งเป็นส่วนหนึ่งของ Office ๓๖๕การป้องกันภัยคุกคามขั้นสูง (ATP) องค์กร E5, การศึกษา A5 และ Microsoft ๓๖๕ธุรกิจรวมถึง ATP แผนอื่นๆทั้งหมดต้องใช้การสมัครใช้งาน ATP add-on
 
-- คุณต้องการกำหนดสิทธิ์การใช้งานที่เหมาะสมเพื่อป้องกันผู้ใช้ของคุณ โดย Office 365 ATP ดูนี้[หัวข้อ](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users)สำหรับคำแนะนำเกี่ยวกับวิธีการจำนวนมากใช้สิทธิ์การใช้งานกับผู้ใช้ของคุณ
+- คุณจำเป็นต้องกำหนดใบอนุญาตที่เหมาะสมเพื่อป้องกันผู้ใช้ของคุณโดย Office ๓๖๕ ATP ดู[หัวข้อนี้](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users)สำหรับคำแนะนำเกี่ยวกับวิธีการใช้ใบอนุญาตจำนวนมากกับผู้ใช้ของคุณ
 
-- ผู้ดูแลส่วนกลางของ office 365 หรือผู้ดูแลความปลอดภัยที่สามารถเข้าถึงคุณลักษณะต่าง ๆ ของ Office 365 ATP ใน & ความปลอดภัยศูนย์การปฏิบัติตามกฎระเบียบที่**คุกคาม Managmeent** \> **นโยบาย**ได้
+- Office ๓๖๕ผู้ดูแลระบบส่วนกลางหรือผู้ดูแลระบบความปลอดภัยสามารถเข้าถึงคุณลักษณะของ Office ๓๖๕ ATP ในศูนย์**** \> **** การปฏิบัติตามกฎระเบียบความปลอดภัย _ amp_
 
-- สิ่งที่แนบมาที่ปลอดภัยและเชื่อมโยงปลอดภัยนโยบายที่สามารถครอบคลุมคุณของคุณทั่วทั้งองค์กร โดเมนเฉพาะ หรือกลุ่มของผู้ใช้ที่มีขนาดเล็กลง
+- สิ่งที่แนบมาอย่างปลอดภัยและนโยบายการเชื่อมโยงที่ปลอดภัยสามารถขอบเขตคุณทั้งองค์กรโดเมนที่เฉพาะเจาะจงหรือกลุ่มผู้ใช้ที่มีขนาดเล็กกว่า
 
-- นโยบายเริ่มต้นของสิ่งที่แนบมาเซฟ ATP ไม่มีอยู่ คุณจำเป็นต้อง[สร้างนโยบาย](https://docs.microsoft.com/office365/securitycompliance/set-up-atp-safe-attachments-policies)และนำไปใช้กับผู้ใช้ของคุณ
+- ไม่มีนโยบายการแนบ ATP ที่ปลอดภัยค่าเริ่มต้น คุณต้อง[สร้างนโยบาย](https://docs.microsoft.com/office365/securitycompliance/set-up-atp-safe-attachments-policies)และนำไปใช้กับผู้ใช้ของคุณ
 
-- ไม่มีการเชื่อมโยงเซฟ ATP นโยบายเริ่มต้นที่ใช้กับทุกคนในองค์กรของคุณ เมื่อต้องการแก้ไขนโยบายนี้ หรือเมื่อต้องการสร้างนโยบายการกำหนดเอง ดู[หัวข้อ](https://docs.microsoft.com/office365/securitycompliance/set-up-atp-safe-links-policies)นี้
+- มีนโยบายการเชื่อมโยงของ ATP Safe เริ่มต้นที่ใช้กับทุกคนในองค์กรของคุณ หากต้องการแก้ไขนโยบายนี้หรือสร้างนโยบายที่กำหนดเองให้ดูที่[หัวข้อนี้](https://docs.microsoft.com/office365/securitycompliance/set-up-atp-safe-links-policies)

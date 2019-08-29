@@ -1,9 +1,8 @@
 ---
-title: สลับไปยัง Office 365 แตกต่างกันสำหรับการวางแผนทางธุรกิจ
+title: สลับไปยัง Office ๓๖๕อื่นสำหรับแผนธุรกิจ
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
-ms.date: 3/20/2018
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,25 +12,25 @@ ms.custom:
 - "438"
 - "1400007"
 ms.assetid: 49d77463-d3da-4106-abcf-2d5209106ea2
-ms.openlocfilehash: 8177f08163c85856cf4446592d10177170ba1e28
-ms.sourcegitcommit: ea64deba1eec3fb768a2f732cfe0ec79bb03694a
+ms.openlocfilehash: 2374f8e0c38b63bb45921ba78a2b56ad065ed49c
+ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 08/23/2019
-ms.locfileid: "36576003"
+ms.lasthandoff: 08/29/2019
+ms.locfileid: "36665995"
 ---
-# <a name="switch-to-a-different-office-365-for-business-plan"></a>สลับไปยัง Office 365 แตกต่างกันสำหรับการวางแผนทางธุรกิจ
+# <a name="switch-to-a-different-office-365-for-business-plan"></a>สลับไปยัง Office ๓๖๕อื่นสำหรับแผนธุรกิจ
 
-เมื่อมีการเปลี่ยนแปลงทางธุรกิจของคุณ หรือคุณต้องการคุณลักษณะ Office 365 เพิ่มเติม คุณสามารถปรับรุ่นการวางแผนใหม่
+เมื่อธุรกิจของคุณเปลี่ยนแปลงหรือคุณต้องการคุณลักษณะอื่นๆของ Office ๓๖๕คุณสามารถปรับรุ่นเป็นแผนใหม่ได้
   
-1. ในศูนย์ดูแล ไป**การเรียกเก็บเงิน**\>หน้า[บริการ & ผลิตภัณฑ์](https://go.microsoft.com/fwlink/p/?linkid=842054)
+1. ในศูนย์การจัดการให้ไปที่หน้า[บริการผลิตภัณฑ์](https://go.microsoft.com/fwlink/p/?linkid=842054)**สำหรับการเรียกเก็บเงิน** \>
 
 2. เลือกการบอกรับเป็นสมาชิกที่คุณต้องการปรับรุ่น
 
-3. บนเพจรายละเอียดการบอกรับเป็นสมาชิก เลือก**ปรับรุ่น**
+3. ในหน้ารายละเอียดการบอกรับเป็นสมาชิกให้เลือก**อัพเกรด**
 
-4. แผนการที่คุณต้องการปรับรุ่นการค้นหา จาก นั้นเลือกปุ่ม**ปรับรุ่น**
+4. ค้นหาแผนที่คุณต้องการอัปเกรดจากนั้นเลือกปุ่ม**อัพเกรด**
 
-5. ป้อนหมายเลข ของใบอนุญาตที่จำเป็น เลือกว่าจะจ่ายแต่ละเดือน หรือ สำหรับทั้งปี จาก นั้นเลือกการ**เช็คเอาท์**
-   
-คุณกำลังใช้ศูนย์ดูแลแบบเก่าหรือไม่ สำหรับขั้นตอนเดิม หรือเมื่อต้อง การเรียนรู้เพิ่มเติม ดู[การอัพเกรดไปแผนอื่น](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/upgrade-to-different-plan)  
+5. ป้อนจำนวนใบอนุญาตที่คุณต้องการเลือกว่าจะจ่ายในแต่ละเดือนหรือตลอดทั้งปีจากนั้นเลือก**เช็คเอาท์**
+
+หากต้องการเรียนรู้เพิ่มเติมโปรดดูที่[การอัพเกรดเป็นแผนอื่น](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/upgrade-to-different-plan)  

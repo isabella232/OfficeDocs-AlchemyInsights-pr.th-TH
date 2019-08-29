@@ -1,9 +1,8 @@
 ---
-title: เปิดใช้งานการสมัครใช้งาน
+title: เปิดใช้การสมัครสมาชิกใหม่
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
-ms.date: 5/2/2018
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,23 +12,23 @@ ms.custom:
 - "482"
 - "1500028"
 ms.assetid: 2d59f23f-7aad-4b57-9039-0bd2bbf929a3
-ms.openlocfilehash: 846fa7ebdfed5d9160f97556451e4c6d557b2a8c
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 865241f1595de5ebaa3136cbb8b65c66c5330708
+ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36553379"
+ms.lasthandoff: 08/29/2019
+ms.locfileid: "36666607"
 ---
-# <a name="reactivate-an-office-365-subscription"></a>เปิดใช้งานการสมัครใช้งานของ Office 365
+# <a name="reactivate-an-office-365-subscription"></a>เปิดใช้งานการบอกรับเป็นสมาชิก Office ๓๖๕ใหม่
 
-การบอกรับเป็นสมาชิกของคุณหมดอายุ ถูกปิดใช้งาน โดย Microsoft หรือคุณได้ยกเลิกในกึ่งกลางของคำบอกรับเป็นสมาชิก คุณสามารถเปิดใช้งานในศูนย์ดูแล
+ถ้าการสมัครของคุณหมดอายุถูกปิดใช้งานโดย Microsoft หรือคุณยกเลิกในช่วงกลางของคำบอกรับเป็นสมาชิก
   
-1. ในศูนย์ดูแล ไป**การเรียกเก็บเงิน**\>หน้า[บริการ & ผลิตภัณฑ์](https://go.microsoft.com/fwlink/p/?linkid=842054)
+1. ในศูนย์การจัดการให้ไปที่หน้า[บริการผลิตภัณฑ์](https://go.microsoft.com/fwlink/p/?linkid=842054)**สำหรับการเรียกเก็บเงิน** \>
 
-2. เลือกการบอกรับเป็นสมาชิกที่คุณต้องการเปิดใช้งานใหม่ ในส่วนของการเรียกเก็บเงิน เลือก**เปิดใช้งานใหม่**
+2. เลือกการสมัครสมาชิกที่คุณต้องการเปิดใช้งานใหม่ ในส่วนการเรียกเก็บเงินให้เลือก**เปิด**ใช้งานใหม่
 
-    ถ้าคุณไม่เห็น**เปิดใช้อีกครั้ง**เป็นการกระทำที่พร้อมใช้งาน[โปรดติดต่อฝ่ายสนับสนุน](https://docs.microsoft.com/office365/admin/contact-support-for-business-products?view=o365-worldwide)การเปิดใช้งานการสมัครใช้งาน
+    หากคุณไม่เห็น**เปิด**ใช้งานการดำเนินการที่มีอยู่ให้[สนับสนุนการโทร](https://docs.microsoft.com/office365/admin/contact-support-for-business-products?view=o365-worldwide)เพื่อเปิดใช้การสมัครสมาชิกของคุณอีกครั้ง
 
-3. ยืนยันรายละเอียดการชำระเงินของคุณ คุณสามารถปรับปรุงข้อมูลของคุณที่มีอยู่การชำระเงินที่นี่ เมื่อคุณเสร็จสิ้นการป้อนวิธีการชำระเงิน เลือก**เปิดใช้งานใหม่**
+3. ยืนยันรายละเอียดการชำระเงินของคุณ คุณสามารถอัปเดตข้อมูลการชำระเงินที่มีอยู่ได้ที่นี่ เมื่อป้อนวิธีการชำระเงินเสร็จแล้วให้เลือก**เปิด**ใช้งานใหม่
 
-สำหรับข้อมูลเพิ่มเติม ดูที่[เปิดใช้งานการสมัครใช้งาน](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/reactivate-your-subscription)
+หากต้องการเรียนรู้เพิ่มเติมโปรดดู[เปิดใช้การสมัครใช้งานของคุณ](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/reactivate-your-subscription)อีกครั้ง

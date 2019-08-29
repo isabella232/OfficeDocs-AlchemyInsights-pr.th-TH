@@ -1,9 +1,8 @@
 ---
-title: 1800009 outlook สำหรับการสนับสนุนในโปรแกรมประยุกต์ Mac
+title: ๑๘๐๐๐๐๙ Outlook สำหรับ Mac สนับสนุนในแอป
 ms.author: supravee
 author: supravee
 manager: scotv
-ms.date: 6/6/2018
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,13 +12,15 @@ ms.custom:
 - "135"
 - "1800009"
 ms.assetid: cd3fdff4-346c-4730-9a5e-de02fbb60613
-ms.openlocfilehash: 0784b7abfeee3f6be8e6f74084ef34934fc2f711
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 676c725f93432ef2086f378c0ddb21acd1815084
+ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36557447"
+ms.lasthandoff: 08/29/2019
+ms.locfileid: "36666823"
 ---
-# <a name="in-app-support-in-outlook-for-mac"></a>ในโปรแกรมประยุกต์สนับสนุนใน Outlook สำหรับ Mac
+# <a name="in-app-support-in-outlook-for-mac"></a>การสนับสนุนในแอปใน Outlook สำหรับ Mac
 
-จะได้รับการสนับสนุนใน app สำหรับ Outlook สำหรับการตัดสินค้าจากคลัง Mac ให้เปิด Outlook แล้วคลิก'วิธีใช้'\>ติดต่อฝ่ายสนับสนุน พิมพ์คำถามของคุณ และสมาชิกของ Outlook สำหรับ Mac ทีมสนับสนุนจะติดต่อกับคุณได้ [ติดต่อฝ่ายสนับสนุนใน Outlook สำหรับ Mac](https://answers.microsoft.com/msoffice/forum/msoffice_outlook-mso_mac/new-contact-support-feature-in-outlook-2016-for/d4fc21c4-25e2-4e10-b943-1fba6542b517)
+เพื่อรับการสนับสนุนในแอปสำหรับ outlook สำหรับปัญหา Mac เปิด Outlook และคลิก**ความช่วยเหลือ** \> **ติดต่อฝ่ายสนับสนุน** พิมพ์คำถามของคุณและสมาชิกของ Outlook สำหรับทีมสนับสนุน Mac จะได้รับในการติดต่อกับคุณ 
+
+[ติดต่อฝ่ายสนับสนุนใน Outlook สำหรับ Mac](https://answers.microsoft.com/msoffice/forum/msoffice_outlook-mso_mac/new-contact-support-feature-in-outlook-2016-for/d4fc21c4-25e2-4e10-b943-1fba6542b517)
