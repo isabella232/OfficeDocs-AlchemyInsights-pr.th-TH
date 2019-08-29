@@ -1,5 +1,5 @@
 ---
-title: โยกย้ายอีเมลจากชุด G ไป Office 365
+title: ย้ายข้อมูลในเมลจาก G Suite ไปยัง Office ๓๖๕
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -13,14 +13,14 @@ ms.custom:
 - "682"
 - "3500008"
 ms.assetid: 09a4c114-ef71-4958-ad1d-d5acdc47cd05
-ms.openlocfilehash: 748196bc9244f06c50e3fdd2ecfc23f607422f23
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: d09df8227678f9e9ab7f4cf995782aa0085aa129
+ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36544604"
+ms.lasthandoff: 08/29/2019
+ms.locfileid: "36666931"
 ---
-# <a name="migrate-email-from-g-suite-to-office-365"></a><span data-ttu-id="a1658-102">โยกย้ายอีเมลจากชุด G ไป Office 365</span><span class="sxs-lookup"><span data-stu-id="a1658-102">Migrate email from G Suite to Office 365</span></span>
+# <a name="migrate-email-from-g-suite-to-office-365"></a><span data-ttu-id="ca35b-102">ย้ายข้อมูลในเมลจาก G Suite ไปยัง Office ๓๖๕</span><span class="sxs-lookup"><span data-stu-id="ca35b-102">Migrate email from G Suite to Office 365</span></span>
 
-<span data-ttu-id="a1658-103">เมื่อต้องการโยกย้ายอีเมลจากชุด G ไป Office 365 ใช้เครื่องมือการโยกย้ายของเราในการโยกย้ายอีเมล ปฏิทิน และที่ติดต่อ:[ทำการโยกย้าย G ชุด](https://docs.microsoft.com/Exchange/mailbox-migration/perform-g-suite-migration)</span><span class="sxs-lookup"><span data-stu-id="a1658-103">To migrate email from G Suite to Office 365, use our migration tools to migrate email, calendar and contacts: [Perform a G Suite migration](https://docs.microsoft.com/Exchange/mailbox-migration/perform-g-suite-migration).</span></span>
+<span data-ttu-id="ca35b-103">หากต้องการย้ายข้อมูลจาก G Suite ไปยัง Office ๓๖๕ให้ใช้เครื่องมือการย้ายข้อมูลของเราในการย้าย[ข้อมูล](https://docs.microsoft.com/Exchange/mailbox-migration/perform-g-suite-migration)เมลปฏิทินและรายชื่อติดต่อ</span><span class="sxs-lookup"><span data-stu-id="ca35b-103">To migrate email from G Suite to Office 365, use our migration tools for migrating email, calendar, and contacts: [Perform a G Suite migration](https://docs.microsoft.com/Exchange/mailbox-migration/perform-g-suite-migration).</span></span>
   

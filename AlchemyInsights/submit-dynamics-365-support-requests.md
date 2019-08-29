@@ -1,9 +1,8 @@
 ---
-title: ส่งคำขอการสนับสนุน Dynamics 365
+title: ส่งการร้องขอการสนับสนุน Dynamics ๓๖๕
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
-ms.date: 12/11/2018
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,16 +11,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "274"
 - "6200001"
-ms.openlocfilehash: 8ff732f2c8e805e7a9c1919bc0917b5657bb43c9
-ms.sourcegitcommit: 20b6a1fb3f0d899f3b204e3c066262d10623a4ea
+ms.openlocfilehash: 7bd8606570eda916955978e30f2016b0267bcd2d
+ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 07/25/2019
-ms.locfileid: "35904172"
+ms.lasthandoff: 08/29/2019
+ms.locfileid: "36666067"
 ---
-# <a name="submit-dynamics-365-support-requests"></a><span data-ttu-id="0e203-102">ส่งคำขอการสนับสนุน Dynamics 365</span><span class="sxs-lookup"><span data-stu-id="0e203-102">Submit Dynamics 365 support requests</span></span>
+# <a name="submit-dynamics-365-support-requests"></a><span data-ttu-id="65724-102">ส่งการร้องขอการสนับสนุน Dynamics ๓๖๕</span><span class="sxs-lookup"><span data-stu-id="65724-102">Submit Dynamics 365 support requests</span></span>
 
-<span data-ttu-id="0e203-103">ถ้าคุณมี**งานหมั้นลูกค้าของ Microsoft Dynamics**ลูกค้าโปรดส่งบัตรของคุณผ่านทาง[แพลตฟอร์มพลังงานศูนย์ดูแล](https://admin.powerplatform.microsoft.com/?ref=officemodern)แบบใหม่</span><span class="sxs-lookup"><span data-stu-id="0e203-103">If you are a **Microsoft Dynamics Customer Engagement** customer please submit your ticket through the new [Power platform Admin Center](https://admin.powerplatform.microsoft.com/?ref=officemodern).</span></span>
+<span data-ttu-id="65724-103">ถ้าคุณเป็นลูกค้าการมี**ส่วนร่วมของลูกค้า Dynamics Microsoft**โปรดส่งบัตรโดยสารของคุณผ่านทาง[ศูนย์การจัดการแพลตฟอร์มพลังงาน](https://admin.powerplatform.microsoft.com/?ref=officemodern)ใหม่</span><span class="sxs-lookup"><span data-stu-id="65724-103">If you are a **Microsoft Dynamics Customer Engagement** customer please submit your ticket through the new [Power platform Admin Center](https://admin.powerplatform.microsoft.com/?ref=officemodern).</span></span>
   
-<span data-ttu-id="0e203-104">เว็บไซต์ใหม่มีเส้นทางอ้อมกับการสนับสนุนที่ดีที่สุดสำหรับงานหมั้นลูกค้า Dynamics และผลิตภัณฑ์อื่น ๆ แพลตฟอร์มพลังงาน</span><span class="sxs-lookup"><span data-stu-id="0e203-104">The new portal provides a more direct path to assisted support that is optimized for Dynamics customer engagement and other Power platform products.</span></span>
+<span data-ttu-id="65724-104">พอร์ทัลใหม่มีเส้นทางโดยตรงเพิ่มเติมเพื่อช่วยสนับสนุนที่เหมาะสำหรับการมีส่วนร่วมของลูกค้า Dynamics และผลิตภัณฑ์แพลตฟอร์มพลังงานอื่นๆ</span><span class="sxs-lookup"><span data-stu-id="65724-104">The new portal provides a more direct path to assisted support that is optimized for Dynamics customer engagement and other Power platform products.</span></span>
   
