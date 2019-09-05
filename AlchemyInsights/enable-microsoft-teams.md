@@ -1,5 +1,5 @@
 ---
-title: เปิดใช้งาน Microsoft ทีม
+title: เปิดใช้งาน Microsoft Teams
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -13,15 +13,15 @@ ms.custom:
 - "737"
 - "6500003"
 ms.assetid: c35b64bd-537d-4a33-98df-ad02de8fb71b
-ms.openlocfilehash: 78d555d5c93abbdcfd6ebf4a44c8904c7b08625d
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 23491c2c6fbe51c0c2b6cdce112b59f00a8b868a
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36527619"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36736128"
 ---
-# <a name="enable-and-use-microsoft-teams"></a>เปิดใช้งาน และใช้ทีมงานของ Microsoft
+# <a name="enable-and-use-microsoft-teams"></a>เปิดใช้งานและใช้งาน Microsoft Teams
 
-ถ้าคุณไม่มีการเข้าถึง Microsoft ทีมเลย เช็คเอาท์[ฉันจะใช้งานการเข้าถึง Microsoft ทีม](https://support.office.com/article/How-do-I-get-access-to-Microsoft-Teams-fc7f1634-abd3-4f26-a597-9df16e4ca65b.aspx)
+ถ้าคุณไม่สามารถเข้าถึง Microsoft Teams ได้ให้ดูที่ฉัน[จะเข้าถึง Microsoft teams ได้อย่างไร](https://support.office.com/article/How-do-I-get-access-to-Microsoft-Teams-fc7f1634-abd3-4f26-a597-9df16e4ca65b.aspx)
 
-ถ้าคุณมี Microsoft ทีมเรียบร้อยแล้ว และจำเป็นต้องทราบวิธีการตั้งค่าคอนฟิก และจัดการ ดูการ[ตั้งค่าผู้ดูแลสำหรับทีมงานของ Microsoft](https://support.office.com/article/Administrator-settings-for-Microsoft-Teams-3966a3f5-7e0f-4ea9-a402-41888f455ba2.aspx)
+ถ้าคุณมี Microsoft Teams อยู่แล้วและจำเป็นต้องทราบวิธีกำหนดค่าและจัดการให้ดูที่[จัดการการตั้งค่า Microsoft Teams สำหรับองค์กรของคุณ](https://docs.microsoft.com/MicrosoftTeams/enable-features-office-365)

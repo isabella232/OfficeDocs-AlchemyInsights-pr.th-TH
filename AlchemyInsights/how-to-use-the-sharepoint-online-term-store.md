@@ -1,6 +1,6 @@
 ---
-title: วิธีการใช้เก็บคำออนไลน์ของ SharePoint
-ms.author: kirks
+title: วิธีการใช้ที่เก็บคำศัพท์แบบออนไลน์ของ SharePoint
+ms.author: pebaum
 author: Techwriter40
 ms.date: 12/17/2018
 ms.audience: ITPro
@@ -11,18 +11,18 @@ ms.custom:
 - "1247"
 - "5200021"
 ms.assetid: 9b55de94-8aee-40cb-970f-046de0a80e6b
-ms.openlocfilehash: 8c87a4ca51dae25a0cfec86d53bc45ec59f8962f
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 2b785f475c7f673acff3dd419883b136d7feb92e
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36539660"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36754859"
 ---
-# <a name="how-to-use-the-sharepoint-online-term-store"></a>วิธีการใช้เก็บคำออนไลน์ของ SharePoint
+# <a name="how-to-use-the-sharepoint-online-term-store"></a>วิธีการใช้ที่เก็บคำศัพท์แบบออนไลน์ของ SharePoint
 
-เก็บคำจะพร้อมใช้งานผิด Office 365 Admin สากล ผู้ดูแลระบบ SharePoint และผู้ ดูแลร้านค้าเพิ่มเติม และสามารถพบได้ในศูนย์ดูแล SharePoint ออนไลน์ใหม่
+จัดเก็บคำจะพร้อมใช้งานสำหรับ Office ๓๖๕ผู้ดูแลทั่วโลกผู้ดูแลระบบ SharePoint และการจัดเก็บคำและสามารถพบได้ในศูนย์กลางการดูแล SharePoint แบบออนไลน์ใหม่
   
-สำหรับข้อมูลเพิ่มเติมเกี่ยวกับวิธีใช้ร้านค้าเพิ่มเติมแบบออนไลน์ของ SharePoint และระบบภาษีภายใน SharePoint แบบออนไลน์ ดู[บทนำสู่การจัดการข้อมูลเมตา](https://go.microsoft.com/fwlink/?linkid=2044674&amp;clcid=0x409)
+สำหรับข้อมูลเพิ่มเติมเกี่ยวกับวิธีการใช้การจัดเก็บคำศัพท์แบบออนไลน์ของ SharePoint และระบบภาษีภายใน SharePoint แบบออนไลน์ดู[บทนำเกี่ยวกับข้อมูลเมตาที่](https://go.microsoft.com/fwlink/?linkid=2044674&amp;clcid=0x409)มีการจัดการ
   
-ถ้าคุณกำลังมีปัญหากับเงื่อนไขไม่ปรากฏ หรือปรากฏเป็นระยะ ๆ เราขอแนะนำให้คุณรอ 24 ชั่วโมง และขอรับการสนับสนุนการเข้าสู่ระบบจากนั้น ถ้ายังคงมีปัญหา ถึงแม้ว่า 24 ชั่วโมงจะเป็นเวลานาน อาจมีปัญหาแคช หรือเราอาจจะทำงานอยู่ในการแก้ไขปัญหานี้
+หากคุณกำลังมีปัญหาเกี่ยวกับคำที่ไม่ปรากฏหรือปรากฏเป็นระยะๆเราขอแนะนำให้คุณรอ24ชั่วโมงจากนั้นล็อกการร้องขอการสนับสนุนถ้าปัญหายังคงมีอยู่ แม้ว่า24ชั่วโมงอาจเป็นเวลานานอาจมีปัญหาในการแคชหรือเราอาจจะทำงานกับวิธีแก้ปัญหานี้แล้ว
   
