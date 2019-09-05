@@ -1,28 +1,28 @@
 ---
-title: ขีดจำกัดของไซต์ฮับและข้อจำกัด
-ms.author: kirks
+title: ขีดจำกัดและข้อจำกัดของไซต์ฮับ
+ms.author: pebaum
 author: Techwriter40
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 1930b62d-7035-4b68-9b4f-3e4f7b31000d
-ms.openlocfilehash: c3a2bd02cd610e8fc6e5eb296817eb439a055af5
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: c63cbe96f95bf4d1ce279a7294069a7ab8f0f953
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36539372"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36754607"
 ---
-# <a name="sharepoint-hub-site-limits-and-restrictions"></a><span data-ttu-id="28951-102">ขีดจำกัดของไซต์ฮับ SharePoint และข้อจำกัด</span><span class="sxs-lookup"><span data-stu-id="28951-102">SharePoint hub site limits and restrictions</span></span>
+# <a name="sharepoint-hub-site-limits-and-restrictions"></a><span data-ttu-id="b04b6-102">ขีดจำกัดและข้อจำกัดของไซต์ฮับ SharePoint</span><span class="sxs-lookup"><span data-stu-id="b04b6-102">SharePoint hub site limits and restrictions</span></span>
 
-- <span data-ttu-id="28951-103">เมื่อต้องการเลือกไซต์การสื่อสาร หรือไซต์สำหรับทีมที่ใช้แม่แบบสมัยใหม่ใหม่มีพื้นที่เพียงพอ</span><span class="sxs-lookup"><span data-stu-id="28951-103">It is recommended to select a communication site, or a team site that uses the new modern template.</span></span> <span data-ttu-id="28951-104">ถ้าคุณใช้ไซต์ทีมคลาสสิก การนำทางของฮับจะปรากฏเฉพาะบนหน้าสมัยใหม่ และการตั้งค่าไซต์ฮับจะปรากฏเฉพาะบนหน้าสมัยใหม่</span><span class="sxs-lookup"><span data-stu-id="28951-104">If you use a classic team site, the hub navigation will appear only on modern pages, and hub site settings will only appear on modern pages.</span></span>
+- <span data-ttu-id="b04b6-103">ขอแนะนำให้เลือกไซต์การสื่อสารหรือไซต์ทีมที่ใช้แม่แบบที่ทันสมัยใหม่</span><span class="sxs-lookup"><span data-stu-id="b04b6-103">It is recommended to select a communication site, or a team site that uses the new modern template.</span></span> <span data-ttu-id="b04b6-104">ถ้าคุณใช้ไซต์ทีมคลาสสิกการนำทางฮับจะปรากฏเฉพาะบนเพจที่ทันสมัยและการตั้งค่าไซต์ฮับจะปรากฏบนเพจที่ทันสมัยเท่านั้น</span><span class="sxs-lookup"><span data-stu-id="b04b6-104">If you use a classic team site, the hub navigation will appear only on modern pages, and hub site settings will only appear on modern pages.</span></span>
 
-- <span data-ttu-id="28951-105">ไซต์ที่ถูกเชื่อมโยงกับอีกฮับ**ไม่สามารถ**ถูกแปลงให้เป็นฮับไซต์</span><span class="sxs-lookup"><span data-stu-id="28951-105">Sites that are already associated with another hub **can't** be converted to a hub site.</span></span> 
+- <span data-ttu-id="b04b6-105">ไซต์ที่เชื่อมโยงกับฮับอื่นอยู่แล้ว**ไม่**สามารถแปลงไปเป็นฮับไซต์ได้</span><span class="sxs-lookup"><span data-stu-id="b04b6-105">Sites that are already associated with another hub **can't** be converted to a hub site.</span></span> 
 
-- <span data-ttu-id="28951-106">คุณสามารถสร้างไซต์ฮับมากถึง 100 สำหรับองค์กรของคุณ</span><span class="sxs-lookup"><span data-stu-id="28951-106">You can create up to 100 hub sites for your organization.</span></span> <span data-ttu-id="28951-107">ไม่มีข้อจำกัดเกี่ยวกับจำนวนไซต์ที่สามารถเชื่อมโยงกับไซต์ฮับ</span><span class="sxs-lookup"><span data-stu-id="28951-107">There is no limit on the number of sites that can be associated with a hub site.</span></span>
+- <span data-ttu-id="b04b6-106">คุณสามารถสร้างได้สูงสุด๑๐๐ไซต์ฮับสำหรับองค์กรของคุณ</span><span class="sxs-lookup"><span data-stu-id="b04b6-106">You can create up to 100 hub sites for your organization.</span></span> <span data-ttu-id="b04b6-107">ไม่มีการจำกัดจำนวนไซต์ที่สามารถเชื่อมโยงกับไซต์ฮับได้</span><span class="sxs-lookup"><span data-stu-id="b04b6-107">There is no limit on the number of sites that can be associated with a hub site.</span></span>
 
-- <span data-ttu-id="28951-108">เมื่อผู้ใช้เชื่อมโยงไซต์ของตนกับฮับไซต์ จะไม่มีผลกระทบต่อสิทธิ์ของฮับไซต์หรือไซต์เกี่ยวข้อง</span><span class="sxs-lookup"><span data-stu-id="28951-108">When users associate their sites with a hub site, it doesn't impact the permissions of either the hub site or the associated sites.</span></span> <span data-ttu-id="28951-109">เป็นสิ่งสำคัญเพื่อให้แน่ใจว่า ผู้ใช้ทั้งหมดที่คุณอนุญาตให้มีการเชื่อมโยงไซต์กับฮับมีสิทธิ์ในการฮับ</span><span class="sxs-lookup"><span data-stu-id="28951-109">It's important to make sure all users you allow to associate sites to the hub have permission to the hub.</span></span>
+- <span data-ttu-id="b04b6-108">เมื่อผู้ใช้เชื่อมโยงไซต์ของตนกับไซต์ฮับจะไม่ส่งผลกระทบต่อสิทธิ์ของทั้งไซต์ฮับหรือไซต์ที่เกี่ยวข้อง</span><span class="sxs-lookup"><span data-stu-id="b04b6-108">When users associate their sites with a hub site, it doesn't impact the permissions of either the hub site or the associated sites.</span></span> <span data-ttu-id="b04b6-109">สิ่งสำคัญคือต้องตรวจสอบให้แน่ใจว่าผู้ใช้ทั้งหมดที่คุณอนุญาตให้เชื่อมโยงไซต์เข้ากับฮับมีสิทธิ์ไปยังฮับ</span><span class="sxs-lookup"><span data-stu-id="b04b6-109">It's important to make sure all users you allow to associate sites to the hub have permission to the hub.</span></span>
 
 
 
