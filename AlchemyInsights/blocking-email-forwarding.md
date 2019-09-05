@@ -1,5 +1,5 @@
 ---
-title: บล็อค 726 ส่งต่ออีเมล
+title: ๗๒๖การบล็อกการส่งต่อทางเมล
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -13,15 +13,15 @@ ms.custom:
 - "726"
 - "1200004"
 ms.assetid: 8865c68e-7e8a-4135-a254-d7f69f1ded30
-ms.openlocfilehash: 4bb1516964fac51fac484cc5dbbacef495081e30
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 70cc2529361766c92e9167162b13e06796a9c4b0
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36517626"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36737748"
 ---
-# <a name="block-email-forwarding"></a><span data-ttu-id="0b665-102">บล็อกการส่งต่ออีเมล</span><span class="sxs-lookup"><span data-stu-id="0b665-102">Block email forwarding</span></span>
+# <a name="block-email-forwarding"></a><span data-ttu-id="9211d-102">บล็อกการส่งต่อทาง email</span><span class="sxs-lookup"><span data-stu-id="9211d-102">Block email forwarding</span></span>
 
-<span data-ttu-id="0b665-103">เมื่อต้องการปิดใช้งานการส่งต่อสำหรับกล่องจดหมายเฉพาะอีเมล ดู[ตั้งค่าการส่งต่ออีเม](https://support.office.com/client/15abf81d-5c5d-49da-ac81-1b4daa1809f6)</span><span class="sxs-lookup"><span data-stu-id="0b665-103">To disable email forwarding for a specific mailbox, see [Set up email forwarding](https://support.office.com/client/15abf81d-5c5d-49da-ac81-1b4daa1809f6).</span></span>
+<span data-ttu-id="9211d-103">หากต้องการปิดใช้งานการส่งต่อทาง email สำหรับกล่องจดหมายที่ระบุให้ดู[กำหนดค่าการส่งต่อทางเมล](https://docs.microsoft.com/office365/admin/email/configure-email-forwarding)</span><span class="sxs-lookup"><span data-stu-id="9211d-103">To disable email forwarding for a specific mailbox, see [Configure email forwarding](https://docs.microsoft.com/office365/admin/email/configure-email-forwarding).</span></span>
 
-<span data-ttu-id="0b665-104">เมื่อต้องการบล็อกอีเมลที่ส่งต่อสำหรับทั้งองค์กร[หลายวิธีด้วยกันเมื่อต้องการบล็อกอีเมอัตโนมัติส่งต่อใน Exchange แบบออนไลน์](https://blogs.technet.microsoft.com/exchange/2017/12/22/the-many-ways-to-block-automatic-email-forwarding-in-exchange-online/)</span><span class="sxs-lookup"><span data-stu-id="0b665-104">To block email forwarding for the whole organization, [The many ways to block automatic email forwarding in Exchange Online](https://blogs.technet.microsoft.com/exchange/2017/12/22/the-many-ways-to-block-automatic-email-forwarding-in-exchange-online/).</span></span>
+<span data-ttu-id="9211d-104">เพื่อป้องกันการส่งต่อทาง e-mail สำหรับทั้งองค์กร[วิธีการหลายวิธีในการป้องกันการส่งต่อทาง e-mail โดยอัตโนมัติในการแลกเปลี่ยนแบบออนไลน์](https://blogs.technet.microsoft.com/exchange/2017/12/22/the-many-ways-to-block-automatic-email-forwarding-in-exchange-online/)</span><span class="sxs-lookup"><span data-stu-id="9211d-104">To block email forwarding for the whole organization, [The many ways to block automatic email forwarding in Exchange Online](https://blogs.technet.microsoft.com/exchange/2017/12/22/the-many-ways-to-block-automatic-email-forwarding-in-exchange-online/).</span></span>

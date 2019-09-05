@@ -1,5 +1,5 @@
 ---
-title: ผู้ใช้ภายนอกจะไม่ยอมรับการเชิญให้ใช้ร่วม
+title: ผู้ใช้ภายนอกไม่สามารถยอมรับการเชิญการใช้ร่วมกัน
 ms.author: efrene
 author: efrene
 ms.date: 8/8/2019
@@ -12,22 +12,22 @@ ms.assetid: ''
 ms.custom:
 - "9000191"
 - "2383"
-ms.openlocfilehash: 7b5253c94a177e27745a921bcc4b478229ad4c26
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 72e9321c43e33e3ea8ef50592d5d4ea5d9568d7c
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36525834"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36735912"
 ---
-# <a name="external-user-is-unable-to-accept-a-sharing-invitation"></a><span data-ttu-id="cb896-102">ผู้ใช้ภายนอกจะไม่ยอมรับการเชิญให้ใช้ร่วม</span><span class="sxs-lookup"><span data-stu-id="cb896-102">External user is unable to accept a sharing invitation</span></span>
+# <a name="external-user-is-unable-to-accept-a-sharing-invitation"></a><span data-ttu-id="da260-102">ผู้ใช้ภายนอกไม่สามารถยอมรับการเชิญการใช้ร่วมกัน</span><span class="sxs-lookup"><span data-stu-id="da260-102">External user is unable to accept a sharing invitation</span></span>
 
-<span data-ttu-id="cb896-103">ถ้าผู้ใช้ภายนอกไม่สามารถยอมรับการเชิญร่วม กรุณาลองเยี่ยมชมลิงค์ด้านล่าง:</span><span class="sxs-lookup"><span data-stu-id="cb896-103">If an external user is unable to accept a sharing invite, please try visiting the links below:</span></span> 
+<span data-ttu-id="da260-103">หากผู้ใช้ภายนอกไม่สามารถยอมรับคำเชิญร่วมกันได้โปรดลองไปที่ลิงก์ด้านล่าง:</span><span class="sxs-lookup"><span data-stu-id="da260-103">If an external user is unable to accept a sharing invite, please try visiting the links below:</span></span> 
 
-- [<span data-ttu-id="cb896-104">"เข้าถึงถูกปฏิเสธ" "คุณต้องมีสิทธิ์ในการเข้าถึงไซต์นี้" หรือ "ผู้ใช้ไม่พบในไดเรกทอรี" ข้อผิดพลาดใน SharePoint แบบออนไลน์และ OneDrive สำหรับธุรกิจ</span><span class="sxs-lookup"><span data-stu-id="cb896-104">“Access Denied”, “You need permission to access this site”, or “User not found in the directory” errors in SharePoint Online and OneDrive for Business</span></span>](https://docs.microsoft.com/sharepoint/support/administration/access-denied-or-need-permission-error-sharepoint-online-or-onedrive-for-business)
-- [<span data-ttu-id="cb896-105">"นโยบายขององค์กรของคุณไม่อนุญาตให้คุณใช้ร่วมกันกับผู้ใช้เหล่านี้" เกิดข้อผิดพลาดเมื่อสินค้าหรือไซต์ SharePoint แบบออนไลน์หรือ OneDrive สำหรับธุรกิจที่มีการใช้ร่วมกัน</span><span class="sxs-lookup"><span data-stu-id="cb896-105">“Your organization's policies do not allow you to share with these users” error when sharing an item or site in SharePoint Online or OneDrive for Business</span></span>](https://docs.microsoft.com/sharepoint/support/administration/organization-policies-do-not-allow-you-to-share-with-users-error)
-- [<span data-ttu-id="cb896-106">ตัวเลือกการใช้ร่วมกันคือ greyed ออกเมื่อใช้งานร่วมกันจาก SharePoint แบบออนไลน์หรือ OneDrive</span><span class="sxs-lookup"><span data-stu-id="cb896-106">Sharing options are greyed out when sharing from SharePoint Online or OneDrive</span></span>](https://docs.microsoft.com/sharepoint/support/administration/sharing-options-grayed-out-when-sharing-from-sharepoint-online-or-onedrive)
-- [<span data-ttu-id="cb896-107">ข้อความแสดงข้อผิดพลาดเมื่อผู้ใช้ภายนอกยอมรับคำเชิญของ SharePoint แบบออนไลน์ โดยใช้บัญชีผู้ใช้อื่น</span><span class="sxs-lookup"><span data-stu-id="cb896-107">Error message when an external user accepts a SharePoint Online invitation by using another account</span></span>](https://support.office.com/article/Error-message-when-an-external-user-accepts-a-SharePoint-Online-invitation-by-using-another-account-f0d34413-ea7c-42c7-a485-c4e5d421e5f0-)
-- [<span data-ttu-id="cb896-108">ข้อผิดพลาดใน SharePoint และ OneDrive ที่ใช้ร่วมกันให้ทราบ OSE</span><span class="sxs-lookup"><span data-stu-id="cb896-108">OSE sharing errors in SharePoint and OneDrive</span></span>](https://docs.microsoft.com/sharepoint/sharepoint-onedrive-error-message)
+- [<span data-ttu-id="da260-104">"การเข้าถึงถูกปฏิเสธ", "คุณต้องมีสิทธิ์ในการเข้าถึงไซต์นี้" หรือ "ผู้ใช้ไม่พบในไดเรกทอรี" ข้อผิดพลาดใน SharePoint แบบออนไลน์และ OneDrive สำหรับธุรกิจ</span><span class="sxs-lookup"><span data-stu-id="da260-104">“Access Denied”, “You need permission to access this site”, or “User not found in the directory” errors in SharePoint Online and OneDrive for Business</span></span>](https://docs.microsoft.com/sharepoint/support/administration/access-denied-or-need-permission-error-sharepoint-online-or-onedrive-for-business)
+- [<span data-ttu-id="da260-105">"นโยบายขององค์กรของคุณไม่อนุญาตให้คุณใช้ร่วมกับผู้ใช้เหล่านี้" ข้อผิดพลาดเมื่อใช้ร่วมกันรายการหรือไซต์ใน SharePoint แบบออนไลน์หรือ OneDrive สำหรับธุรกิจ</span><span class="sxs-lookup"><span data-stu-id="da260-105">“Your organization's policies do not allow you to share with these users” error when sharing an item or site in SharePoint Online or OneDrive for Business</span></span>](https://docs.microsoft.com/sharepoint/support/administration/organization-policies-do-not-allow-you-to-share-with-users-error)
+- [<span data-ttu-id="da260-106">ตัวเลือกการใช้ร่วมกันจะเป็นสีเทาเมื่อใช้ร่วมกันจาก SharePoint แบบออนไลน์หรือ OneDrive</span><span class="sxs-lookup"><span data-stu-id="da260-106">Sharing options are greyed out when sharing from SharePoint Online or OneDrive</span></span>](https://docs.microsoft.com/sharepoint/support/administration/sharing-options-grayed-out-when-sharing-from-sharepoint-online-or-onedrive)
+- [<span data-ttu-id="da260-107">ข้อผิดพลาดเมื่อผู้ใช้ภายนอกยอมรับการเชิญ SharePoint แบบออนไลน์โดยใช้บัญชีอื่น</span><span class="sxs-lookup"><span data-stu-id="da260-107">Error message when an external user accepts a SharePoint Online invitation by using another account</span></span>](https://docs.microsoft.com/sharepoint/support/sharing-and-permissions/error-when-external-user-accepts-an-invitation-by-using-another-account)
+- [<span data-ttu-id="da260-108">ข้อผิดพลาดในการใช้ร่วมกันของ OSE ใน SharePoint และ OneDrive</span><span class="sxs-lookup"><span data-stu-id="da260-108">OSE sharing errors in SharePoint and OneDrive</span></span>](https://docs.microsoft.com/sharepoint/sharepoint-onedrive-error-message)
 
 
 

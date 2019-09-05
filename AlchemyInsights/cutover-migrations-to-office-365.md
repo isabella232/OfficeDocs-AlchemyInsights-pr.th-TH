@@ -1,5 +1,5 @@
 ---
-title: Migrations ตัดกับ Office 365
+title: การย้ายข้อมูลไปยัง Office ๓๖๕
 ms.author: dstrome
 author: dstrome
 manager: dansimp
@@ -11,14 +11,14 @@ localization_priority: Priority
 ms.custom:
 - "695"
 - "3500010"
-ms.openlocfilehash: f50ac52c030a04b1125cff751b5b3e9dc538a566
-ms.sourcegitcommit: 20b6a1fb3f0d899f3b204e3c066262d10623a4ea
+ms.openlocfilehash: a2017060fceecf3172facc4cd75f52fc2e07f9f3
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 07/25/2019
-ms.locfileid: "35903776"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36740592"
 ---
-# <a name="cutover-migrations-to-office-365"></a><span data-ttu-id="dc156-102">Migrations ตัดกับ Office 365</span><span class="sxs-lookup"><span data-stu-id="dc156-102">Cutover migrations to Office 365</span></span>
+# <a name="cutover-migrations-to-office-365"></a><span data-ttu-id="187be-102">การย้ายข้อมูลไปยัง Office ๓๖๕</span><span class="sxs-lookup"><span data-stu-id="187be-102">Cutover migrations to Office 365</span></span>
 
-<span data-ttu-id="dc156-103">เมื่อคุณลงทะเบียนสำหรับ Office 365 คุณสามารถย้ายเนื้อหาของกล่องจดหมายของผู้ใช้จากองค์กรแลกเปลี่ยนในสถานที่เพื่อ Office 365</span><span class="sxs-lookup"><span data-stu-id="dc156-103">When you sign up for Office 365, you can migrate the contents of user mailboxes from an on-premises Exchange organization to Office 365.</span></span> <span data-ttu-id="dc156-104">เมื่อคุณทำเช่นนี้ทั้งหมดในครั้งเดียว แสดงว่าการโยกย้ายตัดกัน</span><span class="sxs-lookup"><span data-stu-id="dc156-104">When you do this all at one time, it's called a cutover migration.</span></span> <span data-ttu-id="dc156-105">การโยกย้ายตัดอาจเหมาะสมกับคุณถ้าคุณกำลังเรียกใช้รุ่นที่สนับสนุนของ Exchange และกล่องจดหมายน้อยกว่า 2000 ได้</span><span class="sxs-lookup"><span data-stu-id="dc156-105">A cutover migration could be right for you if you're running a supported version of Exchange and have fewer than 2,000 mailboxes.</span></span> <span data-ttu-id="dc156-106">เมื่อต้องการทราบเพิ่มเติมเกี่ยวกับการตัด migrations พิจารณาสถานการณ์:[ย้ายระบบตัดไปยัง Office 365](https://support.office.com/article/9496e93c-1e59-41a8-9bb3-6e8df0cd81b4.aspx)</span><span class="sxs-lookup"><span data-stu-id="dc156-106">To find out more about cutover migrations, take a look at: [Cutover migration to Office 365](https://support.office.com/article/9496e93c-1e59-41a8-9bb3-6e8df0cd81b4.aspx).</span></span>
+<span data-ttu-id="187be-103">เมื่อคุณลงทะเบียนสำหรับ Office ๓๖๕คุณสามารถย้ายเนื้อหาของกล่องจดหมายของผู้ใช้จากองค์กร Exchange ในสถานที่ไปยัง Office ๓๖๕</span><span class="sxs-lookup"><span data-stu-id="187be-103">When you sign up for Office 365, you can migrate the contents of user mailboxes from an on-premises Exchange organization to Office 365.</span></span> <span data-ttu-id="187be-104">เมื่อคุณทำเช่นนี้ทั้งหมดในครั้งเดียว, เรียกว่าการโยกย้ายตัด.</span><span class="sxs-lookup"><span data-stu-id="187be-104">When you do this all at one time, it's called a cutover migration.</span></span> <span data-ttu-id="187be-105">การโยกย้ายตัดอาจเหมาะสมสำหรับคุณถ้าคุณกำลังเรียกใช้การแลกเปลี่ยนรุ่นที่สนับสนุนและมีกล่องจดหมายน้อยกว่า๒,๐๐๐</span><span class="sxs-lookup"><span data-stu-id="187be-105">A cutover migration could be right for you if you're running a supported version of Exchange and have fewer than 2,000 mailboxes.</span></span> <span data-ttu-id="187be-106">หากต้องการค้นหาเพิ่มเติมเกี่ยวกับการย้ายข้อมูลแบบตัดระบบให้ดูที่:[ย้ายข้อมูลทางเมลโดยใช้วิธีการตัดการแลกเปลี่ยน](https://docs.microsoft.com/Exchange/mailbox-migration/cutover-migration-to-office-365)</span><span class="sxs-lookup"><span data-stu-id="187be-106">To find out more about cutover migrations, take a look at: [Migrate email using the Exchange cutover method](https://docs.microsoft.com/Exchange/mailbox-migration/cutover-migration-to-office-365).</span></span>
   

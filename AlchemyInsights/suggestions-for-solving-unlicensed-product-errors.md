@@ -1,5 +1,5 @@
 ---
-title: คำแนะนำสำหรับการแก้ปัญหาข้อผิดพลาด 'ผลิตภัณฑ์' สิทธิ์'
+title: ข้อแนะนำสำหรับการแก้ปัญหาข้อผิดพลาด ' ผลิตภัณฑ์ที่ไม่มีสิทธิ์ '
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -13,26 +13,26 @@ ms.custom:
 - "849"
 - "2000021"
 ms.assetid: 6422774e-c7a5-4894-a60f-cdef5ca60afe
-ms.openlocfilehash: 45e91670ade842cd89c56c1acadc941d8d51e657
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 34095fa2ec0dae9864b4209f537ecf6e1d6fa4e7
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36501062"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36743292"
 ---
-# <a name="suggestions-for-solving-unlicensed-product-errors"></a><span data-ttu-id="27760-102">คำแนะนำสำหรับการแก้ปัญหาข้อผิดพลาด "Product สิทธิ์"</span><span class="sxs-lookup"><span data-stu-id="27760-102">Suggestions for solving "Unlicensed Product" errors</span></span>
+# <a name="suggestions-for-solving-unlicensed-product-errors"></a><span data-ttu-id="38f74-102">ข้อเสนอแนะสำหรับการแก้ข้อผิดพลาด "ผลิตภัณฑ์ที่ไม่มีสิทธิ์"</span><span class="sxs-lookup"><span data-stu-id="38f74-102">Suggestions for solving "Unlicensed Product" errors</span></span>
 
-<span data-ttu-id="27760-103">ให้แน่ใจว่า คุณมีการสมัครใช้งานที่อนุญาตให้ไคลเอนต์สิทธิ์การใช้งาน เช่น Office 365 ธุรกิจ หรือธุรกิจพิเศษ และ[ให้แน่ใจว่าผู้ใช้มีสิทธิ์การใช้งานที่กำหนดให้](https://support.office.com/article/997596B5-4173-4627-B915-36ABAC6786DC?wt.mc_id=Alchemy_ClientDIA)</span><span class="sxs-lookup"><span data-stu-id="27760-103">Ensure you have a subscription that allows client licenses, such as Office 365 Business or Business Premium, and [ensure the user has a license assigned](https://support.office.com/article/997596B5-4173-4627-B915-36ABAC6786DC?wt.mc_id=Alchemy_ClientDIA).</span></span> <span data-ttu-id="27760-104">[เรียกใช้การติดตั้ง](https://support.office.com/article/9b497c85-d0a4-4735-80fa-d3565bc05bd1?wt.mc_id=Alchemy_ClientDIA)เมื่อต้องการตรวจสอบถ้าคุณได้เกินจำนวนที่ใช้ในการติดตั้งที่ได้รับการสนับสนุน โดยการสมัครใช้งาน</span><span class="sxs-lookup"><span data-stu-id="27760-104">[Deactivate an install](https://support.office.com/article/9b497c85-d0a4-4735-80fa-d3565bc05bd1?wt.mc_id=Alchemy_ClientDIA) to check if you have exceeded the number of installs supported by your subscription.</span></span>
+<span data-ttu-id="38f74-103">ตรวจสอบให้แน่ใจว่าคุณมีการสมัครสมาชิกที่อนุญาตให้สิทธิ์การใช้งานไคลเอ็นต์เช่น Office ๓๖๕ธุรกิจหรือ Business Premium และ[ตรวจสอบให้แน่ใจว่าผู้ใช้มีสิทธิ์ที่กำหนด](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users)ไว้</span><span class="sxs-lookup"><span data-stu-id="38f74-103">Ensure you have a subscription that allows client licenses, such as Office 365 Business or Business Premium, and [ensure the user has a license assigned](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users).</span></span> <span data-ttu-id="38f74-104">[ปิดใช้งานการติดตั้ง](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/remove-licenses-from-users)เพื่อตรวจสอบว่าคุณได้เกินจำนวนการติดตั้งที่สนับสนุนโดยการสมัครใช้งานของคุณหรือไม่</span><span class="sxs-lookup"><span data-stu-id="38f74-104">[Deactivate an install](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/remove-licenses-from-users) to check if you have exceeded the number of installs supported by your subscription.</span></span>
   
-<span data-ttu-id="27760-105">ให้แน่ใจว่า ผู้ใช้จะลงชื่อเข้าใช้ ด้วยบัญชีเดียวกันที่มีกำหนดสิทธิ์การใช้งาน</span><span class="sxs-lookup"><span data-stu-id="27760-105">Ensure the user is signing in with the same account that has the license assigned.</span></span>
+<span data-ttu-id="38f74-105">ตรวจสอบให้แน่ใจว่าผู้ใช้กำลังลงชื่อเข้าระบบด้วยบัญชีเดียวกับที่มีการกำหนดใบอนุญาต</span><span class="sxs-lookup"><span data-stu-id="38f74-105">Ensure the user is signing in with the same account that has the license assigned.</span></span>
   
-<span data-ttu-id="27760-106">เรียกใช้[ตัวแก้ไขปัญหาการเปิดใช้งาน](https://aka.ms/SARA-OfficeActivation-Alchemy)</span><span class="sxs-lookup"><span data-stu-id="27760-106">Run the [Activation Troubleshooter](https://aka.ms/SARA-OfficeActivation-Alchemy).</span></span>
+<span data-ttu-id="38f74-106">เรียกใช้ตัว[แก้ไขปัญหาการเปิดใช้งาน](https://aka.ms/SARA-OfficeActivation-Alchemy)</span><span class="sxs-lookup"><span data-stu-id="38f74-106">Run the [Activation Troubleshooter](https://aka.ms/SARA-OfficeActivation-Alchemy).</span></span>
   
-<span data-ttu-id="27760-107">ตรวจสอบถ้าสถานะการบอกรับเป็นสมาชิกของคุณหมดอายุแล้ว</span><span class="sxs-lookup"><span data-stu-id="27760-107">Check if your subscription status has expired</span></span>
+<span data-ttu-id="38f74-107">ตรวจสอบว่าสถานะการสมัครสมาชิกหมดอายุแล้วหรือไม่</span><span class="sxs-lookup"><span data-stu-id="38f74-107">Check if your subscription status has expired</span></span>
   
-<span data-ttu-id="27760-108">ตรวจสอบ[ความสมบูรณ์บริการของ Office 365 หน้า](https://docs.microsoft.com/office365/enterprise/view-service-health)เพื่อดูว่า มีปัญหากับบริการ</span><span class="sxs-lookup"><span data-stu-id="27760-108">Check the [Office 365 Service Health page](https://docs.microsoft.com/office365/enterprise/view-service-health) to see if there are any known problems with the service.</span></span>
+<span data-ttu-id="38f74-108">ตรวจสอบ[หน้า Office ๓๖๕ความสมบูรณ์ของบริการ](https://docs.microsoft.com/office365/enterprise/view-service-health)เพื่อดูว่ามีปัญหาที่ทราบกับบริการหรือไม่</span><span class="sxs-lookup"><span data-stu-id="38f74-108">Check the [Office 365 Service Health page](https://docs.microsoft.com/office365/enterprise/view-service-health) to see if there are any known problems with the service.</span></span>
   
-<span data-ttu-id="27760-109">[การซ่อมแซมแบบออนไลน์ของ Office](https://support.office.com/Article/7821d4b6-7c1d-4205-aa0e-a6b40c5bb88b?wt.mc_id=Alchemy_ClientDIA)</span><span class="sxs-lookup"><span data-stu-id="27760-109">[Perform an Online Repair of Office](https://support.office.com/Article/7821d4b6-7c1d-4205-aa0e-a6b40c5bb88b?wt.mc_id=Alchemy_ClientDIA).</span></span>
+<span data-ttu-id="38f74-109">[ดำเนินการซ่อมแซมทางออนไลน์ของสำนักงาน](https://support.office.com/Article/7821d4b6-7c1d-4205-aa0e-a6b40c5bb88b?wt.mc_id=Alchemy_ClientDIA)</span><span class="sxs-lookup"><span data-stu-id="38f74-109">[Perform an Online Repair of Office](https://support.office.com/Article/7821d4b6-7c1d-4205-aa0e-a6b40c5bb88b?wt.mc_id=Alchemy_ClientDIA).</span></span>
   
-<span data-ttu-id="27760-110">สำหรับโซลูชันที่มีการแก้ไขปัญหาเพิ่มเติม ดู:[ผลิตภัณฑ์สิทธิ์และข้อผิดพลาดในการเปิดใช้งานใน Office](https://support.office.com/Article/0d23d3c0-c19c-4b2f-9845-5344fedc4380?wt.mc_id=Alchemy_ClientDIA)</span><span class="sxs-lookup"><span data-stu-id="27760-110">For additional troubleshooting solutions, see: [Unlicensed Product and activation errors in Office](https://support.office.com/Article/0d23d3c0-c19c-4b2f-9845-5344fedc4380?wt.mc_id=Alchemy_ClientDIA).</span></span>
+<span data-ttu-id="38f74-110">สำหรับโซลูชันการแก้ไขปัญหาเพิ่มเติมโปรดดู:[ข้อผิดพลาดของผลิตภัณฑ์และการเปิดใช้งานใน Office](https://support.office.com/Article/0d23d3c0-c19c-4b2f-9845-5344fedc4380?wt.mc_id=Alchemy_ClientDIA)</span><span class="sxs-lookup"><span data-stu-id="38f74-110">For additional troubleshooting solutions, see: [Unlicensed Product and activation errors in Office](https://support.office.com/Article/0d23d3c0-c19c-4b2f-9845-5344fedc4380?wt.mc_id=Alchemy_ClientDIA).</span></span>
   

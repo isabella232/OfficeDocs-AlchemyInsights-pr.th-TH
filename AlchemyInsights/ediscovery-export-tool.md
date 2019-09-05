@@ -1,5 +1,5 @@
 ---
-title: เครื่องมือส่ง eDiscovery
+title: เครื่องมือการส่งออก eDiscovery
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -15,36 +15,36 @@ ms.custom:
 - "1100001"
 - "3100022"
 ms.assetid: b16d310d-1134-4959-be68-d1c0ad463930
-ms.openlocfilehash: d6ffd69cdc02331ecd1290fa3b0cb5a542c8bd58
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 5a54344d43d16c77d440768aa1c87489edf10ca0
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36528282"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36736344"
 ---
-# <a name="cant-install-or-run-the-ediscovery-export-tool"></a><span data-ttu-id="3a6c7-102">ไม่สามารถติดตั้ง หรือเรียกใช้ eDiscovery เครื่องมือการส่งออกหรือไม่</span><span class="sxs-lookup"><span data-stu-id="3a6c7-102">Can't install or run the eDiscovery Export Tool?</span></span>
+# <a name="cant-install-or-run-the-ediscovery-export-tool"></a><span data-ttu-id="1668f-102">ไม่สามารถติดตั้งหรือเรียกใช้เครื่องมือการส่งออก eDiscovery ได้หรือไม่</span><span class="sxs-lookup"><span data-stu-id="1668f-102">Can't install or run the eDiscovery Export Tool?</span></span>
 
-<span data-ttu-id="3a6c7-103">ถ้าคุณไม่สามารถติดตั้ง หรือเรียกใช้ eDiscovery Office 365 ส่งออกเครื่องมือการดาวน์โหลดผลลัพธ์การค้นหา ตรวจสอบสิ่งต่อไปนี้:</span><span class="sxs-lookup"><span data-stu-id="3a6c7-103">If you can't install or run the Office 365 eDiscovery Export Tool to download search results, check the following things:</span></span>
+<span data-ttu-id="1668f-103">ถ้าคุณไม่สามารถติดตั้งหรือเรียกใช้เครื่องมือการส่งออก eDiscovery Office ๓๖๕เพื่อดาวน์โหลดผลการค้นหาให้ตรวจสอบสิ่งต่อไปนี้:</span><span class="sxs-lookup"><span data-stu-id="1668f-103">If you can't install or run the Office 365 eDiscovery Export Tool to download search results, check the following things:</span></span>
   
-- <span data-ttu-id="3a6c7-104">คุณกำลังใช้คอมพิวเตอร์ตรงตามเบื้องต้นเหล่านี้:</span><span class="sxs-lookup"><span data-stu-id="3a6c7-104">The computer you're using meets these pre-requisites:</span></span>
+- <span data-ttu-id="1668f-104">คอมพิวเตอร์ที่คุณใช้เป็นไปตามข้อกำหนดเบื้องต้นเหล่านี้:</span><span class="sxs-lookup"><span data-stu-id="1668f-104">The computer you're using meets these pre-requisites:</span></span>
 
-  - <span data-ttu-id="3a6c7-105">รุ่น 32 หรือ 64 บิตของ Windows 7 และรุ่นที่ใหม่กว่า</span><span class="sxs-lookup"><span data-stu-id="3a6c7-105">32- or 64-bit versions of Windows 7 and later versions</span></span>
+  - <span data-ttu-id="1668f-105">รุ่น๓๒-หรือ๖๔บิตของ Windows 7 และรุ่นที่ใหม่กว่า</span><span class="sxs-lookup"><span data-stu-id="1668f-105">32- or 64-bit versions of Windows 7 and later versions</span></span>
 
-  - <span data-ttu-id="3a6c7-106">Microsoft .NET Framework 4.7</span><span class="sxs-lookup"><span data-stu-id="3a6c7-106">Microsoft .NET Framework 4.7</span></span>
+  - <span data-ttu-id="1668f-106">Microsoft .NET Framework ๔.๗</span><span class="sxs-lookup"><span data-stu-id="1668f-106">Microsoft .NET Framework 4.7</span></span>
 
-  - <span data-ttu-id="3a6c7-107">เบราว์เซอร์ที่สนับสนุน:</span><span class="sxs-lookup"><span data-stu-id="3a6c7-107">A supported browser:</span></span>
+  - <span data-ttu-id="1668f-107">เบราว์เซอร์ที่รองรับ:</span><span class="sxs-lookup"><span data-stu-id="1668f-107">A supported browser:</span></span>
 
-  - <span data-ttu-id="3a6c7-108">ขอบของ Microsoft</span><span class="sxs-lookup"><span data-stu-id="3a6c7-108">Microsoft Edge</span></span>
+  - <span data-ttu-id="1668f-108">ไมโครซอฟท์เอดจ์</span><span class="sxs-lookup"><span data-stu-id="1668f-108">Microsoft Edge</span></span>
 
-    <span data-ttu-id="3a6c7-109">หรือ</span><span class="sxs-lookup"><span data-stu-id="3a6c7-109">Or</span></span>
+    <span data-ttu-id="1668f-109">หรือ</span><span class="sxs-lookup"><span data-stu-id="1668f-109">Or</span></span>
 
-  - <span data-ttu-id="3a6c7-110">Internet Explorer 10 และรุ่นที่ใหม่กว่า</span><span class="sxs-lookup"><span data-stu-id="3a6c7-110">Internet Explorer 10 and later versions</span></span>
+  - <span data-ttu-id="1668f-110">Internet Explorer 10 และรุ่นที่ใหม่กว่า</span><span class="sxs-lookup"><span data-stu-id="1668f-110">Internet Explorer 10 and later versions</span></span>
 
-    <span data-ttu-id="3a6c7-111">เบราว์เซอร์อื่น เช่น Google โครเมียมและ Mozilla Firefox จะไม่ได้รับการสนับสนุน</span><span class="sxs-lookup"><span data-stu-id="3a6c7-111">Other browsers, such as Google Chrome and Mozilla Firefox aren't supported.</span></span>
+    <span data-ttu-id="1668f-111">เบราว์เซอร์อื่นๆเช่น Google โครเมียมและ Mozilla Firefox ไม่ได้รับการสนับสนุน</span><span class="sxs-lookup"><span data-stu-id="1668f-111">Other browsers, such as Google Chrome and Mozilla Firefox aren't supported.</span></span>
 
-- <span data-ttu-id="3a6c7-112">องค์กรของคุณสามารถเชื่อมต่อกับปลายทางใน Azure ซึ่งก็คือ**\*ได้ blob.core.windows.net** (สัญลักษณ์ตัวแทนแสดงถึงตัวระบุเฉพาะสำหรับงานการส่งออกของคุณ) ได้</span><span class="sxs-lookup"><span data-stu-id="3a6c7-112">Your organization can connect to the endpoint in Azure, which is **\*.blob.core.windows.net** (the wildcard represents a unique identifier for your export job).</span></span>
+- <span data-ttu-id="1668f-112">องค์กรของคุณสามารถเชื่อมต่อไปยังปลายทางใน Azure ซึ่งเป็น\*\* \*blob.core.windows.net\*\* (อักขระตัวแทนหมายถึงตัวระบุเฉพาะสำหรับงานการส่งออกของคุณ)</span><span class="sxs-lookup"><span data-stu-id="1668f-112">Your organization can connect to the endpoint in Azure, which is **\*.blob.core.windows.net** (the wildcard represents a unique identifier for your export job).</span></span>
 
-- <span data-ttu-id="3a6c7-113">คุณได้รับมอบหมายบทบาทส่งออกในการรักษาความปลอดภัยใน Office 365&amp;ศูนย์ปฏิบัติตามกฎระเบียบ</span><span class="sxs-lookup"><span data-stu-id="3a6c7-113">You're assigned the Export role in the Office 365 Security &amp; Compliance Center.</span></span> <span data-ttu-id="3a6c7-114">โดยค่าเริ่มต้น บทบาทนี้จะถูกกำหนดให้กับกลุ่มบทบาทผู้จัดการ eDiscovery เท่านั้น</span><span class="sxs-lookup"><span data-stu-id="3a6c7-114">By default, this role is only assigned to the eDiscovery Manager role group.</span></span> <span data-ttu-id="3a6c7-115">ดู[กำหนดการอนุญาต eDiscovery](https://support.office.com/article/assign-ediscovery-permissions-in-the-office-365-security-compliance-center-5b9a067b-9d2e-4aa5-bb33-99d8c0d0b5d7#moreinfo)</span><span class="sxs-lookup"><span data-stu-id="3a6c7-115">See [Assign eDiscovery permissions](https://support.office.com/article/assign-ediscovery-permissions-in-the-office-365-security-compliance-center-5b9a067b-9d2e-4aa5-bb33-99d8c0d0b5d7#moreinfo).</span></span>
+- <span data-ttu-id="1668f-113">คุณได้รับการกำหนดบทบาทการส่งออกในศูนย์&amp;การปฏิบัติตามกฎระเบียบความปลอดภัยของ Office ๓๖๕</span><span class="sxs-lookup"><span data-stu-id="1668f-113">You're assigned the Export role in the Office 365 Security &amp; Compliance Center.</span></span> <span data-ttu-id="1668f-114">โดยค่าเริ่มต้นบทบาทนี้จะถูกกำหนดให้กับกลุ่มบทบาทผู้จัดการ eDiscovery เท่านั้น</span><span class="sxs-lookup"><span data-stu-id="1668f-114">By default, this role is only assigned to the eDiscovery Manager role group.</span></span> <span data-ttu-id="1668f-115">ดู[กำหนดสิทธิ์ eDiscovery](https://docs.microsoft.com/office365/securitycompliance/assign-ediscovery-permissions)</span><span class="sxs-lookup"><span data-stu-id="1668f-115">See [Assign eDiscovery permissions](https://docs.microsoft.com/office365/securitycompliance/assign-ediscovery-permissions).</span></span>
 
-<span data-ttu-id="3a6c7-116">สำหรับข้อมูลเพิ่มเติม ให้ดู[ผลลัพธ์การค้นหาเนื้อหาที่มีการส่งออก](https://support.office.com/article/Export-Content-Search-results-from-the-Office-365-Security-Compliance-Center-ed48d448-3714-4c42-85f5-10f75f6a4278)</span><span class="sxs-lookup"><span data-stu-id="3a6c7-116">For more information, see [Export Content Search results](https://support.office.com/article/Export-Content-Search-results-from-the-Office-365-Security-Compliance-Center-ed48d448-3714-4c42-85f5-10f75f6a4278).</span></span>
+<span data-ttu-id="1668f-116">สำหรับข้อมูลเพิ่มเติมโปรดดูที่การ[ส่งออกผลการค้นหาเนื้อหา](https://docs.microsoft.com/office365/securitycompliance/export-search-results)</span><span class="sxs-lookup"><span data-stu-id="1668f-116">For more information, see [Export Content Search results](https://docs.microsoft.com/office365/securitycompliance/export-search-results).</span></span>
   
