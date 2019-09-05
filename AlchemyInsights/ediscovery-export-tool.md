@@ -1,5 +1,5 @@
 ---
-title: เครื่องมือส่ง eDiscovery
+title: เครื่องมือการส่งออก eDiscovery
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -15,36 +15,36 @@ ms.custom:
 - "1100001"
 - "3100022"
 ms.assetid: b16d310d-1134-4959-be68-d1c0ad463930
-ms.openlocfilehash: d6ffd69cdc02331ecd1290fa3b0cb5a542c8bd58
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 5a54344d43d16c77d440768aa1c87489edf10ca0
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36528282"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36736344"
 ---
-# <a name="cant-install-or-run-the-ediscovery-export-tool"></a>ไม่สามารถติดตั้ง หรือเรียกใช้ eDiscovery เครื่องมือการส่งออกหรือไม่
+# <a name="cant-install-or-run-the-ediscovery-export-tool"></a>ไม่สามารถติดตั้งหรือเรียกใช้เครื่องมือการส่งออก eDiscovery ได้หรือไม่
 
-ถ้าคุณไม่สามารถติดตั้ง หรือเรียกใช้ eDiscovery Office 365 ส่งออกเครื่องมือการดาวน์โหลดผลลัพธ์การค้นหา ตรวจสอบสิ่งต่อไปนี้:
+ถ้าคุณไม่สามารถติดตั้งหรือเรียกใช้เครื่องมือการส่งออก eDiscovery Office ๓๖๕เพื่อดาวน์โหลดผลการค้นหาให้ตรวจสอบสิ่งต่อไปนี้:
   
-- คุณกำลังใช้คอมพิวเตอร์ตรงตามเบื้องต้นเหล่านี้:
+- คอมพิวเตอร์ที่คุณใช้เป็นไปตามข้อกำหนดเบื้องต้นเหล่านี้:
 
-  - รุ่น 32 หรือ 64 บิตของ Windows 7 และรุ่นที่ใหม่กว่า
+  - รุ่น๓๒-หรือ๖๔บิตของ Windows 7 และรุ่นที่ใหม่กว่า
 
-  - Microsoft .NET Framework 4.7
+  - Microsoft .NET Framework ๔.๗
 
-  - เบราว์เซอร์ที่สนับสนุน:
+  - เบราว์เซอร์ที่รองรับ:
 
-  - ขอบของ Microsoft
+  - ไมโครซอฟท์เอดจ์
 
     หรือ
 
   - Internet Explorer 10 และรุ่นที่ใหม่กว่า
 
-    เบราว์เซอร์อื่น เช่น Google โครเมียมและ Mozilla Firefox จะไม่ได้รับการสนับสนุน
+    เบราว์เซอร์อื่นๆเช่น Google โครเมียมและ Mozilla Firefox ไม่ได้รับการสนับสนุน
 
-- องค์กรของคุณสามารถเชื่อมต่อกับปลายทางใน Azure ซึ่งก็คือ**\*ได้ blob.core.windows.net** (สัญลักษณ์ตัวแทนแสดงถึงตัวระบุเฉพาะสำหรับงานการส่งออกของคุณ) ได้
+- องค์กรของคุณสามารถเชื่อมต่อไปยังปลายทางใน Azure ซึ่งเป็น** \*blob.core.windows.net** (อักขระตัวแทนหมายถึงตัวระบุเฉพาะสำหรับงานการส่งออกของคุณ)
 
-- คุณได้รับมอบหมายบทบาทส่งออกในการรักษาความปลอดภัยใน Office 365&amp;ศูนย์ปฏิบัติตามกฎระเบียบ โดยค่าเริ่มต้น บทบาทนี้จะถูกกำหนดให้กับกลุ่มบทบาทผู้จัดการ eDiscovery เท่านั้น ดู[กำหนดการอนุญาต eDiscovery](https://support.office.com/article/assign-ediscovery-permissions-in-the-office-365-security-compliance-center-5b9a067b-9d2e-4aa5-bb33-99d8c0d0b5d7#moreinfo)
+- คุณได้รับการกำหนดบทบาทการส่งออกในศูนย์&amp;การปฏิบัติตามกฎระเบียบความปลอดภัยของ Office ๓๖๕ โดยค่าเริ่มต้นบทบาทนี้จะถูกกำหนดให้กับกลุ่มบทบาทผู้จัดการ eDiscovery เท่านั้น ดู[กำหนดสิทธิ์ eDiscovery](https://docs.microsoft.com/office365/securitycompliance/assign-ediscovery-permissions)
 
-สำหรับข้อมูลเพิ่มเติม ให้ดู[ผลลัพธ์การค้นหาเนื้อหาที่มีการส่งออก](https://support.office.com/article/Export-Content-Search-results-from-the-Office-365-Security-Compliance-Center-ed48d448-3714-4c42-85f5-10f75f6a4278)
+สำหรับข้อมูลเพิ่มเติมโปรดดูที่การ[ส่งออกผลการค้นหาเนื้อหา](https://docs.microsoft.com/office365/securitycompliance/export-search-results)
   

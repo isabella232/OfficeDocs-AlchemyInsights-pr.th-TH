@@ -1,6 +1,6 @@
 ---
-title: การแก้ไขปัญหาข้อความที่มีการเข้าถึงถูกปฏิเสธ
-ms.author: kirks
+title: การแก้ปัญหาข้อความการเข้าถึงถูกปฏิเสธ
+ms.author: pebaum
 author: Techwriter40
 ms.date: 6/29/2018
 ms.audience: ITPro
@@ -8,34 +8,34 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: d678b57a-53ad-4414-9423-d8726a0c532f
-ms.openlocfilehash: 942374d29ca334181e5a397c88d912828f01e349
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 915476f92f150288666268f1647f3cae7e9001a4
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36549130"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36751799"
 ---
-# <a name="troubleshoot-access-denied-messages"></a>การแก้ไขปัญหาข้อความที่มีการเข้าถึงถูกปฏิเสธ
+# <a name="troubleshoot-access-denied-messages"></a>การแก้ปัญหาข้อความการเข้าถึงถูกปฏิเสธ
 
-หากคุณได้รับการเข้าถึงถูกปฏิเสธข้อความเมื่อคุณพยายามเรียกดูไซต์ Sharepoint แบบออนไลน์ โปรดดูด้านล่างของบทความ
+ถ้าคุณได้รับข้อความปฏิเสธการเข้าถึงเมื่อพยายามเรียกดูไซต์ Sharepoint แบบออนไลน์โปรดดูที่บทความด้านล่าง
 
-**เพิ่ม และสิทธิ์การใช้งานของผู้ใช้**
+**เพิ่มและอนุญาตให้ผู้ใช้**
 
-ให้แน่ใจว่าคุณ[กำหนดสิทธิ์การใช้งานสำหรับผู้ใช้ใน Office 365 สำหรับธุรกิจ](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users?view=o365-worldwide&amp;tabs=One)
+ตรวจสอบให้แน่ใจว่าคุณได้[มอบหมายใบอนุญาตให้กับผู้ใช้ใน Office ๓๖๕สำหรับธุรกิจ](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users?view=o365-worldwide&amp;tabs=One)
 
-**กำหนดการอนุญาต**
+**กำหนดสิทธิ์**
 
-ถ้าผู้ใช้มีการกำหนดสิทธิ์การใช้งาน Sharepoint และยังคงได้รับการเข้าถึงถูกปฏิเสธข้อความ โปรดตรวจสอบว่ามีการ[กำหนดระดับสิทธิ์ที่เหมาะสม](https://docs.microsoft.com/sharepoint/understanding-permission-levels)
+ถ้าผู้ใช้ได้รับการกำหนดใบอนุญาต Sharepoint และยังคงได้รับข้อความการเข้าถึงถูกปฏิเสธโปรดตรวจสอบให้แน่ใจว่ามีการ[กำหนดระดับสิทธิ์ที่เหมาะสม](https://docs.microsoft.com/sharepoint/understanding-permission-levels)
 
 **พิจารณาการใช้คุณลักษณะการร้องขอการเข้าถึง**
 
-[ร้องขอการเข้าถึง](https://support.office.com/article/Set-up-and-manage-access-requests-94B26E0B-2822-49D4-929A-8455698654B3)คุณลักษณะช่วยให้บุคคลที่จะร้องขอการเข้าถึงเนื้อหาที่พวกเขายังไม่ได้รับอนุญาตให้ดู 
+คุณลักษณะการ[ร้องขอการเข้าถึง](https://support.office.com/article/Set-up-and-manage-access-requests-94B26E0B-2822-49D4-929A-8455698654B3)ช่วยให้ผู้คนสามารถร้องขอการเข้าถึงเนื้อหาที่พวกเขาไม่ได้รับอนุญาตให้ดูได้ในขณะนี้ 
 
-**อนุญาตให้ใช้สคริปต์แบบกำหนดเองอาจทำให้เกิดปัญหาปฏิเสธการเข้าถึง**
+**อนุญาตสคริปต์ที่กำหนดเองอาจทำให้เกิดปัญหาการเข้าถึงถูกปฏิเสธ**
 
-มีบางสถานการณ์ที่คุณลักษณะ "อนุญาตสคริปต์แบบกำหนดเอง" อาจจะนำเสนอการเข้าถึงถูกปฏิเสธ สำหรับรายการของลักษณะการทำงานที่ได้รับผลกระทบ ข้อควรพิจารณาด้านความปลอดภัย และความสามารถในการปิดใช้งานลักษณะการทำงาน โปรดเยี่ยมชม[อนุญาต หรือป้องกันไม่ให้สคริปต์แบบกำหนดเอง](https://docs.microsoft.com/sharepoint/allow-or-prevent-custom-script)
+มีบางสถานการณ์ที่คุณลักษณะ "อนุญาตให้ใช้สคริปต์ที่กำหนดเอง" อาจนำเสนอการเข้าถึงถูกปฏิเสธ สำหรับรายการของคุณลักษณะที่ได้รับผลกระทบข้อควรพิจารณาด้านความปลอดภัยและความสามารถในการปิดใช้งานคุณลักษณะนี้ กรุณาเยี่ยมชม,[อนุญาตหรือป้องกันสคริปต์ที่กำหนดเอง](https://docs.microsoft.com/sharepoint/allow-or-prevent-custom-script)
 
-หมายเหตุ: ถ้าไม่พร้อมใช้งานสำหรับผู้ใช้หลายคนที่ก่อนหน้านี้ มีการเข้าถึงไซต์ SharePoint หรือการ OneDrive อาจมีปัญหากับบริการชั่วคราว [ตรวจสอบแดชบอร์ความสมบูรณ์ของการบริการ](https://portal.office.com/adminportal/home#/servicehealth)
+หมายเหตุ: ถ้าเว็บไซต์ OneDrive หรือ SharePoint ไม่พร้อมใช้งานสำหรับผู้ใช้หลายคนที่ก่อนหน้านี้มีการเข้าถึงอาจมีปัญหาการบริการแบบถาวร [ตรวจสอบแดชบอร์ดความสมบูรณ์ของบริการ](https://portal.office.com/adminportal/home#/servicehealth)
 
 
   

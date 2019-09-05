@@ -1,6 +1,6 @@
 ---
-title: ย้ายในสถานไปยัง SharePoint แบบออนไลน์
-ms.author: kirks
+title: โยกย้ายในสถานที่ไปยัง SharePoint แบบออนไลน์
+ms.author: pebaum
 author: Techwriter40
 ms.date: 9/10/2018
 ms.audience: ITPro
@@ -8,15 +8,15 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 7ae8ff6d-db1b-403b-9707-6fe6da75be92
-ms.openlocfilehash: 07b35405b6078f4940b87bd0d1c576164a478bad
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: a063184a4662bc311c91b50a62456f40728b854d
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36544568"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36754067"
 ---
-# <a name="migrate-on-premises-to-sharepoint-online"></a>ย้ายในสถานไปยัง SharePoint แบบออนไลน์
+# <a name="migrate-on-premises-to-sharepoint-online"></a>โยกย้ายในสถานที่ไปยัง SharePoint แบบออนไลน์
 
-เพื่อย้ายไปยัง SharePoint Online จากฟาร์ม SharePoint ผิดในสถาน คุณสามารถใช้เครื่องมือการโยกย้าย SharePoint สำหรับข้อมูลเพิ่มเติมเกี่ยวกับเครื่องมือ ดู[ย้ายไปยัง SharePoint Online](https://go.microsoft.com/fwlink/?linkid=2019574)
+เมื่อต้องการย้ายจากฟาร์ม SharePoint ในสถานที่ไปยัง SharePoint แบบออนไลน์คุณสามารถใช้เครื่องมือการโยกย้าย SharePoint สำหรับข้อมูลเพิ่มเติมเกี่ยวกับเครื่องมือโปรดดูที่[การโยกย้ายไปยัง SharePoint แบบออนไลน์](https://go.microsoft.com/fwlink/?linkid=2019574)
   
 

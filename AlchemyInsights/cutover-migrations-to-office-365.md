@@ -1,5 +1,5 @@
 ---
-title: Migrations ตัดกับ Office 365
+title: การย้ายข้อมูลไปยัง Office ๓๖๕
 ms.author: dstrome
 author: dstrome
 manager: dansimp
@@ -11,14 +11,14 @@ localization_priority: Priority
 ms.custom:
 - "695"
 - "3500010"
-ms.openlocfilehash: f50ac52c030a04b1125cff751b5b3e9dc538a566
-ms.sourcegitcommit: 20b6a1fb3f0d899f3b204e3c066262d10623a4ea
+ms.openlocfilehash: a2017060fceecf3172facc4cd75f52fc2e07f9f3
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 07/25/2019
-ms.locfileid: "35903776"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36740592"
 ---
-# <a name="cutover-migrations-to-office-365"></a>Migrations ตัดกับ Office 365
+# <a name="cutover-migrations-to-office-365"></a>การย้ายข้อมูลไปยัง Office ๓๖๕
 
-เมื่อคุณลงทะเบียนสำหรับ Office 365 คุณสามารถย้ายเนื้อหาของกล่องจดหมายของผู้ใช้จากองค์กรแลกเปลี่ยนในสถานที่เพื่อ Office 365 เมื่อคุณทำเช่นนี้ทั้งหมดในครั้งเดียว แสดงว่าการโยกย้ายตัดกัน การโยกย้ายตัดอาจเหมาะสมกับคุณถ้าคุณกำลังเรียกใช้รุ่นที่สนับสนุนของ Exchange และกล่องจดหมายน้อยกว่า 2000 ได้ เมื่อต้องการทราบเพิ่มเติมเกี่ยวกับการตัด migrations พิจารณาสถานการณ์:[ย้ายระบบตัดไปยัง Office 365](https://support.office.com/article/9496e93c-1e59-41a8-9bb3-6e8df0cd81b4.aspx)
+เมื่อคุณลงทะเบียนสำหรับ Office ๓๖๕คุณสามารถย้ายเนื้อหาของกล่องจดหมายของผู้ใช้จากองค์กร Exchange ในสถานที่ไปยัง Office ๓๖๕ เมื่อคุณทำเช่นนี้ทั้งหมดในครั้งเดียว, เรียกว่าการโยกย้ายตัด. การโยกย้ายตัดอาจเหมาะสมสำหรับคุณถ้าคุณกำลังเรียกใช้การแลกเปลี่ยนรุ่นที่สนับสนุนและมีกล่องจดหมายน้อยกว่า๒,๐๐๐ หากต้องการค้นหาเพิ่มเติมเกี่ยวกับการย้ายข้อมูลแบบตัดระบบให้ดูที่:[ย้ายข้อมูลทางเมลโดยใช้วิธีการตัดการแลกเปลี่ยน](https://docs.microsoft.com/Exchange/mailbox-migration/cutover-migration-to-office-365)
   

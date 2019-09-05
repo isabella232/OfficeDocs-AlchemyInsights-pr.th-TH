@@ -1,5 +1,5 @@
 ---
-title: แจ้งเตือน SharePoint ไม่ได้จัดส่ง
+title: ไม่มีการส่งการแจ้งเตือนการแจ้งเตือนของ SharePoint
 ms.author: efrene
 author: efrene
 manager: pamgreen
@@ -13,40 +13,40 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000118"
 - "1655"
-ms.openlocfilehash: f389785fcd1029ae5a47e07c723874f9f214109d
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: d01d985f34d782fe14b3e2e6e6696c0101002db1
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36504482"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36744660"
 ---
-# <a name="sharepoint-alert-notifications-not-delivered"></a>แจ้งเตือน SharePoint ไม่ได้จัดส่ง
+# <a name="sharepoint-alert-notifications-not-delivered"></a>ไม่มีการส่งการแจ้งเตือนการแจ้งเตือนของ SharePoint
 
-โปรดตรวจสอบโฟลเดอร์อีเมลขยะในอีเมลของคุณ ในขณะที่บางครั้งข้อความแจ้งเตือนอาจไปมี
+กรุณาตรวจสอบโฟลเดอร์ขยะใน e-mail ของคุณเป็นบางครั้งการแจ้งเตือนอาจจะไปที่นั่น
 
-กำหนดว่าถ้า**ไม่ได้จัดส่งข้อความแจ้งเตือนทั้งหมด**หรือถ้าไม่ได้ส่ง**ข้อความแจ้งเตือนแต่ละรายการ**จากแฟ้มใดแฟ้มหนึ่งหรือไลบรารี
+ตรวจสอบว่าไม่มีการจัดส่งการ**แจ้งเตือนทั้งหมด**หรือถ้าไม่มี**การส่งการแจ้งเตือนแต่ละรายการ**จากแฟ้มหรือไลบรารีเฉพาะ
 
-- **ไม่ได้จัดส่งข้อความแจ้งเตือนแต่ละ**: ถ้าไม่มีส่งข้อความแจ้งเตือนจากแฟ้มใดแฟ้มหนึ่งหรือไลบรารีแต่ละ คุณสามารถพยายามที่จะลบ และสร้างใหม่ดังกล่าวได้ ดูการ[จัดการ ดู หรือลบการแจ้งเตือนของ SharePoint](https://support.office.com/article/manage-view-or-delete-sharepoint-alerts-99dfb19c-9a90-4a8c-aba1-aa8c8afb0de2?ui=en-US&rs=en-US&ad=US#ID0EAADAAA=Online)เมื่อต้องการสร้างการแจ้งเตือน
-- **ไม่ได้จัดส่งข้อความแจ้งเตือนทั้งหมด**: ถ้าไม่ส่งข้อความแจ้งเตือนทั้งหมดจากแฟ้มหรือไลบรารีหลาย เยี่ยมชม[แดชบอร์ดบริการสุขภาพ](https://admin.microsoft.com/AdminPortal/Home#/servicehealth)เพื่อตรวจหาใด ๆ คำแนะนำสำหรับ/ปัญหาที่อาจเกิดขึ้นกับ SharePoint หรือแลกเปลี่ยน ปัญหานี้อาจจะ มีความสามารถแจ้งเตือนของ SharePoint หรือความล่าช้าในอีเมล์โดยใช้อัตราแลกเปลี่ยน ก็จะเป็นสิ่งสำคัญที่ต้องหมายเหตุ ว่า กำลังถูกส่งทางอีเมลอื่น ๆ และถ้าไม่ ปัญหาอาจ มีความล่าช้าในการแลกเปลี่ยน
+- การ**แจ้งเตือนแต่ละครั้งจะไม่มีการจัดส่ง**: ถ้าไม่มีการส่งการแจ้งเตือนแต่ละรายการจากแฟ้มหรือไลบรารีที่ระบุคุณสามารถพยายามลบและสร้างขึ้นใหม่ได้ ดู[จัดการดูหรือลบการแจ้งเตือนของ SharePoint](https://support.office.com/article/manage-view-or-delete-sharepoint-alerts-99dfb19c-9a90-4a8c-aba1-aa8c8afb0de2?ui=en-US&rs=&ad=US#ID0EAADAAA=Online)เพื่อสร้างการแจ้งเตือนใหม่
+- การ**แจ้งเตือนทั้งหมดจะไม่ถูกส่ง**: ถ้าการแจ้งเตือนทั้งหมดจากหลายไฟล์หรือไลบรารีจะไม่ถูกส่งไปที่[แดชบอร์ดความสมบูรณ์ของบริการ](https://admin.microsoft.com/AdminPortal/Home#/servicehealth)เพื่อตรวจสอบคำแนะนำ/เหตุการณ์ที่อาจเกิดขึ้นกับ SharePoint หรือ Exchange ปัญหานี้อาจจะมีความสามารถในการแจ้งเตือนของ SharePoint หรือล่าช้าในการส่งผ่านการแลกเปลี่ยน นอกจากนี้ยังจะเป็นสิ่งสำคัญที่จะทราบว่ามีการจัดส่งทาง e-mail อื่นๆและถ้าไม่ปัญหาที่มีแนวโน้มที่จะเกิดความล่าช้าของอัตราแลกเปลี่ยน
 
-FAQ เกี่ยวกับการแจ้งเตือน:
+คำถามที่พบบ่อยเกี่ยวกับการแจ้งเตือน:
 
-- ไม่สามารถส่งข้อความแจ้งเตือนไปยัง กลุ่มการแจกจ่าย การรักษาความปลอดภัยเท่านั้น และกลุ่ม O365 ได้รับการสนับสนุน
-- คุณไม่สามารถกำหนดแม่แบบอีเมลที่แจ้งเตือน คุณจำเป็นต้องใช้ขั้นตอน Microsoft หรือ SharePoint Designer ลำดับบรรลุถึง
+- ไม่สามารถส่งการแจ้งเตือนไปยังกลุ่มการแจกจ่ายได้สนับสนุนเฉพาะกลุ่มการรักษาความปลอดภัยและ O365 เท่านั้น
+- คุณไม่สามารถกำหนดเทมเพลตอีเมลแจ้งเตือนได้ คุณจำเป็นต้องใช้ Microsoft FLOW หรือ SharePoint Designer เวิร์กโฟลว์เพื่อให้บรรลุเป้าหมายเหล่านั้น
 
-หากต้องการข้อมูลเพิ่มเติม:
+ข้อมูลเพิ่มเติม:
 
-- **การตั้งค่าการแจ้งเตือน**: สำหรับข้อมูลเพิ่มเติมเกี่ยวกับการตั้งค่าการแจ้งเตือน ดูที่การ[สร้างข้อความแจ้งเตือนเพื่อรับการแจ้งเตือนเมื่อมีการเปลี่ยนแปลงแฟ้มหรือโฟลเดอร์ใน SharePoint](https://support.office.com/article/create-an-alert-to-get-notified-when-a-file-or-folder-changes-in-sharepoint-e5a79e7b-a146-46da-a9ef-d65409ba8918)
-- **แก้ไขการแจ้งเตือน**: ดูข้อมูลเพิ่มเติมเกี่ยวกับการแก้ปัญหาการแจ้งเตือน[ผู้ใช้ที่ไม่ได้รับการแจ้งเตือนของ SharePoint แบบออนไลน์](https://docs.microsoft.com/sharepoint/support/sites/no-alert-notifications)
-- **ขั้นสูงแจ้งเตือนนโยบายปฏิบัติตามกฎระเบียบ O365**: สำหรับข้อมูลเพิ่มเติมเกี่ยวกับการตั้งค่าการแจ้งเตือนเหล่านี้ ดู[นโยบายแจ้งเตือนการปฏิบัติตามกฎระเบียบ](https://docs.microsoft.com/office365/securitycompliance/alert-policies)
-- **SharePoint และแฟ้มบันทึกการตรวจสอบ OneDrive**: สำหรับข้อมูลเพิ่มเติมเกี่ยวกับวิธีการรับเหตุการณ์เหล่านี้ ให้ดู[บันทึกการตรวจสอบการค้นหา](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance#search-the-audit-log)
-- **ส่งข้อความแจ้งเตือนโดยการป้องกันการคุกคามขั้นสูง**: ดู[ATP สำหรับ SharePoint และ OneDrive](https://docs.microsoft.com/office365/securitycompliance/atp-for-spo-odb-and-teams)
-- **ข้อความแจ้งเตือนที่ถูกส่งโดยป้องกันการสูญหายของข้อมูลด้านนโยบาย**: ดูการ[แจ้งเตือนทางอีเมลสำหรับนโยบาย DLP](https://docs.microsoft.com/office365/securitycompliance/use-notifications-and-policy-tips)
+- **การตั้งค่าการแจ้งเตือน**: สำหรับข้อมูลเพิ่มเติมเกี่ยวกับการตั้งค่าการแจ้งเตือนโปรดดูที่การสร้างการแจ้ง[เตือนเพื่อรับการแจ้งให้ทราบเมื่อมีการเปลี่ยนแปลงแฟ้มหรือโฟลเดอร์ใน SharePoint](https://support.office.com/article/create-an-alert-to-get-notified-when-a-file-or-folder-changes-in-sharepoint-e5a79e7b-a146-46da-a9ef-d65409ba8918)
+- **แก้ไขปัญหาการแจ้งเตือน**: สำหรับข้อมูลเพิ่มเติมเกี่ยวกับการแก้ไขปัญหาการแจ้งเตือนให้ดูที่[ผู้ใช้ไม่ได้รับการแจ้งเตือนของ SharePoint แบบออนไลน์](https://docs.microsoft.com/sharepoint/support/sites/no-alert-notifications)
+- **นโยบายการแจ้งเตือนการปฏิบัติตามกฎระเบียบของ O365 ขั้นสูง**: สำหรับข้อมูลเพิ่มเติมเกี่ยวกับการตั้งค่าการแจ้งเตือนเหล่านี้โปรดดูที่[นโยบายการแจ้งเตือนการปฏิบัติตามนโยบาย](https://docs.microsoft.com/office365/securitycompliance/alert-policies)
+- **บันทึกการตรวจสอบ SharePoint และ OneDrive**: สำหรับข้อมูลเพิ่มเติมเกี่ยวกับวิธีการกู้คืนเหตุการณ์เหล่านี้โปรดดู[ที่การค้นหาบันทึกการตรวจสอบ](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance#search-the-audit-log)
+- ข้อความ**แจ้งเตือนที่ส่งโดยการป้องกันภัยคุกคามขั้นสูง**: ดู[ATP สำหรับ SharePoint และ OneDrive](https://docs.microsoft.com/office365/securitycompliance/atp-for-spo-odb-and-teams)
+- ข้อความ**แจ้งเตือนที่ส่งโดยตำรวจป้องกันข้อมูลสูญหาย**: ดู[การแจ้งเตือนทาง EMAIL สำหรับนโยบาย DLP](https://docs.microsoft.com/office365/securitycompliance/use-notifications-and-policy-tips)
 
 ## <a name="related-topics"></a>หัวข้อที่เกี่ยวข้อง
 
-ต้องการลองกระแส Microsoft ใน SharePoint แบบออนไลน์หรือไม่
+ต้องการลองการไหลของ Microsoft ใน SharePoint แบบออนไลน์หรือไม่
 
-- [สร้างขั้นตอน](https://support.office.com/article/create-a-flow-for-a-list-or-library-in-sharepoint-online-or-onedrive-for-business-a9c3e03b-0654-46af-a254-20252e580d01)
+- [สร้างโฟลว์](https://support.office.com/article/a9c3e03b-0654-46af-a254-20252e580d01)
 
-- [SharePoint และขั้นตอน](https://flow.microsoft.com/en-us/blog/sharepoint-and-flow/)
+- [SharePoint และการไหล](https://flow.microsoft.com//blog/sharepoint-and-flow/)

@@ -1,6 +1,6 @@
 ---
-title: การสร้างไซต์
-ms.author: kirks
+title: สร้างไซต์
+ms.author: pebaum
 author: Techwriter40
 ms.date: 9/6/2018
 ms.audience: ITPro
@@ -8,23 +8,23 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 9f8e385b-dd2c-4d4e-b5f0-e28a24db4d83
-ms.openlocfilehash: 58cf404b092794218dea8b6b89a89d218a8bdd7c
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 76f963d0efded0aadba1e10d217e7f146a8707f3
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36515907"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36747551"
 ---
-# <a name="create-a-site"></a>การสร้างไซต์
+# <a name="create-a-site"></a>สร้างไซต์
 
-- ไป[หน้าไซต์ใน Microsoft 365 admin ศูนย์](https://portal.office.com/adminportal/home#/SitesList)และจากนั้น เลือก**เพิ่มไซต์** 
+- ไปที่[หน้าไซต์ในศูนย์ดูแลของ Microsoft ๓๖๕](https://portal.office.com/adminportal/home#/SitesList)และจากนั้นเลือก**เพิ่มไซต์** 
     
-- ในใหม่ SharePoint admin ศูนย์ บนหน้าไซต์ คลิก**สร้าง** 
+- ในศูนย์กลางการดูแล SharePoint ใหม่บนหน้าไซต์ให้คลิ**กสร้าง** 
     
- **หมายเหตุ:** คุณไม่สามารถสร้างไซต์ใหม่ที่มี URL เดียวกันกับไซต์ที่มีอยู่ 
+ **หมายเหตุ:** คุณไม่สามารถสร้างไซต์ใหม่ที่มี URL เดียวกันกับไซต์ที่มีอยู่แล้วได้ 
   
-สำหรับข้อมูลเพิ่มเติมเกี่ยวกับการสร้างไซต์ ดู[การสร้างไซต์](https://go.microsoft.com/fwlink/?linkid=866295)
+สำหรับข้อมูลเพิ่มเติมเกี่ยวกับการสร้างไซต์โปรดดู[สร้างไซต์](https://go.microsoft.com/fwlink/?linkid=866295)
   
-สำหรับข้อมูลเกี่ยวกับการอนุญาตให้ผู้ใช้สร้างไซต์ของตนเอง ดู[การสร้างไซต์การจัดการใน SharePoint แบบออนไลน์](https://go.microsoft.com/fwlink/?linkid=866296)
+สำหรับข้อมูลเกี่ยวกับการอนุญาตให้ผู้ใช้สร้างไซต์ของตนเองให้ดู[ที่จัดการการสร้างไซต์ใน SharePoint แบบออนไลน์](https://go.microsoft.com/fwlink/?linkid=866296)
   
 

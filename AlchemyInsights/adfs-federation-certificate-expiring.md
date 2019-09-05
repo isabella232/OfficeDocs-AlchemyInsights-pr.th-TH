@@ -1,5 +1,5 @@
 ---
-title: สหพันธรัฐ ADFS ใบรับรองหมดอายุ
+title: ใบรับรองสหพันธรัฐ ADFS หมดอายุ
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -13,21 +13,21 @@ ms.custom:
 - "645"
 - "1300012"
 ms.assetid: 26a7eebb-1424-4ddc-a123-af1cc94bc40f
-ms.openlocfilehash: c9922258c2d203cc07c1a1055ffa36c23a756115
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: eafd31e91340b41b7948fb1fe62889731b816d9a
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36499910"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36737208"
 ---
-# <a name="adfs-federation-certificate-expiring"></a>สหพันธรัฐ ADFS ใบรับรองหมดอายุ
+# <a name="adfs-federation-certificate-expiring"></a>ใบรับรองสหพันธรัฐ ADFS หมดอายุ
 
-เมื่อต้องการแก้ไขปัญหานี้ ให้ทำตามขั้นตอนเหล่านี้:
+การแก้ไขปัญหานี้ให้ทำตามขั้นตอนเหล่านี้:
   
-1. ติดตั้ง Microsoft Azure ใช้งานไดเรกทอรีของโมดูลสำหรับ Windows PowerShell บนคอมพิวเตอร์ (ถ้าโมดูลที่ไม่ได้ติดตั้งไว้แล้ว) เมื่อต้องการทำเช่นนี้ ไปที่[จัดการโฆษณา Azure โดยใช้ Windows PowerShell](https://aka.ms/aadposh)
+1. ติดตั้ง Microsoft Azure ไดเรกทอรีที่ใช้งานอยู่โมดูลของ Windows PowerShell บนคอมพิวเตอร์ (ถ้าโมดูลไม่ได้ติดตั้งอยู่แล้ว) การทำเช่นนี้ไป[จัดการโฆษณา Azure โดยใช้ Windows PowerShell](https://aka.ms/aadposh)
 
-2. ทำตามขั้นตอนในการ "สถานการณ์สมมติ 1: ใบรับรองการเซ็นชื่อโทเค็น FS โฆษณาที่หมดอายุแล้ว" ส่วนของ["มีปัญหาในการเข้าถึงไซต์" ข้อผิดพลาดจาก FS โฆษณาเมื่อผู้ใช้ติดต่อกับภายนอกที่ลงทะเบียนใน Office 365, Azure หรือ Intune](https://support.microsoft.com/help/2713898/there-was-a-problem-accessing-the-site-error-from-ad-fs-when-a-federat)
+2. ทำตามขั้นตอนใน "สถานการณ์สมมติ 1: โฆษณา FS โทเค็นการเซ็นชื่อที่หมดอายุ" ของ["มีปัญหาในการเข้าถึงไซต์" ข้อผิดพลาดจาก FS โฆษณาเมื่อผู้ใช้ที่ติดต่อกับภายนอกที่ลงทะเบียนในการ Office ๓๖๕, Azure หรือ Intune](https://support.microsoft.com/help/2713898/there-was-a-problem-accessing-the-site-error-from-ad-fs-when-a-federat)
 
-3. ทำตามขั้นตอนใน[วิธีการปรับปรุง หรือซ่อมแซมการตั้งค่าของโดเมนใน Office 365, Azure หรือ Intune ที่ติดต่อกับภายนอก](https://support.microsoft.com/help/2647048/how-to-update-or-repair-the-settings-of-a-federated-domain-in-office-3)
+3. ทำตามขั้นตอนในการ[ปรับปรุงหรือซ่อมแซมการตั้งค่าของโดเมนที่ติดต่อกับภายนอกใน Office ๓๖๕, Azure หรือ Intune](https://docs.microsoft.com/office365/troubleshoot/security/update-federated-domain-office-365)
 
-    เมื่อต้องการเรียนรู้เพิ่มเติมเกี่ยวกับการต่ออายุใบรับรองสหพันธรัฐ ดู[ใบรับรองสหพันธรัฐต่ออายุสำหรับ Office 365 และไดเรกทอรีที่ใช้งานอยู่ของ Azure](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-o365-certs)
+    หากต้องการเรียนรู้เพิ่มเติมเกี่ยวกับการต่ออายุใบรับรองของสหพันธรัฐโปรดดู[ใบรับรองสหพันธรัฐสำหรับ Office ๓๖๕และไดเรกทอรีที่ใช้งานอยู่ของ Azure](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-o365-certs)

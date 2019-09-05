@@ -1,5 +1,5 @@
 ---
-title: มีปัญหาการส่งอีเมลหรือไม่
+title: มีปัญหาการส่งผ่านทาง email หรือไม่
 ms.author: v-crytho
 author: CrystalThomasMS
 ms.date: 8/21/2017
@@ -13,22 +13,21 @@ ms.custom:
 - "875"
 - "876"
 - "3100010"
-ms.openlocfilehash: a18878032c2da76c930c6d4d3fa572f46350de39
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 031b79da47892b4449bfd3d6f1157d1c41e60473
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36523386"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36739800"
 ---
-# <a name="having-email-delivery-issues"></a>มีปัญหาการส่งอีเมลหรือไม่
+# <a name="having-email-delivery-issues"></a>มีปัญหาการส่งผ่านทาง email หรือไม่
 
-เราได้ตรวจพบว่า ผู้ใช้ของคุณไม่ได้รับอีเมล์ที่ส่งไป domain(s) ต่อไปนี้:
+เราตรวจพบว่าผู้ใช้ของคุณไม่สามารถรับเมลที่ส่งไปยังโดเมนต่อไปนี้:
   
-{HealthCheckString }
+{HealthCheckString}
   
-ระเบียน NS หรือ MX ของโดเมน (DNS) ตั้งค่าไม่ได้ถูกกำหนดค่าอย่างถูกต้องสำหรับการส่งอีเมกับบริการของ Office 365 คุณสามารถอ้างอิงไปยัง[ระเบียน DNS ที่ปรับปรุงใน Office 365](https://support.office.com/article/Create-DNS-records-for-Office-365-when-you-manage-your-DNS-records-B0F3FDCA-8A80-4E8E-9EF3-61E8A2A9AB23.aspx)สำหรับคำแนะนำโดยละเอียด
+ระเบียน NS หรือ MX ของการตั้งค่าโดเมน (DNS) ไม่ได้ถูกกำหนดค่าอย่างถูกต้องสำหรับการส่งทางไปรษณีย์ไปยังบริการ Office ๓๖๕ของคุณ คุณสามารถอ้างอิงถึง[สร้างระเบียน dns ที่ผู้ให้บริการโฮสต์ DNS ใดๆสำหรับ Office ๓๖๕](https://docs.microsoft.com/office365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider)สำหรับคำแนะนำโดยละเอียด
   
-เมื่อต้องการแก้ไขปัญหา โปรดไปที่หน้า[โดเมน](https://admin.microsoft.com/adminportal/home#/Domains)ใน Microsoft 365 admin ศูนย์ ทางเราจะช่วยคุณได้ด้วย
+หากต้องการแก้ไขโปรดไปที่หน้า[โดเมน](https://admin.microsoft.com/adminportal/home#/Domains)ในศูนย์ดูแลของ Microsoft ๓๖๕และเราจะช่วยคุณได้
   
-การ[ตรวจสอบโดเมน FAQ](https://support.office.com/article/7b7b075d-79f9-4e37-8a9e-fb60c1d95166.aspx)วิธีแก้ไขปัญหาทั่วไปอื่น ๆ
   

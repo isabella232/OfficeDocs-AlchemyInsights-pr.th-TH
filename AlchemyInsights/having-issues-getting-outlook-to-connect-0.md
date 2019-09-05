@@ -1,5 +1,5 @@
 ---
-title: มีปัญหาการรับ Outlook เพื่อเชื่อมต่อหรือไม่
+title: มีปัญหาในการรับ Outlook เพื่อเชื่อมต่อหรือไม่
 ms.author: v-crytho
 author: CrystalThomasMS
 ms.date: 8/22/2017
@@ -8,23 +8,22 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 77223f73-5de2-45fd-b1d9-b66460148314
-ms.openlocfilehash: 9fc653723e873ca11d83b363af938589b1a5a87b
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 1167b104ca86c4823da578b0dc9dbb708ec8b6c6
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36523278"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36739728"
 ---
-# <a name="having-issues-getting-outlook-to-connect"></a>มีปัญหาการรับ Outlook เพื่อเชื่อมต่อหรือไม่
+# <a name="having-issues-getting-outlook-to-connect"></a>มีปัญหาในการรับ Outlook เพื่อเชื่อมต่อหรือไม่
 
-เราได้ตรวจพบว่า Outlook ไม่ได้กำหนดค่าให้ทำงานได้อย่างถูกต้องภายใต้การ domain(s) ต่อไปนี้:
+เราตรวจพบว่า Outlook ไม่ได้รับการกำหนดค่าให้ทำงานอย่างถูกต้องภายใต้โดเมนต่อไปนี้:
   
-{HealthCheckString }
+{HealthCheckString}
   
-NS หรือระเบียน CNAME ระเบียนของการตั้งค่าโดเมน (DNS) ไม่ได้ตั้งค่าอย่างถูกต้อง คุณสามารถอ้างอิงไปยัง[ระเบียน DNS ที่ปรับปรุงใน Office 365](https://support.office.com/article/Create-DNS-records-for-Office-365-when-you-manage-your-DNS-records-B0F3FDCA-8A80-4E8E-9EF3-61E8A2A9AB23.aspx)สำหรับคำแนะนำโดยละเอียด 
+ระเบียน NS หรือ CNAME ของการตั้งค่าโดเมน (DNS) ไม่ได้ตั้งค่าอย่างถูกต้อง คุณสามารถอ้างอิงถึง[สร้างระเบียน dns ที่ผู้ให้บริการโฮสต์ DNS ใดๆสำหรับ Office ๓๖๕](https://docs.microsoft.com/office365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider)สำหรับคำแนะนำโดยละเอียด 
   
-เมื่อต้องการแก้ไขปัญหา โปรดไปที่หน้า[โดเมน](https://admin.microsoft.com/adminportal/home#/Domains)ใน Microsoft 365 admin ศูนย์ ทางเราจะช่วยคุณได้ด้วย 
-  
-การ[ตรวจสอบโดเมน FAQ](https://support.office.com/article/7b7b075d-79f9-4e37-8a9e-fb60c1d95166.aspx)วิธีแก้ไขปัญหาทั่วไปอื่น ๆ 
+หากต้องการแก้ไขโปรดไปที่หน้า[โดเมน](https://admin.microsoft.com/adminportal/home#/Domains)ในศูนย์ดูแลของ Microsoft ๓๖๕และเราจะช่วยคุณได้ 
+
   
 

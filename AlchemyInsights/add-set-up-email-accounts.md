@@ -1,5 +1,5 @@
 ---
-title: 1800018 เพิ่ม/การตั้งค่าบัญชีอีเมล
+title: ๑๘๐๐๐๑๘เพิ่ม/ตั้งค่าบัญชีทางเมล
 ms.author: pdigia
 author: pebaum
 manager: scotv
@@ -13,16 +13,16 @@ ms.custom:
 - "935"
 - "1800018"
 ms.assetid: 20ea6700-31b5-4491-aaf3-40ddd775e8a3
-ms.openlocfilehash: 26e4840f0feb38d8e12c593c00953c376d0817f8
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 67420eb543762a42a93c7f727ea5bb5345e00bc8
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36494978"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36738000"
 ---
-# <a name="problems-setting-up-an-exchange-email-account-in-outlook"></a>ปัญหาการตั้งค่าบัญชีผู้ใช้อีเมล Exchange ใน Outlook
+# <a name="problems-setting-up-an-exchange-email-account-in-outlook"></a>ปัญหาในการตั้งค่าบัญชีส่งเมล์ของ Exchange ใน Outlook
 
-ถ้าคุณกำลังมีปัญหาในการตั้งค่าบัญชีผู้ใช้ Exchange ใน Outlook คุณสามารถเรียกใช้เครื่อง[มือการตั้งค่าบัญชี Outlook](https://aka.ms/SaRA-OutlookSetupProfile)บนเครื่องคอมพิวเตอร์ที่ได้รับผลกระทบ จะทำการตรวจสอบที่หลากหลาย และให้การแก้ไขปัญหาการตัดสินค้าจากคลังการตั้งค่าบัญชีของคุณ
+หากคุณมีปัญหาในการตั้งค่าบัญชี Exchange ใน Outlook คุณสามารถเรียกใช้[เครื่องมือการตั้งค่าบัญชี Outlook](https://aka.ms/SaRA-OutlookSetupProfile)บนเครื่องที่ได้รับผลกระทบ จะทำการตรวจสอบต่างๆและให้การแก้ปัญหาที่เป็นไปได้ในการตั้งค่าบัญชีของคุณ
   
-ถ้าคุณยังคงมีปัญหา ดู[Outlook ไม่สามารถตั้งค่าส่วนกำหนดค่าใหม่โดยใช้การค้นหาอัตโนมัติ Exchange สำหรับกล่องจดหมายการแลกเปลี่ยนแบบออนไลน์ใน Office 365](https://support.microsoft.com/help/2404385/outlook-can-t-set-up-a-new-profile-by-using-exchange-autodiscover-for)
+ถ้าคุณยังคงมีปัญหาอยู่โปรดดู[ที่ Outlook ไม่สามารถตั้งค่าโพรไฟล์ใหม่โดยใช้การค้นหาอัตโนมัติของอัตราแลกเปลี่ยนสำหรับกล่องจดหมาย Exchange แบบออนไลน์ใน Office ๓๖๕](https://docs.microsoft.com/exchange/troubleshoot/outlook-profiles/cannot-set-up-profile-autodiscover)
   

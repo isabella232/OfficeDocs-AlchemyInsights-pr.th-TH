@@ -1,5 +1,5 @@
 ---
-title: 912 บ็อกซ์ Focused ตั้งค่าคอนฟิกสำหรับทุกคนในองค์กรของคุณ
+title: ๙๑๒กำหนดค่ากล่องขาเข้าที่โฟกัสสำหรับทุกคนในองค์กรของคุณ
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -12,15 +12,15 @@ ms.custom:
 - "912"
 - "1800019"
 ms.assetid: bad7a7f6-0c68-497a-8637-aae49355034a
-ms.openlocfilehash: d5b8825bede8ff17a10dba09f269320e17b13354
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 672348fa3f34157c190b6d986309b8ed141e02f2
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36504734"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36738432"
 ---
-# <a name="turn-focused-inbox-on-or-off-for-everyone"></a>กล่องเน้นขาเข้า หรือออกจากการเปิดใช้งานสำหรับทุกคน
+# <a name="turn-focused-inbox-on-or-off-for-everyone"></a>เปิดหรือปิดกล่องขาเข้าที่มุ่งเน้นสำหรับทุกคน
 
-สำหรับคำแนะนำ ดูการ[ตั้งค่าคอนฟิกเน้นกล่องขาเข้าสำหรับทุกคนในองค์กรของคุณ](https://support.office.com/article/613a845c-4b71-41de-b331-acdcf5b6625d.aspx)
+สำหรับคำแนะนำโปรดดูที่[กำหนดค่ากล่องขาเข้าที่เน้นสำหรับทุกคนในองค์กรของคุณ](https://docs.microsoft.com/office365/admin/setup/configure-focused-inbox)
 
-**หมายเหตุ**: กระบวนการนี้ต้องใช้ PowerShell ออนไลน์ของ Exchange คุณต้องการทำเช่นนี้ใน Microsoft 365 admin ศูนย์แทนหรือไม่ [ลงคะแนนที่นี่](https://go.microsoft.com/fwlink/p/?linkid=862489)
+**หมายเหตุ**: ขั้นตอนนี้จำเป็นต้องใช้ PowerShell แบบออนไลน์ของอัตราแลกเปลี่ยน คุณต้องการทำสิ่งนี้ในศูนย์กลางการดูแลระบบ Microsoft ๓๖๕แทนหรือไม่ [ออกเสียงลงคะแนนที่นี่!](https://go.microsoft.com/fwlink/p/?linkid=862489)

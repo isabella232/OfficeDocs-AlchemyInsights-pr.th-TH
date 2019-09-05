@@ -1,6 +1,6 @@
 ---
 title: จำกัดการเข้าถึงใน SharePoint หรือ OneDrive
-ms.author: kirks
+ms.author: pebaum
 author: Techwriter40
 ms.date: 8/7/2018
 ms.audience: ITPro
@@ -8,40 +8,40 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: af1b936b-0475-497b-a6d3-e671aef7b717
-ms.openlocfilehash: 84f2d4b6e5fd2380a2fa96e30953c68aab203cd3
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: bef0612903b9bb455aa34e90d35d6b7b9093b4e0
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36559896"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36750683"
 ---
 # <a name="restrict-access-in-sharepoint-or-onedrive"></a>จำกัดการเข้าถึงใน SharePoint หรือ OneDrive
 
-มีหลายวิธีในการจำกัดการเข้าถึงบริการ ออนไลน์/OneDrive ของ SharePoint วิธีเข้าถึงข้อจำกัดต่าง ๆ จะถูกทำเค้าร่างด้านล่าง 
+มีหลายวิธีในการจำกัดการเข้าถึงบริการ SharePoint แบบออนไลน์/OneDrive วิธีการจำกัดการเข้าถึงต่างๆเหล่านี้มีการระบุไว้ด้านล่าง 
 
-**การจำกัดสิทธิ์**
+**ข้อจำกัดสิทธิ์**
 
-ใน SharePoint แบบออนไลน์และ OneDrive สำหรับธุรกิจ เราจำกัดการเข้าถึงรายการอย่างเช่นไซต์ แฟ้ม และโฟลเดอร์ โดยเฉพาะ สิทธิการเข้าถึงกลุ่ม/ผู้ใช้เหล่านั้นควรมีการเข้าถึง
+ใน SharePoint แบบออนไลน์และ OneDrive สำหรับธุรกิจเราจำกัดการเข้าถึงรายการต่างๆเช่นไซต์แฟ้มและโฟลเดอร์โดยการให้สิทธิ์เข้าถึงกลุ่มเหล่านั้น/บุคคลที่ควรมีการเข้าถึง
 
-- [กำหนดสิทธิ์สำหรับรายการ SharePoint หรือไลบรารี](https://support.office.com/article/Customize-permissions-for-a-SharePoint-list-or-library-02d770f3-59eb-4910-a608-5f84cc297782)
+- [กำหนดสิทธิ์สำหรับรายการหรือไลบรารี SharePoint](https://support.office.com/article/Customize-permissions-for-a-SharePoint-list-or-library-02d770f3-59eb-4910-a608-5f84cc297782)
 
-- [กำหนดสิทธิ์ของไซต์ SharePoint](https://docs.microsoft.com/sharepoint/customize-sharepoint-site-permissions)
+- [การกำหนดสิทธิ์ของไซต์ SharePoint เอง](https://docs.microsoft.com/sharepoint/customize-sharepoint-site-permissions)
 
-- [เปลี่ยนแปลงสิทธิ์บนโฟลเดอร์ย่อย](https://support.office.com/article/Change-the-permissions-on-a-subfolder-5427BD7C-F20A-4F75-8CF2-5359DD45A1A6)
+- [การเปลี่ยนแปลงสิทธิ์บนโฟลเดอร์ย่อย](https://support.office.com/article/Change-the-permissions-on-a-subfolder-5427BD7C-F20A-4F75-8CF2-5359DD45A1A6)
 
-- [ควบคุมการเข้าถึงจากอุปกรณ์ไม่มีการจัดการ](https://docs.microsoft.com/sharepoint/control-access-from-unmanaged-devices)
+- [ควบคุมการเข้าถึงจากอุปกรณ์ที่ไม่มีการจัดการ](https://docs.microsoft.com/sharepoint/control-access-from-unmanaged-devices)
 
-เป็นผู้ดูแลส่วนกลางใน Office 365 หรือ SharePoint คุณสามารถบล็อก หรือจำกัดการเข้าถึงเนื้อหา SharePoint และ OneDrive จากอุปกรณ์ไม่มีการจัดการ (เหล่าไฮบริโฆษณาที่นำมารวมกัน หรือเข้ากันได้ใน Intune) ได้
+ในฐานะที่เป็น SharePoint หรือผู้ดูแลส่วนกลางใน Office ๓๖๕คุณสามารถบล็อกหรือจำกัดการเข้าถึงเนื้อหา SharePoint และ OneDrive จากอุปกรณ์ที่ไม่มีการจัดการ (ผู้ที่ไม่ได้เป็นสมาชิกไฮบริดสลีเข้าร่วมหรือสอดคล้องกันใน Intune)
 
-**ข้อจำกัดของตำแหน่งที่ตั้งเครือข่าย**
+**ข้อจำกัดตำแหน่งเครือข่าย**
 
-เป็นผู้ดูแลระบบ IT ผิด คุณสามารถควบคุมการเข้าถึงทรัพยากร SharePoint และ OneDrive โดยยึดตามตำแหน่งที่ตั้งเครือข่ายที่กำหนดที่คุณเชื่อถือ นี่คือหรือที่เรียกอีกอย่างหนึ่งว่านโยบายที่อ้างอิงตำแหน่งที่ตั้ง สำหรับข้อมูลเพิ่มเติม โปรดดูที่[ควบคุมการเข้าถึงแบบออนไลน์ของ SharePoint และข้อมูล OneDrive โดยยึดตามตำแหน่งที่ตั้งเครือข่าย](https://docs.microsoft.com/sharepoint/control-access-based-on-network-location)
+ในฐานะที่เป็นผู้ดูแลระบบไอทีคุณสามารถควบคุมการเข้าถึงทรัพยากร SharePoint และ OneDrive ตามตำแหน่งบนเครือข่ายที่กำหนดไว้ที่คุณเชื่อถือได้ ซึ่งเรียกอีกอย่างว่านโยบายตามตำแหน่งที่ตั้ง สำหรับข้อมูลเพิ่มเติมโปรดดู[การควบคุมการเข้าถึงข้อมูล SharePoint แบบออนไลน์และ OneDrive ตามตำแหน่งบนเครือข่าย](https://docs.microsoft.com/sharepoint/control-access-based-on-network-location)
 
-**ข้อจำกัดการล็อกไซต์** 
+**ข้อจำกัดในการล็อกเว็บไซต์** 
 
-ภายใน SharePoint แบบออนไลน์ คุณมีความสามารถในการล็อกไซต์คอลเลกชัน เพื่อให้ไม่มีผู้ใดมีสิทธิ์เข้าถึง การกระทำนี้จะตั้งผ่านทาง PowerShell และ[เชลล์จัดการออนไลน์ของ SharePoint](https://docs.microsoft.com/powershell/sharepoint/sharepoint-online/connect-sharepoint-online?view=sharepoint-ps)โดยใช้คุณสมบัติ[ชุด-SPOSite](https://docs.microsoft.com/powershell/module/sharepoint-online/set-sposite?view=sharepoint-ps) - LockState
+ภายใน SharePoint แบบออนไลน์คุณมีความสามารถในการล็อกชุดเก็บรวบรวมไซต์ดังนั้นไม่มีใครมีการเข้าถึง นี้ถูกตั้งค่าผ่านทาง PowerShell และ[เชลล์จัดการออนไลน์ของ SharePoint](https://docs.microsoft.com/powershell/sharepoint/sharepoint-online/connect-sharepoint-online?view=sharepoint-ps)โดยใช้คุณสมบัติการ[ตั้งค่าเว็บไซต์](https://docs.microsoft.com/powershell/module/sharepoint-online/set-sposite?view=sharepoint-ps)-lockstate
 
-**จำกัดผู้ใช้จากการสร้างไซต์หรือไซต์ย่อย**
+**การจำกัดผู้ใช้จากการสร้างไซต์หรือไซต์ย่อย**
 
-เป็นผู้ดูแลระบบ SharePoint หรือผู้ดูแลส่วนกลางของ Office 365 คุณสามารถให้ผู้ใช้ของคุณสร้าง และการดูแลไซต์ SharePoint ของตนเอง กำหนดชนิดของไซต์ที่พวกเขาสามารถสร้าง และระบุที่ตั้งของไซต์ได้ สำหรับข้อมูลเพิ่มเติม โปรดดู[การสร้างไซต์การจัดการใน SharePoint แบบออนไลน์](https://docs.microsoft.com/sharepoint/manage-site-creation)
+ในฐานะที่เป็นผู้ดูแลระบบ SharePoint หรือ Office ๓๖๕ผู้ดูแลส่วนกลางคุณสามารถให้ผู้ใช้ของคุณสร้างและดูแลไซต์ SharePoint ของตนเองได้กำหนดชนิดของไซต์ที่พวกเขาสามารถสร้างและระบุตำแหน่งที่ตั้งของไซต์ สำหรับข้อมูลเพิ่มเติมโปรดดู[จัดการการสร้างไซต์ใน SharePoint แบบออนไลน์](https://docs.microsoft.com/sharepoint/manage-site-creation)
 

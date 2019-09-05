@@ -1,6 +1,6 @@
 ---
 title: เริ่มต้นใช้งาน SharePoint แบบออนไลน์
-ms.author: kirks
+ms.author: pebaum
 author: Techwriter40
 manager: pamgreen
 ms.audience: Admin
@@ -10,24 +10,24 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 7ae05f21-eb16-4d71-9e19-4f097eb100d2
-ms.openlocfilehash: ae27a9fc342eb4fc4633ffd5518d63600b978db8
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 4c0220dd2535a1ef41aeef99e2bfc3fe28bac03a
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36504014"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36751691"
 ---
 # <a name="workflows-in-sharepoint"></a>เวิร์กโฟลว์ใน SharePoint
 
-ถ้าเวิร์กโฟลว์ SharePoint ไม่ได้กำลังส่งอีเมล์ องค์กรของคุณอาจจะพบขีดจำกัดผู้ส่งอัตราแลกเปลี่ยนแบบออนไลน์
+ถ้าเวิร์กโฟลว์ SharePoint จะไม่ส่งเมลองค์กรของคุณอาจพบข้อจำกัดของผู้ส่งการแลกเปลี่ยนแบบออนไลน์
 
-ข้อความแสดงข้อผิดพลาด 'ลำดับงานหยุดการทำงาน' จะเกิดขึ้นถ้าคุณมีตัวเลือกอย่างใดอย่างหนึ่งต่อไปนี้:
+ข้อความข้อผิดพลาด ' เวิร์กโฟลว์ถูกระงับ ' อาจเกิดขึ้นได้ถ้าคุณมีหนึ่งในรายการต่อไปนี้:
 
-- คุณมีลำดับงานใน SharePoint แบบออนไลน์ที่กำลังใช้ SharePoint 2010 หรือชนิดแพลตฟอร์มเวิร์กโฟลว์ SharePoint 2013 ในส่วน
+- คุณมีเวิร์กโฟลว์ใน SharePoint แบบออนไลน์ที่ใช้ SharePoint ๒๐๑๐หรือ SharePoint ๒๐๑๓ชนิดแพลตฟอร์มเวิร์กโฟลว์
 
-- เวิร์กโฟลว์ถูกกำหนดค่าให้ส่งข้อความอีเมลที่กำหนดเองแก่ผู้ใช้มากกว่า 200 ในแต่ละครั้ง ผู้รับมากกว่า 10000 ต่อวัน หรือข้อความมากกว่า 30 ต่อนาที
+- เวิร์กโฟลว์ถูกกำหนดค่าให้ส่งข้อความเมลแบบกำหนดเองไปยังผู้ใช้มากกว่า๒๐๐ในแต่ละครั้งมากกว่า๑๐,๐๐๐ผู้รับต่อวันหรือมากกว่า30ข้อความต่อนาที
 
-เมื่อคุณเรียกใช้เวิร์กโฟลว์ ไม่ได้ส่งข้อความอีเมล และคุณพบข้อผิดพลาด ภายในสถานะถูกตั้งค่าเป็นระงับหรือไม่เมื่อต้องการส่งไปยังผู้รับจะแสดงขึ้น
+เมื่อคุณเรียกใช้เวิร์กโฟลว์ไม่ได้ส่งข้อความจดหมายและคุณสังเกตเห็นข้อผิดพลาดสถานะภายในถูกตั้งค่าเป็นระงับหรือไม่สามารถส่งไปยังผู้รับจะแสดงขึ้น
 
-สำหรับข้อมูลเพิ่มเติม โปรดดูที่[บท](https://support.office.com/article/-daily-email-limit-has-exceeded-and-your-workflow-has-been-suspended-or-unable-to-send-to-a-recipient-error-in-a-sharepoint-online-workflow-89d02169-5fa6-4259-affc-73edb6ca9fb6?ui=en-US&amp;rs=en-US&amp;ad=US)ความต่อไปนี้
+สำหรับข้อมูลเพิ่มเติมโปรดดูที่[บทความ](https://docs.microsoft.com/sharepoint/support/workflows/configured-workflow-fails-running)ต่อไปนี้
 

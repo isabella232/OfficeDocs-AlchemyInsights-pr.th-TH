@@ -1,5 +1,5 @@
 ---
-title: ป้ายชื่อความอ่อนไหวไม่ปรากฏ
+title: ไม่ปรากฏป้ายชื่อความไว
 ms.author: stephow
 author: stephow-MSFT
 manager: laurawi
@@ -12,25 +12,25 @@ localization_priority: Normal
 ms.custom:
 - "1778"
 - "9000181"
-ms.openlocfilehash: be5fac4cf4f1516575b8310347dd1d1948010538
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: eea2d28b754ec87289984068b9e3330b9f10dd5b
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36504554"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36744840"
 ---
-# <a name="sensitivity-labels-not-appearing"></a>ป้ายชื่อความอ่อนไหวไม่ปรากฏ
+# <a name="sensitivity-labels-not-appearing"></a>ไม่ปรากฏป้ายชื่อความไว
 
-ป้ายชื่อระดับความลับช่วยให้คุณจัดประเภท และช่วยป้องกันเนื้อหาที่เป็นความลับของคุณ เมื่อต้องการเรียนรู้เพิ่มเติมเกี่ยวกับคุณลักษณะนี้ ดู[ภาพรวมของป้ายความไว](https://docs.microsoft.com/office365/securitycompliance/sensitivity-labels)
+ป้ายความไวช่วยให้คุณสามารถจัดประเภทและช่วยปกป้องเนื้อหาที่ละเอียดอ่อนของคุณ หากต้องการเรียนรู้เพิ่มเติมเกี่ยวกับคุณลักษณะนี้โปรดดูที่[ภาพรวมของป้ายความไว](https://docs.microsoft.com/office365/securitycompliance/sensitivity-labels)
 
-ถ้าคุณตั้งค่าคอนฟิกส่วนประกอบของป้ายความอ่อนไหวของคุณ แต่จะไม่ปรากฏในโปรแกรมประยุกต์ Office ตรวจสอบต่อไปนี้:
+หากคุณกำหนดค่าป้ายความไวของคุณแต่จะไม่ปรากฏในแอป Office ให้ตรวจสอบสิ่งต่อไปนี้:
 
-- ยืนยันว่า ป้ายชื่อความไวได้รับการ[เผยแพร่](https://docs.microsoft.com/Office365/SecurityCompliance/sensitivity-labels#what-label-policies-can-do)ไปยังผู้ใช้และกลุ่มที่คุณต้องการ
+- ยืนยันว่าป้ายความไวได้รับการ[เผยแพร่](https://docs.microsoft.com/Office365/SecurityCompliance/sensitivity-labels#what-label-policies-can-do)ไปยังผู้ใช้และกลุ่มที่คุณต้องการ
 
-- ยืนยันว่า ผู้ใช้มีโปรแกรมประยุกต์ที่สนับสนุนความไวป้าย - ดู[ป้ายความไวในเอกสารของคุณ](https://support.office.com/article/apply-sensitivity-labels-to-your-documents-and-email-within-office-2f96e7cd-d5a4-403b-8bd7-4cc636bae0f9?ad=US&ui=en-US&rs=en-US#bkmk_whereavailable)
+- ยืนยันว่าผู้ใช้กำลังใช้แอปที่รองรับป้ายความไว-ดูเล[เบลไวในเอกสารของคุณ](https://support.office.com/article/apply-sensitivity-labels-to-your-documents-and-email-within-office-2f96e7cd-d5a4-403b-8bd7-4cc636bae0f9?ad=US&ui=en-US&rs=en-US#bkmk_whereavailable)
 
-- ถ้าคุณกำลัง[ย้ายป้ายชื่อ Azure การป้องกันข้อมูล](https://docs.microsoft.com/azure/information-protection/configure-policy-migrate-labels)ระวังการพิจารณาแสดงไว้[ที่นี่](https://docs.microsoft.com/azure/information-protection/configure-policy-migrate-labels#considerations-for-unified-labels)
+- ถ้าคุณกำลัง[ย้ายป้ายชื่อการป้องกันข้อมูล Azure](https://docs.microsoft.com/azure/information-protection/configure-policy-migrate-labels)โปรดทราบถึงข้อควรพิจารณาที่ระบุไว้ที่[นี่](https://docs.microsoft.com/azure/information-protection/configure-policy-migrate-labels#considerations-for-unified-labels)
 
-- สนับสนุนการป้องกันการสูญหายของข้อมูล (DLP): ขณะนี้ เก็บข้อมูลป้ายชื่อเท่านั้นสามารถใช้เป็นเงื่อนไขในนโยบาย DLP ได้  การสนับสนุนสำหรับป้ายชื่อความไวในนโยบาย DLP ยังไม่พร้อมใช้งานได้ แต่เรากำลังทำงานอยู่
+- การสนับสนุนการป้องกันการสูญหายของข้อมูล (DLP): ปัจจุบันเฉพาะป้ายเก็บข้อมูลเท่านั้นที่สามารถใช้เป็นเงื่อนไขในนโยบาย DLP  การสนับสนุนสำหรับป้ายความไวในนโยบาย DLP ยังไม่พร้อมใช้งานแต่เรากำลังทำงานอยู่
 
-สำหรับข้อมูลเพิ่มเติมเกี่ยวกับปัญหาที่เป็นไปได้ ดู[ปัญหากับป้ายชื่อระดับความลับที่ทราบ](https://support.office.com/article/known-issues-with-sensitivity-labels-in-office-b169d687-2bbd-4e21-a440-7da1b2743edc?ui=en-US&rs=en-US&ad=US)
+สำหรับข้อมูลเพิ่มเติมเกี่ยวกับปัญหาที่เป็นไปได้โปรดดู[ปัญหาที่ทราบด้วยป้ายความไว](https://support.office.com/article/known-issues-with-sensitivity-labels-in-office-b169d687-2bbd-4e21-a440-7da1b2743edc)

@@ -1,5 +1,5 @@
 ---
-title: ตั้งค่ารหัสผ่านไม่หมดอายุ
+title: ตั้งรหัสผ่านให้ไม่มีวันหมดอายุ
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,17 +11,17 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: f5383fc3-d7fc-4efb-93b7-a520b374099a
-ms.openlocfilehash: 835998c6adfbd7c0f0024aecaa5181fc5d1d89a5
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: b74e12a2618ff34d27886eb6b8cf628f689307b8
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36550102"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36741132"
 ---
-# <a name="set-passwords-to-never-expire"></a>ตั้งค่ารหัสผ่านไม่หมดอายุ
+# <a name="set-passwords-to-never-expire"></a>ตั้งรหัสผ่านให้ไม่มีวันหมดอายุ
 
-ตั้งค่ารหัสผ่านไม่หมดอายุจาก[ความปลอดภัย&amp;ความเป็นส่วนตัว](https://portal.office.com/adminportal/home#/settings/security) คลิก "แก้ไข" ถัดจากนโยบายรหัสผ่าน และพลิกแถบเลื่อนไปที่ "ใน"
+ตั้งรหัสผ่านให้ไม่มีวันหมดอายุจากความ[เป็นส่วนตัวด้านความปลอดภัย&amp; ](https://portal.office.com/adminportal/home#/settings/security) คลิก "แก้ไข" ถัดจากนโยบายรหัสผ่านและเปิดแถบเลื่อนไปที่ "เปิด"
   
-สำหรับข้อมูลเพิ่มเติมดู:[การตั้งค่านโยบายการหมดอายุของรหัสผ่านสำหรับองค์กรของคุณ](https://support.office.com/article/set-the-password-expiration-policy-for-your-organization-0f54736f-eb22-414c-8273-498a0918678f)
+สำหรับรายละเอียดเพิ่มเติมโปรดดูที่:[ตั้งค่านโยบายการหมดอายุของรหัสผ่านสำหรับองค์กรของคุณ](https://docs.microsoft.com/office365/admin/manage/set-password-expiration-policy)
   
 

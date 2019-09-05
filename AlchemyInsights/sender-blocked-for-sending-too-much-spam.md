@@ -12,12 +12,12 @@ ms.custom:
 - "254"
 - "3500002"
 ms.assetid: 8282bd76-79f7-4f8a-ae2b-dc8f9ac1aa62
-ms.openlocfilehash: 05b961cec364bce694a8f39d9de245062bfdb859
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: 7e977f1393bb47cd2a4cb27ddef18f48105214a9
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36666355"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36744948"
 ---
 # <a name="account-is-blocked-for-sending-too-much-spam"></a>บัญชีถูกบล็อคสำหรับการส่งสแปมมากเกินไป
 
@@ -27,5 +27,5 @@ ms.locfileid: "36666355"
 
 2. ไปที่ผู้ใช้ที่ถูกจำกัดเพื่อยก**[เลิกการบล็อคบัญชี](https://protection.office.com/?hash=/restrictedusers)** ในศูนย์การปฏิบัติตามกฎระเบียบด้านความปลอดภัย&amp; เมื่อเสร็จแล้ว, คุณควรจะสามารถที่จะดำเนินการส่งข้อความ*ภายใน1ชั่วโมง*.
 
-3. เพื่อช่วยป้องกันการประนีประนอมบัญชีในอนาคตให้ทำตามคำแนะนำใน[แนวทางปฏิบัติด้านความปลอดภัยที่ดีที่สุดสำหรับ Office ๓๖๕](https://support.office.com/article/9295e396-e53d-49b9-ae9b-0b5828cdedc3.aspx)
+3. เพื่อช่วยป้องกันการประนีประนอมบัญชีในอนาคตให้ทำตามคำแนะนำใน[แผนงานความปลอดภัยของ Office ๓๖๕](https://docs.microsoft.com/office365/securitycompliance/security-roadmap)
   

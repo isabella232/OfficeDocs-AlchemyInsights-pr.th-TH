@@ -1,6 +1,6 @@
 ---
-title: คืนค่าโฟลเดอร์หรือแฟ้มที่ถูกลบไปแล้ว
-ms.author: kirks
+title: กู้คืนไฟล์หรือโฟลเดอร์ที่ถูกลบ
+ms.author: pebaum
 author: Techwriter40
 manager: pamgreen
 ms.audience: Admin
@@ -10,34 +10,34 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: ba1573a5-9f44-482b-8082-6f648f169449
-ms.openlocfilehash: 604690e62f09b7ca0618c4a581605e22f19a7732
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 1d9937c632212d12883a02860354b6112efd49a6
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36507470"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36749927"
 ---
-# <a name="restore-a-deleted-file-or-folder"></a>คืนค่าโฟลเดอร์หรือแฟ้มที่ถูกลบไปแล้ว
+# <a name="restore-a-deleted-file-or-folder"></a>กู้คืนไฟล์หรือโฟลเดอร์ที่ถูกลบ
 
-ออนไลน์ของ SharePoint เก็บรักษาข้อมูลสำรองของเนื้อหาทั้งหมดสำหรับ 14 วันเพิ่มเติมนอกเหนือจากการลบจริง ถ้าไม่สามารถคืนค่าเนื้อหาผ่านถังรีไซเคิลหรือคืนค่าแฟ้ม ผู้ดูแลสามารถติดต่อฝ่ายสนับสนุนของ Microsoft เพื่อขอคืนค่าใดก็ได้ภายในหน้าต่าง 14 วัน คืนค่าจากสำเนาสำรองสามารถเสร็จสมบูรณ์สำหรับไซต์คอลเลกชันหรือไซต์ย่อย ไม่ใช่สำหรับแฟ้มเฉพาะ รายการ หรือไลบรารีเท่านั้น
+SharePoint แบบออนไลน์ยังคงเก็บข้อมูลสำรองของเนื้อหาทั้งหมดสำหรับ14วันเพิ่มเติมนอกเหนือจากการลบจริง ถ้าไม่สามารถเรียกคืนเนื้อหาผ่านถังรีไซเคิลหรือการคืนค่าแฟ้มผู้ดูแลสามารถติดต่อฝ่ายสนับสนุนของ Microsoft เพื่อขอคืนค่าได้ตลอดเวลาภายในหน้าต่าง14วัน การบูรณะจากการสำรองข้อมูลสามารถเสร็จสมบูรณ์สำหรับไซต์คอลเลกชันหรือไซต์ย่อยไม่ใช่สำหรับแฟ้มรายการหรือไลบรารีเฉพาะ
 
-เมื่อคุณลบสินค้าหรือไซต์จาก Sharepoint จึงไม่ได้ทันทีเอาออก รายการที่ถูกลบไปไว้ในถังรีไซเคิลสำหรับรอบระยะเวลา ในช่วงเวลานั้น คุณสามารถคืนค่ารายการคุณลบไปตำแหน่งที่ตั้งเดิม สำหรับข้อมูลเพิ่มเติม โปรดเยี่ยมชมลิงค์ด้านล่าง
+เมื่อคุณลบรายการหรือไซต์ออกจาก Sharepoint จะไม่มีการเอาออกทันที รายการที่ถูกลบจะเข้าไปในถังรีไซเคิลสำหรับรอบระยะเวลาหนึ่ง ในระหว่างนั้นคุณสามารถคืนค่ารายการที่คุณลบไปยังตำแหน่งที่ตั้งเดิมได้ สำหรับข้อมูลเพิ่มเติมโปรดไปที่ลิงก์ด้านล่าง
 
-[คืนค่ารายการในถังรีไซเคิลของไซต์ SharePoint](https://support.office.com/article/restore-deleted-items-from-the-site-collection-recycle-bin-5fa924ee-16d7-487b-9a0a-021b9062d14b?ui=en-US&amp;rs=en-US&amp;ad=US)
+[คืนค่ารายการในถังรีไซเคิลของไซต์ SharePoint](https://support.office.com/article/restore-deleted-items-from-the-site-collection-recycle-bin-5fa924ee-16d7-487b-9a0a-021b9062d14b)
 
-[ลบการคืนค่าแฟ้มหรือโฟลเดอร์ใน OneDrive](https://support.office.com/article/Restore-deleted-files-or-folders-in-OneDrive-949ada80-0026-4db3-a953-c99083e6a84f)
+[กู้คืนไฟล์หรือโฟลเดอร์ที่ถูกลบใน OneDrive](https://support.office.com/article/Restore-deleted-files-or-folders-in-OneDrive-949ada80-0026-4db3-a953-c99083e6a84f)
 
-[คืนค่าลบไซต์คอลเลกชัน (รวมทั้งกลุ่ม การสื่อสาร และไซต์อื่น ๆ)](https://docs.microsoft.com/sharepoint/restore-deleted-site-collection)
+[กู้คืนชุดเก็บรวบรวมไซต์ที่ถูกลบ (รวมถึงกลุ่มการสื่อสารและไซต์อื่นๆ)](https://docs.microsoft.com/sharepoint/restore-deleted-site-collection)
 
-[คืนค่าไซต์ OneDrive ถูกลบไปแล้ว](https://docs.microsoft.com/onedrive/restore-deleted-onedrive)
+[คืนค่าไซต์ OneDrive ที่ถูกลบ](https://docs.microsoft.com/onedrive/restore-deleted-onedrive)
 
-สำหรับการดำเนินการจำนวนมากถังรีไซเคิล admins อาจพิจารณาใช้[Sharepoint ออนไลน์ PNP](https://docs.microsoft.com/powershell/sharepoint/sharepoint-pnp/sharepoint-pnp-cmdlets?view=sharepoint-ps)
+สำหรับการดำเนินการถังรีไซเคิลจำนวนมากผู้ดูแลระบบอาจพิจารณาการใช้[Sharepoint ONLINE PNP](https://docs.microsoft.com/powershell/sharepoint/sharepoint-pnp/sharepoint-pnp-cmdlets?view=sharepoint-ps)
 
 **คุณลักษณะการคืนค่าแฟ้ม**
 
-ถ้าล็อตของแฟ้ม OneDrive หรือ SharePoint ของคุณได้รับลบ เขียนทับ เสียหาย หรือการติดไวรัส โดยมัลแวร์ คุณสามารถคืนค่ารี OneDrive หรือ SharePoint ของคุณทั้งหมดไปยังเวลาก่อนหน้าโดยใช้คุณลักษณะการคืนค่าแฟ้ม
+ถ้าจำนวนมากของ OneDrive หรือแฟ้ม SharePoint ของคุณได้รับการลบการเขียนทับเสียหายหรือติดเชื้อโดยมัลแวร์คุณสามารถคืนค่าทั้ง OneDrive หรือไลบรารี SharePoint ของคุณไปยังเวลาก่อนหน้านี้โดยใช้คุณลักษณะการคืนค่าแฟ้ม
 
-[คืนค่าไลบรารี OneDrive](https://support.office.com/article/restore-your-onedrive-fa231298-759d-41cf-bcd0-25ac53eb8a15)
+[การคืนค่าไลบรารี OneDrive](https://support.office.com/article/restore-your-onedrive-fa231298-759d-41cf-bcd0-25ac53eb8a15)
 
-[คืนค่าไลบรารีเอกสาร](https://support.office.com/article/restore-a-document-library-317791c3-8bd0-4dfd-8254-3ca90883d39a?ui=en-US&amp;rs=en-US&amp;ad=US.)
+[การคืนค่าไลบรารีเอกสาร](https://support.office.com/article/restore-a-document-library-317791c3-8bd0-4dfd-8254-3ca90883d39a)
 

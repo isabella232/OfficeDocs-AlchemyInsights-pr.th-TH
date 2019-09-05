@@ -1,5 +1,5 @@
 ---
-title: ไม่สามารถเริ่มต้นเวิร์กโฟลว์
+title: เวิร์กโฟลว์ไม่ได้เริ่มต้น
 ms.author: efrene
 author: efrene
 manager: pamgreen
@@ -12,39 +12,39 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000144"
 - "1670"
-ms.openlocfilehash: d4bfdb44c04eb6838f4a265e55a4873d14c78f6d
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 2d85dcf9111d48cb529c583c733823b404eb3188
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36558007"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36738108"
 ---
-# <a name="workflow-is-not-starting"></a>ไม่สามารถเริ่มต้นเวิร์กโฟลว์
+# <a name="workflow-is-not-starting"></a>เวิร์กโฟลว์ไม่ได้เริ่มต้น
 
-- ลำดับงาน SharePoint 2010 และ SharePoint 2013 จะไม่เริ่มต้น
+- ไม่มีการเริ่มทำงาน SharePoint ๒๐๑๐และ SharePoint ๒๐๑๓เวิร์กโฟลว์
 
-    - ถ้าไม่สามารถเริ่มต้นเวิร์กโฟลว์ของคุณ อาจมีปัญหากับบริการชั่วคราวซึ่งผู้ใช้อาจพบความล่าช้าเป็นระยะ ๆ ด้วยความคืบหน้าของลำดับงาน ตรวจสอบ[ความสมบูรณ์ของแดชบอร์ดบริการซึ่ง](https:/admin.microsoft.com/AdminPortal/Home#/servicehealth)เมื่อต้องการดูถ้าองค์กรของคุณได้รับผลกระทบ
+    - ถ้าเวิร์กโฟลว์ของคุณไม่ได้เริ่มต้นอาจมีปัญหาการบริการแบบถาวรที่ผู้ใช้อาจพบความล่าช้าเป็นระยะๆกับความคืบหน้าของเวิร์กโฟลว์ ตรวจสอบ[แดชบอร์ดความสมบูรณ์ของบริการ](https:/admin.microsoft.com/AdminPortal/Home#/servicehealth)เพื่อดูว่าองค์กรของคุณได้รับผลกระทบหรือไม่
 
-    - ถ้ามากกว่า 24 ชั่วโมงได้ตั้งแต่คุณเห็นปัญหานี้ขั้นแรก โปรดเข้าสู่ระบบ ticket สนับสนุน ในหลายกรณี เรากำลังทำงานอยู่ในโซลูชัน โปรดให้กับเราอย่างน้อย 24 ชั่วโมงในการแก้ไขปัญหาการทำให้เสร็จสมบูรณ์
+    - หากมีการผ่านมากกว่า24ชั่วโมงตั้งแต่แรกคุณเห็นปัญหานี้โปรดบันทึกตั๋วสนับสนุน ในหลายกรณีเรากำลังทำงานอยู่แล้วในการแก้ปัญหา กรุณาให้เราอย่างน้อย24ชั่วโมงในการดำเนินการแก้ปัญหา
 
-- เวิร์กโฟลว์ SharePoint 2010 ล่าช้าในการเริ่มต้นเท่านั้น
+- ลำดับงาน SharePoint ๒๐๑๐ที่ล่าช้าเมื่อเริ่มต้น
 
-    - เหตุการณ์นี้เกิดขึ้นถ้าเวิร์กโฟลว์จะถูกทริกเกอร์เป็นชุดงานขนาดใหญ่ (ตัวอย่างเช่น เมื่อหลายรายการบวกในคราวเดียวกัน)
+    - เหตุการณ์นี้เกิดขึ้นถ้าเวิร์กโฟลว์ถูกทริกเกอร์ในชุดงานขนาดใหญ่ (ตัวอย่างเช่นเมื่อมีการเพิ่มสินค้าหลายรายการพร้อมกัน)
 
-    - เวิร์กโฟลว์ไม่ได้ออกแบบมาเพื่อทำงานแบบเรียลไทม์ ดังนั้นการเลื่อนเวลาเป็นลักษณะการทำงานด้วยการออกแบบ
+    - เวิร์กโฟลว์ไม่ได้รับการออกแบบให้รันแบบเรียลไทม์เพื่อให้การหน่วงเวลาเป็นลักษณะการทำงานออกแบบ
 
-   -  ถ้าเวิร์กโฟลว์ ซับซ้อน Extensible วัตถุมาร์กอัปภาษา (XMOL), คอมไพล์สามารถทำได้ล่าช้า ตรวจสอบบทความ[นี้](https://support.microsoft.com/en-us/kb/3043697)
+   -  ถ้าเวิร์กโฟลว์เป็นภาษามาร์กอัปวัตถุ Extensible ที่ซับซ้อน (XMOL) การคอมไพล์สามารถทำได้ช้า ตรวจสอบบทความ[นี้](https://support.microsoft.com//kb/3043697)
 
-    - คุณควรทำเวิร์กโฟลว์ หรือออกแบบโดยใช้ชนิดของแพลตฟอร์มเวิร์กโฟลว์ 2013 ของ Microsoft SharePoint
+    - คุณควรทำให้เวิร์กโฟลว์ของคุณง่ายขึ้นหรือออกแบบโดยใช้ชนิดแพลตฟอร์มของเวิร์กโฟลว์ Microsoft SharePoint ๒๐๑๓
 
-    - ถ้าประวัติเวิร์กโฟลว์ของคุณขยายใหญ่จน คุณอาจต้องการกำจัดสินค้า หรือสร้างรายการประวัติใหม่
+    - ถ้าประวัติลำดับงานของคุณเติบโตขึ้นใหญ่คุณอาจต้องการล้างรายการหรือสร้างรายการประวัติใหม่
 
-        หากต้องการข้อมูลเพิ่มเติม:[ล้างประวัติลำดับงาน](https://blogs.technet.microsoft.com/marj/2015/08/07/sharepoint-2010-workflows-best-practice-purge-workflow-history-list-items/)
+        ข้อมูลเพิ่มเติม:[ล้างประวัติลำดับงาน](https://blogs.technet.microsoft.com/marj/2015/08/07/sharepoint-2010-workflows-best-practice-purge-workflow-history-list-items/)
 
 
 ## <a name="related-topics"></a>หัวข้อที่เกี่ยวข้อง
-ต้องการลองกระแส Microsoft ใน SharePoint แบบออนไลน์หรือไม่
-- [สร้างขั้นตอน](https://support.office.com/article/Create-a-flow-for-a-list-or-library-in-SharePoint-Online-or-OneDrive-for-Business-a9c3e03b-0654-46af-a254-20252e580d01) 
-- [SharePoint และขั้นตอน](https://flow.microsoft.com/blog/sharepoint-and-flow/) 
+ต้องการลองการไหลของ Microsoft ใน SharePoint แบบออนไลน์หรือไม่
+- [สร้างโฟลว์](https://support.office.com/article/Create-a-flow-for-a-list-or-library-in-SharePoint-Online-or-OneDrive-for-Business-a9c3e03b-0654-46af-a254-20252e580d01) 
+- [SharePoint และการไหล](https://flow.microsoft.com/blog/sharepoint-and-flow/) 
 
 

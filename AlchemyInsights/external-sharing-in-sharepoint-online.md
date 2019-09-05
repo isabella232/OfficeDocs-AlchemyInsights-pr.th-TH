@@ -11,12 +11,12 @@ ms.assetid: ''
 ms.custom:
 - "9000191"
 - "1749"
-ms.openlocfilehash: 1369df853da594d679d5850fbd032111bdf277fe
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: d4342c203dd60bea0a26ef9f5f281a62a0abf20e
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36664951"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36735984"
 ---
 # <a name="external-sharing-in-sharepoint-online"></a>การใช้ร่วมกันภายนอกใน SharePoint แบบออนไลน์
 
@@ -29,7 +29,7 @@ ms.locfileid: "36664951"
 - [การตั้งค่าการใช้งานร่วมกันเริ่มต้นต่อชนิดไซต์](https://docs.microsoft.com/Office365/Enterprise/microsoft-365-guest-settings#sharepoint-site-level)
 - [ใช้ Sharepoint แบบออนไลน์เป็นโซลูชั่นเอกซ์ทราเน็ต (B2B) ทางธุรกิจ](https://docs.microsoft.com/sharepoint/create-b2b-extranet)
 - [แฟ้มหรือโฟลเดอร์ SharePoint ที่ใช้ร่วมกัน](https://support.office.com/article/share-sharepoint-files-or-folders-1fe37332-0f9a-4719-970e-d2578da4941c)
-- [หยุดการใช้แฟ้มหรือโฟลเดอร์ของ OneDrive ร่วมกันหรือเปลี่ยนแปลงสิทธิ์](https://support.office.com/article/stop-sharing-onedrive-or-sharepoint-files-or-folders-or-change-permissions-0a36470f-d7fe-40a0-bd74-0ac6c1e13323?ui=en-US&rs=en-US&ad=US)
+- [หยุดการใช้แฟ้มหรือโฟลเดอร์ของ OneDrive ร่วมกันหรือเปลี่ยนแปลงสิทธิ์](https://support.office.com/article/stop-sharing-onedrive-or-sharepoint-files-or-folders-or-change-permissions-0a36470f-d7fe-40a0-bd74-0ac6c1e13323)
 - [การเข้าถึงแขกใน Microsoft Teams](https://docs.microsoft.com/MicrosoftTeams/guest-access)
 - [การอ้างอิงการตั้งค่าการใช้ร่วมกันของ Microsoft Guest (ไดเรกทอรีที่ใช้งานอยู่ของ Azure, Microsoft ๓๖๕และ SharePoint แบบออนไลน์)](https://docs.microsoft.com/Office365/Enterprise/microsoft-365-guest-settings)
 
@@ -38,7 +38,7 @@ ms.locfileid: "36664951"
 - ["การเข้าถึงถูกปฏิเสธ", "คุณต้องมีสิทธิ์ในการเข้าถึงไซต์นี้" หรือ "ผู้ใช้ไม่พบในไดเรกทอรี" ข้อผิดพลาดใน SharePoint แบบออนไลน์และ OneDrive สำหรับธุรกิจ](https://docs.microsoft.com/sharepoint/support/administration/access-denied-or-need-permission-error-sharepoint-online-or-onedrive-for-business)
 - ["นโยบายขององค์กรของคุณไม่อนุญาตให้คุณใช้ร่วมกับผู้ใช้เหล่านี้" ข้อผิดพลาดเมื่อใช้ร่วมกันรายการหรือไซต์ใน SharePoint แบบออนไลน์หรือ OneDrive สำหรับธุรกิจ](https://docs.microsoft.com/sharepoint/support/administration/organization-policies-do-not-allow-you-to-share-with-users-error)
 - [ตัวเลือกการใช้ร่วมกันจะเป็นสีเทาเมื่อใช้ร่วมกันจาก SharePoint แบบออนไลน์หรือ OneDrive](https://docs.microsoft.com/sharepoint/support/administration/sharing-options-grayed-out-when-sharing-from-sharepoint-online-or-onedrive)
-- [ข้อผิดพลาดเมื่อผู้ใช้ภายนอกยอมรับการเชิญ SharePoint แบบออนไลน์โดยใช้บัญชีอื่น](https://support.office.com/article/Error-message-when-an-external-user-accepts-a-SharePoint-Online-invitation-by-using-another-account-f0d34413-ea7c-42c7-a485-c4e5d421e5f0-)
+- [ข้อผิดพลาดเมื่อผู้ใช้ภายนอกยอมรับการเชิญ SharePoint แบบออนไลน์โดยใช้บัญชีอื่น](https://docs.microsoft.com/sharepoint/support/sharing-and-permissions/error-when-external-user-accepts-an-invitation-by-using-another-account)
 - [ข้อผิดพลาดในการใช้ร่วมกันของ OSE ใน SharePoint และ OneDrive](https://docs.microsoft.com/sharepoint/sharepoint-onedrive-error-message)
 
 

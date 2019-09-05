@@ -1,5 +1,5 @@
 ---
-title: 723 ทำนามแฝงอีเมลที่เป็นอีเมลหลักสำหรับผู้ใช้
+title: ๗๒๓การทำให้นามแฝงของเมลแทนเป็นเมลหลักสำหรับผู้ใช้
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -13,15 +13,15 @@ ms.custom:
 - "723"
 - "1"
 ms.assetid: 9db496e8-7345-4449-bbb2-0ed8c6d72e3e
-ms.openlocfilehash: ba5ade5c914600725ed2aff0a3aa0097adfb188f
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 3e22655c7408863915ab22389f70d10956839ad8
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36542406"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36735264"
 ---
-# <a name="make-an-email-alias-the-primary-address-for-a-user"></a>ให้ใช้นามแฝงอีเมลอยู่หลักสำหรับผู้ใช้
+# <a name="make-an-email-alias-the-primary-address-for-a-user"></a>ทำให้นามแฝงของเมลแอดเดรสหลักสำหรับผู้ใช้
 
-สำหรับคำแนะนำ ดู[เพิ่มนามแฝงอีเมลที่อื่นสำหรับผู้ใช้](https://support.office.com/article/0b0bd900-68b1-4bf5-808b-5d240a7739f4)
+สำหรับคำแนะนำโปรดดูที่การ[เพิ่มนามแฝงของเมลอื่นสำหรับผู้ใช้](https://docs.microsoft.com/office365/admin/email/add-another-email-alias-for-a-user)
 
-**หมายเหตุ**: ถ้าองค์กรของคุณอยู่ในโหมดไฮบริดสลี คุณจำเป็นต้องเปลี่ยนอยู่อีเมลหลักในองค์กรของคุณแลกเปลี่ยนในสถานที่นั้น สำหรับข้อมูลเพิ่มเติม ดู[เพิ่มหรือลบอีเมลที่อยู่สำหรับกล่องจดหมาย](https://technet.microsoft.com/library/bb123794.aspx)
+**หมายเหตุ**: ถ้าองค์กรของคุณอยู่ในโหมดไฮบริดสลีคุณจำเป็นต้องเปลี่ยนที่อยู่ e-mail หลักในองค์กรของคุณในสถานที่แลกเปลี่ยน สำหรับข้อมูลเพิ่มเติมโปรดดูที่การ[เพิ่มหรือเอาที่อยู่ของเมลสำหรับกล่องจดหมายออก](https://technet.microsoft.com/library/bb123794.aspx)

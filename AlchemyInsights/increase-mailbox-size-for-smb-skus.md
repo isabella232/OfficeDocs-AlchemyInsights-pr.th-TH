@@ -1,5 +1,5 @@
 ---
-title: เพิ่มขนาดกล่องจดหมายสำหรับ Sku SMB
+title: เพิ่มขนาดกล่องจดหมายสำหรับ SMB Sku
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,25 +11,25 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 7a82ec04-fdf6-43e9-924c-66157b180890
-ms.openlocfilehash: 3a054debbfa600c42480bb6e6bdd709ba041972a
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 0d1c3a1bc4e61bd9167a5d7a18f064819a4686c4
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36499298"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36739260"
 ---
-# <a name="switch-plans-to-increase-mailbox-size"></a>สวิตช์วางแผนเพื่อเพิ่มขนาดของกล่องจดหมาย
+# <a name="switch-plans-to-increase-mailbox-size"></a>สลับแผนเพื่อเพิ่มขนาดกล่องจดหมาย
 
-ถ้าจดหมายมีขนาด 50 GB คุณสามารถเพิ่มขนาดของกล่องจดหมายที่จะ 100 GB ด้วยการสลับไปยัง[E3 องค์กร 365 Office](https://products.office.com/business/office-365-enterprise-e3-business-software)หรือ[E5 องค์กร 365 Office](https://products.office.com/business/office-365-enterprise-e5-business-software) ต่อไปนี้เป็นขั้นตอนเพื่อสลับไปยังแผน Office 365 อื่น:
+ถ้าขนาดกล่องจดหมาย๕๐ GB คุณสามารถเพิ่มขนาดกล่องจดหมาย๑๐๐ GB โดยการสลับไปยัง[office ๓๖๕องค์กร E3](https://products.office.com/business/office-365-enterprise-e3-business-software)หรือ[Office ๓๖๕องค์กร E5](https://products.office.com/business/office-365-enterprise-e5-business-software) ต่อไปนี้เป็นขั้นตอนในการสลับไปยังแผน Office ๓๖๕อื่น:
   
-1. ใน Microsoft 365 admin ศูนย์ ไปหน้าการ[บอกรับเป็นสมาชิก](https://go.microsoft.com/fwlink/p/?linkid=842054)หรือเลือก**การเรียกเก็บเงิน** \> **บอกรับเป็นสมาชิก**
+1. ในศูนย์ดูแลของ Microsoft ๓๖๕ไปที่หน้าการ[สมัครสมาชิก](https://go.microsoft.com/fwlink/p/?linkid=842054)หรือเลือกการ**บอก**รับเป็นสมาชิกการ**เรียกเก็บเงิน** \>
     
-2. เลือก**แผนสวิตช์**เพื่อดูรายการของแผนใหม่ที่พร้อมใช้งาน 
+2. เลือก**แผนการสลับ**เพื่อดูรายการของแผนใหม่ที่พร้อมใช้งาน 
     
-3. เลือกแผนเมื่อต้องการดูต้นทุนรวมใหม่ต่อเดือน ตรวจสอบให้แน่ใจว่าอ่าน**ข้อมูลคีย์**จาก นั้นเลือก**ถัดไป**เพื่อทำเช็คเอาท์ 
+3. เลือกแผนที่จะดูต้นทุนรวมต่อเดือนใหม่ ตรวจสอบให้แน่ใจว่าได้อ่าน**ข้อมูลสำคัญ**แล้วเลือก**ถัด**ไปเพื่อเช็คเอาท์ 
     
-4. เมื่อคุณเสร็จสิ้นการเช็คเอาท์ Office 365 ใช้เวลาสักครู่กว่าจะเสร็จสิ้นสวิตช์ คุณสามารถเริ่มต้นได้โดยใช้การสมัครใช้งานใหม่ของคุณทันที
+4. เมื่อคุณเสร็จสิ้นการชำระเงิน, Office ๓๖๕ใช้เวลาเพียงไม่กี่นาทีในการจบการทำงานของสวิตช์ คุณสามารถเริ่มใช้การสมัครสมาชิกใหม่ได้ทันที
     
-สำหรับรายละเอียดเพิ่มเติม ให้ดู[สลับไปยัง Office 365 แผนอื่น](https://support.office.com/article/73318661-8f33-478b-bcc7-fb8d69dbb22a)
+สำหรับรายละเอียดเพิ่มเติมโปรดดูที่[สลับไปยังแผน Office ๓๖๕อื่น](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/switch-to-a-different-plan)
   
 

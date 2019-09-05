@@ -1,6 +1,6 @@
 ---
-title: เปิดการใช้งานร่วมกัน หรือปิดสำหรับ SharePoint ภายนอก
-ms.author: kirks
+title: เปิดหรือปิดการใช้ร่วมกันภายนอกสำหรับ SharePoint
+ms.author: pebaum
 author: Techwriter40
 manager: pamgreen
 ms.audience: Admin
@@ -10,26 +10,26 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: e13940be-483f-46ed-a88c-d36bbaf04ad5
-ms.openlocfilehash: 30f4b30a86f6c65ff1dc348c279341e299b0275b
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 2f61a34cb0b510af7c4fcc6193a977662c328063
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36507902"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36750935"
 ---
-# <a name="warning-message-your-organizations-policies-dont-allow-you-to-share-with-these-users"></a>ข้อความแจ้งเตือน: นโยบายขององค์กรของคุณไม่อนุญาตให้คุณใช้ร่วมกันกับผู้ใช้เหล่านี้
+# <a name="warning-message-your-organizations-policies-dont-allow-you-to-share-with-these-users"></a>ข้อความเตือน: นโยบายขององค์กรไม่อนุญาตให้คุณแชร์กับผู้ใช้เหล่านี้
 
-ผู้ใช้อาจพบข้อความเตือนเมื่อพยายามใช้ร่วมกันกับผู้ใช้ภายนอกองค์กรของคุณ ข้อความถูก**นโยบายขององค์กรของคุณไม่อนุญาตให้คุณใช้ร่วมกันกับผู้ใช้เหล่านี้ ไปยังภายนอกร่วมกันใน Office 365 admin ศูนย์การเปิดใช้งาน** ซึ่งมักจะเกิดขึ้นในครั้งแรกที่พยายามที่จะใช้ร่วมกัน กับผู้ใช้ภายนอก หรือเมื่อใช้ร่วมกับผู้ใช้ภายนอกใหม่
+ผู้ใช้อาจพบข้อความเตือนเมื่อพยายามที่จะใช้ร่วมกับผู้ใช้ภายนอกขององค์กรของคุณ ข้อความนี้เป็น**นโยบายขององค์กรของคุณไม่อนุญาตให้คุณแชร์กับผู้ใช้เหล่านี้ ไปที่การใช้ร่วมกันภายนอกในศูนย์การจัดการ Office ๓๖๕เพื่อให้สามารถทำงานได้** นี้มักจะเกิดขึ้นในครั้งแรกที่พยายามที่จะแบ่งปันกับผู้ใช้ภายนอกหรือเมื่อมีการใช้ร่วมกันกับผู้อื่นภายนอก
 
-ตรวจสอบ**การตั้งค่าของ SharePoint และ OneDrive ใช้ร่วมกันภายนอก**องค์กรของคุณ
+ตรวจสอบการ**ตั้งค่าการแชร์ภายนอก SharePoint และ OneDrive**สำหรับองค์กรของคุณ
 
-1. ในของ[ศูนย์ดูแล 365 Microsoft](https://admin.microsoft.com/AdminPortal/Home#/homepage">https://admin.microsoft.com/)เลือก**SharePoint**
-3. เลือกที่**ใช้งานร่วมกัน**เพื่อดูการตั้งค่าการใช้ร่วมกันภายนอก
+1. ใน[ศูนย์การจัดการ Microsoft ๓๖๕](https://admin.microsoft.com/AdminPortal/Home#/homepage">https://admin.microsoft.com/)ของคุณเลือก**SharePoint**
+3. เลือกการ**แชร์**เพื่อดูการตั้งค่าการแชร์ภายนอก
 
-ตรวจสอบการ**ตั้งค่าการใช้ร่วมกันภายนอก**สำหรับไซต์ที่เฉพาะเจาะจง
+ตรวจสอบการ**ตั้งค่าการแชร์ภายนอก**สำหรับไซต์ที่ระบุ
 
-1. ในของ[ศูนย์ดูแล 365 Microsoft](https://admin.microsoft.com/AdminPortal/Home#/homepage">https://admin.microsoft.com/)เลือก**SharePoint**
-2. เลือก**ไซต์ที่ใช้งานอยู่**เมื่อต้องการดูไซต์ของคุณที่พร้อมใช้งาน
-3. เลือกไซต์คุณต้องการตรวจสอบ และจากนั้น เลือกปุ่ม**ใช้ร่วมกัน**ที่แสดงในแถบเมนูเพื่อตรวจสอบการตั้งค่าสำหรับไซต์
+1. ใน[ศูนย์การจัดการ Microsoft ๓๖๕](https://admin.microsoft.com/AdminPortal/Home#/homepage">https://admin.microsoft.com/)ของคุณเลือก**SharePoint**
+2. เลือก**sites ที่ใช้งานอยู่**เพื่อดูไซต์ของคุณที่พร้อมใช้งาน
+3. เลือกไซต์ที่คุณต้องการตรวจสอบแล้วเลือกปุ่ม**แชร์**ที่แสดงในแถบเมนูเพื่อตรวจสอบการตั้งค่าสำหรับไซต์นั้น
 
-สำหรับข้อมูลเพิ่มเติม ดู[ภาพรวมการใช้งานร่วมกันภายนอก](https://docs.microsoft.com/sharepoint/external-sharing-overview)
+สำหรับข้อมูลเพิ่มเติมโปรดดู[ภาพรวมของการแชร์ภายนอก](https://docs.microsoft.com/sharepoint/external-sharing-overview)

@@ -1,5 +1,5 @@
 ---
-title: การติดตั้ง office บนเทอร์มินัลเซิร์ฟเวอร์ - สิทธิ์
+title: การติดตั้งสำนักงานบนเซิร์ฟเวอร์เทอร์มินัล-ใบอนุญาต
 ms.author: pebaum
 author: pebaum
 ms.date: 12/17/2018
@@ -11,44 +11,44 @@ ms.custom:
 - "917"
 - "2000020"
 ms.assetid: b1074430-489e-4d49-bfe4-3d8783d8073c
-ms.openlocfilehash: edac051840594f13b22ccd83f5cd6e3da5f84cbc
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 53071224a7c33532d864cd70b84bf0e3cc6a992f
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36498434"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36735408"
 ---
-# <a name="installing-office-on-a-terminal-server"></a>การติดตั้ง Office บนเทอร์มินัลเซิร์ฟเวอร์
+# <a name="installing-office-on-a-terminal-server"></a>การติดตั้ง Office บนเซิร์ฟเวอร์เทอร์มินัล
 
-สำหรับการจัดวาง ProPlus 365 Office บนเซิร์ฟเวอร์ของ Windows โดยใช้บริการเดสก์ท็อประยะไกล (RDS), เดิมคือชื่อบริการเทอร์มินัล:
+สำหรับการจัดวาง Office ๓๖๕ ProPlus บนเซิร์ฟเวอร์ Windows โดยใช้บริการเดสก์ท็อประยะไกล (RDS), เดิมชื่อบริการเทอร์มินัล:
   
-- คุณต้องมีแผนการ Office 365 ที่มี Office 365 ProPlus เช่น E3 องค์กร 365 Office หรือองค์กร E5 แผน Office 365 ธุรกิจและค่าจ้างพิเศษธุรกิจ 365 Office ไม่มี Office 365 ProPlus
+- คุณต้องมีแผน Office ๓๖๕ที่ประกอบด้วย Office ๓๖๕ ProPlus เช่น Office ๓๖๕เอ็นเตอร์ไพรส์ E3 หรือองค์กร E5 แผนพรีเมียม Office ๓๖๕ธุรกิจและ Office ๓๖๕ไม่รวม Office ๓๖๕ ProPlus
 
-- คุณต้องเปิดใช้งาน[คอมพิวเตอร์ที่ใช้ร่วมกัน](https://docs.microsoft.com/DeployOffice/overview-of-shared-computer-activation-for-office-365-proplus)
+- คุณต้องเปิดการใช้[งานคอมพิวเตอร์ที่ใช้ร่วมกัน](https://docs.microsoft.com/DeployOffice/overview-of-shared-computer-activation-for-office-365-proplus)
 
-ถ้าคุณต้องการติดตั้ง Office 365 ProPlus ใน RDS จากพอร์ทัล Office 365***ซึ่งใช้การตั้งค่าติดตั้งเริ่มต้น***ให้ทำตามขั้นตอนเหล่านี้:
+ถ้าคุณต้องการติดตั้ง Office ๓๖๕ ProPlus บน RDS จากศูนย์ดูแล Microsoft ๓๖๕***ซึ่งใช้การตั้งค่าการติดตั้งเริ่มต้น***ให้ทำตามขั้นตอนเหล่านี้:
   
-1. ตรวจสอบแผน Office 365 ใดที่คุณมี [เรียนรู้วิธี](https://docs.microsoft.com/office365/admin/admin-overview/what-subscription-do-i-have)
+1. ตรวจสอบว่าคุณมีแผน Office ๓๖๕ใดบ้าง [เรียนรู้วิธี](https://docs.microsoft.com/office365/admin/admin-overview/what-subscription-do-i-have)
 
-2. ถ้าจำเป็น การสลับไปยัง Office 365 อื่นวางแผนไว้ [เรียนรู้วิธี](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/switch-to-a-different-plan)
+2. ถ้าจำเป็นให้สลับไปยังแผน Office ๓๖๕อื่น [เรียนรู้วิธี](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/switch-to-a-different-plan)
 
-3. ถ้า Office ถูกติดตั้งบนเซิร์ฟเวอร์ RDS โดยใช้แผน Office 365 อื่น ถอนการติดตั้ง ตัวอย่างเช่น ด้วยการไปที่'แผงควบคุม'\>ถอนการติดตั้งโปรแกรม ถอนใช้[ฝ่ายสนับสนุนของ Microsoft และผู้ช่วยกู้คืน](https://aka.ms/SARA-OfficeUninstall-Alchemy)ถ้าคุณกำลังใช้งานเป็นการตัดสินค้าจากคลัง
+3. ถ้า Office ถูกติดตั้งบนเซิร์ฟเวอร์ RDS โดยใช้แผน Office ๓๖๕อื่นๆที่มีอยู่ให้ถอนการติดตั้ง ตัวอย่างเช่นโดยไปที่ ' แผง\>ควบคุม ' ถอนการติดตั้งโปรแกรม ถอนการติดตั้งโดยใช้[ฝ่ายสนับสนุนของ Microsoft และผู้ช่วยกู้คืน](https://aka.ms/SARA-OfficeUninstall-Alchemy)ถ้าคุณกำลังทำงานเป็นปัญหา
 
-4. บนเซิร์ฟเวอร์ RDS เข้าสู่ระบบของพอร์ทัล Office 365 กับบัญชีผู้ดูแลและ[ติดตั้ง Office 365 ProPlus](https://portal.office.com/OLS/MySoftware.aspx)
+4. บนเซิร์ฟเวอร์ RDS ลงชื่อเข้าใช้ศูนย์ดูแลของ Microsoft ๓๖๕กับบัญชีผู้ดูแลระบบของคุณและ[ติดตั้ง Office ๓๖๕ ProPlus](https://portal.office.com/OLS/MySoftware.aspx)
 
-5. หลังจากที่มีการติดตั้ง Office***ไม่เปิด หรือลงชื่อเข้าใช้ใน***โปรแกรมประยุกต์ Office ใด ๆ
+5. หลังจากติดตั้ง Office แล้ว***อย่าเปิดหรือลงชื่อเข้า***ใช้โปรแกรมประยุกต์ office ใดๆ
 
-6. บนเซิร์ฟเวอร์ RDS เปิดใช้งานคอมพิวเตอร์ที่ใช้ร่วมกัน โดยการแก้ไขรีจิสทรีโดยทำตามขั้นตอนเหล่านี้:
+6. บนเซิร์ฟเวอร์ RDS เปิดการใช้งานคอมพิวเตอร์ที่ใช้ร่วมกันโดยการแก้ไขรีจิสทรีโดยทำตามขั้นตอนเหล่านี้:
 
-1. คลิกขวาปุ่มของหน้าต่างในมุมซ้ายมือด้านล่างของหน้าจอ และเลือกเรียกใช้ ในกล่องเปิด พิมพ์**regedit**และจากนั้น ให้เลือก'ตกลง'
+1. คลิกขวาที่ปุ่ม Windows ในมุมด้านซ้ายมือล่างของหน้าจอของคุณและเลือกเรียกใช้ ในกล่องเปิดพิมพ์**regedit**และจากนั้นให้เลือก ' ตกลง '
 
-2. เลือกใช่เมื่อได้รับพร้อมท์ให้อนุญาตให้ใช้ตัวแก้ไขรีจิสทรีเพื่อทำการเปลี่ยนแปลงไปยังอุปกรณ์ของคุณ
+2. เลือกใช่เมื่อได้รับพร้อมท์ให้อนุญาตให้ตัวแก้ไขรีจิสทรีทำการเปลี่ยนแปลงอุปกรณ์ของคุณ
 
-3. ใน Registry Editor เพิ่มค่าสายอักขระของ**SharedComputerLicensing**ด้วยการตั้งค่าของ 1 ภายใต้ HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft \Office\ClickToRun\Configuration
+3. ในตัวแก้ไขรีจิสทรีเพิ่มค่าสตริงของการอนุญาตให้ใช้**สิทธิ์ Sharedคอมพิวเตอร์**ที่มีการตั้งค่าของ1ภายใต้ HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft \Office\ClickToRun\Configuration.
 
-7. บนเซิร์ฟเวอร์ RDS***เข้าสู่ระบบในชื่อผู้ใช้***และ[ตรวจสอบว่า เปิดใช้งานคอมพิวเตอร์ที่ใช้ร่วมกันถูกเปิดใช้งาน Office 365 ProPlus](https://docs.microsoft.com/DeployOffice/troubleshoot-issues-with-shared-computer-activation-for-office-365-proplus#verify-that-activation-for-office-365-proplus-succeeded)
+7. บนเซิร์ฟเวอร์ RDS***เข้าสู่ระบบในฐานะผู้ใช้ปลาย***ทางและตรวจสอบว่าเปิดใช้งานคอมพิวเตอร์ที่ใช้[ร่วมกันสำหรับ Office ๓๖๕ ProPlus](https://docs.microsoft.com/DeployOffice/troubleshoot-issues-with-shared-computer-activation-for-office-365-proplus#verify-that-activation-for-office-365-proplus-succeeded)
 
-สำหรับรายละเอียดเพิ่มเติมเกี่ยวกับข้อกำหนดเบื้องต้น คำแนะนำการตั้งค่า และคำแนะนำในการติดตั้งแบบกำหนดเองโดยใช้เครื่องมือการปรับใช้ Office โปรดดูที่[ปรับใช้ Office 365 ProPlus โดยใช้บริการเดสก์ท็อประยะไกล](https://docs.microsoft.com/DeployOffice/deploy-office-365-proplus-by-using-remote-desktop-services)
+สำหรับรายละเอียดเพิ่มเติมเกี่ยวกับข้อกำหนดเบื้องต้นคำแนะนำในการตั้งค่าและคำแนะนำเกี่ยวกับการติดตั้งแบบกำหนดเองโดยใช้เครื่องมือการปรับใช้ Office โปรดดูที่การจัดวาง[office ๓๖๕ ProPlus โดยใช้บริการเดสก์ท็อประยะไกล](https://docs.microsoft.com/DeployOffice/deploy-office-365-proplus-by-using-remote-desktop-services)
   
-เมื่อต้องการแก้ไขข้อผิดพลาดที่เกี่ยวข้องกับการเปิดใช้งานคอมพิวเตอร์ที่ใช้ร่วมกัน โปรดดู[แก้ไขปัญหาเกี่ยวกับการเปิดใช้งานคอมพิวเตอร์ที่ใช้ร่วมกันสำหรับ Office 365 ProPlus](https://docs.microsoft.com/DeployOffice/troubleshoot-issues-with-shared-computer-activation-for-office-365-proplus)
+หากต้องการแก้ไขข้อผิดพลาดที่เกี่ยวข้องกับการเปิดใช้งานคอมพิวเตอร์ที่ใช้ร่วมกันโปรดดูที่การ[แก้ไขปัญหาเกี่ยวกับการเปิดใช้งานคอมพิวเตอร์ที่ใช้ร่วมกันสำหรับ Office ๓๖๕ ProPlus](https://docs.microsoft.com/DeployOffice/troubleshoot-issues-with-shared-computer-activation-for-office-365-proplus)
   

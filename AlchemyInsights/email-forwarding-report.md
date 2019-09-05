@@ -1,5 +1,5 @@
 ---
-title: ส่งรายงานทางอีเมล
+title: รายงานการส่งต่อทาง Email
 ms.author: pebaum
 author: pebaum
 ms.date: 9/13/2018
@@ -11,16 +11,16 @@ ms.custom:
 - "1195"
 - "1200004"
 ms.assetid: b8308c24-029f-43ab-af84-0ac97e6ff9d7
-ms.openlocfilehash: 3d65820ba32584a4e462617396d07649d4e81da7
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 4c53755f141bb685c08e13f1850cca2c54b3926d
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36527958"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36740268"
 ---
-# <a name="email-forwarding-report"></a>ส่งรายงานทางอีเมล
+# <a name="email-forwarding-report"></a>รายงานการส่งต่อทาง Email
 
-เมื่อต้องการดูรายงานบนข้อความที่ส่งต่ออัตโนมัติภายในองค์กรของคุณ ตรวจสอบ[ความเข้าใจกระแสจดหมาย](https://support.office.com/article/beb6acaa-6016-4d54-ba7e-3d6d035e2b46)ในการ[Office 365 ปลอดภัย&amp;ศูนย์ปฏิบัติตามกฎระเบียบ](https://protection.office.com/#/homepage)
+เมื่อต้องการดูรายงานเกี่ยวกับจำนวนข้อความที่ส่งต่ออัตโนมัติมีอยู่ในองค์กรของคุณให้ตรวจสอบ[ข้อมูลเชิงลึกของการไหลของจดหมาย](https://docs.microsoft.com//office365/securitycompliance/mail-flow-insights-v2)ใน[ศูนย์การปฏิบัติตามข้อกำหนดด้านความปลอดภัย&amp;ของ Office ๓๖๕](https://protection.office.com/#/homepage)
   
-โปรดสังเกต: ถ้านี่เป็นครั้งแรกคุณจะกำลังเข้าสู่ระบบรักษาความปลอดภัย&amp;ศูนย์ปฏิบัติตามกฎระเบียบ ที่คุณอาจจำเป็นต้องฟื้นฟูหลังจากสักครู่เพื่อดูตัวเลือกที่พร้อมใช้งานทั้งหมดได้
+โปรดทราบ: ถ้านี่เป็นครั้งแรกที่คุณกำลังเข้าสู่ระบบการ&amp;ปฏิบัติตามกฎระเบียบด้านความปลอดภัยคุณอาจต้องฟื้นฟูเบราว์เซอร์หลังจากไม่กี่นาทีเพื่อดูตัวเลือกทั้งหมดที่มีอยู่
   

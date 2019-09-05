@@ -1,5 +1,5 @@
 ---
-title: อีเมลในแอพลิเคชันโมบาย Outlook ติดตั้ง 1800014
+title: ๑๘๐๐๐๑๔ตั้งค่าเมลในแอป Outlook สำหรับอุปกรณ์เคลื่อนที่
 ms.author: anahitab
 author: anahitab
 manager: dansimp
@@ -15,31 +15,31 @@ ms.custom:
 - "1800014"
 - "1800018"
 ms.assetid: d2b46122-b59a-4b94-9cae-5e42be819022
-ms.openlocfilehash: f636c0b6bef3ec779a6393f3a4cd489a467c4bc5
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 4bada589fa55fc78233d13f44566b919ab2d15b9
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36509236"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36734184"
 ---
-# <a name="set-up-email-in-the-outlook-mobile-app"></a>ตั้งค่าอีเมลในแอพลิเคชันโมบาย Outlook
+# <a name="set-up-email-in-the-outlook-mobile-app"></a>ตั้งค่าเมลในแอป Outlook สำหรับอุปกรณ์เคลื่อนที่
 
-1. เลือก**เริ่มต้น**ถ้ามีการตั้งค่าครั้งแรกค่าอีเมลในโปรแกรมประยุกต์แบบเคลื่อนที่ มิฉะนั้น**เมนู**การ**ตั้งค่า** \> **เพิ่มบัญชี** \> **เพิ่มบัญชีอีเมล**
+1. เลือก**เริ่มต้น**ถ้าเป็นครั้งแรกที่คุณตั้งค่าเมลในแอพมือถือ ไม่เช่นนั้นให้แตะ**เมนู**แล้วแตะ**การตั้งค่า** \> **เพิ่ม** \>บัญชี**Email เพิ่ม**บัญชี
 
-2. ป้อนที่อยู่อีเมลที่คุณ และเคาะ**ดำเนินการต่อ**หรือ**เพิ่มบัญชี**
+2. ป้อนที่อยู่ e-mail แบบเต็มของคุณแล้วแตะ**ดำเนินการต่อ**หรือ**เพิ่มบัญชี**
 
-3. ป้อนรหัสผ่านสำหรับบัญชีของคุณทางอีเมล และเคาะ**ลงชื่อเข้าใช้**หรือ**ถัดไป**
+3. ป้อนรหัสผ่านของบัญชี e-mail แล้วแตะ**ลงชื่อเข้าใช้**หรือ**ถัดไป**
 
-4. ถ้าเปิดใช้งาน[การรับรองความถูกต้องด้วยหลายปัจจัย](https://support.office.com/article/8f0454b2-f51a-4d9c-bcde-2c48e41621c6.aspx)ตรวจสอบโดยใช้วิธีการคุณตั้งค่า (รหัส 6 หลัก โทรศัพท์ หรือโปรแกรมประยุกต์ของ Microsoft การรับรองความถูกต้อง)
+4. ถ้าเปิดใช้งานการ[รับรองความถูกต้องด้วยหลายปัจจัย](https://docs.microsoft.com/office365/admin/security-and-compliance/set-up-multi-factor-authentication)ให้ตรวจสอบการใช้วิธีการที่คุณตั้งค่า (รหัส6หลักโทรศัพท์หรือแอป Microsoft Authenticator)
 
-5. ถ้านโยบายดูแลเพิ่มเติมอยู่ในสถานที่ เคาะ**เรียกใช้**เพื่อเปิดใช้งานดังกล่าว
+5. หากนโยบายผู้ดูแลระบบ IT เพิ่มเติมอยู่ในสถานที่ให้แตะ**เปิดใช้**เพื่อเปิดใช้งาน
 
-6. Outlook อาจร้องขอสิทธิ์ในการเข้าถึงปฏิทินของคุณ ผู้ติดต่อ และข้อมูลอื่น ๆ เลือก**ใช่**หรือ**อนุญาต**
+6. Outlook อาจขอสิทธิ์ในการเข้าถึงปฏิทินผู้ติดต่อและข้อมูลอื่นๆของคุณ เลือก**ใช่**หรือ**อนุญาต**
 
-ได้รับคำแนะนำสำหรับ[Outlook สำหรับ Android](https://support.office.com/article/886db551-8dfa-4fd5-b835-f8e532091872.aspx)หรือ[Outlook สำหรับ iOS](https://support.office.com/article/b2de2161-cc1d-49ef-9ef9-81acd1c8e234.aspx)ที่นี่ติดตั้งโดยละเอียด
+รับคำแนะนำในการตั้งค่าโดยละเอียดสำหรับ[Outlook สำหรับ Android](https://support.office.com/article/886db551-8dfa-4fd5-b835-f8e532091872.aspx)หรือ[Outlook สำหรับ iOS ที่](https://support.office.com/article/b2de2161-cc1d-49ef-9ef9-81acd1c8e234.aspx)นี่
   
- **ต้องการความช่วยเหลือหรือไม่**
+ **ต้องการความช่วยเหลือ?**
   
-- [การแก้ไขปัญหาการตั้งค่าอีเมลบนมือถือ](https://support.office.com/article/a264ef01-9c88-48fb-9285-7017e4f31f02.aspx)
+- [แก้ปัญหาการตั้งค่าเมลในอุปกรณ์เคลื่อนที่](https://support.office.com/article/a264ef01-9c88-48fb-9285-7017e4f31f02.aspx)
 
-- [ขอความช่วยเหลือในโปรแกรมประยุกต์สำหรับ Outlook สำหรับ iOS และ Android](https://support.office.com/article/218a22d1-9fa5-4889-b689-de1c63493243.aspx#ID0EAABAAA=Contact_Support)
+- [รับความช่วยเหลือในแอปสำหรับ Outlook สำหรับ iOS และ Android](https://support.office.com/article/218a22d1-9fa5-4889-b689-de1c63493243.aspx#ID0EAABAAA=Contact_Support)

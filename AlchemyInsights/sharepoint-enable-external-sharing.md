@@ -1,5 +1,5 @@
 ---
-title: เปิดใช้งานการใช้ร่วมกันภายนอกใน SharePoint แบบออนไลน์
+title: เปิดใช้งานร่วมกันภายนอกใน SharePoint แบบออนไลน์
 ms.author: efrene
 author: efrene
 ms.audience: ITPro
@@ -8,43 +8,43 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.assetid: 4d197afd-e806-40ad-ac20-4b10bc497edb
-ms.openlocfilehash: b5e546329fa05620b927db4742c3023f45289efc
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: f4c74f11b2b74f2de4b7e1c831012b5f92600917
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36503906"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36744444"
 ---
-# <a name="enable-external-sharing-in-sharepoint-online"></a>เปิดใช้งานการใช้ร่วมกันภายนอกใน SharePoint แบบออนไลน์
+# <a name="enable-external-sharing-in-sharepoint-online"></a>เปิดใช้งานร่วมกันภายนอกใน SharePoint แบบออนไลน์
 
-ถ้าองค์กรของคุณทำงานที่เกี่ยวข้องกับเอกสารที่ใช้ร่วมกัน หรือการทำงานร่วมกับผู้ขาย ลูกค้า หรือลูกค้าโดยตรง จาก นั้นคุณสามารถใช้ใน[ลักษณะการทำงานของ SharePoint แบบออนไลน์ที่ใช้ร่วมกันภายนอก](https://docs.microsoft.com/sharepoint/external-sharing-overview)เพื่อใช้เนื้อหาร่วมกันกับบุคคลภายนอกของคุณ องค์กร
+ถ้าองค์กรของคุณทำงานที่เกี่ยวข้องกับการแชร์เอกสารหรือร่วมมือกับผู้จัดจำหน่ายลูกค้าหรือลูกค้าโดยตรงคุณสามารถใช้[คุณลักษณะการแชร์ภายนอกของ SharePoint แบบออนไลน์](https://docs.microsoft.com/sharepoint/external-sharing-overview)เพื่อแชร์เนื้อหากับบุคคลภายนอก องค์กร
 
-สำหรับข้อมูลเพิ่มเติมเกี่ยวกับการร่วมกันภายนอก (แขก) โปรดเยี่ยมชมลิงค์ด้านล่าง
+สำหรับข้อมูลเพิ่มเติมเกี่ยวกับการแชร์ภายนอก (ผู้เข้าพัก) โปรดไปที่ลิงก์ด้านล่าง
 
 - [ผู้ใช้ภายนอกคืออะไร](https://docs.microsoft.com/sharepoint/external-sharing-overview#what-is-an-external-user)
 
-- [เกิดอะไรขึ้นเมื่อฉันใช้ร่วมกับไซต์หรือเอกสาร](https://docs.microsoft.com/sharepoint/external-sharing-overview#what-happens-when-i-share-a-site-or-document)
+- [จะเกิดอะไรขึ้นเมื่อฉันใช้เว็บไซต์หรือเอกสารร่วมกัน](https://docs.microsoft.com/sharepoint/external-sharing-overview#what-happens-when-i-share-a-site-or-document)
 
-- [เปิดการใช้ร่วมกัน หรือปิดสำหรับ SharePoint แบบออนไลน์ภายนอก](https://docs.microsoft.com/sharepoint/turn-external-sharing-on-or-off)
+- [เปิดหรือปิดการใช้ร่วมกันภายนอกสำหรับ SharePoint แบบออนไลน์](https://docs.microsoft.com/sharepoint/turn-external-sharing-on-or-off)
 
-- [เปิดการใช้งานร่วมกัน หรือปิดสำหรับไซต์ภายนอก](https://docs.microsoft.com/sharepoint/change-external-sharing-site)
+- [เปิดหรือปิดการใช้งานร่วมกันภายนอกสำหรับไซต์](https://docs.microsoft.com/sharepoint/change-external-sharing-site)
 
-- [จัดการการเข้าถึงของแขกใน Office 365 กลุ่ม](https://docs.microsoft.com/office365/admin/create-groups/manage-guest-access-in-groups?view=o365-worldwide)
+- [จัดการการเข้าถึงของผู้เข้าพักใน Office ๓๖๕กลุ่ม](https://docs.microsoft.com/office365/admin/create-groups/manage-guest-access-in-groups?view=o365-worldwide)
 
-- [ใช้ Sharepoint แบบออนไลน์เป็นโซลูชันเอกซ์ทราเน็ตธุรกิจ (B2B)](https://docs.microsoft.com/sharepoint/create-b2b-extranet)
+- [ใช้ Sharepoint แบบออนไลน์เป็นโซลูชั่นเอกซ์ทราเน็ต (B2B) ทางธุรกิจ](https://docs.microsoft.com/sharepoint/create-b2b-extranet)
 
-- [ใช้ SharePoint แฟ้มหรือโฟลเดอร์ร่วมกัน](https://support.office.com/article/share-sharepoint-files-or-folders-1fe37332-0f9a-4719-970e-d2578da4941c)
+- [แฟ้มหรือโฟลเดอร์ SharePoint ที่ใช้ร่วมกัน](https://support.office.com/article/share-sharepoint-files-or-folders-1fe37332-0f9a-4719-970e-d2578da4941c)
 
-- [หยุดการใช้ร่วมกันหรือโฟลเดอร์ที่แฟ้ม OneDrive หรือ SharePoint หรือเปลี่ยนแปลงสิทธิ์](https://support.office.com/article/stop-sharing-onedrive-or-sharepoint-files-or-folders-or-change-permissions-0a36470f-d7fe-40a0-bd74-0ac6c1e13323?ui=en-US&amp;rs=en-US&amp;ad=US)
+- [หยุดการใช้แฟ้มหรือโฟลเดอร์ของ OneDrive ร่วมกันหรือเปลี่ยนแปลงสิทธิ์](https://support.office.com/article/stop-sharing-onedrive-or-sharepoint-files-or-folders-or-change-permissions-0a36470f-d7fe-40a0-bd74-0ac6c1e13323)
 
-- [ลบผู้ใช้ภายนอก](https://docs.microsoft.com/sharepoint/remove-users#delete-a-guest-from-the-microsoft-365-admin-center)
+- [การลบผู้ใช้ภายนอก](https://docs.microsoft.com/sharepoint/remove-users#delete-a-guest-from-the-microsoft-365-admin-center)
 
 **ได้รับข้อผิดพลาดกับผู้ใช้ภายนอก (guest) หรือไม่**
 
-ตรวจสอบการเชื่อมโยงด้านล่าง 
+ตรวจสอบลิงก์ด้านล่าง 
 
-- [ข้อผิดพลาดใน OSE ที่ใช้ร่วมกันใน Sharepoint หรือ OneDrive](https://docs.microsoft.com/sharepoint/sharepoint-onedrive-error-message)
+- [ข้อผิดพลาดในการใช้ร่วมกันของ OSE ใน Sharepoint หรือ OneDrive](https://docs.microsoft.com/sharepoint/sharepoint-onedrive-error-message)
 
-- [ข้อความแสดงข้อผิดพลาดเมื่อผู้ใช้ภายนอกยอมรับคำเชิญของ SharePoint แบบออนไลน์ โดยใช้บัญชีผู้ใช้อื่น](https://support.office.com/article/Error-message-when-an-external-user-accepts-a-SharePoint-Online-invitation-by-using-another-account-f0d34413-ea7c-42c7-a485-c4e5d421e5f0)
+- [ข้อผิดพลาดเมื่อผู้ใช้ภายนอกยอมรับการเชิญ SharePoint แบบออนไลน์โดยใช้บัญชีอื่น](https://docs.microsoft.com/sharepoint/support/sharing-and-permissions/error-when-external-user-accepts-an-invitation-by-using-another-account)
 
-- [ปฏิเสธการเข้าถึงโฟลเดอร์ที่ใช้ร่วมกัน](https://support.office.com/client/d678b57a-53ad-4414-9423-d8726a0c532f)
+- [การเข้าถึงถูกปฏิเสธไปยังโฟลเดอร์ที่ใช้ร่วมกัน](https://docs.microsoft.com/sharepoint/support/sharing-and-permissions/cannot-access-shared-folder)

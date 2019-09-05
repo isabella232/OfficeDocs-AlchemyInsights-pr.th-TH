@@ -1,5 +1,5 @@
 ---
-title: ปิดใช้งานการเข้าถึงไปยัง Yammer
+title: ปิดใช้งานการเข้าถึง Yammer
 ms.author: pebaum
 author: pebaum
 ms.date: 5/1/2018
@@ -11,15 +11,15 @@ ms.custom:
 - "722"
 - "6000004"
 ms.assetid: ddc083c7-d01f-4f97-a232-5eafe8abddce
-ms.openlocfilehash: 50f10f68670ca7fd68a771405f07f3bea4220ff4
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 6e7947afed1223fa55a2aa5710573c03cd804416
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36512892"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36740376"
 ---
-# <a name="disable-access-to-yammer"></a>ปิดใช้งานการเข้าถึงไปยัง Yammer
+# <a name="disable-access-to-yammer"></a>ปิดการใช้งาน Yammer
 
-โซลูชันนี้จะปิดใช้งานการเข้าถึง Yammer จะบล็อค และยกเลิกกำหนดสิทธิ์การใช้งาน Yammer สำหรับผู้ใช้ Office 365 โปรดดูที่บทความต่อไปนี้สำหรับข้อมูลเพิ่มเติม
+โซลูชันการปิดใช้งานการเข้าถึง Yammer คือการบล็อกและยกเลิกการมอบหมายสิทธิ์การใช้งาน Yammer สำหรับผู้ใช้ Office ๓๖๕ โปรดดูบทความต่อไปนี้สำหรับข้อมูลเพิ่มเติม
   
-- [ปิดการเข้าถึงสำหรับผู้ใช้ Office 365 Yammer](https://support.office.com/article/1f79bfad-f713-4143-aa5d-5584985ce53a)
+- [ปิดการเข้าถึง Yammer สำหรับผู้ใช้ Office ๓๖๕](https://docs.microsoft.com/yammer/manage-yammer-users/turn-off-user-access)

@@ -1,5 +1,5 @@
 ---
-title: สร้าง และใช้กล่องจดหมายที่ใช้ร่วมกัน
+title: การสร้างและใช้กล่องจดหมายที่ใช้ร่วมกัน
 ms.author: dmaguire
 author: msdmaguire
 manager: dansimp
@@ -9,23 +9,23 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 63f7d676-7cd9-4549-ba84-c3a8a7867f63
-ms.openlocfilehash: 3e2f6e33c105ecc271b8c8e68898658801d5db22
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 37ac75c7aa0bac4e9f037d6cfa44b93a526977aa
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36515970"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36736524"
 ---
-# <a name="create-and-use-a-shared-mailbox"></a>สร้าง และใช้กล่องจดหมายที่ใช้ร่วมกัน
+# <a name="create-and-use-a-shared-mailbox"></a>การสร้างและใช้กล่องจดหมายที่ใช้ร่วมกัน
 
-กล่องจดหมายที่ใช้ร่วมกันช่วยให้ส่ง และรับอีเมลสำหรับแฝง เช่น**sales@contoso.com**โดยไม่มอบหมายสิทธิ์การใช้งานอื่นมากกว่าหนึ่งคน
+กล่องจดหมายที่ใช้ร่วมกันช่วยให้บุคคลมากกว่าหนึ่งคนส่งและรับเมลแทนสำหรับนามแฝงเช่น**sales@contoso.com**โดยไม่ต้องกำหนดสิทธิ์การใช้งานอื่น
   
-[สร้างกล่องจดหมายที่ใช้ร่วมกัน](https://support.office.com/article/Create-a-shared-mailbox-871a246d-3acd-4bba-948e-5de8be0544c9)ที่อธิบายถึงวิธีการ: 
+[สร้างกล่องจดหมายที่ใช้ร่วมกัน](https://docs.microsoft.com/office365/admin/email/create-a-shared-mailbox)อธิบายวิธีการ: 
   
-- สร้างกล่องจดหมายที่ใช้ร่วมกัน
+- การสร้างกล่องจดหมายที่ใช้ร่วมกัน
     
-- ให้สิทธิ์ในการใช้กล่องจดหมายที่ใช้ร่วมกันของผู้ใช้ของคุณ
+- การให้สิทธิ์ผู้ใช้ของคุณในการใช้กล่องจดหมายที่ใช้ร่วมกัน
     
-- การเข้าถึงกล่องจดหมายที่ใช้ร่วมกัน ใน Outlook หรือ Outlook บนเว็บ
+- เข้าถึงกล่องจดหมายที่ใช้ร่วมกันใน Outlook หรือใน Outlook บนเว็บ
     
 

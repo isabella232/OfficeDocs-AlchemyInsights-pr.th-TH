@@ -1,5 +1,5 @@
 ---
-title: 712 แปลงรายการการแจกจ่ายไปยังกลุ่ม Office 365
+title: ๗๑๒การแปลงรายการการแจกจ่ายเป็นกลุ่ม Office ๓๖๕
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -13,13 +13,13 @@ ms.custom:
 - "712"
 - "3"
 ms.assetid: a54600a0-e150-4a1a-8d67-ed77624bb928
-ms.openlocfilehash: 167c4e5fe0b1be2d4c0c3931db08c02feb8fa53d
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 9af4f8772be25c5d3de0489cd24b9cdbac199daa
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36516438"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36738360"
 ---
-# <a name="convert-a-distribution-group-to-an-office-365-group"></a>แปลงกลุ่มการกระจายสินค้ากลุ่ม Office 365
+# <a name="convert-a-distribution-group-to-an-office-365-group"></a>การแปลงกลุ่มการกระจายสินค้าเป็นกลุ่ม Office ๓๖๕
 
-คุณสามารถแปลงกลุ่มการแจกจ่ายไปยัง Office 365 กลุ่มถ้าจะเป็นไปตามเงื่อนไขบางอย่าง เมื่อต้องการแปลงเป็นกลุ่ม หรือแก้ไขปัญหาการแปลง ดู[อัพเกรดรายการการแจกจ่ายไปยังกลุ่ม 365 Office ใน Outlook](https://support.office.com/article/787D7A75-E201-46F3-A242-F698162FF09F)
+คุณสามารถแปลงกลุ่มการแจกจ่ายให้กับ Office ๓๖๕กลุ่มถ้าพวกเขาตอบสนองเงื่อนไขบางอย่าง ในการแปลงกลุ่มหรือแก้ไขปัญหาการแปลงให้ดู[ที่รายการการแจกจ่ายการปรับรุ่นเป็น Office ๓๖๕กลุ่มใน Outlook](https://docs.microsoft.com/office365/admin/manage/upgrade-distribution-lists)

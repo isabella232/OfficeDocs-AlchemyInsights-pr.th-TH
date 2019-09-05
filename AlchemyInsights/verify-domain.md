@@ -1,5 +1,5 @@
 ---
-title: ตรวจสอบโดเมน
+title: ยืนยันโดเมน
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,19 +11,19 @@ localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 99b4b225-38b3-4af2-afd7-29769ef5c2a0
-ms.openlocfilehash: 418aea3140a787b4eead14dbc7d127a70564098a
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: f493daec299e5831f72b48d2ff1ae63c79c23b81
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36506246"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36738072"
 ---
-# <a name="trying-to-verify-your-domain"></a>กำลังพยายามตรวจสอบโดเมนของคุณหรือไม่
+# <a name="trying-to-verify-your-domain"></a>พยายามยืนยันโดเมนของคุณหรือไม่
 
-คุณต้องเพิ่มระเบียน TXT เพื่อผู้ลงทะเบียนของโดเมนเพื่อตรวจสอบว่า คุณเป็นเจ้าของโดเมนของคุณ ทำตามตัวช่วยสร้างโดเมนใหม่ใน Microsoft 365 admin ศูนย์ไปยัง**การตั้งค่า** \> **โดเมน**และจากนั้น**เพิ่มโดเมน** 
+คุณต้องเพิ่มระเบียน TXT ลงในผู้ลงทะเบียนโดเมนเพื่อยืนยันว่าคุณเป็นเจ้าของโดเมนของคุณ ทำตามตัวช่วยสร้างโดเมนใหม่ในศูนย์การจัดการ Microsoft ๓๖๕โดยไปที่**โดเมน****การตั้งค่า** \>และ**เพิ่มโดเมน** 
   
-ทำตามคำแนะนำในบทความด้านล่างเพื่อเพิ่มระเบียน TXT เพื่อตรวจสอบว่า โดเมนของคุณ เลือกผู้ลงทะเบียนการโดเมนของคุณสำหรับคำแนะนำเฉพาะสำหรับโดเมนของคุณ
+ทำตามคำแนะนำในบทความด้านล่างเพื่อเพิ่มระเบียน TXT เพื่อยืนยันโดเมนของคุณ เลือกผู้จดทะเบียนโดเมนของคุณสำหรับคำแนะนำเฉพาะสำหรับโดเมนของคุณ
   
-[สร้างระเบียน DNS สำหรับ Office 365](https://support.office.com/article/Create-DNS-records-for-Office-365-when-you-manage-your-DNS-records-B0F3FDCA-8A80-4E8E-9EF3-61E8A2A9AB23.aspx)
+[สร้างระเบียน DNS สำหรับ Office ๓๖๕](https://docs.microsoft.com/office365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider)
   
 

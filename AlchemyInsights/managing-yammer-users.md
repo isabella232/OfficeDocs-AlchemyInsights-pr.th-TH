@@ -11,29 +11,29 @@ ms.custom:
 - "733"
 - "6000004"
 ms.assetid: 34b5611b-e77e-4dd1-9480-a12c190fbaa3
-ms.openlocfilehash: 5906a9e80ac16233835dd691eccbe310df1dd26c
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: c6fddafaf0cc1fb1f6985a7aaf771688e3b87483
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36497066"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36734940"
 ---
 # <a name="managing-yammer-users"></a>การจัดการผู้ใช้ Yammer
 
-1. สำหรับข้อมูลเกี่ยวกับการจัดการผู้ใช้ Yammer จาก Office 365 โปรดดู[ผู้ใช้ที่จัดการ Yammer ระหว่างวัฏจักรของพวกเขาจาก Office 365](https://support.office.com/article/6c4c8fff-6444-404a-bffc-f9da0bcc3039) ซึ่งรวมถึงรายละเอียดใน:
+1. สำหรับข้อมูลเกี่ยวกับการจัดการผู้ใช้ Yammer จาก Office ๓๖๕โปรดดูที่[จัดการผู้ใช้ yammer ข้ามวงจรชีวิตของพวกเขาจาก office ๓๖๕](https://docs.microsoft.com/yammer/manage-yammer-users/manage-users-across-their-lifecycle) ซึ่งรวมถึงรายละเอียดเกี่ยวกับ:
 
-  - สร้างผู้ใช้
+  - การสร้างผู้ใช้
 
   - การลบผู้ใช้
 
-  - การจัดการผู้ใช้ Yammer จาก Office 365
+  - การจัดการผู้ใช้ Yammer จาก Office ๓๖๕
 
-2. โปรดดู[เพิ่ม บล็อก หรือเอาผู้ใช้ Yammer](http://alchemyportal.azurewebsites.net/Rule/ManageYammer%20users%20across%20their%20lifecycle%20from%20Office%20365)สำหรับข้อมูลเกี่ยวกับการจัดการผู้ใช้จากคอนโซล admin Yammer ข้อมูลนี้รวมถึง:
+2. โปรดดู[เพิ่มบล็อกหรือเอาผู้ใช้ Yammer](http://alchemyportal.azurewebsites.net/Rule/ManageYammer%20users%20across%20their%20lifecycle%20from%20Office%20365)สำหรับข้อมูลเกี่ยวกับการจัดการผู้ใช้จากคอนโซลการดูแลระบบ Yammer ซึ่งรวมถึง:
 
-  - เชิญเข้ามาหรือการเอาออกผู้ใช้
+  - การเชิญหรือการเอาผู้ใช้ออก
 
-  - เชิญผู้ใช้ที่เป็นแขก
+  - การเชิญผู้ใช้ที่เป็นแขก
 
-  - ส่งออกรายชื่อผู้ใช้
+  - การส่งออกรายชื่อผู้ใช้
 
-3. สำหรับข้อมูลเกี่ยวกับการเพิ่ม ลบ และการจัดการผู้ใช้ภายนอก ดู[เพิ่มภายนอกส่งข้อความผู้เข้าร่วมเครือข่าย Yammer ของคุณ](https://support.office.com/article/423653bb-86b2-4eac-9d7e-dca121f7c16c)
+3. สำหรับข้อมูลเกี่ยวกับการเพิ่มการเอาออกและการจัดการผู้ใช้ภายนอกโปรดดู[ที่การเพิ่มการเข้าร่วมการส่งข้อความภายนอกไปยังเครือข่าย Yammer ของคุณ](https://docs.microsoft.com/yammer/work-with-external-users/add-external-participants)

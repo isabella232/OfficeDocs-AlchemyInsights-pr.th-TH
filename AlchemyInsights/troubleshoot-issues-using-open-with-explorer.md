@@ -1,5 +1,5 @@
 ---
-title: แก้ปัญหาโดยใช้เปิด ด้วย Explorer
+title: การแก้ไขปัญหาโดยใช้เปิดด้วย Explorer
 ms.author: toresing
 author: tomresing
 manager: scotv
@@ -11,26 +11,26 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: ed852342-e33f-4450-8400-63d30df09476
-ms.openlocfilehash: 6e67c2916e0c5739f6126064d45e175a7fd6f8d4
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: a9ab7dd27e4dc1bd76c93cc81260616063e638ed
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36500234"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36742752"
 ---
-# <a name="fix-problems-with-open-with-explorer"></a>แก้ปัญหาเกี่ยวกับการเปิดด้วย Explorer
+# <a name="fix-problems-with-open-with-explorer"></a>แก้ไขปัญหาเกี่ยวกับการเปิดด้วย Explorer
 
-แก้ไขปัญหาทั่วไปเกี่ยวกับการเปิดไลบรารีเอกสารใน SharePoint หรือ OneDrive โดยใช้คำสั่ง**เปิด ด้วย Explorer** : 
+แก้ไขปัญหาทั่วไปเกี่ยวกับการเปิดไลบรารีเอกสารใน SharePoint หรือ OneDrive โดยใช้คำสั่ง**Open ด้วย Explorer** : 
   
-- ใช้ Internet Explorer 10 หรือ Internet Explorer 11 **เปิด ด้วย Explorer**ไม่เข้ากันกับ Microsoft ขอบ Google โครเมียม Firefox และผู้อื่น **เปิด ด้วย Explorer**ถูกปิดใช้งานในเบราว์เซอร์ทั้งหมดยกเว้น Internet Explorer 
+- ใช้ Internet Explorer 10 หรือ 11 Explorer อินเทอร์เน็ต **เปิดด้วย Explorer**ไม่สามารถทำงานร่วมกับ Microsoft Edge, Google Chrome, Firefox และอื่นๆ **เปิดด้วย Explorer**ถูกปิดใช้งานในเบราว์เซอร์ทั้งหมดยกเว้น Internet Explorer 
     
-- **เปิด ด้วย Explorer**จะไม่พร้อมใช้งานในประสบการณ์ใช้งานแบบสมัยใหม่สำหรับไลบรารี SharePoint ใช้**มุมมองใน Explorer แฟ้ม**แทน เลือก**ตัวเลือกมุมมอง** \> **มุมมอง Explorer แฟ้ม** มุมมองใน Explorer แฟ้มเข้ากันไม่ได้กับ ขอบของ Microsoft, Google โครเมียม Firefox และอื่น ๆ **มุมมองใน Explorer แฟ้ม**ในพร้อมใช้งานเฉพาะใน Internet Explorer 
+- **เปิดด้วย Explorer**ไม่พร้อมใช้งานในประสบการณ์ที่ทันสมัยสำหรับไลบรารี SharePoint ใช้**มุมมองใน File Explorer**แทน เลือกมุม**มองตัวเลือก** \> **มุมมองในแฟ้ม Explorer** ดูใน File Explorer เข้ากันไม่ได้กับ Microsoft Edge, Google โครเมียม, Firefox และอื่นๆ **ดูใน File explorer**พร้อมใช้งานเฉพาะใน Internet Explorer เท่านั้น 
     
-- ตรวจสอบให้แน่ใจว่า กำลังเรียกใช้บริการ WebClient ใน Windows กล่องค้นหา ชนิดทำงาน เลือกเรียกใช้เดสก์ท็อปแอพลิเคชัน พิมพ์ services.msc และจากนั้น กด Enter เลื่อนลงไปยังบริการ WebClient และต้องแน่ใจว่า คอลัมน์**สถานะ**แสดง "รัน" หากโปรแกรมไม่ คลิกสองครั้งที่บริการ คลิก**เริ่ม**และจากนั้น คลิก**ตกลง** (คุณอาจจำเป็นต้องเปิดใช้งานการบริการก่อน โดยเลือกอย่างใดอย่างหนึ่ง**ด้วยตนเอง**หรือ**โดยอัตโนมัติ**ในกล่อง**ชนิดการเริ่มต้นระบบ**) 
+- ตรวจสอบให้แน่ใจว่าบริการ WebClient กำลังทำงานอยู่ ในกล่องค้นหาของ Windows พิมพ์รันให้เลือกโปรแกรมประยุกต์การเรียกใช้เดสก์ท็อปพิมพ์บริการ. msc และจากนั้นกด Enter เลื่อนลงไปที่บริการ WebClient และตรวจสอบให้แน่ใจว่าคอลัมน์**สถานะ**แสดง "กำลังทำงาน" ถ้าไม่มีให้คลิกสองครั้งที่บริการคลิ**กเริ่ม**และจากนั้นคลิ**กตกลง** (คุณอาจจำเป็นต้องเปิดใช้งานบริการด้วยการเลือก**ด้วยตนเอง**หรือ**อัตโนมัติ**ในกล่อง**ชนิดการเริ่มต้นระบบ**) 
     
 > [!NOTE]
-> เปิดไลบรารีในแฟ้ม Explorer จะสะดวกถ้าคุณต้องการคัดลอก หรือย้ายแฟ้มและโฟลเดอร์หลายทันที แต่ ถ้าคุณต้องการทำงานเป็นประจำในไลบรารี เราขอแนะนำให้ตรงกัน เมื่อต้องการแก้ไขปัญหาที่เปิดในแฟ้ม Explorer ดู[เปิดใน Explorer](https://go.microsoft.com/fwlink/?linkid=871665) สำหรับข้อมูลเกี่ยวกับการตั้งค่าการซิงค์ ดู[SharePoint ซิงค์แฟ้มกับไคลเอนต์ซิงค์ OneDrive ใหม่](https://go.microsoft.com/fwlink/?linkid=871666)
+> การเปิดไลบรารีใน File Explorer จะมีประโยชน์ถ้าคุณต้องการคัดลอกหรือย้ายไฟล์และโฟลเดอร์หลายครั้งแต่ถ้าคุณต้องการทำงานในไลบรารีเป็นประจำเราขอแนะนำให้ซิงค์ข้อมูลนั้น หากต้องการแก้ไขปัญหาในการเปิด File Explorer โปรดดูที่[เปิดใน explorer](https://go.microsoft.com/fwlink/?linkid=871665) สำหรับข้อมูลเกี่ยวกับการตั้งค่าการซิงค์โปรดดู[ที่การซิงค์แฟ้ม SharePoint กับไคลเอ็นต์การซิงค์ OneDrive ใหม่](https://go.microsoft.com/fwlink/?linkid=871666)
   
-โปรดดูบทความ[วิธีใช้คำสั่ง "เปิดด้วย Explorer " การแก้ไขปัญหาใน SharePoint แบบออนไลน์](https://support.office.com/article/How-to-use-the-Open-with-Explorer-command-to-troubleshoot-issues-in-SharePoint-Online-87155331-0c92-4224-a4c1-da5c21c4ade4)สำหรับข้อมูลเพิ่มเติม 
+โปรดดูบทความ[วิธีการใช้คำสั่ง "เปิดด้วย Explorer" เพื่อแก้ไขปัญหาใน SharePoint แบบออนไลน์](https://docs.microsoft.com/sharepoint/support/lists-and-libraries/troubleshoot-issues-using-open-with-explorer)สำหรับข้อมูลเพิ่มเติม 
   
 

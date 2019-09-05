@@ -1,5 +1,5 @@
 ---
-title: ผู้ใช้การคืนค่าลบ
+title: คืนค่าผู้ใช้ที่ถูกลบ
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -13,23 +13,23 @@ ms.custom:
 - "73"
 - "1200013"
 ms.assetid: dae7b5b0-1003-40bd-b59f-8c5009fc8d82
-ms.openlocfilehash: be4ce067ba017a66aaff2e5808a904397c366bf5
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 0ec30e3560eb0a9ccceae101f692aa1969450f5b
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36551830"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36745092"
 ---
-# <a name="restore-a-user-in-office-365"></a>การคืนค่าผู้ใช้ใน Office 365
+# <a name="restore-a-user-in-office-365"></a>การคืนค่าผู้ใช้ใน Office ๓๖๕
 
-คืนค่าผู้ใช้ใน Office 365 โดยใช้ขั้นตอนเหล่านี้:
+คืนค่าผู้ใช้ใน Office ๓๖๕โดยใช้ขั้นตอนเหล่านี้:
   
-1. ไปที่[ผู้ใช้\>ลบผู้ใช้](https://admin.microsoft.com/adminportal/home#/deletedusers)
+1. ไปที่[ผู้\>ใช้ที่ถูกลบผู้ใช้](https://admin.microsoft.com/adminportal/home#/deletedusers)
 
-2. เลือกผู้ใช้ จาก นั้นเลือก**คืนค่า**
+2. เลือกผู้ใช้จากนั้นเลือก**กู้คืน**
 
-3. ทำตามพร้อมท์เพื่อตั้งค่ารหัสผ่าน
+3. ทำตามพร้อมท์เพื่อตั้งรหัสผ่าน
 
-4. คลิก**ส่งอีเมล และปิด**และคุณทำเสร็จแล้ว
+4. คลิ**กส่ง e-mail และปิด**และคุณเสร็จสิ้น!
 
-ไม่ได้ง่ายนั่นหรือไม่ สำหรับรายละเอียดและขั้นตอน ด้วยภาพหน้าจอ เช็คเอาท์บทความนี้:[ผู้ใช้ใน Office 365 การคืนค่า](https://support.office.com/article/2c261e42-5dd1-48b0-845f-2a016d29cfc1.aspx) ถ้าคุณทราบถึงการแทนที่คุณจำเป็นต้องใช้กล่องจดหมายของผู้ใช้การคืนค่า ดู:[ลบ หรือคืนค่ากล่องจดหมายของผู้ใช้ใน Exchange แบบออนไลน์](https://docs.microsoft.com/exchange/recipients-in-exchange-online/delete-or-restore-mailboxes)
+ไม่ใช่เรื่องง่าย? สำหรับรายละเอียดเพิ่มเติมและขั้นตอนที่มีภาพหน้าจอโปรดดูบทความนี้:[คืนค่าผู้ใช้ใน Office ๓๖๕](https://docs.microsoft.com/office365/admin/add-users/restore-user) ถ้าคุณตระหนักว่าคุณจำเป็นต้องคืนค่ากล่องจดหมายของผู้ใช้ให้ดูที่:[ลบหรือเรียกคืนกล่องจดหมายของผู้ใช้ใน Exchange แบบออนไลน์](https://docs.microsoft.com/exchange/recipients-in-exchange-online/delete-or-restore-mailboxes)

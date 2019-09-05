@@ -1,5 +1,5 @@
 ---
-title: ตั้งค่า SPF ใน Office 365
+title: ตั้งค่า SPF ใน Office ๓๖๕
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -15,18 +15,18 @@ ms.custom:
 - "1100002"
 - "1100003"
 ms.assetid: 0ba5e44e-f0ae-4978-98a3-90065447af08
-ms.openlocfilehash: 166c7ab10e51d309b79ae8ef1a58116e90d4380b
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 2d11c1c637761429c684875096397d03ac64a1b6
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36509127"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36744804"
 ---
-# <a name="set-passwords-to-never-expire"></a>ตั้งค่ารหัสผ่านไม่หมดอายุ
+# <a name="set-passwords-to-never-expire"></a>ตั้งรหัสผ่านให้ไม่มีวันหมดอายุ
 
-เมื่อต้องการตั้งรหัสผ่านทั้งหมดจะไม่หมดอายุ ใน Microsoft 365 admin ศูนย์ ไปที่**การตั้งค่า** > [ความปลอดภัย&amp;ความเป็นส่วนตัว](https://portal.office.com/adminportal/home#/settings/security)หน้า เลือก**แก้ไข**ถัดจาก**นโยบายรหัสผ่าน**และแถบเลื่อนไปยัง**บน**การเปิดใช้งาน
+การตั้งค่ารหัสผ่านทั้งหมดจะไม่หมดอายุในศูนย์ดูแลของ Microsoft ๓๖๕ไปที่หน้า[ความเป็นส่วนตัวด้านความปลอดภัย&amp; ](https://portal.office.com/adminportal/home#/settings/security)ของ**การตั้งค่า** >  เลือก**แก้ไข**ถัดจาก**นโยบายรหัสผ่าน**และเปิดแถบเลื่อนเป็น**** เปิด
   
-สำหรับข้อมูลเพิ่มเติมดู:[การตั้งค่านโยบายการหมดอายุของรหัสผ่านสำหรับองค์กรของคุณ](https://support.office.com/article/0f54736f-eb22-414c-8273-498a0918678f)
+สำหรับรายละเอียดเพิ่มเติมโปรดดูที่:[ตั้งค่านโยบายการหมดอายุของรหัสผ่านสำหรับองค์กรของคุณ](https://docs.microsoft.com/office365/admin/manage/set-password-expiration-policy)
   
-[ตั้งค่ารหัสผ่านไม่หมดอายุสำหรับผู้ใช้ที่ระบุ](https://support.office.com/article/f493e3af-e1d8-4668-9211-230c245a0466)
+[ตั้งรหัสผ่านให้ไม่มีวันหมดอายุสำหรับผู้ใช้ที่ระบุ](https://docs.microsoft.com/office365/admin/add-users/set-password-to-never-expire)
   

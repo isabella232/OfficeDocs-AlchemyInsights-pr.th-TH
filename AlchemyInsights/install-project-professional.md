@@ -1,5 +1,5 @@
 ---
-title: การติดตั้งระดับมืออาชีพโครงการ
+title: ติดตั้งโครงการมืออาชีพ
 ms.author: efrene
 author: efrene
 ms.date: 8/8/2019
@@ -12,20 +12,20 @@ ms.assetid: ''
 ms.custom:
 - "9000695"
 - "2607"
-ms.openlocfilehash: 6d88f8f13f242d797114eae2367f16de03c6ca33
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 9aa41ee8302413fb5c24eca3e7caaf1336fb65ad
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36498722"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36739152"
 ---
-# <a name="install-project-professional"></a>การติดตั้งระดับมืออาชีพโครงการ
+# <a name="install-project-professional"></a>ติดตั้งโครงการมืออาชีพ
 
-ดู[โครงการที่ติดตั้ง](https://support.office.com/article/install-project-7059249b-d9fe-4d61-ab96-5c5bf435f281?ui=en-US&rs=en-US&ad=US)เมื่อต้องการเรียนรู้วิธีการติดตั้งการสมัครใช้งานรุ่นออนไลน์ของโครงการ และโครงการ 2019, 2016 2013 หรือรุ่นไม่ได้สมัครสมาชิก 
+ดูที่การ[ติดตั้งโครงการ](https://support.office.com/article/install-project-7059249b-d9fe-4d61-ab96-5c5bf435f281)เพื่อเรียนรู้วิธีการติดตั้งรุ่นสมัครสมาชิกของโครงการออนไลน์และรุ่นที่ไม่ใช่การบอกรับเป็นสมาชิกของโครงการ๒๐๑๙, ๒๐๑๖หรือ๒๐๑๓ 
 
-สำหรับโครงการ 2010 หรือ 2007 ให้ทำตามขั้นตอนใน[Office 2010](https://support.office.com/article/install-office-2010-1b8f3c9b-bdd2-4a4f-8c88-aa756546529d) หรือ [Office 2007](https://support.office.com/article/install-office-2007-88a8e329-3335-4f82-abb2-ecea3e319657) 
+สำหรับโครงการ๒๐๑๐หรือ๒๐๐๗ให้ทำตามขั้นตอนใน[office ๒๐๑๐](https://support.office.com/article/install-office-2010-1b8f3c9b-bdd2-4a4f-8c88-aa756546529d) หรือ [office ๒๐๐๗](https://support.office.com/article/install-office-2007-88a8e329-3335-4f82-abb2-ecea3e319657) 
 
-โครงการขายเป็นโปรแกรมประยุกต์แบบสแตนด์อโลน ดังนั้นถ้าคุณไม่มีก็ได้ [ซื้อ หรือลองโครงการ](https://products.office.com/project) 
+โครงการขายเป็นแอปพลิเคชันแบบสแตนด์อโลนดังนั้นหากคุณยังไม่ได้ [ซื้อหรือลองใช้โครงการ](https://products.office.com/project) 
 
 
 

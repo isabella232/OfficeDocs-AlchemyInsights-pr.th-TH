@@ -1,7 +1,7 @@
 ---
-title: รายละเอียดเพิ่มเติมเกี่ยวกับนโยบายการเก็บข้อมูล
+title: ข้อมูลเพิ่มเติมเกี่ยวกับนโยบายการเก็บข้อมูล
 ms.author: stephow
-author: msft-stephow
+author: stephow-msft
 manager: laurawi
 ms.date: 08/14/2019
 ms.audience: admin
@@ -13,43 +13,43 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000048"
 - "1983"
-ms.openlocfilehash: ff9daf0489fb5feeb22bda19d55136caaea024cb
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: edf14c3b8c23416157325c7c319e75bd318303ca
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36521694"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36753779"
 ---
-# <a name="more-info-about-retention-policies"></a>รายละเอียดเพิ่มเติมเกี่ยวกับนโยบายการเก็บข้อมูล
+# <a name="more-info-about-retention-policies"></a>ข้อมูลเพิ่มเติมเกี่ยวกับนโยบายการเก็บข้อมูล
 
-สำหรับองค์กรโดยส่วนใหญ่ ระดับเสียง และความซับซ้อนของข้อมูลของพวกเขากำลังเพิ่มทุกวัน - อีเมล เอกสาร ข้อความโต้ตอบแบบทันที และอื่น ๆ การจัดการได้อย่างมีประสิทธิภาพ หรือที่ควบคุมรายละเอียดนี้เป็นสิ่งสำคัญ และนโยบายการเก็บข้อมูลจะช่วยให้คุณบรรลุเป้าหมายเหล่านี้ สำหรับข้อมูลเพิ่มเติมเกี่ยวกับนโยบายการเก็บข้อมูล โปรดเยี่ยมชมที่เชื่อมโยงเหล่านี้:
+สำหรับองค์กรส่วนใหญ่ปริมาณและความซับซ้อนของข้อมูลของพวกเขาจะเพิ่มขึ้นทุกวัน-email, เอกสาร, ข้อความโต้ตอบแบบทันทีและอื่นๆ การจัดการหรือควบคุมข้อมูลนี้อย่างมีประสิทธิภาพเป็นสิ่งสำคัญและนโยบายการเก็บรักษาสามารถช่วยให้คุณบรรลุเป้าหมายเหล่านี้ สำหรับข้อมูลเพิ่มเติมเกี่ยวกับนโยบายการเก็บข้อมูลโปรดไปที่ลิงก์เหล่านี้:
 
-## <a name="a-from-security-and-compliance-center"></a>A) จากศูนย์การปฏิบัติตามกฎระเบียบและการรักษาความปลอดภัย
+## <a name="a-from-security-and-compliance-center"></a>ก) จากศูนย์ความปลอดภัยและการปฏิบัติตามกฎระเบียบ
 
-- ไปที่ความปลอดภัยและการปฏิบัติตามกฎระเบียบ > ข้อมูลต้อง > เงินวางประกัน
-  - บทความ[THIS](https://docs.microsoft.com/office365/securitycompliance/retention-policies)ดู
+- ไปที่การรักษาความปลอดภัยและการปฏิบัติตามกฎระเบียบ _ Gt_ การกำกับดูแลข้อมูล _ Gt_ การรักษา
+  - ดูบทความ[นี้](https://docs.microsoft.com/office365/securitycompliance/retention-policies)
 
-- ความปลอดภัยและการปฏิบัติตามกฎระเบียบ > eDiscovery> ขั้นสูง eDiscovery ไป 
-  - บทความ[THIS](https://docs.microsoft.com/office365/securitycompliance/ediscovery-cases)ดู
+- ไปที่การรักษาความปลอดภัยและการปฏิบัติตามกฎระเบียบ > eDiscovery> eDiscovery ขั้นสูง 
+  - ดูบทความ[นี้](https://docs.microsoft.com/office365/securitycompliance/ediscovery-cases)
 
-- ไปที่การรักษาความปลอดภัยและการเก็บข้อมูล > จัดประเภท > ปฏิบัติตามกฎระเบียบ
+- ไปที่การรักษาความปลอดภัยและการปฏิบัติตามกฎระเบียบ > การจัดประเภท _ Gt_ การเก็บรักษา
   - ดูบทความเหล่านี้
-    - [ป้ายชื่อความไว](https://docs.microsoft.com/office365/securitycompliance/sensitivity-labels)
-    - [ภาพรวมของป้ายชื่อ](https://docs.microsoft.com/office365/securitycompliance/labels)
+    - [ป้ายความไว](https://docs.microsoft.com/office365/securitycompliance/sensitivity-labels)
+    - [ภาพรวมป้ายชื่อ](https://docs.microsoft.com/office365/securitycompliance/labels)
 
-## <a name="b-legacy-ediscovery-policies"></a>B) นโยบาย eDiscovery ดั้งเดิม
+## <a name="b-legacy-ediscovery-policies"></a>ข) นโยบาย eDiscovery ดั้งเดิม
 
-- บทความ[THIS](https://support.office.com/article/Set-up-an-eDiscovery-Center-in-SharePoint-Online-A18F8975-AA7F-43B4-A7D6-001D14744D8E)ดู
+- ดูบทความ[นี้](https://support.office.com/article/Set-up-an-eDiscovery-Center-in-SharePoint-Online-A18F8975-AA7F-43B4-A7D6-001D14744D8E)
 
 ## <a name="c-site-closure-and-deletion-policies"></a>C) นโยบายการปิดและการลบไซต์
 
-- บทความ[THIS](https://support.office.com/article/Use-policies-for-site-closure-and-deletion-A8280D82-27FD-48C5-9ADF-8A5431208BA5)ดู  
+- ดูบทความ[นี้](https://support.office.com/article/Use-policies-for-site-closure-and-deletion-A8280D82-27FD-48C5-9ADF-8A5431208BA5)  
 
-## <a name="d-information-rights-management-irm"></a>ง) ข้อมูลสิทธิ์การจัดการ (IRM)
+## <a name="d-information-rights-management-irm"></a>ง) การจัดการสิทธิ์ในข้อมูล (IRM)
 
 - ดูบทความเหล่านี้
-  - [IRM บนรายการ/ไลบรารี](https://support.office.com/article/apply-information-rights-management-to-a-list-or-library-3bdb5c4e-94fc-4741-b02f-4e7cc3c54aa1)
+  - [IRM ในรายการ/ไลบรารี](https://support.office.com/article/apply-information-rights-management-to-a-list-or-library-3bdb5c4e-94fc-4741-b02f-4e7cc3c54aa1)
   - [ภาพรวมของ IRM](https://support.office.com/article/create-and-apply-information-management-policies-eb501fe9-2ef6-4150-945a-65a6451ee9e9)
 
 > [!Note]
-> เราขอแนะนำการย้ายไปที่ความปลอดภัย และการปฏิบัติตามกฎระเบียบด้านนโยบายถ้าคุณยังคงใช้ eDiscovery ดั้งเดิมหรือนโยบาย IRM หรือ ปิดไซต์ และการลบ
+> เราขอแนะนำให้ย้ายไปยังนโยบายความปลอดภัยและการปฏิบัติตามกฎระเบียบถ้าคุณยังคงใช้แบบดั้งเดิม eDiscovery หรือ IRM หรือไซต์การปิดและการลบ

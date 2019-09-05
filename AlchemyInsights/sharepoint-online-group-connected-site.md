@@ -1,6 +1,6 @@
 ---
-title: เพิ่มกลุ่มลงในไซต์ SharePoint
-ms.author: kirks
+title: การเพิ่มกลุ่มลงในไซต์ SharePoint
+ms.author: pebaum
 author: Techwriter40
 manager: pamgreen
 ms.audience: Admin
@@ -10,30 +10,30 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: f7d730bf-0d6e-424c-970c-6137c71cb50b
-ms.openlocfilehash: 6aea12d44a44a3e11eaf3fb1bd47ff3e9dbfd9e7
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 423db4e5bbb85e75aee3548d5b6b46a64ebc6fa0
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36507866"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36750539"
 ---
-# <a name="issues-when-creating-or-group-connected-sites-in-sharepoint-online"></a>ปัญหาเมื่อสร้างหรือกลุ่มไซต์ใน SharePoint แบบออนไลน์ที่เชื่อมต่ออยู่
+# <a name="issues-when-creating-or-group-connected-sites-in-sharepoint-online"></a>ปัญหาเมื่อสร้างหรือจัดกลุ่มไซต์ที่เชื่อมต่อใน SharePoint แบบออนไลน์
 
-มีอยู่สองของปัญหาทั่วไปที่พบในขณะที่สร้าง หรือสร้างกลุ่มใหม่ให้เชื่อมต่อไซต์
+มีปัญหาที่พบบ่อยสองประการที่พบเมื่อสร้างหรือสร้างไซต์ที่เชื่อมต่อกับกลุ่มใหม่
 
- ถ้าคุณได้ลบกลุ่มและไซต์เชื่อมต่ออยู่ และต้องการที่สร้างไซต์อื่นที่ มี URL เดียวกัน คุณจำเป็นต้องการเอาไซต์ก่อนหน้า
+ หากคุณลบกลุ่มและไซต์ที่เชื่อมต่อและต้องการสร้างไซต์อื่นด้วย URL เดียวกันคุณจะต้องเอาไซต์ก่อนหน้าออกอย่างถาวร
 
-ดาวน์โหลด[SPO จัดการ Shell](https://support.office.com/article/introduction-to-the-sharepoint-online-management-shell-c16941c3-19b4-4710-8056-34c034493429)
+ดาวน์โหลด[เชลล์จัดการการบริหาร](https://support.office.com/article/introduction-to-the-sharepoint-online-management-shell-c16941c3-19b4-4710-8056-34c034493429)
 
- สำหรับข้อมูลเพิ่มเติมในการเริ่มต้นใช้ powershell ดู[การเริ่มต้นใช้งานกับเชลล์จัดการออนไลน์ของ SharePoint](https://docs.microsoft.com/powershell/module/sharepoint-online/remove-sposite?view=sharepoint-ps)
+ สำหรับข้อมูลเพิ่มเติมเกี่ยวกับการเริ่มต้นใช้งาน powershell โปรดดูที่[การเริ่มต้นใช้งานเชลล์จัดการออนไลน์ของ SharePoint](https://docs.microsoft.com/powershell/module/sharepoint-online/remove-sposite?view=sharepoint-ps)
 
-เอาไซต์ออกจากไซต์ถูกลบโดยใช้ cmdlet powershell[เอา SPODeletedSite](https://docs.microsoft.com/powershell/module/sharepoint-online/remove-sposite?view=sharepoint-ps)
+เอาไซต์ออกจากไซต์ที่ถูกลบโดยใช้ cmdlet powershell ของ[ไซต์เอาออก-SPODeletedSite](https://docs.microsoft.com/powershell/module/sharepoint-online/remove-sposite?view=sharepoint-ps)
 
-ถ้าคุณกำลังสร้างกลุ่มเชื่อมต่อไซต์ และได้รับคำเตือนกลุ่มอื่น ด้วยนามแฝงเหมือนกันอยู่แล้ว ตรวจสอบกลุ่มจาก[Office 365 จากศูนย์ดูแล](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/groups)ที่มีอยู่หรือไม่ เมื่อต้องการแก้ไขปัญหา ไม่จำเป็นต้องลบกลุ่มที่มีอยู่ หรือสร้างไซต์ ด้วยนามแฝงแตกต่างกันกำหนด
+หากคุณกำลังสร้างไซต์ที่เชื่อมต่อกับกลุ่มและได้รับคำเตือนกลุ่มอื่นที่มีนามแฝงเดียวกันอยู่แล้วให้ตรวจสอบกลุ่มที่มีอยู่จาก[Office ๓๖๕จากศูนย์การจัดการ](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/groups) เมื่อต้องการแก้ไขปัญหานี้ให้ลบกลุ่มที่มีอยู่ถ้าไม่ต้องการอีกต่อไปหรือสร้างไซต์ด้วยนามแฝงอื่นที่กำหนดไว้
 
-มีวิธีต่าง ๆ ในการสร้าง และใช้กลุ่มสมัยใหม่กับ SharePoint
+มีหลายวิธีในการสร้างและใช้กลุ่มที่ทันสมัยกับ SharePoint
 
-คุณสามารถเชื่อมต่อไซต์ที่มีอยู่ไปยังกลุ่ม Office 365 สำหรับข้อมูลเพิ่มเติม ให้ดู[กลุ่ม Office 365 ineterface ผู้ใช้ SharePoint โดยใช้การเชื่อมต่อ](https://docs.microsoft.com/sharepoint/dev/transform/modernize-connect-to-office365-group#connect-an-office-365-group-using-the-sharepoint-user-interface)
+คุณสามารถเชื่อมต่อไซต์ที่มีอยู่กับกลุ่ม Office ๓๖๕ได้ สำหรับข้อมูลเพิ่มเติมโปรดดูที่[การเชื่อมต่อกลุ่ม Office ๓๖๕โดยใช้ ineterface ผู้ใช้ SharePoint](https://docs.microsoft.com/sharepoint/dev/transform/modernize-connect-to-office365-group#connect-an-office-365-group-using-the-sharepoint-user-interface)
 
-เมื่อต้องการสร้างการเชื่อมโยงไซต์กลุ่ม Office 365 คุณจำเป็นต้องสร้างไซต์สำหรับทีม สำหรับข้อมูลเพิ่มเติม โปรดดู[สร้างไซต์สำหรับทีมใน SharePoint](https://support.office.com/article/create-a-team-site-in-sharepoint-ef10c1e7-15f3-42a3-98aa-b5972711777d)
+หากต้องการสร้างไซต์ที่เชื่อมต่อกับกลุ่ม Office ๓๖๕คุณจะต้องสร้างไซต์ทีม สำหรับข้อมูลเพิ่มเติมให้ดู[สร้างไซต์ทีมใน SharePoint](https://support.office.com/article/create-a-team-site-in-sharepoint-ef10c1e7-15f3-42a3-98aa-b5972711777d)
 

@@ -1,6 +1,6 @@
 ---
-title: โครงสร้างพื้นฐานการเผยแพร่ไซต์สื่อสาร
-ms.author: kirks
+title: การเผยแพร่โครงสร้างพื้นฐานด้วยไซต์การสื่อสาร
+ms.author: pebaum
 author: Techwriter40
 ms.audience: ITPro
 ms.topic: article
@@ -8,27 +8,27 @@ ms.prod: office-online-server
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: de63d2e1-f053-40ed-ac1a-041ddafefba0
-ms.openlocfilehash: 10a5f2f1d01d4b49bbcbe35b71aaeb6cc0f28c74
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 1d5eca87678ad0588c3dcd7edbf499e13baf09d9
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36502970"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36750107"
 ---
-# <a name="sharepoint-publishing-infrastructure"></a>ประกาศโครงสร้างพื้นฐานของ SharePoint
+# <a name="sharepoint-publishing-infrastructure"></a>การเผยแพร่โครงสร้างพื้นฐานของ SharePoint
 
 
-SharePoint มีชุดของคุณลักษณะที่ช่วยให้คุณสามารถสร้าง และเผยแพร่เว็บเพจที่ rich สำหรับอินทราเน็ตของคุณ แบบคลาสสิก เรียกใช้ SharePoint ประกาศโครงสร้างพื้นฐานในระดับไซต์คอลเลกชันเพื่อเปิดใช้งาน
+SharePoint มีชุดของคุณลักษณะแบบคลาสสิกที่ช่วยให้คุณสามารถสร้างและเผยแพร่เว็บเพจที่สมบูรณ์สำหรับอินทราเน็ตของคุณได้ เรียกใช้โครงสร้างพื้นฐานการประกาศของ SharePoint ที่ระดับไซต์คอลเลกชันเพื่อเปิด
 
-สำหรับข้อมูลเพิ่มเติมโปรดเยี่ยมชมลิงค์ด้านล่าง
+สำหรับข้อมูลเพิ่มเติมโปรดไปที่ลิงก์ด้านล่าง
 
 [เปิดใช้งานคุณลักษณะการประกาศ](https://support.office.com/article/Enable-publishing-features-479677A6-8B33-4AC7-907D-071C1C7E4518)
 
-[กำลังประกาศคุณลักษณะ](https://support.office.com/article/Features-enabled-in-a-SharePoint-Online-publishing-site-3AB3810C-3C2C-4361-9D0E-0CBE666EA0B0?wt.mc_id=O365_Portal_MMaven#__toc336865553)
+[คุณลักษณะการประกาศ](https://support.office.com/article/Features-enabled-in-a-SharePoint-Online-publishing-site-3AB3810C-3C2C-4361-9D0E-0CBE666EA0B0?wt.mc_id=O365_Portal_MMaven#__toc336865553)
 
-หมายเหตุ:
+หมาย เหตุ:
 
-- แม่แบบไซต์ที่เผยแพร่คลาสสิกรวมคุณลักษณะการประกาศ โดยค่าเริ่มต้น
+- เทมเพลตไซต์ที่เผยแพร่แบบคลาสสิกจะรวมคุณลักษณะการเผยแพร่ตามค่าเริ่มต้น
 
-- กำลังประกาศคุณลักษณะแบบคลาสสิกไม่พร้อมใช้งานบนไซต์สมัยใหม่ ไซต์แบบสมัยใหม่ให้เป็นอีกทางเลือกหนึ่งที่ใหม่กว่า โดยค่าเริ่มต้น
+- คุณลักษณะการเผยแพร่แบบคลาสสิกไม่สามารถใช้ได้ในเว็บไซต์ที่ทันสมัย เว็บไซต์ที่ทันสมัยให้ทางเลือกที่ใหม่กว่าโดยค่าเริ่มต้น
 

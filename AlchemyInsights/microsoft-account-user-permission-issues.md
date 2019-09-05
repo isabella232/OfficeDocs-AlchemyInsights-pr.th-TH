@@ -1,6 +1,6 @@
 ---
-title: แก้ไขปัญหา - ไม่พบในไดเรกทอรีของผู้ใช้
-ms.author: kirks
+title: แก้ไขปัญหา-ไม่พบผู้ใช้ในไดเรกทอรี
+ms.author: pebaum
 author: Techwriter40
 manager: pamgreen
 ms.audience: ITPro
@@ -8,31 +8,31 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 63f7d676-7cd9-4549-ba84-c3a8a7867f63
-ms.openlocfilehash: 537b27d06acd17cbb3fe99bcb89e153099e92bb4
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 81b9dafe8e27e5f73fe232c51ff56fed3fec29b4
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36544882"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36754211"
 ---
-# <a name="troubleshoot-issue---user-not-found-in-directory"></a>แก้ไขปัญหา - ไม่พบในไดเรกทอรีของผู้ใช้
+# <a name="troubleshoot-issue---user-not-found-in-directory"></a>แก้ไขปัญหา-ไม่พบผู้ใช้ในไดเรกทอรี
 
-ถ้าผู้ใช้ได้รับข้อผิดพลาดข้อความ "ไม่พบผู้ใช้" ในไดเรกทอรี โปรดลองอีกครั้ง ที่ชนิดการตัดสินค้าจากคลังที่ผู้ใช้ไม่มีไดเรกทอรี
+ถ้าผู้ใช้ได้รับข้อความข้อผิดพลาด "ผู้ใช้ไม่พบ" ในไดเรกทอรี โปรดลองอีกครั้งที่ชนิดของปัญหาเป็นผู้ใช้ไม่อยู่ในไดเรกทอรี
 
-ขั้นตอนต่อไปนี้สามารถให้สมบูรณ์เพื่อแก้ปัญหา
+ขั้นตอนต่อไปนี้สามารถทำให้เสร็จสมบูรณ์เพื่อแก้ไขปัญหา
 
-- ให้แน่ใจว่าบัญชีที่ยอมรับการเชิญทางอีเมลเป็นบัญชีเดียวกับที่ใช้เข้าสู่ระบบในภายหลัง ตรวจสอบให้แน่ใจว่า ผู้ใช้ที่กำลังใช้บัญชีเดียวกันเพื่อยอมรับการเชิญ และเซ็นชื่อลงในไซต์ 
+- ตรวจสอบให้แน่ใจว่าบัญชีที่ยอมรับการเชิญทางเมลเป็นบัญชีเดียวกันกับที่ใช้ในการเข้าสู่ระบบในภายหลัง ตรวจสอบให้แน่ใจว่าผู้ใช้ใช้บัญชีเดียวกันเพื่อยอมรับการเชิญและลงชื่อเข้าใช้เว็บไซต์ 
 
-สำหรับข้อมูลเพิ่มเติม ดู[วิธีการจัดการนามแฝงสำหรับบัญชีของคุณ Microsoft</a>การจัดการการเข้าสู่ระบบ Office 365](https://support.microsoft.com/help/12407/microsoft-account-how-to-manage-aliases) 
+สำหรับข้อมูลเพิ่มเติมให้ดู[วิธีการจัดการนามแฝงสำหรับบัญชี</a> Microsoft ของคุณเพื่อจัดการ Office ๓๖๕เข้าสู่ระบบ](https://support.microsoft.com/help/12407/microsoft-account-how-to-manage-aliases) 
 
-- เรียกดูไซต์แต่ละผู้ใช้ได้รับข้อผิดพลาด 
+- เรียกดูไปยังแต่ละไซต์ที่ผู้ใช้ได้รับข้อผิดพลาด 
 
-เพิ่ม " / _layouts/15/people.aspx/membershipgroupid=0 " (ภายในอัญประกาศ) ลงในส่วนท้ายของ URL ของไซต์ 
+เพิ่ม "/_layouts/15/people.aspx/membershipgroupid = 0" (ภายในอัญประกาศคู่) ไปยังจุดสิ้นสุดของ URL ของไซต์ 
 
-ตัวอย่าง: _"contoso">.sharepoint.com/_layouts/15/people.aspx/membershipGroupId=0 https://_lT
+ตัวอย่าง: https://_lt_ "contoso">/_ เค้าโครง/15/คน. aspx/membershipGroupId = 0
 
 - เลือกผู้ใช้จากรายการ
 
-- คลิก**เอาออกสิทธิ์ของผู้ใช้**จาก Ribbon 
--  เพิ่มผู้ใช้กลับ และส่งการเชิญไปยังผู้ใช้
+- คลิ**กเอาออกสิทธิ์ของผู้ใช้**จาก Ribbon 
+-  เพิ่มผู้ใช้และส่งการเชิญไปยังผู้ใช้อีกครั้ง
 

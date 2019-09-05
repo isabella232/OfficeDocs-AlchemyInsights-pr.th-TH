@@ -1,6 +1,6 @@
 ---
-title: เข้าถึงคุณลักษณะที่ร้องขอ
-ms.author: kirks
+title: คุณลักษณะการร้องขอการเข้าถึง
+ms.author: pebaum
 author: Techwriter40
 manager: pamgreen
 ms.date: 11/14/2018
@@ -11,28 +11,28 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: cebb7a4a-33e1-474e-a5d0-dbd02a80b1e9
-ms.openlocfilehash: 059eeab6cc3aa14f90258edc39144bc6bce928c0
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 14ae1064de9e26a4b9d9540205020af11ca2daee
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36503834"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36751547"
 ---
-# <a name="give-users-access-to-sharepoint-site"></a>ให้ผู้ใช้สามารถเข้าถึงไซต์ SharePoint
+# <a name="give-users-access-to-sharepoint-site"></a>การให้สิทธิ์การเข้าถึงไซต์ SharePoint แก่ผู้ใช้
 
-คุณลักษณะร้องขอการเข้าถึงช่วยให้บุคคลที่จะร้องขอการเข้าถึงเนื้อหาที่พวกเขายังไม่ได้รับอนุญาตให้ดู เป็นเจ้าของไซต์ คุณสามารถกำหนดค่าคุณลักษณะการส่งจดหมายของคุณเมื่อมีผู้ร้องขอการเข้าถึงไซต์ สำหรับข้อมูลเพิ่มเติม โปรดเยี่ยมชม[ตั้งค่า และจัดการการร้องขอการเข้าถึง](https://support.office.com/article/set-up-and-manage-access-requests-94b26e0b-2822-49d4-929a-8455698654b3)
+คุณลักษณะการร้องขอการเข้าถึงช่วยให้ผู้คนสามารถร้องขอการเข้าถึงเนื้อหาที่ไม่ได้รับอนุญาตให้ดูได้ในขณะนี้ ในฐานะเจ้าของไซต์คุณสามารถกำหนดค่าคุณลักษณะเพื่อส่งจดหมายเมื่อมีคนร้องขอการเข้าถึงไซต์ สำหรับข้อมูลเพิ่มเติมโปรดไปที่[ตั้งค่าและจัดการการร้องขอการเข้าถึง](https://support.office.com/article/set-up-and-manage-access-requests-94b26e0b-2822-49d4-929a-8455698654b3)
 
-ต่อไปนี้เป็นการเชื่อมโยงบางทั่วไปที่เกี่ยวข้องกับการร้องขอการเข้าถึง:
+ต่อไปนี้เป็นการเชื่อมโยงทั่วไปเกี่ยวกับการร้องขอการเข้าถึง:
 
-- [เข้าถึงถูกปฏิเสธ"การร้องขอการเข้าถึงรายการหรือ"ร้องขอการอนุมัติที่ล้มเหลว"เมื่อคุณทำการประมวลผลคำขอที่ค้างอยู่ใน SharePoint แบบออนไลน์](https://support.office.com/article/-Access-Denied-to-Access-Requests-list-or-Request-approval-failed-when-you-process-a-pending-request-in-SharePoint-Online-3ec71fe1-9111-4a4c-84a5-bdfe05c2e558)
+- [การเข้าถึงถูกปฏิเสธ "ไปยังรายการร้องขอการเข้าถึงหรือ" ร้องขอการอนุมัติล้มเหลว "เมื่อคุณดำเนินการคำขอที่ค้างอยู่ใน SharePoint แบบออนไลน์](https://docs.microsoft.com/sharepoint/support/sharing-and-permissions/request-approval-failed)
 
-- [ตั้งค่าการร้องขอการเข้าถึงการเปลี่ยนแปลง](https://support.office.com/article/set-up-and-manage-access-requests-94b26e0b-2822-49d4-929a-8455698654b3#bk_enableallow)
+- [เปลี่ยนการตั้งค่าคำขอเข้าถึง](https://support.office.com/article/set-up-and-manage-access-requests-94b26e0b-2822-49d4-929a-8455698654b3#bk_enableallow)
 
-- [อนุมัติ หรือปฏิเสธการร้องขอการเข้าถึงสำหรับไซต์](https://support.office.com/article/set-up-and-manage-access-requests-94b26e0b-2822-49d4-929a-8455698654b3#__toc374462558)
+- [อนุมัติหรือปฏิเสธคำขอเข้าถึงไซต์](https://support.office.com/article/set-up-and-manage-access-requests-94b26e0b-2822-49d4-929a-8455698654b3#__toc374462558)
 
-- [จัดการคำเชิญไปยังผู้ใช้ภายนอก (SharePoint ออนไลน์เท่านั้น)](https://support.office.com/article/set-up-and-manage-access-requests-94b26e0b-2822-49d4-929a-8455698654b3#__toc334189260)
+- [จัดการคำเชิญไปยังผู้ใช้ภายนอก (SharePoint แบบออนไลน์เท่านั้น)](https://support.office.com/article/set-up-and-manage-access-requests-94b26e0b-2822-49d4-929a-8455698654b3#__toc334189260)
 
-- [การส่งการเชิญอีกครั้ง](https://support.office.com/article/set-up-and-manage-access-requests-94b26e0b-2822-49d4-929a-8455698654b3#__toc374462560)
+- [ส่งคำเชิญอีกครั้ง](https://support.office.com/article/set-up-and-manage-access-requests-94b26e0b-2822-49d4-929a-8455698654b3#__toc374462560)
 
 
 

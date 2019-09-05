@@ -1,5 +1,5 @@
 ---
-title: ปรับปรุงระเบียน DNS
+title: อัปเดตระเบียน DNS
 ms.author: pebaum
 author: pebaum
 ms.audience: Admin
@@ -10,17 +10,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "41"
 - "100001"
-ms.openlocfilehash: ed6ef2f2165c2e0acf79f8d3d3ff6c84d737d90e
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: 80ae81fbb10463b9dd84ee8074e8dc3b291462ea
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36660775"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36742163"
 ---
-# <a name="update-dns-records"></a>ปรับปรุงระเบียน DNS
+# <a name="update-dns-records"></a>อัปเดตระเบียน DNS
 
-การตั้งค่าระเบียน DNS ของคุณมีความสำคัญกับการสมัครใช้งาน Office 365 ของคุณทำงานกับชื่อโดเมนแบบกำหนดเองของคุณ ใช้การเชื่อมโยงด้านล่างเพื่อเพิ่ม หรือปรับปรุงระเบียน DNS ของคุณ
+การตั้งค่าระเบียน DNS ของคุณเป็นสิ่งสำคัญที่จะได้รับการสมัครใช้งาน Office ๓๖๕ของคุณทำงานกับชื่อโดเมนที่กำหนดเองของคุณ ใช้ลิงก์ด้านล่างเพื่อเพิ่มหรืออัปเดตระเบียน DNS ของคุณ
   
-- [ปรับปรุงระเบียน DNS ใน Office 365](https://support.office.com/article/B0F3FDCA-8A80-4E8E-9EF3-61E8A2A9AB23)
+- [สร้างระเบียน DNS ที่ผู้ให้บริการโฮสต์ DNS ใดๆสำหรับ Office ๓๖๕](https://docs.microsoft.com/office365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider)
 
-- [เพิ่ม หรือแก้ไขระเบียน DNS ที่กำหนดเอง](https://support.office.com/article/AF00A516-DD39-4EDA-AF3E-1EAF686C8DC9)
+- [เพิ่มหรือแก้ไขเรกคอร์ด DNS ที่กำหนดเอง](https://docs.microsoft.com/office365/admin/dns/add-or-edit-custom-dns-records)

@@ -1,6 +1,6 @@
 ---
-title: การตั้งค่า Outlook.com
-ms.author: kirks
+title: การตั้งค Outlook.com
+ms.author: pebaum
 author: Techwriter40
 manager: pamgreen
 ms.date: 3/21/2019
@@ -9,13 +9,24 @@ ms.topic: article
 ms.custom: 9000302
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.openlocfilehash: a86cd709a86199c1db427faff74fb1270d217eee
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: b710fdd2f258b8142bb536205ce7e969c4669e2c
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36535410"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36752915"
 ---
 # <a name="settings-in-outlookcom"></a>การตั้งค่าใน Outlook.com
 
-<ul type="disc"> <li><span style="font-size: 10.5pt; font-family: 'Verdana',sans-serif; mso-fareast-font-family: 'Times New Roman'; mso-bidi-font-family: 'Times New Roman';">ถ้าผู้รับอยู่ภายใน หรือภายนอกองค์กรของคุณ และถ้าพวกเขากำลังใช้บัญชีอีเมลของ Office 365 หรือ Outlook.com ไคลเอ็นต์ต่อไปนี้ไม่ควรทำอะไรเป็นพิเศษเพื่อเปิดข้อความ: <strong>Outlook 2016, Outlook บนเว็บ / Outlook Web App,</strong> <strong>แอพลิเคชันโมบาย outlook</strong></span></li> <li style="color: black; line-height: normal; ; font-size: 10.5pt; font-style: normal; font-weight: 400;"><strong style="mso-bidi-font-weight: normal;"><span style="font-size: 10.5pt; font-family: 'Verdana',sans-serif; mso-fareast-font-family: 'Times New Roman'; mso-bidi-font-family: 'Times New Roman';">ผู้รับมอบสิทธิ์</span></strong> <span style="font-size: 10.5pt; font-family: 'Verdana',sans-serif; mso-fareast-font-family: 'Times New Roman'; mso-bidi-font-family: 'Times New Roman';">ของผู้ใช้ ที่ได้รับการป้องกันอีเมถูกส่งไปที่ ไม่สามารถเปิดได้รับการป้องกันข้อความ เฉพาะผู้รับต้นฉบับ (บุคคลที่ได้รับการป้องกันอีเมลที่ถูกส่งไป) สามารถดูข้อมูลในอีเมล</span></li> <li style="color: black; line-height: normal; ; font-size: 10.5pt; font-style: normal; font-weight: 400;"><span style="font-size: 10.5pt; font-family: 'Verdana',sans-serif; mso-fareast-font-family: 'Times New Roman'; mso-bidi-font-family: 'Times New Roman';">ถ้าผู้รับอยู่ในผู้ให้บริการอินเทอร์เน็ตที่แตกต่างกัน และจะเป็น&nbsp;ไม่สามารถเปิดข้อความ และดู&lsquo;rpmsg&rsquo;สิ่งที่แนบ คำแนะนำโปรดทำตามคำแนะนำด้านล่าง:</span> <ul type="circle"> <li style="color: black; line-height: normal; ; font-size: 10.5pt; font-style: normal; font-weight: 400;"><span style="font-size: 10.5pt; font-family: 'Verdana',sans-serif; mso-fareast-font-family: 'Times New Roman'; mso-bidi-font-family: 'Times New Roman';">เลือก<strong style="mso-bidi-font-weight: normal;">อ่าน</strong> ข้อความ</span></li> <li style="color: black; line-height: normal; ; font-size: 10.5pt; font-style: normal; font-weight: 400;"><span style="font-size: 10.5pt; font-family: 'Verdana',sans-serif; mso-fareast-font-family: 'Times New Roman'; mso-bidi-font-family: 'Times New Roman';">พวกเขาถูกเปลี่ยนเส้นทางไปยังเพจซึ่งควรเลือก&lsquo;<strong style="mso-bidi-font-weight: normal;">เข้าสู่ระบบ โดยใช้รหัสผ่านแบบครั้งเดียว</strong>&rsquo;</span></li> <li style="color: black; line-height: normal; ; font-size: 10.5pt; font-style: normal; font-weight: 400;"><span style="font-size: 10.5pt; font-family: 'Verdana',sans-serif; mso-fareast-font-family: 'Times New Roman'; mso-bidi-font-family: 'Times New Roman';">รหัสผ่านใช้เดียวจะส่งไปยังอยู่อีเมลเหมือนกัน ป้อนรหัสในหน้าต่างเบราว์เซอร์ จาก นั้นเลือก<strong style="mso-bidi-font-weight: normal;">ดำเนินการต่อ</strong>เพื่ออ่านข้อความของคุณ</span></li> </ul> </li> <li style="color: black; line-height: normal; ; font-size: 10.5pt; font-style: normal; font-weight: 400;"><span style="font-size: 10.5pt; font-family: 'Verdana',sans-serif; mso-fareast-font-family: 'Times New Roman'; mso-bidi-font-family: 'Times New Roman';">กำลังดำเนินการกับข้อความที่เข้ารหัสลับจากองค์กรอื่นของ Office 365 ให้ทำตามขั้นตอนต่าง ๆ ในการแก้ปัญหาระบุไว้ใน<a href="https://support.office.com/article/known-issues-opening-irm-protected-emails-sent-from-users-in-other-office-365-organizations-0dec0593-a05d-4aa2-8445-9311ebab3164?ui=en-US&amp;rs=en-US&amp;ad=US"><span style="color: blue;">บทความ</span></a>นี้</span></li> <li style="color: black; line-height: normal; ; font-size: 10.5pt; font-style: normal; font-weight: 400;"><span style="font-size: 10.5pt; font-family: 'Verdana',sans-serif; mso-fareast-font-family: 'Times New Roman'; mso-bidi-font-family: 'Times New Roman';">ถ้ากล่องจดหมายผู้รับอยู่บน<strong>Yahoo หรือ Gmail</strong><span style="mso-bidi-font-weight: bold;">โปรดทำตามคำแนะนำที่</span>พบใน<a href="https://support.office.com/article/how-do-i-open-a-protected-message-1157a286-8ecc-4b1e-ac43-2a608fbf3098?ui=en-US&amp;rs=en-US&amp;ad=US"><span style="color: blue;">บทความ</span></a>นี้</span></li> <li style="color: black; line-height: normal; ; font-size: 10.5pt; font-style: normal; font-weight: 400;"><span style="font-size: 10.5pt; font-family: 'Verdana',sans-serif; mso-fareast-font-family: 'Times New Roman'; mso-bidi-font-family: 'Times New Roman';">นโยบายการป้องกันถูกนำไปใช้เฉพาะกับ<a href="https://docs.microsoft.com/azure/information-protection/rms-client/client-admin-guide-file-types"><span style="color: blue;">รูปแบบแฟ้มที่รู้จัก</span></a> PDF และ OneDrive สำหรับธุรกิจการสิ่งที่แนบมาไม่ได้รับการสนับสนุนสำหรับการเข้ารหัสลับ</span></li> <li style="color: black; line-height: normal; ; font-size: 10.5pt; font-style: normal; font-weight: 400;"><strong style="mso-bidi-font-weight: normal;"><span style="font-size: 10.5pt; font-family: 'Verdana',sans-serif; mso-fareast-font-family: 'Times New Roman'; mso-bidi-font-family: 'Times New Roman';">กล่องจดหมายที่ใช้ร่วมกัน</span></strong> <span style="font-size: 10.5pt; font-family: 'Verdana',sans-serif; mso-fareast-font-family: 'Times New Roman'; mso-bidi-font-family: 'Times New Roman';">ไม่สามารถเปิดข้อความที่เข้ารหัสลับในขณะนี้โดยผ่านไคลเอนต์ใด ๆ ได้</span></li> </ul>
+ถ้าผู้รับเป็นภายในหรือภายนอกองค์กรของคุณและถ้าพวกเขากำลังใช้งาน Office ๓๖๕หรือบัญชีเม Outlook.com ไคลเอนต์ต่อไปนี้ไม่ควรต้องทำอะไรพิเศษเพื่อเปิดข้อความ: **outlook ๒๐๑๖, outlook บนเว็บ/Outlook Web App, แอป Outlook สำหรับอุปกรณ์เคลื่อน**ที่
+
+ผู้รับ**มอบสิทธิ์**ที่มีการส่ง email ที่มีการป้องกันไปให้ไม่สามารถเปิดข้อความที่ได้รับการป้องกันได้ เฉพาะผู้รับเดิมเท่านั้น (บุคคลที่ได้รับการป้องกันทาง email ถูกส่งไป) เท่านั้นที่สามารถดูข้อมูลในเมลได้
+
+- ถ้าผู้รับอยู่ในผู้ให้บริการอินเทอร์เน็ตที่แตก&nbsp;ต่างกันและพวกเขาไม่สามารถเปิดข้อความและดูสิ่งที่แนบมา ' rpmsg ' ทำตามคำแนะนำด้านล่าง:
+    - เลือก**อ่าน**ข้อความ
+    - พวกเขาจะถูกเปลี่ยนเส้นทางไปยังหน้าที่พวกเขาควรเลือก**ลงชื่อเข้าใช้ด้วยรหัสผ่านแบบครั้งเดียว**
+    - รหัสผ่านแบบใช้ครั้งเดียวจะถูกส่งไปยังที่อยู่ e-mail เดียวกัน ป้อนรหัสในหน้าต่างเบราว์เซอร์จากนั้นเลือก**ดำเนินการต่อ**เพื่ออ่านข้อความของคุณ
+- ถ้าคุณไม่สามารถเข้ารหัสลับข้อความจากองค์กรอื่น๓๖๕ Office ให้ทำตามขั้นตอนการแก้ปัญหาที่ระบุไว้ใน[บทความ](https://support.office.com/article/known-issues-opening-irm-protected-emails-sent-from-users-in-other-office-365-organizations-0dec0593-a05d-4aa2-8445-9311ebab3164)นี้
+- หากกล่องจดหมายของผู้รับอยู่ใน**Yahoo หรือ Gmail**โปรดทำตาม</span>คำแนะนำที่พบใน[บทความ](https://support.office.com/article/how-do-i-open-a-protected-message-1157a286-8ecc-4b1e-ac43-2a608fbf3098)นี้
+- นโยบายการป้องกันจะใช้กับ[รูปแบบไฟล์ที่รู้จัก](https://docs.microsoft.com/azure/information-protection/rms-client/client-admin-guide-file-types)เท่านั้น PDF และ OneDrive สำหรับสิ่งที่แนบมากับธุรกิจไม่ได้รับการสนับสนุนสำหรับการเข้ารหัสลับ
+- กล่องจดหมายที่ใช้ร่วมกัน**ไม่สามารถเปิดข้อความที่เข้ารหัสลับในขณะนี้ผ่านไคลเอนต์ใดๆ** 
