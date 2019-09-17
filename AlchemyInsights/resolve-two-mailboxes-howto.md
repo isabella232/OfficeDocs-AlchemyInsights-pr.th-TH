@@ -1,5 +1,5 @@
 ---
-title: 1374 แก้ไข howto กล่องจดหมายที่สอง
+title: ๑๓๗๔แก้ไขกล่องจดหมายทั้งสอง howto
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -12,15 +12,16 @@ ms.custom:
 - "1374"
 - "3500014"
 ms.assetid: 8bf1a8f2-58ef-4697-b9c0-be340de96bfe
-ms.openlocfilehash: 10fae9040b1d5d75a318721f0300ba722361e8c7
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 1307e13bf76e0b2afc9038333533d708f5d12f7f
+ms.sourcegitcommit: 16f08d051afca3c6d0de32826324f91cf63ab5ba
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35369864"
+ms.lasthandoff: 09/16/2019
+ms.locfileid: "36992088"
 ---
 # <a name="a-user-has-two-mailboxes"></a>ผู้ใช้มีกล่องจดหมายที่สอง
 
-สภาพแวดล้อมไฮบริดสลีที่ใช้ Azure Active Directory เชื่อมต่อ (AAD เชื่อมต่อ) หรือ DirSync โดยไม่ได้ตั้งใจอาจทำให้ผู้ใช้ต้องมีกล่องจดหมายที่สอง: หนึ่งในองค์กรในสถานที่และใน cloud ได้
+สภาพแวดล้อมไฮบริดที่ใช้ Azure Active Directory เชื่อมต่อ (AAD เชื่อมต่อ) หรือ DirSync อาจทำให้ผู้ใช้มีกล่องจดหมายสอง: หนึ่งในสถานที่และหนึ่งใน cloud สามารถสร้างกล่องจดหมายที่ซ้ำกันได้ในที่ใดก็ได้
 
-เมื่อต้องการแก้ไขปัญหานี้ ดู[อย่างถาวรล้างก่อนหน้านี้กล่องจดหมายข้อมูล](https://blogs.technet.microsoft.com/exchange/2018/01/17/permanently-clear-previous-mailbox-info/)
+เมื่อต้องการแก้ไขปัญหานี้โปรดดู[วิธีการกู้คืนเวลาที่กล่องจดหมายมีอยู่ในทั้งการแลกเปลี่ยนแบบออนไลน์และในสถาน](https://docs.microsoft.com/en-us/exchange/troubleshoot/move-mailboxes/mailbox-exists-exo-onpremises) หากคุณต้องการเรียนรู้เพิ่มเติมเกี่ยวกับวิธีหลีกเลี่ยงปัญหานี้จากการเกิดขึ้นในอนาคตโปรดดูที่[ผู้ใช้ของฉันมีกล่องจดหมายทั้งในสถานที่และในการแลกเปลี่ยนแบบออนไลน์ ช่วย!](https://techcommunity.microsoft.com/t5/Exchange-Team-Blog/My-user-has-a-mailbox-both-on-premises-and-in-Exchange-Online/ba-p/846809)
+
