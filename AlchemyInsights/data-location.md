@@ -1,8 +1,7 @@
 ---
-title: ตำแหน่งที่ตั้งข้อมูล
+title: ตำแหน่งของข้อมูล
 ms.author: pebaum
 author: pebaum
-ms.date: 6/20/2018
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,16 +10,27 @@ ms.custom:
 - "945"
 - "5300023"
 ms.assetid: 3bab036c-dbaa-406a-8b73-1e5f31993436
-ms.openlocfilehash: b895dabc8d3513a2035b698fefb04a540810cfa3
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 0e683c8266d425be95e87c590d4cb5d56108721a
+ms.sourcegitcommit: 71978e2bb779b5955fd113f84512b83321b26912
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36514178"
+ms.lasthandoff: 09/26/2019
+ms.locfileid: "37207280"
 ---
-# <a name="data-location"></a><span data-ttu-id="ffa64-102">ตำแหน่งที่ตั้งข้อมูล</span><span class="sxs-lookup"><span data-stu-id="ffa64-102">Data location</span></span>
+# <a name="data-location"></a><span data-ttu-id="70476-102">ตำแหน่งของข้อมูล</span><span class="sxs-lookup"><span data-stu-id="70476-102">Data location</span></span>
 
-<span data-ttu-id="ffa64-103">เรารักษาข้อมูลของคุณหลายสำเนาข้าม datacenters สำหรับการสำรอง</span><span class="sxs-lookup"><span data-stu-id="ffa64-103">We maintain multiple copies of your data across datacenters for redundancy.</span></span> <span data-ttu-id="ffa64-104">[ดูที่เป็นที่ตั้งของข้อมูลของคุณ](https://office.com/datamaps)</span><span class="sxs-lookup"><span data-stu-id="ffa64-104">[See where your data is located](https://office.com/datamaps).</span></span> <span data-ttu-id="ffa64-105">ถ้าเราขยายตำแหน่งของข้อมูลของคุณลงในภูมิภาคหรือประเทศใหม่ เราจะให้คุณแจ้งเตือนล่วงหน้าหนึ่งเดือน</span><span class="sxs-lookup"><span data-stu-id="ffa64-105">If we expand the location of your data into a new country or region, we'll give you one month advance notice.</span></span>
-  
-<span data-ttu-id="ffa64-106">สำหรับข้อมูลเพิ่มเติมเกี่ยวกับ Office 365 ความปลอดภัย ความเป็นส่วนตัว และการปฏิบัติตามกฎระเบียบ ดู[ศูนย์ความเชื่อถือของ Office 365](https://products.office.com/business/office-365-trust-center-welcome)</span><span class="sxs-lookup"><span data-stu-id="ffa64-106">For more info about Office 365 security, privacy, and compliance, see the [Office 365 Trust Center](https://products.office.com/business/office-365-trust-center-welcome).</span></span>
-  
+<span data-ttu-id="70476-103">คุณสามารถดูตำแหน่งที่ตั้งของผู้เช่า Office ๓๖๕ของคุณในศูนย์การจัดการหรือโดยการเชื่อมต่อกับ Exchange แบบออนไลน์ผ่านทาง PowerShell</span><span class="sxs-lookup"><span data-stu-id="70476-103">You can view the location of your Office 365 tenant in the admin center or by connecting to Exchange Online via PowerShell.</span></span>
+
+
+<span data-ttu-id="70476-104">**ศูนย์การจัดการ:**</span><span class="sxs-lookup"><span data-stu-id="70476-104">**Admin center:**</span></span>
+1. <span data-ttu-id="70476-105">ล็อกอินเข้าสู่[ศูนย์กลางการดูแล](https://admin.microsoft.com/Adminportal/Home)ระบบ</span><span class="sxs-lookup"><span data-stu-id="70476-105">Log in to the [admin center](https://admin.microsoft.com/Adminportal/Home).</span></span>
+2. <span data-ttu-id="70476-106">เลือก**โปรไฟล์องค์กร\*\*\*\*การตั้งค่า** > </span><span class="sxs-lookup"><span data-stu-id="70476-106">Select **Settings** > **Organization profile**.</span></span>
+3. <span data-ttu-id="70476-107">ภายใต้**ตำแหน่งข้อมูล**ให้เลือก**ดูรายละเอียด**</span><span class="sxs-lookup"><span data-stu-id="70476-107">Under **Data location**, select **View details**.</span></span>
+
+
+<span data-ttu-id="70476-108">**Powershell:**</span><span class="sxs-lookup"><span data-stu-id="70476-108">**PowerShell:**</span></span>
+1. <span data-ttu-id="70476-109">เชื่อมต่อกับการแลกเปลี่ยนแบบออนไลน์โดยใช้ Windows PowerShell</span><span class="sxs-lookup"><span data-stu-id="70476-109">Connect to Exchange Online by using Windows PowerShell.</span></span>
+2. <span data-ttu-id="70476-110">ดำเนินการ cmdlet การ[รับองค์กร](https://docs.microsoft.com/en-us/powershell/module/exchange/active-directory/get-organizationalunit)เพื่อแสดงรายการของคุณสมบัติของผู้เช่าของคุณ</span><span class="sxs-lookup"><span data-stu-id="70476-110">Execute the [Get-OrganizationalUnit](https://docs.microsoft.com/en-us/powershell/module/exchange/active-directory/get-organizationalunit) cmdlet to display a list of your tenant’s properties.</span></span> 
+3. <span data-ttu-id="70476-111">มองไปที่คุณสมบัติองค์กร</span><span class="sxs-lookup"><span data-stu-id="70476-111">Look at the OrganizationId property.</span></span>
+
+<span data-ttu-id="70476-112">เมื่อคุณมีตำแหน่งข้อมูลสำหรับ EXO และที่คุณสามารถกำหนดตำแหน่งข้อมูลสำหรับบริการอื่นๆที่คุณอาจใช้จาก[ตำแหน่งที่ข้อมูลของคุณอยู่](https://products.office.com/where-is-your-data-located)</span><span class="sxs-lookup"><span data-stu-id="70476-112">When you have the data location for EXO and SPO, you can determine the data location for other services you may use from [Where your data is located](https://products.office.com/where-is-your-data-located).</span></span>
