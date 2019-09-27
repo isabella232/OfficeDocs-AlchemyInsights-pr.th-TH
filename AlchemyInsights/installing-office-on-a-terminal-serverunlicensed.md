@@ -2,7 +2,6 @@
 title: การติดตั้งสำนักงานบนเซิร์ฟเวอร์เทอร์มินัล-ใบอนุญาต
 ms.author: pebaum
 author: pebaum
-ms.date: 12/17/2018
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,12 +10,12 @@ ms.custom:
 - "917"
 - "2000020"
 ms.assetid: b1074430-489e-4d49-bfe4-3d8783d8073c
-ms.openlocfilehash: 53071224a7c33532d864cd70b84bf0e3cc6a992f
-ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
+ms.openlocfilehash: 51d1a66fdf9774bbe58bfdbe89317bc93834be09
+ms.sourcegitcommit: 5e6a805fb0b41d714ca1cf90e23b8e2daa90f90e
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 09/04/2019
-ms.locfileid: "36735408"
+ms.lasthandoff: 09/26/2019
+ms.locfileid: "37205428"
 ---
 # <a name="installing-office-on-a-terminal-server"></a>การติดตั้ง Office บนเซิร์ฟเวอร์เทอร์มินัล
 
@@ -26,7 +25,10 @@ ms.locfileid: "36735408"
 
 - คุณต้องเปิดการใช้[งานคอมพิวเตอร์ที่ใช้ร่วมกัน](https://docs.microsoft.com/DeployOffice/overview-of-shared-computer-activation-for-office-365-proplus)
 
-ถ้าคุณต้องการติดตั้ง Office ๓๖๕ ProPlus บน RDS จากศูนย์ดูแล Microsoft ๓๖๕***ซึ่งใช้การตั้งค่าการติดตั้งเริ่มต้น***ให้ทำตามขั้นตอนเหล่านี้:
+ถ้าคุณต้องการติดตั้ง Office ๓๖๕ ProPlus บน RDS จากศูนย์ดูแล Microsoft ๓๖๕***ซึ่งใช้การตั้งค่าการติดตั้งเริ่มต้น***ให้ใช้ขั้นตอนต่อไปนี้
+
+> [!TIP]
+> นอกจากนี้คุณยังสามารถดาวน์โหลดและเรียกใช้[ฝ่ายสนับสนุนของ Microsoft และผู้ช่วยกู้คืน](https://aka.ms/SaRA_OfficeSCA_M365Portal)เพื่อติดตั้ง Office ๓๖๕ ProPlus ในโหมดการเปิดใช้งานคอมพิวเตอร์ที่ใช้ร่วมกัน
   
 1. ตรวจสอบว่าคุณมีแผน Office ๓๖๕ใดบ้าง [เรียนรู้วิธี](https://docs.microsoft.com/office365/admin/admin-overview/what-subscription-do-i-have)
 
