@@ -11,14 +11,14 @@ ms.collection: Adm_O365
 ms.custom:
 - "2605"
 - "9000701"
-ms.openlocfilehash: 5fa39c87550e6bacf60299c6420f5318ed99a73b
-ms.sourcegitcommit: 89b8d982f83ff8d269624e5745d3a186f1e3e6c1
+ms.openlocfilehash: 09cbbc28e3ad826dc3ed69a89e5ab3983c1aea24
+ms.sourcegitcommit: 3a7c40c232294878ac0c91302e86599ec6f5209e
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 10/01/2019
-ms.locfileid: "37350889"
+ms.lasthandoff: 10/02/2019
+ms.locfileid: "37373130"
 ---
-#   <a name="teams-common-issues-and-resolutions"></a>การตัดสินค้าจากคลังและวิธีแก้ปัญหาทั่วไป
+# <a name="teams-common-issues-and-resolutions"></a>การตัดสินค้าจากคลังและวิธีแก้ปัญหาทั่วไป
 
 สำหรับคำตอบที่เฉพาะเจาะจงมากขึ้นเกี่ยวกับปัญหาของ Microsoft Teams ให้ใส่คำถามของคุณสั้นๆอีกครั้งและรวมข้อผิดพลาดที่คุณเห็นหรือคุณลักษณะที่คุณกำลังใช้อยู่
 
@@ -32,7 +32,7 @@ ms.locfileid: "37350889"
     - หากต้องการกู้คืนช่องที่ถูกลบให้ดูที่[เก็บถาวรหรือกู้คืนทีม](https://support.office.com/article/archive-or-restore-a-team-dc161cfd-b328-440f-974b-5da5bd98b5a7)
 - **เรียกคืนไฟล์ที่ถูกลบ:** โปรดดูการ[กู้คืนไฟล์ที่ถูกลบใน Teams](https://support.office.com/article/recover-deleted-files-in-teams-a591d771-89a6-49e2-ab7e-271936fe3c4e)
 - **แก้ปัญหาแผ่นการเรียกเลขหมายที่ขาดหายไป:**  
-    1. ตรวจสอบให้แน่ใจว่าผู้ใช้ได้รับการกำหนด[สิทธิอนุญาต](https://docs.microsoft.com/MicrosoftTeams/assign-teams-licenses)ให้กับทีม
-    2. ตรวจสอบให้แน่ใจว่าผู้ใช้ได้กำหนด[แผนการโทร](https://docs.microsoft.com/MicrosoftTeams/calling-plan-landing-page)ไว้แล้ว
-    3. เปิดใช้งานผู้ใช้สำหรับ[องค์กรเสียง](https://docs.microsoft.com/en-us/skypeforbusiness/skype-for-business-hybrid-solutions/plan-your-phone-system-cloud-pbx-solution/enable-users-for-enterprise-voice-online-and-phone-system-voicemail#to-enable-your-users-for-phone-system-in-office-365-voice-and-voicemail)
+    - ตรวจสอบให้แน่ใจว่าผู้ใช้ได้รับการกำหนด[สิทธิอนุญาต](https://docs.microsoft.com/MicrosoftTeams/assign-teams-licenses)ให้กับทีม
+    - ตรวจสอบให้แน่ใจว่าผู้ใช้ได้กำหนด[แผนการโทร](https://docs.microsoft.com/MicrosoftTeams/calling-plan-landing-page)ไว้แล้ว
+    - เปิดใช้งานผู้ใช้สำหรับ[องค์กรเสียง](https://docs.microsoft.com/en-us/skypeforbusiness/skype-for-business-hybrid-solutions/plan-your-phone-system-cloud-pbx-solution/enable-users-for-enterprise-voice-online-and-phone-system-voicemail#to-enable-your-users-for-phone-system-in-office-365-voice-and-voicemail)
 - **ปัญหาที่ทราบกับทีม:** อ่าน[ปัญหาที่ทราบสำหรับ Microsoft Teams](https://docs.microsoft.com/microsoftteams/known-issues)
