@@ -12,24 +12,24 @@ ms.custom:
 - "2000023"
 ms.assetid: caf090c7-4270-4a75-a873-cb8d094dcd82
 ms.openlocfilehash: f920a41f3a6030263a7162d0ba060d9fe4e30f7b
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 08/29/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36659551"
 ---
-# <a name="install-office"></a><span data-ttu-id="e600d-102">การติดตั้ง Office</span><span class="sxs-lookup"><span data-stu-id="e600d-102">Install Office</span></span>
+# <a name="install-office"></a><span data-ttu-id="730ae-102">ติดตั้ง Office</span><span class="sxs-lookup"><span data-stu-id="730ae-102">Install Office</span></span>
 
-<span data-ttu-id="e600d-103">เมื่อต้องการติดตั้ง Office ผู้ใช้ต้องมีการ[Office 365 ธุรกิจผลิตภัณฑ์](https://support.office.com/article/f8ab5e25-bf3f-4a47-b264-174b1ee925fd?wt.mc_id=Alchemy_ClientDIA)ที่มีแอพลิเคชันเดสก์ท็อปและมี[กำหนดสิทธิ์การใช้งาน](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users)</span><span class="sxs-lookup"><span data-stu-id="e600d-103">To install Office, users must have an [Office 365 business product](https://support.office.com/article/f8ab5e25-bf3f-4a47-b264-174b1ee925fd?wt.mc_id=Alchemy_ClientDIA) that includes the desktop applications and an [assigned license](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users).</span></span>
+<span data-ttu-id="730ae-103">ในการติดตั้ง Office ผู้ใช้ต้องมี[ผลิตภัณฑ์ Office ๓๖๕ธุรกิจ](https://support.office.com/article/f8ab5e25-bf3f-4a47-b264-174b1ee925fd?wt.mc_id=Alchemy_ClientDIA)ที่มีโปรแกรมประยุกต์บนเดสก์ท็อปและสิทธิ์การใช้งานที่[กำหนด](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users)ไว้</span><span class="sxs-lookup"><span data-stu-id="730ae-103">To install Office, users must have an [Office 365 business product](https://support.office.com/article/f8ab5e25-bf3f-4a47-b264-174b1ee925fd?wt.mc_id=Alchemy_ClientDIA) that includes the desktop applications and an [assigned license](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users).</span></span>
   
-<span data-ttu-id="e600d-104">Office แล้วสามารถติดตั้งทำตามขั้นตอนต่อไปนี้:</span><span class="sxs-lookup"><span data-stu-id="e600d-104">Office can then be installed following the steps below:</span></span>
+<span data-ttu-id="730ae-104">จากนั้น Office สามารถติดตั้งได้ตามขั้นตอนด้านล่างนี้:</span><span class="sxs-lookup"><span data-stu-id="730ae-104">Office can then be installed following the steps below:</span></span>
   
-1. <span data-ttu-id="e600d-105">ไปที่[portal.office.com/OLS/MySoftware.aspx](https://portal.office.com/OLS/MySoftware.aspx)</span><span class="sxs-lookup"><span data-stu-id="e600d-105">Go to [portal.office.com/OLS/MySoftware.aspx](https://portal.office.com/OLS/MySoftware.aspx)</span></span>
+1. <span data-ttu-id="730ae-105">ไปที่[portal.office.com/OLS/MySoftware.aspx](https://portal.office.com/OLS/MySoftware.aspx)</span><span class="sxs-lookup"><span data-stu-id="730ae-105">Go to [portal.office.com/OLS/MySoftware.aspx](https://portal.office.com/OLS/MySoftware.aspx)</span></span>
 
-2. <span data-ttu-id="e600d-106">บนโฮมเพจ Office เลือกภาษาคุณต้องการ และจากนั้น เลือก**ขั้นสูง**เพื่อเลือกระหว่างรุ่น 64 บิต หรือ 32 บิต</span><span class="sxs-lookup"><span data-stu-id="e600d-106">On the Office home page, select the language you want, and then select **Advanced** to choose between the 64-bit or 32-bit version.</span></span>
+2. <span data-ttu-id="730ae-106">บนโฮมเพจของ Office ให้เลือกภาษาที่คุณต้องการจากนั้นเลือก**ขั้นสูง**เพื่อเลือกระหว่าง๖๔บิตหรือ๓๒บิต</span><span class="sxs-lookup"><span data-stu-id="730ae-106">On the Office home page, select the language you want, and then select **Advanced** to choose between the 64-bit or 32-bit version.</span></span>
 
-3. <span data-ttu-id="e600d-107">เลือกการ**ติดตั้ง Office**</span><span class="sxs-lookup"><span data-stu-id="e600d-107">Select **Install Office**.</span></span>
+3. <span data-ttu-id="730ae-107">เลือก**ติดตั้ง Office**</span><span class="sxs-lookup"><span data-stu-id="730ae-107">Select **Install Office**.</span></span>
 
-<span data-ttu-id="e600d-108">สำหรับรายละเอียดเพิ่มเติม ดู[ดาวน์โหลด และติดตั้ง หรือติดตั้ง Office บนพีซีหรือ Mac](https://support.office.com/article/4414eaaf-0478-48be-9c42-23adc4716658?wt.mc_id=Alchemy_ClientDIA)</span><span class="sxs-lookup"><span data-stu-id="e600d-108">For more details, see [Download and install or reinstall Office on a PC or Mac](https://support.office.com/article/4414eaaf-0478-48be-9c42-23adc4716658?wt.mc_id=Alchemy_ClientDIA).</span></span>
+<span data-ttu-id="730ae-108">สำหรับรายละเอียดเพิ่มเติมโปรดดูที่[ดาวน์โหลดและติดตั้งหรือติดตั้ง Office บนพีซีหรือ Mac](https://support.office.com/article/4414eaaf-0478-48be-9c42-23adc4716658?wt.mc_id=Alchemy_ClientDIA)อีกครั้ง</span><span class="sxs-lookup"><span data-stu-id="730ae-108">For more details, see [Download and install or reinstall Office on a PC or Mac](https://support.office.com/article/4414eaaf-0478-48be-9c42-23adc4716658?wt.mc_id=Alchemy_ClientDIA).</span></span>
   
-<span data-ttu-id="e600d-109">สำหรับคำแนะนำเฉพาะเจาะจงเกี่ยวกับ Visio หรือโครงการ ดู[Visio ที่ติดตั้ง](https://support.office.com/article/f98f21e3-aa02-4827-9167-ddab5b025710)หรือ[ติดตั้งโครงการ](https://support.office.com/article/7059249b-d9fe-4d61-ab96-5c5bf435f281)</span><span class="sxs-lookup"><span data-stu-id="e600d-109">For specific instructions on Visio or Project, see [Install Visio](https://support.office.com/article/f98f21e3-aa02-4827-9167-ddab5b025710) or [Install Project](https://support.office.com/article/7059249b-d9fe-4d61-ab96-5c5bf435f281).</span></span>
+<span data-ttu-id="730ae-109">สำหรับคำแนะนำเฉพาะบน Visio หรือ Project โปรดดูที่[ติดตั้ง visio](https://support.office.com/article/f98f21e3-aa02-4827-9167-ddab5b025710)หรือ[ติดตั้งโครงการ](https://support.office.com/article/7059249b-d9fe-4d61-ab96-5c5bf435f281)</span><span class="sxs-lookup"><span data-stu-id="730ae-109">For specific instructions on Visio or Project, see [Install Visio](https://support.office.com/article/f98f21e3-aa02-4827-9167-ddab5b025710) or [Install Project](https://support.office.com/article/7059249b-d9fe-4d61-ab96-5c5bf435f281).</span></span>
