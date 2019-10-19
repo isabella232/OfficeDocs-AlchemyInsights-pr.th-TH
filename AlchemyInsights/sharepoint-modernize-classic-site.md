@@ -1,5 +1,5 @@
 ---
-title: สมัยใหม่ไซต์เป็นไซต์ราก
+title: เว็บไซต์ที่ทันสมัยเป็นเว็บไซต์ราก
 ms.author: efrene
 author: efrene
 ms.audience: ITPro
@@ -7,22 +7,36 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.assetid: ''
-ms.openlocfilehash: 7f481110d37bed6660c5a220ac230284d613c976
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.assetid:
+- "9000153"
+- "1692"
+ms.openlocfilehash: 6f55f1c63551027cc5522d296cb3f3f342356d95
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36503510"
+ms.lasthandoff: 10/18/2019
+ms.locfileid: "36576705"
 ---
-# <a name="modernize-your-classic-sharepoint-site"></a><span data-ttu-id="b63a2-102">Modernize ไซต์ SharePoint ของคุณแบบคลาสสิก</span><span class="sxs-lookup"><span data-stu-id="b63a2-102">Modernize your classic SharePoint site</span></span>
+# <a name="modernize-your-classic-sharepoint-site"></a><span data-ttu-id="5b6c0-102">การปฏิรูปไซต์ SharePoint แบบคลาสสิกของคุณให้ทันสมัย</span><span class="sxs-lookup"><span data-stu-id="5b6c0-102">Modernize your classic SharePoint site</span></span>
 
-<span data-ttu-id="b63a2-103">ดูที่ด้านล่างเพื่อดูรายละเอียดเกี่ยวกับการใช้กับประสบการณ์ใช้งานแบบสมัยใหม่ใหม่:</span><span class="sxs-lookup"><span data-stu-id="b63a2-103">See the following for details about using the new modern experience:</span></span>
+<span data-ttu-id="5b6c0-103">เมื่อต้องการให้สวิตช์ไปยังส่วนติดต่อผู้ใช้ที่ทันสมัยคุณจำเป็นต้องเน้นต่อไปนี้:</span><span class="sxs-lookup"><span data-stu-id="5b6c0-103">To make the switch to a modern user interface, you need to focus on the following:</span></span>
 
-- <span data-ttu-id="b63a2-104">สำหรับภาพรวมแบบทีละขั้นตอนของ modernizing ไซต์ SharePoint ของคุณแบบคลาสสิกประสบการณ์ใช้งานแบบสมัยใหม่ ดู[Modernize ไซต์ SharePoint ของคุณแบบคลาสสิก](https://docs.microsoft.com/sharepoint/dev/transform/modernize-classic-sites)</span><span class="sxs-lookup"><span data-stu-id="b63a2-104">For a step-by-step overview of modernizing your classic SharePoint Sites to the modern experience, see [Modernize your classic SharePoint Sites](https://docs.microsoft.com/sharepoint/dev/transform/modernize-classic-sites).</span></span>
+- <span data-ttu-id="5b6c0-104">ย้าย**รายการและไลบรารี**ของคุณเพื่อใช้ส่วนติดต่อผู้ใช้ที่ทันสมัย (ยังเรียกว่ารายการที่ทันสมัยและประสบการณ์ห้องสมุด)</span><span class="sxs-lookup"><span data-stu-id="5b6c0-104">Transitioning your **lists and libraries** to use the modern user interface (also referred to as the modern list and library experience).</span></span>
+- <span data-ttu-id="5b6c0-105">เปลี่ยน**หน้าเว็บไซต์**ของคุณจากวิกิคลาสสิกและหน้า web part เป็นหน้าฝั่งไคลเอ็นต์ที่ทันสมัย</span><span class="sxs-lookup"><span data-stu-id="5b6c0-105">Transforming your **site pages** from classic wiki and web part pages into modern client-side pages.</span></span>
+- <span data-ttu-id="5b6c0-106">การสร้าง**ไซต์ที่ทันสมัย**(ไซต์ทีมหรือไซต์การสื่อสาร)</span><span class="sxs-lookup"><span data-stu-id="5b6c0-106">Creating **modern sites** (Team site or Communication Site).</span></span>
 
-- <span data-ttu-id="b63a2-105">เมื่อต้องการขยายการใช้ส่วนติดต่อผู้ใช้แบบสมัยใหม่สำหรับเพจต่าง ๆ ในไซต์และหน้ารายการและไลบรารีของคุณ ดู[Modernize อินเทอร์เฟซสำหรับผู้ใช้](https://docs.microsoft.com/sharepoint/dev/transform/modernize-userinterface)</span><span class="sxs-lookup"><span data-stu-id="b63a2-105">To maximize the use of the modern user interface for your site pages and list and library pages, see [Modernize the user interface](https://docs.microsoft.com/sharepoint/dev/transform/modernize-userinterface).</span></span> 
+<span data-ttu-id="5b6c0-107">สร้างประสบการณ์ของคุณโดย:</span><span class="sxs-lookup"><span data-stu-id="5b6c0-107">Modernize your experience by:</span></span>
+- <span data-ttu-id="5b6c0-108">[การเปิดใช้รายการและไลบรารีเพื่อแสดงในส่วนติดต่อผู้ใช้ที่ทันสมัย](https://docs.microsoft.com/sharepoint/dev/transform/modernize-userinterface-lists-and-libraries)โดยการแทนที่การกำหนดเองให้ลบคอลัมน์ที่ไม่สามารถเข้ากันได้ออกจากมุมมองที่ใช้หรือ (เป็นรีสอร์ทสุดท้าย) เพื่อย้ายข้อมูลไปยังชนิดรายการที่รองรับส่วนติดต่อผู้ใช้ที่ทันสมัย</span><span class="sxs-lookup"><span data-stu-id="5b6c0-108">[Enabling lists and libraries to show in the modern user interface](https://docs.microsoft.com/sharepoint/dev/transform/modernize-userinterface-lists-and-libraries) by replacing customizations, removing incompatible columns from the used views, or (as a last resort) moving data into a modern user interface-compatible list type.</span></span>
+- <span data-ttu-id="5b6c0-109">[การเชื่อมต่อไซต์ของคุณเข้ากับกลุ่ม Office ๓๖๕](https://docs.microsoft.com/sharepoint/dev/transform/modernize-connect-to-office365-group)ซึ่งจะทำให้ไซต์ของคุณเป็นโฮมเพจที่ทันสมัยและทำให้ไซต์ของคุณสามารถใช้งานได้เช่นกล่องจดหมายหรือโปรแกรมวางแผน Microsoft</span><span class="sxs-lookup"><span data-stu-id="5b6c0-109">[Connecting your site to an Office 365 group](https://docs.microsoft.com/sharepoint/dev/transform/modernize-connect-to-office365-group), which gives your site a modern home page and enables your site to use, for example, a mailbox or Microsoft Planner.</span></span> <span data-ttu-id="5b6c0-110">ซึ่งช่วยให้คุณสามารถใช้ปฏิทินและรายการงานรุ่นที่ทันสมัย</span><span class="sxs-lookup"><span data-stu-id="5b6c0-110">This enables you to use a modern version of a calendar and task list.</span></span>
+- <span data-ttu-id="5b6c0-111">[การสร้างหน้าเว็บที่ทันสมัย](https://support.office.com/article/create-and-use-modern-pages-on-a-sharepoint-site-b3d46deb-27a6-4b1e-87b8-df851e503dec)เป็นวิธีที่ดีในการแบ่งปันแนวคิดโดยใช้รูปภาพ, Excel, Word และ PowerPoint เอกสารวิดีโอและอื่นๆ</span><span class="sxs-lookup"><span data-stu-id="5b6c0-111">[Creating modern pages](https://support.office.com/article/create-and-use-modern-pages-on-a-sharepoint-site-b3d46deb-27a6-4b1e-87b8-df851e503dec), is a great way to share ideas using images, Excel, Word and PowerPoint documents, video, and more.</span></span>
+- <span data-ttu-id="5b6c0-112">[การสร้างหน้าฝั่งไคลเอ็นต์ที่ทันสมัย](https://docs.microsoft.com/sharepoint/dev/transform/modernize-userinterface-site-pages)และการกำหนดค่าเหล่านี้จะ "คล้ายกัน" กับวิกิคลาสสิกที่สำคัญของคุณและหน้า web part</span><span class="sxs-lookup"><span data-stu-id="5b6c0-112">[Creating modern client-side pages](https://docs.microsoft.com/sharepoint/dev/transform/modernize-userinterface-site-pages) and configuring these to be "similar" to your key classic wiki and web part pages.</span></span> <span data-ttu-id="5b6c0-113">การเปลี่ยนแปลงหน้าทางโปรแกรมควรจะทำสำหรับหน้าสำคัญของเว็บไซต์ของคุณ, ขณะที่การแปลงหน้าเว็บทั้งหมดเป็นทรัพยากรอย่างเข้มข้นและมักจะไม่จำเป็น.</span><span class="sxs-lookup"><span data-stu-id="5b6c0-113">Programmatic page transformation should be done for the key pages of your sites, as transforming all pages is resource-intensive and often not needed.</span></span> <span data-ttu-id="5b6c0-114">เพื่อให้ความช่วยเหลือในช่วงนี้เครื่องสแกนเนอร์แบบปรับปรุง SharePoint สามารถให้ข้อมูลการใช้งานเกี่ยวกับวิกิและเพจส่วนหนึ่งในปัจจุบัน</span><span class="sxs-lookup"><span data-stu-id="5b6c0-114">To assist in this triage, the SharePoint Modernization scanner can give you usage information about the current wiki and web part pages.</span></span>
+- <span data-ttu-id="5b6c0-115">[การสร้างเว็บไซต์ที่ทันสมัย](https://support.office.com/article/create-a-team-site-in-sharepoint-ef10c1e7-15f3-42a3-98aa-b5972711777d)</span><span class="sxs-lookup"><span data-stu-id="5b6c0-115">[Creating modern sites](https://support.office.com/article/create-a-team-site-in-sharepoint-ef10c1e7-15f3-42a3-98aa-b5972711777d).</span></span> <span data-ttu-id="5b6c0-116">ฉันควรสร้างไซต์ทีมหรือไซต์การสื่อสารหรือไม่</span><span class="sxs-lookup"><span data-stu-id="5b6c0-116">Should I create a team site or a communication site?</span></span>
 
-- <span data-ttu-id="b63a2-106">เมื่อต้องการเรียนรู้เพิ่มเติมเกี่ยวกับวิธีการยกเลิกการบล็อกรายการและไลบรารีของคุณโดยใช้ส่วนติดต่อผู้ใช้แบบสมัยใหม่ ดู[ขยายใหญ่สุดใช้ของสมัยใหม่ของรายการและไลบรารี](https://docs.microsoft.com/sharepoint/dev/transform/modernize-userinterface-lists-and-libraries)</span><span class="sxs-lookup"><span data-stu-id="b63a2-106">To learn more about how to unblock your lists and libraries when using the modern user interface, see [Maximize use of modern lists and libraries](https://docs.microsoft.com/sharepoint/dev/transform/modernize-userinterface-lists-and-libraries)</span></span>
+<span data-ttu-id="5b6c0-117">ข้อมูลเพิ่มเติม:</span><span class="sxs-lookup"><span data-stu-id="5b6c0-117">Additional Info:</span></span> 
+- <span data-ttu-id="5b6c0-118">สำหรับภาพรวมทีละขั้นตอนของการปรับความทันสมัยของไซต์ SharePoint คลาสสิกของคุณให้ได้รับประสบการณ์การใช้งานในยุคใหม่ให้ดูการปรับให้เหมาะกับ[Sharepoint sites คลาสสิก](https://docs.microsoft.com/sharepoint/dev/transform/modernize-classic-sites)</span><span class="sxs-lookup"><span data-stu-id="5b6c0-118">For a step-by-step overview of modernizing your classic SharePoint Sites to the modern experience, see [Modernize your classic SharePoint Sites](https://docs.microsoft.com/sharepoint/dev/transform/modernize-classic-sites).</span></span>
+- <span data-ttu-id="5b6c0-119">ดูคำแนะนำสำหรับ[ประสบการณ์สมัยใหม่](https://docs.microsoft.com/sharepoint/guide-to-sharepoint-modern-experience)</span><span class="sxs-lookup"><span data-stu-id="5b6c0-119">See a guide to [Modern Experience](https://docs.microsoft.com/sharepoint/guide-to-sharepoint-modern-experience).</span></span>
+- <span data-ttu-id="5b6c0-120">ดู[ประสบการณ์แบบคลาสสิกและสมัยใหม่ของ SharePoint](https://support.office.com/article/sharepoint-classic-and-modern-experiences-5725c103-505d-4a6e-9350-300d3ec7d73f)</span><span class="sxs-lookup"><span data-stu-id="5b6c0-120">See [SharePoint Classic and Modern experiences](https://support.office.com/article/sharepoint-classic-and-modern-experiences-5725c103-505d-4a6e-9350-300d3ec7d73f).</span></span> 
 
-- <span data-ttu-id="b63a2-107">สำหรับข้อมูลเพิ่มเติมเกี่ยวกับการเชื่อมต่อไปยังกลุ่ม Office 365 และทำการเชื่อมต่อกลุ่ม ดู[เชื่อมต่อไปยังกลุ่ม Office 365](https://docs.microsoft.com/sharepoint/dev/transform/modernize-connect-to-office365-group)</span><span class="sxs-lookup"><span data-stu-id="b63a2-107">For more information about connecting to an Office 365 group and performing a group-connection, see [Connect to an Office 365 group](https://docs.microsoft.com/sharepoint/dev/transform/modernize-connect-to-office365-group).</span></span>
+
+
+
