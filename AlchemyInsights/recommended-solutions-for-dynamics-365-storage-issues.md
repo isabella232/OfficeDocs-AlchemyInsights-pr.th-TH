@@ -1,5 +1,5 @@
 ---
-title: แนะนำวิธีแก้ไขปัญหาสำหรับปัญหาการเก็บข้อมูล Dynamics 365
+title: แนะนำโซลูชันสำหรับ Dynamics ๓๖๕ปัญหาการจัดเก็บ
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
@@ -10,20 +10,20 @@ ms.custom:
 - "1429"
 - "6200006"
 ms.openlocfilehash: c3d1ce1f0da0710772456baeb63ba2cf1b834fcc
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36509885"
 ---
-# <a name="recommend-solutions-for-dynamics-365-storage-issues"></a>แนะนำวิธีแก้ไขปัญหาสำหรับปัญหาการเก็บข้อมูล Dynamics 365
+# <a name="recommend-solutions-for-dynamics-365-storage-issues"></a>แนะนำวิธีแก้ไขปัญหาสำหรับการจัดเก็บ๓๖๕ Dynamics
 
-* เป็นผู้ดูแลส่วนกลาง ดูแบ่งการจัดเก็บ โดยสภาพแวดล้อม ตาราง 10 อันดับแรก และอื่น ๆ
+* ในฐานะผู้ดูแลระบบส่วนกลางให้ดูข้อมูลแยกย่อยที่จัดเก็บตามสภาพแวดล้อมตาราง10อันดับแรกและอีกมากมาย
 
-* [จัดเก็บคำถามเรียกเก็บเงินและการบอกรับเป็นสมาชิก](https://docs.microsoft.com/dynamics365/customer-engagement/admin/contact-information-microsoft-dynamics-365-online-billing-support)
+* [คำถามเกี่ยวกับการเรียกเก็บเงินและการสมัครใช้บริการ](https://docs.microsoft.com/dynamics365/customer-engagement/admin/contact-information-microsoft-dynamics-365-online-billing-support)
 
-* [อนุญาตให้ใช้สิทธิ์ของรายการแนะนำและการกำหนดราคา Dynamics 365](https://dynamics.microsoft.com/pricing/)
+* [Dynamics ๓๖๕การกำหนดราคาและคำแนะนำการให้สิทธิ์](https://dynamics.microsoft.com/pricing/)
 
-* [วิธีการซื้อที่เก็บข้อมูลเพิ่มเติม](https://docs.microsoft.com/dynamics365/customer-engagement/admin/manage-storage#add-storage-to-dynamics-365-online)
+* [วิธีการซื้อพื้นที่จัดเก็บข้อมูลเพิ่มเติม](https://docs.microsoft.com/dynamics365/customer-engagement/admin/manage-storage#add-storage-to-dynamics-365-online)
 
-* [วิธีการเพิ่มพื้นที่เก็บข้อมูล](https://docs.microsoft.com/dynamics365/customer-engagement/admin/free-storage-space)
+* [วิธีเพิ่มพื้นที่เก็บข้อมูล](https://docs.microsoft.com/dynamics365/customer-engagement/admin/free-storage-space)

@@ -1,5 +1,5 @@
 ---
-title: สร้างโฟลเดอร์ใน Outlook บนเว็บ
+title: การสร้างโฟลเดอร์ใน Outlook บนเว็บ
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -13,15 +13,15 @@ ms.custom:
 - "8000009"
 - "1994"
 ms.openlocfilehash: 75e64ae33750efaeb3a56dde0b1a27f9bafb8b77
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36557268"
 ---
 # <a name="create-a-folder"></a>การสร้างโฟลเดอร์
 
-1. ที่ด้านล่างของบานหน้าต่าง'โฟลเดอร์'ใน Outlook บนเว็บ เลือก**โฟลเดอร์ใหม่** คุณอาจต้องเลื่อนลงในบานหน้าต่างโฟลเดอร์มองเห็นปุ่ม**โฟลเดอร์ใหม่**
-1. ในกล่องข้อความ ใส่ชื่อสำหรับโฟลเดอร์ และจากนั้น กด Enter
+1. ที่ด้านล่างของบานหน้าต่างโฟลเดอร์ใน Outlook บนเว็บให้เลือก**โฟลเดอร์ใหม่** คุณอาจต้องเลื่อนลงในบานหน้าต่างโฟลเดอร์เพื่อดูปุ่ม**โฟลเดอร์ใหม่**
+1. ในกล่องข้อความให้ป้อนชื่อสำหรับโฟลเดอร์แล้วกด Enter
 
-เมื่อต้องการเรียนรู้เพิ่มเติม ดู[การทำงานกับโฟลเดอร์ข้อความใน Outlook บนเว็บ](https://support.office.com/article/ae0f10d6-54e7-4f29-acd3-78cdc3fdcb9f)
+เมื่อต้องการเรียนรู้เพิ่มเติมโปรดดูที่การ[ทำงานกับโฟลเดอร์ข้อความใน Outlook บนเว็บ](https://support.office.com/article/ae0f10d6-54e7-4f29-acd3-78cdc3fdcb9f)

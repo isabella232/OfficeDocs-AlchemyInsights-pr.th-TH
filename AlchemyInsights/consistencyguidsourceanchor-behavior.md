@@ -1,5 +1,5 @@
 ---
-title: ConsistencyGuid / sourceAnchor ลักษณะการทำงาน
+title: ลักษณะการทำงานของ ConsistencyGuid/แหล่งที่ยึด
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -12,22 +12,22 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 6a44f797-acc7-4cbe-aa5a-47e2581fabf5
 ms.openlocfilehash: f0ff94a8e46f1fb4e0ac8653c51f8f651e29498b
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36517014"
 ---
-# <a name="consistencyguid--sourceanchor-behavior"></a>ConsistencyGuid / sourceAnchor ลักษณะการทำงาน
+# <a name="consistencyguid--sourceanchor-behavior"></a>ลักษณะการทำงานของ ConsistencyGuid/แหล่งที่ยึด
 
-การเชื่อมต่อ AD azure (รุ่น 1.1.524.0 และหลัง) เอื้อการใช้เอกสาร msDS ConsistencyGuid เป็นแอตทริบิวต์ sourceAnchor ในขณะนี้ เมื่อต้องการใช้คุณลักษณะนี้ การเชื่อมต่อ AD Azure โดยอัตโนมัติคุณสามารถกำหนดค่ากฎการซิงโครไนส์กับ:
+การเชื่อมต่อ AD Azure (รุ่น1.1.524.0 และหลังจาก) ในขณะนี้อำนวยความสะดวกในการใช้งานของ msDS ConsistencyGuid เป็นแอตทริบิวต์ sourceAnchor เมื่อใช้คุณลักษณะนี้การเชื่อมต่อ AD Azure กำหนดค่ากฎการซิงโครไนส์โดยอัตโนมัติเพื่อ:
   
-- ใช้เอกสาร msDS ConsistencyGuid เป็นแอตทริบิวต์ sourceAnchor สำหรับวัตถุที่ผู้ใช้ ObjectGUID ถูกใช้สำหรับวัตถุชนิดอื่น
+- ใช้ msDS-ConsistencyGuid เป็นแอตทริบิวต์ sourceAnchor สำหรับวัตถุผู้ใช้ ObjectGUID จะใช้สำหรับชนิดออบเจ็กต์อื่น
     
-- เนื่องจากสาเหตุใดที่กำหนดให้กับสถานผู้ใช้ AD วัตถุซึ่งมีแอตทริบิวต์ ConsistencyGuid เอกสาร msDS ไม่เขียนเชื่อมต่อ AD Azure มีการเติมข้อมูลค่า objectGUID กลับไปยังแอตทริบิวต์ ConsistencyGuid เอกสาร msDS ในไดเรกทอรีที่ใช้งานอยู่ในสถานนั้น หลังจากที่มีแอตทริบิวต์ ConsistencyGuid เอกสาร msDS ข้อมูล เชื่อมต่อ AD Azure ส่งออกวัตถุไปยังโฆษณา Azure แล้ว
+- สำหรับวัตถุใดๆที่กำหนดไว้ในสถานที่ผู้ใช้โฆษณาแอตทริบิวต์ ConsistencyGuid ไม่ได้บรรจุ, การเชื่อมต่อ AD Azure เขียนค่า objectGUID ของมันกลับไปยังแอตทริบิวต์ msDS-ConsistencyGuid ในไดเรกทอรีที่ใช้งานอยู่ในสถาน หลังจากที่มีรวบรวมแอตทริบิวต์ ConsistencyGuid การเชื่อมต่อ AD Azure แล้วส่งออกวัตถุไปยังโฆษณา Azure
     
- **หมายเหตุ:** หนึ่งครั้งผิดในสถานโฆษณาวัตถุถูกนำเข้ามายังเชื่อมต่อ AD Azure (ที่อยู่ นำเข้ามายังพื้นที่ตัวเชื่อมต่อ AD และที่คาดการณ์ไว้ใน Metaverse) คุณไม่สามารถเปลี่ยนแปลงค่าของ sourceAnchor อีกต่อไป เมื่อต้องการระบุค่า sourceAnchor สำหรับการรับในสถานโฆษณาวัตถุ การกำหนดค่าของแอตทริบิวต์ ConsistencyGuid เอกสาร msDS ก่อนมีการนำเข้าลงในการเชื่อมต่อ AD Azure 
+ **หมายเหตุ:** เมื่อมีการนำเข้าวัตถุโฆษณาในสถานที่ในการเชื่อมต่อ AD Azure (นั่นคือนำเข้าลงในพื้นที่ตัวเชื่อมต่อ AD และคาดการณ์ไว้ใน Metaverse) คุณจะไม่สามารถเปลี่ยนแปลงแหล่งที่มาของจุดยึดอีกต่อไป เมื่อต้องการระบุค่า sourceAnchor สำหรับวัตถุโฆษณาในสถานที่ที่กำหนดให้กำหนดค่าแอตทริบิวต์ ConsistencyGuid ก่อนที่จะนำเข้ามาในการเชื่อมต่อ AD Azure 
   
-สำหรับข้อมูลเพิ่มเติมเกี่ยวกับ SourceAnchor และ ConsistencyGuid อ้างอิงต่อไปนี้:[เชื่อมต่อ AD Azure: แนวคิดการออกแบบ](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-design-concepts)
+สำหรับข้อมูลเพิ่มเติมเกี่ยวกับ SourceAnchor และ ConsistencyGuid อ้างอิงถึงต่อไปนี้:[แนวคิดการออกแบบโฆษณา Azure:](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-design-concepts)
   
 

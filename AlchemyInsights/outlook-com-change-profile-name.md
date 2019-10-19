@@ -1,5 +1,5 @@
 ---
-title: เปลี่ยนชื่อส่วนกำหนดค่าของคุณใน Outlook.com
+title: เปลี่ยนชื่อโปรไฟล์ของคุณใน Outlook.com
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -14,16 +14,16 @@ ms.custom:
 - "777"
 - "806"
 ms.openlocfilehash: e8b13f8b7a15fff520085e0644e4f8d9f732d92e
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36546739"
 ---
-# <a name="change-your-profile-name-in-outlookcom"></a>เปลี่ยนชื่อส่วนกำหนดค่าของคุณใน Outlook.com
+# <a name="change-your-profile-name-in-outlookcom"></a>เปลี่ยนชื่อโปรไฟล์ของคุณใน Outlook.com
 
 1. ไปที่[ข้อมูลบัญชี Microsoft ของคุณ](https://go.microsoft.com/fwlink/p/?linkid=860841)
 2. เลือก**แก้ไขชื่อ**
-3. ใส่ชื่อแรกและชื่อสุดท้าย และเลือก**บันทึก**
+3. ป้อนชื่อและนามสกุลแล้วเลือก**บันทึก**
 
-โปรดรอจนถึง 24 ชั่วโมงสำหรับการเปลี่ยนแปลงชื่อส่วนกำหนดค่าของคุณจะมีผลบังคับ
+โปรดรอ24ชั่วโมงสำหรับการเปลี่ยนแปลงชื่อโปรไฟล์ของคุณเพื่อให้มีผลบังคับใช้

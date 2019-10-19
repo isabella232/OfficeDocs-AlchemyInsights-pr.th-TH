@@ -1,5 +1,5 @@
 ---
-title: พอร์ทัล Dynamics 365 วิธีแก้ไขปัญหาที่แนะนำ
+title: Dynamics ๓๖๕พอร์ทัลที่แนะนำโซลูชัน
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
@@ -11,27 +11,27 @@ ms.custom:
 - "1454"
 - "1456"
 - "6200009"
-ms.openlocfilehash: a7c6358af738ee1d7f1b65ade5a496d55f7fea27
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: afd36494282e3974a903b7f9e4d34521d8e0faf4
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36553090"
+ms.lasthandoff: 10/18/2019
+ms.locfileid: "36745524"
 ---
-# <a name="dynamics-365-portals-recommended-solutions"></a>พอร์ทัล Dynamics 365 วิธีแก้ไขปัญหาที่แนะนำ
+# <a name="dynamics-365-portals-recommended-solutions"></a>Dynamics ๓๖๕พอร์ทัลที่แนะนำโซลูชัน
 
-* [วิธีการดูรายละเอียดข้อผิดพลาดของเซิร์ฟเวอร์ที่แสดงบนเว็บไซต์ของฉัน](https://docs.microsoft.com/dynamics365/customer-engagement/portals/view-portal-error-log)
+* [วิธีการดูข้อผิดพลาดเซิร์ฟเวอร์โดยละเอียดที่แสดงบนพอร์ทัลของฉัน](https://docs.microsoft.com/dynamics365/customer-engagement/portals/view-portal-error-log)
 
 * [วิธีการตั้งค่าพอร์ทัล](https://docs.microsoft.com/dynamics365/customer-engagement/portals/reset-portal)
 
 * [วิธีการล้างแคชฝั่งเซิร์ฟเวอร์สำหรับพอร์ทัล](https://docs.microsoft.com/dynamics365/customer-engagement/portals/clear-server-side-cache)
 
-* [วิธีการเปลี่ยนผู้ชมและชนิดของพอร์ทัล Dynamics 365](https://support.microsoft.com/en-us/help/4091253/how-to-change-the-audience-and-type-of-a-dynamics-365-portal)
+* [วิธีการเปลี่ยนผู้ชมและชนิดของพอร์ทัล Dynamics ๓๖๕](https://support.microsoft.com//help/4091253/how-to-change-the-audience-and-type-of-a-dynamics-365-portal)
 
 * [วิธีการเปลี่ยน URL พื้นฐานของพอร์ทัล](https://docs.microsoft.com/dynamics365/customer-engagement/portals/change-base-url)
 
-* [วิธีการตั้งค่าคอนฟิกตัวให้บริการข้อมูลเฉพาะตัวภายนอกกับเว็บไซต์](https://docs.microsoft.com/dynamics365/customer-engagement/portals/configure-portal-authentication)
+* [วิธีการตั้งค่าคอนฟิกผู้ให้บริการเอกลักษณ์ภายนอกกับพอร์ทัล](https://docs.microsoft.com/dynamics365/customer-engagement/portals/configure-portal-authentication)
 
 * [คำถามที่ถามบ่อย](https://support.microsoft.com/help/4456128/portal-capabilities-for-dynamics-365-faq)
 
-* [เริ่มต้นใช้งานกับเว็บไซต์ของฉัน Dynamics 365](https://docs.microsoft.com/dynamics365/customer-engagement/portals/manage-sharepoint-documents#step-2-set-up-sharepoint-integration-from-portal-admin-center)
+* [เริ่มต้นใช้งานกับ Dynamics ของฉัน๓๖๕พอร์ทัล](https://docs.microsoft.com/dynamics365/customer-engagement/portals/manage-sharepoint-documents#step-2-set-up-sharepoint-integration-from-portal-admin-center)

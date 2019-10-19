@@ -14,10 +14,10 @@ ms.custom:
 - "2000020"
 ms.assetid: 92f0ef7c-4a39-4885-994d-473a4d13accd
 ms.openlocfilehash: 98f83d7351bd6dd608c8dc8565c8050cc29dfcbc
-ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 09/04/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36743364"
 ---
 # <a name="solutions-for-error-30068-39"></a>วิธีแก้ปัญหาสำหรับข้อผิดพลาด30068-39

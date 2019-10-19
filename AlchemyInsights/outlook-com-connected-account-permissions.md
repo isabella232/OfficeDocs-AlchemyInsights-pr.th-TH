@@ -1,5 +1,5 @@
 ---
-title: สิทธิ์ของบัญชี Outlook.com เชื่อมต่อ 8000093
+title: ๘๐๐๐๐๙๓การอนุญาตบัญชีที่เชื่อมต่อ Outlook.com
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -12,20 +12,20 @@ ms.custom:
 - "1431"
 - "8000093"
 ms.openlocfilehash: 86200f95686e9249499e3c387776d26fdbbd8fc1
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36546917"
 ---
-# <a name="how-to-fix-it-looks-like-we-dont-have-permission"></a>วิธีการแก้ไขปัญหา "ดูเหมือนว่าเราไม่ได้รับอนุญาต"
+# <a name="how-to-fix-it-looks-like-we-dont-have-permission"></a>วิธีการแก้ไข "ดูเหมือนว่าเราไม่ได้รับอนุญาต"
 
-ถ้าคุณเห็นข้อผิดพลาด "ดูเหมือนว่าเราไม่ได้รับอนุญาตเพื่อรับอีเมลสำหรับ..." กรุณาดำเนินการต่อไปนี้:
+หากคุณเห็นข้อความข้อผิดพลาด "ดูเหมือนว่าเราไม่มีสิทธิ์ในการรับ email สำหรับ ..." โปรดดำเนินการดังต่อไปนี้:
 
-1. เปิด[การตั้งค่าบัญชีการเชื่อมต่อ](https://outlook.live.com/mail/options/mail/accounts)ของคุณ และลบออก หรือลูกค้าองค์กรเชื่อมโยงที่แสดงในข้อผิดพลาด
-2. เพิ่มบัญชีผู้ใช้เชื่อมต่ออีกครั้ง
-3. ย้อน[กลับไปยังกล่องจดหมายของคุณ](https://outlook.live.com/mail/inbox)
+1. เปิด[การตั้งค่าบัญชีที่เชื่อมต่อ](https://outlook.live.com/mail/options/mail/accounts)และลบหรือลบบัญชีที่เชื่อมต่อที่แสดงอยู่ในข้อผิดพลาด
+2. เพิ่มบัญชีที่เชื่อมต่ออีกครั้ง
+3. [กลับไปที่กล่องจดหมายของคุณ](https://outlook.live.com/mail/inbox)
 
-อาจใช้เวลาสักครู่สำหรับอีเมล์ทั้งหมดให้ตรงกันอีกครั้งจากบัญชีของคุณเชื่อมต่อ
+การซิงค์จากบัญชีที่เชื่อมต่อของคุณอาจใช้เวลาสักครู่
 
-เรียนรู้เพิ่มเติมเกี่ยวกับการ[เอาออก](https://support.office.com/article/0b9a6b95-ff1b-46c1-bf60-d6b3b82c5ac8?wt.mc_id=Office_Outlook_com_Alchemy)และ[เพิ่ม](https://support.office.com/article/c5224df4-5885-4e79-91ba-523aa743f0ba?wt.mc_id=Office_Outlook_com_Alchemy)บัญชีที่เชื่อมต่อกัน
+เรียนรู้เพิ่มเติมเกี่ยวกับการ[ลบ](https://support.office.com/article/0b9a6b95-ff1b-46c1-bf60-d6b3b82c5ac8?wt.mc_id=Office_Outlook_com_Alchemy)และการ[เพิ่ม](https://support.office.com/article/c5224df4-5885-4e79-91ba-523aa743f0ba?wt.mc_id=Office_Outlook_com_Alchemy)บัญชีที่เชื่อมต่อ

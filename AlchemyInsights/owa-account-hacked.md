@@ -1,5 +1,5 @@
 ---
-title: Hacked outlook บนบัญชีผู้ใช้เว็บ
+title: Outlook บนบัญชีเว็บที่ถูกแฮ็ก
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -10,14 +10,14 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: ''
 ms.openlocfilehash: 72dada23e9d69ae1ad55d427766e8cb51b700fa2
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36511218"
 ---
-# <a name="outlook-on-the-web-account-hacked"></a>Hacked outlook บนบัญชีผู้ใช้เว็บ
+# <a name="outlook-on-the-web-account-hacked"></a>Outlook บนบัญชีเว็บที่ถูกแฮ็ก
 
-ถ้าบัญชีของคุณได้ถูก hacked ทำตามคำแนะนำใน[วิธีการรักษาความปลอดภัย และการคืนค่าฟังก์ชันอีเมลเพื่อที่สงสัยละเมิดบัญชี Office 365 และกล่องจดหมาย](https://docs.microsoft.com/office365/securitycompliance/responding-to-a-compromised-email-account#how-to-secure-and-restore-email-function-to-a-suspected-compromised-office-365-account-and-mailbox)
+ถ้าบัญชีของคุณถูกแฮ็กให้ทำตามคำแนะนำใน[วิธีการรักษาความปลอดภัยและคืนค่าฟังก์ชันการทำงานของเมลไปยังบัญชีผู้ใช้ Office ๓๖๕และกล่องจดหมายที่ถูกบุกรุกที่ต้องสงสัย](https://docs.microsoft.com/office365/securitycompliance/responding-to-a-compromised-email-account#how-to-secure-and-restore-email-function-to-a-suspected-compromised-office-365-account-and-mailbox)
 
-เมื่อต้องการเรียนรู้เพิ่มเติมเกี่ยวกับขั้นตอนเพิ่มเติมที่คุณสามารถใช้เพื่อป้องกันบัญชีของคุณจากการถูกโจมตี ดู[Responding กับบัญชีอีเมลที่สมบูรณ์ใน Office 365](https://docs.microsoft.com/office365/securitycompliance/responding-to-a-compromised-email-account)
+หากต้องการเรียนรู้เพิ่มเติมเกี่ยวกับขั้นตอนเพิ่มเติมที่คุณสามารถดำเนินการเพื่อป้องกันไม่ให้บัญชีของคุณถูกบุกรุกโปรดดู[การตอบสนองต่อบัญชีผู้ใช้ Email ที่ถูกบุกรุกใน Office ๓๖๕](https://docs.microsoft.com/office365/securitycompliance/responding-to-a-compromised-email-account)
