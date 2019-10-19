@@ -1,5 +1,5 @@
 ---
-title: สมัยใหม่ไซต์เป็นไซต์ราก
+title: เว็บไซต์ที่ทันสมัยเป็นเว็บไซต์ราก
 ms.author: efrene
 author: efrene
 ms.audience: ITPro
@@ -7,22 +7,36 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.assetid: ''
-ms.openlocfilehash: 7f481110d37bed6660c5a220ac230284d613c976
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.assetid:
+- "9000153"
+- "1692"
+ms.openlocfilehash: 6f55f1c63551027cc5522d296cb3f3f342356d95
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36503510"
+ms.lasthandoff: 10/18/2019
+ms.locfileid: "36576705"
 ---
-# <a name="modernize-your-classic-sharepoint-site"></a>Modernize ไซต์ SharePoint ของคุณแบบคลาสสิก
+# <a name="modernize-your-classic-sharepoint-site"></a>การปฏิรูปไซต์ SharePoint แบบคลาสสิกของคุณให้ทันสมัย
 
-ดูที่ด้านล่างเพื่อดูรายละเอียดเกี่ยวกับการใช้กับประสบการณ์ใช้งานแบบสมัยใหม่ใหม่:
+เมื่อต้องการให้สวิตช์ไปยังส่วนติดต่อผู้ใช้ที่ทันสมัยคุณจำเป็นต้องเน้นต่อไปนี้:
 
-- สำหรับภาพรวมแบบทีละขั้นตอนของ modernizing ไซต์ SharePoint ของคุณแบบคลาสสิกประสบการณ์ใช้งานแบบสมัยใหม่ ดู[Modernize ไซต์ SharePoint ของคุณแบบคลาสสิก](https://docs.microsoft.com/sharepoint/dev/transform/modernize-classic-sites)
+- ย้าย**รายการและไลบรารี**ของคุณเพื่อใช้ส่วนติดต่อผู้ใช้ที่ทันสมัย (ยังเรียกว่ารายการที่ทันสมัยและประสบการณ์ห้องสมุด)
+- เปลี่ยน**หน้าเว็บไซต์**ของคุณจากวิกิคลาสสิกและหน้า web part เป็นหน้าฝั่งไคลเอ็นต์ที่ทันสมัย
+- การสร้าง**ไซต์ที่ทันสมัย**(ไซต์ทีมหรือไซต์การสื่อสาร)
 
-- เมื่อต้องการขยายการใช้ส่วนติดต่อผู้ใช้แบบสมัยใหม่สำหรับเพจต่าง ๆ ในไซต์และหน้ารายการและไลบรารีของคุณ ดู[Modernize อินเทอร์เฟซสำหรับผู้ใช้](https://docs.microsoft.com/sharepoint/dev/transform/modernize-userinterface) 
+สร้างประสบการณ์ของคุณโดย:
+- [การเปิดใช้รายการและไลบรารีเพื่อแสดงในส่วนติดต่อผู้ใช้ที่ทันสมัย](https://docs.microsoft.com/sharepoint/dev/transform/modernize-userinterface-lists-and-libraries)โดยการแทนที่การกำหนดเองให้ลบคอลัมน์ที่ไม่สามารถเข้ากันได้ออกจากมุมมองที่ใช้หรือ (เป็นรีสอร์ทสุดท้าย) เพื่อย้ายข้อมูลไปยังชนิดรายการที่รองรับส่วนติดต่อผู้ใช้ที่ทันสมัย
+- [การเชื่อมต่อไซต์ของคุณเข้ากับกลุ่ม Office ๓๖๕](https://docs.microsoft.com/sharepoint/dev/transform/modernize-connect-to-office365-group)ซึ่งจะทำให้ไซต์ของคุณเป็นโฮมเพจที่ทันสมัยและทำให้ไซต์ของคุณสามารถใช้งานได้เช่นกล่องจดหมายหรือโปรแกรมวางแผน Microsoft ซึ่งช่วยให้คุณสามารถใช้ปฏิทินและรายการงานรุ่นที่ทันสมัย
+- [การสร้างหน้าเว็บที่ทันสมัย](https://support.office.com/article/create-and-use-modern-pages-on-a-sharepoint-site-b3d46deb-27a6-4b1e-87b8-df851e503dec)เป็นวิธีที่ดีในการแบ่งปันแนวคิดโดยใช้รูปภาพ, Excel, Word และ PowerPoint เอกสารวิดีโอและอื่นๆ
+- [การสร้างหน้าฝั่งไคลเอ็นต์ที่ทันสมัย](https://docs.microsoft.com/sharepoint/dev/transform/modernize-userinterface-site-pages)และการกำหนดค่าเหล่านี้จะ "คล้ายกัน" กับวิกิคลาสสิกที่สำคัญของคุณและหน้า web part การเปลี่ยนแปลงหน้าทางโปรแกรมควรจะทำสำหรับหน้าสำคัญของเว็บไซต์ของคุณ, ขณะที่การแปลงหน้าเว็บทั้งหมดเป็นทรัพยากรอย่างเข้มข้นและมักจะไม่จำเป็น. เพื่อให้ความช่วยเหลือในช่วงนี้เครื่องสแกนเนอร์แบบปรับปรุง SharePoint สามารถให้ข้อมูลการใช้งานเกี่ยวกับวิกิและเพจส่วนหนึ่งในปัจจุบัน
+- [การสร้างเว็บไซต์ที่ทันสมัย](https://support.office.com/article/create-a-team-site-in-sharepoint-ef10c1e7-15f3-42a3-98aa-b5972711777d) ฉันควรสร้างไซต์ทีมหรือไซต์การสื่อสารหรือไม่
 
-- เมื่อต้องการเรียนรู้เพิ่มเติมเกี่ยวกับวิธีการยกเลิกการบล็อกรายการและไลบรารีของคุณโดยใช้ส่วนติดต่อผู้ใช้แบบสมัยใหม่ ดู[ขยายใหญ่สุดใช้ของสมัยใหม่ของรายการและไลบรารี](https://docs.microsoft.com/sharepoint/dev/transform/modernize-userinterface-lists-and-libraries)
+ข้อมูลเพิ่มเติม: 
+- สำหรับภาพรวมทีละขั้นตอนของการปรับความทันสมัยของไซต์ SharePoint คลาสสิกของคุณให้ได้รับประสบการณ์การใช้งานในยุคใหม่ให้ดูการปรับให้เหมาะกับ[Sharepoint sites คลาสสิก](https://docs.microsoft.com/sharepoint/dev/transform/modernize-classic-sites)
+- ดูคำแนะนำสำหรับ[ประสบการณ์สมัยใหม่](https://docs.microsoft.com/sharepoint/guide-to-sharepoint-modern-experience)
+- ดู[ประสบการณ์แบบคลาสสิกและสมัยใหม่ของ SharePoint](https://support.office.com/article/sharepoint-classic-and-modern-experiences-5725c103-505d-4a6e-9350-300d3ec7d73f) 
 
-- สำหรับข้อมูลเพิ่มเติมเกี่ยวกับการเชื่อมต่อไปยังกลุ่ม Office 365 และทำการเชื่อมต่อกลุ่ม ดู[เชื่อมต่อไปยังกลุ่ม Office 365](https://docs.microsoft.com/sharepoint/dev/transform/modernize-connect-to-office365-group)
+
+
+

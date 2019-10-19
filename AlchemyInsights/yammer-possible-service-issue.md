@@ -1,5 +1,5 @@
 ---
-title: Yammer - ปัญหาการบริการที่เป็นไปได้
+title: ปัญหาการบริการที่เป็นไปได้ของ Yammer
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -12,12 +12,12 @@ ms.custom:
 - "1338"
 - "2800001"
 ms.openlocfilehash: 7d89ce9a13430ac85fe3f634ccd106ef3f1e5532
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36557844"
 ---
-# <a name="yammer---possible-service-issue"></a>Yammer - ปัญหาการบริการที่เป็นไปได้
+# <a name="yammer---possible-service-issue"></a>การออกบริการที่เป็นไปได้ของ Yammer
 
-อาจเป็นปัญหาชั่วคราวซึ่งผู้ใช้อาจพบข้อผิดพลาดขณะกำลังเข้าถึง Yammer ตรวจสอบ[ความสมบูรณ์ของแดชบอร์ดบริการซึ่ง](https://admin.microsoft.com/AdminPortal/Home#/servicehealth)เมื่อต้องการดูถ้านี้มีผลต่อเครือข่ายของคุณหรือไม่
+อาจมีปัญหาในกรณีที่ผู้ใช้อาจพบข้อผิดพลาดเมื่อเข้าถึง Yammer ตรวจสอบ[แดชบอร์ดความสมบูรณ์ของบริการ](https://admin.microsoft.com/AdminPortal/Home#/servicehealth)เพื่อดูว่ามีผลต่อเครือข่ายของคุณหรือไม่

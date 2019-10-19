@@ -14,10 +14,10 @@ ms.custom:
 - "9000118"
 - "1655"
 ms.openlocfilehash: d01d985f34d782fe14b3e2e6e6696c0101002db1
-ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 09/04/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36744660"
 ---
 # <a name="sharepoint-alert-notifications-not-delivered"></a>ไม่มีการส่งการแจ้งเตือนการแจ้งเตือนของ SharePoint
@@ -41,7 +41,7 @@ ms.locfileid: "36744660"
 - **นโยบายการแจ้งเตือนการปฏิบัติตามกฎระเบียบของ O365 ขั้นสูง**: สำหรับข้อมูลเพิ่มเติมเกี่ยวกับการตั้งค่าการแจ้งเตือนเหล่านี้โปรดดูที่[นโยบายการแจ้งเตือนการปฏิบัติตามนโยบาย](https://docs.microsoft.com/office365/securitycompliance/alert-policies)
 - **บันทึกการตรวจสอบ SharePoint และ OneDrive**: สำหรับข้อมูลเพิ่มเติมเกี่ยวกับวิธีการกู้คืนเหตุการณ์เหล่านี้โปรดดู[ที่การค้นหาบันทึกการตรวจสอบ](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance#search-the-audit-log)
 - ข้อความ**แจ้งเตือนที่ส่งโดยการป้องกันภัยคุกคามขั้นสูง**: ดู[ATP สำหรับ SharePoint และ OneDrive](https://docs.microsoft.com/office365/securitycompliance/atp-for-spo-odb-and-teams)
-- ข้อความ**แจ้งเตือนที่ส่งโดยตำรวจป้องกันข้อมูลสูญหาย**: ดู[การแจ้งเตือนทาง EMAIL สำหรับนโยบาย DLP](https://docs.microsoft.com/office365/securitycompliance/use-notifications-and-policy-tips)
+- ข้อความ**แจ้งเตือนที่ส่งโดยนโยบายการป้องกันการสูญหายของข้อมูล**: ดู[การแจ้งเตือนทางเมลให้กับกรมธรรม์ DLP](https://docs.microsoft.com/office365/securitycompliance/use-notifications-and-policy-tips)
 
 ## <a name="related-topics"></a>หัวข้อที่เกี่ยวข้อง
 

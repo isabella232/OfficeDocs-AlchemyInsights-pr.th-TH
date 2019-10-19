@@ -10,21 +10,21 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 3e88e0f3-c86d-4ab8-b076-59d0552318f9
 ms.openlocfilehash: 604fc200517316de6e0194bd64e6eb3039cfa61b
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36553559"
 ---
 # <a name="questions-about-how-to-use-the-office-deployment-tool-odt"></a>คำถามเกี่ยวกับวิธีการใช้เครื่องมือการปรับใช้ Office (ODT)
 
 ดาวน์โหลดเครื่องมือการปรับใช้ Office จาก[ศูนย์ดาวน์โหลดของไมโครซอฟท์](http://go.microsoft.com/fwlink/p/?LinkID=626065)
   
-หลังจากดาวน์โหลดไฟล์ รันแบบขยายตัวเองแฟ้มปฏิบัติการ ซึ่งประกอบด้วย Office ปรับใช้เครื่องมือการเรียกใช้งานได้ (setup.exe) และแฟ้มการกำหนดค่าตัวอย่าง (configuration.xml)
+หลังจากดาวน์โหลดแฟ้มเรียกใช้แฟ้มที่ปฏิบัติการได้ด้วยตนเองซึ่งประกอบด้วยเครื่องมือการปรับใช้ Office ที่ปฏิบัติการ (setup.exe) และแฟ้มการกำหนดค่าตัวอย่าง (การกำหนดค่า. xml)
   
- **เมื่อต้องการแยกออก หรือเอาผลิตภัณฑ์ Office 365 ProPlus จากคอมพิวเตอร์ไคลเอนต์:**
+ **หากต้องการยกเว้นหรือเอาผลิตภัณฑ์ Office ๓๖๕ ProPlus ออกจากคอมพิวเตอร์ไคลเอนต์:**
   
-เมื่อการติดตั้ง Office 365 ProPlus คุณสามารถแยกเฉพาะผลิตภัณฑ์ เมื่อต้องการทำเช่นนี้ ให้ทำตามขั้นตอนต่าง ๆ สำหรับการติดตั้ง Office ด้วยการ ODT แต่รวมองค์ประกอบ ExcludeApp ในแฟ้มการกำหนดค่าของคุณ ตัวอย่างเช่น แฟ้มการตั้งค่าคอนฟิกนี้ติดตั้งผลิตภัณฑ์ Office 365 ProPlus ทั้งหมดยกเว้นผู้เผยแพร่:
+เมื่อติดตั้ง Office ๓๖๕ ProPlus คุณสามารถยกเว้นผลิตภัณฑ์ที่ระบุได้ โดยทำตามขั้นตอนสำหรับการติดตั้ง Office ด้วย ODT แต่รวมองค์ประกอบ ExcludeApp ในไฟล์การกำหนดค่าของคุณ ตัวอย่างเช่นแฟ้มการกำหนดค่านี้จะติดตั้งผลิตภัณฑ์ Office ๓๖๕ ProPlus ทั้งหมดยกเว้นผู้เผยแพร่:
   
 ```
 <Add SourcePath="\\Server\share" Version="15.1.2.3" OfficeClientEdition="32">

@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 84f2b70e-2b23-4039-8305-85783798feed
 ms.openlocfilehash: 5bd43255bf3978ebb7f2405fba5c01437d32ceb7
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36515934"
 ---
-# <a name="create-a-site"></a>การสร้างไซต์
+# <a name="create-a-site"></a>สร้างไซต์
 
-คุณสามารถสร้างชนิดที่แตกต่างกันของไซต์ใน SharePoint แบบออนไลน์ เมื่อต้องการเรียนรู้วิธีการทำเช่นนี้ในศูนย์กลางการดูแล SharePoint ใหม่ ดู[การสร้างไซต์](https://go.microsoft.com/fwlink/?linkid=866295) สำหรับข้อมูลเกี่ยวกับการอนุญาตให้ผู้ใช้สร้างไซต์ของตนเอง ดู[การสร้างไซต์การจัดการใน SharePoint แบบออนไลน์](https://go.microsoft.com/fwlink/?linkid=866296)
+คุณสามารถสร้างชนิดของไซต์ที่แตกต่างกันใน SharePoint แบบออนไลน์ หากต้องการเรียนรู้วิธีการทำเช่นนี้ในศูนย์ดูแล SharePoint ใหม่โปรดดู[สร้างไซต์](https://go.microsoft.com/fwlink/?linkid=866295) สำหรับข้อมูลเกี่ยวกับการอนุญาตให้ผู้ใช้สร้างไซต์ของตนเองให้ดู[ที่จัดการการสร้างไซต์ใน SharePoint แบบออนไลน์](https://go.microsoft.com/fwlink/?linkid=866296)
  
-สำหรับข้อมูลเกี่ยวกับชนิดของไซต์ใหม่ ดู[กลุ่มเชื่อมต่อไซต์ทีม](https://go.microsoft.com/fwlink/?linkid=866292)หรือ[ไซต์การสื่อสาร](https://go.microsoft.com/fwlink/?linkid=866294)
+สำหรับข้อมูลเกี่ยวกับชนิดไซต์ใหม่ให้ดูที่ไซต์[ทีมที่เชื่อมต่อกับกลุ่ม](https://go.microsoft.com/fwlink/?linkid=866292)หรือ[ไซต์การสื่อสาร](https://go.microsoft.com/fwlink/?linkid=866294)
     
 
 

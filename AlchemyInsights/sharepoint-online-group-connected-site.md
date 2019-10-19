@@ -11,10 +11,10 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: f7d730bf-0d6e-424c-970c-6137c71cb50b
 ms.openlocfilehash: 423db4e5bbb85e75aee3548d5b6b46a64ebc6fa0
-ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 09/04/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36750539"
 ---
 # <a name="issues-when-creating-or-group-connected-sites-in-sharepoint-online"></a>ปัญหาเมื่อสร้างหรือจัดกลุ่มไซต์ที่เชื่อมต่อใน SharePoint แบบออนไลน์
@@ -27,7 +27,7 @@ ms.locfileid: "36750539"
 
  สำหรับข้อมูลเพิ่มเติมเกี่ยวกับการเริ่มต้นใช้งาน powershell โปรดดูที่[การเริ่มต้นใช้งานเชลล์จัดการออนไลน์ของ SharePoint](https://docs.microsoft.com/powershell/module/sharepoint-online/remove-sposite?view=sharepoint-ps)
 
-เอาไซต์ออกจากไซต์ที่ถูกลบโดยใช้ cmdlet powershell ของ[ไซต์เอาออก-SPODeletedSite](https://docs.microsoft.com/powershell/module/sharepoint-online/remove-sposite?view=sharepoint-ps)
+เอาไซต์ออกจากไซต์ที่ถูกลบโดยใช้ cmdlet powershell ของการ[เอาออก SPODeletedSite](https://docs.microsoft.com/powershell/module/sharepoint-online/remove-sposite?view=sharepoint-ps)
 
 หากคุณกำลังสร้างไซต์ที่เชื่อมต่อกับกลุ่มและได้รับคำเตือนกลุ่มอื่นที่มีนามแฝงเดียวกันอยู่แล้วให้ตรวจสอบกลุ่มที่มีอยู่จาก[Office ๓๖๕จากศูนย์การจัดการ](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/groups) เมื่อต้องการแก้ไขปัญหานี้ให้ลบกลุ่มที่มีอยู่ถ้าไม่ต้องการอีกต่อไปหรือสร้างไซต์ด้วยนามแฝงอื่นที่กำหนดไว้
 
