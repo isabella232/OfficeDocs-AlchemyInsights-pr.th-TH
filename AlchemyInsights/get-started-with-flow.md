@@ -1,5 +1,5 @@
 ---
-title: เริ่มต้นใช้งานกับขั้นตอน
+title: เริ่มต้นใช้งาน Flow
 ms.author: toresing
 author: tomresing
 ms.date: 5/18/2018
@@ -9,22 +9,22 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 46adf2ae-f55c-4ae5-9540-7fcfcb0a3e4f
 ms.openlocfilehash: 008f17cd8e266497ad339e79c2095e06d7184d67
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36524214"
 ---
-# <a name="get-started-with-microsoft-flow"></a>เริ่มต้นใช้งานกับกระแสของ Microsoft
+# <a name="get-started-with-microsoft-flow"></a>เริ่มต้นใช้งาน Microsoft Flow
 
-ด้วยขั้นตอนของ Microsoft คุณสามารถ:
+ด้วย Microsoft Flow คุณสามารถ:
   
-- ค้นหาแม่แบบและบริการได้อย่างง่ายดายขึ้น
+- ค้นหาแม่แบบและบริการได้อย่างง่ายดาย
     
-- เลือกจากบริการได้รับความนิยมมากที่สุด
+- เลือกจากบริการที่เป็นที่นิยมมากที่สุด
     
-- ดูภาพรวมของแต่ละขั้นตอน
+- ดูภาพรวมของแต่ละโฟลว์
     
-[เรียนรู้เพิ่มเติมเกี่ยวกับขั้นตอนของ Microsoft](https://go.microsoft.com/fwlink/?linkid=874446)
+[เรียนรู้เพิ่มเติมเกี่ยวกับ Microsoft Flow](https://go.microsoft.com/fwlink/?linkid=874446)
   
 

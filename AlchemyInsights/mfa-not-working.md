@@ -1,5 +1,5 @@
 ---
-title: การตัดสินค้าจากคลังกับ MFA
+title: ปัญหาเกี่ยวกับ MFA
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -12,17 +12,17 @@ ms.custom:
 - "2417"
 - "9000557"
 ms.openlocfilehash: 276f6b2212c9d85df726cb46a46dee7828b34c89
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36545203"
 ---
-# <a name="issues-with-mfa"></a>การตัดสินค้าจากคลังกับ MFA
-มีบางสิ่งที่จะตรวจสอบถ้าผู้ใช้ไม่สามารถเข้าสู่ระบบโดยใช้การรับรองความถูกต้องด้วยหลายปัจจัย (MFA)
+# <a name="issues-with-mfa"></a>ปัญหาเกี่ยวกับ MFA
+มีสองสิ่งที่ต้องตรวจสอบว่าผู้ใช้ไม่สามารถเข้าสู่ระบบโดยใช้การรับรองความถูกต้องด้วยหลายปัจจัย (MFA)
 
-1. ผู้ใช้ที่ได้รับผลกระทบอาจถูกบล็อกใน Azure เว็บไซต์ไดเรกทอรีที่ใช้งานอยู่ ถ้าเป็นกรณีนี้ รับรองความถูกต้องพยายามให้ เฉพาะผู้ใช้จะสามารถโดยอัตโนมัติถูกปฏิเสธ [โปรดทำตามขั้นตอนในบทความนี้เพื่อยกเลิกบล็อกเหล่านั้น](https://docs.microsoft.com/azure/active-directory/authentication/howto-mfa-mfasettings#block-and-unblock-users)
+1. ผู้ใช้ที่ได้รับผลกระทบอาจถูกบล็อกในเว็บไซต์ไดเรกทอรีที่ใช้งานอยู่ของ Azure หากเป็นกรณีนี้ความพยายามในการตรวจสอบสิทธิ์สำหรับผู้ใช้ที่เฉพาะเจาะจงนั้นจะถูกปฏิเสธโดยอัตโนมัติ [โปรดทำตามขั้นตอนในบทความนี้เพื่อยกเลิกการบล็อก](https://docs.microsoft.com/azure/active-directory/authentication/howto-mfa-mfasettings#block-and-unblock-users)
 
-2. ถ้าไม่ได้ช่วยบล็อกผู้ใช้ หรือผู้ใช้ที่ไม่ถูกบล็อคคุณสามารถลองตั้งค่าใหม่ MFA สำหรับผู้ใช้ และพวกเขาจะทำขั้นตอนการลงทะเบียนใหม่อีกครั้ง [โปรดทำตามขั้นตอนในบทความนี้](https://docs.microsoft.com/azure/active-directory/authentication/howto-mfa-userdevicesettings#require-users-to-provide-contact-methods-again)
+2. ถ้าการบล็อกผู้ใช้ไม่ได้ช่วยเหลือหรือผู้ใช้ไม่ได้ถูกบล็อกคุณสามารถลองรีเซ็ต MFA สำหรับผู้ใช้และพวกเขาจะไปผ่านขั้นตอนการลงทะเบียนอีกครั้ง [โปรดทำตามขั้นตอนในบทความนี้](https://docs.microsoft.com/azure/active-directory/authentication/howto-mfa-userdevicesettings#require-users-to-provide-contact-methods-again)
 
-ถ้านี่เป็นครั้งแรกที่คุณเปิดใช้งาน MFA และผู้ใช้ของคุณจะไม่สามารถล็อกอินไปยังไคลเอนต์ที่ไม่ใช่เบราว์เซอร์เช่น Outlook, Skype เป็นต้น บางที ADAL (Active Directory พิสูจน์ตัวจริงของไลบรารี) ไม่เปิดใช้งานบนการสมัครใช้งาน O365 ในกรณีนี้ คุณจะต้องเชื่อมต่อกับ Powershell แบบออนไลน์ของอัตราแลกเปลี่ยน และเรียกใช้ cmdlet นี้:  *ชุด-OrganizationConfig-OAuth2ClientProfileEnabled: $true*
+ถ้านี่เป็นครั้งแรกที่คุณเปิดใช้งาน MFA และผู้ใช้ของคุณจะไม่สามารถเข้าสู่ระบบไคลเอนต์ที่ไม่ใช่เบราว์เซอร์เช่น Outlook, Skype, ฯลฯอาจจะ ADAL (ไลบรารีการรับรองความถูกต้องไดเรกทอรีที่ใช้งานอยู่) ไม่ได้เปิดใช้งานในการสมัครสมาชิก O365 ของคุณ ในกรณีนี้คุณจะต้องเชื่อมต่อกับ Powershell แบบออนไลน์ของอัตราแลกเปลี่ยนและเรียกใช้ cmdlet นี้:  *ตั้งค่าองค์กร OAuth2ClientProfileEnabled: $true*

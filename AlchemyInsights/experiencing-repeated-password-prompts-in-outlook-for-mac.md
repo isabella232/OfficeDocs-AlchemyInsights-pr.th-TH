@@ -1,5 +1,5 @@
 ---
-title: พบซ้ำพร้อมท์การรหัสผ่านใน Outlook สำหรับ Mac หรือไม่
+title: พบคำเตือนรหัสผ่านซ้ำๆใน Outlook สำหรับ Mac?
 ms.author: v-crytho
 author: CrystalThomasMS
 ms.date: 8/22/2017
@@ -9,18 +9,18 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 6cc25b24-fc6c-4810-9ff8-6cc3a8b4e863
 ms.openlocfilehash: 7da849fbacbbc32272731cf5829b26437983af4e
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36526626"
 ---
-# <a name="experiencing-repeated-password-prompts-in-outlook-for-mac"></a>พบซ้ำพร้อมท์การรหัสผ่านใน Outlook สำหรับ Mac หรือไม่
+# <a name="experiencing-repeated-password-prompts-in-outlook-for-mac"></a>พบคำเตือนรหัสผ่านซ้ำๆใน Outlook สำหรับ Mac?
 
-เราสามารถช่วยให้เฉพาะเจาะจงยิ่งขึ้น Outlook สำหรับ Mac วิธีใช้ได้โดยตรงจากแอพลิเคชัน
+เราสามารถช่วยให้ Outlook พิเศษมากขึ้นสำหรับ Mac ความช่วยเหลือโดยตรงจากแอพลิเคชัน
   
-โปรดไปกับ Mac ของผู้ใช้ที่ได้รับผลกระทบ เปิด Outlook และคลิกที่**ช่วย** \> **สนับสนุนผู้ติดต่อ**
+โปรดไปที่ Mac ของผู้ใช้ที่ได้รับผลกระทบ, เปิด Outlook และคลิกที่**ความช่วยเหลือ** \> **ติดต่อฝ่ายสนับสนุน**.
   
-เมื่อต้องการเรียนรู้เพิ่มเติมเกี่ยวกับการใช้ Outlook สำหรับการสนับสนุนลูกค้าในโปรแกรมประยุกต์ Mac ให้ดูบทความนี้:[คุณลักษณะที่สนับสนุนการติดต่อใหม่ใน Outlook 2016 สำหรับ Mac](https://answers.microsoft.com/msoffice/forum/msoffice_outlook-mso_mac-mso_mac2016/new-contact-support-feature-in-outlook-2016-for/d4fc21c4-25e2-4e10-b943-1fba6542b517.aspx)
+หากต้องการเรียนรู้เพิ่มเติมเกี่ยวกับการใช้ Outlook สำหรับ Mac การสนับสนุนลูกค้าในแอปให้ดูบทความนี้:[คุณลักษณะการสนับสนุนผู้ติดต่อใหม่ใน Outlook ๒๐๑๖สำหรับ Mac](https://answers.microsoft.com/msoffice/forum/msoffice_outlook-mso_mac-mso_mac2016/new-contact-support-feature-in-outlook-2016-for/d4fc21c4-25e2-4e10-b943-1fba6542b517.aspx)
   
 

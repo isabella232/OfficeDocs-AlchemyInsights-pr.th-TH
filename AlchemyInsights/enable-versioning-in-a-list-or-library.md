@@ -9,20 +9,20 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: a84868ba-7657-4f34-8a57-df9c6f9732dc
 ms.openlocfilehash: d1ef45ccc997c983715637f7da7b301cdd52e3d9
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36527454"
 ---
 # <a name="enable-versioning-for-a-list-or-library"></a>เปิดใช้งานการกำหนดรุ่นสำหรับรายการหรือไลบรารี
 
-1. ไปยังรายการหรือไลบรารี
+1. ไปที่รายการหรือไลบรารี
     
-2. คลิกการ**ตั้งค่า**และจากนั้น คลิก**การตั้งค่าไลบรารี**หรือ**รายการการตั้งค่า**
+2. คลิกการ**ตั้งค่า**แล้วคลิกการ**ตั้งค่าไลบรารี**หรือ**การตั้งค่ารายการ**
     
-3. คลิก**การตั้งค่าการกำหนดรุ่น**
+3. คลิกการ**ตั้งค่าการกำหนดรุ่น**
     
-4. เลือกการตั้งค่าที่คุณต้องการ และจากนั้น คลิก**ตกลง**
+4. เลือกการตั้งค่าที่คุณต้องการและจากนั้นคลิ**กตกลง**
     
 

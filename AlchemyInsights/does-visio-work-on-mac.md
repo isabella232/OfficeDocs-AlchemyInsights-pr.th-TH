@@ -1,5 +1,5 @@
 ---
-title: Visio ทำงานบน Mac เป็นอย่างไร
+title: Visio ทำงานบน Mac หรือไม่
 ms.author: janellem
 author: janellemcintosh-msft
 manager: eliree
@@ -13,14 +13,14 @@ ms.custom:
 - "1799"
 - "9000201"
 ms.openlocfilehash: c1c544cf9e9ccafc6623c686e639051af56d32d7
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36529686"
 ---
-# <a name="does-visio-work-on-a-mac"></a>Visio ทำงานบน Mac เป็นอย่างไร
+# <a name="does-visio-work-on-a-mac"></a>Visio ทำงานบน Mac หรือไม่
 
-ไม่มีไม่มีโปรแกรมประยุกต์ Visio บนเดสก์ท็อปสำหรับ Mac. อย่างไรก็ตาม ตราบใดที่ผู้ใช้ที่จำเป็นโปรแกรมประยุกต์มี[สิทธิ์การใช้งาน Visio ออนไลน์กำหนด](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1799)พวกเขาสามารถ[ดู สร้าง และแก้ไขไดอะแกรมใน Visio ออนไลน์](https://support.office.com/article/06f04845-91b8-4e8f-881f-a43c970735fc?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1799)ในเว็บเบราว์เซอร์
+ไม่มีแอพลิเคชันเดสก์ท็อป Visio สำหรับ Mac อย่างไรก็ตามตราบใดที่ผู้ใช้ที่ต้องการตรวจสอบมี[ใบอนุญาต Visio Online ที่กำหนด](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1799)พวกเขาสามารถ[ดูสร้างและแก้ไขไดอะแกรมใน Visio Online](https://support.office.com/article/06f04845-91b8-4e8f-881f-a43c970735fc?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1799)ในเว็บเบราว์เซอร์
   
   

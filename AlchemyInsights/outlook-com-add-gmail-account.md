@@ -1,5 +1,5 @@
 ---
-title: เพิ่มบัญชี Gmail ใน Outlook.com
+title: เพิ่มบัญชี Gmail ลงใน Outlook.com
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -12,22 +12,22 @@ ms.custom:
 - "1820"
 - "9000236"
 ms.openlocfilehash: 59325a0d1221dac6fcd905f3918c164f69551271
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36538147"
 ---
-# <a name="add-your-gmail-account-to-outlookcom"></a>เพิ่มบัญชี Gmail ของคุณใน Outlook.com
+# <a name="add-your-gmail-account-to-outlookcom"></a>เพิ่มบัญชี Gmail ของคุณลงใน Outlook.com
 
-1. เปิดการ[ตั้งค่าอีเมลการซิงค์](https://go.microsoft.com/fwlink/?linkid=875264)ของคุณ
-2. ภายใต้**เชื่อมต่อบัญชี**เลือก**Gmail**
-3. ป้อนชื่อที่ใช้แสดง (ชื่อผู้รับจะเห็นเมื่อได้รับข้อความอีเมลของคุณ)
-4. เลือกถ้า Outlook.com ควรนำเข้าอีเมลของคุณจาก Gmail และที่จัดเก็บอีเมลที่นำเข้ามา
-5. เลือก**ตกลง**เพื่อไปยังหน้าการเข้าสู่ระบบ Google
+1. เปิด[การตั้งค่าการซิงค์ Email](https://go.microsoft.com/fwlink/?linkid=875264)ของคุณ
+2. ในส่วน**บัญชีที่เชื่อมต่อ**ให้เลือก**Gmail**
+3. ป้อนชื่อที่แสดง (ผู้รับชื่อจะเห็นเมื่อได้รับข้อความทางเมลจากคุณ)
+4. เลือกว่า Outlook.com ควรนำเข้าข้อมูลของคุณจาก Gmail หรือไม่และจะจัดเก็บเมลที่นำเข้าไว้หรือไม่
+5. เลือก **"ตกลง**" เพื่อไปที่หน้าลงชื่อเข้าใช้ของ Google
 
-ซิงค์จากบัญชีผู้ใช้เชื่อมต่อกับบัญชี Outlook.com ของคุณเป็นแบบทางเดียวเท่านั้น อีเมลที่ส่งจากบัญชี Gmail ของคุณโดยใช้ Outlook.com จะไม่ปรากฏในรายการที่ถูกส่งใน Gmail
+การซิงค์จากบัญชีที่เชื่อมต่อกับบัญชี Outlook.com ของคุณเป็นแบบทางเดียวเท่านั้น เมลที่ส่งจากบัญชี Gmail ของคุณโดยใช้ Outlook.com จะไม่ปรากฏในรายการที่ถูกส่งใน Gmail
 
-คุณสามารถส่งอีเมลใน Outlook.com จากบัญชี Gmail ของคุณเชื่อมต่ออยู่ เมื่อเขียนอีเมล เลือก**จาก**และเลือกของคุณที่อยู่ Gmail หรือ[เริ่มต้นของคุณจากรายชื่อการปรับปรุง](https://go.microsoft.com/fwlink/?linkid=875264)
+คุณสามารถส่งเมลใน Outlook.com จากบัญชี Gmail ที่เชื่อมต่อของคุณได้ เมื่อเขียนข้อความให้เลือก**จาก**แล้วเลือกที่อยู่ Gmail หรือ[อัปเดตที่อยู่เริ่มต้นของคุณ](https://go.microsoft.com/fwlink/?linkid=875264)
 
-สำหรับข้อมูลเพิ่มเติม ดู[เพิ่มของคุณทางอีเมลบัญชีอื่น ๆ เพื่อ Outlook.com](https://support.office.com/article/c5224df4-5885-4e79-91ba-523aa743f0ba?wt.mc_id=Office_Outlook_com_Alchemy)
+สำหรับข้อมูลเพิ่มเติมโปรดดูที่[การเพิ่มบัญชีผู้อื่นของคุณทางเม Outlook.com](https://support.office.com/article/c5224df4-5885-4e79-91ba-523aa743f0ba?wt.mc_id=Office_Outlook_com_Alchemy)

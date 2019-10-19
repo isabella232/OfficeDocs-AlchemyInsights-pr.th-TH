@@ -14,10 +14,10 @@ ms.custom:
 - "9000048"
 - "1983"
 ms.openlocfilehash: edf14c3b8c23416157325c7c319e75bd318303ca
-ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 09/04/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36753779"
 ---
 # <a name="more-info-about-retention-policies"></a>ข้อมูลเพิ่มเติมเกี่ยวกับนโยบายการเก็บข้อมูล
@@ -26,13 +26,13 @@ ms.locfileid: "36753779"
 
 ## <a name="a-from-security-and-compliance-center"></a>ก) จากศูนย์ความปลอดภัยและการปฏิบัติตามกฎระเบียบ
 
-- ไปที่การรักษาความปลอดภัยและการปฏิบัติตามกฎระเบียบ _ Gt_ การกำกับดูแลข้อมูล _ Gt_ การรักษา
+- ไปที่ความปลอดภัยและการปฏิบัติตามกฎระเบียบ > การกำกับดูแลข้อมูล > การเก็บรักษา
   - ดูบทความ[นี้](https://docs.microsoft.com/office365/securitycompliance/retention-policies)
 
-- ไปที่การรักษาความปลอดภัยและการปฏิบัติตามกฎระเบียบ > eDiscovery> eDiscovery ขั้นสูง 
+- ไปที่ความปลอดภัยและการปฏิบัติตามกฎระเบียบ > eDiscovery> eDiscovery ขั้นสูง 
   - ดูบทความ[นี้](https://docs.microsoft.com/office365/securitycompliance/ediscovery-cases)
 
-- ไปที่การรักษาความปลอดภัยและการปฏิบัติตามกฎระเบียบ > การจัดประเภท _ Gt_ การเก็บรักษา
+- ไปที่การรักษาความปลอดภัยและการปฏิบัติตามกฎระเบียบ > การจัดประเภท > การเก็บรักษา
   - ดูบทความเหล่านี้
     - [ป้ายความไว](https://docs.microsoft.com/office365/securitycompliance/sensitivity-labels)
     - [ภาพรวมป้ายชื่อ](https://docs.microsoft.com/office365/securitycompliance/labels)

@@ -1,5 +1,5 @@
 ---
-title: ไม่สามารถอ่านอีเม Outlook.com ใน Google โครเมียมด้วย AdBlock
+title: ไม่สามารถอ่านเม Outlook.com ใน Google Chrome ด้วย AdBlock
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -12,15 +12,15 @@ ms.custom:
 - "8000048"
 - "814"
 ms.openlocfilehash: e63e31ea008558d57b0582d306afd34df4715631
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36537678"
 ---
-# <a name="cant-read-email-in-google-chrome-with-adblock"></a>ไม่สามารถอ่านอีเมลใน Google โครเมียมด้วย AdBlock
+# <a name="cant-read-email-in-google-chrome-with-adblock"></a>ไม่สามารถอ่านเมลใน Google Chrome ด้วย AdBlock
 
-ถ้าคุณไม่สามารถอ่าน หรือเขียนทางอีเมลเมื่อใช้ Google โครเมียม มีนามสกุล AdBlock:
+หากคุณไม่สามารถอ่านหรือเขียนเมลเมื่อใช้ Google Chrome ด้วยส่วนขยาย AdBlock ได้:
 
-- ใช้[ขอบของ Microsoft](https://go.microsoft.com/fwlink/p/?linkid=2001503&amp;clcid=0x409)หรือเว็บเบราว์เซอร์อื่น
-- ไม่รวม Outlook.com จากการตั้งค่า AdBlock ที่มุมบนขวาของ Google โครเมียม เลือก**AdBlock**จากนั้น**ไม่ทำงานบนหน้าบนโดเมนนี้** ฟื้นฟูเบราว์เซอร์ของคุณเพื่อโหลด Outlook.com อีกครั้ง
+- ใช้[Microsoft Edge](https://go.microsoft.com/fwlink/p/?linkid=2001503&amp;clcid=0x409)หรือเว็บเบราว์เซอร์อื่น
+- ยกเว้น Outlook.com จากการตั้งค่า AdBlock ที่มุมขวาบนของ Google Chrome ให้เลือก**AdBlock**แล้วเลือก**ไม่ทำงานบนหน้าในโดเมนนี้** รีเฟรชเบราว์เซอร์ของคุณเพื่อโหลด Outlook.com อีกครั้ง

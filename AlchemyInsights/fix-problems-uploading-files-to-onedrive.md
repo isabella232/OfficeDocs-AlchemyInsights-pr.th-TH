@@ -1,5 +1,5 @@
 ---
-title: แก้ไขปัญหาการอัปโหลดแฟ้มไปยัง OneDrive
+title: แก้ไขปัญหาในการอัปโหลดไฟล์ไปยัง OneDrive
 ms.author: matteva
 author: pebaum
 ms.date: 5/18/2018
@@ -9,19 +9,19 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 467477cc-9d4f-47f1-a602-dbf334a42be5
 ms.openlocfilehash: d06445cf609b70e83701699082c43203270a0962
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36525186"
 ---
-# <a name="fix-problems-uploading-files-to-onedrive"></a>แก้ไขปัญหาการอัปโหลดแฟ้มไปยัง OneDrive
+# <a name="fix-problems-uploading-files-to-onedrive"></a>แก้ไขปัญหาในการอัปโหลดไฟล์ไปยัง OneDrive
 
-ลองทำเช่นนี้ถ้าแฟ้มจะอัปโหลด:
+ลองทำเช่นนี้หากไฟล์จะไม่อัพโหลด:
   
-- เปลี่ยนชื่อแฟ้ม แล้วลองอีกครั้ง บางชื่อแฟ้มและอักขระในชื่อแฟ้มไม่ได้รับอนุญาต 
+- เปลี่ยนชื่อแฟ้มแล้วลองอีกครั้ง ไม่อนุญาตให้ใช้ชื่อแฟ้มและอักขระบางตัวในชื่อแฟ้ม 
     
-- ถ้าคุณกำลังทำการซิงค์ไฟล์ ย้ายออกจากโฟลเดอร์ OneDrive ของคุณ (ตัวอย่างเช่น ย้ายไปยังเดสก์ท็อปของคุณ), และเมื่อ OneDrive ของคุณซิงค์สถานะปรากฏเป็น "ทันสมัย เปลี่ยนกลับ 
+- หากคุณกำลังซิงค์ไฟล์ให้ย้ายจากโฟลเดอร์ OneDrive ของคุณ (ตัวอย่างเช่นย้ายไปยังเดสก์ท็อปของคุณ) และเมื่อสถานะการซิงค์ OneDrive ของคุณปรากฏเป็น "อัพเดทแล้ว" ให้ย้ายกลับไป 
     
 [เคล็ดลับการแก้ไขปัญหาเพิ่มเติม](https://go.microsoft.com/fwlink/?linkid=873155)
   
