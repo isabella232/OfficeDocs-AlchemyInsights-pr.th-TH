@@ -11,16 +11,26 @@ ms.collection: Adm_O365
 ms.custom:
 - "2673"
 - "9000740"
-ms.openlocfilehash: de665ca6defcd0d00d227435473e5a4ccf61bc82
-ms.sourcegitcommit: 0495112ad4fd0e695140ec66d190e62f03030584
+ms.openlocfilehash: 729fc5d4213acbbdf74a9d07adacb42b34170717
+ms.sourcegitcommit: ffbeb72c9199ab4ebcb0f1ad443ed3e2f4950efc
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 10/02/2019
-ms.locfileid: "37376873"
+ms.lasthandoff: 10/23/2019
+ms.locfileid: "37637796"
 ---
 # <a name="control-lobby-settings-and-level-of-participation"></a>ควบคุมการตั้งค่าและระดับการเข้าร่วมของล็อบบี้
 
-การตั้งค่าเหล่านี้จะควบคุมผู้เข้าร่วมประชุมที่รออยู่ในล็อบบี้ก่อนที่จะเข้ารับการประชุมและระดับการเข้าร่วมประชุมที่ได้รับอนุญาต คุณสามารถใช้ Powershell เพื่อปรับปรุงการตั้งค่านโยบายการประชุมที่ยังไม่ได้ดำเนินการ (ที่มีป้ายชื่อ "เร็วๆนี้") ในศูนย์การจัดการทีม  ดูด้านล่างสำหรับตัวอย่าง cmdlet PowerShell ที่ช่วยให้ผู้ใช้ทั้งหมดที่จะข้ามล็อบบี้  
+หากคุณต้องการอนุญาตให้ทุกคนรวมถึงการเรียกเลขหมายภายนอกและผู้ใช้ที่ไม่ระบุชื่อเพื่อข้ามล็อบบี้คุณสามารถใช้ PowerShell เพื่อทำมันได้ นี่คือตัวอย่างของการปรับเปลี่ยนนโยบายการประชุมทั่วโลกสำหรับองค์กรของคุณ:
+
+`Set-CsTeamsMeetingPolicy -Identity Global -AutoAdmittedUsers "Everyone" -AllowPSTNUsersToBypassLobby $True`
+
+Cmdlet นี้จำเป็นต้องใช้ Skype สำหรับโมดูล PowerShell ธุรกิจในขณะนี้ หากต้องการรับการตั้งค่าเพื่อใช้ cmdlet นี้ให้ตรวจสอบนโยบายการจัดการผ่านทาง PowerShell
+
+คุณสามารถตั้งค่านโยบายใหม่ซึ่งคุณจะต้องนำไปใช้กับผู้ใช้ ถ้าคุณปรับเปลี่ยนนโยบายส่วนกลางจะใช้กับผู้ใช้โดยอัตโนมัติ สำหรับการเปลี่ยนแปลงนโยบายใดๆที่คุณต้องรออย่างน้อย4ชั่วโมงและสูงสุด24ชั่วโมงเพื่อให้นโยบายมีผลบังคับใช้
+
+ตรวจสอบให้แน่ใจว่าได้ตรวจสอบเอกสารด้านล่างก่อนที่จะทำการเปลี่ยนแปลงเหล่านี้เพื่อให้เข้าใจว่าสิ่งนี้ช่วยได้อย่างไร
+
+## <a name="understanding-teams-meeting-lobby-policy-controls"></a>ทำความเข้าใจเกี่ยวกับการควบคุมทีมงานการประชุมนโยบายล็อบบี้
 
 - [ยอมรับผู้ใช้โดยอัตโนมัติ](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams#automatically-admit-people)เป็นนโยบายต่อการจัดการที่ควบคุมว่าผู้คนเข้าร่วมการประชุมโดยตรงหรือรอในล็อบบี้จนกว่าพวกเขาจะได้รับการตรวจสอบโดยผู้ที่รับรองความถูกต้อง
 
@@ -30,15 +40,4 @@ ms.locfileid: "37376873"
 
 - [อนุญาตให้ผู้จัดการแทนที่การตั้งค่าล็อบบี้](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams#allow-organizers-to-override-lobby-settings-coming-soon)(**เร็วๆนี้**) เป็นนโยบายต่อตัวจัดการที่ควบคุมว่าผู้จัดการประชุมสามารถแทนที่การตั้งค่าล็อบบี้ที่ผู้ดูแลตั้งค่า**โดยอัตโนมัติยอมรับคน**และ**อนุญาตให้มีการเรียกเลขหมาย ผู้ใช้ที่จะข้ามล็อบบี้**เมื่อพวกเขาจัดกำหนดการการประชุมใหม่
 
-**หมายเหตุ:** อ่าน[จัดการนโยบายการประชุมใน Teams](https://docs.microsoft.com/en-us/microsoftteams/meeting-policies-in-teams)เพื่อดูภาพรวมทั้งหมดของนโยบายการประชุมของ Microsoft Teams 
-
-
-**ตัวอย่างของ PowerShell**
-
-หากคุณต้องการอนุญาตให้ทุกคนรวมถึงผู้ใช้ภายนอกหรือไม่ระบุชื่อให้ข้ามล็อบบี้คุณยังสามารถใช้ PowerShell เพื่อทำงานนี้ให้สำเร็จได้  ต่อไปนี้เป็นตัวอย่างของการปรับเปลี่ยนนโยบายการประชุมส่วนกลางสำหรับองค์กรของคุณ   
-
-(โปรดตรวจสอบเอกสารดังกล่าวข้างต้นก่อนทำการเปลี่ยนแปลงเหล่านี้เพื่อให้เข้าใจว่าสิ่งนี้ช่วยได้อย่างไร)
-
-ชุด-CsTeamsMeetingPolicy-อัตลักษณ์ทั่วโลก-AutoAdmittedUsers "ทุกคน"-AllowPSTNUsersToBypassLobby $True
-
-สำหรับข้อมูลเพิ่มเติมโปรดดูที่[ชุด-CsTeamsMeetingPolicy](https://docs.microsoft.com/powershell/module/skype/set-csteamsmeetingpolicy?view=skype-ps)
+**หมายเหตุ:** อ่าน[จัดการนโยบายการประชุมใน Teams](https://docs.microsoft.com/en-us/microsoftteams/meeting-policies-in-teams)เพื่อดูภาพรวมทั้งหมดของนโยบายการประชุมของ Microsoft Teams
