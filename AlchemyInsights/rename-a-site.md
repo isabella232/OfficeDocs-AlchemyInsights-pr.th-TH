@@ -2,7 +2,6 @@
 title: การเปลี่ยนชื่อไซต์
 ms.author: pebaum
 author: Techwriter40
-ms.date: 9/7/2018
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,16 +10,16 @@ ms.custom:
 - "977"
 - "5300028"
 ms.assetid: f5c85f1b-4ed6-441c-8f5d-d3e4713fb98d
-ms.openlocfilehash: ee92e2687da9e72d8551e74a0d179bf2c50f2adb
-ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
+ms.openlocfilehash: 453b19d9a35e074a9b0e8aaae5a4256110d4a1f9
+ms.sourcegitcommit: f1493a9eea7bb6df2a284adecf4349fc6416958f
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 10/18/2019
-ms.locfileid: "36752195"
+ms.lasthandoff: 10/24/2019
+ms.locfileid: "37658384"
 ---
 # <a name="rename-a-sharepoint-site"></a>การเปลี่ยนชื่อไซต์ SharePoint
 
-ถ้าต้องการเปลี่ยนชื่อของไซต์ตัวอย่างเช่นจากhttps://contoso.sharepoint.com/sites/sample1ถึงhttps://contoso.sharepoint.com/sites/sample2คุณต้องสร้างไซต์ใหม่แล้วย้ายเนื้อหาทั้งหมดจากไซต์เก่าไปยังที่ตั้งใหม่ สำหรับข้อมูลเกี่ยวกับการย้ายรายการในไลบรารีเอกสารให้ดูที่การ[ย้ายหรือคัดลอกรายการจากไลบรารีเอกสาร SharePoint](https://go.microsoft.com/fwlink/?Linkid=2018691)
-  
-หมายเหตุ: ถ้าคุณกำลังพยายามที่จะเปลี่ยนชื่อโดเมน (นั่นคือส่วน contoso ของ URL ข้างต้น) ใน SharePoint แบบออนไลน์ URL ที่เป็นไปไม่ได้ ดู[เปลี่ยนโดเมน](https://go.microsoft.com/fwlink/?Linkid=2018696)
+ทำตามขั้นตอนใน[บทความนี้](https://docs.microsoft.com/sharepoint/change-site-address)เพื่อเปลี่ยนชื่อของไซต์--ตัวอย่างเช่นhttps://contoso.sharepoint.com/sites/sample1จากhttps://contoso.sharepoint.com/sites/sample2เป็น
+
+**หมายเหตุ:** คุณไม่สามารถเปลี่ยนชื่อโดเมน (ในตัวอย่างข้างต้นส่วน contoso ของ URL) ใน SharePoint แบบออนไลน์ URL โปรดดูข้อมูลเพิ่มเติมใน[เปลี่ยนโดเมน](https://go.microsoft.com/fwlink/?Linkid=2018696)
   

@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "2673"
 - "9000740"
-ms.openlocfilehash: 729fc5d4213acbbdf74a9d07adacb42b34170717
-ms.sourcegitcommit: ffbeb72c9199ab4ebcb0f1ad443ed3e2f4950efc
+ms.openlocfilehash: 6632bb0c09c7ce99f14cd55582025b37a846369d
+ms.sourcegitcommit: ee719f011f766fc20d23e935e98d7e33c326183b
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 10/23/2019
-ms.locfileid: "37637796"
+ms.lasthandoff: 10/24/2019
+ms.locfileid: "37654275"
 ---
 # <a name="control-lobby-settings-and-level-of-participation"></a>ควบคุมการตั้งค่าและระดับการเข้าร่วมของล็อบบี้
 
@@ -24,7 +24,7 @@ ms.locfileid: "37637796"
 
 `Set-CsTeamsMeetingPolicy -Identity Global -AutoAdmittedUsers "Everyone" -AllowPSTNUsersToBypassLobby $True`
 
-Cmdlet นี้จำเป็นต้องใช้ Skype สำหรับโมดูล PowerShell ธุรกิจในขณะนี้ หากต้องการรับการตั้งค่าเพื่อใช้ cmdlet นี้ให้ตรวจสอบนโยบายการจัดการผ่านทาง PowerShell
+Cmdlet นี้จำเป็นต้องใช้ Skype สำหรับโมดูล PowerShell ธุรกิจในขณะนี้ หากต้องการรับการตั้งค่าเพื่อใช้ cmdlet นี้ให้ตรวจสอบ[นโยบายการจัดการผ่านทาง PowerShell](https://docs.microsoft.com/en-us/microsoftteams/teams-powershell-overview#managing-policies-via-powershell)
 
 คุณสามารถตั้งค่านโยบายใหม่ซึ่งคุณจะต้องนำไปใช้กับผู้ใช้ ถ้าคุณปรับเปลี่ยนนโยบายส่วนกลางจะใช้กับผู้ใช้โดยอัตโนมัติ สำหรับการเปลี่ยนแปลงนโยบายใดๆที่คุณต้องรออย่างน้อย4ชั่วโมงและสูงสุด24ชั่วโมงเพื่อให้นโยบายมีผลบังคับใช้
 

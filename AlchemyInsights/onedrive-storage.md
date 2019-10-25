@@ -14,18 +14,26 @@ ms.custom:
 - "2398"
 - "9000354"
 ms.assetid: 71fc8106-d11f-46e7-9af0-81708546c437
-ms.openlocfilehash: adf701dbc4e4840d1cdaf090197f97609254f623
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: 55aff5bebdce35c9fad3db2d56696e1b5527c1d5
+ms.sourcegitcommit: f1493a9eea7bb6df2a284adecf4349fc6416958f
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36661063"
+ms.lasthandoff: 10/24/2019
+ms.locfileid: "37658312"
 ---
 # <a name="manage-your-onedrive-storage"></a>จัดการพื้นที่เก็บข้อมูล OneDrive ของคุณ
 
-การเปลี่ยนที่เก็บเริ่มต้นสำหรับผู้ใช้ OneDrive ใหม่และที่มีอยู่:
-  
-- ไปที่[หน้าเก็บข้อมูลของศูนย์การจัดการ OneDrive](https://admin.onedrive.com/?v=StorageSettings)และจากนั้นป้อนยอดเงินใหม่ในหน่วย GB
+พื้นที่จัดเก็บข้อมูล OneDrive ไม่นับรวมกับโควตาผู้เช่าทั้งหมด 
 
-การตั้งค่าพื้นที่จัดเก็บนี้นำไปใช้กับผู้ใช้ทุกคนที่คุณยังไม่ได้ตั้งค่าขีดจำกัดที่เก็บข้อมูลเฉพาะ ในการเปลี่ยนแปลงพื้นที่จัดเก็บสำหรับผู้ใช้ที่เฉพาะเจาะจงคุณจำเป็นต้องใช้ Microsoft PowerShell สำหรับข้อมูลเกี่ยวกับวิธีการทำเช่นนี้โปรดดูที่การ[เปลี่ยนพื้นที่จัดเก็บข้อมูล OneDrive ของผู้ใช้ของคุณโดยใช้ PowerShell](https://go.microsoft.com/fwlink/?linkid=866402) หากต้องการตรวจสอบว่าคุณกำลังใช้พื้นที่จัดเก็บข้อมูลเท่าใดใน OneDrive ของคุณโปรดดู[ที่จัดการ OneDrive ของคุณสำหรับที่เก็บข้อมูลธุรกิจ](https://go.microsoft.com/fwlink/?linkid=866429) สำหรับข้อมูลเกี่ยวกับที่เก็บข้อมูลที่มาพร้อมกับแต่ละแผนให้ดูที่[OneDrive สำหรับคำอธิบายบริการธุรกิจ](https://go.microsoft.com/fwlink/p/?LinkID=826071)
+เรียนรู้[วิธีการจัดสรรพื้นที่เก็บข้อมูล OneDrive ต่อผู้ใช้/แผน](https://docs.microsoft.com/office365/servicedescriptions/onedrive-for-business-service-description?redirectedfrom=MSDN#storage-space-per-user)
+
+เรียนรู้[ว่าคุณกำลังใช้พื้นที่เก็บข้อมูลเท่าใดใน OneDrive ของคุณ](https://support.office.com/article/manage-your-onedrive-for-business-storage-31519161-059c-4764-b6f8-f5cd29f7fe68)
+
+เรียนรู้[วิธีการรับโควต้าพื้นที่เก็บข้อมูลของ OneDrive โดยใช้ PowerShell](https://gallery.technet.microsoft.com/scriptcenter/OneDrive-for-Business-0cb45614)
+
+Microsoft จะให้ 1 TB ต่อผู้ใช้ซึ่งผู้ดูแลระบบสามารถเพิ่มได้สูงสุด 5 TB ต่อผู้ใช้ เรียนรู้วิธีการ[ตั้งค่าพื้นที่จัดเก็บเริ่มต้นสำหรับผู้ใช้ OneDrive](https://docs.microsoft.com/onedrive/set-default-storage-space)
+
+เรียนรู้[วิธีการเปลี่ยนพื้นที่เก็บข้อมูล OneDrive ของผู้ใช้เฉพาะ](https://docs.microsoft.com/onedrive/change-user-storage)
+
+เรียนรู้[วิธีที่ผู้ดูแลส่วนกลางสามารถตั้งค่าโควตาพื้นที่เก็บข้อมูล OneDrive สำหรับผู้ใช้ทั้งหมดที่ใช้ PowerShell](https://gallery.technet.microsoft.com/office/How-to-set-OneDrive-for-8b61365b)
   
