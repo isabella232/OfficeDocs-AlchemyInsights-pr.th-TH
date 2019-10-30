@@ -1,9 +1,8 @@
 ---
-title: 713 เพิ่มอยู่อีเมลที่เพิ่มเติมไปยังรายชื่อการแจกจ่าย
+title: ๗๑๓การเพิ่มที่อยู่ e-mail เพิ่มเติมลงในรายการการแจกจ่าย
 ms.author: chrisda
 author: chrisda
 manager: dansimp
-ms.date: 4/13/2018
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,21 +12,21 @@ ms.custom:
 - "713"
 - "3"
 ms.assetid: 870f16c0-24ac-4dec-a3e3-14719e6a496a
-ms.openlocfilehash: 5bf91d9ff6824fd5ee10510c4a5f0c85edf4be7e
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: c51ed54fcbdf131605995b95bd0619d877e96b29
+ms.sourcegitcommit: defe2c412567b596fa8c3ab52111bde712ebb314
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36494798"
+ms.lasthandoff: 10/29/2019
+ms.locfileid: "37766226"
 ---
-# <a name="add-an-email-address-for-a-distribution-group"></a>เพิ่มอยู่อีเมลสำหรับกลุ่มการกระจายสินค้า
+# <a name="add-an-email-address-for-a-distribution-group"></a>เพิ่มที่อยู่ e-mail สำหรับกลุ่มการแจกจ่าย
 
-เมื่อต้องการเพิ่มที่อยู่อีเมลสำหรับกลุ่มการแจกจ่ายที่มีอยู่ ให้ทำตามขั้นตอนเหล่านี้:
+การเพิ่มที่อยู่ e-mail สำหรับกลุ่มการแจกจ่ายที่มีอยู่ให้ทำตามขั้นตอนเหล่านี้:
 
-1. ในการ[แลกเปลี่ยน admin ศูนย์](https://outlook.office365.com/ecp/)ไปที่**ผู้รับ** \> **กลุ่ม**
+1. ใน[ศูนย์ดูแล Exchange](https://outlook.office365.com/ecp/)ไปที่**กลุ่ม****ผู้รับ** \>
 
-2. เลือกกลุ่มการกระจายสินค้าที่คุณต้องการแก้ไข และจากนั้น คลิก**แก้ไข**
+2. เลือกกลุ่มการกระจายสินค้าที่คุณต้องการปรับเปลี่ยนแล้วคลิก**แก้ไข**
 
-3. ในคุณสมบัติของกลุ่ม ไปที่แท็บ**ตัวเลือกอีเมล**เพื่อเพิ่มที่อยู่อีเมล 
+3. ในคุณสมบัติของกลุ่มให้ไปที่แท็บ**ตัวเลือก email**เพื่อเพิ่มที่อยู่ของเมล 
 
-สำหรับข้อมูลเพิ่มเติม ให้ดู[ตัวเลือกอีเมล](https://technet.microsoft.com/library/bb124513.aspx#emailoptions)
+สำหรับข้อมูลเพิ่มเติมโปรดดูที่[ตัวเลือกของเมล](https://technet.microsoft.com/library/bb124513.aspx#emailoptions)

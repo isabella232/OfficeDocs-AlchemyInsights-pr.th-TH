@@ -11,14 +11,14 @@ ms.assetid: 63f7d676-7cd9-4549-ba84-c3a8a7867f63
 ms.custom:
 - "2417"
 - "9000557"
-ms.openlocfilehash: 276f6b2212c9d85df726cb46a46dee7828b34c89
-ms.sourcegitcommit: 0b06093dabd685f76cc39b1d7c0f8b03883b6e79
+ms.openlocfilehash: a415116b9ba437cb13426896119cd1b40d9ab491
+ms.sourcegitcommit: defe2c412567b596fa8c3ab52111bde712ebb314
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 10/25/2019
-ms.locfileid: "36545203"
+ms.lasthandoff: 10/29/2019
+ms.locfileid: "37768856"
 ---
-# <a name="issues-with-mfa"></a>ปัญหาเกี่ยวกับ MFA
+# <a name="issues-with-azure-mfa"></a>ปัญหาเกี่ยวกับ MFA
 มีสองสิ่งที่ต้องตรวจสอบว่าผู้ใช้ไม่สามารถเข้าสู่ระบบโดยใช้การรับรองความถูกต้องด้วยหลายปัจจัย (MFA)
 
 1. ผู้ใช้ที่ได้รับผลกระทบอาจถูกบล็อกในเว็บไซต์ไดเรกทอรีที่ใช้งานอยู่ของ Azure หากเป็นกรณีนี้ความพยายามในการตรวจสอบสิทธิ์สำหรับผู้ใช้ที่เฉพาะเจาะจงนั้นจะถูกปฏิเสธโดยอัตโนมัติ [โปรดทำตามขั้นตอนในบทความนี้เพื่อยกเลิกการบล็อก](https://docs.microsoft.com/azure/active-directory/authentication/howto-mfa-mfasettings#block-and-unblock-users)

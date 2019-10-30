@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: a8e56d32-2bd3-43ce-84df-925f6354fee0
-ms.openlocfilehash: 8f6179e75f076fb452baf79cac71262a87595c93
-ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
+ms.openlocfilehash: 6ae4ce4d48f136b9c9befbabacbcb554cf436b44
+ms.sourcegitcommit: defe2c412567b596fa8c3ab52111bde712ebb314
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 10/18/2019
-ms.locfileid: "36750863"
+ms.lasthandoff: 10/29/2019
+ms.locfileid: "37766802"
 ---
 # <a name="problems-opening-office-files-from-sharepoint"></a>ปัญหาในการเปิดแฟ้ม Office จาก SharePoint
 
@@ -29,5 +29,5 @@ ms.locfileid: "36750863"
 
 สำหรับข้อมูลเพิ่มเติมหรือรายละเอียดโปรดอ้างอิงบทความ[แก้ไขปัญหาการเปิดเอกสารในไลบรารี SharePoint](https://support.office.com/article/Fix-problems-opening-documents-in-SharePoint-libraries-31329FA1-4AD0-47FC-95D8-BB0C5B12A536)
 
-**หมายเหตุ**: หากคุณมีปัญหาเกี่ยวกับการเปิดเอกสารในเบราว์เซอร์หรือไคลเอ็นต์โดยค่าเริ่มต้นคุณอาจต้องเปลี่ยนการตั้งค่าไลบรารี การทำเช่นนี้นำทางไปยังห้องสมุดที่มีปัญหา > เกียร์ไอคอนที่มุมขวาบน > การตั้งค่าไลบรารี > การตั้งค่าขั้นสูง > เปิดเอกสารในเบราว์เซอร์
+**หมายเหตุ:** หากคุณมีปัญหาเกี่ยวกับการเปิดเอกสารในเบราว์เซอร์หรือไคลเอ็นต์โดยค่าเริ่มต้นคุณอาจต้องเปลี่ยนการตั้งค่าไลบรารี การทำเช่นนี้นำทางไปยังห้องสมุดที่มีปัญหา > ไอคอนเกียร์ในมุมขวาบน >**ห้องสมุดการ** >  ตั้งค่า**ขั้นสูง** > **เปิดเอกสารในเบราว์เซอร์**
 

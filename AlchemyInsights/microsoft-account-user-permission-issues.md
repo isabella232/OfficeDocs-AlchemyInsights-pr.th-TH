@@ -8,16 +8,16 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 63f7d676-7cd9-4549-ba84-c3a8a7867f63
-ms.openlocfilehash: 81b9dafe8e27e5f73fe232c51ff56fed3fec29b4
-ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
+ms.openlocfilehash: 59713231da25be441e7c05d788337e66bf17265a
+ms.sourcegitcommit: defe2c412567b596fa8c3ab52111bde712ebb314
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 09/04/2019
-ms.locfileid: "36754211"
+ms.lasthandoff: 10/29/2019
+ms.locfileid: "37768820"
 ---
 # <a name="troubleshoot-issue---user-not-found-in-directory"></a>แก้ไขปัญหา-ไม่พบผู้ใช้ในไดเรกทอรี
 
-ถ้าผู้ใช้ได้รับข้อความข้อผิดพลาด "ผู้ใช้ไม่พบ" ในไดเรกทอรี โปรดลองอีกครั้งที่ชนิดของปัญหาเป็นผู้ใช้ไม่อยู่ในไดเรกทอรี
+ถ้าผู้ใช้ได้รับข้อความข้อผิดพลาด "ผู้ใช้ไม่พบ" ในไดเรกทอรีโปรดลองอีกครั้งที่ชนิดของปัญหาเป็นผู้ใช้ไม่ได้อยู่ในไดเรกทอรี
 
 ขั้นตอนต่อไปนี้สามารถทำให้เสร็จสมบูรณ์เพื่อแก้ไขปัญหา
 
@@ -29,7 +29,7 @@ ms.locfileid: "36754211"
 
 เพิ่ม "/_layouts/15/people.aspx/membershipgroupid = 0" (ภายในอัญประกาศคู่) ไปยังจุดสิ้นสุดของ URL ของไซต์ 
 
-ตัวอย่าง: https://_lt_ "contoso">/_ เค้าโครง/15/คน. aspx/membershipGroupId = 0
+ตัวอย่าง: https://< "contoso" > sharepoint.com/_layouts/15/people.aspx/membershipGroupId=0
 
 - เลือกผู้ใช้จากรายการ
 

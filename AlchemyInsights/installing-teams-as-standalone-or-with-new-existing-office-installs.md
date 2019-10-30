@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "2663"
 - "9000660"
-ms.openlocfilehash: fc222b2ea469f4f4d5233e87f7c9fd291bb5794c
-ms.sourcegitcommit: 1e5de64e34e9ba16185b3a895b3152ca61718f4b
+ms.openlocfilehash: 39efd34a8eb163758bcb2ac9a3d45c3fac9b67d2
+ms.sourcegitcommit: defe2c412567b596fa8c3ab52111bde712ebb314
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 10/01/2019
-ms.locfileid: "37344221"
+ms.lasthandoff: 10/29/2019
+ms.locfileid: "37768892"
 ---
 # <a name="installing-teams-as-standalone-or-with-new-or-existing-office-installations"></a>การติดตั้งทีมเป็นแบบสแตนด์อโลนหรือมีการติดตั้ง Office ใหม่หรือที่มีอยู่
 

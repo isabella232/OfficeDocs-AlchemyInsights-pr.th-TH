@@ -10,16 +10,16 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: cf7521c3-97b4-465a-97eb-6c0a41338a30
-ms.openlocfilehash: fb29d30eb676de8d367002010d3eabebd73bc54b
-ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
+ms.openlocfilehash: c452169a260dd8b6f2aea32729c4228e54c18e77
+ms.sourcegitcommit: defe2c412567b596fa8c3ab52111bde712ebb314
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 09/04/2019
-ms.locfileid: "36756155"
+ms.lasthandoff: 10/29/2019
+ms.locfileid: "37769034"
 ---
 # <a name="recover-missing-or-deleted-site-collections"></a>กู้คืนไซต์คอลเลกชันที่หายไปหรือถูกลบ
 
-วิธีการกู้คืนไซต์คอลเลกชันที่หายไปหรือถูกลบ
+ดูบทความต่อไปนี้สำหรับข้อมูลเกี่ยวกับวิธีการกู้คืนไซต์คอลเลกชันที่หายไปหรือถูกลบใน SharePoint
 
 [กู้คืนไซต์ที่ถูกลบ](https://docs.microsoft.com/sharepoint/restore-deleted-site-collection)
 
@@ -27,6 +27,6 @@ ms.locfileid: "36756155"
 
 ถ้าคุณไม่พบไซต์ที่คุณอาจต้องการ[ค้นหาบันทึกการตรวจสอบในศูนย์การ&amp;ปฏิบัติตามกฎระเบียบด้านความปลอดภัยของ Office ๓๖๕](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance)
 
-**หมายเหตุ**: "สมัยใหม่" ไซต์ทีมจะไม่ปรากฏใน UI ผู้ดูแลระบบ SharePoint**คลาสสิก** คุณสามารถเข้าถึงรายการไซต์ "สมัยใหม่" จาก[ศูนย์กลางการดูแล Sharepoint ใหม่](https://docs.microsoft.com/sharepoint/get-started-new-admin-center)
+**หมายเหตุ:** "สมัยใหม่" ไซต์ทีมจะไม่ปรากฏใน UI ผู้ดูแลระบบ SharePoint**คลาสสิก** คุณสามารถเข้าถึงรายการไซต์ "สมัยใหม่" จาก[ศูนย์กลางการดูแล Sharepoint ใหม่](https://docs.microsoft.com/sharepoint/get-started-new-admin-center)
 
 
