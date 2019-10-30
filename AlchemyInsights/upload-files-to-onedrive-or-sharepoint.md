@@ -1,5 +1,5 @@
 ---
-title: อัปโหลดแฟ้ม OneDrive หรือ SharePoint
+title: อัปโหลดแฟ้มไปยัง OneDrive หรือ SharePoint
 ms.author: matteva
 author: pebaum
 manager: scotv
@@ -11,22 +11,24 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: a016fa63-4d87-4f3d-99eb-ee134cb27dc0
-ms.openlocfilehash: 90a67243716eb66357ffa362df31f7b064170918
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 9af01456f453c0d0cffc7c2d89f11eba2beda4ec
+ms.sourcegitcommit: defe2c412567b596fa8c3ab52111bde712ebb314
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36532530"
+ms.lasthandoff: 10/29/2019
+ms.locfileid: "37769898"
 ---
-# <a name="upload-files-to-onedrive-or-sharepoint"></a>อัปโหลดแฟ้ม OneDrive หรือ SharePoint
+# <a name="upload-files-to-onedrive-or-sharepoint"></a>อัปโหลดแฟ้มไปยัง OneDrive หรือ SharePoint
 
-1. ในเว็บเบราว์เซอร์ของคุณ ไปที่ตำแหน่งที่ตั้งที่คุณต้องการอัปโหลดแฟ้ม
+1. ในเว็บเบราว์เซอร์ของคุณให้ไปที่ตำแหน่งที่คุณต้องการอัปโหลดไฟล์
     
-2. เปิดแฟ้ม Explorer และเรียกดูไปยังแฟ้มที่คุณต้องการอัปโหลด
+2. เปิด File Explorer และเรียกดูไฟล์ที่คุณต้องการอัปโหลด
     
-3. แฟ้มเลือก และลากไปยังตำแหน่งใน OneDrive หรือ SharePoint หมายเหตุ: ถ้าคุณใช้ Microsoft ขอบ Mozilla FireFox หรือ Google โครเมียม คุณสามารถจะอัปโหลดโฟลเดอร์และแฟ้มทั้งหมดที่อยู่ในนั้น
+3. เลือกแฟ้มและลากไปยังตำแหน่งใน OneDrive หรือ SharePoint หมายเหตุ: หากคุณใช้ Microsoft Edge, Mozilla FireFox หรือ Google โครเมียมคุณยังสามารถอัพโหลดโฟลเดอร์และไฟล์ทั้งหมดในนั้นได้ด้วย
     
-> [!NOTE]
->  คุณสามารถอัปโหลดแฟ้มขนาดได้ถึง 15 GB ได้ > เส้นทางแบบเต็มของแฟ้ม (รวมถึงชื่อแฟ้ม) ต้องไม่มากกว่า 400 อักขระความยาว > ถ้าคุณต้องการอัปโหลดแฟ้มมากกว่า 100[ใช้ไคลเอ็นต์การซิงค์ OneDrive](https://go.microsoft.com/fwlink/?linkid=866427) 
+**หมาย เหตุ:**
+- คุณสามารถอัพโหลดไฟล์ได้ถึง 15 GB ในขนาด 
+- เส้นทางแบบเต็มสำหรับแฟ้ม (รวมถึงชื่อแฟ้ม) ต้องไม่เกิน๔๐๐อักขระที่มีความยาว 
+- หากคุณต้องการอัปโหลดไฟล์มากกว่า๑๐๐ให้[ใช้ไคลเอ็นต์การซิงค์ OneDrive](https://go.microsoft.com/fwlink/?linkid=866427) 
   
 

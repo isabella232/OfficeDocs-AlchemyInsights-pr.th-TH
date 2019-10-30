@@ -2,7 +2,6 @@
 title: การสร้างไซต์ SharePoint
 ms.author: efrene
 author: efrene
-ms.date: 1/16/2019
 ms.audience: ITPro
 ms.topic: article
 ms.collection: Adm_O365
@@ -14,12 +13,12 @@ ms.custom:
 - "1386"
 - "2303"
 ms.assetid: e62b9f80-b017-42dc-9464-f4e32c19d6c9
-ms.openlocfilehash: 30c51d84005534cc1de9e8b8136da1a07be57b73
-ms.sourcegitcommit: 0b06093dabd685f76cc39b1d7c0f8b03883b6e79
+ms.openlocfilehash: ac894195d847dfc009bc0b57647e1a474361f1c1
+ms.sourcegitcommit: defe2c412567b596fa8c3ab52111bde712ebb314
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 10/25/2019
-ms.locfileid: "36738216"
+ms.lasthandoff: 10/29/2019
+ms.locfileid: "37769610"
 ---
 # <a name="create-a-sharepoint-site"></a>การสร้างไซต์ SharePoint
 
@@ -31,10 +30,10 @@ ms.locfileid: "36738216"
 
 
   
-> [! เคล็ดลับ
-> - คุณไม่สามารถสร้างไซต์ที่มี URL เดียวกันของไซต์ที่มีอยู่ได้ หากคุณลบไซต์และต้องการใช้ URL อีกครั้งอาจเป็นไปได้ว่าไซต์ที่ถูกลบยังคงอยู่ภายใต้**ไซต์ที่ถูกลบ** หากต้องการจัดการไซต์ที่ถูกลบให้เห็นให้[ลบไซต์](https://docs.microsoft.com/sharepoint/manage-sites-in-new-admin-center#delete-a-site) หากต้องการเอาเว็บไซต์ที่มี Powershell ออกให้ดูตัวอย่างการ[เอาออก spsite](https://docs.microsoft.com/sharepoint/manage-sites-in-new-admin-center#delete-a-site) cmdlet
-> - ผู้ใช้บางรายอาจไม่สามารถสร้างไซต์ได้ ดู[จัดการการสร้างไซต์ใน SharePoint แบบออนไลน์](https://docs.microsoft.com/sharepoint/manage-site-creation)
-> - เป็นไปได้ที่เว็บไซต์จะปรากฏติดอยู่ที่**การสร้าง**นานกว่าที่คาดไว้ หากมีการผ่านมากกว่า24ชั่วโมงตั้งแต่แรกคุณเห็นปัญหานี้โปรดบันทึกตั๋วสนับสนุน ในหลายกรณีเรากำลังทำงานอยู่แล้วในการแก้ปัญหา กรุณาให้เราอย่างน้อย24ชั่วโมงในการดำเนินการแก้ปัญหา
-> - ถ้าคุณต้องการสร้างไซต์ทีมใหม่ที่ไม่มีกลุ่ม Office ๓๖๕ 
+**เคล็ด ลับ:**
+- คุณไม่สามารถสร้างไซต์ที่มี URL เดียวกันของไซต์ที่มีอยู่ได้ หากคุณลบไซต์และต้องการใช้ URL อีกครั้งอาจเป็นไปได้ว่าไซต์ที่ถูกลบยังคงอยู่ภายใต้**ไซต์ที่ถูกลบ** หากต้องการจัดการไซต์ที่ถูกลบให้เห็นให้[ลบไซต์](https://docs.microsoft.com/sharepoint/manage-sites-in-new-admin-center#delete-a-site) หากต้องการเอาเว็บไซต์ที่มี Powershell ออกให้ดูตัวอย่างการ[เอาออก spsite](https://docs.microsoft.com/sharepoint/manage-sites-in-new-admin-center#delete-a-site) cmdlet
+- ผู้ใช้บางรายอาจไม่สามารถสร้างไซต์ได้ ดู[จัดการการสร้างไซต์ใน SharePoint แบบออนไลน์](https://docs.microsoft.com/sharepoint/manage-site-creation)
+- เป็นไปได้ที่เว็บไซต์จะปรากฏติดอยู่ที่**การสร้าง**นานกว่าที่คาดไว้ หากมีการผ่านมากกว่า24ชั่วโมงตั้งแต่แรกคุณเห็นปัญหานี้โปรดบันทึกตั๋วสนับสนุน ในหลายกรณีเรากำลังทำงานอยู่แล้วในการแก้ปัญหา กรุณาให้เราอย่างน้อย24ชั่วโมงในการดำเนินการแก้ปัญหา
+- ถ้าคุณต้องการสร้างไซต์ทีมใหม่ที่ไม่มีกลุ่ม Office ๓๖๕ 
 
 

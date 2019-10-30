@@ -2,7 +2,6 @@
 title: ผู้ใช้ภายนอกไม่สามารถยอมรับการเชิญการใช้ร่วมกัน
 ms.author: efrene
 author: efrene
-ms.date: 8/8/2019
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,16 +11,16 @@ ms.assetid: ''
 ms.custom:
 - "9000191"
 - "2383"
-ms.openlocfilehash: 72e9321c43e33e3ea8ef50592d5d4ea5d9568d7c
-ms.sourcegitcommit: 0b06093dabd685f76cc39b1d7c0f8b03883b6e79
+ms.openlocfilehash: ebbd33fdff837c02b5f9220b3e895679041330bd
+ms.sourcegitcommit: defe2c412567b596fa8c3ab52111bde712ebb314
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 10/25/2019
-ms.locfileid: "36735912"
+ms.lasthandoff: 10/29/2019
+ms.locfileid: "37769142"
 ---
 # <a name="external-user-is-unable-to-accept-a-sharing-invitation"></a>ผู้ใช้ภายนอกไม่สามารถยอมรับการเชิญการใช้ร่วมกัน
 
-หากผู้ใช้ภายนอกไม่สามารถยอมรับคำเชิญร่วมกันได้โปรดลองไปที่ลิงก์ด้านล่าง: 
+หากผู้ใช้ภายนอกไม่สามารถยอมรับคำเชิญการใช้งานร่วมกันของ SharePoint หรือ OneDrive โปรดลองไปที่ลิงก์ด้านล่าง: 
 
 - ["การเข้าถึงถูกปฏิเสธ", "คุณต้องมีสิทธิ์ในการเข้าถึงไซต์นี้" หรือ "ผู้ใช้ไม่พบในไดเรกทอรี" ข้อผิดพลาดใน SharePoint แบบออนไลน์และ OneDrive สำหรับธุรกิจ](https://docs.microsoft.com/sharepoint/support/administration/access-denied-or-need-permission-error-sharepoint-online-or-onedrive-for-business)
 - ["นโยบายขององค์กรของคุณไม่อนุญาตให้คุณใช้ร่วมกับผู้ใช้เหล่านี้" ข้อผิดพลาดเมื่อใช้ร่วมกันรายการหรือไซต์ใน SharePoint แบบออนไลน์หรือ OneDrive สำหรับธุรกิจ](https://docs.microsoft.com/sharepoint/support/administration/organization-policies-do-not-allow-you-to-share-with-users-error)
