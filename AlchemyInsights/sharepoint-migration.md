@@ -1,18 +1,21 @@
 ---
 title: ย้ายตัวเลือกไปยัง SharePoint แบบออนไลน์
 ms.author: pebaum
-author: Techwriter40
+author: v-miegge
+manager: v-cojank
+ms.date: 11/04/2019
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
+ms.collection: Adm_O365
 ms.assetid: c8c339c9-2e50-4daa-aa91-3eb5053e2bc6
-ms.openlocfilehash: 5bff8e0d8b0869ea975772d944c3885a3a4cbad5
-ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
+ms.openlocfilehash: d0587b3a86b90358359c03fe32e9919facd30883
+ms.sourcegitcommit: a8945ab0008f138b2992175b0640e78a505d29e1
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 10/18/2019
-ms.locfileid: "36751403"
+ms.lasthandoff: 11/04/2019
+ms.locfileid: "37964033"
 ---
 # <a name="migrate-options-to-sharepoint-online"></a>ย้ายตัวเลือกไปยัง SharePoint แบบออนไลน์
 
@@ -22,10 +25,9 @@ ms.locfileid: "36751403"
 
 - [เครื่องมือการโยกย้าย Sharepoint](https://docs.microsoft.com/sharepointmigration/introducing-the-sharepoint-migration-tool)
 
+- [เริ่มต้นใช้งานตัวจัดการการย้ายข้อมูล](https://docs.microsoft.com/sharepointmigration/mm-get-started)
+
 - [Sharepoint แบบออนไลน์และความเร็วในการโยกย้าย ODB](https://docs.microsoft.com/sharepointmigration/sharepoint-online-and-onedrive-migration-speed)
-
-- การ[ย้ายข้อมูลและการควบคุมปริมาณบริการ](https://blogs.technet.microsoft.com/sposupport/2017/08/12/data-migration-and-spo-service-throttling/)ที่ได้รับ
-
 
 - [หลีกเลี่ยงการควบคุมปริมาณหรือถูกบล็อคใน SharePoint แบบออนไลน์](https://docs.microsoft.com/sharepoint/dev/general-development/how-to-avoid-getting-throttled-or-blocked-in-sharepoint-online)
 
