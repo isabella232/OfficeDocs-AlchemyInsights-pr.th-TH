@@ -13,14 +13,14 @@ ms.custom:
 - "1800019"
 ms.assetid: bad7a7f6-0c68-497a-8637-aae49355034a
 ms.openlocfilehash: 672348fa3f34157c190b6d986309b8ed141e02f2
-ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
+ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 10/18/2019
+ms.lasthandoff: 11/15/2019
 ms.locfileid: "36738432"
 ---
-# <a name="turn-focused-inbox-on-or-off-for-everyone"></a><span data-ttu-id="2cd8e-102">เปิดหรือปิดกล่องขาเข้าที่มุ่งเน้นสำหรับทุกคน</span><span class="sxs-lookup"><span data-stu-id="2cd8e-102">Turn Focused Inbox on or off for everyone</span></span>
+# <a name="turn-focused-inbox-on-or-off-for-everyone"></a><span data-ttu-id="73b6b-102">เปิดหรือปิดกล่องขาเข้าที่มุ่งเน้นสำหรับทุกคน</span><span class="sxs-lookup"><span data-stu-id="73b6b-102">Turn Focused Inbox on or off for everyone</span></span>
 
-<span data-ttu-id="2cd8e-103">สำหรับคำแนะนำโปรดดูที่[กำหนดค่ากล่องขาเข้าที่เน้นสำหรับทุกคนในองค์กรของคุณ](https://docs.microsoft.com/office365/admin/setup/configure-focused-inbox)</span><span class="sxs-lookup"><span data-stu-id="2cd8e-103">For instructions, see [Configure Focused Inbox for everyone in your organization](https://docs.microsoft.com/office365/admin/setup/configure-focused-inbox).</span></span>
+<span data-ttu-id="73b6b-103">สำหรับคำแนะนำโปรดดูที่[กำหนดค่ากล่องขาเข้าที่เน้นสำหรับทุกคนในองค์กรของคุณ](https://docs.microsoft.com/office365/admin/setup/configure-focused-inbox)</span><span class="sxs-lookup"><span data-stu-id="73b6b-103">For instructions, see [Configure Focused Inbox for everyone in your organization](https://docs.microsoft.com/office365/admin/setup/configure-focused-inbox).</span></span>
 
-<span data-ttu-id="2cd8e-104">**หมายเหตุ**: ขั้นตอนนี้จำเป็นต้องใช้ PowerShell แบบออนไลน์ของอัตราแลกเปลี่ยน</span><span class="sxs-lookup"><span data-stu-id="2cd8e-104">**Note**: This procedure requires Exchange Online PowerShell.</span></span> <span data-ttu-id="2cd8e-105">คุณต้องการทำสิ่งนี้ในศูนย์กลางการดูแลระบบ Microsoft ๓๖๕แทนหรือไม่</span><span class="sxs-lookup"><span data-stu-id="2cd8e-105">Would you like to do this in the Microsoft 365 admin center instead?</span></span> [<span data-ttu-id="2cd8e-106">ออกเสียงลงคะแนนที่นี่!</span><span class="sxs-lookup"><span data-stu-id="2cd8e-106">Vote here!</span></span>](https://go.microsoft.com/fwlink/p/?linkid=862489)
+<span data-ttu-id="73b6b-104">**หมายเหตุ**: ขั้นตอนนี้จำเป็นต้องใช้ PowerShell แบบออนไลน์ของอัตราแลกเปลี่ยน</span><span class="sxs-lookup"><span data-stu-id="73b6b-104">**Note**: This procedure requires Exchange Online PowerShell.</span></span> <span data-ttu-id="73b6b-105">คุณต้องการทำสิ่งนี้ในศูนย์กลางการดูแลระบบ Microsoft ๓๖๕แทนหรือไม่</span><span class="sxs-lookup"><span data-stu-id="73b6b-105">Would you like to do this in the Microsoft 365 admin center instead?</span></span> [<span data-ttu-id="73b6b-106">ออกเสียงลงคะแนนที่นี่!</span><span class="sxs-lookup"><span data-stu-id="73b6b-106">Vote here!</span></span>](https://go.microsoft.com/fwlink/p/?linkid=862489)

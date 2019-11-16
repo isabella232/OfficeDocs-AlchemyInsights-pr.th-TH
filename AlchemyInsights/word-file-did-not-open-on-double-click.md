@@ -12,38 +12,38 @@ ms.custom:
 - "850"
 - "2100002"
 ms.openlocfilehash: aaf4cf8f22a81c601f41ef00080aeb1d8a7e2789
-ms.sourcegitcommit: 0b06093dabd685f76cc39b1d7c0f8b03883b6e79
+ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 10/25/2019
+ms.lasthandoff: 11/15/2019
 ms.locfileid: "36558204"
 ---
-# <a name="word-document-opened-in-the-wrong-app-or-didnt-open"></a><span data-ttu-id="cd1f6-102">เอกสาร Word เปิดในแอปที่ไม่ถูกต้องหรือไม่ได้เปิด</span><span class="sxs-lookup"><span data-stu-id="cd1f6-102">Word document opened in the wrong app or didn't open</span></span>
+# <a name="word-document-opened-in-the-wrong-app-or-didnt-open"></a><span data-ttu-id="f025f-102">เอกสาร Word เปิดในแอปที่ไม่ถูกต้องหรือไม่ได้เปิด</span><span class="sxs-lookup"><span data-stu-id="f025f-102">Word document opened in the wrong app or didn't open</span></span>
 
-<span data-ttu-id="cd1f6-103">ลองหนึ่งในคำแนะนำเหล่านี้:</span><span class="sxs-lookup"><span data-stu-id="cd1f6-103">Try one of these suggestions:</span></span>
+<span data-ttu-id="f025f-103">ลองหนึ่งในคำแนะนำเหล่านี้:</span><span class="sxs-lookup"><span data-stu-id="f025f-103">Try one of these suggestions:</span></span>
 
-<span data-ttu-id="cd1f6-104">**เลือก Word เป็นค่าเริ่มต้น**</span><span class="sxs-lookup"><span data-stu-id="cd1f6-104">**Choose Word as the default**</span></span>
+<span data-ttu-id="f025f-104">**เลือก Word เป็นค่าเริ่มต้น**</span><span class="sxs-lookup"><span data-stu-id="f025f-104">**Choose Word as the default**</span></span>
 
-- <span data-ttu-id="cd1f6-105">คลิกขวาบนเอกสารเลือก**เปิดด้วย**แล้วเลือก**Word**</span><span class="sxs-lookup"><span data-stu-id="cd1f6-105">Right-click on the document, choose **Open with**, and then choose **Word**</span></span>
+- <span data-ttu-id="f025f-105">คลิกขวาบนเอกสารเลือก**เปิดด้วย**แล้วเลือก**Word**</span><span class="sxs-lookup"><span data-stu-id="f025f-105">Right-click on the document, choose **Open with**, and then choose **Word**</span></span>
 
-<span data-ttu-id="cd1f6-106">**เรียกใช้การซ่อมแซมด่วน**</span><span class="sxs-lookup"><span data-stu-id="cd1f6-106">**Run a Quick Repair**</span></span>
+<span data-ttu-id="f025f-106">**เรียกใช้การซ่อมแซมด่วน**</span><span class="sxs-lookup"><span data-stu-id="f025f-106">**Run a Quick Repair**</span></span>
 
-1. <span data-ttu-id="cd1f6-107">ไปที่ **' แผงควบคุม ' > โปรแกรม > โปรแกรมและคุณลักษณะ**</span><span class="sxs-lookup"><span data-stu-id="cd1f6-107">Go to **Control Panel > Programs > Programs and Features**.</span></span>
+1. <span data-ttu-id="f025f-107">ไปที่ **' แผงควบคุม ' > โปรแกรม > โปรแกรมและคุณลักษณะ**</span><span class="sxs-lookup"><span data-stu-id="f025f-107">Go to **Control Panel > Programs > Programs and Features**.</span></span>
 
-2. <span data-ttu-id="cd1f6-108">เลือกผลิตภัณฑ์ Office ที่คุณต้องการซ่อมแซมแล้วเลือก**เปลี่ยนแปลง**</span><span class="sxs-lookup"><span data-stu-id="cd1f6-108">Select the Office product you want to repair, and then choose **Change**.</span></span>
+2. <span data-ttu-id="f025f-108">เลือกผลิตภัณฑ์ Office ที่คุณต้องการซ่อมแซมแล้วเลือก**เปลี่ยนแปลง**</span><span class="sxs-lookup"><span data-stu-id="f025f-108">Select the Office product you want to repair, and then choose **Change**.</span></span>
 
-3. <span data-ttu-id="cd1f6-109">เลือกตัวเลือกการ**ซ่อมแซมด่วน**และจากนั้นเลือก**ซ่อมแซม**</span><span class="sxs-lookup"><span data-stu-id="cd1f6-109">Choose the **Quick Repair** option, and then choose **Repair**.</span></span>
+3. <span data-ttu-id="f025f-109">เลือกตัวเลือกการ**ซ่อมแซมด่วน**และจากนั้นเลือก**ซ่อมแซม**</span><span class="sxs-lookup"><span data-stu-id="f025f-109">Choose the **Quick Repair** option, and then choose **Repair**.</span></span>
 
-<span data-ttu-id="cd1f6-110">**ถอนการติดตั้ง Office รุ่นที่คุณไม่ได้ใช้**</span><span class="sxs-lookup"><span data-stu-id="cd1f6-110">**Uninstall versions of Office you don't use**</span></span>
+<span data-ttu-id="f025f-110">**ถอนการติดตั้ง Office รุ่นที่คุณไม่ได้ใช้**</span><span class="sxs-lookup"><span data-stu-id="f025f-110">**Uninstall versions of Office you don't use**</span></span>
 
-1. <span data-ttu-id="cd1f6-111">ไปที่ **' แผงควบคุม ' > ถอนการติดตั้งโปรแกรม**แล้วเลือกรุ่นของ Office ที่คุณต้องการเอาออก</span><span class="sxs-lookup"><span data-stu-id="cd1f6-111">Go to **Control Panel > Uninstall a Program**, and then select the version of Office you want to remove.</span></span>
+1. <span data-ttu-id="f025f-111">ไปที่ **' แผงควบคุม ' > ถอนการติดตั้งโปรแกรม**แล้วเลือกรุ่นของ Office ที่คุณต้องการเอาออก</span><span class="sxs-lookup"><span data-stu-id="f025f-111">Go to **Control Panel > Uninstall a Program**, and then select the version of Office you want to remove.</span></span>
 
-2. <span data-ttu-id="cd1f6-112">คลิ**กถอนการติดตั้ง**</span><span class="sxs-lookup"><span data-stu-id="cd1f6-112">Click **Uninstall**.</span></span>
+2. <span data-ttu-id="f025f-112">คลิ**กถอนการติดตั้ง**</span><span class="sxs-lookup"><span data-stu-id="f025f-112">Click **Uninstall**.</span></span>
 
-3. <span data-ttu-id="cd1f6-113">เริ่มระบบของคอมพิวเตอร์ใหม่</span><span class="sxs-lookup"><span data-stu-id="cd1f6-113">Restart your computer.</span></span>
+3. <span data-ttu-id="f025f-113">เริ่มระบบของคอมพิวเตอร์ใหม่</span><span class="sxs-lookup"><span data-stu-id="f025f-113">Restart your computer.</span></span>
 
-<span data-ttu-id="cd1f6-114">**เรียกใช้ตัวแก้ไขปัญหานี้เพื่อตั้งค่านามสกุลแฟ้ม Office เพื่อเปิดใน Office**</span><span class="sxs-lookup"><span data-stu-id="cd1f6-114">**Run this troubleshooter to set Office file extensions to open in Office**</span></span>
+<span data-ttu-id="f025f-114">**เรียกใช้ตัวแก้ไขปัญหานี้เพื่อตั้งค่านามสกุลแฟ้ม Office เพื่อเปิดใน Office**</span><span class="sxs-lookup"><span data-stu-id="f025f-114">**Run this troubleshooter to set Office file extensions to open in Office**</span></span>
 
-1. <span data-ttu-id="cd1f6-115">เรียกใช้ตัวแก้ไขhttps://aka.ms/diag_officefileปัญหานี้:</span><span class="sxs-lookup"><span data-stu-id="cd1f6-115">Run this troubleshooter: https://aka.ms/diag_officefile.</span></span>
+1. <span data-ttu-id="f025f-115">เรียกใช้ตัวแก้ไขhttps://aka.ms/diag_officefileปัญหานี้:</span><span class="sxs-lookup"><span data-stu-id="f025f-115">Run this troubleshooter: https://aka.ms/diag_officefile.</span></span>
 
-2. <span data-ttu-id="cd1f6-116">**เปิด**หรือ**บันทึก**ตัวแก้ไขปัญหาไปยังเดสก์ท็อปของคุณโดยขึ้นอยู่กับเบราว์เซอร์ของคุณแล้ว**เรียกใช้**</span><span class="sxs-lookup"><span data-stu-id="cd1f6-116">Depending on your browser, **Open** or **Save** the troubleshooter to your desktop, and then **Run** it.</span></span>
+2. <span data-ttu-id="f025f-116">**เปิด**หรือ**บันทึก**ตัวแก้ไขปัญหาไปยังเดสก์ท็อปของคุณโดยขึ้นอยู่กับเบราว์เซอร์ของคุณแล้ว**เรียกใช้**</span><span class="sxs-lookup"><span data-stu-id="f025f-116">Depending on your browser, **Open** or **Save** the troubleshooter to your desktop, and then **Run** it.</span></span>

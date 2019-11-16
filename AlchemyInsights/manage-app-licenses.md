@@ -13,28 +13,28 @@ ms.custom:
 - "1500008"
 - "2443"
 ms.openlocfilehash: 0282917f473dbe0718953c8668c4730d8f3448fd
-ms.sourcegitcommit: 0b06093dabd685f76cc39b1d7c0f8b03883b6e79
+ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 10/25/2019
+ms.lasthandoff: 11/15/2019
 ms.locfileid: "36497390"
 ---
-# <a name="manage-office-365-app-licenses"></a><span data-ttu-id="5a07e-102">จัดการสิทธิ์การใช้งานแอป Office ๓๖๕</span><span class="sxs-lookup"><span data-stu-id="5a07e-102">Manage Office 365 app licenses</span></span>
+# <a name="manage-office-365-app-licenses"></a><span data-ttu-id="dec27-102">จัดการสิทธิ์การใช้งานแอป Office ๓๖๕</span><span class="sxs-lookup"><span data-stu-id="dec27-102">Manage Office 365 app licenses</span></span>
 
-## <a name="to-change-license-quantity"></a><span data-ttu-id="5a07e-103">หากต้องการเปลี่ยนปริมาณใบอนุญาต</span><span class="sxs-lookup"><span data-stu-id="5a07e-103">To change license quantity</span></span>
+## <a name="to-change-license-quantity"></a><span data-ttu-id="dec27-103">หากต้องการเปลี่ยนปริมาณใบอนุญาต</span><span class="sxs-lookup"><span data-stu-id="dec27-103">To change license quantity</span></span>
 
-1. <span data-ttu-id="5a07e-104">ไปที่หน้า[บริการผลิตภัณฑ์](https://go.microsoft.com/fwlink/p/?linkid=842054)**สำหรับการเรียกเก็บเงิน** > & แล้วเลือกแท็บ**แอป**</span><span class="sxs-lookup"><span data-stu-id="5a07e-104">Go to the **Billing** > [Products & services](https://go.microsoft.com/fwlink/p/?linkid=842054) page, then choose the **Apps** tab.</span></span>
+1. <span data-ttu-id="dec27-104">ไปที่หน้า[บริการผลิตภัณฑ์](https://go.microsoft.com/fwlink/p/?linkid=842054)**สำหรับการเรียกเก็บเงิน** > & แล้วเลือกแท็บ**แอป**</span><span class="sxs-lookup"><span data-stu-id="dec27-104">Go to the **Billing** > [Products & services](https://go.microsoft.com/fwlink/p/?linkid=842054) page, then choose the **Apps** tab.</span></span>
 
-2. <span data-ttu-id="5a07e-105">ค้นหาและเลือกแอปที่คุณต้องการจัดการ</span><span class="sxs-lookup"><span data-stu-id="5a07e-105">Find and select the app you want to manage.</span></span>  
+2. <span data-ttu-id="dec27-105">ค้นหาและเลือกแอปที่คุณต้องการจัดการ</span><span class="sxs-lookup"><span data-stu-id="dec27-105">Find and select the app you want to manage.</span></span>  
 
-3. <span data-ttu-id="5a07e-106">เลือก**เพิ่ม/เอาสิทธิ์**การใช้งานออก</span><span class="sxs-lookup"><span data-stu-id="5a07e-106">Select **Add/remove licenses**.</span></span>
+3. <span data-ttu-id="dec27-106">เลือก**เพิ่ม/เอาสิทธิ์**การใช้งานออก</span><span class="sxs-lookup"><span data-stu-id="dec27-106">Select **Add/remove licenses**.</span></span>
 
-4. <span data-ttu-id="5a07e-107">ป้อนหมายเลขใบอนุญาตใหม่ที่จำเป็น</span><span class="sxs-lookup"><span data-stu-id="5a07e-107">Enter the new number of licenses needed.</span></span> <span data-ttu-id="5a07e-108">ตัวอย่างเช่นถ้าคุณมีสิทธิ์การใช้งาน5และต้องการเพียง4ให้ป้อน4ในกล่อง**ใบอนุญาตรวม**</span><span class="sxs-lookup"><span data-stu-id="5a07e-108">For example, if you currently have 5 licenses and only need 4, enter 4 in the **Total licenses** box.</span></span> <span data-ttu-id="5a07e-109">หากคุณมีสิทธิ์การใช้งาน5ใบอนุญาตและต้องใช้สิทธิ์การใช้งาน10ทั้งหมดให้ป้อน10ในกล่อง**ใบอนุญาตทั้งหมด**</span><span class="sxs-lookup"><span data-stu-id="5a07e-109">If you currently have 5 licenses and need 10 total licenses, enter 10 in the **Total licenses** box.</span></span>
+4. <span data-ttu-id="dec27-107">ป้อนหมายเลขใบอนุญาตใหม่ที่จำเป็น</span><span class="sxs-lookup"><span data-stu-id="dec27-107">Enter the new number of licenses needed.</span></span> <span data-ttu-id="dec27-108">ตัวอย่างเช่นถ้าคุณมีสิทธิ์การใช้งาน5และต้องการเพียง4ให้ป้อน4ในกล่อง**ใบอนุญาตรวม**</span><span class="sxs-lookup"><span data-stu-id="dec27-108">For example, if you currently have 5 licenses and only need 4, enter 4 in the **Total licenses** box.</span></span> <span data-ttu-id="dec27-109">หากคุณมีสิทธิ์การใช้งาน5ใบอนุญาตและต้องใช้สิทธิ์การใช้งาน10ทั้งหมดให้ป้อน10ในกล่อง**ใบอนุญาตทั้งหมด**</span><span class="sxs-lookup"><span data-stu-id="dec27-109">If you currently have 5 licenses and need 10 total licenses, enter 10 in the **Total licenses** box.</span></span>
 
-## <a name="to-assign-app-licenses"></a><span data-ttu-id="5a07e-110">วิธีกำหนดสิทธิ์การใช้งานแอป</span><span class="sxs-lookup"><span data-stu-id="5a07e-110">To assign app licenses</span></span>
+## <a name="to-assign-app-licenses"></a><span data-ttu-id="dec27-110">วิธีกำหนดสิทธิ์การใช้งานแอป</span><span class="sxs-lookup"><span data-stu-id="dec27-110">To assign app licenses</span></span>
 
-1. <span data-ttu-id="5a07e-111">ไปที่หน้า[บริการผลิตภัณฑ์](https://go.microsoft.com/fwlink/p/?linkid=842054)**สำหรับการเรียกเก็บเงิน** > & แล้วเลือกแท็บ**แอป**</span><span class="sxs-lookup"><span data-stu-id="5a07e-111">Go to the **Billing** > [Products & services](https://go.microsoft.com/fwlink/p/?linkid=842054) page, then choose the **Apps** tab.</span></span>
+1. <span data-ttu-id="dec27-111">ไปที่หน้า[บริการผลิตภัณฑ์](https://go.microsoft.com/fwlink/p/?linkid=842054)**สำหรับการเรียกเก็บเงิน** > & แล้วเลือกแท็บ**แอป**</span><span class="sxs-lookup"><span data-stu-id="dec27-111">Go to the **Billing** > [Products & services](https://go.microsoft.com/fwlink/p/?linkid=842054) page, then choose the **Apps** tab.</span></span>
 
-2. <span data-ttu-id="5a07e-112">ค้นหาและเลือกแอปที่คุณต้องการจัดการ</span><span class="sxs-lookup"><span data-stu-id="5a07e-112">Find and select the app you want to manage.</span></span>  
+2. <span data-ttu-id="dec27-112">ค้นหาและเลือกแอปที่คุณต้องการจัดการ</span><span class="sxs-lookup"><span data-stu-id="dec27-112">Find and select the app you want to manage.</span></span>  
 
-3. <span data-ttu-id="5a07e-113">ภายใต้**การตั้งค่า & การดำเนินการ**ให้เลือกการเชื่อมโยงเพื่อ**จัดการในพอร์ทัลของผู้เผยแพร่**</span><span class="sxs-lookup"><span data-stu-id="5a07e-113">Under **Settings & actions**, select the link to **Manage in publisher’s portal**.</span></span>
+3. <span data-ttu-id="dec27-113">ภายใต้**การตั้งค่า & การดำเนินการ**ให้เลือกการเชื่อมโยงเพื่อ**จัดการในพอร์ทัลของผู้เผยแพร่**</span><span class="sxs-lookup"><span data-stu-id="dec27-113">Under **Settings & actions**, select the link to **Manage in publisher’s portal**.</span></span>
