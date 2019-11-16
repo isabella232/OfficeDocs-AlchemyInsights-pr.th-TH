@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 84f2b70e-2b23-4039-8305-85783798feed
 ms.openlocfilehash: 5bd43255bf3978ebb7f2405fba5c01437d32ceb7
-ms.sourcegitcommit: 0b06093dabd685f76cc39b1d7c0f8b03883b6e79
+ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 10/25/2019
+ms.lasthandoff: 11/15/2019
 ms.locfileid: "36515934"
 ---
-# <a name="create-a-site"></a><span data-ttu-id="41fd9-102">สร้างไซต์</span><span class="sxs-lookup"><span data-stu-id="41fd9-102">Create a site</span></span>
+# <a name="create-a-site"></a><span data-ttu-id="f93ee-102">สร้างไซต์</span><span class="sxs-lookup"><span data-stu-id="f93ee-102">Create a site</span></span>
 
-<span data-ttu-id="41fd9-103">คุณสามารถสร้างชนิดของไซต์ที่แตกต่างกันใน SharePoint แบบออนไลน์</span><span class="sxs-lookup"><span data-stu-id="41fd9-103">You can create different types of sites in SharePoint Online.</span></span> <span data-ttu-id="41fd9-104">หากต้องการเรียนรู้วิธีการทำเช่นนี้ในศูนย์ดูแล SharePoint ใหม่โปรดดู[สร้างไซต์](https://go.microsoft.com/fwlink/?linkid=866295)</span><span class="sxs-lookup"><span data-stu-id="41fd9-104">To learn how to do this in the new SharePoint admin center, see [Create a site](https://go.microsoft.com/fwlink/?linkid=866295).</span></span> <span data-ttu-id="41fd9-105">สำหรับข้อมูลเกี่ยวกับการอนุญาตให้ผู้ใช้สร้างไซต์ของตนเองให้ดู[ที่จัดการการสร้างไซต์ใน SharePoint แบบออนไลน์](https://go.microsoft.com/fwlink/?linkid=866296)</span><span class="sxs-lookup"><span data-stu-id="41fd9-105">For info about allowing users to create their own sites, see [Manage site creation in SharePoint Online](https://go.microsoft.com/fwlink/?linkid=866296).</span></span>
+<span data-ttu-id="f93ee-103">คุณสามารถสร้างชนิดของไซต์ที่แตกต่างกันใน SharePoint แบบออนไลน์</span><span class="sxs-lookup"><span data-stu-id="f93ee-103">You can create different types of sites in SharePoint Online.</span></span> <span data-ttu-id="f93ee-104">หากต้องการเรียนรู้วิธีการทำเช่นนี้ในศูนย์ดูแล SharePoint ใหม่โปรดดู[สร้างไซต์](https://go.microsoft.com/fwlink/?linkid=866295)</span><span class="sxs-lookup"><span data-stu-id="f93ee-104">To learn how to do this in the new SharePoint admin center, see [Create a site](https://go.microsoft.com/fwlink/?linkid=866295).</span></span> <span data-ttu-id="f93ee-105">สำหรับข้อมูลเกี่ยวกับการอนุญาตให้ผู้ใช้สร้างไซต์ของตนเองให้ดู[ที่จัดการการสร้างไซต์ใน SharePoint แบบออนไลน์](https://go.microsoft.com/fwlink/?linkid=866296)</span><span class="sxs-lookup"><span data-stu-id="f93ee-105">For info about allowing users to create their own sites, see [Manage site creation in SharePoint Online](https://go.microsoft.com/fwlink/?linkid=866296).</span></span>
  
-<span data-ttu-id="41fd9-106">สำหรับข้อมูลเกี่ยวกับชนิดไซต์ใหม่ให้ดูที่ไซต์[ทีมที่เชื่อมต่อกับกลุ่ม](https://go.microsoft.com/fwlink/?linkid=866292)หรือ[ไซต์การสื่อสาร](https://go.microsoft.com/fwlink/?linkid=866294)</span><span class="sxs-lookup"><span data-stu-id="41fd9-106">For info about the new site types, see [Group connected team sites](https://go.microsoft.com/fwlink/?linkid=866292) or [Communication sites](https://go.microsoft.com/fwlink/?linkid=866294).</span></span>
+<span data-ttu-id="f93ee-106">สำหรับข้อมูลเกี่ยวกับชนิดไซต์ใหม่ให้ดูที่ไซต์[ทีมที่เชื่อมต่อกับกลุ่ม](https://go.microsoft.com/fwlink/?linkid=866292)หรือ[ไซต์การสื่อสาร](https://go.microsoft.com/fwlink/?linkid=866294)</span><span class="sxs-lookup"><span data-stu-id="f93ee-106">For info about the new site types, see [Group connected team sites](https://go.microsoft.com/fwlink/?linkid=866292) or [Communication sites](https://go.microsoft.com/fwlink/?linkid=866294).</span></span>
     
 
 
