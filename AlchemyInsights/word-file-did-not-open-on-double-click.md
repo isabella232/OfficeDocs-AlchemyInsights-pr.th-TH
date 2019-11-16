@@ -12,10 +12,10 @@ ms.custom:
 - "850"
 - "2100002"
 ms.openlocfilehash: aaf4cf8f22a81c601f41ef00080aeb1d8a7e2789
-ms.sourcegitcommit: 0b06093dabd685f76cc39b1d7c0f8b03883b6e79
+ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 10/25/2019
+ms.lasthandoff: 11/15/2019
 ms.locfileid: "36558204"
 ---
 # <a name="word-document-opened-in-the-wrong-app-or-didnt-open"></a>เอกสาร Word เปิดในแอปที่ไม่ถูกต้องหรือไม่ได้เปิด

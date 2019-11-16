@@ -13,10 +13,10 @@ ms.custom:
 - "1800019"
 ms.assetid: bad7a7f6-0c68-497a-8637-aae49355034a
 ms.openlocfilehash: 672348fa3f34157c190b6d986309b8ed141e02f2
-ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
+ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 10/18/2019
+ms.lasthandoff: 11/15/2019
 ms.locfileid: "36738432"
 ---
 # <a name="turn-focused-inbox-on-or-off-for-everyone"></a>เปิดหรือปิดกล่องขาเข้าที่มุ่งเน้นสำหรับทุกคน

@@ -12,10 +12,10 @@ ms.custom:
 - "2673"
 - "9000740"
 ms.openlocfilehash: bf8be9ffe2bfa45ed2cf149c1c4fa118b40e816d
-ms.sourcegitcommit: defe2c412567b596fa8c3ab52111bde712ebb314
+ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 10/29/2019
+ms.lasthandoff: 11/15/2019
 ms.locfileid: "37768459"
 ---
 # <a name="control-lobby-settings-and-level-of-participation"></a>ควบคุมการตั้งค่าและระดับการเข้าร่วมของล็อบบี้
@@ -38,6 +38,6 @@ Cmdlet นี้จำเป็นต้องใช้ Skype สำหรับ
 
 - [อนุญาตให้ผู้ใช้โทรออกในการข้ามล็อบบี้](https://docs.microsoft.com/en-us/microsoftteams/meeting-policies-in-teams#allow-dial-in-users-to-bypass-the-lobby-coming-soon)(**เร็วๆนี้**) เป็นนโยบายต่อการจัดการที่ควบคุมว่าผู้ที่เรียกเลขหมายโดยโทรศัพท์เข้าร่วมการประชุมโดยตรงหรือรอในล็อบบี้โดยไม่คำนึงถึงการตั้งค่า**ผู้คนที่ยอมรับโดยอัตโนมัติ**
 
-- [อนุญาตให้ผู้จัดการแทนที่การตั้งค่าล็อบบี้](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams#allow-organizers-to-override-lobby-settings-coming-soon)(**เร็วๆนี้**) เป็นนโยบายต่อตัวจัดการที่ควบคุมว่าผู้จัดการประชุมสามารถแทนที่การตั้งค่าล็อบบี้ที่ผู้ดูแลตั้งค่า**โดยอัตโนมัติยอมรับคน**และ**อนุญาตให้มีการเรียกเลขหมาย ผู้ใช้ที่จะข้ามล็อบบี้**เมื่อพวกเขาจัดกำหนดการการประชุมใหม่
+- [อนุญาตให้ผู้จัดทำการแทนที่การตั้งค่าล็อบบี้](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams#allow-organizers-to-override-lobby-settings-coming-soon)(**เร็วๆนี้**) เป็นนโยบายสำหรับแต่ละตัวจัดการที่ควบคุมว่าการประชุมผู้จัดการสามารถแทนที่การตั้งค่าล็อบบี้ที่ผู้ดูแลระบบตั้งค่าไว้**โดยอัตโนมัติยอมรับบุคคล**และ**อนุญาตให้ใช้การเรียกเลขหมายในการข้ามล็อบบี้**เมื่อพวกเขาจัดตารางเวลาการประชุมใหม่
 
 **หมายเหตุ:** อ่าน[จัดการนโยบายการประชุมใน Teams](https://docs.microsoft.com/en-us/microsoftteams/meeting-policies-in-teams)เพื่อดูภาพรวมทั้งหมดของนโยบายการประชุมของ Microsoft Teams

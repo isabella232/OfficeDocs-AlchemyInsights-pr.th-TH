@@ -13,10 +13,10 @@ ms.custom:
 - "1800021"
 ms.assetid: 469de984-cec1-45ca-94ab-f70bc6b28fff
 ms.openlocfilehash: cebeea438ac881d9930eecb9bcb031f9a6e92977
-ms.sourcegitcommit: 0b06093dabd685f76cc39b1d7c0f8b03883b6e79
+ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 10/25/2019
+ms.lasthandoff: 11/15/2019
 ms.locfileid: "36499658"
 ---
 # <a name="inbox-rules"></a>กฎของกล่องขาเข้า
@@ -27,4 +27,4 @@ ms.locfileid: "36499658"
 
 - [จัดการข้อความของคุณโดยใช้กฎของกล่องขาเข้าใน Outlook บนเว็บ](https://support.office.com/article/8400435c-f14e-4272-9004-1548bb1848f2.aspx)
 
-นอกจากนี้คุณยังสามารถจัดการกฎของกล่องขาเข้าใน PowerShell แบบออนไลน์ของอัตราแลกเปลี่ยน สำหรับข้อมูลเพิ่มเติมโปรดดู[รับ-InboxRule](https://docs.microsoft.com/powershell/module/exchange/mailboxes/get-inboxrule) (มุมมอง),[ใหม่ inboxrule](https://docs.microsoft.com/powershell/module/exchange/mailboxes/new-inboxrule) (สร้าง),[ลบ Inboxrule](https://docs.microsoft.com/powershell/module/exchange/mailboxes/remove-inboxrule) (ลบ),[ชุด inboxrule](https://docs.microsoft.com/powershell/module/exchange/mailboxes/set-inboxrule) (แก้ไขที่มีอยู่),[ปิดการใช้งาน inboxrule](https://docs.microsoft.com/powershell/module/exchange/mailboxes/disable-inboxrule) (ปิดการใช้งานที่มีอยู่) และ[เปิดใช้งาน inboxrule ](https://docs.microsoft.com/powershell/module/exchange/mailboxes/enable-inboxrule)(เปิดใช้งานที่มีอยู่)
+นอกจากนี้คุณยังสามารถจัดการกฎของกล่องขาเข้าใน PowerShell แบบออนไลน์ของอัตราแลกเปลี่ยน สำหรับข้อมูลเพิ่มเติมโปรด[ดูรับ-InboxRule](https://docs.microsoft.com/powershell/module/exchange/mailboxes/get-inboxrule) (มุมมอง),[ใหม่ inboxrule](https://docs.microsoft.com/powershell/module/exchange/mailboxes/new-inboxrule) (สร้าง),[ลบ Inboxrule](https://docs.microsoft.com/powershell/module/exchange/mailboxes/remove-inboxrule) (ลบ),[ตั้งค่า inboxrule](https://docs.microsoft.com/powershell/module/exchange/mailboxes/set-inboxrule) (แก้ไขที่มีอยู่),[ปิดการใช้งาน inboxrule](https://docs.microsoft.com/powershell/module/exchange/mailboxes/disable-inboxrule) (ปิดใช้งานที่มีอยู่) และ[เปิดใช้งาน inboxrule](https://docs.microsoft.com/powershell/module/exchange/mailboxes/enable-inboxrule) (เปิดใช้งานที่มีอยู่)

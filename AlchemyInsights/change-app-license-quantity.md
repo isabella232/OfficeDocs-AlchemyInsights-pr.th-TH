@@ -13,10 +13,10 @@ ms.custom:
 - "9000568"
 - "2425"
 ms.openlocfilehash: 86a61336da218fb64876401741f4babe8958f64c
-ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
+ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 10/18/2019
+ms.lasthandoff: 11/15/2019
 ms.locfileid: "36519786"
 ---
 # <a name="change-app-license-quantity"></a>เปลี่ยนปริมาณลิขสิทธิ์ของแอป

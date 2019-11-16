@@ -13,10 +13,10 @@ ms.custom:
 - "9000144"
 - "1670"
 ms.openlocfilehash: 2d85dcf9111d48cb529c583c733823b404eb3188
-ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
+ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 10/18/2019
+ms.lasthandoff: 11/15/2019
 ms.locfileid: "36738108"
 ---
 # <a name="workflow-is-not-starting"></a>เวิร์กโฟลว์ไม่ได้เริ่มต้น
