@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "2657"
 - "9000734"
-ms.openlocfilehash: dac06690b51459ca166c15a5ef0f4c7e7a6d36f0
-ms.sourcegitcommit: 0495112ad4fd0e695140ec66d190e62f03030584
+ms.openlocfilehash: b5599c9974eb1c112835a9f42e4ebdc926071ea2
+ms.sourcegitcommit: 358e7ed05c262f909bfa9ed0df730e1fd89266b8
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 10/02/2019
-ms.locfileid: "37376868"
+ms.lasthandoff: 11/27/2019
+ms.locfileid: "39627593"
 ---
 # <a name="manage-meeting-policies-in-microsoft-teams"></a>จัดการนโยบายการประชุมใน Microsoft Teams
 
@@ -24,7 +24,7 @@ ms.locfileid: "37376868"
 
 สำหรับข้อมูลเพิ่มเติมเกี่ยวกับนโยบายการประชุมโปรดดูทรัพยากรต่อไปนี้:
 
-- หากต้องการเรียนรู้เกี่ยวกับการสร้างนโยบายทำการเปลี่ยนแปลงและกำหนดผู้ใช้ให้กับนโยบายโปรดดูที่[จัดการนโยบายการประชุมใน Teams](https://docs.microsoft.com/en-us/microsoftteams/meeting-policies-in-teams)
+- หากต้องการเรียนรู้เกี่ยวกับการสร้างนโยบายทำการเปลี่ยนแปลงและกำหนดผู้ใช้ให้กับนโยบายโปรดดูที่[จัดการนโยบายการประชุมใน Teams](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams)
 
 - เพื่อทำการเปลี่ยนแปลงนโยบายโดยใช้ cmdlet[ของ powershell ดูภาพรวมของทีม powershell](https://docs.microsoft.com/microsoftteams/teams-powershell-overview) 
     - คุณจำเป็นต้องใช้[Skype สำหรับโมดูล PowerShell ธุรกิจ](https://www.microsoft.com/download/details.aspx?id=39366)สำหรับนโยบายการประชุมทีม 

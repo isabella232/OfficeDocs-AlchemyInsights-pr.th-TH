@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000664"
 - "2535"
-ms.openlocfilehash: f1caff9ef112042b2bd39e47ec03c587cc87e421
-ms.sourcegitcommit: ee719f011f766fc20d23e935e98d7e33c326183b
+ms.openlocfilehash: ba30c8c65dab430c58b720708bd838dd45a0444f
+ms.sourcegitcommit: 358e7ed05c262f909bfa9ed0df730e1fd89266b8
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 10/24/2019
-ms.locfileid: "37654652"
+ms.lasthandoff: 11/27/2019
+ms.locfileid: "39625827"
 ---
 # <a name="add-users-to-intune"></a>เพิ่มผู้ใช้ไปยัง Intune
 
@@ -26,4 +26,4 @@ ms.locfileid: "37654652"
 
 สำหรับข้อมูลเพิ่มเติมเกี่ยวกับการใช้ศูนย์กลางการดูแลระบบ Microsoft ๓๖๕ดู [เพิ่มผู้ใช้ทีละรายหรือเป็นกลุ่มของ microsoft ๓๖๕ admin ศูนย์](https://support.office.com/article/Add-users-individually-or-in-bulk-to-Office-365-Admin-Help-1970f7d6-03b5-442f-b385-5880b9c256ec)
 
-สำหรับข้อมูลเพิ่มเติมเกี่ยวกับการใช้พอร์ทัล Intune ดู[เพิ่มผู้ใช้และให้สิทธิ์ระดับผู้ดูแลไปยัง Intune](https://docs.microsoft.com/en-us/intune/fundamentals/users-add)
+สำหรับข้อมูลเพิ่มเติมเกี่ยวกับการใช้พอร์ทัล Intune ดู[เพิ่มผู้ใช้และให้สิทธิ์ระดับผู้ดูแลไปยัง Intune](https://docs.microsoft.com/intune/fundamentals/users-add)
