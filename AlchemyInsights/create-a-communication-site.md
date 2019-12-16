@@ -1,19 +1,19 @@
 ---
 title: สร้างไซต์การสื่อสาร
 ms.author: pebaum
-author: Techwriter40
+author: pebaum
 ms.date: 11/13/2018
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 03a23778-ded1-4131-ba9c-59ecba15ff05
-ms.openlocfilehash: ffc67fd4aae62862167784c676d6d80390f5617e
-ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
+ms.openlocfilehash: cb5207ef7348f0c7728d2752d1a7196dc712b566
+ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 09/04/2019
-ms.locfileid: "36755435"
+ms.lasthandoff: 12/15/2019
+ms.locfileid: "40049932"
 ---
 # <a name="create-a-communication-site"></a>สร้างไซต์การสื่อสาร
 

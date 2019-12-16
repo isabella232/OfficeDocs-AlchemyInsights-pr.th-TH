@@ -1,20 +1,23 @@
 ---
 title: เช็คอินหลายไฟล์พร้อมกัน
 ms.author: pebaum
-author: Techwriter40
+author: pebaum
 manager: pamgreen
-ms.date: 9/17/2018
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 854014b6-39a2-4b76-a696-ecc3ab7251fd
-ms.openlocfilehash: 9e1a2f9068ff787ac835ad665c77bba70cd6b352
-ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
+ms.custom:
+- "5300029"
+- "1688"
+- "986"
+ms.openlocfilehash: 8aad3695d59e9a548817528a68143433be6193ce
+ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 09/04/2019
-ms.locfileid: "36755219"
+ms.lasthandoff: 12/15/2019
+ms.locfileid: "40050148"
 ---
 # <a name="check-in-several-files-at-once"></a>เช็คอินหลายไฟล์พร้อมกัน
 

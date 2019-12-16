@@ -1,7 +1,7 @@
 ---
-title: ใช้ป้ายชื่อในระดับความลับโดยอัตโนมัติ
-ms.author: stephow
-author: stephow-MSFT
+title: ใช้ป้ายความไวโดยอัตโนมัติ
+ms.author: pebaum
+author: pebaum
 manager: laurawi
 ms.date: ''
 ms.audience: admin
@@ -12,29 +12,29 @@ localization_priority: Normal
 ms.custom:
 - "1737"
 - "9000181"
-ms.openlocfilehash: b095426d780033f6c1c7eeb320d923f6c484b078
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 95de9df224d3450678b56d04e6d823f4874abcd5
+ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36517410"
+ms.lasthandoff: 12/15/2019
+ms.locfileid: "40050328"
 ---
-# <a name="auto-apply-sensitivity-labels"></a>ใช้ป้ายชื่อในระดับความลับโดยอัตโนมัติ
+# <a name="auto-apply-sensitivity-labels"></a>ใช้ป้ายความไวโดยอัตโนมัติ
 
-ป้ายชื่อของระดับความสำคัญสามารถด้วยตนเองใช้กับเนื้อหา โดยผู้ใช้ หรือคุณสามารถกำหนดค่าเหล่านี้สามารถนำไปใช้กับเนื้อหาโดยอัตโนมัติ
+คุณสามารถนำป้ายความไวไปใช้กับเนื้อหาโดยผู้ใช้ได้ด้วยตนเองหรือกำหนดค่าให้นำไปใช้กับเนื้อหาโดยอัตโนมัติ
 
-ป้ายชื่อระดับความลับที่นำไปใช้โดยอัตโนมัติเอาจำเป็นในการฝึกอบรมผู้ใช้เกี่ยวกับวิธีการจัดประเภทเนื้อหาและจำเป็นต้องแจ้งให้ทราบการตั้งค่าคอนฟิกนโยบายเหล่านั้น
+การใช้ป้ายความไวโดยอัตโนมัติจะช่วยขจัดความจำเป็นในการฝึกอบรมผู้ใช้ในการจัดประเภทเนื้อหาและจำเป็นต้องแจ้งให้ทราบถึงการกำหนดค่านโยบาย
 
-เมื่อต้องการใช้ป้ายชื่อโดยอัตโนมัติ ต่อไปนี้จำเป็นต้องมี:
+หากต้องการใช้ป้ายกำกับโดยอัตโนมัติจะต้องมีสิ่งต่อไปนี้
 
-- บอกรับเป็นสมาชิก P2 ป้องกันข้อมูล azure
-- [ดาวน์โหลดและติดตั้งการป้องกันข้อมูล Azure รวมจับกลุ่มไคลเอนต์](https://docs.microsoft.com/azure/information-protection/rms-client/install-unifiedlabelingclient-app)
+- การสมัครใช้งาน P2 การป้องกันข้อมูลของ Azure
+- [ดาวน์โหลดและติดตั้งไคลเอนต์การป้องกันข้อมูล Azure รวมการติดฉลาก](https://docs.microsoft.com/azure/information-protection/rms-client/install-unifiedlabelingclient-app)
 
-เรากำลังทำงานบนการสนับสนุนท้องถิ่นที่ไม่จำเป็นต้องมีการป้องกันข้อมูล Azure ประกอบการ labeling ไคลเอนต์ในอนาคต
+เรากำลังทำงานกับการสนับสนุนดั้งเดิมที่ไม่จำเป็นต้องมีไคลเอนต์การป้องกันข้อมูล Azure รวมการติดฉลากในอนาคต
 
-ในปัจจุบัน Windows เท่านั้นสนับสนุนไคลเอ็นต์ labeling ประกอบการ  คุณลักษณะไม่ได้สนับสนุนบน Mac, iOS และ Android
+ขณะนี้ Windows สนับสนุนไคลเอ็นต์การติดฉลากแบบรวม  คุณลักษณะนี้ยังไม่ได้รับการสนับสนุนบน Mac, iOS และ Android
 
-สำหรับข้อมูลเพิ่มเติมเกี่ยวกับระดับความลับป้ายและนำไปใช้โดยอัตโนมัติกับเนื้อหา ดู:
+สำหรับข้อมูลเพิ่มเติมเกี่ยวกับป้ายความไวและนำไปใช้กับเนื้อหาโดยอัตโนมัติให้ดูที่:
 
 - [ภาพรวมของป้ายความไว](https://docs.microsoft.com/office365/securitycompliance/sensitivity-labels)
-- [ป้ายชื่อที่มีความอ่อนไหวนำไปใช้กับเนื้อหาโดยอัตโนมัติ](https://docs.microsoft.com/office365/securitycompliance/apply_sensitivity_label_automatically)
+- [ใช้ป้ายความไวกับเนื้อหาโดยอัตโนมัติ](https://docs.microsoft.com/office365/securitycompliance/apply_sensitivity_label_automatically)
