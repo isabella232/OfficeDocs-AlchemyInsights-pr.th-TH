@@ -1,7 +1,7 @@
 ---
-title: ตรวจสอบการใช้งาน OneDrive และ SharePoint และกิจกรรม
-ms.author: kaarins
-author: kaarins
+title: ตรวจสอบ OneDrive และการใช้งานและกิจกรรมของ SharePoint
+ms.author: pebaum
+author: pebaum
 ms.date: 6/10/2018
 ms.audience: ITPro
 ms.topic: article
@@ -11,18 +11,18 @@ ms.custom:
 - "865"
 - "5300020"
 ms.assetid: 2987a5c9-063a-4fa1-af03-951f7f1750a8
-ms.openlocfilehash: 4a8194848977c05dd39b510285a70b8efc1609c8
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 0eae0f18067d99fdc6bd9a61fcd97b4d690bc946
+ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36543722"
+ms.lasthandoff: 12/15/2019
+ms.locfileid: "40052596"
 ---
-# <a name="view-reports-on-onedrive-and-sharepoint-activity-and-usage"></a>ดูรายงานเกี่ยวกับกิจกรรม OneDrive และ SharePoint และการใช้งาน
+# <a name="view-reports-on-onedrive-and-sharepoint-activity-and-usage"></a>ดูรายงานเกี่ยวกับ OneDrive และกิจกรรมและการใช้งาน SharePoint
 
-ไป[หน้ารายงานการใช้งานใน Microsoft 365 admin ศูนย์](https://admin.microsoft.com/AdminPortal/Home) ภายใต้ให้**เลือกรายงาน**เลือก OneDrive หรือ SharePoint กิจกรรมหรือการใช้งานรายงาน
+ไปที่[หน้ารายงานการใช้งานในศูนย์ดูแลของ Microsoft ๓๖๕](https://admin.microsoft.com/AdminPortal/Home) ภายใต้ให้**เลือกรายงาน**เลือกการ OneDrive หรือกิจกรรม SharePoint หรือรายงานการใช้
   
-[รายละเอียดเพิ่มเติมเกี่ยวกับรายงาน OneDrive](https://go.microsoft.com/fwlink/?linkid=875239)
+[ข้อมูลเพิ่มเติมเกี่ยวกับรายงาน OneDrive](https://go.microsoft.com/fwlink/?linkid=875239)
   
-[รายละเอียดเพิ่มเติมเกี่ยวกับรายงานของ SharePoint](https://go.microsoft.com/fwlink/?linkid=875240)
+[ข้อมูลเพิ่มเติมเกี่ยวกับรายงาน SharePoint](https://go.microsoft.com/fwlink/?linkid=875240)
   

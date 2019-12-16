@@ -1,7 +1,7 @@
 ---
 title: การใช้ร่วมกันภายนอกใน SharePoint แบบออนไลน์
-ms.author: efrene
-author: efrene
+ms.author: pebaum
+author: pebaum
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,16 +11,17 @@ ms.assetid: ''
 ms.custom:
 - "9000191"
 - "1749"
-ms.openlocfilehash: d4342c203dd60bea0a26ef9f5f281a62a0abf20e
-ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
+- "2389"
+ms.openlocfilehash: 867727395a5e0653a12cb0ea091bf841c6f4f84f
+ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 09/04/2019
-ms.locfileid: "36735984"
+ms.lasthandoff: 12/15/2019
+ms.locfileid: "40049788"
 ---
 # <a name="external-sharing-in-sharepoint-online"></a>การใช้ร่วมกันภายนอกใน SharePoint แบบออนไลน์
 
-ถ้าองค์กรของคุณทำงานที่เกี่ยวข้องกับการแชร์เอกสารหรือร่วมมือกับผู้จัดจำหน่ายลูกค้าหรือลูกค้าโดยตรงคุณสามารถใช้[คุณลักษณะการแชร์ภายนอกของ SharePoint แบบออนไลน์](https://docs.microsoft.com/sharepoint/external-sharing-overview)เพื่อแชร์เนื้อหากับบุคคลภายนอก องค์กร
+ถ้าองค์กรของคุณทำงานที่เกี่ยวข้องกับการแชร์เอกสารหรือร่วมมือกับผู้จัดจำหน่ายลูกค้าหรือลูกค้าโดยตรงคุณสามารถใช้[คุณลักษณะการแชร์ภายนอกของ SharePoint แบบออนไลน์](https://docs.microsoft.com/sharepoint/external-sharing-overview)เพื่อแชร์เนื้อหากับบุคคลภายนอกองค์กรของคุณ
 
 สำหรับข้อมูลเพิ่มเติมเกี่ยวกับการแชร์ภายนอกโปรดไปที่ลิงก์ด้านล่าง:
 

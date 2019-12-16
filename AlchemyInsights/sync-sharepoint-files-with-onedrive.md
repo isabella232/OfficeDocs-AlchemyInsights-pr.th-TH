@@ -1,7 +1,7 @@
 ---
 title: แก้ไขปัญหา "เปิดด้วย Explorer" ใน SharePoint แบบออนไลน์
-ms.author: efrene
-author: efrene
+ms.author: pebaum
+author: pebaum
 manager: pamgreen
 ms.date: 8/7/19
 ms.audience: Admin
@@ -11,12 +11,12 @@ localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 5ad2f1f2-9650-4eb0-b4fa-2f52a09f535a
-ms.openlocfilehash: 73583b3b27143c708a4cc993cdff94a33131ab52
-ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
+ms.openlocfilehash: 21a0c193b752342d47189dda73d171249153f7fc
+ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 09/04/2019
-ms.locfileid: "36743112"
+ms.lasthandoff: 12/15/2019
+ms.locfileid: "40050832"
 ---
 # <a name="troubleshoot-open-with-explorer-issues-in-sharepoint-online"></a>แก้ไขปัญหา "เปิดด้วย Explorer" ใน SharePoint แบบออนไลน์
 

@@ -1,7 +1,7 @@
 ---
-title: ลบ กลุ่มไซต์
-ms.author: kaarins
-author: kaarins
+title: ลบกลุ่มไซต์
+ms.author: pebaum
+author: pebaum
 manager: scotv
 ms.date: 1/24/2019
 ms.audience: Admin
@@ -14,21 +14,21 @@ ms.custom:
 - "567"
 - "5200006"
 ms.assetid: aa6c2aa1-6853-461c-8764-01fb96f8e981
-ms.openlocfilehash: d1677fe1734386e38992811ec994c62286510eaa
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: d8f49cb780156de2e26d7fa19b79b567d94b8281
+ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36513738"
+ms.lasthandoff: 12/15/2019
+ms.locfileid: "40053064"
 ---
-# <a name="delete-a-sharepoint-site-that-belongs-to-an-office-365-group"></a>ลบไซต์ SharePoint ที่เป็นสมาชิกของกลุ่มมี Office 365
+# <a name="delete-a-sharepoint-site-that-belongs-to-an-office-365-group"></a>การลบไซต์ SharePoint ที่เป็นสมาชิกของกลุ่ม Office ๓๖๕
 
-ผู้ดูแลส่วนกลางและผู้ดูแล SharePoint สามารถเดี๋ยวนี้ลบไซต์ที่เป็นสมาชิกของกลุ่มที่มี Office 365 การลบไซต์เหล่านี้จะเป็นลบกลุ่มและทั้งหมดของทรัพยากร รวมถึงกล่องจดหมาย Outlook และปฏิทิน และทีมสถานีใด ๆ
+ผู้ดูแลส่วนกลางและผู้ดูแล SharePoint สามารถลบไซต์ที่เป็นสมาชิกของกลุ่ม Office ๓๖๕ได้ในขณะนี้ การลบไซต์เหล่านี้จะลบกลุ่มและทรัพยากรทั้งหมดรวมถึงกล่องจดหมายและปฏิทิน Outlook และช่องของทีมใดๆ
   
-สิ่งสำคัญ:
+สำคัญ:
 
-- คุณสามารถกู้คืนไซต์ถูกลบสำหรับวัน 93 สำหรับข้อมูลเพิ่มเติม ให้ดูมุมมอง และคืนค่าไซต์ที่ถูกลบไปแล้ว หมายเหตุว่า ต้องคืนค่าดัชนีกลุ่มถูกลบภายใน 30 วัน
-- ถ้าไซต์เป็นส่วนหนึ่งของนโยบายการเก็บข้อมูล คุณอาจไม่สามารถลบได้จนกว่าไซต์นั้นจะถูกเอาออกจากการ[ความปลอดภัย&amp;ศูนย์ดูแลการปฏิบัติตามกฎระเบียบ](https://protection.office.com/?rfr=AdminCenter#/retention)ได้ ดู[ภาพรวมของนโยบายการเก็บข้อมูล](https://docs.microsoft.com/office365/securitycompliance/retention-policies#content-in-onedrive-accounts-and-sharepoint-sites)สำหรับรายละเอียดเพิ่มเติม
+- คุณสามารถกู้คืนเว็บไซต์ที่ถูกลบสำหรับ๙๓วัน. สำหรับข้อมูลเพิ่มเติมโปรดดูที่ดูและเรียกคืนไซต์ที่ถูกลบ โปรดทราบว่ากลุ่มที่ถูกลบต้องได้รับการกู้คืนภายใน30วัน
+- ถ้าไซต์เป็นส่วนหนึ่งของนโยบายการเก็บข้อมูลคุณอาจไม่สามารถลบได้จนกว่าไซต์จะถูกเอาออกจาก[ศูนย์การ&amp;จัดการการปฏิบัติตามกฎระเบียบด้านความปลอดภัย](https://protection.office.com/?rfr=AdminCenter#/retention) ดู[ภาพรวมของนโยบายการเก็บ](https://docs.microsoft.com/office365/securitycompliance/retention-policies#content-in-onedrive-accounts-and-sharepoint-sites)ข้อมูลสำหรับข้อมูลเพิ่มเติม
   
-เมื่อต้องการ[ดูและคืนค่าลบไซต์ในศูนย์กลางการดูแล SharePoint ใหม่](https://docs.microsoft.com/sharepoint/view-and-restore-deleted-sites-in-new-admin-center)เลือก**ลบไซต์** เลือกไซต์ที่ถูกลบไปแล้ว และเลือกคืนค่าหรือลบ (ซึ่งจะลบไซต์) เมื่อต้องการลบไซต์ที่มีการใช้งาน เลือกไซต์**ที่ใช้งานอยู่**เลือกไซต์ และเลือก**ลบ** สำหรับข้อมูลเพิ่มเติม ให้ดู[จัดการไซต์ในศูนย์กลางการดูแล SharePoint ใหม่](https://docs.microsoft.com/sharepoint/manage-sites-in-new-admin-center)
+หากต้องการ[ดูและเรียกคืนไซต์ที่ถูกลบในศูนย์ดูแล SharePoint ใหม่](https://docs.microsoft.com/sharepoint/view-and-restore-deleted-sites-in-new-admin-center)ให้เลือก**ไซต์ที่ถูกลบ** เลือกไซต์ที่ถูกลบออกแล้วเลือกคืนค่าหรือลบ (ซึ่งจะลบไซต์อย่างถาวร) หากต้องการลบไซต์ที่ใช้งานอยู่ให้เลือกไซต์ที่**ใช้งานอยู่**แล้วเลือกไซต์นั้นแล้วเลือก**ลบ** สำหรับข้อมูลเพิ่มเติมให้ดู[จัดการไซต์ในศูนย์ดูแล SharePoint ใหม่](https://docs.microsoft.com/sharepoint/manage-sites-in-new-admin-center)
   

@@ -1,7 +1,7 @@
 ---
 title: ค้นหาและไฮบริดสลี
-ms.author: efrene
-author: efrene
+ms.author: pebaum
+author: pebaum
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,18 +11,18 @@ ms.assetid: ''
 ms.custom:
 - "9000653"
 - "2505"
-ms.openlocfilehash: adc5dace5da9e9b1c52697211e5b770d5483994b
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 79b1c47b33e2e5c8b46a93ef2edbb1e9e0c8ff1d
+ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36504842"
+ms.lasthandoff: 12/15/2019
+ms.locfileid: "40048707"
 ---
 # <a name="search-and-hybrid"></a>ค้นหาและไฮบริดสลี
 
-- คุณต้องการให้ข้อมูลเกี่ยวกับไฮบริดสลีและค้นหาที่ติดต่อกับภายนอกใน SharePoint แบบออนไลน์หรือไม่ ถ้าเป็นเช่นนั้น ดู[บทความนี้](https://docs.microsoft.com/sharepoint/hybrid/hybrid-search-in-sharepoint)
+- คุณต้องการข้อมูลเกี่ยวกับการค้นหาแบบไฮบริดและการติดต่อกับภายนอกใน SharePoint แบบออนไลน์หรือไม่ ถ้าเป็นเช่นนั้นให้ดู[บทความนี้](https://docs.microsoft.com/sharepoint/hybrid/hybrid-search-in-sharepoint)
 
-- คุณต้องการให้ข้อมูลเกี่ยวกับการค้นหาที่ติดต่อกับภายนอกไฮบริการวางแผนหรือไม่  ถ้าเป็นเช่นนั้น ดู[บทความนี้](https://docs.microsoft.com/sharepoint/hybrid/plan-hybrid-federated-search)
+- คุณต้องการข้อมูลเกี่ยวกับการวางแผนการค้นหาที่ติดต่อกับภายนอกไฮบริดสลีหรือไม่  ถ้าเป็นเช่นนั้นให้ดู[บทความนี้](https://docs.microsoft.com/sharepoint/hybrid/plan-hybrid-federated-search)
 
 
 

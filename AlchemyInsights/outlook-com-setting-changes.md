@@ -1,7 +1,7 @@
 ---
 title: การตั้งค Outlook.com
 ms.author: pebaum
-author: Techwriter40
+author: pebaum
 manager: pamgreen
 ms.date: 3/21/2019
 ms.audience: Admin
@@ -9,16 +9,16 @@ ms.topic: article
 ms.custom: 9000302
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.openlocfilehash: d1b6eb0846796a484cd60335737a3ecc373266dd
-ms.sourcegitcommit: 582c8868e948e39db1e8d0bd8986f8087c4a1319
+ms.openlocfilehash: 915d2ea36b7e1dcb4b9c5b6c57559b295f0b2f06
+ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 10/03/2019
-ms.locfileid: "37386384"
+ms.lasthandoff: 12/15/2019
+ms.locfileid: "40053280"
 ---
 # <a name="settings-in-outlookcom"></a>การตั้งค่าใน Outlook.com
 
-ถ้าผู้รับเป็นภายในหรือภายนอกองค์กรของคุณและถ้าพวกเขากำลังใช้งาน Office ๓๖๕หรือบัญชีเม Outlook.com ไคลเอนต์ต่อไปนี้ไม่ควรต้องทำอะไรพิเศษเพื่อเปิดข้อความ: **outlook ๒๐๑๖, outlook บนเว็บ/Outlook Web App, แอป Outlook สำหรับอุปกรณ์เคลื่อน**ที่
+ถ้าผู้รับเป็นภายในหรือภายนอกองค์กรของคุณและถ้าพวกเขากำลังใช้งาน Office ๓๖๕หรือบัญชี e-mail ของ Outlook.com ไคลเอนต์ต่อไปนี้ไม่ควรต้องทำอะไรพิเศษเพื่อเปิดข้อความ: **outlook ๒๐๑๖, outlook บนเว็บ/Outlook Web app, outlook app มือถือ**
 
 ผู้รับ**มอบสิทธิ์**ที่มีการส่ง email ที่มีการป้องกันไปให้ไม่สามารถเปิดข้อความที่ได้รับการป้องกันได้ เฉพาะผู้รับเดิมเท่านั้น (บุคคลที่ได้รับการป้องกันทาง email ถูกส่งไป) เท่านั้นที่สามารถดูข้อมูลในเมลได้
 
