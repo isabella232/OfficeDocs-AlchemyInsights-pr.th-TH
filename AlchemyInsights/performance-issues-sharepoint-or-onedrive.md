@@ -1,7 +1,7 @@
 ---
 title: ปัญหาประสิทธิภาพการทำงาน-SharePoint หรือ OneDrive
 ms.author: pebaum
-author: Techwriter40
+author: pebaum
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,12 +12,12 @@ ms.custom:
 - "2418"
 - "5200018"
 ms.assetid: 9225ec0f-771f-4d7a-8157-e188953107aa
-ms.openlocfilehash: d745b514594d3dcaae94b8ea2c2402b76553f432
-ms.sourcegitcommit: 488ba34cccad1ead27318df01732e06cdac2ba93
+ms.openlocfilehash: 1496f87e4209a4c64fa2b8be20c5e64945aa0ede
+ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 10/07/2019
-ms.locfileid: "37414066"
+ms.lasthandoff: 12/15/2019
+ms.locfileid: "40048996"
 ---
 # <a name="sharepoint-or-onedrive-slow-inaccessible-or-unavailable-for-multiple-users"></a>SharePoint หรือ OneDrive ช้า, ไม่สามารถเข้าถึงได้หรือไม่พร้อมใช้งานสำหรับผู้ใช้หลายคน
 

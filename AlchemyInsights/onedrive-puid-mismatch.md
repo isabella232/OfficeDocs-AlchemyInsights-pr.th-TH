@@ -1,7 +1,7 @@
 ---
-title: ไม่ตรงกัน OneDrive PUID
-ms.author: efrene
-author: efrene
+title: OneDrive PUID ไม่ตรงกัน
+ms.author: pebaum
+author: pebaum
 ms.date: 8/8/2019
 ms.audience: ITPro
 ms.topic: article
@@ -12,19 +12,19 @@ ms.assetid: ''
 ms.custom:
 - "9000700"
 - "2600"
-ms.openlocfilehash: cbf508a1a031b7dbe60d9b060df2f08211a3dc17
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 58fe40f0fe29b75ea3e736d447d626d2fdf5391a
+ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36521370"
+ms.lasthandoff: 12/15/2019
+ms.locfileid: "40049104"
 ---
-# <a name="onedrive-puid-mismatch"></a>ไม่ตรงกัน OneDrive PUID
-จะปรากฏพบ[PUID ตรง](https://docs.microsoft.com/sharepoint/support/administration/access-denied-or-need-permission-error-sharepoint-online-or-onedrive-for-business#when-accessing-a-onedrive-site)ใน OneDrive สำหรับธุรกิจ โปรดทำตามขั้นตอนด้านล่างเพื่อให้เราอาจช่วยคุณได้เร็วที่สุด:
+# <a name="onedrive-puid-mismatch"></a>OneDrive PUID ไม่ตรงกัน
+ปรากฏขึ้นคุณกำลังประสบความไม่[ตรงกัน Puid](https://docs.microsoft.com/sharepoint/support/administration/access-denied-or-need-permission-error-sharepoint-online-or-onedrive-for-business#when-accessing-a-onedrive-site)ใน OneDrive สำหรับธุรกิจ โปรดทำตามขั้นตอนด้านล่างเพื่อให้เราสามารถช่วยคุณได้โดยเร็วที่สุด:
 
-1. คลิก**ติดต่อฝ่ายสนับสนุน**และ**ร้องขอการบริการใหม่**
-2. ปล่อยให้ชื่อเรื่องและคำอธิบายเป็น**PUID ไม่ตรงกันในไซต์ OneDrive**
-3. เมื่อมีการส่งตั๋วโดยสาร กรุณาปรับปรุง ด้วยข้อมูลต่อไปนี้:
+1. คลิกการ**สนับสนุนติดต่อ**และจากนั้นการ**ร้องขอการบริการใหม่**
+2. ปล่อยให้ชื่อเรื่องและคำอธิบายเป็น**Puid ไม่ตรงกันบนไซต์ OneDrive**
+3. เมื่อส่งตั๋วแล้วโปรดอัปเดตข้อมูลดังต่อไปนี้:
     - URL ของไซต์ OneDrive ที่ได้รับผลกระทบ
     - ชื่อผู้ใช้หลัก (UPN) ของผู้ใช้ที่ได้รับผลกระทบ
 
