@@ -13,10 +13,10 @@ ms.custom:
 - "3500002"
 ms.assetid: 8282bd76-79f7-4f8a-ae2b-dc8f9ac1aa62
 ms.openlocfilehash: ca5dc9041bad4da9353601bdc39ecf986356f1b1
-ms.sourcegitcommit: f1fad2129d09660ec42dbce03ce2c6b4cfc9555a
+ms.sourcegitcommit: 802537a54ef8bde1bdd758ee9a60b6c19d37d6e1
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 12/18/2019
+ms.lasthandoff: 12/20/2019
 ms.locfileid: "40741051"
 ---
 # <a name="account-is-blocked-for-sending-too-much-spam"></a>บัญชีถูกบล็อคสำหรับการส่งสแปมมากเกินไป

@@ -12,10 +12,10 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 5ad2f1f2-9650-4eb0-b4fa-2f52a09f535a
 ms.openlocfilehash: 21a0c193b752342d47189dda73d171249153f7fc
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.sourcegitcommit: 802537a54ef8bde1bdd758ee9a60b6c19d37d6e1
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 12/15/2019
+ms.lasthandoff: 12/20/2019
 ms.locfileid: "40050832"
 ---
 # <a name="troubleshoot-open-with-explorer-issues-in-sharepoint-online"></a>แก้ไขปัญหา "เปิดด้วย Explorer" ใน SharePoint แบบออนไลน์
