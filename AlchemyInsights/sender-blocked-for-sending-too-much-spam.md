@@ -12,20 +12,15 @@ ms.custom:
 - "254"
 - "3500002"
 ms.assetid: 8282bd76-79f7-4f8a-ae2b-dc8f9ac1aa62
-ms.openlocfilehash: ca5dc9041bad4da9353601bdc39ecf986356f1b1
-ms.sourcegitcommit: 802537a54ef8bde1bdd758ee9a60b6c19d37d6e1
+ms.openlocfilehash: 8aa9ab5e6db0d434c13ed9e2d325d28552b7caeb
+ms.sourcegitcommit: a66b37557baafe35d39134105dc604c326191a48
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 12/20/2019
-ms.locfileid: "40741051"
+ms.lasthandoff: 12/27/2019
+ms.locfileid: "40886420"
 ---
 # <a name="account-is-blocked-for-sending-too-much-spam"></a>บัญชีถูกบล็อคสำหรับการส่งสแปมมากเกินไป
 
-หากบัญชี Office ๓๖๕ถูกบล็อกสำหรับการส่งสแปมมากเกินไปบัญชีที่ส่งอาจถูกบุกรุก คุณจะต้อง:
-  
-1. [ตรวจสอบว่าบัญชีถูกบุกรุกหรือไม่](https://docs.microsoft.com/microsoft-365/security/office-365-security/responding-to-a-compromised-email-account#symptoms-of-a-compromised-office-365-email-account) ถ้าถูกบุกรุกให้ทำตามขั้นตอนสำหรับ[การตอบสนองต่อบัญชีผู้ใช้ Email ที่ถูกบุกรุกใน Office ๓๖๕](https://docs.microsoft.com/office365/securitycompliance/responding-to-a-compromised-email-account)
+ในฐานะผู้ดูแลระบบหากผู้ใช้ของคุณถูกจำกัดการส่งทาง e-mail คุณสามารถยก[เลิกการบล็อกบัญชีด้วยตัวคุณเอง](https://protection.office.com/?hash=/restrictedusers)**ได้โดยไม่ต้องเปิดกรณีการสนับสนุน** ผู้ใช้จะสามารถส่ง email ภายในหนึ่งชั่วโมงหลังจากลบข้อจำกัด
 
-2. ไปที่ผู้ใช้ที่ถูกจำกัดเพื่อยก**[เลิกการบล็อคบัญชี](https://protection.office.com/?hash=/restrictedusers)** ในศูนย์การปฏิบัติตามกฎระเบียบด้านความปลอดภัย&amp; เมื่อเสร็จแล้ว, คุณควรจะสามารถที่จะดำเนินการส่งข้อความ*ภายใน1ชั่วโมง*.
-
-3. เพื่อช่วยป้องกันการประนีประนอมบัญชีในอนาคตให้ทำตามคำแนะนำใน[แผนงานความปลอดภัยของ Office ๓๖๕](https://docs.microsoft.com/office365/securitycompliance/security-roadmap)
-  
+บริการป้องกันไม่ให้ผู้ใช้ส่งเมลหลังจากตรวจหาหลักฐานของบัญชีที่ถูกบุกรุกและ/หรือสแปมขาออก ในฐานะที่เป็นข้อควรระวังให้ทำตามขั้นตอนใน[การตอบสนองต่อบัญชีผู้ใช้ Email ที่ถูกบุกรุกใน Office ๓๖๕](https://docs.microsoft.com/office365/securitycompliance/responding-to-a-compromised-email-account)
