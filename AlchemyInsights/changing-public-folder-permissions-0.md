@@ -1,9 +1,8 @@
 ---
-title: การเปลี่ยนแปลงการอนุญาตสำหรับโฟลเดอร์สาธารณะ
+title: การเปลี่ยนสิทธิ์ของโฟลเดอร์สาธารณะ
 ms.author: dmaguire
 author: msdmaguire
 manager: dansimp
-ms.date: 5/9/2018
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,19 +11,26 @@ ms.custom:
 - "633"
 - "3500007"
 ms.assetid: 0c37ab75-c81c-44e7-bda8-ea43263f9fdf
-ms.openlocfilehash: 488567efb7e96b6eef52e87fc96670ab3ea91c20
-ms.sourcegitcommit: 7101e29c3c890ee23dc10a10d608f90f4de13b3a
+ms.openlocfilehash: 9d043e81b66cea1fcb985b0e1e79078409ba0b93
+ms.sourcegitcommit: f23c39009d988228213fdb2bb7350bf4a0194194
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 08/26/2019
-ms.locfileid: "36631749"
+ms.lasthandoff: 01/11/2020
+ms.locfileid: "41022216"
 ---
-# <a name="changing-public-folder-permissions"></a>การเปลี่ยนแปลงการอนุญาตสำหรับโฟลเดอร์สาธารณะ
+# <a name="changing-public-folder-permissions"></a>การเปลี่ยนสิทธิ์ของโฟลเดอร์สาธารณะ
 
-คุณสามารถเปลี่ยนสิทธิ์ของโฟลเดอร์สาธารณะ โดยผู้ใช้และผู้ดูแลใน Outlook นอกจากนี้ผู้ดูแลระบบสามารถควบคุมสิทธิ์จากการแลกเปลี่ยน Admin ศูนย์ (EAC), โดยการทำสิ่งต่อไปนี้:
+สิทธิ์ของโฟลเดอร์สาธารณะสามารถเปลี่ยนแปลงได้โดยผู้ใช้และผู้ดูแลระบบใน Outlook ผู้ดูแลระบบยังสามารถควบคุมสิทธิ์จากศูนย์ดูแล Exchange (EAC), โดยทำดังต่อไปนี้:
   
-1. IIn 365 Microsoft ศูนย์ดูแล**ศูนย์ดูแล**ไป\>**แลกเปลี่ยน**
+1. ในศูนย์การจัดการ Microsoft ๓๖๕ไปที่**ศูนย์** \>ดูแลการ**แลกเปลี่ยน**
 
 2. เลือก**โฟลเดอร์สาธารณะ**
 
-3. จากที่นี่ คุณสามารถเปลี่ยนสิทธิ์สำหรับแต่ละโฟลเดอร์สาธารณะ โดยการกำหนดกลุ่มความปลอดภัยให้กับสิทธิ์ ผู้ใช้สามารถเปลี่ยนแปลงสิทธิ์ของโฟลเดอร์สาธารณะ ผู้ใช้จำเป็นต้องมีสิทธิของเจ้าของบนโฟลเดอร์
+3. คุณสามารถเปลี่ยนแปลงสิทธิ์สำหรับแต่ละโฟลเดอร์สาธารณะได้โดยการกำหนดกลุ่มความปลอดภัยให้กับสิทธิ์ ผู้ใช้ต้องมีสิทธิ์ของเจ้าของในโฟลเดอร์เพื่อให้ผู้ใช้สามารถเปลี่ยนแปลงสิทธิ์ของโฟลเดอร์สาธารณะได้
+
+> [!NOTE]
+> มีปัญหาที่ทราบหลายอย่างที่คุณอาจพบเมื่อคุณพยายามที่จะเปลี่ยนแปลงสิทธิ์บนโฟลเดอร์สาธารณะ ดูบทความต่อไปนี้สำหรับข้อมูลเพิ่มเติม
+>
+> [ไม่สามารถนำการอนุญาตไปใช้กับโฟลเดอร์ย่อย public folder ใน EAC](https://docs.microsoft.com/exchange/troubleshoot/public-folders/can%E2%80%99t-apply-permissions-public-folder-subfolders)
+>
+> [ข้อผิดพลาด "กล่องจดหมายไม่พบในฟอเรสต์ท้องถิ่น" เมื่อคุณเข้าถึงโฟลเดอร์สาธารณะ](https://docs.microsoft.com/exchange/troubleshoot/public-folders/mailbox-not-found-local-forest-public-folder)
