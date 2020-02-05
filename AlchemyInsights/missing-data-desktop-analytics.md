@@ -1,5 +1,5 @@
 ---
-title: ไม่สามารถสร้างตัวประเมินความเข้ากันได้
+title: ไม่สามารถสร้างการประเมินความเข้ากันได้
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,15 +11,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000655"
 - "2503"
-ms.openlocfilehash: 320216b234eeee13345590add994bbca9a882991
-ms.sourcegitcommit: 8f97342d8b46ab05f1e89018473caad9d35431df
+ms.openlocfilehash: e433068b9001958c7c923388e9cd5eeabf095284
+ms.sourcegitcommit: 317eeed39c7777a922442992d67733726c41d9e1
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 07/19/2019
-ms.locfileid: "35800658"
+ms.lasthandoff: 02/04/2020
+ms.locfileid: "41771090"
 ---
-# <a name="cant-create-a-compatibility-assessment"></a>ไม่สามารถสร้างตัวประเมินความเข้ากันได้
+# <a name="cant-create-a-compatibility-assessment"></a>ไม่สามารถสร้างการประเมินความเข้ากันได้
 
-จัดการการตั้งค่าอุปกรณ์ที่กำหนดค่าไว้เรียบร้อยแล้ว แต่ Analytics เดสก์ท็อปไม่สามารถสร้างตัวประเมินความเข้ากันได้ จะไม่มีชุดข้อมูลสมบูรณ์สำหรับการกำหนดค่าของอุปกรณ์ (census) หรือติดตั้งโปรแกรมประยุกต์ (สินค้าคงคลัง)
+ตัวจัดการการตั้งค่าคอนฟิกปลายทาง Microsoft เสร็จเรียบร้อยแล้วการกำหนดค่าอุปกรณ์แต่ Analytics บนเดสก์ท็อปไม่สามารถสร้างการประเมินความเข้ากันได้ ไม่มีชุดข้อมูลที่สมบูรณ์สำหรับการกำหนดค่าของอุปกรณ์ (สำมะโนประชากร) หรือแอปที่ติดตั้ง (สินค้าคงคลัง)
 
-ปัญหานี้คือมักจะคงที่โดยอัตโนมัติเมื่อพยายามอุปกรณ์ ถ้าคุณยังคงมีอยู่ ตรวจสอบให้แน่ใจว่า อุปกรณ์สามารถสื่อสารกับบริการ สำหรับข้อมูลเพิ่มเติม ดู[ปลายทาง](https://docs.microsoft.com/sccm/desktop-analytics/enable-data-sharing#endpoints)และ[ข้อมูลที่ขาดหายไป](https://docs.microsoft.com/sccm/desktop-analytics/monitor-connection-health#missing-data)
+ปัญหานี้มักจะแก้ไขโดยอัตโนมัติเมื่ออุปกรณ์พยายามใหม่ ถ้ายังคงมีอยู่ให้ตรวจสอบให้แน่ใจว่าอุปกรณ์ดังกล่าวสามารถสื่อสารกับบริการนั้นได้ สำหรับข้อมูลเพิ่มเติมให้ดูที่[ปลาย](https://docs.microsoft.com/configmgr/desktop-analytics/enable-data-sharing#endpoints)ทางและ[ข้อมูลที่ขาดหายไป](https://docs.microsoft.com/configmgr/desktop-analytics/monitor-connection-health#missing-data)

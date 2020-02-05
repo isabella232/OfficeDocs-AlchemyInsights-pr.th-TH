@@ -1,5 +1,5 @@
 ---
-title: อุปกรณ์อยู่ในสถานะอยู่ระหว่างการรอการลงทะเบียน
+title: อุปกรณ์อยู่ในสถานะการลงทะเบียน
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,19 +11,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000657"
 - "2508"
-ms.openlocfilehash: 46bb390bd89d82bab8099f15f086746800cb4261
-ms.sourcegitcommit: 8f97342d8b46ab05f1e89018473caad9d35431df
+ms.openlocfilehash: 52592a8f4ebac0a9b6c8105721e121a7e560853b
+ms.sourcegitcommit: 317eeed39c7777a922442992d67733726c41d9e1
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 07/19/2019
-ms.locfileid: "35800653"
+ms.lasthandoff: 02/04/2020
+ms.locfileid: "41770334"
 ---
-# <a name="devices-are-in-awaiting-enrollment-state"></a>อุปกรณ์อยู่ในสถานะ "กำลังรอการลงทะเบียน"
+# <a name="devices-are-in-awaiting-enrollment-state"></a>อุปกรณ์อยู่ในสถานะ "รอการลงทะเบียน"
 
-วิเคราะห์เดสก์ท็อปไม่มีข้อมูลการวินิจฉัยสำหรับอุปกรณ์นี้ 
+Analytics บนเดสก์ท็อปไม่มีข้อมูลการวินิจฉัยสำหรับอุปกรณ์นี้ 
 
-ปัญหานี้อาจเกิดขึ้นได้เนื่องจากคุณเพิ่งเพิ่มอุปกรณ์ไปยังคอลเลกชันเป้าหมาย และจะยังไม่ได้ส่งข้อมูล ดังกล่าวยังหมายถึง อุปกรณ์ไม่ถูกต้องการสื่อสารกับบริการ และการวินิจฉัยข้อมูลล่าสุดที่มีอายุมากกว่า 28 วัน
+ปัญหานี้อาจเกิดขึ้นเนื่องจากคุณเพิ่งเพิ่มอุปกรณ์ไปยังคอลเลกชันเป้าหมายและจะยังไม่ได้ส่งข้อมูล นอกจากนี้ยังอาจหมายถึงอุปกรณ์ไม่ได้สื่อสารกับบริการอย่างถูกต้องและข้อมูลการวินิจฉัยล่าสุดมีอายุมากกว่า28วัน
 
-ตรวจสอบให้แน่ใจว่า อุปกรณ์ดังกล่าวสามารถสื่อสารกับบริการ สำหรับข้อมูลเพิ่มเติม ให้ดู [ปลายทาง](https://docs.microsoft.com/sccm/desktop-analytics/enable-data-sharing#endpoints)
+ตรวจสอบให้แน่ใจว่าอุปกรณ์สามารถสื่อสารกับบริการได้ สำหรับข้อมูลเพิ่มเติมให้ดูที่ [ปลาย](https://docs.microsoft.com/configmgr/desktop-analytics/enable-data-sharing#endpoints)ทาง
 
-สำหรับข้อมูลเพิ่มเติมเกี่ยวกับสถานะการลงทะเบียน awainting ดู[สถานภาพการเชื่อมต่อจอภาพ](https://docs.microsoft.com/sccm/desktop-analytics/monitor-connection-health#awaiting-enrollment)
+สำหรับข้อมูลเพิ่มเติมเกี่ยวกับสถานะการลงทะเบียนในขณะนั้นให้ดูที่[การตรวจสอบความสมบูรณ์ของการเชื่อมต่อ](https://docs.microsoft.com/configmgr/desktop-analytics/monitor-connection-health#awaiting-enrollment)

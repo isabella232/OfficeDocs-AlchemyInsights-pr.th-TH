@@ -11,27 +11,28 @@ ms.collection: Adm_O365
 ms.custom:
 - "1556"
 - "9000080"
-ms.openlocfilehash: fe7dcebf847fbd7d91632e93e2253bf62ac659aa
-ms.sourcegitcommit: 4ed431b2e1aed26d07bd7eba282531537d29ad0e
+ms.openlocfilehash: bd19ae3bfdf5005fe4e495e78749a393128a2184
+ms.sourcegitcommit: 317eeed39c7777a922442992d67733726c41d9e1
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 12/30/2019
-ms.locfileid: "40910476"
+ms.lasthandoff: 02/04/2020
+ms.locfileid: "41770910"
 ---
 # <a name="co-management"></a>การจัดการร่วม
 
-**ข้อกำหนดเบื้องต้นสำหรับการย้ายจากตัวจัดการการกำหนดค่าไฮบริดสลีไป Intune**
+**ข้อกำหนดเบื้องต้นสำหรับการโยกย้ายจากไฮบริดสลีตัวจัดการ Config เพื่อ Intune**
 
-- ทบทวน[บทความนี้](https://docs.microsoft.com/sccm/mdm/deploy-use/migrate-hybridmdm-to-intunesa)
-- [เพิ่มใบอนุญาต Intune ให้กับผู้ใช้ของคุณ](https://docs.microsoft.com/intune/licenses-assign)
+- ตรวจทาน[บทความนี้](https://docs.microsoft.com/configmgr/mdm/deploy-use/migrate-hybridmdm-to-intunesa)
+- [เพิ่มสิทธิ์การใช้งาน Intune ให้กับผู้ใช้ของคุณ](https://docs.microsoft.com/intune/licenses-assign)
 - ใช้[เบราว์เซอร์ขอบ](https://www.microsoft.com/windows/microsoft-edge)เมื่อกำหนดค่าการจัดการร่วม
 
-**วิธีการติดตั้งไคลเอนต์จัดการการกำหนดค่าบนอุปกรณ์ที่จัดการ Intune**
+**วิธีการที่ฉันติดตั้งไคลเอ็นต์ของตัวจัดการการกำหนดค่าบนอุปกรณ์ที่มีการจัดการ Intune**
 
-ดู[อุปกรณ์ Windows ที่มีจัดการ MDM แบบ Intune](https://docs.microsoft.com/sccm/core/clients/deploy/deploy-clients-to-windows-computers#bkmk_mdm)
+ดู[อุปกรณ์ Windows ที่จัดการโดย MDM](https://docs.microsoft.com/configmgr/core/clients/deploy/deploy-clients-to-windows-computers#bkmk_mdm)
 
-**จะเกิดอะไรขึ้นถ้าฉันต้องการเปลี่ยนแปลงหน่วยงาน MDM**
+**จะทำอย่างไรถ้าฉันต้องการเปลี่ยนแปลงหน่วยงาน MDM**
 
-สามารถเปลี่ยนแปลงได้โดยไม่ต้องเปิดกรณีการสนับสนุน โปรดตรวจทานเอกสารต่อไปนี้เพื่อช่วยในการเปลี่ยนแปลงหน่วยงาน MDM ของคุณ:
-- [เปลี่ยน MDM หน่วยงานจากตัวจัดการการกำหนดค่าเป็น Intune แบบสแตนด์อโลน](https://docs.microsoft.com/sccm/mdm/deploy-use/migrate-change-mdm-authority)
-- [เปลี่ยนแปลงการทำงานของ MDM จาก Intune แบบสแตนด์อโลนไปยังตัวจัดการการกำหนดค่า](https://docs.microsoft.com/intune-classic/deploy-use/prerequisites-for-enrollment#what-to-do-if-you-choose-the-wrong-mdm-authority-setting)
+สามารถเปลี่ยนแปลงหน่วยงาน MDM ได้โดยไม่ต้องเปิดเคสสนับสนุน โปรดตรวจทานเอกสารต่อไปนี้เพื่อช่วยในการเปลี่ยนแปลงหน่วยงาน MDM ของคุณ:
+
+- [การเปลี่ยนแปลงสิทธิ์ MDM จากตัวจัดการการตั้งค่าคอนฟิกไปยัง Intune แบบสแตนด์อโลน](https://docs.microsoft.com/configmgr/mdm/deploy-use/migrate-change-mdm-authority)
+- [การเปลี่ยนแปลงสิทธิ์ของ MDM จาก Intune แบบสแตนด์อโลนกับตัวจัดการการตั้งค่าคอนฟิก](https://docs.microsoft.com/configmgr/mdm/deploy-use/change-mdm-authority)

@@ -1,5 +1,5 @@
 ---
-title: วิธีการปิดบัญชี Analytics เดสก์ท็อปของคุณ
+title: วิธีปิดบัญชี Analytics สำหรับเดสก์ท็อปของคุณ
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,18 +11,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000655"
 - "2498"
-ms.openlocfilehash: d074024ee40f9a06a59f8c4f650f2092c39413d1
-ms.sourcegitcommit: 8f97342d8b46ab05f1e89018473caad9d35431df
+ms.openlocfilehash: cf5588cfd6892e3215fc9c0ad50732e0d5847f7e
+ms.sourcegitcommit: 317eeed39c7777a922442992d67733726c41d9e1
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 07/19/2019
-ms.locfileid: "35800652"
+ms.lasthandoff: 02/04/2020
+ms.locfileid: "41771126"
 ---
-# <a name="working-with-desktop-analytics"></a>การทำงานกับการวิเคราะห์บนเดสก์ท็อป
+# <a name="working-with-desktop-analytics"></a>การทำงานกับการวิเคราะห์เดสก์ท็อป
 
-ดูเหมือนว่าคุณถูกถามเกี่ยวกับ Analytics เดสก์ท็อป เราอาจสามารถช่วยเหลือ มีคำตอบที่ชัดเจนยิ่งขึ้นถ้าคุณเรียบเรียงคำถามของคุณ
+ดูเหมือนว่าคุณกำลังถามเกี่ยวกับการวิเคราะห์เดสก์ท็อป เราอาจจะช่วยให้มีคำตอบที่ชัดเจนยิ่งขึ้นหากคุณเรียงคำถามของคุณ
 
-- [วิเคราะห์เดสก์ท็อปคืออะไร](https://docs.microsoft.com/sccm/desktop-analytics/overview)
-- [วิธีการตั้งค่าเดสก์ท็อป Analytics](https://docs.microsoft.com/sccm/desktop-analytics/set-up)
-- [คำถามที่ถามบ่อย](https://docs.microsoft.com/sccm/desktop-analytics/faq)
-- [การแก้ปัญหาการวิเคราะห์บนเดสก์ท็อป](https://docs.microsoft.com/sccm/desktop-analytics/troubleshooting)
+- [Analytics บนเดสก์ท็อปคืออะไร](https://docs.microsoft.com/configmgr/desktop-analytics/overview)
+- [วิธีการตั้งค่าการวิเคราะห์เดสก์ท็อป](https://docs.microsoft.com/configmgr/desktop-analytics/set-up)
+- [คำถามที่ถามบ่อย](https://docs.microsoft.com/configmgr/desktop-analytics/faq)
+- [การแก้ปัญหาการวิเคราะห์เดสก์ท็อป](https://docs.microsoft.com/configmgr/desktop-analytics/troubleshooting)

@@ -1,8 +1,8 @@
 ---
-title: การสร้างไซต์ SharePoint
+title: สร้างไซต์ SharePoint
 ms.author: pebaum
-author: pebaum
-ms.audience: ITPro
+author: todmccoy
+ms.audience: Admin
 ms.topic: article
 ms.collection: Adm_O365
 ms.prod: office-online-server
@@ -10,30 +10,23 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
 - "5200004"
+- "3911416"
 - "1386"
 - "2303"
 ms.assetid: e62b9f80-b017-42dc-9464-f4e32c19d6c9
-ms.openlocfilehash: 2611c3ed9cfe78c82c9b123ea26b6fe8f951b458
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: e1e71ae9401448ed18058f6307302dcbaf773649
+ms.sourcegitcommit: 317eeed39c7777a922442992d67733726c41d9e1
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40049896"
+ms.lasthandoff: 02/04/2020
+ms.locfileid: "41770874"
 ---
-# <a name="create-a-sharepoint-site"></a>การสร้างไซต์ SharePoint
+# <a name="create-a-sharepoint-site"></a>สร้างไซต์ SharePoint
 
-คุณสามารถดูข้อมูลเกี่ยวกับการสร้างไซต์ SharePoint ต่อไปนี้:
-- [จัดการไซต์ในศูนย์กลางการดูแล SharePoint ใหม่](https://docs.microsoft.com/sharepoint/manage-site-creation): เรียนรู้เกี่ยวกับตัวเลือกการสร้างไซต์รวมถึงวิธีการสร้างไซต์คลาสสิกหรือไซต์ทีมที่ไม่มีกลุ่ม Office ๓๖๕
-- [สร้างไซต์ทีมใน SharePoint](https://support.office.com/article/create-a-team-site-in-sharepoint-ef10c1e7-15f3-42a3-98aa-b5972711777d): เรียนรู้วิธีการสร้างไซต์ทีม
-- [สร้างไซต์การสื่อสารใน SharePoint แบบออนไลน์](https://support.office.com/article/7fb44b20-a72f-4d2c-9173-fc8f59ba50eb): เรียนรู้วิธีการสร้างไซต์การสื่อสาร
-- [จัดการไซต์ในศูนย์กลางการดูแล SharePoint ใหม่](https://docs.microsoft.com/sharepoint/manage-sites-in-new-admin-center#create-a-site): เรียนรู้วิธีการสร้างไซต์คลาสสิกหรือไซต์ทีมที่ไม่มีกลุ่ม Office ๓๖๕
+สร้างหรือจัดการไซต์จาก[ไซต์ที่ใช้งานอยู่](https://admin.microsoft.com/sharepoint?page=sitemanagement&modern=true)ในศูนย์ดูแล SharePoint สำหรับข้อมูลเพิ่มเติมให้ดู[ที่การจัดการไซต์ในศูนย์กลางการดูแล SharePoint ใหม่](https://docs.microsoft.com/sharepoint/manage-site-creation) 
 
+## <a name="tips"></a>เคล็ด ลับ:
 
-  
-**เคล็ด ลับ:**
-- คุณไม่สามารถสร้างไซต์ที่มี URL เดียวกันของไซต์ที่มีอยู่ได้ หากคุณลบไซต์และต้องการใช้ URL อีกครั้งอาจเป็นไปได้ว่าไซต์ที่ถูกลบยังคงอยู่ภายใต้**ไซต์ที่ถูกลบ** หากต้องการจัดการไซต์ที่ถูกลบให้เห็นให้[ลบไซต์](https://docs.microsoft.com/sharepoint/manage-sites-in-new-admin-center#delete-a-site) หากต้องการเอาเว็บไซต์ที่มี Powershell ออกให้ดูตัวอย่างการ[เอาออก spsite](https://docs.microsoft.com/sharepoint/manage-sites-in-new-admin-center#delete-a-site) cmdlet
-- ผู้ใช้บางรายอาจไม่สามารถสร้างไซต์ได้ ดู[จัดการการสร้างไซต์ใน SharePoint แบบออนไลน์](https://docs.microsoft.com/sharepoint/manage-site-creation)
-- เป็นไปได้ที่เว็บไซต์จะปรากฏติดอยู่ที่**การสร้าง**นานกว่าที่คาดไว้ หากมีการผ่านมากกว่า24ชั่วโมงตั้งแต่แรกคุณเห็นปัญหานี้โปรดบันทึกตั๋วสนับสนุน ในหลายกรณีเรากำลังทำงานอยู่แล้วในการแก้ปัญหา กรุณาให้เราอย่างน้อย24ชั่วโมงในการดำเนินการแก้ปัญหา
-- ถ้าคุณต้องการสร้างไซต์ทีมใหม่ที่ไม่มีกลุ่ม Office ๓๖๕ 
-
-
+- คุณ**ไม่สามารถ**สร้างไซต์ที่มี URL เดียวกันของไซต์ที่มีอยู่ ถ้าคุณลบไซต์และต้องการใช้ URL อีกครั้งอาจเป็นไปได้ว่าไซต์ที่ถูกลบนั้นยังคงอยู่ภายใต้[ไซต์ที่ถูกลบ](https://admin.microsoft.com/sharepoint?page=recyclebin&modern=true) ไซต์จะต้องถูกลบออกอย่างถาวรเพื่อใช้ URL อีกครั้ง เมื่อต้องการเอาไซต์ออกด้วย Powershell ให้ดูที่ตัวอย่างของ cmdlet [SPSite เอาออก](https://docs.microsoft.com/sharepoint/manage-sites-in-new-admin-center#delete-a-site)
+- ผู้ใช้บางรายอาจไม่สามารถสร้างไซต์ได้ [ดูจัดการการสร้างไซต์ใน SharePoint แบบออนไลน์](https://docs.microsoft.com/sharepoint/manage-site-creation)
+- มันเป็นไปได้ว่าเว็บไซต์ปรากฏติดอยู่ที่การ**สร้าง**นานกว่าที่คาดไว้ ถ้ามากกว่า24ชั่วโมงหลังจากที่คุณเห็นปัญหานี้ครั้งแรกโปรดเข้าสู่ระบบตั๋วสนับสนุน ในหลายกรณีเรากำลังหาทางแก้ไขปัญหาอยู่ กรุณาให้เราอย่างน้อย24ชั่วโมงเพื่อให้การแก้ไขปัญหา
