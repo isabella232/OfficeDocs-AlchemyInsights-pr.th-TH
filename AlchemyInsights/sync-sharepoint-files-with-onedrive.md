@@ -15,7 +15,7 @@ ms.openlocfilehash: 09d0d76f8c61f7fcd21a58527e220b65f123654d
 ms.sourcegitcommit: 317eeed39c7777a922442992d67733726c41d9e1
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 02/04/2020
+ms.lasthandoff: 02/05/2020
 ms.locfileid: "41770298"
 ---
 # <a name="troubleshoot-open-with-explorer-issues-in-sharepoint-online"></a>การแก้ไขปัญหา "เปิดด้วย Explorer" ใน SharePoint แบบออนไลน์
