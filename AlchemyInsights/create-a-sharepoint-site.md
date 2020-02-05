@@ -1,8 +1,8 @@
 ---
-title: การสร้างไซต์ SharePoint
+title: สร้างไซต์ SharePoint
 ms.author: pebaum
-author: pebaum
-ms.audience: ITPro
+author: todmccoy
+ms.audience: Admin
 ms.topic: article
 ms.collection: Adm_O365
 ms.prod: office-online-server
@@ -10,30 +10,23 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
 - "5200004"
+- "3911416"
 - "1386"
 - "2303"
 ms.assetid: e62b9f80-b017-42dc-9464-f4e32c19d6c9
-ms.openlocfilehash: 2611c3ed9cfe78c82c9b123ea26b6fe8f951b458
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: e1e71ae9401448ed18058f6307302dcbaf773649
+ms.sourcegitcommit: 317eeed39c7777a922442992d67733726c41d9e1
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40049896"
+ms.lasthandoff: 02/04/2020
+ms.locfileid: "41770874"
 ---
-# <a name="create-a-sharepoint-site"></a><span data-ttu-id="c86d2-102">การสร้างไซต์ SharePoint</span><span class="sxs-lookup"><span data-stu-id="c86d2-102">Create a SharePoint site</span></span>
+# <a name="create-a-sharepoint-site"></a><span data-ttu-id="71f02-102">สร้างไซต์ SharePoint</span><span class="sxs-lookup"><span data-stu-id="71f02-102">Create a SharePoint site</span></span>
 
-<span data-ttu-id="c86d2-103">คุณสามารถดูข้อมูลเกี่ยวกับการสร้างไซต์ SharePoint ต่อไปนี้:</span><span class="sxs-lookup"><span data-stu-id="c86d2-103">You can see the following for information about SharePoint site creation:</span></span>
-- <span data-ttu-id="c86d2-104">[จัดการไซต์ในศูนย์กลางการดูแล SharePoint ใหม่](https://docs.microsoft.com/sharepoint/manage-site-creation): เรียนรู้เกี่ยวกับตัวเลือกการสร้างไซต์รวมถึงวิธีการสร้างไซต์คลาสสิกหรือไซต์ทีมที่ไม่มีกลุ่ม Office ๓๖๕</span><span class="sxs-lookup"><span data-stu-id="c86d2-104">[Manage sites in the new SharePoint admin center](https://docs.microsoft.com/sharepoint/manage-site-creation): Learn about site creation options, including how to create a classic site or a teams site that doesn't include an Office 365 group.</span></span>
-- <span data-ttu-id="c86d2-105">[สร้างไซต์ทีมใน SharePoint](https://support.office.com/article/create-a-team-site-in-sharepoint-ef10c1e7-15f3-42a3-98aa-b5972711777d): เรียนรู้วิธีการสร้างไซต์ทีม</span><span class="sxs-lookup"><span data-stu-id="c86d2-105">[Create a team site in SharePoint](https://support.office.com/article/create-a-team-site-in-sharepoint-ef10c1e7-15f3-42a3-98aa-b5972711777d): Learn how to create a team site.</span></span>
-- <span data-ttu-id="c86d2-106">[สร้างไซต์การสื่อสารใน SharePoint แบบออนไลน์](https://support.office.com/article/7fb44b20-a72f-4d2c-9173-fc8f59ba50eb): เรียนรู้วิธีการสร้างไซต์การสื่อสาร</span><span class="sxs-lookup"><span data-stu-id="c86d2-106">[Create a communication site in SharePoint Online](https://support.office.com/article/7fb44b20-a72f-4d2c-9173-fc8f59ba50eb): Learn how to create a communications site.</span></span>
-- <span data-ttu-id="c86d2-107">[จัดการไซต์ในศูนย์กลางการดูแล SharePoint ใหม่](https://docs.microsoft.com/sharepoint/manage-sites-in-new-admin-center#create-a-site): เรียนรู้วิธีการสร้างไซต์คลาสสิกหรือไซต์ทีมที่ไม่มีกลุ่ม Office ๓๖๕</span><span class="sxs-lookup"><span data-stu-id="c86d2-107">[Manage sites in the new SharePoint admin center](https://docs.microsoft.com/sharepoint/manage-sites-in-new-admin-center#create-a-site):  Learn how to create a classic site or a team site that doesn't include an Office 365 group.</span></span>
+<span data-ttu-id="71f02-103">สร้างหรือจัดการไซต์จาก[ไซต์ที่ใช้งานอยู่](https://admin.microsoft.com/sharepoint?page=sitemanagement&modern=true)ในศูนย์ดูแล SharePoint</span><span class="sxs-lookup"><span data-stu-id="71f02-103">Create or manage sites from [Active Sites](https://admin.microsoft.com/sharepoint?page=sitemanagement&modern=true) in the SharePoint Admin Center.</span></span> <span data-ttu-id="71f02-104">สำหรับข้อมูลเพิ่มเติมให้ดู[ที่การจัดการไซต์ในศูนย์กลางการดูแล SharePoint ใหม่](https://docs.microsoft.com/sharepoint/manage-site-creation)</span><span class="sxs-lookup"><span data-stu-id="71f02-104">For more info, see [Manage sites in the new SharePoint admin center](https://docs.microsoft.com/sharepoint/manage-site-creation).</span></span> 
 
+## <a name="tips"></a><span data-ttu-id="71f02-105">เคล็ด ลับ:</span><span class="sxs-lookup"><span data-stu-id="71f02-105">Tips:</span></span>
 
-  
-<span data-ttu-id="c86d2-108">**เคล็ด ลับ:**</span><span class="sxs-lookup"><span data-stu-id="c86d2-108">**Tips:**</span></span>
-- <span data-ttu-id="c86d2-109">คุณไม่สามารถสร้างไซต์ที่มี URL เดียวกันของไซต์ที่มีอยู่ได้</span><span class="sxs-lookup"><span data-stu-id="c86d2-109">You cannot create a site with the same URL of an existing site.</span></span> <span data-ttu-id="c86d2-110">หากคุณลบไซต์และต้องการใช้ URL อีกครั้งอาจเป็นไปได้ว่าไซต์ที่ถูกลบยังคงอยู่ภายใต้**ไซต์ที่ถูกลบ**</span><span class="sxs-lookup"><span data-stu-id="c86d2-110">If you deleted a site and are wishing to re-use the URL, it's possible the deleted site still exists under **Deleted sites**.</span></span> <span data-ttu-id="c86d2-111">หากต้องการจัดการไซต์ที่ถูกลบให้เห็นให้[ลบไซต์](https://docs.microsoft.com/sharepoint/manage-sites-in-new-admin-center#delete-a-site)</span><span class="sxs-lookup"><span data-stu-id="c86d2-111">To manage deleted sites see, [Delete a Site](https://docs.microsoft.com/sharepoint/manage-sites-in-new-admin-center#delete-a-site).</span></span> <span data-ttu-id="c86d2-112">หากต้องการเอาเว็บไซต์ที่มี Powershell ออกให้ดูตัวอย่างการ[เอาออก spsite](https://docs.microsoft.com/sharepoint/manage-sites-in-new-admin-center#delete-a-site) cmdlet</span><span class="sxs-lookup"><span data-stu-id="c86d2-112">To completely remove a site with Powershell, see the [Remove-SPSite](https://docs.microsoft.com/sharepoint/manage-sites-in-new-admin-center#delete-a-site) cmdlet example.</span></span>
-- <span data-ttu-id="c86d2-113">ผู้ใช้บางรายอาจไม่สามารถสร้างไซต์ได้</span><span class="sxs-lookup"><span data-stu-id="c86d2-113">Some users may not be able to create a site.</span></span> <span data-ttu-id="c86d2-114">ดู[จัดการการสร้างไซต์ใน SharePoint แบบออนไลน์](https://docs.microsoft.com/sharepoint/manage-site-creation)</span><span class="sxs-lookup"><span data-stu-id="c86d2-114">See [Manage site creation in SharePoint Online](https://docs.microsoft.com/sharepoint/manage-site-creation).</span></span>
-- <span data-ttu-id="c86d2-115">เป็นไปได้ที่เว็บไซต์จะปรากฏติดอยู่ที่**การสร้าง**นานกว่าที่คาดไว้</span><span class="sxs-lookup"><span data-stu-id="c86d2-115">It's possible the site appears stuck at **Creating** longer than expected.</span></span> <span data-ttu-id="c86d2-116">หากมีการผ่านมากกว่า24ชั่วโมงตั้งแต่แรกคุณเห็นปัญหานี้โปรดบันทึกตั๋วสนับสนุน</span><span class="sxs-lookup"><span data-stu-id="c86d2-116">If more than 24 hours have passed since you first saw this issue, please log a support ticket.</span></span> <span data-ttu-id="c86d2-117">ในหลายกรณีเรากำลังทำงานอยู่แล้วในการแก้ปัญหา</span><span class="sxs-lookup"><span data-stu-id="c86d2-117">In many cases, we're already working on a solution.</span></span> <span data-ttu-id="c86d2-118">กรุณาให้เราอย่างน้อย24ชั่วโมงในการดำเนินการแก้ปัญหา</span><span class="sxs-lookup"><span data-stu-id="c86d2-118">Please give us at least 24 hours to complete a solution.</span></span>
-- <span data-ttu-id="c86d2-119">ถ้าคุณต้องการสร้างไซต์ทีมใหม่ที่ไม่มีกลุ่ม Office ๓๖๕</span><span class="sxs-lookup"><span data-stu-id="c86d2-119">If you need to create a new team site that doesn't include an Office 365 group,</span></span> 
-
-
+- <span data-ttu-id="71f02-106">คุณ**ไม่สามารถ**สร้างไซต์ที่มี URL เดียวกันของไซต์ที่มีอยู่</span><span class="sxs-lookup"><span data-stu-id="71f02-106">You **cannot** create a site with the same URL of an existing site.</span></span> <span data-ttu-id="71f02-107">ถ้าคุณลบไซต์และต้องการใช้ URL อีกครั้งอาจเป็นไปได้ว่าไซต์ที่ถูกลบนั้นยังคงอยู่ภายใต้[ไซต์ที่ถูกลบ](https://admin.microsoft.com/sharepoint?page=recyclebin&modern=true)</span><span class="sxs-lookup"><span data-stu-id="71f02-107">If you deleted a site and are wishing to re-use the URL, it's possible the deleted site still exists under [Deleted sites](https://admin.microsoft.com/sharepoint?page=recyclebin&modern=true).</span></span> <span data-ttu-id="71f02-108">ไซต์จะต้องถูกลบออกอย่างถาวรเพื่อใช้ URL อีกครั้ง</span><span class="sxs-lookup"><span data-stu-id="71f02-108">The site will need to be permanently deleted to re-use the URL.</span></span> <span data-ttu-id="71f02-109">เมื่อต้องการเอาไซต์ออกด้วย Powershell ให้ดูที่ตัวอย่างของ cmdlet [SPSite เอาออก](https://docs.microsoft.com/sharepoint/manage-sites-in-new-admin-center#delete-a-site)</span><span class="sxs-lookup"><span data-stu-id="71f02-109">To completely remove a site with Powershell, see the [Remove-SPSite](https://docs.microsoft.com/sharepoint/manage-sites-in-new-admin-center#delete-a-site) cmdlet example.</span></span>
+- <span data-ttu-id="71f02-110">ผู้ใช้บางรายอาจไม่สามารถสร้างไซต์ได้</span><span class="sxs-lookup"><span data-stu-id="71f02-110">Some users may not be able to create a site.</span></span> <span data-ttu-id="71f02-111">[ดูจัดการการสร้างไซต์ใน SharePoint แบบออนไลน์](https://docs.microsoft.com/sharepoint/manage-site-creation)</span><span class="sxs-lookup"><span data-stu-id="71f02-111">[See Manage site creation in SharePoint Online](https://docs.microsoft.com/sharepoint/manage-site-creation).</span></span>
+- <span data-ttu-id="71f02-112">มันเป็นไปได้ว่าเว็บไซต์ปรากฏติดอยู่ที่การ**สร้าง**นานกว่าที่คาดไว้</span><span class="sxs-lookup"><span data-stu-id="71f02-112">It's possible the site appears stuck at **Creating** longer than expected.</span></span> <span data-ttu-id="71f02-113">ถ้ามากกว่า24ชั่วโมงหลังจากที่คุณเห็นปัญหานี้ครั้งแรกโปรดเข้าสู่ระบบตั๋วสนับสนุน</span><span class="sxs-lookup"><span data-stu-id="71f02-113">If more than 24 hours have passed since you first saw this issue, please log a support ticket.</span></span> <span data-ttu-id="71f02-114">ในหลายกรณีเรากำลังหาทางแก้ไขปัญหาอยู่</span><span class="sxs-lookup"><span data-stu-id="71f02-114">In many cases, we're already working on a solution.</span></span> <span data-ttu-id="71f02-115">กรุณาให้เราอย่างน้อย24ชั่วโมงเพื่อให้การแก้ไขปัญหา</span><span class="sxs-lookup"><span data-stu-id="71f02-115">Please give us at least 24 hours to complete a solution.</span></span>
