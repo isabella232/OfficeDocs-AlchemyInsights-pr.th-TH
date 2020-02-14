@@ -1,5 +1,5 @@
 ---
-title: ขอให้ผู้ดูแลระบบของคุณเปิดใช้งาน Microsoft Teams
+title: ขอให้ผู้ดูแลระบบของคุณเปิดใช้งานทีม Microsoft
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -12,17 +12,15 @@ ms.custom:
 - "9000067"
 - "2660"
 - "1576"
-ms.openlocfilehash: 0e96a1296193e33240aaed5947010d91b9351a51
-ms.sourcegitcommit: 027bb52244f304b891143c72cccd89ac1a9a05aa
+ms.openlocfilehash: 9c4f776cb0162ff2aa95ff53fdeaef3d54d1b7e2
+ms.sourcegitcommit: d682713aa9581a8b40209fd890048ffb8af57fa9
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 09/30/2019
-ms.locfileid: "37328857"
+ms.lasthandoff: 02/13/2020
+ms.locfileid: "41962316"
 ---
-# <a name="youre-missing-out-ask-your-admin-to-enable-microsoft-teams"></a>คุณกำลังหายไป! ขอให้ผู้ดูแลระบบของคุณเปิดใช้งาน Microsoft Teams
+# <a name="youre-missing-out-ask-your-admin-to-enable-microsoft-teams"></a>คุณกำลังขาดหายไป! ขอให้ผู้ดูแลระบบของคุณเปิดใช้งานทีม Microsoft
 
-คณาจารย์และพนักงานสามารถเข้าถึง Teams ได้แต่นักเรียนไม่สามารถหรือผู้ใช้ที่ได้รับอนุญาตจาก F1 ของคุณไม่สามารถเข้าถึง Teams ได้หรือไม่
+คณาจารย์และเจ้าหน้าที่สามารถเข้าถึงทีมแต่นักเรียนไม่สามารถหรือเป็นผู้ใช้ที่ได้รับอนุญาต F1 ของคุณไม่สามารถเข้าถึงทีม?
 
-ทีมต้องเปิดใช้งานอย่างชัดเจนสำหรับนักเรียนและใบอนุญาต F1 สำหรับคำแนะนำให้ดูที่[Office ๓๖๕บัญชีนักเรียนและบริการไม่สามารถลงชื่อเข้าใช้ Microsoft Teams](https://docs.microsoft.com/microsoftteams/troubleshoot/teams-sign-in/office-365-accounts-cannot-sign-in) 
-
-คุณสามารถค้นหาคำแนะนำโดยละเอียดเพิ่มเติมเกี่ยวกับวิธีการเปิดใช้งาน Teams สำหรับโรงเรียนของคุณในการ[กำหนดค่าทีมสำหรับการศึกษา](https://docs.microsoft.com/microsoft-365/education/deploy/set-up-teams-for-education) 
+ทีมจะต้องเปิดใช้งานอย่างชัดเจนสำหรับนักเรียนและใบอนุญาต F1 คุณสามารถหาคำแนะนำรายละเอียดเพิ่มเติมเกี่ยวกับวิธีการเปิดใช้งานทีมสำหรับโรงเรียนของคุณในการ[กำหนดค่าทีมสำหรับการศึกษา](https://docs.microsoft.com/microsoft-365/education/deploy/set-up-teams-for-education) 
