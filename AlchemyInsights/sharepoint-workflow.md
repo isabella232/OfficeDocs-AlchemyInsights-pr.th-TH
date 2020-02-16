@@ -1,5 +1,5 @@
 ---
-title: เริ่มต้นใช้งานแบบออนไลน์ของ SharePoint
+title: การแก้ไขปัญหาลำดับงานใน SharePoint
 ms.author: pebaum
 author: pebaum
 manager: pamgreen
@@ -14,25 +14,19 @@ ms.custom:
 - "1940"
 - "1718"
 ms.assetid: 7ae05f21-eb16-4d71-9e19-4f097eb100d2
-ms.openlocfilehash: 1af44290ce0795737c03c4eacac48906313aa5ea
-ms.sourcegitcommit: 317eeed39c7777a922442992d67733726c41d9e1
+ms.openlocfilehash: 7f8879360d90c30d5986831f6a537b1471eb8b6a
+ms.sourcegitcommit: 8ba12eff67e405f5922ea4cc35155e3036447859
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 02/04/2020
-ms.locfileid: "41770478"
+ms.lasthandoff: 02/15/2020
+ms.locfileid: "42056153"
 ---
-# <a name="workflows-in-sharepoint"></a>กระแสงานใน SharePoint
+# <a name="troubleshoot-workflows-in-sharepoint"></a>การแก้ไขปัญหาลำดับงานใน SharePoint
 
-เวิร์กโฟลว์ของ SharePoint เป็นแอปที่ตั้งโปรแกรมล่วงหน้าซึ่งปรับปรุงกระบวนการทางธุรกิจให้หลากหลาย ดูข้อมูลเพิ่มเติมได้ที่ลิงก์ด้านล่าง
-
-## <a name="getting-started"></a>การเริ่มต้นใช้งาน
-
-ถ้าคุณเพิ่งเริ่มต้นใช้งานเวิร์กโฟลว์ของ SharePoint โปรดดู[ที่บทนำสู่เวิร์กโฟลว์ sharepoint](https://support.office.com/article/introduction-to-sharepoint-workflow-07982276-54e8-4e17-8699-5056eff4d9e3)
-
-## <a name="troubleshoot-and-debug-a-sharepoint-workflow"></a>การแก้ไขปัญหาและการตรวจแก้จุดบกพร่องเวิร์กโฟลว์ SharePoint
+## <a name="troubleshoot-and-debug-workflows-in-sharepoint"></a>การแก้ไขปัญหาและการดีบักเวิร์กโฟลว์ใน SharePoint
 
 ดูการ[แก้ไขปัญหาข้อผิดพลาดการตรวจสอบเวิร์กโฟลว์ sharepoint](https://docs.microsoft.com/sharepoint/dev/general-development/troubleshooting-sharepoint-server-workflow-validation-errors-in-visio)และการ[แก้จุดบกพร่องเวิร์กโฟลว์ sharepoint](https://docs.microsoft.com/sharepoint/dev/general-development/debugging-sharepoint-server-workflows)
 
 ## <a name="power-automate"></a>พลังงานโดยอัตโนมัติ
 
-พิจารณาการใช้[พลังงานโดยอัตโนมัติ](https://docs.microsoft.com/power-automate/modern-approvals)แทนการแก้ปัญหาเวิร์กโฟลว์ SharePoint คลาสสิก
+ถ้าคุณเพิ่งเริ่มการทำงานกับเวิร์กโฟลว์ให้พิจารณาการใช้[พลังงานโดยอัตโนมัติ](https://docs.microsoft.com/power-automate/modern-approvals)แทนการแก้ไขปัญหาเวิร์กโฟลว์ SharePoint แบบคลาสสิค
