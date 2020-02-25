@@ -1,5 +1,5 @@
 ---
-title: ฉันจะสื่อสารกับ Skype ภายนอกสำหรับผู้ใช้ทางธุรกิจได้อย่างไร
+title: ฉันจะสื่อสารกับ Skype ภายนอกสำหรับผู้ใช้ธุรกิจ
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -12,19 +12,24 @@ ms.custom:
 - "4000008"
 - "2646"
 - "1432"
-ms.openlocfilehash: e8eefb9c0f01ad42f725f178fa23b15850364a44
-ms.sourcegitcommit: 7232b48bcd8bb9867d52a2f055a46ce76a58b8da
+ms.openlocfilehash: 46da02a7a2ae1be92698f376be404a76bd4f23e6
+ms.sourcegitcommit: d87a6ac6ee77375d1d750100359b4dc7b2871691
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 09/27/2019
-ms.locfileid: "37305175"
+ms.lasthandoff: 02/25/2020
+ms.locfileid: "42265107"
 ---
-# <a name="allow-external-communications-with-skype-for-business"></a>อนุญาตให้มีการสื่อสารภายนอกกับ Skype สำหรับธุรกิจ 
+# <a name="allow-external-communications-with-skype-for-business"></a>อนุญาตการสื่อสารภายนอกกับ Skype สำหรับธุรกิจ 
 
-คุณต้องการอนุญาตให้ Skype ของคุณสำหรับผู้ใช้ทางธุรกิจสามารถติดต่อผู้ใช้ภายนอกองค์กรของคุณหรือไม่ 
+คุณต้องการอนุญาตให้ Skype ของคุณสำหรับผู้ใช้ธุรกิจเพื่อติดต่อผู้ใช้ภายนอกองค์กรของคุณหรือไม่ ดู[ที่การอนุญาตให้ผู้ใช้ติดต่อภายนอก Skype สำหรับผู้ใช้ธุรกิจ](https://docs.microsoft.com/skypeforbusiness/set-up-skype-for-business-online/allow-users-to-contact-external-skype-for-business-users)
 
-[อนุญาตให้ผู้ใช้ติดต่อ Skype ภายนอกสำหรับผู้ใช้ทางธุรกิจ](https://docs.microsoft.com/skypeforbusiness/set-up-skype-for-business-online/allow-users-to-contact-external-skype-for-business-users)
+ระเบียน DNS ของคุณต้องถูกตั้งค่าอย่างถูกต้องสำหรับการสื่อสารภายนอกทำงานอย่างถูกต้อง ตรวจสอบ[ที่นี่](https://docs.microsoft.com/office365/admin/get-help-with-domains/set-up-your-domain-host-specific-instructions?view=o365-worldwide)เพื่อดูว่าเรามีคำแนะนำเฉพาะเกี่ยวกับวิธีการตั้งค่าระเบียน DNS กับผู้ให้บริการของคุณ 
 
-ระเบียน DNS ของคุณต้องถูกตั้งค่าอย่างถูกต้องสำหรับการสื่อสารภายนอกเพื่อให้ทำงานได้อย่างถูกต้อง ตรวจสอบที่[นี่](https://docs.microsoft.com/office365/admin/get-help-with-domains/set-up-your-domain-host-specific-instructions?view=o365-worldwide)เพื่อดูว่าเรามีคำแนะนำเฉพาะเกี่ยวกับวิธีการตั้งค่าระเบียน DNS กับผู้ให้บริการของคุณหรือไม่ 
+คุณต้องการเปิดใช้งาน Skype ของคุณสำหรับผู้ใช้ธุรกิจเพื่อติดต่อผู้ใช้อุปโภคบริโภค Skype หรือไม่ ดู:
 
-ถ้าคุณต้องการให้ผู้ใช้ทีมของคุณสามารถติดต่อผู้ใช้ภายนอกองค์กรของคุณ (รวมถึง Skype สำหรับผู้ใช้ทางธุรกิจ) ให้ตรวจทาน[จัดการการเข้าถึงภายนอกใน Microsoft Teams](https://docs.microsoft.com/microsoftteams/let-your-teams-users-communicate-with-other-people) 
+- [ให้ Skype สำหรับผู้ใช้ธุรกิจเพิ่มผู้ติดต่อ skype](https://docs.microsoft.com/skypeforbusiness/set-up-skype-for-business-online/let-skype-for-business-users-add-skype-contacts) 
+
+- [เพิ่มผู้ติดต่อใน Skype สำหรับธุรกิจ](https://support.office.com/article/add-a-contact-in-skype-for-business-89338023-2adf-4f5c-90b6-f8b6f72fadd1)
+
+
+ถ้าคุณต้องการให้ผู้ใช้ของทีมสามารถติดต่อผู้ใช้ภายนอกองค์กรของคุณ (รวมถึง Skype สำหรับผู้ใช้ธุรกิจ) ให้ตรวจทาน[จัดการการเข้าถึงภายนอกในทีม Microsoft](https://docs.microsoft.com/microsoftteams/let-your-teams-users-communicate-with-other-people) 
