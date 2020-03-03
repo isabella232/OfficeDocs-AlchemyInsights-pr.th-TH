@@ -1,5 +1,5 @@
 ---
-title: ทีมธีม
+title: ทีมธีม catchall
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,28 +11,30 @@ ms.collection: Adm_O365
 ms.custom:
 - "2605"
 - "9000701"
-ms.openlocfilehash: 88e139e9d1179dd1afb14686a4c4e3ee5e211ebc
-ms.sourcegitcommit: 358e7ed05c262f909bfa9ed0df730e1fd89266b8
+ms.openlocfilehash: b5394249037e1ccfffa42206940369040eec273a
+ms.sourcegitcommit: 221cec50b7026a8d48a743034658460b17115061
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 11/27/2019
-ms.locfileid: "39626403"
+ms.lasthandoff: 03/02/2020
+ms.locfileid: "42371541"
 ---
-# <a name="teams-common-issues-and-resolutions"></a>การตัดสินค้าจากคลังและวิธีแก้ปัญหาทั่วไป
+# <a name="teams-common-issues-and-resolutions"></a>ปัญหาและความละเอียดที่พบบ่อยของทีม
 
-สำหรับคำตอบที่เฉพาะเจาะจงมากขึ้นเกี่ยวกับปัญหาของ Microsoft Teams ให้ใส่คำถามของคุณสั้นๆอีกครั้งและรวมข้อผิดพลาดที่คุณเห็นหรือคุณลักษณะที่คุณกำลังใช้อยู่
+สำหรับคำตอบที่เฉพาะเจาะจงมากขึ้นเกี่ยวกับปัญหาทีม Microsoft, สั้นๆเรียงคำถามของคุณและรวมถึงข้อผิดพลาดที่คุณกำลังดูหรือคุณลักษณะที่คุณกำลังใช้อยู่
 
-ต่อไปนี้คือแหล่งข้อมูลเพิ่มเติม:
+ถ้าคุณต้องการความช่วยเหลือสนับสนุนผู้ปฏิบัติงานระยะไกล (WFH) กับทีมโปรดตรวจสอบการ[สนับสนุนผู้ปฏิบัติงานระยะไกลโดยใช้ทีม](https://docs.microsoft.com/microsoftteams/support-remote-work-with-teams)งานของ Microsoft
 
-- **เปิดใช้งานการเข้าถึงผู้เข้าชมทีม:** ตรวจทาน[รายการตรวจสอบการเข้าถึงของผู้เยี่ยมชมทีม](https://docs.microsoft.com/microsoftteams/guest-access-checklist)และตรวจสอบให้แน่ใจว่าขั้นตอนทั้งหมดเสร็จสมบูรณ์แล้ว
-- **แก้ไขปัญหาทีมลงชื่อเข้าใช้:** ก่อนอื่นให้ตรวจสอบให้แน่ใจว่า[บริการ Microsoft Teams มีสุขภาพดี](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/servicehealth) จากนั้นตรวจสอบรหัสข้อผิดพลาดทั่วไปและตรวจสอบ[ว่าเหตุใดฉันจึงมีปัญหาในการลงชื่อเข้าใช้ Microsoft Teams](https://support.office.com/article/a02f683b-61a3-4008-9447-ee60c5593b0f)  นอกจากนี้คุณอาจต้องตรวจทาน[รูปแบบข้อมูลประจำตัวและการรับรองความถูกต้องใน Microsoft Teams](https://docs.microsoft.com/MicrosoftTeams/identify-models-authentication)ด้วย
-- **กู้คืนทีมหรือช่องที่ถูกลบ:** 
-    - โปรดดู[ที่การคืนค่าทีมที่ถูกลบใน Microsoft Teams](https://blogs.technet.microsoft.com/skypehybridguy/2017/07/23/restoring-a-deleted-team-in-microsoft-teams/)
-    - ช่องที่ลบภายในทีมสามารถกู้คืนได้นานถึง21วันหลังจากลบช่องแล้ว 
-    - หากต้องการกู้คืนช่องที่ถูกลบให้ดูที่[เก็บถาวรหรือกู้คืนทีม](https://support.office.com/article/archive-or-restore-a-team-dc161cfd-b328-440f-974b-5da5bd98b5a7)
-- **เรียกคืนไฟล์ที่ถูกลบ:** โปรดดูการ[กู้คืนไฟล์ที่ถูกลบใน Teams](https://support.office.com/article/recover-deleted-files-in-teams-a591d771-89a6-49e2-ab7e-271936fe3c4e)
-- **แก้ปัญหาแผ่นการเรียกเลขหมายที่ขาดหายไป:**  
-    - ตรวจสอบให้แน่ใจว่าผู้ใช้ได้รับการกำหนด[สิทธิอนุญาต](https://docs.microsoft.com/MicrosoftTeams/assign-teams-licenses)ให้กับทีม
-    - ตรวจสอบให้แน่ใจว่าผู้ใช้ได้กำหนด[แผนการโทร](https://docs.microsoft.com/MicrosoftTeams/calling-plan-landing-page)ไว้แล้ว
+นี่คือบางส่วนของทรัพยากรเพิ่มเติม:
+
+- **เปิดใช้งานการเข้าถึงของทีมแขก:** ตรวจทาน[รายการตรวจสอบการเข้าถึงของทีม](https://docs.microsoft.com/microsoftteams/guest-access-checklist)และตรวจสอบให้แน่ใจว่าขั้นตอนทั้งหมดเสร็จสมบูรณ์แล้ว
+- การ**แก้ไขปัญหาการเข้าสู่ระบบของทีม:** ขั้นแรกให้ตรวจสอบให้แน่ใจว่า[บริการของ Microsoft ทีมมีสุขภาพดี](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/servicehealth) ตรวจสอบรหัสข้อผิดพลาดทั่วไปและตรวจทาน[เหตุใดฉันจึงมีปัญหาในการลงชื่อเข้าใช้ทีม Microsoft](https://support.office.com/article/a02f683b-61a3-4008-9447-ee60c5593b0f)  นอกจากนี้คุณอาจต้องตรวจสอบ[รูปแบบข้อมูลและการรับรองความถูกต้องในทีม Microsoft](https://docs.microsoft.com/MicrosoftTeams/identify-models-authentication)
+- **คืนค่าทีมหรือช่องทางที่ถูกลบ:** 
+    - ดู[ที่การคืนค่าทีมที่ถูกลบในทีม Microsoft](https://blogs.technet.microsoft.com/skypehybridguy/2017/07/23/restoring-a-deleted-team-in-microsoft-teams/)
+    - คุณสามารถคืนค่าช่องสัญญาณที่ถูกลบภายในทีมได้ถึง21วันหลังจากช่องสัญญาณถูกลบแล้ว 
+    - เมื่อต้องการกู้คืนสถานีที่ถูกลบให้ดูที่การ[เก็บถาวรหรือการคืนค่าทีม](https://support.office.com/article/archive-or-restore-a-team-dc161cfd-b328-440f-974b-5da5bd98b5a7)
+- **คืนค่าแฟ้มที่ถูกลบ:** ดู[ที่การกู้คืนไฟล์ที่ถูกลบในทีม](https://support.office.com/article/recover-deleted-files-in-teams-a591d771-89a6-49e2-ab7e-271936fe3c4e)
+- **การแก้ไขปัญหาแผ่นการเรียกเลขหมายที่หายไป:**  
+    - ตรวจสอบให้แน่ใจว่าผู้ใช้ได้ถูกกำหนด[สิทธิ์การใช้งานทีม](https://docs.microsoft.com/MicrosoftTeams/assign-teams-licenses)แล้ว
+    - ตรวจสอบให้แน่ใจว่าผู้ใช้มีการกำหนด[แผนการโทร](https://docs.microsoft.com/MicrosoftTeams/calling-plan-landing-page)แล้ว
     - เปิดใช้งานผู้ใช้สำหรับ[องค์กรเสียง](https://docs.microsoft.com/skypeforbusiness/skype-for-business-hybrid-solutions/plan-your-phone-system-cloud-pbx-solution/enable-users-for-enterprise-voice-online-and-phone-system-voicemail#to-enable-your-users-for-phone-system-in-office-365-voice-and-voicemail)
-- **ปัญหาที่ทราบกับทีม:** อ่าน[ปัญหาที่ทราบสำหรับ Microsoft Teams](https://docs.microsoft.com/microsoftteams/known-issues)
+- **ปัญหาที่ทราบกับทีม:** อ่าน[ปัญหาที่ทราบสำหรับทีม Microsoft](https://docs.microsoft.com/microsoftteams/known-issues)
