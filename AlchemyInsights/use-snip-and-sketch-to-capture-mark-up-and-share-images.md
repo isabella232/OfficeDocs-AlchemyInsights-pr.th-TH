@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001666"
 - "3733"
-ms.openlocfilehash: dbd1cd9db4830278703a2dfb8d0541e9f706a326
-ms.sourcegitcommit: dc3f616893e02c72e8cdf4700b1c49ccfa12a975
+ms.openlocfilehash: 1aa8876dd56010f9b45c56c4bf7e8db9ca8539e6
+ms.sourcegitcommit: d925c1fd1be35071cd422b9d7e5ddd6c700590de
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 03/02/2020
-ms.locfileid: "42365187"
+ms.lasthandoff: 03/10/2020
+ms.locfileid: "42584496"
 ---
 # <a name="use-snip--sketch-to-capture-mark-up-and-share-images"></a>ใช้การตัดส่วน & สเก็ตช์เพื่อจับภาพทำเครื่องหมายขึ้นและแบ่งปันภาพ
 
@@ -27,7 +27,8 @@ ms.locfileid: "42365187"
 2. เลือกจุดที่ขอบของพื้นที่ที่คุณต้องการคัดลอกและคลิกซ้ายที่เคอร์เซอร์ 
 
 3. ย้ายเคอร์เซอร์ของคุณเพื่อเน้นพื้นที่ที่คุณต้องการจับภาพ พื้นที่ที่คุณจับภาพจะปรากฏบนหน้าจอของคุณ
-:::image type="content" source="media/snipone.png" alt-text="รูปภาพของการเลือกที่เน้นไว้":::
+
+   ![รูปภาพของการเลือกที่เน้นไว้](media/snipone.png)
 
 รูปภาพที่คุณ snipped จะถูกบันทึกลงในคลิปบอร์ดของคุณพร้อมสำหรับการวางลงในอีเมลหรือเอกสาร 
 
@@ -35,4 +36,4 @@ ms.locfileid: "42365187"
 
 - คลิกไอคอนการแจ้งเตือนที่ด้านขวาสุดของแถบงาน จากนั้นคลิกรูปภาพที่คุณเพิ่งจับภาพ สนิปของคุณจะเปิดขึ้นในแอพสนิป & สเก็ตช์
 
-:::image type="content" source="media/sniptwo.png" alt-text="รูปภาพที่แสดงในแอปสนิป":::
+   ![รูปภาพของรูปภาพที่แสดงในแอปสนิป](media/sniptwo.png)

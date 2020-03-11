@@ -12,15 +12,15 @@ ms.custom:
 - "9000067"
 - "2660"
 - "1576"
-ms.openlocfilehash: 9c4f776cb0162ff2aa95ff53fdeaef3d54d1b7e2
-ms.sourcegitcommit: d682713aa9581a8b40209fd890048ffb8af57fa9
+ms.openlocfilehash: 7b561101ebdea51c5968a777c488f61dc4dd206b
+ms.sourcegitcommit: ef2abd2221398dea14e9bdbd19bf6ac3823a5f9b
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 02/13/2020
-ms.locfileid: "41962316"
+ms.lasthandoff: 03/10/2020
+ms.locfileid: "42573151"
 ---
 # <a name="youre-missing-out-ask-your-admin-to-enable-microsoft-teams"></a>คุณกำลังขาดหายไป! ขอให้ผู้ดูแลระบบของคุณเปิดใช้งานทีม Microsoft
 
-คณาจารย์และเจ้าหน้าที่สามารถเข้าถึงทีมแต่นักเรียนไม่สามารถหรือเป็นผู้ใช้ที่ได้รับอนุญาต F1 ของคุณไม่สามารถเข้าถึงทีม?
+ถ้าคุณมีผู้เช่าของ EDU คุณจำเป็นต้องเปิดใช้งาน Microsoft ทีมด้วยตนเอง เมื่อต้องการทำเช่นนี้ไปยัง Microsoft ๓๖๕ admin ศูนย์ **บริการ >และเพิ่มเติม > ทีม Microsoft** ถ้าคุณกำลังใช้ศูนย์กลางการจัดการทีมใหม่คุณจะต้องปิดใช้งาน **' ศูนย์ดูแลระบบ '** ใหม่เพื่อค้นหา **บริการและโปรแกรมเพิ่มเติม** 
 
-ทีมจะต้องเปิดใช้งานอย่างชัดเจนสำหรับนักเรียนและใบอนุญาต F1 คุณสามารถหาคำแนะนำรายละเอียดเพิ่มเติมเกี่ยวกับวิธีการเปิดใช้งานทีมสำหรับโรงเรียนของคุณในการ[กำหนดค่าทีมสำหรับการศึกษา](https://docs.microsoft.com/microsoft-365/education/deploy/set-up-teams-for-education) 
+**สิ่งสำคัญ**: คุณอาจต้องรอจนถึง24ชั่วโมงเพื่อให้การเปลี่ยนแปลงของคุณมีผล

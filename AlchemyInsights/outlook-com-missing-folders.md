@@ -3,7 +3,7 @@ title: Outlook.com โฟลเดอร์ที่ขาดหายไป
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 6/6/2019
+ms.date: 3/9/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -15,17 +15,18 @@ ms.custom:
 - "1134"
 - "8000061"
 ms.assetid: e8e87530-51b6-4386-983c-8c8cca0c5b3f
-ms.openlocfilehash: d81239b8992910d7bf451cdcb2a3f54c9d2a72c4
-ms.sourcegitcommit: 1e624fbebbe70f064cd24e3347d70a75caedf840
+ms.openlocfilehash: e6a5170655d98eaa914f686753e0aea3873fc058
+ms.sourcegitcommit: e1307138631f9a5489f5309dfc5dd1bc6be3dc96
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 02/24/2020
-ms.locfileid: "42260261"
+ms.lasthandoff: 03/10/2020
+ms.locfileid: "42572594"
 ---
 # <a name="find-missing-folders"></a>ค้นหาโฟลเดอร์ที่หายไป
 
 ผู้ใช้บางคนอาจไม่สามารถดูบานหน้าต่างโฟลเดอร์ด้านซ้ายเมื่อดูบนหน้าจอขนาดเล็กได้
 
+- ถ้าคุณไม่เห็นบานหน้าต่างโฟลเดอร์ให้ขยายหน้าต่างเบราว์เซอร์ของคุณหรือเลื่อนไปทางซ้ายเพื่อดูรายการโฟลเดอร์
 - ขยายบานหน้าต่างโฟลเดอร์เฉพาะเมื่อคุณต้องการ เลือกไอคอนสามบรรทัดในแถบด้านซ้ายเพื่อแสดงหรือซ่อนโฟลเดอร์
 - เปิด[การตั้งค่าเค้าโครง](https://outlook.live.com/mail/options/mail/layout)และเลือก**ซ่อนบานหน้าต่างการอ่าน**แล้ว**บันทึก** การทำเช่นนี้จะให้พื้นที่หน้าจอมากขึ้นเพื่อแสดงโฟลเดอร์
 
