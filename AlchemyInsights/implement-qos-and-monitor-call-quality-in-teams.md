@@ -11,13 +11,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001504"
 - "3561"
-ms.openlocfilehash: 07df61fdc78cc66bff530b85239f10c4a7cde498
-ms.sourcegitcommit: ff9e8e27415cc7f24f1bc5fcbd477d293e460d9d
+ms.openlocfilehash: ce053dc513ab8aadfad13ce3c0bb812a844e6f92
+ms.sourcegitcommit: 9ab422063e5a474c92ed956d42d222b90336fecb
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 02/20/2020
-ms.locfileid: "42164223"
+ms.lasthandoff: 03/11/2020
+ms.locfileid: "42600007"
 ---
 # <a name="implement-qos-and-monitor-call-quality-in-teams"></a>ดำเนินการ QoS และตรวจสอบคุณภาพการโทรในทีม
 
-การวิเคราะห์การโทรและแดชบอร์ดที่มีคุณภาพการโทรสามารถใช้เพื่อช่วยแก้ไขปัญหาคุณภาพการโทรในทีมของ Microsoft เมื่อต้องการเรียนรู้เพิ่มเติมเกี่ยวกับคุณภาพการบริการ (QoS), การวิเคราะห์การโทรและแดชบอร์ดที่มีคุณภาพการเรียก (CQD) ให้ดูที่การใช้[QoS และตรวจสอบคุณภาพการโทรในทีมของ Microsoft](https://docs.microsoft.com/en-us/microsoftteams/monitor-call-quality-qos) 
+การวิเคราะห์การโทรและแดชบอร์ดที่มีคุณภาพการโทรสามารถใช้เพื่อช่วยแก้ไขปัญหาคุณภาพการโทรในทีมของ Microsoft เมื่อต้องการเรียนรู้เพิ่มเติมเกี่ยวกับคุณภาพการบริการ (QoS), การวิเคราะห์การโทรและแดชบอร์ดที่มีคุณภาพการเรียก (CQD) ให้ดูที่การใช้[QoS และตรวจสอบคุณภาพการโทรในทีมของ Microsoft](https://docs.microsoft.com/microsoftteams/monitor-call-quality-qos) 

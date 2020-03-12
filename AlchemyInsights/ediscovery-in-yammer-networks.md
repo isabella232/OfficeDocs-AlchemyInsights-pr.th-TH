@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "3200003"
 - "3533"
-ms.openlocfilehash: ff0f38b760007eef92aee394caacf01710031a68
-ms.sourcegitcommit: ff9e8e27415cc7f24f1bc5fcbd477d293e460d9d
+ms.openlocfilehash: adc5dba801236bfbcff30d3fa151f8d0463be3cd
+ms.sourcegitcommit: 9ab422063e5a474c92ed956d42d222b90336fecb
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 02/20/2020
-ms.locfileid: "42162931"
+ms.lasthandoff: 03/11/2020
+ms.locfileid: "42600619"
 ---
 # <a name="ediscovery-in-yammer-networks"></a>eDiscovery ในเครือข่าย Yammer
 
@@ -29,5 +29,5 @@ ms.locfileid: "42162931"
 สำหรับข้อมูลเพิ่มเติมเกี่ยวกับ:
 
 - โหมดเนทิฟใน Yammer ดู:[ภาพรวมของโหมดเนทิฟ](https://docs.microsoft.com/yammer/configure-your-yammer-network/overview-native-mode)
-- eDiscovery ในเครือข่าย Yammer ดู:[ภาพรวมของ eDiscovery ในเครือข่าย yammer](https://docs.microsoft.com/en-us/yammer/manage-security-and-compliance/overview-of-ediscovery)
-- ใน Office ๓๖๕ดู[ediscovery ใน office ๓๖๕](https://docs.microsoft.com/en-us/microsoft-365/compliance/ediscovery)
+- eDiscovery ในเครือข่าย Yammer ดู:[ภาพรวมของ eDiscovery ในเครือข่าย yammer](https://docs.microsoft.com/yammer/manage-security-and-compliance/overview-of-ediscovery)
+- ใน Office ๓๖๕ดู[ediscovery ใน office ๓๖๕](https://docs.microsoft.com/microsoft-365/compliance/ediscovery)

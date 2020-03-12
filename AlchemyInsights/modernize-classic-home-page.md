@@ -11,18 +11,18 @@ ms.collection: ''
 ms.custom:
 - "3549"
 - "9001496"
-ms.openlocfilehash: 92da79ff6f5fe3bdb7810abae35482c8ecfc5efe
-ms.sourcegitcommit: 3da9d729256b978a95034fcf64b868fcc0e8012b
+ms.openlocfilehash: e727f40b725cefa8a09c15fe2d65ab3307d4e3e1
+ms.sourcegitcommit: 9ab422063e5a474c92ed956d42d222b90336fecb
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 02/27/2020
-ms.locfileid: "42322773"
+ms.lasthandoff: 03/11/2020
+ms.locfileid: "42600583"
 ---
 # <a name="modernize-the-classic-home-page"></a>เติมความทันสมัยโฮมเพจของคลาสสิก
 
 การปรับปรุงล่าสุดไปยังหน้าแรกของไซต์ทีม SharePoint แบบคลาสสิกมีผลต่อโฮมเพจของเว็บไซต์คลาสสิก (STS # 0) เมื่อโฮมเพจที่ประกอบด้วย*เฉพาะออกจากกล่องเริ่มต้น web part*เช่นเริ่มต้นไลบรารีเอกสารและตัวดึงข้อมูล
 
-ดูการเปลี่ยนแปลงของการเดินผ่าน[ที่นี่](https://docs.microsoft.com/en-us/sharepoint/sharepointonline/media/homepage-upgrade-gif.gif) 
+ดูการเปลี่ยนแปลงของการเดินผ่าน[ที่นี่](https://docs.microsoft.com/sharepoint/sharepointonline/media/homepage-upgrade-gif.gif) 
 
 **หมายเหตุ: ไซต์ทีมคลาสสิกที่ประกอบด้วยเนื้อหาที่กำหนดเองจะไม่ถูกปรับปรุงโดยอัตโนมัติ**
 

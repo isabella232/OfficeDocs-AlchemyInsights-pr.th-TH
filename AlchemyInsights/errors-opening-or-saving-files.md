@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000583"
 - "2685"
-ms.openlocfilehash: fdf7dbbfb3ef7b59a77365348344a5851eb0c55a
-ms.sourcegitcommit: 8deddd8518bf793925628fcab7851daec99a7f2f
+ms.openlocfilehash: 28c0c22384264229d537c2af6caabb1be4567052
+ms.sourcegitcommit: 9ab422063e5a474c92ed956d42d222b90336fecb
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 02/15/2020
-ms.locfileid: "42031633"
+ms.lasthandoff: 03/11/2020
+ms.locfileid: "42600151"
 ---
 # <a name="resolve-errors-opening-or-saving-word-files"></a>แก้ไขข้อผิดพลาดในการเปิดหรือบันทึกแฟ้ม Word
 
@@ -25,7 +25,7 @@ ms.locfileid: "42031633"
 - [ติดตั้งโปรแกรมปรับปรุง Office](https://support.office.com/article/2ab296f3-7f03-43a2-8e50-46de917611c5) สำหรับรายชื่อของโปรแกรมปรับปรุง Office ล่าสุดให้ดูที่การ[ปรับปรุงล่าสุด](https://docs.microsoft.com/officeupdates/office-updates-msi)
 - [แก้ไขปัญหาเอกสารที่เสียหายใน Word](https://docs.microsoft.com/office/troubleshoot/word/damaged-documents-in-word)
 - [ซ่อมแซมโปรแกรมประยุกต์ Office](https://support.office.com/Article/Repair-an-Office-application-7821d4b6-7c1d-4205-aa0e-a6b40c5bb88b)
-- ถ้าเอกสารมีการเปลี่ยนแปลงที่ติดตามให้ใช้คำแนะนำใน[Word ช้าหรือหยุดการตอบสนองถ้ามีการเปลี่ยนแปลงที่ติดตามมากเกินไปหรือข้อคิดเห็น](https://docs.microsoft.com/en-us/office/troubleshoot/word/word-stops-responding)เพื่อแก้ไขปัญหา
+- ถ้าเอกสารมีการเปลี่ยนแปลงที่ติดตามให้ใช้คำแนะนำใน[Word ช้าหรือหยุดการตอบสนองถ้ามีการเปลี่ยนแปลงที่ติดตามมากเกินไปหรือข้อคิดเห็น](https://docs.microsoft.com/office/troubleshoot/word/word-stops-responding)เพื่อแก้ไขปัญหา
 
 ถ้าคุณได้รับข้อผิดพลาดเช่นเดียวกับต่อไปนี้ใช้คำแนะนำใน[ข้อความข้อผิดพลาดใน Office เมื่อแฟ้มถูกบล็อกโดยการตั้งค่านโยบายรีจิสทรี](https://docs.microsoft.com/office/troubleshoot/settings/file-blocked-in-office):
 

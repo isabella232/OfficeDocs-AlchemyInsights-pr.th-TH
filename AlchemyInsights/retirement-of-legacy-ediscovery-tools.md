@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001487"
 - "3523"
-ms.openlocfilehash: c4632b52dde579b7d5b2e6e15f1583300a0bd136
-ms.sourcegitcommit: a7c17217c170ead24571421baaf5a14f1525b1a6
+ms.openlocfilehash: af9a0bd8ff4294575ac68f37d4997bb50b132ce7
+ms.sourcegitcommit: 9ab422063e5a474c92ed956d42d222b90336fecb
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 02/20/2020
-ms.locfileid: "42157740"
+ms.lasthandoff: 03/11/2020
+ms.locfileid: "42600403"
 ---
 # <a name="retirement-of-legacy-ediscovery-tools"></a>การเกษียณอายุของเครื่องมือ eDiscovery ดั้งเดิม
 
@@ -37,7 +37,7 @@ ms.locfileid: "42157740"
     - [SetHoldOnMailboxes](https://docs.microsoft.com/exchange/client-developer/web-service-reference/setholdonmailboxes-operation)
     - [GetHoldOnMailboxes](https://docs.microsoft.com/exchange/client-developer/web-service-reference/getholdonmailboxes-operation)
 
-- [โปรแกรม Office ๓๖๕ขั้นสูง eDiscovery v1.0](https://docs.microsoft.com/en-us/microsoft-365/compliance/office-365-advanced-ediscovery)
+- [โปรแกรม Office ๓๖๕ขั้นสูง eDiscovery v1.0](https://docs.microsoft.com/microsoft-365/compliance/office-365-advanced-ediscovery)
 
 **ระยะเวลาสำหรับการเกษียณอายุ**:
 - วันที่1เมษายน๒๐๒๐: คุณจะไม่สามารถสร้างการค้นหาใหม่และเก็บไว้ได้แต่คุณยังสามารถเรียกใช้แก้ไขและลบการค้นหาที่มีอยู่ได้ด้วยความเสี่ยงของคุณเอง ฝ่ายสนับสนุนของ Microsoft จะไม่สนับสนุนในตำแหน่ง eDiscovery & ในแบบ EAC
@@ -46,9 +46,9 @@ ms.locfileid: "42157740"
 
 **สำหรับข้อมูลเพิ่มเติมให้ดู**ที่:
 
- - [ย้ายการค้นหา eDiscovery ดั้งเดิมและถือเป็นศูนย์การปฏิบัติตามกฎระเบียบของ Microsoft ๓๖๕](https://docs.microsoft.com/en-us/microsoft-365/compliance/migrate-legacy-ediscovery-searches-and-holds)
- - [การเกษียณอายุของเครื่องมือ eDiscovery ดั้งเดิม](https://docs.microsoft.com/en-us/microsoft-365/compliance/legacy-ediscovery-retirement)
- - [คำถามที่พบบ่อยเกี่ยวกับ eDiscovery ในสถานที่และในสถานที่ถือ](https://docs.microsoft.com/en-us/microsoft-365/compliance/legacy-ediscovery-retirement#faqs-about-in-place-ediscovery-and-in-place-holds)
+ - [ย้ายการค้นหา eDiscovery ดั้งเดิมและถือเป็นศูนย์การปฏิบัติตามกฎระเบียบของ Microsoft ๓๖๕](https://docs.microsoft.com/microsoft-365/compliance/migrate-legacy-ediscovery-searches-and-holds)
+ - [การเกษียณอายุของเครื่องมือ eDiscovery ดั้งเดิม](https://docs.microsoft.com/microsoft-365/compliance/legacy-ediscovery-retirement)
+ - [คำถามที่พบบ่อยเกี่ยวกับ eDiscovery ในสถานที่และในสถานที่ถือ](https://docs.microsoft.com/microsoft-365/compliance/legacy-ediscovery-retirement#faqs-about-in-place-ediscovery-and-in-place-holds)
 
 
 
