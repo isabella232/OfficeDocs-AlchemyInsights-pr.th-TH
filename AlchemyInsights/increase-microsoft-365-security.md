@@ -6,17 +6,18 @@ manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9001681"
 - "3746"
-ms.openlocfilehash: 998eadb49068b0ca8001498efb97fc29c912c2a6
-ms.sourcegitcommit: 6df4460313ca033d18b59669506de1dbb7482ef9
+- "3821"
+ms.openlocfilehash: 5c1e43e6c49eda244dfdefedcd99a0cb17f74d67
+ms.sourcegitcommit: 09a46448411022829e4b83879c113c0ccfc29625
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 03/10/2020
-ms.locfileid: "42573574"
+ms.lasthandoff: 03/17/2020
+ms.locfileid: "42707462"
 ---
 # <a name="increase-microsoft-365-security"></a>เพิ่มความปลอดภัยของ Microsoft ๓๖๕
 
