@@ -11,23 +11,25 @@ ms.collection: Adm_O365
 ms.custom:
 - "3500007"
 - "3462"
-ms.openlocfilehash: a9305b175e1ca0b992c014a73705447d67e037bc
-ms.sourcegitcommit: cbbd46fa9a32873c5446d9fd5a532cea0300b795
+ms.openlocfilehash: a579b89b68bfb8432adfe64b155803eda2c3b086
+ms.sourcegitcommit: a3b42ee05224846327d353b48a8c67dab724f6eb
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 12/10/2019
-ms.locfileid: "39959513"
+ms.lasthandoff: 03/21/2020
+ms.locfileid: "42891768"
 ---
-# <a name="outlook-cannot-connect-to-public-folders"></a>Outlook ไม่สามารถเชื่อมต่อไปยังโฟลเดอร์สาธารณะ
+# <a name="outlook-cannot-connect-to-public-folders"></a>Outlook ไม่สามารถเชื่อมต่อกับโฟลเดอร์สาธารณะ
 
-ถ้าการเข้าถึงโฟลเดอร์สาธารณะไม่ทำงานสำหรับผู้ใช้ไม่กี่ให้ลองทำดังต่อไปนี้:
+ถ้าการเข้าถึงโฟลเดอร์สาธารณะไม่ทํางานสําหรับผู้ใช้บางราย ให้ลองทําดังต่อไปนี้
 
-เชื่อมต่อกับ EXO PowerShell และกำหนดค่าการ DefaultPublicFolderMailbox จดหมายบนบัญชีผู้ใช้ที่มีปัญหาเพื่อให้ตรงกับหนึ่งในบัญชีผู้ใช้ที่ทำงาน
+เชื่อมต่อกับ POWERShell EXO และกําหนดค่าพารามิเตอร์ DefaultPublicFolderMailbox ในบัญชีผู้ใช้ปัญหาให้ตรงกับพารามิเตอร์ในบัญชีผู้ใช้ที่ทํางาน
 
 ตัว อย่าง เช่น:
 
-ได้รับกล่องจดหมายผู้ใช้ , EffectivePublicFolderMailbox
+รับกล่องจดหมายทํางานผู้ใช้ | ฟุตเริ่มต้นโฟลเดอร์สาธารณะกล่องจดหมาย, ที่มีประสิทธิภาพสาธารณะโฟลเดอร์กล่องจดหมาย
 
-กล่องจดหมาย ProblemUser \<ค่าจากคำสั่งก่อนหน้านี้>
+ตั้งค่ากล่องจดหมายปัญหาผู้ใช้ -DefaultPublicFolderกล่องจดหมาย\<ค่าจากคําสั่งก่อนหน้านี้>
 
-รออย่างน้อยหนึ่งชั่วโมงสำหรับการเปลี่ยนแปลงมีผลบังคับใช้
+รออย่างน้อยหนึ่งชั่วโมงเพื่อให้การเปลี่ยนแปลงมีผล
+
+ถ้าปัญหายังคงอยู่ โปรดทําตามขั้นตอน[นี้เพื่อ](https://aka.ms/pfcte)แก้ไขปัญหาการเข้าถึงโฟลเดอร์สาธารณะโดยใช้ Outlook
