@@ -1,5 +1,5 @@
 ---
-title: DLP ไม่ทำงานตามที่คาดไว้
+title: DLP ไม่ทํางานตามที่คาดไว้
 ms.author: deniseb
 author: denisebmsft
 manager: laurawi
@@ -13,39 +13,43 @@ ms.custom:
 - "1241"
 - "3200001"
 ms.assetid: f6fcf5ad-55a1-4f25-af27-1f7c1ce06409
-ms.openlocfilehash: 102c8025571f840cf64091d75295acec50661df2
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: a56e18ddadef3a2f9056978b8542c1dba8f29665
+ms.sourcegitcommit: b0d5b68366028abcf08610672d5bc9d3b25ac433
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36530317"
+ms.lasthandoff: 03/24/2020
+ms.locfileid: "42932641"
 ---
-# <a name="dlp-not-working-as-expected"></a><span data-ttu-id="9c2a2-102">DLP ไม่ทำงานตามที่คาดไว้</span><span class="sxs-lookup"><span data-stu-id="9c2a2-102">DLP not working as expected</span></span>
+# <a name="dlp-not-working-as-expected"></a><span data-ttu-id="e60ff-102">DLP ไม่ทํางานตามที่คาดไว้</span><span class="sxs-lookup"><span data-stu-id="e60ff-102">DLP not working as expected</span></span>
 
-<span data-ttu-id="9c2a2-103">คุณกำลังมีปัญหากับ**การป้องกันการสูญเสียข้อมูล (DLP)** ใน Office 365 ไม่ทำงานตามที่คาดไว้หรือไม่</span><span class="sxs-lookup"><span data-stu-id="9c2a2-103">Are you having problems with **Data Loss Prevention (DLP)** in Office 365 not working as expected?</span></span> <span data-ttu-id="9c2a2-104">ถ้าเป็นเช่นนั้น ให้แน่ใจ ว่า**นโยบาย DLP**ของคุณถูกตั้งค่าอย่างถูกต้อง ว่า ข้อมูลของคุณประกอบด้วยอะไร**นโยบาย DLP**จะค้นหาเมื่อมีการประเมิน</span><span class="sxs-lookup"><span data-stu-id="9c2a2-104">If so, make sure that your **DLP policy** is set up correctly, and that your data contains what the **DLP policy** is looking for when it is being evaluated.</span></span>
+<span data-ttu-id="e60ff-103">**สําคัญ**: SharePoint แบบออนไลน์และลูกค้า OneDrive เรียกใช้โปรแกรมประยุกต์ที่สําคัญทางธุรกิจกับบริการที่ทํางานในพื้นหลัง</span><span class="sxs-lookup"><span data-stu-id="e60ff-103">**Important**: Many SharePoint Online and OneDrive customers run business-critical applications against the service that run in the background.</span></span> <span data-ttu-id="e60ff-104">การป้องกันข้อมูลสูญหาย (DLP) และโซลูชันการสํารองข้อมูล</span><span class="sxs-lookup"><span data-stu-id="e60ff-104">These include content migration, Data Loss Prevention (DLP), and backup solutions.</span></span> <span data-ttu-id="e60ff-105">ในช่วงเวลาที่ไม่เคยมีมาก่อนเหล่านี้ เราจะดําเนินการเพื่อให้แน่ใจว่าบริการ SharePoint Online และ OneDrive ยังคงพร้อมใช้งานและเชื่อถือได้สําหรับผู้ใช้ของคุณซึ่งขึ้นอยู่กับบริการมากกว่าที่เคยในสถานการณ์การทํางานระยะไกล</span><span class="sxs-lookup"><span data-stu-id="e60ff-105">During these unprecedented times, we are taking steps to ensure that SharePoint Online and OneDrive services remain highly available and reliable for your users who depend on the service more than ever in remote work scenarios.</span></span>
+
+<span data-ttu-id="e60ff-106">ในการสนับสนุนของวัตถุประสงค์นี้เราได้ดําเนินการจํากัดการควบคุมที่เข้มงวดมากขึ้นในปพลิเคชันพื้นหลัง (การย้ายถิ่น, DLP และโซลูชั่นการสํารองข้อมูล)</span><span class="sxs-lookup"><span data-stu-id="e60ff-106">In support of this objective, we have implemented tighter throttling limits on background apps (migration, DLP and backup solutions) during weekday daytime hours.</span></span> <span data-ttu-id="e60ff-107">คุณควรคาดหวังว่าแอปเหล่านี้จะมีปริมาณงานที่จํากัดมากในช่วงเวลาเหล่านี้</span><span class="sxs-lookup"><span data-stu-id="e60ff-107">You should expect that these apps will achieve very limited throughput during these times.</span></span> <span data-ttu-id="e60ff-108">อย่างไรก็ตามในช่วงเย็นและวันหยุดสุดสัปดาห์สําหรับภูมิภาคบริการจะพร้อมที่จะดําเนินการปริมาณการร้องขอจากแอปพื้นหลังที่สูงกว่าอย่างมีนัยสําคัญ</span><span class="sxs-lookup"><span data-stu-id="e60ff-108">However, during evening and weekend hours for the region, the service will be ready to process a significantly higher volume of requests from background apps.</span></span>
+
+ <span data-ttu-id="e60ff-109">**การตั้งค่า DLP**</span><span class="sxs-lookup"><span data-stu-id="e60ff-109">**Setting up DLP**</span></span>
+
+<span data-ttu-id="e60ff-110">คุณมีปัญหากับ**การป้องกันข้อมูลสูญหาย (DLP)** ใน Office 365 ไม่ทํางานตามที่คาดไว้หรือไม่</span><span class="sxs-lookup"><span data-stu-id="e60ff-110">Are you having problems with **Data Loss Prevention (DLP)** in Office 365 not working as expected?</span></span> <span data-ttu-id="e60ff-111">ถ้าเป็นเช่นนั้น โปรดตรวจสอบให้แน่ใจว่า**นโยบาย DLP**ของคุณถูกตั้งค่าอย่างถูกต้อง และว่า ข้อมูลของคุณประกอบด้วย**นโยบาย DLP**กําลังค้นหาเมื่อมีการประเมิน</span><span class="sxs-lookup"><span data-stu-id="e60ff-111">If so, make sure that your **DLP policy** is set up correctly, and that your data contains what the **DLP policy** is looking for when it is being evaluated.</span></span>
   
- <span data-ttu-id="9c2a2-105">**การตั้งค่า DLP**</span><span class="sxs-lookup"><span data-stu-id="9c2a2-105">**Setting up DLP**</span></span>
+<span data-ttu-id="e60ff-112">นโยบาย DLP ช่วยให้คุณสามารถระบุและปกป้องข้อมูลที่ละเอียดอ่อนในองค์กรของคุณได้</span><span class="sxs-lookup"><span data-stu-id="e60ff-112">DLP policies allows you to identify and protect sensitive information in your organization.</span></span> <span data-ttu-id="e60ff-113">เมื่อต้องการตั้งค่านโยบาย DLP ให้ใช้ข้อมูล[ที่นี่](https://docs.microsoft.com/office365/securitycompliance/prevent-data-loss#set-up-dlp)</span><span class="sxs-lookup"><span data-stu-id="e60ff-113">To setup DLP policies, use the information [here](https://docs.microsoft.com/office365/securitycompliance/prevent-data-loss#set-up-dlp).</span></span>
   
-<span data-ttu-id="9c2a2-106">นโยบาย DLP ช่วยให้คุณสามารถระบุ และปกป้องข้อมูลที่สำคัญในองค์กรของคุณ</span><span class="sxs-lookup"><span data-stu-id="9c2a2-106">DLP policies allows you to identify and protect sensitive information in your organization.</span></span> <span data-ttu-id="9c2a2-107">เมื่อต้องการตั้งค่านโยบาย DLP ใช้รายละเอียด[ที่นี่](https://docs.microsoft.com/office365/securitycompliance/prevent-data-loss#set-up-dlp)</span><span class="sxs-lookup"><span data-stu-id="9c2a2-107">To setup DLP policies, use the information [here](https://docs.microsoft.com/office365/securitycompliance/prevent-data-loss#set-up-dlp).</span></span>
+ <span data-ttu-id="e60ff-114">**สิ่งที่นโยบาย DLP มองหา**</span><span class="sxs-lookup"><span data-stu-id="e60ff-114">**What DLP policies look for**</span></span>
   
- <span data-ttu-id="9c2a2-108">**นโยบาย DLP ค้นหา**</span><span class="sxs-lookup"><span data-stu-id="9c2a2-108">**What DLP policies look for**</span></span>
+<span data-ttu-id="e60ff-115">เมื่อใช้**ชนิดข้อมูลที่สําคัญที่มีอยู่แล้วภายใน**ใน Office 365 Security and Compliance Center นโยบาย DLP จะค้นหารูปแบบและองค์ประกอบเฉพาะเมื่อตรวจพบชนิดที่ละเอียดอ่อนเหล่านี้</span><span class="sxs-lookup"><span data-stu-id="e60ff-115">When using the **built-in sensitive information types** in Office 365 Security and Compliance center, DLP policies look for specific patterns and elements when detecting these sensitive types.</span></span>
   
-<span data-ttu-id="9c2a2-109">เมื่อใช้**ชนิดของข้อมูลที่สำคัญที่มีอยู่แล้วภาย**ใน Office 365 ปลอดภัยและปฏิบัติตามกฎระเบียบศูนย์ นโยบาย DLP ค้นหาเฉพาะรูปแบบและองค์ประกอบเมื่อตรวจพบชนิดเหล่านี้เป็นความลับ</span><span class="sxs-lookup"><span data-stu-id="9c2a2-109">When using the **built-in sensitive information types** in Office 365 Security and Compliance center, DLP policies look for specific patterns and elements when detecting these sensitive types.</span></span>
+- <span data-ttu-id="e60ff-116">**ชนิดข้อมูลที่ละเอียดอ่อนในตัว**</span><span class="sxs-lookup"><span data-stu-id="e60ff-116">**Built-in Sensitive Information Types**</span></span>
+
+    <span data-ttu-id="e60ff-117">สําหรับข้อมูลเกี่ยวกับชนิดที่ละเอียดอ่อนที่มีอยู่แล้วภายใน และนโยบาย DLP จะค้นหาอะไรเมื่อตรวจหาชนิดอ่อนไหว ให้ดูที่:[ชนิดของข้อมูลที่ละเอียดอ่อนจะค้นหา](https://docs.microsoft.com/office365/securitycompliance/what-the-sensitive-information-types-look-for)</span><span class="sxs-lookup"><span data-stu-id="e60ff-117">For information on the built-in Sensitive types and what a DLP policy looks for when detecting the Sensitive type, see: [What the sensitive information types look for](https://docs.microsoft.com/office365/securitycompliance/what-the-sensitive-information-types-look-for).</span></span>
+
+- <span data-ttu-id="e60ff-118">**ชนิดข้อมูลที่ละเอียดอ่อนแบบกําหนดเอง**</span><span class="sxs-lookup"><span data-stu-id="e60ff-118">**Custom Sensitive Information Types**</span></span>
+
+    <span data-ttu-id="e60ff-119">ถ้าคุณกําลังพยายามสร้างชนิดข้อมูลที่ละเอียดอ่อนแบบกําหนดเอง ให้ใช้บทความต่อไปนี้สําหรับข้อมูลเกี่ยวกับวิธีการสร้างชนิดที่ละเอียดอ่อนแบบกําหนดเอง:[สร้างชนิดข้อมูลที่ละเอียดอ่อนแบบกําหนดเอง](https://docs.microsoft.com/office365/securitycompliance/create-a-custom-sensitive-information-type)</span><span class="sxs-lookup"><span data-stu-id="e60ff-119">If you are trying to create custom sensitive information types, use the following article for information on how to create a custom sensitive type: [Create a custom sensitive information type](https://docs.microsoft.com/office365/securitycompliance/create-a-custom-sensitive-information-type).</span></span>
+
+<span data-ttu-id="e60ff-120">**ทดสอบนโยบาย DLP**</span><span class="sxs-lookup"><span data-stu-id="e60ff-120">**Test a DLP policy**</span></span>
+
+<span data-ttu-id="e60ff-121">เมื่อต้องการทดสอบข้อมูลของคุณด้วยชนิดข้อมูลที่ละเอียดอ่อนในตัวหรือแบบกําหนดเอง ให้ใช้ตัวเลือก**ประเภทการทดสอบ**ภายใต้**Classifications** > **ชนิดข้อมูลที่ละเอียดอ่อน**</span><span class="sxs-lookup"><span data-stu-id="e60ff-121">To test your data with a built-in or custom sensitive information type, use the **Test type** option under **Classifications** > **Sensitive info types**.</span></span> <span data-ttu-id="e60ff-122">สําหรับข้อมูลเพิ่มเติม ให้ดูที่[ทดสอบชนิดข้อมูลที่ละเอียดอ่อนแบบกําหนดเอง](https://docs.microsoft.com/office365/securitycompliance/create-a-custom-sensitive-information-type#test-custom-sensitive-information-types-in-the-security--compliance-center)</span><span class="sxs-lookup"><span data-stu-id="e60ff-122">For more information, see [Test custom sensitive information types](https://docs.microsoft.com/office365/securitycompliance/create-a-custom-sensitive-information-type#test-custom-sensitive-information-types-in-the-security--compliance-center).</span></span>
+
+ <span data-ttu-id="e60ff-123">**รายงาน**</span><span class="sxs-lookup"><span data-stu-id="e60ff-123">**Reports**</span></span>
   
-- <span data-ttu-id="9c2a2-110">**ชนิดของข้อมูลที่สำคัญอยู่แล้วภายใน**</span><span class="sxs-lookup"><span data-stu-id="9c2a2-110">**Built-in Sensitive Information Types**</span></span>
+- <span data-ttu-id="e60ff-124">รับข้อมูลเชิงลึกของข้อมูลที่ละเอียดอ่อนด้วย[รายงาน DLP](https://docs.microsoft.com/office365/securitycompliance/data-loss-prevention-policies#dlp-reports)</span><span class="sxs-lookup"><span data-stu-id="e60ff-124">Get sensitive data insights with [DLP Reports.](https://docs.microsoft.com/office365/securitycompliance/data-loss-prevention-policies#dlp-reports)</span></span>
 
-    <span data-ttu-id="9c2a2-111">สำหรับข้อมูลเกี่ยวกับชนิดสำคัญมีอยู่ภายในและอะไรนโยบาย DLP ค้นหาเมื่อทำการตรวจหาชนิดใบสำคัญ ดู:[ชนิดข้อมูลที่เป็นความลับค้นหา](https://docs.microsoft.com/office365/securitycompliance/what-the-sensitive-information-types-look-for)</span><span class="sxs-lookup"><span data-stu-id="9c2a2-111">For information on the built-in Sensitive types and what a DLP policy looks for when detecting the Sensitive type, see: [What the sensitive information types look for](https://docs.microsoft.com/office365/securitycompliance/what-the-sensitive-information-types-look-for).</span></span>
-
-- <span data-ttu-id="9c2a2-112">**ชนิดข้อมูลแบบกำหนดเองที่สำคัญ**</span><span class="sxs-lookup"><span data-stu-id="9c2a2-112">**Custom Sensitive Information Types**</span></span>
-
-    <span data-ttu-id="9c2a2-113">ถ้าคุณกำลังพยายามสร้างชนิดข้อมูลแบบกำหนดเองที่สำคัญ ใช้บทความต่อไปนี้สำหรับข้อมูลเกี่ยวกับวิธีการสร้างชนิดสำคัญแบบกำหนดเอง:[สร้างชนิดข้อมูลแบบกำหนดเองที่สำคัญ](https://docs.microsoft.com/office365/securitycompliance/create-a-custom-sensitive-information-type)</span><span class="sxs-lookup"><span data-stu-id="9c2a2-113">If you are trying to create custom sensitive information types, use the following article for information on how to create a custom sensitive type: [Create a custom sensitive information type](https://docs.microsoft.com/office365/securitycompliance/create-a-custom-sensitive-information-type).</span></span>
-
-<span data-ttu-id="9c2a2-114">**ทดสอบนโยบาย DLP**</span><span class="sxs-lookup"><span data-stu-id="9c2a2-114">**Test a DLP policy**</span></span>
-
-<span data-ttu-id="9c2a2-115">เมื่อต้องการทดสอบข้อมูลของคุณ มีชนิดข้อมูลที่เป็นความลับภายใน หรือแบบกำหนดเอง ให้ใช้ตัวเลือก**ชนิดของทดสอบ**ภายใต้**การจัดประเภท** > **ชนิดของข้อมูลที่เป็นความลับ**</span><span class="sxs-lookup"><span data-stu-id="9c2a2-115">To test your data with a built-in or custom sensitive information type, use the **Test type** option under **Classifications** > **Sensitive info types**.</span></span> <span data-ttu-id="9c2a2-116">สำหรับข้อมูลเพิ่มเติม ให้ดู[ชนิดของการทดสอบข้อมูลที่อ่อนไหวแบบกำหนดเอง](https://docs.microsoft.com/office365/securitycompliance/create-a-custom-sensitive-information-type#test-custom-sensitive-information-types-in-the-security--compliance-center)</span><span class="sxs-lookup"><span data-stu-id="9c2a2-116">For more information, see [Test custom sensitive information types](https://docs.microsoft.com/office365/securitycompliance/create-a-custom-sensitive-information-type#test-custom-sensitive-information-types-in-the-security--compliance-center).</span></span>
-
- <span data-ttu-id="9c2a2-117">**รายงาน**</span><span class="sxs-lookup"><span data-stu-id="9c2a2-117">**Reports**</span></span>
-  
-- <span data-ttu-id="9c2a2-118">รับความเข้าใจข้อมูลที่สำคัญด้วย[DLP รายงาน](https://docs.microsoft.com/office365/securitycompliance/data-loss-prevention-policies#dlp-reports)</span><span class="sxs-lookup"><span data-stu-id="9c2a2-118">Get sensitive data insights with [DLP Reports.](https://docs.microsoft.com/office365/securitycompliance/data-loss-prevention-policies#dlp-reports)</span></span>
-
-- <span data-ttu-id="9c2a2-119">ดูรายละเอียดเฉพาะของเหตุการณ์ที่มีการ[รายงานเหตุการณ์](https://docs.microsoft.com/office365/securitycompliance/data-loss-prevention-policies#incident-reports)</span><span class="sxs-lookup"><span data-stu-id="9c2a2-119">See specific details of the event with an [Incident Report](https://docs.microsoft.com/office365/securitycompliance/data-loss-prevention-policies#incident-reports).</span></span>
+- <span data-ttu-id="e60ff-125">ดูรายละเอียดเฉพาะของเหตุการณ์ที่มี[รายงานเหตุการณ์](https://docs.microsoft.com/office365/securitycompliance/data-loss-prevention-policies#incident-reports)</span><span class="sxs-lookup"><span data-stu-id="e60ff-125">See specific details of the event with an [Incident Report](https://docs.microsoft.com/office365/securitycompliance/data-loss-prevention-policies#incident-reports).</span></span>
