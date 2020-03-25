@@ -1,5 +1,5 @@
 ---
-title: ลบไซต์
+title: การลบไซต์
 ms.author: pebaum
 author: pebaum
 ms.date: 6/20/2019
@@ -8,24 +8,24 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: ''
-ms.openlocfilehash: 8915d97852c5aa3be55a55ea008040e136e6016e
-ms.sourcegitcommit: 9aaa61d717e0fd475d2e9f0507c42aa40d073b5f
+ms.openlocfilehash: 01290defa0c12ba92707bf7368b371c14f2eae56
+ms.sourcegitcommit: b0d5b68366028abcf08610672d5bc9d3b25ac433
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 02/15/2020
-ms.locfileid: "42042899"
+ms.lasthandoff: 03/24/2020
+ms.locfileid: "42931317"
 ---
-# <a name="delete-a-site"></a>ลบไซต์
+# <a name="delete-a-site"></a>การลบไซต์
 
-เมื่อคุณลบไซต์จะถูกย้ายไปยังไซต์ที่[ถูกลบ](https://admin.microsoft.com/sharepoint?page=recyclebin&modern=true)และเก็บไว้เป็นเวลา๙๓วัน เมื่อต้องการลบไซต์ให้ไปที่ไซต์ที่[ใช้งานอยู่](https://admin.microsoft.com/sharepoint?page=sitemanagement&modern=true) 
+เมื่อคุณลบไซต์ ไซต์นั้นจะถูกย้ายไปยังไซต์ที่ถูกลบและจะถูกเก็บรักษาไว้เป็นเวลา 93 วัน เมื่อต้องการลบไซต์ ให้ไปที่[ไซต์ที่ใช้งานอยู่](https://admin.microsoft.com/sharepoint?page=sitemanagement&modern=true) 
 
-เมื่อคุณลบไซต์ทุกอย่างจะถูกลบออกไปรวมถึง:
+เมื่อคุณลบไซต์ ทุกอย่างภายในไซต์นั้นจะถูกลบ รวมถึง:
 
 - ไลบรารีเอกสารและแฟ้ม
 - รายการและข้อมูลรายการ
-- การตั้งค่าและประวัติของเว็บไซต์
+- การตั้งค่าไซต์และประวัติ
 - ไซต์ย่อยและเนื้อหาใดๆ
 
-คุณควรแจ้งผู้ดูแลเว็บไซต์และเจ้าของไซต์ย่อยใดๆก่อนที่จะลบไซต์เพื่อให้สามารถย้ายข้อมูลไปยังตำแหน่งที่ตั้งอื่นได้
+คุณควรแจ้งให้ผู้ดูแลไซต์และเจ้าของไซต์ย่อยทราบก่อนลบไซต์เพื่อให้พวกเขาสามารถย้ายข้อมูลไปยังตําแหน่งที่ตั้งอื่น และบอกให้ผู้ใช้ทราบเมื่อไซต์นั้นถูกลบออก
 
-สำหรับข้อมูลเพิ่มเติมให้ดูที่การ[ลบไซต์](https://docs.microsoft.com/sharepoint/delete-site-collection)
+สําหรับข้อมูลเพิ่มเติม ให้ดูที่[การลบไซต์](https://docs.microsoft.com/sharepoint/delete-site-collection)

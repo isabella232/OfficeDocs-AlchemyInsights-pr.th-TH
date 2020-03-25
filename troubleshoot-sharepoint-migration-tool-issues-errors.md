@@ -1,5 +1,5 @@
 ---
-title: การแก้ไขปัญหาเกี่ยวกับเครื่องมือการย้ายข้อมูลของ SharePoint และข้อผิดพลาด
+title: การแก้ไขปัญหาเครื่องมือการโยกย้าย SharePoint และข้อผิดพลาด
 ms.author: v-miegge
 author: v-miegge
 manager: v-cojank
@@ -13,16 +13,22 @@ ms.custom:
 - "5300030"
 - "3178"
 ms.assetid: ''
-ms.openlocfilehash: 191d30a3d226387333d330472703fe9d3f2925f9
-ms.sourcegitcommit: fc2357059b6126b2ae3571baeec1ee89a5d36bdd
+ms.openlocfilehash: f9f5694b1d88bccebdc5448d5629ea5120c52511
+ms.sourcegitcommit: b0d5b68366028abcf08610672d5bc9d3b25ac433
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 11/01/2019
-ms.locfileid: "37913745"
+ms.lasthandoff: 03/24/2020
+ms.locfileid: "42931137"
 ---
-# <a name="troubleshooting-sharepoint-migration-tool-issues-and-errors"></a>การแก้ไขปัญหาเกี่ยวกับเครื่องมือการย้ายข้อมูลของ SharePoint และข้อผิดพลาด
+# <a name="troubleshooting-sharepoint-migration-tool-issues-and-errors"></a>การแก้ไขปัญหาเครื่องมือการโยกย้าย SharePoint และข้อผิดพลาด
 
-คุณอาจพบปัญหาทั่วไปบางอย่างและข้อผิดพลาดเมื่อใช้เครื่องมือการโยกย้าย SharePoint (SPMT) โปรดอ้างอิงการเชื่อมโยงด้านล่างสำหรับข้อมูลเพิ่มเติม
+**สําคัญ**: SharePoint แบบออนไลน์และลูกค้า OneDrive เรียกใช้โปรแกรมประยุกต์ที่สําคัญทางธุรกิจกับบริการที่ทํางานในพื้นหลัง การป้องกันข้อมูลสูญหาย (DLP) และโซลูชันการสํารองข้อมูล ในช่วงเวลาที่ไม่เคยมีมาก่อนเหล่านี้ เราจะดําเนินการเพื่อให้แน่ใจว่าบริการ SharePoint Online และ OneDrive ยังคงพร้อมใช้งานและเชื่อถือได้สําหรับผู้ใช้ของคุณซึ่งขึ้นอยู่กับบริการมากกว่าที่เคยในสถานการณ์การทํางานระยะไกล
 
-* [การแก้ไขปัญหาและข้อผิดพลาด SPMT ทั่วไป](https://docs.microsoft.com/sharepointmigration/troubleshooting-common-spmt-issues)
+ในการสนับสนุนของวัตถุประสงค์นี้เราได้ดําเนินการจํากัดการควบคุมที่เข้มงวดมากขึ้นในปพลิเคชันพื้นหลัง (การย้ายถิ่น, DLP และโซลูชั่นการสํารองข้อมูล) คุณควรคาดหวังว่าแอปเหล่านี้จะมีปริมาณงานที่จํากัดมากในช่วงเวลาเหล่านี้ อย่างไรก็ตามในช่วงเย็นและวันหยุดสุดสัปดาห์สําหรับภูมิภาคบริการจะพร้อมที่จะดําเนินการปริมาณการร้องขอจากแอปพื้นหลังที่สูงกว่าอย่างมีนัยสําคัญ
+
+**ปัญหาทั่วไปและข้อผิดพลาด**
+
+คุณอาจพบปัญหาทั่วไปและข้อผิดพลาดบางอย่างเมื่อใช้เครื่องมือการโยกย้าย SharePoint (SPMT) โปรดอ้างอิงลิงก์ด้านล่างสําหรับข้อมูลเพิ่มเติม
+
+* [การแก้ไขปัญหาและข้อผิดพลาดของ SPMT ทั่วไป](https://docs.microsoft.com/sharepointmigration/troubleshooting-common-spmt-issues)
 * [การแก้ไขปัญหาการติดตั้ง SPMT](https://docs.microsoft.com/sharepointmigration/spmt-install-issues)

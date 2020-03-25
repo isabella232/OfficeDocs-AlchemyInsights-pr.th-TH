@@ -1,42 +1,37 @@
 ---
-title: โยกย้ายตัวเลือกไปยัง SharePoint แบบออนไลน์
+title: ประสิทธิภาพการโยกย้าย SharePoint
 ms.author: pebaum
-author: v-miegge
-manager: v-cojank
-ms.date: 11/04/2019
+author: pebaum
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+localization_priority: Priority
+ms.assetid: 686e8f18-b871-4dd2-864f-8562947ab583
 ms.collection: Adm_O365
-ms.assetid: c8c339c9-2e50-4daa-aa91-3eb5053e2bc6
-ms.openlocfilehash: 830b39c51658cbc02f4be81acdfdf3b164a8df70
+ms.custom:
+- "5300030"
+- "2700"
+ms.openlocfilehash: 812444589d5a5bf766bbc6f466077d4ca829d79f
 ms.sourcegitcommit: b0d5b68366028abcf08610672d5bc9d3b25ac433
 ms.translationtype: MT
 ms.contentlocale: th-TH
 ms.lasthandoff: 03/24/2020
-ms.locfileid: "42932749"
+ms.locfileid: "42932407"
 ---
-# <a name="migrate-options-to-sharepoint-online"></a>โยกย้ายตัวเลือกไปยัง SharePoint แบบออนไลน์
+# <a name="sharepoint-migration-performance"></a>ประสิทธิภาพการโยกย้าย SharePoint
 
 **สําคัญ**: SharePoint แบบออนไลน์และลูกค้า OneDrive เรียกใช้โปรแกรมประยุกต์ที่สําคัญทางธุรกิจกับบริการที่ทํางานในพื้นหลัง การป้องกันข้อมูลสูญหาย (DLP) และโซลูชันการสํารองข้อมูล ในช่วงเวลาที่ไม่เคยมีมาก่อนเหล่านี้ เราจะดําเนินการเพื่อให้แน่ใจว่าบริการ SharePoint Online และ OneDrive ยังคงพร้อมใช้งานและเชื่อถือได้สําหรับผู้ใช้ของคุณซึ่งขึ้นอยู่กับบริการมากกว่าที่เคยในสถานการณ์การทํางานระยะไกล
 
 ในการสนับสนุนของวัตถุประสงค์นี้เราได้ดําเนินการจํากัดการควบคุมที่เข้มงวดมากขึ้นในปพลิเคชันพื้นหลัง (การย้ายถิ่น, DLP และโซลูชั่นการสํารองข้อมูล) คุณควรคาดหวังว่าแอปเหล่านี้จะมีปริมาณงานที่จํากัดมากในช่วงเวลาเหล่านี้ อย่างไรก็ตามในช่วงเย็นและวันหยุดสุดสัปดาห์สําหรับภูมิภาคบริการจะพร้อมที่จะดําเนินการปริมาณการร้องขอจากแอปพื้นหลังที่สูงกว่าอย่างมีนัยสําคัญ
 
-**ตัวเลือกการโยกย้าย**
+**ประสิทธิภาพการโยกย้าย**
 
-มีตัวเลือกต่างๆ ที่จะโยกย้ายเนื้อหาไปยัง SharePoint Online ขึ้นอยู่กับขนาดและปริมาณของไฟล์ที่คุณต้องการย้าย โปรดดูรายการของตัวเลือก[ที่อยู่ที่นี่](https://docs.microsoft.com/sharepointmigration/migrate-to-sharepoint-online)
+ประสิทธิภาพการโยกย้ายอาจได้รับผลกระทบจากโครงสร้างพื้นฐานของเครือข่าย ขนาดไฟล์ เวลาการย้าย และการควบคุมปริมาณ การทําความเข้าใจสิ่งเหล่านี้จะช่วยให้คุณวางแผนและเพิ่มประสิทธิภาพในการย้ายข้อมูล
 
-สําหรับข้อมูลเพิ่มเติมเกี่ยวกับการย้ายข้อมูลเนื้อหา โปรดไปที่ลิงก์ด้านล่าง
-
-- [เครื่องมือการโยกย้าย SharePoint](https://docs.microsoft.com/sharepointmigration/introducing-the-sharepoint-migration-tool)
-
-- [เริ่มต้นใช้งานตัวจัดการการย้าย](https://docs.microsoft.com/sharepointmigration/mm-get-started)
+สําหรับข้อมูลเพิ่มเติมโปรดไปที่ลิงค์ด้านล่าง
 
 - [ความเร็วการโยกย้ายของ Sharepoint แบบออนไลน์และ ODB](https://docs.microsoft.com/sharepointmigration/sharepoint-online-and-onedrive-migration-speed)
 
 - [หลีกเลี่ยงการถูกควบคุมปริมาณหรือถูกบล็อกใน SharePoint แบบออนไลน์](https://docs.microsoft.com/sharepoint/dev/general-development/how-to-avoid-getting-throttled-or-blocked-in-sharepoint-online)
 
-- [เครื่องมือการประเมินการโยกย้าย SharePoint (SMAT)](https://www.microsoft.com/download/details.aspx?id=53598&amp;751be11f-ede8-5a0c-058c-2ee190a24fa6=True)
-
-**หมายเหตุ**: ขณะนี้เครื่องมือการโยกย้าย SharePoint สนับสนุนการย้ายจาก SharePoint 2010 และ 2013 เท่านั้น เวอร์ชัน 2016 หรือ 2019 ไม่ได้รับการสนับสนุนในขณะนี้
+- [ดาวน์โหลด และติดตั้งเครื่องมือการโยกย้าย SharePoint](https://docs.microsoft.com/sharepointmigration/introducing-the-sharepoint-migration-tool)
