@@ -11,14 +11,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "2605"
 - "9000701"
-ms.openlocfilehash: e1d5f07a10fc014ac8b983bd6dd426c13fc7b807
-ms.sourcegitcommit: 7d787b8c5af223e2711b4c2a2ca55ce2bdc25aea
+ms.openlocfilehash: 47e9aa76f8624ce3ddf4cfd03637b5b2714eb435
+ms.sourcegitcommit: d02e2b73aa7d0453d7baca1ea5a186cf6081d022
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 03/19/2020
-ms.locfileid: "42856486"
+ms.lasthandoff: 03/27/2020
+ms.locfileid: "43030419"
 ---
 # <a name="teams-common-issues-and-resolutions"></a>ปัญหาทั่วไปและวิธีแก้ปัญหาของทีม
+
+**สําคัญ**: เนื่องจากการใช้งาน Teams เพิ่มขึ้นเมื่อเร็วๆ นี้ คุณจะไม่สามารถกําหนดนโยบาย Teams ให้กับ Teams ได้ และอาจไม่มีสิทธิ์เข้าถึงคุณลักษณะบางอย่างของ Teams เช่น การโทรและการประชุมทางเสียง
+
+**ปัญหาทั่วไปและวิธีแก้ปัญหา**
 
 สําหรับคําตอบที่เฉพาะเจาะจงมากขึ้น ให้ลองทําอีกคําถามหนึ่งเพื่อแสดงข้อผิดพลาดที่คุณเห็นหรือคุณลักษณะของ Teams ที่คุณใช้อยู่
 
