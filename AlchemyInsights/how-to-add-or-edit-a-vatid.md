@@ -1,5 +1,5 @@
 ---
-title: วิธีการเพิ่มหรือแก้ไข VatID
+title: วิธีการเพิ่มหรือแก้ไข VATID
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -12,27 +12,31 @@ ms.custom:
 - "664"
 - "1500034"
 ms.assetid: ec278e2b-cc7a-43be-8af5-f381a50d7471
-ms.openlocfilehash: ff4471727b38b6d43b9639b551f92b87e9e9360c
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: e19d680f5688fe9c5e263019c20f10c678d7f7e5
+ms.sourcegitcommit: 92e9a649532f5231ceedcafc4d14b8ad18d517c2
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36664339"
+ms.lasthandoff: 03/31/2020
+ms.locfileid: "43059755"
 ---
-# <a name="how-to-add-or-edit-a-vatid"></a>วิธีการเพิ่มหรือแก้ไข VatID
+# <a name="how-to-add-or-edit-a-vatid"></a>วิธีการเพิ่มหรือแก้ไข VATID
 
-1. ในศูนย์ดูแล Microsoft ๓๖๕ให้ไปที่หน้า[บริการผลิตภัณฑ์](https://go.microsoft.com/fwlink/p/?linkid=842054)**สำหรับการเรียกเก็บเงิน** \>
+**หมายเหตุ**: ถ้าคุณอยู่ในประเทศที่ใช้ภาษีมูลค่าเพิ่ม (VAT) เช่นสหราชอาณาจักร Microsoft ออกใบแจ้งหนี้คํานวณ VAT สําหรับคุณ และใช้ยอดเงินกับใบแจ้งหนี้ของคุณ สําหรับข้อมูลเพิ่มเติม โปรดดูที่[การปฏิเสธความรับผิดชอบของ VIES](https://go.microsoft.com/fwlink/?LinkID=841741)ที่เผยแพร่โดยคณะกรรมการยุโรป
 
-2. ค้นหาบัตรการสมัครสมาชิกสำหรับการสมัครใช้งานที่คุณต้องการอัปเดต
+**การเพิ่มหรือแก้ไข VATID**
 
-3. ในส่วนการ**ตั้งค่า _ Amp_ การดำเนินการ**เลือก**แก้ไขที่อยู่การใช้บริการ**
+1. ในศูนย์การจัดการ Microsoft 365 ไปที่หน้า[บริการ&ผลิตภัณฑ์](https://go.microsoft.com/fwlink/p/?linkid=842054)**การเรียกเก็บเงิน**\>
 
-4. บนหน้า**แก้ไขที่อยู่ของการใช้บริการ**ให้ป้อนหมายเลข vat ของคุณในกล่อง**หมายเลข Vat**แล้วเลือก**บันทึก**
+2. ค้นหาบัตรการสมัครใช้งานสําหรับการสมัครใช้งานที่คุณต้องการอัปเดต
 
-    เมื่อเสร็จสมบูรณ์แล้ว VAT จะไม่ถูกเรียกเก็บเงินในบิลถัดไปของคุณ
+3. ในส่วน**การดําเนินการ&การตั้งค่า**ให้เลือก**แก้ไขที่อยู่การใช้บริการ**
 
-หากต้องการเรียนรู้เพิ่มเติมโปรดดู[ภาษีที่ฉันจะถูกเรียกเก็บสำหรับ Office ๓๖๕หรือไม่](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/what-tax-will-i-be-charged)
+4. บนหน้า**แก้ไขที่อยู่การใช้บริการของคุณ**ให้ใส่รหัส VAT ของคุณในกล่อง**หมายเลข VAT**แล้วเลือก**บันทึก**
 
-**แหล่งข้อมูลเพิ่มเติม**
+    เมื่อเสร็จสิ้นแล้ว VAT จะไม่ถูกเรียกเก็บในใบเรียกเก็บเงินถัดไปของคุณ
 
-[เพิ่มหมายเลข VAT ของคุณ](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/what-tax-will-i-be-charged?view=o365-worldwide#add-your-vat-id-eu-countries-only)
+เมื่อต้องการเรียนรู้เพิ่มเติม ให้ดูที่[ฉันจะเรียกเก็บภาษีใดสําหรับ Office 365](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/what-tax-will-i-be-charged)
+
+**ทรัพยากรเพิ่มเติม**
+
+[เพิ่มรหัส VAT ของคุณ](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/what-tax-will-i-be-charged?view=o365-worldwide#add-your-vat-id-eu-countries-only)

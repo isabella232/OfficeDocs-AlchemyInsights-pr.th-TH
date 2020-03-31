@@ -1,5 +1,5 @@
 ---
-title: อัพเดตรายละเอียดการชำระเงิน
+title: อัปเดตข้อมูลบัตรเครดิต
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -11,33 +11,33 @@ ms.collection: Adm_O365
 ms.custom:
 - "428"
 - "1500016"
-ms.openlocfilehash: f30607571ec13d1f31d774bd78c33a69d856118d
-ms.sourcegitcommit: df4c12727ce9c53b1abdc13c48c25cc00b73eb57
+ms.openlocfilehash: b5f22ebd28afb742e483576009a7844c0058e918
+ms.sourcegitcommit: 92e9a649532f5231ceedcafc4d14b8ad18d517c2
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 11/01/2019
-ms.locfileid: "37921833"
+ms.lasthandoff: 03/31/2020
+ms.locfileid: "43059899"
 ---
-# <a name="update-payment-details"></a>อัพเดตรายละเอียดการชำระเงิน
+# <a name="update-credit-card-information"></a>อัปเดตข้อมูลบัตรเครดิต
 
-1. ในศูนย์ดูแลของ Microsoft ๓๖๕ไปที่หน้า[วิธีการชำระเงินสำหรับการ](https://go.microsoft.com/fwlink/p/?linkid=2018806)**เรียกเก็บเงิน** \>
+1. ในศูนย์การจัดการ Microsoft 365 ไปที่หน้า[วิธีการชําระเงิน](https://go.microsoft.com/fwlink/p/?linkid=2018806)**สําหรับการเรียกเก็บเงิน**\>
 
     > [!NOTE]
-    > หากคุณพบการวนรอบที่ส่งกลับไปยังหน้าแรกของผู้ดูแลระบบก่อนที่การอัปเดตเสร็จสมบูรณ์ให้ลองใช้โหมด Inprivate หรือไม่ระบุตัวตน
+    > หากคุณพบการวนซ้ําที่ส่งกลับคุณกลับไปยังหน้าแรกของผู้ดูแลระบบก่อนที่การอัปเดตของคุณจะเสร็จสมบูรณ์ ให้ลองลองใช้โหมด Incognito
   
 2. เลือกบัตรเครดิตที่คุณต้องการอัปเดต
 
     > [!NOTE]
-    > หากผู้ดูแลระบบรายอื่นเพิ่มวิธีการชำระเงินคุณจะไม่สามารถอัพเดตข้อมูลบัตรเครดิตหรือบัญชีธนาคารได้ หากบัตรเครดิตกำลังจะหมดอายุและผู้ดูแลระบบรายอื่นไม่สามารถอัปเดตได้คุณสามารถป้องกันการหยุดชะงักของบริการโดยการเพิ่มบัตรเครดิตอื่นหรือบัญชีธนาคารใหม่สำหรับการสมัครใช้งานโดยเลือก**เพิ่มวิธีการชำระเงิน**
+    > หากผู้ดูแลระบบรายอื่นเพิ่มวิธีการชําระเงิน คุณจะไม่สามารถอัปเดตข้อมูลบัตรเครดิตหรือบัญชีธนาคารได้ ถ้าบัตรเครดิตกําลังจะหมดอายุ และผู้ดูแลระบบอีกคนไม่สามารถปรับปรุงได้**Add payment method**
   
-3. ในบานหน้าต่าง**รายละเอียดวิธีการชำระเงิน**ให้เลือก**แก้ไข**
+3. ในบานหน้าต่าง**รายละเอียดวิธีการชําระเงิน**ให้เลือก**แก้ไข**
 
-4. ทำการปรับปรุงแล้วเลือก**บันทึก**
+4. ทําการปรับปรุง แล้วเลือก**บันทึก**
 
-5. หากต้องการนำวิธีการชำระเงินนี้ออกให้เลือก**ลบ**
+5. เมื่อต้องการลบวิธีการชําระเงินนี้ ให้เลือก**ลบ**
 
 **การแก้ไขปัญหา**
 
-หากคุณพบปัญหาเกี่ยวกับการโหลดหน้าเว็บให้ลองเปิดเพจในเบราว์เซอร์ที่แตกต่างกันหรือลองเปิดหน้าต่างเบราว์เซอร์ส่วนตัวเช่นหน้าต่างแบบ InPrivate ใน Microsoft Edge หรือหน้าต่างที่ไม่ระบุตนใน Google Chrome 
+หากคุณประสบปัญหาเกี่ยวกับการโหลดหน้าเว็บ ให้ลองเปิดหน้าเว็บในเบราว์เซอร์อื่น หรือลองเปิดหน้าต่างเบราว์เซอร์ส่วนตัว เช่น หน้าต่างแบบ InPrivate ใน Microsoft Edge หรือหน้าต่างไม่ระบุตัวตนใน Google Chrome 
 
-สำหรับข้อมูลเพิ่มเติมโปรดดูที่[เพิ่มปรับปรุงหรือลบบัตรเครดิตหรือบัญชีธนาคารใน Office ๓๖๕สำหรับธุรกิจและการ](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account)[แก้ไขปัญหาบัตรเครดิตและบัญชีธนาคาร](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account#troubleshooting-credit-cards-and-bank-accounts)
+สําหรับข้อมูลเพิ่มเติม ให้ดูที่[เพิ่ม อัปเดต หรือเอาบัตรเครดิตหรือบัญชีธนาคารใน Office 365 สําหรับธุรกิจ](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account)และ[การแก้ไขปัญหาบัตรเครดิตและบัญชีธนาคาร](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account#troubleshooting-credit-cards-and-bank-accounts)
