@@ -1,5 +1,5 @@
 ---
-title: วิธีการกำหนดสิทธิ์สำหรับรายการหรือไลบรารี SharePoint
+title: วิธีการกําหนดสิทธิ์สําหรับรายการ SharePoint หรือไลบรารี
 ms.author: v-todmc
 author: todmccoy
 manager: mnirkhe
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000191"
 - "2734"
-ms.openlocfilehash: 1220bbbcdd1316585746b6f0ad9f95f24373cb6e
-ms.sourcegitcommit: df4c12727ce9c53b1abdc13c48c25cc00b73eb57
+ms.openlocfilehash: 738e17393af628d5b19aa7e047a736f78615ff57
+ms.sourcegitcommit: 9923ce61344e22c4490549b12f65fa2896490b1f
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 11/01/2019
-ms.locfileid: "37922527"
+ms.lasthandoff: 04/01/2020
+ms.locfileid: "43100346"
 ---
-# <a name="turn-external-sharing-on-or-off-for-a-site"></a>เปิดหรือปิดการใช้งานร่วมกันภายนอกสำหรับไซต์
+# <a name="turn-external-sharing-on-or-off-for-a-site"></a>การเปิดหรือปิดการแชร์ภายนอกสําหรับไซต์
 
-คุณต้องเป็นผู้ดูแลส่วนกลางหรือ SharePoint ใน Office ๓๖๕เพื่อเปลี่ยนแปลงการตั้งค่าการใช้ร่วมกันภายนอกสำหรับไซต์ (ก่อนหน้านี้เรียกว่า "ไซต์คอลเลกชัน") เจ้าของไซต์ไม่ได้รับอนุญาตให้เปลี่ยนการตั้งค่านี้ 
+คุณต้องเป็นส่วนกลางหรือผู้ดูแลระบบ SharePoint ใน Office 365 เพื่อเปลี่ยนการตั้งค่าการแชร์ภายนอกสําหรับไซต์ (ก่อนหน้านี้เรียกว่า "ไซต์คอลเลกชัน") เจ้าของไซต์ไม่ได้รับอนุญาตให้เปลี่ยนแปลงการตั้งค่านี้ 
 
-สำหรับข้อมูลเพิ่มเติมโปรดดูที่[การเปิดหรือปิดการใช้งานร่วมกันภายนอกสำหรับไซต์](https://docs.microsoft.com/sharepoint/change-external-sharing-site)
+สําหรับข้อมูลเพิ่มเติม ให้ดูที่[การเปิดหรือปิดการใช้ร่วมกันภายนอกสําหรับไซต์](https://docs.microsoft.com/sharepoint/change-external-sharing-site)
