@@ -1,24 +1,24 @@
 ---
-title: การชําระเงินถูกปฏิเสธ
-ms.author: cmcatee
-author: cmcatee-MSFT
+title: การชําระเงินของคุณถูกปฏิเสธ
+ms.author: pebaum
+author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
-- "3564"
 - "9001506"
-ms.openlocfilehash: 3fadef232adfbb71769c089bb5a0d3ae9c70711d
+- "4732"
+ms.openlocfilehash: 88b754a45fe80804bfd4784bc0552499fb0371e7
 ms.sourcegitcommit: 18df9a170f6a0bda191c0ae763d2a5069dd22efa
 ms.translationtype: MT
 ms.contentlocale: th-TH
 ms.lasthandoff: 04/07/2020
-ms.locfileid: "43160835"
+ms.locfileid: "43161025"
 ---
-# <a name="payment-declined"></a>การชําระเงินถูกปฏิเสธ
+# <a name="your-payment-was-declined"></a>การชําระเงินของคุณถูกปฏิเสธ
 
 Microsoft จะพยายามเรียกเก็บเงินบัตรของคุณหลายครั้งภายใน 3-4 สัปดาห์หลังจากวันที่ออกใบแจ้งหนี้  หากคุณได้รับการแจ้งเตือนการปฏิเสธเพียง 1 หรือ 2 ครั้งสําหรับช่วงเวลาที่เรียกเก็บเงินนี้ Microsoft จะพยายามเรียกเก็บเงินเครื่องมือชําระเงินของคุณอีกครั้งโดยอัตโนมัติ  
 
