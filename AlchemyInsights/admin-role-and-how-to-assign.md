@@ -1,5 +1,5 @@
 ---
-title: บทบาทผู้ดูแลระบบและวิธีการกำหนด
+title: บทบาทผู้ดูแลระบบและวิธีการกําหนด
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -7,26 +7,21 @@ ms.date: 2/24/2018
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "2"
 - "1200008"
 ms.assetid: ca7d439d-ffe7-4351-bfd1-b022e4056138
-ms.openlocfilehash: 151f2def68b53838929f1ebeaa61a24439815aa0
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: 5bee71c66ae81fda95df152405dfd689055a10cf
+ms.sourcegitcommit: 940169c0edf638b5086d70cc275049f01dcff3cf
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "36737108"
+ms.lasthandoff: 04/08/2020
+ms.locfileid: "43183416"
 ---
-# <a name="what-are-admin-roles-and-how-do-you-assign-them"></a>บทบาทของผู้ดูแลระบบคืออะไรและคุณจะกำหนดได้อย่างไร
+# <a name="admin-roles"></a>บทบาทผู้ดูแลระบบ
 
-ดูเหมือนว่าคุณมีคำถามบางอย่างเกี่ยวกับบทบาทผู้ดูแลระบบ บทความเหล่านี้ควรตอบคำถามของคุณทั้งหมด
-  
-- [เกี่ยวกับบทบาทผู้ดูแลระบบ](https://docs.microsoft.com/office365/admin/add-users/about-admin-roles)
+- เลือก[บทบาท](https://admin.microsoft.com/Adminportal/Home#/roles)ในศูนย์การจัดการเพื่อกําหนดหรือเรียนรู้เพิ่มเติมเกี่ยวกับบทบาทผู้ดูแลระบบ
 
-- [กำหนดบทบาทผู้ดูแลระบบ](https://docs.microsoft.com/office365/admin/add-users/assign-admin-roles)
-
-ไม่ได้ตอบคำถามของคุณ? ไม่มีปัญหา! ใช้ตัวเลือก "ให้เราโทรหาคุณ" เพื่อพูดคุยกับวิศวกรฝ่ายสนับสนุน
-  
+- จากนั้นเลือกชื่อบทบาท และคลิก**กําหนดบทบาท**หรือคลิก**เปรียบเทียบบทบาท**เพื่อเรียนรู้เพิ่มเติม

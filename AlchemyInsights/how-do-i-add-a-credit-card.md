@@ -14,10 +14,10 @@ ms.custom:
 - "1500001"
 ms.assetid: fbce8401-1a2c-4372-af0b-d855c1cd5f31
 ms.openlocfilehash: 14c1c3af556eff16abbc4d1e0f8046ce1aa8343f
-ms.sourcegitcommit: 9923ce61344e22c4490549b12f65fa2896490b1f
+ms.sourcegitcommit: 940169c0edf638b5086d70cc275049f01dcff3cf
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 04/01/2020
+ms.lasthandoff: 04/08/2020
 ms.locfileid: "43100310"
 ---
 # <a name="how-do-i-add-a-credit-card"></a>ฉันจะเพิ่มบัตรเครดิตได้อย่างไร

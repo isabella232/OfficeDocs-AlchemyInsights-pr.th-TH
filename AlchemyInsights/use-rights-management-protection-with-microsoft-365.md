@@ -1,5 +1,5 @@
 ---
-title: ใช้การป้องกันการจัดการสิทธิ์กับ Microsoft ๓๖๕
+title: ใช้การคุ้มครองการจัดการสิทธิ์กับ Microsoft 365
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -13,18 +13,18 @@ ms.custom:
 - "3737"
 - "3820"
 ms.openlocfilehash: e7c28230c90f61dd61b48941786c9218e06b6495
-ms.sourcegitcommit: 09a46448411022829e4b83879c113c0ccfc29625
+ms.sourcegitcommit: 940169c0edf638b5086d70cc275049f01dcff3cf
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 03/17/2020
+ms.lasthandoff: 04/08/2020
 ms.locfileid: "42707391"
 ---
-# <a name="use-rights-management-protection-with-microsoft-365"></a>ใช้การป้องกันการจัดการสิทธิ์กับ Microsoft ๓๖๕
+# <a name="use-rights-management-protection-with-microsoft-365"></a>ใช้การคุ้มครองการจัดการสิทธิ์กับ Microsoft 365
 
-คุณต้องเรียกใช้[บริการการจัดการสิทธิ์ (RMS)](https://docs.microsoft.com/azure/information-protection/what-is-azure-rms)ก่อนที่คุณสามารถใช้คุณลักษณะการจัดการสิทธิ์ในข้อมูล (IRM) ของ Office ๓๖๕โปรแกรมประยุกต์และบริการ
+คุณต้องเปิดใช้งาน[บริการการจัดการสิทธิ์ (RMS)](https://docs.microsoft.com/azure/information-protection/what-is-azure-rms)ก่อนที่คุณจะสามารถใช้คุณลักษณะการจัดการสิทธิ์ในข้อมูล (IRM) ของโปรแกรมประยุกต์และบริการ Office 365
 
-1. สำหรับข้อกำหนดสิทธิ์การใช้งานและการเรียกใช้จาก**microsoft ๓๖๕ admin ศูนย์**ดู[วิธีการเปิดใช้งานการป้องกันการจัดการสิทธิ์จาก Microsoft ๓๖๕ผู้ดูแลระบบศูนย์](https://docs.microsoft.com/azure/information-protection/activate-office365) **หมายเหตุ**: ต้องใช้บัญชีการจัดการส่วนกลาง
+1. สําหรับข้อกําหนดสิทธิ์การใช้งานและการเปิดใช้งานจาก**ศูนย์การจัดการ Microsoft 365**ให้ดูที่[วิธีการเปิดใช้งานการป้องกันการจัดการสิทธิ์จากศูนย์การจัดการสิทธิ์ของ Microsoft 365](https://docs.microsoft.com/azure/information-protection/activate-office365) **หมายเหตุ**: ต้องการบัญชีการดูแลระบบส่วนกลาง
 
-2. สำหรับข้อกำหนดสิทธิ์การใช้งานและการเรียกใช้จาก**พอร์ทัล azure**ดู[วิธีการเปิดใช้งานบริการการป้องกันการจัดการสิทธิ์จาก azure Portal](https://docs.microsoft.com/azure/information-protection/activate-azure) **หมายเหตุ**: ไม่ต้องใช้บัญชีผู้ดูแลส่วนกลาง
+2. สําหรับข้อกําหนดสิทธิ์การใช้งานและการเปิดใช้งานจาก**พอร์ทัล Azure**ให้ดูที่[วิธีการเปิดใช้งานบริการการป้องกันการจัดการสิทธิ์จาก Azure Portal](https://docs.microsoft.com/azure/information-protection/activate-azure) **หมายเหตุ**: ไม่จําเป็นต้องใช้บัญชีผู้ดูแลส่วนกลาง
 
-สำหรับข้อมูลเพิ่มเติมโปรดดู[ที่ตัวชี้ไปยังข้อมูลเกี่ยวกับการจัดการสิทธิ์ในศูนย์ดูแล](https://docs.microsoft.com/office365/enterprise/activate-rms-in-office-365)
+สําหรับข้อมูลเพิ่มเติม ให้ดูที่[ตัวชี้ไปยังข้อมูลเกี่ยวกับการจัดการสิทธิ์ในศูนย์การจัดการ](https://docs.microsoft.com/office365/enterprise/activate-rms-in-office-365)
