@@ -1,5 +1,5 @@
 ---
-title: วิธีการเพิ่ม หรือลดสิทธิ์การใช้งาน
+title: วิธีการเพิ่มหรือลดสิทธิ์การใช้งาน
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -12,38 +12,35 @@ ms.custom:
 - "319"
 - "1500007"
 ms.assetid: 69797abf-3e60-4be2-b0a7-26022a14397e
-ms.openlocfilehash: a478162fcdcad2e588436dd834063f9e07f4c69f
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: 863fdad0b5259e5d327181f1fb3f7b1039602586
+ms.sourcegitcommit: 0776c450a6279d8cf6386942e3844f14c4d2aa55
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36664303"
+ms.lasthandoff: 04/09/2020
+ms.locfileid: "43207392"
 ---
-# <a name="how-to-add-or-reduce-licenses"></a><span data-ttu-id="bcad9-102">วิธีการเพิ่ม หรือลดสิทธิ์การใช้งาน</span><span class="sxs-lookup"><span data-stu-id="bcad9-102">How to add or reduce licenses</span></span>
+# <a name="how-to-add-or-reduce-licenses"></a><span data-ttu-id="e72c9-102">วิธีการเพิ่มหรือลดสิทธิ์การใช้งาน</span><span class="sxs-lookup"><span data-stu-id="e72c9-102">How to add or reduce licenses</span></span>
 
-<span data-ttu-id="bcad9-103">ต่อไปนี้คือวิธีการเอาสิทธิ์การใช้งานของ Office 365 หรือซื้อสิทธิ์การใช้งานเพิ่มเติม</span><span class="sxs-lookup"><span data-stu-id="bcad9-103">Here's how to remove Office 365 licenses or purchase more licenses.</span></span>
+<span data-ttu-id="e72c9-103">ต่อไปนี้เป็นวิธีการเพิ่ม/เอาสิทธิ์การใช้งานออก</span><span class="sxs-lookup"><span data-stu-id="e72c9-103">Here's how to Add/Remove licenses.</span></span>
   
-1. <span data-ttu-id="bcad9-104">ในศูนย์ดูแล ไป**การเรียกเก็บเงิน**\>หน้า[บริการ & ผลิตภัณฑ์](https://go.microsoft.com/fwlink/p/?linkid=842054)</span><span class="sxs-lookup"><span data-stu-id="bcad9-104">In the admin center, go to the **Billing** \> [Products & services](https://go.microsoft.com/fwlink/p/?linkid=842054) page.</span></span>
+1. <span data-ttu-id="e72c9-104">ไปที่**[การสมัครใช้งาน](https://portal.office.com/adminportal/home#/subscriptions)>การเรียกเก็บเงิน**</span><span class="sxs-lookup"><span data-stu-id="e72c9-104">Navigate to **Billing > [Subscriptions](https://portal.office.com/adminportal/home#/subscriptions)**.</span></span>
 
-2. <span data-ttu-id="bcad9-105">เลือกการบอกรับเป็นสมาชิกที่คุณต้องการเพิ่ม/เอาออกสิทธิ์การใช้งาน</span><span class="sxs-lookup"><span data-stu-id="bcad9-105">Choose the subscription from which you want to add/remove licenses.</span></span>
+2. <span data-ttu-id="e72c9-105">เลือกการสมัครใช้งานที่คุณต้องการเพิ่ม/เอาสิทธิ์การใช้งานออก</span><span class="sxs-lookup"><span data-stu-id="e72c9-105">Choose the subscription from which you want to add/remove licenses.</span></span>
 
-3. <span data-ttu-id="bcad9-106">เลือก**เพิ่ม/เอาออกสิทธิ์การใช้งาน**</span><span class="sxs-lookup"><span data-stu-id="bcad9-106">Select **Add/Remove licenses**.</span></span>
+3. <span data-ttu-id="e72c9-106">คลิก**เพิ่ม/เอาสิทธิ์การใช้งานออก**</span><span class="sxs-lookup"><span data-stu-id="e72c9-106">Click **Add/Remove licenses**.</span></span>
 
-4. <span data-ttu-id="bcad9-107">ป้อนจำนวนของผู้ใช้ที่จำเป็น</span><span class="sxs-lookup"><span data-stu-id="bcad9-107">Enter the total number of users needed.</span></span>
+4. <span data-ttu-id="e72c9-107">ป้อนจํานวนผู้ใช้ทั้งหมดที่ต้องการ</span><span class="sxs-lookup"><span data-stu-id="e72c9-107">Enter the total number of users needed.</span></span> <span data-ttu-id="e72c9-108">ตัวอย่างเช่น ถ้าคุณมีสิทธิ์การใช้งาน 25 ใบอยู่ในขณะนี้ และคุณต้องการเอา 5 ออก ให้ป้อน 20 ในฟิลด์นี้</span><span class="sxs-lookup"><span data-stu-id="e72c9-108">For example, if you currently have 25 licenses and you want to remove 5, enter 20 in this field.</span></span>
 
-    <span data-ttu-id="bcad9-108">ตัวอย่างเช่น ถ้าคุณอยู่ในขณะนี้มีสิทธิ์การใช้งาน 25 และคุณต้องการเอา 5 ป้อน 20 ในฟิลด์นี้</span><span class="sxs-lookup"><span data-stu-id="bcad9-108">For example, if you currently have 25 licenses and you want to remove 5, enter 20 in this field.</span></span>
+5. <span data-ttu-id="e72c9-109">คลิก**ส่งการเปลี่ยนแปลง**</span><span class="sxs-lookup"><span data-stu-id="e72c9-109">Click **Submit change**.</span></span>
 
-5. <span data-ttu-id="bcad9-109">เลือก**ส่งการเปลี่ยนแปลง**</span><span class="sxs-lookup"><span data-stu-id="bcad9-109">Choose **Submit change**.</span></span>
+<span data-ttu-id="e72c9-110">**หมายเหตุ**: ค่าธรรมเนียมใหม่ (การเพิ่มขึ้นของใบอนุญาต) หรือเครดิต (ลดใบอนุญาต) จะแสดงขึ้นในใบเรียกเก็บเงินถัดไปของคุณ</span><span class="sxs-lookup"><span data-stu-id="e72c9-110">**Note**: Any new charge (license increase) or credit (license decrease) will show up on your next bill.</span></span>
 
-> [!NOTE]
-> <span data-ttu-id="bcad9-110">ค่าธรรมเนียมใหม่ (การเพิ่มสิทธิ์การใช้งาน) หรือเครดิต (สิทธิ์การใช้งานลดลง) ใด ๆ จะแสดงให้เห็นในบิลถัดไป</span><span class="sxs-lookup"><span data-stu-id="bcad9-110">Any new charge (license increase) or credit (license decrease) will show up on your next bill.</span></span>
+<span data-ttu-id="e72c9-111">สําหรับข้อมูลเกี่ยวกับวิธีการกําหนดสิทธิ์การใช้งาน ให้ดูที่[มอบหมายสิทธิ์การใช้งานให้กับผู้ใช้](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users)</span><span class="sxs-lookup"><span data-stu-id="e72c9-111">For information on how to assign licenses, see [Assign licenses to users](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users).</span></span>
 
-<span data-ttu-id="bcad9-111">เมื่อต้องการเรียนรู้เพิ่มเติม ดู[ซื้อสิทธิ์การใช้งานสำหรับ Office 365 ของคุณสำหรับการสมัครใช้งานทางธุรกิจ](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/buy-licenses)</span><span class="sxs-lookup"><span data-stu-id="bcad9-111">To learn more, see [Buy licenses for your Office 365 for business subscription](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/buy-licenses).</span></span>
-
- <span data-ttu-id="bcad9-112">**ทรัพยากรเพิ่มเติม**</span><span class="sxs-lookup"><span data-stu-id="bcad9-112">**Additional resources**</span></span>
+ <span data-ttu-id="e72c9-112">**ทรัพยากร**</span><span class="sxs-lookup"><span data-stu-id="e72c9-112">**Resources**</span></span>
   
-- [<span data-ttu-id="bcad9-113">เอาสิทธิ์การใช้งานจาก Office 365 ของคุณสำหรับการสมัครใช้งานทางธุรกิจ</span><span class="sxs-lookup"><span data-stu-id="bcad9-113">Remove licenses from your Office 365 for business subscription</span></span>](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/remove-licenses-from-subscription)
+- [<span data-ttu-id="e72c9-113">จัดการใบอนุญาตการสมัครใช้งาน - ซื้อหรือเอาออก</span><span class="sxs-lookup"><span data-stu-id="e72c9-113">Manage subscription licenses - buy or remove</span></span>](https://docs.microsoft.com/en-us/microsoft-365/commerce/licenses/buy-licenses)
 
-- [<span data-ttu-id="bcad9-114">ยกเลิก Office 365 สำหรับธุรกิจ</span><span class="sxs-lookup"><span data-stu-id="bcad9-114">Cancel Office 365 for business</span></span>](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/cancel-your-subscription)
+- [<span data-ttu-id="e72c9-114">ยกเลิก Office 365 สําหรับธุรกิจ</span><span class="sxs-lookup"><span data-stu-id="e72c9-114">Cancel Office 365 for business</span></span>](https://support.office.com/article/Cancel-Office-365-for-business-b1bc0bef-4608-4601-813a-cdd9f746709a)
 
-- [<span data-ttu-id="bcad9-115">ซื้อ Office 365 อื่นสำหรับการสมัครใช้งานทางธุรกิจ</span><span class="sxs-lookup"><span data-stu-id="bcad9-115">Buy another Office 365 for business subscription</span></span>](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/buy-another-subscription)
+- [<span data-ttu-id="e72c9-115">ซื้อการสมัครใช้งาน Office 365 สําหรับธุรกิจอื่น</span><span class="sxs-lookup"><span data-stu-id="e72c9-115">Buy another Office 365 for business subscription</span></span>](https://support.office.com/article/Buy-another-Office-365-for-business-subscription-fab3b86c-3359-4042-8692-5d4dc7550b7c)
