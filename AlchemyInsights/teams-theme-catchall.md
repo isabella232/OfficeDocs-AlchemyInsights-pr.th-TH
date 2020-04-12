@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "2605"
 - "9000701"
-ms.openlocfilehash: 47e9aa76f8624ce3ddf4cfd03637b5b2714eb435
-ms.sourcegitcommit: d02e2b73aa7d0453d7baca1ea5a186cf6081d022
+ms.openlocfilehash: a46a455b3986993ada50fb807a99e8c99e4c4fbe
+ms.sourcegitcommit: 6010e6b55f6d3057f9038979cda3987df12aae93
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 03/27/2020
-ms.locfileid: "43030419"
+ms.lasthandoff: 04/11/2020
+ms.locfileid: "43231474"
 ---
 # <a name="teams-common-issues-and-resolutions"></a>ปัญหาทั่วไปและวิธีแก้ปัญหาของทีม
 
@@ -24,13 +24,12 @@ ms.locfileid: "43030419"
 
 **ปัญหาทั่วไปและวิธีแก้ปัญหา**
 
-สําหรับคําตอบที่เฉพาะเจาะจงมากขึ้น ให้ลองทําอีกคําถามหนึ่งเพื่อแสดงข้อผิดพลาดที่คุณเห็นหรือคุณลักษณะของ Teams ที่คุณใช้อยู่
+**ไม่ใหม่กับทีม?**  เช็คเอาท์ [เริ่มต้นใช้งาน Microsoft Teams](https://docs.microsoft.com/microsoftteams/get-started-with-teams-quick-start) อย่าลืมตรวจสอบวิดีโอการฝึกอบรมผู้ดูแลระบบ IT ของ Microsoft Teams IT, Decks และข้อมูลเพิ่มเติม
 
 ถ้าคุณต้องการความช่วยเหลือในการปรับใช้ Teams เพื่อสนับสนุนพนักงานระยะไกล (WFH) เนื่องจาก COVID-19 โปรดตรวจทาน[สนับสนุนผู้ปฏิบัติงานระยะไกลโดยใช้ Microsoft Teams](https://docs.microsoft.com/microsoftteams/support-remote-work-with-teams) นอกจากนี้ คุณอาจมีสิทธิ์ได้รับความช่วยเหลือในการปรับใช้จากโปรแกรม FastTrack ของ Microsoft 365 - โปรดเยี่ยมชม[ศูนย์ FastTrack](https://www.microsoft.com/fasttrack)เพื่อส่งคําขอ
 
 สําหรับลูกค้าของทีมทั้งหมด:
 
-- **ไม่ใหม่กับทีม?** เช็คเอาท์[เริ่มต้นใช้งาน Microsoft Teams](https://docs.microsoft.com/microsoftteams/get-started-with-teams-quick-start)
 - **เปิดใช้งานการเข้าถึงของผู้เยี่ยมชมของ Teams:** ตรวจสอบ[รายการตรวจสอบการเข้าถึงของแขกของ Teams](https://docs.microsoft.com/microsoftteams/guest-access-checklist)และตรวจสอบให้แน่ใจว่าขั้นตอนทั้งหมดเสร็จสมบูรณ์ ทรัพยากรเพิ่มเติม:
     - [การทําความเข้าใจเกี่ยวกับการเข้าถึงแขกใน Microsoft Teams](https://docs.microsoft.com/microsoftteams/guest-access)
     - [เซ็ตอัพ – รายการตรวจสอบการเข้าถึงแขกของ Microsoft Teams](https://docs.microsoft.com/microsoftteams/guest-access-checklist)
@@ -38,67 +37,16 @@ ms.locfileid: "43030419"
 
 - **การประชุมและการโทรเข้าของทีม**: ต้องการความช่วยเหลือในการเปิดหรือตั้งค่าการประชุมทางเสียงใน Microsoft Teams หรือไม่ มีผู้ใช้รายนี้ถูกสร้างขึ้นเมื่อเร็วๆ นี้หรือไม่? ถ้าเป็นเช่นนั้นคุณจะต้องรอ 2 -- 24 ชั่วโมง**เพื่อให้การตั้งค่ามีผลบังคับใช้** 
 
-    เมื่อต้องการตรวจสอบว่า ผู้ใช้ได้รับสิทธิ์การใช้งานสําหรับการประชุมทางเสียง และมีหมายเลขโทรเริ่มต้น:
-    1.    ไปที่ ผู้ใช้ที่ใช้งานอยู่ แล้วเลือกผู้ใช้ที่ต้องการ
-    2.    ขึ้นอยู่กับเวอร์ชันของศูนย์การจัดการ ให้เลือก**สิทธิ์การใช้งานและแอป**หรือคลิก**แก้ไข**เกี่ยวกับ**สิทธิ์การใช้งานผลิตภัณฑ์**
-    3.    ยืนยันว่า ผู้ใช้มีสิทธิ์การใช้งานที่เลือกสําหรับการประชุมทางเสียง Microsoft Teams และ Skype สําหรับธุรกิจออนไลน์ (แผน 2)
-    4.    ศูนย์การจัดการผู้ใช้ คลิก**แสดงทั้งหมด**แล้วคลิก**ทีม**
-    5.    ในศูนย์การจัดการ Microsoft Teams ให้คลิก**พอร์ทัลแบบดั้งเดิม**
-    6.    ใน ศูนย์การจัดการ Skype for Business ให้คลิก**การประชุมทางเสียง**และ**ผู้ใช้**
-    7.    เลือกผู้ใช้ที่ต้องการและตรวจสอบว่าผู้ใช้มีหมายเลขโทรเริ่มต้น
-    
-    สําหรับข้อมูลเพิ่มเติม โปรดดู[แผนการเรียกสําหรับ Office 365](https://docs.microsoft.com/microsoftteams/calling-plans-for-office-365)หรือติดต่อทีม Microsoft Commerce Billing สําหรับความช่วยเหลือเกี่ยวกับคําถามเกี่ยวกับการให้สิทธิ์การใช้งาน
+เมื่อต้องการตรวจสอบว่าผู้ใช้ได้รับสิทธิ์การใช้งานสําหรับการประชุมทางเสียงและมีหมายเลขโทรเข้าเริ่มต้น ให้ดูที่ การประชุม Teams และการเรียกเลขหมายใน[ใน ปัญหาและวิธีแก้ปัญหาทั่วไปของ Teams](https://docs.microsoft.com/microsoftteams/known-issues)
 
-    แหล่งข้อมูลเพิ่มเติม:
+สําหรับข้อมูลเพิ่มเติมเกี่ยวกับการประชุม ให้ดูที่[การเรียกแผนสําหรับ Office 365](https://docs.microsoft.com/microsoftteams/calling-plans-for-office-365)หรือโทรหาทีม Microsoft Commerce Billing เพื่อขอความช่วยเหลือเกี่ยวกับคําถามเกี่ยวกับการให้สิทธิ์การใช้งาน ดูเพิ่มเติม:
 
-    - [การประชุมและการประชุมใน Microsoft Teams](https://docs.microsoft.com/microsoftteams/deploy-meetings-microsoft-teams-landing-page)
-    - [การประชุมทางเสียงใน Office 365](https://docs.microsoft.com/microsoftteams/audio-conferencing-in-office-365)
-
-- **สิทธิ์การใช้งานสําหรับการสํารวจ Teams**: ประสบการณ์สํารวจของทีม Microsoft ช่วยให้ผู้ใช้ในองค์กรของคุณที่มี Azure Active Directory (AAD) และไม่ได้รับสิทธิ์การใช้งานสําหรับทีมเริ่มต้นประสบการณ์สํารวจของ Teams ผู้ดูแลระบบสามารถเปิดหรือปิดคุณลักษณะนี้สําหรับผู้ใช้ในองค์กรของตนได้ [ก่อนหน้านี้ Microsoft ทดลองใช้เมฆเชิงพาณิชย์](https://docs.microsoft.com/microsoftteams/iw-trial-teams)ถูกแทนที่ด้วยประสบการณ์สํารวจทีม
-
-    แหล่งข้อมูลเพิ่มเติม:
-
-    - [วิธีที่ผู้ใช้ลงชื่อสมัครใช้สําหรับประสบการณ์สํารวจของทีม](https://docs.microsoft.com/microsoftteams/teams-exploratory#how-users-sign-up-for-the-teams-exploratory-experience)
-    - [จัดการประสบการณ์สํารวจทีม](https://docs.microsoft.com/microsoftteams/teams-exploratory#manage-the-teams-exploratory-experience)
-
-- **แชนแนลส่วนตัว**: แชนเนลส่วนตัวใน Microsoft Teams จะสร้างพื้นที่ที่เน้นสําหรับการทํางานร่วมกันภายในทีมของคุณ เฉพาะผู้ใช้ในทีมที่เป็นเจ้าของหรือสมาชิกของช่องส่วนตัวเท่านั้นที่สามารถเข้าถึงช่องได้ ทุกคนรวมถึงแขกสามารถเพิ่มเป็นสมาชิกของช่องส่วนตัวได้ตราบใดที่พวกเขาเป็นสมาชิกของทีมอยู่แล้ว
-
-    คุณอาจต้องการใช้ช่องส่วนตัวถ้าคุณต้องการจํากัดการทํางานร่วมกันกับผู้ที่ต้องการทราบหรือถ้าคุณต้องการอํานวยความสะดวกในการติดต่อสื่อสารระหว่างกลุ่มบุคคลที่ได้รับมอบหมายให้กับโครงการเฉพาะโดยไม่ต้องสร้างทีมเพิ่มเติมในการจัดการ
-
-    แหล่งข้อมูลเพิ่มเติม:
-    - [การสร้างและสมาชิกช่องส่วนตัว](https://docs.microsoft.com/microsoftteams/private-channels#private-channel-creation-and-membership)
-    - [จัดการการเป็นสมาชิกและการตั้งค่าของช่องส่วนตัว](https://docs.microsoft.com/microsoftteams/private-channels#manage-private-channel-membership-and-settings)
+ - [การประชุมและการประชุมใน Microsoft Teams](https://docs.microsoft.com/microsoftteams/deploy-meetings-microsoft-teams-landing-page)
+ - [การประชุมทางเสียงใน Office 365](https://docs.microsoft.com/microsoftteams/audio-conferencing-in-office-365)
 
 - **นโยบายการประชุม**: นโยบายการประชุมจะใช้เพื่อควบคุมคุณลักษณะที่พร้อมใช้งานสําหรับผู้เข้าร่วมการประชุมที่จัดกําหนดการโดยผู้ใช้ในองค์กรของคุณ หลังจากที่คุณสร้างนโยบายและทําการเปลี่ยนแปลงของคุณแล้ว 
-    - **เปลี่ยนหรือสร้างนโยบายการประชุม**: เมื่อต้องการเปลี่ยนแปลงหรือสร้างนโยบายการประชุม ให้ไปที่**ศูนย์การจัดการ Microsoft Teams > การประชุม > นโยบายการประชุม** เลือกนโยบายจากรายการหรือเลือกเพิ่ม หากคุณกําลังสร้างนโยบายใหม่ ให้เพิ่มชื่อและคําอธิบาย ชื่อต้องไม่มีอักขระพิเศษหรือยาวเกิน 64 อักขระ เลือกการตั้งค่าของคุณ แล้วคลิก**บันทึก**
-
-        ตัวอย่างเช่น สมมติว่าคุณมีผู้ใช้กลุ่มหนึ่งและต้องการจํากัดแบนด์วิดท์ที่การประชุมต้องการ คุณจะสร้างนโยบายที่กําหนดเองใหม่ชื่อ "แบนด์วิดท์ที่จํากัด" และปิดใช้งานการตั้งค่าต่อไปนี้:
-
-        ภายใต้**เสียงวิดีโอ&**:
-        - ปิดอนุญาตการบันทึกแบบคลาวด์
-        - ปิดอนุญาตวิดีโอ IP
-
-        ภายใต้**การแบ่งปันเนื้อหา**:
-        - ปิดใช้โหมดการแชร์หน้าจอ
-        - ปิดอนุญาตไวท์บอร์ด
-        - ปิดอนุญาตโน้ตที่แชร์
-
-        กําหนดนโยบายให้กับผู้ใช้
-
-- **การกําหนดนโยบายการประชุมให้กับผู้ใช้**
-
-    1. ในการนําทางด้านซ้ายของศูนย์การจัดการ Microsoft Teams ให้ไปที่**ผู้ใช้**แล้วคลิกผู้ใช้
-    2. เลือกผู้ใช้ด้วยการคลิกที่ด้านซ้ายของชื่อผู้ใช้ แล้วคลิก**แก้ไขการตั้งค่า**
-    3. ภายใต้**นโยบายการประชุม**ให้เลือกนโยบายที่คุณต้องการมอบหมาย แล้วคลิก**นําไปใช้**
-
-    หากต้องการกําหนดนโยบายให้กับผู้ใช้หลายคนในแต่ละครั้ง ให้ดูที่[แก้ไขการตั้งค่าผู้ใช้ Teams เป็นกลุ่ม](https://docs.microsoft.com/microsoftteams/edit-user-settings-in-bulk) หรือคุณสามารถทําสิ่งต่อไปนี้
-
-    1. ในการนําทางด้านซ้ายของศูนย์การจัดการ Microsoft Teams ให้ไปที่**การประชุม > นโยบายการประชุม**
-    2. เลือกนโยบายโดยคลิกด้านซ้ายของชื่อนโยบาย
-    3. เลือก**จัดการผู้ใช้**
-    4. ในบานหน้าต่าง**จัดการผู้ใช้**ให้ค้นหาชื่อผู้ใช้โดยใช้ชื่อที่ใช้แสดง หรือตามชื่อผู้ใช้**Add** ทําซ้ําขั้นตอนนี้สําหรับผู้ใช้แต่ละรายที่คุณต้องการเพิ่ม
-    5. หลังจากที่คุณเพิ่มผู้ใช้เสร็จแล้ว ให้คลิก**บันทึก**
-
+    - **เมื่อต้องการเปลี่ยนหรือสร้างนโยบายการประชุม**ให้ดูที่ การประชุม Teams และการโทรเข้าใน[ปัญหาและวิธีแก้ปัญหาทั่วไปของ Teams](https://docs.microsoft.com/microsoftteams/known-issues) 
+  
 - **การแก้ไขปัญหาแป้นกดหมายเลขที่ขาดหายไป:**  
 
     - ตรวจสอบให้แน่ใจว่าผู้ใช้ได้รับมอบหมาย[สิทธิ์การใช้งาน Teams](https://docs.microsoft.com/MicrosoftTeams/assign-teams-licenses)แล้ว
@@ -107,10 +55,12 @@ ms.locfileid: "43030419"
 
 - **การแก้ไขปัญหาการลงชื่อเข้าใช้ของ Teams:** ก่อนอื่น ให้ตรวจสอบ[ให้แน่ใจว่าบริการ Microsoft Teams นั้นดีต่อสุขภาพ](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/servicehealth) จากนั้นให้ตรวจสอบรหัสข้อผิดพลาดทั่วไปและรีวิว[เพราะเหตุใดฉันจึงมีปัญหาในการลงชื่อเข้าใช้ Microsoft Teams](https://support.office.com/article/a02f683b-61a3-4008-9447-ee60c5593b0f)  นอกจากนี้ คุณอาจต้องตรวจทาน[รูปแบบข้อมูลเฉพาะตัวและการรับรองความถูกต้องใน Microsoft Teams](https://docs.microsoft.com/MicrosoftTeams/identify-models-authentication)
 
-**สําหรับลูกค้าการศึกษา:**
+- **ใบอนุญาตสํารวจทีม:**  
+    - [วิธีที่ผู้ใช้ลงชื่อสมัครใช้สําหรับประสบการณ์สํารวจของทีม](https://docs.microsoft.com/microsoftteams/teams-exploratory#how-users-sign-up-for-the-teams-exploratory-experience) 
+    - [จัดการประสบการณ์สํารวจทีม](https://docs.microsoft.com/microsoftteams/teams-exploratory#manage-the-teams-exploratory-experience) 
 
-หากผู้ใช้เห็นข้อความ "คุณพลาด!" ตรวจสอบให้แน่ใจว่าได้[เปิดใช้งาน Microsoft Teams สําหรับโรงเรียนของคุณ](https://docs.microsoft.com/microsoft-365/education/intune-edu-trial/enable-microsoft-teams) ในผู้เช่า EDU ทีม Microsoft ไม่ได้เปิดใช้งานโดยค่าเริ่มต้น คุณจะต้องเปิดมันเป็นครั้งแรก
+- **ช่องส่วนตัว:**
+    - [การสร้างและสมาชิกช่องส่วนตัว](https://docs.microsoft.com/microsoftteams/private-channels#private-channel-creation-and-membership) 
+    - [จัดการการเป็นสมาชิกและการตั้งค่าของช่องส่วนตัว](https://docs.microsoft.com/microsoftteams/private-channels#manage-private-channel-membership-and-settings) 
 
-จากนั้น ให้ทบทวน[การสอนและการเรียนรู้ระยะไกลใน Office 365 Education](https://support.office.com/article/remote-teaching-and-learning-in-office-365-education-f651ccae-7b65-478b-8366-51bb884025c4)เพื่อเรียนรู้คําแนะนําที่ทันสมัยที่สุดในการตั้งค่าโรงเรียน
-
-สุดท้ายให้แน่ใจว่าได้ตรวจสอบ Microsoft ทีมฝึกอบรมผู้ดูแลระบบ IT วิดีโอ, ชั้น, และอีกมากมายที่นี่: https://docs.microsoft.com/MicrosoftTeams/itadmin-readiness#technical-training. 
+**หมายเหตุ**: สําหรับคําตอบที่เฉพาะเจาะจงมากขึ้น ให้ลองทําการสร้างคําถามใหม่ให้แสดงข้อผิดพลาดที่คุณเห็นหรือคุณลักษณะ Teams ที่คุณกําลังใช้อยู่
