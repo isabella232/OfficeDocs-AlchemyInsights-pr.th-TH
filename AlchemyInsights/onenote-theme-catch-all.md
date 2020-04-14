@@ -1,5 +1,5 @@
 ---
-title: ชุดรูปแบบของ OneNote จับทั้งหมด
+title: ธีม OneNote จับทั้งหมด
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,23 +11,27 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000755"
 - "2695"
-ms.openlocfilehash: 6a1b769f3560b2497a0010342015f027f2027120
-ms.sourcegitcommit: 4fa8325e569dbec489d0518f69df0022626e1d2f
+ms.openlocfilehash: cd3bb39b4a105a1391a373dfed7c2c247a980673
+ms.sourcegitcommit: c061f1dfa6f557a9ec083dd030b73b121d9864ea
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 09/18/2019
-ms.locfileid: "37027185"
+ms.lasthandoff: 04/14/2020
+ms.locfileid: "43286405"
 ---
-# <a name="common-issues-and-resolutions-with-onenote"></a>ปัญหาทั่วไปและความละเอียดกับ OneNote
+# <a name="common-issues-and-resolutions-with-onenote"></a>ปัญหาทั่วไปและวิธีแก้ปัญหาด้วย OneNote
 
-สำหรับคำตอบที่เฉพาะเจาะจงมากขึ้นเกี่ยวกับปัญหาของ OneNote ให้ใส่คำถามของคุณสั้นๆและรวมถึงข้อผิดพลาดที่คุณกำลังเห็นหรือคุณลักษณะที่คุณกำลังใช้อยู่
+ต่อไปนี้เป็นหัวข้อ OneNote ที่ร้องขอบ่อย
 
-ต่อไปนี้เป็นหัวข้อ OneNote ที่ร้องขอบ่อย:
+- [แก้ไขปัญหาการซิงค์](https://support.office.com/article/299495ef-66d1-448f-90c1-b785a6968d45)- เพื่อแก้ไขปัญหาทั่วไปที่เกี่ยวข้องกับการซิงค์ OneNote โปรดใช้ขั้นตอนใน[แก้ไขปัญหา เมื่อคุณไม่สามารถซิงค์ OneNote](https://support.office.com/article/Fix-issues-when-you-can-t-sync-OneNote-299495ef-66d1-448f-90c1-b785a6968d45)
 
-- [สร้างสมุดบันทึกใน OneNote](https://support.office.com/article/create-a-notebook-in-onenote-6be33cf9-f7c3-4421-9d74-469a259952d3)
-- [อะไรคือความแตกต่างระหว่าง OneNote และ OneNote ๒๐๑๖?](https://support.office.com/article/a624e692-b78b-4c09-b07f-46181958118f)
-- [ติดตั้ง OneNote ๒๐๑๖](https://support.office.com/article/c08068d8-b517-4464-9ff2-132cb9c45c08)
-- [แก้ไขปัญหาการซิงค์](https://support.office.com/article/299495ef-66d1-448f-90c1-b785a6968d45)
-- [ย้ายสมุดบันทึกไปยัง cloud](https://support.office.com/article/d5c28b91-7b9c-45be-8f0c-529bdbba019a)
-- [การแก้ปัญหาการย้ายสมุดบันทึกไปยัง cloud](https://support.office.com/article/70528107-11dc-4f3f-b695-b150059dfd78)
-- [ส่งออกและนำเข้าสมุดบันทึก OneNote](https://support.office.com/article/a4b60da5-8f33-464e-b1ba-b95ce540f309)
+- ใช้[OneNote ใน Teams](https://support.microsoft.com/en-us/office/add-a-onenote-notebook-to-teams-0ec78cc3-ba3b-4279-a88e-aa40af9865c2) **Note**: ขณะนี้ OneNote ใน Teams เป็นแบบอ่านอย่างเดียวสําหรับผู้เช่าในเชิงพาณิชย์และการศึกษา เมื่อต้องการแก้ไข โปรดใช้ OneNote สําหรับเว็บหรือแอป OneNote บนเดสก์ท็อป
+
+- [ใช้สมุดบันทึกสําหรับชั้นเรียนของ OneNote ใน Teams](https://support.office.com/article/bd77f11f-27cd-4d41-bfbd-2b11799f1440)จะตอบคําถามเกี่ยวกับการตั้งค่าสมุดบันทึกสําหรับชั้นเรียนใน Teams
+
+- [ย้ายสมุดบันทึกไปยัง Cloud](https://support.office.com/article/d5c28b91-7b9c-45be-8f0c-529bdbba019a)
+
+- [แก้ไขปัญหาการย้ายสมุดบันทึกไปยังระบบคลาวด์](https://support.office.com/article/70528107-11dc-4f3f-b695-b150059dfd78)
+
+- [ติดตั้ง OneNote 2016](https://support.office.com/article/c08068d8-b517-4464-9ff2-132cb9c45c08) - เริ่มต้นในเดือนมีนาคม 2020 เมื่อคุณติดตั้ง Office 365 หรือ Office 2019 แอป OneNote บนเดสก์ท็อปจะได้รับการติดตั้งควบคู่ไปกับแอป Word, PowerPoint และ Excel บนเดสก์ท็อป
+
+- [ส่งออกและนําเข้าสมุดบันทึก OneNote](https://support.office.com/article/a4b60da5-8f33-464e-b1ba-b95ce540f309)
