@@ -11,19 +11,26 @@ ms.collection: Adm_O365
 ms.custom:
 - "5300030"
 - "3179"
-ms.openlocfilehash: 4f8e20090521ebe1808bb66717108e479cf68892
-ms.sourcegitcommit: 926e4ab6aa64ddc7a244de633421eb2b817541f2
+ms.openlocfilehash: 6c56f07e986ca776600120560e53587371341185
+ms.sourcegitcommit: e6e9340a19ea7ac0a54fa941507904b4859b9ef7
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 03/26/2020
-ms.locfileid: "42958557"
+ms.lasthandoff: 04/16/2020
+ms.locfileid: "43537760"
 ---
 # <a name="general-migration-performance-guidance"></a>คําแนะนําเกี่ยวกับประสิทธิภาพการโยกย้ายทั่วไป
 
+
 **สําคัญ**: ในช่วงเวลาที่ไม่เคยมีมาก่อนเหล่านี้ เราจะดําเนินการเพื่อให้แน่ใจว่า SharePoint Online และบริการ OneDrive ยังคงพร้อมใช้งานสูง – โปรดเยี่ยมชม[SharePoint Online ชั่วคราวปรับปรุงคุณลักษณะชั่วคราว](https://aka.ms/ODSPAdjustments)สําหรับข้อมูลเพิ่มเติม
 
-**คําแนะนําเกี่ยวกับประสิทธิภาพการโยกย้าย**
+**ตัวเลือกการโยกย้าย**
 
-ประสิทธิภาพการโยกย้ายอาจได้รับผลกระทบจากโครงสร้างพื้นฐานของเครือข่าย ขนาดไฟล์ เวลาการย้าย และการควบคุมปริมาณ การทําความเข้าใจสิ่งเหล่านี้จะช่วยให้คุณวางแผนและเพิ่มประสิทธิภาพในการย้ายข้อมูล
+มีตัวเลือกต่างๆ ที่จะโยกย้ายเนื้อหาไปยัง SharePoint Online ขึ้นอยู่กับขนาดและปริมาณของไฟล์ที่คุณต้องการย้าย โปรดดูรายการของตัวเลือก[ที่อยู่ที่นี่](https://docs.microsoft.com/sharepointmigration/migrate-to-sharepoint-online)
 
-- [คําแนะนําเกี่ยวกับประสิทธิภาพการโยกย้ายทั่วไป](https://docs.microsoft.com/sharepointmigration/sharepoint-online-and-onedrive-migration-speed)
+สําหรับข้อมูลเพิ่มเติมเกี่ยวกับการย้ายข้อมูลเนื้อหา โปรดไปที่ลิงก์ด้านล่าง
+
+- [เครื่องมือการโยกย้าย SharePoint](https://docs.microsoft.com/sharepointmigration/introducing-the-sharepoint-migration-tool)
+
+- [เริ่มต้นใช้งานตัวจัดการการย้าย](https://docs.microsoft.com/sharepointmigration/mm-get-started)
+
+- [มูเวอร์](https://mover.io/)
