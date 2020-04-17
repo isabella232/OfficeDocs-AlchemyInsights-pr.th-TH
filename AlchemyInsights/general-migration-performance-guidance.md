@@ -11,19 +11,26 @@ ms.collection: Adm_O365
 ms.custom:
 - "5300030"
 - "3179"
-ms.openlocfilehash: 4f8e20090521ebe1808bb66717108e479cf68892
-ms.sourcegitcommit: 926e4ab6aa64ddc7a244de633421eb2b817541f2
+ms.openlocfilehash: 6c56f07e986ca776600120560e53587371341185
+ms.sourcegitcommit: e6e9340a19ea7ac0a54fa941507904b4859b9ef7
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 03/26/2020
-ms.locfileid: "42958557"
+ms.lasthandoff: 04/16/2020
+ms.locfileid: "43537760"
 ---
-# <a name="general-migration-performance-guidance"></a><span data-ttu-id="4b396-102">คําแนะนําเกี่ยวกับประสิทธิภาพการโยกย้ายทั่วไป</span><span class="sxs-lookup"><span data-stu-id="4b396-102">General migration performance guidance</span></span>
+# <a name="general-migration-performance-guidance"></a><span data-ttu-id="e0443-102">คําแนะนําเกี่ยวกับประสิทธิภาพการโยกย้ายทั่วไป</span><span class="sxs-lookup"><span data-stu-id="e0443-102">General migration performance guidance</span></span>
 
-<span data-ttu-id="4b396-103">**สําคัญ**: ในช่วงเวลาที่ไม่เคยมีมาก่อนเหล่านี้ เราจะดําเนินการเพื่อให้แน่ใจว่า SharePoint Online และบริการ OneDrive ยังคงพร้อมใช้งานสูง – โปรดเยี่ยมชม[SharePoint Online ชั่วคราวปรับปรุงคุณลักษณะชั่วคราว](https://aka.ms/ODSPAdjustments)สําหรับข้อมูลเพิ่มเติม</span><span class="sxs-lookup"><span data-stu-id="4b396-103">**Important**: During these unprecedented times, we are taking steps to ensure that SharePoint Online and OneDrive services remain highly available – Please visit [SharePoint Online Temporary Feature Adjustments](https://aka.ms/ODSPAdjustments) for more information.</span></span>
 
-<span data-ttu-id="4b396-104">**คําแนะนําเกี่ยวกับประสิทธิภาพการโยกย้าย**</span><span class="sxs-lookup"><span data-stu-id="4b396-104">**Migration performance guidance**</span></span>
+<span data-ttu-id="e0443-103">**สําคัญ**: ในช่วงเวลาที่ไม่เคยมีมาก่อนเหล่านี้ เราจะดําเนินการเพื่อให้แน่ใจว่า SharePoint Online และบริการ OneDrive ยังคงพร้อมใช้งานสูง – โปรดเยี่ยมชม[SharePoint Online ชั่วคราวปรับปรุงคุณลักษณะชั่วคราว](https://aka.ms/ODSPAdjustments)สําหรับข้อมูลเพิ่มเติม</span><span class="sxs-lookup"><span data-stu-id="e0443-103">**Important**: During these unprecedented times, we are taking steps to ensure that SharePoint Online and OneDrive services remain highly available – Please visit [SharePoint Online Temporary Feature Adjustments](https://aka.ms/ODSPAdjustments) for more information.</span></span>
 
-<span data-ttu-id="4b396-105">ประสิทธิภาพการโยกย้ายอาจได้รับผลกระทบจากโครงสร้างพื้นฐานของเครือข่าย ขนาดไฟล์ เวลาการย้าย และการควบคุมปริมาณ</span><span class="sxs-lookup"><span data-stu-id="4b396-105">Migration performance can be impacted by network infrastructure, file size, migration time, and throttling.</span></span> <span data-ttu-id="4b396-106">การทําความเข้าใจสิ่งเหล่านี้จะช่วยให้คุณวางแผนและเพิ่มประสิทธิภาพในการย้ายข้อมูล</span><span class="sxs-lookup"><span data-stu-id="4b396-106">Understanding these will help you plan and maximize the efficiency of your migration.</span></span>
+<span data-ttu-id="e0443-104">**ตัวเลือกการโยกย้าย**</span><span class="sxs-lookup"><span data-stu-id="e0443-104">**Migration options**</span></span>
 
-- [<span data-ttu-id="4b396-107">คําแนะนําเกี่ยวกับประสิทธิภาพการโยกย้ายทั่วไป</span><span class="sxs-lookup"><span data-stu-id="4b396-107">General migration performance guidance</span></span>](https://docs.microsoft.com/sharepointmigration/sharepoint-online-and-onedrive-migration-speed)
+<span data-ttu-id="e0443-105">มีตัวเลือกต่างๆ ที่จะโยกย้ายเนื้อหาไปยัง SharePoint Online ขึ้นอยู่กับขนาดและปริมาณของไฟล์ที่คุณต้องการย้าย โปรดดูรายการของตัวเลือก[ที่อยู่ที่นี่](https://docs.microsoft.com/sharepointmigration/migrate-to-sharepoint-online)</span><span class="sxs-lookup"><span data-stu-id="e0443-105">There are different options available to migrate content to SharePoint Online, depending on the size and quantity of files you need to move, please see a list of options [located here](https://docs.microsoft.com/sharepointmigration/migrate-to-sharepoint-online).</span></span>
+
+<span data-ttu-id="e0443-106">สําหรับข้อมูลเพิ่มเติมเกี่ยวกับการย้ายข้อมูลเนื้อหา โปรดไปที่ลิงก์ด้านล่าง</span><span class="sxs-lookup"><span data-stu-id="e0443-106">For more information on content migration, please visit the links below.</span></span>
+
+- [<span data-ttu-id="e0443-107">เครื่องมือการโยกย้าย SharePoint</span><span class="sxs-lookup"><span data-stu-id="e0443-107">Sharepoint Migration Tool</span></span>](https://docs.microsoft.com/sharepointmigration/introducing-the-sharepoint-migration-tool)
+
+- [<span data-ttu-id="e0443-108">เริ่มต้นใช้งานตัวจัดการการย้าย</span><span class="sxs-lookup"><span data-stu-id="e0443-108">Get started with the Migration Manager</span></span>](https://docs.microsoft.com/sharepointmigration/mm-get-started)
+
+- [<span data-ttu-id="e0443-109">มูเวอร์</span><span class="sxs-lookup"><span data-stu-id="e0443-109">Mover</span></span>](https://mover.io/)
