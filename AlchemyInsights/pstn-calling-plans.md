@@ -12,17 +12,19 @@ ms.custom:
 - "9002447"
 - "4760"
 - "4761"
-ms.openlocfilehash: 83ac66ddd2f5dac25aaa0b2ac3fe855c2e29f988
-ms.sourcegitcommit: ff4b89d630597a044441e56d415b5b566a821f28
+ms.openlocfilehash: e1dd2bd37be42de74701b11864841e876cf5a2a6
+ms.sourcegitcommit: 3281e61d3dfca02a01cd6ad208a987cda66f4afa
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 04/06/2020
-ms.locfileid: "43154432"
+ms.lasthandoff: 04/18/2020
+ms.locfileid: "43557027"
 ---
 # <a name="pstn-calling-plans"></a>แผนการโทรผ่าน PSTN
 
-การโทรไปยังผู้ใช้ Skype for Business และ Microsoft Teams คนอื่นๆ ฟรี แต่ถ้าคุณต้องการให้ผู้ใช้ของคุณสามารถโทรหาโทรศัพท์ทั่วไปได้ และคุณยังไม่มีผู้ให้บริการโทรออกด้วยเสียง คุณจําเป็นต้องซื้อแผนการโทร 
+หากคุณต้องการให้ผู้ใช้สามารถโทรไปยังโทรศัพท์ทั่วไปได้ และคุณยังไม่มีผู้ให้บริการโทรออกคุณจะต้องซื้อแผนการโทร
 
-- เมื่อต้องการเริ่มกระบวนการซื้อ ให้ดูที่[วิธีซื้อแผนการโทร](https://docs.microsoft.com/MicrosoftTeams/calling-plans-for-office-365) 
+- [ดูวิธีซื้อแผนการโทร](https://docs.microsoft.com/MicrosoftTeams/calling-plans-for-office-365)เพื่อเริ่มกระบวนการซื้อ
 
-- สําหรับข้อมูลเพิ่มเติม ให้ดูที่[ระบบโทรศัพท์และแผนการเรียก](https://docs.microsoft.com/MicrosoftTeams/calling-plan-landing-page) 
+- ตั้งค่า[หน่วยกิตการสื่อสาร](https://docs.microsoft.com/microsoftteams/set-up-communications-credits-for-your-organization)เพื่อป้องกันไม่ให้ผู้ใช้**หมดนาที** ดูอัตรา[ที่นี่](https://products.office.com/microsoft-teams/voice-calling) 
+
+- สําหรับข้อมูลเพิ่มเติม ให้ดูที่[ระบบโทรศัพท์และแผนการโทร](https://docs.microsoft.com/MicrosoftTeams/calling-plan-landing-page)หรือ[เครดิตการสื่อสาร คืออะไร](https://docs.microsoft.com/microsoftteams/what-are-communications-credits)

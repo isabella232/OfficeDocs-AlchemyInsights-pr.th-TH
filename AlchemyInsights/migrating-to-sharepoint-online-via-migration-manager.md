@@ -11,16 +11,14 @@ ms.collection: Adm_O365
 ms.custom:
 - "5300030"
 - "3192"
-ms.openlocfilehash: b25bf02e0ccddbb7524816cab0933f026a6a9224
-ms.sourcegitcommit: 926e4ab6aa64ddc7a244de633421eb2b817541f2
+ms.openlocfilehash: ad9e9d929664ecdfd796e977891d83f80f557333
+ms.sourcegitcommit: 04484c73b96bf76d1b50796b3e8913f49095c4f3
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 03/26/2020
-ms.locfileid: "42959025"
+ms.lasthandoff: 04/18/2020
+ms.locfileid: "43552817"
 ---
 # <a name="migrating-to-sharepoint-online-via-migration-manager"></a>กําลังย้ายข้อมูลไปยัง SharePoint แบบออนไลน์ผ่านทางโปรแกรมจัดการการโยกย้าย
-
-**สําคัญ**: ในช่วงเวลาที่ไม่เคยมีมาก่อนเหล่านี้ เราจะดําเนินการเพื่อให้แน่ใจว่า SharePoint Online และบริการ OneDrive ยังคงพร้อมใช้งานสูง – โปรดเยี่ยมชม[SharePoint Online ชั่วคราวปรับปรุงคุณลักษณะชั่วคราว](https://aka.ms/ODSPAdjustments)สําหรับข้อมูลเพิ่มเติม
 
 **ตัวจัดการการย้าย**
 

@@ -11,16 +11,14 @@ ms.collection: Adm_O365
 ms.custom:
 - "5300030"
 - "1885"
-ms.openlocfilehash: e3543815937c45323051171ea8be3c43e4ec7c89
-ms.sourcegitcommit: 926e4ab6aa64ddc7a244de633421eb2b817541f2
+ms.openlocfilehash: 7a801bb6ff5b5c1d48cbc99f27e5f398dd76db5f
+ms.sourcegitcommit: 04484c73b96bf76d1b50796b3e8913f49095c4f3
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 03/26/2020
-ms.locfileid: "42958665"
+ms.lasthandoff: 04/18/2020
+ms.locfileid: "43552940"
 ---
 # <a name="issues-while-migrating-data-to-sharepoint-online"></a>ปัญหาขณะกําลังโยกย้ายข้อมูลไปยัง SharePoint Online
-
-**สําคัญ**: ในช่วงเวลาที่ไม่เคยมีมาก่อนเหล่านี้ เราจะดําเนินการเพื่อให้แน่ใจว่า SharePoint Online และบริการ OneDrive ยังคงพร้อมใช้งานสูง – โปรดเยี่ยมชม[SharePoint Online ชั่วคราวปรับปรุงคุณลักษณะชั่วคราว](https://aka.ms/ODSPAdjustments)สําหรับข้อมูลเพิ่มเติม
 
 **การโยกย้ายข้อมูลมากกว่า 100TB**
 
@@ -33,7 +31,3 @@ ms.locfileid: "42958665"
     - ขนาดโดยประมาณของการย้ายข้อมูล
     - ค่าประมาณของเวลาที่คุณต้องการเริ่มต้นและดําเนินการย้ายให้เสร็จสมบูรณ์
     - อธิบายตําแหน่งที่คุณกําลังย้ายเนื้อหาของคุณ เช่น SharePoint Server, Box, GDrive, การแชร์ไฟล์ และอื่นๆ
-
-
-  
-

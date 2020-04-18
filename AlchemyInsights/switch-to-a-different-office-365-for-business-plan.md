@@ -1,5 +1,5 @@
 ---
-title: สลับไปยัง Office ๓๖๕อื่นสำหรับแผนธุรกิจ
+title: สลับไปยังแผนอื่นของ Office 365 สําหรับธุรกิจ
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -12,25 +12,25 @@ ms.custom:
 - "438"
 - "1400007"
 ms.assetid: 49d77463-d3da-4106-abcf-2d5209106ea2
-ms.openlocfilehash: 2374f8e0c38b63bb45921ba78a2b56ad065ed49c
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: fecb44a283b3c68611f4e2cbf9163b96ea806cd6
+ms.sourcegitcommit: 9b2b162ad651e2c3d9d0c746f67a78334592f076
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36665995"
+ms.lasthandoff: 04/17/2020
+ms.locfileid: "43548017"
 ---
-# <a name="switch-to-a-different-office-365-for-business-plan"></a>สลับไปยัง Office ๓๖๕อื่นสำหรับแผนธุรกิจ
+# <a name="switch-to-a-different-office-365-for-business-plan"></a>สลับไปยังแผนอื่นของ Office 365 สําหรับธุรกิจ
 
-เมื่อธุรกิจของคุณเปลี่ยนแปลงหรือคุณต้องการคุณลักษณะอื่นๆของ Office ๓๖๕คุณสามารถปรับรุ่นเป็นแผนใหม่ได้
+เมื่อธุรกิจของคุณเปลี่ยนแปลง หรือคุณต้องการคุณลักษณะเพิ่มเติมของ Office 365 คุณสามารถอัปเกรดเป็นแผนใหม่ได้
   
-1. ในศูนย์การจัดการให้ไปที่หน้า[บริการผลิตภัณฑ์](https://go.microsoft.com/fwlink/p/?linkid=842054)**สำหรับการเรียกเก็บเงิน** \>
+1. ในศูนย์การจัดการ ให้ไปที่**บริการ\>[&](https://go.microsoft.com/fwlink/p/?linkid=842054)การเรียกเก็บเงินผลิตภัณฑ์**
 
-2. เลือกการบอกรับเป็นสมาชิกที่คุณต้องการปรับรุ่น
+2. เลือกการสมัครใช้งานที่คุณต้องการอัปเกรด
 
-3. ในหน้ารายละเอียดการบอกรับเป็นสมาชิกให้เลือก**อัพเกรด**
+3. บนหน้า[รายละเอียดการสั่งซื้อโดยบอกรับเป็นสมาชิก](https://admin.microsoft.com/AdminPortal/Home#/subscriptions/webdirect%252F0dbaa202-d590-4529-98c2-a5e2ebaac702)ให้เลือก**อัพเกรด**
 
-4. ค้นหาแผนที่คุณต้องการอัปเกรดจากนั้นเลือกปุ่ม**อัพเกรด**
+4. ค้นหาแผนที่คุณต้องการอัปเกรด แล้วเลือกปุ่ม**อัพเกรด**
 
-5. ป้อนจำนวนใบอนุญาตที่คุณต้องการเลือกว่าจะจ่ายในแต่ละเดือนหรือตลอดทั้งปีจากนั้นเลือก**เช็คเอาท์**
+5. ป้อนจํานวนสิทธิ์การใช้งานที่คุณต้องการ**Checkout**
 
-หากต้องการเรียนรู้เพิ่มเติมโปรดดูที่[การอัพเกรดเป็นแผนอื่น](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/upgrade-to-different-plan)  
+เมื่อต้องการเรียนรู้เพิ่มเติม ให้ดูที่[อัปเกรดเป็นแผนอื่น](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/upgrade-to-different-plan)
