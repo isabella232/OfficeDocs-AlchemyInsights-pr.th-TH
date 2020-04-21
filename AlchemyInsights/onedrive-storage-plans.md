@@ -16,7 +16,7 @@ ms.sourcegitcommit: f7f25506191d0656a7637340df806b82c4232bc4
 ms.translationtype: MT
 ms.contentlocale: th-TH
 ms.lasthandoff: 04/21/2020
-ms.locfileid: "43591604"
+ms.locfileid: "43599300"
 ---
 # <a name="onedrive-storage-plans"></a><span data-ttu-id="b29ce-102">แผนบริการพื้นที่จัดเก็บ OneDrive</span><span class="sxs-lookup"><span data-stu-id="b29ce-102">OneDrive storage plans</span></span>
 
