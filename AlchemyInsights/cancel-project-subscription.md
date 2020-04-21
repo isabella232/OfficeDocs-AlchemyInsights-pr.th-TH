@@ -12,12 +12,12 @@ ms.assetid: ef2df989-8539-48b5-a324-97d2e09f14fe
 ms.custom:
 - "1400001"
 - "4722"
-ms.openlocfilehash: 82719a4764e081733ad3edf7336584b979c5fb86
-ms.sourcegitcommit: 04484c73b96bf76d1b50796b3e8913f49095c4f3
+ms.openlocfilehash: 0d4b7c7adaee7972b0cf810fc15da391184ad7e3
+ms.sourcegitcommit: f7f25506191d0656a7637340df806b82c4232bc4
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 04/18/2020
-ms.locfileid: "43552868"
+ms.lasthandoff: 04/21/2020
+ms.locfileid: "43599264"
 ---
 # <a name="cancel-project-subscription"></a>ยกเลิกการบอกรับเป็นสมาชิกโครงการ
 
@@ -25,7 +25,7 @@ ms.locfileid: "43552868"
 
 1. เลือกตัวเลือก**การเรียกเก็บเงิน**
 
-2. คลิก[บริการ &ผลิตภัณฑ์](https://admin.microsoft.com/AdminPortal/Home?adminportal=1&msCV=%2BbOQtMNsz0ei8f5z.0.36#/subscriptions)เพื่อดูการสมัครรับข้อมูลทั้งหมดสําหรับองค์กรของคุณ
+2. คลิก[บริการ &ผลิตภัณฑ์](https://go.microsoft.com/fwlink/p/?linkid=842054)เพื่อดูการสมัครรับข้อมูลทั้งหมดสําหรับองค์กรของคุณ
 
 3. ค้นหาแผนโครงการเพื่อยกเลิก
 
