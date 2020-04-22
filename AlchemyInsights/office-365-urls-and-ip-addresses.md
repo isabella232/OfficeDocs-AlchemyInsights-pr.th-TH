@@ -1,9 +1,9 @@
 ---
-title: Url ของ Office ๓๖๕และที่อยู่ IP
+title: Url และที่อยู่ IP ของ Microsoft 365
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
-ms.date: 1/7/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -14,16 +14,16 @@ ms.custom:
 - "827"
 - "1600028"
 ms.assetid: 6056169e-6e69-4b5f-bb67-15b5ef39ec59
-ms.openlocfilehash: 31d32b007e478afe74554f96529248ccb709f570
-ms.sourcegitcommit: 0fb0a4c9ac5aa2b9d0d9dcce2dba2d2f343b5847
+ms.openlocfilehash: 4a8de785b02e60f035d6a6f24e726f58fb15929c
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 10/29/2019
-ms.locfileid: "37775334"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43761617"
 ---
-# <a name="office-365-urls-and-ip-address-ranges"></a><span data-ttu-id="0e7aa-102">Url ของ Office ๓๖๕และช่วงที่อยู่ IP</span><span class="sxs-lookup"><span data-stu-id="0e7aa-102">Office 365 URLs and IP address ranges</span></span>
+# <a name="microsoft-365-urls-and-ip-address-ranges"></a><span data-ttu-id="243ec-102">URL ของ Microsoft 365 และช่วงที่อยู่ IP</span><span class="sxs-lookup"><span data-stu-id="243ec-102">Microsoft 365 URLs and IP address ranges</span></span>
 
-<span data-ttu-id="0e7aa-103">Office ๓๖๕จำเป็นต้องมีการเชื่อมต่อกับอินเทอร์เน็ตผ่านทางที่อยู่ IP เฉพาะที่เรียกว่า*ปลาย*ทาง</span><span class="sxs-lookup"><span data-stu-id="0e7aa-103">Office 365 requires connectivity to the Internet via specific IP addresses called *endpoints*.</span></span>
-<span data-ttu-id="0e7aa-104">สำหรับรายการของปลายทางที่จำเป็นต้องสามารถใช้งานได้ให้ดูที่[Office ๓๖๕ url และช่วงที่อยู่ IP](https://docs.microsoft.com/office365/enterprise/urls-and-ip-address-ranges)</span><span class="sxs-lookup"><span data-stu-id="0e7aa-104">For a list of endpoints that need to be reachable, see [Office 365 URLs and IP address ranges](https://docs.microsoft.com/office365/enterprise/urls-and-ip-address-ranges)</span></span> 
+<span data-ttu-id="243ec-103">Microsoft 365 ต้องการการเชื่อมต่ออินเทอร์เน็ตผ่านที่อยู่ IP เฉพาะที่เรียกว่า*ปลายทาง*</span><span class="sxs-lookup"><span data-stu-id="243ec-103">Microsoft 365 requires connectivity to the Internet via specific IP addresses called *endpoints*.</span></span>
+<span data-ttu-id="243ec-104">สําหรับรายการของปลายทางที่จําเป็นต้องเข้าถึงได้ ให้ดูที่[URL และที่อยู่ IP ของ Microsoft 365](https://docs.microsoft.com/office365/enterprise/urls-and-ip-address-ranges)</span><span class="sxs-lookup"><span data-stu-id="243ec-104">For a list of endpoints that need to be reachable, see [Microsoft 365 URLs and IP address ranges](https://docs.microsoft.com/office365/enterprise/urls-and-ip-address-ranges)</span></span> 
 
-<span data-ttu-id="0e7aa-105">Office ๓๖๕ที่อยู่ IP และบริการเว็บ URL ช่วยให้คุณสามารถระบุและแยกความแตกต่างของการรับส่งข้อมูลบนเครือข่าย Office ๓๖๕ได้ง่ายขึ้นเพื่อให้คุณประเมินกำหนดค่าและเข้าถึงข้อมูลล่าสุดด้วยการเปลี่ยนแปลง</span><span class="sxs-lookup"><span data-stu-id="0e7aa-105">The Office 365 IP Address and URL web service helps you better identify and differentiate Office 365 network traffic, making it easier for you to evaluate, configure, and stay up to date with changes.</span></span> <span data-ttu-id="0e7aa-106">ดู[ที่อยู่ IP ของ Office ๓๖๕และบริการเว็บ URL](https://docs.microsoft.com/office365/enterprise/office-365-ip-web-service)</span><span class="sxs-lookup"><span data-stu-id="0e7aa-106">See [Office 365 IP Address and URL web service](https://docs.microsoft.com/office365/enterprise/office-365-ip-web-service).</span></span>
+<span data-ttu-id="243ec-105">บริการที่อยู่ IP และ URL ของ Microsoft 365 ช่วยให้คุณระบุและแยกแยะการรับส่งข้อมูลเครือข่าย Microsoft 365 ได้ดีขึ้น ซึ่งทําให้คุณสามารถประเมิน กําหนดค่า และติดตามการเปลี่ยนแปลงต่างๆ ได้ดีขึ้น</span><span class="sxs-lookup"><span data-stu-id="243ec-105">The Microsoft 365 IP Address and URL web service helps you better identify and differentiate Microsoft 365 network traffic, making it easier for you to evaluate, configure, and stay up to date with changes.</span></span> <span data-ttu-id="243ec-106">ดู[ที่อยู่ IP ของ Office 365 และบริการเว็บ URL](https://docs.microsoft.com/office365/enterprise/office-365-ip-web-service)</span><span class="sxs-lookup"><span data-stu-id="243ec-106">See [Office 365 IP Address and URL web service](https://docs.microsoft.com/office365/enterprise/office-365-ip-web-service).</span></span>

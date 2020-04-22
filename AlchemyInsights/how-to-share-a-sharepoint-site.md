@@ -1,9 +1,9 @@
 ---
-title: วิธีการใช้ไซต์ SharePoint ร่วมกัน
+title: วิธีการใช้ร่วมกันของไซต์ SharePoint
 ms.author: v-todmc
 author: todmccoy
 manager: mnirkhe
-ms.date: 10/31/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000192"
 - "3171"
-ms.openlocfilehash: d14738c81e86d42cbcec4e8f75dbc97bf82e7b2a
-ms.sourcegitcommit: 358e7ed05c262f909bfa9ed0df730e1fd89266b8
+ms.openlocfilehash: 9523c05ecb43efb723627cdc57439a1f434b48aa
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 11/27/2019
-ms.locfileid: "39627665"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43763380"
 ---
-# <a name="how-to-share-a-sharepoint-site"></a><span data-ttu-id="3ccb1-102">วิธีการใช้ไซต์ SharePoint ร่วมกัน</span><span class="sxs-lookup"><span data-stu-id="3ccb1-102">How to share a SharePoint site</span></span>
+# <a name="how-to-share-a-sharepoint-site"></a><span data-ttu-id="1fdcf-102">วิธีการใช้ร่วมกันของไซต์ SharePoint</span><span class="sxs-lookup"><span data-stu-id="1fdcf-102">How to share a SharePoint site</span></span>
 
-<span data-ttu-id="3ccb1-103">หากคุณเป็นเจ้าของไซต์คุณสามารถให้ผู้อื่นเข้าถึงเว็บไซต์ได้โดยการเพิ่มเป็นเจ้าของสมาชิกหรือผู้เข้าชม</span><span class="sxs-lookup"><span data-stu-id="3ccb1-103">If you're a site owner, you can give other people access to the site by adding them as owners, members, or visitors.</span></span> <span data-ttu-id="3ccb1-104">([ต้องการที่จะแบ่งปันไฟล์หรือโฟลเดอร์แทน?](https://support.office.com/article/share-sharepoint-files-or-folders-1fe37332-0f9a-4719-970e-d2578da4941c))</span><span class="sxs-lookup"><span data-stu-id="3ccb1-104">([Want to share a file or folder instead?](https://support.office.com/article/share-sharepoint-files-or-folders-1fe37332-0f9a-4719-970e-d2578da4941c))</span></span>
+<span data-ttu-id="1fdcf-103">ถ้าคุณเป็นเจ้าของไซต์ คุณสามารถให้ผู้อื่นเข้าถึงไซต์ได้โดยการเพิ่มเจ้าของ สมาชิก หรือผู้เยี่ยมชม</span><span class="sxs-lookup"><span data-stu-id="1fdcf-103">If you're a site owner, you can give other people access to the site by adding them as owners, members, or visitors.</span></span> <span data-ttu-id="1fdcf-104">([ต้องการใช้แฟ้มหรือโฟลเดอร์ร่วมกันแทน)](https://support.office.com/article/share-sharepoint-files-or-folders-1fe37332-0f9a-4719-970e-d2578da4941c)</span><span class="sxs-lookup"><span data-stu-id="1fdcf-104">([Want to share a file or folder instead?](https://support.office.com/article/share-sharepoint-files-or-folders-1fe37332-0f9a-4719-970e-d2578da4941c))</span></span>
 
-[<span data-ttu-id="3ccb1-105">แชร์เว็บไซต์</span><span class="sxs-lookup"><span data-stu-id="3ccb1-105">Share a site</span></span>](https://support.office.com/article/share-a-site-958771a8-d041-4eb8-b51c-afea2eae3658?ui=en-US&rs=en-US&ad=US)
+[<span data-ttu-id="1fdcf-105">แชร์ไซต์</span><span class="sxs-lookup"><span data-stu-id="1fdcf-105">Share a site</span></span>](https://support.office.com/article/share-a-site-958771a8-d041-4eb8-b51c-afea2eae3658)

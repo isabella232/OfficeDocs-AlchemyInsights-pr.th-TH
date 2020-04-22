@@ -1,9 +1,9 @@
 ---
-title: การยื่นข้อผิดพลาด Intune ภายใน
+title: การยื่นข้อบกพร่องภายใน Intune
 ms.author: mandia
 author: mandia
 manager: dougeby
-ms.date: 11/26/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,20 +12,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "2402"
 - "9000348"
-ms.openlocfilehash: beca7f1b13492997c3c0568f77afee308635e5cb
-ms.sourcegitcommit: e02ecb762949c13af66b734eab962882e0a2ec11
+ms.openlocfilehash: 1c95c7cc4e758d649717df25ecffb87650dff1c3
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 12/02/2019
-ms.locfileid: "39663637"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43765972"
 ---
-# <a name="intune-insider-bug-filing"></a><span data-ttu-id="67079-102">การยื่นข้อผิดพลาด Intune ภายใน</span><span class="sxs-lookup"><span data-stu-id="67079-102">Intune Insider bug filing</span></span>
+# <a name="intune-insider-bug-filing"></a><span data-ttu-id="6ab2d-102">การยื่นข้อบกพร่องภายใน Intune</span><span class="sxs-lookup"><span data-stu-id="6ab2d-102">Intune Insider bug filing</span></span>
 
-<span data-ttu-id="67079-103">ขอบคุณที่ให้ความสนใจในโปรแกรม Intune Insider</span><span class="sxs-lookup"><span data-stu-id="67079-103">Thank you for your interest in the Intune Insiders program.</span></span> <span data-ttu-id="67079-104">ถ้าคุณกำลังอยู่แล้วสำหรับโปรแกรม Intune Insider และจำเป็นต้องยื่นคำขอการสนับสนุนจากนั้น:</span><span class="sxs-lookup"><span data-stu-id="67079-104">If you're already onboarded for the Intune Insiders program, and need to file a support request, then:</span></span>
+<span data-ttu-id="6ab2d-103">ขอขอบคุณที่ให้ความสนใจในโปรแกรม Intune Insiders</span><span class="sxs-lookup"><span data-stu-id="6ab2d-103">Thank you for your interest in the Intune Insiders program.</span></span> <span data-ttu-id="6ab2d-104">ถ้าคุณได้ onboarded สําหรับโปรแกรม Intune Insiders และต้องยื่นคําขอการสนับสนุน แล้ว:</span><span class="sxs-lookup"><span data-stu-id="6ab2d-104">If you're already onboarded for the Intune Insiders program, and need to file a support request, then:</span></span>
 
-1. <span data-ttu-id="67079-105">อธิบายปัญหาของคุณในช่องด้านบน</span><span class="sxs-lookup"><span data-stu-id="67079-105">Describe your issue in the field above.</span></span>
-2. <span data-ttu-id="67079-106">สร้างคำขอรับบริการใหม่โดยใช้ตัวเลือกด้านล่าง</span><span class="sxs-lookup"><span data-stu-id="67079-106">Create a new service request using the options below.</span></span>
+1. <span data-ttu-id="6ab2d-105">อธิบายปัญหาของคุณในฟิลด์ด้านบน</span><span class="sxs-lookup"><span data-stu-id="6ab2d-105">Describe your issue in the field above.</span></span>
+2. <span data-ttu-id="6ab2d-106">สร้างคําขอบริการใหม่โดยใช้ตัวเลือกด้านล่าง</span><span class="sxs-lookup"><span data-stu-id="6ab2d-106">Create a new service request using the options below.</span></span>
 
-<span data-ttu-id="67079-107">วิศวกรฝ่ายสนับสนุน Intune จะติดต่อคุณ</span><span class="sxs-lookup"><span data-stu-id="67079-107">An Intune support engineer will contact you.</span></span>
+<span data-ttu-id="6ab2d-107">วิศวกรฝ่ายสนับสนุนของ Intune จะติดต่อคุณ</span><span class="sxs-lookup"><span data-stu-id="6ab2d-107">An Intune support engineer will contact you.</span></span>
 
-<span data-ttu-id="67079-108">หากคุณไม่ได้อยู่ในโปรแกรม Intune Insider ขอขอบคุณที่คุณสนใจ</span><span class="sxs-lookup"><span data-stu-id="67079-108">If you're not in the Intune Insiders program, thank you for your interest.</span></span> <span data-ttu-id="67079-109">ขณะนี้เราไม่ได้ให้การสรรหาผู้เข้าร่วมใหม่</span><span class="sxs-lookup"><span data-stu-id="67079-109">We're currently not recruiting new participants.</span></span>
+<span data-ttu-id="6ab2d-108">หากคุณไม่ได้อยู่ในโปรแกรม Intune Insiders ขอขอบคุณสําหรับความสนใจของคุณ</span><span class="sxs-lookup"><span data-stu-id="6ab2d-108">If you're not in the Intune Insiders program, thank you for your interest.</span></span> <span data-ttu-id="6ab2d-109">ขณะนี้เรากําลังไม่สรรหาผู้เข้าร่วมใหม่</span><span class="sxs-lookup"><span data-stu-id="6ab2d-109">We're currently not recruiting new participants.</span></span>
