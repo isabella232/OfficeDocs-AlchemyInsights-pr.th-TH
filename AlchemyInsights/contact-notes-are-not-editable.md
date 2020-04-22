@@ -1,9 +1,9 @@
 ---
-title: บันทึกย่อที่ติดต่อจะไม่สามารถแก้ไขได้
+title: บันทึกย่อผู้ติดต่อไม่สามารถแก้ไขได้
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 4/29/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,15 +11,15 @@ localization_priority: Normal
 ms.custom:
 - "1732"
 - "9000185"
-ms.openlocfilehash: 9eedb99b9a615f329c83ed17102f650b726ff367
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 0158d093b4ea8f3aa153178103944a0900e3691d
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36517001"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43705716"
 ---
-# <a name="cant-edit-the-notes-field-for-a-contact-in-outlook"></a><span data-ttu-id="c6d6a-102">ไม่สามารถแก้ไขฟิลด์บันทึกย่อสำหรับผู้ติดต่อใน Outlook</span><span class="sxs-lookup"><span data-stu-id="c6d6a-102">Can't edit the notes field for a contact in Outlook</span></span>
+# <a name="cant-edit-the-notes-field-for-a-contact-in-outlook"></a><span data-ttu-id="14d40-102">ไม่สามารถแก้ไขเขตข้อมูลบันทึกย่อสําหรับที่ติดต่อใน Outlook</span><span class="sxs-lookup"><span data-stu-id="14d40-102">Can't edit the notes field for a contact in Outlook</span></span>
 
-<span data-ttu-id="c6d6a-103">นี่เป็นปัญหาที่ทราบ</span><span class="sxs-lookup"><span data-stu-id="c6d6a-103">This is a known issue.</span></span> <span data-ttu-id="c6d6a-104">เรากำลังทำงานอยู่เมื่อต้องการแก้ไขปัญหา และคุณสามารถดูสถานะล่าสุดที่[ไม่สามารถแก้ไขเขตข้อมูลบันทึกย่อสำหรับผู้ติดต่อ](https://support.office.com/article/fb8394ce-04ce-48b5-bae4-be46f77f10fe)</span><span class="sxs-lookup"><span data-stu-id="c6d6a-104">We're working to fix it and you can see the latest status at [Can't edit the notes field for a contact](https://support.office.com/article/fb8394ce-04ce-48b5-bae4-be46f77f10fe).</span></span>
+<span data-ttu-id="14d40-103">นี่เป็นปัญหาที่ทราบ</span><span class="sxs-lookup"><span data-stu-id="14d40-103">This is a known issue.</span></span> <span data-ttu-id="14d40-104">เรากําลังทํางานเพื่อแก้ไขและคุณสามารถดูสถานะล่าสุดที่[ไม่สามารถแก้ไขฟิลด์บันทึกย่อสําหรับผู้ติดต่อ](https://support.office.com/article/fb8394ce-04ce-48b5-bae4-be46f77f10fe)</span><span class="sxs-lookup"><span data-stu-id="14d40-104">We're working to fix it and you can see the latest status at [Can't edit the notes field for a contact](https://support.office.com/article/fb8394ce-04ce-48b5-bae4-be46f77f10fe).</span></span>
 
-<span data-ttu-id="c6d6a-105">**วิธีแก้ปัญหา**: ถ้าคุณกำลังใช้ Office 365 ผิดหรือองค์กร Outlook.com คุณสามารถแก้ไขผู้ติดต่อของคุณ โดยใช้เว็บได้</span><span class="sxs-lookup"><span data-stu-id="c6d6a-105">**Workaround**: If you're using an Office 365 or an Outlook.com account, you can edit your contacts by using the web.</span></span> <span data-ttu-id="c6d6a-106">ถ้าคุณกำลังใช้บัญชีผู้ใช้ IMAP หรือ POP ไม่มีวิธีแก้ไขปัญหาจะพร้อมใช้งานในขณะนี้</span><span class="sxs-lookup"><span data-stu-id="c6d6a-106">If you're using an IMAP or POP account, no workaround is available at this time.</span></span>
+<span data-ttu-id="14d40-105">**วิธีการแก้ปัญหา**: หากคุณใช้บัญชี Microsoft 365 หรือบัญชีOutlook.com คุณสามารถแก้ไขที่ติดต่อของคุณโดยใช้เว็บ</span><span class="sxs-lookup"><span data-stu-id="14d40-105">**Workaround**: If you're using a Microsoft 365 or an Outlook.com account, you can edit your contacts by using the web.</span></span> <span data-ttu-id="14d40-106">ถ้าคุณกําลังใช้บัญชีผู้ใช้ IMAP หรือ POP ไม่มีวิธีแก้ไขปัญหาในขณะนี้</span><span class="sxs-lookup"><span data-stu-id="14d40-106">If you're using an IMAP or POP account, no workaround is available at this time.</span></span>

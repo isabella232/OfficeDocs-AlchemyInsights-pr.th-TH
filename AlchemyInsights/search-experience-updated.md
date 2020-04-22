@@ -1,8 +1,8 @@
 ---
-title: 414 ค้นหาประสบการณ์การใช้งานการปรับปรุง
+title: ปรับปรุงประสบการณ์การใช้งานการค้นหา 414 ครั้ง
 ms.author: chrisda
 author: chrisda
-ms.date: 2/9/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,13 +13,13 @@ ms.custom:
 - "414"
 - "1600043"
 ms.assetid: bd328fee-8ea1-4b0b-930c-cc3d3765f1b9
-ms.openlocfilehash: a4ecb6fcdd33b871f971a788ffe2afa8e7c50ba6
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 8602a1e0c9374e8c772d91b4721c1435fec4bea1
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36551506"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43709318"
 ---
-# <a name="search-experience-updated"></a><span data-ttu-id="cbc20-102">ปรับปรุงประสบการณ์การค้นหา</span><span class="sxs-lookup"><span data-stu-id="cbc20-102">Search experience updated</span></span>
+# <a name="search-experience-updated"></a><span data-ttu-id="06e34-102">ประสบการณ์การใช้งานการค้นหาที่อัปเดตแล้ว</span><span class="sxs-lookup"><span data-stu-id="06e34-102">Search experience updated</span></span>
 
-<span data-ttu-id="cbc20-103">ค้นหาจะอยู่ที่ด้านล่างของแอพลิเคชัน</span><span class="sxs-lookup"><span data-stu-id="cbc20-103">Search is now located at the bottom of the app.</span></span> <span data-ttu-id="cbc20-104">เคาะที่จะช่วยให้คุณเข้าถึงโดยตรงด้านบนที่ติดต่อของคุณ แผนการเดินทางเดินทางที่กำลังเกิดขึ้น จัดส่งแพคเกจ และสิ่งที่แนบมาเมื่อเร็ว ๆ นี้</span><span class="sxs-lookup"><span data-stu-id="cbc20-104">Tapping on it gives you direct access to your top contacts, upcoming travel itineraries, package deliveries, and recent attachments.</span></span> <span data-ttu-id="cbc20-105">คุณสามารถค้นหาข้อความอีเมล แฟ้ม และที่ติดต่อในบัญชีของคุณจากกล่องค้นหาเดี่ยวหนึ่งใด ๆ หรือใช้ตัวกรองใหม่ของเราเพื่อทำการค้นหาของคุณให้แคบลง</span><span class="sxs-lookup"><span data-stu-id="cbc20-105">You can search for email messages, files, and contacts in any of your accounts from one single search box or use our new filters to narrow your search.</span></span>
+<span data-ttu-id="06e34-103">ขณะนี้การค้นหาอยู่ที่ด้านล่างของแอป</span><span class="sxs-lookup"><span data-stu-id="06e34-103">Search is now located at the bottom of the app.</span></span> <span data-ttu-id="06e34-104">การแตะที่มันจะช่วยให้คุณเข้าถึงรายชื่อผู้ติดต่อด้านบนของคุณโดยตรง, กําหนดการเดินทางที่จะเกิดขึ้น, การจัดส่งแพคเกจ, และสิ่งที่แนบล่าสุด.</span><span class="sxs-lookup"><span data-stu-id="06e34-104">Tapping on it gives you direct access to your top contacts, upcoming travel itineraries, package deliveries, and recent attachments.</span></span> <span data-ttu-id="06e34-105">คุณสามารถค้นหาข้อความอีเมล ไฟล์ และที่ติดต่อในบัญชีผู้ใช้ของคุณจากช่องค้นหาเดียว หรือใช้ตัวกรองใหม่ของเราเพื่อจํากัดการค้นหาของคุณ</span><span class="sxs-lookup"><span data-stu-id="06e34-105">You can search for email messages, files, and contacts in any of your accounts from one single search box or use our new filters to narrow your search.</span></span>

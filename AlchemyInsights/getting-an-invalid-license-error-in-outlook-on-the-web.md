@@ -1,9 +1,9 @@
 ---
-title: 125 การได้รับข้อผิดพลาดของสิทธิ์การใช้งานที่ไม่ถูกต้องใน Outlook บนเว็บหรือไม่
+title: 125 การรับข้อผิดพลาดสิทธิ์การใช้งานที่ไม่ถูกต้องใน Outlook บนเว็บหรือไม่
 ms.author: daeite
 author: daeite
 manager: jackiesm
-ms.date: 4/9/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,19 +13,19 @@ ms.custom:
 - "125"
 - "1600021"
 ms.assetid: 6d9947d9-6c92-4ada-b655-8ab2a0c2b66d
-ms.openlocfilehash: d0f3fa354eb63c5a5f92d017694623c36fc6df30
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 9324726709423aeb290fcc1866ade5517f71c1ef
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36523818"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43708850"
 ---
-# <a name="getting-an-invalid-license-error-in-outlook-on-the-web"></a><span data-ttu-id="0d6d4-102">การเรียกดูข้อผิดพลาดของสิทธิ์การใช้งานที่ไม่ถูกต้องใน Outlook บนเว็บหรือไม่</span><span class="sxs-lookup"><span data-stu-id="0d6d4-102">Getting an invalid license error in Outlook on the web?</span></span>
+# <a name="getting-an-invalid-license-error-in-outlook-on-the-web"></a><span data-ttu-id="5fcce-102">กําลังรับข้อผิดพลาดสิทธิ์การใช้งานที่ไม่ถูกต้องใน Outlook บนเว็บหรือไม่</span><span class="sxs-lookup"><span data-stu-id="5fcce-102">Getting an invalid license error in Outlook on the web?</span></span>
 
-<span data-ttu-id="0d6d4-103">ถ้าคุณกำลังใช้ Outlook บนเว็บ และคุณได้รับข้อผิดพลาดกับ**บางสิ่งบางอย่างที่ผิด**ที่ ประกอบด้วย**X-OWA-ข้อผิดพลาด: Microsoft.Exchange.Data.Storage.InvalidLicenseException**ลิขสิทธิ์ Exchange ออนไลน์ของคุณไม่ได้กำหนดอย่างถูกต้อง หรือมีเมื่อเร็ว ๆ นี้ หมดอายุแล้ว</span><span class="sxs-lookup"><span data-stu-id="0d6d4-103">If you're using Outlook on the web and you get a **Something went wrong** error that contains **X-OWA-Error: Microsoft.Exchange.Data.Storage.InvalidLicenseException**, your Exchange Online license isn't correctly assigned or has recently expired.</span></span> <span data-ttu-id="0d6d4-104">ผู้ดูแลระบบของคุณสามารถกำหนดสิทธิ์การใช้งานให้คุณ โดยทำตามขั้นตอนเหล่านี้:</span><span class="sxs-lookup"><span data-stu-id="0d6d4-104">Your admin can assign a license to you by following these steps:</span></span>
+<span data-ttu-id="5fcce-103">ถ้าคุณกําลังใช้ Outlook บนเว็บ และคุณได้รับ**ข้อผิดพลาดบางอย่าง**ผิดพลาดที่ประกอบด้วย**ข้อผิดพลาด X-OWA: Microsoft.Exchange.Data.Storage.InvalidLicenseException,** สิทธิ์การใช้งานแบบออนไลน์ของอัตราแลกเปลี่ยนของคุณไม่ถูกต้องถูกกําหนด หรือหมดอายุเมื่อเร็ว ๆ นี้</span><span class="sxs-lookup"><span data-stu-id="5fcce-103">If you're using Outlook on the web and you get a **Something went wrong** error that contains **X-OWA-Error: Microsoft.Exchange.Data.Storage.InvalidLicenseException**, your Exchange Online license isn't correctly assigned or has recently expired.</span></span> <span data-ttu-id="5fcce-104">ผู้ดูแลระบบสามารถมอบสิทธิ์การใช้งานให้คุณโดยทําตามขั้นตอนต่อไปนี้</span><span class="sxs-lookup"><span data-stu-id="5fcce-104">Your admin can assign a license to you by following these steps:</span></span>
   
-1. <span data-ttu-id="0d6d4-105">เปิด[Microsoft 365 admin ศูนย์](https://portal.office.com/adminportal/home#/homepage)และ**ผู้ใช้ที่ใช้งานอยู่**ใต้**แก้ไขผู้ใช้**</span><span class="sxs-lookup"><span data-stu-id="0d6d4-105">Open the [Microsoft 365 admin center](https://portal.office.com/adminportal/home#/homepage) and under **Active users**, select **Edit a user**.</span></span>
+1. <span data-ttu-id="5fcce-105">เปิด[ศูนย์การจัดการ Microsoft 365](https://portal.office.com/adminportal/home#/homepage)และภายใต้**ผู้ใช้ที่ใช้งานอยู่**ให้เลือก**แก้ไขผู้ใช้**</span><span class="sxs-lookup"><span data-stu-id="5fcce-105">Open the [Microsoft 365 admin center](https://portal.office.com/adminportal/home#/homepage) and under **Active users**, select **Edit a user**.</span></span>
 
-2. <span data-ttu-id="0d6d4-106">ใน**การแก้ไขผู้ใช้**เพจที่เปิด เลือกผู้ใช้</span><span class="sxs-lookup"><span data-stu-id="0d6d4-106">In the **Edit a user** page that opens, select the user.</span></span> <span data-ttu-id="0d6d4-107">ในหน้าคุณสมบัติของผู้ใช้ที่เปิด คลิก**แก้ไข**สำหรับ**สิทธิ์การใช้งานผลิตภัณฑ์**</span><span class="sxs-lookup"><span data-stu-id="0d6d4-107">In the user properties page that opens, click **Edit** for **Product licenses**.</span></span>
+2. <span data-ttu-id="5fcce-106">ในเพจ**แก้ไขผู้ใช้**ที่เปิดขึ้น ให้เลือกผู้ใช้</span><span class="sxs-lookup"><span data-stu-id="5fcce-106">In the **Edit a user** page that opens, select the user.</span></span> <span data-ttu-id="5fcce-107">ในหน้าคุณสมบัติผู้ใช้ที่เปิดขึ้น ให้คลิก**แก้ไข**สิทธิ์การใช้งาน**ผลิตภัณฑ์**</span><span class="sxs-lookup"><span data-stu-id="5fcce-107">In the user properties page that opens, click **Edit** for **Product licenses**.</span></span>
 
-3. <span data-ttu-id="0d6d4-108">ในเพจ**สิทธิ์การใช้งานผลิตภัณฑ์**ที่เปิด เลือกค่า**ตำแหน่งที่ตั้ง**ที่เหมาะสม และกำหนดสิทธิ์การใช้งานที่ประกอบด้วยการแลกเปลี่ยนแบบออนไลน์ (ขยายสิทธิ์การใช้งานเพื่อดูรายละเอียดของ)</span><span class="sxs-lookup"><span data-stu-id="0d6d4-108">In the **Product licenses** page that opens, select the appropriate **Location** value, and assign a license that contains Exchange Online (expand the license to see its details).</span></span> <span data-ttu-id="0d6d4-109">เมื่อคุณดำเนินการเสร็จสิ้นแล้ว ให้คลิกที่ **บันทึก**</span><span class="sxs-lookup"><span data-stu-id="0d6d4-109">When you're finished, click **Save**.</span></span>
+3. <span data-ttu-id="5fcce-108">ในหน้า**สิทธิ์การใช้งานผลิตภัณฑ์**ที่เปิดขึ้น ให้เลือกค่า**ตําแหน่งที่ตั้ง**ที่เหมาะสม และกําหนดสิทธิ์การใช้งานที่ประกอบด้วย Exchange Online (ขยายสิทธิ์การใช้งานเพื่อดูรายละเอียด)</span><span class="sxs-lookup"><span data-stu-id="5fcce-108">In the **Product licenses** page that opens, select the appropriate **Location** value, and assign a license that contains Exchange Online (expand the license to see its details).</span></span> <span data-ttu-id="5fcce-109">เมื่อคุณดำเนินการเสร็จสิ้นแล้ว ให้คลิกที่ **บันทึก**</span><span class="sxs-lookup"><span data-stu-id="5fcce-109">When you're finished, click **Save**.</span></span>

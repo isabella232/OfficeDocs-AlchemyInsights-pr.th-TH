@@ -1,9 +1,9 @@
 ---
-title: ๑๒๔ได้รับข้อผิดพลาดสิทธิ์เมื่อเข้าถึงกล่องจดหมายที่ใช้ร่วมกันใน OWA หรือไม่?
+title: 124 การได้รับข้อผิดพลาดสิทธิ์เมื่อเข้าถึงกล่องจดหมายที่ใช้ร่วมกันใน OWA หรือไม่
 ms.author: daeite
 author: daeite
 manager: jackiesm
-ms.date: 4/9/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,14 +13,14 @@ ms.custom:
 - "124"
 - "1600022"
 ms.assetid: bc09faec-d78a-4103-b4bb-7967f0ecbf3b
-ms.openlocfilehash: bc682538ae8683c8b419d33bfccf96ac080304a6
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: 5d1478c4bcfa6ed9f4430cd00bd033a690fe3b02
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "36735804"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43708958"
 ---
-# <a name="getting-a-permission-error-when-opening-a-shared-mailbox-in-outlook-on-the-web"></a><span data-ttu-id="bb9cd-102">ได้รับข้อผิดพลาดสิทธิ์เมื่อเปิดกล่องจดหมายที่ใช้ร่วมกันใน Outlook บนเว็บหรือไม่</span><span class="sxs-lookup"><span data-stu-id="bb9cd-102">Getting a permission error when opening a shared mailbox in Outlook on the web?</span></span>
+# <a name="getting-a-permission-error-when-opening-a-shared-mailbox-in-outlook-on-the-web"></a><span data-ttu-id="a2c4e-102">ได้รับข้อผิดพลาดสิทธิ์เมื่อเปิดกล่องจดหมายที่ใช้ร่วมกันใน Outlook บนเว็บหรือไม่</span><span class="sxs-lookup"><span data-stu-id="a2c4e-102">Getting a permission error when opening a shared mailbox in Outlook on the web?</span></span>
 
-<span data-ttu-id="bb9cd-103">หากคุณได้รับข้อผิดพลาด**บางสิ่งบางอย่างที่ผิด คุณไม่มีสิทธิ์ในการเปิดกล่องจดหมายนี้**</span><span class="sxs-lookup"><span data-stu-id="bb9cd-103">If you get the error **Something went wrong. You don't have permission to open this mailbox.**</span></span> <span data-ttu-id="bb9cd-104">เมื่อคุณพยายามเปิดกล่องจดหมายที่ใช้ร่วมกันใน Outlook บนเว็บบัญชีของคุณอาจไม่มีสิทธิ์ในการเข้าถึงกล่องจดหมายที่ใช้ร่วมกัน</span><span class="sxs-lookup"><span data-stu-id="bb9cd-104">when you try to open a shared mailbox in Outlook on the web, your account might not have permission to access the shared mailbox.</span></span> <span data-ttu-id="bb9cd-105">ผู้ดูแลระบบองค์กรของคุณสามารถกำหนดสิทธิ์ของบัญชีของคุณให้กับกล่องจดหมายที่ใช้ร่วมกันได้โดยทำตามคำแนะนำในหัวข้อ[สร้างกล่องจดหมายที่ใช้ร่วมกัน](https://docs.microsoft.com/office365/admin/email/create-a-shared-mailbox)</span><span class="sxs-lookup"><span data-stu-id="bb9cd-105">Your organization administrator can assign your account permissions to the shared mailbox by following the instructions in the topic [Create a shared mailbox](https://docs.microsoft.com/office365/admin/email/create-a-shared-mailbox).</span></span>
+<span data-ttu-id="a2c4e-103">ถ้าคุณได้รับข้อผิดพลาด**บางอย่างผิดพลาด คุณไม่มีสิทธิ์ในการเปิดกล่องจดหมายนี้**</span><span class="sxs-lookup"><span data-stu-id="a2c4e-103">If you get the error **Something went wrong. You don't have permission to open this mailbox.**</span></span> <span data-ttu-id="a2c4e-104">เมื่อคุณพยายามที่จะเปิดกล่องจดหมายที่ใช้ร่วมกันใน Outlook บนเว็บ บัญชีของคุณอาจไม่ได้รับอนุญาตให้เข้าถึงกล่องจดหมายที่ใช้ร่วมกัน</span><span class="sxs-lookup"><span data-stu-id="a2c4e-104">when you try to open a shared mailbox in Outlook on the web, your account might not have permission to access the shared mailbox.</span></span> <span data-ttu-id="a2c4e-105">ผู้ดูแลระบบองค์กรของคุณสามารถมอบหมายสิทธิ์ของบัญชีผู้ใช้ของคุณไปยังกล่องจดหมายที่ใช้ร่วมกันโดยทําตามคําแนะนําในหัวข้อ[Create a shared mailbox](https://docs.microsoft.com/office365/admin/email/create-a-shared-mailbox)</span><span class="sxs-lookup"><span data-stu-id="a2c4e-105">Your organization administrator can assign your account permissions to the shared mailbox by following the instructions in the topic [Create a shared mailbox](https://docs.microsoft.com/office365/admin/email/create-a-shared-mailbox).</span></span>
   

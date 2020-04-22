@@ -12,16 +12,16 @@ ms.custom:
 - "624"
 - "3500003"
 ms.assetid: a38afd0a-fae5-49e1-9757-6986d5f5531e
-ms.openlocfilehash: 0a8ba0d7d74cacd34cbcea8dcab454d55c283280
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: b1c44e0990d07686ef083d2045a164afc5f11033
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36665311"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43705572"
 ---
-# <a name="convert-a-user-mailbox-to-a-shared-mailbox"></a><span data-ttu-id="72171-102">การแปลงกล่องจดหมายของผู้ใช้ไปยังกล่องจดหมายที่ใช้ร่วมกัน</span><span class="sxs-lookup"><span data-stu-id="72171-102">Convert a user mailbox to a shared mailbox</span></span>
+# <a name="convert-a-user-mailbox-to-a-shared-mailbox"></a><span data-ttu-id="96366-102">การแปลงกล่องจดหมายของผู้ใช้ไปยังกล่องจดหมายที่ใช้ร่วมกัน</span><span class="sxs-lookup"><span data-stu-id="96366-102">Convert a user mailbox to a shared mailbox</span></span>
 
-<span data-ttu-id="72171-103">เมื่อคุณแปลงกล่องจดหมายของ Office ๓๖๕ของผู้ใช้แต่ละคนไปยังกล่องจดหมายที่ใช้ร่วมกันทั้งหมดของทั้งหมดที่มีอยู่ในจดหมายและปฏิทินรายการจะถูกเก็บไว้ในกล่องจดหมายที่ใช้ร่วมกันที่หลายคนสามารถเข้าถึง</span><span class="sxs-lookup"><span data-stu-id="72171-103">When you convert an individual user's Office 365 mailbox to a shared mailbox, all of the existing email and calendar items are retained in a shared mailbox where multiple people can access.</span></span> <span data-ttu-id="72171-104">นอกจากนี้คุณยังสามารถแปลงกล่องจดหมายที่ใช้ร่วมกันกลับไปยังกล่องจดหมายของผู้ใช้ (ส่วนตัว)</span><span class="sxs-lookup"><span data-stu-id="72171-104">You can also convert a shared mailbox back to a user (private) mailbox.</span></span>
+<span data-ttu-id="96366-103">เมื่อคุณแปลงกล่องจดหมายของผู้ใช้แต่ละรายไปยังกล่องจดหมายที่ใช้ร่วมกัน</span><span class="sxs-lookup"><span data-stu-id="96366-103">When you convert an individual user's mailbox to a shared mailbox, all of the existing email and calendar items are retained in a shared mailbox where multiple people can access.</span></span> <span data-ttu-id="96366-104">คุณยังสามารถแปลงกล่องจดหมายที่ใช้ร่วมกันกลับไปยังกล่องจดหมายของผู้ใช้ (ส่วนตัว)</span><span class="sxs-lookup"><span data-stu-id="96366-104">You can also convert a shared mailbox back to a user (private) mailbox.</span></span>
   
-<span data-ttu-id="72171-105">สำหรับข้อมูลเพิ่มเติมโปรดดูที่การ[แปลงกล่องจดหมายของผู้ใช้ไปยังกล่องจดหมายที่ใช้ร่วมกัน](https://docs.microsoft.com/office365/admin/email/convert-user-mailbox-to-shared-mailbox)</span><span class="sxs-lookup"><span data-stu-id="72171-105">For more information, see [Convert a user mailbox to a shared mailbox](https://docs.microsoft.com/office365/admin/email/convert-user-mailbox-to-shared-mailbox).</span></span>
+<span data-ttu-id="96366-105">สําหรับข้อมูลเพิ่มเติม ให้ดูที่[การแปลงกล่องจดหมายของผู้ใช้ไปยังกล่องจดหมายที่ใช้ร่วมกัน](https://docs.microsoft.com/office365/admin/email/convert-user-mailbox-to-shared-mailbox)</span><span class="sxs-lookup"><span data-stu-id="96366-105">For more information, see [Convert a user mailbox to a shared mailbox](https://docs.microsoft.com/office365/admin/email/convert-user-mailbox-to-shared-mailbox).</span></span>
   

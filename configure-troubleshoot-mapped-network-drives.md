@@ -1,9 +1,9 @@
 ---
-title: วิธีการกำหนดค่าและแก้ไขปัญหาไดรฟ์เครือข่ายที่แมป
+title: วิธีการกําหนดค่าและแก้ไขปัญหาไดรฟ์เครือข่ายที่แมป
 ms.author: v-miegge
 author: v-miegge
 manager: v-cojank
-ms.date: 11/01/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,15 +13,15 @@ ms.custom:
 - "5300002"
 - "3180"
 ms.assetid: ''
-ms.openlocfilehash: f4cde10b1d0fec60ca0f724c3d9cf2c2a7ded83a
-ms.sourcegitcommit: eeaaf0174dcad24f04f8979dfa7e78fffe1962aa
+ms.openlocfilehash: 99842cacb86859109d81fdaff7d31b9032b6d3bf
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 11/04/2019
-ms.locfileid: "37962520"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43707242"
 ---
-# <a name="how-to-configure-and-troubleshoot-mapped-network-drives"></a><span data-ttu-id="eb241-102">วิธีการกำหนดค่าและแก้ไขปัญหาไดรฟ์เครือข่ายที่แมป</span><span class="sxs-lookup"><span data-stu-id="eb241-102">How to configure and troubleshoot mapped network drives</span></span>
+# <a name="how-to-configure-and-troubleshoot-mapped-network-drives"></a><span data-ttu-id="a26f1-102">วิธีการกําหนดค่าและแก้ไขปัญหาไดรฟ์เครือข่ายที่แมป</span><span class="sxs-lookup"><span data-stu-id="a26f1-102">How to configure and troubleshoot mapped network drives</span></span>
 
-<span data-ttu-id="eb241-103">การแมปไลบรารีเป็นไดรฟ์เครือข่ายเป็นแบบถาวรและได้รับการสนับสนุนผ่านทาง Internet Explorer เท่านั้น</span><span class="sxs-lookup"><span data-stu-id="eb241-103">Mapping a library as a network drive is temporary and supported only through Internet Explorer.</span></span> <span data-ttu-id="eb241-104">ให้[ซิงค์แฟ้ม SharePoint กับไคลเอ็นต์ซิงค์ OneDrive ใหม่](https://support.office.com/article/6de9ede8-5b6e-4503-80b2-6190f3354a88)ซึ่งมี[แฟ้มตามความต้องการ](https://support.office.com/article/0e6860d3-d9f3-4971-b321-7092438fb38e)แทน</span><span class="sxs-lookup"><span data-stu-id="eb241-104">Instead, [sync SharePoint files with the new OneDrive sync client](https://support.office.com/article/6de9ede8-5b6e-4503-80b2-6190f3354a88) which provides [Files On-Demand](https://support.office.com/article/0e6860d3-d9f3-4971-b321-7092438fb38e).</span></span> <span data-ttu-id="eb241-105">เข้าถึงไฟล์ทั้งหมดของคุณใน OneDrive โดยไม่ต้องใช้พื้นที่จัดเก็บข้อมูลภายใน</span><span class="sxs-lookup"><span data-stu-id="eb241-105">Access all your files in OneDrive without using local storage space.</span></span>
+<span data-ttu-id="a26f1-103">การแมปไลบรารีเป็นไดรฟ์เครือข่ายชั่วคราว และสนับสนุนผ่านทาง Internet Explorer เท่านั้น</span><span class="sxs-lookup"><span data-stu-id="a26f1-103">Mapping a library as a network drive is temporary and supported only through Internet Explorer.</span></span> <span data-ttu-id="a26f1-104">ซิงค์แฟ้ม[SharePoint กับไคลเอ็นต์ซิงค์ OneDrive ใหม่](https://support.office.com/article/6de9ede8-5b6e-4503-80b2-6190f3354a88)ซึ่งมี[แฟ้มตามความต้องการ](https://support.office.com/article/0e6860d3-d9f3-4971-b321-7092438fb38e)</span><span class="sxs-lookup"><span data-stu-id="a26f1-104">Instead, [sync SharePoint files with the new OneDrive sync client](https://support.office.com/article/6de9ede8-5b6e-4503-80b2-6190f3354a88) which provides [Files On-Demand](https://support.office.com/article/0e6860d3-d9f3-4971-b321-7092438fb38e).</span></span> <span data-ttu-id="a26f1-105">เข้าถึงไฟล์ทั้งหมดของคุณใน OneDrive โดยไม่ต้องใช้พื้นที่จัดเก็บข้อมูลภายในเครื่อง</span><span class="sxs-lookup"><span data-stu-id="a26f1-105">Access all your files in OneDrive without using local storage space.</span></span>
 
-* [<span data-ttu-id="eb241-106">แก้ปัญหาการแมปไดรฟ์เครือข่ายที่เชื่อมต่อกับ SharePoint แบบออนไลน์</span><span class="sxs-lookup"><span data-stu-id="eb241-106">Troubleshoot mapped network drives that connect to SharePoint Online</span></span>](https://docs.microsoft.com/sharepoint/support/administration/troubleshoot-mapped-network-drives)
+* [<span data-ttu-id="a26f1-106">การแก้ไขปัญหาไดรฟ์เครือข่ายที่แมปที่เชื่อมต่อกับ SharePoint แบบออนไลน์</span><span class="sxs-lookup"><span data-stu-id="a26f1-106">Troubleshoot mapped network drives that connect to SharePoint Online</span></span>](https://docs.microsoft.com/sharepoint/support/administration/troubleshoot-mapped-network-drives)
