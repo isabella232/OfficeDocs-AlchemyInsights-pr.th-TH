@@ -1,26 +1,24 @@
 ---
-title: ๔๑๐ปฏิทินร่วมกันใน Office365
+title: 410 การแชร์ปฏิทินใน Office365
 ms.author: daeite
 author: daeite
 manager: jackiesm
-ms.date: 2/9/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 7ec088d3-8629-435e-a222-8722bc99f9c6
 ms.custom: 410
-ms.openlocfilehash: f76c16275605a5716d4e20b569c10498763a8204
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: 2b0e054db44fed52941fe5b6973ec6171a4c5e51
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "36518274"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43712046"
 ---
-# <a name="calendar-sharing-in-office-365"></a><span data-ttu-id="1cc0c-102">ปฏิทินร่วมกันใน Office ๓๖๕</span><span class="sxs-lookup"><span data-stu-id="1cc0c-102">Calendar sharing in Office 365</span></span>
+# <a name="calendar-sharing"></a><span data-ttu-id="1313f-102">การแชร์ปฏิทิน</span><span class="sxs-lookup"><span data-stu-id="1313f-102">Calendar sharing</span></span>
 
-<span data-ttu-id="1cc0c-103">ถ้าคุณกำลังมีปัญหาในการเข้าถึงปฏิทินหรือปฏิทินอื่นๆให้ใช้[ฝ่ายสนับสนุนของ Microsoft และผู้ช่วยกู้คืนสำหรับ Office ๓๖๕](https://diagnostics.office.com/)</span><span class="sxs-lookup"><span data-stu-id="1cc0c-103">If you're having issues accessing your calendar or other calendars, use the [Microsoft Support and Recovery Assistant for Office 365](https://diagnostics.office.com/).</span></span>
+<span data-ttu-id="1313f-103">ถ้าคุณมีปัญหาในการเข้าถึงปฏิทินหรือปฏิทินอื่นๆ ของคุณ ให้ใช้[การสนับสนุน Microsoft และผู้ช่วยการกู้คืนสําหรับ Microsoft 365](https://diagnostics.office.com/)</span><span class="sxs-lookup"><span data-stu-id="1313f-103">If you're having issues accessing your calendar or other calendars, use the [Microsoft Support and Recovery Assistant for Microsoft 365](https://diagnostics.office.com/).</span></span>
   
-<span data-ttu-id="1cc0c-104">หากต้องการเรียนรู้เพิ่มเติมเกี่ยวกับการแชร์ปฏิทินโปรดดู[แชร์ปฏิทิน Outlook กับบุคคลอื่น](https://support.office.com/article/353ed2c1-3ec5-449d-8c73-6931a0adab88.aspx)</span><span class="sxs-lookup"><span data-stu-id="1cc0c-104">To learn more about sharing your calendar, see [Share an Outlook calendar with other people](https://support.office.com/article/353ed2c1-3ec5-449d-8c73-6931a0adab88.aspx).</span></span>
-  
-
+<span data-ttu-id="1313f-104">เมื่อต้องการเรียนรู้เพิ่มเติมเกี่ยวกับการแชร์ปฏิทินของคุณ ให้ดูที่[แชร์ปฏิทิน Outlook กับบุคคลอื่น](https://support.office.com/article/353ed2c1-3ec5-449d-8c73-6931a0adab88.aspx)</span><span class="sxs-lookup"><span data-stu-id="1313f-104">To learn more about sharing your calendar, see [Share an Outlook calendar with other people](https://support.office.com/article/353ed2c1-3ec5-449d-8c73-6931a0adab88.aspx).</span></span>

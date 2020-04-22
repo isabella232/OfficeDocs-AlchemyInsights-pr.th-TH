@@ -1,9 +1,9 @@
 ---
-title: ผู้สร้าง 744 เมื่อองค์กรอยู่ในโหมดไฮบริดสลี
+title: 744การสร้างผู้ใช้เมื่อองค์กรอยู่ในโหมดไฮบริดสลี
 ms.author: chrisda
 author: chrisda
 manager: dansimp
-ms.date: 4/26/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,13 +13,13 @@ ms.custom:
 - "744"
 - "1200022"
 ms.assetid: ed17197d-cee9-4539-b3dc-de5ac04efc79
-ms.openlocfilehash: 3300b746e60158db4feac5b1df9f9f95a30c0d9f
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 2ccad7ce9f2cdfa2c11dc020a0bcb84eec1cf096
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36514926"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43715287"
 ---
-# <a name="create-users-in-hybrid-deployments"></a><span data-ttu-id="f00cb-102">สร้างผู้ใช้ในการปรับใช้ไฮบริดสลี</span><span class="sxs-lookup"><span data-stu-id="f00cb-102">Create users in hybrid deployments</span></span>
+# <a name="create-users-in-hybrid-deployments"></a><span data-ttu-id="16300-102">สร้างผู้ใช้ในการปรับใช้ไฮบริดสลี</span><span class="sxs-lookup"><span data-stu-id="16300-102">Create users in hybrid deployments</span></span>
 
-<span data-ttu-id="f00cb-103">เมื่อองค์กรของคุณมีการปรับใช้ไฮบริดสลีระหว่างมีสภาพแวดล้อมในสถานที่และ Office 365 คุณจำเป็นต้องสร้างวัตถุผู้ใช้ทั้งหมดในไดเรกทอรีที่ใช้งานอยู่ในสถานของคุณ</span><span class="sxs-lookup"><span data-stu-id="f00cb-103">When your organization is a hybrid deployment between an on-premises environment and Office 365, you need to create all user objects in your on-premises Active Directory.</span></span> <span data-ttu-id="f00cb-104">คุณสามารถสร้างวัตถุผู้ใช้ในหน่วยงานที่เหมาะสม (OU) เพื่อที่จะซิงโครไนส์ลงในองค์กรของคุณ Office 365</span><span class="sxs-lookup"><span data-stu-id="f00cb-104">You create the user objects in the appropriate organizational unit (OU) so they're synchronized into your Office 365 organization.</span></span>
+<span data-ttu-id="16300-103">เมื่อองค์กรของคุณมีการปรับใช้ไฮบริดสลีระหว่างสภาพแวดล้อมในสถานที่และ Microsoft 365 คุณจําเป็นต้องสร้างวัตถุผู้ใช้ทั้งหมดในไดเรกทอรีที่ใช้งานอยู่ในสถานที่ของคุณ</span><span class="sxs-lookup"><span data-stu-id="16300-103">When your organization is a hybrid deployment between an on-premises environment and Microsoft 365, you need to create all user objects in your on-premises Active Directory.</span></span> <span data-ttu-id="16300-104">คุณสร้างวัตถุผู้ใช้ในหน่วยองค์กรที่เหมาะสม (OU) เพื่อให้พวกเขากําลังทําข้อมูลให้ตรงกันในองค์กรของคุณ</span><span class="sxs-lookup"><span data-stu-id="16300-104">You create the user objects in the appropriate organizational unit (OU) so they're synchronized into your organization.</span></span>

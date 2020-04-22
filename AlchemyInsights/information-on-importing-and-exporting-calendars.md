@@ -1,9 +1,9 @@
 ---
-title: ข้อมูลการนำเข้า และส่งออกปฏิทิน 609
+title: ข้อมูล 609 เกี่ยวกับการนําเข้าและส่งออกปฏิทิน
 ms.author: pdigia
 author: pebaum
 manager: jackiesm
-ms.date: 3/23/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,19 +13,19 @@ ms.custom:
 - "609"
 - "3800007"
 ms.assetid: 916ccbdb-439b-4cf8-a0d2-258c8c8b1130
-ms.openlocfilehash: aa6b318470739ef321aad9508f597dc04bcd6710
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: cf0b00e205878f835cb1952f3036dcc1c8d9b6eb
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36499154"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43711074"
 ---
-# <a name="importing-and-exporting-calendars"></a><span data-ttu-id="dc462-102">การนำเข้าและส่งออกปฏิทิน</span><span class="sxs-lookup"><span data-stu-id="dc462-102">Importing and exporting calendars</span></span>
+# <a name="importing-and-exporting-calendars"></a><span data-ttu-id="139ce-102">การนําเข้าและการส่งออกปฏิทิน</span><span class="sxs-lookup"><span data-stu-id="139ce-102">Importing and exporting calendars</span></span>
 
-<span data-ttu-id="dc462-103">สำหรับข้อมูลเพิ่มเติม ดูหัวข้อเหล่านี้:</span><span class="sxs-lookup"><span data-stu-id="dc462-103">For more information, see these topics:</span></span>
+<span data-ttu-id="139ce-103">สําหรับข้อมูลเพิ่มเติม ให้ดูหัวข้อเหล่านี้:</span><span class="sxs-lookup"><span data-stu-id="139ce-103">For more information, see these topics:</span></span>
   
-- [<span data-ttu-id="dc462-104">นำเข้า และส่ง ออก Outlook อีเมล ผู้ติดต่อ ปฏิทิน</span><span class="sxs-lookup"><span data-stu-id="dc462-104">Import and export Outlook email, contacts, and calendar</span></span>](https://support.office.com/article/92577192-3881-4502-b79d-c3bbada6c8ef)
+- [<span data-ttu-id="139ce-104">นําเข้าและส่งออกอีเมล ที่ติดต่อ และปฏิทิน Outlook</span><span class="sxs-lookup"><span data-stu-id="139ce-104">Import and export Outlook email, contacts, and calendar</span></span>](https://support.office.com/article/92577192-3881-4502-b79d-c3bbada6c8ef)
 
-- [<span data-ttu-id="dc462-105">นำเข้า หรือการสมัครสมาชิกปฏิทินใน Outlook.com</span><span class="sxs-lookup"><span data-stu-id="dc462-105">Import or subscribe to a calendar in Outlook.com</span></span>](https://support.office.com/article/cff1429c-5af6-41ec-a5b4-74f2c278e98c)
+- [<span data-ttu-id="139ce-105">นําเข้าหรือสมัครใช้งานปฏิทินในOutlook.com</span><span class="sxs-lookup"><span data-stu-id="139ce-105">Import or subscribe to a calendar in Outlook.com</span></span>](https://support.office.com/article/cff1429c-5af6-41ec-a5b4-74f2c278e98c)
 
-- [<span data-ttu-id="dc462-106">นำเข้าอีเมล ผู้ติดต่อ และปฏิทินจากแฟ้ม.pst ของ Outlook</span><span class="sxs-lookup"><span data-stu-id="dc462-106">Import email, contacts, and calendar from an Outlook .pst file</span></span>](https://support.office.com/article/431a8e9a-f99f-4d5f-ae48-ded54b3440ac)
+- [<span data-ttu-id="139ce-106">นําเข้าอีเมล ที่ติดต่อ และปฏิทินจากแฟ้ม .pst ของ Outlook</span><span class="sxs-lookup"><span data-stu-id="139ce-106">Import email, contacts, and calendar from an Outlook .pst file</span></span>](https://support.office.com/article/431a8e9a-f99f-4d5f-ae48-ded54b3440ac)
