@@ -1,8 +1,8 @@
 ---
-title: คำถามที่เกี่ยวข้องกับ Office 2019
+title: คําถามที่เกี่ยวข้องกับ Office 2019
 ms.author: janellem
 author: janellem
-ms.date: 1/17/2019
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ms.prod: office-online-server
@@ -12,26 +12,26 @@ ms.custom:
 - "1251"
 - "2000023"
 ms.assetid: 7fc322ce-08fa-4b87-98ac-c8a35bd6c8ee
-ms.openlocfilehash: f00109e467c5ef853f9312f57a7f966288a0bb0c
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: b4f02dcd8415414068b62497d647474c4b8f8d4d
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36553631"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43719822"
 ---
 # <a name="about-office-2019"></a>เกี่ยวกับ Office 2019
 
-Office 2019 สำหรับลูกค้าที่ยังไม่พร้อมสำหรับ cloud ได้ หรือมีความต้องการเฉพาะสำหรับในสถานหรือไฮบริดสลีปรับใช้ Office ได้ ประกอบด้วยชุดย่อยที่มีความหมายของลักษณะการทำงานที่ได้ถูกเพิ่มลงใน Office 365 ผ่าน 3 ปีที่ผ่านมา แต่ไม่ใช่ส่วนหนึ่งของ Office 365
+Office 2019 สําหรับลูกค้าที่ยังไม่พร้อมสําหรับระบบคลาวด์หรือมีความต้องการเฉพาะสําหรับการปรับใช้ Office ในสถานที่หรือไฮบริดสลี มีชุดย่อยที่มีความหมายของคุณลักษณะที่เพิ่มลงใน Microsoft 365 ในช่วงสามปีที่ผ่านมา แต่ไม่ใช่ส่วนหนึ่งของ Microsoft 365
   
-Office 365 ProPlus, cloud เชื่อมต่อ Office รุ่นนี้ ส่งประสบการณ์ใช้งาน Office ประสิทธิภาพมากที่สุด และมีความปลอดภัยมากที่สุด ให้การเข้าถึงชุดของการบริการที่นอกเหนือจากหมายเลขรุ่นในสถานที่มี และได้รับการปรับปรุงลักษณะการทำงานใหม่อย่างต่อเนื่อง
+แอป Microsoft 365 สําหรับองค์กร Office เวอร์ชันที่เชื่อมต่อกับระบบคลาวด์มอบประสบการณ์การใช้งาน Office ที่มีประสิทธิภาพและปลอดภัยที่สุด บริการต่างๆ ที่นอกเหนือจากเวอร์ชันในสถานที่ที่ได้รับและได้รับการอัปเดตฟีเจอร์ใหม่อย่างต่อเนื่อง
   
-ดังนั้น ถ้าคุณมี Office เดสก์ท็อป apps เป็นส่วนหนึ่งของการสมัครใช้งานของ Office 365 คุณมี Office รุ่นล่าสุดอยู่แล้ว
+ถ้าคุณมีแอป Office บนเดสก์ท็อปเป็นส่วนหนึ่งของการสมัครใช้งาน Microsoft 365 ของคุณ คุณมี Office เวอร์ชันล่าสุดอยู่แล้ว
   
 สำหรับข้อมูลเพิ่มเติม ให้ดูที่
   
-[Windows for เชิงพาณิชย์ของ 2019 office และ Mac ถามที่ถามบ่อย](https://support.microsoft.com/help/4133312)
+[Office 2019 พาณิชย์สําหรับ Windows และ Mac คําถามที่ถามบ่อย](https://support.microsoft.com/help/4133312)
   
-[หมายเลขรุ่นหลักของ Office 2019 ยังอยู่ที่ 16.0](https://docs.microsoft.com/deployoffice/office2019/overview)
+[หมายเลขรุ่นหลักของ Office 2019 อยู่ที่ 16.0](https://docs.microsoft.com/deployoffice/office2019/overview)
   
-[การแต่งตั้งปีใน Office 2016 และ Office 365 ไคลเอนต์ apps จะถูกเอาออกจากรายการของเมนูเริ่ม](https://support.office.com/article/8fe5e052-76d2-49de-af30-2e84ed3da907?wt.mc_id=Alchemy_ClientDIA)
+[ปีการกําหนดในโปรแกรมประยุกต์ของไคลเอ็นต์ Office 2016 และ Microsoft 365 จะถูกเอาออกจากรายการเมนูเริ่ม](https://support.office.com/article/8fe5e052-76d2-49de-af30-2e84ed3da907?wt.mc_id=Alchemy_ClientDIA)
   

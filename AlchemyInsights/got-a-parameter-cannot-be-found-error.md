@@ -1,8 +1,8 @@
 ---
-title: มีข้อผิดพลาด ' พารามิเตอร์ไม่พบ ' หรือไม่
+title: มีข้อผิดพลาด 'พารามิเตอร์ที่ไม่พบ' หรือไม่
 ms.author: pebaum
 author: pebaum
-ms.date: 5/8/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,21 +11,21 @@ ms.custom:
 - "683"
 - "3500008"
 ms.assetid: 5070ca31-9ccf-4408-865c-d36912450196
-ms.openlocfilehash: 5549801bfd0fd84c232f483f8d9fbd250c389aec
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: 8f07a2dc92315e5466ea126243adf46cff192934
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "36739872"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43722251"
 ---
-# <a name="migrating-email-from-imap-email-system-to-office-365"></a>การย้ายข้อมูลจากระบบเมล IMAP ไปยัง Office ๓๖๕
+# <a name="migrating-email-from-imap-email-system-to-microsoft-365"></a>การโยกย้ายอีเมลจากระบบอีเมล IMAP ไปยัง Microsoft 365
 
-หากต้องการย้ายข้อมูลจากระบบเมล IMAP โปรดทำตามขั้นตอนต่อไปนี้: การ[โยกย้าย IMAP ในศูนย์ดูแล Microsoft ๓๖๕](https://docs.microsoft.com/Exchange/mailbox-migration/migrating-imap-mailboxes/imap-migration-in-the-admin-center)
+เมื่อต้องการโยกย้ายอีเมลจากระบบจดหมาย IMAP โปรดทําตามขั้นตอนนี้:[การย้าย IMAP ในศูนย์การจัดการ Microsoft 365](https://docs.microsoft.com/Exchange/mailbox-migration/migrating-imap-mailboxes/imap-migration-in-the-admin-center)
   
-องค์กรขนาดใหญ่จำนวนมากจะต้องวางแผนอย่างระมัดระวังเพื่อจัดการความคาดหวังของผู้ใช้ [สิ่งที่คุณจำเป็นต้องทราบเกี่ยวกับการโยกย้ายกล่องจดหมาย IMAP ของคุณไปยังบทความ Office ๓๖๕](https://docs.microsoft.com/Exchange/mailbox-migration/migrating-imap-mailboxes/migrating-imap-mailboxes)จะช่วยคุณจัดการการเปลี่ยนแปลง
+องค์กรขนาดใหญ่จํานวนมากจะต้องวางแผนอย่างรอบคอบเพื่อจัดการความคาดหวังของผู้ใช้ [สิ่งที่คุณจําเป็นต้องรู้เกี่ยวกับการโยกย้ายกล่องจดหมาย IMAP ของคุณไปยังบทความ Microsoft 365](https://docs.microsoft.com/Exchange/mailbox-migration/migrating-imap-mailboxes/migrating-imap-mailboxes)จะช่วยให้คุณจัดการการเปลี่ยนแปลงได้
 
-นอกจากนี้โปรดตรวจสอบใช้[Office ๓๖๕กับหน้า FastTrack](https://www.microsoft.com/fasttrack/microsoft-365/office-365)เพื่อขอความช่วยเหลือเกี่ยวกับการโยกย้ายถ้ามีสิทธิ์
+โปรดตรวจสอบหน้า[นํา Microsoft 365 กับ FastTrack สําหรับ](https://www.microsoft.com/fasttrack/microsoft-365/office-365)ความช่วยเหลือเกี่ยวกับการย้ายข้อมูล
   
 
-นอกจากนี้โปรดตรวจสอบใช้[Office ๓๖๕กับหน้า FastTrack](https://www.microsoft.com/fasttrack/microsoft-365/office-365)เพื่อขอความช่วยเหลือเกี่ยวกับการโยกย้ายถ้ามีสิทธิ์
+โปรดตรวจสอบหน้า[นํา Microsoft 365 กับ FastTrack สําหรับ](https://www.microsoft.com/fasttrack/microsoft-365/office-365)ความช่วยเหลือเกี่ยวกับการย้ายข้อมูล
   

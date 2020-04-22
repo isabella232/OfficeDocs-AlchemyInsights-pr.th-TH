@@ -1,9 +1,9 @@
 ---
-title: การตั้งค่าสภาพแวดล้อมไฮบริดสลี
+title: การตั้งค่าสภาพแวดล้อมแบบไฮบริด
 ms.author: dstrome
 author: dstrome
 manager: dansimp
-ms.date: 5/3/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,14 +12,14 @@ ms.custom:
 - "690"
 - "3500010"
 ms.assetid: 08b866c0-aaff-4d6d-821f-97dc238dbd21
-ms.openlocfilehash: cf623c3b7e9fe2e31b285607181e3120ff590cd7
-ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
+ms.openlocfilehash: 55fe9c39ddbd61d085c3dd1084e637bce7d8fe2e
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 10/18/2019
-ms.locfileid: "36741024"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43758469"
 ---
-# <a name="setting-up-a-hybrid-environment"></a>การตั้งค่าสภาพแวดล้อมไฮบริดสลี
+# <a name="setting-up-a-hybrid-environment"></a>การตั้งค่าสภาพแวดล้อมแบบไฮบริด
 
-เพื่อให้ผู้ใช้ของคุณทำงานร่วมกันอย่างราบรื่นไม่ว่าถ้าข้อมูลของพวกเขาถูกเก็บไว้บนเซิร์ฟเวอร์ในสถานที่หรือใน Office ๓๖๕คุณอาจจำเป็นต้องตั้งค่าสภาพแวดล้อมไฮบริดสลี เมื่อต้องการดูภาพรวมของตัวเลือกของคุณให้ดูที่[Office ๓๖๕รวมกับสภาพแวดล้อมในสถานที่](https://docs.microsoft.com/office365/enterprise/office-365-integration)
+เมื่อต้องการให้ผู้ใช้ของคุณทํางานได้อย่างราบรื่นไม่ว่าข้อมูลของพวกเขาจะถูกเก็บไว้บนเซิร์ฟเวอร์ในสถานที่หรือใน Office 365 คุณอาจต้องตั้งค่าสภาพแวดล้อมแบบไฮบริด เมื่อต้องการรับภาพรวมของตัวเลือกของคุณ ให้ดูที่ การรวม[Office 365 กับสภาพแวดล้อมในสถานที่](https://docs.microsoft.com/office365/enterprise/office-365-integration)
   

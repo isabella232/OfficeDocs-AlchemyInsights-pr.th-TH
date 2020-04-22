@@ -1,9 +1,9 @@
 ---
-title: แฟ้ม.pst ซ่อมแซมก่อนการนำเข้า
+title: ซ่อมแซมแฟ้ม.pst ก่อนที่จะนําเข้า
 ms.author: chrisda
 author: chrisda
 manager: dansimp
-ms.date: ''
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,27 +12,27 @@ ms.custom:
 - "1226"
 - "1800027"
 ms.assetid: ''
-ms.openlocfilehash: 3f273d9807a20048f33ce476e091ee2122a773d4
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 518543f664873c99d5f296284199cd417c620e00
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36552442"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43720156"
 ---
-# <a name="repair-pst-file-before-importing"></a>แฟ้ม.pst ซ่อมแซมก่อนการนำเข้า
+# <a name="repair-pst-file-before-importing"></a>ซ่อมแซมแฟ้ม.pst ก่อนที่จะนําเข้า
 
-ก่อนที่คุณนำเข้าแฟ้ม.pst ใน Outlook ตรวจสอบแฟ้มที่เสียหายได้ โดยการซ่อมแซมแฟ้ม:
+ก่อนที่คุณจะนําเข้าแฟ้ม .pst ใน Outlook ให้ตรวจสอบแฟ้มนั้นไม่เสียหายโดยการซ่อมแซมแฟ้ม:
 
 1. ออกจาก Outlook
 
-2. ค้นหา และเรียกใช้`Scanpst.exe`ในโฟลเดอร์ของโปรแกรม Office (C:\Program:\แฟ้ม (x86) \Microsoft Office\root\Office\<รุ่น\>C:\Program Files\Microsoft Office\root\Office หรือ\<รุ่น\>)
+2. ค้นหาและเรียกใช้`Scanpst.exe`ในโฟลเดอร์โปรแกรม Office ของคุณ (C:\แฟ้มโปรแกรม (x86)\Microsoft\<Office\\>ราก\รุ่น Office หรือ C:\แฟ้มโปรแกรม\<\Microsoft Office\ราก\รุ่นของ\>Office)
 
-3. ในเครื่อง**มือซ่อมแซมกล่องขาเข้าของ Microsoft Outlook**คลิกการ**เรียกดู**เพื่อค้นหาแฟ้ม.pst (ตัวอย่างเช่น ใน C:\Users\\<username\>\AppData\Local\Microsoft\Outlook) เลือกแฟ้ม.pst และจากนั้น คลิก**เปิด**
+3. ใน**เครื่องมือซ่อมแซมกล่องขาเข้าของ Microsoft Outlook**ให้คลิก**เรียกดู**เพื่อค้นหาแฟ้ม .pst (ตัวอย่างเช่น ใน C:\Users\\<ชื่อผู้ใช้\>\AppData\Local\Microsoft\Outlook) เลือกแฟ้ม .pst แล้วคลิก**เปิด**
 
 4. คลิก**เริ่ม**เพื่อเริ่มการสแกน
 
-5. หากพบข้อผิดพลาดในแฟ้ม คลิก**ซ่อมแซม**และจากนั้น คลิก**ตกลง**เมื่อการซ่อมแซมเสร็จสมบูรณ์
+5. ถ้าพบข้อผิดพลาดในแฟ้ม ให้คลิก**ซ่อมแซม**แล้วคลิก**ตกลง**เมื่อการซ่อมแซมเสร็จสมบูรณ์
 
-6. ลองนำเข้าแฟ้ม.pst ใน Outlook อีกครั้ง
+6. กําลังพยายามนําเข้าแฟ้ม .pst ใน Outlook อีกครั้ง
 
-สำหรับข้อมูลเพิ่มเติม ให้ดู[แฟ้มข้อมูล Outlook ซ่อมแซม](https://support.office.com/article/25663bc3-11ec-4412-86c4-60458afc5253)และ[แก้ไขปัญหาการนำเข้าเป็นแฟ้ม.pst ของ Outlook](https://support.office.com/article/2d2e50dc-5c36-4ab2-ab50-f1be733b3d6e)
+สําหรับข้อมูลเพิ่มเติม ให้ดูที่[การซ่อมแซมแฟ้มข้อมูล Outlook](https://support.office.com/article/25663bc3-11ec-4412-86c4-60458afc5253)และ[การแก้ไขปัญหาการนําเข้าแฟ้ม .pst ของ Outlook](https://support.office.com/article/2d2e50dc-5c36-4ab2-ab50-f1be733b3d6e)

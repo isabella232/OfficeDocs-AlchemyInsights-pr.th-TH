@@ -1,8 +1,8 @@
 ---
-title: การทำงานกับ iOS VPP 1018 Id กฎของแอพลิเคชัน
+title: การทํางานกับ iOS VPP แอพลิเคชันกฎ ID 1018
 ms.author: pebaum
 author: pebaum
-ms.date: 9/10/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,19 +11,19 @@ ms.custom:
 - "1018"
 - "6700004"
 ms.assetid: 2e51ae64-8ba2-42e1-9e3e-f4aad102c391
-ms.openlocfilehash: a0bbc1f49f251ef4f16300c8cca98e219008d17e
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 88a1ef66bf337b3a0094976c122330591aee77ff
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36558024"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43719976"
 ---
-# <a name="working-with-ios-vpp-applications"></a>การทำงานกับโปรแกรมประยุกต์ VPP iOS
+# <a name="working-with-ios-vpp-applications"></a>การทํางานกับแอปพลิเคชัน iOS VPP
 
-อ่าน[วิธีการจัดการโปรแกรมประยุกต์ iOS ซื้อผ่านโปรแกรม volume ซื้อกับ Microsoft Intune](https://docs.microsoft.com/intune/vpp-apps-ios)เพื่อเรียนรู้เกี่ยวกับคุณลักษณะ ข้อจำกัด และขั้นตอนการทำให้ใช้ของ Apple ปริมาตรซื้อโปรแกรมและการสนับสนุนสำหรับตารางนั้นใน Microsoft Intune
+[อ่านวิธีจัดการแอป iOS ที่ซื้อผ่านโปรแกรมการซื้อแบบจํานวนมากด้วย Microsoft Intune](https://docs.microsoft.com/intune/vpp-apps-ios)เพื่อเรียนรู้เกี่ยวกับคุณลักษณะ ข้อจํากัด และขั้นตอนต่างๆ ในการใช้โปรแกรมการซื้อไดรฟ์ข้อมูล Apple และการสนับสนุนสําหรับแอปใน Microsoft Intune
   
- **ปัญหา:** "ฉันได้กำหนดแอพลิเคชัน VPP iOS ผู้ใช้ของฉัน แต่การติดตั้งล้มเหลว"
+ **ปัญหาที่พบบ่อย:** "ฉันกําหนดแอป iOS VPP ให้กับผู้ใช้ของฉัน แต่การติดตั้งล้มเหลว"
   
-- ซึ่งสามารถเกิดขึ้นได้ถ้ามีใช้โทเค็น VPP เดียวระหว่างผู้ให้บริการการจัดการอุปกรณ์เคลื่อนที่หลาย ๆ โทเค็น VPP จากเครื่องคอมพิวเตอร์ Apple อาจใช้ได้กับผู้ให้บริการหนึ่งเท่านั้น ถ้าคุณใช้โทเค็น VPP กับผู้ให้บริการหลาย คุณต้องอัปโหลดโทเค็นการ Intune อีกครั้ง
+- กรณีนี้สามารถเกิดขึ้นได้หากมีการใช้โทเค็น VPP เพียงโทเค็นเดียวในผู้ให้บริการการจัดการอุปกรณ์เคลื่อนที่หลายราย สัญญาณ VPP จาก Apple สามารถใช้กับผู้ให้บริการรายเดียวเท่านั้น ถ้าคุณใช้โทเค็น VPP กับผู้ให้บริการหลาย คุณต้องอัปโหลดโทเค็นอีกครั้งเพื่อ Intune
 
-- การติดตั้งสามารถล้มเหลวได้นอกจากนี้ถ้าจำนวนทั้งหมดที่ติดตั้งเกินจำนวนของสิทธิ์การใช้งาน เมื่อต้องการดูรายงานการใช้งานสำหรับสิทธิ์การใช้งานของคุณ ไปที่**apps Intune Mobile** \>เพจ**สิทธิ์การใช้งานโปรแกรมประยุกต์** เมื่อต้องการเรียนรู้วิธีการเพิ่มสิทธิ์การใช้งานใช้ ดู[บทความนี้](https://docs.microsoft.com/intune/vpp-apps-ios#revoking-app-licenses-and-deleting-tokens)
+- การติดตั้งยังสามารถล้มเหลวถ้าจํานวนการติดตั้งทั้งหมดเกินจํานวนสิทธิ์การใช้งาน เมื่อต้องการดูรายงานการใช้งานสําหรับสิทธิ์การใช้งานของคุณ ให้ไปที่หน้า**สิทธิ์การใช้งานแอป** **Intune Mobile App** \> เมื่อต้องการเรียนรู้วิธีการเรียกคืนสิทธิ์การใช้งานที่ใช้ โปรดดูที่[บทความนี้](https://docs.microsoft.com/intune/vpp-apps-ios#revoking-app-licenses-and-deleting-tokens)

@@ -1,8 +1,8 @@
 ---
-title: เหตุการณ์การบริการอยู่ระหว่างดำเนินการ
+title: อยู่ระหว่างดําเนินการเหตุการณ์การบริการ
 ms.author: v-crytho
 author: CrystalThomasMS
-ms.date: 9/19/2017
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,19 +11,19 @@ ms.assetid: f57713db-eb98-4980-a7fc-b53bf80f7e81
 ms.custom:
 - "113"
 - "1600012"
-ms.openlocfilehash: 5b4291339b52cc2cf0325cd115051ef79deecac5
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 535b0b35548044e950c3b29e6479bff50882b227
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36550534"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43719786"
 ---
-# <a name="service-incident-in-progress"></a>เหตุการณ์การบริการอยู่ระหว่างดำเนินการ
+# <a name="service-incident-in-progress"></a>อยู่ระหว่างดําเนินการเหตุการณ์การบริการ
 
-คุณอาจได้รับผลจากปัญหาการบริการ หรือคำแนะนำที่มีอยู่ในขณะนี้กำลังตรวจสอบ คุณสามารถตรวจสอบสถานะล่าสุดไปยังหน้าการ[บริการสุขภาพ](https://admin.microsoft.com/adminportal/home#/servicehealth)
+คุณอาจได้รับผลกระทบจากเหตุการณ์การบริการหรือคําแนะนําที่กําลังถูกตรวจสอบ คุณสามารถตรวจสอบสถานะล่าสุดได้โดยไปที่หน้า[ความสมบูรณ์ของบริการ](https://admin.microsoft.com/adminportal/home#/servicehealth)
   
-เพื่อความสะดวกของคุณ คุณสามารถค้นหาบทสรุปของเหตุการณ์นี้ด้านล่าง:
+เพื่อความสะดวกของคุณ, คุณสามารถหาสรุปของเหตุการณ์นี้ด้านล่าง:
   
-> **หมายเลขการแก้ไขปัญหา:** [{IncidentId }](https://admin.microsoft.com/adminportal/home#/servicehealth)
+> **หมายเลขเหตุการณ์:**[{IncidentId}](https://admin.microsoft.com/adminportal/home#/servicehealth)
     
-> มีผลกระทบต่อคำอธิบาย: {ImpactDescription }
+> คําอธิบายผลกระทบ: {ImpactDescription}

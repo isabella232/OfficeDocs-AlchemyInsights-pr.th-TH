@@ -12,26 +12,26 @@ ms.assetid: a371aee9-9c76-4951-89c5-e9e48811eded
 ms.custom:
 - "904"
 - "2000023"
-ms.openlocfilehash: 3a940182e831c03e040e5bb2dd9c73adcfd2c7b0
-ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
+ms.openlocfilehash: 623222ee0cfe9cd5798e341149b439e887a998e4
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 09/04/2019
-ms.locfileid: "36735480"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43759171"
 ---
 # <a name="how-to-install-office"></a>วิธีการติดตั้ง Office
 
-เมื่อต้องการติดตั้งแอปพลิเคชันไคลเอ็นต์ Office ให้ตรวจสอบให้แน่ใจว่าคุณมีการสมัครใช้งานทางธุรกิจเช่น Office ๓๖๕ Business Premium, Office ๓๖๕ธุรกิจหรือสำนักงาน๓๖๕การศึกษา
+เมื่อต้องการติดตั้งแอปไคลเอ็นต์ Office ให้ตรวจสอบว่าคุณมีการสมัครใช้งานทางธุรกิจ เช่น มาตรฐานพรีเมียมสําหรับธุรกิจของ Microsoft 365, แอป Microsoft 365 สําหรับธุรกิจ หรือ Office 365 Education
   
-*หมายเหตุ:[สำนักงานบ้านและธุรกิจ](https://products.office.com/home-and-business)เป็น[สำนักงานสำหรับ](https://support.office.com/article/28cbc8cf-1332-4f04-9123-9b660abb629e?wt.mc_id=Alchemy_ClientDIA)ผลิตภัณฑ์ที่บ้านและไม่ได้เป็นส่วนหนึ่งของการสมัครสมาชิกธุรกิจ สำหรับคำแนะนำเฉพาะบน Visio หรือ Project โปรดดูที่[ติดตั้ง visio](https://support.office.com/article/f98f21e3-aa02-4827-9167-ddab5b025710)หรือ[ติดตั้งโครงการ](https://support.office.com/article/7059249b-d9fe-4d61-ab96-5c5bf435f281)*
+*หมายเหตุ: [Office บ้านและธุรกิจ](https://products.office.com/home-and-business)เป็น[Office สําหรับผลิตภัณฑ์ภายในบ้าน](https://support.office.com/article/28cbc8cf-1332-4f04-9123-9b660abb629e?wt.mc_id=Alchemy_ClientDIA)และเป็นส่วนหนึ่งของการสมัครใช้งานทางธุรกิจ สําหรับคําแนะนําเฉพาะบน Visio หรือโครงการ ให้ดูที่[ติดตั้ง Visio](https://support.office.com/article/f98f21e3-aa02-4827-9167-ddab5b025710)หรือ[ติดตั้งโครงการ](https://support.office.com/article/7059249b-d9fe-4d61-ab96-5c5bf435f281)*
 
-สร้างบัญชีผู้ใช้และเพิ่มโดเมนของคุณ ตรวจสอบให้แน่ใจว่าผู้ใช้มี[ใบอนุญาตที่กำหนด](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users)ไว้
+สร้างบัญชีผู้ใช้และเพิ่มโดเมนของคุณ ตรวจสอบให้แน่ใจว่าผู้ใช้มี[สิทธิ์การใช้งานที่มอบหมาย](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users)
 
-ให้ผู้ใช้แต่ละคน:
+มีผู้ใช้แต่ละคน:
 
-1. ไปที่หน้าพอร์ทัล: [https://portal.office.com/OLS/MySoftware.aspx](https://portal.office.com/OLS/MySoftware.aspx)
-2. ลงชื่อเข้าใช้ด้วยบัญชีที่ทำงานหรือที่โรงเรียนหากยังไม่ได้ลงชื่อเข้าสู่ระบบ
-3. ภายใต้ส่วน Office ให้เลือกภาษา เลือก**ขั้นสูง**เพื่อเลือกรุ่น๓๒บิตหรือ๖๔บิต
+1. ไปที่เพจพอร์ทัล: [https://portal.office.com/OLS/MySoftware.aspx](https://portal.office.com/OLS/MySoftware.aspx).
+2. ลงชื่อเข้าใช้ด้วยบัญชีที่ทํางานหรือที่โรงเรียนหากยังไม่ได้ลงชื่อเข้าใช้
+3. ภายใต้ส่วน Office เลือกภาษา เลือก**ขั้นสูง**เพื่อเลือกรุ่น 32 บิต หรือ 64 บิต
 4. เลือก**ติดตั้ง**
 
-สำหรับขั้นตอนโดยละเอียดและวิธีแก้ไขปัญหาเมื่อติดตั้ง Office โปรดดู[ดาวน์โหลดและติดตั้งหรือติดตั้ง office บนพีซีหรือ Mac](https://support.office.com/article/4414eaaf-0478-48be-9c42-23adc4716658?wt.mc_id=Alchemy_ClientDIA)อีกครั้ง
+สําหรับขั้นตอนอย่างละเอียดและการแก้ไขปัญหาเมื่อติดตั้ง Office ให้ดูที่[การดาวน์โหลดและติดตั้งหรือติดตั้ง Office ใหม่บนพีซีหรือ Mac](https://support.office.com/article/4414eaaf-0478-48be-9c42-23adc4716658?wt.mc_id=Alchemy_ClientDIA)

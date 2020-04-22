@@ -10,17 +10,17 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "1"
-ms.openlocfilehash: ac7a66fc3315132f85eccba6cfa7eb5d2c7f5465
-ms.sourcegitcommit: 1e86dec31d92dba0f7804db9d11c47017a450579
+ms.openlocfilehash: 046a64632c4708ddd48730e00b13da13880ae365
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 02/27/2020
-ms.locfileid: "42326461"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43721828"
 ---
 # <a name="verify-your-domain-with-namecheap"></a>ยืนยันโดเมนของคุณด้วย Namecheap
 
-เมื่อต้องการยืนยันโดเมนคุณจะต้องเพิ่มระเบียน TXT ลงในทะเบียนโดเมนของคุณเพื่อยืนยันว่าคุณเป็นเจ้าของโดเมนของคุณ 
+ในการยืนยันโดเมน คุณจะต้องเพิ่มระเบียน TXT ไปยังบริษัทจดทะเบียนโดเมนเพื่อยืนยันว่าคุณเป็นเจ้าของโดเมน 
 
-ขั้นแรกให้ทำตามตัว[ช่วยสร้างเพิ่มโดเมน](https://portal.office.com/adminportal/home#/Domains)โดยเลือก**โด**เมน**การตั้งค่า** \>แล้ว**เพิ่มโดเมน**
+ขั้นแรก ให้ทําตาม[ตัวช่วยสร้างเพิ่มโดเมน](https://portal.office.com/adminportal/home#/Domains)โดย**Settings**\>การเลือก**การตั้งค่าโดเมน**แล้ว**เพิ่มโดเมน**
   
-ดู[สร้างระเบียน DNS ที่ Namecheap สำหรับ Office ๓๖๕](https://docs.microsoft.com/microsoft-365/admin/dns/create-dns-records-at-namecheap)สำหรับคำแนะนำทีละขั้นตอน
+ดู[สร้างระเบียน DNS ที่ Namecheap สําหรับ Microsoft 365](https://docs.microsoft.com/microsoft-365/admin/dns/create-dns-records-at-namecheap)สําหรับคําแนะนําทีละขั้นตอน

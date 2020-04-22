@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "428"
 - "1500016"
-ms.openlocfilehash: b5f22ebd28afb742e483576009a7844c0058e918
-ms.sourcegitcommit: 92e9a649532f5231ceedcafc4d14b8ad18d517c2
+ms.openlocfilehash: 560228d28399db175615126fca50d3578d79a83a
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 03/31/2020
-ms.locfileid: "43059899"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43720084"
 ---
 # <a name="update-credit-card-information"></a>อัปเดตข้อมูลบัตรเครดิต
 
@@ -40,4 +40,4 @@ ms.locfileid: "43059899"
 
 หากคุณประสบปัญหาเกี่ยวกับการโหลดหน้าเว็บ ให้ลองเปิดหน้าเว็บในเบราว์เซอร์อื่น หรือลองเปิดหน้าต่างเบราว์เซอร์ส่วนตัว เช่น หน้าต่างแบบ InPrivate ใน Microsoft Edge หรือหน้าต่างไม่ระบุตัวตนใน Google Chrome 
 
-สําหรับข้อมูลเพิ่มเติม ให้ดูที่[เพิ่ม อัปเดต หรือเอาบัตรเครดิตหรือบัญชีธนาคารใน Office 365 สําหรับธุรกิจ](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account)และ[การแก้ไขปัญหาบัตรเครดิตและบัญชีธนาคาร](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account#troubleshooting-credit-cards-and-bank-accounts)
+สําหรับข้อมูลเพิ่มเติม ให้ดูที่[เพิ่ม อัปเดต หรือเอาบัตรเครดิตหรือบัญชีธนาคารใน Microsoft 365 สําหรับธุรกิจ](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account)และ[การแก้ไขปัญหาบัตรเครดิตและบัญชีธนาคาร](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account#troubleshooting-credit-cards-and-bank-accounts)

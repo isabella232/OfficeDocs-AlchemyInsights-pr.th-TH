@@ -1,9 +1,9 @@
 ---
-title: เอา Outlook.com Skype
+title: Outlook.com ลบ Skype
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 4/15/2019
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,15 +11,15 @@ localization_priority: Normal
 ms.custom:
 - "1348"
 - "8000082"
-ms.openlocfilehash: 4ce51c6bc7af6cf1cd6d82feeff0d9be9159bdbd
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: f97aa887e072f01bbb7e077550c195bb934c6648
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36535122"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43743832"
 ---
-# <a name="skype-icon-missing"></a>ไม่พบไอคอน Skype
+# <a name="skype-icon-missing"></a>ไอคอน Skype หายไป
 
-เราได้เอาไอคอน Skype จาก Outlook.com เป็นส่วนหนึ่งของการออกแบบฟื้นฟูและคุณลักษณะการปรับปรุงเรากำลัง excited จะถูกนำออกชั่วคราว ขอขอบคุณสำหรับความอดทนของคุณในขณะที่เราได้จัดเตรียมแบบใหม่ และปรับปรุงประสบการณ์การใช้งานสำหรับคุณ
+เราได้ลบไอคอน Skype ออกจากOutlook.comชั่วคราวซึ่งเป็นส่วนหนึ่งของการรีเฟรชและการออกแบบและการปรับปรุงคุณลักษณะที่เรารู้สึกตื่นเต้นที่จะเปิดตัว เราขอขอบคุณที่อดทนรอในขณะที่เราเตรียมประสบการณ์ใหม่และปรับปรุงให้คุณ
 
-คุณยังคงสามารถใช้ Skype ได้โดยใช้เบราว์เซอร์ของคุณที่[web.skype.com](https://web.skype.com/)
+คุณยังสามารถใช้ Skype ผ่านเบราว์เซอร์ของคุณได้ที่[web.skype.com](https://web.skype.com/)

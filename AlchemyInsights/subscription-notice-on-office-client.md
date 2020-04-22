@@ -1,9 +1,9 @@
 ---
-title: แจ้งเตือนการบอกรับเป็นสมาชิกบนไคลเอ็นต์ของ Office
+title: ประกาศการสมัครใช้งานบนไคลเอ็นต์ Office
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
-ms.date: 2/24/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,18 +13,17 @@ ms.custom:
 - "56"
 - "1600007"
 ms.assetid: 07b5e37e-c6f5-47fc-bd6f-9419a77d2320
-ms.openlocfilehash: 03bd18b0ca7af8f3102041c4f6fd604bb29737f8
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 661ac7b7c7a6556ab22d08e9fc0e8d6e25d7133c
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36559788"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43741882"
 ---
-# <a name="subscription-notice-in-your-office-client"></a>แจ้งเตือนการบอกรับเป็นสมาชิกในไคลเอ็นต์ของ Office หรือไม่
+# <a name="subscription-notice-in-your-office-client"></a>ประกาศการสมัครใช้งานในไคลเอ็นต์ Office ของคุณใช่ไหม
 
-ดูเหมือนว่าคุณจะเห็นการแจ้งให้ทราบในไคลเอ็นต์ของ Office ที่เกี่ยวข้องกับสถานะของการสมัครใช้งานของ Office 365 คุณสามารถค้นหาข้อมูลเกี่ยวกับวิธีการแก้ไขปัญหาในบทความนี้:[แจ้งเตือนการบอกรับเป็นสมาชิกปรากฏขึ้นเมื่อฉันเปิดโปรแกรมประยุกต์ Office 365](https://support.office.com/article/A-subscription-notice-appears-when-I-open-an-Office-365-application-4cabe32c-f594-4c0e-9191-3d3ade10cceb.aspx)
+ดูเหมือนว่าคุณจะเห็นประกาศในไคลเอ็นต์ Office ของคุณที่เกี่ยวข้องกับสถานะของการสมัครใช้งานของคุณ คุณสามารถค้นหาข้อมูลเกี่ยวกับวิธีการแก้ไขปัญหาในบทความนี้:[ประกาศการสมัครใช้งานปรากฏขึ้นเมื่อฉันเปิดโปรแกรมประยุกต์ Microsoft 365](https://support.office.com/article/A-subscription-notice-appears-when-I-open-an-Office-365-application-4cabe32c-f594-4c0e-9191-3d3ade10cceb.aspx)
   
-ถ้าการสมัครใช้งานของ Office 365 เป็นปัจจุบัน คุณอาจได้เข้าชมเป็นปัญหาชั่วคราวที่ทำให้เกิดการเปิดใช้งาน Office ล้มเหลว มีขั้นตอนง่าย ๆ ที่คุณสามารถใช้เพื่อหลีกเลี่ยงข้อความเหล่านี้ เช่นเดียวกับการตรวจสอบเวลาของคอมพิวเตอร์ของคุณ เรียกใช้ Office เป็นผู้ดูแลระบบ และลงชื่อเข้าใช้เพื่อเปิดใช้งาน คุณสามารถค้นหารายละเอียดขั้นตอนการแก้ไขปัญหาเหล่านั้นในบทความนี้:[ผลิตภัณฑ์สิทธิ์และข้อผิดพลาดในการเปิดใช้งานใน Office](https://support.office.com/article/Unlicensed-Product-and-activation-errors-in-Office-0d23d3c0-c19c-4b2f-9845-5344fedc4380.aspx)ได้
+ถ้าการสมัครใช้งานของคุณทันสมัย คุณอาจประสบปัญหาชั่วคราวที่ทําให้การเปิดใช้งาน Office ล้มเหลว มีขั้นตอนง่ายๆ ที่คุณสามารถดําเนินการเพื่อหลีกเลี่ยงข้อความเหล่านี้ เช่น การตรวจสอบเวลาในคอมพิวเตอร์ของคุณ คุณสามารถดูขั้นตอนโดยละเอียดเพื่อแก้ไขปัญหาเหล่านั้นในบทความนี้:[ผลิตภัณฑ์ที่ไม่มีใบอนุญาตและข้อผิดพลาดในการเปิดใช้งาน](https://support.office.com/article/Unlicensed-Product-and-activation-errors-in-Office-0d23d3c0-c19c-4b2f-9845-5344fedc4380.aspx)
   
-ถ้าสิ่งเหล่านี้ไม่ได้ผลสำหรับคุณ โปรดติดต่อเรา มีการเชื่อมโยงด้านล่าง และเราจะยินดีที่จะช่วย
-  
+หากเหล่านี้ไม่ทํางานสําหรับคุณ, โปรดติดต่อเราด้วยการเชื่อมโยงด้านล่างและเรายินดีที่จะช่วย.

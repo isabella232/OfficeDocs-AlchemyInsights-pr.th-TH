@@ -1,9 +1,9 @@
 ---
-title: ผู้เช่าเป็นงบินกล้าในแอพลิเคชันการสนับสนุนสำหรับ Outlook
+title: ผู้เช่ากําลังนําการสนับสนุนในแอปสําหรับ Outlook
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 2/24/2020
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,15 +11,15 @@ localization_priority: Normal
 ms.custom:
 - "3441"
 - "9001442"
-ms.openlocfilehash: b21174ceefb4a9222854f450ddef91f06e39157e
-ms.sourcegitcommit: 1e624fbebbe70f064cd24e3347d70a75caedf840
+ms.openlocfilehash: 646a65a4cb068b1c91c52c42d55fe09e62421f9d
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 02/24/2020
-ms.locfileid: "42260466"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43720451"
 ---
-# <a name="your-tenant-is-piloting-in-app-support-for-outlook"></a>ผู้เช่าของคุณคือการสนับสนุนในแองบินกล้าสำหรับ Outlook
+# <a name="your-tenant-is-piloting-in-app-support-for-outlook"></a>ผู้เช่าของคุณกําลังนําการสนับสนุนในแอปสําหรับ Outlook
 
-คุณอาจมีสิทธิ์ได้รับการสนับสนุนโดยตรงใน Outlook ถ้าคุณกำลังเรียกใช้การสร้างช่องทางรายเดือนล่าสุดให้เปิด Outlook แล้วเลือก**วิธีใช้** > **ติดต่อฝ่ายสนับสนุน** พิมพ์คำถามของคุณและสมาชิกของทีมสนับสนุน Outlook จะติดต่อคุณ
+คุณอาจมีสิทธิ์ได้รับการสนับสนุนโดยตรงใน Outlook ถ้าคุณกําลังเรียกใช้การสร้างช่องทางรายเดือนล่าสุด ให้เปิด Outlook และเลือก**ฝ่ายสนับสนุนที่ติดต่อ****ช่วยเหลือ** >  พิมพ์คําถามของคุณและสมาชิกของทีมสนับสนุน Outlook จะติดต่อคุณ
 
-ถ้าคุณไม่แน่ใจว่าคุณกำลังเรียกใช้การสร้างช่องทางรายเดือนล่าสุดหรือไม่ให้ดู[ที่รุ่นของ Office ที่ฉันใช้อยู่](https://support.office.com/article/932788B8-A3CE-44BF-BB09-E334518B8B19)
+ถ้าคุณไม่แน่ใจว่าคุณกําลังเรียกใช้รุ่นล่าสุดของแชนเนลรายเดือน ให้ดูที่[ฉันใช้ Office เวอร์ชันใด](https://support.office.com/article/932788B8-A3CE-44BF-BB09-E334518B8B19)อยู่

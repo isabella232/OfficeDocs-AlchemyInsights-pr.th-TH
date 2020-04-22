@@ -1,8 +1,8 @@
 ---
-title: ทีม Freemium
+title: ทีมฟรีเมียม
 ms.author: heidip
 author: heidip
-ms.date: 3/6/2019
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -10,19 +10,19 @@ localization_priority: Normal
 ms.custom:
 - "997"
 - "6500005"
-ms.openlocfilehash: d3dfcda1250aaf783e890cd897c51c8639cef48f
-ms.sourcegitcommit: 9ab422063e5a474c92ed956d42d222b90336fecb
+ms.openlocfilehash: 8de8414610fa181c0ad477563c5fdb8eaee5a3bd
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 03/11/2020
-ms.locfileid: "42599359"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43737815"
 ---
-# <a name="id-like-to-sign-up-for-teams-for-free"></a>ฉันต้องการลงทะเบียนสำหรับทีมฟรี
+# <a name="id-like-to-sign-up-for-teams-for-free"></a>ฉันต้องการลงทะเบียนสําหรับ Teams ฟรี
 
-ทีมสามารถใช้ได้ฟรีผ่านโปรแกรมที่แตกต่างกันคู่ เนื่องจากคุณกำลังติดต่อฝ่ายสนับสนุนกับการร้องขอนี้คุณมีอยู่แล้ว Microsoft ๓๖๕ผู้เช่าซึ่งหมายความว่าคุณมีทีม Microsoft อยู่แล้ว
+ทีมมีให้ฟรีผ่านโปรแกรมที่แตกต่างกันสอง เมื่อคุณติดต่อฝ่ายสนับสนุนด้วยคําขอนี้ คุณมีผู้เช่า Microsoft 365 อยู่แล้ว ซึ่งหมายความว่าคุณมี Microsoft Teams อยู่แล้ว
 
-ในกรณีส่วนใหญ่ทีมจะเปิดตามค่าเริ่มต้นสำหรับผู้ใช้ทั้งหมดของคุณ เมื่อเปิดเครื่องแล้วผู้ใช้ของคุณสามารถเรียกใช้ทีมได้โดยการติดตั้ง[เดสก์ท็อป](https://docs.microsoft.com/MicrosoftTeams/get-clients#desktop-client) และไคลเอนต์ [บนอุปกรณ์เคลื่อน](https://docs.microsoft.com/MicrosoftTeams/get-clients#mobile-clients)ที่หรือ [จากเบราว์เซอร์](https://docs.microsoft.com/MicrosoftTeams/get-clients#web-client) ที่ <https://teams.microsoft.com.>
+ในกรณีส่วนใหญ่ Teams จะเปิดไว้ตามค่าเริ่มต้นสําหรับผู้ใช้ทั้งหมดของคุณ เมื่อเปิดแล้ว ผู้ใช้ของคุณสามารถเรียกใช้ Teams ได้ โดยการติดตั้ง[เดสก์ท็อป](https://docs.microsoft.com/MicrosoftTeams/get-clients#desktop-client) และไคลเอ็นต์ [บนอุปกรณ์เคลื่อนที่](https://docs.microsoft.com/MicrosoftTeams/get-clients#mobile-clients)หรือ [จากเบราว์เซอร์](https://docs.microsoft.com/MicrosoftTeams/get-clients#web-client) ที่ <https://teams.microsoft.com.>
 
-ข้อยกเว้นนี้เป็นทีมของ Microsoft สำหรับการศึกษา (EDU) ถ้าคุณมีใบอนุญาตของ EDU คุณจำเป็นต้องเปิดใช้งาน Microsoft ทีมด้วยตนเอง เมื่อต้องการทำเช่นนี้ไปยัง Microsoft ๓๖๕ admin ศูนย์**บริการ> และเพิ่มเติม > ทีม Microsoft** ถ้าคุณกำลังใช้ศูนย์กลางการจัดการทีมใหม่คุณจะต้องปิดใช้งาน **' ศูนย์ดูแลระบบ '** ใหม่เพื่อค้นหา **บริการและโปรแกรมเพิ่มเติม** สิ่งสำคัญ: คุณอาจต้องรอจนถึง24ชั่วโมงเพื่อให้การเปลี่ยนแปลงของคุณมีผล
+ข้อยกเว้นนี้คือ ทีมของ Microsoft สําหรับการศึกษา (EDU) ถ้าคุณมีใบอนุญาต EDU คุณจําเป็นต้องเปิดใช้งาน Microsoft Teams ด้วยตนเอง เมื่อต้องการทําเช่นนี้ ไปที่ ศูนย์การจัดการ Microsoft 365 **> บริการและเพิ่มเติม > Microsoft Teams** ถ้าคุณกําลังใช้ศูนย์การจัดการ Teams ใหม่ คุณจะต้องปิด  **ลองใช้ศูนย์การจัดการใหม่**เพื่อค้นหา **บริการและ Add-in** สิ่งสําคัญ: คุณอาจต้องรอถึง 24 ชั่วโมงเพื่อให้การเปลี่ยนแปลงของคุณมีผล
 
-อย่าพลาดคำแนะนำทั้งหมดของเราสำหรับการ [สนับสนุนคนงานระยะไกลกับทีม](https://docs.microsoft.com/MicrosoftTeams/support-remote-work-with-teams)งาน
+อย่าพลาดคําแนะนําทั้งหมดของเรา [สําหรับการสนับสนุนพนักงานระยะไกลด้วย Teams](https://docs.microsoft.com/MicrosoftTeams/support-remote-work-with-teams)

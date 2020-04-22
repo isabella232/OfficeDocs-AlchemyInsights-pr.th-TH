@@ -1,9 +1,9 @@
 ---
-title: สิทธิ์การใช้งานที่จำเป็นสำหรับ Microsoft สิ่งที่ต้องทำ
+title: สิทธิ์การใช้งานที่จําเป็นสําหรับไมโครซอฟท์สิ่งที่ต้องทํา
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
-ms.date: 6/25/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,50 +13,50 @@ ms.custom:
 - "164"
 - "1600027"
 ms.assetid: b2cf6d0a-9f01-49d8-8653-6a3366f6119d
-ms.openlocfilehash: 110bc5b949060387bbebb478538d9aeb77f26c85
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: eb25746eff60463f7182df4785a3c34d958e6c39
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36552190"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43722675"
 ---
-# <a name="required-licenses-for-microsoft-todo"></a>สิทธิ์การใช้งานที่จำเป็นสำหรับ Microsoft สิ่งที่ต้องทำ
+# <a name="required-licenses-for-microsoft-todo"></a>สิทธิ์การใช้งานที่จําเป็นสําหรับไมโครซอฟท์สิ่งที่ต้องทํา
 
-[สิทธิ์การใช้งานที่จำเป็นสำหรับ Microsoft สิ่งที่ต้องทำ](https://support.office.com/article/381e9d1b-c500-49b5-973e-890fd86528d7.aspx)
+[สิทธิ์การใช้งานที่จําเป็นสําหรับไมโครซอฟท์สิ่งที่ต้องทํา](https://support.office.com/article/381e9d1b-c500-49b5-973e-890fd86528d7.aspx)
   
-ผู้ใช้ต้องมีสิทธิ์การใช้งานต่อไปนี้เมื่อต้องการใช้สิ่งที่ Microsoft ต้องทำอย่างใดอย่างหนึ่ง:
+ผู้ใช้ต้องมีสิทธิ์การใช้งานต่อไปนี้อย่างใดอย่างหนึ่งเพื่อใช้ Microsoft ToDo:
   
-- สิ่งจำเป็นสำหรับธุรกิจ
+- สิ่งจําเป็นสําหรับธุรกิจ
 
-- ค่าจ้างพิเศษของธุรกิจ
+- พรีเมี่ยมธุรกิจ
 
-- Microsoft 365 Firstline F1
+- ไมโครซอฟท์ 365 เฟิร์สไลน์ F1
 
-- แผน Office 365 องค์กรใด ๆ
+- แผน Office 365 องค์กรใดๆ
 
-- ธุรกิจประสิทธิภาพการรักษาความปลอดภัย
+- ธุรกิจที่มีประสิทธิผลที่ปลอดภัย
 
-- E3 องค์กรประสิทธิภาพการรักษาความปลอดภัย
+- การรักษาความปลอดภัย E3 องค์กร
 
-- E5 องค์กรประสิทธิภาพการรักษาความปลอดภัย
+- การรักษาความปลอดภัยองค์กร E5 ประสิทธิผล
 
-- แผนการศึกษา 365 Office ใด ๆ
+- แผนการศึกษา Office 365
 
-- A3 Microsoft 365
+- ไมโครซอฟท์ 365 A3
 
-- A5 Microsoft 365
+- ไมโครซอฟท์ 365 A5
 
-นอกเหนือจากใบอนุญาตของผลิตภัณฑ์ที่ถูกต้อง หนึ่งในเวอร์ชันก่อนหน้าของ Exchange แบบออนไลน์จำเป็นต้องใช้สำหรับสิ่งที่ต้องทำเพื่อให้สามารถซิงค์ผู้ใช้ข้อมูล:
+นอกเหนือจากสิทธิ์การใช้งานผลิตภัณฑ์ที่ถูกต้อง
   
-- แลกเปลี่ยนแผนที่ออนไลน์ 1
+- แลกเปลี่ยนแผนออนไลน์ 1
 
-- แลกเปลี่ยนแผนที่ออนไลน์ 2
+- แลกเปลี่ยนแผนออนไลน์ 2
 
-- สิ่งจำเป็นสำหรับการแลกเปลี่ยน
+- แลกเปลี่ยนสิ่งจําเป็น
 
-- ตู้แบบออนไลน์ของอัตราแลกเปลี่ยน
+- แลกเปลี่ยนตู้ออนไลน์
 
-- หน้าต่างแบบผุดขึ้นแบบออนไลน์ของอัตราแลกเปลี่ยน
+- แลกเปลี่ยน POP ออนไลน์
 
-[กำหนดสิทธิ์การใช้งานบัญชีผู้ใช้กับ Office 365 PowerShell](https://docs.microsoft.com/office365/enterprise/powershell/assign-licenses-to-user-accounts-with-office-365-powershell )
+[กําหนดสิทธิ์การใช้งานให้กับบัญชีผู้ใช้ด้วย PowerShell ของ Office 365](https://docs.microsoft.com/office365/enterprise/powershell/assign-licenses-to-user-accounts-with-office-365-powershell )
   

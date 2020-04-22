@@ -1,27 +1,27 @@
 ---
-title: ไม่มีการส่งหรือรับที่อยู่ของเม Outlook.com ส่วนบุคคล
+title: Outlook.comที่อยู่อีเมลที่ปรับให้เป็นส่วนตัวไม่ได้ส่งหรือรับ
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 5/2/2019
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 8000083
-ms.openlocfilehash: 7363af1d4fc1a0f4131bebc325485dc99a30e2eb
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: a9a26ff709a1c55f65118346e4f51fd6ac873745
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "36545890"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43744974"
 ---
-# <a name="my-personalized-outlookcom-email-address-isnt-sending-or-receiving"></a>ที่อยู่เม Outlook.com ส่วนบุคคลของฉันไม่ได้ส่งหรือรับ
+# <a name="my-personalized-outlookcom-email-address-isnt-sending-or-receiving"></a>ที่อยู่อีเมลOutlook.comส่วนบุคคลของฉันไม่ส่งหรือรับ
 
-เลือกไอคอนเพชรบนแถบเครื่องมือเพื่อเปิดแดชบอร์ดแบบพรีเมียม
+เลือกไอคอนรูปเพชรบนแถบเครื่องมือเพื่อเปิดแดชบอร์ดพรีเมียม
 
-หากคุณไม่เห็นไอคอนเพชรในกล่องจดหมาย (และคุณเห็นโฆษณา) หมายความว่าการสมัครใช้งาน Office ๓๖๕ของคุณหมดอายุแล้ว ไปที่ [https://account.microsoft.com/services](https://account.microsoft.com/services)การเปิดใช้งานการสมัครสมาชิกของคุณอีกครั้งแล้วเชื่อมต่อโดเมนใหม่โดยใช้ขั้นตอนใน "เริ่มต้น"
+ถ้าคุณไม่เห็นไอคอนรูปเพชรในกล่องจดหมายของคุณ (และคุณเห็นโฆษณา) แสดงว่าการสมัครใช้งาน Microsoft 365 ของคุณหมดอายุแล้ว ไปที่ [https://account.microsoft.com/services](https://account.microsoft.com/services)เพื่อเปิดใช้งานการสมัครใช้งานของคุณอีกครั้ง แล้วเชื่อมต่อโดเมนของคุณใหม่โดยใช้ขั้นตอนใน "เริ่มต้นใช้งาน"
 
-หากแท็บ "ที่อยู่ email ส่วนบุคคล" มีแถบสถานะสีแดงโดเมนของคุณอาจหมดอายุ
+หากแท็บ "ที่อยู่อีเมลส่วนบุคคล" มีแถบสถานะสีแดง โดเมนของคุณอาจหมดอายุแล้ว
 
-อ่านขั้นตอนการแก้ไขปัญหาเพิ่มเติมเกี่ยวกับที่อยู่ที่คุณต้องการ[ใน Office ๓๖๕](https://support.office.com/article/75416a58-b225-4c02-8c07-8979403b427b?wt.mc_id=Office_Outlook_com_Alchemy)
+อ่านขั้นตอนการแก้ไขปัญหาเพิ่มเติมเกี่ยวกับ[ที่อยู่อีเมลที่ปรับเป็นส่วนตัวใน Microsoft 365](https://support.office.com/article/75416a58-b225-4c02-8c07-8979403b427b?wt.mc_id=Office_Outlook_com_Alchemy)
