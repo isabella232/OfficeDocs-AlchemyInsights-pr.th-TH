@@ -1,5 +1,5 @@
 ---
-title: ตรวจสอบโดเมนของคุณด้วย 1&1 IONOS
+title: ยืนยันโดเมนของคุณด้วย 1&1 iONOS
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -10,17 +10,17 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "1"
-ms.openlocfilehash: 429817368bac921f383d93e9d070d1bb8df9da59
-ms.sourcegitcommit: 1e86dec31d92dba0f7804db9d11c47017a450579
+ms.openlocfilehash: 02809440344fc9cd9329d56b1c67dd0b47947c82
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 02/27/2020
-ms.locfileid: "42326557"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43726159"
 ---
-# <a name="verify-your-domain-with-11-ionos"></a><span data-ttu-id="68024-102">ตรวจสอบโดเมนของคุณด้วย 1&1 IONOS</span><span class="sxs-lookup"><span data-stu-id="68024-102">Verify your domain with 1&1 IONOS</span></span>
+# <a name="verify-your-domain-with-11-ionos"></a><span data-ttu-id="ef828-102">ยืนยันโดเมนของคุณด้วย 1&1 iONOS</span><span class="sxs-lookup"><span data-stu-id="ef828-102">Verify your domain with 1&1 IONOS</span></span>
 
-<span data-ttu-id="68024-103">เมื่อต้องการยืนยันโดเมนคุณจะต้องเพิ่มระเบียน TXT ลงในทะเบียนโดเมนของคุณเพื่อยืนยันว่าคุณเป็นเจ้าของโดเมนของคุณ</span><span class="sxs-lookup"><span data-stu-id="68024-103">To verify your domain, you will need to add a TXT record to your domain registrar to verify that you own your domain.</span></span> 
+<span data-ttu-id="ef828-103">ในการยืนยันโดเมน คุณจะต้องเพิ่มระเบียน TXT ไปยังบริษัทจดทะเบียนโดเมนเพื่อยืนยันว่าคุณเป็นเจ้าของโดเมน</span><span class="sxs-lookup"><span data-stu-id="ef828-103">To verify your domain, you will need to add a TXT record to your domain registrar to verify that you own your domain.</span></span> 
 
-<span data-ttu-id="68024-104">ขั้นแรกให้ทำตามตัว[ช่วยสร้างเพิ่มโดเมน](https://portal.office.com/adminportal/home#/Domains)โดยเลือก**โด**เมน**การตั้งค่า** \>แล้ว**เพิ่มโดเมน**</span><span class="sxs-lookup"><span data-stu-id="68024-104">First, follow the [Add Domain wizard](https://portal.office.com/adminportal/home#/Domains) by selecting **Settings** \> **Domains**, and then **Add domain**.</span></span>
+<span data-ttu-id="ef828-104">ขั้นแรก ให้ทําตาม[ตัวช่วยสร้างเพิ่มโดเมน](https://portal.office.com/adminportal/home#/Domains)โดย**Settings**\>การเลือก**การตั้งค่าโดเมน**แล้ว**เพิ่มโดเมน**</span><span class="sxs-lookup"><span data-stu-id="ef828-104">First, follow the [Add Domain wizard](https://portal.office.com/adminportal/home#/Domains) by selecting **Settings** \> **Domains**, and then **Add domain**.</span></span>
   
-<span data-ttu-id="68024-105">ดู[สร้างระเบียน DNS ที่ 1&1 IONOS สำหรับ Office ๓๖๕](https://docs.microsoft.com/microsoft-365/admin/dns/create-dns-records-at-1-1-internet)สำหรับคำแนะนำทีละขั้นตอน</span><span class="sxs-lookup"><span data-stu-id="68024-105">See [Create DNS records at 1&1 IONOS for Office 365](https://docs.microsoft.com/microsoft-365/admin/dns/create-dns-records-at-1-1-internet) for step-by-step instructions.</span></span>
+<span data-ttu-id="ef828-105">ดู[สร้างระเบียน DNS ที่ 1&1 IONOS สําหรับ Microsoft 365](https://docs.microsoft.com/microsoft-365/admin/dns/create-dns-records-at-1-1-internet)สําหรับคําแนะนําทีละขั้นตอน</span><span class="sxs-lookup"><span data-stu-id="ef828-105">See [Create DNS records at 1&1 IONOS for Microsoft 365](https://docs.microsoft.com/microsoft-365/admin/dns/create-dns-records-at-1-1-internet) for step-by-step instructions.</span></span>
