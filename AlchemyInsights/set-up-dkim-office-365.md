@@ -1,5 +1,5 @@
 ---
-title: ตั้งค่า DKIM ใน Office ๓๖๕
+title: ติดตั้ง DKIM
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -9,43 +9,43 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 1388
 ms.assetid: ''
-ms.openlocfilehash: dd908db6a4bc1739b3c1cff059387034d67e093d
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: d23a816d4eef065f800eaee60829d57dc1e7177f
+ms.sourcegitcommit: 6bf1d945b4fd6a1fe37d00c5ea99adea7eef9910
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36666283"
+ms.lasthandoff: 04/21/2020
+ms.locfileid: "43645691"
 ---
-# <a name="setup-dkim-in-office-365"></a>ตั้งค่า DKIM ใน Office ๓๖๕
+# <a name="setup-dkim"></a>ติดตั้ง DKIM
 
-คำแนะนำที่สมบูรณ์สำหรับการกำหนดค่า DKIM สำหรับโดเมนที่กำหนดเองใน Office ๓๖๕อยู่ที่[นี่](https://docs.microsoft.com/office365/SecurityCompliance/use-dkim-to-validate-outbound-email#what-you-need-to-do-to-manually-set-up-dkim-in-office-365)
+คําแนะนําที่สมบูรณ์สําหรับการกําหนดค่า DKIM สําหรับโดเมนแบบกําหนดเองใน Microsoft 365[อยู่ที่นี่](https://docs.microsoft.com/office365/SecurityCompliance/use-dkim-to-validate-outbound-email#what-you-need-to-do-to-manually-set-up-dkim-in-office-365)
 
-1. สำหรับ**แต่ละ**โดเมนที่กำหนดเองคุณจำเป็นต้องสร้างระเบียน CNAME แบบ DKIM **2**รายการที่บริการโฮสต์ DNS ของโดเมนของคุณ (โดยทั่วไปคือผู้ลงทะเบียนโดเมน) ตัวอย่างเช่น contoso.com และ fourthcoffee.com ต้องการระเบียน DKIM CNAME สี่เรกคอร์ด: สองสำหรับ contoso.com และสองสำหรับ fourthcoffee.com
+1. สําหรับโดเมนที่กําหนดเอง**แต่ละ**โดเมน คุณจะต้องสร้างระเบียน DKIM CNAME**สอง**ระเบียนที่บริการโฮสต์ DNS ของโดเมน (โดยทั่วไปคือ บริษัทจดทะเบียนโดเมน) ตัวอย่างเช่น contoso.comและfourthcoffee.comต้องใช้ระเบียน DKIM CNAME 4 ระเบียน คือ สองระเบียนสําหรับcontoso.comและสองระเบียนสําหรับfourthcoffee.com
 
-   ระเบียน DKIM CNAME สำหรับ**แต่ละ**โดเมนที่กำหนดเองจะใช้รูปแบบต่อไปนี้:
+   ระเบียน CNAME ของ DKIM**สําหรับแต่ละโดเมน**ที่กําหนดเองใช้รูปแบบต่อไปนี้
 
    - **ชื่อโฮสต์**:`selector1._domainkey.<CustomDomain>`
 
-     **ชี้ไปที่ที่อยู่หรือค่า**:`selector1-<DomainGUID>._domainkey.<InitialDomain>`
+     **ที่อยู่หรือค่า**:`selector1-<DomainGUID>._domainkey.<InitialDomain>`
 
-     **TTL**: ๓๖๐๐
+     **TTL**: 3600
 
    - **ชื่อโฮสต์**:`selector2._domainkey.<CustomDomain>`
 
-     **ชี้ไปที่ที่อยู่หรือค่า**:`selector2-<DomainGUID>._domainkey.<InitialDomain>`
+     **ที่อยู่หรือค่า**:`selector2-<DomainGUID>._domainkey.<InitialDomain>`
 
-     **TTL**: ๓๖๐๐
+     **TTL**: 3600
 
-   \<DomainGUID\>คือข้อความทางด้านซ้ายของ`.mail.protection.outlook.com`ระเบียน MX ที่กำหนดเองสำหรับโดเมนที่กำหนดเอง (ตัว`contoso-com`อย่างเช่นสำหรับโดเมน contoso.com) \<ต้นแบบโด\>เมนคือโดเมนที่คุณใช้เมื่อคุณลงทะเบียนสำหรับ Office ๓๖๕ (ตัวอย่างเช่น contoso.onmicrosoft.com)
+   \<DomainGUID\>คือข้อความทางด้านซ้ายของ`.mail.protection.outlook.com`ระเบียน MX ที่กําหนดเองสําหรับโดเมนแบบกําหนดเอง (ตัวอย่างเช่น`contoso-com`สําหรับโดเมนcontoso.com) \<InitialDomain\>คือโดเมนที่คุณใช้เมื่อคุณลงทะเบียนสําหรับ Microsoft 365 (ตัวอย่างเช่น contoso.onmicrosoft.com)
 
-2. หลังจากที่คุณได้สร้างระเบียน CNAME สำหรับโดเมนที่กำหนดเองของคุณแล้วให้ทำตามคำแนะนำต่อไปนี้:
+2. หลังจากที่คุณได้สร้างระเบียน CNAME สําหรับโดเมนแบบกําหนดเองของคุณแล้ว ให้ปฏิบัติตามคําแนะนําต่อไปนี้
 
-   ราคา . [ลงชื่อเข้าใช้ Office ๓๖๕](https://support.office.microsoft.com/article/e9eb7d51-5430-4929-91ab-6157c5a050b4)ด้วยบัญชีที่ทำงานหรือที่โรงเรียนของคุณ
+   ก.ส. [ลงชื่อเข้าใช้ Microsoft 365](https://support.office.microsoft.com/article/e9eb7d51-5430-4929-91ab-6157c5a050b4)ด้วยบัญชีที่ทํางานหรือที่โรงเรียนของคุณ
 
-   B เลือกไอคอนตัวเปิดแอพในด้านบนซ้ายและเลือกผู้**ดูแล**
+   B เลือกไอคอนตัวเปิดใช้แอปที่ด้านบนซ้าย แล้วเลือก**ผู้ดูแลระบบ**
 
-   C ในการนำทางด้านซ้ายล่างให้ขยายผู้**ดูแล**และเลือก**แลกเปลี่ยน**
+   C ในการนําทางด้านซ้ายล่าง ให้ขยาย**ผู้ดูแลระบบ**แล้วเลือก**Exchange**
 
-   D ไปที่**DKIM**ของ**การป้องกัน** > 
+   D ไปที่**การป้องกัน** > **DKIM**
 
-   ตะวัน ออก เลือกโดเมนแล้วเลือก**เปิดใช้งาน**สำหรับ**ข้อความลงชื่อสำหรับโดเมนนี้ด้วยลายเซ็น DKIM** ทำซ้ำขั้นตอนนี้สำหรับแต่ละโดเมนที่กำหนดเอง
+   ตะวัน ออก เลือกโดเมน แล้วเลือก**เปิดใช้งาน**สําหรับ**เซ็นชื่อข้อความสําหรับโดเมนนี้ด้วยลายเซ็น DKIM** ทําซ้ําขั้นตอนนี้สําหรับแต่ละโดเมนแบบกําหนดเอง

@@ -1,9 +1,9 @@
 ---
-title: Outlook.com ไม่สามารถเข้าสู่ระบบของ Outlook.com
+title: Outlook.comไม่สามารถลงชื่อเข้าใช้Outlook.com
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 6/20/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,22 +13,22 @@ ms.custom:
 - "541"
 - "8000024"
 ms.assetid: 46b0a31f-c4fc-4ecb-a18d-26a13a6b0aa4
-ms.openlocfilehash: de71c0980b775060131b0c8d15bfc62750393d25
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 88526fdee1cf22380efd863bc808af613962e49a
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36537390"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43698437"
 ---
-# <a name="cant-sign-in-to-outlookcom"></a>ไม่สามารถเข้าสู่ระบบ Outlook.com
+# <a name="cant-sign-in-to-outlookcom"></a>ไม่สามารถลงชื่อเข้าใช้Outlook.com
 
-ถ้าคุณกำลังมีปัญหาในการลงชื่อเข้าใช้บัญชีของคุณ ทำให้แน่ใจว่า บัญชีของคุณยังไม่ถูกปิดใช้งานสำหรับ 365 วัน หลังจาก 365 วันไม่มีกิจกรรม อีเมลของคุณจะถูกลบ และไม่สามารถกู้คืน
+หากคุณประสบปัญหาในการลงชื่อเข้าใช้บัญชีของคุณ ให้ตรวจสอบว่าบัญชีของคุณไม่ได้ใช้งานนานกว่า 365 วัน หลังจาก 365 วันของไม่มีการใช้งานอีเมลของคุณจะถูกลบและไม่สามารถกู้คืน
   
-บัญชีของคุณอาจเป็นการชั่วคราวถูกบล็อกเนื่องจากเราสังเกตเห็นบางอย่างผิดปกติในการลงชื่อเข้าใช้กิจกรรม ถ้าบัญชีของคุณถูกบล็อค อ่านวิธีการ[ยกเลิกการบล็อกบัญชี Outlook.com ของฉัน](https://support.office.com/article/f4ad2701-d166-4d8b-8a6a-9af2a1f8a4c4?wt.mc_id=Office_Outlook_com_Alchemy)
+บัญชีของคุณอาจถูกบล็อกชั่วคราวเนื่องจากเราพบกิจกรรมการลงชื่อเข้าใช้ที่ผิดปกติบางอย่าง หากบัญชีของคุณถูกบล็อก ให้อ่านวิธี[เลิกบล็อกบัญชีOutlook.comของฉัน](https://support.office.com/article/f4ad2701-d166-4d8b-8a6a-9af2a1f8a4c4?wt.mc_id=Office_Outlook_com_Alchemy)
   
-หากคุณสงสัยว่า บัญชี Outlook.com ของคุณได้ถูก hacked ดู[ได้ถูก hacked บัญชี Outlook.com ของฉัน](https://support.office.com/article/35993ac5-ac2f-494e-aacb-5232dda453d8?wt.mc_id=Office_Outlook_com_Alchemy)
+หากคุณสงสัยว่าบัญชีOutlook.comของคุณถูกแฮ็ก โปรดดูที่[บัญชีOutlook.comของฉันถูกแฮ็ก](https://support.office.com/article/35993ac5-ac2f-494e-aacb-5232dda453d8?wt.mc_id=Office_Outlook_com_Alchemy)
   
-ถ้าคุณเคยลืม หรือสูญเสียการรหัสผ่านของคุณ คุณสามารถ[ตั้งค่ารหัสผ่านของคุณ](https://go.microsoft.com/fwlink/p/?LinkID=242804)
+หากคุณลืมหรือลืมรหัสผ่าน คุณสามารถ[รีเซ็ตรหัสผ่านของคุณ](https://go.microsoft.com/fwlink/p/?LinkID=242804)ได้
   
-อ่านเพิ่มเติมเกี่ยวกับ[เมื่อคุณไม่สามารถเข้าสู่ระบบบัญชี Microsoft ของคุณ](https://go.microsoft.com/fwlink/p/?linkid=837479)
+อ่านเพิ่มเติมเกี่ยวกับ[เมื่อคุณไม่สามารถลงชื่อเข้าใช้บัญชี Microsoft ของคุณได้](https://go.microsoft.com/fwlink/p/?linkid=837479)
   

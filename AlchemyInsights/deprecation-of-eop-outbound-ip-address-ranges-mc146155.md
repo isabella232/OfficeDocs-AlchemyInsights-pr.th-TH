@@ -1,28 +1,28 @@
 ---
-title: 1065 deprecation ของ EOP ขาออก IP ที่อยู่ rangesMC146155
+title: การเสื่อมสภาพ 1065 ของช่วงที่อยู่ IP ขาออกของ EOPMC146155
 ms.author: chrisda
 author: chrisda
 manager: dansimp
-ms.date: 9/28/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 1065
 ms.assetid: bd41784e-8002-428d-bc19-25671cfd34e8
-ms.openlocfilehash: 9860845dea444847833d4c5cd01d49ea93473778
-ms.sourcegitcommit: 4b7e478ce700c0b781efec3857ac4dce5bdf00c6
+ms.openlocfilehash: f4854c32d970d84f3a0664a9e384dc6e3cd0bfa7
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 06/07/2019
-ms.locfileid: "34752974"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43704616"
 ---
-# <a name="deprecation-of-eop-outbound-ip-address-ranges"></a>Deprecation ของช่วงที่อยู่ IP ขาออก EOP
+# <a name="deprecation-of-eop-outbound-ip-address-ranges"></a>การเสื่อมสภาพของช่วงที่อยู่ IP ขาออกของ EOP
 
-เราได้ตรวจพบการตัดสินค้าจากคลังที่อาจเกิดขึ้นกับองค์กรของคุณที่ (ถ้าไม่ถูกแก้ไข โดย 26th ตุลาคม 2018) อาจใช้การรับส่งจดหมายของคุณในสถานที่หรือปลายทางภายนอก เป็นก่อนหน้านี้สื่อสารกับ เพื่อให้จัดการช่วงที่อยู่ IP เราจะรวมช่วงอยู่ IP ป้องกันแบบออนไลน์ของอัตราแลกเปลี่ยน (EOP) ที่ใช้ในการส่ง และรับอีเมลภายนอก Office 365 การวิเคราะห์ของเราบ่งชี้ว่า หนึ่งหรือหลายแหล่งภายนอกอีเมลหรือปลายทางที่คุณได้กำหนดค่าให้เป็นตัวเชื่อมต่อกระแสจดหมายไม่ยอมรับการเชื่อมต่อจาก IP อยู่ช่วงแสดงอยู่[ที่นี่](https://docs.microsoft.com/office365/SecurityCompliance/eop/exchange-online-protection-ip-addresses)
+เราได้ตรวจพบปัญหาที่อาจเกิดขึ้นกับองค์กรของคุณซึ่ง (หากไม่ได้รับการแก้ไขภายในวันที่ 26 ตุลาคม 2018) อาจแบ่งลําดับจดหมายไปยังปลายทางในสถานที่หรือปลายทางภายนอกของคุณ ดังที่ได้กล่าวมาก่อนหน้านี้ว่า เพื่อให้การจัดการช่วงที่อยู่ IP ง่ายขึ้น การวิเคราะห์ของเราบ่งชี้ว่าอย่างน้อยหนึ่งแหล่งที่มาของอีเมลภายนอกหรือปลายทางที่คุณได้กําหนดค่าในตัวเชื่อมต่อกระแสจดหมายไม่ยอมรับการเชื่อมต่อจากช่วงที่อยู่ IP ที่แสดง[ที่นี่](https://docs.microsoft.com/office365/SecurityCompliance/eop/exchange-online-protection-ip-addresses)
 
-ดำเนินการก่อนเดือน 26th ตุลาคมเพื่อให้แน่ใจว่า แหล่งที่มาและปลายทางเหล่านี้จะยอมรับการเชื่อมต่อไปยัง และจากทั้งหมด[เผยแพร่ EOP IP แอดเดรส](https://docs.microsoft.com/office365/SecurityCompliance/eop/exchange-online-protection-ip-addresses)
+กระทําก่อนวันที่ 26 ตุลาคมเพื่อให้แน่ใจว่าแหล่งข้อมูลและปลายทางเหล่านี้จะยอมรับการเชื่อมต่อและจาก[ที่อยู่ IP EOP](https://docs.microsoft.com/office365/SecurityCompliance/eop/exchange-online-protection-ip-addresses)ที่เผยแพร่ทั้งหมด
 
-สำหรับข้อมูลเพิ่มเติมเกี่ยวกับการเปลี่ยนแปลงนี้ โปรดดูศูนย์ข้อความประกาศ[MC146155](https://portal.office.com/AdminPortal/home?switchtomodern=true#/MessageCenter?id=MC146155), [MC148620](https://portal.office.com/AdminPortal/home?switchtomodern=true#/MessageCenter?id=MC148620)หรือ[MC149274](https://portal.office.com/AdminPortal/home?switchtomodern=true#/MessageCenter?id=MC149274)
+สําหรับข้อมูลเพิ่มเติมเกี่ยวกับการเปลี่ยนแปลงนี้ โปรดดู ข้อความศูนย์ข้อความติด[ประกาศ MC146155,](https://portal.office.com/AdminPortal/home?switchtomodern=true#/MessageCenter?id=MC146155) [MC148620](https://portal.office.com/AdminPortal/home?switchtomodern=true#/MessageCenter?id=MC148620)หรือ[MC149274](https://portal.office.com/AdminPortal/home?switchtomodern=true#/MessageCenter?id=MC149274)
 
-**หมายเหตุ**: ถ้าคุณใช้มาก่อนประกาศ IP หรือ URL ผ่าน HTML, XML และ RSS สำหรับปลายทางในการปรับปรุง คุณยังควรโยกย้ายไปยังเว็บเซอร์ใหม่สำหรับการทำงานอัตโนมัติสำหรับการปรับปรุงชนิดนี้ สำหรับข้อมูลเพิ่มเติม ดู[ประเภทปลายทาง Office 365 และที่อยู่ IP ของ Office 365 และบริการเว็บ URL](https://techcommunity.microsoft.com/t5/Office-365-Blog/Announcing-Office-365-endpoint-categories-and-Office-365-IP/ba-p/177638)
+**หมายเหตุ**: ถ้าคุณเคยใช้การเผยแพร่ IP หรือ URL ผ่านทาง HTML, XML และ RSS สําหรับการปรับปรุงปลายทาง คุณควรย้ายไปยังบริการเว็บใหม่สําหรับการปรับปรุงประเภทนี้โดยอัตโนมัติ สําหรับข้อมูลเพิ่มเติม โปรดดูที่[ประเภทปลายทางของ Microsoft 365 และที่อยู่ IP ของ Microsoft 365 และบริการเว็บ URL](https://techcommunity.microsoft.com/t5/Office-365-Blog/Announcing-Office-365-endpoint-categories-and-Office-365-IP/ba-p/177638)

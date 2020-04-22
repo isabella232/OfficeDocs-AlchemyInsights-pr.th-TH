@@ -1,9 +1,9 @@
 ---
-title: พนักงานที่เหลือ
+title: พนักงานออกจาก
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
-ms.date: 4/16/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,23 +13,23 @@ ms.custom:
 - "18"
 - "1200010"
 ms.assetid: ba665d35-f4af-4bd0-b52d-841df7454d4b
-ms.openlocfilehash: b5f86345ac9315b489c9cc19419d95437e0f4bbe
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 54b7dc2cceb75b71ad70bcc4e681cff2e68f61be
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36527850"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43703734"
 ---
-# <a name="block-access-to-a-former-employee"></a>บล็อกการเข้าถึงที่พนักงานก่อนหน้า
+# <a name="block-access-to-a-former-employee"></a>บล็อคการเข้าถึงพนักงานเก่า
 
-มีพนักงานที่ออกจาก และต้องการบล็อกการเข้าถึงทางอีเมลและข้อมูลของ Office 365 ได้อย่างไร ทำสิ่งต่อไปนี้
+มีพนักงานออกและต้องการบล็อกการเข้าถึงข้อมูลและอีเมลหรือไม่ ทําสิ่งต่อไปนี้
   
-1. ในศูนย์ดูแล ไปที่**ผู้ใช้**\>หน้า[ผู้ใช้ที่ใช้งานอยู่](https://go.microsoft.com/fwlink/p/?linkid=834822)
+1. ในศูนย์การจัดการ ให้ไปที่หน้า[ผู้ใช้ที่ใช้งานอยู่](https://go.microsoft.com/fwlink/p/?linkid=834822)**ของผู้ใช้**\>
 
 2. เลือกชื่อของผู้ใช้ที่คุณต้องการบล็อก
 
-3. ภายใต้ชื่อของผู้ใช้ เลือก**บล็อกผู้ใช้รายนี้**
+3. ภายใต้ชื่อผู้ใช้ ให้เลือก**บล็อกผู้ใช้นี้**
 
-4. เลือก**การบล็อคผู้ใช้จากการเข้าสู่ระบบ** \> **บันทึกการเปลี่ยนแปลง**
+4. เลือก**บล็อกผู้ใช้ไม่ให้ลงชื่อเข้าใช้ใน**\>**บันทึกการเปลี่ยนแปลง**
 
-**หมายเหตุ**: Sign-out สำหรับบางโปรแกรมประยุกต์อาจไม่มีในทันที ติดตาม ด้วยการดำเนินการเพิ่มเติมในบทความนี้:[เอาพนักงานที่ก่อนหน้าจาก Office 365](https://docs.microsoft.com/office365/admin/add-users/remove-former-employee)
+**หมายเหตุ**: การออกจากระบบสําหรับบางแอปอาจไม่ในทันที ติดตามการดําเนินการเพิ่มเติมในบทความนี้:[ลบพนักงานเดิม](https://docs.microsoft.com/office365/admin/add-users/remove-former-employee)

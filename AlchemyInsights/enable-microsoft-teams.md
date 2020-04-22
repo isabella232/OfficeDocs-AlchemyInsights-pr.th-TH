@@ -1,9 +1,9 @@
 ---
-title: เปิดใช้งาน Microsoft Teams
+title: เปิดใช้งานทีม Microsoft
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
-ms.date: 2/23/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -15,15 +15,15 @@ ms.custom:
 - "9000725"
 - "2671"
 ms.assetid: c35b64bd-537d-4a33-98df-ad02de8fb71b
-ms.openlocfilehash: 53638195d0c1a0c73ff70c38ab7c3cea49d0a53a
-ms.sourcegitcommit: 123e9fe46e99719dd271e75a66555861e968f4a2
+ms.openlocfilehash: da5d2fe06a7c51d1eaad61dfff5939f4e94c470e
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 12/30/2019
-ms.locfileid: "40908549"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43703554"
 ---
-# <a name="enable-and-use-microsoft-teams"></a>เปิดใช้งานและใช้งาน Microsoft Teams
+# <a name="enable-and-use-microsoft-teams"></a>เปิดใช้งานและใช้ Microsoft ทีม
 
-ถ้าคุณไม่สามารถเข้าถึง Microsoft Teams ได้ให้ดูที่ฉัน[จะเข้าถึง Microsoft teams ได้อย่างไร](https://support.office.com/article/How-do-I-get-access-to-Microsoft-Teams-fc7f1634-abd3-4f26-a597-9df16e4ca65b.aspx)
+หากคุณไม่มีสิทธิ์เข้าถึง Microsoft Teams เลย ให้ดูที่[ฉันจะเข้าถึง Microsoft Teams ได้อย่างไร](https://support.office.com/article/How-do-I-get-access-to-Microsoft-Teams-fc7f1634-abd3-4f26-a597-9df16e4ca65b.aspx)
 
-ถ้าคุณมี Microsoft Teams อยู่แล้วและจำเป็นต้องทราบวิธีกำหนดค่าและจัดการให้ดูที่[จัดการการตั้งค่า Microsoft Teams สำหรับองค์กรของคุณ](https://docs.microsoft.com/MicrosoftTeams/enable-features-office-365)
+ถ้าคุณมี Microsoft Teams อยู่แล้ว และจําเป็นต้องทราบวิธีการกําหนดค่าและจัดการทีมให้ดูที่[จัดการการตั้งค่า Microsoft Teams สําหรับองค์กรของคุณ](https://docs.microsoft.com/MicrosoftTeams/enable-features-office-365)

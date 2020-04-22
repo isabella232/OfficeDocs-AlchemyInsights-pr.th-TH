@@ -9,15 +9,15 @@ localization_priority: Normal
 ms.custom:
 - "1939"
 - "9000314"
-ms.openlocfilehash: 4322c8a106f453592e4c9660e9291704d2d8fc9a
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: d3da42ff51b6f2fdd7df66f18fd902eee68aa2f7
+ms.sourcegitcommit: 6bf1d945b4fd6a1fe37d00c5ea99adea7eef9910
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40049032"
+ms.lasthandoff: 04/21/2020
+ms.locfileid: "43641803"
 ---
-# <a name="ose-sharing-errors"></a>ข้อผิดพลาดในการแบ่งปัน OSE
+# <a name="ose-sharing-errors"></a>ข้อผิดพลาดในการแชร์ OSE
 
-บทความนี้ครอบคลุมข้อผิดพลาดต่างๆที่คุณอาจพบเมื่อมีการใช้แฟ้มหรือโฟลเดอร์ร่วมกันจาก SharePoint แบบออนไลน์หรือ OneDrive สำหรับธุรกิจใน Office ๓๖๕ คุณจำเป็นต้องเป็นผู้ดูแลส่วนกลางหรือ SharePoint ในองค์กรของคุณเพื่อแก้ไขข้อผิดพลาดเหล่านี้ หากคุณไม่ใช่ผู้ดูแลระบบให้ติดต่อฝ่ายช่วยเหลือของคุณและให้รหัสข้อผิดพลาดของคุณ
+บทความครอบคลุมข้อผิดพลาดต่าง ๆ ที่คุณอาจพบเมื่อใช้ร่วมกันแฟ้มหรือโฟลเดอร์จาก SharePoint แบบออนไลน์หรือ OneDrive สําหรับธุรกิจใน Microsoft 365 คุณต้องเป็นผู้ดูแลระบบส่วนกลางหรือ SharePoint ในองค์กรของคุณเพื่อแก้ไขข้อผิดพลาดเหล่านี้ ถ้าคุณไม่ใช่ผู้ดูแลระบบ โปรดติดต่อฝ่ายช่วยเหลือของคุณ และมอบรหัสข้อผิดพลาดให้กับพวกเขา
 
-สำหรับข้อมูลเพิ่มเติมเกี่ยวกับรหัสข้อผิดพลาด OSE ดูการใช้[ร่วมกันข้อผิดพลาดใน SharePoint และ OneDrive](https://docs.microsoft.com/sharepoint/sharepoint-onedrive-error-message)
+สําหรับข้อมูลเพิ่มเติมเกี่ยวกับรหัสข้อผิดพลาด OSE ให้ดูที่[ข้อผิดพลาดการใช้ร่วมกันใน SharePoint และ OneDrive](https://docs.microsoft.com/sharepoint/sharepoint-onedrive-error-message)

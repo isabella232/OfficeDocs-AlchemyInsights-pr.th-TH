@@ -1,8 +1,8 @@
 ---
-title: ๗๖๔เพิ่ม/ตั้งค่าบัญชี email
+title: 764 เพิ่ม/ตั้งค่าบัญชีอีเมล
 ms.author: pdigia
 author: pebaum
-ms.date: 6/8/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,23 +11,23 @@ ms.custom:
 - "764"
 - "1800018"
 ms.assetid: afd20b89-09e9-4746-ac16-e282382dd948
-ms.openlocfilehash: 1aa03a534b224c1629b480d53648b4982eebd31a
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: 2495ad459e1eb318ad2f3e9753a4bae07fa8909a
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "36660919"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43671404"
 ---
-# <a name="setup-email-accounts"></a>ตั้งค่าบัญชีเมล์
+# <a name="setup-email-accounts"></a>ตั้งค่าบัญชีอีเมล
 
-1. ใน Outlook ให้เลือก**** > **ข้อมูล** > ไฟล์**เพิ่มบัญชี**
+1. ใน Outlook ให้เลือก**ข้อมูล** > **ไฟล์** > **เพิ่มบัญชี**
 
-2. ป้อนที่อยู่ e-mail ของคุณแล้วเลือก**เชื่อมต่อ**
+2. ป้อนที่อยู่อีเมลของคุณ แล้วเลือก**Connect**
 
-3. ป้อนรหัสผ่านของคุณแล้วเลือก **"ตกลง**"
+3. ป้อนรหัสผ่านของคุณ แล้วเลือก**ตกลง**
 
-4. คุณสามารถทำซ้ำขั้นตอนเหล่านี้เพื่อเพิ่มหลายบัญชี
+4. คุณสามารถทําซ้ําขั้นตอนเหล่านี้เพื่อเพิ่มหลายบัญชี
 
     > [!NOTE]
-    > บัญชีเมลบางประเภทเช่น Gmail, Yahoo และ iCloud คุณต้องตั้งค่าการตรวจสอบสิทธิ์สองปัจจัยเพื่อใช้ Outlook เพื่อส่งและรับเมล ดู[เพิ่มบัญชีผู้ใช้ทาง e-mail ไปยัง Outlook](https://support.office.com/article/6e27792a-9267-4aa4-8bb6-c84ef146101b.aspx)สำหรับข้อมูลเพิ่มเติม
+    > บัญชีอีเมลบางบัญชี เช่น Gmail, Yahoo และ iCloud คุณจะต้องตั้งค่าการตรวจสอบสิทธิ์สองปัจจัยเพื่อใช้ Outlook เพื่อส่งและรับอีเมล ดู[เพิ่มบัญชีอีเมลไปยัง Outlook](https://support.office.com/article/6e27792a-9267-4aa4-8bb6-c84ef146101b.aspx)สําหรับข้อมูลเพิ่มเติม
   

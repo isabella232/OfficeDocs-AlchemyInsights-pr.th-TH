@@ -12,38 +12,38 @@ ms.custom:
 - "286"
 - "3100005"
 ms.assetid: ''
-ms.openlocfilehash: 9c8f38e7bfac6d5ac6f82e5d8225c89530bd98b2
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: 385b8de6c6451e13418c615a32f1502a70f5fdcb
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36665095"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43703662"
 ---
 # <a name="enable-and-search-the-audit-log"></a>เปิดใช้งานและค้นหาบันทึกการตรวจสอบ
 
-**Office 365**
+**ไมโครซอฟท์ 365**
 
-หากต้องการค้นหาบันทึกการตรวจสอบ Office ๓๖๕ให้ทำตาม[ขั้นตอนเหล่านี้](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance#search-the-audit-log)
+เมื่อต้องการค้นหาบันทึกการตรวจสอบ Microsoft 365 ให้ทําตามขั้นตอน[เหล่านี้](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance#search-the-audit-log)
 
 **Exchange**
 
-- กิจกรรมการดูแลอัตราแลกเปลี่ยนจะถูกตรวจสอบโดยค่าเริ่มต้น
+- กิจกรรมการดูแลระบบ Exchange จะถูกตรวจสอบโดยค่าเริ่มต้น
 
-- การตรวจสอบกล่องจดหมายถูกเปิดใช้งานโดยค่าเริ่มต้นใน Office ๓๖๕ สำหรับข้อมูลเพิ่มเติมโปรดดู[บทความนี้](https://docs.microsoft.com/office365/securitycompliance/enable-mailbox-auditing)
+- กล่องจดหมายการตรวจสอบจะเปิดใช้งาน โดยค่าเริ่มต้นใน Microsoft 365 สําหรับข้อมูลเพิ่มเติม ให้ดูที่[บทความนี้](https://docs.microsoft.com/office365/securitycompliance/enable-mailbox-auditing)
 
-- กล่องจดหมายของ Office ๓๖๕กลุ่มและกล่องจดหมายโฟลเดอร์สาธารณะใน Exchange แบบออนไลน์ไม่สนับสนุนการบันทึกการตรวจสอบ
+- กล่องจดหมายของกลุ่ม office 365 และกล่องจดหมายของโฟลเดอร์สาธารณะใน Exchange แบบออนไลน์ไม่สนับสนุนการบันทึกการตรวจสอบ
 
-**SharePoint และ OneDrive**
+**แชร์พอยท์และวันไดรฟ์**
 
-- ไม่มีการกำหนดค่าเพิ่มเติมที่จำเป็นในการเปิดใช้งานการตรวจสอบสำหรับ SharePoint และ OneDrive
+- ไม่มีการกําหนดค่าเพิ่มเติมที่จําเป็นเพื่อเปิดใช้งานการตรวจสอบสําหรับ SharePoint และ OneDrive
 
 - SharePoint และ OneDrive สนับสนุนการตรวจสอบชนิดของกิจกรรมต่อไปนี้:
 
-    - แฟ้มโฟลเดอร์และกิจกรรมเพจ
-    - การแชร์และการเข้าถึงกิจกรรมการร้องขอ
+    - แฟ้ม โฟลเดอร์ และกิจกรรมหน้า
+    - กิจกรรมการแชร์และการร้องขอการเข้าถึง
     - กิจกรรมการดูแลไซต์
-    - กิจกรรมการซิงโครไนส์แฟ้ม
+    - กิจกรรมการซิงโครไนซ์ไฟล์
 
-- สำหรับข้อมูลเกี่ยวกับกิจกรรมที่ตรวจสอบในบริการ Office ๓๖๕อื่นๆโปรดดู[ตารางในบทความนี้](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance#audited-activities)
+- สําหรับข้อมูลเกี่ยวกับกิจกรรมที่ตรวจสอบแล้วในบริการอื่นๆ ให้ดูที่[ตารางใน บทความนี้](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance#audited-activities)
 
-- ที่นี่รายการคำถามที่ถามบ่อยเกี่ยวกับคำถามที่[พบบ่อย](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance#frequently-asked-questions)เกี่ยวกับการค้นหาบันทึกการตรวจสอบ
+- ต่อไปนี้เป็นรายการ[คําถามที่ถามบ่อยเกี่ยวกับการค้นหา](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance#frequently-asked-questions)บันทึกการตรวจสอบ

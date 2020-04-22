@@ -1,5 +1,5 @@
 ---
-title: การแก้ไขปัญหาการเข้าถึงข้อความที่ถูกปฏิเสธไปยัง OneDrive สำหรับไซต์ธุรกิจ
+title: การแก้ไขปัญหาการเข้าถึงถูกปฏิเสธข้อความไปยัง OneDrive สําหรับไซต์ธุรกิจ
 ms.author: pebaum
 author: pebaum
 manager: pamgreen
@@ -9,19 +9,19 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.assetid: cebb7a4a-33e1-474e-a5d0-dbd02a80b1e9
-ms.openlocfilehash: 9d8aba4e53a1e0505a430296bb1c11713ea2ce7b
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: a83936acf969926c113b28ceb22b006cdb96e2b4
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40051624"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43692820"
 ---
-# <a name="troubleshooting-access-denied-messages-to-onedrive-for-business-sites"></a>การแก้ไขปัญหาการเข้าถึงข้อความที่ถูกปฏิเสธไปยัง OneDrive สำหรับไซต์ธุรกิจ
+# <a name="troubleshooting-access-denied-messages-to-onedrive-for-business-sites"></a>การแก้ไขปัญหาการเข้าถึงถูกปฏิเสธข้อความไปยัง OneDrive สําหรับไซต์ธุรกิจ
 
-ปัญหานี้มักเกิดขึ้นเมื่อผู้ใช้ถูกลบและสร้างขึ้นใหม่ด้วยชื่อผู้ใช้หลัก (UPN) เดียวกัน บัญชีใหม่จะถูกสร้างขึ้นโดยใช้ค่า PUID (รหัสเฉพาะที่ไม่ซ้ำกัน) เมื่อผู้ใช้พยายามเข้าถึงไซต์คอลเลกชันหรือ OneDrive ของพวกเขาผู้ใช้มี PUID ไม่ถูกต้อง สถานการณ์ที่สองเกี่ยวข้องกับการซิงโครไนส์ของไดเรกทอรีกับหน่วยองค์กรไดเรกทอรีที่ใช้งานอยู่ (OU) ถ้าผู้ใช้มีการลงชื่อเข้าสู่ SharePoint แล้วและถูกย้ายไปยัง OU ที่แตกต่างกันและทำซ้ำกับ SharePoint พวกเขาอาจพบปัญหานี้
+ปัญหานี้เกิดขึ้นบ่อยที่สุดเมื่อผู้ใช้ถูกลบ และสร้างใหม่ ด้วยชื่อหลัก (UPN) เดียวกัน บัญชีใหม่ถูกสร้างขึ้น โดยใช้ค่า PUID (รหัสเฉพาะของ Passport) ที่แตกต่างกัน เมื่อผู้ใช้พยายามเข้าถึงไซต์คอลเลกชันหรือ OneDrive ของตนเอง สถานการณ์สมมติที่สองเกี่ยวข้องกับการซิงโครไนส์ของไดเรกทอรีกับ Active Directory องค์กรหน่วย (OU) ถ้าผู้ใช้ได้ลงชื่อเข้าใช้ SharePoint แล้ว จะถูกย้ายไปยัง OU อื่น และ resynced กับ SharePoint พวกเขาอาจพบปัญหานี้
 
-1. เพื่อแก้ไขปัญหานี้คุณควรคืนค่า UPN เดิมด้วยขั้นตอนในบทความ[คืนค่าผู้ใช้ใน Office ๓๖๕](https://docs.microsoft.com/office365/admin/add-users/restore-user?view=o365-worldwide)
-2. ถ้าคุณไม่สามารถคืนค่าผู้ใช้เดิมคุณควรเอาผู้ใช้เก่าจากไซต์ OneDrive โดยใช้ขั้นตอนเหล่านี้[เอาผู้ใช้ออกจากรายการข้อมูลผู้ใช้]() 
-3. หลังจากนี้เสร็จสิ้นคุณสามารถตรวจสอบผู้ใช้มีสิทธิ์ของผู้ดูแลระบบไปยังไซต์ OneDrive ได้โดยทำตามขั้นตอนเพื่อ[เพิ่มผู้ดูแลสำหรับ OneDrive ของ](https://docs.microsoft.com/sharepoint/manage-user-profiles?redirectSourcePath=%252fen-us%252farticle%252fmanage-user-profiles-in-the-sharepoint-admin-center-494bec9c-6654-41f0-920f-f7f937ea9723#add-and-remove-admins-for-a-users-onedrive)คุณ
+1. เมื่อต้องการแก้ไขปัญหานี้ คุณควรคืนค่า UPN เดิม ด้วยขั้นตอนต่างๆ ในบทความ[คืนค่าผู้ใช้ใน Microsoft 365](https://docs.microsoft.com/office365/admin/add-users/restore-user?view=o365-worldwide)
+2. ถ้าคุณไม่สามารถคืนค่าผู้ใช้เดิมที่คุณควรเอาผู้ใช้เก่าจากไซต์ OneDrive โดยใช้ขั้นตอนเหล่านี้[Remove a user from the user info list]() 
+3. หลังจากเสร็จสิ้นคุณสามารถตรวจสอบว่า ผู้ใช้มีสิทธิ์ของผู้ดูแลระบบไปยังไซต์ OneDrive โดยทําตามขั้นตอนใน[การเพิ่มผู้ดูแลระบบสําหรับ OneDrive ของผู้ใช้](https://docs.microsoft.com/sharepoint/manage-user-profiles)
 
-สำหรับข้อมูลเพิ่มเติมเกี่ยวกับระดับสิทธิ์ให้ดูบทความให้[เข้าใจระดับสิทธิ์ใน SharePoint](https://docs.microsoft.com/sharepoint/understanding-permission-levels)
+สําหรับข้อมูลเพิ่มเติมเกี่ยวกับระดับสิทธิ์ ให้ดูที่บทความ การ[ทําความเข้าใจระดับสิทธิ์ใน SharePoint](https://docs.microsoft.com/sharepoint/understanding-permission-levels)

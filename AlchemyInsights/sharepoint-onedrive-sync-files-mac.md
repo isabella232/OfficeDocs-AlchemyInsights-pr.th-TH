@@ -1,28 +1,28 @@
 ---
-title: ติดตั้งการตั้งค่าและซิงค์ไฟล์ OneDrive หรือ SharePoint บน Mac
+title: ติดตั้ง ติดตั้ง และซิงค์ไฟล์ OneDrive หรือ SharePoint บน Mac
 ms.author: pebaum
 author: pebaum
-ms.date: 6/10/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 89b29dd9-edfe-49a4-84eb-5dc270d64526
-ms.openlocfilehash: 993e537437c7da1498ef67f92e3ed5cd4b95c343
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: a537c3967025daabcd76f2e59bb9381bf19cbcf4
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40051192"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43692748"
 ---
-# <a name="install-setup-and-sync-onedrive-or-sharepoint-files-on-mac"></a>ติดตั้งการตั้งค่าและซิงค์ไฟล์ OneDrive หรือ SharePoint บน Mac 
+# <a name="install-setup-and-sync-onedrive-or-sharepoint-files-on-mac"></a>ติดตั้ง ติดตั้ง และซิงค์ไฟล์ OneDrive หรือ SharePoint บน Mac 
 
-ติดตั้งตั้งค่าและซิงค์แฟ้ม OneDrive หรือ SharePoint บน Mac ที่มีคำแนะนำจาก[แฟ้มซิงค์กับไคลเอ็นต์ซิงค์ OneDrive บน MAC OS X](https://support.office.com/article/sync-files-with-the-onedrive-sync-client-on-mac-os-x-d11b9f29-00bb-4172-be39-997da46f913f)
+ติดตั้ง ติดตั้ง และซิงค์ไฟล์ OneDrive หรือ SharePoint บน Mac ด้วยคําแนะนําจาก[ซิงค์ไฟล์กับไคลเอ็นต์การซิงค์ OneDrive บน Mac OS X](https://support.office.com/article/sync-files-with-the-onedrive-sync-client-on-mac-os-x-d11b9f29-00bb-4172-be39-997da46f913f)
 
-หากมีการติดตั้งแอป OneDrive และตั้งค่าบน Mac แต่ผู้ใช้กำลังประสบปัญหาการซิงค์โปรดดู[แก้ไขปัญหาการซิงค์กับ OneDrive (Mac)](https://support.office.com/article/fix-onedrive-sync-problems-on-a-mac-af3012d7-13ec-4ac9-bbb1-ebcd2a0cd756)
+หากมีการติดตั้งและตั้งค่าแอป OneDrive บน Mac แต่ผู้ใช้กําลังประสบปัญหาการซิงค์ ให้ดูที่[แก้ไขปัญหาการซิงค์ด้วย OneDrive (Mac)](https://support.office.com/article/fix-onedrive-sync-problems-on-a-mac-af3012d7-13ec-4ac9-bbb1-ebcd2a0cd756)
 
 > [!NOTE]
-> คุณลักษณะการย้ายโฟลเดอร์ที่รู้จักในการซิงค์ OneDrive สำหรับ Windows ไม่พร้อมใช้งานสำหรับ Mac
+> คุณลักษณะการย้ายโฟลเดอร์ที่รู้จักในการซิงค์ OneDrive สําหรับ Windows ไม่พร้อมใช้งานสําหรับ Mac
 
 
 

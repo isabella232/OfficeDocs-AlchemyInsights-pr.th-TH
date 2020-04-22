@@ -1,24 +1,24 @@
 ---
-title: Outlook.com
+title: Outlook.com LinkedIn
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 3/20/2019
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 8000079
-ms.openlocfilehash: 136b349c374518e2b130184f2dc64d1bf9a7f7b0
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: 860d7e4063d0de172b79f0a0294f899ac22d92cc
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "36494366"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43676624"
 ---
-# <a name="issues-with-junk-email-claiming-to-be-from-linkedin"></a>ปัญหาเกี่ยวกับเมลขยะที่อ้างว่ามาจาก LinkedIn
+# <a name="issues-with-junk-email-claiming-to-be-from-linkedin"></a>ปัญหาเกี่ยวกับอีเมลขยะอ้างว่ามาจาก LinkedIn
 
-หากคุณได้รับเมลขยะที่อ้างว่ามาจาก LinkedIn คุณสามารถสร้างกฎเพื่อกรองข้อมูลเหล่านั้นได้
-โปรดดูข้อมูลเพิ่มเติม[ในการใช้กฎของกล่องขาเข้าใน Outlook.com](https://aka.ms/OutlookComInboxRules)
+หากคุณได้รับอีเมลขยะที่อ้างว่ามาจาก LinkedIn คุณสามารถสร้างกฎเพื่อกรองอีเมลเหล่านั้นได้
+ดู[ใช้กฎของกล่องขาเข้าในOutlook.com](https://aka.ms/OutlookComInboxRules)สําหรับข้อมูลเพิ่มเติม
 
 

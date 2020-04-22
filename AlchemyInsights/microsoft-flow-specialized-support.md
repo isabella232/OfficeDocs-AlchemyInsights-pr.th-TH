@@ -1,9 +1,9 @@
 ---
-title: ขั้นตอนของ Microsoft ขึ้นพิเศษสนับสนุน
+title: การสนับสนุนเฉพาะของ Microsoft โฟลว์
 ms.author: pebaum
 author: pebaum
 manager: mnirke
-ms.date: 3/23/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "2464"
 - "9000627"
-ms.openlocfilehash: 59cfe196492f90ff18902b8678b4322a0135533c
-ms.sourcegitcommit: f856d46a325c517fc29d935c27f21b77c4219e66
+ms.openlocfilehash: 6d40629c1259a78803302d6a23a96b50236561b5
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 06/24/2019
-ms.locfileid: "35199256"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43698581"
 ---
-# <a name="microsoft-flow-specialized-support"></a>ขั้นตอนของ Microsoft ขึ้นพิเศษสนับสนุน
+# <a name="microsoft-flow-specialized-support"></a>การสนับสนุนเฉพาะของ Microsoft โฟลว์
 
-สำหรับขั้นตอนของ Microsoft มีความเชี่ยวชาญ ฝ่ายสนับสนุนโปรดไปที่[ศูนย์ดูแลแพลตฟอร์มพลังงาน](https://aka.ms/flowadminsupport)ใหม่ เว็บไซต์ใหม่มีเส้นทางอ้อมกับการสนับสนุนที่ดีที่สุดสำหรับขั้นตอนของ Microsoft และผลิตภัณฑ์อื่น ๆ แพลตฟอร์มพลังงาน
+สําหรับการสนับสนุนเฉพาะ Microsoft ไหลโปรดไปที่[ศูนย์การจัดการแพลตฟอร์มพลังงาน](https://aka.ms/flowadminsupport)ใหม่ พอร์ทัลใหม่มีเส้นทางโดยตรงมากขึ้นเพื่อการสนับสนุนความช่วยเหลือที่ถูกปรับให้เหมาะสมสําหรับ Microsoft Flow และผลิตภัณฑ์แพลตฟอร์มพลังงานอื่น ๆ
 
 ศึกษาเพิ่มเติม:
-- [ข้อมูลเกี่ยวกับสิทธิ์การใช้งาน Microsoft ไหลอิสระ](https://go.microsoft.com/fwlink/?linkid=2095610)
-- [ขั้นตอนในองค์กรของคุณบ่อย](https://go.microsoft.com/fwlink/?linkid=2072608)
-- [Office 365 และ Dynamics 365 แผนที่รวมขั้นตอนของ Microsoft](https://go.microsoft.com/fwlink/?linkid=2072406)
-- [เรียกเก็บเงินของ Microsoft กระแสและคำถามการวัดแสง](https://go.microsoft.com/fwlink/?linkid=2072612)
+- [ข้อมูลเกี่ยวกับใบอนุญาตฟรีของไหลของ Microsoft](https://go.microsoft.com/fwlink/?linkid=2095610)
+- [คําถามที่พบบ่อยเกี่ยวกับโฟลว์ในองค์กรของคุณ](https://go.microsoft.com/fwlink/?linkid=2072608)
+- [แผน Microsoft 365 และ Dynamics 365 ที่มีลําดับของ Microsoft](https://go.microsoft.com/fwlink/?linkid=2072406)
+- [คําถามเกี่ยวกับการเรียกเก็บเงินและการวัดแสงของ Microsoft](https://go.microsoft.com/fwlink/?linkid=2072612)

@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.custom:
 - "2447"
 - "3200001"
-ms.openlocfilehash: a171c30d9e58aeafc270e60a5a4fa4cd7db4135f
-ms.sourcegitcommit: 940169c0edf638b5086d70cc275049f01dcff3cf
+ms.openlocfilehash: 804ed86b45d73d17931c18ee23c7fb120c68723e
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 04/08/2020
-ms.locfileid: "42977493"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43704544"
 ---
 # <a name="information-about-dlp-issues"></a>ข้อมูลเกี่ยวกับการตัดสินค้าจากคลังของ DLP
 
@@ -24,7 +24,7 @@ ms.locfileid: "42977493"
 
 **ข้อมูลเกี่ยวกับนโยบาย DLP**
 
-ด้วยนโยบาย DLP คุณจะสามารถระบุ ตรวจสอบ และปกป้องข้อมูลที่สําคัญใน Office 365 ได้โดยอัตโนมัติ
+ด้วยนโยบาย DLP คุณจะสามารถระบุ ตรวจสอบ และปกป้องข้อมูลที่สําคัญใน Microsoft 365 ได้โดยอัตโนมัติ
 
 กรุณาเยี่ยมชมลิงค์เหล่านี้สําหรับข้อมูลเพิ่มเติม:
 

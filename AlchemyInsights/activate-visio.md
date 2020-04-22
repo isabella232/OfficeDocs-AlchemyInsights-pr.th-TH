@@ -3,7 +3,7 @@ title: เปิดใช้งาน Visio
 ms.author: janellem
 author: janellemcintosh-msft
 manager: eliree
-ms.date: 6/6/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,28 +12,28 @@ ms.collection: Adm_O365
 ms.custom:
 - "1800"
 - "9000201"
-ms.openlocfilehash: 50d1fc29ee4eafd6b6bbe0a873684ab471ba8f02
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: e44a2c9ba855daec0b79212655d52c291c3c72eb
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36495446"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43682311"
 ---
 # <a name="activate-visio"></a>เปิดใช้งาน Visio
 
-ก่อนที่ผู้ใช้สามารถติดตั้ง และเรียกใช้เดสก์ท็อป Visio เดสก์ท็อปแอพลิเคชันรวมอยู่กับของ Visio ออนไลน์แผน 2 ผู้ใช้ต้องได้รับ[สิทธิ์การใช้งาน Visio](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1800)
+ก่อนที่ผู้ใช้สามารถติดตั้งและเปิดใช้งานเดสก์ท็อปเดสก์ท็อป Visio เดสก์ท็อปเดสก์ท็อปแอปที่มาพร้อมกับแผนออนไลน์ของ Visio 2 ผู้ใช้ต้องได้รับการกําหนด[สิทธิ์การใช้งาน Visio](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1800)
 
-**หมายเหตุ** Visio ออนไลน์แผน 1 ไม่มี Visio รุ่นเดสก์ท็อป
+**หมายเหตุ** Visio แผนออนไลน์ 1 ไม่มี Visio รุ่นเดสก์ท็อป
 
 เมื่อต้องการเปิดใช้งาน Visio:
 
-1. ติดตั้ง Visio จาก[เว็บไซต์ของฉันบัญชี](https://portal.office.com/account#installs)ของคุณไม่ได้ติดตั้งไว้แล้ว สำหรับวิธีใช้ดู[ติดตั้ง Visio](https://support.office.com/article/f98f21e3-aa02-4827-9167-ddab5b025710?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1800)
-2. เมื่อติดตั้งเสร็จสมบูรณ์ เปิดในโปรแกรมประยุกต์ Visio Visio จะเรียกใช้เป็นไปได้โดยอัตโนมัติ และคุณสามารถเริ่มใช้ทันที ถ้าไม่ได้ คุณอาจได้รับพร้อมท์การเข้าสู่ระบบ ตรวจสอบให้แน่ใจว่าคุณได้เข้าสู่ระบบ โดยทำงานเดียวกันหรือบัญชีโรงเรียนที่มีการกำหนดสิทธิ์การใช้งาน Visio ทำตามพร้อมท์เพื่อดำเนินต่อ ด้วยการเปิดใช้งาน 
+1. ติดตั้ง Visio จาก[พอร์ทัลบัญชีของฉัน](https://portal.office.com/account#installs)ของคุณถ้ายังไม่ได้ติดตั้งไว้ สําหรับวิธีใช้ โปรดดูที่[ติดตั้ง Visio](https://support.office.com/article/f98f21e3-aa02-4827-9167-ddab5b025710?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1800)
+2. เมื่อการติดตั้งเสร็จสมบูรณ์ ให้เปิดแอป Visio Visio จะเปิดใช้งานโดยอัตโนมัติและคุณสามารถเริ่มใช้งานได้ทันที หากไม่แสดง คุณอาจได้รับพร้อมท์ให้ลงชื่อเข้าใช้ ตรวจสอบให้แน่ใจว่า ลงชื่อเข้าใช้ด้วยบัญชีที่ทํางานหรือโรงเรียนที่เดียวกันที่ได้รับมอบหมายสิทธิ์การใช้งาน Visio ทําตามพร้อมท์เพื่อดําเนินการต่อกับการเปิดใช้งาน 
 
-สำหรับปัญหาการเปิดใช้งาน การเรียกใช้[ตัวแก้ไขปัญหาการเปิดใช้งาน](https://aka.ms/SARA-OfficeActivation-Alchemy)บนคอมพิวเตอร์ที่ได้รับผลกระทบ
+สําหรับปัญหาการเปิดใช้งาน ให้เรียกใช้[ตัวแก้ไขปัญหาการเปิดใช้งาน](https://aka.ms/SARA-OfficeActivation-Alchemy)บนคอมพิวเตอร์ที่ได้รับผลกระทบ
 
-สำหรับข้อมูลรายละเอียดให้ดู:<br>
+สําหรับข้อมูลรายละเอียดดู:<br>
 [เปิดใช้งาน Office บนพีซี](https://support.office.com/article/5bd38f38-db92-448b-a982-ad170b1e187e?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1800)<br>
-[หนังสือแจ้งการบอกรับเป็นสมาชิกปรากฏขึ้นเมื่อฉันเปิดโปรแกรมประยุกต์ Office 365](https://support.office.com/article/4cabe32c-f594-4c0e-9191-3d3ade10cceb?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1800)<br>
-[ข้อผิดพลาดของ office "ไม่สามารถใช้กับผลิตภัณฑ์ของเราพบในบัญชีของคุณเพื่อเปิดใช้งาน<app>"](https://support.office.com/article/c9f9a0b3-5aae-4131-8077-21e6a59f141e?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1800)<br>
-[สิทธิ์ผลิตภัณฑ์และเปิดใช้งานข้อผิดพลาดใน Office](https://support.office.com/article/0d23d3c0-c19c-4b2f-9845-5344fedc4380?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1800)
+[ประกาศการสมัครใช้งานจะปรากฏขึ้นเมื่อฉันเปิดโปรแกรมประยุกต์ Microsoft](https://support.office.com/article/4cabe32c-f594-4c0e-9191-3d3ade10cceb?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1800)<br>
+[ข้อผิดพลาดของ Office "ผลิตภัณฑ์ที่เราพบในบัญชีของคุณไม่สามารถใช้เพื่อเปิดใช้งาน<app>"](https://support.office.com/article/c9f9a0b3-5aae-4131-8077-21e6a59f141e?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1800)<br>
+[ผลิตภัณฑ์ที่ไม่มีสิทธิ์การใช้งานและข้อผิดพลาดในการเปิดใช้งานใน Office](https://support.office.com/article/0d23d3c0-c19c-4b2f-9845-5344fedc4380?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1800)

@@ -1,5 +1,5 @@
 ---
-title: ลบโดเมน
+title: เอาโดเมนออก
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,16 +11,16 @@ ROBOTS: NOINDEX, NOFOLLOW
 ms.custom:
 - "25"
 - "9"
-ms.openlocfilehash: 77567abf8f7099898568db970ecedf51d9424a51
-ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
+ms.openlocfilehash: 2b50b021c334d5b6cb18ef3b7fd1c9bc215b3a07
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 09/04/2019
-ms.locfileid: "36736560"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43687493"
 ---
-# <a name="trying-to-remove-your-domain"></a>พยายามลบโดเมนของคุณหรือไม่
+# <a name="trying-to-remove-your-domain"></a>กําลังพยายามลบโดเมนของคุณใช่ไหม
 
-ทำตามขั้นตอนใน[เอาโดเมนออกจาก Office ๓๖๕](https://docs.microsoft.com/office365/admin/get-help-with-domains/remove-a-domain)
+ทําตามขั้นตอนใน[เอาโดเมนออก](https://docs.microsoft.com/office365/admin/get-help-with-domains/remove-a-domain)
   
-คุณจะต้องปรับปรุงผู้ใช้หรือกลุ่มใดๆที่กำหนดให้กับชื่อโดเมนนั้นก่อนที่คุณจะเอาโดเมนออก ตรวจสอบคำ[ถามที่พบบ่อยเกี่ยวกับโดเมน](https://docs.microsoft.com/office365/admin/setup/domains-faq)สำหรับโซลูชันทั่วไปอื่นๆ
+คุณจะต้องอัปเดตผู้ใช้หรือกลุ่มที่กําหนดให้กับชื่อโดเมนนั้นก่อนที่คุณลบโดเมน ตรวจสอบ[คําถามที่พบบ่อยเกี่ยวกับโดเมน](https://docs.microsoft.com/office365/admin/setup/domains-faq)สําหรับโซลูชันทั่วไปอื่นๆ
   

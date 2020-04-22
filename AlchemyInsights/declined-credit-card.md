@@ -3,7 +3,7 @@ title: บัตรเครดิตที่ถูกปฏิเสธ
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
-ms.date: 2/28/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,19 +13,19 @@ ms.custom:
 - "443"
 - "1500018"
 ms.assetid: 4e6d34b3-e3e5-4fcd-a52e-34b54746feeb
-ms.openlocfilehash: d02f2cfdc867e54896945a8c9efd119a9b87a5d3
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: 6664bb1b3c34c7bc78c516d7437711e2ac05673d
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36665232"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43705104"
 ---
 # <a name="declined-credit-card"></a>บัตรเครดิตที่ถูกปฏิเสธ
 
-หากคุณชำระเงินด้วยบัตรเครดิตและบัตรเครดิตของคุณจะถูกปฏิเสธคุณจะได้รับข้อความแจ้งให้ทราบว่าเราไม่สามารถประมวลผลการชำระได้ ตรวจสอบว่า[รายละเอียดบัตรเครดิต](https://go.microsoft.com/fwlink/p/?linkid=842054)-หมายเลขบัตรวันหมดอายุชื่อบนบัตรเครดิตและที่อยู่รวมทั้งเมืองรัฐและรหัสไปรษณีย์-ปรากฏตรงตามที่พวกเขาทำบนบัตรเครดิตและใบแจ้งยอดบัตรเครดิตของคุณ คุณสามารถปรับปรุงข้อมูลบัตรเครดิตของคุณและส่งการชำระเงินได้ทันทีโดยใช้ตัวเลือกการ**ชำระยอดดุล**บนเพจของ[บริการ _ amp_ ผลิตภัณฑ์](https://go.microsoft.com/fwlink/p/?linkid=842054) 
+หากคุณชําระเงินด้วยบัตรเครดิต และบัตรเครดิตของคุณถูกปฏิเสธ คุณจะได้รับอีเมลแจ้งให้คุณทราบว่าเราไม่สามารถดําเนินการชําระเงินได้ ตรวจสอบอีกครั้งว่า[รายละเอียดบัตรเครดิต](https://go.microsoft.com/fwlink/p/?linkid=842054)- หมายเลขบัตรเครดิตวันหมดอายุชื่อบนบัตรเครดิตและที่อยู่รวมทั้งเมืองรัฐและรหัสไปรษณีย์ - ปรากฏตรงตามที่บัตรเครดิตและใบแจ้งยอดบัตรเครดิตของคุณ คุณสามารถอัปเดตข้อมูลบัตรเครดิตของคุณ และส่งการชําระเงินได้ทันทีโดยใช้ตัวเลือก**ชําระยอดเงิน**ในหน้า[ผลิตภัณฑ์ &](https://go.microsoft.com/fwlink/p/?linkid=842054) 
 
-หากต้องการเรียนรู้เพิ่มเติมโปรดดูที่ "จะเกิดอะไรขึ้นหากบัตรเครดิตหมดอายุและการชำระเงินของฉันครบกำหนดแล้ว" ใน[ค่าจ้างสำหรับการสมัครใช้งาน Office ๓๖๕ของคุณ](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/pay-for-your-subscription#what-if-my-credit-card-was-declined-and-my-payment-is-past-due)
+หากต้องการเรียนรู้เพิ่มเติม โปรดดู "หากบัตรเครดิตหมดอายุแล้วและการชําระเงินของฉันหมดไป" ใน[การชําระเงินสําหรับการสมัครใช้งาน Microsoft 365 สําหรับธุรกิจของคุณ](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/pay-for-your-subscription#what-if-my-credit-card-was-declined-and-my-payment-is-past-due)
   
-หากคุณยังคงเห็นข้อความ "ปฏิเสธ" ให้ติดต่อธนาคารของคุณ เป็นไปได้ว่าบัตรเครดิตของคุณใช้งานไม่ได้เช่นถ้าคุณเพิ่งได้รับบัตรเครดิตในจดหมายที่มีวันหมดอายุที่อัปเดตแล้วคุณอาจต้องเปิดใช้งาน ธนาคารของคุณยังสามารถบอกคุณได้ว่าบัตรเครดิตของคุณไม่ได้รับการอนุมัติสำหรับธุรกรรมออนไลน์ระหว่างประเทศหรือที่เกิดซ้ำ
+หากคุณยังคงเห็นข้อความ "ถูกปฏิเสธ" โปรดติดต่อธนาคารของคุณ อาจเป็นไปได้ว่าบัตรเครดิตของคุณไม่ได้ใช้งานเช่นหากคุณเพิ่งได้รับบัตรเครดิตในจดหมายที่มีวันที่หมดอายุที่อัปเดตคุณอาจยังต้องเปิดใช้งาน ธนาคารของคุณยังสามารถบอกคุณได้หากบัตรเครดิตของคุณไม่ได้รับการอนุมัติสําหรับการทําธุรกรรมออนไลน์ระหว่างประเทศหรือการทําธุรกรรมที่เกิดขึ้นประจํา
   
-สำหรับข้อมูลเพิ่มเติมโปรดดูการ[แก้ไขปัญหาบัตรเครดิตและบัญชีธนาคาร](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account#troubleshooting-credit-cards-and-bank-accounts)
+สําหรับข้อมูลเพิ่มเติม ให้ดูที่[การแก้ไขปัญหาบัตรเครดิตและบัญชีธนาคาร](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account#troubleshooting-credit-cards-and-bank-accounts)

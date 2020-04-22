@@ -3,7 +3,7 @@ title: DLP ไม่ทํางานตามที่คาดไว้
 ms.author: deniseb
 author: denisebmsft
 manager: laurawi
-ms.date: 1/9/2019
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ms.prod: office-online-server
@@ -13,12 +13,12 @@ ms.custom:
 - "1241"
 - "3200001"
 ms.assetid: f6fcf5ad-55a1-4f25-af27-1f7c1ce06409
-ms.openlocfilehash: 574a8a43d8264e98c6af2bfeb1bb472475e6e334
-ms.sourcegitcommit: 940169c0edf638b5086d70cc275049f01dcff3cf
+ms.openlocfilehash: efb4a19f345fe6b8a1e8bb72abeba4a923c05777
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 04/08/2020
-ms.locfileid: "42977457"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43704432"
 ---
 # <a name="dlp-not-working-as-expected"></a>DLP ไม่ทํางานตามที่คาดไว้
 
@@ -32,7 +32,7 @@ ms.locfileid: "42977457"
   
  **สิ่งที่นโยบาย DLP มองหา**
   
-เมื่อใช้**ชนิดข้อมูลที่สําคัญที่มีอยู่แล้วภายใน**ใน Office 365 Security and Compliance Center นโยบาย DLP จะค้นหารูปแบบและองค์ประกอบเฉพาะเมื่อตรวจพบชนิดที่ละเอียดอ่อนเหล่านี้
+เมื่อใช้**ชนิดข้อมูลที่สําคัญในตัว**ในศูนย์ความปลอดภัยและการปฏิบัติตามกฎระเบียบ
   
 - **ชนิดข้อมูลที่ละเอียดอ่อนในตัว**
 

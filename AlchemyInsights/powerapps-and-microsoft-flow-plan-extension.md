@@ -1,9 +1,9 @@
 ---
-title: 1575 PowerApps และ Microsoft ขั้นตอนการวางแผนที่ส่วนขยาย
+title: 1575-PowerApps และการขยายแผนการไหลของไมโครซอฟท์
 ms.author: toresing
 author: tomresing
 manager: scotv
-ms.date: 03/04/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,19 +13,19 @@ ms.custom:
 - "1575"
 - "9000087"
 ms.assetid: (guid of old soc version if any)
-ms.openlocfilehash: fbb0088756590e73d3236a46051e489b35e0ced5
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 18a73855a31cb1a701a3f3559156793ee5a80ecf
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36554748"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43667048"
 ---
-# <a name="powerapps-and-microsoft-flow-plan-extension"></a>ขยายแผน PowerApps และขั้นตอนของ Microsoft
+# <a name="powerapps-and-microsoft-flow-plan-extension"></a>PowerApps และการขยายแผนการไหลของไมโครซอฟท์
 
-ถ้าคุณต้องการร้องขอส่วนขยายแผนสำหรับ**ขั้นตอนของ Microsoft**หรือ**PowerApps**และผู้เช่าของคุณมีผู้ใช้ที่ใช้งานอยู่ของหนึ่งในคุณลักษณะต่อไปนี้แล้ว คุณจะไม่จำเป็นต้องยื่นขอรับการสนับสนุน
+ถ้าคุณต้องการร้องขอส่วนขยายแผนสําหรับ**Microsoft Flow**หรือ**PowerApps**และผู้เช่าของคุณมีผู้ใช้ที่ใช้งานอยู่ของคุณลักษณะต่อไปนี้อย่างใดอย่างหนึ่ง
 
-- การสร้างและการประกาศของตัวเชื่อมต่อแบบกำหนดเองใน PowerApps และขั้นตอนของ Microsoft
-- การดำเนินการแบบกำหนดเองของ HTTP ที่รวมอยู่ในขั้นตอนภายนอก SharePoint และ OneDrive
-- การรวมข้อมูลในสถานที่ผ่านเกตเวย์สำหรับข้อมูลในสถาน
+- การสร้างและการเผยแพร่ตัวเชื่อมต่อแบบกําหนดเองใน PowerApps และ Microsoft Flow
+- การดําเนินการแบบกําหนดเองของ HTTP รวมอยู่ในโฟลว์ภายนอก SharePoint และ OneDrive
+- การรวมข้อมูลภายในองค์กรผ่านเกตเวย์ข้อมูลภายในองค์กร
 
-ลูกค้าที่ มีผู้ใช้ที่ใช้งานอยู่ของคุณลักษณะเหล่านี้จะได้รับจนถึง 31 มกราคม 2020 ส่วนขยายอัตโนมัติหรือการหมดอายุของเงื่อนไขการสมัครใช้งานของ Office 365 ที่มีอยู่ ซึ่งมีความยาว
+ลูกค้าที่มีคุณลักษณะเหล่านี้จะได้รับส่วนขยายอัตโนมัติจนถึงวันที่ 31 มกราคม 2020 หรือหมดอายุของระยะเวลาการสมัครใช้งาน Microsoft 365 ที่มีอยู่

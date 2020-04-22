@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002568"
 - "4981"
-ms.openlocfilehash: 2d8f0be45b21db7295099b376959bfcafcd6ba38
-ms.sourcegitcommit: 6ecb6fcbd738b8896c5d616130074438a1a6e357
+ms.openlocfilehash: 88394297d391b7c8ec949cf2d82727f9def819c0
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 04/16/2020
-ms.locfileid: "43530441"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43687421"
 ---
 # <a name="a1-license-for-microsoft-365"></a>สิทธิ์การใช้งาน A1 สําหรับ Microsoft 365
 
@@ -25,9 +25,9 @@ ms.locfileid: "43530441"
 
 - ถ้าสถาบันของคุณยังไม่ได้ตั้งค่า Microsoft 365 Education แต่คุณกําลังหาเพิ่ม Office 365 ฟรี คุณสามารถ[เริ่มต้นใช้งาน](https://www.microsoft.com/education/products/office)ได้โดยให้อีเมลของคุณ 
 
-- หากคุณต้องการ**สลับ**จากแผนการศึกษาอื่นเป็นแผน A1 ให้ดูที่[สลับไปยังแผนอื่น](https://docs.microsoft.com/en-us/microsoft-365/commerce/subscriptions/switch-plans-manually) 
+- หากคุณต้องการ**สลับ**จากแผนการศึกษาอื่นเป็นแผน A1 ให้ดูที่[สลับไปยังแผนอื่น](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/switch-plans-manually) 
 
-- เมื่อต้องการมอบหมายผู้ใช้ให้กับแผน A1 ให้ดูที่[มอบหมายสิทธิ์การใช้งานให้กับผู้ใช้](https://docs.microsoft.com/en-us/microsoft-365/admin/manage/assign-licenses-to-users) 
+- เมื่อต้องการมอบหมายผู้ใช้ให้กับแผน A1 ให้ดูที่[มอบหมายสิทธิ์การใช้งานให้กับผู้ใช้](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users) 
 
 **สําคัญ**: คุณอาจต้องรอถึง 24 ชั่วโมงเพื่อให้การเปลี่ยนแปลงของคุณมีผล 
 

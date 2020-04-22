@@ -1,9 +1,9 @@
 ---
-title: เปิดใช้งาน Microsoft สิ่งที่ต้องปฏิบัติ
+title: เปิดใช้งานสิ่งที่ต้องปฏิบัติของ Microsoft
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
-ms.date: 3/1/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,21 +11,21 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 339f925f-91c8-4a1d-902b-f920e58999df
-ms.openlocfilehash: 09c80696c75189dbfc0b810f55cefa4a92b97392
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: 5221f9937d46897303bbe02ee4d13cd72ebe9ffb
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "36527562"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43703518"
 ---
-# <a name="how-to-enable-microsoft-to-do"></a>วิธีการเปิดใช้งาน Microsoft สิ่งที่ต้องปฏิบัติ
+# <a name="how-to-enable-microsoft-to-do"></a>วิธีการเปิดใช้งานสิ่งที่ต้องปฏิบัติของ Microsoft
 
-เพื่อที่จะใช้ Microsoft To Do ผู้ดูแลระบบจะต้องเปิดใช้งานแอปในบัญชีของผู้ใช้แต่ละราย ไปที่[หน้าเพิ่ม&amp;เติมของบริการ](https://portal.office.com/adminportal/home#/Settings/ServicesAndAddIns)ของหน้าการตั้งค่า admin Office ๓๖๕เพื่อเปิดใช้งานสิ่งที่ต้องปฏิบัติสำหรับผู้ใช้แต่ละคน 
+เมื่อต้องการใช้ Microsoft To-Do ผู้ดูแลระบบต้องเปิดใช้งานแอปบนบัญชีผู้ใช้แต่ละราย ไปที่[&amp;หน้าบริการเพิ่มเติม](https://portal.office.com/adminportal/home#/Settings/ServicesAndAddIns)ของหน้าการตั้งค่าผู้ดูแล Microsoft 365 เพื่อเปิดใช้งานสิ่งที่ต้องปฏิบัติสําหรับแต่ละผู้ใช้
   
-Microsoft สิ่งที่ต้องปฏิบัติจะใช้คุณลักษณะในการแลกเปลี่ยนแบบออนไลน์เพื่อซิงค์และเก็บรายการสิ่งที่ต้องทำของผู้ใช้ เพื่อที่จะใช้ Microsoft To Do ผู้ใช้ต้องการกล่องจดหมาย Exchange แบบออนไลน์ที่ถูกต้อง
+สิ่งที่ต้องปฏิบัติของ Microsoft ใช้คุณลักษณะใน Exchange Online เพื่อซิงค์ และจัดเก็บรายการสิ่งที่ต้องทําของผู้ใช้ เมื่อต้องการใช้ Microsoft ต้องทํา ผู้ใช้จําเป็นต้องมีกล่องจดหมาย Exchange แบบออนไลน์ที่ถูกต้อง
   
-สำหรับข้อมูลเพิ่มเติมให้ดู[การจัดการตัวอย่างของ Microsoft สิ่งที่ต้องปฏิบัติ](https://support.office.com/article/490c1a8c-2333-4952-8125-841afadb9620.aspx)
+สําหรับข้อมูลเพิ่มเติม ให้ดูที่[การจัดการแสดงตัวอย่างสิ่งที่ต้องปฏิบัติของ Microsoft](https://support.office.com/article/490c1a8c-2333-4952-8125-841afadb9620.aspx)
   
- **หมายเหตุ**: ถ้าคุณได้รับข้อผิดพลาด๕๐๑เมื่อพยายาม[http://todo.microsoft.com](http://todo.microsoft.com)เข้าสู่[https://to-do.microsoft.com](https://to-do.microsoft.com)ระบบให้ลอง
+ **หมายเหตุ**: ถ้าคุณได้รับข้อผิดพลาด 501 เมื่อพยายามเข้าสู่ระบบ[https://todo.microsoft.com](https://todo.microsoft.com)ให้ลอง[https://to-do.microsoft.com](https://to-do.microsoft.com)
   
 
