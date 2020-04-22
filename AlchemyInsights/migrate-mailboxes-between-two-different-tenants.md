@@ -1,9 +1,9 @@
 ---
-title: ย้ายกล่องจดหมายระหว่างผู้เช่าสองคนที่แตกต่างกัน
+title: โยกย้ายกล่องจดหมายระหว่างผู้เช่าสองรายที่แตกต่างกัน
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
-ms.date: 6/8/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,16 +13,16 @@ ms.custom:
 - "684"
 - "3500008"
 ms.assetid: b9f57026-5f1f-48a8-805f-56b31f83314e
-ms.openlocfilehash: 0c0cebc33b8277689631e2eb0530efb8789ad7e7
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: 2bfce9766552fd55159fb87433ae4ff791c2e814
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "36734472"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43762300"
 ---
-# <a name="migrate-mailboxes-between-two-different-tenants"></a>ย้ายกล่องจดหมายระหว่างผู้เช่าสองคนที่แตกต่างกัน
+# <a name="migrate-mailboxes-between-two-different-tenants"></a>โยกย้ายกล่องจดหมายระหว่างผู้เช่าสองรายที่แตกต่างกัน
 
-คุณอาจจำเป็นต้องย้ายกล่องจดหมายระหว่างสองผู้เช่าที่แตกต่างกันใน Office ๓๖๕ตัวอย่างเช่นเมื่อมีควบรวมองค์กร การย้ายข้อมูลเหล่านี้ควรได้รับการวางแผนอย่างรอบคอบ โปรดดูคำแนะนำต่อไปนี้:
+ตัวอย่างเช่น เมื่อมีการควบรวมองค์กร การย้ายถิ่นเหล่านี้ควรวางแผนอย่างรอบคอบ โปรดดูคําแนะนําต่อไปนี้:
   
-[วิธีการย้ายกล่องจดหมายจากผู้เช่า Office ๓๖๕หนึ่งไปยังอีก](https://docs.microsoft.com/Exchange/mailbox-migration/migrate-mailboxes-across-tenants)
+[วิธีการย้ายกล่องจดหมายจากผู้เช่าหนึ่งไปยังอีกผู้เช่า](https://docs.microsoft.com/Exchange/mailbox-migration/migrate-mailboxes-across-tenants)
   

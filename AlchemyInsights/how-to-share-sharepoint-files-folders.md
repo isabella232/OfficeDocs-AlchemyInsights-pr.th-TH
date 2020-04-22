@@ -1,9 +1,9 @@
 ---
-title: วิธีการใช้แฟ้มหรือโฟลเดอร์ SharePoint ร่วมกัน
+title: วิธีการใช้ร่วมกันแฟ้มหรือโฟลเดอร์ SharePoint
 ms.author: v-todmc
 author: todmccoy
 manager: mnirkhe
-ms.date: 10/31/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000192"
 - "3170"
-ms.openlocfilehash: d6293d3daee774cde6ea7069c815f6445c9c31d5
-ms.sourcegitcommit: df4c12727ce9c53b1abdc13c48c25cc00b73eb57
+ms.openlocfilehash: 6673307c9c8e8af5d6730dee60ed9445a225478a
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 11/01/2019
-ms.locfileid: "37922531"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43763344"
 ---
-# <a name="how-to-share-sharepoint-files-or-folders"></a>วิธีการใช้แฟ้มหรือโฟลเดอร์ SharePoint ร่วมกัน
+# <a name="how-to-share-sharepoint-files-or-folders"></a>วิธีการใช้ร่วมกันแฟ้มหรือโฟลเดอร์ SharePoint
 
-แฟ้มที่คุณจัดเก็บบนไซต์ SharePoint มักจะพร้อมใช้งานสำหรับทุกคนที่มีสิทธิ์ไปยังไซต์แต่คุณอาจต้องการใช้แฟ้มหรือโฟลเดอร์ที่เฉพาะเจาะจงกับบุคคลที่ไม่สามารถเข้าถึงไซต์นั้นได้ เมื่อคุณใช้แฟ้มและโฟลเดอร์ร่วมกันคุณสามารถตัดสินใจว่าจะให้ผู้คนแก้ไขหรือเพียงแค่ดู
+แฟ้มที่คุณเก็บบนไซต์ SharePoint มักจะพร้อมใช้งานสําหรับทุกคนที่มีสิทธิ์ในไซต์ แต่คุณอาจต้องการใช้แฟ้มหรือโฟลเดอร์ที่ระบุร่วมกับผู้ที่ไม่สามารถเข้าถึงไซต์ได้ เมื่อคุณใช้แฟ้มและโฟลเดอร์ร่วมกัน
 
-[แฟ้มหรือโฟลเดอร์ SharePoint ที่ใช้ร่วมกัน](https://support.office.com/article/share-sharepoint-files-or-folders-1fe37332-0f9a-4719-970e-d2578da4941c?ui=en-US&rs=en-US&ad=US)
+[แชร์ไฟล์หรือโฟลเดอร์ SharePoint](https://support.office.com/article/1fe37332-0f9a-4719-970e-d2578da4941c)

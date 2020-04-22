@@ -1,9 +1,9 @@
 ---
-title: การแก้ไขปัญหานโยบาย Intune และโพรไฟล์
+title: การแก้ไขปัญหานโยบายและโปรไฟล์ Intune
 ms.author: mandia
 author: mandia
 manager: dougeby
-ms.date: 05/07/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,27 +12,27 @@ ms.collection: Adm_O365
 ms.custom:
 - "1063"
 - "6700005"
-ms.openlocfilehash: 19d2bf0e85e83b9e1a7fbdc24a4b3d21abf34941
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 4c01baf99b17addb50209be19edf11d45116071b
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36533646"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43766692"
 ---
-# <a name="troubleshooting-intune-policy-and-profiles"></a>การแก้ไขปัญหานโยบาย Intune และโพรไฟล์
+# <a name="troubleshooting-intune-policy-and-profiles"></a>การแก้ไขปัญหานโยบายและโปรไฟล์ Intune
 
-เมื่อต้องการดูนโยบายที่มีอยู่ การแก้ไขปัญหาความขัดแย้ง ตรวจทานข้อมูลล็อก และดูคำถามและประเด็นทั่วไป การแนะนำต่อไปนี้อาจช่วย
+เมื่อต้องการดูนโยบายที่มีอยู่ ให้แก้ไขข้อขัดแย้ง ตรวจทานข้อมูลล็อก และดูคําถามและปัญหาทั่วไป
 
-- [การแก้ไขปัญหานโยบายและโพรไฟล์ใน Intune](https://docs.microsoft.com/intune/troubleshoot-policies-in-microsoft-intune)
+- [การแก้ไขปัญหานโยบายและโปรไฟล์ใน Intune](https://docs.microsoft.com/intune/troubleshoot-policies-in-microsoft-intune)
 
-- [ทั่วไปคำถาม ปัญหา และวิธีแก้ปัญหา ด้วยนโยบายอุปกรณ์และโพรไฟล์ใน Intune](https://docs.microsoft.com/intune/device-profile-troubleshoot)
+- [คําถามทั่วไป ปัญหา และวิธีแก้ปัญหาด้วยนโยบายและโปรไฟล์ของอุปกรณ์ใน Intune](https://docs.microsoft.com/intune/device-profile-troubleshoot)
 
-- [ตรวจสอบส่วนกำหนดค่าการตั้งค่าคอนฟิกอุปกรณ์ และดูความขัดแย้งใน Intune](https://docs.microsoft.com/intune/device-profile-monitor)
+- [ตรวจสอบโปรไฟล์การตั้งค่าคอนฟิกอุปกรณ์และความขัดแย้งของมุมมองใน Intune](https://docs.microsoft.com/intune/device-profile-monitor)
 
-- [การแก้ไขปัญหาอุปกรณ์การปฏิบัติตามกฎระเบียบและการเข้าถึงแบบมีเงื่อนไขใน Intune](https://docs.microsoft.com/intune/troubleshoot-conditional-access)
+- [แก้ปัญหาการปฏิบัติตามข้อกําหนดของอุปกรณ์และการเข้าถึงแบบมีเงื่อนไขใน Intune](https://docs.microsoft.com/intune/troubleshoot-conditional-access)
 
-- [ตรวจสอบการปฏิบัติตามกฎระเบียบนโยบาย และดูความขัดแย้งใน Intune](https://docs.microsoft.com/intune/compliance-policy-monitor)
+- [ตรวจสอบนโยบายการปฏิบัติตามกฎระเบียบและดูความขัดแย้งใน Intune](https://docs.microsoft.com/intune/compliance-policy-monitor)
 
-- [ส่งข้อมูลล็อก Intune เพื่อจัดเก็บ Azure ฮับเหตุการณ์ หรือวิเคราะห์การเข้าสู่ระบบ](https://docs.microsoft.com/intune/review-logs-using-azure-monitor)
+- [ส่งข้อมูลบันทึก Intune ไปยังที่จัดเก็บ Azure, ฮับเหตุการณ์ หรือการวิเคราะห์บันทึก](https://docs.microsoft.com/intune/review-logs-using-azure-monitor)
 
-ดูภาพรวมการ[กำหนดค่าอุปกรณ์](https://docs.microsoft.com/intune/device-profiles)หรือ[ใช้นโยบายการปฏิบัติตามกฎระเบียบ](https://docs.microsoft.com/intune/device-compliance-get-started)
+ดูภาพรวมเพื่อ[ตั้งค่าคอนฟิกอุปกรณ์](https://docs.microsoft.com/intune/device-profiles)หรือใช้[นโยบายการปฏิบัติตามกฎระเบียบ](https://docs.microsoft.com/intune/device-compliance-get-started)

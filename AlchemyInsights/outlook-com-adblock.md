@@ -1,9 +1,9 @@
 ---
-title: Outlook.com AdBlock
+title: Outlook.comบล็อก
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 6/6/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,16 +11,16 @@ localization_priority: Normal
 ms.custom:
 - "9000594"
 - "2438"
-ms.openlocfilehash: 4f0eb41b63d7654ea793952c7d7eac6e16856310
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: a2755867c118f4ced86add738e8de11c7364d25a
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36538291"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43761079"
 ---
-# <a name="adblock"></a>AdBlock
+# <a name="adblock"></a>บล็อก
 
-ผู้ใช้บางคนกำลังประสบปัญหาเมื่ออ่าน หรือเขียนทางอีเมลเมื่อใช้ Google โครเมียม มีนามสกุล AdBlock ในขณะนี้ เมื่อต้องการหลีกเลี่ยงปัญหานี้:
+ผู้ใช้บางรายกําลังประสบปัญหาขณะอ่านหรือเขียนอีเมลเมื่อใช้ Google Chrome ที่มีส่วนขยาย AdBlock เมื่อต้องการแก้ไขปัญหานี้:
 
-1. ใช้ [ขอบ Microsoft](https://www.microsoft.com/windows/microsoft-edge) หรือเว็บเบราว์เซอร์อื่น
-1. ไม่รวม Outlook.com จากการตั้งค่า AdBlockที่มุมบนขวาของ Google โครเมียม เลือก **AdBlock** แล้ว เลือก **ไม่ทำงานบนหน้าบนโดเมนนี้**ฟื้นฟูเบราว์เซอร์ของคุณเพื่อโหลด Outlook.com อีกครั้ง
+1. ใช้ [Microsoft Edge](https://www.microsoft.com/windows/microsoft-edge) หรือเว็บเบราว์เซอร์อื่น
+1. ยกเว้นOutlook.comจากการตั้งค่า AdBlockที่มุมขวาบนของ Google Chrome ให้เลือก **AdBlock** แล้วเลือก **ไม่แสดงบนหน้าเว็บบนโดเมนนี้**รีเฟรชเบราว์เซอร์ของคุณเพื่อโหลดOutlook.comอีกครั้ง

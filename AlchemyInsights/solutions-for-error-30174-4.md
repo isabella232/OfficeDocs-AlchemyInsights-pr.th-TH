@@ -1,9 +1,9 @@
 ---
-title: วิธีแก้ปัญหาสำหรับข้อผิดพลาด 30174-4
+title: โซลูชั่นสําหรับข้อผิดพลาด 30174-4
 ms.author: janellem
 author: janellem
 manager: scotv
-ms.date: 1/17/2019
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ms.prod: office-online-server
@@ -14,22 +14,22 @@ ms.custom:
 - "831"
 - "2000020"
 ms.assetid: 523894a9-94a2-4ed8-848c-58ac9b597bc8
-ms.openlocfilehash: f1edd7ebd61b46c601a53f7362d9e65acbc81701
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 57701b1a9a8575fe9307912f1e64b07ab2e6a282
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36501638"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43757152"
 ---
-# <a name="error-code-30174-4-when-installing-office"></a>รหัสข้อผิดพลาด 30174-4 เมื่อการติดตั้ง Office
+# <a name="error-code-30174-4-when-installing-office"></a>รหัสข้อผิดพลาด 30174-4 เมื่อติดตั้ง Office
 
-คุณอาจเห็นข้อผิดพลาดนี้ถ้าซอฟต์แวร์ป้องกันไวรัสของคุณ ไฟร์วอลล์ การตั้งค่าพร็อกซี หรือการเชื่อมต่อทำให้คุณสามารถติดตั้ง Office ต่อไปนี้เป็นบางสิ่งที่คุณสามารถลองแก้ไขปัญหา
+คุณอาจเห็นข้อผิดพลาดนี้ถ้าซอฟต์แวร์ป้องกันไวรัส ไฟร์วอลล์ การตั้งค่าพร็อกซี หรือการเชื่อมต่อของคุณป้องกันไม่ให้คุณติดตั้ง Office ต่อไปนี้เป็นบางสิ่งที่คุณสามารถลองแก้ไขปัญหาได้
   
-- ใช้การเชื่อมต่อแบบมีสาย
+- ใช้การเชื่อมต่อแบบผ่านสาย
 
-- เป็นการชั่วคราวปิดการตั้งค่าพร็อกซี
+- ปิดการตั้งค่าพร็อกซีชั่วคราว
 
-- ปิดโปรแกรมป้องกันไวรัสชั่วคราว
+- ปิดซอฟต์แวร์ป้องกันไวรัสชั่วคราว
 
-[รหัสข้อผิดพลาด 30174-4 เมื่อการติดตั้ง Office](https://support.office.com/article/5d5551db-266f-47b3-93fc-d51c2e8f4c0b?wt.mc_id=Alchemy_ClientDIA)
+[รหัสข้อผิดพลาด 30174-4 เมื่อติดตั้ง Office](https://support.office.com/article/5d5551db-266f-47b3-93fc-d51c2e8f4c0b?wt.mc_id=Alchemy_ClientDIA)
   

@@ -1,9 +1,9 @@
 ---
-title: ๙๐๐๐๒๓๘ Outlook.com เพิ่มนามแฝง
+title: 9000238 Outlook.comเพิ่มนามแฝง
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 3/1/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,25 +11,25 @@ localization_priority: Normal
 ms.custom:
 - "1821"
 - "9000238"
-ms.openlocfilehash: 7fcef66309b6330f46062d62a89829f9f342fd31
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: 48645126925cd5e40fae435c55847501ec1c17d8
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "36542720"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43760971"
 ---
-# <a name="add-an-email-alias-in-outlookcom"></a>เพิ่มนามแฝงของเมลใน Outlook.com
+# <a name="add-an-email-alias-in-outlookcom"></a>เพิ่มอีเมลแทนในOutlook.com
 
-นามแฝงคือที่อยู่ e-mail เพิ่มเติมที่ใช้กล่องขาเข้ารายชื่อผู้ติดต่อและการตั้งค่าบัญชีเดียวกันกับที่อยู่ของคุณหลัก คุณสามารถเลือกที่อยู่ e-mail ที่จะส่งจดหมายและคุณสามารถลงชื่อเข้าใช้บัญชี Outlook.com ของคุณด้วยนามแฝงของคุณได้ทั้งหมดจะใช้รหัสผ่านเดียวกัน
+นามแฝงคือที่อยู่อีเมลเพิ่มเติมที่ใช้กล่องจดหมายเข้า รายการที่ติดต่อ และการตั้งค่าบัญชีเดียวกันกับที่อยู่อีเมลหลักของคุณ คุณสามารถเลือกที่อยู่อีเมลที่จะส่งอีเมลและคุณสามารถลงชื่อเข้าใช้บัญชีOutlook.comของคุณด้วยนามแฝงของคุณ
 
-ในการเพิ่มที่อยู่ e-mail:
+วิธีเพิ่มที่อยู่อีเมล:
 
-1. ไปที่[เพิ่มนามแฝง](https://go.microsoft.com/fwlink/p/?linkid=864833) ลงชื่อเข้าใช้บัญชี Microsoft ของคุณหากได้รับพร้อมท์
-2. ภายใต้**เพิ่มนามแฝง**ซึ่งได้แก่:
-    1. สร้างที่อยู่เม Outlook.com ใหม่และเพิ่มเป็นนามแฝง
-    2. เพิ่มที่อยู่ e-mail ที่มีอยู่เป็นนามแฝง
+1. ไปที่[เพิ่มนามแฝง](https://go.microsoft.com/fwlink/p/?linkid=864833) ลงชื่อเข้าใช้บัญชี Microsoft ของคุณ
+2. ภายใต้**เพิ่มนามแฝง**อย่างใดอย่างหนึ่งต่อไปนี้
+    1. สร้างที่อยู่อีเมลOutlook.comใหม่และเพิ่มเป็นนามแฝง
+    2. เพิ่มที่อยู่อีเมลที่มีอยู่เป็นนามแฝง
 3. เลือก**เพิ่มนามแฝง**
 
-อ่านเพิ่มเติมเกี่ยวกับวิธี[เพิ่มหรือลบนามแฝงของเมลใน Outlook.com](https://support.office.com/article/459b1989-356d-40fa-a689-8f285b13f1f2?wt.mc_id=Office_Outlook_com_Alchemy)  
+อ่านเพิ่มเติมเกี่ยวกับวิธีการ[เพิ่มหรือลบอีเมลนามแฝงใน Outlook.com](https://support.office.com/article/459b1989-356d-40fa-a689-8f285b13f1f2?wt.mc_id=Office_Outlook_com_Alchemy)  
 
-อ่าน[วิธีการเชื่อมต่อบัญชีเมลอื่น](https://support.office.com/article/c5224df4-5885-4e79-91ba-523aa743f0ba?wt.mc_id=Office_Outlook_com_Alchemy)กับบัญชี Outlook.com ของคุณ
+[อ่านวิธีเชื่อมต่อบัญชีอีเมลอื่น](https://support.office.com/article/c5224df4-5885-4e79-91ba-523aa743f0ba?wt.mc_id=Office_Outlook_com_Alchemy)กับบัญชีOutlook.comของคุณ

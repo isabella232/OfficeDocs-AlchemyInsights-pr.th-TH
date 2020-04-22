@@ -1,9 +1,9 @@
 ---
-title: การแก้ไขปัญหา "เปิดด้วย Explorer" ใน SharePoint แบบออนไลน์
+title: แก้ไขปัญหา "เปิดด้วย Explorer" ใน SharePoint แบบออนไลน์
 ms.author: pebaum
 author: pebaum
 manager: pamgreen
-ms.date: 08/07/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,26 +11,26 @@ localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 5ad2f1f2-9650-4eb0-b4fa-2f52a09f535a
-ms.openlocfilehash: 09d0d76f8c61f7fcd21a58527e220b65f123654d
-ms.sourcegitcommit: 317eeed39c7777a922442992d67733726c41d9e1
+ms.openlocfilehash: 2023593e281170cea0b055c54d18ef307c4c7ea7
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 02/05/2020
-ms.locfileid: "41770298"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43767052"
 ---
-# <a name="troubleshoot-open-with-explorer-issues-in-sharepoint-online"></a>การแก้ไขปัญหา "เปิดด้วย Explorer" ใน SharePoint แบบออนไลน์
+# <a name="troubleshoot-open-with-explorer-issues-in-sharepoint-online"></a>แก้ไขปัญหา "เปิดด้วย Explorer" ใน SharePoint แบบออนไลน์
 
-เราขอแนะนำให้[ซิงค์แฟ้ม SharePoint กับไคลเอ็นต์ OneDrive ซิงค์ใหม่](https://support.office.com/article/sync-sharepoint-files-with-the-new-onedrive-sync-client-6de9ede8-5b6e-4503-80b2-6190f3354a88)ซึ่งให้[แฟ้มตามความต้อง](https://support.office.com/article/learn-about-onedrive-files-on-demand-0e6860d3-d9f3-4971-b321-7092438fb38e)การเนื่องจากมีการเข้าถึงเฉพาะแฟ้มของคุณและมีประสิทธิภาพการทำงานที่ดีที่สุด
+เราขอแนะนําให้[ซิงค์ไฟล์ SharePoint กับไคลเอ็นต์การซิงค์ OneDrive ใหม่](https://support.office.com/article/sync-sharepoint-files-with-the-new-onedrive-sync-client-6de9ede8-5b6e-4503-80b2-6190f3354a88)ซึ่งให้[ไฟล์แบบตามต้องการ](https://support.office.com/article/learn-about-onedrive-files-on-demand-0e6860d3-d9f3-4971-b321-7092438fb38e)เนื่องจากให้การเข้าถึงไฟล์ของคุณภายในเครื่องและนําเสนอประสิทธิภาพที่ดีที่สุด
 
-เมื่อต้องการแก้ไขปัญหาเปิดด้วย Explorer ทำตามขั้นตอนและแนวทางปฏิบัติที่ดีที่สุดในบทความต่อไปนี้:
+เมื่อต้องการแก้ไขปัญหาเปิดด้วย Explorer ให้ทําตามขั้นตอนและแนวทางปฏิบัติที่ดีที่สุดในบทความต่อไปนี้:
 
-- [วิธีการใช้คำสั่ง "เปิดด้วย Explorer" เพื่อแก้ไขปัญหาใน SharePoint แบบออนไลน์](https://docs.microsoft.com/sharepoint/support/lists-and-libraries/troubleshoot-issues-using-open-with-explorer)
-- [การคัดลอกหรือย้ายแฟ้มไลบรารีโดยใช้เปิดด้วย Explorer](https://support.office.com/article/copy-or-move-library-files-by-using-open-with-explorer-aaee7bfb-e2a1-42ee-8fc0-bcc0754f04d2)
+- [วิธีการใช้คําสั่ง "เปิดด้วย Explorer" เพื่อแก้ไขปัญหาใน SharePoint แบบออนไลน์](https://docs.microsoft.com/sharepoint/support/lists-and-libraries/troubleshoot-issues-using-open-with-explorer)
+- [คัดลอกหรือย้ายแฟ้มไลบรารีโดยใช้เปิดด้วย Explorer](https://support.office.com/article/copy-or-move-library-files-by-using-open-with-explorer-aaee7bfb-e2a1-42ee-8fc0-bcc0754f04d2)
 
 > **หมาย เหตุ:**
 >
->- ปุ่ม ' เปิดด้วย Explorer ' ไม่ปรากฏในประสบการณ์ใช้งานไลบรารีใหม่ เลือก**มุมมอง**แบบเลื่อนลงที่ด้านขวาบน (ชื่อของการเปลี่ยนแปลงแบบหล่นลงขึ้นอยู่กับมุมมองปัจจุบันของคุณ) แล้วเลือก**มุมมองใน File Explorer**
+>- ปุ่ม เปิดด้วย Explorer ไม่ปรากฏในประสบการณ์การใช้งานไลบรารีใหม่ เลือกแบบดรอปดาวน์ **"มุมมอง**" ที่ด้านขวาบน (ชื่อของการเปลี่ยนแปลงแบบดรอปดาวน์ขึ้นอยู่กับมุมมองปัจจุบันของคุณ) แล้วเลือก**View in File Explorer**
 >
->- เปิดด้วย Explorer เท่านั้นสนับสนุนใน Internet Explorer 10 หรือ11 เปิดด้วย Explorer ไม่ทำงานใน Windows กับ Microsoft Edge, Google Chrome, Mozilla Firefox หรือบนแพลตฟอร์ม Mac เนื่องจากสาเหตุนี้ตัวเลือกมุมมอง Explorer อาจเป็นสีเทา
+>- เปิดด้วย Explorer เท่านั้นได้รับการสนับสนุนใน Internet Explorer 10 หรือ 11 เปิดด้วย Explorer ไม่ได้ทํางานใน Windows กับไมโครซอฟท์ขอบ, Google Chrome, Mozilla Firefox หรือบนแพลตฟอร์ม Mac. เนื่องจากเหตุผลนี้ Explorer มุมมองตัวเลือกอาจเป็นสีเทา
 
 

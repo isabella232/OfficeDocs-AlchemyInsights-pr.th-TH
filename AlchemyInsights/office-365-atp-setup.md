@@ -1,29 +1,29 @@
 ---
-title: โปรแกรมติดตั้ง office 365 ขั้นสูงคุกคามป้องกัน (ATP)
+title: การตั้งค่าการป้องกันภัยคุกคามขั้นสูง (ATP) ของ Office 365
 ms.author: deniseb
 author: denisebmsft
 manager: laurawi
-ms.date: 04/01/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Admin_O365
 ms.custom: 3100021
-ms.openlocfilehash: 8dde7236bdee2bd0b83087282ff32b32af8bae30
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: dfd6e900bc364699c7c19bda795408d87ccb4333
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32419927"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43761689"
 ---
-# <a name="office-365-advanced-threat-protection-atp"></a>ป้องกันการคุกคามขั้นสูง 365 office (ATP)
+# <a name="office-365-advanced-threat-protection-atp"></a>การป้องกันภัยคุกคามขั้นสูงของ Office 365 (ATP)
 
-Office 365 ATP รวม[สิ่งที่แนบมาเซฟ](https://docs.microsoft.com/office365/securitycompliance/atp-safe-attachments)[เชื่อมโยงเซฟ](https://docs.microsoft.com/office365/securitycompliance/atp-safe-links)[ขั้นสูงป้องกันฟิชชิ่ง](https://docs.microsoft.com/office365/securitycompliance/atp-anti-phishing)และอื่น ๆ 
+มี[สิ่งที่แนบที่ปลอดภัย](https://docs.microsoft.com/office365/securitycompliance/atp-safe-attachments) [, ลิงก์ปลอดภัย](https://docs.microsoft.com/office365/securitycompliance/atp-safe-links),[ขั้นสูงป้องกันฟิชชิ่ง](https://docs.microsoft.com/office365/securitycompliance/atp-anti-phishing)และอื่น ๆ 
 
-ATP จะรวมอยู่ในการบอกรับเป็นสมาชิก เช่น E5 องค์กร 365 Office, A5 การศึกษา 365 Office และ Microsoft 365 ธุรกิจ ถ้าการสมัครใช้งานรวมถึง ATP คุณอาจสามารถซื้อ ATP เป็นแอดออน เมื่อต้องการเรียนรู้เพิ่มเติม ให้ดู[คำอธิบายบริการของ ATP 365 Office](https://docs.microsoft.com/office365/servicedescriptions/office-365-advanced-threat-protection-service-description)
+ATP จะรวมอยู่ในการสมัครใช้งาน เช่น Office 365 องค์กร E5, A5 การศึกษาของ Office 365 และค่าจ้างพิเศษของธุรกิจ 365 ของ Microsoft ถ้าการสมัครใช้งานของคุณไม่มี ATP คุณอาจซื้อ ATP เป็น Add-on ได้ เมื่อต้องการเรียนรู้เพิ่มเติม ให้ดูที่[คําอธิบายบริการ Atp ของ Office 365](https://docs.microsoft.com/office365/servicedescriptions/office-365-advanced-threat-protection-service-description)
 
-## <a name="set-up-office-365-atp"></a>การติดตั้ง Office 365 ATP
+## <a name="set-up-office-365-atp"></a>ตั้งค่า ATP ของ Office 365
 
-เพื่อปกป้อง ATP มีผล คุณต้องกำหนดค่านโยบาย ดู[คู่มือเริ่มต้นอย่างรวดเร็ว: ตั้งค่าการป้องกันความเสี่ยงขั้นสูงของ Office 365](https://docs.microsoft.com/office365/securitycompliance/checklist-atp-setup)
+สําหรับการป้องกัน ATP มีผล คุณต้องกําหนดค่านโยบาย ดู[คู่มือเริ่มต้นใช้งานด่วน: ตั้งค่าการป้องกันภัยคุกคามขั้นสูงของ Office 365](https://docs.microsoft.com/office365/securitycompliance/checklist-atp-setup)
 

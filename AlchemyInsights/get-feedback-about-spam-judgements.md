@@ -1,24 +1,24 @@
 ---
-title: 'คุณลักษณะใหม่ของ 2571: ได้รับผลป้อนกลับเกี่ยวกับสแปม judgments'
+title: '2571 คุณลักษณะใหม่: รับคําติชมเกี่ยวกับคําตัดสินสแปม'
 ms.author: chrisda
 author: chrisda
 manager: dansimp
-ms.date: ''
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 2571
 ms.assetid: ''
-ms.openlocfilehash: a3ba1f5157242120c8690775125b5fbe04f7565f
-ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
+ms.openlocfilehash: 4eda7f42c01ddb8d40ab535c3db80b15ab17b632
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 08/13/2019
-ms.locfileid: "36391573"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43765035"
 ---
-# <a name="new-feature-get-feedback-about-spam-judgments"></a>คุณลักษณะใหม่: ได้รับผลป้อนกลับเกี่ยวกับสแปม judgments
+# <a name="get-feedback-about-spam-judgments"></a>รับคําติชมเกี่ยวกับคําตัดสินสแปม
 
-เป็นผู้ดูแลระบบการ คุณสามารถเดี๋ยวนี้ได้อย่างง่ายดายรายงานข้อความอีเมลที่สงสัย Url และเนื้อหาไปยัง Microsoft ใน[Explorer ส่ง](https://protection.office.com/reportsubmission) แม้ว่าคุณสามารถใช้เพื่อช่วยให้เข้าใจถึงสาเหตุข้อความถูกต้องตามกฎหมายถูกตั้งค่าสถานะไม่ถูกต้อง สำหรับข้อมูลเพิ่มเติม ให้ดู[ประกาศ](https://techcommunity.microsoft.com/t5/Security-Privacy-and-Compliance/Empower-security-teams-to-easily-report-suspicious-emails-amp/ba-p/752622)นี้
+ในฐานะผู้ดูแลระบบ คุณสามารถรายงานข้อความอีเมล URL และเนื้อหาที่น่าสงสัยไปยัง Microsoft ใน[Submissions Explorer](https://protection.office.com/reportsubmission)ได้อย่างง่ายดาย คุณยังสามารถใช้มันเพื่อช่วยให้เข้าใจว่าทําไมข้อความที่ถูกต้องถูกตั้งค่าสถานะไม่ถูกต้อง สําหรับข้อมูลเพิ่มเติม ให้ดูที่[การประกาศ](https://techcommunity.microsoft.com/t5/Security-Privacy-and-Compliance/Empower-security-teams-to-easily-report-suspicious-emails-amp/ba-p/752622)นี้
 
-เมื่อต้องการให้ easer คุณสามารถอนุญาตให้ผู้ใช้ของคุณเพื่อรายงานโดยตรงไปยัง Microsoft โดยที่[ข้อความของรายงานใน](https://appsource.microsoft.com/product/office/WA104381180?src=office&tab=Overview)
+เมื่อต้องการทําให้ตัวแบ่งส่วนนั้น[Report Message add-in](https://appsource.microsoft.com/product/office/WA104381180?src=office&tab=Overview)

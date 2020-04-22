@@ -1,46 +1,46 @@
 ---
-title: การตั้งค่าการสมัครใช้งานสิ่งจำเป็นสำหรับธุรกิจ O365 ของคุณ
+title: การตั้งค่าการสมัครใช้งาน O365 Business Essentials ของคุณ
 ms.author: v-crytho
 author: CrystalThomasMS
-ms.date: 5/3/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: df781750-3d27-4077-ab0f-b9ea764ad5fa
-ms.openlocfilehash: e6b2d98f166e3af5eb9786106e5c117c3ffd109f
-ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
+ms.openlocfilehash: 271d067fc44da56e0de60634c31cfbdff24b6020
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 10/18/2019
-ms.locfileid: "36744732"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43767808"
 ---
-# <a name="setting-up-your-o365-business-essentials-subscription"></a>การตั้งค่าการสมัครใช้งานสิ่งจำเป็นสำหรับธุรกิจ O365 ของคุณ
+# <a name="setting-up-your-o365-business-essentials-subscription"></a>การตั้งค่าการสมัครใช้งาน O365 Business Essentials ของคุณ
 
-สร้างบัญชี Office ๓๖๕และเพิ่มโดเมนของคุณ
+สร้างบัญชี Microsoft 365 และเพิ่มโดเมนของคุณ
   
-- ในขั้นตอนนี้คุณใช้วิซาร์ดการตั้งค่าเพื่อสร้างบัญชี Office ๓๖๕สำหรับผู้ใช้ของคุณและเพิ่มโดเมนของคุณเอง ตัวช่วยสร้างช่วยให้คุณสามารถปรับแต่ง ID ผู้ใช้และเมลของทุกคนสำหรับธุรกิจของคุณเช่น[rob@contoso.com](mailto:rob@contoso.com)
+- ในขั้นตอนนี้ คุณสามารถใช้ตัวช่วยสร้างการติดตั้งเพื่อสร้างบัญชี Microsoft 365 สําหรับผู้ใช้ของคุณ และเพิ่มโดเมนของคุณเอง ตัวช่วยสร้างช่วยให้คุณกําหนดรหัสผู้ใช้และอีเมลของทุกคนให้เหมาะสมกับธุรกิจของคุณ เช่น[rob@contoso.com](mailto:rob@contoso.com)
     
-- ไปที่[ศูนย์ดูแลของ Microsoft ๓๖๕](https://login.partner.microsoftonline.cn/)
+- ไปที่[ศูนย์การจัดการ Microsoft 365](https://login.partner.microsoftonline.cn/)
     
-- หากต้องการเริ่มต้นวิซาร์ดให้เลือก**ไปที่การตั้งค่า** หากต้องการเรียนรู้เพิ่มเติมโปรดดู[เพิ่มโดเมนใน Office ๓๖๕](https://docs.microsoft.com/office365/admin/setup/add-domain)
+- เมื่อต้องการเริ่มตัวช่วยสร้าง ให้เลือก**ไปที่ การตั้งค่า** เมื่อต้องการเรียนรู้เพิ่มเติม ให้ดูที่[เพิ่มโดเมนลงใน Microsoft 365](https://docs.microsoft.com/office365/admin/setup/add-domain)
     
-นำเข้าเมล์
+นําเข้าอีเมล
   
-- ย้ายเมลและผู้ติดต่อที่มีอยู่ของคุณจากระบบเมลอื่นไปยังกล่องจดหมาย Office ๓๖๕ของคุณเพื่อให้คุณสามารถเห็นได้ทั้งหมดในที่เดียว สำหรับตัวเลือกการโยกย้ายให้[ย้ายข้อมูลและรายชื่อติดต่อไปยัง Office ๓๖๕](https://docs.microsoft.com/office365/admin/setup/migrate-email-and-contacts-admin)
+- ย้ายอีเมลและที่ติดต่อที่มีอยู่จากระบบอีเมลอื่นไปยังกล่องจดหมาย Microsoft 365 ของคุณ เพื่อให้คุณสามารถดูได้ทั้งหมดในที่เดียว สําหรับตัวเลือกการย้าย[ข้อมูลอีเมลและที่ติดต่อไปยัง Microsoft 365](https://docs.microsoft.com/office365/admin/setup/migrate-email-and-contacts-admin)
     
-- เชื่อมต่อบัญชี email
+- เชื่อมต่อบัญชีอีเมล
     
-  - นอกเหนือจากการจัดการของคุณ Office ๓๖๕ e-mail ใน Outlook คุณสามารถเชื่อมต่อบัญชีผู้อื่นทางเมลอื่นๆกับ Outlook เช่นเดียวกับบัญชี Gmail และ Yahoo ของคุณ ซึ่งจะช่วยให้คุณจัดการกับทั้งหมดของคุณได้ในที่เดียว คุณสามารถเชื่อมต่อบัญชีผู้รับเมลได้ถึง5รายการกับ Outlook ดูที่การ[เชื่อมต่อบัญชีผู้ใช้เมลใน Outlook บนเว็บ (Office ๓๖๕)](https://support.office.com/Article/Connect-email-accounts-in-Outlook-on-the-web-Office-365-d7012ff0-924f-4f78-8aca-c3912d886c4d)สำหรับรายละเอียดเพิ่มเติม 
+  - นอกเหนือจากการจัดการอีเมลของคุณใน Outlook แล้ว คุณยังสามารถเชื่อมต่อบัญชีอีเมลอื่นกับ Outlook ได้เช่นกัน เช่น บัญชี Gmail และ Yahoo ของคุณ วิธีนี้ทําให้คุณสามารถจัดการอีเมลทั้งหมดได้ในที่เดียว คุณสามารถเชื่อมต่อบัญชีอีเมลได้ถึง 5 บัญชีกับ Outlook ดูรายละเอียดเพิ่มเติมได้ที่[เชื่อมต่อบัญชีอีเมลใน Outlook บนเว็บ (Microsoft 365)](https://support.office.com/Article/Connect-email-accounts-in-Outlook-on-the-web-Office-365-d7012ff0-924f-4f78-8aca-c3912d886c4d) 
     
-ติดตั้ง Skype สำหรับธุรกิจ
+ติดตั้ง Skype สําหรับธุรกิจ
   
-- คุณและสมาชิกในทีมของคุณสามารถ[ดาวน์โหลดและติดตั้ง Skype For Business](https://support.office.com/Article/download-and-install-Skype-for-Business-8a0d4da8-9d58-44f9-9759-5c8f340cb3fb)ได้บนพีซี, mac, แท็บเล็ตและโทรศัพท์ทั้งหมดของคุณ จากนั้นคุณจะสามารถดูสถานะออนไลน์ของเพื่อนร่วมงานของคุณเริ่มต้นการสนทนาจากโปรแกรมประยุกต์ Office อื่นๆและโฮสต์การประชุมวิดีโอที่มีสูงสุด๒๕๐คน 
+- คุณและสมาชิกในทีมของคุณสามารถ[ดาวน์โหลดและติดตั้ง Skype for Business](https://support.office.com/Article/download-and-install-Skype-for-Business-8a0d4da8-9d58-44f9-9759-5c8f340cb3fb)บนพีซี, Mac, แท็บเล็ต และโทรศัพท์ทั้งหมดของคุณ จากนั้นคุณจะสามารถดูสถานะออนไลน์ของเพื่อนร่วมงานของคุณ 
     
-จัดเก็บไฟล์แบบออนไลน์
+เก็บไฟล์ออนไลน์
   
-- หากต้องการเรียนรู้สถานที่จัดเก็บที่ดีที่สุดสำหรับธุรกิจของคุณให้ดู[ที่ที่คุณสามารถเก็บแฟ้มใน Office ๓๖๕](https://support.office.com/article/c7c20284-bc94-47f4-9728-d28e9daf0790.aspx) ทุกคนจะได้รับตำแหน่งการจัดเก็บเมฆ**OneDrive**โดยอัตโนมัติเมื่อคุณสร้างบัญชี Office ๓๖๕สำหรับพวกเขา ด้วย OneDrive คุณสามารถเข้าถึงไฟล์ต่างๆได้จากคอมพิวเตอร์โทรศัพท์และแท็บเล็ตของคุณ 
+- เมื่อต้องการเรียนรู้ว่าตําแหน่งที่ตั้งที่เก็บใดดีที่สุดสําหรับธุรกิจของคุณ ให้ดูที่[ที่คุณสามารถจัดเก็บไฟล์ใน Microsoft 365 ที่ใด](https://support.office.com/article/c7c20284-bc94-47f4-9728-d28e9daf0790.aspx) ทุกคนจะได้รับตําแหน่งที่เก็บบนระบบคลาวด์**OneDrive**โดยอัตโนมัติเมื่อคุณสร้างบัญชี Microsoft 365 สําหรับตําแหน่งที่ตั้งเหล่านั้น ด้วย OneDrive คุณสามารถเข้าถึงไฟล์ต่างๆ ได้ในคอมพิวเตอร์ โทรศัพท์ และแท็บเล็ตของคุณ 
     
-ขั้นตอนโดยละเอียดสำหรับการตั้งค่าสามารถพบได้ใน[บทความนี้](https://docs.microsoft.com/office365/admin/setup/setup)
+ขั้นตอนโดยละเอียดสําหรับการตั้งค่า[สามารถพบได้ในบทความนี้](https://docs.microsoft.com/office365/admin/setup/setup)
   
 

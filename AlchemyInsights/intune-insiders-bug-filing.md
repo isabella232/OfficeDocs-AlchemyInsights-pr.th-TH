@@ -1,9 +1,9 @@
 ---
-title: การยื่นข้อผิดพลาด Intune ภายใน
+title: การยื่นข้อบกพร่องภายใน Intune
 ms.author: mandia
 author: mandia
 manager: dougeby
-ms.date: 11/26/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,20 +12,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "2402"
 - "9000348"
-ms.openlocfilehash: beca7f1b13492997c3c0568f77afee308635e5cb
-ms.sourcegitcommit: e02ecb762949c13af66b734eab962882e0a2ec11
+ms.openlocfilehash: 1c95c7cc4e758d649717df25ecffb87650dff1c3
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 12/02/2019
-ms.locfileid: "39663637"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43765972"
 ---
-# <a name="intune-insider-bug-filing"></a>การยื่นข้อผิดพลาด Intune ภายใน
+# <a name="intune-insider-bug-filing"></a>การยื่นข้อบกพร่องภายใน Intune
 
-ขอบคุณที่ให้ความสนใจในโปรแกรม Intune Insider ถ้าคุณกำลังอยู่แล้วสำหรับโปรแกรม Intune Insider และจำเป็นต้องยื่นคำขอการสนับสนุนจากนั้น:
+ขอขอบคุณที่ให้ความสนใจในโปรแกรม Intune Insiders ถ้าคุณได้ onboarded สําหรับโปรแกรม Intune Insiders และต้องยื่นคําขอการสนับสนุน แล้ว:
 
-1. อธิบายปัญหาของคุณในช่องด้านบน
-2. สร้างคำขอรับบริการใหม่โดยใช้ตัวเลือกด้านล่าง
+1. อธิบายปัญหาของคุณในฟิลด์ด้านบน
+2. สร้างคําขอบริการใหม่โดยใช้ตัวเลือกด้านล่าง
 
-วิศวกรฝ่ายสนับสนุน Intune จะติดต่อคุณ
+วิศวกรฝ่ายสนับสนุนของ Intune จะติดต่อคุณ
 
-หากคุณไม่ได้อยู่ในโปรแกรม Intune Insider ขอขอบคุณที่คุณสนใจ ขณะนี้เราไม่ได้ให้การสรรหาผู้เข้าร่วมใหม่
+หากคุณไม่ได้อยู่ในโปรแกรม Intune Insiders ขอขอบคุณสําหรับความสนใจของคุณ ขณะนี้เรากําลังไม่สรรหาผู้เข้าร่วมใหม่

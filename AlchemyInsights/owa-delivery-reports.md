@@ -1,5 +1,5 @@
 ---
-title: รายงานที่ไม่มีการจัดส่งใน Outlook บนเว็บ
+title: รายงานการไม่นําส่งใน Outlook บนเว็บ
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -8,15 +8,15 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: ''
-ms.openlocfilehash: 2741f309a786ad04801ba2dd7a5b75cb30697b75
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: e103af4765c658bdd2650dd51ead7191a8f587e9
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "37768675"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43768564"
 ---
-# <a name="issues-with-email-delivery"></a>ปัญหาเกี่ยวกับการนำส่งทางเมล
+# <a name="issues-with-email-delivery"></a>ปัญหาเกี่ยวกับการส่งอีเมล
 
-เมื่อมีปัญหาในการส่งข้อความทางเมล Office ๓๖๕ส่งเมลเพื่อแจ้งให้คุณทราบ เมลที่คุณได้รับคือการแจ้งเตือนสถานะการจัดส่งหรือที่เรียกอีกอย่างว่า DSN หรือข้อความตีกลับ ชนิดที่พบมากที่สุดเรียกว่ารายงานที่ไม่ใช่การนำส่ง (NDR) ซึ่งจะบอกให้คุณทราบว่าข้อความไม่ได้ถูกส่ง การไม่จัดส่งอาจมีสาเหตุมาจากสิ่งที่ง่ายเหมือนกับการพิมพ์ผิดในที่อยู่ e-mail Ndr มีรหัสข้อผิดพลาดที่บ่งชี้ว่าเหตุใดจึงไม่มีการส่งมอบโซลูชั่นของคุณเพื่อช่วยให้คุณได้รับการจัดส่งทาง e-mail ของคุณลิงก์ไปยังความช่วยเหลือเพิ่มเติมบนเว็บและรายละเอียดทางเทคนิคสำหรับผู้ดูแลระบบ
+เมื่อมีปัญหาการส่งข้อความอีเมลที่คุณส่ง Microsoft 365 ส่งอีเมลเพื่อแจ้งให้คุณทราบ อีเมลที่คุณได้รับคือการแจ้งเตือนสถานะการส่ง หรือที่เรียกว่าข้อความ DSN หรือตีกลับ ชนิดที่ใช้บ่อยที่สุดเรียกว่ารายงานการไม่จัดส่ง (NDR) ซึ่งจะบอกคุณว่าไม่มีการส่งข้อความ การไม่นําส่งอาจมีสาเหตุมาจากสิ่งที่ง่ายๆ เช่นการพิมพ์ในที่อยู่อีเมล Nnrs มีรหัสข้อผิดพลาดที่บ่งชี้ว่าเหตุใดอีเมลของคุณจึงไม่ส่งโซลูชันเพื่อช่วยให้คุณได้รับอีเมลส่งลิงก์ไปยังความช่วยเหลือเพิ่มเติมบนเว็บและรายละเอียดทางเทคนิคสําหรับผู้ดูแลระบบ
 
-หากต้องการดูรายการ Ndr และดูว่าเหตุใดจึงไม่มีการจัดส่งข้อความของคุณโปรดดู[ที่รายงานการนำส่งทาง Email ใน Exchange Online](https://docs.microsoft.com/exchange/mail-flow-best-practices/non-delivery-reports-in-exchange-online/non-delivery-reports-in-exchange-online)
+เมื่อต้องการดูรายการ Nnrs และค้นหาสาเหตุที่ข้อความของคุณไม่ได้ถูกส่ง ให้ดูที่[ส่งอีเมลรายงานการไม่จัดส่งใน Exchange Online](https://docs.microsoft.com/exchange/mail-flow-best-practices/non-delivery-reports-in-exchange-online/non-delivery-reports-in-exchange-online)

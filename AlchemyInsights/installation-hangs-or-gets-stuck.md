@@ -1,8 +1,8 @@
 ---
-title: ติดตั้งแฮงค์หรือได้รับการติด
+title: การติดตั้งค้างหรือติดค้าง
 ms.author: janellem
 author: janellem
-ms.date: 1/17/2019
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ms.prod: office-online-server
@@ -12,28 +12,28 @@ ms.custom:
 - "851"
 - "2000020"
 ms.assetid: b54d4f87-e366-47e5-b3d8-42477f72f6a3
-ms.openlocfilehash: e72aa630a6ef3998b4f20f1a75c9826a23494705
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: 710fc06c37d5c5cd378929a6cc50f7069104eb8f
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "36735444"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43763302"
 ---
-# <a name="office-installation-hangs-or-gets-stuck"></a>การติดตั้ง Office แฮงค์หรือได้รับการติดอยู่
+# <a name="office-installation-hangs-or-gets-stuck"></a>การติดตั้ง Office แฮงหรือติดค้าง
 
-คุณอาจเห็นลักษณะการทำงานนี้เนื่องจากการเชื่อมต่อเครือข่ายซอฟต์แวร์ป้องกันไวรัสหรือการตั้งค่า Windows Update บนคอมพิวเตอร์ของคุณ ต่อไปนี้เป็นบางสิ่งที่คุณสามารถลองแก้ไขปัญหาได้
+คุณอาจเห็นลักษณะการทํางานนี้เนื่องจากการเชื่อมต่อเครือข่าย ต่อไปนี้เป็นบางสิ่งที่คุณสามารถลองแก้ไขปัญหาได้
   
-- รีสตาร์ทเครื่องคอมพิวเตอร์ของคุณและตรวจสอบว่าติดตั้ง Office
+- เริ่มระบบของคอมพิวเตอร์ใหม่ และตรวจสอบว่า Office ติดตั้งอยู่หรือไม่
 
-- ใช้การเชื่อมต่อแบบมีสาย
+- ใช้การเชื่อมต่อแบบผ่านสาย
 
-- ถ้าคุณกำลังทำการเชื่อมต่ออินเทอร์เน็ตที่ช้าให้ติดตั้ง Office[โดยใช้โปรแกรมติดตั้ง office แบบออฟไลน์](https://support.office.com/article/f0a85fe7-118f-41cb-a791-d59cef96ad1c?wt.mc_id=Alchemy_ClientDIA)
+- ถ้าคุณอยู่บนการเชื่อมต่ออินเทอร์เน็ตช้า ให้ติดตั้ง Office[โดยใช้ตัวติดตั้ง Office แบบออฟไลน์](https://support.office.com/article/f0a85fe7-118f-41cb-a791-d59cef96ad1c?wt.mc_id=Alchemy_ClientDIA)
 
-- ปิดซอฟต์แวร์ป้องกันไวรัสเป็นการคราว
+- ปิดซอฟต์แวร์ป้องกันไวรัสชั่วคราว
 
-- เรียกใช้การซ่อมแซมแบบออนไลน์จาก ' แผงควบคุม '
+- เรียกใช้การซ่อมแซมแบบออนไลน์จากแผงควบคุม
 
-- ลบและติดตั้ง Office ใหม่
+- การเอาออกและติดตั้ง Office ใหม่
 
-[สำนักงานใช้เวลานานในการติดตั้ง](https://support.office.com/article/0f09f357-3fef-42a6-b8aa-cef4c6c44bdf?wt.mc_id=Alchemy_ClientDIA)
+[สํานักงานใช้เวลานานในการติดตั้ง](https://support.office.com/article/0f09f357-3fef-42a6-b8aa-cef4c6c44bdf?wt.mc_id=Alchemy_ClientDIA)
   

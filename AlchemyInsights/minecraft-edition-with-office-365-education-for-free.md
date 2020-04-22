@@ -1,9 +1,9 @@
 ---
-title: เพิ่มการศึกษาสำหรับรุ่น Minecraft กับ Office 365
+title: Minecraft Edition กับ Office 365 การศึกษาฟรี
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
-ms.date: 11/6/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,27 +12,27 @@ ms.custom:
 - "1427"
 - "1500009"
 ms.assetid: 7cf69a77-2212-43a7-bd68-122afd876e59
-ms.openlocfilehash: e4e88f315b94e4b1318fada8abde8413233c41a6
-ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
+ms.openlocfilehash: aa65e494dce09d4cb54fea29b5b37d6f54c4a089
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 08/13/2019
-ms.locfileid: "36389667"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43762084"
 ---
-# <a name="minecraft-edition-with-office-365-education-for-free"></a>เพิ่มการศึกษาสำหรับรุ่น Minecraft กับ Office 365
+# <a name="minecraft-edition-with-office-365-education-for-free"></a>Minecraft Edition กับ Office 365 การศึกษาฟรี
 
-[เพิ่มการศึกษาสำหรับรุ่น Minecraft กับ Office 365](https://docs.microsoft.com/education/windows/get-minecraft-for-education)
+[Minecraft Edition กับ Office 365 การศึกษาฟรี](https://docs.microsoft.com/education/windows/get-minecraft-for-education)
   
-- **Minecraft: การศึกษา Edition**จำเป็นต้องใช้ Windows 10
+- **Minecraft: รุ่นการศึกษา**ต้องใช้ Windows 10
 
-- ทดลองหรือการบอกรับเป็นสมาชิกของ**Minecraft: ศึกษารุ่น**มีเสนอการศึกษาผู้เช่าที่จะถูกจัดการ โดย Azure Active Directory (Azure AD)
+- การทดลองหรือการสมัครใช้งานของ**Minecraft: Edition สําหรับการศึกษา**ถูกเสนอให้แก่ผู้เช่าการศึกษาที่จัดการโดย Azure Active Directory (Azure AD)
 
-  - ถ้าโรงเรียนของคุณไม่มีผู้เช่าโฆษณา Azure[ผู้ดูแลระบบไอทีสามารถติดตั้ง](https://docs.microsoft.com/education/windows/school-get-minecraft)เป็นส่วนหนึ่งของกระบวนการของการรับ**Minecraft: ศึกษารุ่น**
+  - หากโรงเรียนของคุณไม่มีผู้เช่า Azure AD[ผู้ดูแลระบบไอทีสามารถตั้งค่า](https://docs.microsoft.com/education/windows/school-get-minecraft)ให้เป็นส่วนหนึ่งของกระบวนการรับ**Minecraft: Education Edition**ได้
 
-  - การศึกษา office 365 ซึ่งรวมถึงโปรแกรมประยุกต์ Office รวมทั้งจัดเก็บออนไลน์ 1 TB รุ่นออนไลน์ ฟรีสำหรับครูและนักเรียนได้ [ลงทะเบียนโรงเรียนของคุณสำหรับ Office 365 ศึกษา](https://products.office.com/academic/office-365-education-plan)
+  - Office 365 Education ซึ่งประกอบด้วยแอป Office เวอร์ชันออนไลน์และที่เก็บข้อมูลออนไลน์ 1 TB ฟรีสําหรับครูและนักเรียน [ลงทะเบียนโรงเรียนของคุณสําหรับ Office 365 Education](https://products.office.com/academic/office-365-education-plan)
 
-  - ถ้าโรงเรียนของคุณมีการสมัครใช้งานของ Office 365 ศึกษา รวมแบบอิสระโฆษณา Azure การบอกรับเป็นสมาชิก [เครื่องบันทึกเงินสดโฆษณา Azure อิสระของการบอกรับเป็นสมาชิก](https://msdn.microsoft.com/library/windows/hardware/mt703369%28v=vs.85%29.aspx)
+  - ถ้าโรงเรียนของคุณมีการสมัครใช้งาน Office 365 Education โรงเรียนจะมีการสมัครใช้งาน Azure AD ฟรี [ลงทะเบียนการสมัครใช้งาน Azure AD ฟรีของคุณ](https://msdn.microsoft.com/library/windows/hardware/mt703369%28v=vs.85%29.aspx)
 
-[การเรียนรู้วิธีการที่ครูสามารถรับ และกระจาย Minecraft: ศึกษารุ่น](https://docs.microsoft.com/education/windows/teacher-get-minecraft)
+[เรียนรู้วิธีการที่ครูจะได้รับและแจกจ่าย Minecraft: รุ่นการศึกษา](https://docs.microsoft.com/education/windows/teacher-get-minecraft)
   
-[การเรียนรู้วิธีผู้ดูแลระบบไอทีสามารถรับ และกระจาย Minecraft: ศึกษารุ่น](https://docs.microsoft.com/education/windows/school-get-minecraft)และวิธีการจัดการสิทธิ์สำหรับ Minecraft
+[เรียนรู้วิธีการที่ผู้ดูแลระบบไอทีจะได้รับและจัดจําหน่าย Minecraft: Education Edition](https://docs.microsoft.com/education/windows/school-get-minecraft)และวิธีการจัดการสิทธิ์สําหรับ Minecraft

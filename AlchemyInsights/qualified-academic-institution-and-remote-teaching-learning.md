@@ -10,12 +10,12 @@ ms.custom: ''
 ms.assetid:
 - "1500009"
 - "4495"
-ms.openlocfilehash: 9097ce5af41c14cef3ed499b8b67877f5e1dad62
-ms.sourcegitcommit: 183dc4c002c151474628b6d7c4571a5264dc5257
+ms.openlocfilehash: e2ca0e13aa569536d9d529aaa1eef05bb0fa49d2
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 03/25/2020
-ms.locfileid: "42953991"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43764711"
 ---
 # <a name="microsoft-qualified-academic-institution-and-remote-teaching-and-learning"></a>สถาบันการศึกษาที่ผ่านการรับรองของ Microsoft และการสอนและการเรียนรู้ระยะไกล
 
@@ -31,4 +31,4 @@ ms.locfileid: "42953991"
 
 โปรดดู[การสอนและการเรียนรู้ระยะไกลใน Office 365 Education](https://support.office.com/article/remote-teaching-and-learning-in-office-365-education-f651ccae-7b65-478b-8366-51bb884025c4)เพื่อเรียนรู้คําแนะนําที่ทันสมัยที่สุดในการตั้งค่าการวางแผนบทเรียนของโรงเรียน
 
-มีคําแนะนําด้านไอทีเพิ่มเติมใน[การเริ่มต้นใช้งาน Microsoft Teams สําหรับการเรียนรู้ระยะไกล](https://docs.microsoft.com/en-us/MicrosoftTeams/remote-learning-edu)และ[การเปลี่ยนไปยังการเรียนรู้ระยะไกล](https://www.microsoft.com/education/remote-learning)
+มีคําแนะนําด้านไอทีเพิ่มเติมใน[การเริ่มต้นใช้งาน Microsoft Teams สําหรับการเรียนรู้ระยะไกล](https://docs.microsoft.com/MicrosoftTeams/remote-learning-edu)และ[การเปลี่ยนไปยังการเรียนรู้ระยะไกล](https://www.microsoft.com/education/remote-learning)

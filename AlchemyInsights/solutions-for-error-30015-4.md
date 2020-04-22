@@ -1,9 +1,9 @@
 ---
-title: วิธีแก้ปัญหาสำหรับข้อผิดพลาด 30015-4
+title: โซลูชั่นสําหรับข้อผิดพลาด 30015-4
 ms.author: janellem
 author: janellem
 manager: scotv
-ms.date: 1/17/2019
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ms.prod: office-online-server
@@ -14,26 +14,26 @@ ms.custom:
 - "834"
 - "2000020"
 ms.assetid: 4293f495-01c5-4ea4-8268-bfc0a25bdf57
-ms.openlocfilehash: 8a45e9c7f75db4f821eda92bc7f8ed290f363708
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: ebd6db153ab812d803ed5aecabe9dddb91300d51
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36501924"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43757076"
 ---
-# <a name="solutions-for-error-30015-4"></a>วิธีแก้ปัญหาสำหรับข้อผิดพลาด 30015-4
+# <a name="solutions-for-error-30015-4"></a>โซลูชั่นสําหรับข้อผิดพลาด 30015-4
 
-- รีสตาร์ทคอมพิวเตอร์ และลอง[ติดตั้ง Office](https://portal.office.com/OLS/MySoftware.aspx)
+- รีสตาร์ทเครื่องคอมพิวเตอร์ของคุณ แล้ว[ลองติดตั้ง Office](https://portal.office.com/OLS/MySoftware.aspx)
 
-- ดาวน์โหลด และติดตั้งการ[สนับสนุนและผู้ช่วยกู้คืน](https://aka.ms/SARA-OfficeUninstall-Alchemy)
+- ดาวน์โหลดและติดตั้ง[ผู้ช่วยสนับสนุนและการกู้คืน](https://aka.ms/SARA-OfficeUninstall-Alchemy)
 
-1. เมื่อเปิด จาก**ผลิตภัณฑ์การถอนการติดตั้ง Office**ให้เลือกรุ่นคุณต้องการถอนการติดตั้ง และเลือก**ถัดไป**
+1. เมื่อเปิดขึ้น จาก**ถอนการติดตั้งผลิตภัณฑ์ Office**ให้เลือกเวอร์ชันที่คุณต้องการถอนการติดตั้ง แล้วเลือก**ถัดไป**
 
-2. ดำเนินต่อผ่านหน้าจอ และรีสตาร์ทเครื่องคอมพิวเตอร์เมื่อได้รับพร้อมท์
+2. ดําเนินการต่อผ่านหน้าจอและรีสตาร์ทเครื่องคอมพิวเตอร์ของคุณเมื่อได้รับพร้อมท์
 
-    หลังจากเริ่มการทำงาน การสนับสนุนและผู้ช่วยกู้คืนอีกครั้งเปิดโดยอัตโนมัติเพื่อให้การถอนการติดตั้งเสร็จสมบูรณ์
+    หลังจากเริ่มการทํางานใหม่
 
-3. ทำตามขั้นที่เหลือพร้อมต์ และ[ติดตั้ง Office](https://portal.office.com/OLS/MySoftware.aspx)หรือปิดผู้ช่วย
+3. ทําตามพร้อมท์ที่เหลือ และติดตั้ง[Office](https://portal.office.com/OLS/MySoftware.aspx)ใหม่ หรือปิดผู้ช่วย
 
 [แก้ไขข้อผิดพลาดในการติดตั้ง Office](https://support.office.com/article/d5df89a9-0507-4b4c-92f9-22f457e630aa?=wt.mc_id=Alchm_DldInstAct)
   
