@@ -1,8 +1,8 @@
 ---
-title: วิธีแก้ไขปัญหาสำหรับปัญหาขณะติดตั้ง Office
+title: วิธีแก้ไขปัญหาขณะติดตั้ง Office
 ms.author: janellem
 author: janellem
-ms.date: 1/17/2019
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ms.prod: office-online-server
@@ -12,30 +12,30 @@ ms.custom:
 - "852"
 - "2000020"
 ms.assetid: 26f1e0e6-7fbb-4c6d-aa31-eb60a2a77655
-ms.openlocfilehash: 496db627c9d56fb19322e2fda7d9733ded7407ce
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 40f5f691754469bc82a89a88407cf26d0134cc4a
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36501458"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43709102"
 ---
-# <a name="solutions-for-issues-while-installing-office"></a>วิธีแก้ไขปัญหาสำหรับปัญหาขณะติดตั้ง Office
+# <a name="solutions-for-issues-while-installing-office"></a>วิธีแก้ไขปัญหาขณะติดตั้ง Office
 
-ลองใช้หนึ่งในวิธีการแก้ไขปัญหาเหล่านี้เพื่อแก้ไขข้อผิดพลาดของ Office ของคุณ:
+ลองใช้วิธีแก้ไขปัญหาเหล่านี้เพื่อแก้ไขข้อผิดพลาดของ Office ของคุณ:
   
-- รีสตาร์ทคอมพิวเตอร์ และลอง[ติดตั้ง Office](https://portal.office.com/OLS/MySoftware.aspx)
+- รีสตาร์ทเครื่องคอมพิวเตอร์ของคุณ แล้ว[ลองติดตั้ง Office](https://portal.office.com/OLS/MySoftware.aspx)
 
-- ดาวน์โหลด และติดตั้งการ[สนับสนุนและผู้ช่วยกู้คืน](https://aka.ms/SARA-OfficeUninstall-Alchemy)
+- ดาวน์โหลดและติดตั้ง[ผู้ช่วยสนับสนุนและการกู้คืน](https://aka.ms/SARA-OfficeUninstall-Alchemy)
 
-1. เมื่อเปิด จาก**ผลิตภัณฑ์การถอนการติดตั้ง Office**ให้เลือกรุ่นคุณต้องการถอนการติดตั้ง และเลือก**ถัดไป**
+1. เมื่อเปิดขึ้น จาก**ถอนการติดตั้งผลิตภัณฑ์ Office**ให้เลือกเวอร์ชันที่คุณต้องการถอนการติดตั้ง แล้วเลือก**ถัดไป**
 
-2. ดำเนินต่อผ่านหน้าจอ และรีสตาร์ทเครื่องคอมพิวเตอร์เมื่อได้รับพร้อมท์
+2. ดําเนินการต่อผ่านหน้าจอและรีสตาร์ทเครื่องคอมพิวเตอร์ของคุณเมื่อได้รับพร้อมท์
 
-    หลังจากเริ่มการทำงาน การสนับสนุนและผู้ช่วยกู้คืนอีกครั้งเปิดโดยอัตโนมัติเพื่อให้การถอนการติดตั้งเสร็จสมบูรณ์
+    หลังจากเริ่มการทํางานใหม่
 
-3. ทำตามขั้นที่เหลือพร้อมต์ และ[ติดตั้ง Office](https://portal.office.com/OLS/MySoftware.aspx)หรือปิดผู้ช่วย
+3. ทําตามพร้อมท์ที่เหลือ และติดตั้ง[Office](https://portal.office.com/OLS/MySoftware.aspx)ใหม่ หรือปิดผู้ช่วย
 
-- [ใช้ตัวติดตั้งแบบออฟไลน์ของ Office](https://support.office.com/article/f0a85fe7-118f-41cb-a791-d59cef96ad1c?wt.mc_id=Alchemy_ClientDIA)เมื่อต้องการติดตั้ง Office
+- [ใช้ตัวติดตั้ง Office แบบออฟไลน์](https://support.office.com/article/f0a85fe7-118f-41cb-a791-d59cef96ad1c?wt.mc_id=Alchemy_ClientDIA)เพื่อติดตั้ง Office
 
-สำหรับข้อมูลเพิ่มเติมเกี่ยวกับข้อผิดพลาดในการติดตั้ง ดู[ข้อความแสดงข้อผิดพลาดเมื่อติดตั้ง Office](https://support.office.com/article/35ff2def-e0b2-4dac-9784-4cf212c1f6c2#BKMK_ErrorMessages)
+สําหรับข้อมูลเพิ่มเติมเกี่ยวกับข้อผิดพลาดในการติดตั้ง ให้ดูที่[ข้อความแสดงข้อผิดพลาดเมื่อติดตั้ง Office](https://support.office.com/article/35ff2def-e0b2-4dac-9784-4cf212c1f6c2#BKMK_ErrorMessages)
   

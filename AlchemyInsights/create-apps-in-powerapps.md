@@ -1,30 +1,30 @@
 ---
-title: สร้างโปรแกรมประยุกต์ใน PowerApps
+title: สร้างแอปใน PowerApps
 ms.author: toresing
 author: tomresing
-ms.date: 5/21/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: 0095e6a2-884c-4733-aa4b-783f574ad4b7
-ms.openlocfilehash: bccd19399ada810007ef810444822e58b3d3fcfb
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: d9a8897f29fb0c787853fd4ae4ff409751de59af
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36515538"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43705464"
 ---
-# <a name="create-apps-with-powerapps"></a>สร้างโปรแกรมประยุกต์ ด้วย PowerApps
+# <a name="create-apps-with-powerapps"></a>สร้างแอปด้วย
 
-PowerApps เป็นแพลตฟอร์มในการพัฒนาสำหรับโปรแกรมประยุกต์ทางธุรกิจ มีคอมโพเนนต์หลักที่สาม: 
+PowerApps เป็นแพลตฟอร์มการพัฒนาสําหรับแอปทางธุรกิจ มีสามองค์ประกอบหลัก: 
   
-- [ผืนผ้าใบ apps](https://go.microsoft.com/fwlink/?linkid=874495)เริ่มต้น ด้วยประสบการณ์ของผู้ใช้ crafting อินเทอร์เฟซแบบ tailored อย่างยิ่งกับกำลังไฟของผืนผ้าใบว่างเปล่า และเชื่อมต่อกับตัวเลือกของแหล่งข้อมูล 200 คุณสามารถสร้าง apps ผืนผ้าใบสำหรับเว็บ โมบาย และแอพลิเคชันแท็บเล็ต 
+- [แอป Canvas](https://go.microsoft.com/fwlink/?linkid=874495)เริ่มต้นด้วยประสบการณ์ของผู้ใช้ของคุณ คุณสามารถสร้างแอปพื้นที่ทํางานสําหรับแอปพลิเคชันบนเว็บ อุปกรณ์เคลื่อนที่ และแท็บเล็ตได้ 
     
-- เริ่มต้น[โปรแกรมประยุกต์แบบโมเดล](https://go.microsoft.com/fwlink/?linkid=874496)กับรุ่นของข้อมูล - สร้างขึ้นจากรูปร่างของข้อมูลธุรกิจหลักและกระบวนการในบริการข้อมูลทั่วไปของคุณกับรุ่นฟอร์ม มุมมอง และคอมโพเนนต์อื่น ๆ โปรแกรมประยุกต์แบบโมเดลสร้าง UI ที่ดีที่จะตอบสนองผ่านอุปกรณ์โดยอัตโนมัติ 
+- [แอปที่เป็นแบบโมเดล](https://go.microsoft.com/fwlink/?linkid=874496)เริ่มต้นด้วยโมเดลข้อมูลของคุณ แอปที่เป็นแบบโมเดลจะสร้าง UI ที่ยอดเยี่ยมซึ่งตอบสนองทุกอุปกรณ์โดยอัตโนมัติ 
     
-- [บริการข้อมูลทั่วไป](https://go.microsoft.com/fwlink/?linkid=874497)เป็นแพลตฟอร์มข้อมูลที่มาพร้อมกับ PowerApps และช่วยให้คุณสามารถจัดเก็บ และแบบจำลองข้อมูลธุรกิจ เป็นแพลตฟอร์มจะถูกสร้างขึ้นโดยแอพลิเคชัน Dynamics 365 ถ้าคุณเป็นลูกค้า Dynamics ข้อมูลของคุณอยู่แล้วในบริการข้อมูลทั่วไป 
+- [บริการข้อมูลทั่วไป](https://go.microsoft.com/fwlink/?linkid=874497)คือแพลตฟอร์มข้อมูลที่มาพร้อมกับ PowerApps และช่วยให้คุณสามารถจัดเก็บข้อมูลทางธุรกิจของแบบจําลองได้ แพลตฟอร์มที่แอปพลิเคชัน Dynamics 365 สร้างขึ้น ถ้าคุณเป็นลูกค้า Dynamics ข้อมูลของคุณอยู่ในบริการข้อมูลทั่วไปอยู่แล้ว 
     
-[รายละเอียดเพิ่มเติมเกี่ยวกับ PowerApps](https://go.microsoft.com/fwlink/?linkid=874498)
+[ข้อมูลเพิ่มเติมเกี่ยวกับแอป PowerApps](https://go.microsoft.com/fwlink/?linkid=874498)
   
 

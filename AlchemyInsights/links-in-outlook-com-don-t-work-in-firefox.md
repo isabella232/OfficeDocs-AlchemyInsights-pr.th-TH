@@ -1,9 +1,9 @@
 ---
-title: การเชื่อมโยงใน Outlook.com ไม่ทำงานใน Firefox
+title: ลิงก์ในOutlook.comไม่ทํางานใน Firefox
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 6/4/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,16 +12,16 @@ ms.custom:
 - "813"
 - "8000048"
 ms.assetid: e6c75434-efea-46ba-b8c6-383f7cddbc28
-ms.openlocfilehash: de188644b301495eb29fd828fd460107656a28ff
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 8ae65175bdb2e9d9bc4b624c3bfc7ab6f1eda803
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36542576"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43709498"
 ---
-# <a name="links-in-outlookcom-dont-work-in-firefox"></a>การเชื่อมโยงใน Outlook.com ไม่ทำงานใน Firefox
+# <a name="links-in-outlookcom-dont-work-in-firefox"></a>ลิงก์ในOutlook.comไม่ทํางานใน Firefox
 
-การเชื่อมโยงในข้อความอีเม Outlook.com ไม่ทำงานเมื่อพวกเขากำลังดูในเบราว์เซอร์ Firefox Mozilla จะ[ทำงานในการแก้ไข](https://go.microsoft.com/fwlink/p/?linkid=2001502&amp;clcid=0x409)สำหรับ Firefox แต่ หลังจาก:
+ลิงก์ในOutlook.comข้อความอีเมลไม่ทํางานเมื่อดูในเบราว์เซอร์ Firefox Mozilla[กําลังทํางานเกี่ยวกับการแก้ไข](https://go.microsoft.com/fwlink/p/?linkid=2001502&amp;clcid=0x409)สําหรับ Firefox แต่จนแล้ว :
   
-- โปรดใช้[ขอบของ Microsoft](https://go.microsoft.com/fwlink/p/?linkid=2001503&amp;clcid=0x409)หรือเว็บเบราว์เซอร์อื่น
-- ดูอีเมลในบานหน้าต่างการอ่าน สำหรับข้อมูลเพิ่มเติม อ่านวิธีการ[เปลี่ยนลักษณะที่ปรากฏของกล่องจดหมายของคุณ Outlook.com](https://support.office.com/article/b41c2ecb-f23c-42b3-b7f8-659646d5e58c?wt.mc_id=Office_Outlook_com_Alchemy)
+- โปรดใช้[Microsoft Edge](https://go.microsoft.com/fwlink/p/?linkid=2001503&amp;clcid=0x409)หรือเว็บเบราว์เซอร์อื่น
+- ดูอีเมลในบานหน้าต่างการอ่าน สําหรับข้อมูลเพิ่มเติม ให้อ่านวิธีการ[เปลี่ยนลักษณะกล่องจดหมายOutlook.comของคุณ](https://support.office.com/article/b41c2ecb-f23c-42b3-b7f8-659646d5e58c?wt.mc_id=Office_Outlook_com_Alchemy)

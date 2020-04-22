@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001717"
 - "3810"
-ms.openlocfilehash: 682a00364063d395ef9053fc7f6d99a299451c1b
-ms.sourcegitcommit: 1173501899034ad5f6a432311bc3f1091ead3efa
+ms.openlocfilehash: a76f50555972957982f51d1369cc2030faede9a3
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 04/16/2020
-ms.locfileid: "43541882"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43706256"
 ---
 # <a name="comments-in-microsoft-planner"></a>ข้อคิดเห็นใน Microsoft วางแผน
 
@@ -32,4 +32,4 @@ ms.locfileid: "43541882"
 
 - **ผู้ใช้ที่ถูกลบจะได้รับอีเมล**- หากผู้ใช้ความคิดเห็นในงานก่อนที่จะถูกเอาออกจากแผนอีเมลเธรดจะมีผู้ใช้สําหรับความคิดเห็นที่ทําในแต่ละงาน
 
-สําหรับข้อมูลรายละเอียดเกี่ยวกับข้อคิดเห็นเกี่ยวกับ Microsoft Planner ให้ดูที่วิธีการทํางานของ[Microsoft Planner](https://techcommunity.microsoft.com/t5/planner-blog/how-microsoft-planner-works/ba-p/1214736)และ[ข้อคิดเห็นเกี่ยวกับงานใน Microsoft Planner](https://support.microsoft.com/en-us/office/comment-on-tasks-in-microsoft-planner-fd4aedde-7785-4cd0-96ee-122fbc9140e1)
+สําหรับข้อมูลรายละเอียดเกี่ยวกับข้อคิดเห็นเกี่ยวกับ Microsoft Planner ให้ดูที่วิธีการทํางานของ[Microsoft Planner](https://techcommunity.microsoft.com/t5/planner-blog/how-microsoft-planner-works/ba-p/1214736)และ[ข้อคิดเห็นเกี่ยวกับงานใน Microsoft Planner](https://support.microsoft.com/office/comment-on-tasks-in-microsoft-planner-fd4aedde-7785-4cd0-96ee-122fbc9140e1)

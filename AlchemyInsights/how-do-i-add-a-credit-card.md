@@ -3,7 +3,7 @@ title: ฉันจะเพิ่มบัตรเครดิตได้อ�
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
-ms.date: 2/20/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,12 +13,12 @@ ms.custom:
 - "432"
 - "1500001"
 ms.assetid: fbce8401-1a2c-4372-af0b-d855c1cd5f31
-ms.openlocfilehash: 14c1c3af556eff16abbc4d1e0f8046ce1aa8343f
-ms.sourcegitcommit: 940169c0edf638b5086d70cc275049f01dcff3cf
+ms.openlocfilehash: 2d308a5ec0ed959c9c0794a94a8b8dc4855de7a5
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 04/08/2020
-ms.locfileid: "43100310"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43710066"
 ---
 # <a name="how-do-i-add-a-credit-card"></a>ฉันจะเพิ่มบัตรเครดิตได้อย่างไร
 

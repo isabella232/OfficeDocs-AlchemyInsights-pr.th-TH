@@ -1,9 +1,9 @@
 ---
-title: 1047 antiSpam 550 5.7.708 บริการไม่พร้อมใช้งาน เข้าถึงถูกปฏิเสธ ปริมาณการใช้งานที่ไม่มีการยอมรับจาก IP นี้
+title: 1047 AntiSpam 550 5.7.708 บริการไม่พร้อมใช้งาน การเข้าถึงถูกปฏิเสธการเข้าชมที่ไม่ได้รับอนุญาตจาก IP นี้
 ms.author: chrisda
 author: chrisda
 manager: dansimp
-ms.date: 9/28/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,15 +13,15 @@ ms.custom:
 - "1986"
 - "3100025"
 ms.assetid: f502f794-03c5-4e08-9095-b801528f67c4
-ms.openlocfilehash: 97a1e855730baba32768109f0fc4da29fe8e4e93
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: cd4f3d7f3783c70a00a2575a297cb4d92cdac80d
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36505130"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43707894"
 ---
-# <a name="550-57708-access-denied-traffic-not-accepted-from-this-ip"></a>ปฏิเสธการเข้าถึง 5.7.708 550 ปริมาณการใช้งานไม่ยอมรับจาก IP นี้
+# <a name="550-57708-access-denied-traffic-not-accepted-from-this-ip"></a>550 5.7.708 เข้าปฏิเสธ, การจราจรไม่ยอมรับจาก IP นี้
 
-ข้อผิดพลาดนี้เกิดขึ้นเมื่อส่งอีเมลจากชื่อเสียงต่ำ รู้จัก IP แอดเดรสที่ใช้ โดยลูกค้าใหม่โดยทั่วไป
+ข้อผิดพลาดนี้เกิดขึ้นเมื่อมีการส่งอีเมลจากที่อยู่ IP ชื่อเสียงที่รู้จักต่ําซึ่งโดยทั่วไปลูกค้าใหม่ใช้
 
-ถ้าคุณต้องส่งอีเมลจากที่อยู่ IP เหล่านี้ก่อนที่คุณสามารถซื้อสิทธิ์การใช้งาน ติดต่อฝ่ายสนับสนุนเพื่อขอข้อยกเว้นจนกว่าคุณจะสามารถซื้อสิทธิ์การใช้งาน
+หากคุณต้องส่งอีเมลจากที่อยู่ IP เหล่านี้ก่อนจึงจะสามารถซื้อสิทธิ์การใช้งาน ได้ โปรดติดต่อฝ่ายสนับสนุนเพื่อขอข้อยกเว้นจนกว่าคุณจะสามารถซื้อสิทธิ์การใช้งานได้

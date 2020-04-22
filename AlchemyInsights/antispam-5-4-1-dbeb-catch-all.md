@@ -1,5 +1,5 @@
 ---
-title: การป้องกันสแปม 5.4.1 DBEB จับทั้งหมด
+title: ป้องกันสแปม 5.4.1 DBEB จับทั้งหมด
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,20 +11,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001209"
 - "3167"
-ms.openlocfilehash: 4f531a063d63aff239ef7dead869bb526e17fb35
-ms.sourcegitcommit: 2591e1f56e8943bddb9d3b77ba5b494ac49d4f30
+ms.openlocfilehash: ad0f4c691a5e06306dbb408f4d66a4e00609e4d5
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "38672452"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43707930"
 ---
-# <a name="fix-delivery-issues-for-error-code-550-541-relay-access-denied"></a>แก้ไขปัญหาการจัดส่งสำหรับรหัสข้อผิดพลาด๕๕๐5.4.1 การเข้าถึงรีเลย์ถูกปฏิเสธ
+# <a name="fix-delivery-issues-for-error-code-550-541-relay-access-denied"></a>แก้ไขปัญหาการจัดส่งสําหรับรหัสข้อผิดพลาด 550 5.4.1 Relay Access ถูกปฏิเสธ
 
-ปัญหานี้เกิดขึ้นเมื่อ[ตรวจสอบเพื่อดูว่าที่อยู่ e-mail ถูกต้องเพื่อป้องกันไม่ให้ bouncebacks](https://docs.microsoft.com/exchange/mail-flow-best-practices/use-directory-based-edge-blocking)เมื่อเข้าสู่เครือข่าย Office ๓๖๕ ลองทำดังต่อไปนี้:
+ปัญหานี้เกิดขึ้นเมื่อ[ตรวจสอบเพื่อดูว่า อยู่อีเมลถูกต้องเพื่อป้องกัน bouncebacks](https://docs.microsoft.com/exchange/mail-flow-best-practices/use-directory-based-edge-blocking)เมื่อเข้าสู่เครือข่ายของ Microsoft ลองทําดังนี้
 
-1. ตรวจสอบว่าปัญหามีความเฉพาะเจาะจงสำหรับทั้งโดเมนหรือที่อยู่เดียว:
-    - โดเมนทั้งหมด: บางครั้งโดเมนต้องทำข้อมูลให้ตรงกัน ลอง[ตั้งค่าโดเมนเป็น "ภายใน" แล้วกลับไปที่](https://docs.microsoft.com/exchange/mail-flow-best-practices/manage-accepted-domains/manage-accepted-domains)สิทธิ์
-    - ที่อยู่เดียว: บางครั้งที่อยู่จะต้องมีการทำข้อมูลให้ตรงกัน การเปลี่ยนแปลงที่อยู่พร็อกซี smtp และจากนั้นเปลี่ยนกลับสามารถช่วย
-2. ตรวจสอบว่าปัญหาที่เกิดขึ้นเฉพาะกับกลุ่มหรือโฟลเดอร์สาธารณะ วัตถุบางชนิดอาจต้องถูกสร้างด้วยตนเองในไดเรกทอรีที่ใช้งานอยู่ของ Azure
+1. ตรวจสอบว่า ปัญหาเฉพาะกับโดเมนทั้งหมดหรือที่อยู่อีเมลเดียว:
+    - โดเมนทั้งหมด: บางครั้งโดเมนต้องถูกซิงโครไนซ์ ลอง[ตั้งค่าโดเมนเป็นภายในแล้วกลับไปที่ Authoritative](https://docs.microsoft.com/exchange/mail-flow-best-practices/manage-accepted-domains/manage-accepted-domains)
+    - ที่อยู่อีเมลเดียว: บางครั้งที่อยู่จะต้องมีการซิงโครไนซ์ การเปลี่ยนที่อยู่พร็อกซี SMTP แล้วเปลี่ยนกลับสามารถช่วย
+2. ตรวจสอบว่า ปัญหาเฉพาะกับกลุ่มหรือโฟลเดอร์สาธารณะ สําหรับบางชนิดวัตถุ วัตถุอาจจําเป็นต้องถูกสร้างด้วยตนเองในไดเรกทอรีที่ใช้งานอยู่ของ Azure
 
-หากคุณต้องการความช่วยเหลือเพิ่มเติมโปรดเปิดตั๋วสนับสนุนและระบุขอบเขตของปัญหา (includidng ชนิดของวัตถุที่คุณกำลังส่งไป) เพื่อให้เราสามารถช่วยให้คุณได้ดียิ่งขึ้น
+หากคุณต้องการความช่วยเหลือเพิ่มเติมโปรดเปิดตั๋วสนับสนุนและระบุขอบเขตของปัญหา (รวมถึงประเภทของวัตถุที่คุณกําลังส่งไป) เพื่อให้เราสามารถช่วยให้คุณดีขึ้น

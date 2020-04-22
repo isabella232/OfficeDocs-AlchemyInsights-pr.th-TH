@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002490"
 - "4832"
-ms.openlocfilehash: 4453a9d62a63e980a9f9f56eb6ff2551c58e3e2b
-ms.sourcegitcommit: c061f1dfa6f557a9ec083dd030b73b121d9864ea
+ms.openlocfilehash: 555f633601672084f0e3d56b674be4e425455749
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 04/14/2020
-ms.locfileid: "43286678"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43706220"
 ---
 # <a name="common-issues-and-resolutions-for-adfs"></a>ปัญหาทั่วไปและวิธีแก้ปัญหาสําหรับ ADFS
 
@@ -28,4 +28,4 @@ ms.locfileid: "43286678"
 
 - [2647020](https://support.microsoft.com/help/2647020) "ขออภัย แต่เรากําลังมีปัญหาในการลงชื่อเข้าใช้คุณ" และ "80041317" หรือ "80043431" ข้อผิดพลาดเมื่อผู้ใช้ติดต่อกับภายนอกพยายามเข้าสู่ระบบ Office 365, Azure หรือ Intune
 
-สําหรับข้อมูลเพิ่มเติม ให้ดูที่[การปรับปรุงหรือซ่อมแซมการตั้งค่าของโดเมนที่ติดต่อกับภายนอกใน Office 365, Azure หรือ Intune](https://docs.microsoft.com/en-us/office365/troubleshoot/active-directory/update-federated-domain-office-365)
+สําหรับข้อมูลเพิ่มเติม ให้ดูที่[การปรับปรุงหรือซ่อมแซมการตั้งค่าของโดเมนที่ติดต่อกับภายนอกใน Office 365, Azure หรือ Intune](https://docs.microsoft.com/office365/troubleshoot/active-directory/update-federated-domain-office-365)

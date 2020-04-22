@@ -1,5 +1,5 @@
 ---
-title: เปิดใช้งานการบอกรับเป็นสมาชิกใหม่ด้วยหมายเลขผลิตภัณฑ์
+title: เปิดใช้งานการสมัครใช้งานใหม่ด้วยหมายเลขผลิตภัณฑ์
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -12,15 +12,15 @@ ms.custom:
 - "480"
 - "1500028"
 ms.assetid: c7b98eab-707b-4487-a463-294b010f0da6
-ms.openlocfilehash: 334683632951f55af51236e6d6e18870e5a33e75
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: b4ae470e2a03509ea8a90e7fdf006eddfa4792ae
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "37766406"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43707134"
 ---
-# <a name="activate-a-new-subscription-with-a-product-key"></a>เปิดใช้งานการบอกรับเป็นสมาชิกใหม่ด้วยหมายเลขผลิตภัณฑ์
+# <a name="activate-a-new-subscription-with-a-product-key"></a>เปิดใช้งานการสมัครใช้งานใหม่ด้วยหมายเลขผลิตภัณฑ์
 
-1. ในการเปิดใช้งานการสมัครสมาชิก Office ๓๖๕ใหม่กับคีย์ผลิตภัณฑ์[https://office.com/setupkey](https://office.com/setupkey)ของคุณให้ไปที่
+1. เมื่อต้องการเปิดใช้งานการสมัครใช้งานใหม่ด้วยหมายเลขผลิตภัณฑ์ของคุณ ให้ไปที่[https://office.com/setupkey](https://office.com/setupkey)
 
-2. ป้อนหมายเลขผลิตภัณฑ์ Office ๓๖๕ของคุณและทำตามคำแนะนำเพื่อเปิดใช้งานการสมัครสมาชิกของคุณ หากคุณมีปัญหาเกี่ยวกับการเปิดใช้งานให้ตรวจสอบ[รายการของข้อผิดพลาดและวิธีแก้ไขปัญหาคีย์ผลิตภัณฑ์ทั่วไป](https://docs.microsoft.com/office365/admin/misc/product-key-errors-and-solutions)
+2. ใส่คีย์ผลิตภัณฑ์ของคุณแล้วทําตามพร้อมท์เพื่อเปิดใช้งานการสมัครใช้งานของคุณ ถ้าคุณมีปัญหากับการเปิดใช้งาน ให้ตรวจสอบ[รายการของข้อผิดพลาดและการแก้ไขปัญหาคีย์ผลิตภัณฑ์ทั่วไป](https://docs.microsoft.com/office365/admin/misc/product-key-errors-and-solutions)

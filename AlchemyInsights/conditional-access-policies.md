@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002357"
 - "4583"
-ms.openlocfilehash: 8ce41d007988f2a45f1ded385ae50ac3def97c1b
-ms.sourcegitcommit: 9923ce61344e22c4490549b12f65fa2896490b1f
+ms.openlocfilehash: 569507318b499cdbcf2a1cd75e84046953f62212
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 04/01/2020
-ms.locfileid: "43100639"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43706076"
 ---
 # <a name="conditional-access-policies"></a>นโยบายการเข้าถึงแบบมีเงื่อนไข
 
@@ -24,7 +24,7 @@ ms.locfileid: "43100639"
 
 เรียนรู้เพิ่มเติมเกี่ยวกับ[การเข้าถึงแบบมีเงื่อนไขโฆษณา Azure](https://docs.microsoft.com/azure/active-directory/conditional-access/)  
 
-**หมายเหตุ**: ถ้าผู้เช่าของคุณถูกสร้างขึ้นหลังจากวันที่ 21 ตุลาคม 2019 และคุณได้รับพร้อมท์สําหรับ MFA โดยไม่คาดคิด คุณอาจมี[ค่าเริ่มต้นการรักษาความปลอดภัย](http://aka.ms/securitydefaults)ที่เปิดใช้งานในผู้เช่าของคุณโดยไม่คาดคิด
+**หมายเหตุ**: ถ้าผู้เช่าของคุณถูกสร้างขึ้นหลังจากวันที่ 21 ตุลาคม 2019 และคุณได้รับพร้อมท์สําหรับ MFA โดยไม่คาดคิด คุณอาจมี[ค่าเริ่มต้นการรักษาความปลอดภัย](https://aka.ms/securitydefaults)ที่เปิดใช้งานในผู้เช่าของคุณโดยไม่คาดคิด
 
 **เมื่อต้องการจัดการค่าเริ่มต้นความปลอดภัย**
 

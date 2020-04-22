@@ -1,9 +1,9 @@
 ---
-title: การมีข้อผิดพลาด TenantAccessBlockedException เมื่อคุณเข้าถึงอีเมล 127 หรือไม่
+title: 127 การขอรับข้อผิดพลาดของข้อผิดพลาดของ AccessBlockedException เมื่อเข้าถึงอีเมลหรือไม่
 ms.author: chrisda
 author: chrisda
 manager: dansimp
-ms.date: 4/9/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,19 +13,19 @@ ms.custom:
 - "127"
 - "128"
 ms.assetid: de7b6877-f3f9-4402-8072-c73783aaccaa
-ms.openlocfilehash: 3727c037d323a042b8ba97e0fd01ca1481a76669
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 5249783915d125703c1c5d4b650e99b0f0a7c909
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36523998"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43708922"
 ---
-# <a name="getting-a-tenantaccessblockedexception-error-when-accessing-email"></a>การมีข้อผิดพลาด TenantAccessBlockedException เมื่อคุณเข้าถึงอีเมลหรือไม่
+# <a name="getting-a-tenantaccessblockedexception-error-when-accessing-email"></a>ข้อผิดพลาดของข้อผิดพลาดของข้อผิดพลาดเมื่อเข้าถึงอีเมล
 
-มีหลายเหตุผลทำไมคุณอาจได้รับข้อผิดพลาดนี้ ตัวอย่างเช่น:
+มีเหตุผลที่แตกต่างกันไม่กี่เหตุผลที่คุณอาจได้รับข้อผิดพลาดนี้ ตัวอย่างเช่น:
 
-- ตรวจสอบว่า การสมัครใช้งานไม่ถูกต้องในการ**เรียกเก็บเงิน**\>หน้า[บริการ & ผลิตภัณฑ์](https://portal.office.com/adminportal/home#/subscriptions)ใน Microsoft 365 admin ศูนย์
+- ตรวจสอบว่าการสมัครใช้งานของคุณถูกต้องบนหน้า[บริการ&ผลิตภัณฑ์](https://portal.office.com/adminportal/home#/subscriptions)**การเรียกเก็บเงิน**\>ในศูนย์การจัดการ Microsoft 365
 
-- กาเครื่องหมายใด ๆ ที่เลยกำหนดชำระแจ้งให้ทราบในการ**เรียกเก็บเงิน**\>หน้า[ตั๋ว & ชำระ](https://portal.office.com/adminportal/home#/billoverview)ใน Microsoft 365 admin ศูนย์
+- ตรวจสอบการแจ้งเตือนที่เลยกําหนดชําระใดๆ บนหน้า**Billing**\>[ใบเรียกเก็บเงิน &การชําระเงิน](https://portal.office.com/adminportal/home#/billoverview)ในศูนย์การจัดการ Microsoft 365
 
-- ถ้ามีการเรียกเก็บเงินและการบอกรับเป็นสมาชิกสำหรับบัญชีผู้ใช้ของคุณมีการปรับปรุงล่าสุด ซึ่งอาจใช้เวลาสำหรับการเปลี่ยนแปลงเพื่อเผยแพร่ ลองอีกครั้งในอีกสักครู่ และถ้ายังคงมีปัญหา ติดต่อเรา
+- หากการเรียกเก็บเงินและการสมัครใช้งานสําหรับบัญชีของคุณได้รับการอัปเดตเมื่อเร็วๆ นี้ อาจใช้เวลาสักครู่ในการเปลี่ยนแปลงเพื่อเผยแพร่ โปรดติดต่อเรา

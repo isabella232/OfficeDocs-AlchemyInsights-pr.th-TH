@@ -1,33 +1,33 @@
 ---
-title: กำกับดูแลการตั้งค่าคอนฟิก
+title: กําหนดค่าการกํากับดูแล
 ms.author: robmazz
 author: robmazz
 manager: laurawi
-ms.date: 6/10/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 9000549
-ms.openlocfilehash: 0e693de897fe083e1afd9093789367bc58220846
-ms.sourcegitcommit: fbc613525a6302e61d78388ae821f842f186ad03
+ms.openlocfilehash: 28c8070d9042e876263ff5e94e0a69bd53998a67
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 06/10/2019
-ms.locfileid: "34813873"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43705932"
 ---
-# <a name="configure-supervision-policies"></a>นโยบายการกำกับดูแลการตั้งค่าคอนฟิก
+# <a name="configure-supervision-policies"></a>กําหนดค่านโยบายการควบคุมดูแล
 
-นโยบายการกำกับดูแลใน Microsoft 365 และ Office 365 ช่วยให้คุณตรวจสอบอีเมล Exchange, Skype สำหรับธุรกิจแบบออนไลน์ Microsoft ทีม และสื่อสารฝ่ายที่สามที่ส่งภายใน และภาย นอกองค์กรของคุณ ผู้ตรวจทานที่กำหนดสามารถตรวจสอบข้อความที่ถูกตรวจสอบเพื่อให้แน่ใจว่าจะเข้ากันได้กับองค์กรของคุณนโยบาย การบริหารความเสี่ยง และมาตรฐานตามข้อบังคับการปฏิบัติตามกฎระเบียบ และแก้ปัญหา มีการจัดประเภทชนิด
+นโยบายการควบคุมใน Microsoft 365 ช่วยให้คุณสามารถตรวจสอบอีเมล Exchange, Skype สําหรับธุรกิจออนไลน์ Microsoft Teams และการสื่อสารจากบริษัทอื่นที่ส่งทั้งภายในและภายนอกองค์กรของคุณ ผู้ตรวจทานที่ได้รับการแต่งตั้งสามารถตรวจสอบข้อความที่ตรวจสอบเพื่อให้แน่ใจว่าเป็นไปตามนโยบายการจัดการความเสี่ยงและมาตรฐานการปฏิบัติตามกฎระเบียบขององค์กรและแก้ไขปัญหาด้วยประเภทการจัดประเภท
 
-การใช้นโยบายการกำกับดูแลในองค์กรของคุณ คุณจำเป็นต้อง:
+หากต้องการใช้นโยบายการควบคุมในองค์กรของคุณ คุณจะต้องทําสิ่งต่อไปนี้
 
-- ตรวจสอบการสื่อสารเพื่อตรวจสอบหรือไม่
-- ตัดสินใจที่จะทำการตรวจทานการสื่อสาร
-- ตั้งค่านโยบายการกำกับดูแล
+- กําหนดการสื่อสารเพื่อตรวจสอบ
+- ตัดสินใจว่าใครจะเป็นผู้ดําเนินการตรวจสอบการสื่อสาร
+- นโยบายการควบคุมการตั้งค่า
 
 ศึกษาเพิ่มเติม:
 
-- [ภาพรวมของนโยบายการกำกับดูแล](https://docs.microsoft.com/office365/securitycompliance/supervision-policies)
-- [นโยบายการกำกับดูแลการตั้งค่าคอนฟิก](https://docs.microsoft.com/office365/securitycompliance/configure-supervision-policies)
+- [ภาพรวมของนโยบายการกํากับดูแล](https://docs.microsoft.com/office365/securitycompliance/supervision-policies)
+- [กําหนดค่านโยบายการควบคุมดูแล](https://docs.microsoft.com/office365/securitycompliance/configure-supervision-policies)

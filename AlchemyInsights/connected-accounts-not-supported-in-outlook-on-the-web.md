@@ -1,8 +1,8 @@
 ---
-title: ๑๘๐๐๐๒๙บัญชีที่เชื่อมต่อไม่ได้รับการสนับสนุนใน Outlook บนเว็บ
+title: 1800029บัญชีที่เชื่อมต่อไม่ได้รับการสนับสนุนใน Outlook บนเว็บ
 ms.author: daeite
 author: daeite
-ms.date: 12/17/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,22 +11,22 @@ ms.custom:
 - "1423"
 - "1800029"
 ms.assetid: 8a8c9e34-abd7-40f3-b59d-c87ca7400020
-ms.openlocfilehash: 4648be89eeac657b61fa9f59d71549364453fdfb
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: b26f9b62ec3c379eb875426c7744a39fca6decc1
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "36821821"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43705860"
 ---
-# <a name="connected-accounts-are-no-longer-supported"></a>บัญชีที่เชื่อมต่อไม่ได้รับการสนับสนุนอีกต่อไป
+# <a name="connected-accounts-are-no-longer-supported"></a>ไม่สนับสนุนบัญชีที่เชื่อมต่ออีกต่อไป
 
-Microsoft ได้เอาความสามารถในการเพิ่มบัญชีใหม่ไปยัง Outlook บนเว็บโดยใช้คุณลักษณะบัญชีที่เชื่อมต่อในวันที่15กันยายน๒๐๑๘และจะหยุดการซิงค์บัญชีที่มีอยู่ในวันที่30ตุลาคม๒๐๑๘ที่เชื่อมต่อก่อน15กันยายน๒๐๑๘ เมื่อวันที่15พฤศจิกายนตัวเลือกบัญชีที่เชื่อมต่อ (**การตั้งค่า** \> **** \> **บัญชี**จดหมาย) จะถูกลบออกจาก Outlook บนเว็บสำหรับข้อมูลเพิ่มเติมให้ดูที่[บัญชีที่เชื่อมต่อจะไม่ได้รับการสนับสนุนใน Outlook บนเว็บ (Office ๓๖๕สำหรับบัญชีธุรกิจ)](https://support.office.com/article/Connected-accounts-is-no-longer-supported-in-Outlook-on-the-web-Office-365-for-business-accounts-5cc526bf-e928-4a99-8b9f-5e089df7d887)
+Microsoft ได้เอาความสามารถในการเพิ่มบัญชีใหม่ไปยัง Outlook บนเว็บโดยใช้คุณลักษณะบัญชีที่เชื่อมต่อในวันที่ 15 กันยายน 2018 และจะหยุดการซิงค์บัญชีที่มีอยู่ในวันที่ 30 ตุลาคม 2018 ที่มีการเชื่อมต่อก่อนวันที่ 15 กันยายน 2018 เมื่อ 15 พฤศจิกายน ตัวเลือกบัญชีที่เชื่อมต่อ (**การตั้งค่า**\>**บัญชีจดหมาย**\>**Accounts**) จะถูกลบออกจาก Outlook บนเว็บสําหรับข้อมูลเพิ่มเติม ให้ดูที่[บัญชีที่เชื่อมต่อจะไม่ได้รับการสนับสนุนใน Outlook บนเว็บอีกต่อไป (Microsoft 365 สําหรับบัญชีธุรกิจ)](https://support.office.com/article/Connected-accounts-is-no-longer-supported-in-Outlook-on-the-web-Office-365-for-business-accounts-5cc526bf-e928-4a99-8b9f-5e089df7d887)
   
-หากต้องการดูเมลจากบัญชีอื่นต่อไป: คุณยังสามารถส่งต่อเมลจากบัญชีเหล่านั้นไปยัง Outlook บนเว็บได้ สำหรับข้อมูลเพิ่มเติม ให้ดูที่
+เมื่อต้องการดูอีเมลจากบัญชีอื่นๆ ต่อ: คุณยังคงสามารถส่งต่ออีเมลจากบัญชีเหล่านั้นไปยัง Outlook บนเว็บได้ สำหรับข้อมูลเพิ่มเติม ให้ดูที่
   
-[เปิดหรือปิดการส่งต่ออัตโนมัติใน Outlook.com](https://go.microsoft.com/fwlink/?linkid=2038346)
+[เปิดหรือปิดการส่งต่ออัตโนมัติในOutlook.com](https://go.microsoft.com/fwlink/?linkid=2038346)
   
 [ส่งต่อข้อความ Gmail ไปยังบัญชีอื่นโดยอัตโนมัติ](https://aka.ms/forward-gmail-messages)
   
-[ส่งต่อทาง e-mail อัตโนมัติในจดหมาย Yahoo](https://aka.ms/yahoo-email-forwarding)
+[การส่งต่ออีเมลอัตโนมัติในอีเมล Yahoo](https://aka.ms/yahoo-email-forwarding)
   

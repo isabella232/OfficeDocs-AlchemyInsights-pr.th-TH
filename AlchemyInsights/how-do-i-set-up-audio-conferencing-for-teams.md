@@ -12,16 +12,16 @@ ms.custom:
 - "2711"
 - "2712"
 - "9000766"
-ms.openlocfilehash: 98dbb9049b3dad42237598ad86572164ebefd1d0
-ms.sourcegitcommit: 940169c0edf638b5086d70cc275049f01dcff3cf
+ms.openlocfilehash: f43149ff7cf420dd046fa8adadbb2048ba7af410
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 04/08/2020
-ms.locfileid: "42692414"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43709958"
 ---
 # <a name="microsoft-teams--audio-conferencing"></a>ทีมไมโครซอฟท์ – การประชุมทางเสียง
 
-ต้องการความช่วยเหลือในการเปิดใช้งาน หรือการตั้งค่าการประชุมทางเสียงใน Microsoft Teams ใช่หรือไม่ มีผู้ใช้รายนี้ถูกสร้างขึ้นเมื่อเร็วๆ นี้หรือไม่?  ถ้าเป็นเช่นนั้นคุณจะต้องรอ 2 -- 24 ชั่วโมงเพื่อให้การตั้งค่ามีผลบังคับใช้    
+ต้องการความช่วยเหลือในการเปิดใช้งาน หรือการตั้งค่าการประชุมทางเสียงใน Microsoft Teams ใช่หรือไม่ มีผู้ใช้รายนี้ถูกสร้างขึ้นเมื่อเร็วๆ นี้หรือไม่?  ถ้าเป็นเช่นนั้นคุณจะต้องรอ 2 -- 24 ชั่วโมงเพื่อให้การตั้งค่ามีผลบังคับใช้
 
 เมื่อต้องการตรวจสอบว่า ผู้ใช้ได้รับสิทธิ์การใช้งานสําหรับการประชุมทางเสียง และมีหมายเลขโทรเริ่มต้น:
 
@@ -39,4 +39,4 @@ ms.locfileid: "42692414"
 
 7. เลือกผู้ใช้ที่ต้องการและตรวจสอบว่าผู้ใช้มี**หมายเลขโทรเริ่มต้น**
 
-สําหรับข้อมูลเพิ่มเติม โปรดดู[แผนการเรียกสําหรับ Office 365](https://docs.microsoft.com/microsoftteams/calling-plans-for-office-365)หรือโทรหาทีม Microsoft Commerce Billing เพื่อช่วยในคําถามเกี่ยวกับการออกใบอนุญาต
+สําหรับข้อมูลเพิ่มเติม โปรดดู[แผนการเรียก](https://docs.microsoft.com/microsoftteams/calling-plans-for-office-365)หรือเรียกทีม Microsoft Commerce Billing เพื่อช่วยในคําถามเกี่ยวกับการอนุญาตให้ใช้สิทธิ์
