@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002310"
 - "4489"
-ms.openlocfilehash: acd99c8f4ed9ea25bd5e15b161e8c3fae083112b
-ms.sourcegitcommit: 75553b64261eaeaeee16259410753e7bf8982ca1
+ms.openlocfilehash: 6dfd3a767b09f647a615ed24300377169b93f105
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 04/02/2020
-ms.locfileid: "43118476"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43713341"
 ---
 # <a name="office-activation-errors"></a>ข้อผิดพลาดการเปิดใช้งาน Office
 
@@ -26,6 +26,6 @@ ms.locfileid: "43118476"
 
 3. ถ้า Office ยังคงไม่มีสิทธิ์การใช้งาน ให้ดาวน์โหลดแล้วเรียกใช้[ตัวแก้ไขปัญหาการเปิดใช้งาน](https://aka.ms/SARA-OfficeActivation-Alchemy)บนเครื่องที่ได้รับผลกระทบเพื่อแก้ไขปัญหาการเปิดใช้งาน 
 
-4. ถ้า Office ยังคงไม่มีสิทธิ์การใช้งาน[ให้รีเซ็ตสถานะการเปิดใช้งาน Office](https://docs.microsoft.com/en-us/office365/troubleshoot/activation/reset-office-365-proplus-activation-state) จากนั้น ให้เริ่ม Office ใหม่ และลงชื่อเข้าใช้โดยใช้บัญชีผู้ใช้ของที่ทํางานหรือที่โรงเรียนของคุณ  
+4. ถ้า Office ยังคงไม่มีสิทธิ์การใช้งาน[ให้รีเซ็ตสถานะการเปิดใช้งาน Office](https://docs.microsoft.com/office365/troubleshoot/activation/reset-office-365-proplus-activation-state) จากนั้น ให้เริ่ม Office ใหม่ และลงชื่อเข้าใช้โดยใช้บัญชีผู้ใช้ของที่ทํางานหรือที่โรงเรียนของคุณ  
 
 5. สําหรับการดําเนินการแก้ไขปัญหาเพิ่มเติม ให้ดูที่[ผลิตภัณฑ์และข้อผิดพลาดในการเปิดใช้งานที่ไม่มีสิทธิ์การใช้งานใน Office](https://support.office.com/article/unlicensed-product-and-activation-errors-in-office-0d23d3c0-c19c-4b2f-9845-5344fedc4380)

@@ -1,9 +1,9 @@
 ---
-title: เปิด ด้วย Explorer ไม่ทำงาน
+title: เปิดด้วย Explorer ไม่ทํางาน
 ms.author: toresing
 author: tomresing
 manager: scotv
-ms.date: 12/10/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,22 +11,22 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: b8f07022-69fe-4112-a2f6-d3a6cedb966c
-ms.openlocfilehash: 7680766b53bd5e85789375d3f9e9ab635780ec6c
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: dc939a3451ff4fe95e4aa5a999839a2c532b398c
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36538507"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43713053"
 ---
-# <a name="open-with-explorer-isnt-working"></a>เปิด ด้วย Explorer ไม่ได้ทำงาน
+# <a name="open-with-explorer-isnt-working"></a>เปิดด้วยโปรแกรมสํารวจไม่ทํางาน
 
-ถ้า**เปิด ด้วย Explorer**หรือ**มุมมองใน Explorer แฟ้ม**ทำงานไม่ ตรวจสอบว่า บริการ WebClient ถูกตั้งค่าให้**เรียกใช้**โดยทำตามขั้นตอนด้านล่างนี้ ตัวอย่างเช่น ดังกล่าวอาจใช้เวลานานเมื่อต้องการเปิดไลบรารี SharePoint หรือ OneDrive เมื่อไม่ได้ทำงานการบริการ 
+ถ้า**เปิดด้วย Explorer**หรือ**มุมมองในแฟ้ม Explorer**ไม่ทํางาน โปรดตรวจสอบให้แน่ใจว่า บริการ WebClient ถูกตั้งค่า**เป็น ทํางาน**โดยทําตามขั้นตอนด้านล่าง ตัวอย่างเช่น อาจใช้เวลานานในการเปิดไลบรารี SharePoint หรือ OneDrive เมื่อไม่ได้เรียกใช้บริการ 
   
-1. ในกล่องค้นหาของ Windows ชนิดทำงาน เลือกเรียกใช้แอพลิเคชันเดสก์ท็อป ชนิด services.msc และจากนั้นเลือก**Enter**
+1. ในกล่องค้นหาของ Windows ให้พิมพ์ เรียกใช้ เลือกเรียกใช้แอปเดสก์ท็อป**Enter**
     
-2. เลื่อนลงไปยังบริการ WebClient และตรวจสอบคอลัมน์**สถานะ** ถ้าสถานะของบริการ WebClient ไม่**ทำงาน**คลิกสองครั้งที่บริการ คลิก**เริ่ม**และจากนั้น คลิก**ตกลง** เปิดใช้งานการบริการ ถ้าจำเป็น โดยเลือกอย่างใดอย่างหนึ่ง**ด้วยตนเอง**หรือ**โดยอัตโนมัติ**ในกล่อง**ชนิดการเริ่มต้น** 
+2. เลื่อนลงไปที่บริการ WebClient และตรวจสอบคอลัมน์**สถานะ** ถ้าสถานะการบริการ WebClient ไม่ได้**ทํางาน**อยู่ ให้คลิกสองครั้งที่บริการ คลิก**เริ่ม**แล้วคลิก**ตกลง** เปิดใช้งานบริการ ถ้าจําเป็น โดยการเลือก**ด้วยตนเอง**หรือ**อัตโนมัติ**ในกล่อง**ชนิดการเริ่มต้น**ระบบ 
     
 > [!NOTE]
-> เมื่อต้องการแก้ไขปัญหาที่เปิดในแฟ้ม Explorer ดู[เปิดใน Explorer](https://go.microsoft.com/fwlink/?linkid=871665) สำรวจข้อมูลให้ตรงกันเป็นทางเลือกดีกว่า: [SharePoint ซิงค์แฟ้มกับไคลเอนต์ซิงค์ OneDrive ใหม่](https://go.microsoft.com/fwlink/?linkid=871666) 
+> เมื่อต้องการแก้ไขปัญหาการเปิดใน File Explorer ให้ดูที่[เปิดใน Explorer](https://go.microsoft.com/fwlink/?linkid=871665) สํารวจการซิงค์เป็นทางเลือกที่ดีกว่า:[ซิงค์ไฟล์ SharePoint กับไคลเอ็นต์การซิงค์ OneDrive ใหม่](https://go.microsoft.com/fwlink/?linkid=871666) 
   
 

@@ -1,9 +1,9 @@
 ---
-title: ๙๐๐๐๑๙๙แฟ้ม PST ใน Outlook.com
+title: 9000199 ไฟล์ PST ในOutlook.com
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 2/27/19
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,15 +13,15 @@ ms.custom:
 - "1761"
 - "1771"
 - "9000199"
-ms.openlocfilehash: 6b4b5bdf5921153c99c4d1eb109ea0579c08eb37
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: b54bcc3df2fd4a7f589ce012fc1f3933a754a4d4
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "36535626"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43712801"
 ---
-# <a name="pst-data-files-in-outlookcom"></a>แฟ้มข้อมูล PST ใน Outlook.com
+# <a name="pst-data-files-in-outlookcom"></a>แฟ้มข้อมูล PST ในOutlook.com
 
-ไม่สามารถนำเข้า Outlook ได้ ไฟล์ข้อมูล PST ไปยังบัญชี Outlook.com ของคุณโดยใช้เบราว์เซอร์.
+คุณไม่สามารถนําเข้า Outlook ได้ ไฟล์ข้อมูล PST ไปยังบัญชีOutlook.comของคุณโดยใช้เบราว์เซอร์
 
-หากต้องการนำเข้า แฟ้มข้อมูล PST คุณต้องใช้แอปเดสก์ท็อปของ Outlook หากต้องการเรียนรู้เพิ่มเติมโปรดอ่านการ[นำเข้า email ผู้ติดต่อและปฏิทินจาก Outlook .pst](https://support.office.com/article/431a8e9a-f99f-4d5f-ae48-ded54b3440ac?wt.mc_id=Office_Outlook_com_Alchemy)
+เมื่อต้องการนําเข้า แฟ้มข้อมูล PST คุณต้องใช้แอป Outlook บนเดสก์ท็อป เมื่อต้องการเรียนรู้เพิ่มเติม ให้อ่าน[นําเข้าอีเมล ที่ติดต่อ และปฏิทินจาก Outlook .pst](https://support.office.com/article/431a8e9a-f99f-4d5f-ae48-ded54b3440ac?wt.mc_id=Office_Outlook_com_Alchemy)

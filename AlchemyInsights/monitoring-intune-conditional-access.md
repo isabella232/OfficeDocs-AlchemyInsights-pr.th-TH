@@ -1,31 +1,31 @@
 ---
-title: ตรวจสอบการเข้าถึงแบบมีเงื่อนไข Intune
+title: การตรวจสอบการเข้าถึงแบบมีเงื่อนไขของ Intune
 ms.author: pebaum
 author: pebaum
-ms.date: 1/23/2019
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ms.prod: office-online-server
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: bc1d971d-84b0-447f-971e-7dc37ebeb5af
-ms.openlocfilehash: 16da5065f510a32f18c1fde4aa2f0f7c0ac9f73e
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 924dc9cc741697b3784203d5f441769f7601b8d1
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36548950"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43713701"
 ---
-# <a name="troubleshoot-issues-with-microsoft-intune"></a>แก้ไขปัญหาเกี่ยวกับ Microsoft Intune
+# <a name="troubleshoot-issues-with-microsoft-intune"></a>แก้ไขปัญหาเกี่ยวกับไมโครซอฟท์ Intune
 
-ตรวจทานทรัพยากรที่แสดงรายการด้านล่างเพื่อแก้ไขปัญหาของคุณเดี๋ยวนี้
+ตรวจสอบทรัพยากรที่แสดงด้านล่างเพื่อแก้ไขปัญหาของคุณตอนนี้
   
-1. ใช้[ไซต์การแก้ไขปัญหาเบื้องต้น Intune](https://devicemanagement.microsoft.com/#blade/Microsoft_Intune_DeviceSettings/TroubleshootBlade)เพื่อวินิจฉัย และแก้ปัญหาความล้มเหลวทั่วไปบางอย่าง ตรวจทาน[เอกสารนี้](https://docs.microsoft.com/intune/help-desk-operators)สำหรับรายละเอียดเพิ่มเติม
+1. ใช้[การแก้ไขปัญหาเว็บไซต์ Intune](https://devicemanagement.microsoft.com/#blade/Microsoft_Intune_DeviceSettings/TroubleshootBlade)เพื่อวินิจฉัย และแก้ไขปัญหาความล้มเหลวทั่วไป ตรวจทาน[เอกสารนี้](https://docs.microsoft.com/intune/help-desk-operators)สําหรับรายละเอียดเพิ่มเติม
     
-2. ตรวจทาน[Intune TechNet](https://social.technet.microsoft.com/forums/home?forum=microsoftintuneprod)เพื่อค้นหาคำตอบและวิธีแก้ไขปัญหาทั่วไป
+2. ตรวจสอบ[Intune TechNet](https://social.technet.microsoft.com/forums/home?forum=microsoftintuneprod)เพื่อค้นหาคําตอบและการแก้ไขปัญหาทั่วไป
     
-3. ตรวจสอบหา[ความสมบูรณ์ของการบริการ](https://portal.office.com/AdminPortal/Home#/servicehealth)เพื่อดูสถานะของบริการ 
+3. ตรวจสอบ[สถานภาพบริการ](https://portal.office.com/AdminPortal/Home#/servicehealth)เพื่อดูสถานะของบริการ 
     
-4. ตรวจทาน[เอกสาร Intune](https://docs.microsoft.com/intune/)สำหรับการวางแผน วิธีแก้ไขปัญหาและบทความเพิ่มเติม 
+4. อ่าน[เอกสาร Intune](https://docs.microsoft.com/intune/)สําหรับการวางแผน 
     
 

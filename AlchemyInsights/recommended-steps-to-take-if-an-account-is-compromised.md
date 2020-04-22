@@ -1,5 +1,5 @@
 ---
-title: ขั้นตอนที่แนะนำในการดำเนินการหากบัญชีถูกบุกรุก
+title: ขั้นตอนที่แนะนําสําหรับกรณีที่บัญชีถูกบุกรุก
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
@@ -9,26 +9,26 @@ localization_priority: Priority
 ms.custom:
 - "957"
 - "3100016"
-ms.openlocfilehash: 08904708dd19104179c3f97f6734d8af725a4512
-ms.sourcegitcommit: 0b06093dabd685f76cc39b1d7c0f8b03883b6e79
+ms.openlocfilehash: 616107f1a5297b38637118e93ee6bfb918640ab3
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 10/25/2019
-ms.locfileid: "36745452"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43719323"
 ---
-# <a name="recommended-steps-to-take-if-an-account-is-compromised"></a>ขั้นตอนที่แนะนำในการดำเนินการหากบัญชีถูกบุกรุก
+# <a name="recommended-steps-to-take-if-an-account-is-compromised"></a>ขั้นตอนที่แนะนําสําหรับกรณีที่บัญชีถูกบุกรุก
 
-[วิดีโอ: แก้ไขบัญชี Office ๓๖๕ที่ถูกบุกรุก](https://www.microsoft.com/videoplayer/embed/RE2jvOb?pid=ocpVideo0-innerdiv-oneplayer&amp;postJsllMsg=true&amp;maskLevel=20&amp;autoplay=true)
+[วิดีโอ: การแก้ไขบัญชีที่ถูกบุกรุก](https://www.microsoft.com/videoplayer/embed/RE2jvOb?pid=ocpVideo0-innerdiv-oneplayer&amp;postJsllMsg=true&amp;maskLevel=20&amp;autoplay=true)
   
-1. [รีเซ็ตรหัสผ่านของผู้ใช้](https://docs.microsoft.com/office365/admin/add-users/reset-passwords)ทันที อย่าสื่อสารรหัสผ่านใหม่ผ่านทาง e-mail ไปยังผู้ใช้
+1. [รีเซ็ตรหัสผ่านของผู้ใช้](https://docs.microsoft.com/office365/admin/add-users/reset-passwords)ทันที อย่าสื่อสารรหัสผ่านใหม่ผ่านทางอีเมลไปยังผู้ใช้
 
-2. ลบที่[อยู่การส่งต่อ](https://docs.microsoft.com/office365/admin/email/configure-email-forwarding)ที่น่าสงสัยที่ตั้งอยู่ในระดับกล่องจดหมาย
+2. ลบ[ที่อยู่การส่งต่อ](https://docs.microsoft.com/office365/admin/email/configure-email-forwarding)ที่น่าสงสัยใดๆ ที่ตั้งค่าไว้ที่ระดับกล่องจดหมาย
 
-3. เอากฎของ[กล่องขาเข้า](https://support.office.com/article/1433E3A0-7FB0-4999-B536-50E05CB67FED)ที่น่าสงสัยใดๆที่ตั้งอยู่ภายในกล่องจดหมาย
+3. เอา[กฎกล่องจดหมาย](https://support.office.com/article/1433E3A0-7FB0-4999-B536-50E05CB67FED)ที่น่าสงสัยใดๆ ที่ตั้งค่าไว้ในกล่องจดหมาย
 
-4. หากผู้ใช้ถูกบล็อกไม่ให้ส่งทาง e-mail[ไปที่หน้าผู้ใช้ที่ถูกจำกัดเพื่อยกเลิกการบล็อคบัญชี](https://protection.office.com/?hash=/restrictedusers) เมื่อเสร็จแล้วผู้ใช้ควรจะสามารถที่จะดำเนินการส่งข้อความภายใน1ชั่วโมง
+4. หากผู้ใช้ถูกบล็อกไม่ให้ส่งอีเมล[ให้ไปที่หน้า ผู้ใช้ที่ถูกจํากัด เพื่อยกเลิกการบล็อกบัญชีผู้ใช้](https://protection.office.com/?hash=/restrictedusers) เมื่อเสร็จแล้วผู้ใช้ควรจะสามารถกลับมาส่งข้อความภายใน 1 ชั่วโมง
 
-5. เอาบัญชีผู้ใช้ออกจาก[กลุ่มบทบาทการดูแลระบบ](https://docs.microsoft.com//office365/admin/add-users/assign-admin-roles)ใดๆจนกว่าคุณจะมั่นใจว่าบัญชีจะไม่ถูกบุกรุกอีกต่อไป
+5. เอาบัญชีผู้ใช้ออกจาก[กลุ่มบทบาทผู้ดูแล](https://docs.microsoft.com//office365/admin/add-users/assign-admin-roles)ใด ๆ จนกว่าคุณมั่นใจว่า บัญชีจะไม่ถูกบุกรุก
 
-เพื่อลดศักยภาพของการละเมิดข้อมูลหรือบัญชีที่ถูกบุกรุกในอนาคตเราขอแนะนำให้อ่าน[แผนการรักษาความปลอดภัย Office ๓๖๕](https://docs.microsoft.com//office365/securitycompliance/security-roadmap)ของเรา
+เราขอแนะนําให้อ่าน[แผนงานด้านความปลอดภัยของ Microsoft 365 ](https://docs.microsoft.com//office365/securitycompliance/security-roadmap)
   

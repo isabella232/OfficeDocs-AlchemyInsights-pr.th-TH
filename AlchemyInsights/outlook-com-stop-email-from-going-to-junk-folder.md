@@ -1,9 +1,9 @@
 ---
-title: หยุดข้อความให้ไปที่โฟลเดอร์อีเมลขยะใน Outlook.com
+title: หยุดข้อความจากไปที่โฟลเดอร์อีเมลขยะในOutlook.com
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 5/16/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,24 +11,24 @@ localization_priority: Normal
 ms.custom:
 - "1897"
 - "9000290"
-ms.openlocfilehash: 062a0d9bfbd83ed40457f603cc739e3a916c7045
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: e1da0c7b67c1f09f6ed6589848ddd2d4e5a5775a
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36511938"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43710966"
 ---
-# <a name="stop-messages-from-going-to-your-junk-email-folder"></a>หยุดข้อความให้ไปที่โฟลเดอร์อีเมลขยะของคุณ
+# <a name="stop-messages-from-going-to-your-junk-email-folder"></a>หยุดข้อความไม่ให้ไปที่โฟลเดอร์อีเมลขยะ
 
-ถ้าคุณพบว่า ข้อความอีเมลในโฟลเดอร์อีเมลขยะของคุณใน Outlook.com ไม่ใช่อีเมลขยะ:
+หากคุณพบว่าข้อความอีเมลในโฟลเดอร์อีเมลขยะในOutlook.comไม่ใช่อีเมลขยะ
 
 1. เปิด[โฟลเดอร์อีเมลขยะ](https://outlook.live.com/mail/junkemail)ของคุณ
 1. เลือกข้อความ (*หมายเหตุ:* รายการในโฟลเดอร์อีเมลขยะของคุณจะถูกลบออกหลังจาก 30 วัน)
-1. ด้านบนของรายการข้อความ เลือก**อีเมลขยะไม่** > **ไม่ใช่อีเมลขยะ**
+1. เหนือรายการข้อความ ให้เลือก**ไม่ใช่ขยะ** > **ไม่ใช่ขยะ**
 
-ถ้าคุณต้องการป้องกันไม่ให้ข้อความจากผู้ส่งไปยังโฟลเดอร์อีเมลขยะ เพิ่มผู้ส่งลงในรายการผู้ส่งที่ปลอดภัย:
+หากคุณต้องการป้องกันไม่ให้ผู้ส่งข้อความใด ๆ จากไปที่โฟลเดอร์อีเมลขยะ ให้เพิ่มผู้ส่งลงในรายชื่อผู้ส่งที่ปลอดภัยของคุณ:
 
 1. เปิด[การตั้งค่าอีเมลขยะ](https://go.microsoft.com/fwlink/?linkid=2035804)ของคุณ
-1. ภายใต้**ชื่อผู้ส่งที่ปลอดภัยและโดเมน**เลือก**เพิ่ม**ป้อนอยู่อีเมลหรือโดเมนที่คุณต้องการเพิ่ม และเลือก**บันทึก**
+1. ภายใต้**ผู้ส่งและโดเมนที่ปลอดภัย**ให้เลือก**เพิ่ม**ป้อนที่อยู่อีเมลหรือโดเมนที่คุณต้องการเพิ่ม แล้วเลือก**บันทึก**
 
-เมื่อต้องการเรียนรู้เพิ่มเติม อ่าน[ทำเครื่องหมายอีเมลที่เป็นอีเมลขยะหรือบล็อกผู้ส่งใน Outlook.com](https://support.office.com/article/a3ece97b-82f8-4a5e-9ac3-e92fa6427ae4?wt.mc_id=Office_Outlook_com_Alchemy)
+หากต้องการเรียนรู้เพิ่มเติม ให้อ่าน[ทําเครื่องหมายอีเมลว่าเป็นอีเมลขยะหรือผู้ส่งที่ถูกบล็อกใน Outlook.com](https://support.office.com/article/a3ece97b-82f8-4a5e-9ac3-e92fa6427ae4?wt.mc_id=Office_Outlook_com_Alchemy)

@@ -1,8 +1,8 @@
 ---
-title: รหัสกฎการปรับใช้โปรแกรมประยุกต์ Intune 991
+title: ปรับใช้โปรแกรมประยุกต์ 991 Id กฎการปรับใช้ Intune
 ms.author: pebaum
 author: pebaum
-ms.date: 9/10/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,22 +11,22 @@ ms.custom:
 - "991"
 - "6700004"
 ms.assetid: 1ec12c49-243a-44dc-9084-15863b223078
-ms.openlocfilehash: eb425bfc9fcc16a3a5b144794ced1f81209ef30e
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: a22dc9b5298f530846bb20a2d6aac5d22c335b32
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36498290"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43714025"
 ---
-# <a name="intune-app-deployment"></a>การปรับใช้โปรแกรมประยุกต์ Intune
+# <a name="intune-app-deployment"></a>การปรับใช้แอป Intune
 
-ปรับใช้โปรแกรมประยุกต์ ด้วย Intune เป็นกระบวนการขั้นตอนที่ 3:
+การปรับใช้โปรแกรมประยุกต์ด้วย Intune เป็นกระบวนการขั้นตอนที่สาม:
   
-1. **เพิ่มโปรแกรมประยุกต์มี**- คุณสามารถเพิ่มแอพลิเคชันเก็บโปรแกรมประยุกต์ หรือโปรแกรมประยุกต์บรรทัดของธุรกิจอัปโหลดได้
+1. **การเพิ่มแอพ**- คุณสามารถเพิ่ม App App Store หรืออัปโหลดบรรทัดของแอปธุรกิจได้
 
-2. **การกำหนดให้เป็นโปรแกรมประยุกต์**- กำหนดขอบเขตของการปรับใช้ของแอพลิเคชัน
+2. **การกําหนดแอป**- กําหนดขอบเขตของการปรับใช้โปรแกรมประยุกต์
 
-3. **ตรวจสอบ apps** - ดูสถานะการติดตั้งของโปรแกรมประยุกต์ รายการ apps พบ และจัดการ apps ที่ซื้อมาจากร้านค้าแอพลิเคชัน
+3. **แอปการตรวจสอบ**- ดูสถานะการติดตั้งของแอป รายการแอปที่ค้นพบ และจัดการแอปที่ซื้อจากร้านค้าแอป
 
-อ่าน[สิ่งที่อยู่ Intune การจัดการแอพลิเคชัน](https://docs.microsoft.com/intune/app-management)สำหรับการฝึกและข้อมูลเกี่ยวกับการตั้งค่าคอนฟิก และการป้องกันแอพลิเคชัน
+[อ่าน สิ่งที่ Intune App Management](https://docs.microsoft.com/intune/app-management)สําหรับคําแนะนําและข้อมูลเกี่ยวกับการกําหนดค่าและการปกป้องโปรแกรมประยุกต์
   

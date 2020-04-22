@@ -1,5 +1,5 @@
 ---
-title: ๔๐๐ปฏิทิน-FreeBusy
+title: ปฏิทิน 400 - ไม่ว่าง
 ms.author: chrisda
 author: chrisda
 ms.audience: Admin
@@ -9,13 +9,13 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 400
 ms.assetid: 2a4ceadc-242a-492f-b794-682d40781e9f
-ms.openlocfilehash: 7c3e9f99f0132f3fffa492c995cd8c45959749ea
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: b708df774bbcb71a5ba8051fb857bcdd4ca99a0c
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "37768495"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43711866"
 ---
-# <a name="issues-seeing-calendar-freebusy-information"></a>ปัญหาในการดูข้อมูลสถานะว่าง/ไม่มีปฏิทิน
+# <a name="issues-seeing-calendar-freebusy-information"></a>ปัญหาที่เห็นข้อมูลว่าง/ไม่ว่างของปฏิทิน
 
-ถ้าคุณไม่สามารถดูข้อมูลว่าง/ไม่มีปฏิทินในปฏิทินอื่นๆของ Outlook หรือถ้าคนอื่นไม่สามารถดูข้อมูลว่าง/ไม่มีในปฏิทินของคุณให้ใช้[ฝ่ายสนับสนุนของ Microsoft และผู้ช่วยกู้คืนสำหรับ Office ๓๖๕](https://diagnostics.office.com/)
+ถ้าคุณไม่เห็นข้อมูลสถานะว่าง/ไม่ว่างของปฏิทินปฏิทิน Outlook อื่น หรือถ้าบุคคลอื่นไม่สามารถดูข้อมูลว่าง/ไม่ว่างในปฏิทินของคุณ ให้ใช้ Microsoft Support and [Recovery Assistant สําหรับ Microsoft 365](https://diagnostics.office.com/)

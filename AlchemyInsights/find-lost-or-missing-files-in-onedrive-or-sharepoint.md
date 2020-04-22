@@ -1,9 +1,9 @@
 ---
-title: ค้นหาแฟ้มที่สูญหายหรือหายไปใน OneDrive หรือ SharePoint
+title: ค้นหาไฟล์ที่สูญหายหรือหายไปใน OneDrive หรือ SharePoint
 ms.author: matteva
 author: pebaum
 manager: scotv
-ms.date: 4/25/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,21 +11,21 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: d4de6b5e-5102-4e2c-af92-1f8b049c3a02
-ms.openlocfilehash: 911b8fffa673e578a7afb83cfff305e4f1806013
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: 0cd8db0ea9de03d30001aa749e2c37330ad29ef2
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "36525438"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43716119"
 ---
-# <a name="find-lost-or-missing-files-in-onedrive-or-sharepoint"></a>ค้นหาแฟ้มที่สูญหายหรือหายไปใน OneDrive หรือ SharePoint
+# <a name="find-lost-or-missing-files-in-onedrive-or-sharepoint"></a>ค้นหาไฟล์ที่สูญหายหรือหายไปใน OneDrive หรือ SharePoint
 
-- ตรวจสอบถังรีไซเคิลโดยการเรียกดูไปยัง OneDrive ของคุณหรือไซต์ SharePoint บนเว็บและคลิกถังรีไซเคิลในบานหน้าต่างด้านซ้าย (ถ้าคุณไม่เห็นถังรีไซเคิลในบานหน้าต่างด้านซ้ายให้คลิกไอคอนการตั้งค่าแล้วเลือก**เนื้อหาของไซต์** **ถังรีไซเคิล**อยู่ทางด้านขวาสุดของแถบคำสั่งที่ด้านบน) 
+- ตรวจสอบถังรีไซเคิลโดยการเรียกดูไปยัง OneDrive หรือไซต์ SharePoint ของคุณบนเว็บ และคลิก ถังรีไซเคิล ในบานหน้าต่างด้านซ้าย (ถ้าคุณไม่เห็นถังรีไซเคิลในบานหน้าต่างด้านซ้าย ให้คลิกไอคอน การตั้งค่า แล้วเลือก**เนื้อหาของไซต์** **'ถังรีไซเคิล**' อยู่ทางด้านขวาสุดของแถบคําสั่งที่ด้านบน) 
     
-- ถ้าคุณกำลังซิงค์แฟ้มบนคอมพิวเตอร์ของคุณให้ตรวจสอบถังรีไซเคิลในคอมพิวเตอร์ของคุณ 
+- ถ้าคุณกําลังซิงค์แฟ้มบนคอมพิวเตอร์ของคุณ ให้ตรวจสอบถังรีไซเคิลบนคอมพิวเตอร์ของคุณ 
     
-- ถ้าคุณไม่เห็นรายการที่คุณกำลังค้นหาและถูกลบเมื่อเร็วๆนี้ผู้ดูแลชุดเก็บรวบรวมไซต์อาจสามารถคืนค่าจากถังรีไซเคิลไซต์คอลเลกชันได้ ถ้าคุณเป็นผู้ดูแลชุดเก็บรวบรวมไซต์โปรดดู[ที่คืนค่ารายการที่ถูกลบออกจากถังรีไซเคิลไซต์คอลเลกชัน](https://go.microsoft.com/fwlink/?linkid=866439)
+- ถ้าคุณไม่เห็นรายการที่คุณกําลังมองหา และถูกลบไปเมื่อเร็วๆ นี้ ผู้ดูแลไซต์คอลเลกชันอาจสามารถคืนค่ารายการนั้นจากถังรีไซเคิลของไซต์คอลเลกชันได้ ถ้าคุณเป็นผู้ดูแลไซต์คอลเลกชัน ให้ดูที่[การคืนค่ารายการที่ถูกลบจากถังรีไซเคิลของไซต์คอลเลกชัน](https://go.microsoft.com/fwlink/?linkid=866439)
     
-[เพิ่มเติมช่วยกู้คืนไฟล์และโฟลเดอร์ที่ถูกลบใน OneDrive](https://go.microsoft.com/fwlink/?linkid=872872)
+[ความช่วยเหลือเพิ่มเติมในการกู้คืนไฟล์และโฟลเดอร์ที่ถูกลบใน OneDrive](https://go.microsoft.com/fwlink/?linkid=872872)
   
 

@@ -1,9 +1,9 @@
 ---
-title: การยกเลิกการสมัครใช้งาน Office 365 ได้อย่างไร
+title: การยกเลิกการสมัครใช้งาน Microsoft 365 ของคุณใช่หรือไม่
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
-ms.date: 3/2/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,17 +13,17 @@ ms.custom:
 - "53"
 - "1400001"
 ms.assetid: 09e255ce-ccf9-4804-91e7-c15590c3727b
-ms.openlocfilehash: 58c4de02cf6833b05cc0579e1e9df11226acb298
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: f2525550ada33d33dddc391cb87080ba9af4a37b
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36520326"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43711506"
 ---
-# <a name="canceling-your-office-365-subscription"></a>การยกเลิกการสมัครใช้งาน Office 365 ได้อย่างไร
+# <a name="canceling-your-microsoft-365-subscription"></a>การยกเลิกการสมัครใช้งาน Microsoft 365 ของคุณใช่หรือไม่
 
-เราขออภัยเมื่อต้องการดูคุณไป แต่ต่อไปนี้เป็นตัวเลือกของคุณเมื่อต้องการยกเลิกการสมัครใช้งาน:
+เราขออภัยที่เห็นคุณไป แต่ตัวเลือกต่อไปนี้เพื่อยกเลิกการสมัครของคุณ:
   
-- **ขึ้นอยู่กับข้อมูลขององค์กรของคุณ เราเชื่อทดลองการบอกรับเป็นสมาชิกบอกรับสมาชิกปัจจุบันทั้งหมดของคุณ ไม่จำเป็นต้องยกเลิกการสมัครใช้งานรุ่นทดลองใช้อย่างชัดเจนเนื่องจากการชำระเงินไม่จำเป็นต้องมีการบอกรับเป็นสมาชิกการทดลอง และไม่มีข้อผูกมัดหลังจากสิ้นสุดการทดลอง**
+- **เราเชื่อว่าการสมัครรับข้อมูลปัจจุบันทั้งหมดของคุณคือการสมัครสมาชิกแบบทดลองใช้ ไม่จําเป็นต้องยกเลิกการสมัครใช้งานรุ่นทดลองใช้อย่างชัดเจนเนื่องจากการสมัครใช้งานรุ่นทดลองใช้ไม่จําเป็นต้องมีการชําระเงิน และไม่มีข้อผูกมัดหลังจากสิ้นสุดการทดลอง**
 
-- เมื่อต้องการเรียนรู้เพิ่มเติม เกี่ยวกับการยกเลิกการสมัครใช้งาน หรือ สำหรับคำแนะนำทีละขั้นตอน ให้ดูที่บทความนี้:[ยกเลิกการสมัครใช้งาน](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/cancel-your-subscription)
+- เมื่อต้องการเรียนรู้เพิ่มเติมเกี่ยวกับการยกเลิกการสมัครใช้งาน หรือคําแนะนําทีละขั้นตอน ให้ดูที่ บทความนี้:[ยกเลิกการสมัครใช้งานของคุณ](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/cancel-your-subscription)

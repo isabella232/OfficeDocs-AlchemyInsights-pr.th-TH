@@ -1,5 +1,5 @@
 ---
-title: หลายภูมิศาสตร์
+title: หลาย- ภูมิศาสตร์
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,19 +11,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "3046"
 - "9001088"
-ms.openlocfilehash: 2017b2d50b7170a6435ad8119b2a72f6066f89fa
-ms.sourcegitcommit: 8e1fa99a781674a79ae5d0385a48be2e209a2386
+ms.openlocfilehash: cb9fef505e35e9d5888ab995d5cd3a43392b682f
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 10/16/2019
-ms.locfileid: "37554417"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43713557"
 ---
-# <a name="office-365-multi-geo"></a>สำนักงาน๓๖๕หลายทางภูมิศาสตร์
+# <a name="microsoft-365-multi-geo"></a>ไมโครซอฟท์ 365 หลายทางภูมิศาสตร์
 
-ด้วย Office ๓๖๕ Multi-Geo องค์กรของคุณสามารถขยายการปรากฏตัวของ Office ๓๖๕ไปยังภูมิภาคทางภูมิศาสตร์หลายและ/หรือประเทศภายในผู้เช่าที่มีอยู่ของคุณ ดูข้อมูลเพิ่มเติมได้จากลิงก์ด้านล่าง
+ด้วย Microsoft 365 Multi-Geo องค์กรของคุณสามารถขยายการมีอยู่ของ Microsoft 365 ไปยังภูมิภาคทางภูมิศาสตร์และ/หรือประเทศต่างๆ ภายในผู้เช่าที่มีอยู่ของคุณ ดูลิงก์ด้านล่างสําหรับข้อมูลเพิ่มเติม
 
-- [สำนักงาน๓๖๕หลายทางภูมิศาสตร์](https://docs.microsoft.com/office365/enterprise/office-365-multi-geo)
-- [ความสามารถหลายทางภูมิศาสตร์ใน OneDrive และ SharePoint แบบออนไลน์](https://docs.microsoft.com/office365/enterprise/multi-geo-capabilities-in-onedrive-and-sharepoint-online-in-office-365)
-- [ความสามารถหลายทางภูมิศาสตร์ในการแลกเปลี่ยนแบบออนไลน์](https://docs.microsoft.com/office365/enterprise/multi-geo-capabilities-in-exchange-online)
-- [แผนสำหรับ Office ๓๖๕หลายภูมิศาสตร์](https://docs.microsoft.com/office365/enterprise/plan-for-multi-geo)
-- [กำหนดค่าหลายภูมิศาสตร์](https://docs.microsoft.com/office365/enterprise/multi-geo-tenant-configuration)
+- [ไมโครซอฟท์ 365 หลายทางภูมิศาสตร์](https://docs.microsoft.com/office365/enterprise/office-365-multi-geo)
+- [ความสามารถแบบหลายทางภูมิศาสตร์ใน OneDrive และ SharePoint แบบออนไลน์](https://docs.microsoft.com/office365/enterprise/multi-geo-capabilities-in-onedrive-and-sharepoint-online-in-office-365)
+- [ความสามารถแบบหลายภูมิศาสตร์ในการแลกเปลี่ยนแบบออนไลน์](https://docs.microsoft.com/office365/enterprise/multi-geo-capabilities-in-exchange-online)
+- [แผนสําหรับ Microsoft 365 หลายทางภูมิศาสตร์](https://docs.microsoft.com/office365/enterprise/plan-for-multi-geo)
+- [กําหนดค่าหลายภูมิศาสตร์](https://docs.microsoft.com/office365/enterprise/multi-geo-tenant-configuration)

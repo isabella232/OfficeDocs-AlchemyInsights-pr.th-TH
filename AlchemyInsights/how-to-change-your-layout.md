@@ -1,9 +1,9 @@
 ---
-title: 8000059 วิธีการการเปลี่ยนแปลงเค้าโครงของคุณ
+title: 8000059วิธีการเปลี่ยนรูปแบบของคุณ
 ms.author: daeite
 author: daeite
 manager: jackiesm
-ms.date: 9/17/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,16 +12,16 @@ ms.custom:
 - "993"
 - "8000059"
 ms.assetid: 8ea65090-8e05-4ab8-a30c-3bb6db6b75dd
-ms.openlocfilehash: be859fdc896f1e0489f31ea8f5f9a16a0ceeb6b7
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 583f13900746f8fbc722bfceecaa56052efab369
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36541738"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43711218"
 ---
-# <a name="how-to-change-your-layout"></a>วิธีการเปลี่ยนเค้าโครงของคุณ
+# <a name="how-to-change-your-layout"></a>วิธีเปลี่ยนเค้าโครง
 
-เป็นการง่ายที่จะเปลี่ยนการตั้งค่า Outlook.com เพื่อดู และวิธีคุณต้องการให้การทำงานของ เลือกการ**ตั้งค่า**บนแถบเครื่องมือไปที่ตัวเลือกที่ได้รับความนิยมมากที่สุด
+การเปลี่ยนการตั้งค่าในOutlook.comจึงดูและใช้งานในแบบที่คุณต้องการ เลือก**การตั้งค่า**บนแถบเครื่องมือเพื่อตัวเลือกที่นิยมมากที่สุด
 
-เมื่อต้องการดูตัวเลือกเค้าโครงทั้งหมด เลือกการ**ตั้งค่า** > **เม** > [**เค้าโครง**](https://outlook.live.com/mail/options/mail/layout)
+ในการดูตัวเลือกเค้าโครงทั้งหมด ให้เลือก**Settings** > **Mail** > [**Layout**](https://outlook.live.com/mail/options/mail/layout)
   

@@ -3,7 +3,6 @@ title: การสร้างโฟลเดอร์สาธารณะ
 ms.author: dmaguire
 author: msdmaguire
 manager: dansimp
-ms.date: 5/9/2018
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,24 +11,24 @@ ms.custom:
 - "632"
 - "3500007"
 ms.assetid: a53e3a0a-db1c-410e-8340-e93c06155f60
-ms.openlocfilehash: 6535ee5e133c6674e460de3b54fe35602bc80915
-ms.sourcegitcommit: 7101e29c3c890ee23dc10a10d608f90f4de13b3a
+ms.openlocfilehash: c1bd1733530cec42a3403a330fe4688cd8b9c6ae
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 08/26/2019
-ms.locfileid: "36631859"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43715379"
 ---
 # <a name="creating-public-folders"></a>การสร้างโฟลเดอร์สาธารณะ
 
-ก่อนที่ผู้ใช้ของคุณสามารถใช้โฟลเดอร์สาธารณะใน Office 365 คุณจะต้องสร้างกล่องจดหมายโฟลเดอร์สาธารณะอย่างน้อยหนึ่งครั้ง เพื่อสร้าง:
+ก่อนที่ผู้ใช้ของคุณสามารถใช้โฟลเดอร์สาธารณะ ได้ คุณจะต้องสร้างกล่องจดหมายโฟลเดอร์สาธารณะอย่างน้อยหนึ่งกล่อง เมื่อต้องการสร้าง:
   
-1. ใน Microsoft 365 admin ศูนย์ ไปยัง**ศูนย์ Admin** \> **แลกเปลี่ยน**
+1. ใน ศูนย์การจัดการ Microsoft 365 ไปที่**ศูนย์การจัดการ**\> **Exchange**
 
-2. นำทางไปยัง**โฟลเดอร์สาธารณะ** \> **กล่องจดหมายโฟลเดอร์สาธารณะ**แล้ว คลิก**เพิ่ม**
+2. นําทางไปยังโฟลเดอร์ **'สาธารณะ'** \> **Public folder mailboxes** **Add**
 
-3. ใน**กล่องจดหมายโฟลเดอร์สาธารณะ**ใส่ชื่อให้กับกล่องจดหมายโฟลเดอร์สาธารณะ
+3. ใน**กล่องจดหมายโฟลเดอร์สาธารณะ**ให้ใส่ชื่อสําหรับกล่องจดหมายของโฟลเดอร์สาธารณะ
 
 4. คลิก **บันทึก**
 
-เมื่อกล่องจดหมายถูกสร้างขึ้น คุณสามารถเริ่มต้นการสร้างแต่ละโฟลเดอร์ หรือแจ้งผู้ใช้ของคุณเพื่อ[เริ่มต้นการสร้าง และการใช้โฟลเดอร์'สาธารณะ'ใน Outlook](https://support.office.com/article/Create-and-share-a-public-folder-in-Outlook-a2835011-d524-4a5c-a207-05c159bb2a97)
+เมื่อสร้างกล่องจดหมายแล้ว คุณสามารถเริ่มต้นสร้างโฟลเดอร์แต่ละโฟลเดอร์ หรือบอกให้ผู้ใช้ของคุณ[เริ่มต้นการสร้างและการใช้โฟลเดอร์สาธารณะใน Outlook](https://support.office.com/article/Create-and-share-a-public-folder-in-Outlook-a2835011-d524-4a5c-a207-05c159bb2a97)
   

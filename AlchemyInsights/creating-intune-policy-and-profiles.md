@@ -1,9 +1,9 @@
 ---
-title: สร้างนโยบาย Intune และโพรไฟล์
+title: สร้างนโยบายและโปรไฟล์ Intune
 ms.author: mandia
 author: mandia
 manager: dougeby
-ms.date: 05/07/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,34 +12,34 @@ ms.collection: Adm_O365
 ms.custom:
 - "1064"
 - "6700005"
-ms.openlocfilehash: 11516232e7ad1fb1d54f07bccd31d586d5c04d42
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: fac2a9e41449b4eb9b87d21d4cba4f6f5192d9c6
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36514782"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43715415"
 ---
-# <a name="creating-intune-policy-and-profiles"></a>สร้างนโยบาย Intune และโพรไฟล์
+# <a name="creating-intune-policy-and-profiles"></a>การสร้างนโยบาย Intune และโปรไฟล์
 
-ใน Intune คุณสามารถสร้างนโยบายและโพรไฟล์ที่ทำสิ่งที่แตกต่างกัน
+ใน Intune คุณสามารถสร้างนโยบายและโปรไฟล์ที่กระทําสิ่งที่แตกต่างกัน
 
-- **โพรไฟล์การลงทะเบียน**: กำหนดการตั้งล่วงหน้าของอุปกรณ์ของคุณ โดยแพลตฟอร์ม ความสัมพันธ์ของผู้ใช้ที่เปิดใช้งาน ใช้การรับรองความถูกต้องด้วยหลายปัจจัย และอื่น ๆ
+- **โปรไฟล์การลงทะเบียน**: กําหนดค่าอุปกรณ์ของคุณล่วงหน้าตามแพลตฟอร์มเปิดใช้งานความเกี่ยวข้องของผู้ใช้ใช้การตรวจสอบหลายปัจจัยและอื่น ๆ
 
-  การ[ลงทะเบียนอุปกรณ์คืออะไร](https://docs.microsoft.com/intune/device-enrollment)และสร้างโพรไฟล์การลงทะเบียนสำหรับ[Android](https://docs.microsoft.com/intune/android-enroll), [iOS](https://docs.microsoft.com/intune/ios-enroll), [macOS](https://docs.microsoft.com/intune/macos-enroll)และ[หน้าต่าง](https://docs.microsoft.com/intune/windows-enrollment-methods)ดีทรัพยากรที่มีอยู่
+  [การลงทะเบียนอุปกรณ์คืออะไร](https://docs.microsoft.com/intune/device-enrollment)และสร้างโปรไฟล์การลงทะเบียนสําหรับ[Android](https://docs.microsoft.com/intune/android-enroll), [iOS](https://docs.microsoft.com/intune/ios-enroll), [macOS](https://docs.microsoft.com/intune/macos-enroll)และ[Windows](https://docs.microsoft.com/intune/windows-enrollment-methods)เป็นแหล่งข้อมูลที่ดี
 
-- **นโยบายการปฏิบัติตามกฎระเบียบ**: กำหนดกฎและค่าที่อุปกรณ์ต้องปฏิบัติตามเพื่อให้เป็นไปตามกฎ คุณสามารถใช้นโยบายการปฏิบัติตามกฎระเบียบเพื่อตรวจสอบอุปกรณ์ และแจ้งเตือนผู้ใช้ของความไม่สอดคล้องกัน
+- **นโยบายการปฏิบัติตามกฎระเบียบ**: กําหนดกฎและการตั้งค่าที่อุปกรณ์ต้องปฏิบัติตามเพื่อให้เป็นไปตามข้อกําหนด นอกจากนี้ คุณยังสามารถใช้นโยบายการปฏิบัติตามนโยบายเพื่อตรวจสอบอุปกรณ์ และแจ้งเตือนผู้ใช้ที่ไม่ปฏิบัติตามนโยบาย
 
-  เริ่มต้นใช้งานกับ[อุปกรณ์นโยบายการปฏิบัติตามกฎระเบียบ](https://docs.microsoft.com/intune/device-compliance-get-started)
-- **นโยบายการเข้าถึงแบบมีเงื่อนไข**: ช่วยรักษาความปลอดภัยขององค์กรทรัพยากร ขึ้นอยู่กับเงื่อนไขที่คุณป้อน ตัวอย่างเช่น สำหรับอุปกรณ์ที่ไม่เข้ากันกับ ใช้ access แบบมีเงื่อนไขเพื่อจำกัดการเข้าถึงอีเมลและ SharePoint
+  เริ่มต้นใช้งาน[นโยบายการปฏิบัติตามข้อกําหนดของอุปกรณ์](https://docs.microsoft.com/intune/device-compliance-get-started)
+- **นโยบายการเข้าถึงแบบมีเงื่อนไข**: ช่วยรักษาความปลอดภัยให้กับทรัพยากรขององค์กร โดยขึ้นอยู่กับเงื่อนไขที่คุณป้อน ตัวอย่างเช่น สําหรับอุปกรณ์ที่ไม่เป็นไปตามข้อกําหนด ให้ใช้การเข้าถึงแบบมีเงื่อนไขเพื่อจํากัดการเข้าถึงอีเมลและ SharePoint
 
-  [วิธีทั่วไปในการใช้การเข้าถึงแบบมีเงื่อนไข](https://docs.microsoft.com/intune/conditional-access-intune-common-ways-use)และการ[เข้าถึงแบบมีเงื่อนไขคืออะไร](https://docs.microsoft.com/intune/conditional-access)มีทรัพยากรที่ดีในการเริ่มต้น
+  [การเข้าถึงแบบมีเงื่อนไข](https://docs.microsoft.com/intune/conditional-access)[และวิธีการทั่วไปในการใช้การเข้าถึงแบบมีเงื่อนไข](https://docs.microsoft.com/intune/conditional-access-intune-common-ways-use)คือทรัพยากรที่ดีในการเริ่มต้นใช้งานคืออะไร
 
-- **โพรไฟล์การตั้งค่าคอนฟิก**: จัดการลักษณะการทำงานและการตั้งค่าบนอุปกรณ์ รวมทั้งการตั้งค่าอีเมล เพิ่มเครือข่าย WiFi ใช้แม่แบบที่มีอยู่ภายใน คุณลักษณะตัวควบคุม iOS และ macOS อุปกรณ์ และอื่น ๆ
+- **โปรไฟล์การกําหนดค่า**: จัดการคุณสมบัติและการตั้งค่าบนอุปกรณ์ รวมถึงการตั้งค่าอีเมล เพิ่มเครือข่าย WiFi ใช้เทมเพลตในตัว การควบคุมคุณสมบัติอุปกรณ์ iOS และ macOS และอื่นๆ
 
-  เริ่มต้นใช้งานใน[ส่วนกำหนดค่าการตั้งค่าคอนฟิกอุปกรณ์](https://docs.microsoft.com/intune/device-profiles)
+  เริ่มต้นใช้งาน[โปรไฟล์การกําหนดค่าอุปกรณ์](https://docs.microsoft.com/intune/device-profiles)
 
-การเชื่อมโยงที่เป็นประโยชน์:
+ลิงค์ที่เป็นประโยชน์:
 
-- [ทั่วไปคำถาม ปัญหา และวิธีแก้ปัญหา ด้วยนโยบายอุปกรณ์และโพรไฟล์ใน Intune](https://docs.microsoft.com/intune/device-profile-troubleshoot)
+- [คําถามทั่วไป ปัญหา และวิธีแก้ปัญหาด้วยนโยบายและโปรไฟล์ของอุปกรณ์ใน Intune](https://docs.microsoft.com/intune/device-profile-troubleshoot)
 
-- [การแก้ไขปัญหานโยบายและโพรไฟล์ใน Intune](https://docs.microsoft.com/intune/troubleshoot-policies-in-microsoft-intune)
+- [การแก้ไขปัญหานโยบายและโปรไฟล์ใน Intune](https://docs.microsoft.com/intune/troubleshoot-policies-in-microsoft-intune)

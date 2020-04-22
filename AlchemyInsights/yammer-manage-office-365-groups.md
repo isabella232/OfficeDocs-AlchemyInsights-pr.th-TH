@@ -1,5 +1,5 @@
 ---
-title: 'Yammer-จัดการ Office ๓๖๕กลุ่ม '
+title: 'Yammer - จัดการกลุ่ม Office 365 '
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,23 +11,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "995"
 - "6000003"
-ms.openlocfilehash: 9c2742b715064d55d9525860f78c530294f90999
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: 0257be866d6f6c654a28a4109ca7c9e6c34fc376
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "36530982"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43715867"
 ---
-# <a name="manage-office-365-groups-in-yammer"></a>จัดการกลุ่ม Office ๓๖๕ใน Yammer
+# <a name="manage-office-365-groups-in-yammer"></a>จัดการกลุ่ม Office 365 ใน Yammer
 
-ต่อไปนี้เป็นคำตอบบางส่วนสำหรับปัญหาทั่วไปเกี่ยวกับ Office ๓๖๕กลุ่มใน Yammer
+ต่อไปนี้เป็นคําตอบสําหรับปัญหาทั่วไปเกี่ยวกับกลุ่ม Office 365 ใน Yammer
 
-* **Office ๓๖๕กลุ่ม**เป็นพื้นที่ทำงานที่ใช้ร่วมกันสำหรับการส่งเมลการสนทนาไฟล์และเหตุการณ์ที่สมาชิกกลุ่มสามารถทำงานร่วมกับคุณได้ ด้วย Yammer กลุ่ม Office ๓๖๕มีข้อดีมากกว่ากลุ่ม Yammer ที่ไม่มีการเชื่อมต่อ ตัวอย่างเช่นคุณสามารถสร้างและโฮสต์เหตุการณ์สดกู้คืนกลุ่มที่ถูกลบให้ใช้สมาชิกกลุ่มแบบไดนามิกที่เก็บถาวรอัตโนมัติและเข้าถึงทรัพยากรที่ใช้ร่วมกันเช่น Sharepoint, OneNote และโปรแกรมวางแผน
+* **กลุ่ม Office 365**เป็นพื้นที่ทํางานที่ใช้ร่วมกันสําหรับอีเมล การสนทนา ไฟล์ และเหตุการณ์ที่สมาชิกกลุ่มสามารถทํางานร่วมกันได้ กลุ่ม Office 365 มีข้อดีมากมายเหนือกลุ่ม Yammer ที่ไม่ได้เชื่อมต่อ ตัวอย่างเช่น คุณสามารถสร้างและโฮสต์เหตุการณ์สด เรียกคืนกลุ่มที่ถูกลบ
 
-* คุณสามารถบอกได้ว่ากลุ่ม Yammer เชื่อมต่อกับกลุ่ม Office ๓๖๕เมื่อคุณเห็นส่วน**ทรัพยากร office ๓๖๕**(Sharepoint, OneNote, โปรแกรมวางแผน) ในการนำทางที่ถูกต้องของกลุ่ม ถ้าไม่มีทรัพยากรให้ตรวจสอบดังต่อไปนี้
+* คุณสามารถบอกได้ว่า กลุ่ม Yammer เชื่อมต่อกับกลุ่ม Office 365 เมื่อคุณเห็นส่วน**ทรัพยากร Office 365** (Sharepoint, OneNote, Planner) ในการนําทางด้านขวาของกลุ่ม ถ้าทรัพยากรไม่พร้อมใช้งาน ให้ตรวจสอบต่อไปนี้
 
-  1. เครือข่าย Yammer ต้องอยู่ในผู้เช่า 1: 1 การกำหนดค่าเครือข่าย เพื่อตรวจสอบว่าคุณอยู่ในการตั้งค่าคอนฟิก1:1 ใช้**เครื่องมือการโยกย้ายเครือข่าย**ตามที่อธิบายไว้ในการ[โยกย้ายเครือข่าย-รวมหลายเครือข่าย Yammer](https://docs.microsoft.com/yammer/configure-your-yammer-network/consolidate-multiple-yammer-networks)
+  1. เครือข่าย Yammer ต้องอยู่ในการกําหนดค่าเครือข่าย 1 ผู้เช่า:1 เพื่อตรวจสอบว่าคุณอยู่ในการกําหนดค่าแบบ 1:1 ให้ใช้**เครื่องมือการโยกย้ายเครือข่าย**ตามที่อธิบายไว้ใน[การโยกย้ายเครือข่าย - รวมเครือข่าย Yammer หลายเครือข่าย](https://docs.microsoft.com/yammer/configure-your-yammer-network/consolidate-multiple-yammer-networks)
 
-  2. เรียกดูไปยังผู้**ดูแลเครือข่ายการตั้งค่าความปลอดภัย**และตรวจสอบให้แน่ใจว่ามีการบังคับใช้**ข้อมูลเฉพาะตัวของ Office ๓๖๕**สำหรับผู้ทำงาน Yammer
+  2. เรียกดู**ผู้ดูแลระบบเครือข่าย การตั้งค่าความปลอดภัย**และตรวจสอบให้แน่ใจว่าข้อมูลประจําตัว**Office 365**ถูกบังคับใช้สําหรับผู้ใช้ Yammer
 
-สำหรับข้อมูลเพิ่มเติมเกี่ยวกับ Office ๓๖๕กลุ่มและ Yammer โปรดดูที่[Yammer และ Office ๓๖๕กลุ่ม](https://docs.microsoft.com/yammer/manage-yammer-groups/yammer-and-office-365-groups?redirectSourcePath=%252fen-us%252farticle%252fYammer-and-Office-365-Groups-d8c239dc-a48b-47ab-b85e-6b4b8191a869) สำหรับข้อมูลเกี่ยวกับการจัดการกลุ่มให้ดูที่[จัดการกลุ่มใน Yammer](https://support.office.com/article/Manage-a-group-in-Yammer-6e05c6d6-5548-4c88-89cd-e6757a514ef2)
+สําหรับข้อมูลเพิ่มเติมเกี่ยวกับกลุ่ม Office 365 และ Yammer โปรดดู[กลุ่ม Yammer และ 365 สํานักงาน](https://docs.microsoft.com/yammer/manage-yammer-groups/yammer-and-office-365-groups) สําหรับข้อมูลเกี่ยวกับการจัดการกลุ่ม ให้ดูที่[จัดการกลุ่มใน Yammer](https://support.office.com/article/Manage-a-group-in-Yammer-6e05c6d6-5548-4c88-89cd-e6757a514ef2)

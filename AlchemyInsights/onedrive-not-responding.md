@@ -1,24 +1,24 @@
 ---
-title: OneDrive ไม่ตอบสนอง
+title: ไม่ตอบสนอง OneDrive
 ms.author: pebaum
 author: pebaum
-ms.date: 12/4/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 889f1e71-fc26-4753-9a2b-14508bc5d38f
-ms.openlocfilehash: 3ea0aea830d42d3debbd4ed4cb7bed4e99151881
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: 275b9eb7f548b301d3e4bed1e2946faa3a1c2d09
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40054577"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43713197"
 ---
-# <a name="onedrive-not-responding"></a>OneDrive ไม่ตอบสนอง
+# <a name="onedrive-not-responding"></a>ไม่ตอบสนอง OneDrive
 
-สำหรับบัญชีที่สร้างขึ้นใหม่ผู้ใช้ต้องลงชื่อเข้าใช้ศูนย์ดูแลของ Microsoft ๓๖๕กับบัญชีของตนเองและคลิก OneDrive เพื่อเริ่มต้นบทบัญญัติของไซต์ OneDrive ด้วยตนเอง
+สําหรับบัญชีที่สร้างขึ้นใหม่ ผู้ใช้ต้องลงชื่อเข้าใช้ศูนย์การจัดการ Microsoft 365 ด้วยบัญชีของตนเอง แล้วคลิก OneDrive เพื่อเริ่มต้นการจัดเตรียมไซต์ OneDrive ด้วยตนเอง
   
-อย่างไรก็ตามถ้าผู้ใช้ได้คลิก OneDrive และเว็บไซต์ส่วนบุคคลของพวกเขาไม่ได้ถูกจัดสรรภายใน24ชั่วโมงโปรดล็อกตั๋วสนับสนุนสำหรับความช่วยเหลือเพิ่มเติม
+อย่างไรก็ตาม ถ้าผู้ใช้ได้คลิก OneDrive แล้ว และไซต์ส่วนบุคคลของพวกเขาจะไม่เตรียมใช้งานภายใน 24 ชั่วโมง โปรดเข้าสู่ระบบตั๋วสนับสนุนเพื่อขอความช่วยเหลือเพิ่มเติม
   
 

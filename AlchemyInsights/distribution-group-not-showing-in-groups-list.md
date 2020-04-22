@@ -1,9 +1,9 @@
 ---
-title: กลุ่มการกระจายสินค้าที่ไม่ได้แสดงในรายการกลุ่ม
+title: กลุ่มการแจกจ่ายที่ไม่แสดงในรายการกลุ่ม
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
-ms.date: 4/6/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,16 +13,16 @@ ms.custom:
 - "13"
 - "2"
 ms.assetid: 7d193eb3-dfaf-4be8-a03c-151905a1e9f1
-ms.openlocfilehash: 6c2332934537333661de90d951eae9e2a6e03cbe
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 6cfb844f640ec30ebf595f985e001b9acc93e813
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36512514"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43715097"
 ---
-# <a name="distribution-group-not-showing-in-groups-list"></a>กลุ่มการกระจายสินค้าที่ไม่ได้แสดงในรายการกลุ่ม
+# <a name="distribution-group-not-showing-in-groups-list"></a>กลุ่มการแจกจ่ายที่ไม่แสดงในรายการกลุ่ม
 
-ซึ่งอาจใช้เวลาถึง 60 นาทีก่อนรายการการแจกจ่ายใหม่ของคุณปรากฏในศูนย์ดูแล
+รายการการแจกจ่ายใหม่จะปรากฏขึ้นในศูนย์การจัดการอาจใช้เวลาถึง 60 นาที
   
-ถ้าคุณต้องการเพิ่มสมาชิก หรือทำการแก้ไขอื่น ๆ ในขณะนี้ โปรดใช้ลักษณะการทำงานของกลุ่มใน[ศูนย์ดูแลอัตราแลกเปลี่ยน](https://outlook.office365.com/ecp/?rfr=Admin_o365&amp;exsvurl=1)
+ถ้าคุณต้องการเพิ่มสมาชิกหรือทําการแก้ไขอื่นๆ ในขณะนี้ โปรดใช้คุณลักษณะ กลุ่ม ใน[ศูนย์การจัดการ Exchange](https://outlook.office365.com/ecp/?rfr=Admin_o365&amp;exsvurl=1)
   

@@ -1,9 +1,9 @@
 ---
-title: บล็อกการแลกเปลี่ยนแบบออนไลน์ PowerShell 763 การเข้าถึงสำหรับผู้ใช้
+title: 763 การบล็อกการเข้าถึง PowerShell แบบออนไลน์อัตราแลกเปลี่ยนสําหรับผู้ใช้
 ms.author: chrisda
 author: chrisda
 manager: dansimp
-ms.date: 4/26/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,18 +13,18 @@ ms.custom:
 - "763"
 - "3500011"
 ms.assetid: fcaafe9d-80ee-404b-9a70-00bc4aa5e28a
-ms.openlocfilehash: f5e432423aa2792de4c13060b94a930892710057
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: a9d967032c0b2f13f8c33b989077897c0f3ae20d
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36517950"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43712262"
 ---
-# <a name="blocking-exchange-online-powershell-access-for-users"></a>บล็อกของ PowerShell แบบออนไลน์ของอัตราแลกเปลี่ยนการเข้าถึงสำหรับผู้ใช้
-เป็นผู้ดูแลระบบการ คุณมีความสามารถในการบล็อกการเข้าถึงของ PowerShell แบบออนไลน์ของอัตราแลกเปลี่ยนสำหรับผู้ใช้ของคุณ สำหรับข้อมูลเพิ่มเติม ดูหัวข้อเหล่านี้:
+# <a name="blocking-exchange-online-powershell-access-for-users"></a>การบล็อกการเข้าถึง PowerShell แบบออนไลน์ของอัตราแลกเปลี่ยน Exchange สําหรับผู้ใช้
+ในฐานะผู้ดูแลระบบ คุณสามารถบล็อกการเข้าถึง PowerShell แบบออนไลน์ของอัตราแลกเปลี่ยนสําหรับผู้ใช้ของคุณ สําหรับข้อมูลเพิ่มเติม ให้ดูหัวข้อเหล่านี้:
 
-- [เปิดใช้งาน หรือปิดใช้งานการเข้าถึงของ PowerShell แบบออนไลน์ของอัตราแลกเปลี่ยน](https://docs.microsoft.com/powershell/exchange/exchange-online/disable-access-to-exchange-online-powershell)
+- [เปิดใช้งาน หรือปิดใช้งานการเข้าถึง PowerShell แบบออนไลน์ของอัตราแลกเปลี่ยน](https://docs.microsoft.com/powershell/exchange/exchange-online/disable-access-to-exchange-online-powershell)
 
-- [ไคลเอนต์การเข้าถึงกฎการแลกเปลี่ยนแบบออนไลน์](https://technet.microsoft.com/library/mt842508.aspx) (ค้นหาโพรโทคอล**RemotePowerShell** ) 
+- [กฎการเข้าถึงของไคลเอ็นต์ใน Exchange แบบออนไลน์](https://technet.microsoft.com/library/mt842508.aspx)(ค้นหาโพรโทคอล**RemotePowerShell)** 
 
-**หมายเหตุ**: ตามที่อธิบายไว้ในหัวข้อ ระวังไม่ให้บล็อกการเข้าถึงของ PowerShell แบบออนไลน์ของอัตราแลกเปลี่ยนสำหรับผู้ดูแล
+**หมายเหตุ**: เป็นที่อธิบายไว้ในหัวข้อ ระวังไม่ให้บล็อกการเข้าถึง PowerShell แบบออนไลน์ของอัตราแลกเปลี่ยนสําหรับผู้ดูแลระบบ

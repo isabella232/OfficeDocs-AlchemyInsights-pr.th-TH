@@ -1,5 +1,5 @@
 ---
-title: ภาพรวมการอนุญาตให้ใช้สิทธิ์กระแสข้อมูลของ Microsoft
+title: ภาพรวมการอนุญาตให้ใช้สิทธิ์ของกระแสข้อมูล Microsoft
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,15 +11,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001693"
 - "3770"
-ms.openlocfilehash: 6877c073ed366ba0d464a076c6aec5acb3477d22
-ms.sourcegitcommit: 9ab422063e5a474c92ed956d42d222b90336fecb
+ms.openlocfilehash: d80f48ae5a791e30a85e23478424bc836b5da4e6
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 03/11/2020
-ms.locfileid: "42600115"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43713953"
 ---
-# <a name="microsoft-stream-licensing-overview"></a>ภาพรวมการอนุญาตให้ใช้สิทธิ์กระแสข้อมูลของ Microsoft
+# <a name="microsoft-stream-licensing-overview"></a>ภาพรวมการอนุญาตให้ใช้สิทธิ์ของกระแสข้อมูล Microsoft
 
-กระแสข้อมูลของ Microsoft เป็นบริการ cloud ที่ได้รับอนุญาตในการสมัครสมาชิกต่อผู้ใช้แต่ละราย เป็นส่วนหนึ่งของ Office ๓๖๕การสมัครใช้งานที่มีสิทธิ์ ดูการกำหนดราคา Office ๓๖๕สำหรับข้อมูลเกี่ยวกับแต่ละชนิดของการบอกรับเป็นสมาชิก
+กระแสข้อมูล Microsoft เป็นบริการระบบคลาวด์ที่ได้รับอนุญาตให้ใช้สิทธิต่อผู้ใช้หนึ่งราย การสมัครใช้งาน Microsoft 365 ที่มีสิทธิ์ ดูการกําหนดราคา Microsoft 365 สําหรับข้อมูลเกี่ยวกับการสมัครใช้งานแต่ละชนิด
 
-- [ภาพรวมการอนุญาตให้ใช้สิทธิ์กระแสข้อมูลของ Microsoft](https://docs.microsoft.com/stream/license-overview)
+- [ภาพรวมการอนุญาตให้ใช้สิทธิ์ของกระแสข้อมูล Microsoft](https://docs.microsoft.com/stream/license-overview)

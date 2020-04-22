@@ -12,28 +12,28 @@ ms.custom:
 - "530"
 - "1400007"
 ms.assetid: 75fdfd6d-cae7-40fd-bc50-8674bcd3a771
-ms.openlocfilehash: f41cfd77ce1173e6786f25316f04e84bfa35af07
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: 4940746e178ad4f01de0ae237b7bb49bbd045135
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36664735"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43712190"
 ---
-# <a name="buy-additional-office-365-licenses"></a>ซื้อสิทธิ์การใช้งาน Office ๓๖๕เพิ่มเติม
+# <a name="buy-additional-licenses"></a>ซื้อสิทธิ์การใช้งานเพิ่มเติม
 
-1. ในศูนย์การจัดการให้ไปที่หน้า[บริการผลิตภัณฑ์](https://go.microsoft.com/fwlink/p/?linkid=842054)**สำหรับการเรียกเก็บเงิน** \>
+1. ไปที่หน้า[บริการ&ผลิตภัณฑ์](https://go.microsoft.com/fwlink/p/?linkid=842054)**การเรียกเก็บเงิน**\>
 
-2. ค้นหาการสมัครใช้งานที่คุณต้องการเพิ่มสิทธิ์การใช้งานแล้วเลือก**เพิ่ม/เอาใบอนุญาตออก**
+2. ค้นหาการสมัครใช้งานที่คุณต้องการเพิ่มสิทธิ์การใช้งาน แล้วเลือก**Add/Remove licenses**
 
-    [จะเกิดอะไรขึ้นหากฉันไม่เห็นลิงก์ "เพิ่ม/ลบ"](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/buy-licenses#what-if-i-dont-see-the-addremove-licenses-link)
+    [จะเกิดอะไรขึ้นถ้าฉันไม่เห็นลิงก์เพิ่ม/นําออก](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/buy-licenses#what-if-i-dont-see-the-addremove-licenses-link)
 
-3. ในกล่อง**ใบอนุญาตทั้งหมด**ให้ป้อนจำนวนใบอนุญาตทั้งหมดที่คุณต้องการสำหรับการสมัครใช้งานนี้แล้วเลือก**ส่งการเปลี่ยนแปลง** ตัวอย่างเช่นหากคุณมีสิทธิ์การใช้งาน๑๐๐และคุณต้องเพิ่มอีก5รายการให้ป้อน๑๐๕
+3. ในกล่อง**สิทธิ์การใช้งานทั้งหมด**ให้ใส่จํานวนสิทธิ์ทั้งหมดที่จําเป็นสําหรับการสมัครใช้งานนี้ แล้วเลือก**Submit change** ตัวอย่างเช่น ถ้าคุณมีสิทธิ์การใช้งาน 100 ใบ และคุณต้องเพิ่มอีก 5 ครั้ง ให้ป้อน 105
 
     > [!NOTE]
-    > หากคุณชำระเงินค่าสมัครสมาชิกด้วยบัตรเครดิตหรือบัญชีธนาคารใบอนุญาตใหม่ใดๆที่คุณซื้อจะพร้อมใช้งานทันทีหลังจากที่คุณได้รับการยืนยันการสั่งซื้อ ถ้าคุณชำระเงินด้วยใบแจ้งหนี้คุณอาจต้องรอการตรวจสอบสินเชื่อก่อนที่ใบอนุญาตใหม่ของคุณจะพร้อมใช้งาน
+    > หากคุณชําระเงินสําหรับการสมัครใช้งานด้วยบัตรเครดิตหรือบัญชีธนาคาร หากคุณชําระเงินด้วยใบแจ้งหนี้ คุณอาจต้องรอการตรวจสอบเครดิตก่อนใบอนุญาตใหม่ของคุณจะพร้อมใช้งาน
 
-หากต้องการเรียนรู้เพิ่มเติมโปรดดู[ซื้อใบอนุญาตสำหรับการสมัครใช้งาน Office ๓๖๕ของคุณ](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/buy-licenses)  
+เมื่อต้องการเรียนรู้เพิ่มเติม ให้ดูที่[ซื้อสิทธิ์การใช้งานสําหรับการสมัครใช้งาน Microsoft 365 สําหรับธุรกิจของคุณ](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/buy-licenses)  
 
-**แหล่งข้อมูลเพิ่มเติม**
+**ทรัพยากรเพิ่มเติม**
 
-- [มอบหมายใบอนุญาตให้กับผู้ใช้ใน Office ๓๖๕สำหรับธุรกิจ](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users)
+- [กําหนดสิทธิ์การใช้งานให้กับผู้ใช้ใน Microsoft 365 สําหรับธุรกิจ](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users)
