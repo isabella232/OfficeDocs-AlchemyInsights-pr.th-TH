@@ -1,8 +1,8 @@
 ---
-title: 550 5.7.705 รหัสข้อผิดพลาดปฏิเสธการเข้าถึง ผู้เช่าเกินขีดจำกัด
+title: รหัสข้อผิดพลาด 550 5.7.705 การเข้าถึงถูกปฏิเสธ
 ms.author: chrisda
 author: chrisda
-ms.date: 4/9/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,17 +12,17 @@ ms.custom:
 - "336"
 - "1948"
 - "3100014"
-ms.openlocfilehash: 9424b396175dae23a74e45a13ddf3ea3562b5cff
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 14488ea7d067ee1f8d2a752c30a06f84a7ed9b33
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36527238"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43703009"
 ---
-# <a name="550-57705-access-denied-tenant-has-exceeded-threshold"></a><span data-ttu-id="a4123-102">ปฏิเสธการเข้าถึง 550 5.7.705 ผู้เช่าเกินขีดจำกัด</span><span class="sxs-lookup"><span data-stu-id="a4123-102">550 5.7.705 Access denied, tenant has exceeded threshold</span></span>
+# <a name="550-57705-access-denied-tenant-has-exceeded-threshold"></a><span data-ttu-id="3009a-102">550 5.7.705 การเข้าถึงถูกปฏิเสธ</span><span class="sxs-lookup"><span data-stu-id="3009a-102">550 5.7.705 Access denied, tenant has exceeded threshold</span></span>
 
-<span data-ttu-id="a4123-103">ข้อความนี้เกิดขึ้นเมื่อมีการส่งจดหมายมากเกินไปสแปมหรือจำนวนมาก โดยองค์กรของคุณ และเราทำบล็อกบนจดหมายขาออก</span><span class="sxs-lookup"><span data-stu-id="a4123-103">This message occurs when too much spam or bulk mail has been sent by your organization and we place a block on outgoing mail.</span></span>
-<span data-ttu-id="a4123-104">สาเหตุทั่วไปคือ เซิร์ฟเวอร์ที่ถูกโจมตีในสถานที่หนึ่งหรือหลายบัญชี admin ถูกโจมตีซึ่งได้ถูกใช้ในการสร้างตัวเชื่อมต่อ</span><span class="sxs-lookup"><span data-stu-id="a4123-104">Common causes are compromised on-premises servers or compromised admin accounts that have been used to create connectors.</span></span> <span data-ttu-id="a4123-105">เงื่อนไขอย่างใดอย่างหนึ่งสามารถสแปมผ่านองค์กรของคุณ</span><span class="sxs-lookup"><span data-stu-id="a4123-105">Either condition can allow spam to pass through your organization.</span></span>
+<span data-ttu-id="3009a-103">ข้อความนี้เกิดขึ้นเมื่อองค์กรส่งสแปมหรือจดหมายจํานวนมากมากเกินไป และเราวางบล็อกในอีเมลขาออก</span><span class="sxs-lookup"><span data-stu-id="3009a-103">This message occurs when too much spam or bulk mail has been sent by your organization and we place a block on outgoing mail.</span></span>
+<span data-ttu-id="3009a-104">สาเหตุทั่วไปถูกบุกรุกเซิร์ฟเวอร์ในสถานที่หรือบัญชีผู้ดูแลระบบที่ถูกบุกรุกซึ่งถูกใช้เพื่อสร้างตัวเชื่อมต่อ</span><span class="sxs-lookup"><span data-stu-id="3009a-104">Common causes are compromised on-premises servers or compromised admin accounts that have been used to create connectors.</span></span> <span data-ttu-id="3009a-105">เงื่อนไขอย่างใดอย่างหนึ่งสามารถอนุญาตให้สแปมผ่านองค์กรของคุณได้</span><span class="sxs-lookup"><span data-stu-id="3009a-105">Either condition can allow spam to pass through your organization.</span></span>
 
-<span data-ttu-id="a4123-106">เมื่อต้องการลบบล็อกนี้ คุณจำเป็นต้องทำความเข้าใจ และอธิบายสาเหตุให้ตัวแทนฝ่ายสนับสนุน ตลอดจนแก้ไขปัญหามูลฐาน</span><span class="sxs-lookup"><span data-stu-id="a4123-106">To remove this block, you need to understand and explain the cause to a support agent, as well as correct the underlying problem.</span></span>
-<span data-ttu-id="a4123-107">คลิกที่**ติดต่อเรา**ด้านล่างเมื่อคุณพร้อม</span><span class="sxs-lookup"><span data-stu-id="a4123-107">Click **Contact us** below once you're ready.</span></span>
+<span data-ttu-id="3009a-106">เมื่อต้องการลบบล็อกนี้ คุณต้องเข้าใจและอธิบายสาเหตุให้กับตัวแทนฝ่ายสนับสนุน รวมทั้งแก้ไขปัญหาพื้นฐาน</span><span class="sxs-lookup"><span data-stu-id="3009a-106">To remove this block, you need to understand and explain the cause to a support agent, as well as correct the underlying problem.</span></span>
+<span data-ttu-id="3009a-107">คลิก**ติดต่อเรา**ด้านล่างเมื่อคุณพร้อม</span><span class="sxs-lookup"><span data-stu-id="3009a-107">Click **Contact us** below once you're ready.</span></span>

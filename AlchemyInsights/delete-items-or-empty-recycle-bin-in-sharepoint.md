@@ -1,9 +1,9 @@
 ---
-title: ลบรายการหรือล้างข้อมูลในถังรีไซเคิลของไซต์ SharePoint
+title: ลบรายการหรือล้างถังรีไซเคิลของไซต์ SharePoint
 ms.author: v-todmc
 author: todmccoy
 manager: mnirkhe
-ms.date: 10/31/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000209"
 - "3175"
-ms.openlocfilehash: 1766b9c54c0c9eb1574ab70f672f2fdec8cc3959
-ms.sourcegitcommit: df4c12727ce9c53b1abdc13c48c25cc00b73eb57
+ms.openlocfilehash: f035104d3a9c2a3d5c82d9753497fa5f4c9e6319
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 11/01/2019
-ms.locfileid: "37922528"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43704888"
 ---
-# <a name="delete-items-or-empty-the-recycle-bin-of-a-sharepoint-site"></a><span data-ttu-id="d88bf-102">ลบรายการหรือล้างข้อมูลในถังรีไซเคิลของไซต์ SharePoint</span><span class="sxs-lookup"><span data-stu-id="d88bf-102">Delete items or empty the Recycle Bin of a SharePoint site</span></span> 
+# <a name="delete-items-or-empty-the-recycle-bin-of-a-sharepoint-site"></a><span data-ttu-id="7150e-102">ลบรายการหรือล้างถังรีไซเคิลของไซต์ SharePoint</span><span class="sxs-lookup"><span data-stu-id="7150e-102">Delete items or empty the Recycle Bin of a SharePoint site</span></span> 
 
-<span data-ttu-id="d88bf-103">เมื่อคุณลบรายการออกจากไลบรารีเอกสารหรือรายการ SharePoint จะไม่มีการลบจาก SharePoint ทันที</span><span class="sxs-lookup"><span data-stu-id="d88bf-103">When you delete an item from a SharePoint document library or list, it isn’t immediately removed from SharePoint.</span></span> <span data-ttu-id="d88bf-104">รายการที่ถูกลบไปยังไซต์ถังรีไซเคิลสำหรับรอบระยะเวลา</span><span class="sxs-lookup"><span data-stu-id="d88bf-104">Deleted items go into the site Recycle Bin for a period of time.</span></span> <span data-ttu-id="d88bf-105">ในระหว่างนั้นคุณสามารถคืนค่ารายการที่คุณลบไปยังตำแหน่งเดิมหรือลบออกเพื่อเพิ่มพื้นที่เก็บข้อมูลได้</span><span class="sxs-lookup"><span data-stu-id="d88bf-105">During that time, you can restore the items you deleted to their original location, or remove them to free up storage space.</span></span>
+<span data-ttu-id="7150e-103">เมื่อคุณลบรายการออกจากไลบรารีเอกสารหรือรายการ SharePoint รายการนั้นจะไม่ถูกเอาออกจาก SharePoint ทันที</span><span class="sxs-lookup"><span data-stu-id="7150e-103">When you delete an item from a SharePoint document library or list, it isn’t immediately removed from SharePoint.</span></span> <span data-ttu-id="7150e-104">รายการที่ถูกลบไปลงในถังรีไซเคิลของไซต์เป็นระยะเวลาหนึ่ง</span><span class="sxs-lookup"><span data-stu-id="7150e-104">Deleted items go into the site Recycle Bin for a period of time.</span></span> <span data-ttu-id="7150e-105">คุณสามารถคืนค่ารายการที่คุณลบไปไว้ในตําแหน่งที่ตั้งเดิม หรือนํารายการเหล่านั้นออกเพื่อเพิ่มพื้นที่ว่างในการจัดเก็บ</span><span class="sxs-lookup"><span data-stu-id="7150e-105">During that time, you can restore the items you deleted to their original location, or remove them to free up storage space.</span></span>
 
-[<span data-ttu-id="d88bf-106">ลบรายการหรือล้างข้อมูลในถังรีไซเคิลของไซต์ SharePoint</span><span class="sxs-lookup"><span data-stu-id="d88bf-106">Delete items or empty the Recycle Bin of a SharePoint site</span></span>](https://support.office.com/article/delete-items-or-empty-the-recycle-bin-of-a-sharepoint-site-2e713599-d13e-40d6-96dc-66f0a366f74e?ui=en-US&rs=en-US&ad=US#ID0EAADAAA=Online)
+[<span data-ttu-id="7150e-106">ลบรายการหรือล้างถังรีไซเคิลของไซต์ SharePoint</span><span class="sxs-lookup"><span data-stu-id="7150e-106">Delete items or empty the Recycle Bin of a SharePoint site</span></span>](https://support.office.com/article/2e713599-d13e-40d6-96dc-66f0a366f74e)

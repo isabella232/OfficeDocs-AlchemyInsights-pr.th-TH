@@ -1,9 +1,9 @@
 ---
-title: ส่วนกำหนดค่าลบ 1800001
+title: 1800001 ลบโปรไฟล์
 ms.author: pdigia
 author: pebaum
 manager: jackiesm
-ms.date: 8/29/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,30 +13,30 @@ ms.custom:
 - "626"
 - "1800001"
 ms.assetid: a5c5cf46-d23b-40c7-8983-34fdcbdc02fe
-ms.openlocfilehash: da0897bf834c7b96eb5e6035457ef664c486c7ae
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: b3822a7b90048cb8f0447eeb80ca1c457a17918e
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36513234"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43704852"
 ---
-# <a name="delete-a-profile"></a><span data-ttu-id="5cd8e-102">ลบโพรไฟล์</span><span class="sxs-lookup"><span data-stu-id="5cd8e-102">Delete a profile</span></span>
+# <a name="delete-a-profile"></a><span data-ttu-id="26515-102">ลบโปรไฟล์</span><span class="sxs-lookup"><span data-stu-id="26515-102">Delete a profile</span></span>
 
-<span data-ttu-id="5cd8e-103">เมื่อต้องการลบโปรไฟล์ ใช้ขั้นตอนต่อไปนี้</span><span class="sxs-lookup"><span data-stu-id="5cd8e-103">To delete a profile, use the following steps.</span></span>
+<span data-ttu-id="26515-103">หากต้องการลบโปรไฟล์ ให้ทําตามขั้นตอนต่อไปนี้</span><span class="sxs-lookup"><span data-stu-id="26515-103">To delete a profile, use the following steps.</span></span>
   
-1. <span data-ttu-id="5cd8e-104">ใน Outlook เลือก**แฟ้ม** \> **การตั้งค่าบัญชี** \> **จัดการโปรไฟล์**</span><span class="sxs-lookup"><span data-stu-id="5cd8e-104">In Outlook, select **File** \> **Account Settings** \> **Manage Profiles**.</span></span>
+1. <span data-ttu-id="26515-104">ใน Outlook ให้เลือก**การตั้งค่า**\>บัญชี**ไฟล์**\>**จัดการโปรไฟล์**</span><span class="sxs-lookup"><span data-stu-id="26515-104">In Outlook, select **File** \> **Account Settings** \> **Manage Profiles**.</span></span>
 
-2. <span data-ttu-id="5cd8e-105">เลือก**แสดงส่วนกำหนดค่า**</span><span class="sxs-lookup"><span data-stu-id="5cd8e-105">Select **Show Profiles**.</span></span>
+2. <span data-ttu-id="26515-105">เลือก**แสดงโปรไฟล์**</span><span class="sxs-lookup"><span data-stu-id="26515-105">Select **Show Profiles**.</span></span>
 
-3. <span data-ttu-id="5cd8e-106">ในกล่องโต้ตอบ**จดหมาย**เลือกโพรไฟล์ที่คุณต้องการลบ จาก นั้นคลิก**เอาออก**</span><span class="sxs-lookup"><span data-stu-id="5cd8e-106">In the **Mail** dialog, select the profile you want to delete, then click **Remove**.</span></span>
+3. <span data-ttu-id="26515-106">ในกล่องโต้ตอบ**จดหมาย**ให้เลือกโปรไฟล์ที่คุณต้องการลบ แล้วคลิก**เอาออก**</span><span class="sxs-lookup"><span data-stu-id="26515-106">In the **Mail** dialog, select the profile you want to delete, then click **Remove**.</span></span>
 
     > [!NOTE]
-    > <span data-ttu-id="5cd8e-107">Outlook อาจเตือนให้คุณทราบว่า การลบส่วนกำหนดค่าของคุณจะเอาข้อมูลแบบออฟไลน์</span><span class="sxs-lookup"><span data-stu-id="5cd8e-107">Outlook may warn you that deleting your profile will remove offline data.</span></span> <span data-ttu-id="5cd8e-108">คุณจะไม่สูญเสียข้อมูลใด ๆ ที่เก็บอยู่ในแฟ้มข้อมูล Outlook (.pst) ของคุณ หรือข้อมูลใด ๆ ที่เก็บอยู่ในบัญชีออนไลน์ของคุณ เช่น Outlook.com อัตราแลกเปลี่ยน หรือ Office 365 บัญชี</span><span class="sxs-lookup"><span data-stu-id="5cd8e-108">You won't lose any information stored in your Outlook Data Files (.pst) or any information stored in your online accounts, for example Outlook.com, Exchange, or Office 365 accounts.</span></span>
+    > <span data-ttu-id="26515-107">Outlook อาจเตือนคุณว่าการลบส่วนกําหนดค่าของคุณจะเอาข้อมูลออฟไลน์ออก</span><span class="sxs-lookup"><span data-stu-id="26515-107">Outlook may warn you that deleting your profile will remove offline data.</span></span> <span data-ttu-id="26515-108">คุณจะสูญเสียข้อมูลใดๆ ที่เก็บไว้ในแฟ้มข้อมูล Outlook (.pst) หรือข้อมูลใดๆ ที่จัดเก็บไว้ในบัญชีออนไลน์ของคุณ เช่น Outlook.com บัญชี Exchange หรือ Microsoft 365</span><span class="sxs-lookup"><span data-stu-id="26515-108">You won't lose any information stored in your Outlook Data Files (.pst) or any information stored in your online accounts, for example Outlook.com, Exchange, or Microsoft 365 accounts.</span></span>
   
-<span data-ttu-id="5cd8e-109">สำหรับการจัดการส่วนกำหนดค่า**Outlook สำหรับ Mac**ดู[ส่วนกำหนดค่าจัดการหรือข้อมูลเฉพาะตัวใน Outlook สำหรับ Mac](https://support.office.com/article/fed2a955-74df-4a24-bef6-78a426958c4c.aspx)หรือใช้ขั้นตอนต่อไปนี้</span><span class="sxs-lookup"><span data-stu-id="5cd8e-109">For **Outlook for Mac** profile management, see [Manage profiles or identities in Outlook for Mac](https://support.office.com/article/fed2a955-74df-4a24-bef6-78a426958c4c.aspx) or use the following steps.</span></span>
+<span data-ttu-id="26515-109">สําหรับ**การจัดการ**ส่วนกําหนดค่า Outlook สําหรับ Mac ดู[จัดการส่วนกําหนดค่าหรือข้อมูลเฉพาะตัวใน Outlook สําหรับ Mac](https://support.office.com/article/fed2a955-74df-4a24-bef6-78a426958c4c.aspx)หรือใช้ขั้นตอนต่อไปนี้</span><span class="sxs-lookup"><span data-stu-id="26515-109">For **Outlook for Mac** profile management, see [Manage profiles or identities in Outlook for Mac](https://support.office.com/article/fed2a955-74df-4a24-bef6-78a426958c4c.aspx) or use the following steps.</span></span>
   
-1. <span data-ttu-id="5cd8e-110">จากตัวค้นหา เปิดโฟลเดอร์**โปรแกรมประยุกต์**</span><span class="sxs-lookup"><span data-stu-id="5cd8e-110">From Finder, open the **Applications** folder.</span></span>
+1. <span data-ttu-id="26515-110">จาก Finder ให้เปิดโฟลเดอร์**แอพพลิเคชั่น**</span><span class="sxs-lookup"><span data-stu-id="26515-110">From Finder, open the **Applications** folder.</span></span>
 
-2. <span data-ttu-id="5cd8e-111">Ctrl + คลิก หรือคลิกขวา**Microsoft Outlook**และจากนั้นเลือก**แสดงเนื้อหาแพคเกจ**</span><span class="sxs-lookup"><span data-stu-id="5cd8e-111">Ctrl+click or right-click **Microsoft Outlook**, and then select **Show Package Contents**.</span></span>
+2. <span data-ttu-id="26515-111">Ctrl+คลิก หรือคลิกขวาที่**Microsoft Outlook**แล้วเลือก**Show Package Contents**</span><span class="sxs-lookup"><span data-stu-id="26515-111">Ctrl+click or right-click **Microsoft Outlook**, and then select **Show Package Contents**.</span></span>
 
-3. <span data-ttu-id="5cd8e-112">เลือก**เนื้อหา** \> **สนับสนุนการใช้งานร่วมกัน**และเปิดใช้งาน**ตัวจัดการโปรไฟล์ Outlook**แล้ว</span><span class="sxs-lookup"><span data-stu-id="5cd8e-112">Select **Contents** \> **Shared Support**, and then launch **Outlook Profile Manager**.</span></span>
+3. <span data-ttu-id="26515-112">เลือก**Contents**\>**การสนับสนุนที่แชร์เนื้อหา**แล้วเปิด**ตัวจัดการส่วนกําหนดค่า Outlook**</span><span class="sxs-lookup"><span data-stu-id="26515-112">Select **Contents** \> **Shared Support**, and then launch **Outlook Profile Manager**.</span></span>

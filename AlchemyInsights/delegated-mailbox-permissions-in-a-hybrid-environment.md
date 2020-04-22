@@ -1,9 +1,9 @@
 ---
-title: กล่องจดหมายที่มอบหมายสิทธิ์ในสภาพแวดล้อมไฮบริดสลี
+title: สิทธิ์กล่องจดหมายที่ได้รับมอบสิทธิ์ในสภาพแวดล้อมไฮบริดสลี
 ms.author: dstrome
 author: dstrome
 manager: dansimp
-ms.date: 5/3/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,14 +12,14 @@ ms.custom:
 - "685"
 - "3500009"
 ms.assetid: 86685ad6-5988-415d-817a-57a75ff17119
-ms.openlocfilehash: bb2b82ab82ae8caaf14bf6fecc9c9f3ebd8f6797
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: a0c6587ea9276b56fd8989b66e581ec99f942f0f
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36514314"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43705068"
 ---
-# <a name="delegated-mailbox-permissions-in-a-hybrid-environment"></a><span data-ttu-id="70f09-102">กล่องจดหมายที่มอบหมายสิทธิ์ในสภาพแวดล้อมไฮบริดสลี</span><span class="sxs-lookup"><span data-stu-id="70f09-102">Delegated mailbox permissions in a hybrid environment</span></span>
+# <a name="delegated-mailbox-permissions-in-a-hybrid-environment"></a><span data-ttu-id="254e2-102">สิทธิ์กล่องจดหมายที่ได้รับมอบสิทธิ์ในสภาพแวดล้อมไฮบริดสลี</span><span class="sxs-lookup"><span data-stu-id="254e2-102">Delegated mailbox permissions in a hybrid environment</span></span>
 
-<span data-ttu-id="70f09-103">ขึ้นอยู่กับรุ่นของอัตราแลกเปลี่ยนที่คุณได้ติดตั้งในองค์กรของคุณในสถานที่ คุณอาจต้องทำตามขั้นตอนบางอย่างเพิ่มเติมเพื่อตั้งค่าการอนุญาตกล่องจดหมายมอบหมายระหว่างในสถานหรือองค์กรของคุณแลกเปลี่ยนแบบออนไลน์ใน Office 365</span><span class="sxs-lookup"><span data-stu-id="70f09-103">Depending on the version of Exchange you have installed in your on-premises organization, you might need to take some extra steps to set up delegated mailbox permissions between your on-premises organization and Exchange Online in Office 365.</span></span> <span data-ttu-id="70f09-104">สำหรับข้อมูลเพิ่มเติมเกี่ยวกับวิธีการตั้งค่าสิทธิ์ที่มอบหมาย ใช้[ตั้งค่าคอนฟิกการแลกเปลี่ยนการสนับสนุนจดหมายมอบหมายสิทธิ์ในการปรับใช้ไฮบริดสลี](https://technet.microsoft.com/library/mt784505%28v=exchg.150%29.aspx)</span><span class="sxs-lookup"><span data-stu-id="70f09-104">For more information about how to set up delegated permissions, take a look at [Configure Exchange to support delegated mailbox permissions in a hybrid deployment](https://technet.microsoft.com/library/mt784505%28v=exchg.150%29.aspx).</span></span>
+<span data-ttu-id="254e2-103">คุณอาจต้องดําเนินการขั้นตอนเพิ่มเติมบางอย่างเพื่อตั้งค่าสิทธิ์กล่องจดหมายที่ได้รับมอบสิทธิ์ระหว่างองค์กรในสถานที่ของคุณและ Exchange Online ใน Microsoft 365 ทั้งนี้ขึ้นอยู่กับรุ่นของ Exchange ที่คุณได้ติดตั้งไว้ในองค์กรในสถานที่ของคุณ</span><span class="sxs-lookup"><span data-stu-id="254e2-103">Depending on the version of Exchange you have installed in your on-premises organization, you might need to take some extra steps to set up delegated mailbox permissions between your on-premises organization and Exchange Online in Microsoft 365.</span></span> <span data-ttu-id="254e2-104">สําหรับข้อมูลเพิ่มเติมเกี่ยวกับวิธีการตั้งค่าสิทธิ์ที่มอบหมาย ให้ดูที่[การตั้งค่าคอนฟิก Exchange เพื่อสนับสนุนสิทธิ์กล่องจดหมายที่ได้รับมอบสิทธิ์ในการปรับใช้ไฮบริดสลี](https://technet.microsoft.com/library/mt784505%28v=exchg.150%29.aspx)</span><span class="sxs-lookup"><span data-stu-id="254e2-104">For more information about how to set up delegated permissions, take a look at [Configure Exchange to support delegated mailbox permissions in a hybrid deployment](https://technet.microsoft.com/library/mt784505%28v=exchg.150%29.aspx).</span></span>
   

@@ -1,5 +1,5 @@
 ---
-title: ลบโดเมน
+title: เอาโดเมนออก
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,16 +11,16 @@ ROBOTS: NOINDEX, NOFOLLOW
 ms.custom:
 - "25"
 - "9"
-ms.openlocfilehash: 77567abf8f7099898568db970ecedf51d9424a51
-ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
+ms.openlocfilehash: 2b50b021c334d5b6cb18ef3b7fd1c9bc215b3a07
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 09/04/2019
-ms.locfileid: "36736560"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43687493"
 ---
-# <a name="trying-to-remove-your-domain"></a><span data-ttu-id="c4543-102">พยายามลบโดเมนของคุณหรือไม่</span><span class="sxs-lookup"><span data-stu-id="c4543-102">Trying to remove your domain?</span></span>
+# <a name="trying-to-remove-your-domain"></a><span data-ttu-id="cc690-102">กําลังพยายามลบโดเมนของคุณใช่ไหม</span><span class="sxs-lookup"><span data-stu-id="cc690-102">Trying to remove your domain?</span></span>
 
-<span data-ttu-id="c4543-103">ทำตามขั้นตอนใน[เอาโดเมนออกจาก Office ๓๖๕](https://docs.microsoft.com/office365/admin/get-help-with-domains/remove-a-domain)</span><span class="sxs-lookup"><span data-stu-id="c4543-103">Follow the steps in [Remove a domain from Office 365](https://docs.microsoft.com/office365/admin/get-help-with-domains/remove-a-domain).</span></span>
+<span data-ttu-id="cc690-103">ทําตามขั้นตอนใน[เอาโดเมนออก](https://docs.microsoft.com/office365/admin/get-help-with-domains/remove-a-domain)</span><span class="sxs-lookup"><span data-stu-id="cc690-103">Follow the steps in [Remove a domain](https://docs.microsoft.com/office365/admin/get-help-with-domains/remove-a-domain).</span></span>
   
-<span data-ttu-id="c4543-104">คุณจะต้องปรับปรุงผู้ใช้หรือกลุ่มใดๆที่กำหนดให้กับชื่อโดเมนนั้นก่อนที่คุณจะเอาโดเมนออก</span><span class="sxs-lookup"><span data-stu-id="c4543-104">You'll have to update any users or groups that are assigned to that domain name before you remove the domain.</span></span> <span data-ttu-id="c4543-105">ตรวจสอบคำ[ถามที่พบบ่อยเกี่ยวกับโดเมน](https://docs.microsoft.com/office365/admin/setup/domains-faq)สำหรับโซลูชันทั่วไปอื่นๆ</span><span class="sxs-lookup"><span data-stu-id="c4543-105">Check the [Domains FAQ](https://docs.microsoft.com/office365/admin/setup/domains-faq) for other common solutions.</span></span>
+<span data-ttu-id="cc690-104">คุณจะต้องอัปเดตผู้ใช้หรือกลุ่มที่กําหนดให้กับชื่อโดเมนนั้นก่อนที่คุณลบโดเมน</span><span class="sxs-lookup"><span data-stu-id="cc690-104">You'll have to update any users or groups that are assigned to that domain name before you remove the domain.</span></span> <span data-ttu-id="cc690-105">ตรวจสอบ[คําถามที่พบบ่อยเกี่ยวกับโดเมน](https://docs.microsoft.com/office365/admin/setup/domains-faq)สําหรับโซลูชันทั่วไปอื่นๆ</span><span class="sxs-lookup"><span data-stu-id="cc690-105">Check the [Domains FAQ](https://docs.microsoft.com/office365/admin/setup/domains-faq) for other common solutions.</span></span>
   

@@ -1,5 +1,5 @@
 ---
-title: เปิดหรือปิดการใช้ร่วมกันภายนอกสำหรับ SharePoint
+title: เปิดหรือปิดการแชร์ภายนอกสําหรับ SharePoint
 ms.author: pebaum
 author: pebaum
 manager: pamgreen
@@ -10,26 +10,26 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: e13940be-483f-46ed-a88c-d36bbaf04ad5
-ms.openlocfilehash: e652fc1ae0a7212f4c7f092fc3b184ef1bc13d0d
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: e39b8525fbcd43ee3778e5f3df9d3576fbd8924f
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40053928"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43692892"
 ---
-# <a name="warning-message-your-organizations-policies-dont-allow-you-to-share-with-these-users"></a><span data-ttu-id="549f3-102">ข้อความเตือน: นโยบายขององค์กรไม่อนุญาตให้คุณแชร์กับผู้ใช้เหล่านี้</span><span class="sxs-lookup"><span data-stu-id="549f3-102">Warning message: Your organization's policies don't allow you to share with these users</span></span>
+# <a name="warning-message-your-organizations-policies-dont-allow-you-to-share-with-these-users"></a><span data-ttu-id="bf05a-102">ข้อความเตือน: นโยบายขององค์กรไม่อนุญาตให้คุณแชร์กับผู้ใช้เหล่านี้</span><span class="sxs-lookup"><span data-stu-id="bf05a-102">Warning message: Your organization's policies don't allow you to share with these users</span></span>
 
-<span data-ttu-id="549f3-103">ผู้ใช้อาจพบข้อความเตือนเมื่อพยายามที่จะใช้ร่วมกับผู้ใช้ภายนอกขององค์กรของคุณ</span><span class="sxs-lookup"><span data-stu-id="549f3-103">Users may experience a warning message when trying to share with external users of your organization.</span></span> <span data-ttu-id="549f3-104">ข้อความนี้เป็น**นโยบายขององค์กรของคุณไม่อนุญาตให้คุณแชร์กับผู้ใช้เหล่านี้ ไปที่การใช้ร่วมกันภายนอกในศูนย์การจัดการ Office ๓๖๕เพื่อให้สามารถทำงานได้**</span><span class="sxs-lookup"><span data-stu-id="549f3-104">The message is **Your organization's policies don't allow you to share with these users. Go to External Sharing in the Office 365 admin center to enable it**.</span></span> <span data-ttu-id="549f3-105">นี้มักจะเกิดขึ้นในครั้งแรกที่พยายามที่จะแบ่งปันกับผู้ใช้ภายนอกหรือเมื่อมีการใช้ร่วมกันกับผู้อื่นภายนอก</span><span class="sxs-lookup"><span data-stu-id="549f3-105">This often happens the first time attempting to share with external users or when sharing with new external users.</span></span>
+<span data-ttu-id="bf05a-103">ผู้ใช้อาจพบข้อความเตือนเมื่อพยายามแชร์กับผู้ใช้ภายนอกขององค์กร</span><span class="sxs-lookup"><span data-stu-id="bf05a-103">Users may experience a warning message when trying to share with external users of your organization.</span></span> <span data-ttu-id="bf05a-104">ข้อความคือ**นโยบายขององค์กรของคุณไม่อนุญาตให้คุณแชร์กับผู้ใช้เหล่านี้ ไปที่ การแชร์ภายนอก ใน ศูนย์การจัดการ Microsoft 365 เพื่อเปิดใช้งาน**</span><span class="sxs-lookup"><span data-stu-id="bf05a-104">The message is **Your organization's policies don't allow you to share with these users. Go to External Sharing in the Microsoft 365 admin center to enable it**.</span></span> <span data-ttu-id="bf05a-105">สิ่งนี้มักเกิดขึ้นเป็นครั้งแรกที่พยายามแชร์กับผู้ใช้ภายนอกหรือเมื่อแชร์กับผู้ใช้ภายนอกใหม่</span><span class="sxs-lookup"><span data-stu-id="bf05a-105">This often happens the first time attempting to share with external users or when sharing with new external users.</span></span>
 
-<span data-ttu-id="549f3-106">ตรวจสอบการ**ตั้งค่าการแชร์ภายนอก SharePoint และ OneDrive**สำหรับองค์กรของคุณ</span><span class="sxs-lookup"><span data-stu-id="549f3-106">Check the **SharePoint and OneDrive External Sharing settings** for your organization.</span></span>
+<span data-ttu-id="bf05a-106">ตรวจสอบ**การตั้งค่า SharePoint และ OneDrive ภายนอกที่ใช้ร่วมกัน**สําหรับองค์กรของคุณ</span><span class="sxs-lookup"><span data-stu-id="bf05a-106">Check the **SharePoint and OneDrive External Sharing settings** for your organization.</span></span>
 
-1. <span data-ttu-id="549f3-107">ใน[ศูนย์การจัดการ Microsoft ๓๖๕](https://admin.microsoft.com/AdminPortal/Home#/homepage">https://admin.microsoft.com/)ของคุณเลือก**SharePoint**</span><span class="sxs-lookup"><span data-stu-id="549f3-107">In your [Microsoft 365 Admin Center](https://admin.microsoft.com/AdminPortal/Home#/homepage">https://admin.microsoft.com/), select **SharePoint**.</span></span>
-3. <span data-ttu-id="549f3-108">เลือกการ**แชร์**เพื่อดูการตั้งค่าการแชร์ภายนอก</span><span class="sxs-lookup"><span data-stu-id="549f3-108">Select **Sharing** to see the External sharing settings.</span></span>
+1. <span data-ttu-id="bf05a-107">ใน[ศูนย์การจัดการ Microsoft 365](https://admin.microsoft.com/AdminPortal/Home#/homepage">https://admin.microsoft.com/)ของคุณ ให้เลือก**SharePoint**</span><span class="sxs-lookup"><span data-stu-id="bf05a-107">In your [Microsoft 365 Admin Center](https://admin.microsoft.com/AdminPortal/Home#/homepage">https://admin.microsoft.com/), select **SharePoint**.</span></span>
+3. <span data-ttu-id="bf05a-108">เลือก**การแชร์**เพื่อดูการตั้งค่าการแชร์ภายนอก</span><span class="sxs-lookup"><span data-stu-id="bf05a-108">Select **Sharing** to see the External sharing settings.</span></span>
 
-<span data-ttu-id="549f3-109">ตรวจสอบการ**ตั้งค่าการแชร์ภายนอก**สำหรับไซต์ที่ระบุ</span><span class="sxs-lookup"><span data-stu-id="549f3-109">Check the **External Sharing settings** for a specific site.</span></span>
+<span data-ttu-id="bf05a-109">ตรวจสอบ**การตั้งค่าการแชร์ภายนอก**สําหรับไซต์ที่ระบุ</span><span class="sxs-lookup"><span data-stu-id="bf05a-109">Check the **External Sharing settings** for a specific site.</span></span>
 
-1. <span data-ttu-id="549f3-110">ใน[ศูนย์การจัดการ Microsoft ๓๖๕](https://admin.microsoft.com/AdminPortal/Home#/homepage">https://admin.microsoft.com/)ของคุณเลือก**SharePoint**</span><span class="sxs-lookup"><span data-stu-id="549f3-110">In your [Microsoft 365 Admin Center](https://admin.microsoft.com/AdminPortal/Home#/homepage">https://admin.microsoft.com/), select **SharePoint**.</span></span>
-2. <span data-ttu-id="549f3-111">เลือก**sites ที่ใช้งานอยู่**เพื่อดูไซต์ของคุณที่พร้อมใช้งาน</span><span class="sxs-lookup"><span data-stu-id="549f3-111">Select **Active Sites** to see your sites that are available.</span></span>
-3. <span data-ttu-id="549f3-112">เลือกไซต์ที่คุณต้องการตรวจสอบแล้วเลือกปุ่ม**แชร์**ที่แสดงในแถบเมนูเพื่อตรวจสอบการตั้งค่าสำหรับไซต์นั้น</span><span class="sxs-lookup"><span data-stu-id="549f3-112">Select the site you want to check, and then select the **Sharing** button that displays in the menu bar to verify the settings for the site.</span></span>
+1. <span data-ttu-id="bf05a-110">ใน[ศูนย์การจัดการ Microsoft 365](https://admin.microsoft.com/AdminPortal/Home#/homepage">https://admin.microsoft.com/)ของคุณ ให้เลือก**SharePoint**</span><span class="sxs-lookup"><span data-stu-id="bf05a-110">In your [Microsoft 365 Admin Center](https://admin.microsoft.com/AdminPortal/Home#/homepage">https://admin.microsoft.com/), select **SharePoint**.</span></span>
+2. <span data-ttu-id="bf05a-111">เลือก**ไซต์ที่ใช้งานอยู่**เพื่อดูไซต์ของคุณที่พร้อมใช้งาน</span><span class="sxs-lookup"><span data-stu-id="bf05a-111">Select **Active Sites** to see your sites that are available.</span></span>
+3. <span data-ttu-id="bf05a-112">เลือกไซต์ที่คุณต้องการตรวจสอบ แล้วเลือกปุ่ม **'การใช้ร่วมกัน**' ที่แสดงในแถบเมนูเพื่อตรวจสอบการตั้งค่าสําหรับไซต์นั้น</span><span class="sxs-lookup"><span data-stu-id="bf05a-112">Select the site you want to check, and then select the **Sharing** button that displays in the menu bar to verify the settings for the site.</span></span>
 
-<span data-ttu-id="549f3-113">สำหรับข้อมูลเพิ่มเติมโปรดดู[ภาพรวมของการแชร์ภายนอก](https://docs.microsoft.com/sharepoint/external-sharing-overview)</span><span class="sxs-lookup"><span data-stu-id="549f3-113">For more information, see [External sharing overview](https://docs.microsoft.com/sharepoint/external-sharing-overview).</span></span>
+<span data-ttu-id="bf05a-113">สําหรับข้อมูลเพิ่มเติม ให้ดูที่[ภาพรวมการแชร์ภายนอก](https://docs.microsoft.com/sharepoint/external-sharing-overview)</span><span class="sxs-lookup"><span data-stu-id="bf05a-113">For more information, see [External sharing overview](https://docs.microsoft.com/sharepoint/external-sharing-overview).</span></span>
