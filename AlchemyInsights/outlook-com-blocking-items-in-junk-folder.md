@@ -1,9 +1,9 @@
 ---
-title: การบล็อกรายการในโฟลเดอร์เมลขยะ
+title: การบล็อกรายการในโฟลเดอร์อีเมลขยะ
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 9/3/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,15 +11,15 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "2682"
-ms.openlocfilehash: a2901c0156fa2ad32f9954cb4e19160ef2404086
-ms.sourcegitcommit: 7398c9d81f00328d1edc515a195d779dd28f1bea
+ms.openlocfilehash: 760f375e722b823f8160ba482214d12d718b6684
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 09/03/2019
-ms.locfileid: "36716174"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43719868"
 ---
-# <a name="blocking-items-in-your-junk-email-folder"></a>การบล็อกรายการในโฟลเดอร์เมลขยะของคุณ
+# <a name="blocking-items-in-your-junk-email-folder"></a>การบล็อกรายการในโฟลเดอร์อีเมลขยะ
 
-การบล็อกรายการที่มีอยู่แล้วในโฟลเดอร์ ' เมลขยะ ' ของคุณจะไม่ถูกลบออก รายการใน[โฟลเดอร์เมลขยะ](https://outlook.live.com/mail/junkemail)ของคุณจะถูกลบออกโดยอัตโนมัติหลังจาก30วัน เลือกรายการในโฟลเดอร์เมลขยะของคุณเพื่อดูว่าเมื่อใดจะถูกลบ
+การบล็อกรายการในโฟลเดอร์อีเมลขยะจะไม่ลบรายการนั้น รายการในโฟลเดอร์[อีเมลขยะ](https://outlook.live.com/mail/junkemail)ของคุณจะถูกลบโดยอัตโนมัติหลังจาก 30 วัน เลือกรายการในโฟลเดอร์อีเมลขยะเพื่อดูว่ารายการนั้นจะถูกลบเมื่อใด
 
-เรียนรู้เพิ่มเติมเกี่ยวกับวิธี[บล็อกผู้ส่งหรือทำเครื่องหมายที่ email เป็นขยะ](https://support.office.com/article/a3ece97b-82f8-4a5e-9ac3-e92fa6427ae4)
+เรียนรู้เพิ่มเติมเกี่ยวกับวิธี[บล็อกผู้ส่ง หรือทําเครื่องหมายอีเมลว่าเป็นขยะ](https://support.office.com/article/a3ece97b-82f8-4a5e-9ac3-e92fa6427ae4)
