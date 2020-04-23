@@ -1,9 +1,9 @@
 ---
-title: การเตรียมการบน Intune
+title: อินทูจูอินทอินบอร์ดอินบอร์ด
 ms.author: mandia
 author: mandia
 manager: dougeby
-ms.date: 11/26/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,13 +12,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "1982"
 - "9000348"
-ms.openlocfilehash: a70a7093041bb8851ff729065969f81ebafcaa88
-ms.sourcegitcommit: e02ecb762949c13af66b734eab962882e0a2ec11
+ms.openlocfilehash: cf5262827d3161e6c78450e89d1daea7d6590a24
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 12/02/2019
-ms.locfileid: "39663636"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43763092"
 ---
-# <a name="intune-insiders-onboarding"></a><span data-ttu-id="9f6f3-102">การเตรียมการบน Intune</span><span class="sxs-lookup"><span data-stu-id="9f6f3-102">Intune Insiders Onboarding</span></span>
+# <a name="intune-insiders-onboarding"></a><span data-ttu-id="e13cd-102">อินทูจูอินทอินบอร์ดอินบอร์ด</span><span class="sxs-lookup"><span data-stu-id="e13cd-102">Intune Insiders Onboarding</span></span>
 
-<span data-ttu-id="9f6f3-103">ขอบคุณที่ให้ความสนใจในโปรแกรม Intune Insider</span><span class="sxs-lookup"><span data-stu-id="9f6f3-103">Thank you for your interest in the Intune Insiders program.</span></span> <span data-ttu-id="9f6f3-104">ในการดำเนินการต่อให้ใช้คำแนะนำในการปฐมนิเทศ Intune Insider PowerPoint</span><span class="sxs-lookup"><span data-stu-id="9f6f3-104">To proceed, use the instructions in the Onboarding Intune Insiders PowerPoint.</span></span>
+<span data-ttu-id="e13cd-103">ขอขอบคุณที่ให้ความสนใจในโปรแกรม Intune Insiders</span><span class="sxs-lookup"><span data-stu-id="e13cd-103">Thank you for your interest in the Intune Insiders program.</span></span> <span data-ttu-id="e13cd-104">เมื่อต้องการดําเนินการต่อ ให้ใช้คําแนะนําใน Intune Intune Insider PowerPoint</span><span class="sxs-lookup"><span data-stu-id="e13cd-104">To proceed, use the instructions in the Onboarding Intune Insiders PowerPoint.</span></span>

@@ -1,24 +1,24 @@
 ---
-title: 9000071 ไม่สามารถพิมพ์สัญลักษณ์บน Mac @
+title: 9000071 ไม่สามารถพิมพ์สัญลักษณ์ @ บน Mac
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 2/28/19
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 9000071
-ms.openlocfilehash: 3bc9915516b268ba8175907bec3a8530351f9f40
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 0d252d547757b3bf25dc4f71cf478119f32883be
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36537498"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43746502"
 ---
-# <a name="how-to-type-special-characters-on-a-mac"></a><span data-ttu-id="bee47-102">วิธีการพิมพ์อักขระพิเศษบน Mac เป็น</span><span class="sxs-lookup"><span data-stu-id="bee47-102">How to type special characters on a Mac</span></span>
+# <a name="how-to-type-special-characters-on-a-mac"></a><span data-ttu-id="617ed-102">วิธีการพิมพ์อักขระพิเศษบน Mac</span><span class="sxs-lookup"><span data-stu-id="617ed-102">How to type special characters on a Mac</span></span>
 
-<span data-ttu-id="bee47-103">เมื่อต้องการพิมพ์อักขระพิเศษบน Mac ของคุณ ให้เปิดเมนู**อักขระพิเศษ**กับแป้นพิมพ์ลัด⌘**คำสั่ง** + **ควบคุม** + **ช่องว่าง**</span><span class="sxs-lookup"><span data-stu-id="bee47-103">To type special characters on your Mac, open the **Special characters** menu with the keyboard shortcut ⌘ **Command** + **Control** + **Space**.</span></span>
+<span data-ttu-id="617ed-103">หากต้องการพิมพ์อักขระพิเศษบน Mac ของคุณ ให้เปิดเมนู**อักขระพิเศษ**ที่มีแป้นพิมพ์ลัด ⌘**พื้นที่\*\*\*\*ควบคุม** + **คําสั่ง** + </span><span class="sxs-lookup"><span data-stu-id="617ed-103">To type special characters on your Mac, open the **Special characters** menu with the keyboard shortcut ⌘ **Command** + **Control** + **Space**.</span></span>
 
-<span data-ttu-id="bee47-104">นอกจากนี้ยังมีทางลัดด่วนสำหรับ@ **ALT** + **64**</span><span class="sxs-lookup"><span data-stu-id="bee47-104">A quick shortcut for @ is also **ALT** + **64**.</span></span>
+<span data-ttu-id="617ed-104">ทางลัดด่วนสําหรับ @ เป็น**ALT** + **64**</span><span class="sxs-lookup"><span data-stu-id="617ed-104">A quick shortcut for @ is also **ALT** + **64**.</span></span>
