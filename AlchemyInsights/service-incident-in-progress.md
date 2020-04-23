@@ -1,8 +1,8 @@
 ---
-title: เหตุการณ์การบริการอยู่ระหว่างดำเนินการ
+title: อยู่ระหว่างดําเนินการเหตุการณ์การบริการ
 ms.author: v-crytho
 author: CrystalThomasMS
-ms.date: 9/19/2017
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,19 +11,19 @@ ms.assetid: 724f662c-50f0-456a-925a-2ab840a50cd3
 ms.custom:
 - "118"
 - "1600016"
-ms.openlocfilehash: da75945ecfbcfab41095b5903b1787f7ce38d685
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 8f3cc2d96e981edf4f573d4a5c2ceb9750d11367
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36550282"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43719629"
 ---
-# <a name="service-incident-in-progress"></a><span data-ttu-id="adfb8-102">เหตุการณ์การบริการอยู่ระหว่างดำเนินการ</span><span class="sxs-lookup"><span data-stu-id="adfb8-102">Service Incident in progress</span></span>
+# <a name="service-incident-in-progress"></a><span data-ttu-id="25c98-102">อยู่ระหว่างดําเนินการเหตุการณ์การบริการ</span><span class="sxs-lookup"><span data-stu-id="25c98-102">Service Incident in progress</span></span>
 
-<span data-ttu-id="adfb8-103">คุณอาจได้รับผลจากปัญหาการบริการ หรือคำแนะนำที่มีอยู่ในขณะนี้กำลังตรวจสอบ</span><span class="sxs-lookup"><span data-stu-id="adfb8-103">You might be affected by a service incident or advisory that is currently being investigated.</span></span> <span data-ttu-id="adfb8-104">คุณสามารถตรวจสอบสถานะล่าสุดไปยังหน้าการ[บริการสุขภาพ](https://admin.microsoft.com/adminportal/home#/servicehealth)</span><span class="sxs-lookup"><span data-stu-id="adfb8-104">You can check the latest status by going to the [Service Health](https://admin.microsoft.com/adminportal/home#/servicehealth) page.</span></span>
+<span data-ttu-id="25c98-103">คุณอาจได้รับผลกระทบจากเหตุการณ์การบริการหรือคําแนะนําที่กําลังถูกตรวจสอบ</span><span class="sxs-lookup"><span data-stu-id="25c98-103">You might be affected by a service incident or advisory that is currently being investigated.</span></span> <span data-ttu-id="25c98-104">คุณสามารถตรวจสอบสถานะล่าสุดได้โดยไปที่หน้า[ความสมบูรณ์ของบริการ](https://admin.microsoft.com/adminportal/home#/servicehealth)</span><span class="sxs-lookup"><span data-stu-id="25c98-104">You can check the latest status by going to the [Service Health](https://admin.microsoft.com/adminportal/home#/servicehealth) page.</span></span>
   
-<span data-ttu-id="adfb8-105">เพื่อความสะดวกของคุณ คุณสามารถค้นหาบทสรุปของเหตุการณ์นี้ด้านล่าง:</span><span class="sxs-lookup"><span data-stu-id="adfb8-105">For your convenience, you can find a summary of this incident below:</span></span>
+<span data-ttu-id="25c98-105">เพื่อความสะดวกของคุณ, คุณสามารถหาสรุปของเหตุการณ์นี้ด้านล่าง:</span><span class="sxs-lookup"><span data-stu-id="25c98-105">For your convenience, you can find a summary of this incident below:</span></span>
   
-> <span data-ttu-id="adfb8-106">**หมายเลขการแก้ไขปัญหา:** [{IncidentId }](https://admin.microsoft.com/adminportal/home#/servicehealth)</span><span class="sxs-lookup"><span data-stu-id="adfb8-106">**Incident number:**[{IncidentId}](https://admin.microsoft.com/adminportal/home#/servicehealth)</span></span>
+> <span data-ttu-id="25c98-106">**หมายเลขเหตุการณ์:**[{IncidentId}](https://admin.microsoft.com/adminportal/home#/servicehealth)</span><span class="sxs-lookup"><span data-stu-id="25c98-106">**Incident number:**[{IncidentId}](https://admin.microsoft.com/adminportal/home#/servicehealth)</span></span>
 
-> <span data-ttu-id="adfb8-107">มีผลกระทบต่อคำอธิบาย: {ImpactDescription }</span><span class="sxs-lookup"><span data-stu-id="adfb8-107">Impact description: {ImpactDescription}</span></span>
+> <span data-ttu-id="25c98-107">คําอธิบายผลกระทบ: {ImpactDescription}</span><span class="sxs-lookup"><span data-stu-id="25c98-107">Impact description: {ImpactDescription}</span></span>
