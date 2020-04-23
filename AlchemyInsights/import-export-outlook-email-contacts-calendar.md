@@ -1,9 +1,9 @@
 ---
-title: 1221-import-export-outlook-email-contacts-calendar
+title: 1221-นําเข้าส่งออก-outlook-อีเมลที่ติดต่อ-ปฏิทิน
 ms.author: markjjo
 author: markjjo
 manager: lauraw
-ms.date: ''
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,21 +13,21 @@ ms.custom:
 - "1221"
 - "1800027"
 ms.assetid: ''
-ms.openlocfilehash: 14bfc62c75e0bb2eb22ffb7052762c6350ad73e0
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: c795bdd5bd294be8a1415fc0d2fd1e97e02db7ab
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36545202"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43724683"
 ---
-# <a name="import-and-export-outlook-email-contacts-and-calendar-items"></a>นำเข้า และส่ง ออก Outlook อีเมล ผู้ติดต่อ รายการปฏิทิน
+# <a name="import-and-export-outlook-email-contacts-and-calendar-items"></a>นําเข้าและส่งออกอีเมล ที่ติดต่อ และรายการปฏิทิน Outlook
 
-1. ใน Outlook คลิก**แฟ้ม**
+1. ใน Outlook ให้คลิก**ไฟล์**
 
-2. คลิก**เปิด & ส่งออก**แล้ว คลิ ก**นำเข้า/ส่งออก**
+2. คลิก**เปิด& ส่งออก**แล้วคลิก**นําเข้า/ส่งออก**
 
-    การเริ่มต้นตัวช่วยสร้างการนำเข้าและส่งออก
+    ซึ่งจะเริ่มตัวช่วยสร้างการนําเข้าและส่งออก
 
-สมบูรณ์สำหรับการตั้งค่าของการนำเข้า และส่งออกคำแนะนำสำหรับ Outlook ดู[บทความนี้](https://support.office.com/article/import-and-export-outlook-email-contacts-and-calendar-92577192-3881-4502-b79d-c3bbada6c8ef)
+สําหรับชุดคําสั่งการนําเข้าและส่งออกสําหรับ Outlook ทั้งหมด ให้ดูที่[บทความนี้](https://support.office.com/article/import-and-export-outlook-email-contacts-and-calendar-92577192-3881-4502-b79d-c3bbada6c8ef)
 
-ถ้าคุณเป็นผู้ดูแล และต้องการนำเข้าแบบกลุ่มหลายแฟ้ม PST ไปที่กล่องจดหมาย Office 365 ดู[บทความนี้](https://docs.microsoft.com/office365/securitycompliance/use-network-upload-to-import-pst-files)
+ถ้าคุณเป็นผู้ดูแลและต้องการนําเข้าแฟ้ม PST จํานวนมากไปยังกล่องจดหมาย Microsoft 365 ให้ดู[บทความนี้](https://docs.microsoft.com/office365/securitycompliance/use-network-upload-to-import-pst-files)

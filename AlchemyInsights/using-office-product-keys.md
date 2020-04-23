@@ -1,9 +1,9 @@
 ---
-title: การใช้คีย์ผลิตภัณฑ์ของ Office
+title: การใช้คีย์ผลิตภัณฑ์ Office
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
-ms.date: 2/13/2020
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,22 +12,22 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001421"
 - "3550"
-ms.openlocfilehash: ecb878d6975710aa523c46f2f04cea1ba99faeee
-ms.sourcegitcommit: 8deddd8518bf793925628fcab7851daec99a7f2f
+ms.openlocfilehash: ab047d95a9c448900b3c4ae8ac7e7c5f30aed28e
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 02/15/2020
-ms.locfileid: "42033934"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43726086"
 ---
-# <a name="using-office-product-keys"></a>การใช้คีย์ผลิตภัณฑ์ของ Office
+# <a name="using-office-product-keys"></a>การใช้คีย์ผลิตภัณฑ์ Office
 
-**คีย์ผลิตภัณฑ์ของ Office**
+**คีย์ผลิตภัณฑ์สํานักงาน**
 
-- หากการซื้อ Office ของคุณมาพร้อมกับหมายเลขผลิตภัณฑ์ให้ดู[ที่การป้อนหมายเลขผลิตภัณฑ์ Office ของคุณ](https://support.office.com/en-us/article/Where-to-enter-your-Office-product-key-0a82e5ae-739e-4b92-a6f4-2ec780c185db)
+- ถ้า Office ของคุณซื้อมาพร้อมกับคีย์ผลิตภัณฑ์ ให้ดูที่[ตําแหน่งที่จะใส่คีย์ผลิตภัณฑ์ Office ของคุณ](https://support.office.com/article/Where-to-enter-your-Office-product-key-0a82e5ae-739e-4b92-a6f4-2ec780c185db)
 
-- สำหรับความช่วยเหลือเกี่ยวกับ Office ๓๖๕บ้านหรือหมายเลขผลิตภัณฑ์ส่วนบุคคลให้ดู[ที่การใช้คีย์ผลิตภัณฑ์กับ Office](https://support.office.com/en-US/article/using-product-keys-with-office-12a5763a-d45c-4685-8c95-a44500213759)
+- สําหรับความช่วยเหลือเกี่ยวกับ Office 365 Home หรือคีย์ผลิตภัณฑ์ส่วนบุคคล ให้ดูที่[การใช้คีย์ผลิตภัณฑ์กับ Office](https://support.office.com/article/using-product-keys-with-office-12a5763a-d45c-4685-8c95-a44500213759)
 
-**การเปิดใช้งานการสมัครสมาชิก Office** 
-- ถ้าคุณซื้อการสมัครใช้งาน Office ๓๖๕จากร้านค้าปลีกโปรดดูที่[ป้อนหมายเลขผลิตภัณฑ์ของคุณสำหรับ Office ๓๖๕พรีเมี่ยมสำหรับธุรกิจ](https://docs.microsoft.com/en-gb/office365/admin/misc/enter-your-product-key?redirectSourcePath=%252farticle%252f0199dd39-7c46-4875-af9b-588df3a9afea&view=o365-worldwide)
+**การเปิดใช้งานการสมัครใช้งาน Office** 
+- ถ้าคุณซื้อการสมัครใช้งาน Microsoft 365 จากร้านค้าปลีก ให้ดูที่[ป้อนหมายเลขผลิตภัณฑ์ของคุณสําหรับแอป Microsoft 365 สําหรับธุรกิจพรีเมียม](https://docs.microsoft.com/office365/admin/misc/enter-your-product-key?redirectSourcePath=%252farticle%252f0199dd39-7c46-4875-af9b-588df3a9afea&view=o365-worldwide)
 
-- ถ้ามีข้อผิดพลาดเมื่อคุณพยายามที่จะแลกใช้หมายเลขผลิตภัณฑ์ให้ดู[ที่ปัญหาเกี่ยวกับ Office ๓๖๕สำหรับหมายเลขผลิตภัณฑ์ของธุรกิจหรือไม่](https://docs.microsoft.com/en-gb/office365/admin/misc/product-key-errors-and-solutions?view=o365-worldwide)
+- หากมีข้อความแสดงข้อผิดพลาดเมื่อคุณพยายามจะแลกใช้คีย์ผลิตภัณฑ์ ให้ดูที่[ปัญหาเกี่ยวกับคีย์ผลิตภัณฑ์ของ Microsoft 365 สําหรับธุรกิจใช่หรือไม่](https://docs.microsoft.com/office365/admin/misc/product-key-errors-and-solutions?view=o365-worldwide)

@@ -2,7 +2,7 @@
 title: ถอนการติดตั้ง Office
 ms.author: janellem
 author: janellem
-ms.date: 1/17/2019
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ms.prod: office-online-server
@@ -12,25 +12,25 @@ ms.custom:
 - "937"
 - "2000023"
 ms.assetid: 6d728dd5-4b98-4bc3-a866-c0ec82779b6b
-description: ขั้นตอนด้านล่างนี้อธิบายวิธีการถอนการติดตั้ง Office ออกจากพีซี
-ms.openlocfilehash: a9d7b9b4239eeff76cb6934184224a2bcb5b98d3
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+description: ขั้นตอนด้านล่างจะอธิบายวิธีถอนการติดตั้ง Office จากพีซี
+ms.openlocfilehash: 1b7475b5a1f6f926bd854e41a5d14cfc22b752c9
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36558456"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43731347"
 ---
 # <a name="uninstall-office"></a>ถอนการติดตั้ง Office
 
-ดาวน์โหลด และติดตั้งการ[สนับสนุนและผู้ช่วยกู้คืน](https://aka.ms/SARA-OfficeUninstall-Alchemy)
+ดาวน์โหลดและติดตั้ง[ผู้ช่วยสนับสนุนและการกู้คืน](https://aka.ms/SARA-OfficeUninstall-Alchemy)
   
-1. เมื่อเปิด จาก**ผลิตภัณฑ์การถอนการติดตั้ง Office**ให้เลือกรุ่นคุณต้องการถอนการติดตั้ง และเลือก**ถัดไป**
+1. เมื่อเปิดขึ้น จาก**ถอนการติดตั้งผลิตภัณฑ์ Office**ให้เลือกเวอร์ชันที่คุณต้องการถอนการติดตั้ง แล้วเลือก**ถัดไป**
 
-2. ดำเนินต่อผ่านหน้าจอ และรีสตาร์ทเครื่องคอมพิวเตอร์เมื่อได้รับพร้อมท์
+2. ดําเนินการต่อผ่านหน้าจอและรีสตาร์ทเครื่องคอมพิวเตอร์ของคุณเมื่อได้รับพร้อมท์
 
-    หลังจากเริ่มการทำงาน การสนับสนุนและผู้ช่วยกู้คืนอีกครั้งเปิดโดยอัตโนมัติเพื่อให้การถอนการติดตั้งเสร็จสมบูรณ์
+    หลังจากเริ่มการทํางานใหม่
 
-3. ทำตามขั้นที่เหลือพร้อมต์ และ[ติดตั้ง Office](https://portal.office.com/OLS/MySoftware.aspx)หรือปิดผู้ช่วย
+3. ทําตามพร้อมท์ที่เหลือ และติดตั้ง[Office](https://portal.office.com/OLS/MySoftware.aspx)ใหม่ หรือปิดผู้ช่วย
 
-สำหรับรายการของตัวเลือกถอนการติดตั้งอื่น ๆ เลือก[ถอนการติดตั้ง Office จากพีซี](https://support.office.com/article/9dd49b83-264a-477a-8fcc-2fdf5dbf61d8?wt.mc_id=Alchemy_ClientDIA)
+สําหรับรายการของตัวเลือกการถอนการติดตั้งอื่นๆ ให้เลือก[ถอนการติดตั้ง Office จากพีซี](https://support.office.com/article/9dd49b83-264a-477a-8fcc-2fdf5dbf61d8?wt.mc_id=Alchemy_ClientDIA)
   

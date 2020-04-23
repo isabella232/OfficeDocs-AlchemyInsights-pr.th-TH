@@ -1,9 +1,9 @@
 ---
-title: วิธีการระบุค่าธรรมเนียมบัตรเครดิตหรือใบแจ้งยอดจากธนาคารของคุณ
+title: วิธีระบุการเรียกเก็บเงินในบัตรเครดิตหรือใบแจ้งยอดบัญชีธนาคารของคุณ
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
-ms.date: 2/28/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -14,17 +14,17 @@ ms.custom:
 - "1960"
 - "1500019"
 ms.assetid: db7b34b7-0843-4f4b-9222-bfb998b860df
-ms.openlocfilehash: 9b3c6f04a505da6b2737a486ed02c97aa6152504
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: b2935f673f93f575c6e658d693b4c24d30445a0d
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36540632"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43724393"
 ---
-# <a name="how-to-identify-a-charge-on-your-credit-card-or-bank-statement"></a>วิธีการระบุค่าธรรมเนียมบัตรเครดิตหรือใบแจ้งยอดจากธนาคารของคุณ
+# <a name="how-to-identify-a-charge-on-your-credit-card-or-bank-statement"></a>วิธีระบุการเรียกเก็บเงินในบัตรเครดิตหรือใบแจ้งยอดบัญชีธนาคารของคุณ
 
-คำอธิบายค่าธรรมเนียมสำหรับการบอกรับเป็นสมาชิก Office 365 มีลักษณะดังนี้:
+คําอธิบายเกี่ยวกับค่าธรรมเนียมสําหรับการสมัครใช้งาน Microsoft 365 มีลักษณะดังนี้
   
-MSFT \* WA 0000 - MSBILL.INFO, E012345ABC
+MSFT \* E012345ABC 0000 - MSBILL.INFO, WA
   
-สายอักขระตัวเลขพยัญชนะอักขระ 10 ต่อ MSFT\*คือหมายเลขใบแจ้งหนี้ค่าธรรมเนียมที่เกี่ยวข้องกับงาน เมื่อต้องการค้นหาใบแจ้งหนี้ ไป**การเรียกเก็บเงิน**\>หน้า[ตั๋ว & ชำระ](https://go.microsoft.com/fwlink/p/?linkid=848039)เมื่อต้องการดูใบแจ้งหนี้ล่าสุดของคุณ หมายเลขใบแจ้งหนี้อยู่ใกล้มุมบนขวาของเอกสารใบแจ้งหนี้
+สตริงตัวเลขและตัวอักษร 10 ตัวตามด้วย\*MSFT คือ หมายเลขใบแจ้งหนี้ค่าธรรมเนียมที่เกี่ยวข้อง หากต้องการค้นหาใบแจ้งหนี้ ให้ไปที่หน้า\>[ใบเรียกเก็บเงิน&การชําระเงิน](https://go.microsoft.com/fwlink/p/?linkid=848039)เพื่อดูใบแจ้งหนี้ล่าสุดของคุณ**Billing** หมายเลขใบแจ้งหนี้อยู่ใกล้กับมุมขวาของเอกสารใบแจ้งหนี้

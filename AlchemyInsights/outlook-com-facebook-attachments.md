@@ -1,9 +1,9 @@
 ---
-title: การสมัครรับข้อมูลทางเม Outlook.com
+title: Outlook.comการสมัครรับอีเมล
 ms.author: lpyfer
 author: lpyfer
 manager: joallard
-ms.date: 11/14/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "3158"
 - "9001198"
-ms.openlocfilehash: c07e1af1f1559b06515cdb65ca3c40c58bdb7216
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: f802c3fb16decad593cf79ebb20561f61f0931ae
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "38645671"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43723550"
 ---
-# <a name="unable-to-attach-or-upload-files-from-facebook"></a>ไม่สามารถแนบหรืออัปโหลดไฟล์จาก Facebook ได้
+# <a name="unable-to-attach-or-upload-files-from-facebook"></a>ไม่สามารถแนบหรืออัพโหลดไฟล์จาก Facebook
 
-เนื่องจากการเปลี่ยนแปลงข้อกำหนดและเงื่อนไขของ Facebook หลังจากวันที่23ตุลาคม๒๐๑๙คุณจะไม่สามารถอัปโหลดไฟล์แนบได้โดยตรงจาก Facebook และ Facebook จะไม่ปรากฏในรายการตำแหน่งที่ตั้งระบบคลาวด์ของคุณอีกต่อไป 
+เนื่องจากการเปลี่ยนแปลงข้อกําหนดและเงื่อนไขของ Facebook หลังจากวันที่ 23 ตุลาคม 2019 คุณจะไม่สามารถอัปโหลดไฟล์แนบโดยตรงจาก Facebook ได้อีกต่อไป Facebook และ Facebook จะไม่ปรากฏในรายการตําแหน่งที่ตั้งระบบคลาวด์ของคุณอีกต่อไป 
 
-คุณสามารถจัดการรายการของตำแหน่งที่ตั้งบนคลาวด์อื่นๆใน[บัญชีการจัดเก็บข้อมูล](https://go.microsoft.com/fwlink/?linkid=2111075)ของคุณได้
+คุณสามารถจัดการรายการตําแหน่งที่ตั้งคลาวด์อื่นๆ ในบัญชี[พื้นที่จัดเก็บ](https://go.microsoft.com/fwlink/?linkid=2111075)ข้อมูลของคุณ
 
-เรียนรู้เพิ่มเติมเกี่ยวกับ[บัญชีการจัดเก็บ](https://support.office.com/article/477cb7cc-5732-4c40-8f23-30472de8138a)
+เรียนรู้เพิ่มเติมเกี่ยวกับ[บัญชีพื้นที่เก็บข้อมูล](https://support.office.com/article/477cb7cc-5732-4c40-8f23-30472de8138a)
   
