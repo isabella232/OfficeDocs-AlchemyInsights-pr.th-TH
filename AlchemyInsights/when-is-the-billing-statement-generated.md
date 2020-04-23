@@ -1,9 +1,9 @@
 ---
-title: เมื่อมีการสร้างขึ้นคำสั่งเรียกเก็บเงิน
+title: ใบแจ้งยอดการเรียกเก็บเงินถูกสร้างขึ้นเมื่อใด
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
-ms.date: 2/28/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,15 +13,15 @@ ms.custom:
 - "494"
 - "1500024"
 ms.assetid: fdbd403f-49d0-4934-9bed-1c67335f2522
-ms.openlocfilehash: 15ffb86313b4dbb6fb0ea839cccb079e8cf221eb
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 0b6fda6245b66d938b21d7513229691e8161e7ae
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36530901"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43759387"
 ---
-# <a name="when-is-the-billing-statement-generated"></a>เมื่อมีการสร้างขึ้นคำสั่งเรียกเก็บเงิน
+# <a name="when-is-the-billing-statement-generated"></a>ใบแจ้งยอดการเรียกเก็บเงินสร้างขึ้นเมื่อใด
 
-แต่ละเดือนคุณจะได้รับอีเมลซึ่งบอกคุณว่า ใบแจ้งยอดที่เรียกเก็บเงินของคุณใหม่จะพร้อมใช้งานใน Microsoft 365 admin ศูนย์ ใบแจ้งหนี้ของคุณประกอบด้วยสองหน้า หน้า 1 เป็นใบแจ้งหนี้สรุป และประกอบด้วยข้อมูลทั่วไปเกี่ยวกับใบแจ้งหนี้ ใบสั่ง ยอดเงินที่ครบกำหนด วิธีการชำระเงิน และวิธีการติดต่อฝ่ายสนับสนุน 2 หน้าประกอบด้วยรายละเอียดเกี่ยวกับกิจกรรมการเรียกเก็บเงินสำหรับแต่ละการบอกรับเป็นสมาชิก
+ในแต่ละเดือนคุณจะได้รับอีเมลที่แจ้งว่าใบแจ้งยอดการเรียกเก็บเงินใหม่ของคุณพร้อมใช้งานในศูนย์การจัดการ Microsoft 365 ใบแจ้งหนี้ของคุณมีสองหน้า หน้า 1 คือสรุปใบแจ้งหนี้ และประกอบด้วยข้อมูลทั่วไปเกี่ยวกับใบแจ้งหนี้ ใบสั่ง ยอดเงินที่ครบกําหนด วิธีการชําระเงิน และวิธีการติดต่อฝ่ายสนับสนุน หน้า 2 มีรายละเอียดเกี่ยวกับกิจกรรมการเรียกเก็บเงินสําหรับการสมัครใช้งานแต่ละรายการ
   
-เมื่อต้องการเรียนรู้เพิ่มเติมเกี่ยวกับแนวคิดที่เรียกเก็บเงิน ดู[Understand ใบแจ้งหนี้ของคุณ](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/understand-your-invoice)
+เมื่อต้องการเรียนรู้เพิ่มเติมเกี่ยวกับแนวคิดการเรียกเก็บเงิน ให้ดูที่[ทําความเข้าใจเกี่ยวกับใบแจ้งหนี้ของคุณ](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/understand-your-invoice)

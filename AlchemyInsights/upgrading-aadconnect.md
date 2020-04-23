@@ -1,9 +1,9 @@
 ---
-title: AADConnect การปรับรุ่น 932
+title: "932"
 ms.author: chrisda
 author: chrisda
 manager: dansimp
-ms.date: 6/8/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,23 +12,23 @@ ms.custom:
 - "932"
 - "1300025"
 ms.assetid: 8f43f36c-9722-43a4-b0de-c5341c06dac5
-ms.openlocfilehash: ff3f74348599788edd8ce0991fe49bb6a54b55af
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: fcc5fddb5cfd15407d0533449035317d187931ed
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36506102"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43766512"
 ---
-# <a name="upgrade-azure-ad-connect"></a>การเชื่อมต่อ Azure AD การปรับรุ่น
+# <a name="upgrade-azure-ad-connect"></a>ปรับรุ่นการเชื่อมต่อ AZURE AD
 
-โดยค่าเริ่มต้น การอัพเกรดอัตโนมัติถูกเปิดใช้งานสำหรับการเชื่อมต่อ AD Azure ซึ่งช่วยให้แน่ใจว่าคุณกำลังเรียกใช้รุ่นล่าสุด เมื่อต้องการตรวจสอบการตั้งค่าการปรับรุ่นอัตโนมัติ ใช้ cmdlet การ**ADSyncAutoUpgrade รับ**ใน PowerShell โฆษณา Azure Cmdlet นี้จะส่งกลับค่าหนึ่งค่าต่อไปนี้:
+โดยค่าเริ่มต้น การปรับรุ่นอัตโนมัติถูกเปิดใช้งานสําหรับ Azure AD Connect ซึ่งช่วยให้คุณมั่นใจว่าคุณกําลังเรียกใช้รุ่นล่าสุด เมื่อต้องการตรวจสอบการตั้งค่าการปรับรุ่นอัตโนมัติ**Get-ADSyncAutoUpgrade** cmdlet จะส่งกลับค่าต่อไปนี้อย่างใดอย่างหนึ่ง:
 
-- **เปิดการใช้งาน**: เปิดใช้งานการปรับรุ่นโดยอัตโนมัติ
+- **เปิดใช้งาน**: เปิดใช้งานการปรับรุ่นอัตโนมัติ
 
-- **ปิดการใช้งาน**: การอัพเกรดอัตโนมัติถูกปิดใช้งาน
+- **ปิดใช้งาน**: การปรับรุ่นอัตโนมัติถูกปิดใช้งาน
 
-- **ระงับ**: ระบบไม่มีสิทธิ์ได้รับการปรับรุ่นโดยอัตโนมัติ คุณไม่สามารถกำหนดค่านี้ จะถูกกำหนด โดยระบบ
+- **ระงับ :** ระบบไม่มีสิทธิ์รับการอัพเกรดอัตโนมัติอีกต่อไป คุณไม่สามารถกําหนดค่านี้ได้ มันตั้งค่าโดยระบบ
 
-สำหรับข้อมูลเพิ่มเติม ดู[การอัพเกรดโดยอัตโนมัติ](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-feature-automatic-upgrade)
+สําหรับข้อมูลเพิ่มเติม ให้ดูที่[การอัพเกรดอัตโนมัติ](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-feature-automatic-upgrade)
 
-เมื่อต้องการดาวน์โหลดรุ่นล่าสุดของการเชื่อมต่อ AD Azure ไป[https://www.microsoft.com/download/details.aspx?id=47594](https://www.microsoft.com/download/details.aspx?id=47594)
+เมื่อต้องการดาวน์โหลดการเชื่อมต่อ AD Azure รุ่นล่าสุด ให้ไปที่[https://www.microsoft.com/download/details.aspx?id=47594](https://www.microsoft.com/download/details.aspx?id=47594)

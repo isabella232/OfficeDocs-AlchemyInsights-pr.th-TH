@@ -3,7 +3,7 @@ title: คืนค่าไซต์ OneDrive ที่ถูกลบ
 ms.author: v-miegge
 author: v-miegge
 manager: v-cojank
-ms.date: 10/31/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,19 +13,19 @@ ms.custom:
 - "3174"
 - "9000210"
 ms.assetid: ''
-ms.openlocfilehash: 822c7462bc0cbcd5cbcb4041aa93fd47e7a4c70e
-ms.sourcegitcommit: fc2357059b6126b2ae3571baeec1ee89a5d36bdd
+ms.openlocfilehash: 151cd3f6fc0be241e689ec9cfe84b437d53529ed
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 11/01/2019
-ms.locfileid: "37913742"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43764639"
 ---
 # <a name="restore-a-deleted-onedrive-site"></a>คืนค่าไซต์ OneDrive ที่ถูกลบ
 
-เมื่อคุณลบผู้ใช้ในศูนย์ดูแล Microsoft ๓๖๕ (หรือเมื่อผู้ใช้ถูกเอาออกผ่านการซิงโครไนส์ไดเรกทอรีที่ใช้งานอยู่), OneDrive ของผู้ใช้จะถูกเก็บไว้สำหรับจำนวนวันที่คุณระบุในศูนย์กลางการจัดการ OneDrive (สำหรับข้อมูลโปรดดู[ที่การตั้งค่าการเก็บรักษาไฟล์เริ่มต้นสำหรับผู้ใช้ OneDrive ที่ถูกลบ](https://docs.microsoft.com/onedrive/set-retention))
+เมื่อคุณลบผู้ใช้ในศูนย์การจัดการ Microsoft 365 (หรือเมื่อผู้ใช้ถูกเอาออกผ่านการซิงโครไนส์ของ Active Directory) OneDrive ของผู้ใช้จะถูกเก็บรักษาไว้สําหรับจํานวนวันที่คุณระบุไว้ในศูนย์การจัดการ OneDrive (สําหรับข้อมูล ให้ดูที่[ตั้งค่าการเก็บรักษาแฟ้มเริ่มต้นสําหรับผู้ใช้ OneDrive ที่ถูกลบ](https://docs.microsoft.com/onedrive/set-retention))
 
 * [คืนค่าไซต์ OneDrive ที่ถูกลบ](https://docs.microsoft.com/onedrive/restore-deleted-onedrive)
 
-ถ้าจำนวนมากของไฟล์ OneDrive ของคุณได้รับการลบ, เขียนทับ, เสียหาย, หรือติดเชื้อโดยมัลแวร์, คุณสามารถคืนค่า OneDrive ทั้งหมดของคุณไปเป็นครั้งก่อนหน้า.
+ถ้าไฟล์ OneDrive จํานวนมากถูกลบ เขียนทับ เสียหาย หรือติดไวรัสโดยมัลแวร์ คุณสามารถคืนค่า OneDrive ทั้งหมดของคุณไปยังเวลาก่อนหน้าได้
 
-* [กู้คืน OneDrive ของคุณ](https://support.office.com/article/Restore-your-OneDrive-fa231298-759d-41cf-bcd0-25ac53eb8a15)
+* [คืนค่าวันไดรฟ์ของคุณ](https://support.office.com/article/Restore-your-OneDrive-fa231298-759d-41cf-bcd0-25ac53eb8a15)

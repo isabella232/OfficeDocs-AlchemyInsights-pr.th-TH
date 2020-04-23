@@ -1,9 +1,9 @@
 ---
-title: 1488-perform-eDiscovery-and-content-searches
+title: 1488-ดําเนินการ-eDiscovery และเนื้อหาการค้นหา
 ms.author: markjjo
 author: markjjo
 manager: lauraw
-ms.date: ''
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,25 +13,25 @@ ms.custom:
 - "1488"
 - "3200003"
 ms.assetid: ''
-ms.openlocfilehash: 15f5a26c34e32d1f77b73d57e9518b1bb1e68320
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 561a27cc71b6eec918acc2fac911f8b3b18fd097
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36555252"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43764747"
 ---
-# <a name="how-to-perform-content-searches-and-ediscovery-searches"></a>วิธีการดำเนินการค้นหาเนื้อหาและการค้นหา eDiscovery
+# <a name="how-to-perform-content-searches-and-ediscovery-searches"></a>วิธีการดําเนินการค้นหาเนื้อหาและการค้นหา eDiscovery
 
-ใช้เครื่องมือค้นหาเนื้อหาใน & ความปลอดภัยศูนย์การปฏิบัติตามกฎระเบียบเพื่อค้นหาอีเมลในกล่องจดหมาย Exchange เอกสารในไซต์ SharePoint และบัญชี OneDrive และการโต้ตอบแบบทันทีที่ส่งข้อความการสนทนาใน Skype สำหรับธุรกิจ นอกจากนี้คุณสามารถใช้เครื่องมือค้นหาเนื้อหาต้องการค้นหาอีเมล เอกสาร และการสนทนาที่ส่งข้อความโต้ตอบแบบทันทีในเครื่องมือทำงานร่วมกันของ Office 365 เช่นทีมงาน Microsoft Office 365 กลุ่ม
+ใช้เครื่องมือการค้นหาเนื้อหาในศูนย์การปฏิบัติตามนโยบายความปลอดภัย&เพื่อค้นหาอีเมลในกล่องจดหมาย Exchange เอกสารในไซต์ SharePoint และบัญชี OneDrive และการสนทนาการส่งข้อความโต้ตอบแบบทันทีใน Skype for Business ได้อย่างรวดเร็ว นอกจากนี้ คุณยังสามารถใช้เครื่องมือการค้นหาเนื้อหาเพื่อค้นหาอีเมล เอกสาร และการสนทนาแบบทันทีในเครื่องมือการทํางานร่วมกันของ Microsoft 365 เช่น Microsoft Teams และกลุ่ม Office 365
 
-**เมื่อต้องการทำการค้นหาเนื้อหา**
+**เมื่อต้องการค้นหาเนื้อหา**
 
-1. ไปที่[ความปลอดภัย & ศูนย์ปฏิบัติตามกฎระเบียบ](https://protection.office.com)และเข้าสู่ระบบ
-2. คลิก**ค้นหาเนื้อหาของ > ค้นหา**
-3. คลิก**ค้นหาใหม่**เพื่อสร้างการค้นหาใหม่
-4. ป้อนเงื่อนไขการค้นหารวมทั้งคำสำคัญและตำแหน่งที่ตั้งของเนื้อหา  
-5. คลิก**บันทึกการเรียกใช้ &** เพื่อตั้งชื่อการค้นหา นั้น แล้ว แสดงตัวอย่างผลลัพธ์
+1. ไปที่[ศูนย์การปฏิบัติตามกฎระเบียบ&ความปลอดภัย](https://protection.office.com)และลงชื่อเข้าใช้
+2. คลิก**ค้นหาเนื้อหา>**
+3. คลิก**การค้นหาใหม่**เพื่อสร้างการค้นหาใหม่
+4. ป้อนเงื่อนไขการค้นหาที่จําเป็น รวมถึงคําหลักและตําแหน่งที่ตั้งเนื้อหา  
+5. คลิก**บันทึก&เรียกใช้**เพื่อตั้งชื่อการค้นหา เริ่มต้น แล้วแสดงตัวอย่างผลลัพธ์
 
-สำหรับคำแนะนำโดยละเอียดเกี่ยวกับเนื้อหาการค้นหา ส่งออกผลลัพธ์ และสร้างกรณี eDiscovery เพื่อจัดเก็บข้อมูล ดู[เนื้อหาการค้นหา](https://docs.microsoft.com/office365/securitycompliance/content-search)และ[eDiscovery กรณี](https://docs.microsoft.com/office365/securitycompliance/ediscovery-cases)
+สําหรับคําแนะนําโดยละเอียดเกี่ยวกับการค้นหาเนื้อหา[Content Search](https://docs.microsoft.com/office365/securitycompliance/content-search)[eDiscovery cases](https://docs.microsoft.com/office365/securitycompliance/ediscovery-cases)
 
-เข้าใจเพิ่มเติมเกี่ยวกับการค้นหาเนื้อหาโดยตรวจดู[ขีดจำกัดและความต้องการ](https://docs.microsoft.com/office365/securitycompliance/limits-for-content-search)และ[ตรวจดัชนีสินค้าบางส่วน](https://docs.microsoft.com/office365/securitycompliance/investigating-partially-indexed-items-in-ediscovery)และอื่น ๆ ผลลัพธ์ต้องระวัง
+ทําความเข้าใจเกี่ยวกับการค้นหาเนื้อหาเพิ่มเติมโดยการตรวจสอบ[ข้อกําหนดและข้อจํากัด](https://docs.microsoft.com/office365/securitycompliance/limits-for-content-search)และ[การตรวจสอบรายการที่มีการจัดทําดัชนีบางส่วน](https://docs.microsoft.com/office365/securitycompliance/investigating-partially-indexed-items-in-ediscovery)และผลลัพธ์อื่นๆ ที่ควรทราบ

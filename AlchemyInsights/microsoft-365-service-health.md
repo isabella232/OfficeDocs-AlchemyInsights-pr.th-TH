@@ -1,5 +1,5 @@
 ---
-title: Microsoft ๓๖๕บริการสุขภาพ
+title: ความสมบูรณ์ของบริการของ Microsoft 365
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,22 +11,22 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001682"
 - "3747"
-ms.openlocfilehash: 93b8c19afb7efb9dc3901e5b51217179a4e9e731
-ms.sourcegitcommit: 9ab422063e5a474c92ed956d42d222b90336fecb
+ms.openlocfilehash: e50c5091caeb0e85a55eeaf0b4776fabeccf2f20
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 03/11/2020
-ms.locfileid: "42600511"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43762408"
 ---
-# <a name="microsoft-365-service-health"></a>Microsoft ๓๖๕บริการสุขภาพ
+# <a name="microsoft-365-service-health"></a>ความสมบูรณ์ของบริการของ Microsoft 365
 
 
-ตรวจสอบสุขภาพบริการของบริการใดๆจาก[แดชบอร์ดความสมบูรณ์ของการบริ](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/servicehealth)การ โดย**การเลือกศูนย์ดูแลระบบใหม่**ที่มุมขวาบนคุณจะเห็นตัวเลือกสุขภาพบริการใหม่
+ตรวจสอบสถานภาพของบริการใดๆ จาก[แดชบอร์ดสถานภาพบริการ](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/servicehealth) เมื่อเลือก**ศูนย์การจัดการใหม่**ที่มุมขวาบน คุณจะเห็นตัวเลือกสถานภาพบริการใหม่
 
-- เลือกการ**กำหนดลักษณะ**เพื่อรับ**การแจ้งเตือนทางอีเมลที่**มีสุขภาพของบริการ
+- เลือก**การตั้งค่า**เพื่อรับ**การแจ้งเตือนอีเมล**สถานภาพบริการ
 
-- เลือก**รายงานปัญหา**หากคุณกำลังประสบปัญหากับบริการ
+- เลือก**รายงานปัญหา**หากคุณประสบปัญหากับบริการ
 
-- เลือก**ประวัติ**เพื่อตรวจสอบประวัติสุขภาพการให้บริการขององค์กรของคุณ 
+- เลือก**ประวัติ**เพื่อตรวจสอบประวัติสถานภาพบริการขององค์กรของคุณ 
 
-สำหรับข้อมูลเพิ่มเติมโปรดดู[ที่วิธีการตรวจสอบการบริการของ Office ๓๖๕สุขภาพ](https://docs.microsoft.com/office365/enterprise/view-service-health) 
+สําหรับข้อมูลเพิ่มเติม ให้ดูที่[วิธีการตรวจสอบความสมบูรณ์ของบริการ Microsoft 365](https://docs.microsoft.com/office365/enterprise/view-service-health) 

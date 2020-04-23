@@ -1,9 +1,9 @@
 ---
-title: ข้อแนะนำสำหรับการแก้ปัญหาข้อผิดพลาด ' ผลิตภัณฑ์ที่ไม่มีสิทธิ์ '
+title: คําแนะนําสําหรับการแก้ปัญหาข้อผิดพลาด 'ผลิตภัณฑ์ที่ไม่มีสิทธิ์การใช้งาน'
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
-ms.date: 1/17/2019
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ms.prod: office-online-server
@@ -13,26 +13,26 @@ ms.custom:
 - "849"
 - "2000021"
 ms.assetid: 6422774e-c7a5-4894-a60f-cdef5ca60afe
-ms.openlocfilehash: 34095fa2ec0dae9864b4209f537ecf6e1d6fa4e7
-ms.sourcegitcommit: 0b06093dabd685f76cc39b1d7c0f8b03883b6e79
+ms.openlocfilehash: abc9b394fc54c95a77ca20645c8740bf4a04fc97
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 10/25/2019
-ms.locfileid: "36743292"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43741800"
 ---
-# <a name="suggestions-for-solving-unlicensed-product-errors"></a>ข้อเสนอแนะสำหรับการแก้ข้อผิดพลาด "ผลิตภัณฑ์ที่ไม่มีสิทธิ์"
+# <a name="suggestions-for-solving-unlicensed-product-errors"></a>คําแนะนําสําหรับการแก้ปัญหาข้อผิดพลาด "ผลิตภัณฑ์ที่ไม่มีสิทธิ์การใช้งาน"
 
-ตรวจสอบให้แน่ใจว่าคุณมีการสมัครสมาชิกที่อนุญาตให้สิทธิ์การใช้งานไคลเอ็นต์เช่น Office ๓๖๕ธุรกิจหรือ Business Premium และ[ตรวจสอบให้แน่ใจว่าผู้ใช้มีสิทธิ์ที่กำหนด](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users)ไว้ [ปิดใช้งานการติดตั้ง](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/remove-licenses-from-users)เพื่อตรวจสอบว่าคุณได้เกินจำนวนการติดตั้งที่สนับสนุนโดยการสมัครใช้งานของคุณหรือไม่
+ตรวจสอบให้แน่ใจว่าคุณมีการสมัครใช้งานที่อนุญาตให้สิทธิ์การใช้งานไคลเอ็นต์ เช่น แอป Microsoft 365 สําหรับธุรกิจ หรือมาตรฐานพรีเมียมสําหรับธุรกิจของ Microsoft 365 และ[ให้แน่ใจว่าผู้ใช้มีสิทธิ์การใช้งานที่มอบหมาย](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users) [ปิดใช้งานการติดตั้ง](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/remove-licenses-from-users)เพื่อตรวจสอบว่าคุณได้เกินจํานวนการติดตั้งที่สนับสนุนโดยการสมัครใช้งานของคุณแล้วหรือไม่
   
-ตรวจสอบให้แน่ใจว่าผู้ใช้กำลังลงชื่อเข้าระบบด้วยบัญชีเดียวกับที่มีการกำหนดใบอนุญาต
+ตรวจสอบให้แน่ใจว่าผู้ใช้ลงชื่อเข้าใช้ด้วยบัญชีเดียวกันกับที่มีการกําหนดสิทธิ์การใช้งาน
   
-เรียกใช้ตัว[แก้ไขปัญหาการเปิดใช้งาน](https://aka.ms/SARA-OfficeActivation-Alchemy)
+เรียกใช้[ตัวแก้ไขปัญหาการเปิดใช้งาน](https://aka.ms/SARA-OfficeActivation-Alchemy)
   
-ตรวจสอบว่าสถานะการสมัครสมาชิกหมดอายุแล้วหรือไม่
+ตรวจสอบว่าสถานะการสมัครใช้งานของคุณหมดอายุหรือไม่
   
-ตรวจสอบ[หน้า Office ๓๖๕ความสมบูรณ์ของบริการ](https://docs.microsoft.com/office365/enterprise/view-service-health)เพื่อดูว่ามีปัญหาที่ทราบกับบริการหรือไม่
+ตรวจสอบ[หน้าสถานภาพบริการ](https://docs.microsoft.com/office365/enterprise/view-service-health)เพื่อดูว่ามีปัญหาใด ๆ ที่ทราบเกี่ยวกับบริการหรือไม่
   
-[ดำเนินการซ่อมแซมทางออนไลน์ของสำนักงาน](https://support.office.com/Article/7821d4b6-7c1d-4205-aa0e-a6b40c5bb88b?wt.mc_id=Alchemy_ClientDIA)
+[ดําเนินการซ่อมแซมแบบออนไลน์ของ Office](https://support.office.com/Article/7821d4b6-7c1d-4205-aa0e-a6b40c5bb88b?wt.mc_id=Alchemy_ClientDIA)
   
-สำหรับโซลูชันการแก้ไขปัญหาเพิ่มเติมโปรดดู:[ข้อผิดพลาดของผลิตภัณฑ์และการเปิดใช้งานใน Office](https://support.office.com/Article/0d23d3c0-c19c-4b2f-9845-5344fedc4380?wt.mc_id=Alchemy_ClientDIA)
+สําหรับการแก้ไขปัญหาเพิ่มเติม ให้ดูที่:[ข้อผิดพลาดเกี่ยวกับผลิตภัณฑ์และการเปิดใช้งานที่ไม่มีสิทธิ์การใช้งานใน Office](https://support.office.com/Article/0d23d3c0-c19c-4b2f-9845-5344fedc4380?wt.mc_id=Alchemy_ClientDIA)
   

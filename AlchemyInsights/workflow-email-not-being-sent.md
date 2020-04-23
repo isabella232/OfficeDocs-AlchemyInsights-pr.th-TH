@@ -1,9 +1,9 @@
 ---
-title: ไม่มีการส่ง email ของลำดับงาน
+title: ไม่มีการส่งอีเมลลําดับงาน
 ms.author: pebaum
 author: pebaum
 manager: pamgreen
-ms.date: 7/25/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,35 +12,35 @@ ms.collection: Adm_O365
 ms.custom:
 - "5200020"
 - "1586"
-ms.openlocfilehash: 76b64323c9d34d49e9c6bd77c2cc7eff6d7c5402
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: 391d3a2dcc2676a405065115f375c802d2492119
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40049392"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43766152"
 ---
-# <a name="workflow-email-is-not-being-sent-for-a-sharepoint-list-or-library"></a>ไม่มีการส่งเมลของลำดับงานสำหรับรายการหรือไลบรารี SharePoint
+# <a name="workflow-email-is-not-being-sent-for-a-sharepoint-list-or-library"></a>ไม่มีการส่งอีเมลลําดับงานสําหรับรายการหรือไลบรารี SharePoint
 
-1. ไม่มีส่งจดหมายจากเวิร์กโฟลว์ไปยังผู้ใช้ทั้งหมดหรือเฉพาะผู้ใช้หรือคุณเห็นข้อผิดพลาด**ที่ไม่สามารถส่งข้อความทาง e-mail ตรวจสอบให้แน่ใจว่า e-mail มีผู้รับที่ถูกต้อง**
+1. อีเมลจากเวิร์กโฟลว์จะไม่ถูกส่งไปยังผู้ใช้ทั้งหมดหรือเฉพาะผู้ใช้ที่ระบุ หรือ**คุณเห็นข้อผิดพลาด ตรวจสอบให้แน่ใจว่าอีเมลมีผู้รับที่ถูกต้อง**
 
-    ตรวจสอบว่าผู้ใช้มีอยู่ในกลุ่มสิทธิ์**คนทั้งหมด**(รายการข้อมูลผู้ใช้) สำหรับไซต์คอลเลกชันนั้น  ตัวอย่าง URL โดยตรง<tenant>: https://<sitename>/_layouts/15/sharepoint.com/sites/? MembershipGroupId = 0
+    ตรวจสอบว่าผู้ใช้ที่มีอยู่ในกลุ่มสิทธิ์**บุคคลทั้งหมด**(รายการข้อมูลผู้ใช้) สําหรับไซต์คอลเลกชันนั้นหรือไม่  ตัวอย่าง URL โดยตรง<tenant>:<sitename>https:// .sharepoint.com/sites/ / _layouts / 15 / people.aspx? สมาชิกกลุ่มId = 0
 
-    - ถ้าผู้ใช้ไม่มีอยู่โปรดตรวจสอบให้แน่ใจว่าผู้ใช้ที่มีการลงชื่อเข้าสู่หน้าเว็บ 
-    - หากเป็นผู้ใช้ภายนอกโปรดตรวจสอบให้แน่ใจว่าได้ยอมรับคำเชิญของพวกเขาแล้ว
-    - ถ้าผู้ใช้ไม่มีอยู่ในกลุ่มสิทธิ์โปรดตรวจสอบให้แน่ใจว่าที่อยู่ของเมลไม่ถูกต้อง
-    - ถ้าไม่ได้ตั้งค่าที่อยู่ e-mail ของผู้ใช้ที่นี่แล้วสร้างการแจ้งเตือนตัวอย่างสำหรับผู้ใช้ที่บังคับให้ซิงค์ของบัญชีผู้ใช้นั้นจากโปรไฟล์ผู้ใช้ของ SharePoint ไปยังไซต์คอลเลกชันนี้
+    - ถ้าผู้ใช้ไม่มี อยู่ ตรวจสอบให้แน่ใจว่า ผู้ใช้ได้ลงชื่อเข้าใช้ในเพจ 
+    - ถ้าเป็นผู้ใช้ภายนอก ให้ตรวจสอบว่าคําเชิญของพวกเขาได้รับการยอมรับแล้ว
+    - ถ้าผู้ใช้ไม่มีอยู่ในกลุ่มสิทธิ์
+    - ถ้าไม่ได้ตั้งค่าที่อยู่อีเมลของผู้ใช้ที่นี่ แล้วสร้างการแจ้งเตือนตัวอย่างสําหรับผู้ใช้ที่บังคับให้ซิงค์ของบัญชีผู้ใช้นั้นจากโปรไฟล์ผู้ใช้ของ SharePoint ไปยังไซต์คอลเลกชันนี้
  
-2. มีส่งจดหมายจากเวิร์กโฟลว์ไปยังผู้ดูแลชุดเก็บรวบรวมไซต์แต่ไม่ได้ให้กับคนอื่นและดูข้อผิดพลาด**HTTP ต้องห้ามไปยัง<span>https:</span>//URL/_vti_bin/client.xvc.sp.utilities.utility.sendemail**
+2. อีเมลจากเวิร์กโฟลว์จะถูกส่งไปยังผู้ดูแลไซต์คอลเลกชัน แต่ไม่ให้ผู้ใช้อื่น เห็นข้อผิดพลาด HTTP Forbidden เป็น**<span>https:</span>//URL/_vti_bin/client.xvc.sp.utilities.SendEmail**
  
 
-    ดูการ[เข้าถึงถูกปฏิเสธเมื่อคุณส่งเมลไปยังกลุ่ม SharePoint](https://docs.microsoft.com/sharepoint/support/sharing-and-permissions/access-denied-when-send-an-email-to-groups)
+    ดู[การเข้าถึงถูกปฏิเสธเมื่อคุณส่งอีเมลไปยังกลุ่ม SharePoint](https://docs.microsoft.com/sharepoint/support/sharing-and-permissions/access-denied-when-send-an-email-to-groups)
 
-    นอกจากนี้ให้ตรวจสอบว่าการ**เข้าถึงแบบจำกัดสิทธิ์ผู้ใช้โหมด lockdown**ไซต์คอลเลกชันไม่ทำงาน
+    นอกจากนี้ ตรวจสอบว่า ผู้ใช้สิทธิ์**lockdown**จํากัดสิทธิ์ผู้ใช้คุณลักษณะชุดเก็บรวบรวมไซต์
 
 
 ## <a name="related-topics"></a>หัวข้อที่เกี่ยวข้อง
-ต้องการลองการไหลของ Microsoft ใน SharePoint แบบออนไลน์หรือไม่
+ต้องการลอง Microsoft ไหลใน SharePoint แบบออนไลน์หรือไม่
 - [สร้างโฟลว์](https://support.office.com/article/Create-a-flow-for-a-list-or-library-in-SharePoint-Online-or-OneDrive-for-Business-a9c3e03b-0654-46af-a254-20252e580d01) 
-- [SharePoint และการไหล](https://flow.microsoft.com/blog/sharepoint-and-flow/) 
+- [SharePoint และโฟลว์](https://flow.microsoft.com/blog/sharepoint-and-flow/) 
 
 

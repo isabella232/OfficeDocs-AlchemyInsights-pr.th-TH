@@ -1,23 +1,23 @@
 ---
-title: ไอคอน Skype 8000049 ใน Outlook.com ที่ขาดหายไป
+title: ไอคอน Skype 8000049 หายไปในOutlook.com
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 2/28/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 8000049
-ms.openlocfilehash: 869de50b0bad7f41902fd918f90dd435a5faa4de
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: cc5ca216f3e27a424f26bf5faa95b4df9c26b653
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36512190"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43767880"
 ---
-# <a name="skype-icon-missing"></a>ไม่พบไอคอน Skype
+# <a name="skype-icon-missing"></a>ไอคอน Skype หายไป
 
-เราเพิ่งเอาออกคอน Skype ได้จาก Outlook.com เป็นส่วนหนึ่งของการออกแบบฟื้นฟูและคุณลักษณะปรับปรุงเราตื่นเต้นที่จะถูกนำออกชั่วคราว ขอขอบคุณสำหรับความอดทนของคุณในขณะที่เราได้จัดเตรียมแบบใหม่ และปรับปรุงประสบการณ์การใช้งานสำหรับคุณ
+เราได้ลบไอคอน Skype ออกจากOutlook.comชั่วคราวซึ่งเป็นส่วนหนึ่งของการรีเฟรชและการออกแบบและการปรับปรุงคุณลักษณะที่เรารู้สึกตื่นเต้นที่จะเปิดตัว เราขอขอบคุณที่อดทนรอในขณะที่เราเตรียมประสบการณ์ใหม่และปรับปรุงให้คุณ
 
-คุณยังคงสามารถใช้ Skype ได้โดยใช้เบราว์เซอร์ของคุณที่[web.skype.com](https://web.skype.com)
+คุณยังสามารถใช้ Skype ผ่านเบราว์เซอร์ของคุณได้ที่[web.skype.com](https://web.skype.com)

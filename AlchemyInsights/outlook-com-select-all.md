@@ -1,9 +1,9 @@
 ---
-title: เลือก Outlook.com 8000090 ทั้งหมด
+title: 8000090 Outlook.com เลือกทั้งหมด
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 3/1/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,17 +12,17 @@ ms.custom:
 - "1410"
 - "1411"
 - "8000090"
-ms.openlocfilehash: 6efc18bb8c906f273083026985ec21acfe0429ee
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: bc4bf01b12e3864fc0112ef3e20410d2f7ccb0b5
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36535338"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43743616"
 ---
-# <a name="how-to-select-all-in-outlookcom"></a>วิธีการ "เลือกทั้งหมด" ใน Outlook.com
+# <a name="how-to-select-all-in-outlookcom"></a>วิธีการ "เลือกทั้งหมด" ในOutlook.com
 
-คุณสามารถเลือกทุกข้อความทั้งหมดจะสามารถมองเห็น ทั้งนี้เพื่อป้องกันการดำเนินการโดยไม่ได้ตั้งใจบนข้อความที่คุณมองไม่เห็น
+คุณสามารถเลือกทั้งหมดได้เฉพาะเมื่อมองเห็นข้อความทั้งหมดเท่านั้น นี่คือการป้องกันการกระทําโดยไม่ได้ตั้งใจในข้อความที่คุณไม่สามารถเห็น
 
-**CTRL + คลิก**เลือกหลายข้อความแต่ละตัว
+**CTRL + คลิก**เลือกข้อความหลายข้อความ
 
-**กด SHIFT และคลิก**เลือกข้อความทั้งหมดที่อยู่ระหว่างข้อความแรก และสุดท้ายที่คุณเลือก
+**SHIFT + คลิก**เลือกข้อความทั้งหมดระหว่างข้อความแรกและข้อความสุดท้ายที่คุณเลือก

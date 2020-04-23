@@ -10,17 +10,17 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "1"
-ms.openlocfilehash: b7e8c1fe631e8057ae77cb4d0b7826bd887bac56
-ms.sourcegitcommit: 1e86dec31d92dba0f7804db9d11c47017a450579
+ms.openlocfilehash: c6ebac44d800483bfb03fe5997dfb17844ac2f15
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 02/27/2020
-ms.locfileid: "42326425"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43766260"
 ---
 # <a name="verify-your-domain-with-dreamhost"></a>ยืนยันโดเมนของคุณด้วย Dreamhost
 
-เมื่อต้องการยืนยันโดเมนคุณจะต้องเพิ่มระเบียน TXT ลงในทะเบียนโดเมนของคุณเพื่อยืนยันว่าคุณเป็นเจ้าของโดเมนของคุณ 
+ในการยืนยันโดเมน คุณจะต้องเพิ่มระเบียน TXT ไปยังบริษัทจดทะเบียนโดเมนเพื่อยืนยันว่าคุณเป็นเจ้าของโดเมน 
 
-ขั้นแรกให้ทำตามตัว[ช่วยสร้างเพิ่มโดเมน](https://portal.office.com/adminportal/home#/Domains)โดยเลือก**โด**เมน**การตั้งค่า** \>แล้ว**เพิ่มโดเมน**
+ขั้นแรก ให้ทําตาม[ตัวช่วยสร้างเพิ่มโดเมน](https://portal.office.com/adminportal/home#/Domains)โดย**Settings**\>การเลือก**การตั้งค่าโดเมน**แล้ว**เพิ่มโดเมน**
   
-ดู[สร้างระเบียน DNS ที่ Dreamhost สำหรับ Office ๓๖๕](https://docs.microsoft.com/microsoft-365/admin/dns/create-dns-records-at-dreamhost)สำหรับคำแนะนำทีละขั้นตอน
+ดู[สร้างระเบียน DNS ที่ Dreamhost สําหรับ Microsoft 365](https://docs.microsoft.com/microsoft-365/admin/dns/create-dns-records-at-dreamhost)สําหรับคําแนะนําทีละขั้นตอน

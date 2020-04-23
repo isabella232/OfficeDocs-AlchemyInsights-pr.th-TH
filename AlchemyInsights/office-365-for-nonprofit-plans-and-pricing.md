@@ -1,9 +1,9 @@
 ---
-title: Office 365 Nonprofit แผนและการกำหนดราคา
+title: แผน Office 365 เพื่อการกุศลและการกําหนดราคา
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
-ms.date: 3/1/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,19 +13,19 @@ ms.custom:
 - "478"
 - "1500026"
 ms.assetid: e6ec87f5-98d4-444d-b1e7-dc36cd60f064
-ms.openlocfilehash: 503ed30c3a9c1d8ab67d964a6c03a1886d9bcefd
-ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
+ms.openlocfilehash: 3841ea04e5fac7492372adaa27258ef66b6879ee
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 08/13/2019
-ms.locfileid: "36390603"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43761591"
 ---
-# <a name="office-365-for-nonprofit-plans-and-pricing"></a>Office 365 Nonprofit แผนและการกำหนดราคา
+# <a name="office-365-for-nonprofit-plans-and-pricing"></a>แผน Office 365 เพื่อการกุศลและการกําหนดราคา
 
-Nonprofits ที่เหมาะสมสามารถได้รับ Nonprofit 365 Office เป็นการบริจาค หรือปรับรุ่นเป็นคุณลักษณะขั้นสูงที่มีนัยสำคัญส่วนลด การรับรองคุณสมบัติสำหรับแผน Office 365 Nonprofit คุณต้องกดค้างไว้[เพื่อการกุศลที่รับรู้](https://go.microsoft.com/fwlink/p/?LinkID=330253)ในนโยบายการแบ่งแยกที่ไม่ใช่ของประเทศและเครื่องหมายของ Microsoft Microsoft จองด้านขวา เพื่อตรวจสอบสิทธิตลอดเวลา และระงับการบริการสำหรับองค์กรที่ไม่สามารถใช้ได้
+องค์กรไม่แสวงผลกําไรที่ผ่านการรับรองสามารถรับ Office 365 Nonprofit ในฐานะบริจาคหรืออัปเกรดเป็นฟีเจอร์ขั้นสูงที่มอบส่วนลดอย่างมีนัยสําคัญ เมื่อต้องการมีสิทธิ์ได้รับแผน Office 365 Nonprofit คุณต้องถือ[สถานะการกุศลที่ได้รับการยอมรับ](https://go.microsoft.com/fwlink/p/?LinkID=330253)ในประเทศของคุณ และลงชื่อนโยบายไม่เลือกปฏิบัติของ Microsoft Microsoft ขอสงวนสิทธิ์ในการตรวจสอบสิทธิ์ได้ตลอดเวลาและระงับบริการสําหรับองค์กรที่ไม่ได้รับสิทธิ์
   
-ดู[FAQ](https://products.office.com/nonprofit/office-365-nonprofit)สำหรับคำถามเพิ่มเติมเกี่ยวกับข้อเสนอนี้
+ดู[คําถามที่พบบ่อย](https://products.office.com/nonprofit/office-365-nonprofit)สําหรับคําถามเพิ่มเติมเกี่ยวกับข้อเสนอนี้
   
-- [ตรวจทานแผน Nonprofit](https://products.office.com/nonprofit/office-365-nonprofit-plans-and-pricing?tab=1)
+- [ตรวจสอบแผนองค์กรไม่แสวงผลกําไร](https://products.office.com/nonprofit/office-365-nonprofit-plans-and-pricing?tab=1)
 
-- [เปรียบเทียบแผน Office 365 ทั้งหมด](https://products.office.com/business/compare-more-office-365-for-business-plans)
+- [เปรียบเทียบการสมัครใช้งาน Microsoft 365 ทั้งหมด](https://products.office.com/business/compare-more-office-365-for-business-plans)
