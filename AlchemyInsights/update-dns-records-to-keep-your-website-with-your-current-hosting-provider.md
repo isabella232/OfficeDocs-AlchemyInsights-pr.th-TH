@@ -1,9 +1,9 @@
 ---
-title: อัปเดตระเบียน DNS เพื่อให้เว็บไซต์ของคุณมีผู้ให้บริการโฮสติ้งปัจจุบันของคุณ
+title: อัปเดตระเบียน DNS เพื่อให้เว็บไซต์ของคุณกับผู้ให้บริการโฮสต์ปัจจุบันของคุณ
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
-ms.date: 1/8/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,21 +13,21 @@ ms.custom:
 - "419"
 - "5200001"
 ms.assetid: 0838394d-324d-45c1-9736-6f72e7e9bdb2
-ms.openlocfilehash: f9b0529d3200dd53afc70023c0b60d9d415a8fc1
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: 8edebef125f23e880713237787bd00cc917258b0
+ms.sourcegitcommit: 89ae9e8b36d1980f89f07b016fff0ec48f96b620
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "36742284"
+ms.lasthandoff: 04/23/2020
+ms.locfileid: "43789429"
 ---
-# <a name="update-dns-records-to-keep-your-website-with-your-current-hosting-provider"></a>อัปเดตระเบียน DNS เพื่อให้เว็บไซต์ของคุณมีผู้ให้บริการโฮสติ้งปัจจุบันของคุณ
+# <a name="update-dns-records-to-keep-your-website-with-your-current-hosting-provider"></a>อัปเดตระเบียน DNS เพื่อให้เว็บไซต์ของคุณกับผู้ให้บริการโฮสต์ปัจจุบันของคุณ
 
-ในฐานะที่เป็นส่วนหนึ่งของกระบวนการในการย้ายเว็บไซต์ Office ๓๖๕สาธารณะไปยังผู้ให้บริการโฮสติ้งอื่นคุณอาจต้องทำการเปลี่ยนแปลงระเบียนโดเมนของคุณ
+ในฐานะที่เป็นส่วนหนึ่งของกระบวนการย้ายเว็บไซต์สาธารณะของ Microsoft 365 ไปยังผู้ให้บริการโฮสต์รายอื่น
   
-1. ในศูนย์การจัดการให้ไปที่**โดเมน****การตั้งค่า** \>และเลือกชื่อโดเมนที่คุณต้องการเปลี่ยน
+1. ในศูนย์การจัดการ ให้ไปที่**การตั้งค่า**\>**โดเมน**และเลือกชื่อโดเมนที่คุณต้องการเปลี่ยน
 
-2. ป้อนข้อมูลที่สอดคล้องกับเว็บไซต์ของคุณด้วยผู้ให้บริการโฮสติ้งใหม่ของคุณ
+2. ป้อนข้อมูลที่สอดคล้องกับเว็บไซต์ของคุณกับผู้ให้บริการโฮสต์ใหม่ของคุณ
 
-หากต้องการเรียนรู้เพิ่มเติมโปรดดู[อัปเดตระเบียน DNS เพื่อให้เว็บไซต์ของคุณมีผู้ให้บริการโฮสติ้งปัจจุบันของคุณ](https://docs.microsoft.com/office365/admin/dns/update-dns-records-to-retain-current-hosting-provider)
+เมื่อต้องการเรียนรู้เพิ่มเติม ให้ดูที่[อัปเดตระเบียน DNS เพื่อให้เว็บไซต์ของคุณอยู่กับผู้ให้บริการโฮสต์ปัจจุบันของคุณ](https://docs.microsoft.com/office365/admin/dns/update-dns-records-to-retain-current-hosting-provider)
   
-หากต้องการเรียนรู้เพิ่มเติมเกี่ยวกับการหยุดพักของไซต์สาธารณะให้ดูที่[เว็บไซต์สาธารณะแบบออนไลน์ของ SharePoint ที่จะหยุด](https://support.office.com/article/sharepoint-online-public-websites-to-be-discontinued-e86bfd2f-5c7d-446f-a430-7cfcc0130916)ทำงาน
+เมื่อต้องการเรียนรู้เพิ่มเติมเกี่ยวกับการหยุดเว็บไซต์สาธารณะ ให้ดูที่[เว็บไซต์สาธารณะแบบออนไลน์ของ SharePoint ที่จะเลิกใช้](https://support.office.com/article/sharepoint-online-public-websites-to-be-discontinued-e86bfd2f-5c7d-446f-a430-7cfcc0130916)

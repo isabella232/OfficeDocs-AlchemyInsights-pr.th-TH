@@ -11,16 +11,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "1500021"
 - "4689"
-ms.openlocfilehash: c31415c4191ebcf50acc8095de3ba6cf31661aa9
-ms.sourcegitcommit: 843146bbf5de98126acb5808598dd533f40bea6a
+ms.openlocfilehash: 19366565b8ecef5e89a2deb9fa1b4ff2476246cf
+ms.sourcegitcommit: 89ae9e8b36d1980f89f07b016fff0ec48f96b620
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 04/08/2020
-ms.locfileid: "43191119"
+ms.lasthandoff: 04/23/2020
+ms.locfileid: "43789465"
 ---
 # <a name="transfer-licenses-between-tenants"></a>โอนย้ายสิทธิ์การใช้งานระหว่างผู้เช่า
 
-คุณไม่สามารถถ่ายโอนสิทธิ์การใช้งาน Office 365 ระหว่างองค์กร 2 องค์กร (ผู้เช่า) 
+ไม่สามารถถ่ายโอนสิทธิ์การใช้งานระหว่างองค์กร 2 องค์กร (ผู้เช่า) ได้ 
 
 - ถ้าคุณไม่มีการวางแผนการใช้ผู้เช่าที่คุณต้องการโอนย้ายอีกต่อไป[cancel the subscription](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/subscriptions)[purchase a new](https://products.office.com/compare-all-microsoft-office-products-b?rtc=1&activetab=tab:primaryr2)
 

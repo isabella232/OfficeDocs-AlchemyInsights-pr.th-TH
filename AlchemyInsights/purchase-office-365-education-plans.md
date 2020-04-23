@@ -1,5 +1,5 @@
 ---
-title: ซื้อแผนการศึกษา Office 365
+title: ซื้อแผนการศึกษาของ Microsoft 365
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -12,16 +12,16 @@ ms.custom:
 - "1500009"
 - "328"
 - "330"
-ms.openlocfilehash: 7773c955d8f6887f87a3c3741fa29a08e41541e0
-ms.sourcegitcommit: cad7ec134efdac7130911bfee6cb4a59ad882e39
+ms.openlocfilehash: 92ba04baad82b6c9ced2533fb67d99d0c39ab3a3
+ms.sourcegitcommit: 89ae9e8b36d1980f89f07b016fff0ec48f96b620
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 04/08/2020
-ms.locfileid: "43195223"
+ms.lasthandoff: 04/23/2020
+ms.locfileid: "43789393"
 ---
-# <a name="purchase-office-365-education-plans"></a>ซื้อแผนการศึกษา Office 365
+# <a name="purchase-microsoft-365-education-plans"></a>ซื้อแผนการศึกษาของ Microsoft 365
 
-คุณได้รับอนุมัติสําหรับ Office 365 การศึกษา  วิธีการสั่งซื้อ:
+คุณได้รับอนุมัติสําหรับ Microsoft 365 การศึกษา  วิธีการสั่งซื้อ:
 
 1. ไปที่**[บริการซื้อ>การเรียกเก็บเงิน](https://portal.office.com/AdminPortal/Home#/catalog)**
 
@@ -35,6 +35,6 @@ ms.locfileid: "43195223"
 
 **การเรียนการสอนและการเรียนรู้จากระยะไกล**
 
-- โปรดดู[การสอนและการเรียนรู้ระยะไกลใน Office 365 Education](https://support.office.com/article/remote-teaching-and-learning-in-office-365-education-f651ccae-7b65-478b-8366-51bb884025c4)เพื่อเรียนรู้คําแนะนําที่ทันสมัยที่สุดในการตั้งค่าการวางแผนบทเรียนของโรงเรียน
+- โปรดดู[การสอนและการเรียนรู้ระยะไกลใน Microsoft 365 Education](https://support.office.com/article/remote-teaching-and-learning-in-office-365-education-f651ccae-7b65-478b-8366-51bb884025c4)เพื่อเรียนรู้คําแนะนําที่ทันสมัยที่สุดในการตั้งค่าการวางแผนบทเรียนของโรงเรียน
 
 - มีคําแนะนําด้านไอทีเพิ่มเติมใน[การเริ่มต้นใช้งาน Microsoft Teams สําหรับการเรียนรู้ระยะไกล](https://docs.microsoft.com/MicrosoftTeams/remote-learning-edu)และ[การเปลี่ยนไปยังการเรียนรู้ระยะไกล](https://www.microsoft.com/education/remote-learning)
