@@ -1,5 +1,5 @@
 ---
-title: ซ้ำๆเข้าสู่ระบบพร้อมท์/เข้าสู่ระบบ
+title: การลงชื่อเข้าใช้ซ้ําพร้อมต์ /ลูปเข้าสู่ระบบ
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -13,18 +13,18 @@ ms.custom:
 - "9000571"
 - "9000725"
 - "2656"
-ms.openlocfilehash: 88cbc65909aec2670000ed031675f933b9510897
-ms.sourcegitcommit: 932981641dd8e973e28dfe346bbdf9c923111b13
+ms.openlocfilehash: a8305e6f089251077400f2b727539615cf6165af
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 12/27/2019
-ms.locfileid: "41969873"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43722757"
 ---
-# <a name="repeated-sign-in-prompts-in-office-apps"></a>ซ้ำๆในการเข้าสู่ระบบพร้อมท์ในแอป Office
+# <a name="repeated-sign-in-prompts-in-office-apps"></a>พร้อมท์การเข้าสู่ระบบซ้ําในแอป Office
 
-เมื่อต้องการแก้ไขปัญหาการลงชื่อเข้าใช้ซ้ำในแอป Office โปรดดูที่:
+เมื่อต้องการแก้ไขปัญหาการลงชื่อเข้าใช้พร้อมท์การลงชื่อเข้าใช้ซ้ําในแอป Office ดู:
 
-- [วิธีการแก้ปัญหาแอปที่ไม่ใช่เบราว์เซอร์ที่ไม่สามารถเข้าสู่ระบบ Office ๓๖๕, Azure หรือ Intune](https://support.office.com/article/how-to-troubleshoot-non-browser-apps-that-can-t-sign-in-to-office-365-azure-or-intune-3ba1b268-66f6-462c-b0e5-070f5c2603c1)
-- ["การเข้าถึงถูกปฏิเสธ" หรือผู้ใช้ได้รับการพร้อมท์ซ้ำๆสำหรับข้อมูลประจำตัวเมื่อเชื่อมต่อกับ Office ๓๖๕](https://docs.microsoft.com/office365/troubleshoot/security/access-denied-when-connect-to-office-365)
-- [ผู้ใช้ติดต่อกับภายนอกได้รับการพร้อมท์ซ้ำๆสำหรับข้อมูลประจำตัวในระหว่างการเข้าสู่ระบบไปยัง Office ๓๖๕, Azure หรือ Intune](https://docs.microsoft.com/office365/troubleshoot/authentication/federated-user-repeatedly-prompted-for-credentials)
+- [วิธีการแก้ไขปัญหาที่ไม่ใช่เบราว์เซอร์ apps ที่ไม่สามารถเข้าสู่ระบบ Microsoft 365, Azure หรือ Intune](https://support.office.com/article/how-to-troubleshoot-non-browser-apps-that-can-t-sign-in-to-office-365-azure-or-intune-3ba1b268-66f6-462c-b0e5-070f5c2603c1)
+- ["การเข้าถึงถูกปฏิเสธ" หรือผู้ใช้ซ้ํา ๆ พร้อมท์สําหรับข้อมูลประจําตัวเมื่อเชื่อมต่อกับ Microsoft 365](https://docs.microsoft.com/office365/troubleshoot/security/access-denied-when-connect-to-office-365)
+- [ผู้ใช้ที่ติดต่อกับภายนอกถูกซ้ํา ๆ พร้อมท์สําหรับข้อมูลประจําตัวในระหว่างการเข้าสู่ระบบ Microsoft 365, Azure หรือ Intune](https://docs.microsoft.com/office365/troubleshoot/authentication/federated-user-repeatedly-prompted-for-credentials)
 

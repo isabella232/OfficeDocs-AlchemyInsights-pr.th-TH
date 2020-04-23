@@ -11,19 +11,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002568"
 - "4981"
-ms.openlocfilehash: 88394297d391b7c8ec949cf2d82727f9def819c0
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: cd9fe64e1f9ab564c74975da21c993d535937401
+ms.sourcegitcommit: 6a3748f5c05693ca0c19a829287cb8f30635940c
 ms.translationtype: MT
 ms.contentlocale: th-TH
 ms.lasthandoff: 04/22/2020
-ms.locfileid: "43687421"
+ms.locfileid: "43784134"
 ---
 # <a name="a1-license-for-microsoft-365"></a>สิทธิ์การใช้งาน A1 สําหรับ Microsoft 365
 
 
 - ถ้าสถาบันของคุณมีคุณสมบัติสําหรับ Microsoft 365 Education อยู่แล้ว คุณสามารถเพิ่ม**แผน A1**ลงในบัญชีของคุณจาก[บริการซื้อ](https://docs.microsoft.com/microsoft-365/commerce/buy-another-subscription?view=o365-worldwide#buy-another-subscription) 
 
-- ถ้าสถาบันของคุณยังไม่ได้ตั้งค่า Microsoft 365 Education แต่คุณกําลังหาเพิ่ม Office 365 ฟรี คุณสามารถ[เริ่มต้นใช้งาน](https://www.microsoft.com/education/products/office)ได้โดยให้อีเมลของคุณ 
+- หากสถาบันของคุณยังไม่ได้ตั้งค่า Microsoft 365 Education แต่คุณกําลังหาเพิ่ม Microsoft 365 ฟรี คุณสามารถ[เริ่มต้นใช้งาน](https://www.microsoft.com/education/products/office)ได้โดยให้อีเมลของคุณ 
 
 - หากคุณต้องการ**สลับ**จากแผนการศึกษาอื่นเป็นแผน A1 ให้ดูที่[สลับไปยังแผนอื่น](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/switch-plans-manually) 
 
@@ -31,4 +31,4 @@ ms.locfileid: "43687421"
 
 **สําคัญ**: คุณอาจต้องรอถึง 24 ชั่วโมงเพื่อให้การเปลี่ยนแปลงของคุณมีผล 
 
-สําหรับข้อมูลเพิ่มเติม ให้ดูที่[Microsoft 365 Education, การสอนและการเรียนรู้ระยะไกลใน Office 365 Education](https://support.office.com/article/remote-teaching-and-learning-in-office-365-education-f651ccae-7b65-478b-8366-51bb884025c4)และทํา[การเปลี่ยนไปใช้การเรียนรู้ระยะไกล](https://www.microsoft.com/education/remote-learning) 
+สําหรับข้อมูลเพิ่มเติม ให้ดูที่[Microsoft 365 Education, การสอนและการเรียนรู้จากระยะไกล](https://support.office.com/article/remote-teaching-and-learning-in-office-365-education-f651ccae-7b65-478b-8366-51bb884025c4)และ[การเปลี่ยนไปยังการเรียนรู้ระยะไกล](https://www.microsoft.com/education/remote-learning) 

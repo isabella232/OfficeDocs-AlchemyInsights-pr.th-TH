@@ -1,9 +1,9 @@
 ---
-title: อีเมลที่ส่งแล้ว 8000044 ถูกส่งกลับ 'จัดส่งล้มเหลว' ใน Outlook.com
+title: 8000044 ส่งอีเมล์กลับมา 'ส่งล้มเหลว' ในOutlook.com
 ms.author: daeite
 author: daeite
 manager: jackiesm
-ms.date: 5/30/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,14 +12,14 @@ ms.custom:
 - "791"
 - "8000044"
 ms.assetid: 24e6767e-ff7c-414a-b348-1fc10901f9ab
-ms.openlocfilehash: 864b05fb1814df6696aecf5fc0ff25a325521461
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 031b9b8af26d6cfcfabb04ff7b3f408b42015b2d
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36551002"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43758336"
 ---
-# <a name="sent-email-comes-back-delivery-failed"></a>อีเมลที่ส่งถูกส่งกลับ "การส่งล้มเหลว"
+# <a name="sent-email-comes-back-delivery-failed"></a>ส่งอีเมล์กลับมา "ส่งไม่สําเร็จ"
 
-ความล้มเหลวในการจัดส่งข้อความอีเมลที่มากลับเป็นสามารถนำส่ง หรืออาจเกิดขึ้นได้หลายสาเหตุ เมื่อต้องการเรียนรู้เพิ่มเติมเกี่ยวกับพบบ่อยที่สุดข้อผิดพลาด พร้อมกับวิธีแก้ไขปัญหาที่แนะนำ ดู[อีเมลที่ส่งแล้วใน Outlook.com ถูกส่งกลับ "การส่งล้มเหลว"](https://support.office.com/article/45e048ac-f7b1-4c0f-b525-081cb34f1062?wt.mc_id=Office_Outlook_com_Alchemy)
+ความล้มเหลวในการส่งหรือข้อความอีเมลที่กลับมาเป็นไม่สามารถส่งได้อาจเกิดขึ้นได้ด้วยเหตุผลหลายประการ หากต้องการเรียนรู้เพิ่มเติมเกี่ยวกับข้อความแสดงข้อผิดพลาดที่พบบ่อยที่สุด พร้อมกับโซลูชันที่แนะนํา โปรดดู[อีเมลที่ส่งในOutlook.comกลับ "การส่งไม่สําเร็จ"](https://support.office.com/article/45e048ac-f7b1-4c0f-b525-081cb34f1062?wt.mc_id=Office_Outlook_com_Alchemy)
   

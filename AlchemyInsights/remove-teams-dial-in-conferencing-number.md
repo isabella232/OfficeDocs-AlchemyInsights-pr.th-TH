@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002248"
 - "4540"
-ms.openlocfilehash: cfc87c49ccb1198341f0e49f409db454a5837ba9
-ms.sourcegitcommit: ce5264af70dfc92aa35ea10d1b2df49a6820b4e5
+ms.openlocfilehash: 7a44c443fa6c469e10a6ac9253567c2266c2db7f
+ms.sourcegitcommit: 6a3748f5c05693ca0c19a829287cb8f30635940c
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 03/27/2020
-ms.locfileid: "43028145"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43784818"
 ---
 # <a name="remove-teams-dial-in-conferencing-number"></a>เอาหมายเลขการประชุมทางโทรศัพท์ใน Teams ออก
 
@@ -24,7 +24,7 @@ ms.locfileid: "43028145"
 
 หมายเลขโทรศัพท์เริ่มต้นของบริดจ์การประชุมกําหนด ID ผู้เรียกที่จะใช้เมื่อผู้เข้าร่วมประชุมหรือผู้จัดการประชุมจากภายในการประชุม
 
-1. ลงชื่อเข้าใช้ Office 365 ด้วยบัญชีผู้ใช้งานของคุณ
+1. ลงชื่อเข้าใช้ด้วยบัญชีที่ทํางานของคุณ
 
 2. ไปที่**ศูนย์การจัดการ Microsoft 365**
 

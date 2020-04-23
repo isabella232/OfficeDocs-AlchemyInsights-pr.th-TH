@@ -1,5 +1,5 @@
 ---
-title: ๙๗๕คุณต้องการรายงานค่าบวกที่เป็นสแปมปลอมไปยัง Microsoft
+title: คุณต้องการรายงานสแปมที่เป็นเท็จในเชิงบวกต่อ Microsoft หรือไม่
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -9,17 +9,17 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 975
 ms.assetid: ''
-ms.openlocfilehash: a35b7217b28001bbe23fab0d78f855b50c353bc4
-ms.sourcegitcommit: 0f44a600ae90e7b98a2a10988712a3fc9f837583
+ms.openlocfilehash: 169d5c276f56f4941de73925e21cc045a65fd0c1
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 10/31/2019
-ms.locfileid: "37911614"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43722721"
 ---
-# <a name="would-you-like-to-report-a-spam-false-positive-to-microsoft"></a>คุณต้องการรายงานค่าบวกที่เป็นสแปมกับ Microsoft หรือไม่
+# <a name="would-you-like-to-report-a-spam-false-positive-to-microsoft"></a>คุณต้องการรายงานสแปมที่เป็นเท็จในเชิงบวกต่อ Microsoft หรือไม่
 
-ในฐานะผู้ดูแลวิธีที่ดีที่สุดในการตรวจสอบว่าเหตุใดจึงมีการส่งข้อความฟิชชิ่งหรือสแปมคือการส่งตัวอย่างไปยัง Microsoft ในการแสดงโปรแกรม[สำรวจ](https://protection.office.com/reportsubmission) คุณสามารถอนุญาตให้ผู้ใช้รายงานโดยตรงไปยัง Microsoft ผ่านทาง[add-in ของข้อความรายงาน](https://appsource.microsoft.com/product/office/WA104381180?src=office&tab=Overview)
+ในฐานะผู้ดูแลระบบ วิธีที่ดีที่สุดในการพิจารณาว่าเหตุใดข้อความฟิชชิ่งหรือสแปมจึงถูกส่งไปให้คือ การส่งตัวอย่างไปยัง Microsoft ใน[Submissions Explorer](https://protection.office.com/reportsubmission) เมื่อต้องการทําให้ตัวแบ่งส่วนนั้น[Report Message add-in](https://appsource.microsoft.com/product/office/WA104381180?src=office&tab=Overview)
 
-เราแนะนำให้ระมัดระวังหากคุณตัดสินใจที่จะ[ข้ามตัวกรองจดหมายขยะของ Office ๓๖๕](https://docs.microsoft.com/exchange/troubleshoot/antispam/cautions-against-bypassing-spam-filters)
+เราขอแนะนําความระมัดระวังถ้าคุณตัดสินใจที่จะ[ข้ามตัวกรองสแปมของ Microsoft 365](https://docs.microsoft.com/exchange/troubleshoot/antispam/cautions-against-bypassing-spam-filters)
 
-**คุณรู้หรือไม่**: ตอนนี้คุณสามารถส่งตัวอย่างได้โดยตรงจากการ[ติดตามข้อความ](https://protection.office.com/messagetrace)และ E5/ATP แผน2ลูกค้าสามารถส่งตัวอย่างจาก[ภัยคุกคาม Explorer](https://docs.microsoft.com/microsoft-365/security/office-365-security/threat-explorer)
+**คุณทราบหรือไม่:** ขณะนี้คุณสามารถส่งตัวอย่างโดยตรงจาก[การติดตามข้อความ](https://protection.office.com/messagetrace)และ E5/ATP แผน 2 ลูกค้าสามารถส่งตัวอย่างจาก[Threat Explorer](https://docs.microsoft.com/microsoft-365/security/office-365-security/threat-explorer)

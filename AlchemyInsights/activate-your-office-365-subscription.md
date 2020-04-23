@@ -1,5 +1,5 @@
 ---
-title: เปิดใช้งานการสมัครใช้งาน Office 365 ของคุณ
+title: เปิดใช้งานการสมัครใช้งาน Microsoft 365 ของคุณ
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,14 +11,14 @@ ms.collection: Adm_O365
 ms.custom:
 - "1500028"
 - "4744"
-ms.openlocfilehash: a2ecbb8c3f0acd59156695e36ee62b2416111ba4
-ms.sourcegitcommit: 843146bbf5de98126acb5808598dd533f40bea6a
+ms.openlocfilehash: 4a7bf12b7fe895d6aa930a7e1fb679b05a52c704
+ms.sourcegitcommit: 6a3748f5c05693ca0c19a829287cb8f30635940c
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 04/08/2020
-ms.locfileid: "43191084"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43784026"
 ---
-# <a name="activate-your-office-365-subscription"></a>เปิดใช้งานการสมัครใช้งาน Office 365 ของคุณ
+# <a name="activate-your-subscription"></a>เปิดใช้งานการสมัครใช้งานของคุณ
 
 **เปิดใช้งานการบอกรับเป็นสมาชิก**
 
@@ -32,7 +32,7 @@ ms.locfileid: "43191084"
 
 ถ้าการสมัครใช้งานของคุณหมดอายุ หรือถูกปิดใช้งานโดย Microsoft หรือถ้าคุณยกเลิกการสมัครใช้งานไว้กลางระยะเวลา
 
-- ในศูนย์การจัดการ Office 365 ให้ไปที่หน้า[การสมัครใช้งาน](https://go.microsoft.com/fwlink/p/?linkid=842054)(หรือคลิก**การสมัครใช้งาน >การเรียกเก็บเงิน**)
+- ในศูนย์การจัดการ Microsoft 365 ให้ไปที่หน้า[การสมัครใช้งาน](https://go.microsoft.com/fwlink/p/?linkid=842054)(หรือคลิก**การเรียกเก็บเงิน>การเรียกเก็บเงิน**)
 
 - เลือกการสมัครใช้งานที่คุณต้องการเปิดใช้งานอีกครั้ง แล้วคลิก**เปิดใช้งานใหม่** หากคุณไม่เห็น **"เปิดใช้งานอีกครั้ง**เป็นการดําเนินการที่มีให้ใช้งาน"[ให้ติดต่อฝ่ายสนับสนุน](https://support.office.com/article/call-support-32a17ca7-6fa0-4870-8a8d-e25ba4ccfd4b)เพื่อเปิดใช้งานการสมัครใช้งานของคุณอีกครั้ง
 
@@ -42,6 +42,6 @@ ms.locfileid: "43191084"
 
 **เปิดใช้งานการสมัครใช้งานใหม่ด้วยหมายเลขผลิตภัณฑ์**
 
-- เมื่อต้องการเปิดใช้งานการสมัครใช้งาน Office 365 ใหม่ด้วยคีย์ผลิตภัณฑ์ของคุณ ให้เริ่ม[ที่นี่](https://support.office.com/article/where-to-enter-your-office-product-key-0a82e5ae-739e-4b92-a6f4-2ec780c185db)
+- เมื่อต้องการเปิดใช้งานการสมัครใช้งาน Microsoft 365 ใหม่ด้วยหมายเลขผลิตภัณฑ์ของคุณ ให้เริ่ม[ที่นี่](https://support.office.com/article/where-to-enter-your-office-product-key-0a82e5ae-739e-4b92-a6f4-2ec780c185db)
 
-- ใส่คีย์ผลิตภัณฑ์ Office 365 ของคุณ และทําตามพร้อมท์เพื่อเปิดใช้งานการสมัครใช้งานของคุณ ถ้าคุณมีปัญหากับการเปิดใช้งาน ให้ตรวจสอบรายการของ[ข้อผิดพลาดและการแก้ไขปัญหาคีย์ผลิตภัณฑ์ทั่วไป](https://docs.microsoft.com/microsoft-365/commerce/product-key-errors-and-solutions)
+- ใส่คีย์ผลิตภัณฑ์ Microsoft 365 ของคุณ และทําตามพร้อมท์เพื่อเปิดใช้งานการสมัครใช้งานของคุณ ถ้าคุณมีปัญหากับการเปิดใช้งาน ให้ตรวจสอบรายการของ[ข้อผิดพลาดและการแก้ไขปัญหาคีย์ผลิตภัณฑ์ทั่วไป](https://docs.microsoft.com/microsoft-365/commerce/product-key-errors-and-solutions)

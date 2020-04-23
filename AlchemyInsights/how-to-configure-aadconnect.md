@@ -1,9 +1,9 @@
 ---
-title: 646 วิธีการการตั้งค่าคอนฟิก AADConnect
+title: 646วิธีการกําหนดค่า AADConnect
 ms.author: chrisda
 author: chrisda
 manager: dansimp
-ms.date: 6/8/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,25 +12,25 @@ ms.custom:
 - "646"
 - "1300023"
 ms.assetid: 599698ac-6709-477a-a66f-169b3165064e
-ms.openlocfilehash: 316d7253494c55a9bc94797d493897c2ddec516c
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 713cda26e55f07f0438cb9ebe5aa9da86c4ebb3a
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36541604"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43722582"
 ---
-# <a name="configure-sync-features"></a>การตั้งค่าคอนฟิกลักษณะการทำข้อมูลให้ตรงกัน
+# <a name="configure-sync-features"></a>กําหนดค่าคุณลักษณะการซิงค์
 
-การเชื่อมต่อ AD azure มีคุณลักษณะหลายประการที่จะเปิดใช้งาน โดยค่าเริ่มต้น หรือ ที่คุณสามารถเปิดใช้งานในภายหลัง คุณลักษณะบางอย่างจำเป็นต้องมีการตั้งค่าคอนฟิกเพิ่มเติมในสภาพแวดล้อมที่เฉพาะเจาะจง
+การเชื่อมต่อ AD Azure มีคุณลักษณะหลายอย่างที่เปิดใช้งาน โดยค่าเริ่มต้น หรือที่คุณสามารถเปิดใช้งานในภายหลัง คุณลักษณะบางอย่างจําเป็นต้องมีการกําหนดค่าเพิ่มเติมในสภาพแวดล้อมเฉพาะ
 
-- ขีดจำกัด[การกรอง](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnectsync-configure-filtering)วัตถุจะซิงโครไนส์เพื่อโฆษณา Azure โดยค่าเริ่มต้น ผู้ใช้ ผู้ติดต่อ กลุ่ม และทั้งหมด Windows 10 บัญชีคอมพิวเตอร์มีการซิงโครไนส์ คุณสามารถรวม หรือไม่รวมวัตถุที่ยึดตามโดเมน Ou หรือแอททริบิวต์อื่น ๆ
+- [การกรอง](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnectsync-configure-filtering)จํากัดวัตถุจะซิงโครไนส์กับโฆษณา Azure โดยค่าเริ่มต้น ผู้ใช้ทั้งหมด ผู้ติดต่อ กลุ่ม และ Windows 10 บัญชีคอมพิวเตอร์จะซิงโครไนส์ คุณสามารถรวมหรือแยกวัตถุตามโดเมน, OUs หรือแอตทริบิวต์อื่นๆ ได้
 
-- [ซิงโครไนส์แฮชของรหัสผ่าน](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnectsync-implement-password-hash-synchronization)ซิงโครไนส์แฮชของรหัสผ่านจากไดเรกทอรีที่ใช้งานอยู่ในสถานที่เพื่อโฆษณา Azure ซึ่งช่วยให้การจัดการรหัสผ่านในสถานหนึ่ง แต่ใช้รหัสผ่านเดียวกันในทั้งสองในสถาน และสภาพแวดล้อมที่ cloud เนื่องจากไดเรกทอรีที่ใช้งานอยู่ไม่เชื่อถือแหล่งที่มา คุณสามารถใช้นโยบายรหัสผ่านของคุณเอง
+- [ซิงโครไนส์แฮรหัสผ่าน](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnectsync-implement-password-hash-synchronization)แฮซิงโครไนส์แฮรหัสผ่านจากไดเรกทอรีที่ใช้งานอยู่ในสถานที่เพื่อโฆษณา Azure วิธีนี้ช่วยให้การจัดการรหัสผ่านอยู่ในตําแหน่งเดียว แต่ใช้รหัสผ่านเดียวกันทั้งในสภาพแวดล้อมภายในและระบบคลาวด์ เนื่องจาก Active Directory เป็นแหล่งที่เชื่อถือได้ คุณจึงสามารถใช้นโยบายรหัสผ่านของคุณเองได้
 
-- [(SSPR) การรีเซ็ตรหัสผ่านด้วยตนเอง](https://docs.microsoft.com/azure/active-directory/authentication/quickstart-sspr)อนุญาตให้ผู้ใช้สามารถรีเซ็ตรหัสผ่านของตนเองใน cloud ขณะที่ยังคง ใช้นโยบายรหัสผ่านของคุณในสถาน
+- [การรีเซ็ตรหัสผ่านด้วยตนเอง (SSPR)](https://docs.microsoft.com/azure/active-directory/authentication/quickstart-sspr)ช่วยให้ผู้ใช้สามารถรีเซ็ตรหัสผ่านของตนเองในระบบคลาวด์ในขณะที่ยังคงใช้นโยบายรหัสผ่านในสถานที่ของคุณ
 
-- [เขียนกลับอุปกรณ์](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-feature-device-writeback)ช่วยให้อุปกรณ์ที่ลงทะเบียนใน Azure โฆษณาที่มีการบันทึกกลับไปยัง Active Directory ในสถานเพื่อให้สามารถใช้สำหรับการเข้าถึงแบบมีเงื่อนไข
+- [อุปกรณ์ writeback](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-feature-device-writeback)ช่วยให้อุปกรณ์ที่ลงทะเบียนในโฆษณา Azure จะถูกเขียนกลับไปยังไดเรกทอรีที่ใช้งานอยู่ในสถานที่เพื่อให้สามารถใช้สําหรับการเข้าถึงแบบมีเงื่อนไข
 
-- [กรณีการป้องกันลบ](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnectsync-feature-prevent-accidental-deletes)ถูกเปิดใช้งาน โดยค่าเริ่มต้นเพื่อช่วยป้องกันการลบวัตถุพร้อม ๆ กันมากเกินไป (เกินกว่า 500 วัตถุต่อการซิงโครไนส์) คุณสามารถเปลี่ยนการตั้งค่านี้ให้ตรงกับความต้องการขององค์กรของคุณ
+- [ป้องกันการลบโดยไม่ตั้งใจ](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnectsync-feature-prevent-accidental-deletes)ถูกเปิดใช้งานโดยค่าเริ่มต้นเพื่อช่วยป้องกันการลบวัตถุพร้อมกันมากเกินไป (มากกว่า 500 วัตถุต่อการทําข้อมูลให้ตรงกัน) คุณสามารถเปลี่ยนการตั้งค่านี้ให้ตรงกับความต้องการขององค์กรของคุณ
 
-- [การอัพเกรดอัตโนมัติ](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-feature-automatic-upgrade)ถูกเปิดใช้งาน โดยค่าเริ่มต้นสำหรับการติดตั้งด่วน และช่วยให้แน่ใจว่า เชื่อมต่อ AD Azure รุ่นของคุณเป็นปัจจุบันเสมอ
+- [การปรับรุ่นอัตโนมัติ](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-feature-automatic-upgrade)ถูกเปิดใช้งานโดยค่าเริ่มต้นสําหรับการติดตั้งแบบด่วน และช่วยให้มั่นใจว่ารุ่นของการเชื่อมต่อ AD Azure เป็นรุ่นล่าสุดอยู่เสมอ

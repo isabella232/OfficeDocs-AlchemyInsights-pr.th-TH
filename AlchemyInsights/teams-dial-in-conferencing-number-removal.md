@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002248"
 - "4352"
-ms.openlocfilehash: 6b1d6043013fd90d2aa7e5688c25cc1186d734f1
-ms.sourcegitcommit: 1173501899034ad5f6a432311bc3f1091ead3efa
+ms.openlocfilehash: 5677d41c37f3114f40c2fae7cb0fd48c040813a6
+ms.sourcegitcommit: 6a3748f5c05693ca0c19a829287cb8f30635940c
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 04/16/2020
-ms.locfileid: "43541864"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43789033"
 ---
 # <a name="teams-dial-in-conferencing-number-removal"></a>ทีมโทรเข้าหมายเลขในการโทร
 
@@ -24,7 +24,7 @@ ms.locfileid: "43541864"
 
 หมายเลขโทรศัพท์เริ่มต้นของบริดจ์การประชุมกําหนด ID ผู้เรียกที่จะใช้เมื่อผู้เข้าร่วมประชุมหรือผู้จัดการประชุมจากภายในการประชุม
 
-1. ลงชื่อเข้าใช้ Office 365 ด้วยบัญชีผู้ใช้งานของคุณ
+1. ลงชื่อเข้าใช้ด้วยบัญชีที่ทํางานของคุณ
 
 2. ไปที่**ศูนย์การจัดการ Microsoft 365**
 

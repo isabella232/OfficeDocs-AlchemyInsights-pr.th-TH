@@ -2,7 +2,7 @@
 title: การเก็บข้อมูลและการลบ OneDrive
 ms.author: pebaum
 author: pebaum
-ms.date: 8/6/2019
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,26 +12,26 @@ ms.assetid: ''
 ms.custom:
 - "9000596"
 - "2440"
-ms.openlocfilehash: fd16c3b83a6c3e9f89dfe51cef3b849335e6c899
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: 5fd6685d02d8178dd524dcc295af1021b17d61b7
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40053352"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43761366"
 ---
 # <a name="onedrive-retention-and-deletion"></a>การเก็บข้อมูลและการลบ OneDrive
 
-- คุณสามารถ[คืนค่าผู้ใช้ที่ถูกลบไปแล้ว OneDrive](https://docs.microsoft.com/onedrive/restore-deleted-onedrive)ด้วยตัวคุณเอง พวกเขาอยู่ในถังรีไซเคิลสำหรับ๙๓วัน. 
+- คุณสามารถ[คืนค่าผู้ใช้ที่ถูกลบ OneDrive](https://docs.microsoft.com/onedrive/restore-deleted-onedrive)ด้วยตัวคุณเอง พวกเขาอยู่ในถังรีไซเคิลสําหรับ 93 วัน 
 
 - ดู[บทความนี้](https://docs.microsoft.com/onedrive/restore-deleted-onedrive)เพื่อเรียนรู้:
-    - วิธีการให้ผู้ใช้อื่นเข้าถึง OneDrive ของผู้ใช้ที่ถูกลบ
-    - เกิดอะไรขึ้นกับ OneDrive ของผู้ใช้เมื่อคุณลบบัญชี Office ๓๖๕ของผู้ใช้สำหรับองค์กรของคุณ
-    - วิธีการกำหนดค่าการมอบหมายการเข้าถึงอัตโนมัติ
-    - วิธีการทำงานของกระบวนการลบ OneDrive
+    - วิธีการให้สิทธิ์การเข้าถึง OneDrive ของผู้ใช้ที่ถูกลบของผู้ใช้รายอื่น
+    - สิ่งที่เกิดขึ้นกับ OneDrive ของผู้ใช้เมื่อคุณลบบัญชี Microsoft 365 ของผู้ใช้สําหรับองค์กรของคุณ
+    - วิธีการกําหนดค่าการมอบหมายการเข้าถึงโดยอัตโนมัติ
+    - วิธีการทํางานของกระบวนการลบ OneDrive
 
-- สนใจในการรักษาความปลอดภัยและการปฏิบัติตามกฎระเบียบและระงับ?:
-    - [นโยบายการเก็บข้อมูลสำหรับ OneDrive และไซต์ SharePoint](https://docs.microsoft.com/office365/securitycompliance/retention-policies?redirectSourcePath=%252farticle%252f5e377752-700d-4870-9b6d-12bfc12d2423#content-in-onedrive-accounts-and-sharepoint-sites)
-    - [การระงับ eDiscovery สำหรับ OneDrive และไซต์ SharePoint](https://docs.microsoft.com/office365/securitycompliance/ediscovery-cases#step-4-place-content-locations-on-hold)
+- สนใจเก็บรักษาศูนย์ความปลอดภัยและการปฏิบัติตามกฎระเบียบและถือ:
+    - [นโยบายการเก็บข้อมูลสําหรับไซต์ OneDrive และ SharePoint](https://docs.microsoft.com/office365/securitycompliance/retention-policies?redirectSourcePath=%252farticle%252f5e377752-700d-4870-9b6d-12bfc12d2423#content-in-onedrive-accounts-and-sharepoint-sites)
+    - [การหยุด eDiscovery สําหรับไซต์ OneDrive และ SharePoint](https://docs.microsoft.com/office365/securitycompliance/ediscovery-cases#step-4-place-content-locations-on-hold)
 
 
 

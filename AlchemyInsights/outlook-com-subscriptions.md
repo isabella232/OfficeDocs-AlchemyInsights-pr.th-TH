@@ -1,30 +1,30 @@
 ---
-title: ๙๐๐๐๒๑๕การสมัครสมาชิก Outlook.com
+title: 9000215Outlook.comการสมัครสมาชิก
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 2/26/19
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 9000215
-ms.openlocfilehash: 03a76b467d24c1a4e7e478d9ecc2bd4dad8aff7c
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: 8968b278cb5e99c5ce6cae9c79e441546deb58ec
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "36511830"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43722323"
 ---
-# <a name="subscriptions-and-unsubscribing"></a>การสมัครรับข้อมูลและการยกเลิกการสมัครสมาชิก
+# <a name="subscriptions-and-unsubscribing"></a>การสมัครรับข้อมูลและยกเลิกการสมัคร
 
-หากคุณต้องการหยุดรับจดหมายข่าวหรือโปรโมชั่นมีสองวิธีที่คุณสามารถยกเลิกการเป็นสมาชิกใน Outlook.com:
+หากคุณต้องการหยุดรับจดหมายข่าวหรือโปรโมชั่นมีสองวิธีที่คุณสามารถยกเลิกการสมัครรับในOutlook.com:
 
-1. ในกล่องจดหมายให้เลือกจดหมายข่าวหรือส่งเสริมการขาย ที่ด้านบนของบานหน้าต่างการอ่านให้เลือก**ยกเลิก**การสมัครสมาชิก
-2. เปิด[การตั้งค่าการบอกรับเป็นสมาชิก Outlook.com](https://outlook.live.com/mail/options/mail/brandsSubscriptions) (**การตั้งค่า** > **ดูการตั้งค่าการสมัครรับข้อมูล Outlook ทั้งหมด** > **** > ) และเลือก**ยกเลิก**การเป็น**สมาชิก**
+1. ในกล่องจดหมายของคุณ ให้เลือกจดหมายข่าวหรืออีเมลส่งเสริมการขาย ที่ด้านบนของบานหน้าต่างการอ่าน ให้เลือก**ยกเลิกการสมัคร**
+2. เปิด[การตั้งค่าการสมัครใช้งานOutlook.com](https://outlook.live.com/mail/options/mail/brandsSubscriptions)ของคุณ (**การตั้งค่า** > **มุมมอง การตั้งค่า Outlook ทั้งหมด** > การตั้งค่า**อีเมล** > **)** และเลือก**ยกเลิกการเป็นสมาชิก**
 
 หมาย เหตุ:
 
-- ลูกค้าบางรายอาจได้รับประโยชน์จากคุณลักษณะนี้ในขณะนี้
-- คุณจะเห็นคุณลักษณะนี้เฉพาะเมื่อคุณได้รับข้อความจากบริษัทที่ส่งการสมัครใช้งานทาง e-mail
+- ลูกค้าไม่สามารถได้รับประโยชน์จากคุณลักษณะนี้ในขณะนี้
+- คุณจะเห็นคุณสมบัตินี้ก็ต่อเมื่อคุณได้รับอีเมลจากบริษัทที่ส่งอีเมล์ที่สมัครรับข้อมูลแล้วเท่านั้น

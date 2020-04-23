@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002570"
 - "4985"
-ms.openlocfilehash: 4508c70331f8d83f9f3569c64d49e963af801eb9
-ms.sourcegitcommit: 6ecb6fcbd738b8896c5d616130074438a1a6e357
+ms.openlocfilehash: e78b560329254f7035869c076db5ff31427dc7ae
+ms.sourcegitcommit: 6a3748f5c05693ca0c19a829287cb8f30635940c
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 04/16/2020
-ms.locfileid: "43530558"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43783990"
 ---
 # <a name="domain-transfers"></a>การโอนย้ายโดเมน
 
@@ -24,9 +24,9 @@ ms.locfileid: "43530558"
 
     - แม้ว่า Microsoft โดเมนที่ซื้อแล้วจะไม่สนับสนุนการเปลี่ยนแปลงระเบียน NS แต่ให้[ปรับปรุงระเบียน DNS สําหรับเว็บไซต์ของคุณ](https://docs.microsoft.com/microsoft-365/admin/dns/update-dns-records-to-retain-current-hosting-provider?view=o365-worldwide)แทนที่จะถ่ายโอนการลงทะเบียนโดเมนของคุณไปยังเว็บโฮสต์
 
-- ไม่สามารถถ่ายโอนโดเมนที่ซื้อของ Microsoft ระหว่างผู้เช่า Office 365 ได้ 
+- ไม่สามารถถ่ายโอนโดเมนที่ซื้อของ Microsoft ระหว่างผู้เช่า Microsoft 365 ได้ 
 
-    - อย่างไรก็ตาม คุณสามารถถ่ายโอนโดเมนของบริษัทอื่นระหว่างผู้เช่า Office 365 โดยการ[เอาโดเมนจากผู้เช่าหนึ่ง](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/remove-a-domain?view=o365-worldwide)แล้วตรวจสอบโดเมนในผู้เช่าอื่น
+    - อย่างไรก็ตาม คุณสามารถถ่ายโอนโดเมนของบริษัทอื่นระหว่างผู้เช่า Microsoft 365 โดยการ[เอาโดเมนจากผู้เช่าหนึ่ง](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/remove-a-domain?view=o365-worldwide)แล้ว ตรวจสอบโดเมนในผู้เช่าอื่น
 
 - การลงทะเบียนโดเมนหรือการเรียกเก็บเงินของบุคคลที่สามไม่สามารถโอนไปยัง Microsoft ได้
 

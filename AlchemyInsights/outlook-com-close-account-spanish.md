@@ -1,25 +1,25 @@
 ---
-title: 8000067 - บัญชีปิด Outlook.com - สเปน
+title: 8000067 - Outlook.comปิดบัญชี - สเปน
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 3/7/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 8000067
-ms.openlocfilehash: 2742e0efd1e38b0e2dbb5d19f2403e542a908cde
-ms.sourcegitcommit: 327a2c77afc2ff3d67d3aaaea1a92068a3c4bb1f
+ms.openlocfilehash: 926024900c10d75f04596d6f455e63924df630ca
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 08/06/2019
-ms.locfileid: "35745888"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43722179"
 ---
-# <a name="cerrar-la-cuenta-de-outlookcom"></a>Cerrar la cuenta de Outlook.com
+# <a name="cerrar-la-cuenta-de-outlookcom"></a>เซอร์ราร์ลาเกวนตาเดOutlook.com
 
-ย่อหน้า cerrar permanentemente แ cuenta de correo electrónico de Outlook.com แ cerrar deberá Cuenta de Microsoft
+สําหรับข้อมูลในOutlook.comOutlook.com
 
-Cierre Cuando la Microsoft de Cuenta แ correo electrónico y sus contactos se eliminarán de nuestros servidores y recuperar podrán ไม่มี se
+ผมเป็นไมโครซอฟท์, คุณและนักข่าวและนักข่าวและนักข่าวในองค์กร
 
-[โย cómo cerrar แ cuenta](https://support.office.com/es-es/article/cerrar-la-cuenta-de-outlook-com-564b801e-2a47-4cb2-afa8-12ead3185038?ui=es-ES&rs=es-ES&ad=ES?wt.mc_id=Office_Outlook_com_Alchemy)
+[มี 100 ท่านกําลังค้นหาที่พักในเซราร์ราร์ราร์ราร์ราร์ราร์](https://support.office.com/es-es/article/cerrar-la-cuenta-de-outlook-com-564b801e-2a47-4cb2-afa8-12ead3185038?ui=es-ES&rs=es-ES&ad=ES?wt.mc_id=Office_Outlook_com_Alchemy)

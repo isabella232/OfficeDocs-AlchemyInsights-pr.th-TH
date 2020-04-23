@@ -11,22 +11,22 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001427"
 - "3419"
-ms.openlocfilehash: 11bbb2180c94f1c8d7a00fc944d35ee6f6dc4ddf
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: ae503796623c2d6d08a09f719109c3d23b34a26b
+ms.sourcegitcommit: 89ae9e8b36d1980f89f07b016fff0ec48f96b620
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43713269"
+ms.lasthandoff: 04/23/2020
+ms.locfileid: "43787749"
 ---
 # <a name="office-apps-message---weve-run-into-a-problem-with-your-subscription"></a>ข้อความแอป Office - เราพบปัญหาเกี่ยวกับการสมัครใช้งานของคุณ
 
-- ถ้าคุณได้สลับไปยังการสมัครใช้งาน Office 365/แผนอื่นเมื่อเร็วๆ นี้ ให้ทําตามขั้นตอนใน["ประกาศเกี่ยวกับบัญชี" ปรากฏขึ้นใน Office หลังจากสลับแผน Office 365](https://support.office.com/article/-account-notice-appears-in-office-after-switching-office-365-plans-857dc33a-1efc-4ce7-ac3f-ef616314e27d)เพื่อติดตั้งใหม่หรือปรับปรุง Office
+- ถ้าคุณได้สลับไปยังการสมัครใช้งาน/แผนอื่นเมื่อเร็ว ๆ นี้ ให้ทําตามขั้นตอนใน["ประกาศเกี่ยวกับบัญชี" ปรากฏขึ้นใน Office หลังจากสลับแผน](https://support.office.com/article/-account-notice-appears-in-office-after-switching-office-365-plans-857dc33a-1efc-4ce7-ac3f-ef616314e27d)การติดตั้งหรือปรับปรุง Office
 
-- ดู[ข้อผิดพลาด Office "ประกาศเกี่ยวกับบัญชี: เราพบปัญหาเกี่ยวกับการสมัครใช้งาน Office 365 ของคุณ"](https://support.office.com/article/office-error-account-notice-we-ve-run-into-a-problem-with-your-office-365-subscription-17f71ecb-f53c-4f3d-ae18-7230ca1594c1)
+- ดู[ข้อผิดพลาด Office "ประกาศเกี่ยวกับบัญชี: เราพบปัญหาเกี่ยวกับการสมัครใช้งานของคุณ"](https://support.office.com/article/office-error-account-notice-we-ve-run-into-a-problem-with-your-office-365-subscription-17f71ecb-f53c-4f3d-ae18-7230ca1594c1)
 
 - เอาออก และกําหนด[สิทธิ์การใช้งาน Office](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users?view=o365-worldwide#assign-licenses-to-one-user)ให้กับผู้ใช้ที่ได้รับผลกระทบ 
 
-- เปิดแอป Office ไปที่**ไฟล์ >บัญชี**และ ออกจากระบบบัญชีทั้งหมด ลงชื่อเข้าใช้อีกครั้งโดยใช้บัญชีผู้ใช้ที่มีใบอนุญาตที่ถูกต้อง สําหรับข้อมูลเพิ่มเติม ให้ดูที่[ลูกค้าองค์กรใน Office](https://support.office.com/article/accounts-in-office-628ea040-f265-49de-b986-be09c3ebf8a9)
+- เปิดแอป Office ไปที่**ไฟล์ >บัญชี**และ ออกจากระบบบัญชีทั้งหมด ลงชื่อเข้าใช้อีกครั้งโดยใช้บัญชีผู้ใช้ที่มีใบอนุญาตที่ถูกต้อง สำหรับข้อมูลโดยละเอียด โปรดดู[บัญชีใน Office](https://support.office.com/article/accounts-in-office-628ea040-f265-49de-b986-be09c3ebf8a9)
 
 - เรียกใช้[ตัวแก้ไขปัญหาการเปิดใช้งาน](https://aka.ms/SARA-OfficeActivation-Alchemy)และรีสตาร์ทคอมพิวเตอร์
 
@@ -34,6 +34,6 @@ ms.locfileid: "43713269"
 
 สําหรับคําแนะนํารายละเอียด ให้ดูที่ 
 
-[ประกาศการสมัครใช้งานปรากฏขึ้นเมื่อฉันเปิดแอปพลิเคชัน Office 365](https://support.office.com/article/a-subscription-notice-appears-when-i-open-an-office-365-application-4cabe32c-f594-4c0e-9191-3d3ade10cceb)
+[ประกาศการสมัครใช้งานจะปรากฏขึ้นเมื่อฉันเปิดโปรแกรมประยุกต์ Microsoft](https://support.office.com/article/a-subscription-notice-appears-when-i-open-an-office-365-application-4cabe32c-f594-4c0e-9191-3d3ade10cceb)
 
 [การแก้ไขปัญหาการเปิดใช้งาน Office](https://support.office.com/article/unlicensed-product-and-activation-errors-in-office-0d23d3c0-c19c-4b2f-9845-5344fedc4380)

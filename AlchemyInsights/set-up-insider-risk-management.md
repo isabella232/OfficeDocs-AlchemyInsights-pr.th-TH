@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002284"
 - "4405"
-ms.openlocfilehash: 556150c41ccf363e6025ba6fac0660d1fb74f9b8
-ms.sourcegitcommit: 92e9a649532f5231ceedcafc4d14b8ad18d517c2
+ms.openlocfilehash: 72a189b64aecba3a46b6150e304ce3b8674fbb1a
+ms.sourcegitcommit: 6a3748f5c05693ca0c19a829287cb8f30635940c
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 03/31/2020
-ms.locfileid: "43060016"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43784566"
 ---
 # <a name="set-up-insider-risk-management"></a>ตั้งค่าการบริหารความเสี่ยงภายใน
 
@@ -26,13 +26,13 @@ ms.locfileid: "43060016"
 
 - การสมัครใช้งาน**Microsoft 365 E3**กับ Add-on การปฏิบัติตามข้อกําหนดของ Microsoft E5
 
-ถ้าคุณไม่มีแผน**Microsoft 365 E5**ที่มีอยู่ และต้องการลองจัดการความเสี่ยงภายใน คุณสามารถเพิ่ม Microsoft 365 ลงในการสมัครใช้งาน Office 365 ที่มีอยู่หรือลงทะเบียนเพื่อทดลองใช้ Microsoft 365 Enterprise E5
+ถ้าคุณไม่มีแผน**Microsoft 365 E5**ที่มีอยู่ และต้องการลองการบริหารความเสี่ยงภายใน คุณสามารถเพิ่ม Microsoft 365 ลงในการสมัครใช้งานที่มีอยู่หรือลงทะเบียนเพื่อทดลองใช้ Microsoft 365 Enterprise E5
 
 ขั้นตอนพื้นฐานสําหรับการใช้การบริหารความเสี่ยงภายใน ได้แก่
 
 1. เปิดใช้งานสิทธิ์สําหรับการจัดการความเสี่ยงภายใน
 
-2. เปิดใช้งานบันทึกการตรวจสอบ Office 365
+2. เปิดใช้งานบันทึกการตรวจสอบ
 
 3. ตั้งค่าคอนฟิกข้อกําหนดเบื้องต้นสําหรับเท็มเพลต (ไม่จําเป็น)
 
