@@ -1,9 +1,9 @@
 ---
-title: บล็อกหรือยกเลิกการบล็อกผู้ส่งใน Outlook.com
+title: บล็อกหรือยกเลิกการบล็อกผู้ส่งในOutlook.com
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 6/20/2019
+ms.date: 04/23/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -15,29 +15,28 @@ ms.custom:
 - "8000015"
 - "8000017"
 ms.assetid: 2ef840ec-7e1a-4df2-944b-d643fe08bd8f
-ms.openlocfilehash: af1daa00bbb2ec93622ac8f4dc9004bb3b65b761
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: b6a80faa0542f3f68ac431e4ccd7b59894e8eeb9
+ms.sourcegitcommit: 86881d80c859e68bdf9d301a2df6ca9d75e086a0
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "37768747"
+ms.lasthandoff: 04/23/2020
+ms.locfileid: "43793974"
 ---
-# <a name="block-or-unblock-senders"></a>บล็อกหรือเลิกบล็อกผู้ส่ง
+# <a name="block-or-unblock-senders"></a>บล็อกหรือยกเลิกการบล็อกผู้ส่ง
 
-ข้อความจากที่อยู่ e-mail หรือโดเมนบนผู้ส่งที่ถูกบล็อกของคุณจะไปยังโฟลเดอร์ Email ขยะ Outlook โดยตรง โดยอัตโนมัติจะถูกลบออกจากโฟลเดอร์เมลขยะหลังจาก30วันและไม่ได้รับการกู้คืน เลือกรายการที่จะดูเมื่อจะถูกเอาออก
+ข้อความจากที่อยู่อีเมลหรือโดเมนในรายชื่อผู้ส่งที่ถูกบล็อกจะไม่มาที่กล่องจดหมายOutlook.comของคุณ
 
 **จากกล่องจดหมายของคุณ:**
 
-- ในรายการข้อความให้เลือกข้อความแล้วเลือกบล็อก**ขยะ** > ****
-- **หมายเหตุ:** การบล็อกรายการที่อยู่ในโฟลเดอร์ ' เมลขยะ ' ของคุณจะไม่ถูกลบออก
+- ในรายการข้อความ ให้เลือกข้อความ แล้วเลือก**บล็อกขยะ** > **Block**
 
 **จากการตั้งค่า:**
 
-1. เปิดการตั้งค่า[เมลขยะ](https://outlook.live.com/mail/options/mail/junkEmail)
-2. ภายใต้ผู้**ส่งและโดเมนที่ถูกบล็อก**ให้เลือก**เพิ่ม**
-3. พิมพ์ที่อยู่ e-mail ของโดเมนที่คุณต้องการบล็อกและกด Enter
+1. เปิดการตั้งค่า[อีเมลขยะ](https://outlook.live.com/mail/options/mail/junkEmail)
+2. ภายใต้**ผู้ส่งและโดเมนที่ถูกบล็อก**ให้เลือก**เพิ่ม**
+3. พิมพ์ที่อยู่อีเมลของโดเมนที่คุณต้องการบล็อกและกด Enter
 4. เลือก**บันทึก**
 
-หากต้องการเลิกบล็อกผู้ส่งให้เลือกไอคอนถังขยะถัดจากที่อยู่หรือโดเมนที่คุณต้องการเลิกบล็อก
+หากต้องการเลิกบล็อกผู้ส่ง ให้เลือกไอคอนถังขยะถัดจากที่อยู่อีเมลหรือโดเมนที่คุณต้องการยกเลิกการบล็อก
 
-หากต้องการเรียนรู้เพิ่มเติมโปรดดูที่[ทำเครื่องหมายที่ email เป็นขยะหรือบล็อกผู้ส่งใน Outlook.com](https://support.office.com/article/a3ece97b-82f8-4a5e-9ac3-e92fa6427ae4?wt.mc_id=Office_Outlook_com_Alchemy)
+หากต้องการเรียนรู้เพิ่มเติม ให้ดูที่[บล็อกผู้ส่งหรือทําเครื่องหมายอีเมลว่าเป็นขยะ](https://support.office.com/article/a3ece97b-82f8-4a5e-9ac3-e92fa6427ae4?wt.mc_id=Office_Outlook_com_Alchemy)
