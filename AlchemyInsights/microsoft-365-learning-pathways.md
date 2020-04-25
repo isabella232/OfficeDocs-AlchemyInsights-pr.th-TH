@@ -1,0 +1,29 @@
+---
+title: เส้นทางการเรียนรู้ของ Microsoft 365
+ms.author: pebaum
+author: pebaum
+manager: mnirkhe
+ms.audience: Admin
+ms.topic: article
+ROBOTS: NOINDEX, NOFOLLOW
+localization_priority: Priority
+ms.collection: Adm_O365
+ms.custom:
+- "9002632"
+- "5054"
+ms.openlocfilehash: 91026438d65a10ef3e4e9e7ed20b5936d349acf4
+ms.sourcegitcommit: 312ed19d236006962f1b891d2961014959ab1898
+ms.translationtype: MT
+ms.contentlocale: th-TH
+ms.lasthandoff: 04/25/2020
+ms.locfileid: "43812850"
+---
+# <a name="microsoft-365-learning-pathways"></a><span data-ttu-id="0c768-102">เส้นทางการเรียนรู้ของ Microsoft 365</span><span class="sxs-lookup"><span data-stu-id="0c768-102">Microsoft 365 learning pathways</span></span>
+
+<span data-ttu-id="0c768-103">[เส้นทางการเรียนรู้ของ Microsoft 365](https://docs.microsoft.com/office365/customlearning/)เป็นโครงการโอเพ่นซอร์สที่ออกแบบมาเพื่อเพิ่มการใช้งานและการนําบริการของ Microsoft 365 ในองค์กรของคุณมาใช้</span><span class="sxs-lookup"><span data-stu-id="0c768-103">[Microsoft 365 learning pathways](https://docs.microsoft.com/office365/customlearning/) is an open source project designed to increase usage and adoption of Microsoft 365 services in your organization.</span></span>
+
+- <span data-ttu-id="0c768-104">คุณจะต้องลงชื่อสมัครใช้[บัญชี GitHub](http://aka.ms/joingithub)เพื่อใช้โซลูชันนี้</span><span class="sxs-lookup"><span data-stu-id="0c768-104">You'll need to sign-up for a [GitHub account](http://aka.ms/joingithub) to use the solutions.</span></span>
+- <span data-ttu-id="0c768-105">โครงการได้รับการสนับสนุนผ่าน[GitHub ออนไลน์รายการปัญหา](https://aka.ms/CustomLearningHelp)</span><span class="sxs-lookup"><span data-stu-id="0c768-105">The project is supported through the GitHub [online issues list](https://aka.ms/CustomLearningHelp).</span></span>
+- <span data-ttu-id="0c768-106">ทบทวน[คําถามที่พบบ่อยเกี่ยวกับเส้นทางการเรียนรู้](https://docs.microsoft.com/office365/customlearning/faq)- จัดทําเอกสารปัญหายอดนิยมและอัปเดตบ่อยตามคําติชม</span><span class="sxs-lookup"><span data-stu-id="0c768-106">Review the [learning pathways FAQ](https://docs.microsoft.com/office365/customlearning/faq) - documented top issues and updated frequently based off feedback.</span></span>
+
+<span data-ttu-id="0c768-107">**หมายเหตุ**: โซลูชันเส้นทางการเรียนรู้และส่วนประกอบของ Microsoft**จะไม่**ครอบคลุม</span><span class="sxs-lookup"><span data-stu-id="0c768-107">**Note**: The learning pathways solution and it's components **are not** covered by any Microsoft support contract.</span></span>
