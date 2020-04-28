@@ -1,5 +1,5 @@
 ---
-title: 764 เพิ่ม/ตั้งค่าบัญชีอีเมล
+title: เพิ่ม/ตั้งค่าบัญชีอีเมล 764
 ms.author: pdigia
 author: pebaum
 ms.date: 04/21/2020
@@ -11,23 +11,22 @@ ms.custom:
 - "764"
 - "1800018"
 ms.assetid: afd20b89-09e9-4746-ac16-e282382dd948
-ms.openlocfilehash: 2495ad459e1eb318ad2f3e9753a4bae07fa8909a
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 3e6cda6d0a21ebca7647662809dd55d942304471
+ms.sourcegitcommit: 07725fcaf073f0ac145f98653b989afdb34c5ad0
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43671404"
+ms.lasthandoff: 04/28/2020
+ms.locfileid: "43914997"
 ---
-# <a name="setup-email-accounts"></a><span data-ttu-id="e1d7a-102">ตั้งค่าบัญชีอีเมล</span><span class="sxs-lookup"><span data-stu-id="e1d7a-102">Setup email accounts</span></span>
+# <a name="set-up-email-accounts"></a><span data-ttu-id="7fcbd-102">ตั้งค่าบัญชีอีเมล</span><span class="sxs-lookup"><span data-stu-id="7fcbd-102">Set up email accounts</span></span>
 
-1. <span data-ttu-id="e1d7a-103">ใน Outlook ให้เลือก**ข้อมูล** > **ไฟล์** > **เพิ่มบัญชี**</span><span class="sxs-lookup"><span data-stu-id="e1d7a-103">In Outlook, select **File** > **Info** > **Add Account**.</span></span>
+1. <span data-ttu-id="7fcbd-103">ใน Outlook**File** > ให้คลิก**เพิ่มบัญชี\*\*\*\*ข้อมูล** > ไฟล์</span><span class="sxs-lookup"><span data-stu-id="7fcbd-103">In Outlook, click **File** > **Info** > **Add Account**.</span></span>
 
-2. <span data-ttu-id="e1d7a-104">ป้อนที่อยู่อีเมลของคุณ แล้วเลือก**Connect**</span><span class="sxs-lookup"><span data-stu-id="e1d7a-104">Enter your email address, and then select **Connect**.</span></span>
+2. <span data-ttu-id="7fcbd-104">ป้อนที่อยู่อีเมลของคุณ แล้วคลิก**เชื่อมต่อ**</span><span class="sxs-lookup"><span data-stu-id="7fcbd-104">Enter your email address and then click **Connect**.</span></span>
 
-3. <span data-ttu-id="e1d7a-105">ป้อนรหัสผ่านของคุณ แล้วเลือก**ตกลง**</span><span class="sxs-lookup"><span data-stu-id="e1d7a-105">Enter your password and then select **OK**.</span></span>
+3. <span data-ttu-id="7fcbd-105">ป้อนรหัสผ่านและคลิก**ตกลง**</span><span class="sxs-lookup"><span data-stu-id="7fcbd-105">Enter your password and click **OK**.</span></span>
 
-4. <span data-ttu-id="e1d7a-106">คุณสามารถทําซ้ําขั้นตอนเหล่านี้เพื่อเพิ่มหลายบัญชี</span><span class="sxs-lookup"><span data-stu-id="e1d7a-106">You can repeat these steps to add multiple accounts.</span></span>
+4. <span data-ttu-id="7fcbd-106">คุณสามารถทําซ้ําขั้นตอนเหล่านี้เพื่อเพิ่มหลายบัญชี</span><span class="sxs-lookup"><span data-stu-id="7fcbd-106">You can repeat these steps to add multiple accounts.</span></span>
 
-    > [!NOTE]
-    > <span data-ttu-id="e1d7a-107">บัญชีอีเมลบางบัญชี เช่น Gmail, Yahoo และ iCloud คุณจะต้องตั้งค่าการตรวจสอบสิทธิ์สองปัจจัยเพื่อใช้ Outlook เพื่อส่งและรับอีเมล</span><span class="sxs-lookup"><span data-stu-id="e1d7a-107">Some email accounts, like Gmail, Yahoo, and iCloud, require you to set up two-factor authentication in order to use Outlook to send and receive email.</span></span> <span data-ttu-id="e1d7a-108">ดู[เพิ่มบัญชีอีเมลไปยัง Outlook](https://support.office.com/article/6e27792a-9267-4aa4-8bb6-c84ef146101b.aspx)สําหรับข้อมูลเพิ่มเติม</span><span class="sxs-lookup"><span data-stu-id="e1d7a-108">See [Add an email account to Outlook](https://support.office.com/article/6e27792a-9267-4aa4-8bb6-c84ef146101b.aspx) for more information.</span></span>
+<span data-ttu-id="7fcbd-107">**หมายเหตุ**: บัญชีอีเมลบางบัญชี เช่น Gmail, Yahoo และ iCloud คุณจะต้องตั้งค่าการตรวจสอบสิทธิ์สองปัจจัยเพื่อใช้ Outlook เพื่อส่งและรับอีเมล</span><span class="sxs-lookup"><span data-stu-id="7fcbd-107">**Note**: Some email accounts, like Gmail, Yahoo, and iCloud, require you to set up two-factor authentication in order to use Outlook to send and receive email.</span></span> <span data-ttu-id="7fcbd-108">ดู[เพิ่มบัญชีอีเมลไปยัง Outlook](https://support.office.com/article/6e27792a-9267-4aa4-8bb6-c84ef146101b.aspx)สําหรับข้อมูลเพิ่มเติม</span><span class="sxs-lookup"><span data-stu-id="7fcbd-108">See [Add an email account to Outlook](https://support.office.com/article/6e27792a-9267-4aa4-8bb6-c84ef146101b.aspx) for more information.</span></span>
   

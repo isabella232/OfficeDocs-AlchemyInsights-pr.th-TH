@@ -1,5 +1,5 @@
 ---
-title: ทันสมัยไซต์ SharePoint ของคุณ
+title: ทําให้ไซต์ SharePoint ของคุณทันสมัย
 ms.author: v-miegge
 author: v-miegge
 ms.audience: Admin
@@ -11,19 +11,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000153"
 - "1692"
-ms.openlocfilehash: 8ee45688c5ffb4b02295e7a4df655c6e3a8dd6fe
-ms.sourcegitcommit: ef2abd2221398dea14e9bdbd19bf6ac3823a5f9b
+ms.openlocfilehash: b886dca3123bc2c437f4235c8d8ced7a5cc36a40
+ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 03/10/2020
-ms.locfileid: "42573232"
+ms.lasthandoff: 04/27/2020
+ms.locfileid: "43912805"
 ---
-# <a name="modernize-your-sharepoint-sites"></a><span data-ttu-id="8e6e2-102">ทันสมัยไซต์ SharePoint ของคุณ</span><span class="sxs-lookup"><span data-stu-id="8e6e2-102">Modernize your SharePoint Sites</span></span>
+# <a name="modernize-your-sharepoint-sites"></a><span data-ttu-id="fad82-102">ทําให้ไซต์ SharePoint ของคุณทันสมัย</span><span class="sxs-lookup"><span data-stu-id="fad82-102">Modernize your SharePoint Sites</span></span>
 
-<span data-ttu-id="8e6e2-103">สำหรับภาพรวมทีละขั้นตอนของทันไซต์ SharePoint คลาสสิกของคุณเพื่อประสบการณ์ที่ทันสมัยให้ดูที่[ไซต์ sharepoint แบบคลาสสิกของคุณ](https://docs.microsoft.com/sharepoint/dev/transform/modernize-classic-sites)</span><span class="sxs-lookup"><span data-stu-id="8e6e2-103">For a step-by-step overview of modernizing your classic SharePoint Sites to the modern experience, see [Modernize your classic SharePoint Sites](https://docs.microsoft.com/sharepoint/dev/transform/modernize-classic-sites).</span></span>
+<span data-ttu-id="fad82-103">สําหรับภาพรวมทีละขั้นตอนของการทําให้ไซต์ SharePoint แบบคลาสสิกของคุณทันสมัยทันสมัย ให้ดูที่[การทําให้ไซต์ SharePoint แบบคลาสสิกของคุณทันสมัย](https://docs.microsoft.com/sharepoint/dev/transform/modernize-classic-sites)ทันสมัย</span><span class="sxs-lookup"><span data-stu-id="fad82-103">For a step-by-step overview of modernizing your classic SharePoint Sites to the modern experience, see [Modernize your classic SharePoint Sites](https://docs.microsoft.com/sharepoint/dev/transform/modernize-classic-sites).</span></span>
 
-* <span data-ttu-id="8e6e2-104">เมื่อต้องการเพิ่มการใช้งานส่วนติดต่อผู้ใช้ที่ทันสมัยสำหรับหน้าเว็บไซต์และรายการและไลบรารีให้ดู[ที่หน้าจอสำหรับผู้ใช้](https://docs.microsoft.com/sharepoint/dev/transform/modernize-userinterface)</span><span class="sxs-lookup"><span data-stu-id="8e6e2-104">To maximize the use of the modern user interface for your site pages and list and library pages, see [Modernize the user interface](https://docs.microsoft.com/sharepoint/dev/transform/modernize-userinterface).</span></span>
-* <span data-ttu-id="8e6e2-105">หากต้องการเรียนรู้เพิ่มเติมเกี่ยวกับวิธีการยกเลิกการบล็อกรายการและไลบรารีของคุณเมื่อใช้อินเตอร์เฟซผู้ใช้ที่ทันสมัยให้ดู[ที่การใช้รายการและไลบรารีที่ทันสมัยที่](https://docs.microsoft.com/sharepoint/dev/transform/modernize-userinterface-lists-and-libraries)สุด</span><span class="sxs-lookup"><span data-stu-id="8e6e2-105">To learn more about how to unblock your lists and libraries when using the modern user interface, see [Maximize use of modern lists and libraries](https://docs.microsoft.com/sharepoint/dev/transform/modernize-userinterface-lists-and-libraries).</span></span>
-* <span data-ttu-id="8e6e2-106">สำหรับข้อมูลเพิ่มเติมเกี่ยวกับการเชื่อมต่อกับกลุ่ม Office ๓๖๕และดำเนินการเชื่อมต่อกลุ่มให้ดูที่[การเชื่อมต่อกับกลุ่ม Office ๓๖๕](https://docs.microsoft.com/sharepoint/dev/transform/modernize-connect-to-office365-group)</span><span class="sxs-lookup"><span data-stu-id="8e6e2-106">For more information about connecting to an Office 365 group and performing a group-connection, see [Connect to an Office 365 group](https://docs.microsoft.com/sharepoint/dev/transform/modernize-connect-to-office365-group).</span></span>
+* <span data-ttu-id="fad82-104">เมื่อต้องการขยายการใช้ส่วนติดต่อผู้ใช้ที่ทันสมัยสําหรับเพจไซต์และเพจรายการและไลบรารีของคุณ ให้ดูที่[ทําให้ส่วนติดต่อผู้ใช้ทันสมัย](https://docs.microsoft.com/sharepoint/dev/transform/modernize-userinterface)</span><span class="sxs-lookup"><span data-stu-id="fad82-104">To maximize the use of the modern user interface for your site pages and list and library pages, see [Modernize the user interface](https://docs.microsoft.com/sharepoint/dev/transform/modernize-userinterface).</span></span>
+* <span data-ttu-id="fad82-105">เมื่อต้องการเรียนรู้เพิ่มเติมเกี่ยวกับวิธีการยกเลิกการบล็อกรายการและไลบรารีของคุณเมื่อใช้ส่วนติดต่อผู้ใช้สมัยใหม่ ให้ดูที่[ขยายการใช้รายการและไลบรารีที่ทันสมัยที่สุด](https://docs.microsoft.com/sharepoint/dev/transform/modernize-userinterface-lists-and-libraries)</span><span class="sxs-lookup"><span data-stu-id="fad82-105">To learn more about how to unblock your lists and libraries when using the modern user interface, see [Maximize use of modern lists and libraries](https://docs.microsoft.com/sharepoint/dev/transform/modernize-userinterface-lists-and-libraries).</span></span>
+* <span data-ttu-id="fad82-106">สําหรับข้อมูลเพิ่มเติมเกี่ยวกับการเชื่อมต่อกับกลุ่ม Microsoft 365 และดําเนินการเชื่อมต่อกลุ่ม ให้ดูที่[การเชื่อมต่อกับกลุ่ม Microsoft 365](https://docs.microsoft.com/sharepoint/dev/transform/modernize-connect-to-office365-group)</span><span class="sxs-lookup"><span data-stu-id="fad82-106">For more information about connecting to an Microsoft 365 group and performing a group-connection, see [Connect to an Microsoft 365 group](https://docs.microsoft.com/sharepoint/dev/transform/modernize-connect-to-office365-group).</span></span>
 
-<span data-ttu-id="8e6e2-107">**สำคัญ**: หากคุณรู้สึกว่าเพจของคุณควรจะแสดงอยู่ในมุมมองที่ทันสมัยและไม่ใช่โปรดเรียกดูหน้านี้ในคำถามคัดลอก url และระบุ url เป็นส่วนหนึ่งของรายละเอียดของบัตรการสนับสนุนของคุณ</span><span class="sxs-lookup"><span data-stu-id="8e6e2-107">**Important**: If you feel your page should already be displayed in modern view and isn't, please browse to the page in question, copy the URL, and provide the URL as part of the details of your support ticket.</span></span>
+<span data-ttu-id="fad82-107">**สําคัญ**: ถ้าคุณรู้สึกว่าหน้าของคุณควรจะแสดงในมุมมองที่ทันสมัย และไม่ได้, โปรดดูที่หน้าคําถาม, คัดลอก URL, และให้ URL เป็นส่วนหนึ่งของรายละเอียดของตั๋วสนับสนุนของคุณ.</span><span class="sxs-lookup"><span data-stu-id="fad82-107">**Important**: If you feel your page should already be displayed in modern view and isn't, please browse to the page in question, copy the URL, and provide the URL as part of the details of your support ticket.</span></span>
