@@ -13,16 +13,16 @@ ms.assetid: ''
 ms.custom:
 - "2006"
 - "3200003"
-ms.openlocfilehash: 8a97e7bc15a59ae9300721a0c1dc649e986b55d0
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 4419dd8dcd13f711e9307c8fc870762ffce57b8f
+ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43714421"
+ms.lasthandoff: 04/27/2020
+ms.locfileid: "43911167"
 ---
 # <a name="ediscovery-settings"></a>การตั้งค่า Ediscovery
 
-การค้นหา eDiscovery/เนื้อหาช่วยให้คุณสามารถค้นหา หยุด และส่งออกเนื้อหาจากกล่องจดหมาย Exchange Online, SharePoint Online และ OneDrive สําหรับไซต์ธุรกิจ, Skype สําหรับการสนทนาทางธุรกิจ, ทีม Microsoft และกลุ่ม Office 365
+การค้นหา eDiscovery/เนื้อหาช่วยให้คุณสามารถค้นหา หยุด และส่งออกเนื้อหาจากกล่องจดหมาย Exchange Online SharePoint Online และ OneDrive สําหรับไซต์ธุรกิจ Skype สําหรับการสนทนาทางธุรกิจ Microsoft Teams และกลุ่ม Microsoft 365
 
 - หากคุณกําลังมองหาตัวเลือกเมนู eDiscovery หรือการค้นหาเนื้อหา ให้ดูที่ ปัญหา[eDiscovery](https://docs.microsoft.com/alchemyinsights/ediscovery-issues)
 - เรียนรู้เกี่ยวกับสิทธิ์ที่จําเป็นสําหรับการค้นหา eDiscovery จาก[สิทธิ์ที่จําเป็นสําหรับการค้นหา eDiscovery](https://docs.microsoft.com/alchemyinsights/permissions-required-for-ediscovery-searches)

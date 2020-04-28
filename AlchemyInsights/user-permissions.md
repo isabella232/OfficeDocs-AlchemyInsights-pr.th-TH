@@ -8,12 +8,12 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 67aaea23-025c-4af6-a826-bf97cec216ef
-ms.openlocfilehash: e397923c13f01f436667d488523c8bc1641c2b37
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 71c36191b4310cf573059dd85a0a8471ecc30c52
+ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43710534"
+ms.lasthandoff: 04/27/2020
+ms.locfileid: "43912913"
 ---
 # <a name="user-permissions-in-sharepoint-and-onedrive"></a>สิทธิ์ของผู้ใช้ใน SharePoint และ OneDrive
 
@@ -27,7 +27,7 @@ ms.locfileid: "43710534"
   
 1. เปิดเว็บไซต์ในเว็บเบราว์เซอร์
     
-2. ถ้าไซต์เป็นของกลุ่ม Office 365 ให้คลิกไอคอน การตั้งค่า ที่มุมบนขวา แล้วคลิก**สิทธิ์ของไซต์** คลิก**เชิญบุคคล**แล้วเลือกเพื่อเพิ่มสมาชิกลงในกลุ่ม Office 365 หรือแชร์เฉพาะไซต์ 
+2. ถ้าไซต์เป็นของกลุ่ม Microsoft 365 ให้คลิกไอคอน การตั้งค่า ที่มุมบน ขวา แล้วคลิก**สิทธิ์ของไซต์** คลิก**เชิญบุคคล**แล้วเลือกเพื่อเพิ่มสมาชิกลงในกลุ่ม Microsoft 365 หรือแชร์เฉพาะไซต์ 
     
     สําหรับไซต์การสื่อสาร ให้คลิก**แชร์ไซต์**ที่ด้านขวาบน แล้วใส่ชื่อบุคคล แล้วเลือกระดับสิทธิ์ (อ่าน แก้ไข หรือ ควบคุมทั้งหมด) 
     

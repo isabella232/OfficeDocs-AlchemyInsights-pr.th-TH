@@ -11,12 +11,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001721"
 - "5055"
-ms.openlocfilehash: a1869bc63306ce4e99aa853b7f05567c148f522e
-ms.sourcegitcommit: 312ed19d236006962f1b891d2961014959ab1898
+- "9002613"
+- "5057"
+- "9000701"
+- "5067"
+ms.openlocfilehash: 676f6a2a93d1cff67729b94e7ecddcbdb04dacfc
+ms.sourcegitcommit: 07725fcaf073f0ac145f98653b989afdb34c5ad0
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 04/25/2020
-ms.locfileid: "43812780"
+ms.lasthandoff: 04/28/2020
+ms.locfileid: "43914926"
 ---
 # <a name="admins-unable-to-perform-certain-functions-in-the-teams-admin-center"></a>ผู้ดูแลระบบไม่สามารถทํางานบางอย่างในศูนย์การจัดการ Teams
 

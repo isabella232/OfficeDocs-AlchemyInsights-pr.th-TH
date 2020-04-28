@@ -11,16 +11,16 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 4a71f3cd-000a-4a1a-b42a-15b70a8fb6f8
-ms.openlocfilehash: aa881dd6618f6912b854929db625f4cbaeb048d7
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 612410700b00f02e524ada86d505883fb0f2d0fe
+ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43705032"
+ms.lasthandoff: 04/27/2020
+ms.locfileid: "43911599"
 ---
-# <a name="delete-sites-that-belong-to-an-office-365-group"></a>ลบไซต์ที่เป็นของกลุ่ม Office 365
+# <a name="delete-sites-that-belong-to-an-microsoft-365-group"></a>ลบไซต์ที่เป็นสมาชิกของกลุ่ม Microsoft 365
 
-เมื่อผู้ใช้สร้างไซต์ทีมใหม่จาก SharePoint Home หรือคุณสร้างไซต์ทีมใหม่จากศูนย์การจัดการ SharePoint ใหม่ กลุ่ม Office 365 ที่สอดคล้องกันจะถูกสร้างขึ้นโดยอัตโนมัติ ไซต์ทีม Office 365 ที่เชื่อมต่อกับกลุ่มจะถูกสร้างขึ้นเมื่อคุณสร้างกลุ่ม Office 365 หรือทีมในทีมของ Microsoft เมื่อต้องการลบไซต์ SharePoint ที่เป็นสมาชิกของกลุ่ม Office 365 คุณจําเป็นต้องลบกลุ่ม Office 365 เอง 
+เมื่อผู้ใช้สร้างไซต์ทีมใหม่จาก SharePoint Home หรือคุณสร้างไซต์ทีมใหม่จากศูนย์การจัดการ SharePoint ใหม่ กลุ่ม Microsoft 365 ที่สอดคล้องกันจะถูกสร้างขึ้นโดยอัตโนมัติ ไซต์ทีมที่เชื่อมต่อกับกลุ่ม Microsoft 365 จะถูกสร้างขึ้นเมื่อคุณสร้างกลุ่ม Microsoft 365 หรือทีมในทีม Microsoft เมื่อต้องการลบไซต์ SharePoint ที่เป็นสมาชิกของกลุ่ม Microsoft 365 คุณจําเป็นต้องลบกลุ่ม Microsoft 365 เอง 
   
 1. ไปที่หน้า[กลุ่ม ของ ศูนย์การจัดการ Microsoft 365](https://portal.office.com/adminportal/home#/groups)
     

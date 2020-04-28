@@ -13,16 +13,16 @@ ms.custom:
 - "1488"
 - "3200003"
 ms.assetid: ''
-ms.openlocfilehash: 561a27cc71b6eec918acc2fac911f8b3b18fd097
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 42b80a798ca05831a3cdfa15130ab2751bc1d152
+ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43764747"
+ms.lasthandoff: 04/27/2020
+ms.locfileid: "43911850"
 ---
 # <a name="how-to-perform-content-searches-and-ediscovery-searches"></a>วิธีการดําเนินการค้นหาเนื้อหาและการค้นหา eDiscovery
 
-ใช้เครื่องมือการค้นหาเนื้อหาในศูนย์การปฏิบัติตามนโยบายความปลอดภัย&เพื่อค้นหาอีเมลในกล่องจดหมาย Exchange เอกสารในไซต์ SharePoint และบัญชี OneDrive และการสนทนาการส่งข้อความโต้ตอบแบบทันทีใน Skype for Business ได้อย่างรวดเร็ว นอกจากนี้ คุณยังสามารถใช้เครื่องมือการค้นหาเนื้อหาเพื่อค้นหาอีเมล เอกสาร และการสนทนาแบบทันทีในเครื่องมือการทํางานร่วมกันของ Microsoft 365 เช่น Microsoft Teams และกลุ่ม Office 365
+ใช้เครื่องมือการค้นหาเนื้อหาในศูนย์การปฏิบัติตามนโยบายความปลอดภัย&เพื่อค้นหาอีเมลในกล่องจดหมาย Exchange เอกสารในไซต์ SharePoint และบัญชี OneDrive และการสนทนาการส่งข้อความโต้ตอบแบบทันทีใน Skype for Business ได้อย่างรวดเร็ว นอกจากนี้คุณยังสามารถใช้เครื่องมือการค้นหาเนื้อหาเพื่อค้นหาอีเมล เอกสาร และการสนทนาแบบทันทีในเครื่องมือการทํางานร่วมกันของ Microsoft 365 เช่น Microsoft Teams และกลุ่ม Microsoft 365
 
 **เมื่อต้องการค้นหาเนื้อหา**
 

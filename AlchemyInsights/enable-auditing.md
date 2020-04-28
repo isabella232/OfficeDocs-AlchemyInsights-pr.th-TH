@@ -12,12 +12,12 @@ ms.custom:
 - "286"
 - "3100005"
 ms.assetid: ''
-ms.openlocfilehash: 385b8de6c6451e13418c615a32f1502a70f5fdcb
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 858228acdd884257fc68ceb99799a08e9cc0a0f8
+ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43703662"
+ms.lasthandoff: 04/27/2020
+ms.locfileid: "43908435"
 ---
 # <a name="enable-and-search-the-audit-log"></a>เปิดใช้งานและค้นหาบันทึกการตรวจสอบ
 
@@ -31,7 +31,7 @@ ms.locfileid: "43703662"
 
 - กล่องจดหมายการตรวจสอบจะเปิดใช้งาน โดยค่าเริ่มต้นใน Microsoft 365 สําหรับข้อมูลเพิ่มเติม ให้ดูที่[บทความนี้](https://docs.microsoft.com/office365/securitycompliance/enable-mailbox-auditing)
 
-- กล่องจดหมายของกลุ่ม office 365 และกล่องจดหมายของโฟลเดอร์สาธารณะใน Exchange แบบออนไลน์ไม่สนับสนุนการบันทึกการตรวจสอบ
+- กล่องจดหมายของกลุ่ม Microsoft 365 และกล่องจดหมายของโฟลเดอร์สาธารณะในการแลกเปลี่ยนแบบออนไลน์ไม่สนับสนุนการบันทึกการตรวจสอบ
 
 **แชร์พอยท์และวันไดรฟ์**
 

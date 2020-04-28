@@ -11,24 +11,24 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: f7d730bf-0d6e-424c-970c-6137c71cb50b
-ms.openlocfilehash: 6ac4728c02471dd2640e0c516fee7cf5ebb12f54
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: f4fb17573bae0cb91dc458433eedfd7398802743
+ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43676408"
+ms.lasthandoff: 04/27/2020
+ms.locfileid: "43911095"
 ---
 # <a name="add-a-group-to-a-sharepoint-site"></a>เพิ่มกลุ่มไปยังไซต์ SharePoint
 
-ไซต์ทีม SharePoint บางไซต์ (รวมถึงไซต์ที่สร้างใน Microsoft Teams) จะได้รับการจัดการโดยเจ้าของกลุ่มของ Office 365 ไซต์และเนื้อหา SharePoint ยังสามารถใช้ร่วมกับกลุ่ม Office 365 และกลุ่ม SharePoint ได้ด้วย กลุ่ม SharePoint คือกลุ่มของผู้ใช้ที่ทุกคนมีสิทธิ์ชุดสิทธิ์เดียวกันกับไซต์และเนื้อหา สําหรับไซต์คลาสสิก เราขอแนะนําให้คุณใช้กลุ่มเพื่อกําหนดระดับสิทธิ์เดียวกันให้คนจํานวนมากในครั้งเดียวได้สะดวกแทนที่จะมอบหมายสิทธิ์ทีละคน
+ไซต์ทีม SharePoint บางไซต์ (รวมถึงไซต์ที่สร้างใน Microsoft Teams) จะได้รับการจัดการโดยเจ้าของกลุ่ม Microsoft 365 ไซต์และเนื้อหา SharePoint ยังสามารถใช้ร่วมกับกลุ่ม Microsoft 365 และกลุ่ม SharePoint ได้ด้วย กลุ่ม SharePoint คือกลุ่มของผู้ใช้ที่ทุกคนมีสิทธิ์ชุดสิทธิ์เดียวกันกับไซต์และเนื้อหา สําหรับไซต์คลาสสิก เราขอแนะนําให้คุณใช้กลุ่มเพื่อกําหนดระดับสิทธิ์เดียวกันให้คนจํานวนมากในครั้งเดียวได้สะดวกแทนที่จะมอบหมายสิทธิ์ทีละคน
   
-จัดการสมาชิกกลุ่ม Office 365:
+จัดการสมาชิกกลุ่ม Microsoft 365:
   
 1. ไปที่หน้า[กลุ่ม ใน ศูนย์การจัดการ Microsoft 365](https://portal.office.com/adminportal/home#/groups)
     
 2. เลือกกลุ่มเพื่อดูเจ้าของและสมาชิก หากต้องการเพิ่มหรือนําบุคคลออก ให้คลิกลิงก์**แก้ไข**ในแถว**เจ้าของ**หรือ**สมาชิก** 
     
-แชร์ไซต์การสื่อสารกับกลุ่ม Office 365:
+แชร์ไซต์การสื่อสารกับกลุ่ม Microsoft 365:
   
 1. ไปที่ไซต์ในเบราว์เซอร์แล้วคลิก**แชร์ไซต์**ที่ด้านขวาบน 
     
@@ -42,7 +42,7 @@ ms.locfileid: "43676408"
     
 3. บนแท็บ สิทธิ ให้คลิก**สร้างกลุ่ม**
     
-[เชื่อมต่อทีมไซต์แบบคลาสสิกกับกลุ่ม Office 365 ใหม่](https://go.microsoft.com/fwlink/?linkid=2008654)
+[เชื่อมต่อทีมไซต์แบบคลาสสิกกับกลุ่ม Microsoft 365 ใหม่](https://go.microsoft.com/fwlink/?linkid=2008654)
   
 [เรียนรู้เพิ่มเติมเกี่ยวกับการทํางานกับกลุ่ม SharePoint](https://go.microsoft.com/fwlink/?linkid=874658)
   

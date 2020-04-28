@@ -1,9 +1,9 @@
 ---
-title: การเข้าถึงโฟลเดอร์สาธารณะจากอุปกรณ์โมบาย
+title: การเข้าถึงโฟลเดอร์สาธารณะจากอุปกรณ์เคลื่อนที่
 ms.author: dmaguire
 author: msdmaguire
 manager: dansimp
-ms.date: 5/9/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,14 +12,14 @@ ms.custom:
 - "634"
 - "3500007"
 ms.assetid: 3a0915f6-9f4e-4049-82e2-804a498e70ee
-ms.openlocfilehash: 568bf0aebbf954ff90cc45a080dd4a49aa23780d
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: ceb0ba5f5460156caae5bedc9148ad9c6836f011
+ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36553955"
+ms.lasthandoff: 04/27/2020
+ms.locfileid: "43911455"
 ---
-# <a name="public-folder-access-from-mobile-devices"></a>การเข้าถึงโฟลเดอร์สาธารณะจากอุปกรณ์โมบาย
+# <a name="public-folder-access-from-mobile-devices"></a>การเข้าถึงโฟลเดอร์สาธารณะจากอุปกรณ์เคลื่อนที่
 
-ถ้าคุณต้องการที่จะมีฟังก์ชันการทำงานคล้ายกับโฟลเดอร์สาธารณะ และมีเนื้อหาที่สามารถเข้าถึงได้บนอุปกรณ์มือถือ ปรึกษา[ศึกษาเกี่ยวกับ Office 365 กลุ่ม](https://support.office.com/article/learn-about-office-365-groups-b565caa1-5c40-40ef-9915-60fdb2d97fa2)สำหรับทางเลือกดีกว่า
+หากคุณต้องการให้ฟังก์ชันการทํางานคล้ายกับโฟลเดอร์สาธารณะและมีเนื้อหาที่สามารถเข้าถึงได้บนอุปกรณ์เคลื่อนที่ ให้ดูที่[เรียนรู้เกี่ยวกับ Microsoft 365 Groups](https://support.office.com/article/learn-about-office-365-groups-b565caa1-5c40-40ef-9915-60fdb2d97fa2)สําหรับทางเลือกที่ดีกว่า
   

@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000677"
 - "2587"
-ms.openlocfilehash: e40d4b866d4a2d70e83b5addf8de2690c04eaffc
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 730346beebb248e5f1e1200e73bf20931f8b2309
+ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43709426"
+ms.lasthandoff: 04/27/2020
+ms.locfileid: "43908867"
 ---
 # <a name="adding-an-overlay-to-a-sharepoint-calendar"></a>การเพิ่มโอเวอร์เลย์ลงในปฏิทิน SharePoint
 
-ปฏิทิน SharePoint เป็นชนิดรายการแบบคลาสสิกซึ่งบางครั้งสับสนกับปฏิทินกลุ่ม Office 365
+ปฏิทิน SharePoint เป็นชนิดรายการแบบคลาสสิกซึ่งบางครั้งสับสนกับปฏิทินกลุ่ม Microsoft 365
  
 ถ้าคุณใช้ปฏิทิน SharePoint บนไซต์ของคุณ อีกวิธีหนึ่งคือ คุณสามารถซ้อนปฏิทิน SharePoint อื่นตราบเท่าที่ปฏิทิน SharePoint ทั้งสองอยู่ในไซต์คอลเลกชันเดียวกัน
  

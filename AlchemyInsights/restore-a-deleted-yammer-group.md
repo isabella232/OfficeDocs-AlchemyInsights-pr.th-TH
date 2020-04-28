@@ -1,5 +1,5 @@
 ---
-title: การคืนค่ากลุ่ม Yammer ที่ถูกลบ
+title: คืนค่ากลุ่ม Yammer ที่ถูกลบ
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,14 +11,14 @@ ms.collection: Adm_O365
 ms.custom:
 - "1902"
 - "9000294"
-ms.openlocfilehash: 467dc14be08410397e08d6d0a4c33bffc7aea80e
-ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
+ms.openlocfilehash: 255629468a896ebf10917e4738e6aaf8c2d26826
+ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 10/18/2019
-ms.locfileid: "36745164"
+ms.lasthandoff: 04/27/2020
+ms.locfileid: "43912638"
 ---
 # <a name="restore-a-deleted-yammer-group"></a>คืนค่ากลุ่ม Yammer ที่ถูกลบ
 
-[กลุ่มที่เชื่อมต่อ office ๓๖๕ใน Yammer](https://docs.microsoft.com/yammer/manage-yammer-groups/yammer-and-office-365-groups)สามารถเรียกคืนภายใน30วันของการลบโดยทำตามขั้นตอนการ[คืนค่า Office ๓๖๕กลุ่มที่ถูกลบ](https://docs.microsoft.com/office365/admin/create-groups/restore-deleted-group)
-ในบางกรณีกลุ่ม Yammer อาจไม่ได้เชื่อมต่อกับกลุ่ม Office ๓๖๕ ถ้าเป็นกรณีนี้เป็นไปไม่ได้ที่จะคืนค่ากลุ่มโดยอัตโนมัติแต่อาจเป็นไปได้ที่จะเข้าถึงข้อมูลที่ถูกลบในการ[ส่งออกข้อมูล](https://docs.microsoft.com/yammer/manage-security-and-compliance/export-yammer-enterprise-data)Yammer ถ้า[นโยบายการเก็บข้อมูล](https://docs.microsoft.com/yammer/manage-security-and-compliance/manage-data-compliance)เครือข่ายถูกตั้งค่าเป็นลบแบบ*อ่อน* ติดต่อผู้ดูแลระบบที่ได้[ตรวจสอบแล้ว](https://docs.microsoft.com/yammer/manage-yammer-users/manage-yammer-admins)สำหรับเครือข่าย Yammer ของคุณเพื่อตรวจสอบนโยบายการเก็บข้อมูลหรือเพื่อดำเนินการส่งออกข้อมูล
+[กลุ่มที่เชื่อมต่อ Office 365 ใน Yammer](https://docs.microsoft.com/yammer/manage-yammer-groups/yammer-and-office-365-groups)สามารถคืนค่าภายใน 30 วันหลังจากการลบโดยทําตามขั้นตอนเพื่อ[คืนค่ากลุ่ม Microsoft 365 ที่ถูกลบ](https://docs.microsoft.com/office365/admin/create-groups/restore-deleted-group)
+ในบางกรณี กลุ่ม Yammer อาจไม่สามารถเชื่อมต่อกับกลุ่ม Microsoft 365 ถ้าเป็นกรณีนี้ จะไม่สามารถคืนค่ากลุ่มโดยอัตโนมัติ แต่อาจเป็นไปได้ในการเข้าถึงข้อมูลที่ถูกลบใน[การส่งออกข้อมูล](https://docs.microsoft.com/yammer/manage-security-and-compliance/export-yammer-enterprise-data)Yammer ถ้า[นโยบายการเก็บข้อมูลข้อมูล](https://docs.microsoft.com/yammer/manage-security-and-compliance/manage-data-compliance)เครือข่ายถูกตั้งค่าเป็น*Soft Delete* ติดต่อ[ผู้ดูแลระบบที่ได้รับการยืนยัน](https://docs.microsoft.com/yammer/manage-yammer-users/manage-yammer-admins)สําหรับเครือข่าย Yammer ของคุณ เพื่อตรวจสอบนโยบายการเก็บข้อมูล หรือ เพื่อทําการส่งออกข้อมูล

@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: d3d0b69b-214e-4859-8957-621fd6306b30
-ms.openlocfilehash: 285535d6144825f0935bf72579a483260c2f2bd6
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 37da77c73b3abbdcf9cb2b9c4c43f31eea3c0a49
+ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43767268"
+ms.lasthandoff: 04/27/2020
+ms.locfileid: "43913021"
 ---
 # <a name="fix-problems-sharing-sharepoint-content-with-external-users"></a>แก้ไขปัญหาการแชร์เนื้อหา SharePoint กับผู้ใช้ภายนอก
 
@@ -32,7 +32,7 @@ ms.locfileid: "43767268"
     
 2. เลือกไซต์หรือไซต์ และบน Ribbon ให้คลิก**การใช้ร่วมกัน**
     
-สําหรับไซต์ทีมที่เป็นสมาชิกของกลุ่ม Office 365 หรือไซต์การติดต่อสื่อสาร ให้ทําดังนี้
+สําหรับไซต์ทีมที่เป็นสมาชิกของกลุ่ม Microsoft 365 หรือไซต์การติดต่อสื่อสาร:
   
 - ไซต์ประเภทนี้ใหม่มีการตั้งค่าการแชร์แบบเดียวกันเป็นการตั้งค่าทั่วทั้งองค์กรของคุณ ยกเว้นการตั้งค่าทั่วทั้งองค์กรจะอนุญาตให้ใช้แฟ้มร่วมกันโดยใช้ลิงก์ที่ไม่ต้องลงชื่อเข้าใช้ ในกรณีนี้ ไซต์อนุญาตให้มีการแชร์กับผู้ใช้ภายนอกใหม่และที่มีอยู่ที่ลงชื่อเข้าใช้ เมื่อต้องการเปลี่ยนการตั้งค่าสําหรับไซต์ที่ระบุ ให้ใช้ศูนย์การจัดการ SharePoint ใหม่หรือ PowerShell [เรียนรู้เพิ่มเติม](https://go.microsoft.com/fwlink/?linkid=871863)
     

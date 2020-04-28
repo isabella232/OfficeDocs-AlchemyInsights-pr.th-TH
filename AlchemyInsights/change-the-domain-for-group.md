@@ -1,5 +1,5 @@
 ---
-title: เปลี่ยนโดเมนสําหรับกลุ่ม Office 365
+title: เปลี่ยนโดเมนสําหรับกลุ่ม Microsoft 365
 ms.author: pebaum
 author: pebaum
 manager: jackiesm
@@ -11,15 +11,15 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 78695de0-7021-4900-a784-7cc782785f1d
-ms.openlocfilehash: 4257191c183e4a20943c56c382b5fc78176330b8
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 7aab6fd8bef120a6d589fc3c2d852fd4cb499aca
+ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43706508"
+ms.lasthandoff: 04/27/2020
+ms.locfileid: "43911311"
 ---
-# <a name="change-the-domain-for-office-365-group"></a>เปลี่ยนโดเมนสําหรับกลุ่ม Office 365
+# <a name="change-the-domain-for-microsoft-365-group"></a>เปลี่ยนโดเมนสําหรับกลุ่ม Microsoft 365
 
-ถ้าคุณต้องการเปลี่ยนโดเมนสําหรับกลุ่ม Office 365 ระหว่างการสร้าง ให้ทําตามขั้นตอนใน[เลือกโดเมนที่จะใช้เมื่อสร้างกลุ่ม Office 365](https://docs.microsoft.com/office365/admin/create-groups/choose-domain-to-create-groups)
+ถ้าคุณต้องการเปลี่ยนโดเมนสําหรับกลุ่ม Microsoft 365 ในระหว่างการสร้าง ให้ทําตามขั้นตอนใน[เลือกโดเมนที่จะใช้เมื่อสร้างกลุ่ม Microsoft 365](https://docs.microsoft.com/office365/admin/create-groups/choose-domain-to-create-groups)
 
-หลังจากที่สร้างกลุ่ม Office 365 แล้ว ไม่มีอยู่ในขณะนี้ไม่มีวิธีที่จะเปลี่ยนโดเมน วิธีเดียวคือการสร้างกลุ่ม Office 365 ใหม่และลบกลุ่มเก่าถ้าจําเป็น (ที่อยู่อีเมลเพิ่มเติมสามารถเพิ่มผ่าน[ศูนย์ดูแล Exchange](https://outlook.office365.com/ecp)
+หลังจากที่กลุ่ม Microsoft 365 ถูกสร้างขึ้นแล้ว วิธีเดียวคือการสร้างกลุ่ม Microsoft 365 ใหม่และลบกลุ่มเก่าถ้าจําเป็น (ที่อยู่อีเมลเพิ่มเติมสามารถเพิ่มผ่าน[ศูนย์ดูแล Exchange](https://outlook.office365.com/ecp)

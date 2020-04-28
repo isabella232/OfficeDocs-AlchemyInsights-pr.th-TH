@@ -1,5 +1,5 @@
 ---
-title: จัดการการเข้าถึงของผู้ใช้กับผู้วางแผน
+title: จัดการการเข้าถึงของผู้ใช้เป็นแขกที่วางแผน
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,17 +11,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001705"
 - "3783"
-ms.openlocfilehash: 3c7139c5c0852239f14bc7cb99c059db0ef7543f
-ms.sourcegitcommit: c55eea624d960d2dd17ac4aa5a4c23e34e6443b8
+ms.openlocfilehash: 2c0edd4e117f8881bdc62fbbf6e67b3c2c6ff409
+ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 03/04/2020
-ms.locfileid: "42409159"
+ms.lasthandoff: 04/27/2020
+ms.locfileid: "43912350"
 ---
-# <a name="manage-guest-user-access-to-planner"></a>จัดการการเข้าถึงของผู้ใช้กับผู้วางแผน
+# <a name="manage-guest-user-access-to-planner"></a>จัดการการเข้าถึงของผู้ใช้เป็นแขกที่วางแผน
 
-ผู้ใช้ที่เป็นแขกสามารถสร้างและลบกลุ่มและงานแก้ไขฟิลด์งานและแก้ไขชื่อแผน นอกจากนี้ผู้ใช้แขกยังจะได้รับการแจ้งเตือนบางอย่างที่เกี่ยวข้องกับแผนของคุณด้วย ต่อไปนี้เป็นหัวข้อที่ร้องขอบ่อยเกี่ยวกับผู้ใช้ของแขกในโปรแกรมการวางแผน:
+ผู้ใช้ทั่วไปสามารถสร้างและลบบัคเก็ตและงาน นอกจากนี้ ผู้ใช้แบบผู้เยี่ยมชมจะได้รับการแจ้งเตือนบางส่วนที่เชื่อมโยงกับแผนของคุณ ต่อไปนี้คือหัวข้อที่มักได้รับการร้องขอเกี่ยวกับผู้ใช้ทั่วไปใน Planner
 
-- สร้างโปรแกรมวางแผนบน[Office ๓๖๕กลุ่มคุณลักษณะการเข้าถึงของแขก](https://support.office.com/article/Adding-guests-to-Office-365-Groups-bfc7a840-868f-4fd6-a390-f347bf51aff6) 
+- โปรแกรมวางแผนสร้างบน[Microsoft 365 กลุ่มแขกคุณลักษณะการเข้าถึง](https://support.office.com/article/Adding-guests-to-Office-365-Groups-bfc7a840-868f-4fd6-a390-f347bf51aff6) 
 
-- เรียนรู้เพิ่มเติมวิธีเพิ่มผู้ใช้แขกในแผนการที่ผู้ใช้แขกสามารถออกจากแผนเช่นเดียวกับผู้ใช้ guest สามารถทำในการวางแผนในการ[เข้าถึงของแขกใน Microsoft ผู้วางแผน](https://support.office.com/article/Guest-access-in-Microsoft-Planner-cc5d7f96-dced-4da4-ab62-08c72d9759c6)
+- เรียนรู้วิธีเพิ่มผู้ใช้ที่เป็นแขกในแผน[Guest access in Microsoft Planner](https://support.office.com/article/Guest-access-in-Microsoft-Planner-cc5d7f96-dced-4da4-ab62-08c72d9759c6)

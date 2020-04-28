@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: f7d730bf-0d6e-424c-970c-6137c71cb50b
-ms.openlocfilehash: 049ef5acd80d64e00315ba07f274567e6a251904
-ms.sourcegitcommit: 6bf1d945b4fd6a1fe37d00c5ea99adea7eef9910
+ms.openlocfilehash: 8ef33cbd44b01deaf0e45813d019f7696ef5def0
+ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 04/21/2020
-ms.locfileid: "43642163"
+ms.lasthandoff: 04/27/2020
+ms.locfileid: "43912985"
 ---
 # <a name="issues-when-creating-a-group-connected-site-in-sharepoint"></a>ปัญหาเมื่อสร้างไซต์ที่เชื่อมโยงกลุ่มใน SharePoint
 
@@ -30,5 +30,5 @@ ms.locfileid: "43642163"
 
 1. มีวิธีการสร้างและใช้กลุ่มสมัยใหม่กับ SharePoint หลายวิธี
 
-   - คุณสามารถเชื่อมต่อไซต์ที่มีอยู่กับกลุ่ม Office 365 ได้ สําหรับข้อมูลเพิ่มเติม ให้ดูที่[เชื่อมต่อกลุ่ม Office 365 โดยใช้ส่วนติดต่อผู้ใช้ของ SharePoint](https://docs.microsoft.com/sharepoint/dev/transform/modernize-connect-to-office365-group#connect-an-office-365-group-using-the-sharepoint-user-interface)
-   - เมื่อต้องการสร้างไซต์ที่เชื่อมต่อกลุ่ม Office 365 คุณจะต้องสร้าง[ไซต์ทีม](https://admin.microsoft.com/sharepoint)
+   - คุณสามารถเชื่อมต่อไซต์ที่มีอยู่กับกลุ่ม Microsoft 365 ได้ สําหรับข้อมูลเพิ่มเติม ให้ดูที่[เชื่อมต่อกลุ่ม Microsoft 365 โดยใช้ส่วนติดต่อผู้ใช้ของ SharePoint](https://docs.microsoft.com/sharepoint/dev/transform/modernize-connect-to-office365-group#connect-an-office-365-group-using-the-sharepoint-user-interface)
+   - เมื่อต้องการสร้างไซต์ที่เชื่อมโยงกลุ่ม Microsoft 365 คุณจะต้องสร้าง[ไซต์ทีม](https://admin.microsoft.com/sharepoint)
