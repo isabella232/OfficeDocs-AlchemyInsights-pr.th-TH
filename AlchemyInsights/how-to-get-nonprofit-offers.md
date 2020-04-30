@@ -10,12 +10,12 @@ ms.assetid: ''
 ms.custom:
 - "1500010"
 - "3819"
-ms.openlocfilehash: 8b82dd8900a5e9824206cd05241743d2337108a1
-ms.sourcegitcommit: 4f7ff981bbb3a98663cd164d0a10bb082cdf7ec9
+ms.openlocfilehash: f89ba68219ea3735bdbb455ed97e2abf394f201b
+ms.sourcegitcommit: fbaa2ce2cfb4d56d8c4cf2fa2d95489bdfcb7ff0
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 03/25/2020
-ms.locfileid: "42946845"
+ms.lasthandoff: 04/30/2020
+ms.locfileid: "43947591"
 ---
 # <a name="how-to-get-nonprofit-offers"></a>วิธีรับข้อเสนอที่ไม่แสวงหากําไร
 
@@ -23,9 +23,9 @@ ms.locfileid: "42946845"
 
 1. ลงทะเบียนกับ[โปรแกรม Microsoft องค์กรไม่หวังผลกําไร](https://go.microsoft.com/fwlink/p/?linkid=2008962)
 
-2. ถ้าสิทธิ์ได้รับการยืนยันแล้ว ข้อเสนอ Office 365 Nonprofit จะพร้อมใช้งานในพอร์ทัลผู้ดูแลระบบ Office 365 รวมถึงข้อเสนอ E1 ที่บริจาคและข้อเสนอสิ่งจําเป็นสําหรับธุรกิจ
+2. ถ้าคุณสมบัติได้รับการยืนยันข้อเสนอ Microsoft 365 Nonprofit จะพร้อมใช้งานในพอร์ทัลผู้ดูแลระบบ Microsoft 365 โดยไปที่หน้า**[บริการการเรียกเก็บเงิน](https://go.microsoft.com/fwlink/p/?linkid=868433)> ซื้อ** ซึ่งรวมถึงการบริจาค E1 และธุรกิจ Essentials เสนอ.
 
-3. หลังจากซื้อแล้ว ให้ไปที่แท็บ[ผู้ใช้](https://admin.microsoft.com/Adminportal/Home#/users)ในพอร์ทัลผู้ดูแลระบบ เพื่อกําหนดผู้ใช้ของคุณให้กับการสมัครใช้งาน Office 365 Nonprofit ใหม่ของคุณ
+3. หลังจากซื้อแล้ว ให้ไปที่แท็บ[ผู้ใช้](https://admin.microsoft.com/Adminportal/Home#/users)ในพอร์ทัลผู้ดูแลระบบ เพื่อกําหนดผู้ใช้ของคุณให้กับการสมัครใช้งาน Microsoft 365 Nonprofit ใหม่ของคุณ
 
 สําหรับคําตอบอื่นๆสําหรับคําถามทั่วไป, โปรดอ่าน[คําถามที่พบบ่อยของเรา](https://www.microsoft.com/microsoft-365/nonprofit/office-365-nonprofit#coreui-heading-67lnrlz)ของของ ดูเพิ่มเติม:
 
