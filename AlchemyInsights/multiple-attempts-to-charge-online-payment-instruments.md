@@ -13,13 +13,21 @@ ms.custom:
 - "445"
 - "1500018"
 ms.assetid: 29635602-3521-4663-9d85-d111f85b3a19
-ms.openlocfilehash: 596be276cf7df2d8e451350c0833b2c410153252
-ms.sourcegitcommit: cead49883943b0eb413f8cf4be617a32b5099cb6
+ms.openlocfilehash: 9e7505978ef80f3aba44e69dc7b5f7ab9c1780d5
+ms.sourcegitcommit: 4df75b03f8ceac72f68f012eeb28b78d2f2616f8
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 04/24/2020
-ms.locfileid: "43799142"
+ms.lasthandoff: 05/01/2020
+ms.locfileid: "43957925"
 ---
-# <a name="multiple-attempts-to-charge-online-payment-instruments"></a>มีความพยายามหลายครั้งในการเรียกเก็บค่าบริการเครื่องมือชําระเงินออนไลน์
+# <a name="past-due-account"></a>บัญชีที่เลยกําหนดชําระ?
 
-หากค่าใช้จ่ายไม่ประสบความสําเร็จระบบจะพยายามชําระยอดคงเหลือในช่วง 2-3 สัปดาห์ถัดไป คุณสามารถอัปเดตข้อมูลการชําระเงินของคุณได้ตลอดเวลาเพื่อประกันความพยายามในการเรียกเก็บครั้งต่อไปจะประสบความสําเร็จ สําหรับข้อมูลเพิ่มเติม ให้ดูที่[เพิ่ม อัปเดต หรือเอาบัตรเครดิตหรือบัญชีธนาคารใน Microsoft 365 สําหรับธุรกิจ](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account)
+การชําระเงินอาจถูกปฏิเสธด้วยเหตุผลหลายประการ รวมถึงในกรณีที่บัตรเครดิตหมดอายุ คุณสามารถใช้ฟีเจอร์**ชําระหนี้**ได้ตลอดเวลาเพื่อเปลี่ยนข้อมูลบัตรเครดิตของคุณ และส่งการชําระเงินอีกครั้งทันที
+
+1. ในศูนย์การจัดการ ให้ไปที่**บริการ[&](https://go.microsoft.com/fwlink/p/?linkid=842054)>การเรียกเก็บเงิน**
+ค้นหาการสมัครใช้งานที่มียอดคงเหลือ ในส่วน**การเรียกเก็บเงิน**ถัดจาก**การสมัครใช้งานมีการชําระเงินเลยกําหนดชําระเลยแล้วคลิก****ชําระยอดคงเหลือ**เพื่อชําระยอดค้างชําระทั้งหมด
+2. ถ้าคุณเป็นเจ้าของบัตรเครดิต[add a new card](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/add-update-or-remove-credit-card-or-bank-account?view=o365-worldwide)
+3. หากคุณไม่ได้เป็นเจ้าของบัตรเครดิต คุณสามารถเลือกบัตรเครดิตอื่น หรือ[เพิ่มบัตรเครดิตใหม่](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/add-update-or-remove-credit-card-or-bank-account?view=o365-worldwide)ได้
+4. หลังจากที่คุณอัปเดตเสร็จสมบูรณ์แล้ว ให้คลิก**บันทึก**
+
+**หมายเหตุ**: หลังจากการชําระเงินแล้ว โปรดรออย่างน้อย**48 ชั่วโมง**ก่อนที่จะติดต่อฝ่ายสนับสนุน
