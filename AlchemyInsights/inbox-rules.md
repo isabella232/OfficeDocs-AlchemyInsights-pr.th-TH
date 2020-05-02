@@ -12,19 +12,19 @@ ms.custom:
 - "922"
 - "1800021"
 ms.assetid: 469de984-cec1-45ca-94ab-f70bc6b28fff
-ms.openlocfilehash: a03c0f7f3d456e56896df2153305186252e9508f
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: b940edc8911a02c5084091d70cf1d9f27081717f
+ms.sourcegitcommit: 057d87c9d866fa1371d02350420d13774545c028
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43724575"
+ms.lasthandoff: 05/02/2020
+ms.locfileid: "44005277"
 ---
-# <a name="inbox-rules"></a>กฎของกล่องขาเข้า
+# <a name="inbox-rules-in-outlook-desktop"></a>กฎของกล่องขาเข้าในเดสก์ท็อป Outlook
 
-สําหรับข้อมูลเพิ่มเติมเกี่ยวกับการใช้กฎของกล่องขาเข้าในกล่องจดหมายของคุณเอง ให้ดูที่
+1. ไปที่**แฟ้ม > จัดการกฎ &การแจ้งเตือน**เพื่อเปิดกล่องโต้ตอบ**กฎและการแจ้งเตือน**
+2. บนแท็บ**กฎอีเมล**ให้คลิก**กฎใหม่**
+3. เลือกเท็มเพลตเท็มเพลตจากขั้นตอนที่**1** เมื่อต้องการเริ่มต้นจากกฎที่ว่างเปล่า**ให้เลือก**
+4. ใน**ขั้นตอนที่ 2: แก้ไขคําอธิบายกฎ ให้คลิก**ที่ตัวเลือกที่ขีดเส้นใต้เพื่อตั้งค่า ตัวอย่างเช่น ถ้าคุณเลือก**ตั้งค่าสถานะข้อความจากบุคคลสําหรับการติดตาม**ผลในขั้นตอนที่ 1 ให้คลิก**บุคคลหรือกลุ่มสาธารณะ**เพื่อเลือกข้อความของผู้ส่งที่คุณต้องการตั้งค่าสถานะ จากนั้นคลิก**ติดตามผลในเวลานี้**เพื่อเลือกธงและวันที่ติดตามผล
+5. คลิก **ถัดไป**
 
-- [จัดการข้อความอีเมลโดยใช้กฎใน Outlook สําหรับพีซี](https://support.office.com/article/c24f5dea-9465-4df4-ad17-a50704d66c59.aspx)
-
-- [จัดการข้อความของคุณโดยใช้กฎของกล่องขาเข้าใน Outlook บนเว็บ](https://support.office.com/article/8400435c-f14e-4272-9004-1548bb1848f2.aspx)
-
-คุณยังสามารถจัดการกฎกล่องขาเข้าใน PowerShell แบบออนไลน์ของอัตราแลกเปลี่ยน สําหรับข้อมูลเพิ่มเติม ให้ดูที่[กฎการขอรับอินบอกซ์](https://docs.microsoft.com/powershell/module/exchange/mailboxes/get-inboxrule)(มุมมอง),[กฎเข้าใหม่](https://docs.microsoft.com/powershell/module/exchange/mailboxes/new-inboxrule)(สร้าง[),](https://docs.microsoft.com/powershell/module/exchange/mailboxes/remove-inboxrule) [Set-InboxRule](https://docs.microsoft.com/powershell/module/exchange/mailboxes/set-inboxrule) [Disable-InboxRule](https://docs.microsoft.com/powershell/module/exchange/mailboxes/disable-inboxrule) [Enable-InboxRule](https://docs.microsoft.com/powershell/module/exchange/mailboxes/enable-inboxrule)
+สําหรับข้อมูลเพิ่มเติมเกี่ยวกับวิธีการทํางานกับกฎของกล่องขาเข้า โปรดดูที่[จัดการข้อความอีเมลโดยใช้กฎ](https://support.office.com/article/manage-email-messages-by-using-rules-c24f5dea-9465-4df4-ad17-a50704d66c59)
