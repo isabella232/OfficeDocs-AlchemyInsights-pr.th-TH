@@ -12,19 +12,19 @@ ms.custom:
 - "922"
 - "1800021"
 ms.assetid: 469de984-cec1-45ca-94ab-f70bc6b28fff
-ms.openlocfilehash: a03c0f7f3d456e56896df2153305186252e9508f
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: b940edc8911a02c5084091d70cf1d9f27081717f
+ms.sourcegitcommit: 057d87c9d866fa1371d02350420d13774545c028
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43724575"
+ms.lasthandoff: 05/02/2020
+ms.locfileid: "44005277"
 ---
-# <a name="inbox-rules"></a><span data-ttu-id="19785-102">กฎของกล่องขาเข้า</span><span class="sxs-lookup"><span data-stu-id="19785-102">Inbox rules</span></span>
+# <a name="inbox-rules-in-outlook-desktop"></a><span data-ttu-id="511f2-102">กฎของกล่องขาเข้าในเดสก์ท็อป Outlook</span><span class="sxs-lookup"><span data-stu-id="511f2-102">Inbox rules in Outlook Desktop</span></span>
 
-<span data-ttu-id="19785-103">สําหรับข้อมูลเพิ่มเติมเกี่ยวกับการใช้กฎของกล่องขาเข้าในกล่องจดหมายของคุณเอง ให้ดูที่</span><span class="sxs-lookup"><span data-stu-id="19785-103">For more information about using Inbox rules in your own mailbox, see:</span></span>
+1. <span data-ttu-id="511f2-103">ไปที่**แฟ้ม > จัดการกฎ &การแจ้งเตือน**เพื่อเปิดกล่องโต้ตอบ**กฎและการแจ้งเตือน**</span><span class="sxs-lookup"><span data-stu-id="511f2-103">Go to **File > Manage Rules & Alerts** to open the **Rules and Alerts** dialog box.</span></span>
+2. <span data-ttu-id="511f2-104">บนแท็บ**กฎอีเมล**ให้คลิก**กฎใหม่**</span><span class="sxs-lookup"><span data-stu-id="511f2-104">On the **Email Rules** tab, click **New Rule**.</span></span>
+3. <span data-ttu-id="511f2-105">เลือกเท็มเพลตเท็มเพลตจากขั้นตอนที่**1**</span><span class="sxs-lookup"><span data-stu-id="511f2-105">Select one of the templates from **Step 1**.</span></span> <span data-ttu-id="511f2-106">เมื่อต้องการเริ่มต้นจากกฎที่ว่างเปล่า**ให้เลือก**</span><span class="sxs-lookup"><span data-stu-id="511f2-106">To start from a blank rule, select **Apply rule on messages I receive or Apply rule on messages I send**.</span></span>
+4. <span data-ttu-id="511f2-107">ใน**ขั้นตอนที่ 2: แก้ไขคําอธิบายกฎ ให้คลิก**ที่ตัวเลือกที่ขีดเส้นใต้เพื่อตั้งค่า</span><span class="sxs-lookup"><span data-stu-id="511f2-107">In the **Step 2: Edit the rule description box**, click on any underlined options to set them.</span></span> <span data-ttu-id="511f2-108">ตัวอย่างเช่น ถ้าคุณเลือก**ตั้งค่าสถานะข้อความจากบุคคลสําหรับการติดตาม**ผลในขั้นตอนที่ 1 ให้คลิก**บุคคลหรือกลุ่มสาธารณะ**เพื่อเลือกข้อความของผู้ส่งที่คุณต้องการตั้งค่าสถานะ จากนั้นคลิก**ติดตามผลในเวลานี้**เพื่อเลือกธงและวันที่ติดตามผล</span><span class="sxs-lookup"><span data-stu-id="511f2-108">For example, if you selected **Flag messages from someone for follow-up** in Step 1, click **people or public group** to select which senders' messages you want to flag; then click **follow up at this time** to select a flag and a follow-up date.</span></span>
+5. <span data-ttu-id="511f2-109">คลิก **ถัดไป**</span><span class="sxs-lookup"><span data-stu-id="511f2-109">Click **Next**.</span></span>
 
-- [<span data-ttu-id="19785-104">จัดการข้อความอีเมลโดยใช้กฎใน Outlook สําหรับพีซี</span><span class="sxs-lookup"><span data-stu-id="19785-104">Manage email messages by using rules in Outlook for PC</span></span>](https://support.office.com/article/c24f5dea-9465-4df4-ad17-a50704d66c59.aspx)
-
-- [<span data-ttu-id="19785-105">จัดการข้อความของคุณโดยใช้กฎของกล่องขาเข้าใน Outlook บนเว็บ</span><span class="sxs-lookup"><span data-stu-id="19785-105">Manage your messages by using inbox rules in Outlook on the web</span></span>](https://support.office.com/article/8400435c-f14e-4272-9004-1548bb1848f2.aspx)
-
-<span data-ttu-id="19785-106">คุณยังสามารถจัดการกฎกล่องขาเข้าใน PowerShell แบบออนไลน์ของอัตราแลกเปลี่ยน</span><span class="sxs-lookup"><span data-stu-id="19785-106">You can also manage Inbox rules in Exchange Online PowerShell.</span></span> <span data-ttu-id="19785-107">สําหรับข้อมูลเพิ่มเติม ให้ดูที่[กฎการขอรับอินบอกซ์](https://docs.microsoft.com/powershell/module/exchange/mailboxes/get-inboxrule)(มุมมอง),[กฎเข้าใหม่](https://docs.microsoft.com/powershell/module/exchange/mailboxes/new-inboxrule)(สร้าง[),](https://docs.microsoft.com/powershell/module/exchange/mailboxes/remove-inboxrule) [Set-InboxRule](https://docs.microsoft.com/powershell/module/exchange/mailboxes/set-inboxrule) [Disable-InboxRule](https://docs.microsoft.com/powershell/module/exchange/mailboxes/disable-inboxrule) [Enable-InboxRule](https://docs.microsoft.com/powershell/module/exchange/mailboxes/enable-inboxrule)</span><span class="sxs-lookup"><span data-stu-id="19785-107">For more information, see [Get-InboxRule](https://docs.microsoft.com/powershell/module/exchange/mailboxes/get-inboxrule) (view), [New-InboxRule](https://docs.microsoft.com/powershell/module/exchange/mailboxes/new-inboxrule) (create), [Remove-InboxRule](https://docs.microsoft.com/powershell/module/exchange/mailboxes/remove-inboxrule) (delete), [Set-InboxRule](https://docs.microsoft.com/powershell/module/exchange/mailboxes/set-inboxrule) (modify existing), [Disable-InboxRule](https://docs.microsoft.com/powershell/module/exchange/mailboxes/disable-inboxrule) (disable existing), and [Enable-InboxRule](https://docs.microsoft.com/powershell/module/exchange/mailboxes/enable-inboxrule) (enable existing).</span></span>
+<span data-ttu-id="511f2-110">สําหรับข้อมูลเพิ่มเติมเกี่ยวกับวิธีการทํางานกับกฎของกล่องขาเข้า โปรดดูที่[จัดการข้อความอีเมลโดยใช้กฎ](https://support.office.com/article/manage-email-messages-by-using-rules-c24f5dea-9465-4df4-ad17-a50704d66c59)</span><span class="sxs-lookup"><span data-stu-id="511f2-110">For additional information on how to work with inbox rules please see [Manage email messages by using rules](https://support.office.com/article/manage-email-messages-by-using-rules-c24f5dea-9465-4df4-ad17-a50704d66c59).</span></span>
