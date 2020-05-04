@@ -11,16 +11,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002414"
 - "4799"
-ms.openlocfilehash: fa35e26afe716167237f12ec8cabaab7ff7b4609
-ms.sourcegitcommit: 797f78c27f50485edcf9854552d9dcab175227bf
+ms.openlocfilehash: ff7a5bb95c5400b8985850b73b5e934d0c5fb9f1
+ms.sourcegitcommit: 7e06d9ec1dd462cbd882f088c997d012a032f04d
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 04/10/2020
-ms.locfileid: "43218339"
+ms.lasthandoff: 05/04/2020
+ms.locfileid: "44010165"
 ---
 # <a name="no-option-to-install-office-visio-or-project"></a>ไม่มีตัวเลือกในการติดตั้ง Office, Visio หรือโครงการ
 
-เมื่อต้องการติดตั้งแอปไคลเอ็นต์ Office โปรดตรวจสอบว่าคุณมีการสมัครใช้งาน Office 365 หรือ Microsoft 365[ที่มีแอปไคลเอ็นต์ Office](https://support.office.com/article/office-for-home-and-office-for-business-plans-28cbc8cf-1332-4f04-9123-9b660abb629e)เช่น Office 365 Business Premium, Office 365 Business หรือ Office 365 ProPlus
+เมื่อต้องการติดตั้งแอปไคลเอ็นต์ Office โปรดตรวจสอบว่าคุณมีการสมัครใช้งาน Office 365 หรือ Microsoft 365[ที่มีแอปไคลเอ็นต์ Office](https://support.office.com/article/office-for-home-and-office-for-business-plans-28cbc8cf-1332-4f04-9123-9b660abb629e)เช่น Microsoft 365 Business Premium แอป Microsoft 365 สําหรับธุรกิจ หรือแอป Microsoft 365 สําหรับธุรกิจ หรือ Microsoft 365 สําหรับธุรกิจ
 
 **หมายเหตุ**:[หน้าแรกและธุรกิจ](https://products.office.com/home-and-business)Office เป็น[Office สําหรับผลิตภัณฑ์ภายในบ้าน](https://support.office.com/article/28cbc8cf-1332-4f04-9123-9b660abb629e?wt.mc_id=Alchemy_ClientDIA)และไม่ได้เป็นส่วนหนึ่งของการสมัครใช้งานทางธุรกิจ สิ่งจําเป็นสําหรับโครงการแบบออนไลน์ไม่มีรุ่นเดสก์ท็อปของโครงการดังนั้นไม่จําเป็นต้องติดตั้ง ผู้ใช้ Visio Plan 1 สามารถเข้าถึง Visio บนเว็บ เนื่องจากแผนไม่มีแอปเดสก์ท็อป Visio แอปเดสก์ท็อปโครงการและ Visio ไม่พร้อมใช้งานบน Mac
 

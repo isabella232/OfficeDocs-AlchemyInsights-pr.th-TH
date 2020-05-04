@@ -10,12 +10,12 @@ ms.custom:
 - "917"
 - "2000020"
 ms.assetid: b1074430-489e-4d49-bfe4-3d8783d8073c
-ms.openlocfilehash: 7252efdc0f55b8923e685ec89f9b3c63882aa6b0
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 6e952513679c9ac66f8de2b43d6d243cf17ff789
+ms.sourcegitcommit: 7e06d9ec1dd462cbd882f088c997d012a032f04d
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43763236"
+ms.lasthandoff: 05/04/2020
+ms.locfileid: "44010633"
 ---
 # <a name="installing-office-on-a-terminal-server"></a>การติดตั้ง Office บนเซิร์ฟเวอร์เทอร์มินัล
 
@@ -23,7 +23,7 @@ ms.locfileid: "43763236"
   
 - คุณต้องมีการสมัครใช้งาน Microsoft 365 ที่มีแอป Microsoft 365 สําหรับองค์กร เช่น Office 365 Enterprise E3 หรือ E5 สําหรับองค์กร แอป Microsoft 365 สําหรับธุรกิจและแอป Microsoft 365 สําหรับธุรกิจแบบพรีเมียมไม่มีแอป Microsoft 365 สําหรับองค์กร
 
-- คุณต้องเปิดใช้งาน[การเปิดใช้งานคอมพิวเตอร์ที่ใช้ร่วมกัน](https://docs.microsoft.com/DeployOffice/overview-of-shared-computer-activation-for-office-365-proplus)
+- คุณต้องเปิดใช้งาน[การเปิดใช้งานคอมพิวเตอร์ที่ใช้ร่วมกัน](https://docs.microsoft.com/DeployOffice/overview-shared-computer-activation)
 
 ถ้าคุณต้องการติดตั้งแอป Microsoft 365 สําหรับองค์กรบน RDS จากศูนย์การจัดการ Microsoft 365***ซึ่งใช้การตั้งค่าการติดตั้งเริ่มต้น***ให้ใช้ขั้นตอนต่อไปนี้
 
@@ -48,9 +48,9 @@ ms.locfileid: "43763236"
 
 3. ในตัวแก้ไขรีจิสทรี เพิ่มค่าสายอักขระของ**SharedComputerLicensing**ด้วยการตั้งค่า 1 ภายใต้HKEY_LOCAL_MACHINE\ซอฟต์แวร์\Microsoft \คลิกเรียกใช้\การกําหนดค่า.
 
-7. บนเซิร์ฟเวอร์ RDS***เข้าสู่ระบบในฐานะผู้ใช้***และ[ตรวจสอบว่า การเปิดใช้งานคอมพิวเตอร์ที่ใช้ร่วมกันถูกเปิดใช้งานสําหรับ Microsoft 365 Apps สําหรับองค์กร](https://docs.microsoft.com/DeployOffice/troubleshoot-issues-with-shared-computer-activation-for-office-365-proplus#verify-that-activation-for-office-365-proplus-succeeded)
+7. บนเซิร์ฟเวอร์ RDS***เข้าสู่ระบบในฐานะผู้ใช้***และ[ตรวจสอบว่า การเปิดใช้งานคอมพิวเตอร์ที่ใช้ร่วมกันถูกเปิดใช้งานสําหรับ Microsoft 365 Apps สําหรับองค์กร](https://docs.microsoft.com/DeployOffice/troubleshoot-shared-computer-activation#verify-that-activation-for-microsoft-365-apps-succeeded)
 
-สําหรับรายละเอียดเพิ่มเติมเกี่ยวกับข้อกําหนดเบื้องต้น[Deploy Microsoft 365 Apps for enterprise by using Remote Desktop Services](https://docs.microsoft.com/DeployOffice/deploy-office-365-proplus-by-using-remote-desktop-services)
+สําหรับรายละเอียดเพิ่มเติมเกี่ยวกับข้อกําหนดเบื้องต้น[Deploy Microsoft 365 Apps for enterprise by using Remote Desktop Services](https://docs.microsoft.com/DeployOffice/deploy-microsoft-365-apps-remote-desktop-services)
   
-เมื่อต้องการแก้ไขข้อผิดพลาดที่เกี่ยวข้องกับการเปิดใช้งานคอมพิวเตอร์ที่แชร์ โปรดดู[แก้ไขปัญหาเกี่ยวกับการเปิดใช้งานคอมพิวเตอร์ที่แชร์สําหรับ Microsoft 365 Apps for Enterprise](https://docs.microsoft.com/DeployOffice/troubleshoot-issues-with-shared-computer-activation-for-office-365-proplus)
+เมื่อต้องการแก้ไขข้อผิดพลาดที่เกี่ยวข้องกับการเปิดใช้งานคอมพิวเตอร์ที่แชร์ โปรดดู[แก้ไขปัญหาเกี่ยวกับการเปิดใช้งานคอมพิวเตอร์ที่แชร์สําหรับ Microsoft 365 Apps for Enterprise](https://docs.microsoft.com/DeployOffice/troubleshoot-shared-computer-activation)
   

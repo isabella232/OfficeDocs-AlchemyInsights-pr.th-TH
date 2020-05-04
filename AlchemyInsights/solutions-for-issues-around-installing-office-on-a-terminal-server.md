@@ -9,12 +9,12 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 85f24284-af6f-4624-b6be-901a4a9206eb
-ms.openlocfilehash: da69592fd0f55a4bfce45d271aeca5cde1f659b2
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: cc2d2b1a5c73e729a67b1e6f36fdcff2125541ca
+ms.sourcegitcommit: 7e06d9ec1dd462cbd882f088c997d012a032f04d
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43712693"
+ms.lasthandoff: 05/04/2020
+ms.locfileid: "44010921"
 ---
 # <a name="solutions-for-issues-around-installing-office-on-a-terminal-server"></a>โซลูชันสําหรับปัญหาเกี่ยวกับการติดตั้ง Office บนเซิร์ฟเวอร์เทอร์มินัล
 
@@ -33,4 +33,4 @@ ms.locfileid: "43712693"
 - ตรวจสอบว่าผู้ใช้ลงชื่อเข้าใช้ด้วยบัญชีผู้ใช้ของตน
 - ตรวจสอบว่ามีการเชื่อมต่อระหว่างคอมพิวเตอร์ที่ใช้ร่วมกันและอินเทอร์เน็ต
 
-สําหรับเคล็ดลับการแก้ไขปัญหาอื่นๆ โปรดดู:[แก้ไขปัญหาเกี่ยวกับการเปิดใช้งานคอมพิวเตอร์ที่ใช้ร่วมกัน](https://docs.microsoft.com/DeployOffice/troubleshoot-issues-with-shared-computer-activation-for-office-365-proplus)
+สําหรับเคล็ดลับการแก้ไขปัญหาอื่นๆ โปรดดู:[แก้ไขปัญหาเกี่ยวกับการเปิดใช้งานคอมพิวเตอร์ที่ใช้ร่วมกัน](https://docs.microsoft.com/DeployOffice/troubleshoot-shared-computer-activation)
