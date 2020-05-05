@@ -1,5 +1,5 @@
 ---
-title: การแบ่งปันวิดีโอของคุณในกระแสข้อมูลของ Microsoft
+title: แบ่งปันวิดีโอของคุณในกระแสข้อมูล Microsoft
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,19 +11,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001694"
 - "3772"
-ms.openlocfilehash: 4e68514c463b1c6d5376ee0fdd35672f1513fd1d
-ms.sourcegitcommit: 35b6db0a7160fa03a5ea54ad7f16cd84ca3186df
+ms.openlocfilehash: 0fdfee4e6675a12921dc7309a76cb9cb8e0cc292
+ms.sourcegitcommit: 264b782ac2fba8ffd84524180dc4f7d60b45e9a4
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 03/03/2020
-ms.locfileid: "42403604"
+ms.lasthandoff: 05/04/2020
+ms.locfileid: "44015780"
 ---
-# <a name="share-your-videos-in-microsoft-stream"></a><span data-ttu-id="160c2-102">การแบ่งปันวิดีโอของคุณในกระแสข้อมูลของ Microsoft</span><span class="sxs-lookup"><span data-stu-id="160c2-102">Share your videos in Microsoft Stream</span></span>
+# <a name="share-your-videos-in-microsoft-stream"></a><span data-ttu-id="85192-102">แบ่งปันวิดีโอของคุณในกระแสข้อมูล Microsoft</span><span class="sxs-lookup"><span data-stu-id="85192-102">Share your videos in Microsoft Stream</span></span>
 
-<span data-ttu-id="160c2-103">คุณอาจต้องการใช้วิดีโอร่วมกันในการสตรีม Microsoft กับบุคคลที่ไม่ใช่การเข้าถึง</span><span class="sxs-lookup"><span data-stu-id="160c2-103">You may want to share videos in Microsoft Stream with people who don't otherwise have access.</span></span> <span data-ttu-id="160c2-104">มีหลายวิธีในการแบ่งปันวิดีโอของคุณ:</span><span class="sxs-lookup"><span data-stu-id="160c2-104">There are various ways to share your videos:</span></span> 
+<span data-ttu-id="85192-103">คุณอาจต้องการแบ่งปันวิดีโอใน Microsoft Stream กับผู้ที่ไม่สามารถเข้าถึงได้</span><span class="sxs-lookup"><span data-stu-id="85192-103">You may want to share videos in Microsoft Stream with people who don't otherwise have access.</span></span> <span data-ttu-id="85192-104">มีหลายวิธีในการแชร์วิดีโอของคุณ:</span><span class="sxs-lookup"><span data-stu-id="85192-104">There are various ways to share your videos:</span></span>
 
-- [<span data-ttu-id="160c2-105">การแบ่งปันวิดีโอของคุณในกระแสข้อมูลของ Microsoft</span><span class="sxs-lookup"><span data-stu-id="160c2-105">Share your videos in Microsoft Stream</span></span>](https://docs.microsoft.com/stream/portal-share-video)
+- [<span data-ttu-id="85192-105">แบ่งปันวิดีโอของคุณในกระแสข้อมูล Microsoft</span><span class="sxs-lookup"><span data-stu-id="85192-105">Share your videos in Microsoft Stream</span></span>](https://docs.microsoft.com/stream/portal-share-video)
 
-- [<span data-ttu-id="160c2-106">การใช้ร่วมกันภายนอกในกระแสข้อมูลของ Microsoft</span><span class="sxs-lookup"><span data-stu-id="160c2-106">External sharing in Microsoft Stream</span></span>](https://docs.microsoft.com/stream/portal-share-video#external-sharing)
-
-- [<span data-ttu-id="160c2-107">การอนุญาตบนวิดีโอของคุณ</span><span class="sxs-lookup"><span data-stu-id="160c2-107">Permissions on your video</span></span>](https://docs.microsoft.com/stream/portal-share-video#permissions-on-your-video)
+- [<span data-ttu-id="85192-106">สิทธิ์ในวิดีโอของคุณ</span><span class="sxs-lookup"><span data-stu-id="85192-106">Permissions on your video</span></span>](https://docs.microsoft.com/stream/portal-share-video#permissions-on-your-video)
