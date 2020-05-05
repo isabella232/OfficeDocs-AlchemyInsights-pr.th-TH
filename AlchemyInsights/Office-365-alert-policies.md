@@ -1,5 +1,5 @@
 ---
-title: ๑๓๘๕-Office-๓๖๕-การแจ้งเตือนนโยบาย
+title: นโยบายการแจ้งเตือน 1385-Office-365
 ms.author: markjjo
 author: markjjo
 manager: lauraw
@@ -12,36 +12,36 @@ ms.custom:
 - "1385"
 - "3200002"
 ms.assetid: ''
-ms.openlocfilehash: edff5a265cf31ce9a242f73ae7121ccb8b591d5f
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: 1209e59668bbe69fe88408933ae11b357b8d4f1a
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "36661315"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43687637"
 ---
-# <a name="office-365-alert-policies"></a>นโยบายการแจ้งเตือน Office ๓๖๕
+# <a name="alert-policies"></a>นโยบายการแจ้งเตือน
 
-ศูนย์การปฏิบัติตามกฎระเบียบ & ความปลอดภัยของ Office ๓๖๕นำเสนอ[นโยบายการแจ้งเตือนเริ่มต้น](https://docs.microsoft.com/office365/securitycompliance/alert-policies#default-alert-policies)ที่ทริกเกอร์การแจ้งเตือนสำหรับองค์กรที่มี Office ๓๖๕ Enterprise หรือ office ๓๖๕การสมัครใช้งานของรัฐบาลสหรัฐฯ E1/G1, E3/G3 หรือ E5/G5 ดังนั้นผู้ดูแลระบบจึงอาจได้รับการแจ้งเตือนทาง e-mail ที่ส่งโดย Office365Alerts@microsoft.com กับบรรทัดหัวเรื่องเช่น "การแจ้งเตือนความรุนแรงต่ำ:*ชื่อของนโยบายการแจ้งเตือน*" การแจ้งเตือนจะถูกส่งเมื่อข้อความแจ้งเตือนถูกทริกเกอร์สำหรับกิจกรรมทั่วไปเช่นเมื่อผู้ใช้:
+ศูนย์การปฏิบัติตามกฎระเบียบ & Microsoft 365 มี[นโยบายการแจ้งเตือนเริ่มต้น](https://docs.microsoft.com/office365/securitycompliance/alert-policies#default-alert-policies)ที่ทริกเกอร์การแจ้งเตือนสําหรับองค์กรที่มี Office 365 Enterprise หรือ Office 365 รัฐบาลสหรัฐ E1/G1, E3/G3 หรือการสมัครใช้งาน E5/G5 ผู้ดูแลอาจได้รับการแจ้งเตือนทางอีเมลที่ส่งโดยOffice365Alerts@microsoft.comบรรทัดเรื่องเช่น "การแจ้งเตือนความรุนแรงต่ํา:*ชื่อของนโยบายการแจ้งเตือน*" การแจ้งเตือนจะถูกส่งเมื่อทริกเกอร์การแจ้งเตือนสําหรับกิจกรรมทั่วไป เช่น เมื่อผู้ใช้:
 
-- สร้างกฎของกล่องขาเข้าที่ส่งต่อไปยัง email
-- กำหนดสิทธิ์ในกล่องจดหมายของพวกเขา
-- แชร์หรือลบแฟ้มจำนวนมากในการใช้แฟ้มร่วมกันของ SharePoint
+- สร้างกฎกล่องจดหมายที่ส่งต่ออีเมล
+- กําหนดสิทธิ์กล่องจดหมายของพวกเขา
+- ใช้ร่วมกัน หรือลบไฟล์จํานวนมากใน SharePoint แฟ้มที่ใช้ร่วมกัน
 - สร้างการค้นหา eDiscovery และส่งออกผลลัพธ์การค้นหา
 
-วิธีตรวจสอบและปฏิบัติตามข้อความแจ้งเตือน:
+วิธีตรวจสอบและดําเนินการกับการแจ้งเตือน:
 
-1. ไปที่[ศูนย์ความปลอดภัย & การปฏิบัติตามกฎระเบียบ](https://protection.office.com)และลงชื่อเข้าใช้
-2. คลิกการแจ้งเตือน**มุมมอง****การแจ้งเตือน** > 
+1. ไปที่[ศูนย์การปฏิบัติตามนโยบาย &ความปลอดภัยและ](https://protection.office.com)ลงชื่อเข้าใช้
+2.  > คลิก**Alerts****การแจ้งเตือน**
 3. คลิกการแจ้งเตือนเพื่อแสดงหน้าลอยพร้อมข้อมูลเกี่ยวกับการแจ้งเตือน
 
-คุณสามารถดำเนินการกับการแจ้งเตือนเช่นการ[เอากฎของกล่องขาเข้าที่น่าสงสัย](https://docs.microsoft.com/office365/securitycompliance/responding-to-a-compromised-email-account)ออก หรือคุณก็สามารถปิดการแจ้งเตือนโดยคลิกที่**แก้ปัญหา**บนหน้าลอยการแจ้งเตือน
+คุณสามารถดําเนินการกับการแจ้งเตือน เช่น[การลบกฎของกล่องจดหมายที่น่าสงสัย](https://docs.microsoft.com/office365/securitycompliance/responding-to-a-compromised-email-account) หรือคุณสามารถปิดการแจ้งเตือนได้โดยคลิก**แก้ไข**ที่หน้าลอยแจ้งเตือน
 
-สำหรับข้อมูลเพิ่มเติมเกี่ยวกับการกำหนดค่าและการจัดการนโยบายการแจ้งเตือนโปรดดู[บทความนี้](https://docs.microsoft.com/office365/securitycompliance/alert-policies)
+สําหรับข้อมูลเพิ่มเติมเกี่ยวกับการตั้งค่าคอนฟิกและการจัดการนโยบายการแจ้งเตือน ให้ดูที่[บทความนี้](https://docs.microsoft.com/office365/securitycompliance/alert-policies)
 
-**สิ่งสำคัญ**: การแจ้งเตือนทาง e-mail แจ้งเตือนจาก Microsoft จะไม่ขอให้คุณทำสิ่งต่อไปนี้:
+**สิ่งสําคัญ**: การแจ้งเตือนทางอีเมลจาก Microsoft จะไม่ขอให้คุณทําสิ่งต่อไปนี้:
 
 - ใส่รหัสผ่าน
 - ตรวจสอบรายละเอียดความปลอดภัยของบัญชีของคุณ
-- ตรวจสอบสิทธิ์ตัวเองอีกครั้ง
+- ตรวจสอบความถูกต้องด้วยตนเองอีกครั้ง
 
-ถ้าคุณได้รับข้อความทาง e-mail เช่นนี้, มันไม่ได้ถูกส่งโดยไมโครซอฟท์และควรได้รับการพิจารณาหลอกลวงฟิชชิ่ง. หากเกิดกรณีดังกล่าวโปรด[รายงานไปยัง Microsoft](https://docs.microsoft.com/office365/SecurityCompliance/report-junk-email-and-phishing-scams-in-outlook-on-the-web-eop)
+หากคุณได้รับข้อความอีเมลเช่นนี้ Microsoft ไม่ได้ส่งและควรถือว่าเป็นการหลอกลวงแบบฟิชชิ่ง หากเกิดเหตุการณ์นี้โปรด[รายงานไปยัง Microsoft](https://docs.microsoft.com/office365/SecurityCompliance/report-junk-email-and-phishing-scams-in-outlook-on-the-web-eop)
