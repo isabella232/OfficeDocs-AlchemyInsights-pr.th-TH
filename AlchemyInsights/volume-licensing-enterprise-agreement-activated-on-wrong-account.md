@@ -13,13 +13,13 @@ ms.custom:
 - "463"
 - "1500021"
 ms.assetid: 3eddff13-0dc2-41ff-995a-83df2c941eb7
-ms.openlocfilehash: eeff05f8dff1fec44b1eba9a7977309c66ba45fc
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: de9c053dfaa3842c6539a324324a31fd53a8c761
+ms.sourcegitcommit: 1c052f8dada7b7d081c61462396e1de3df682c28
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43716227"
+ms.lasthandoff: 05/05/2020
+ms.locfileid: "44021553"
 ---
-# <a name="volume-licensing-enterprise-agreement-activated-on-wrong-account"></a>ข้อตกลงองค์กร Volume Licensing ที่เปิดใช้งานในบัญชีที่ไม่ถูกต้อง
+# <a name="volume-licensing-enterprise-agreement-activated-on-the-wrong-account-or-transferring-licenses-from-one-account-to-another"></a>ข้อตกลงองค์กร Volume Licensing ที่เปิดใช้งานบนบัญชีที่ไม่ถูกต้อง หรือถ่ายโอนสิทธิ์การใช้งานจากบัญชีหนึ่งไปยังอีกบัญชีหนึ่ง
 
-หากคุณพบว่าการสมัครใช้งานของคุณที่ซื้อผ่าน Volume Licensing Enterprise Agreement ถูกเปิดใช้งานในผู้เช่าที่ไม่ถูกต้อง โปรดใช้ตัวเลือก "ให้เราโทรหาคุณ" เพื่อพูดคุยกับวิศวกรฝ่ายสนับสนุน
+ถ้าคุณพบการสมัครใช้งานของคุณที่ซื้อผ่านข้อตกลงองค์กร Volume **Licensing Enterprise**ได้ถูกเปิดใช้งานบน**ผู้เช่าที่ไม่ถูกต้อง**หรือคุณต้องการ**ถ่ายโอนสิทธิ์การใช้งาน**จากผู้เช่าหนึ่งไปยังผู้เช่ารายอื่น โปรดติดต่อ[ศูนย์บริการ Volume Licensing ของ Microsoft](https://support.microsoft.com/help/4471406/how-to-contact-the-microsoft-volume-licensing-service-center)

@@ -1,5 +1,5 @@
 ---
-title: เหตุการณ์สดในกระแสข้อมูลของ Microsoft
+title: เหตุการณ์สดในกระแสข้อมูลไมโครซอฟท์
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,18 +11,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001511"
 - "3571"
-ms.openlocfilehash: c2d87ae326da3a99e46b0d71f5dcf3b48cb16c22
-ms.sourcegitcommit: a92e2bad1e89367307e78a514b8c4e456640daff
+ms.openlocfilehash: 41bbec42eeaba3545937700eee23573879133644
+ms.sourcegitcommit: 264b782ac2fba8ffd84524180dc4f7d60b45e9a4
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 02/21/2020
-ms.locfileid: "42564608"
+ms.lasthandoff: 05/04/2020
+ms.locfileid: "44015744"
 ---
-# <a name="live-events-in-microsoft-stream"></a>เหตุการณ์สดในกระแสข้อมูลของ Microsoft
+# <a name="live-events-in-microsoft-stream"></a>เหตุการณ์สดในกระแสข้อมูลไมโครซอฟท์
 
-คุณสามารถสร้างเหตุการณ์สดโดยใช้กระแสข้อมูลของ Microsoft ในองค์กร คุณสามารถจัดกำหนดการผลิตและส่งเหตุการณ์สดสำหรับสถานการณ์ต่างๆเช่นเหตุการณ์ทั่วทั้งบริษัทการปรับปรุงความเป็นผู้นำและอื่นๆ
+คุณสามารถสร้างเหตุการณ์สดโดยใช้กระแสข้อมูล Microsoft ทั่วทั้งองค์กร คุณสามารถจัดกําหนดการ ผลิต และส่งเหตุการณ์สดสําหรับสถานการณ์ต่างๆ เช่น เหตุการณ์ทั่วทั้งบริษัท
 
-- [เหตุการณ์สดในกระแสข้อมูลของ Microsoft](https://docs.microsoft.com/stream/live-event-overview)
-- [สร้างเหตุการณ์สดในกระแสข้อมูลของ Microsoft](https://docs.microsoft.com/stream/live-create-event)
-- [เริ่มต้นใช้งานกับทีมงานของ Microsoft](https://support.office.com/article/get-started-with-microsoft-teams-live-events-d077fec2-a058-483e-9ab5-1494afda578a)
-- [กำหนดค่าเอ็นสำหรับการถ่ายทอดสดในกระแสข้อมูลของ Microsoft](https://docs.microsoft.com/stream/live-encoder-setup)
+- [สร้างเหตุการณ์สดในกระแสข้อมูล Microsoft](https://docs.microsoft.com/stream/live-create-event)
+- [เริ่มต้นใช้งานเหตุการณ์สดของ Microsoft Teams](https://support.office.com/article/get-started-with-microsoft-teams-live-events-d077fec2-a058-483e-9ab5-1494afda578a)
+- [กําหนดค่าการเข้ารหัสสําหรับการสตรีมแบบสดในกระแสข้อมูล Microsoft](https://docs.microsoft.com/stream/live-encoder-setup)

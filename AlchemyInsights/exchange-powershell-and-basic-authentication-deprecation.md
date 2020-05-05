@@ -11,13 +11,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "3500011"
 - "4577"
-ms.openlocfilehash: 5fed1e7c8e0f14cd18bede5ffd07b8be4b7f6f06
-ms.sourcegitcommit: c31b37ec6a107308bcbfdf5dfee72843c782700c
+ms.openlocfilehash: 24d59860732b42e8d62da8c1a8c37f2018a0d126
+ms.sourcegitcommit: 264b782ac2fba8ffd84524180dc4f7d60b45e9a4
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 04/02/2020
-ms.locfileid: "43102794"
+ms.lasthandoff: 05/04/2020
+ms.locfileid: "44015708"
 ---
 # <a name="exchange-powershell-and-basic-authentication-deprecation"></a>การแลกเปลี่ยน PowerShell และการตรวจสอบพิสูจน์ตัวจริงพื้นฐาน
 
 สําหรับข้อมูลล่าสุดเกี่ยวกับวิธีการเชื่อมต่อกับ PowerShell แบบออนไลน์ของอัตราแลกเปลี่ยนโดยไม่ต้องใช้การรับรองความถูกต้องพื้นฐาน[โปรดไปที่ที่นี่](https://aka.ms/psbasicauth)
+
+โปรดทราบว่าการตรวจสอบความถูกต้องเบื้องต้นยังคงต้องเปิดใช้งานบนเครื่องไคลเอ็นต์ของคุณ
+โมดูล PowerShell V2 ใหม่ใช้การรับรองความถูกต้องสมัยใหม่เพื่อสร้างการเชื่อมต่อสําหรับการเปิดใช้งาน REST-based V2 Cmdlet ทั้งหมด นอกเหนือจาก V2 cmdlets แล้ว ยังช่วยให้คุณเข้าถึง Cmdlets Remote PowerShell (RPS) ที่ต้องใช้เซสชัน PowerShell ระยะไกลเพื่อที่จะสร้าง สร้างเซสชัน RPS บนเครื่อง Windows ต้องใช้ WinRM BasicAuth เมื่อต้องการเปิดใช้งานบนเครื่องไคลเอนต์แม้ว่าโมดูลใช้กลไกการรับรองความถูกต้องสมัยใหม่เพื่อรับรองความถูกต้องกับบริการ ขั้นตอนของ WinRM พื้นฐานการรับรองความถูกต้องถูกใช้สําหรับการขนส่งโทเค็นการรับรองความถูกต้องสมัยใหม่ ถ้า WinRM Basic รับรองความถูกต้องถูกปิดใช้งานบนเครื่องไคลเอนต์ cmdlet V2 ใหม่จะทํางานต่อไป (แต่ cmdlets RPS เก่าจะไม่)
