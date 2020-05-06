@@ -6,19 +6,21 @@ ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
-ms.openlocfilehash: a508fdb6d9a01975559954fef3565149dfa59e9e
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 33cd96e37701339047d5e3bb1e49f60d37facc53
+ms.sourcegitcommit: ba88139a3d02e45d54a232fa24b706e3cc1c6f81
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43762336"
+ms.lasthandoff: 05/05/2020
+ms.locfileid: "44043056"
 ---
 # <a name="microsoft-search-in-bing-and-microsoft-365-apps-for-enterprise"></a>การค้นหาของ Microsoft ใน Bing และแอป Microsoft 365 สําหรับองค์กร
 
-เริ่มต้นด้วยเวอร์ชัน 2002 ของ Microsoft 365 Apps สําหรับองค์กร ส่วนขยายสําหรับ Microsoft Search ใน Bing จะถูกติดตั้งซึ่งทําให้ Bing เป็นเครื่องมือค้นหาเริ่มต้นสําหรับเว็บเบราว์เซอร์ของ Google Chrome บนอุปกรณ์ในบางตําแหน่งเท่านั้น
+การค้นหา***ของ***Microsoft ในส่วนขยาย Bing สําหรับ Google Chrome สามารถใช้ได้กับ Microsoft 365 Apps สําหรับองค์กร (ก่อนหน้านี้ชื่อ Office 365 ProPlus) โดยเริ่มต้นด้วยเวอร์ชัน 2005 ส่วนขยายนี้จะพร้อมใช้งานในบางตําแหน่งที่ตั้งสําหรับอุปกรณ์ที่เข้าร่วมโดเมนที่ใช้ Windows ถ้าคุณตัดสินใจที่จะปรับใช้ส่วนขยายนี้ Bing จะตั้งค่าเป็นเครื่องมือค้นหาเริ่มต้น
 
-**หากคุณไม่ต้องการให้ส่วนขยายติดตั้ง[ให้ทําตามขั้นตอนเหล่านี้](https://docs.microsoft.com/deployoffice/microsoft-search-bing#how-to-exclude-the-extension-for-microsoft-search-in-bing-from-being-installed)**
+เมื่อต้องการติดตั้งส่วนขยายที่คุณจําเป็นต้อง***เลือกใช้***โดยการกําหนดค่าการตั้งค่าในส่วนการค้นหาของ Microsoft ของศูนย์การจัดการ Microsoft 365
 
-แม้หลังจากที่มีการติดตั้งส่วนขยาย, ผู้ใช้ของคุณสามารถหยุดการใช้ Bing เป็นเครื่องมือค้นหาเริ่มต้นด้วยตัวเองโดยใช้สลับ[เปิด / ปิด](https://docs.microsoft.com/deployoffice/microsoft-search-bing#change-whether-bing-is-the-default-search-engine-for-google-chrome)ง่ายหรือคุณสามารถ[ลบส่วนขยาย](https://docs.microsoft.com/deployoffice/microsoft-search-bing#how-to-remove-the-extension-after-its-been-installed)จากอุปกรณ์หลายในองค์กรของคุณ.
+การปรับใช้ส่วนขยาย***ที่เป็นตัวเลือก***นี้ยังอาศัยบริการพื้นหลัง ซึ่งมาพร้อมกับ Microsoft 365 Apps สําหรับองค์กร โดยเริ่มต้นด้วยเวอร์ชัน 2005 ถ้าบริการพื้นหลังไม่ได้ติดตั้ง ส่วนขยายจะไม่ถูกติดตั้ง
 
-เรามีบทความช่วยเหลือโดยละเอียดที่ช่วยให้คุณเข้าใจเพิ่มเติมเกี่ยวกับการเปลี่ยนแปลงนี้[ที่นี่](https://docs.microsoft.com/deployoffice/microsoft-search-bing)
+แม้หลังจากที่มีการติดตั้งส่วนขยาย, ผู้ใช้ของคุณสามารถหยุดการใช้ Bing เป็นเครื่องมือค้นหาเริ่มต้นโดยใช้ง่ายเปิด / ปิดสลับ.
+
+สําหรับข้อมูลเพิ่มเติมเกี่ยวกับการปรับใช้ส่วนขยาย***ที่เลือกได้***นี้ ให้ดูที่[การค้นหาของ Microsoft ใน Bing และ Microsoft 365 Apps สําหรับองค์กร](https://docs.microsoft.com/deployoffice/microsoft-search-bing)
