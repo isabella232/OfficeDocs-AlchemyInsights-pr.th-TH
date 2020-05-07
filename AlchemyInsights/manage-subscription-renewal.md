@@ -12,25 +12,25 @@ ms.custom:
 - "1500012"
 - "4568"
 - "4730"
-ms.openlocfilehash: 1f54b65f9e20bed4f69bdd08dbbbc3b03a1a22e5
-ms.sourcegitcommit: cad7ec134efdac7130911bfee6cb4a59ad882e39
+ms.openlocfilehash: d6b6f52a454744ecc8f77b180ae697cb7a830f5c
+ms.sourcegitcommit: d1aad215f8aa636ba89c93a13a0c9d90e997f752
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 04/08/2020
-ms.locfileid: "43195254"
+ms.lasthandoff: 05/06/2020
+ms.locfileid: "44062988"
 ---
-# <a name="manage-subscription-renewal"></a><span data-ttu-id="d80f8-102">จัดการการต่ออายุการสมัครใช้งาน</span><span class="sxs-lookup"><span data-stu-id="d80f8-102">Manage subscription renewal</span></span>
+# <a name="manage-subscription-renewal"></a><span data-ttu-id="60db5-102">จัดการการต่ออายุการสมัครใช้งาน</span><span class="sxs-lookup"><span data-stu-id="60db5-102">Manage subscription renewal</span></span>
 
-<span data-ttu-id="d80f8-103">คุณสามารถสลับ**เปิดหรือปิดการเรียกเก็บเงินที่เกิดประจํา**ได้</span><span class="sxs-lookup"><span data-stu-id="d80f8-103">To manage monthly or yearly billing, you can toggle **Recurring billing** on or off.</span></span>
+<span data-ttu-id="60db5-103">คุณสามารถสลับ**เปิดหรือปิดการเรียกเก็บเงินที่เกิดประจํา**ได้</span><span class="sxs-lookup"><span data-stu-id="60db5-103">To manage monthly or yearly billing, you can toggle **Recurring billing** on or off.</span></span>
 
-1. <span data-ttu-id="d80f8-104">ในศูนย์การจัดการ ให้ไปที่หน้า**[การเรียกเก็บเงิน>ผลิตภัณฑ์&บริการ](https://go.microsoft.com/fwlink/p/?linkid=842054)**</span><span class="sxs-lookup"><span data-stu-id="d80f8-104">In the admin center, go to the **Billing > [Products & services](https://go.microsoft.com/fwlink/p/?linkid=842054)** page.</span></span>
+1. <span data-ttu-id="60db5-104">ไปที่หน้า**การเรียกเก็บเงิน** > **[สินค้าของคุณ](https://go.microsoft.com/fwlink/p/?linkid=842054)**</span><span class="sxs-lookup"><span data-stu-id="60db5-104">In the admin center, go to the **Billing** > **[Your products](https://go.microsoft.com/fwlink/p/?linkid=842054)** page.</span></span>
 
-2. <span data-ttu-id="d80f8-105">เลือกการสมัครใช้งานที่คุณต้องการจัดการการเรียกเก็บเงินที่เกิดประจํา</span><span class="sxs-lookup"><span data-stu-id="d80f8-105">Choose the subscription for which you want to manage recurring billing.</span></span>
+2. <span data-ttu-id="60db5-105">เลือกการสมัครใช้งานที่คุณต้องการจัดการการเรียกเก็บเงินที่เกิดประจํา</span><span class="sxs-lookup"><span data-stu-id="60db5-105">Choose the subscription for which you want to manage recurring billing.</span></span>
 
-3. <span data-ttu-id="d80f8-106">ภายใต้**การเรียกเก็บเงิน**ถัดจาก**ต่ออายุ เมื่อ**หรือ หมดอายุ**บน**ให้คลิก**แก้ไข**</span><span class="sxs-lookup"><span data-stu-id="d80f8-106">Under **Billing**, next to **Renews on** or **Expiring on**, click **edit**.</span></span>
+3. <span data-ttu-id="60db5-106">ภายใต้**การเรียกเก็บเงิน**ถัดจาก**ต่ออายุ เมื่อ**หรือ หมดอายุ**บน**ให้คลิก**แก้ไข**</span><span class="sxs-lookup"><span data-stu-id="60db5-106">Under **Billing**, next to **Renews on** or **Expiring on**, click **edit**.</span></span>
 
-4. <span data-ttu-id="d80f8-107">ในบานหน้าต่าง**การตั้งค่าการเรียกเก็บเงินที่เกิดประจํา**ให้คลิก**ปิด**เพื่อปิด</span><span class="sxs-lookup"><span data-stu-id="d80f8-107">In the **Recurring billing settings** pane, click **Turn OFF** to turn it off.</span></span> <span data-ttu-id="d80f8-108">หากการเรียกเก็บเงินตามกําหนดเวลาปิดอยู่แล้ว ให้คลิก**รายเดือน**หรือ**ครั้งเดียว**เพื่อเปิดใช้งาน</span><span class="sxs-lookup"><span data-stu-id="d80f8-108">If recurring billing is already turned off, click **Monthly** or **Once** to turn it on.</span></span>
+4. <span data-ttu-id="60db5-107">ในบานหน้าต่าง**การตั้งค่าการเรียกเก็บเงินที่เกิดประจํา**ให้คลิก**ปิด**เพื่อปิด</span><span class="sxs-lookup"><span data-stu-id="60db5-107">In the **Recurring billing settings** pane, click **Turn OFF** to turn it off.</span></span> <span data-ttu-id="60db5-108">หากการเรียกเก็บเงินตามกําหนดเวลาปิดอยู่แล้ว ให้คลิก**รายเดือน**หรือ**ครั้งเดียว**เพื่อเปิดใช้งาน</span><span class="sxs-lookup"><span data-stu-id="60db5-108">If recurring billing is already turned off, click **Monthly** or **Once** to turn it on.</span></span>
 
-5. <span data-ttu-id="d80f8-109">คลิก**ส่งการเปลี่ยนแปลง**</span><span class="sxs-lookup"><span data-stu-id="d80f8-109">Click **Submit change**.</span></span>
+5. <span data-ttu-id="60db5-109">คลิก**ส่งการเปลี่ยนแปลง**</span><span class="sxs-lookup"><span data-stu-id="60db5-109">Click **Submit change**.</span></span>
 
-<span data-ttu-id="d80f8-110">หากต้องการเรียนรู้เพิ่มเติม ให้ดูที่[ปิดหรือเปิดการเรียกเก็บเงินที่เกิดซ้ํา](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/renew-your-subscription#turn-recurring-billing-off-or-on)</span><span class="sxs-lookup"><span data-stu-id="d80f8-110">To learn more, see [Turn recurring billing off or on](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/renew-your-subscription#turn-recurring-billing-off-or-on).</span></span>
+<span data-ttu-id="60db5-110">หากต้องการเรียนรู้เพิ่มเติม ให้ดูที่[ปิดหรือเปิดการเรียกเก็บเงินที่เกิดซ้ํา](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/renew-your-subscription#turn-recurring-billing-off-or-on)</span><span class="sxs-lookup"><span data-stu-id="60db5-110">To learn more, see [Turn recurring billing off or on](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/renew-your-subscription#turn-recurring-billing-off-or-on).</span></span>
