@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001669"
 - "4560"
-ms.openlocfilehash: 3dc0d7481db5acae34a2186c9d63358c431c17f9
-ms.sourcegitcommit: c31b37ec6a107308bcbfdf5dfee72843c782700c
+ms.openlocfilehash: 8d7ca90f7ed2a5c11f4133e6ec35ec282e3cbd2b
+ms.sourcegitcommit: d1aad215f8aa636ba89c93a13a0c9d90e997f752
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 04/02/2020
-ms.locfileid: "43102776"
+ms.lasthandoff: 05/06/2020
+ms.locfileid: "44063024"
 ---
 # <a name="manage-your-account-and-subscriptions"></a>จัดการบัญชีและการสมัครใช้งานของคุณ
 
