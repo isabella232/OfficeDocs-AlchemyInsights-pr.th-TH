@@ -13,18 +13,18 @@ ms.custom:
 - "441"
 - "1500017"
 ms.assetid: 7dc125f8-491d-4bc2-a2f2-b73c7bda3035
-ms.openlocfilehash: 3754bc626264cf8eefe116bccaa0fac60384f55d
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 288cb29c463da776ccbce9d6a3302bfdc786702f
+ms.sourcegitcommit: d1aad215f8aa636ba89c93a13a0c9d90e997f752
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43763524"
+ms.lasthandoff: 05/06/2020
+ms.locfileid: "44064140"
 ---
 # <a name="how-to-reactivate-a-subscription"></a>วิธีเปิดใช้งานการสมัครใช้งานอีกครั้ง
 
 ถ้าการสมัครใช้งานของคุณหมดอายุ
   
-1. ไปที่หน้า[บริการ&ผลิตภัณฑ์](https://go.microsoft.com/fwlink/p/?linkid=842054)**การเรียกเก็บเงิน**\>
+1. ไปที่หน้า**การเรียกเก็บเงิน**\>**[สินค้าของคุณ](https://go.microsoft.com/fwlink/p/?linkid=842054)**
 
 2. ค้นหาการสมัครใช้งานที่คุณต้องการเปิดใช้งานอีกครั้ง ในส่วน**การเรียกเก็บเงิน**ให้เลือก**เปิดใช้งานใหม่**
 

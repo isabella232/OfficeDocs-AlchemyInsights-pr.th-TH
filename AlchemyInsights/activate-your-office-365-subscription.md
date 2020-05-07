@@ -11,18 +11,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "1500028"
 - "4744"
-ms.openlocfilehash: 4a7bf12b7fe895d6aa930a7e1fb679b05a52c704
-ms.sourcegitcommit: 6a3748f5c05693ca0c19a829287cb8f30635940c
+ms.openlocfilehash: 5d28c6d0c73804e71a01514fdc8c561b1ba1b176
+ms.sourcegitcommit: d1aad215f8aa636ba89c93a13a0c9d90e997f752
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43784026"
+ms.lasthandoff: 05/06/2020
+ms.locfileid: "44062087"
 ---
 # <a name="activate-your-subscription"></a>เปิดใช้งานการสมัครใช้งานของคุณ
 
 **เปิดใช้งานการบอกรับเป็นสมาชิก**
 
-- เมื่อต้องการให้สิทธิ์แก่ผู้ใช้ในการเข้าถึงบริการ ให้กําหนดสิทธิ์การใช้งานให้กับผู้ใช้ สําหรับคําแนะนําเกี่ยวกับการกําหนดสิทธิ์การใช้งาน ให้ดูที่[มอบหมายสิทธิ์การใช้งานให้กับผู้ใช้](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users?view=o365-worldwide)
+- เมื่อต้องการให้สิทธิ์แก่ผู้ใช้ในการเข้าถึงบริการ ให้กําหนดสิทธิ์การใช้งานให้กับผู้ใช้ สําหรับคําแนะนําเกี่ยวกับการกําหนดสิทธิ์การใช้งาน ให้ดูที่[มอบหมายสิทธิ์การใช้งานให้กับผู้ใช้](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users)
 
 - ถ้าคุณมีใบอนุญาตที่มอบหมายแล้วคุณสามารถค้นหาการใช้งานที่คุณสามารถดาวน์โหลดได้จาก[บัญชีของฉันหน้า](https://portal.office.com/account/#installs) หน้านี้แสดงรายการของโปรแกรมประยุกต์ที่พร้อมใช้งานสําหรับคุณที่จะดาวน์โหลดตามใบอนุญาตที่ได้รับมอบหมาย
 
@@ -32,13 +32,13 @@ ms.locfileid: "43784026"
 
 ถ้าการสมัครใช้งานของคุณหมดอายุ หรือถูกปิดใช้งานโดย Microsoft หรือถ้าคุณยกเลิกการสมัครใช้งานไว้กลางระยะเวลา
 
-- ในศูนย์การจัดการ Microsoft 365 ให้ไปที่หน้า[การสมัครใช้งาน](https://go.microsoft.com/fwlink/p/?linkid=842054)(หรือคลิก**การเรียกเก็บเงิน>การเรียกเก็บเงิน**)
+- ในศูนย์การจัดการ Microsoft 365 ให้ไปที่หน้า**การเรียกเก็บเงิน** > **[ผลิตภัณฑ์ของคุณ](https://go.microsoft.com/fwlink/p/?linkid=842054)**
 
-- เลือกการสมัครใช้งานที่คุณต้องการเปิดใช้งานอีกครั้ง แล้วคลิก**เปิดใช้งานใหม่** หากคุณไม่เห็น **"เปิดใช้งานอีกครั้ง**เป็นการดําเนินการที่มีให้ใช้งาน"[ให้ติดต่อฝ่ายสนับสนุน](https://support.office.com/article/call-support-32a17ca7-6fa0-4870-8a8d-e25ba4ccfd4b)เพื่อเปิดใช้งานการสมัครใช้งานของคุณอีกครั้ง
+- เลือกการสมัครใช้งานที่คุณต้องการเปิดใช้งานอีกครั้ง แล้วคลิก**เปิดใช้งานใหม่** หากคุณไม่เห็น **"เปิดใช้งานอีกครั้ง**เป็นการดําเนินการที่มีให้ใช้งาน"[ให้ติดต่อฝ่ายสนับสนุน](https://docs.microsoft.com/microsoft-365/admin/contact-support-for-business-products)เพื่อเปิดใช้งานการสมัครใช้งานของคุณอีกครั้ง
 
-- ป้อนรายละเอียดการชําระเงินของคุณ คุณสามารถ[อัปเดตข้อมูลการชําระเงินที่มีอยู่ได้ที่นี่](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/add-update-or-remove-credit-card-or-bank-account?view=o365-worldwide)เช่นกัน
+- ป้อนรายละเอียดการชําระเงินของคุณ คุณสามารถ[อัปเดตข้อมูลการชําระเงินที่มีอยู่ได้ที่นี่](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/add-update-or-remove-credit-card-or-bank-account)เช่นกัน
 
-สําหรับข้อมูลเพิ่มเติม ให้ดูที่[เปิดใช้งานการสมัครใช้งานของคุณใหม่](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/reactivate-your-subscription)
+สําหรับข้อมูลเพิ่มเติม ให้ดูที่[เปิดใช้งานการสมัครใช้งานของคุณใหม่](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/reactivate-your-subscription)
 
 **เปิดใช้งานการสมัครใช้งานใหม่ด้วยหมายเลขผลิตภัณฑ์**
 
