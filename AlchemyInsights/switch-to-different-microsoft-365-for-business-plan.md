@@ -17,12 +17,12 @@ ms.custom:
 - "5160"
 - "9002663"
 - "5168"
-ms.openlocfilehash: a0a9c43fe163fd8bbb45181394d3fcbba9d082f7
-ms.sourcegitcommit: 4df75b03f8ceac72f68f012eeb28b78d2f2616f8
+ms.openlocfilehash: 21475c335e30bcaf5b08557c793a62fbf9b5fdf3
+ms.sourcegitcommit: d1aad215f8aa636ba89c93a13a0c9d90e997f752
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 05/01/2020
-ms.locfileid: "43957997"
+ms.lasthandoff: 05/06/2020
+ms.locfileid: "44064340"
 ---
 # <a name="switch-to-a-different-microsoft-365-for-business-plan"></a>สลับไปยังแผนธุรกิจ Microsoft 365 อื่น
 
@@ -32,4 +32,4 @@ ms.locfileid: "43957997"
 
 - ในบางสถานการณ์[ปุ่มสลับแผน](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/switch-to-a-different-plan#use-the-switch-plans-button)จะพร้อมใช้งานเพื่อนําคุณผ่านกระบวนการสลับแผน
 
-สําหรับข้อมูลเพิ่มเติม ให้ดูที่ สลับไปยังแผน[Microsoft 365 อื่นสําหรับแผนธุรกิจ](https://docs.microsoft.com/en-us/microsoft-365/commerce/subscriptions/switch-to-a-different-plan)
+สําหรับข้อมูลเพิ่มเติม ให้ดูที่ สลับไปยังแผน[Microsoft 365 อื่นสําหรับแผนธุรกิจ](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/switch-to-a-different-plan)

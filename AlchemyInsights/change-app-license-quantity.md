@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000568"
 - "2425"
-ms.openlocfilehash: 9914a95ddbebf376e740b2d7b3d88ae58aed4a45
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 39512e97c9fba1e15a2c88ce7bc1de8a15c65cc0
+ms.sourcegitcommit: d1aad215f8aa636ba89c93a13a0c9d90e997f752
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43707062"
+ms.lasthandoff: 05/06/2020
+ms.locfileid: "44058771"
 ---
 # <a name="change-app-license-quantity"></a>เปลี่ยนปริมาณใบอนุญาตของแอป
 
@@ -25,7 +25,7 @@ ms.locfileid: "43707062"
 
 ## <a name="to-change-license-quantity"></a>เมื่อต้องการเปลี่ยนปริมาณลิขสิทธิ์
 
-1. ไปที่**หน้า** > [บริการ&การเรียกเก็บเงิน](https://go.microsoft.com/fwlink/p/?linkid=842054)จากนั้นเลือกแท็บ**แอป**
+1. ไปที่หน้า**การเรียกเก็บเงิน** > **[สินค้าของคุณ](https://go.microsoft.com/fwlink/p/?linkid=842054)** แล้วเลือกแท็บ**แอป**
 
 2. ค้นหาและเลือกแอปที่คุณต้องการจัดการ  
 
@@ -35,7 +35,7 @@ ms.locfileid: "43707062"
 
 ## <a name="to-assign-app-licenses"></a>เมื่อต้องการกําหนดสิทธิ์การใช้งานแอป
 
-1. ไปที่**หน้า** > [บริการ&การเรียกเก็บเงิน](https://go.microsoft.com/fwlink/p/?linkid=842054)จากนั้นเลือกแท็บ**แอป**
+1. ไปที่หน้า**การเรียกเก็บเงิน** > **[สินค้าของคุณ](https://go.microsoft.com/fwlink/p/?linkid=842054)** แล้วเลือกแท็บ**แอป**
 
 2. ค้นหาและเลือกแอปที่คุณต้องการจัดการ  
 

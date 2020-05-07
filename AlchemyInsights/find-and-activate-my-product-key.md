@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001519"
 - "3576"
-ms.openlocfilehash: 03ee3bff5bb3510d239d3a5d9f583bf0ae62f5cf
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 5c1ee37397981e70d141b5bc5a7880209b236a61
+ms.sourcegitcommit: d1aad215f8aa636ba89c93a13a0c9d90e997f752
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43716155"
+ms.lasthandoff: 05/06/2020
+ms.locfileid: "44062483"
 ---
 # <a name="find-and-activate-my-product-key"></a>ค้นหาและเปิดใช้งานคีย์ผลิตภัณฑ์ของฉัน
 
@@ -32,7 +32,7 @@ ms.locfileid: "43716155"
 
 **หมายเหตุ**: ในการใช้หมายเลขผลิตภัณฑ์เพื่อขยายวันหมดอายุ หรือเพิ่มสิทธิ์การใช้งานในการสมัครใช้งาน Microsoft 365 Business Premium Standard เดิมของคุณ  การใส่หมายเลขผลิตภัณฑ์ Microsoft 365 ดั้งเดิมของคุณจะไม่ทํางาน เนื่องจากคีย์ที่ได้ถูกแลกไปแล้วไม่สามารถใช้ได้อีก
 
-1. ไปที่หน้า[บริการ&ผลิตภัณฑ์](https://go.microsoft.com/fwlink/p/?linkid=842054)**การเรียกเก็บเงิน** > 
+1. ไปที่หน้า**การเรียกเก็บเงิน** > **[สินค้าของคุณ](https://go.microsoft.com/fwlink/p/?linkid=842054)**
 
 2. ค้นหาการสมัครใช้งานที่คุณต้องการขยายวันหมดอายุหรือเพิ่มสิทธิ์การใช้งาน  คลิก[ขยายวันที่สิ้นสุด](https://go.microsoft.com/fwlink/p/?linkid=842054)หรือ[เพิ่มสิทธิ์การใช้งานเพิ่มเติม](https://go.microsoft.com/fwlink/p/?linkid=842054)
 

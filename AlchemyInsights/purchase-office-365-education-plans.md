@@ -12,18 +12,18 @@ ms.custom:
 - "1500009"
 - "328"
 - "330"
-ms.openlocfilehash: 915d625dbf8726787e9bcd45e0cf7b025e90ead9
-ms.sourcegitcommit: 057d87c9d866fa1371d02350420d13774545c028
+ms.openlocfilehash: a4b079ceb87e87fd50f04f6edbd5d2cb23a27429
+ms.sourcegitcommit: d1aad215f8aa636ba89c93a13a0c9d90e997f752
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 05/02/2020
-ms.locfileid: "44005421"
+ms.lasthandoff: 05/06/2020
+ms.locfileid: "44062844"
 ---
 # <a name="microsoft-365-for-education---approved"></a>ไมโครซอฟท์ 365 สําหรับการศึกษา -- อนุมัติ
 
-คุณได้รับอนุมัติสําหรับ Microsoft 365 การศึกษา  วิธีการสั่งซื้อ:
+คุณได้รับอนุมัติสําหรับ Office 365 การศึกษา  วิธีการสั่งซื้อ:
 
-1. ไปที่**[บริการซื้อ>การเรียกเก็บเงิน](https://portal.office.com/AdminPortal/Home#/catalog)**
+1. ไปที่[บริการซื้อ](https://portal.office.com/AdminPortal/Home#/catalog)**การเรียกเก็บเงิน** > 
 
 2. เลือกจากรายการภายใต้**แผนการศึกษา**
 
@@ -33,10 +33,10 @@ ms.locfileid: "44005421"
 
 **เปิดทีม**
 
-- เมื่อต้องการเปิดทีม Microsoft สําหรับผู้ใช้ทุกคน ให้ไปที่**[การตั้งค่า> การตั้งค่า >ทีมของ Microsoft](https://admin.microsoft.com/Adminportal/Home#/SettingsMultiPivot/:/Settings/L1/SkypeTeams)** และคลิกที่กล่องกาเครื่องหมาย**เปิด Microsoft Teams สําหรับผู้ใช้ทั้งหมด**  คลิก**บันทึกการเปลี่ยนแปลง**
+- เมื่อต้องการเปิดทีม Microsoft สําหรับผู้ใช้ทั้งหมด ให้ไปที่**Settings** > **การตั้งค่า** > [Microsoft Teams](https://admin.microsoft.com/Adminportal/Home#/SettingsMultiPivot/:/Settings/L1/SkypeTeams)การตั้งค่า และคลิกกล่องกาเครื่องหมาย เปิด Microsoft Teams**สําหรับผู้ใช้ทั้งหมด** คลิก**บันทึกการเปลี่ยนแปลง**
 
 **การเรียนการสอนและการเรียนรู้จากระยะไกล**
 
-- โปรดดู[การสอนและการเรียนรู้ระยะไกลใน Microsoft 365 Education](https://support.office.com/article/remote-teaching-and-learning-in-office-365-education-f651ccae-7b65-478b-8366-51bb884025c4)เพื่อเรียนรู้คําแนะนําที่ทันสมัยที่สุดในการตั้งค่าการวางแผนบทเรียนของโรงเรียน
+- โปรดดู[การสอนและการเรียนรู้ระยะไกลใน Office 365 Education](https://support.office.com/article/remote-teaching-and-learning-in-office-365-education-f651ccae-7b65-478b-8366-51bb884025c4)เพื่อเรียนรู้คําแนะนําที่ทันสมัยที่สุดในการตั้งค่าการวางแผนบทเรียนของโรงเรียน
 
 - มีคําแนะนําด้านไอทีเพิ่มเติมใน[การเริ่มต้นใช้งาน Microsoft Teams สําหรับการเรียนรู้ระยะไกล](https://docs.microsoft.com/MicrosoftTeams/remote-learning-edu)และ[การเปลี่ยนไปยังการเรียนรู้ระยะไกล](https://www.microsoft.com/education/remote-learning)
