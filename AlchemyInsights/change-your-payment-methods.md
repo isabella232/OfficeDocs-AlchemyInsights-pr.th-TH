@@ -11,23 +11,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "1500001"
 - "4858"
-ms.openlocfilehash: 1fe5d00d3a0ad28d76fdddd2f9287b0895da46d5
-ms.sourcegitcommit: 75346a972c2174248de3bb55a19d714cee43c1cc
+ms.openlocfilehash: 74bf8e2df1204c421fedf159683e98a762f0fde8
+ms.sourcegitcommit: d1aad215f8aa636ba89c93a13a0c9d90e997f752
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 04/09/2020
-ms.locfileid: "43211500"
+ms.lasthandoff: 05/06/2020
+ms.locfileid: "44058663"
 ---
-# <a name="add-update-or-remove-your-payment-methods"></a><span data-ttu-id="7b497-102">เพิ่ม อัปเดต หรือลบวิธีการชําระเงินของคุณ</span><span class="sxs-lookup"><span data-stu-id="7b497-102">Add, update, or remove your payment methods</span></span>
+# <a name="add-update-or-remove-your-payment-methods"></a><span data-ttu-id="f9a0e-102">เพิ่ม อัปเดต หรือลบวิธีการชําระเงินของคุณ</span><span class="sxs-lookup"><span data-stu-id="f9a0e-102">Add, update, or remove your payment methods</span></span>
 
-<span data-ttu-id="7b497-103">คุณสามารถซื้อผลิตภัณฑ์และบริการจาก Microsoft ด้วย**บัตรเครดิตหรือบัตรเดบิตหรือบัญชีธนาคาร**</span><span class="sxs-lookup"><span data-stu-id="7b497-103">You can purchase products and services from Microsoft with a **credit or debit card or bank account**.</span></span> <span data-ttu-id="7b497-104">คุณสามารถป้อนข้อมูลการชําระเงินของคุณในหน้า[วิธีการชําระเงิน](https://go.microsoft.com/fwlink/p/?linkid=2018806)หรือเมื่อคุณทําการซื้อ</span><span class="sxs-lookup"><span data-stu-id="7b497-104">You can enter your payment information on the [Payment methods](https://go.microsoft.com/fwlink/p/?linkid=2018806) page, or when you make a purchase.</span></span>
+<span data-ttu-id="f9a0e-103">คุณสามารถซื้อผลิตภัณฑ์และบริการจาก Microsoft ด้วย**บัตรเครดิตหรือบัตรเดบิตหรือบัญชีธนาคาร**</span><span class="sxs-lookup"><span data-stu-id="f9a0e-103">You can purchase products and services from Microsoft with a **credit or debit card or bank account**.</span></span> <span data-ttu-id="f9a0e-104">คุณสามารถป้อนข้อมูลการชําระเงินของคุณในหน้า[วิธีการชําระเงิน](https://go.microsoft.com/fwlink/p/?linkid=2018806)หรือเมื่อคุณทําการซื้อ</span><span class="sxs-lookup"><span data-stu-id="f9a0e-104">You can enter your payment information on the [Payment methods](https://go.microsoft.com/fwlink/p/?linkid=2018806) page, or when you make a purchase.</span></span>
 
-- [<span data-ttu-id="7b497-105">เพิ่มวิธีการชําระเงิน</span><span class="sxs-lookup"><span data-stu-id="7b497-105">Add a payment method</span></span>](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/add-update-or-remove-credit-card-or-bank-account?view=o365-worldwide#add-a-payment-method)
+- [<span data-ttu-id="f9a0e-105">เพิ่มวิธีการชําระเงิน</span><span class="sxs-lookup"><span data-stu-id="f9a0e-105">Add a payment method</span></span>](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/add-update-or-remove-credit-card-or-bank-account#add-a-payment-method)
 
-- [<span data-ttu-id="7b497-106">อัพเดตวิธีการชําระเงินที่มีอยู่</span><span class="sxs-lookup"><span data-stu-id="7b497-106">Update an existing payment method</span></span>](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/add-update-or-remove-credit-card-or-bank-account?view=o365-worldwide#update-an-existing-payment-method)
+- [<span data-ttu-id="f9a0e-106">อัพเดตวิธีการชําระเงินที่มีอยู่</span><span class="sxs-lookup"><span data-stu-id="f9a0e-106">Update an existing payment method</span></span>](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/add-update-or-remove-credit-card-or-bank-account#update-an-existing-payment-method)
 
-- [<span data-ttu-id="7b497-107">เปลี่ยนวิธีการชําระเงิน</span><span class="sxs-lookup"><span data-stu-id="7b497-107">Change a payment method</span></span>](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/add-update-or-remove-credit-card-or-bank-account?view=o365-worldwide#change-a-payment-method)
+- [<span data-ttu-id="f9a0e-107">เปลี่ยนวิธีการชําระเงิน</span><span class="sxs-lookup"><span data-stu-id="f9a0e-107">Change a payment method</span></span>](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/add-update-or-remove-credit-card-or-bank-account#change-a-payment-method)
 
-- [<span data-ttu-id="7b497-108">ลบวิธีการชําระเงิน</span><span class="sxs-lookup"><span data-stu-id="7b497-108">Remove a payment method</span></span>](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/add-update-or-remove-credit-card-or-bank-account?view=o365-worldwide#remove-a-payment-method)
+- [<span data-ttu-id="f9a0e-108">ลบวิธีการชําระเงิน</span><span class="sxs-lookup"><span data-stu-id="f9a0e-108">Remove a payment method</span></span>](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/add-update-or-remove-credit-card-or-bank-account#remove-a-payment-method)
 
-- [<span data-ttu-id="7b497-109">แก้ปัญหาวิธีการชําระเงิน</span><span class="sxs-lookup"><span data-stu-id="7b497-109">Troubleshoot payment methods</span></span>](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/add-update-or-remove-credit-card-or-bank-account?view=o365-worldwide#troubleshoot-payment-methods)
+- [<span data-ttu-id="f9a0e-109">แก้ปัญหาวิธีการชําระเงิน</span><span class="sxs-lookup"><span data-stu-id="f9a0e-109">Troubleshoot payment methods</span></span>](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/add-update-or-remove-credit-card-or-bank-account#troubleshoot-payment-methods)
