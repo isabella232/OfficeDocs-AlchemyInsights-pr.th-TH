@@ -13,19 +13,19 @@ ms.custom:
 - "127"
 - "128"
 ms.assetid: de7b6877-f3f9-4402-8072-c73783aaccaa
-ms.openlocfilehash: 5249783915d125703c1c5d4b650e99b0f0a7c909
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 32ad81e9b1234d8adff3d2cac9c9e4b619e35688
+ms.sourcegitcommit: d1aad215f8aa636ba89c93a13a0c9d90e997f752
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43708922"
+ms.lasthandoff: 05/06/2020
+ms.locfileid: "44062231"
 ---
 # <a name="getting-a-tenantaccessblockedexception-error-when-accessing-email"></a>ข้อผิดพลาดของข้อผิดพลาดของข้อผิดพลาดเมื่อเข้าถึงอีเมล
 
 มีเหตุผลที่แตกต่างกันไม่กี่เหตุผลที่คุณอาจได้รับข้อผิดพลาดนี้ ตัวอย่างเช่น:
 
-- ตรวจสอบว่าการสมัครใช้งานของคุณถูกต้องบนหน้า[บริการ&ผลิตภัณฑ์](https://portal.office.com/adminportal/home#/subscriptions)**การเรียกเก็บเงิน**\>ในศูนย์การจัดการ Microsoft 365
+- ตรวจสอบว่าการสมัครใช้งานของคุณถูกต้องบนหน้า**การเรียกเก็บเงิน**\>**[ผลิตภัณฑ์ของคุณใน](https://portal.office.com/adminportal/home#/subscriptions)** ศูนย์การจัดการ Microsoft 365
 
-- ตรวจสอบการแจ้งเตือนที่เลยกําหนดชําระใดๆ บนหน้า**Billing**\>[ใบเรียกเก็บเงิน &การชําระเงิน](https://portal.office.com/adminportal/home#/billoverview)ในศูนย์การจัดการ Microsoft 365
+- ตรวจสอบการแจ้งเตือนที่เลยกําหนดชําระใดๆ บนหน้า**Billing**\>**[ใบเรียกเก็บเงิน &การชําระเงิน](https://portal.office.com/adminportal/home#/billoverview)** ในศูนย์การจัดการ Microsoft 365
 
 - หากการเรียกเก็บเงินและการสมัครใช้งานสําหรับบัญชีของคุณได้รับการอัปเดตเมื่อเร็วๆ นี้ อาจใช้เวลาสักครู่ในการเปลี่ยนแปลงเพื่อเผยแพร่ โปรดติดต่อเรา

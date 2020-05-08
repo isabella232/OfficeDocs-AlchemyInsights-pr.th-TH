@@ -12,12 +12,12 @@ ms.custom:
 - "531"
 - "1400007"
 ms.assetid: c45da4c9-ba12-4ceb-8eda-94331a6a97e4
-ms.openlocfilehash: b7436583f6aa8e0fe22c1bff71271a94b3de583c
-ms.sourcegitcommit: 6a3748f5c05693ca0c19a829287cb8f30635940c
+ms.openlocfilehash: 4fc934fcf9c1af0cd68aa20d5dc31d3d82264965
+ms.sourcegitcommit: d1aad215f8aa636ba89c93a13a0c9d90e997f752
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43787893"
+ms.lasthandoff: 05/06/2020
+ms.locfileid: "44063564"
 ---
 # <a name="how-to-make-a-microsoft-365-purchase"></a>วิธีการสั่งซื้อ Microsoft 365
 
@@ -25,13 +25,13 @@ ms.locfileid: "43787893"
   
 - หากต้องการซื้อแผน ให้ไปที่หน้า[บริการซื้อ](https://go.microsoft.com/fwlink/p/?linkid=868433)**การเรียกเก็บเงิน**\>
 
-- หากต้องการซื้อสิทธิ์การใช้งานเพิ่มเติม ให้ไปที่หน้าผลิตภัณฑ์**สําหรับการเรียกเก็บเงิน**\>[&](https://go.microsoft.com/fwlink/p/?linkid=842054) เลือกการสมัครใช้งานที่คุณต้องการเพิ่มสิทธิ์การใช้งาน แล้วเลือก**Add/Remove licenses**
+- หากต้องการซื้อสิทธิ์การใช้งานเพิ่มเติม ให้ไปที่หน้า**การเรียกเก็บเงิน**\>**[ผลิตภัณฑ์ของคุณ](https://go.microsoft.com/fwlink/p/?linkid=842054)** เลือกการสมัครใช้งานที่คุณต้องการเพิ่มสิทธิ์การใช้งาน แล้วเลือก**Add/Remove licenses**
   
 เมื่อต้องการเรียนรู้เพิ่มเติม ให้ดูที่[ซื้อสิทธิ์การใช้งานสําหรับการสมัครใช้งาน Microsoft 365 สําหรับธุรกิจของคุณ](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/buy-licenses)
 
 **การแก้ไขปัญหา**
 
-หากคุณประสบปัญหาเกี่ยวกับการโหลดหน้าเว็บ ให้ลองเปิดหน้าเว็บในเบราว์เซอร์อื่น หรือลองเปิดหน้าต่างเบราว์เซอร์ส่วนตัว เช่น หน้าต่างแบบ InPrivate ใน Microsoft Edge หรือหน้าต่างไม่ระบุตัวตนใน Google Chrome 
+หากคุณประสบปัญหาเกี่ยวกับการโหลดหน้าเว็บ ให้ลองเปิดหน้าเว็บในเบราว์เซอร์อื่น หรือลองเปิดหน้าต่างเบราว์เซอร์ส่วนตัว เช่น หน้าต่างแบบ InPrivate ใน Microsoft Edge หรือหน้าต่างไม่ระบุตัวตนใน Google Chrome
 
 **ทรัพยากรเพิ่มเติม**
   
