@@ -13,18 +13,18 @@ ms.custom:
 - "493"
 - "1500032"
 ms.assetid: 6860563a-b5e9-42f0-aa97-d2d4ed810069
-ms.openlocfilehash: 0ac7d1077319ab8b9aeef281b880a766b3cd98f2
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 083e5298aba0ddd3b5d87cf482fdd949a2ee34da
+ms.sourcegitcommit: d1aad215f8aa636ba89c93a13a0c9d90e997f752
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43741846"
+ms.lasthandoff: 05/06/2020
+ms.locfileid: "44063276"
 ---
 # <a name="subscription-recurring-billing"></a>การเรียกเก็บเงินตามการสมัครใช้งาน
 
 หากคุณต้องการทราบว่าจะมีการเรียกเก็บค่าบริการรายเดือนหรือรายปีเมื่อใด (หาก**เปิดการเรียกเก็บเงินตามระยะเวลา)** หรือหมดอายุ (หาก**การเรียกเก็บเงินตามระยะเวลาที่เรียกเก็บ**ถูกปิด)
   
-1. ไปที่หน้า[บริการ&ผลิตภัณฑ์](https://go.microsoft.com/fwlink/p/?linkid=842054)**การเรียกเก็บเงิน**\>
+1. ไปที่หน้า**การเรียกเก็บเงิน**\>**[สินค้าของคุณ](https://go.microsoft.com/fwlink/p/?linkid=842054)**
 
 2. สําหรับการสมัครใช้งานที่คุณต้องการทราบข้อมูลเพิ่มเติม ภายใต้**การเรียกเก็บเงิน**ให้ดู**การต่ออายุหรือ****หมดอายุในวันที่**
 

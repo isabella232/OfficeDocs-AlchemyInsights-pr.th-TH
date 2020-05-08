@@ -13,19 +13,19 @@ ms.custom:
 - "433"
 - "1500001"
 ms.assetid: c8f2a1a1-9704-4d08-ba60-d836b9a5f981
-ms.openlocfilehash: 7269a60e2802d5ae884a918641873b71b1ad6fa3
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 05ba3bb421cedf94352d5bbb6c5daf1417eca609
+ms.sourcegitcommit: d1aad215f8aa636ba89c93a13a0c9d90e997f752
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43710030"
+ms.lasthandoff: 05/06/2020
+ms.locfileid: "44062447"
 ---
 # <a name="how-do-i-change-from-credit-card-payments-to-invoice"></a>ฉันจะเปลี่ยนจากการชําระเงินผ่านบัตรเครดิตเป็นใบแจ้งหนี้ได้อย่างไร?
 
 > [!NOTE]
 > ตัวเลือกในการชําระเงินตามใบแจ้งหนี้จะสามารถใช้งานได้เฉพาะเมื่อการสมัครใช้งานของคุณมีค่าใช้จ่ายมากกว่าจํานวนหนึ่ง (ซึ่งแตกต่างกันไปตามที่ตั้งบริการ) อาจต้องใช้การตรวจสอบเครดิตสําหรับการชําระเงินใบแจ้งหนี้ที่ใหญ่ขึ้น เมื่อต้องการเรียนรู้เพิ่มเติม ให้ดูที่[การชําระเงินสําหรับการสมัครใช้งานของคุณ](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/pay-for-your-subscription)
   
-1. ไปที่หน้า[บริการ&ผลิตภัณฑ์](https://go.microsoft.com/fwlink/p/?linkid=842054)**การเรียกเก็บเงิน**\>
+1. ไปที่หน้า**การเรียกเก็บเงิน**\>**[สินค้าของคุณ](https://go.microsoft.com/fwlink/p/?linkid=842054)**
 
 2. เลือกการสมัครใช้งานที่คุณต้องการเปลี่ยนแปลง ในส่วน**การเรียกเก็บเงิน**ให้เลือกตัวเลือก**แก้ไข**สําหรับวิธีการชําระเงินปัจจุบันของคุณ
 

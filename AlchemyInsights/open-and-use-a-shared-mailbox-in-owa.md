@@ -13,15 +13,25 @@ ms.custom:
 - "1581"
 - "9000089"
 ms.assetid: ''
-ms.openlocfilehash: 91777a95b705b64799627be6602757381f128ea1
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 2342ef1c2b00ff8e22e05faaf45f0dcc2cebbe41
+ms.sourcegitcommit: a3f07a022f492281ef5a8e485347cd60beee5a71
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43682095"
+ms.lasthandoff: 05/08/2020
+ms.locfileid: "44163836"
 ---
-# <a name="open-and-use-a-shared-mailbox-in-outlook-on-the-web"></a>เปิดและใช้กล่องจดหมายที่แชร์ใน Outlook บนเว็บ
+# <a name="open-and-use-a-shared-mailbox-in-outlook"></a>เปิดและใช้กล่องจดหมายที่แชร์ใน Outlook
 
-กล่องจดหมายที่ใช้ร่วมกันที่คุณมีสิทธิ์เข้าถึงจะไม่แสดงใน Outlook บนเว็บโดยอัตโนมัติ (เดิมเรียกว่า Outlook Web App)
+กล่องจดหมายที่แชร์ช่วยให้กลุ่มบุคคลสามารถติดตามและส่งอีเมลจากที่อยู่อีเมลทั่วไปได้ 
 
-คุณสามารถแสดงกล่องจดหมายที่แชร์และกล่องจดหมายหลักของคุณร่วมกัน หรือเปิดกล่องจดหมายที่ใช้ร่วมกันในหน้าต่างเบราว์เซอร์ที่แยกต่างหาก เมื่อต้องการรับการแจ้งเตือนข้อความใหม่สําหรับกล่องจดหมายที่แชร์ สําหรับข้อมูลเพิ่มเติม ให้ดูที่[เปิดและใช้กล่องจดหมายที่ใช้ร่วมกันใน Outlook Web App](https://support.office.com/article/Add-a-shared-mailbox-to-Outlook-on-the-web-98b5a90d-4e38-415d-a030-f09a4cd28207)
+**หมายเหตุ**: ผู้ดูแลระบบ Microsoft 365 ของคุณต้องสร้างกล่องจดหมายที่ใช้ร่วมกัน และเพิ่มคุณเป็นสมาชิก
+
+ดูต่อไปนี้เพื่อเรียนรู้วิธีการเปิด และใช้กล่องจดหมายที่ใช้ร่วมกัน:
+
+- [เพิ่มกล่องจดหมายที่แชร์ไปยัง Outlook บนเว็บ](https://support.office.com/article/Add-a-shared-mailbox-to-Outlook-on-the-web-98b5a90d-4e38-415d-a030-f09a4cd28207)
+
+- [เปิดและใช้กล่องจดหมายที่แชร์ใน Outlook สําหรับ Windows](https://support.office.com/article/open-and-use-a-shared-mailbox-in-outlook-d94a8e9e-21f1-4240-808b-de9c9c088afd)
+
+- [เปิดโฟลเดอร์หรือกล่องจดหมายที่แชร์ใน Outlook สําหรับ Mac](https://support.office.com/article/Open-a-shared-folder-or-mailbox-in-Outlook-for-Mac-6ecc39c5-5577-4a1d-b18c-bbdc92972cb2)
+
+- [เพิ่มกล่องจดหมายที่แชร์ไปยัง Outlook สําหรับอุปกรณ์เคลื่อนที่ (Outlook สําหรับ iOS & Android)](https://support.office.com/article/Add-a-shared-mailbox-to-Outlook-mobile-f866242c-81b2-472e-8776-6c49c5473c9f)
