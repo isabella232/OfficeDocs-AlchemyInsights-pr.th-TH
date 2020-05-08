@@ -11,33 +11,33 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001506"
 - "4732"
-ms.openlocfilehash: 88b754a45fe80804bfd4784bc0552499fb0371e7
-ms.sourcegitcommit: 18df9a170f6a0bda191c0ae763d2a5069dd22efa
+ms.openlocfilehash: 18bcc0b0d95bff6109b1fb2b04dc07f7301581ef
+ms.sourcegitcommit: d1aad215f8aa636ba89c93a13a0c9d90e997f752
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 04/07/2020
-ms.locfileid: "43161025"
+ms.lasthandoff: 05/06/2020
+ms.locfileid: "44063132"
 ---
-# <a name="your-payment-was-declined"></a><span data-ttu-id="addd8-102">การชําระเงินของคุณถูกปฏิเสธ</span><span class="sxs-lookup"><span data-stu-id="addd8-102">Your payment was declined</span></span>
+# <a name="your-payment-was-declined"></a><span data-ttu-id="1e168-102">การชําระเงินของคุณถูกปฏิเสธ</span><span class="sxs-lookup"><span data-stu-id="1e168-102">Your payment was declined</span></span>
 
-<span data-ttu-id="addd8-103">Microsoft จะพยายามเรียกเก็บเงินบัตรของคุณหลายครั้งภายใน 3-4 สัปดาห์หลังจากวันที่ออกใบแจ้งหนี้</span><span class="sxs-lookup"><span data-stu-id="addd8-103">Microsoft will attempt to charge your card multiple times in the 3-4 weeks after the invoice date.</span></span>  <span data-ttu-id="addd8-104">หากคุณได้รับการแจ้งเตือนการปฏิเสธเพียง 1 หรือ 2 ครั้งสําหรับช่วงเวลาที่เรียกเก็บเงินนี้ Microsoft จะพยายามเรียกเก็บเงินเครื่องมือชําระเงินของคุณอีกครั้งโดยอัตโนมัติ</span><span class="sxs-lookup"><span data-stu-id="addd8-104">If you have received only one or two decline notices for this billing period, Microsoft will automatically attempt to charge your payment instrument again.</span></span>  
+<span data-ttu-id="1e168-103">Microsoft จะพยายามเรียกเก็บเงินบัตรของคุณหลายครั้งภายใน 3-4 สัปดาห์หลังจากวันที่ออกใบแจ้งหนี้</span><span class="sxs-lookup"><span data-stu-id="1e168-103">Microsoft will attempt to charge your card multiple times in the 3-4 weeks after the invoice date.</span></span>  <span data-ttu-id="1e168-104">หากคุณได้รับการแจ้งเตือนการปฏิเสธเพียง 1 หรือ 2 ครั้งสําหรับช่วงเวลาที่เรียกเก็บเงินนี้ Microsoft จะพยายามเรียกเก็บเงินเครื่องมือชําระเงินของคุณอีกครั้งโดยอัตโนมัติ</span><span class="sxs-lookup"><span data-stu-id="1e168-104">If you have received only one or two decline notices for this billing period, Microsoft will automatically attempt to charge your payment instrument again.</span></span>  
 
-<span data-ttu-id="addd8-105">**สําคัญ**: หากคุณได้เพิ่มบัตรใหม่และคุณยังคงได้รับการแจ้งเตือนการปฏิเสธในบัตรเครดิตเก่าคุณอาจต้องเชื่อมโยงบัตรใหม่กับการสมัครสมาชิก</span><span class="sxs-lookup"><span data-stu-id="addd8-105">**Important**: If you've added a new card and you are still getting a decline notice on the old credit card, you may need to associate that new card with the subscription.</span></span>
+<span data-ttu-id="1e168-105">**สําคัญ**: หากคุณได้เพิ่มบัตรใหม่และคุณยังคงได้รับการแจ้งเตือนการปฏิเสธในบัตรเครดิตเก่าคุณอาจต้องเชื่อมโยงบัตรใหม่กับการสมัครสมาชิก</span><span class="sxs-lookup"><span data-stu-id="1e168-105">**Important**: If you've added a new card and you are still getting a decline notice on the old credit card, you may need to associate that new card with the subscription.</span></span>
 
-1. <span data-ttu-id="addd8-106">ไปที่**[บริการ&>](https://go.microsoft.com/fwlink/p/?linkid=842054)การเรียกเก็บเงิน**</span><span class="sxs-lookup"><span data-stu-id="addd8-106">Go to **Billing > [Products & services](https://go.microsoft.com/fwlink/p/?linkid=842054)**.</span></span>
+1. <span data-ttu-id="1e168-106">ไปที่**การเรียกเก็บเงิน** > **[ผลิตภัณฑ์ของคุณ](https://go.microsoft.com/fwlink/p/?linkid=842054)**</span><span class="sxs-lookup"><span data-stu-id="1e168-106">Go to **Billing** > **[Your products](https://go.microsoft.com/fwlink/p/?linkid=842054)**.</span></span>
 
-2. <span data-ttu-id="addd8-107">เลือกการสมัครใช้งานที่คุณต้องการชําระเงินด้วยบัตรหรือบัญชีธนาคารใหม่</span><span class="sxs-lookup"><span data-stu-id="addd8-107">Select the subscription that you want to pay with the new card or bank account.</span></span> <span data-ttu-id="addd8-108">ในส่วน**การเรียกเก็บเงิน**ถัดจากวิธีการชําระเงิน ให้คลิก**แก้ไข**</span><span class="sxs-lookup"><span data-stu-id="addd8-108">Under the **Billing** section, next to the payment method, click **Edit**.</span></span>
+2. <span data-ttu-id="1e168-107">เลือกการสมัครใช้งานที่คุณต้องการชําระเงินด้วยบัตรหรือบัญชีธนาคารใหม่</span><span class="sxs-lookup"><span data-stu-id="1e168-107">Select the subscription that you want to pay with the new card or bank account.</span></span> <span data-ttu-id="1e168-108">ในส่วน**การเรียกเก็บเงิน**ถัดจากวิธีการชําระเงิน ให้คลิก**แก้ไข**</span><span class="sxs-lookup"><span data-stu-id="1e168-108">Under the **Billing** section, next to the payment method, click **Edit**.</span></span>
 
-3. <span data-ttu-id="addd8-109">คลิก **"เปลี่ยน**" ถัดจากวิธีการชําระเงินปัจจุบัน</span><span class="sxs-lookup"><span data-stu-id="addd8-109">Click **Change** next to the current payment method.</span></span>
+3. <span data-ttu-id="1e168-109">คลิก **"เปลี่ยน**" ถัดจากวิธีการชําระเงินปัจจุบัน</span><span class="sxs-lookup"><span data-stu-id="1e168-109">Click **Change** next to the current payment method.</span></span>
 
-4. <span data-ttu-id="addd8-110">จากเมนูแบบเลื่อนลง ให้เลือกวิธีการชําระเงินอื่น หรือเพิ่มวิธีการชําระเงินใหม่</span><span class="sxs-lookup"><span data-stu-id="addd8-110">From the drop-down menu, select an alternate payment method, or add a new payment method.</span></span>
+4. <span data-ttu-id="1e168-110">จากเมนูแบบเลื่อนลง ให้เลือกวิธีการชําระเงินอื่น หรือเพิ่มวิธีการชําระเงินใหม่</span><span class="sxs-lookup"><span data-stu-id="1e168-110">From the drop-down menu, select an alternate payment method, or add a new payment method.</span></span>
 
-<span data-ttu-id="addd8-111">**อัปเดตหรือเพิ่มวิธีการชําระเงินใหม่**</span><span class="sxs-lookup"><span data-stu-id="addd8-111">**Update or add a new payment method**</span></span>
+<span data-ttu-id="1e168-111">**อัปเดตหรือเพิ่มวิธีการชําระเงินใหม่**</span><span class="sxs-lookup"><span data-stu-id="1e168-111">**Update or add a new payment method**</span></span>
 
-1. <span data-ttu-id="addd8-112">ไปที่หน้า**การเรียกเก็บเงิน>การเรียกเก็บเงิน&การชําระเงิน>[วิธีการชําระเงิน](https://go.microsoft.com/fwlink/p/?linkid=2018806)**</span><span class="sxs-lookup"><span data-stu-id="addd8-112">Go to the **Billing > Bills & Payments > [Payment methods](https://go.microsoft.com/fwlink/p/?linkid=2018806)** page.</span></span>
+1. <span data-ttu-id="1e168-112">ไปที่**หน้า** > **ใบเรียกเก็บเงิน &** > **[วิธีการชําระเงิน](https://go.microsoft.com/fwlink/p/?linkid=2018806)**</span><span class="sxs-lookup"><span data-stu-id="1e168-112">Go to the **Billing** > **Bills & Payments** > **[Payment methods](https://go.microsoft.com/fwlink/p/?linkid=2018806)** page.</span></span>
 
-2. <span data-ttu-id="addd8-113">คลิก**เพิ่มวิธีการชําระเงิน**เลือกบัตร หรือบัญชีธนาคารเพื่ออัพเดต และคลิก**แก้ไข**</span><span class="sxs-lookup"><span data-stu-id="addd8-113">Click **Add a payment method**, pick the card, or bank account to update and click **Edit**.</span></span>
+2. <span data-ttu-id="1e168-113">คลิก**เพิ่มวิธีการชําระเงิน**เลือกบัตร หรือบัญชีธนาคารเพื่ออัพเดต และคลิก**แก้ไข**</span><span class="sxs-lookup"><span data-stu-id="1e168-113">Click **Add a payment method**, pick the card, or bank account to update and click **Edit**.</span></span>
 
-3. <span data-ttu-id="addd8-114">อัปเดตข้อมูลวิธีการชําระเงินของคุณ (ชื่อบนบัตรหรือบัญชีธนาคาร ที่อยู่สําหรับเรียกเก็บเงิน หมายเลขโทรศัพท์ หรือวันที่หมดอายุ) จากนั้นคลิก**บันทึก**</span><span class="sxs-lookup"><span data-stu-id="addd8-114">Update your payment method information (name on the card or bank account, billing address, phone number, or expiration date), then click **Save**.</span></span>
+3. <span data-ttu-id="1e168-114">อัปเดตข้อมูลวิธีการชําระเงินของคุณ (ชื่อบนบัตรหรือบัญชีธนาคาร ที่อยู่สําหรับเรียกเก็บเงิน หมายเลขโทรศัพท์ หรือวันที่หมดอายุ) จากนั้นคลิก**บันทึก**</span><span class="sxs-lookup"><span data-stu-id="1e168-114">Update your payment method information (name on the card or bank account, billing address, phone number, or expiration date), then click **Save**.</span></span>
 
-4. <span data-ttu-id="addd8-115">อย่าลืมเปลี่ยนวิธีการชําระเงินสําหรับการสมัครสมาชิกของคุณสําหรับวิธีการชําระเงินใหม่นี้</span><span class="sxs-lookup"><span data-stu-id="addd8-115">Remember to change how you are paying for your subscription(s) to this new payment method.</span></span> <span data-ttu-id="addd8-116">ดูข้อมูลเพิ่มเติมได้ที่[เพิ่ม อัปเดต หรือนําวิธีการชําระเงินออก](https://go.microsoft.com/fwlink/?linkid=2118133)</span><span class="sxs-lookup"><span data-stu-id="addd8-116">For more info, see [Add, update, or remove your payment methods](https://go.microsoft.com/fwlink/?linkid=2118133).</span></span> 
+4. <span data-ttu-id="1e168-115">อย่าลืมเปลี่ยนวิธีการชําระเงินสําหรับการสมัครสมาชิกของคุณสําหรับวิธีการชําระเงินใหม่นี้</span><span class="sxs-lookup"><span data-stu-id="1e168-115">Remember to change how you are paying for your subscription(s) to this new payment method.</span></span> <span data-ttu-id="1e168-116">ดูข้อมูลเพิ่มเติมได้ที่[เพิ่ม อัปเดต หรือนําวิธีการชําระเงินออก](https://go.microsoft.com/fwlink/?linkid=2118133)</span><span class="sxs-lookup"><span data-stu-id="1e168-116">For more info, see [Add, update, or remove your payment methods](https://go.microsoft.com/fwlink/?linkid=2118133).</span></span>
