@@ -10,22 +10,22 @@ ms.custom: ''
 ms.assetid:
 - "1500009"
 - "4495"
-ms.openlocfilehash: e2ca0e13aa569536d9d529aaa1eef05bb0fa49d2
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 8d1a8cf65ccbf4cb6d1549ec58593bccc31feb01
+ms.sourcegitcommit: d1aad215f8aa636ba89c93a13a0c9d90e997f752
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43764711"
+ms.lasthandoff: 05/06/2020
+ms.locfileid: "44062735"
 ---
 # <a name="microsoft-qualified-academic-institution-and-remote-teaching-and-learning"></a>สถาบันการศึกษาที่ผ่านการรับรองของ Microsoft และการสอนและการเรียนรู้ระยะไกล
 
-เมื่อต้องการเริ่มต้นใช้งาน Microsoft for Education โปรดไปที่[ไซต์](https://www.microsoft.com/microsoft-365/academic/compare-office-365-education-plans)นี้และลงทะเบียน
+เมื่อต้องการเริ่มต้นใช้งาน Office 365 for Education โปรดไปที่[ไซต์](https://www.microsoft.com/microsoft-365/academic/compare-office-365-education-plans)นี้และลงทะเบียน
 
-คุณจะมี Office 365 A1 สําหรับรุ่นทดลองใช้ของคณะและ Office 365 A1 สําหรับนักเรียนทดลองใช้ในขณะที่รอการมีสิทธิ์ขององค์กรของคุณที่จะตรวจทาน  ตรวจสอบให้แน่ใจว่าเพิ่มโดเมน เนื่องจากสามารถช่วยเร่งกระบวนการอนุมัติได้
+คุณจะมี Office 365 A1 สําหรับรุ่นทดลองใช้ของคณะและ Office 365 A1 สําหรับนักเรียนทดลองใช้ในขณะที่รอการมีสิทธิ์ขององค์กรของคุณที่จะตรวจทาน ตรวจสอบให้แน่ใจว่าเพิ่มโดเมน เนื่องจากสามารถช่วยเร่งกระบวนการอนุมัติได้
 
 คุณจะได้รับอีเมลแจ้งให้ทราบว่าสิทธิ์ขององค์กรได้รับการอนุมัติแล้วหรือไม่  
 
-เมื่อคุณได้รับการอนุมัติ แล้ว คุณสามารถไปที่แท็บ[ซื้อบริการ](https://admin.microsoft.com/Adminportal/Home#/catalog)ของศูนย์การจัดการ Microsoft เพื่อซื้อการสมัครใช้งาน
+เมื่อคุณได้รับการอนุมัติ คุณสามารถไปที่แท็บ[ซื้อบริการ](https://admin.microsoft.com/Adminportal/Home#/catalog)ของศูนย์การจัดการ Microsoft 365 เพื่อซื้อการสมัครใช้งาน
 
 **การเรียนการสอนและการเรียนรู้จากระยะไกล**
 

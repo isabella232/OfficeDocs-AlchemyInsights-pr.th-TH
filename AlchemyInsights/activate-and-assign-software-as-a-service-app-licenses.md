@@ -1,5 +1,5 @@
 ---
-title: เปิดใช้งานและมอบหมายใบอนุญาตแอปพลิเคชันซอฟต์แวร์เป็นบริการ
+title: เปิดใช้งานและกําหนดสิทธิ์การใช้งานแอปซอฟต์แวร์เป็นบริการ
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -11,27 +11,27 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000563"
 - "2422"
-ms.openlocfilehash: 9ea12fcd222f10890b0e6ee66a185d6f4acb4073
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: f75fe2a4d6ceb094dcf490b6c2a21b4c8254c4ce
+ms.sourcegitcommit: d1aad215f8aa636ba89c93a13a0c9d90e997f752
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "37766334"
+ms.lasthandoff: 05/06/2020
+ms.locfileid: "44062159"
 ---
-# <a name="activate-and-assign-software-as-a-service-app-licenses"></a>เปิดใช้งานและมอบหมายใบอนุญาตแอปพลิเคชันซอฟต์แวร์เป็นบริการ 
+# <a name="activate-and-assign-software-as-a-service-app-licenses"></a>เปิดใช้งานและกําหนดสิทธิ์การใช้งานแอปซอฟต์แวร์เป็นบริการ 
 
-## <a name="to-activate-apps"></a>วิธีเปิดใช้แอป
+## <a name="to-activate-apps"></a>วิธีเปิดใช้งานแอป
 
-1. ในศูนย์การดูแลระบบให้ไปที่หน้า[บริการ & ผลิตภัณฑ์](https://go.microsoft.com/fwlink/p/?linkid=842054)**สำหรับการเรียกเก็บเงิน** > แล้วเลือกแท็บ**แอป**
+1. ไปที่หน้า**การเรียกเก็บเงิน** > **[สินค้าของคุณ](https://go.microsoft.com/fwlink/p/?linkid=842054)** แล้วเลือกแท็บ**แอป**
 
 2. ค้นหาและเลือกแอปที่คุณต้องการจัดการ
 
-3. ภายใต้**สิทธิ์**การใช้งานให้เลือก**ตั้งค่าบัญชี**  
+3. ภายใต้**สิทธิ์การใช้งาน**ให้เลือก**ตั้งค่าบัญชี**  
 
-## <a name="to-assign-app-licenses"></a>วิธีกำหนดสิทธิ์การใช้งานแอป
+## <a name="to-assign-app-licenses"></a>เมื่อต้องการกําหนดสิทธิ์การใช้งานแอป
 
-1. ในศูนย์การดูแลระบบให้ไปที่หน้า[บริการ & ผลิตภัณฑ์](https://go.microsoft.com/fwlink/p/?linkid=842054)**สำหรับการเรียกเก็บเงิน** > แล้วเลือกแท็บ**แอป**
+1. ไปที่หน้า**การเรียกเก็บเงิน** > **[สินค้าของคุณ](https://go.microsoft.com/fwlink/p/?linkid=842054)** แล้วเลือกแท็บ**แอป**
 
 2. ค้นหาและเลือกแอปที่คุณต้องการจัดการ  
 
-3. ภายใต้**การตั้งค่า & การดำเนินการ**ให้เลือกการเชื่อมโยงเพื่อ**จัดการในพอร์ทัลของผู้เผยแพร่**
+3. ภายใต้**การกระทํา&การตั้งค่า**ให้เลือกการเชื่อมโยงไปยัง**จัดการ ในพอร์ทัลของผู้เผยแพร่**
