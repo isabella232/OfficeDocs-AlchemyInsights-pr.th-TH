@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002278"
 - "5027"
-ms.openlocfilehash: da49fb3e5d7a6a4697259897133461cdc9e340ad
-ms.sourcegitcommit: 821c0d7cd1937f0a8f54d0210f71b1d3ea374e82
+ms.openlocfilehash: 45b4e7d420ed7a69d5be8e86852292b00a5f2ef2
+ms.sourcegitcommit: 0cf8d133d6feade6df8b1082444ce73faa91e145
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 04/29/2020
-ms.locfileid: "43944553"
+ms.lasthandoff: 05/13/2020
+ms.locfileid: "44204328"
 ---
 # <a name="azure-information-protection-aip-client-installation"></a>การป้องกันข้อมูล Azure: การติดตั้งไคลเอนต์ AIP
 
@@ -33,4 +33,8 @@ ms.locfileid: "43944553"
 
 4. ถ้าคุณยังคงพบปัญหาในการติดตั้งไคลเอนต์เองหลังจากเรียกใช้ Microsoft_Azure_Information_Protection_XXXXXXXXXXเครื่องมือข้างต้น **%temp%**
 
-5. หากการติดตั้งสําเร็จและคุณยังประสบปัญหาในการใช้ AIP โปรดเลือกหัวข้อการสนับสนุนที่เหมาะสมสําหรับการแก้ไขปัญหาที่เกี่ยวข้อง
+สําหรับข้อมูลเพิ่มเติม:
+
+- ตรวจทาน[เอกสาร Azure Data Protection (AIP)](https://docs.microsoft.com/azure/information-protection/what-is-information-protection)[ข้อกําหนด](https://docs.microsoft.com/azure/information-protection/get-started/requirements)การตั้งค่าและตําแหน่งที่ตั้งเพื่อ[ดาวน์โหลดไคลเอนต์ AIP](https://www.microsoft.com/download/details.aspx?id=53018)
+
+- สําหรับข้อมูลการสมัครใช้งาน Azure ให้ดูที่[การสมัครใช้งาน Azure Protection และคุณลักษณะ](https://azure.microsoft.com/pricing/details/information-protection)
