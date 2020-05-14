@@ -14,20 +14,20 @@ ms.custom:
 - "1400001"
 ms.assetid: dc0504f1-00ad-4769-be87-492ad98e42f0
 ms.openlocfilehash: abe3f6950fa9e35eb3154832ebdaffd42bd5dc50
-ms.sourcegitcommit: d1aad215f8aa636ba89c93a13a0c9d90e997f752
+ms.sourcegitcommit: a98b25fa3cac9ebba983f4932881d774880aca93
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 05/06/2020
+ms.lasthandoff: 05/13/2020
 ms.locfileid: "44059096"
 ---
-# <a name="canceling-your-microsoft-365-subscription"></a><span data-ttu-id="19ac8-102">การยกเลิกการสมัครใช้งาน Microsoft 365 ของคุณใช่หรือไม่</span><span class="sxs-lookup"><span data-stu-id="19ac8-102">Canceling your Microsoft 365 subscription?</span></span>
+# <a name="canceling-your-microsoft-365-subscription"></a><span data-ttu-id="66509-102">การยกเลิกการสมัครใช้งาน Microsoft 365 ของคุณใช่หรือไม่</span><span class="sxs-lookup"><span data-stu-id="66509-102">Canceling your Microsoft 365 subscription?</span></span>
 
-<span data-ttu-id="19ac8-103">เราเสียใจที่เห็นคุณไป!</span><span class="sxs-lookup"><span data-stu-id="19ac8-103">We're sorry to see you go!</span></span>
+<span data-ttu-id="66509-103">เราเสียใจที่เห็นคุณไป!</span><span class="sxs-lookup"><span data-stu-id="66509-103">We're sorry to see you go!</span></span>
   
-<span data-ttu-id="19ac8-104">จากข้อมูลองค์กรของคุณเราเชื่อว่าการสมัครของคุณทั้งหมดมีที่นั่งน้อยกว่า 25 ที่นั่ง</span><span class="sxs-lookup"><span data-stu-id="19ac8-104">Based on your organization data, we believe all your current subscriptions have less than 25 seats.</span></span> <span data-ttu-id="19ac8-105">หากต้องการยกเลิกการสมัครทางออนไลน์ ให้ไปที่หน้า**การเรียกเก็บเงิน**\>**[ของคุณ](https://go.microsoft.com/fwlink/p/?linkid=842054)**</span><span class="sxs-lookup"><span data-stu-id="19ac8-105">To cancel your subscription online, go to the **Billing** \> **[Your products](https://go.microsoft.com/fwlink/p/?linkid=842054)** page.</span></span> <span data-ttu-id="19ac8-106">ในส่วน**การดําเนินการ &** ให้เลือก**ยกเลิกการสมัครใช้งาน**</span><span class="sxs-lookup"><span data-stu-id="19ac8-106">In the **Settings & Actions** section, choose **Cancel subscription**.</span></span>
+<span data-ttu-id="66509-104">จากข้อมูลองค์กรของคุณเราเชื่อว่าการสมัครของคุณทั้งหมดมีที่นั่งน้อยกว่า 25 ที่นั่ง</span><span class="sxs-lookup"><span data-stu-id="66509-104">Based on your organization data, we believe all your current subscriptions have less than 25 seats.</span></span> <span data-ttu-id="66509-105">หากต้องการยกเลิกการสมัครทางออนไลน์ ให้ไปที่หน้า**การเรียกเก็บเงิน** \> **[ของคุณ](https://go.microsoft.com/fwlink/p/?linkid=842054)**</span><span class="sxs-lookup"><span data-stu-id="66509-105">To cancel your subscription online, go to the **Billing** \> **[Your products](https://go.microsoft.com/fwlink/p/?linkid=842054)** page.</span></span> <span data-ttu-id="66509-106">ในส่วน**การดําเนินการ &** ให้เลือก**ยกเลิกการสมัครใช้งาน**</span><span class="sxs-lookup"><span data-stu-id="66509-106">In the **Settings & Actions** section, choose **Cancel subscription**.</span></span>
   
-<span data-ttu-id="19ac8-107">**การคืนเงิน: เครดิตตามสัดส่วนใดๆ จะคืนให้คุณภายในรอบการเรียกเก็บเงินถัดไป**</span><span class="sxs-lookup"><span data-stu-id="19ac8-107">**Refund: Any prorated credit will be returned to you within the next billing cycle.**</span></span> 
+<span data-ttu-id="66509-107">**การคืนเงิน: เครดิตตามสัดส่วนใดๆ จะคืนให้คุณภายในรอบการเรียกเก็บเงินถัดไป**</span><span class="sxs-lookup"><span data-stu-id="66509-107">**Refund: Any prorated credit will be returned to you within the next billing cycle.**</span></span> 
 
-<span data-ttu-id="19ac8-108">**หมายเหตุ**: ถ้าคุณไม่เห็นตัวเลือกในการยกเลิก ให้คลิกที่การสมัครใช้งานเพื่อดูรายละเอียดและคุณจะเห็นตัวเลือก**ยกเลิกการสมัครใช้งาน\*\*\*\*ในการตั้งค่า&การกระทํา**</span><span class="sxs-lookup"><span data-stu-id="19ac8-108">**Note**: If you do not see the option to cancel, click on the subscription to view the details and you should see the **Cancel subscription** option in **Settings & Actions**.</span></span> 
+<span data-ttu-id="66509-108">**หมายเหตุ**: ถ้าคุณไม่เห็นตัวเลือกในการยกเลิก ให้คลิกที่การสมัครใช้งานเพื่อดูรายละเอียดและคุณจะเห็นตัวเลือก**ยกเลิกการสมัครใช้งาน\*\*\*\*ในการตั้งค่า&การกระทํา**</span><span class="sxs-lookup"><span data-stu-id="66509-108">**Note**: If you do not see the option to cancel, click on the subscription to view the details and you should see the **Cancel subscription** option in **Settings & Actions**.</span></span> 
 
-<span data-ttu-id="19ac8-109">เมื่อต้องการเรียนรู้เพิ่มเติม ให้ดูที่[ยกเลิกการสมัครใช้งานของคุณ](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/cancel-your-subscription)</span><span class="sxs-lookup"><span data-stu-id="19ac8-109">To learn more, see [Cancel your subscription](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/cancel-your-subscription).</span></span> 
+<span data-ttu-id="66509-109">เมื่อต้องการเรียนรู้เพิ่มเติม ให้ดูที่[ยกเลิกการสมัครใช้งานของคุณ](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/cancel-your-subscription)</span><span class="sxs-lookup"><span data-stu-id="66509-109">To learn more, see [Cancel your subscription](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/cancel-your-subscription).</span></span> 

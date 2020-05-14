@@ -13,23 +13,19 @@ ms.custom:
 - "430"
 - "1500001"
 ms.assetid: 2f1bd3a4-a577-47f4-9ec4-5e094ccc7ee2
-ms.openlocfilehash: 1ff40dad69c2bf30d56118065eecc83e91b79be1
-ms.sourcegitcommit: 89ae9e8b36d1980f89f07b016fff0ec48f96b620
+ms.openlocfilehash: 83932ba5857df7bd65a5544a7dde8be5cdd58ccd
+ms.sourcegitcommit: e3a1f96200bc58dc8a5b3597cc2600e71c4bd266
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 04/23/2020
-ms.locfileid: "43787929"
+ms.lasthandoff: 05/14/2020
+ms.locfileid: "44225287"
 ---
-# <a name="how-do-i-update-my-credit-card-information"></a><span data-ttu-id="d2a76-102">ฉันจะอัปเดตข้อมูลบัตรเครดิตของฉันได้อย่างไร</span><span class="sxs-lookup"><span data-stu-id="d2a76-102">How do I update my credit card information?</span></span>
+# <a name="how-do-i-update-my-credit-card-information"></a><span data-ttu-id="50cc1-102">ฉันจะอัปเดตข้อมูลบัตรเครดิตของฉันได้อย่างไร</span><span class="sxs-lookup"><span data-stu-id="50cc1-102">How do I update my credit card information?</span></span>
 
-1. <span data-ttu-id="d2a76-103">ในศูนย์การจัดการ Microsoft 365 ไปที่หน้า[วิธีการชําระเงิน](https://go.microsoft.com/fwlink/p/?linkid=842054)**สําหรับการเรียกเก็บเงิน**\></span><span class="sxs-lookup"><span data-stu-id="d2a76-103">In the Microsoft 365 admin center, go to the **Billing** \> [Payment methods](https://go.microsoft.com/fwlink/p/?linkid=842054) page.</span></span>
+1. <span data-ttu-id="50cc1-103">ในศูนย์การจัดการ ให้ไปที่**Billing**  >  หน้า**ใบเรียกเก็บเงิน&**  >  [วิธีการชําระเงิน](https://go.microsoft.com/fwlink/p/?linkid=2018806)</span><span class="sxs-lookup"><span data-stu-id="50cc1-103">In the admin center, go to the **Billing** > **Bills & payments** > [Payment methods](https://go.microsoft.com/fwlink/p/?linkid=2018806) page.</span></span>
+2. <span data-ttu-id="50cc1-104">เลือกแถวของวิธีการชําระเงินที่จะอัพเดต</span><span class="sxs-lookup"><span data-stu-id="50cc1-104">Select the row of the payment method to update.</span></span> <span data-ttu-id="50cc1-105">ในบานหน้าต่างด้านขวา ให้เลือก**แก้ไข**</span><span class="sxs-lookup"><span data-stu-id="50cc1-105">In the right pane, select **Edit**.</span></span>
+3. <span data-ttu-id="50cc1-106">อัปเดตข้อมูลวิธีการชําระเงินของคุณ รวมถึงชื่อบนบัตรเครดิตหรือบัตรเดบิต ที่อยู่สําหรับเรียกเก็บเงิน หรือวันที่หมดอายุ แล้วเลือก**บันทึก**</span><span class="sxs-lookup"><span data-stu-id="50cc1-106">Update your payment method information, including the name on the credit or debit card, billing address, or expiration date, and then select **Save**.</span></span>
 
-2. <span data-ttu-id="d2a76-104">บนหน้า**วิธีการชําระเงิน**ให้เลือกบัตรเครดิตหรือบัญชีธนาคารที่จะอัปเดต</span><span class="sxs-lookup"><span data-stu-id="d2a76-104">On the **Payment methods** page, pick the credit card or bank account to update.</span></span>
+<span data-ttu-id="50cc1-107">หากต้องการเรียนรู้เพิ่มเติม โปรดดูที่[จัดการวิธีการชําระเงิน](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods)</span><span class="sxs-lookup"><span data-stu-id="50cc1-107">To learn more, see [Manage payment methods](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods).</span></span>
 
-3. <span data-ttu-id="d2a76-105">หากต้องการเปลี่ยนข้อมูลบัตรเครดิตหรือบัญชีธนาคาร ให้เลือก**แก้ไขรายละเอียดการชําระเงิน**</span><span class="sxs-lookup"><span data-stu-id="d2a76-105">To change the credit card or bank account information, select **Edit payment details**.</span></span>
-
-4. <span data-ttu-id="d2a76-106">อัปเดตข้อมูลบัตรเครดิตหรือบัญชีธนาคารของคุณ (ชื่อบนบัตรเครดิตหรือบัญชีธนาคาร หมายเลขโทรศัพท์ของที่อยู่สําหรับการเรียกเก็บเงิน หรือวันหมดอายุ) ตามต้องการ จากนั้นเลือก**บันทึก** > **เสร็จ**</span><span class="sxs-lookup"><span data-stu-id="d2a76-106">Update your credit card or bank account information (name on the credit card or bank account, billing address phone number, or expiration date) as needed, then select **Save** > **Done**.</span></span>
-
-<span data-ttu-id="d2a76-107">หากต้องการเรียนรู้เพิ่มเติม ให้ดูที่[เพิ่ม อัปเดต หรือนําบัตรเครดิตหรือบัญชีธนาคารออก](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account)</span><span class="sxs-lookup"><span data-stu-id="d2a76-107">To learn more, see [Add, update, or remove a credit card or bank account](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account).</span></span>
-
-<span data-ttu-id="d2a76-108">**หมายเหตุ**: หากผู้ดูแลระบบคนอื่นซื้อการสมัครใช้งาน คุณจะไม่สามารถอัปเดตข้อมูลบัตรเครดิตหรือบัญชีธนาคารได้</span><span class="sxs-lookup"><span data-stu-id="d2a76-108">**Note**: If another admin purchased the subscription, you won't be able to update the credit card or bank account information for it.</span></span> <span data-ttu-id="d2a76-109">หากบัตรเครดิตกําลังจะหมดอายุ และผู้ดูแลระบบคนอื่นไม่สามารถอัปเดตได้</span><span class="sxs-lookup"><span data-stu-id="d2a76-109">If the credit card is about to expire and the other administrator isn't able to update it, you can prevent service interruption by adding a different credit card or new bank account for the subscription.</span></span>
+<span data-ttu-id="50cc1-108">**หมายเหตุ**: หากผู้ดูแลระบบคนอื่นซื้อการสมัครใช้งาน คุณจะไม่สามารถอัปเดตข้อมูลบัตรเครดิตหรือบัญชีธนาคารได้</span><span class="sxs-lookup"><span data-stu-id="50cc1-108">**Note**: If another admin purchased the subscription, you won't be able to update the credit card or bank account information for it.</span></span> <span data-ttu-id="50cc1-109">หากบัตรเครดิตกําลังจะหมดอายุ และผู้ดูแลระบบคนอื่นไม่สามารถอัปเดตได้</span><span class="sxs-lookup"><span data-stu-id="50cc1-109">If the credit card is about to expire and the other administrator isn't able to update it, you can prevent service interruption by adding a different credit card or new bank account for the subscription.</span></span>

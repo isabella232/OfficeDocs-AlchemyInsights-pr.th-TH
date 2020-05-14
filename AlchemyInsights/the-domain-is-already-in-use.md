@@ -11,16 +11,16 @@ ms.custom:
 - "29"
 - "10"
 ms.openlocfilehash: 71e58081757e1cd8a61753f7c48283fe05e5c1a1
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.sourcegitcommit: a98b25fa3cac9ebba983f4932881d774880aca93
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 04/22/2020
+ms.lasthandoff: 05/13/2020
 ms.locfileid: "43759963"
 ---
-# <a name="the-domain-is-already-in-use"></a><span data-ttu-id="f1540-102">มีการใช้โดเมนอยู่แล้ว</span><span class="sxs-lookup"><span data-stu-id="f1540-102">The domain is already in use</span></span>
+# <a name="the-domain-is-already-in-use"></a><span data-ttu-id="f0d21-102">มีการใช้โดเมนอยู่แล้ว</span><span class="sxs-lookup"><span data-stu-id="f0d21-102">The domain is already in use</span></span>
 
-<span data-ttu-id="f1540-103">โดเมนที่คุณกําลังพยายามเพิ่มเป็นขององค์กรอื่นอยู่แล้ว</span><span class="sxs-lookup"><span data-stu-id="f1540-103">The domain you're trying to add already belongs to another organization.</span></span> <span data-ttu-id="f1540-104">คุณต้องเอาโดเมนออกจากองค์กรนั้นก่อนจึงจะสามารถเพิ่มลงในองค์กรนี้ได้</span><span class="sxs-lookup"><span data-stu-id="f1540-104">You must first remove the domain from that organization before you can add it to this organization.</span></span> <span data-ttu-id="f1540-105">บทความด้านล่างจะแนะนําคุณผ่านกระบวนการเหล่านี้</span><span class="sxs-lookup"><span data-stu-id="f1540-105">The articles below will guide you through these processes.</span></span>
+<span data-ttu-id="f0d21-103">โดเมนที่คุณกําลังพยายามเพิ่มเป็นขององค์กรอื่นอยู่แล้ว</span><span class="sxs-lookup"><span data-stu-id="f0d21-103">The domain you're trying to add already belongs to another organization.</span></span> <span data-ttu-id="f0d21-104">คุณต้องเอาโดเมนออกจากองค์กรนั้นก่อนจึงจะสามารถเพิ่มลงในองค์กรนี้ได้</span><span class="sxs-lookup"><span data-stu-id="f0d21-104">You must first remove the domain from that organization before you can add it to this organization.</span></span> <span data-ttu-id="f0d21-105">บทความด้านล่างจะแนะนําคุณผ่านกระบวนการเหล่านี้</span><span class="sxs-lookup"><span data-stu-id="f0d21-105">The articles below will guide you through these processes.</span></span>
   
-- [<span data-ttu-id="f1540-106">เอาโดเมนออก</span><span class="sxs-lookup"><span data-stu-id="f1540-106">Remove a domain</span></span>](https://docs.microsoft.com/office365/admin/get-help-with-domains/remove-a-domain)
+- [<span data-ttu-id="f0d21-106">เอาโดเมนออก</span><span class="sxs-lookup"><span data-stu-id="f0d21-106">Remove a domain</span></span>](https://docs.microsoft.com/office365/admin/get-help-with-domains/remove-a-domain)
 
-- [<span data-ttu-id="f1540-107">เพิ่มโดเมนและสร้างระเบียน DNS</span><span class="sxs-lookup"><span data-stu-id="f1540-107">Add a domain and create DNS records</span></span>](https://docs.microsoft.com/office365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider)
+- [<span data-ttu-id="f0d21-107">เพิ่มโดเมนและสร้างระเบียน DNS</span><span class="sxs-lookup"><span data-stu-id="f0d21-107">Add a domain and create DNS records</span></span>](https://docs.microsoft.com/office365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider)
