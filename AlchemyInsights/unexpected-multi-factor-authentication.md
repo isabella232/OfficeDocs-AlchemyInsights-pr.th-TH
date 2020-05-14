@@ -11,10 +11,10 @@ ms.custom:
 - "1300007"
 - "4372"
 ms.openlocfilehash: a664bd709062ec1335ebcf1f9adddc8aef917ac1
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.sourcegitcommit: a98b25fa3cac9ebba983f4932881d774880aca93
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 04/22/2020
+ms.lasthandoff: 05/13/2020
 ms.locfileid: "43766620"
 ---
 # <a name="unexpected-multi-factor-authentication"></a>การรับรองความถูกต้องด้วยหลายปัจจัยที่ไม่คาดคิด

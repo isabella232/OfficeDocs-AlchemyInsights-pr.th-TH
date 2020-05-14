@@ -11,10 +11,10 @@ ms.custom:
 - "29"
 - "10"
 ms.openlocfilehash: 71e58081757e1cd8a61753f7c48283fe05e5c1a1
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.sourcegitcommit: a98b25fa3cac9ebba983f4932881d774880aca93
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 04/22/2020
+ms.lasthandoff: 05/13/2020
 ms.locfileid: "43759963"
 ---
 # <a name="the-domain-is-already-in-use"></a>มีการใช้โดเมนอยู่แล้ว

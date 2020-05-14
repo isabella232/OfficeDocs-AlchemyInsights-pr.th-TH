@@ -12,10 +12,10 @@ ms.custom:
 - "9001718"
 - "3811"
 ms.openlocfilehash: da4ede01001e619f5bf8324533be179ddbb7920c
-ms.sourcegitcommit: d1aad215f8aa636ba89c93a13a0c9d90e997f752
+ms.sourcegitcommit: a98b25fa3cac9ebba983f4932881d774880aca93
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 05/06/2020
+ms.lasthandoff: 05/13/2020
 ms.locfileid: "44062591"
 ---
 # <a name="recover-deleted-plans"></a>กู้คืนแผนที่ถูกลบ

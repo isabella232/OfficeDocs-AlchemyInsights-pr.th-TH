@@ -13,10 +13,10 @@ ms.custom:
 - "9000134"
 ms.assetid: 352a02d7-1368-4e3f-a8cf-bac207e414b0
 ms.openlocfilehash: a03eea367de2d13f6f20e0b98396c2b8b9934007
-ms.sourcegitcommit: d1aad215f8aa636ba89c93a13a0c9d90e997f752
+ms.sourcegitcommit: a98b25fa3cac9ebba983f4932881d774880aca93
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 05/06/2020
+ms.lasthandoff: 05/13/2020
 ms.locfileid: "44063168"
 ---
 # <a name="payment-options-for-microsoft-365-for-business-subscriptions"></a>ตัวเลือกการชําระเงินสําหรับการสมัครใช้งาน Microsoft 365 สําหรับธุรกิจ
@@ -27,7 +27,7 @@ ms.locfileid: "44063168"
   
 เมื่อคุณชําระเงินด้วยบัตรเครดิตหรือบัญชีธนาคาร คุณจะถูกเรียกเก็บเงินโดยอัตโนมัติสําหรับการสมัครของคุณในวันหลังจากวันที่ออกใบแจ้งหนี้ จนถึงวันที่สิ้นสุดของระยะเวลาการสมัครใช้บริการ คุณสามารถ[อัปเดตข้อมูลบัตรเครดิตหรือบัญชีธนาคาร](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account)ของคุณได้ทุกเมื่อที่ต้องการ คุณยังสามารถเลือก[รับสําเนาใบแจ้งยอดการเรียกเก็บเงินของคุณในอีเมล](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/pay-for-your-subscription#receive-a-copy-of-your-billing-statement-in-email)
   
-หากบัตรเครดิตของคุณถูกปฏิเสธหรือมียอดเงิน**Billing**\>**[Your products](https://go.microsoft.com/fwlink/p/?linkid=842054)** ที่ครบกําหนดชําระไปแล้ว**Settle balance**
+หากบัตรเครดิตของคุณถูกปฏิเสธหรือมียอดเงินที่ครบกําหนดชําระไปแล้ว**Settle balance****Billing** \> **[Your products](https://go.microsoft.com/fwlink/p/?linkid=842054)**
   
 **ชําระด้วยใบแจ้งหนี้ (เช็คหรือโอนเงินอิเล็กทรอนิกส์)**
   

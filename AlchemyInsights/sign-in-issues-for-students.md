@@ -13,10 +13,10 @@ ms.custom:
 - "3813"
 - "3818"
 ms.openlocfilehash: d071c44c3c23dbb3a167c30e486f39cb86fd1dca
-ms.sourcegitcommit: 940169c0edf638b5086d70cc275049f01dcff3cf
+ms.sourcegitcommit: a98b25fa3cac9ebba983f4932881d774880aca93
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 04/08/2020
+ms.lasthandoff: 05/13/2020
 ms.locfileid: "42707554"
 ---
 # <a name="sign-in-issues-for-students"></a>ปัญหาการลงชื่อเข้าใช้สําหรับนักเรียน

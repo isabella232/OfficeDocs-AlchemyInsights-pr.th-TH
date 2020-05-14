@@ -12,10 +12,10 @@ ms.custom:
 - "3500011"
 - "4577"
 ms.openlocfilehash: 24d59860732b42e8d62da8c1a8c37f2018a0d126
-ms.sourcegitcommit: 264b782ac2fba8ffd84524180dc4f7d60b45e9a4
+ms.sourcegitcommit: a98b25fa3cac9ebba983f4932881d774880aca93
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 05/04/2020
+ms.lasthandoff: 05/13/2020
 ms.locfileid: "44015708"
 ---
 # <a name="exchange-powershell-and-basic-authentication-deprecation"></a>การแลกเปลี่ยน PowerShell และการตรวจสอบพิสูจน์ตัวจริงพื้นฐาน

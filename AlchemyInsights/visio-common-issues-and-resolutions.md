@@ -12,10 +12,10 @@ ms.custom:
 - "9002484"
 - "4825"
 ms.openlocfilehash: c15b9f094efae4cfb062c5db659ef261fe7c6b6d
-ms.sourcegitcommit: d1aad215f8aa636ba89c93a13a0c9d90e997f752
+ms.sourcegitcommit: a98b25fa3cac9ebba983f4932881d774880aca93
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 05/06/2020
+ms.lasthandoff: 05/13/2020
 ms.locfileid: "44063960"
 ---
 # <a name="visio-common-issues-and-resolutions"></a>ปัญหาทั่วไปและวิธีแก้ปัญหาของ Visio

@@ -12,10 +12,10 @@ ms.custom:
 - "1600052"
 ms.assetid: d5c84f5c-a3ca-4abd-8633-7e9ff01328a9
 ms.openlocfilehash: 4d4206036e293419e4bc2400296ed4b0bd67e0f7
-ms.sourcegitcommit: 6a3748f5c05693ca0c19a829287cb8f30635940c
+ms.sourcegitcommit: a98b25fa3cac9ebba983f4932881d774880aca93
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 04/22/2020
+ms.lasthandoff: 05/13/2020
 ms.locfileid: "43785286"
 ---
 # <a name="prepare-for-use-of-tls-12-in-microsoft-365"></a>การเตรียมพร้อมสําหรับการใช้ TLS 1.2 ใน Microsoft 365

@@ -12,10 +12,10 @@ ms.custom:
 - "9002552"
 - "5146"
 ms.openlocfilehash: c40606df4a79fed1e526440f7f27f8f15dbd2032
-ms.sourcegitcommit: d1aad215f8aa636ba89c93a13a0c9d90e997f752
+ms.sourcegitcommit: a98b25fa3cac9ebba983f4932881d774880aca93
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 05/06/2020
+ms.lasthandoff: 05/13/2020
 ms.locfileid: "44058879"
 ---
 # <a name="cdn-used-for-video-playback"></a>CDN ที่ใช้สําหรับการเล่นวิดีโอ

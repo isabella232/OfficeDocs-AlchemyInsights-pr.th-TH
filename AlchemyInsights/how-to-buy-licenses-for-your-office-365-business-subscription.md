@@ -13,17 +13,17 @@ ms.custom:
 - "652"
 - "2000017"
 ms.openlocfilehash: 0362ef42344aba57eca276a9fafb5e847dd9996f
-ms.sourcegitcommit: d1aad215f8aa636ba89c93a13a0c9d90e997f752
+ms.sourcegitcommit: a98b25fa3cac9ebba983f4932881d774880aca93
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 05/06/2020
+ms.lasthandoff: 05/13/2020
 ms.locfileid: "44063924"
 ---
 # <a name="how-to-buy-licenses-for-your-microsoft-365-apps-for-business-subscription"></a>วิธีซื้อสิทธิ์การใช้งานสําหรับการสมัครใช้งาน Microsoft 365 Apps สําหรับการสมัครใช้งานทางธุรกิจของคุณ
 
 เมื่อมอบหมายสิทธิ์การใช้งานให้กับผู้ใช้ของคุณ คุณอาจพบว่าคุณจําเป็นต้องซื้อสิทธิ์การใช้งานเพิ่มเติม เมื่อต้องการทําเช่นนี้:
   
-1. ไปที่หน้า**การเรียกเก็บเงิน**\>**[สินค้าของคุณ](https://go.microsoft.com/fwlink/p/?linkid=842054)**
+1. ไปที่หน้า**การเรียกเก็บเงิน** \> **[สินค้าของคุณ](https://go.microsoft.com/fwlink/p/?linkid=842054)**
 
 2. ค้นหาการสมัครใช้งานที่คุณต้องการเพิ่มสิทธิ์การใช้งาน แล้วเลือก**Add/Remove licenses**
 

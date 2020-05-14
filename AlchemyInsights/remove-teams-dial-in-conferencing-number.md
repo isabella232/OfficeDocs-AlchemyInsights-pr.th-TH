@@ -12,10 +12,10 @@ ms.custom:
 - "9002248"
 - "4540"
 ms.openlocfilehash: 7a44c443fa6c469e10a6ac9253567c2266c2db7f
-ms.sourcegitcommit: 6a3748f5c05693ca0c19a829287cb8f30635940c
+ms.sourcegitcommit: a98b25fa3cac9ebba983f4932881d774880aca93
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 04/22/2020
+ms.lasthandoff: 05/13/2020
 ms.locfileid: "43784818"
 ---
 # <a name="remove-teams-dial-in-conferencing-number"></a>เอาหมายเลขการประชุมทางโทรศัพท์ใน Teams ออก

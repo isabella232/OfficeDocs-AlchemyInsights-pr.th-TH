@@ -15,17 +15,17 @@ ms.custom:
 - "4736"
 - "3551"
 ms.openlocfilehash: 7066d4f4ad7fbf1bad92c754d9a61f23f9863148
-ms.sourcegitcommit: d1aad215f8aa636ba89c93a13a0c9d90e997f752
+ms.sourcegitcommit: a98b25fa3cac9ebba983f4932881d774880aca93
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 05/06/2020
+ms.lasthandoff: 05/13/2020
 ms.locfileid: "44062627"
 ---
 # <a name="reactivate-your-subscription"></a>เปิดใช้งานการสมัครใช้งานของคุณอีกครั้ง
 
 ถ้าการสมัครใช้งานของคุณหมดอายุ หรือถูกปิดใช้งานโดย Microsoft หรือถ้าคุณยกเลิกการสมัครใช้งานไว้กลางระยะเวลา
 
-1. ไปที่หน้า**การเรียกเก็บเงิน** > **[สินค้าของคุณ](https://go.microsoft.com/fwlink/p/?linkid=842054)**
+1. ไปที่หน้า**การเรียกเก็บเงิน**  >  **[สินค้าของคุณ](https://go.microsoft.com/fwlink/p/?linkid=842054)**
 
 2. ค้นหาการสมัครใช้งานที่คุณต้องการเปิดใช้งานอีกครั้ง
 
@@ -41,7 +41,7 @@ ms.locfileid: "44062627"
 
 คุณสามารถสลับเปิดหรือปิดการเรียกเก็บเงินที่เกิดประจําได้
 
-1. ไปที่หน้า**การเรียกเก็บเงิน** > **[สินค้าของคุณ](https://go.microsoft.com/fwlink/p/?linkid=842054)**
+1. ไปที่หน้า**การเรียกเก็บเงิน**  >  **[สินค้าของคุณ](https://go.microsoft.com/fwlink/p/?linkid=842054)**
 
 2. เลือกการสมัครใช้งานที่คุณต้องการจัดการการเรียกเก็บเงินที่เกิดประจํา
 

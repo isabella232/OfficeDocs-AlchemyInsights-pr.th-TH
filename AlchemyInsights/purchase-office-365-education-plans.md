@@ -13,17 +13,17 @@ ms.custom:
 - "328"
 - "330"
 ms.openlocfilehash: a4b079ceb87e87fd50f04f6edbd5d2cb23a27429
-ms.sourcegitcommit: d1aad215f8aa636ba89c93a13a0c9d90e997f752
+ms.sourcegitcommit: a98b25fa3cac9ebba983f4932881d774880aca93
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 05/06/2020
+ms.lasthandoff: 05/13/2020
 ms.locfileid: "44062844"
 ---
 # <a name="microsoft-365-for-education---approved"></a>ไมโครซอฟท์ 365 สําหรับการศึกษา -- อนุมัติ
 
 คุณได้รับอนุมัติสําหรับ Office 365 การศึกษา  วิธีการสั่งซื้อ:
 
-1. ไปที่[บริการซื้อ](https://portal.office.com/AdminPortal/Home#/catalog)**การเรียกเก็บเงิน** > 
+1. ไปที่**Billing**  >  [บริการซื้อ](https://portal.office.com/AdminPortal/Home#/catalog)การเรียกเก็บเงิน
 
 2. เลือกจากรายการภายใต้**แผนการศึกษา**
 
@@ -33,7 +33,7 @@ ms.locfileid: "44062844"
 
 **เปิดทีม**
 
-- เมื่อต้องการเปิดทีม Microsoft สําหรับผู้ใช้ทั้งหมด ให้ไปที่**Settings** > **การตั้งค่า** > [Microsoft Teams](https://admin.microsoft.com/Adminportal/Home#/SettingsMultiPivot/:/Settings/L1/SkypeTeams)การตั้งค่า และคลิกกล่องกาเครื่องหมาย เปิด Microsoft Teams**สําหรับผู้ใช้ทั้งหมด** คลิก**บันทึกการเปลี่ยนแปลง**
+- เมื่อต้องการเปิดทีม Microsoft สําหรับผู้ใช้ทั้งหมด ให้ไปที่**Settings**  >  **การตั้งค่า**  >  [Microsoft Teams](https://admin.microsoft.com/Adminportal/Home#/SettingsMultiPivot/:/Settings/L1/SkypeTeams)การตั้งค่า และคลิกกล่องกาเครื่องหมาย เปิด Microsoft Teams**สําหรับผู้ใช้ทั้งหมด** คลิก**บันทึกการเปลี่ยนแปลง**
 
 **การเรียนการสอนและการเรียนรู้จากระยะไกล**
 

@@ -12,10 +12,10 @@ ms.custom:
 - "5300030"
 - "3179"
 ms.openlocfilehash: 6c56f07e986ca776600120560e53587371341185
-ms.sourcegitcommit: e6e9340a19ea7ac0a54fa941507904b4859b9ef7
+ms.sourcegitcommit: a98b25fa3cac9ebba983f4932881d774880aca93
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 04/16/2020
+ms.lasthandoff: 05/13/2020
 ms.locfileid: "43537760"
 ---
 # <a name="general-migration-performance-guidance"></a>คําแนะนําเกี่ยวกับประสิทธิภาพการโยกย้ายทั่วไป

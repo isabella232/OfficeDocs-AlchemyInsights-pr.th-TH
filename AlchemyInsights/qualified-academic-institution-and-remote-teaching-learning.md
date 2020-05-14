@@ -11,10 +11,10 @@ ms.assetid:
 - "1500009"
 - "4495"
 ms.openlocfilehash: 8d1a8cf65ccbf4cb6d1549ec58593bccc31feb01
-ms.sourcegitcommit: d1aad215f8aa636ba89c93a13a0c9d90e997f752
+ms.sourcegitcommit: a98b25fa3cac9ebba983f4932881d774880aca93
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 05/06/2020
+ms.lasthandoff: 05/13/2020
 ms.locfileid: "44062735"
 ---
 # <a name="microsoft-qualified-academic-institution-and-remote-teaching-and-learning"></a>สถาบันการศึกษาที่ผ่านการรับรองของ Microsoft และการสอนและการเรียนรู้ระยะไกล

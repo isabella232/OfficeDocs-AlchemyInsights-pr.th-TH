@@ -9,10 +9,10 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: ceaa6256-a9d9-4fef-a274-d7219365e07f
 ms.openlocfilehash: adee1c5d1ffc23f54580549ab666ee8fac579263
-ms.sourcegitcommit: d1aad215f8aa636ba89c93a13a0c9d90e997f752
+ms.sourcegitcommit: a98b25fa3cac9ebba983f4932881d774880aca93
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 05/06/2020
+ms.lasthandoff: 05/13/2020
 ms.locfileid: "44063060"
 ---
 # <a name="how-to-increase-storage-in-onedrive-for-business"></a>วิธีการเพิ่มที่เก็บข้อมูลใน OneDrive สําหรับธุรกิจ
@@ -27,6 +27,6 @@ ms.locfileid: "44063060"
   
 เมื่อต้องการเพิ่มที่เก็บข้อมูลของคุณใน OneDrive for Business ให้เลือกการสมัครใช้งานที่มี**OneDrive สําหรับแผนธุรกิจ 2**หรือ**Office 365 Enterprise E3** 
   
-เมื่อต้องการเปลี่ยนแปลงแผน ใน ศูนย์การจัดการ Microsoft 365 ให้ไปที่หน้า**การเรียกเก็บเงิน**\>**[ผลิตภัณฑ์ของคุณ](https://go.microsoft.com/fwlink/p/?linkid=842054)** ให้เลือกการสมัครใช้งานที่จะเปลี่ยนแปลง แล้วเลือกแท็บ**ปรับรุ่น**
+เมื่อต้องการเปลี่ยนแปลงแผน ใน ศูนย์การจัดการ Microsoft 365 ให้ไปที่หน้า**การเรียกเก็บเงิน** \> **[ผลิตภัณฑ์ของคุณ](https://go.microsoft.com/fwlink/p/?linkid=842054)** ให้เลือกการสมัครใช้งานที่จะเปลี่ยนแปลง แล้วเลือกแท็บ**ปรับรุ่น**
   
 สําหรับข้อมูลเพิ่มเติมเกี่ยวกับการสลับแผนและ OneDrive สําหรับการจัดเก็บธุรกิจ ให้ดูที่[สลับไปยัง Microsoft 365 อื่นสําหรับแผนธุรกิจ](https://go.microsoft.com/fwlink/?LinkId=2031117)และ[OneDrive สําหรับรายละเอียดการบริการธุรกิจ](https://go.microsoft.com/fwlink/p/?LinkId-2031122)

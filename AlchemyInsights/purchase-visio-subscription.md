@@ -12,17 +12,17 @@ ms.custom:
 - "9002419"
 - "4694"
 ms.openlocfilehash: db2a906d9881b2209abbfcffb45e9edbfd9e4ab1
-ms.sourcegitcommit: d1aad215f8aa636ba89c93a13a0c9d90e997f752
+ms.sourcegitcommit: a98b25fa3cac9ebba983f4932881d774880aca93
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 05/06/2020
+ms.lasthandoff: 05/13/2020
 ms.locfileid: "44062771"
 ---
 # <a name="purchase-visio-subscription"></a>ซื้อการสมัครใช้งาน Visio
 
 ผู้ดูแลระบบสามารถซื้อการสมัครใช้งาน Visio สําหรับองค์กรของตนจาก**ศูนย์การจัดการ Microsoft 365**
 
-1. ไปที่หน้า**[บริการซื้อ](https://go.microsoft.com/fwlink/p/?linkid=868433)****การเรียกเก็บเงิน** > เพื่อดูการสมัครรับข้อมูลที่พร้อมใช้งานสําหรับการซื้อสําหรับองค์กรของคุณ
+1. ไปที่**Billing**  >  หน้า**[บริการซื้อ](https://go.microsoft.com/fwlink/p/?linkid=868433)** การเรียกเก็บเงินเพื่อดูการสมัครรับข้อมูลที่พร้อมใช้งานสําหรับการซื้อสําหรับองค์กรของคุณ
 
 2. ค้นหา Visio แผน โดยการค้นหาบน "Visio"
 

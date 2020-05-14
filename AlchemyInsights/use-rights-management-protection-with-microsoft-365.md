@@ -13,10 +13,10 @@ ms.custom:
 - "3737"
 - "3820"
 ms.openlocfilehash: 3b1b1586814a8817df24c42f6a80e6dfd5d193a5
-ms.sourcegitcommit: d1aad215f8aa636ba89c93a13a0c9d90e997f752
+ms.sourcegitcommit: a98b25fa3cac9ebba983f4932881d774880aca93
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 05/06/2020
+ms.lasthandoff: 05/13/2020
 ms.locfileid: "44063780"
 ---
 # <a name="use-rights-management-protection-with-microsoft-365"></a>ใช้การคุ้มครองการจัดการสิทธิ์กับ Microsoft 365

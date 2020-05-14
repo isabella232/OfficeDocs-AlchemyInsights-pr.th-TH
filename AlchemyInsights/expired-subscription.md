@@ -14,10 +14,10 @@ ms.custom:
 - "1500020"
 ms.assetid: 713d37dd-a34c-469f-b96b-99d63e793fe9
 ms.openlocfilehash: a55889770340946adf88916b2cf2ab44cf4959ef
-ms.sourcegitcommit: d1aad215f8aa636ba89c93a13a0c9d90e997f752
+ms.sourcegitcommit: a98b25fa3cac9ebba983f4932881d774880aca93
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 05/06/2020
+ms.lasthandoff: 05/13/2020
 ms.locfileid: "44063492"
 ---
 # <a name="expired-subscription"></a>การสมัครใช้งานที่หมดอายุ
@@ -26,7 +26,7 @@ ms.locfileid: "44063492"
   
 **เปิดใช้งานอีกครั้ง**
   
-1. ไปที่หน้า**การเรียกเก็บเงิน**\>**[สินค้าของคุณ](https://go.microsoft.com/fwlink/p/?linkid=842054)**
+1. ไปที่หน้า**การเรียกเก็บเงิน** \> **[สินค้าของคุณ](https://go.microsoft.com/fwlink/p/?linkid=842054)**
 
 2. ค้นหาการสมัครใช้งานที่คุณต้องการเปิดใช้งานอีกครั้ง ในส่วน**การเรียกเก็บเงิน**ให้เลือก**เปิดใช้งานใหม่**
 
@@ -38,7 +38,7 @@ ms.locfileid: "44063492"
 
 **ทําการซื้อใหม่**
   
-1. ในศูนย์การจัดการ ให้ไปที่หน้า**[บริการซื้อ](https://go.microsoft.com/fwlink/p/?linkid=868433)****การเรียกเก็บเงิน**\>
+1. ในศูนย์การจัดการ ให้ไปที่**Billing** \> หน้า**[บริการซื้อ](https://go.microsoft.com/fwlink/p/?linkid=868433)** การเรียกเก็บเงิน
 
 2. เลือกการสมัครใช้งานที่คุณต้องการซื้อ แล้วเลือก**ซื้อ**
 

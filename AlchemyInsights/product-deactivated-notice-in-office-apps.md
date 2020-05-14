@@ -12,10 +12,10 @@ ms.custom:
 - "9000296"
 - "1906"
 ms.openlocfilehash: d9e036b2b2157b4283992389a1fb741fddc15755
-ms.sourcegitcommit: 6a3748f5c05693ca0c19a829287cb8f30635940c
+ms.sourcegitcommit: a98b25fa3cac9ebba983f4932881d774880aca93
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 04/22/2020
+ms.lasthandoff: 05/13/2020
 ms.locfileid: "43785394"
 ---
 # <a name="product-deactivated-notice-in-office-apps"></a>ข้อสังเกต "ผลิตภัณฑ์ถูกปิดใช้งาน" ในแอป Office

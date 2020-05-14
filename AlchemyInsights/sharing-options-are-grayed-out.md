@@ -12,10 +12,10 @@ ms.custom:
 - "9000192"
 - "2591"
 ms.openlocfilehash: d0b080e853c59802da20982db948bb825f240239
-ms.sourcegitcommit: 6ecb6fcbd738b8896c5d616130074438a1a6e357
+ms.sourcegitcommit: a98b25fa3cac9ebba983f4932881d774880aca93
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 04/16/2020
+ms.lasthandoff: 05/13/2020
 ms.locfileid: "43529695"
 ---
 # <a name="sharing-links-are-grayed-out"></a>ลิงก์การแชร์เป็นสีเทา

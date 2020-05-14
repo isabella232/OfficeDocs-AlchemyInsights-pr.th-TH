@@ -12,10 +12,10 @@ ms.custom:
 - "9002358"
 - "4584"
 ms.openlocfilehash: 60abad9281ab440cd19b7cd7c9caa51151170bfa
-ms.sourcegitcommit: c061f1dfa6f557a9ec083dd030b73b121d9864ea
+ms.sourcegitcommit: a98b25fa3cac9ebba983f4932881d774880aca93
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 04/14/2020
+ms.lasthandoff: 05/13/2020
 ms.locfileid: "43286369"
 ---
 # <a name="stuck-on-processing-order"></a>ติดอยู่ในลําดับการประมวลผล

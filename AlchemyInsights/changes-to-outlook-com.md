@@ -11,10 +11,10 @@ localization_priority: Critical
 ms.custom: 8000026
 ms.assetid: 77216e51-08d8-4f75-8c8c-e91e14eed75d
 ms.openlocfilehash: d0f9d580e6a48bd90e97e49628383fed29b518ff
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.sourcegitcommit: a98b25fa3cac9ebba983f4932881d774880aca93
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 04/22/2020
+ms.lasthandoff: 05/13/2020
 ms.locfileid: "43706435"
 ---
 # <a name="learn-about-the-new-outlookcom"></a>เรียนรู้เกี่ยวกับOutlook.comใหม่

@@ -12,10 +12,10 @@ ms.custom:
 - "9002453"
 - "4763"
 ms.openlocfilehash: 65b56ad1fbcce98fac42becc9fc4f060c17e9e5f
-ms.sourcegitcommit: d1aad215f8aa636ba89c93a13a0c9d90e997f752
+ms.sourcegitcommit: a98b25fa3cac9ebba983f4932881d774880aca93
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 05/06/2020
+ms.lasthandoff: 05/13/2020
 ms.locfileid: "44063312"
 ---
 # <a name="subscription-no-longer-active"></a>การสมัครใช้งานไม่ใช้งานอีกต่อไป
@@ -24,7 +24,7 @@ ms.locfileid: "44063312"
 
 **เปิดใช้งานการสมัครใช้งานอีกครั้ง**
 
-1. ไปที่หน้า**การเรียกเก็บเงิน** > **[สินค้าของคุณ](https://go.microsoft.com/fwlink/p/?linkid=842054)**
+1. ไปที่หน้า**การเรียกเก็บเงิน**  >  **[สินค้าของคุณ](https://go.microsoft.com/fwlink/p/?linkid=842054)**
 
 2. ค้นหาการสมัครใช้งานที่คุณต้องการเปิดใช้งานอีกครั้ง
 

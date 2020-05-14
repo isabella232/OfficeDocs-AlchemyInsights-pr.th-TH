@@ -12,10 +12,10 @@ ms.custom:
 - "9000766"
 - "3183"
 ms.openlocfilehash: e544e1d71a4aa61c1a16f2d3647050129ceb164e
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.sourcegitcommit: a98b25fa3cac9ebba983f4932881d774880aca93
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 04/22/2020
+ms.lasthandoff: 05/13/2020
 ms.locfileid: "43764388"
 ---
 # <a name="setup-audio-conferencing-for-teams"></a>ตั้งค่าการประชุมทางเสียงสําหรับ Teams

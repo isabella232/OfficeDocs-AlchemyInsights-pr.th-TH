@@ -12,10 +12,10 @@ ms.custom:
 - "9000181"
 - "4835"
 ms.openlocfilehash: aad87bead9942edce57e30683f5b7acbc750dd75
-ms.sourcegitcommit: d1aad215f8aa636ba89c93a13a0c9d90e997f752
+ms.sourcegitcommit: a98b25fa3cac9ebba983f4932881d774880aca93
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 05/06/2020
+ms.lasthandoff: 05/13/2020
 ms.locfileid: "44063096"
 ---
 # <a name="error-creating-o365-groups-the-classification-field-cant-be-empty"></a>ข้อผิดพลาดในการสร้างกลุ่ม O365: เขตข้อมูลการจัดประเภทไม่สามารถว่างเปล่า

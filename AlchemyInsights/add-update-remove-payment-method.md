@@ -12,10 +12,10 @@ ms.custom:
 - "9002348"
 - "4574"
 ms.openlocfilehash: 445b34e2385fae2003a39a94e4e58c9db876da9f
-ms.sourcegitcommit: d1aad215f8aa636ba89c93a13a0c9d90e997f752
+ms.sourcegitcommit: a98b25fa3cac9ebba983f4932881d774880aca93
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 05/06/2020
+ms.lasthandoff: 05/13/2020
 ms.locfileid: "44061943"
 ---
 # <a name="add-update-or-remove-payment-method"></a>เพิ่ม อัปเดต หรือนําวิธีการชําระเงินออก

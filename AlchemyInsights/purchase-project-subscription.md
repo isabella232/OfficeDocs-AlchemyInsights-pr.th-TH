@@ -12,17 +12,17 @@ ms.custom:
 - "9002424"
 - "4708"
 ms.openlocfilehash: c33d696ef4993f7c4ce304e2e7209c3860299275
-ms.sourcegitcommit: d1aad215f8aa636ba89c93a13a0c9d90e997f752
+ms.sourcegitcommit: a98b25fa3cac9ebba983f4932881d774880aca93
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 05/06/2020
+ms.lasthandoff: 05/13/2020
 ms.locfileid: "44062807"
 ---
 # <a name="purchase-project-subscription"></a>การซื้อการสมัครใช้งานโครงการ
 
 ผู้ดูแลระบบสามารถซื้อการสมัครใช้งานโครงการสําหรับองค์กรของพวกเขาจาก**ศูนย์การจัดการ Microsoft 365**
 
-1. ไปที่หน้า**[บริการซื้อ](https://admin.microsoft.com/AdminPortal/Home?adminportal=1&msCV=%2BbOQtMNsz0ei8f5z.0.36#/catalog)****การเรียกเก็บเงิน** > เพื่อดูการสมัครรับข้อมูลที่พร้อมใช้งานสําหรับการซื้อสําหรับองค์กรของคุณ
+1. ไปที่**Billing**  >  หน้า**[บริการซื้อ](https://admin.microsoft.com/AdminPortal/Home?adminportal=1&msCV=%2BbOQtMNsz0ei8f5z.0.36#/catalog)** การเรียกเก็บเงินเพื่อดูการสมัครรับข้อมูลที่พร้อมใช้งานสําหรับการซื้อสําหรับองค์กรของคุณ
 
 2. ค้นหาแผนโครงการ โดยการค้นหาบน "โครงการ"
 

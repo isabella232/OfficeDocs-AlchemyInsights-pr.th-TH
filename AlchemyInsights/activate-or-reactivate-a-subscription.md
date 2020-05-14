@@ -13,10 +13,10 @@ ms.custom:
 - "1500028"
 - "482"
 ms.openlocfilehash: f53c65ff8bd434c186a589fa4285751963944815
-ms.sourcegitcommit: d1aad215f8aa636ba89c93a13a0c9d90e997f752
+ms.sourcegitcommit: a98b25fa3cac9ebba983f4932881d774880aca93
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 05/06/2020
+ms.lasthandoff: 05/13/2020
 ms.locfileid: "44062123"
 ---
 # <a name="activate-or-reactivate-a-subscription"></a>เปิดใช้งานหรือเปิดใช้งานการสมัครใช้งานอีกครั้ง
@@ -33,7 +33,7 @@ ms.locfileid: "44062123"
 
 ถ้าการสมัครใช้งานของคุณหมดอายุ ถูกปิดใช้งานโดย Microsoft หรือคุณยกเลิกการสมัครใช้งานไว้กลางคําคุณสามารถเปิดใช้งานการสมัครใช้งานอีกครั้งในศูนย์การจัดการ
   
-1. ในศูนย์การจัดการ Microsoft 365 ให้ไปที่หน้า**การเรียกเก็บเงิน** > [ผลิตภัณฑ์ของคุณ](https://go.microsoft.com/fwlink/p/?linkid=842054)
+1. ในศูนย์การจัดการ Microsoft 365 ให้ไปที่หน้า**การเรียกเก็บเงิน**  >  [ผลิตภัณฑ์ของคุณ](https://go.microsoft.com/fwlink/p/?linkid=842054)
 
 2. เลือกการสมัครใช้งานที่คุณต้องการเปิดใช้งานอีกครั้ง แล้วเลือก**เปิดใช้งานใหม่** หากคุณไม่เห็น **"เปิดใช้งานอีกครั้ง**เป็นการดําเนินการที่มีให้ใช้งาน"[ให้ติดต่อฝ่ายสนับสนุน](https://docs.microsoft.com/microsoft-365/admin/contact-support-for-business-products)เพื่อเปิดใช้งานการสมัครใช้งานของคุณอีกครั้ง
 

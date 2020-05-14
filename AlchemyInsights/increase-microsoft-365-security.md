@@ -13,10 +13,10 @@ ms.custom:
 - "3746"
 - "3821"
 ms.openlocfilehash: 5c1e43e6c49eda244dfdefedcd99a0cb17f74d67
-ms.sourcegitcommit: 940169c0edf638b5086d70cc275049f01dcff3cf
+ms.sourcegitcommit: a98b25fa3cac9ebba983f4932881d774880aca93
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 04/08/2020
+ms.lasthandoff: 05/13/2020
 ms.locfileid: "42707462"
 ---
 # <a name="increase-microsoft-365-security"></a>เพิ่มความปลอดภัย Microsoft 365

@@ -12,10 +12,10 @@ ms.custom:
 - "695"
 - "3500010"
 ms.openlocfilehash: 22c91df2ec8ac1af7b6e3eb8c33ab7764c07c344
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.sourcegitcommit: a98b25fa3cac9ebba983f4932881d774880aca93
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 04/22/2020
+ms.lasthandoff: 05/13/2020
 ms.locfileid: "43705140"
 ---
 # <a name="cutover-migrations"></a>การย้ายแบบเคลื่อนย้าย

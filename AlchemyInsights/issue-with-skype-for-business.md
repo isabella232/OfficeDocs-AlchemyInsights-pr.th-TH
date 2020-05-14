@@ -11,10 +11,10 @@ ms.custom:
 - "66"
 - "4000001"
 ms.openlocfilehash: 9f72e8d263c0cef611e2fe19964141d68633e8a3
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.sourcegitcommit: a98b25fa3cac9ebba983f4932881d774880aca93
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 04/22/2020
+ms.lasthandoff: 05/13/2020
 ms.locfileid: "43765864"
 ---
 # <a name="issue-with-skype-for-business"></a>ปัญหาเกี่ยวกับ Skype สําหรับธุรกิจใช่หรือไม่

@@ -13,10 +13,10 @@ ms.custom:
 - "904"
 - "2000023"
 ms.openlocfilehash: 623222ee0cfe9cd5798e341149b439e887a998e4
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.sourcegitcommit: a98b25fa3cac9ebba983f4932881d774880aca93
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 04/22/2020
+ms.lasthandoff: 05/13/2020
 ms.locfileid: "43759171"
 ---
 # <a name="how-to-install-office"></a>วิธีการติดตั้ง Office
@@ -29,7 +29,7 @@ ms.locfileid: "43759171"
 
 มีผู้ใช้แต่ละคน:
 
-1. ไปที่เพจพอร์ทัล: [https://portal.office.com/OLS/MySoftware.aspx](https://portal.office.com/OLS/MySoftware.aspx).
+1. ไปที่เพจพอร์ทัล: [https://portal.office.com/OLS/MySoftware.aspx](https://portal.office.com/OLS/MySoftware.aspx) .
 2. ลงชื่อเข้าใช้ด้วยบัญชีที่ทํางานหรือที่โรงเรียนหากยังไม่ได้ลงชื่อเข้าใช้
 3. ภายใต้ส่วน Office เลือกภาษา เลือก**ขั้นสูง**เพื่อเลือกรุ่น 32 บิต หรือ 64 บิต
 4. เลือก**ติดตั้ง**
