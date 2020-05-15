@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "5300030"
 - "3192"
-ms.openlocfilehash: ad9e9d929664ecdfd796e977891d83f80f557333
-ms.sourcegitcommit: 04484c73b96bf76d1b50796b3e8913f49095c4f3
+ms.openlocfilehash: 54f3e3a396334b7c1640b078e2efed4d6b463ba3
+ms.sourcegitcommit: e6d73d240669342fde9d4d25b0ee2838b7e43965
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 04/18/2020
-ms.locfileid: "43552817"
+ms.lasthandoff: 05/14/2020
+ms.locfileid: "44235388"
 ---
 # <a name="migrating-to-sharepoint-online-via-migration-manager"></a>กําลังย้ายข้อมูลไปยัง SharePoint แบบออนไลน์ผ่านทางโปรแกรมจัดการการโยกย้าย
 
@@ -25,7 +25,3 @@ ms.locfileid: "43552817"
 ตัวจัดการการย้ายจะแนะนําคุณผ่านการตั้งค่าไคลเอ็นต์และการสร้างงานของคุณ คุณสามารถระบุการตั้งค่าส่วนกลางหรือระดับงาน
 
 - [เริ่มต้นใช้งานตัวจัดการการย้าย](https://docs.microsoft.com/sharepointmigration/mm-get-started)
-
-- [ตั้งค่าไคลเอ็นต์ตัวจัดการการย้าย](https://docs.microsoft.com/sharepointmigration/mm-setup-clients)
-
-- [การตั้งค่าตัวจัดการการย้าย](https://docs.microsoft.com/sharepointmigration/mm-settings)
