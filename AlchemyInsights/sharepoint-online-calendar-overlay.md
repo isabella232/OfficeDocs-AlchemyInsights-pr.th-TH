@@ -1,5 +1,5 @@
 ---
-title: จํากัดการแชร์ในทีม Microsoft
+title: การซ้อนทับปฏิทิน SharePoint แบบออนไลน์
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,14 +11,14 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000677"
 - "2587"
-ms.openlocfilehash: 23912ed30ed73257afe9346a82e3a1996a9399c6
-ms.sourcegitcommit: ed65b545ea3abf05fdc71a5167aaaab033063209
+ms.openlocfilehash: 046e9230b162a402c06e432b2b1501490b45161b
+ms.sourcegitcommit: 1beed1afb13dd512249db1ea918b1ddb00b0c1ed
 ms.translationtype: MT
 ms.contentlocale: th-TH
 ms.lasthandoff: 05/15/2020
-ms.locfileid: "44250527"
+ms.locfileid: "44267560"
 ---
-# <a name="limit-sharing-in-microsoft-teams"></a>จํากัดการแชร์ในทีม Microsoft
+# <a name="sharepoint-online-calendar-overlay"></a>การซ้อนทับปฏิทิน SharePoint แบบออนไลน์
 
 คุณสามารถซ้อนปฏิทิน SharePoint อื่นได้ตราบใดที่ปฏิทิน SharePoint ทั้งสองอยู่ในไซต์คอลเลกชันเดียวกัน ความสามารถในการใช้การซ้อนทับปฏิทินในปฏิทิน SharePoint แบบออนไลน์หรือ SharePoint Server ที่เรียกจากแบบออนไลน์ของอัตราแลกเปลี่ยนไม่ได้รับการสนับสนุน
 

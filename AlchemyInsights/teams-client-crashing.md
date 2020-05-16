@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002323"
 - "4512"
-ms.openlocfilehash: ce37b260d126f876d2b6177515bd8a7c3874ef2c
-ms.sourcegitcommit: d02e2b73aa7d0453d7baca1ea5a186cf6081d022
+ms.openlocfilehash: c49dfbf422b312f4744711d5f12b0eb83b6ebf2e
+ms.sourcegitcommit: b398afd92d4259f893c25b48aec65921e6cc68d6
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 03/27/2020
-ms.locfileid: "43030669"
+ms.lasthandoff: 05/16/2020
+ms.locfileid: "44268791"
 ---
 # <a name="teams-client-crashing"></a>ลูกค้าทีมล้มเหลว?
 
@@ -24,9 +24,9 @@ ms.locfileid: "43030669"
 
 - ถ้าคุณกําลังใช้แอปทีมบนเดสก์ท็อป ให้ตรวจสอบ[ให้แน่ใจว่าแอปได้รับการอัปเดตอย่างสมบูรณ์](https://support.office.com/article/Update-Microsoft-Teams-535a8e4b-45f0-4f6c-8b3d-91bca7a51db1)แล้ว
 
-- ตรวจสอบให้แน่ใจว่าสามารถเข้าถึง[URL ของ Office 365 และช่วงที่อยู่](https://docs.microsoft.com/microsoftteams/connectivity-issues)ทั้งหมดได้
+- ตรวจสอบให้แน่ใจว่าสามารถเข้าถึง[URL และช่วงที่อยู่ของ Microsoft 365](https://docs.microsoft.com/microsoftteams/connectivity-issues)ทั้งหมดได้
 
-- เข้าสู่ระบบด้วยบัญชีผู้ดูแลระบบและตรวจสอบ[แดชบอร์ดสถานภาพบริการ](https://docs.microsoft.com/office365/enterprise/view-service-health)เพื่อตรวจสอบว่าไม่มีการเสื่อมสภาพหรือการบริการ
+- เข้าสู่ระบบด้วยบัญชีผู้ดูแลระบบผู้เช่าของคุณ และตรวจสอบ[แดชบอร์ดสถานภาพบริการ](https://docs.microsoft.com/office365/enterprise/view-service-health)ของคุณเพื่อตรวจสอบว่าไม่มีการเสื่อมสภาพหรือการบริการ
 
  - ขั้นตอนสุดท้าย คุณสามารถพยายามล้างแคชของไคลเอ็นต์ Teams ของคุณ:
 
@@ -53,3 +53,11 @@ ms.locfileid: "43030669"
         - สุดท้ายจากภายใน**tmp**ลบไฟล์ใด ๆ: %appdata%\ทีม\ทีม\tmp
 
     4. รีสตาร์ทไคลเอนต์ Teams ของคุณ
+
+หากไคลเอ็นต์ Teams ของคุณยังคงหยุดทํางาน คุณสามารถทบทวนปัญหาได้หรือไม่ ถ้าเป็นเช่นนั้น: 
+
+1. ใช้ตัวบันทึกขั้นตอนเพื่อจับภาพขั้นตอนของคุณ
+    - ปิดโปรแกรมประยุกต์ที่ไม่จําเป็นหรือเป็นความลับทั้งหมด
+    - เปิดตัวตัวบันทึกขั้นตอน และทบทวนเกิดปัญหาในขณะที่เข้าสู่ระบบด้วยบัญชีผู้ใช้ที่ได้รับผลกระทบ
+    
+2. แนบไฟล์เข้ากับกรณีการสนับสนุนของคุณ
