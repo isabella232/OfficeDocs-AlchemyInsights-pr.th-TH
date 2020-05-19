@@ -11,12 +11,14 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002957"
 - "5659"
-ms.openlocfilehash: 119c7d80cfdf8cfb5abd035b47e6a2a39bf9566c
-ms.sourcegitcommit: b398afd92d4259f893c25b48aec65921e6cc68d6
+- "9001214"
+- "5664"
+ms.openlocfilehash: c28c8b10cae72550fe7fe8ebf6cebc3635d28459
+ms.sourcegitcommit: 18b080c2a5d741af01ec589158effc35ea7cf449
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 05/16/2020
-ms.locfileid: "44269337"
+ms.lasthandoff: 05/19/2020
+ms.locfileid: "44289581"
 ---
 # <a name="printing-on-both-sides-of-paper-duplex-printing"></a>การพิมพ์บนกระดาษทั้งสองด้าน (การพิมพ์ทั้งสองด้าน)
 
