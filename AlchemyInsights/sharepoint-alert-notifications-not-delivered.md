@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000118"
 - "1655"
-ms.openlocfilehash: a422805d11a128909e1be7bf5d08b24efc132e23
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 363f3c79a3b62f3017e6c873f1be3dd195cab883
+ms.sourcegitcommit: 5296874062b16f945d9a7a7a9ab29ec53686310b
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43742066"
+ms.lasthandoff: 05/21/2020
+ms.locfileid: "44343094"
 ---
 # <a name="sharepoint-alert-notifications-not-delivered"></a>การแจ้งเตือนของ SharePoint ไม่ถูกจัดส่ง
 
@@ -33,15 +33,6 @@ ms.locfileid: "43742066"
 
 - ไม่สามารถส่งการแจ้งเตือนไปยังกลุ่มการแจกจ่ายได้ เฉพาะกลุ่ม Security และ O365 เท่านั้น
 - คุณไม่สามารถกําหนดแม่แบบอีเมลการแจ้งเตือนเองได้ คุณต้องใช้กระแสของ Microsoft หรือเวิร์กโฟลว์ SharePoint Designer เพื่อให้บรรลุผลเหล่านั้น
-
-ข้อมูลเพิ่มเติม:
-
-- **การตั้งค่าการแจ้งเตือน**: สําหรับข้อมูลเพิ่มเติมเกี่ยวกับการตั้งค่าการแจ้งเตือน ให้ดูที่[การสร้างการแจ้งเตือนเพื่อรับการแจ้งเตือนเมื่อมีการเปลี่ยนแปลงแฟ้มหรือโฟลเดอร์ใน SharePoint](https://support.office.com/article/create-an-alert-to-get-notified-when-a-file-or-folder-changes-in-sharepoint-e5a79e7b-a146-46da-a9ef-d65409ba8918)
-- **การแก้ไขปัญหาการแจ้งเตือน**: สําหรับข้อมูลเพิ่มเติมเกี่ยวกับการแก้ไขปัญหาการแจ้งเตือน ให้ดูที่[ผู้ใช้ไม่ได้รับการแจ้งเตือนการแจ้งเตือนของ SharePoint Online](https://docs.microsoft.com/sharepoint/support/sites/no-alert-notifications)
-- **นโยบายการแจ้งเตือนการปฏิบัติตามกฎระเบียบ O365 ขั้นสูง**: สําหรับข้อมูลเพิ่มเติมเกี่ยวกับการตั้งค่าการแจ้งเตือนเหล่านี้ โปรดดู[นโยบายการแจ้งเตือนการปฏิบัติตามกฎระเบียบ](https://docs.microsoft.com/office365/securitycompliance/alert-policies)
-- **SharePoint และ OneDrive ตรวจสอบแฟ้มบันทึก**: สําหรับข้อมูลเพิ่มเติมเกี่ยวกับวิธีการเรียกเหตุการณ์เหล่านี้ ให้ดูที่[ค้นหาบันทึกการตรวจสอบ](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance#search-the-audit-log)
-- **การแจ้งเตือนที่ส่งโดยการป้องกันภัยคุกคามขั้นสูง**: ดู[ATP สําหรับ SharePoint และ OneDrive](https://docs.microsoft.com/office365/securitycompliance/atp-for-spo-odb-and-teams)
-- **การแจ้งเตือนที่ส่งโดยตํารวจป้องกันการสูญหายของข้อมูล**: ดู[การแจ้งเตือนทางอีเมลสําหรับนโยบาย DLP](https://docs.microsoft.com/office365/securitycompliance/use-notifications-and-policy-tips)
 
 ## <a name="related-topics"></a>หัวข้อที่เกี่ยวข้อง
 

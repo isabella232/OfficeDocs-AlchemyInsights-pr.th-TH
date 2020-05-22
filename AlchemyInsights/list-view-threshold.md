@@ -11,19 +11,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "5300011"
 - "2670"
-ms.openlocfilehash: 1acd2be290464fdefebfbd8b66f005f08247f6db
-ms.sourcegitcommit: 183dc4c002c151474628b6d7c4571a5264dc5257
+ms.openlocfilehash: ee47bdd712f719c7167bb554bb4a9f535f2a8586
+ms.sourcegitcommit: 5296874062b16f945d9a7a7a9ab29ec53686310b
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 03/25/2020
-ms.locfileid: "42953990"
+ms.lasthandoff: 05/21/2020
+ms.locfileid: "44343042"
 ---
 # <a name="list-view-threshold"></a>เกณฑ์มุมมองรายการ
 
-รายการ SharePoint และไลบรารีสามารถมีได้ถึง 30 ล้านรายการ แต่เมื่อพวกเขามีมากกว่า 5,000 รายการ คุณอาจเห็นข้อผิดพลาดของเกณฑ์มุมมองรายการเมื่อคุณพยายามทํางานกับรายการเหล่านั้น เกณฑ์นี้อยู่ในสถานที่เพื่อรักษาประสิทธิภาพของบริการ มันไม่สามารถเปลี่ยนแปลงได้ นอกจากนี้คุณอาจได้รับข้อผิดพลาดนี้เมื่อพยายามใช้ร่วมกันหรือทําลายมรดกของโฟลเดอร์
+ขีดจํากัดมุมมองรายการอยู่ในตําแหน่งเพื่อรักษาประสิทธิภาพของบริการ ไม่สามารถเปลี่ยนขีดจํากัดใน SharePoint แบบออนไลน์ เมื่อต้องการหลีกเลี่ยงการตีเกณฑ์นี้ ให้ดูที่[จัดการรายการและไลบรารีขนาดใหญ่ใน SharePoint](https://support.office.com/article/manage-large-lists-and-libraries-in-sharepoint-b8588dae-9387-48c2-9248-c24122f07c59)
 
-วิธีหลีกเลี่ยงการเข้าชมเกณฑ์นี้
-
-- [จัดการรายการและไลบรารีขนาดใหญ่ใน SharePoint](https://support.office.com/article/manage-large-lists-and-libraries-in-sharepoint-b8588dae-9387-48c2-9248-c24122f07c59)
-
-- [ข้อผิดพลาดการสืบทอดร่วมกัน/หยุด](https://docs.microsoft.com/SharePoint/troubleshoot/lists-and-libraries/error-share-break-inheritance)
+นอกจากนี้คุณอาจได้รับข้อผิดพลาดนี้เมื่อพยายามใช้ร่วมกันหรือทําลายมรดกของโฟลเดอร์ ดู[การใช้ร่วมกัน/หยุดการสืบทอด](https://docs.microsoft.com/SharePoint/troubleshoot/lists-and-libraries/error-share-break-inheritance)

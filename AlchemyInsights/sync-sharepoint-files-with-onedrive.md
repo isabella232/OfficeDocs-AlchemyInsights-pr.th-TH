@@ -11,12 +11,12 @@ localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 5ad2f1f2-9650-4eb0-b4fa-2f52a09f535a
-ms.openlocfilehash: 2023593e281170cea0b055c54d18ef307c4c7ea7
-ms.sourcegitcommit: a98b25fa3cac9ebba983f4932881d774880aca93
+ms.openlocfilehash: be1136f7fd4575d482d38ee70163e5252d4ffbca
+ms.sourcegitcommit: 5296874062b16f945d9a7a7a9ab29ec53686310b
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "43767052"
+ms.lasthandoff: 05/21/2020
+ms.locfileid: "44343163"
 ---
 # <a name="troubleshoot-open-with-explorer-issues-in-sharepoint-online"></a>แก้ไขปัญหา "เปิดด้วย Explorer" ใน SharePoint แบบออนไลน์
 
@@ -28,9 +28,6 @@ ms.locfileid: "43767052"
 - [คัดลอกหรือย้ายแฟ้มไลบรารีโดยใช้เปิดด้วย Explorer](https://support.office.com/article/copy-or-move-library-files-by-using-open-with-explorer-aaee7bfb-e2a1-42ee-8fc0-bcc0754f04d2)
 
 > **หมาย เหตุ:**
+>- เปิดด้วย Explorer เท่านั้นได้รับการสนับสนุนใน Internet Explorer 10 หรือ 11 เปิดด้วย Explorer ไม่ได้ทํางานใน Windows กับไมโครซอฟท์ขอบ, Google Chrome, Mozilla Firefox หรือบนแพลตฟอร์ม Mac. เนื่องจากเหตุผลนี้ Explorer มุมมองตัวเลือกอาจเป็นสีเทา
 >
 >- ปุ่ม เปิดด้วย Explorer ไม่ปรากฏในประสบการณ์การใช้งานไลบรารีใหม่ เลือกแบบดรอปดาวน์ **"มุมมอง**" ที่ด้านขวาบน (ชื่อของการเปลี่ยนแปลงแบบดรอปดาวน์ขึ้นอยู่กับมุมมองปัจจุบันของคุณ) แล้วเลือก**View in File Explorer**
->
->- เปิดด้วย Explorer เท่านั้นได้รับการสนับสนุนใน Internet Explorer 10 หรือ 11 เปิดด้วย Explorer ไม่ได้ทํางานใน Windows กับไมโครซอฟท์ขอบ, Google Chrome, Mozilla Firefox หรือบนแพลตฟอร์ม Mac. เนื่องจากเหตุผลนี้ Explorer มุมมองตัวเลือกอาจเป็นสีเทา
-
-
