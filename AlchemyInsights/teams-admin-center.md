@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002890"
 - "5542"
-ms.openlocfilehash: ff432ebd048451d13aab1461d61fe2075d423cf5
-ms.sourcegitcommit: 1c052f8dada7b7d081c61462396e1de3df682c28
+ms.openlocfilehash: d504a26ee6532ec291eae797b1c81d86a05414b0
+ms.sourcegitcommit: c46b8df485edbd13e8bb4d1b2ba1c2821ddc9da0
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 05/05/2020
-ms.locfileid: "44021658"
+ms.lasthandoff: 05/23/2020
+ms.locfileid: "44354107"
 ---
 # <a name="teams-admin-center"></a>ศูนย์การจัดการทีม
 
@@ -30,4 +30,6 @@ ms.locfileid: "44021658"
 ถ้าผู้ใช้ไม่ปรากฏในศูนย์การจัดการทีม โปรดตรวจสอบดังต่อไปนี้:
 
 - คุณได้สร้างผู้ใช้หรือสิทธิ์การใช้งานที่ได้รับมอบหมายในช่วง 24 ชั่วโมงที่ผ่านมาหรือไม่ โปรดรออย่างน้อย 24 ชั่วโมงก่อนเปิดตั๋วสนับสนุน
-- ตรวจสอบว่าคุณได้กําหนดสิทธิ์การใช้งานที่เหมาะสมแล้วหรือไม่ 
+- ตรวจสอบว่าคุณได้กําหนดสิทธิ์การใช้งานที่เหมาะสมแล้วหรือไม่
+- ถ้าคุณมีไดเรกทอรีที่ใช้งานอยู่ในสถานที่ ตรวจสอบว่า[ค่าของ msRTCSIP PrimaryUserAddress หรืออยู่ SIP ในเขตข้อมูล ProxyAddresses ในไดเรกทอรีที่ใช้งานอยู่ภายในเครื่องของคุณไม่ซ้ํากัน และรูปแบบที่ตรงกับ](https://docs.microsoft.com/skypeforbusiness/troubleshoot/online-configuration/msrtcsip-primaryuseraddress-proxyaddaddress)จิบ:**ชื่อผู้ใช้**จาก[ศูนย์การจัดการ Microsoft 365](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/users)
+- ถ้าคุณตั้งใจจะเก็บ Skype สําหรับการปรับใช้เซิร์ฟเวอร์ธุรกิจ และมีผู้ใช้ homed ในสถาน และออนไลน์: ทําตาม **"ตั้งค่าไฮบริดสลี กับทีมและ Skype สําหรับธุรกิจออนไลน์"** ใน Skype ของคุณสําหรับแผงควบคุมเซิร์ฟเวอร์ธุรกิจ และย้ายผู้ใช้แบบออนไลน์
