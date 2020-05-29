@@ -11,23 +11,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "1500001"
 - "430"
-ms.openlocfilehash: 643723e658415ed3a343332e09314040f52c78dc
-ms.sourcegitcommit: a98b25fa3cac9ebba983f4932881d774880aca93
+ms.openlocfilehash: 841c06ea5ea3e2d19a6a96671f09075e53342478
+ms.sourcegitcommit: 64ed44e6ada9250cac8ae1621157f78d0de2c49b
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "44061834"
+ms.lasthandoff: 05/29/2020
+ms.locfileid: "44417479"
 ---
 # <a name="update-my-credit-card-information"></a>อัปเดตข้อมูลบัตรเครดิตของฉัน
 
-คุณสามารถเพิ่ม/เอาวิธีการชําระเงินออกจาก**ศูนย์การจัดการ Microsoft 365** หากวิธีการชําระเงินของคุณไม่เกี่ยวข้องกับการสมัครรับใดๆ คุณสามารถลบวิธีการชําระเงินนั้นได้ทันที ถ้าเชื่อมโยงกับการสั่งซื้อโดยบอกรับเป็นสมาชิก ให้ดูที่[เปลี่ยนวิธีการชําระเงิน](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/add-update-or-remove-credit-card-or-bank-account#change-a-payment-method)
+คุณสามารถเพิ่ม/ลบวิธีการชําระเงินจาก**ศูนย์การจัดการ Microsoft 365** หากวิธีการชําระเงินของคุณไม่เชื่อมโยงกับการสมัครรับข้อมูลใดๆ คุณสามารถลบได้ทันที หากเกี่ยวข้องกับการสมัครใช้งาน โปรดดู[จัดการวิธีการชําระเงิน](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods)
 
-1. ไปที่**การเรียกเก็บเงิน>บิล&การชําระเงิน>[วิธีการชําระเงิน](https://go.microsoft.com/fwlink/p/?linkid=2018806)**
+1. ไปที่**การเรียกเก็บเงิน>เรียกเก็บเงิน&การชําระเงิน>[วิธีการชําระเงิน](https://go.microsoft.com/fwlink/p/?linkid=2018806)**
 
 2. วางเมาส์เหนือบัตรหรือบัญชีธนาคาร จากนั้นเลือกไอคอนลบ
 
 3. ที่ด้านล่างของบานหน้าต่าง**ลบวิธีการชําระเงิน**ให้คลิก**ลบ**
 
-ดูข้อมูลเพิ่มเติมได้ที่[เพิ่ม อัปเดต หรือนําวิธีการชําระเงินออก](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/add-update-or-remove-credit-card-or-bank-account#update-an-existing-payment-method)
+สําหรับข้อมูลเพิ่มเติม ให้ดูที่[จัดการวิธีการชําระเงิน](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods)
 
-หากต้องการแก้ปัญหา โปรดดู[แก้ปัญหาวิธีการชําระเงิน](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/add-update-or-remove-credit-card-or-bank-account#troubleshoot-payment-methods)
+เมื่อต้องการแก้ไขปัญหา ให้ดูที่[การแก้ไขปัญหาวิธีการชําระเงิน](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods#troubleshoot-payment-methods)

@@ -1,5 +1,5 @@
 ---
-title: คุณต้องการย้ายหมายเลขโทรศัพท์จากผู้ให้บริการรายหนึ่งไปยัง Microsoft หรือไม่
+title: คุณต้องย้ายหมายเลขโทรศัพท์จากผู้ให้บริการรายหนึ่งไปยัง Microsoft หรือไม่
 ms.author: heidip
 author: microsoftheidi
 ms.audience: ITPro
@@ -10,14 +10,19 @@ ms.assetid: 94f6d41e-8cbc-4ec1-a44f-453b2a59206a
 ms.custom:
 - "248"
 - "4000003"
-ms.openlocfilehash: feedd3e1433f9c8232a6ab9577473e4dbed03b31
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 1e6ad5908b56f76fa41cf9fbdfad0f50c1a6f552
+ms.sourcegitcommit: 64ed44e6ada9250cac8ae1621157f78d0de2c49b
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43714933"
+ms.lasthandoff: 05/29/2020
+ms.locfileid: "44417407"
 ---
-# <a name="move-a-phone-number-from-another-provider-to-microsoft"></a>ย้ายหมายเลขโทรศัพท์จากผู้ให้บริการรายอื่นไปยัง Microsoft
+# <a name="port-existing-numbers-to-teams"></a>พอร์ตหมายเลขที่มีอยู่ไปยัง Teams
 
-คุณต้องการย้ายหมายเลขโทรศัพท์จากผู้ให้บริการรายอื่นไปยัง Microsoft หรือไม่ หมายเลขโทรศัพท์สําหรับประเทศและภูมิภาคต่างๆ สามารถดูได้ใน[จัดการหมายเลขโทรศัพท์สําหรับองค์กรของคุณ](https://docs.microsoft.com/SkypeForBusiness/what-are-calling-plans-in-office-365/manage-phone-numbers-for-your-organization/manage-phone-numbers-for-your-organization) เลือกประเทศหรือภูมิภาคของคุณเพื่อค้นหาข้อมูลเกี่ยวกับการถ่ายโอนหมายเลข 
-  
+ถ้าคุณมีผู้ให้บริการโทรศัพท์หรือผู้ให้บริการเครือข่ายและมีหมายเลขโทรศัพท์สําหรับผู้ใช้หรือบริการของคุณอยู่แล้ว
+
+- โปรดดู[โอนหมายเลขโทรศัพท์ไปยัง Teams](https://docs.microsoft.com/microsoftteams/phone-number-calling-plans/transfer-phone-numbers-to-teams)เพื่อเรียนรู้วิธีดําเนินการพอร์ตให้เสร็จสมบูรณ์ 
+
+- ดู[จัดการหมายเลขโทรศัพท์สําหรับองค์กรของคุณ](https://docs.microsoft.com/microsoftteams/manage-phone-numbers-for-your-organization/manage-phone-numbers-for-your-organization)เพื่อแนะนําการจัดการหมายเลขโทรศัพท์ 
+
+สําหรับข้อมูลเพิ่มเติม ให้ดูที่[ภาพรวมของใบสั่งพอร์ต](https://docs.microsoft.com/MicrosoftTeams/phone-number-calling-plans/port-order-overview)  

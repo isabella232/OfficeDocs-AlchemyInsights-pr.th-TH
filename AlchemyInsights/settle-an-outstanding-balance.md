@@ -1,5 +1,5 @@
 ---
-title: ชําระยอดดุลคงค้าง
+title: ชําระยอดคงค้าง
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,25 +11,25 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002927"
 - "5606"
-ms.openlocfilehash: f51ac76fb75c3386488ae533f8af4e48dfba921e
-ms.sourcegitcommit: 0cf8d133d6feade6df8b1082444ce73faa91e145
+ms.openlocfilehash: b916767a1546bfe761e9309bb4c3a190672f13d5
+ms.sourcegitcommit: 64ed44e6ada9250cac8ae1621157f78d0de2c49b
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "44204783"
+ms.lasthandoff: 05/29/2020
+ms.locfileid: "44418235"
 ---
-# <a name="settle-an-outstanding-balance"></a>ชําระยอดดุลคงค้าง
+# <a name="settle-an-outstanding-balance"></a>ชําระยอดคงค้าง
 
-ถ้าคุณมีดุลคงค้าง**Microsoft 365 admin center**
+ถ้าคุณมียอดดุลคงค้าง คุณสามารถชําระยอดดุลจาก**ศูนย์การจัดการ Microsoft 365**
 
 1. ไปที่**การเรียกเก็บเงิน >[ผลิตภัณฑ์ของคุณ](https://go.microsoft.com/fwlink/p/?linkid=842054)**
 
-2. ค้นหาการสมัครใช้งานที่มียอดคงเหลือ ในส่วน การเรียกเก็บเงิน ถัดจาก**การสมัครใช้งานมีการชําระเงินเลยกําหนดชําระเลย****Settle balance**
+2. ค้นหาการสมัครใช้งานที่มียอดค้างชําระ ในส่วน การเรียกเก็บเงิน ถัดจาก**การสมัครใช้งานมีการชําระเงินที่เลยกําหนด ให้คลิก****ชําระยอดคงเหลือ**
 
-3. ถ้าคุณเป็นเจ้าของบัตรเครดิต[add a new card](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/add-update-or-remove-credit-card-or-bank-account?view=o365-worldwide)
+3. หากคุณเป็นเจ้าของบัตรเครดิต คุณสามารถเปลี่ยนวันหมดอายุของบัตร[add a new card](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods?view=o365-worldwide)
 
-4. หากคุณไม่ใช่เจ้าของบัตรเครดิต คุณสามารถเลือกบัตรเครดิตอื่น หรือ[เพิ่มบัตรเครดิตใหม่](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/add-update-or-remove-credit-card-or-bank-account?view=o365-worldwide)ได้
+4. หากคุณไม่ใช่เจ้าของบัตรเครดิต คุณสามารถเลือกบัตรเครดิตอื่นหรือ[เพิ่มบัตรใหม่](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods?view=o365-worldwide)ได้
 
-5. หลังจากที่คุณได้อัปเดตข้อมูลบัตรเครดิตหรือเปลี่ยนบัตรเครดิตแล้ว ให้คลิก**บันทึก**
+5. หลังจากที่คุณอัปเดตข้อมูลบัตรเครดิตหรือเปลี่ยนแปลงบัตรเครดิตแล้ว ให้คลิก**บันทึก**
 
-สําหรับข้อมูลเพิ่มเติม ให้ดูที่[การชําระเงินสําหรับการสมัครใช้งานของคุณ](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/pay-for-your-subscription?view=o365-worldwide)
+สําหรับข้อมูลเพิ่มเติม ให้ดูที่[ชําระเงินสําหรับการสมัครใช้งานของคุณ](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/pay-for-your-subscription?view=o365-worldwide)
