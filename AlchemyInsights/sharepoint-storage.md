@@ -1,5 +1,5 @@
 ---
-title: พื้นที่เก็บข้อมูล SharePoint
+title: ที่เก็บ SharePoint
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,26 +12,26 @@ ms.custom:
 - "2008"
 - "9000355"
 ms.assetid: 8e0ec879-3f0e-423b-9d72-5e52fc2b9e0c
-ms.openlocfilehash: 37cdc6943b28dc6823044957691767351d4ac246
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: cfe6091baec784a0b726ccc6e1b97a3ce1d00c8d
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40051048"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44512645"
 ---
-# <a name="manage-your-sharepoint-online-storage"></a>จัดการที่เก็บข้อมูลแบบออนไลน์ของ SharePoint ของคุณ
+# <a name="manage-your-sharepoint-online-storage"></a>จัดการที่เก็บ SharePoint แบบออนไลน์ของคุณ
 
-เรียนรู้วิธีการ[คำนวณที่เก็บผู้เช่า](https://docs.microsoft.com/office365/servicedescriptions/sharepoint-online-service-description/sharepoint-online-limits?redirectedfrom=MSDN#limits-by-plan)ตามแผนของคุณ
+เรียนรู้วิธี[คํานวณพื้นที่จัดเก็บของผู้เช่า](https://docs.microsoft.com/office365/servicedescriptions/sharepoint-online-service-description/sharepoint-online-limits?redirectedfrom=MSDN#limits-by-plan)ตามแผนของคุณ
 
-สำหรับองค์กรส่วนใหญ่จะมีการจัดการพื้นที่เก็บข้อมูล SharePoint โดยอัตโนมัติดังนั้นคุณจึงไม่จำเป็นต้องตั้งค่าขีดจำกัดต่อไซต์คอลเลกชัน
+สําหรับองค์กรส่วนใหญ่
 
-เรียนรู้วิธีการ[ดูพื้นที่เก็บข้อมูลทั้งหมดและที่มีอยู่สำหรับองค์กรของคุณ](https://docs.microsoft.com/sharepoint/manage-site-collection-storage-limits)
+เรียนรู้วิธี[ดูพื้นที่เก็บข้อมูลทั้งหมดและที่สามารถใช้ได้สําหรับองค์กรของคุณ](https://docs.microsoft.com/sharepoint/manage-site-collection-storage-limits)
 
-เรียนรู้วิธีการ[จัดการขีดจำกัดที่เก็บชุดเก็บรวบรวมไซต์แต่ละ](https://docs.microsoft.com/sharepoint/manage-site-collection-storage-limits#manage-individual-site-storage-limits)ตัว
+เรียนรู้วิธี[จัดการขีดจํากัดของที่เก็บไซต์คอลเลกชันแต่ละข้อ](https://docs.microsoft.com/sharepoint/manage-site-collection-storage-limits#manage-individual-site-storage-limits)
 
-ถ้าไซต์ของคุณไม่มีพื้นที่ว่างหรือคุณต้องการเรียนรู้ว่าไลบรารีหรือรายการใดใช้เนื้อที่ว่างให้ไปที่การ > **ตั้งค่าเว็บไซต์****เมตริกที่เก็บข้อมูล**(ต้องมีสิทธิ์ของผู้ดูแลชุดเก็บรวบรวมไซต์)
+ถ้าไซต์ของคุณไม่มีเนื้อที่หรือคุณต้องการเรียนรู้ว่าไลบรารีหรือรายการใดใช้พื้นที่ดังกล่าว ให้ไปที่**Site Settings**  >  **เมตริกที่เก็บการตั้งค่า**ไซต์ (จําเป็นต้องมีสิทธิ์ของผู้ดูแลไซต์คอลเลกชัน)
 
-เรียนรู้วิธีการ[ตรวจสอบขีดจำกัดของพื้นที่เก็บข้อมูลไซต์โดยใช้ PowerShell](https://docs.microsoft.com/sharepoint/manage-site-collection-storage-limits#monitor-site-storage-limits-by-using-powershell)
+เรียนรู้วิธีการ[ตรวจสอบขีดจํากัดการจัดเก็บไซต์โดยใช้ PowerShell](https://docs.microsoft.com/sharepoint/manage-site-collection-storage-limits#monitor-site-storage-limits-by-using-powershell)
 
-เรียนรู้วิธีการ[ซื้อพื้นที่จัดเก็บข้อมูลเพิ่มเติม](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-storage-space) 
+เรียนรู้วิธี[ซื้อพื้นที่เก็บข้อมูลเพิ่มเติม](https://docs.microsoft.com/microsoft-365/commerce/add-storage-space) 
   
