@@ -1,5 +1,5 @@
 ---
-title: ข้อมูลเกี่ยวกับการดําเนินคดีหรือระงับการระงับ
+title: ข้อมูลเกี่ยวกับการระงับคดีหรือในที่ถือ
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -9,24 +9,24 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 52484e19-9328-42f4-b675-7e0be9338a8b
-ms.openlocfilehash: 3ed8158c226d10926551514fa162f31ed7943464
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 63b28edc5d2eb7c8d904e004c06c5682768411a7
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43711038"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44508719"
 ---
 # <a name="about-litigation-holds-and-in-place-holds"></a>เกี่ยวกับการดําเนินคดีและการระงับในสถานที่
 
-- เมื่อต้องการใช้การหยุดการดําเนินคดีหรือการหยุดในตําแหน่งกับกล่องจดหมาย[Exchange Online Plan 2 license](https://docs.microsoft.com/office365/servicedescriptions/office-365-platform-service-description/office-365-plan-options) ถ้าคุณมีแผนอื่น ๆ กําหนดแยกต่างหาก Exchange[แบบออนไลน์เก็บถาวร](https://docs.microsoft.com/office365/servicedescriptions/exchange-online-archiving-service-description/exchange-online-archiving-service-description)สิทธิ์การใช้งานไปยังบัญชี 
+- เมื่อต้องการใช้การดําเนินคดีค้างหรือหยุดในสถานที่กล่องจดหมาย สิทธิ์การใช้งาน[Exchange Online Plan 2](https://docs.microsoft.com/office365/servicedescriptions/office-365-platform-service-description/office-365-plan-options)จําเป็น ถ้าคุณมีแผนอื่นใด ให้กําหนดสิทธิ์การใช้งาน Exchange[แบบออนไลน์ที่](https://docs.microsoft.com/office365/servicedescriptions/exchange-online-archiving-service-description/exchange-online-archiving-service-description)แยกต่างหากไปยังบัญชี 
     
-- **เมื่อต้องการเปิดใช้งานการระงับการดําเนินคดี**สําหรับผู้ใช้รายเดียว ให้ทําตามขั้นตอนที่อธิบาย[ที่นี่](https://docs.microsoft.com/office365/SecurityCompliance/place-a-mailbox-on-litigation-hold) เมื่อเปิดใช้งานการระงับการดําเนินคดี
+- **เมื่อต้องการเปิดใช้งานการระงับการดําเนินคดี**สําหรับผู้ใช้รายเดียว ให้ทําตามขั้นตอนที่อธิบายไว้[ที่นี่](https://docs.microsoft.com/office365/SecurityCompliance/place-a-mailbox-on-litigation-hold) เมื่อเปิดใช้งานการดําเนินคดีค้างไว้ เนื้อหาทั้งหมดในกล่องจดหมายจะถูกพักไว้
     
-- เมื่อต้องการใช้**การหยุดแบบแทนที่กับผู้ใช้รายเดียว**หรือการระงับกล่องจดหมาย**ทั้งหมดในทั้งองค์กร**[here](https://docs.microsoft.com/Office365/securitycompliance/retention-policies )
+- เมื่อต้องการใช้**การหยุดแบบแทนที่ผู้ใช้รายเดียว**หรือหยุดกล่องจดหมาย**ทั้งหมดในองค์กรทั้งหมด**[here]( https://docs.microsoft.com/microsoft-365/compliance/retention-policies)
     
     > [!NOTE]
-    > สําหรับนโยบายการเก็บรักษาทั่วทั้งองค์กร ระบบจะเพิ่มผู้ใช้ใหม่ในการระงับโดยอัตโนมัติ 
+    > สําหรับนโยบายการเก็บข้อมูลทั้งองค์กร ผู้ใช้ใหม่จะถูกเพิ่มโดยอัตโนมัติในการระงับ 
   
-- เมื่อต้องการดูหรือค้นพบเนื้อหาของกล่องจดหมายที่ถูกระงับ ให้ใช้**การค้นหา eDiscovery และ ส่งออก** สําหรับข้อมูลเกี่ยวกับการใช้**การค้นหา eDiscovery และการส่งออก**ให้ทําตามขั้นตอนที่อธิบาย[ที่นี่](https://docs.microsoft.com/office365/securitycompliance/export-search-results)
+- เมื่อต้องการดูหรือค้นพบเนื้อหาของกล่องจดหมายที่ถูกระงับไว้ ให้ใช้**การค้นหา eDiscovery และ ส่งออก** สําหรับข้อมูลเกี่ยวกับการใช้**การค้นหาและการส่งออกของ eDiscovery**ให้ทําตามขั้นตอนที่อธิบายไว้[ที่นี่](https://docs.microsoft.com/microsoft-365/compliance/export-search-results)
     
 

@@ -12,23 +12,23 @@ ms.custom:
 - "9000650"
 - "2489"
 ms.assetid: ''
-ms.openlocfilehash: d2b398bda3a2d1760b8380e0651caa2ed9883504
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: af100836a666a220d8fb77e9dc480993c71e3741
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43710390"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44508503"
 ---
 # <a name="advanced-threat-protection-atp-in-sharepoint-and-onedrive"></a>การป้องกันภัยคุกคามขั้นสูง (ATP) ใน SharePoint และ OneDrive
 
-ดูรายการต่อไปนี้:
-- [ATP สําหรับ SharePoint, OneDrive และทีม](https://docs.microsoft.com/office365/securitycompliance/atp-for-spo-odb-and-teams)
-- [ภัยคุกคามและการตรวจจับแบบเรียลไทม์](https://docs.microsoft.com/office365/securitycompliance/threat-explorer-views)
+ดูต่อไปนี้:
+- [ATP สําหรับ SharePoint, OneDrive และทีม](https://docs.microsoft.com/microsoft-365/security/office-365-security/atp-for-spo-odb-and-teams)
+- [การตรวจจับภัยคุกคามและการตรวจจับแบบเรียลไทม์](https://docs.microsoft.com/microsoft-365/security/office-365-security/threat-explorer-views)
 
 
 ข้อมูลเพิ่มเติม:
 
-- [การตรวจจับไวรัสใน SPO](https://docs.microsoft.com/office365/securitycompliance/virus-detection-in-spo)</br>
-- [การเข้ารหัสข้อมูลใน ODB และ SPO](https://docs.microsoft.com/office365/securitycompliance/data-encryption-in-odb-and-spo)</br>
+- [การตรวจหาไวรัสใน SPO](https://docs.microsoft.com/microsoft-365/security/office-365-security/virus-detection-in-spo)</br>
+- [การเข้ารหัสข้อมูลใน ODB และ SPO](https://docs.microsoft.com/microsoft-365/compliance/data-encryption-in-odb-and-spo)</br>
 - [การปกป้องข้อมูลของคุณใน SharePoint](https://docs.microsoft.com/sharepoint/safeguarding-your-data)</br>
-- [ตรวจหาแรนซัมแวร์และการกู้คืนไฟล์](https://support.office.com/article/Ransomware-detection-and-recovering-your-files-0d90ec50-6bfd-40f4-acc7-b8c12c73637f)
+- [การตรวจจับแรนซัมแวร์และการกู้คืนไฟล์](https://support.office.com/article/Ransomware-detection-and-recovering-your-files-0d90ec50-6bfd-40f4-acc7-b8c12c73637f)

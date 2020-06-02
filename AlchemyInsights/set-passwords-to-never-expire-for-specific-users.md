@@ -14,22 +14,22 @@ ms.custom:
 - "1100002"
 - "1100003"
 ms.assetid: 0ba5e44e-f0ae-4978-98a3-90065447af08
-ms.openlocfilehash: 03fd19c5758e591a1b791e3cfd081647c5584b6d
-ms.sourcegitcommit: 6bf1d945b4fd6a1fe37d00c5ea99adea7eef9910
+ms.openlocfilehash: 115e8d3cd5d7a98297963b43c4fb6fb39566bda7
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 04/21/2020
-ms.locfileid: "43646015"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44509439"
 ---
 # <a name="set-passwords-to-never-expire"></a>ตั้งรหัสผ่านให้ไม่มีวันหมดอายุ
 
-เมื่อต้องการตั้งค่ารหัสผ่านทั้งหมดให้ไม่มีวันหมดอายุ**Settings** > [&amp;](https://portal.office.com/adminportal/home#/settings/security) เลือก**แก้ไข**ถัดจาก**นโยบายรหัสผ่าน**แล้วหมุนแถบเลื่อนเป็น**เปิด**
+เมื่อต้องการตั้งค่ารหัสผ่านทั้งหมดให้ไม่มีวันหมดอายุ ในศูนย์การจัดการ Microsoft 365 ให้ไปที่หน้า**ความเป็นส่วนตัวของการตั้งค่า**  >  [ความปลอดภัย &amp; ](https://portal.office.com/adminportal/home#/settings/security) เลือก**แก้ไข**ถัดจาก**นโยบายรหัสผ่าน**แล้วหมุนแถบเลื่อนไปที่**เปิด**
   
-สําหรับรายละเอียดเพิ่มเติมดู: 
+สําหรับข้อมูลเพิ่มเติม โปรดดู: 
 
-- [ตั้งค่านโยบายการหมดอายุของรหัสผ่านสําหรับองค์กรของคุณ](https://docs.microsoft.com/office365/admin/manage/set-password-expiration-policy)
+- [ตั้งค่านโยบายการหมดอายุของรหัสผ่านสําหรับองค์กรของคุณ](https://docs.microsoft.com/microsoft-365/admin/manage/set-password-expiration-policy)
   
-- [ตั้งรหัสผ่านให้ไม่มีวันหมดอายุสําหรับผู้ใช้ที่ระบุ](https://docs.microsoft.com/office365/admin/add-users/set-password-to-never-expire)
+- [ตั้งรหัสผ่านเพื่อไม่หมดอายุสําหรับผู้ใช้ที่ระบุ](https://docs.microsoft.com/microsoft-365/admin/add-users/set-password-to-never-expire)
 
-- [รหัสผ่านต้องเป็นไปตามข้อกําหนดด้านความซับซ้อน](https://docs.microsoft.com/windows/security/threat-protection/security-policy-settings/password-must-meet-complexity-requirements)
+- [รหัสผ่านต้องเป็นไปตามข้อกําหนดความซับซ้อน](https://docs.microsoft.com/windows/security/threat-protection/security-policy-settings/password-must-meet-complexity-requirements)
   

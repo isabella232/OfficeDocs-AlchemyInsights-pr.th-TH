@@ -1,5 +1,5 @@
 ---
-title: การยกเลิกการสมัครใช้งาน Microsoft 365 ของคุณใช่หรือไม่
+title: การยกเลิกการสมัครใช้งาน Microsoft 365 ของคุณหรือไม่
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -13,17 +13,17 @@ ms.custom:
 - "53"
 - "1400001"
 ms.assetid: 09e255ce-ccf9-4804-91e7-c15590c3727b
-ms.openlocfilehash: f2525550ada33d33dddc391cb87080ba9af4a37b
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: a8443f0cdab72d8760ae72e9d20dd3f49870f585
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43711506"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44508251"
 ---
-# <a name="canceling-your-microsoft-365-subscription"></a>การยกเลิกการสมัครใช้งาน Microsoft 365 ของคุณใช่หรือไม่
+# <a name="canceling-your-microsoft-365-subscription"></a>การยกเลิกการสมัครใช้งาน Microsoft 365 ของคุณหรือไม่
 
-เราขออภัยที่เห็นคุณไป แต่ตัวเลือกต่อไปนี้เพื่อยกเลิกการสมัครของคุณ:
+เราเสียใจที่เห็นคุณไป แต่ตัวเลือกของคุณในการยกเลิกการสมัครของคุณมีดังนี้
   
-- **เราเชื่อว่าการสมัครรับข้อมูลปัจจุบันทั้งหมดของคุณคือการสมัครสมาชิกแบบทดลองใช้ ไม่จําเป็นต้องยกเลิกการสมัครใช้งานรุ่นทดลองใช้อย่างชัดเจนเนื่องจากการสมัครใช้งานรุ่นทดลองใช้ไม่จําเป็นต้องมีการชําระเงิน และไม่มีข้อผูกมัดหลังจากสิ้นสุดการทดลอง**
+- **เราเชื่อในการสมัครใช้งานปัจจุบันทั้งหมดของคุณ ไม่จําเป็นต้องยกเลิกการสมัครทดลองใช้เนื่องจากการสมัครทดลองใช้ไม่จําเป็นต้องชําระเงินและไม่มีภาระผูกพันหลังจากการทดลองสิ้นสุดลง**
 
-- เมื่อต้องการเรียนรู้เพิ่มเติมเกี่ยวกับการยกเลิกการสมัครใช้งาน หรือคําแนะนําทีละขั้นตอน ให้ดูที่ บทความนี้:[ยกเลิกการสมัครใช้งานของคุณ](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/cancel-your-subscription)
+- เมื่อต้องการเรียนรู้เพิ่มเติมเกี่ยวกับการยกเลิกการสมัครใช้งาน หรือสําหรับคําแนะนําทีละขั้นตอน ให้ดูบทความนี้:[ยกเลิกการสมัครใช้งานของคุณ](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription)

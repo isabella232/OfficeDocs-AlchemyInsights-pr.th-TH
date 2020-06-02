@@ -1,5 +1,5 @@
 ---
-title: เปลี่ยนที่อยู่อีเมลสํารองสําหรับการแจ้งการเรียกเก็บเงิน
+title: เปลี่ยนที่อยู่อีเมลสํารองสําหรับการแจ้งเตือนการเรียกเก็บเงิน
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -13,24 +13,24 @@ ms.custom:
 - "64"
 - "1200012"
 ms.assetid: efa5316c-42c7-461c-b2ab-53d23e0a6d22
-ms.openlocfilehash: 63cdc58d6c0474c66295cc5c4547dd04b0f50ad7
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 5ee6de184726a5aab29004a901f0aa13c1657392
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43706544"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44508071"
 ---
-# <a name="change-the-alternate-email-address-for-billing-notification"></a>เปลี่ยนที่อยู่อีเมลสํารองสําหรับการแจ้งการเรียกเก็บเงิน
+# <a name="change-the-alternate-email-address-for-billing-notification"></a>เปลี่ยนที่อยู่อีเมลสํารองสําหรับการแจ้งเตือนการเรียกเก็บเงิน
 
-การเปลี่ยนที่อยู่อีเมลสํารองสําหรับการแจ้งเตือนการเรียกเก็บเงินเป็นเรื่องง่าย เพียงทําตามขั้นตอนเหล่านี้:
+การเปลี่ยนที่อยู่อีเมลสํารองสําหรับการแจ้งเตือนการเรียกเก็บเงินเป็นเรื่องง่าย เพียงทําตามขั้นตอนต่อไปนี้:
   
-1. ในศูนย์การจัดการ Microsoft 365 ให้ไปที่**Billing**\>หน้า[การแจ้งเตือนการเรียกเก็บเงิน](https://go.microsoft.com/fwlink/p/?linkid=853212)  
+1. ในศูนย์การจัดการ Microsoft 365 ให้ไปที่หน้า**Billing** \> [การแจ้งเตือนการเรียกเก็บเงิน](https://go.microsoft.com/fwlink/p/?linkid=853212)  
 
 2. เลือกชื่อจากรายการ
 
-3. ในกล่อง**ที่อยู่อีเมลสํารอง**ให้พิมพ์ที่อยู่อีเมลสํารอง
+3. ในกล่อง**ที่อยู่อีเมลสํารอง**ให้พิมพ์ที่อยู่อีเมลอื่น
 
 4. เลือก**บันทึก**และคุณทําเสร็จแล้ว!
 
-สําหรับรายละเอียดเพิ่มเติมและขั้นตอนที่มีภาพหน้าจอ ให้ดูที่[การเปลี่ยนที่อยู่สําหรับการเรียกเก็บเงินของคุณ](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/change-your-billing-addresses)
+สําหรับรายละเอียดและขั้นตอนเพิ่มเติมที่มีภาพหน้าจอ ให้ดูที่[การเปลี่ยนที่อยู่สําหรับการเรียกเก็บเงินของคุณ](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/change-your-billing-addresses)
   

@@ -1,5 +1,5 @@
 ---
-title: ๓๐๕เพิ่มขนาดกล่องจดหมายเก็บถาวร
+title: 305เพิ่มขนาดกล่องจดหมายเก็บถาวร
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -9,23 +9,23 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 305
 ms.assetid: ''
-ms.openlocfilehash: a8c16d97040e9396d6cf9bd4a5da671a7da88e13
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: f80b2a10ebc17cd98ed1d29b0e6ba3ca01eb1d62
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "36661819"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44508827"
 ---
 # <a name="increase-the-archive-mailbox-size"></a>เพิ่มขนาดกล่องจดหมายเก็บถาวร
 
-Office ๓๖๕[จำกัด](https://docs.microsoft.com/office365/servicedescriptions/exchange-online-service-description/exchange-online-limits#mailbox-storage-limits)ขนาดของกล่องจดหมายเก็บถาวรตามใบอนุญาตที่กำหนดให้กับบัญชีผู้ใช้ เมื่อกล่องจดหมายเก็บถาวรถึง๙๐% ของขนาดที่อนุญาตผู้ใช้ได้รับการแจ้งเตือนทางเมล เมื่อกล่องจดหมายเก็บถาวรถึงขีดจำกัดขนาดผู้ใช้ไม่สามารถย้ายรายการเพิ่มเติมไปยังกล่องจดหมายเก็บถาวร Office ๓๖๕จะไม่เพิ่มขนาดของกล่องจดหมายเก็บถาวรเมื่อถึงขีดจำกัดขนาด แต่ผู้ใช้สามารถทำการดำเนินการต่อไปนี้เพื่อเพิ่มเนื้อที่ว่างในกล่องจดหมายเก็บถาวร:
+Microsoft 365[จํากัด](https://docs.microsoft.com/office365/servicedescriptions/exchange-online-service-description/exchange-online-limits#mailbox-storage-limits)ขนาดของกล่องจดหมายเก็บถาวรตามสิทธิ์การใช้งานที่กําหนดให้กับบัญชีผู้ใช้ เมื่อกล่องจดหมายเก็บถาวรถึง 90% ของขนาดที่ได้รับอนุญาต เมื่อกล่องจดหมายเก็บถาวรถึงขนาดจํากัดผู้ใช้ไม่สามารถย้ายรายการเพิ่มเติมไปยังกล่องจดหมายเก็บถาวร Microsoft 365 จะไม่เพิ่มขนาดของกล่องจดหมายเก็บถาวรเมื่อถึงขีดจํากัดขนาด ผู้ใช้สามารถดําเนินการต่อไปนี้เพื่อเพิ่มพื้นที่ว่างในกล่องจดหมายเก็บถาวรแทน:
 
-- ส่งออกรายการไปยังแฟ้ม. pst โดยใช้ Outlook
+- ส่งออกรายการไปยังแฟ้ม .pst โดยใช้ Outlook
 
 - ลบรายการออกจากกล่องจดหมายเก็บถาวร
 
-Office ๓๖๕มีการ**เก็บถาวรแบบไม่จำกัด**สำหรับ Office ๓๖๕องค์กร E3 และสิทธิ์การใช้งาน E5 ผู้ดูแลต้องเปิดใช้งานคุณลักษณะนี้ก่อนกล่องจดหมายเก็บถาวรถึงขนาดสูงสุด เมื่อเปิดใช้งานการเก็บถาวรแบบไม่จำกัดอาจใช้เวลาถึง30วันก่อนที่เนื้อที่ว่างจะถูกเพิ่มลงในกล่องจดหมายเก็บถาวร ดังนั้นเราขอแนะนำให้ผู้ดูแลระบบตรวจสอบพื้นที่ว่างในกล่องจดหมายเก็บถาวรซึ่งช่วยให้ผู้ใช้สามารถดำเนินการต่อโดยใช้กล่องจดหมายเก็บถาวรในขณะที่จะขยาย สำหรับข้อมูลเพิ่มเติมให้ดู[ภาพรวมของการเก็บถาวรแบบไม่จำกัดใน office ๓๖๕](https://docs.microsoft.com/office365/securitycompliance/unlimited-archiving)และ[เปิดใช้งานการเก็บถาวรแบบไม่จำกัดใน office ๓๖๕](https://docs.microsoft.com/office365/securitycompliance/enable-unlimited-archiving)
+Microsoft 365 ให้**ไม่จํากัดเก็บ**สําหรับ Office 365 E3 องค์กร E3 และ E5 สิทธิ์การใช้งาน ผู้ดูแลต้องเปิดใช้งานคุณลักษณะนี้ก่อนที่กล่องจดหมายเก็บถาวรถึงขนาดสูงสุด เมื่อเปิดใช้งานการเก็บถาวรแบบไม่จํากัด อาจใช้เวลาถึง 30 วันก่อนที่การเพิ่มเนื้อที่ว่างลงในกล่องจดหมายเก็บถาวร ดังนั้น เราขอแนะนําให้ผู้ดูแลระบบตรวจสอบพื้นที่ว่างในกล่องจดหมายเก็บถาวร ซึ่งช่วยให้ผู้ใช้สามารถใช้กล่องจดหมายเก็บถาวรต่อไปในขณะที่ขยาย สําหรับข้อมูลเพิ่มเติม ให้ดูที่[ภาพรวมของการเก็บถาวรแบบไม่จํากัดใน Microsoft 365](https://docs.microsoft.com/microsoft-365/compliance/unlimited-archiving)และ[เปิดใช้งานการเก็บถาวรแบบไม่จํากัดใน Microsoft 365](https://docs.microsoft.com/microsoft-365/compliance/enable-unlimited-archiving)
 
-สำหรับข้อมูลเพิ่มเติมเกี่ยวกับการเข้าถึงกล่องจดหมายเก็บถาวรจาก Outlook ดู[ความต้องการของ outlook สำหรับการเข้าถึงรายการในที่เก็บถาวรแบบขยายโดยอัตโนมัติ](https://docs.microsoft.com/office365/securitycompliance/unlimited-archiving#outlook-requirements-for-accessing-items-in-an-auto-expanded-archive) ในการกำหนดค่านโยบายการเก็บข้อมูลที่ย้ายรายการไปยังกล่องจดหมายเก็บถาวรโดยอัตโนมัติให้ดูที่[ตั้งค่านโยบายการเก็บถาวรและการลบสำหรับกล่องจดหมายในองค์กร๓๖๕ของคุณ](https://docs.microsoft.com/office365/securitycompliance/set-up-an-archive-and-deletion-policy-for-mailboxes)
+สําหรับข้อมูลเพิ่มเติมเกี่ยวกับการเข้าถึงกล่องจดหมายเก็บถาวรจาก Outlook ให้ดูที่[ข้อกําหนดของ Outlook สําหรับการเข้าถึงรายการในที่เก็บถาวรที่ขยายอัตโนมัติ](https://docs.microsoft.com/microsoft-365/compliance/unlimited-archiving#outlook-requirements-for-accessing-items-in-an-auto-expanded-archive) เมื่อต้องการกําหนดค่านโยบายการเก็บข้อมูลที่ย้ายรายการไปยังกล่องจดหมายเก็บถาวรโดยอัตโนมัติ ให้ดูที่[การตั้งค่านโยบายการเก็บถาวรและการลบสําหรับกล่องจดหมายในองค์กรของคุณ Microsoft 365](https://docs.microsoft.com/microsoft-365/compliance/set-up-an-archive-and-deletion-policy-for-mailboxes)
 
-**หมายเหตุ**: การขยายอัตโนมัติที่เก็บถาวรไม่ได้รับการสนับสนุนสำหรับกล่องจดหมายหลักบน Exchange ๒๐๑๐
+**หมายเหตุ**: เก็บถาวรที่ขยายอัตโนมัติไม่ได้รับการสนับสนุนสําหรับกล่องจดหมายหลักบน Exchange 2010

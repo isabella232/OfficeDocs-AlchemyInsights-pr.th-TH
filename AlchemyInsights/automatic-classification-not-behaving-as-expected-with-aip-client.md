@@ -11,18 +11,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002266"
 - "4373"
-ms.openlocfilehash: 95a994d6a49ee8737a6ebcb196314f92776d8482
-ms.sourcegitcommit: 2afad0b107d03cd8c4de0b85b5bee38a13a7960d
+ms.openlocfilehash: 22eeb6ba32e4e943efa2495a477ff394f3c135db
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 05/26/2020
-ms.locfileid: "44493438"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44508395"
 ---
 # <a name="automatic-classification-not-behaving-as-expected-with-the-aip-client"></a>การจัดประเภทอัตโนมัติไม่ทําตามที่คาดไว้กับไคลเอนต์ AIP
 
 การจัดประเภทอัตโนมัติไม่ปฏิบัติตามที่คาดไว้ให้ใช้แนวทางที่แนะนําต่อไปนี้:
 
-1. ถ้าคุณมีปัญหากับการติดฉลากอัตโนมัติ ให้ดูที่[วิธีกําหนดค่าเงื่อนไขสําหรับการจัดประเภทอัตโนมัติและแนะนําสําหรับการป้องกันข้อมูล Azure](https://docs.microsoft.com/azure/information-protection/configure-policy-classification)และ[ชนิดของข้อมูลที่ละเอียดอ่อนจะมีลักษณะ](https://docs.microsoft.com/office365/securitycompliance/what-the-sensitive-information-types-look-for)อย่างไร
+1. ถ้าคุณมีปัญหากับการติดฉลากอัตโนมัติ ให้ดูที่[วิธีกําหนดค่าเงื่อนไขสําหรับการจัดประเภทอัตโนมัติและแนะนําสําหรับการป้องกันข้อมูล Azure](https://docs.microsoft.com/azure/information-protection/configure-policy-classification)และ[ชนิดของข้อมูลที่ละเอียดอ่อนจะมีลักษณะ](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions)อย่างไร
 2. ตรวจสอบว่า คุณกําลังใช้นโยบายขอบเขตที่ไม่ได้ถูกกําหนดค่าอย่างถูกต้อง:[วิธีการตั้งค่าคอนฟิกนโยบายการป้องกันข้อมูล Azure สําหรับผู้ใช้เฉพาะ โดยใช้นโยบายขอบเขต](https://docs.microsoft.com/azure/information-protection/configure-policy-scope)
 3. ถ้าการติดฉลากอัตโนมัติไม่ทํางานสําหรับ Outlook เมื่อแนบเอกสารที่มีป้ายชื่อ ให้ตรวจสอบว่า `DRMEncryptProperty` ไม่ได้กําหนดเป็นอธิบายไว้ที่นี่:[การตั้งค่ารีจิสทรี IRM สําหรับการรักษาความปลอดภัย](https://docs.microsoft.com/deployoffice/security/protect-sensitive-messages-and-documents-by-using-irm-in-office#office-2016-irm-registry-key-options)
 4. ถ้าคุณใช้[ชนิดข้อมูลที่มีอยู่แล้วภายใน](https://support.office.com/article/What-the-sensitive-information-types-look-for-fd505979-76be-4d9f-b459-abef3fc9e86b)สําหรับนโยบายการป้องกันข้อมูล Azure ของคุณ ให้ตรวจสอบว่าเนื้อหาของคุณตรงกับรูปแบบที่คาดไว้หรือไม่
