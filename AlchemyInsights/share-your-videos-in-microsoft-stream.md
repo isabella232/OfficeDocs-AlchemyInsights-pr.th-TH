@@ -1,5 +1,5 @@
 ---
-title: แบ่งปันวิดีโอของคุณในกระแสข้อมูล Microsoft
+title: แบ่งปันวิดีโอของคุณในสตรีมของ Microsoft
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -12,16 +12,16 @@ ms.custom:
 - "9001694"
 - "3772"
 ms.openlocfilehash: 0fdfee4e6675a12921dc7309a76cb9cb8e0cc292
-ms.sourcegitcommit: a98b25fa3cac9ebba983f4932881d774880aca93
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 05/13/2020
+ms.lasthandoff: 06/02/2020
 ms.locfileid: "44015780"
 ---
-# <a name="share-your-videos-in-microsoft-stream"></a>แบ่งปันวิดีโอของคุณในกระแสข้อมูล Microsoft
+# <a name="share-your-videos-in-microsoft-stream"></a>แบ่งปันวิดีโอของคุณในสตรีมของ Microsoft
 
-คุณอาจต้องการแบ่งปันวิดีโอใน Microsoft Stream กับผู้ที่ไม่สามารถเข้าถึงได้ มีหลายวิธีในการแชร์วิดีโอของคุณ:
+คุณอาจต้องการแชร์วิดีโอใน Microsoft Stream กับผู้ที่ไม่สามารถเข้าถึงได้ มีหลายวิธีในการแชร์วิดีโอของคุณ:
 
-- [แบ่งปันวิดีโอของคุณในกระแสข้อมูล Microsoft](https://docs.microsoft.com/stream/portal-share-video)
+- [แบ่งปันวิดีโอของคุณในสตรีมของ Microsoft](https://docs.microsoft.com/stream/portal-share-video)
 
 - [สิทธิ์ในวิดีโอของคุณ](https://docs.microsoft.com/stream/portal-share-video#permissions-on-your-video)

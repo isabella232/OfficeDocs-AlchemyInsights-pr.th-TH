@@ -12,18 +12,18 @@ ms.custom:
 - "9002632"
 - "5054"
 ms.openlocfilehash: d3a3e6c89f326e6348ff9e46710975ee2a373056
-ms.sourcegitcommit: a98b25fa3cac9ebba983f4932881d774880aca93
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 05/13/2020
+ms.lasthandoff: 06/02/2020
 ms.locfileid: "44062375"
 ---
 # <a name="microsoft-365-learning-pathways"></a>เส้นทางการเรียนรู้ของ Microsoft 365
 
-[เส้นทางการเรียนรู้ของ Microsoft 365](https://docs.microsoft.com/office365/customlearning/)เป็นโครงการโอเพ่นซอร์สที่ออกแบบมาเพื่อเพิ่มการใช้งานและการนําบริการของ Microsoft 365 ในองค์กรของคุณมาใช้
+[เส้นทางการเรียนรู้ Microsoft 365](https://docs.microsoft.com/office365/customlearning/)เป็นโครงการโอเพนซอร์สที่ออกแบบมาเพื่อเพิ่มการใช้งานและการนําบริการ Microsoft 365 มาใช้ในองค์กรของคุณ
 
-- คุณจะต้องลงชื่อสมัครใช้[บัญชี GitHub](https://aka.ms/joingithub)เพื่อใช้โซลูชันนี้
-- โครงการได้รับการสนับสนุนผ่าน[GitHub ออนไลน์รายการปัญหา](https://aka.ms/CustomLearningHelp)
-- ทบทวน[คําถามที่พบบ่อยเกี่ยวกับเส้นทางการเรียนรู้](https://docs.microsoft.com/office365/customlearning/faq)- จัดทําเอกสารปัญหายอดนิยมและอัปเดตบ่อยตามคําติชม
+- คุณจะต้องลงชื่อสมัครใช้[บัญชี GitHub](https://aka.ms/joingithub)เพื่อใช้โซลูชัน
+- โครงการได้รับการสนับสนุนผ่าน[รายการปัญหาออนไลน์](https://aka.ms/CustomLearningHelp)GitHub
+- ตรวจสอบ[เส้นทางการเรียนรู้คําถามที่พบบ่อย](https://docs.microsoft.com/office365/customlearning/faq)- เอกสารประเด็นด้านบนและปรับปรุงบ่อยออกความคิดเห็น
 
-**หมายเหตุ**: โซลูชันเส้นทางการเรียนรู้และส่วนประกอบของ Microsoft**จะไม่**ครอบคลุม
+**หมายเหตุ**: โซลูชันทางเดินการเรียนรู้และส่วนประกอบ**ของมันไม่ได้**ครอบคลุมโดยสัญญาสนับสนุนของ Microsoft

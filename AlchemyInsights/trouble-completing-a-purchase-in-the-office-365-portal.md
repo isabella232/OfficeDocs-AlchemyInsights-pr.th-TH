@@ -14,12 +14,12 @@ ms.custom:
 - "1500029"
 ms.assetid: 1df85825-1276-4ef9-af24-0907895b25a7
 ms.openlocfilehash: 7f21e53acd48dceeff974d913ff10aa4487f137d
-ms.sourcegitcommit: a98b25fa3cac9ebba983f4932881d774880aca93
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 05/13/2020
+ms.lasthandoff: 06/02/2020
 ms.locfileid: "43759855"
 ---
 # <a name="trouble-completing-a-purchase-in-the-microsoft-365-admin-center"></a>ปัญหาในการซื้อในศูนย์การจัดการ Microsoft 365
 
-เมื่อพยายามซื้อ ถ้าคุณได้รับพร้อมท์หลายครั้งให้ลงชื่อเข้าใช้ศูนย์การจัดการ Microsoft 365 หรือคุณได้รับข้อความว่าพบปัญหา หลังจากเปิดหน้าต่าง inprivate/incognito แล้วไปที่ไซต์[admin.microsoft.com](https://admin.microsoft.com)และเข้าสู่ระบบด้วยข้อมูลประจําตัวของผู้ดูแลระบบของคุณ จากนั้นดําเนินการสั่งซื้อของคุณ
+เมื่อพยายามทําการซื้อ หลังจากเปิดหน้าต่าง inprivate/ ไม่ระบุตัวตนให้ไปที่ไซต์[admin.microsoft.com](https://admin.microsoft.com)และเข้าสู่ระบบด้วยข้อมูลประจําตัวของผู้ดูแลระบบ จากนั้นดําเนินการเพื่อเสร็จสิ้นการซื้อของคุณ

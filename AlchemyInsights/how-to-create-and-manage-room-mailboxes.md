@@ -1,5 +1,5 @@
 ---
-title: ๖๑๔วิธีการสร้างและจัดการกล่องจดหมายของห้อง
+title: 614วิธีการสร้าง และจัดการกล่องจดหมายของห้อง
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -14,15 +14,15 @@ ms.custom:
 - "3500013"
 - "3800012"
 ms.assetid: 3f439b79-7eda-4dd7-857e-ce0a10130c88
-ms.openlocfilehash: aaa7203c4879b65ec551374a911878556e44ed9a
-ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
+ms.openlocfilehash: fb0bdea1d1e2bace748971706ac119976ec9bf69
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 09/04/2019
-ms.locfileid: "36735624"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44495790"
 ---
-# <a name="how-to-create-and-manage-room-mailboxes"></a>วิธีการสร้างและจัดการกล่องจดหมายของห้อง
+# <a name="how-to-create-and-manage-room-mailboxes"></a>วิธีการสร้าง และจัดการกล่องจดหมายของห้อง
 
-ในการสร้างและปรับเปลี่ยนกล่องจดหมายของห้องโปรดดูที่การ[สร้างและจัดการกล่องจดหมายของห้อง](https://technet.microsoft.com/library/jj215781.aspx)
+เมื่อต้องการสร้างและปรับเปลี่ยนกล่องจดหมายของห้อง ให้ดูที่[สร้างและจัดการกล่องจดหมายในห้อง](https://technet.microsoft.com/library/jj215781.aspx)
 
-เมื่อต้องการเรียนรู้เพิ่มเติมเกี่ยวกับกล่องจดหมายของห้องและอุปกรณ์ (หรือที่เรียกว่ากล่องจดหมายของทรัพยากร) ให้ดูที่[กล่องจดหมายของห้องและอุปกรณ์](https://docs.microsoft.com/office365/admin/manage/room-and-equipment-mailboxes)
+เมื่อต้องการเรียนรู้เพิ่มเติมเกี่ยวกับกล่องจดหมายของห้องและอุปกรณ์ (หรือที่เรียกว่ากล่องจดหมายของทรัพยากร) ให้ดูที่[กล่องจดหมายของห้องและอุปกรณ์](https://docs.microsoft.com/microsoft-365/admin/manage/room-and-equipment-mailboxes)

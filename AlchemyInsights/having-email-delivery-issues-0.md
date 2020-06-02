@@ -1,5 +1,5 @@
 ---
-title: มีปัญหาในการส่งอีเมล์ใช่ไหม
+title: มีปัญหาในการนําส่งอีเมลหรือไม่
 ms.author: v-crytho
 author: CrystalThomasMS
 ms.date: 04/21/2020
@@ -13,21 +13,21 @@ ms.custom:
 - "875"
 - "876"
 - "3100010"
-ms.openlocfilehash: 1737c1f78da348cb09cbdd1ff110b0b766fcd505
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: e95d25ad0d5d0c839692b1335173e8835d58bbc2
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43710282"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44499170"
 ---
-# <a name="having-email-delivery-issues"></a>มีปัญหาในการส่งอีเมล์ใช่ไหม
+# <a name="having-email-delivery-issues"></a>มีปัญหาในการนําส่งอีเมลหรือไม่
 
-เราได้ตรวจพบว่าผู้ใช้ของคุณไม่สามารถรับอีเมลที่ส่งไปยังโดเมนต่อไปนี้:
+เราตรวจพบว่าผู้ใช้ของคุณจะไม่สามารถรับอีเมลที่ส่งไปยังโดเมนต่อไปนี้ได้:
   
-{สตริงการตรวจสอบสุขภาพ}
+{สตริงเช็คค่าความสมบูรณ์}
   
-ระเบียน NS หรือ MX ของการตั้งค่าโดเมน (DNS) ไม่ได้กําหนดค่าอย่างถูกต้องสําหรับการจัดส่งอีเมลไปยัง Microsoft ของคุณ คุณสามารถดู[ที่ สร้างระเบียน DNS ที่ผู้ให้บริการโฮสต์ DNS สําหรับ](https://docs.microsoft.com/office365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider)คําแนะนําโดยละเอียด
+ระเบียน NS หรือ MX ของการตั้งค่าโดเมน (DNS) ไม่ได้รับการกําหนดค่าอย่างถูกต้องสําหรับการจัดส่งอีเมลไปยัง Microsoft ของคุณ คุณสามารถอ้างอิงถึง[สร้างระเบียน DNS ได้ที่ผู้ให้บริการโฮสต์ DNS สําหรับ](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider)คําแนะนําโดยละเอียด
   
-หากต้องการแก้ไข โปรดไปที่หน้า[โดเมน](https://admin.microsoft.com/adminportal/home#/Domains)ในศูนย์การจัดการ Microsoft 365 และเราจะช่วยคุณแก้ไขปัญหา
+หากต้องการแก้ไข โปรดไปที่หน้า[โดเมน](https://admin.microsoft.com/adminportal/home#/Domains)ในศูนย์การจัดการ Microsoft 365 และเราจะช่วยคุณได้
   
   

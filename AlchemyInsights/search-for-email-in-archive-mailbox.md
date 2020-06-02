@@ -1,5 +1,5 @@
 ---
-title: ค้นหาอีเมลในกล่องจดหมายเก็บถาวร
+title: ค้นหาอีเมลในกล่องจดหมายการเก็บถาวร
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -12,16 +12,16 @@ ms.custom:
 - "1055"
 - "3100008"
 ms.assetid: 7eda49d0-5b6e-4dba-a89e-1150b835a353
-ms.openlocfilehash: b6b829713cefd3c8b4bfe610e560469e6c646f59
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 43c3bdae297ec475e951e53d399377f2f3ea133c
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43709282"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44495610"
 ---
-# <a name="search-for-email-in-the-archive-mailbox"></a>ค้นหาอีเมลในกล่องจดหมายเก็บถาวร
+# <a name="search-for-email-in-the-archive-mailbox"></a>ค้นหาอีเมลในกล่องจดหมายการเก็บถาวร
 
-เมื่อกล่องจดหมายการเก็บถาวรถูกเปิดใช้งานสําหรับ Microsoft 365 คุณสามารถใช้**การค้นหา eDiscovery และส่งออก**เพื่อค้นหาเนื้อหาในกล่องจดหมายหลักและเก็บถาวร สําหรับข้อมูลเกี่ยวกับการใช้**การส่งออกการค้นหา eDiscovery**เพื่อค้นหาเนื้อหานั้น ให้ทําตามขั้นตอนที่อธิบาย[ที่นี่](https://docs.microsoft.com/office365/securitycompliance/export-search-results)
+เมื่อกล่องจดหมายเก็บถาวรถูกเปิดใช้งานสําหรับ Microsoft 365 คุณสามารถใช้การค้นหา**eDiscovery และส่งออก**เพื่อค้นหาเนื้อหาในกล่องจดหมายหลักและการเก็บถาวร สําหรับข้อมูลเกี่ยวกับการใช้**การส่งออกการค้นหา eDiscovery**เพื่อค้นหาเนื้อหานั้น ให้ทําตามขั้นตอนที่อธิบายไว้[ที่นี่](https://docs.microsoft.com/microsoft-365/compliance/export-search-results)
   
-คุณยังสามารถรักษาเนื้อหานั้นโดยการเพิ่มกล่องจดหมายในนโยบายการเก็บข้อมูล การดําเนินการนี้จะวางเนื้อหาไว้ในกล่องจดหมายหลักและกล่องจดหมายเก็บถาวรที่หยุดไว้ สําหรับข้อมูลเพิ่มเติมเกี่ยวกับการสร้างนโยบายการเก็บข้อมูลเพื่อเก็บอีเมล ให้ดูขั้นตอนที่อธิบาย[ที่นี่](https://docs.microsoft.com/Office365/securitycompliance/retention-policies)
+คุณยังสามารถรักษาเนื้อหานั้นไว้ได้ด้วยการเพิ่มกล่องจดหมายลงในนโยบายการเก็บข้อมูล ซึ่งจะวางเนื้อหาในกล่องจดหมายหลักและเก็บถาวรในการหยุด สําหรับข้อมูลเพิ่มเติมเกี่ยวกับการสร้างนโยบายการเก็บข้อมูลเพื่อรักษาอีเมล โปรดดูขั้นตอนที่ระบุไว้[ที่นี่](https://docs.microsoft.com/microsoft-365/compliance/retention-policies)
   

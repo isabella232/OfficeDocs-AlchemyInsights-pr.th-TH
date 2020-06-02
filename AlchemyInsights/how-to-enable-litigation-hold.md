@@ -1,5 +1,5 @@
 ---
-title: 976-วิธีการ-เปิดใช้งานการดําเนินคดีถือ
+title: 976 วิธีเปิดใช้งานการดําเนินคดี-ถือ
 ms.author: markjjo
 author: markjjo
 manager: lauraw
@@ -13,17 +13,17 @@ ms.custom:
 - "976"
 - "3100023"
 ms.assetid: ''
-ms.openlocfilehash: 688b5dd936b22ccfc2f556776a0362d179c37edf
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: fe21746110ed2cb99fb13563c84c966e277fc70c
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43720751"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44495835"
 ---
-# <a name="place-a-mailbox-on-legal-hold"></a>ระงับกล่องจดหมายไว้ตามกฎหมาย
+# <a name="place-a-mailbox-on-legal-hold"></a>วางกล่องจดหมายไว้ก่อน
 
-- เมื่อต้องการทํากล่องจดหมายในการดําเนินคดีค้างหรือวางพัก การแลกเปลี่ยนแบบออนไลน์แผน 2 สิทธิ์การใช้งาน Exchange[แบบออนไลน์แผน](https://docs.microsoft.com/office365/servicedescriptions/office-365-platform-service-description/office-365-plan-options)2 สิทธิ์การใช้งานสิทธิ์การใช้งานสิทธิ์การใช้งานสิทธิ์การใช้งาน Exchange 2 จําเป็น ถ้ากล่องจดหมายถูกกําหนดสิทธิ์การใช้งานแผน 1 คุณสามารถกําหนดแยกต่างหาก Exchange แบบออนไลน์เก็บถาวรสิทธิ์การใช้งาน[Exchange แบบออนไลน์เก็บถาวรสิทธิ์การใช้งาน Add-on](https://docs.microsoft.com/office365/servicedescriptions/exchange-online-archiving-service-description)
+- เมื่อต้องการวางกล่องจดหมายในการดําเนินคดีค้างไว้หรือในสถานที่หยุด[Exchange Online Plan 2 license](https://docs.microsoft.com/office365/servicedescriptions/office-365-platform-service-description/office-365-plan-options) ถ้ากล่องจดหมายถูกกําหนดสิทธิ์การใช้งาน Plan 1 คุณสามารถกําหนดสิทธิ์การใช้งาน Exchange แบบออนไลน์เก็บถาวรแยกต่างหาก[Exchange Online Archiving add-on license](https://docs.microsoft.com/office365/servicedescriptions/exchange-online-archiving-service-description)
 
-- เมื่อต้องการเปิดใช้งานการดําเนินคดีค้างสําหรับผู้ใช้เดียว[ให้ทําตามขั้นตอนเหล่านี้](https://docs.microsoft.com/office365/securitycompliance/create-a-litigation-hold) เมื่อเปิดใช้งานการดําเนินคดี Hold เนื้อหาทั้งหมดในกล่องจดหมายถูกรักษาไว้
+- เมื่อต้องการเปิดใช้งานการดําเนินคดีค้างไว้สําหรับผู้ใช้รายเดียว[ให้ทําตามขั้นตอนเหล่านี้](https://docs.microsoft.com/microsoft-365/compliance/create-a-litigation-hold) เมื่อเปิดใช้งานการดําเนินคดีค้างไว้ เนื้อหาทั้งหมดในกล่องจดหมายถูกรักษาไว้
 
-- เมื่อต้องการเก็บเนื้อหาไว้ในกล่องจดหมายทั้งหมดในองค์กรของคุณ[organization-wide retention policy](https://docs.microsoft.com/microsoft-365/compliance/retention-policies#applying-a-retention-policy-to-an-entire-organization-or-specific-locations) โปรดทราบว่านโยบายการเก็บรักษาทั่วทั้งองค์กรจะถูกมอบหมายให้ผู้ใช้ใหม่โดยอัตโนมัติให้กับนโยบาย
+- เมื่อต้องการรักษาเนื้อหาในกล่องจดหมายทั้งหมดในองค์กรของคุณ[organization-wide retention policy](https://docs.microsoft.com/microsoft-365/compliance/retention-policies#applying-a-retention-policy-to-an-entire-organization-or-specific-locations) โปรดทราบว่าสําหรับนโยบายการเก็บข้อมูลทั่วทั้งองค์กร
