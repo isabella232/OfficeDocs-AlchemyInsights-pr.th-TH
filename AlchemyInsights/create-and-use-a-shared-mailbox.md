@@ -1,5 +1,5 @@
 ---
-title: การสร้างและใช้กล่องจดหมายที่ใช้ร่วมกัน
+title: สร้างและใช้กล่องจดหมายที่ใช้ร่วมกัน
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
@@ -11,18 +11,18 @@ ms.common:
 - "358"
 - "624"
 - "3500003"
-ms.openlocfilehash: ca48d2b4b3d19c5907ebf5a4525c670fe3608e2c
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: d38a8c19ab5329f4a4a8d09ad248db07fcce5d42
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40049824"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44507677"
 ---
-# <a name="create-and-use-a-shared-mailbox"></a>การสร้างและใช้กล่องจดหมายที่ใช้ร่วมกัน
+# <a name="create-and-use-a-shared-mailbox"></a>สร้างและใช้กล่องจดหมายที่แชร์
 
-กล่องจดหมายที่ใช้ร่วมกันช่วยให้บุคคลมากกว่าหนึ่งคนส่งและรับเมลแทนสำหรับนามแฝงเช่น sales@contoso.com โดยไม่ต้องกำหนดสิทธิ์การใช้งานอื่น
+กล่องจดหมายที่แชร์ช่วยให้ผู้รับมากกว่าหนึ่งคนสามารถส่งและรับอีเมลสําหรับนามแฝง เช่น sales@contoso.com โดยไม่ต้องมอบหมายสิทธิ์การใช้งานอื่น
   
-- [ทำตามขั้นตอนเหล่านี้](https://portal.office.com/AdminPortal/Home#/AssistedGuide/addemailoptions)ในศูนย์ดูแลของ Microsoft ๓๖๕เพื่อเริ่มต้นใช้งาน 
+- [ทําตามขั้นตอนเหล่านี้ใน](https://portal.office.com/AdminPortal/Home#/AssistedGuide/addemailoptions)ศูนย์การจัดการ Microsoft 365 เพื่อเริ่มต้นใช้งาน 
 
-นอกจากนี้คุณยังสามารถอ่านบทความ[สร้างกล่องจดหมายที่ใช้ร่วมกัน](https://docs.microsoft.com/office365/admin/email/create-a-shared-mailbox)ซึ่งจะบอกคุณทุกอย่างที่คุณจำเป็นต้องทราบเกี่ยวกับกล่องจดหมายที่ใช้ร่วมกันรวมถึงวิธีการใช้
+นอกจากนี้คุณยังสามารถอ่านบทความ[สร้างกล่องจดหมายที่แชร์](https://docs.microsoft.com/microsoft-365/admin/email/create-a-shared-mailbox)ซึ่งจะบอกให้คุณทราบทุกสิ่งที่คุณจําเป็นต้องรู้เกี่ยวกับกล่องจดหมายที่แชร์ รวมถึงวิธีใช้
   

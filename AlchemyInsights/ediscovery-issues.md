@@ -1,5 +1,5 @@
 ---
-title: ปัญหา 1829-ediscovery
+title: 1829-ediscovery-ประเด็น
 ms.author: markjjo
 author: markjjo
 manager: lauraw
@@ -11,27 +11,27 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 1829
 ms.assetid: ''
-ms.openlocfilehash: 01d9bc598a0293b15969a4e3292fb3f9abab10db
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: daed49214bd683c28d7947095ed6d4fd792cd0f3
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43714497"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44507153"
 ---
-# <a name="ediscovery-issues"></a>ปัญหา eDiscovery
+# <a name="ediscovery-issues"></a>ปัญหาของ eDiscovery
 
-กําลังค้นหาตัวเลือก eDiscovery ใช่หรือไม่ ด้วยการนําทางที่ได้รับการออกแบบใหม่ในการรักษาความปลอดภัย&ศูนย์การปฏิบัติตามกฎระเบียบตัวเลือก eDiscovery ของคุณอาจย้ายแล้ว  คุณสามารถค้นหาตัวเลือก eDiscovery ในตําแหน่งที่ตั้งต่อไปนี้ได้ใน ศูนย์การปฏิบัติตามข้อกําหนด &ความปลอดภัย ตามสิ่งที่คุณพยายามทํา:
+กําลังมองหาตัวเลือก eDiscovery ใช่หรือไม่ ด้วยการนําทางที่ออกแบบใหม่ในศูนย์การปฏิบัติตามกฎระเบียบ&ความปลอดภัย  คุณสามารถค้นหาตัวเลือก eDiscovery ในตําแหน่งที่ตั้งต่อไปนี้ในศูนย์การปฏิบัติตามกฎระเบียบ&ความปลอดภัยตามสิ่งที่คุณพยายามทํา
 
-- ใช้การค้นหาเนื้อหาเพื่อค้นหาเนื้อหาในอีเมล เอกสาร การสนทนา Skype สําหรับธุรกิจ จากนั้นส่งออกข้อมูล - ไปที่**การค้นหาเนื้อหา >**
+- ใช้การค้นหาเนื้อหาเพื่อค้นหาเนื้อหาในอีเมล เอกสาร Skype for Business การสนทนา แล้วส่งออกข้อมูล - ไปที่**การค้นหา>การค้นหาเนื้อหา**
 
-- สร้างกรณี eDiscovery เพื่อค้นหาเนื้อหาและวางตําแหน่งที่ตั้งเนื้อหาไว้ - ไปที่**eDiscovery > eDiscovery**
+- สร้างกรณี eDiscovery เพื่อค้นหาเนื้อหาและวางตําแหน่งเนื้อหาไว้ - ไปที่**eDiscovery > eDiscovery**
 
-- ใช้โซลูชัน eDiscovery ขั้นสูงแบบ end-to-end ใหม่เพื่อระบุและสื่อสารกับผู้รับฝากข้อมูลที่เกี่ยวข้องกับกรณีเก็บข้อมูล และเพิ่มไปยังชุดตรวจทาน และลดปริมาณข้อมูล โดยการใช้การวิเคราะห์เพื่อ cull out ข้อมูลไม่จําเป็น และเน้นสิ่งที่เกี่ยวข้องกับกรณี - ไปที่**eDiscovery > eDiscovery ขั้นสูง eDiscovery**
+- ใช้โซลูชัน eDiscovery ขั้นสูงแบบ end-to-end ใหม่เพื่อระบุและสื่อสารกับผู้ดูแลรักษาข้อมูลดูแลที่เกี่ยวข้องกับกรณีรวบรวมข้อมูลและเพิ่มลงในชุดการตรวจทานและลดปริมาณของข้อมูลโดยใช้การวิเคราะห์เพื่อ cull ออกข้อมูลที่ไม่จําเป็นและมุ่งเน้นสิ่งที่เกี่ยวข้องมากที่สุดกับกรณี -- ไปที่**eDiscovery > eDiscovery ขั้นสูง**
 
 สำหรับข้อมูลเพิ่มเติม ให้ดูที่
 
-- [ค้นหาเนื้อหา](https://docs.microsoft.com/office365/securitycompliance/content-search)
+- [การค้นหาเนื้อหา](https://docs.microsoft.com/microsoft-365/compliance/content-search)
 
-- [กรณี eDiscovery ในศูนย์การปฏิบัติตามกฎระเบียบ&ความปลอดภัย](https://docs.microsoft.com/office365/securitycompliance/ediscovery-cases)
+- [กรณี eDiscovery ในศูนย์การปฏิบัติตามกฎระเบียบ&ความปลอดภัย](https://docs.microsoft.com/microsoft-365/compliance/ediscovery-cases)
 
-- [โซลูชัน eDiscovery ขั้นสูงใน Microsoft 365](https://docs.microsoft.com/office365/securitycompliance/compliance20/overview-ediscovery-20)
+- [โซลูชันขั้นสูง eDiscovery ใน Microsoft 365](https://docs.microsoft.com/microsoft-365/compliance/overview-ediscovery-20)
