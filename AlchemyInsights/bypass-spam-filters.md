@@ -1,5 +1,5 @@
 ---
-title: 2637 เลี่ยงการกรองสแปมเพื่อให้ข้อความเฉพาะ?
+title: 2637 ผ่านการกรองสแปมเพื่อให้ข้อความที่เฉพาะเจาะจง?
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -12,13 +12,13 @@ ms.custom:
 - "2637"
 - "9000682"
 ms.assetid: ''
-ms.openlocfilehash: bc0f5a050c74eb551282b10f43a14ae6303cb48e
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 2fbc5bc9cdabf2a19181c9d5bbabf63d6c1cbfb7
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43712154"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44506210"
 ---
-# <a name="bypass-spam-filtering-to-allow-specific-messages"></a>ข้ามการกรองสแปมเพื่อให้ข้อความเฉพาะ?
+# <a name="bypass-spam-filtering-to-allow-specific-messages"></a>ข้ามการกรองสแปมเพื่ออนุญาตข้อความเฉพาะหรือไม่
 
-เราขอแนะนําให้[ระมัดระวัง](https://docs.microsoft.com/exchange/troubleshoot/antispam/cautions-against-bypassing-spam-filters)เมื่อคุณสร้างรายการอนุญาต ตัวอย่างเช่น หากคุณอนุญาตโดเมนของคุณเอง  แต่เราขอแนะนําให้[นี้ผิดพลาดบวกคู่มือการแก้ไขปัญหา](https://docs.microsoft.com/office365/securitycompliance/prevent-email-from-being-marked-as-spam)ซึ่งจะช่วยให้คุณสามารถระบุว่าทําไมข้อความที่ถูกกฎหมายถูกทําเครื่องหมายว่าเป็นสแปมและสิ่งที่คุณสามารถทําได้เพื่อให้ส่งข้อความได้อย่างปลอดภัย
+เราขอแนะนําให้[คุณสร้าง](https://docs.microsoft.com/exchange/troubleshoot/antispam/cautions-against-bypassing-spam-filters)รายการอนุญาต ตัวอย่างเช่น หากคุณอนุญาตให้โดเมนของคุณเอง ผู้ส่งที่เป็นอันตรายจะสามารถปลอมแปลงและส่งเป็นโดเมนของคุณได้  เราขอแนะนําให้[คําแนะนําในการแก้ไขปัญหาที่เป็นเท็จ](https://docs.microsoft.com/microsoft-365/security/office-365-security/anti-spam-protection)นี้ ซึ่งจะช่วยให้คุณระบุสาเหตุที่ข้อความที่ถูกทําเครื่องหมายว่าเป็นสแปม และสิ่งที่คุณสามารถดําเนินการเพื่อให้การส่งข้อความได้อย่างปลอดภัย

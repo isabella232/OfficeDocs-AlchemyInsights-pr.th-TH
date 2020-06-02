@@ -1,5 +1,5 @@
 ---
-title: 711 การสร้างรายชื่อการแจกจ่ายหรือกลุ่ม
+title: 711การสร้างรายชื่อการแจกจ่ายหรือกลุ่ม
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -12,15 +12,15 @@ ms.custom:
 - "711"
 - "3"
 ms.assetid: fcb272e6-1a2e-4299-be0d-55934e72bc51
-ms.openlocfilehash: a7a895df16fe5c8121ae2919c71e1fdd11898771
-ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
+ms.openlocfilehash: 1a3b7ce9d59496475156799f8d536659700c2992
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 04/27/2020
-ms.locfileid: "43908651"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44505850"
 ---
-# <a name="create-distribution-groups"></a>สร้างกลุ่มการกระจายสินค้า
+# <a name="create-distribution-groups"></a>สร้างกลุ่มการแจกจ่าย
 
-คุณใช้กลุ่มการแจกจ่าย (หรือที่เรียกว่ารายการการแจกจ่าย) เพื่อส่งข้อความอีเมล์ไปยังกลุ่มของบุคคลทั้งภายในและภายนอกองค์กรของคุณ การสร้างพวกเขาเป็นเรื่องง่าย! สําหรับคําแนะนํา ให้ดูที่[การสร้างรายการการแจกจ่ายใน ศูนย์การจัดการ Microsoft 365](https://docs.microsoft.com/office365/admin/setup/create-distribution-lists)
+คุณสามารถใช้กลุ่มการแจกจ่าย (หรือที่เรียกว่ารายชื่อการแจกจ่าย) เพื่อส่งข้อความอีเมล์ไปยังกลุ่มบุคคลภายในและภายนอกองค์กรของคุณ การสร้างพวกเขาเป็นเรื่องง่าย! สําหรับคําแนะนํา โปรดดูที่[สร้างรายการการแจกจ่ายในศูนย์การจัดการ Microsoft 365](https://docs.microsoft.com/microsoft-365/admin/setup/create-distribution-lists)
 
-**หมายเหตุ**: ผู้ดูแลระบบจําเป็นต้องจัดการการเป็นสมาชิกของกลุ่มการแจกจ่าย ถ้าคุณต้องการให้ผู้ใช้จัดการรายการสมาชิกกลุ่มของตนเอง[Microsoft 365 Groups](https://support.office.com/article/b565caa1-5c40-40ef-9915-60fdb2d97fa2)
+**หมายเหตุ**: ผู้ดูแลระบบต้องจัดการการเป็นสมาชิกของกลุ่มการแจกจ่าย ถ้าคุณต้องการให้ผู้ใช้จัดการรายชื่อสมาชิกกลุ่มของตนเอง[Microsoft 365 Groups](https://support.office.com/article/b565caa1-5c40-40ef-9915-60fdb2d97fa2)

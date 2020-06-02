@@ -1,5 +1,5 @@
 ---
-title: การแก้ไขปัญหาการตั้งค่าสำหรับสตรีม-การจัดการใบอนุญาตการสตรีม
+title: การแก้ไขปัญหาการตั้งค่าสําหรับสตรีม - การจัดการสิทธิ์การใช้งานสตรีม
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,17 +11,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "1339"
 - "2800001"
-ms.openlocfilehash: 9ec942641f04c1649aa3e6ba1e4485f4e4f95d4d
-ms.sourcegitcommit: 0b06093dabd685f76cc39b1d7c0f8b03883b6e79
+ms.openlocfilehash: 8477d8e474c6e15efdfd49313406e105e7b9f8d8
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 10/25/2019
-ms.locfileid: "36742644"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44505038"
 ---
-# <a name="managing-microsoft-stream-licenses"></a>การจัดการสิทธิ์การใช้งานของ Microsoft Stream
+# <a name="managing-microsoft-stream-licenses"></a>การจัดการสิทธิ์การใช้งาน Microsoft สตรีม
 
-**สำคัญ:** คุณจำเป็นต้องอยู่ในบทบาทผู้ดูแลผู้เช่าเพื่อดำเนินการที่อธิบายไว้ในหัวข้อนี้
+**ข้อสําคัญ:** คุณต้องอยู่ในบทบาทผู้ดูแลผู้เช่าเพื่อดําเนินการที่อธิบายไว้ในหัวข้อนี้
 
-คุณจำเป็นต้องเป็นผู้ดูแลส่วนกลางหรือผู้ดูแลระบบการจัดการผู้ใช้ สำหรับข้อมูลเพิ่มเติมโปรดดูที่[เกี่ยวกับบทบาทผู้ดูแลระบบ](https://docs.microsoft.com/office365/admin/add-users/about-admin-roles)
+คุณต้องเป็นผู้ดูแลระบบส่วนกลางหรือผู้ดูแลระบบการจัดการผู้ใช้ สําหรับข้อมูลเพิ่มเติม ให้ดูที่[เกี่ยวกับบทบาทผู้ดูแลระบบ](https://docs.microsoft.com/microsoft-365/admin/add-users/about-admin-roles)
 
-คุณสามารถกำหนด[ใบอนุญาตให้กับบัญชีผู้ใช้กับ Office ๓๖๕ PowerShell](https://go.microsoft.com/fwlink/p/?linkid=850410)
+คุณสามารถกําหนด[สิทธิ์การใช้งานให้กับบัญชีผู้ใช้ด้วย PowerShell 365 Office](https://go.microsoft.com/fwlink/p/?linkid=850410)
