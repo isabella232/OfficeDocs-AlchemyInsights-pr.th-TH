@@ -1,5 +1,5 @@
 ---
-title: 1490-การแก้ไขปัญหา eDiscovery ความล้มเหลว
+title: การแก้ไขปัญหาความล้มเหลว eDiscovery 1490
 ms.author: markjjo
 author: markjjo
 manager: lauraw
@@ -13,25 +13,25 @@ ms.custom:
 - "1490"
 - "3200003"
 ms.assetid: ''
-ms.openlocfilehash: fbca97d06508c316612139ca42c04fb7ee5445f7
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: cfd0f38358a6de3aed29e1cbbe109d0075ac04af
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43759603"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44512573"
 ---
-# <a name="troubleshoot-content-search-errors"></a><span data-ttu-id="b437b-102">การแก้ไขปัญหาข้อผิดพลาดการค้นหาเนื้อหา</span><span class="sxs-lookup"><span data-stu-id="b437b-102">Troubleshoot Content Search errors</span></span>
+# <a name="troubleshoot-content-search-errors"></a><span data-ttu-id="60a1e-102">การแก้ไขปัญหาข้อผิดพลาดการค้นหาเนื้อหา</span><span class="sxs-lookup"><span data-stu-id="60a1e-102">Troubleshoot Content Search errors</span></span>
 
-<span data-ttu-id="b437b-103">คุณประสบปัญหาเกี่ยวกับการค้นหาเนื้อหาหรือได้รับความล้มเหลวเมื่อคุณส่งออกผลลัพธ์การค้นหาหรือไม่</span><span class="sxs-lookup"><span data-stu-id="b437b-103">Are you experiencing problems with Content Search or getting failures when you export search results?</span></span>
+<span data-ttu-id="60a1e-103">คุณประสบปัญหาเกี่ยวกับการค้นหาเนื้อหาหรือความล้มเหลวเมื่อคุณส่งออกผลลัพธ์การค้นหาหรือไม่</span><span class="sxs-lookup"><span data-stu-id="60a1e-103">Are you experiencing problems with Content Search or getting failures when you export search results?</span></span>
 
-<span data-ttu-id="b437b-104">ตัวอย่างเช่น คุณได้รับต่อไปนี้เมื่อเรียกใช้การค้นหาหรือไม่</span><span class="sxs-lookup"><span data-stu-id="b437b-104">For example, are you receiving the following when running searches?</span></span>
+<span data-ttu-id="60a1e-104">ตัวอย่างเช่น คุณได้รับข้อมูลต่อไปนี้เมื่อเรียกใช้การค้นหาหรือไม่</span><span class="sxs-lookup"><span data-stu-id="60a1e-104">For example, are you receiving the following when running searches?</span></span>
 
-- <span data-ttu-id="b437b-105">ข้อผิดพลาด CS008 หรือ CS012</span><span class="sxs-lookup"><span data-stu-id="b437b-105">CS008 or CS012 errors</span></span>
+- <span data-ttu-id="60a1e-105">ข้อผิดพลาด CS008 หรือ CS012</span><span class="sxs-lookup"><span data-stu-id="60a1e-105">CS008 or CS012 errors</span></span>
 
-- <span data-ttu-id="b437b-106">ข้อผิดพลาดของเซิร์ฟเวอร์ที่ไม่ว่าง/หมดเวลา</span><span class="sxs-lookup"><span data-stu-id="b437b-106">Server busy/timeout errors</span></span>
+- <span data-ttu-id="60a1e-106">ข้อผิดพลาดของเซิร์ฟเวอร์ไม่ว่าง/หมดเวลา</span><span class="sxs-lookup"><span data-stu-id="60a1e-106">Server busy/timeout errors</span></span>
 
-- <span data-ttu-id="b437b-107">เกิดข้อผิดพลาดของแอพลิเคชัน</span><span class="sxs-lookup"><span data-stu-id="b437b-107">Application error occurred</span></span>
+- <span data-ttu-id="60a1e-107">เกิดข้อผิดพลาดของโปรแกรมประยุกต์</span><span class="sxs-lookup"><span data-stu-id="60a1e-107">Application error occurred</span></span>
 
-<span data-ttu-id="b437b-108">หรือเมื่อค้นหาหรือส่งออกผลลัพธ์จากกล่องจดหมายจํานวนมาก (กล่องจดหมายมากกว่า 100,000 กล่อง) คุณได้รับข้อผิดพลาดในการส่งออกหรือไม่</span><span class="sxs-lookup"><span data-stu-id="b437b-108">Or when searching or exporting results from a large number of mailboxes (over 100,000 mailboxes), are you getting export errors?</span></span>
+<span data-ttu-id="60a1e-108">หรือเมื่อค้นหาหรือส่งออกผลลัพธ์จากกล่องจดหมายจํานวนมาก (กล่องจดหมายมากกว่า 100,000 กล่อง) คุณจะได้รับข้อผิดพลาดในการส่งออกหรือไม่</span><span class="sxs-lookup"><span data-stu-id="60a1e-108">Or when searching or exporting results from a large number of mailboxes (over 100,000 mailboxes), are you getting export errors?</span></span>
 
-<span data-ttu-id="b437b-109">สําหรับข้อผิดพลาดชนิดเหล่านี้ ให้ลองค้นหาตําแหน่งที่ตั้งเนื้อหาที่ล้มเหลวอีกครั้ง</span><span class="sxs-lookup"><span data-stu-id="b437b-109">For these types of errors, retry the search for the content locations that have failed.</span></span> <span data-ttu-id="b437b-110">ดู[บทความนี้](https://docs.microsoft.com/office365/securitycompliance/retry-failed-content-search)สําหรับข้อมูลเพิ่มเติม</span><span class="sxs-lookup"><span data-stu-id="b437b-110">See  [this article](https://docs.microsoft.com/office365/securitycompliance/retry-failed-content-search) for more information.</span></span>
+<span data-ttu-id="60a1e-109">สําหรับข้อผิดพลาดประเภทนี้ ให้ลองค้นหาตําแหน่งที่ตั้งเนื้อหาที่ล้มเหลว</span><span class="sxs-lookup"><span data-stu-id="60a1e-109">For these types of errors, retry the search for the content locations that have failed.</span></span> <span data-ttu-id="60a1e-110">ดู[บทความนี้](https://docs.microsoft.com/microsoft-365/compliance/retry-failed-content-search)สําหรับข้อมูลเพิ่มเติม</span><span class="sxs-lookup"><span data-stu-id="60a1e-110">See  [this article](https://docs.microsoft.com/microsoft-365/compliance/retry-failed-content-search) for more information.</span></span>

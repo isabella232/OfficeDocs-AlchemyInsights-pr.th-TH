@@ -1,5 +1,5 @@
 ---
-title: พื้นที่เก็บข้อมูล SharePoint
+title: ที่เก็บ SharePoint
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,26 +12,26 @@ ms.custom:
 - "2008"
 - "9000355"
 ms.assetid: 8e0ec879-3f0e-423b-9d72-5e52fc2b9e0c
-ms.openlocfilehash: 37cdc6943b28dc6823044957691767351d4ac246
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: cfe6091baec784a0b726ccc6e1b97a3ce1d00c8d
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40051048"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44512645"
 ---
-# <a name="manage-your-sharepoint-online-storage"></a><span data-ttu-id="2e4a4-102">จัดการที่เก็บข้อมูลแบบออนไลน์ของ SharePoint ของคุณ</span><span class="sxs-lookup"><span data-stu-id="2e4a4-102">Manage your SharePoint Online storage</span></span>
+# <a name="manage-your-sharepoint-online-storage"></a><span data-ttu-id="5f560-102">จัดการที่เก็บ SharePoint แบบออนไลน์ของคุณ</span><span class="sxs-lookup"><span data-stu-id="5f560-102">Manage your SharePoint Online storage</span></span>
 
-<span data-ttu-id="2e4a4-103">เรียนรู้วิธีการ[คำนวณที่เก็บผู้เช่า](https://docs.microsoft.com/office365/servicedescriptions/sharepoint-online-service-description/sharepoint-online-limits?redirectedfrom=MSDN#limits-by-plan)ตามแผนของคุณ</span><span class="sxs-lookup"><span data-stu-id="2e4a4-103">Learn how [tenant storage is calculated](https://docs.microsoft.com/office365/servicedescriptions/sharepoint-online-service-description/sharepoint-online-limits?redirectedfrom=MSDN#limits-by-plan) based on your plan.</span></span>
+<span data-ttu-id="5f560-103">เรียนรู้วิธี[คํานวณพื้นที่จัดเก็บของผู้เช่า](https://docs.microsoft.com/office365/servicedescriptions/sharepoint-online-service-description/sharepoint-online-limits?redirectedfrom=MSDN#limits-by-plan)ตามแผนของคุณ</span><span class="sxs-lookup"><span data-stu-id="5f560-103">Learn how [tenant storage is calculated](https://docs.microsoft.com/office365/servicedescriptions/sharepoint-online-service-description/sharepoint-online-limits?redirectedfrom=MSDN#limits-by-plan) based on your plan.</span></span>
 
-<span data-ttu-id="2e4a4-104">สำหรับองค์กรส่วนใหญ่จะมีการจัดการพื้นที่เก็บข้อมูล SharePoint โดยอัตโนมัติดังนั้นคุณจึงไม่จำเป็นต้องตั้งค่าขีดจำกัดต่อไซต์คอลเลกชัน</span><span class="sxs-lookup"><span data-stu-id="2e4a4-104">For most organizations, SharePoint storage is managed automatically, so you don't need to set limits per site collection.</span></span>
+<span data-ttu-id="5f560-104">สําหรับองค์กรส่วนใหญ่</span><span class="sxs-lookup"><span data-stu-id="5f560-104">For most organizations, SharePoint storage is managed automatically, so you don't need to set limits per site collection.</span></span>
 
-<span data-ttu-id="2e4a4-105">เรียนรู้วิธีการ[ดูพื้นที่เก็บข้อมูลทั้งหมดและที่มีอยู่สำหรับองค์กรของคุณ](https://docs.microsoft.com/sharepoint/manage-site-collection-storage-limits)</span><span class="sxs-lookup"><span data-stu-id="2e4a4-105">Learn how to [view the total and available storage space for your organization](https://docs.microsoft.com/sharepoint/manage-site-collection-storage-limits).</span></span>
+<span data-ttu-id="5f560-105">เรียนรู้วิธี[ดูพื้นที่เก็บข้อมูลทั้งหมดและที่สามารถใช้ได้สําหรับองค์กรของคุณ](https://docs.microsoft.com/sharepoint/manage-site-collection-storage-limits)</span><span class="sxs-lookup"><span data-stu-id="5f560-105">Learn how to [view the total and available storage space for your organization](https://docs.microsoft.com/sharepoint/manage-site-collection-storage-limits).</span></span>
 
-<span data-ttu-id="2e4a4-106">เรียนรู้วิธีการ[จัดการขีดจำกัดที่เก็บชุดเก็บรวบรวมไซต์แต่ละ](https://docs.microsoft.com/sharepoint/manage-site-collection-storage-limits#manage-individual-site-storage-limits)ตัว</span><span class="sxs-lookup"><span data-stu-id="2e4a4-106">Learn how to [manage individual site collection storage limits](https://docs.microsoft.com/sharepoint/manage-site-collection-storage-limits#manage-individual-site-storage-limits).</span></span>
+<span data-ttu-id="5f560-106">เรียนรู้วิธี[จัดการขีดจํากัดของที่เก็บไซต์คอลเลกชันแต่ละข้อ](https://docs.microsoft.com/sharepoint/manage-site-collection-storage-limits#manage-individual-site-storage-limits)</span><span class="sxs-lookup"><span data-stu-id="5f560-106">Learn how to [manage individual site collection storage limits](https://docs.microsoft.com/sharepoint/manage-site-collection-storage-limits#manage-individual-site-storage-limits).</span></span>
 
-<span data-ttu-id="2e4a4-107">ถ้าไซต์ของคุณไม่มีพื้นที่ว่างหรือคุณต้องการเรียนรู้ว่าไลบรารีหรือรายการใดใช้เนื้อที่ว่างให้ไปที่การ > **ตั้งค่าเว็บไซต์\*\*\*\*เมตริกที่เก็บข้อมูล**(ต้องมีสิทธิ์ของผู้ดูแลชุดเก็บรวบรวมไซต์)</span><span class="sxs-lookup"><span data-stu-id="2e4a4-107">If your site is out of space or you want to learn which library or list is utilizing the space, go to **Site Settings** > **Storage Metrics** (Site Collection administrator permissions are required).</span></span>
+<span data-ttu-id="5f560-107">ถ้าไซต์ของคุณไม่มีเนื้อที่หรือคุณต้องการเรียนรู้ว่าไลบรารีหรือรายการใดใช้พื้นที่ดังกล่าว ให้ไปที่**Site Settings**  >  **เมตริกที่เก็บการตั้งค่า**ไซต์ (จําเป็นต้องมีสิทธิ์ของผู้ดูแลไซต์คอลเลกชัน)</span><span class="sxs-lookup"><span data-stu-id="5f560-107">If your site is out of space or you want to learn which library or list is utilizing the space, go to **Site Settings** > **Storage Metrics** (Site Collection administrator permissions are required).</span></span>
 
-<span data-ttu-id="2e4a4-108">เรียนรู้วิธีการ[ตรวจสอบขีดจำกัดของพื้นที่เก็บข้อมูลไซต์โดยใช้ PowerShell](https://docs.microsoft.com/sharepoint/manage-site-collection-storage-limits#monitor-site-storage-limits-by-using-powershell)</span><span class="sxs-lookup"><span data-stu-id="2e4a4-108">Learn how to [monitor site storage limits by using PowerShell](https://docs.microsoft.com/sharepoint/manage-site-collection-storage-limits#monitor-site-storage-limits-by-using-powershell).</span></span>
+<span data-ttu-id="5f560-108">เรียนรู้วิธีการ[ตรวจสอบขีดจํากัดการจัดเก็บไซต์โดยใช้ PowerShell](https://docs.microsoft.com/sharepoint/manage-site-collection-storage-limits#monitor-site-storage-limits-by-using-powershell)</span><span class="sxs-lookup"><span data-stu-id="5f560-108">Learn how to [monitor site storage limits by using PowerShell](https://docs.microsoft.com/sharepoint/manage-site-collection-storage-limits#monitor-site-storage-limits-by-using-powershell).</span></span>
 
-<span data-ttu-id="2e4a4-109">เรียนรู้วิธีการ[ซื้อพื้นที่จัดเก็บข้อมูลเพิ่มเติม](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-storage-space)</span><span class="sxs-lookup"><span data-stu-id="2e4a4-109">Learn how to [buy extra storage](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-storage-space).</span></span> 
+<span data-ttu-id="5f560-109">เรียนรู้วิธี[ซื้อพื้นที่เก็บข้อมูลเพิ่มเติม](https://docs.microsoft.com/microsoft-365/commerce/add-storage-space)</span><span class="sxs-lookup"><span data-stu-id="5f560-109">Learn how to [buy extra storage](https://docs.microsoft.com/microsoft-365/commerce/add-storage-space).</span></span> 
   

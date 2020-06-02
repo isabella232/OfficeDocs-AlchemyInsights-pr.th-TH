@@ -11,16 +11,16 @@ ms.custom:
 - "907"
 - "2000023"
 ms.assetid: b1cc6839-6bda-4e63-9d3d-c5e3d7313042
-ms.openlocfilehash: a4f59ecd50b92c52e15c4394b467adbaf92b11ff
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 904f1a086999d883feab05bc983cb8a6d8eb55eb
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43761869"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44512067"
 ---
-# <a name="office-2013-is-no-longer-supported-in-microsoft-365-subscriptions"></a><span data-ttu-id="fb880-102">Office 2013 ไม่ได้รับการสนับสนุนในการสมัครใช้งาน Microsoft 365 อีกต่อไป</span><span class="sxs-lookup"><span data-stu-id="fb880-102">Office 2013 is no longer supported in Microsoft 365 subscriptions</span></span>
+# <a name="office-2013-is-no-longer-supported-in-microsoft-365-subscriptions"></a><span data-ttu-id="3fc8e-102">Office 2013 ไม่ได้รับการสนับสนุนในการสมัครใช้งาน Microsoft 365 อีกต่อไป</span><span class="sxs-lookup"><span data-stu-id="3fc8e-102">Office 2013 is no longer supported in Microsoft 365 subscriptions</span></span>
 
-<span data-ttu-id="fb880-103">ตั้งแต่วันที่ 28 กุมภาพันธ์ 2017 Office 2013 จะไม่ได้รับการสนับสนุนในการสมัครใช้งาน Microsoft 365 อีกต่อไป</span><span class="sxs-lookup"><span data-stu-id="fb880-103">Since February 28, 2017, Office 2013 is no longer supported in Microsoft 365 subscriptions.</span></span>
+<span data-ttu-id="3fc8e-103">ตั้งแต่ 28 กุมภาพันธ์ 2017 Office 2013 จะไม่ได้รับการสนับสนุนในการสมัครสมาชิก Microsoft 365</span><span class="sxs-lookup"><span data-stu-id="3fc8e-103">Since February 28, 2017, Office 2013 is no longer supported in Microsoft 365 subscriptions.</span></span>
   
-<span data-ttu-id="fb880-104">เมื่อต้องการให้ชุดโปรแกรม Office ของคุณมีความปลอดภัยและเพื่อรับคุณลักษณะล่าสุดทั้งหมด ให้ติดตั้ง Office เวอร์ชันล่าสุดฟรีโดยเป็นส่วนหนึ่งของการสมัครใช้งาน Microsoft 365 ของคุณ</span><span class="sxs-lookup"><span data-stu-id="fb880-104">To ensure the security of your Office suite and to get all of the latest features, install the latest version of Office for free as part of your Microsoft 365 subscription.</span></span> <span data-ttu-id="fb880-105">ดู[อัปเกรดผู้ใช้ของคุณเป็นไคลเอ็นต์ Office ล่าสุด](https://docs.microsoft.com/office365/admin/setup/upgrade-users-to-latest-office-client)</span><span class="sxs-lookup"><span data-stu-id="fb880-105">See [Upgrade your users to the latest Office client](https://docs.microsoft.com/office365/admin/setup/upgrade-users-to-latest-office-client).</span></span>
+<span data-ttu-id="3fc8e-104">เมื่อต้องการตรวจสอบให้แน่ใจว่าชุดโปรแกรม Office ของคุณมีความปลอดภัยและได้รับคุณลักษณะล่าสุดทั้งหมด ให้ติดตั้ง Office เวอร์ชันล่าสุดฟรีโดยเป็นส่วนหนึ่งของการสมัครใช้งาน Microsoft 365 ของคุณ</span><span class="sxs-lookup"><span data-stu-id="3fc8e-104">To ensure the security of your Office suite and to get all of the latest features, install the latest version of Office for free as part of your Microsoft 365 subscription.</span></span> <span data-ttu-id="3fc8e-105">ดู[ปรับรุ่นผู้ใช้ของคุณเป็นไคลเอ็นต์ Office ล่าสุด](https://docs.microsoft.com/microsoft-365/admin/setup/upgrade-users-to-latest-office-client)</span><span class="sxs-lookup"><span data-stu-id="3fc8e-105">See [Upgrade your users to the latest Office client](https://docs.microsoft.com/microsoft-365/admin/setup/upgrade-users-to-latest-office-client).</span></span>
   
