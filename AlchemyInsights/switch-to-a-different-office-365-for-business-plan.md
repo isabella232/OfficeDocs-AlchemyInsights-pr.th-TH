@@ -1,5 +1,5 @@
 ---
-title: สลับไปยัง Microsoft 365 อื่นสําหรับแผนธุรกิจ
+title: สลับไปยัง Microsoft 365 สําหรับแผนธุรกิจอื่น
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -12,25 +12,25 @@ ms.custom:
 - "438"
 - "1400007"
 ms.assetid: 49d77463-d3da-4106-abcf-2d5209106ea2
-ms.openlocfilehash: 039a60a6a4eece841fc494f619f13f1021b8906a
-ms.sourcegitcommit: a98b25fa3cac9ebba983f4932881d774880aca93
+ms.openlocfilehash: 35a2f888a340f50f38b79d8b81262edc6d850e5d
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "44064376"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44509835"
 ---
 # <a name="switch-to-a-different-microsoft-365-for-business-subscription"></a>สลับไปยังการสมัครใช้งาน Microsoft 365 สําหรับธุรกิจอื่น
 
-เมื่อธุรกิจของคุณเปลี่ยนแปลง หรือต้องการฟีเจอร์เพิ่มเติม คุณสามารถอัปเกรดเป็นแผนใหม่ได้
+เมื่อธุรกิจของคุณเปลี่ยนแปลง หรือคุณต้องการคุณสมบัติเพิ่มเติม คุณสามารถอัปเกรดเป็นแผนใหม่ได้
   
-1. ไปที่หน้า**การเรียกเก็บเงิน** \> **[สินค้าของคุณ](https://go.microsoft.com/fwlink/p/?linkid=842054)**
+1. ในศูนย์การจัดการ ให้ไปที่หน้า**การเรียกเก็บเงิน** \> **[ผลิตภัณฑ์ของคุณ](https://go.microsoft.com/fwlink/p/?linkid=842054)**
 
-2. เลือกการสมัครใช้งานที่คุณต้องการอัปเกรด
+2. เลือกการสมัครใช้งานที่คุณต้องการปรับรุ่น
 
-3. บนหน้า[รายละเอียดการสั่งซื้อโดยบอกรับเป็นสมาชิก](https://admin.microsoft.com/AdminPortal/Home#/subscriptions/webdirect%252F0dbaa202-d590-4529-98c2-a5e2ebaac702)ให้เลือก**อัพเกรด**  ถ้าแท็บ**อัปเกรด**ว่างเปล่า คุณจะเห็นคําอธิบายว่า เหตุใดจึงไม่สามารถอัปเกรดได้ในขณะนี้ คุณต้อง[เปลี่ยนแผนด้วยตนเอง](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/change-plans-manually?view=o365-worldwide)
+3. [บนหน้ารายละเอียดการสมัครใช้งาน](https://admin.microsoft.com/AdminPortal/Home#/subscriptions/webdirect%252F0dbaa202-d590-4529-98c2-a5e2ebaac702)ให้เลือก**อัพเกรด**  ถ้าแท็บ **'อัปเกรด**' ว่างเปล่า คุณจะเห็นคําอธิบายว่าเหตุใดคุณจึงไม่สามารถอัปเกรดได้ในขณะนี้ คุณต้อง[เปลี่ยนแผนด้วยตนเอง](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/change-plans-manually?view=o365-worldwide)
 
-4. ค้นหาแผนที่คุณต้องการอัปเกรด แล้วเลือกปุ่ม**อัพเกรด**
+4. ค้นหาแผนที่ต้องการอัปเกรด แล้วเลือกปุ่ม**อัพเกรด**
 
-5. ป้อนจํานวนสิทธิ์การใช้งานที่คุณต้องการ**Checkout**
+5. ป้อนจํานวนสิทธิ์การใช้งานที่คุณต้องการ ให้เลือกว่าจะชําระเงินในแต่ละเดือนหรือตลอดทั้งปี แล้วเลือก**เช็คเอาท์**
 
-เมื่อต้องการเรียนรู้เพิ่มเติม ให้ดูที่[อัปเกรดเป็นแผนอื่น](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/upgrade-to-different-plan)
+เมื่อต้องการเรียนรู้เพิ่มเติม ให้ดูที่[การปรับรุ่นเป็นแผนอื่น](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/upgrade-to-different-plan)

@@ -1,5 +1,5 @@
 ---
-title: มีการใช้โดเมนอยู่แล้ว
+title: โดเมนถูกใช้งานอยู่แล้ว
 ms.author: v-crytho
 author: CrystalThomasMS
 ms.audience: ITPro
@@ -10,17 +10,17 @@ ms.assetid: 3b01008b-f57d-4a82-837c-d22a0ac6a294
 ms.custom:
 - "29"
 - "10"
-ms.openlocfilehash: 71e58081757e1cd8a61753f7c48283fe05e5c1a1
-ms.sourcegitcommit: a98b25fa3cac9ebba983f4932881d774880aca93
+ms.openlocfilehash: 47666900261400047c545ff636035319ee624362
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "43759963"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44509763"
 ---
-# <a name="the-domain-is-already-in-use"></a>มีการใช้โดเมนอยู่แล้ว
+# <a name="the-domain-is-already-in-use"></a>โดเมนถูกใช้งานอยู่แล้ว
 
-โดเมนที่คุณกําลังพยายามเพิ่มเป็นขององค์กรอื่นอยู่แล้ว คุณต้องเอาโดเมนออกจากองค์กรนั้นก่อนจึงจะสามารถเพิ่มลงในองค์กรนี้ได้ บทความด้านล่างจะแนะนําคุณผ่านกระบวนการเหล่านี้
+โดเมนที่คุณกําลังพยายามเพิ่มเป็นของอีกองค์กรหนึ่ง คุณต้องเอาโดเมนออกจากองค์กรนั้นก่อนจึงจะสามารถเพิ่มลงในองค์กรนี้ได้ บทความด้านล่างนี้จะแนะนําคุณผ่านกระบวนการเหล่านี้
   
-- [เอาโดเมนออก](https://docs.microsoft.com/office365/admin/get-help-with-domains/remove-a-domain)
+- [เอาโดเมนออก](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/remove-a-domain)
 
-- [เพิ่มโดเมนและสร้างระเบียน DNS](https://docs.microsoft.com/office365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider)
+- [เพิ่มโดเมนและสร้างระเบียน DNS](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider)

@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000237"
 - "3198"
-ms.openlocfilehash: 81b05e14fb3755c6602548087617f19ee1d585a5
-ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
+ms.openlocfilehash: c22bbf8ae5c6ff1dfdf729454330ebe498090581
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 04/27/2020
-ms.locfileid: "43911743"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44510699"
 ---
 # <a name="remove-users-from-a-sharepoint-group"></a>เอาผู้ใช้ออกจากกลุ่ม SharePoint
 
-กลุ่ม SharePoint คือกลุ่มของผู้ใช้ที่ทุกคนมีสิทธิ์ชุดสิทธิ์เดียวกันกับไซต์และเนื้อหา แทนที่จะกําหนดสิทธิ์ทีละคน
+กลุ่ม SharePoint คือกลุ่มผู้ใช้ที่มีสิทธิ์ในไซต์และเนื้อหาชุดเดียวกัน แทนที่จะกําหนดสิทธิ์บุคคลหนึ่งคนในแต่ละครั้ง
 
-- [เอาผู้ใช้ออกจากกลุ่ม](https://docs.microsoft.com/sharepoint/customize-sharepoint-site-permissions#remove-users-from-a-group)
-- [เพิ่มหรือเอาสมาชิกออกจากกลุ่ม Microsoft 365 โดยใช้ศูนย์การจัดการ](https://docs.microsoft.com/office365/admin/create-groups/add-or-remove-members-from-groups?view=o365-worldwide)
+- [นําผู้ใช้ออกจากกลุ่ม](https://docs.microsoft.com/sharepoint/customize-sharepoint-site-permissions#remove-users-from-a-group)
+- [เพิ่มหรือเอาสมาชิกออกจากกลุ่ม Microsoft 365 โดยใช้ศูนย์การจัดการ](https://docs.microsoft.com/microsoft-365/admin/create-groups/add-or-remove-members-from-groups)

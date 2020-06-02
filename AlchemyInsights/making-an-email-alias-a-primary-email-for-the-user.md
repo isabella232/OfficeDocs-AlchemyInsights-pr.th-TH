@@ -1,5 +1,5 @@
 ---
-title: 723 การใส่อีเมลแทนอีเมลเป็นอีเมลหลักสําหรับผู้ใช้
+title: 723ทําให้อีเมลแทนเป็นอีเมลหลักสําหรับผู้ใช้
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -13,15 +13,15 @@ ms.custom:
 - "723"
 - "1"
 ms.assetid: 9db496e8-7345-4449-bbb2-0ed8c6d72e3e
-ms.openlocfilehash: c21e57befaf770301a7c8a42dd3ff9ff92394b70
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: ce914d0faf73f480aa3eca559ad25764864ef5ea
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43721996"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44510879"
 ---
-# <a name="make-an-email-alias-the-primary-address-for-a-user"></a>สร้างอีเมลแทนที่อยู่อีเมลเป็นที่อยู่หลักสําหรับผู้ใช้
+# <a name="make-an-email-alias-the-primary-address-for-a-user"></a>ทําให้อีเมลแทนเป็นที่อยู่หลักสําหรับผู้ใช้
 
-สําหรับคําแนะนํา ให้ดูที่[เพิ่มอีเมลอื่นแทนสําหรับผู้ใช้](https://docs.microsoft.com/office365/admin/email/add-another-email-alias-for-a-user)
+สําหรับคําแนะนํา โปรดดูที่[เพิ่มนามแฝงอีเมลอื่นสําหรับผู้ใช้](https://docs.microsoft.com/microsoft-365/admin/email/add-another-email-alias-for-a-user)
 
-**หมายเหตุ**: ถ้าองค์กรของคุณอยู่ในโหมดไฮบริดสลี คุณจําเป็นต้องเปลี่ยนที่อยู่อีเมลหลักในองค์กร Exchange ในสถานที่ของคุณ สําหรับข้อมูลเพิ่มเติม ให้ดูที่[การเพิ่มหรือเอาที่อยู่อีเมลสําหรับกล่องจดหมาย](https://technet.microsoft.com/library/bb123794.aspx)ออก
+**หมายเหตุ**: ถ้าองค์กรของคุณอยู่ในโหมดไฮบริด คุณจําเป็นต้องเปลี่ยนที่อยู่อีเมลหลักในองค์กร Exchange ในสถานที่ของคุณ สําหรับข้อมูลเพิ่มเติม ให้ดูที่[การเพิ่มหรือเอาที่อยู่อีเมลสําหรับกล่องจดหมายออก](https://technet.microsoft.com/library/bb123794.aspx)

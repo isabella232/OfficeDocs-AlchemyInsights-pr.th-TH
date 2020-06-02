@@ -1,5 +1,5 @@
 ---
-title: ปัญหาเกี่ยวกับ Skype สําหรับธุรกิจใช่หรือไม่
+title: ปัญหาเกี่ยวกับ Skype สําหรับธุรกิจหรือไม่
 ms.author: v-crytho
 author: CrystalThomasMS
 ms.audience: ITPro
@@ -10,23 +10,23 @@ ms.assetid: db38c1dd-e61b-48cd-8f52-40add3dc5632
 ms.custom:
 - "66"
 - "4000001"
-ms.openlocfilehash: 9f72e8d263c0cef611e2fe19964141d68633e8a3
-ms.sourcegitcommit: a98b25fa3cac9ebba983f4932881d774880aca93
+ms.openlocfilehash: 320879e2654062e66e44481946869350bc6454eb
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "43765864"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44509511"
 ---
-# <a name="issue-with-skype-for-business"></a>ปัญหาเกี่ยวกับ Skype สําหรับธุรกิจใช่หรือไม่
+# <a name="issue-with-skype-for-business"></a>ปัญหาเกี่ยวกับ Skype สําหรับธุรกิจหรือไม่
 
-เราได้ตรวจพบว่า โดเมนต่อไปนี้มีปัญหาที่อาจทําให้ Skype สําหรับธุรกิจทํางานไม่ถูกต้อง:
+เราตรวจพบว่าโดเมนต่อไปนี้มีปัญหาที่อาจป้องกันไม่ให้ Skype สําหรับธุรกิจทํางานได้อย่างถูกต้อง:
   
-{สตริงการตรวจสอบสุขภาพ}
+{สตริงเช็คค่าความสมบูรณ์}
   
-ระเบียน NS, CNAME หรือ SRV ของการตั้งค่าโดเมน (DNS) จะไม่กําหนดค่าอย่างถูกต้องสําหรับ Skype สําหรับธุรกิจ คุณสามารถดู[ที่ สร้างระเบียน DNS ที่ผู้ให้บริการโฮสต์ DNS สําหรับ](https://docs.microsoft.com/office365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider)คําแนะนําโดยละเอียด
+ระเบียน NS, CNAME หรือ SRV ของการตั้งค่าโดเมน (DNS) ไม่ได้กําหนดค่าอย่างถูกต้องสําหรับ Skype สําหรับธุรกิจ คุณสามารถอ้างอิงถึง[สร้างระเบียน DNS ได้ที่ผู้ให้บริการโฮสต์ DNS สําหรับ](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider)คําแนะนําโดยละเอียด
   
-หากต้องการแก้ไข โปรดไปที่หน้า[โดเมน](https://admin.microsoft.com/adminportal/home#/Domains)ในศูนย์การจัดการ Microsoft 365 และเราจะช่วยคุณแก้ไขปัญหา
+หากต้องการแก้ไข โปรดไปที่หน้า[โดเมน](https://admin.microsoft.com/adminportal/home#/Domains)ในศูนย์การจัดการ Microsoft 365 และเราจะช่วยคุณได้
   
-ถ้าคุณมีปัญหาในการสื่อสารกับผู้ใช้ที่เป็นบุคคลภายนอกองค์กรของคุณ[Set up Skype for Business Online external communications](https://support.microsoft.com/help/10041/set-up-skype-for-business-online-external-communications.aspx)
+ถ้าคุณมีปัญหาในการสื่อสารกับผู้ใช้ที่ภายนอกองค์กรของคุณ[Set up Skype for Business Online external communications](https://support.microsoft.com/help/10041/set-up-skype-for-business-online-external-communications.aspx)
 
   
