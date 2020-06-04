@@ -1,12 +1,25 @@
-<a name="communication-credits"></a><span data-ttu-id="e24df-101">การสื่อสาร- เครดิต</span><span class="sxs-lookup"><span data-stu-id="e24df-101">communication-credits</span></span>
 ---
-<span data-ttu-id="e24df-102">ชื่อเรื่อง: "เรียกเก็บเงินหลังจากยกเลิกการสมัคร" ms.author Adm_O365 localization_priority:</span><span class="sxs-lookup"><span data-stu-id="e24df-102">title: "Billed after canceling subscription" ms.author: pebaum author: pebaum manager: mnirkhe ms.audience: Admin ms.topic: article ROBOTS: NOINDEX, NOFOLLOW localization_priority: Priority ms.collection: Adm_O365 ms.custom:</span></span>
-- <span data-ttu-id="e24df-103">1500019</span><span class="sxs-lookup"><span data-stu-id="e24df-103">1500019</span></span>
-- <span data-ttu-id="e24df-104">5584</span><span class="sxs-lookup"><span data-stu-id="e24df-104">5584</span></span>
+title: เรียกเก็บเงินหลังจากยกเลิกการสมัครรับข้อมูล
+ms.author: pebaum
+author: pebaum
+manager: mnirkhe
+ms.audience: Admin
+ms.topic: article
+ROBOTS: NOINDEX, NOFOLLOW
+localization_priority: Priority
+ms.collection: Adm_O365
+ms.custom:
+- "1500019"
+- "5584"
+ms.openlocfilehash: 7f53d17bead1c45134112f6efa47835ea6ca9abe
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.translationtype: MT
+ms.contentlocale: th-TH
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44203975"
 ---
+# <a name="billed-after-canceling-subscription"></a><span data-ttu-id="08a61-102">เรียกเก็บเงินหลังจากยกเลิกการสมัครรับข้อมูล</span><span class="sxs-lookup"><span data-stu-id="08a61-102">Billed after canceling subscription</span></span>
 
-# <a name="billed-after-canceling-subscription"></a><span data-ttu-id="e24df-105">เรียกเก็บเงินหลังจากยกเลิกการสมัครใช้บริการ</span><span class="sxs-lookup"><span data-stu-id="e24df-105">Billed after canceling subscription</span></span>
+<span data-ttu-id="08a61-103">เมื่อยกเลิกการสมัครรับแล้ว คุณจะได้รับใบแจ้งหนี้เพิ่มเติมหลังจากยกเลิกยอดคงเหลือค้างชําระหักด้วยเครดิตที่ซื้อคืน</span><span class="sxs-lookup"><span data-stu-id="08a61-103">Once your subscription is canceled, you will receive an additional invoice after cancellation with any outstanding balance minus any prorated credits.</span></span>
 
-<span data-ttu-id="e24df-106">เมื่อยกเลิกการสมัครรับข้อมูลคุณจะได้รับใบแจ้งหนี้เพิ่มเติมหลังจากการยกเลิกด้วยยอดเงินคงเหลือใดๆ ลบด้วยเครดิตตามสัดส่วน</span><span class="sxs-lookup"><span data-stu-id="e24df-106">Once your subscription is canceled, you will receive an additional invoice after cancellation with any outstanding balance minus any prorated credits.</span></span>
-
-<span data-ttu-id="e24df-107">สําหรับข้อมูลเพิ่มเติม ให้ดูที่[ทําความเข้าใจเกี่ยวกับใบแจ้งหนี้ของคุณสําหรับ Microsoft 365](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/understand-your-invoice2)</span><span class="sxs-lookup"><span data-stu-id="e24df-107">For more info, see [Understand your invoice for Microsoft 365](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/understand-your-invoice2).</span></span>
+<span data-ttu-id="08a61-104">สําหรับข้อมูลเพิ่มเติม ให้ดูที่[ทําความเข้าใจเกี่ยวกับใบแจ้งหนี้ของคุณสําหรับ Microsoft 365](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/understand-your-invoice2)</span><span class="sxs-lookup"><span data-stu-id="08a61-104">For more info, see [Understand your invoice for Microsoft 365](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/understand-your-invoice2).</span></span>

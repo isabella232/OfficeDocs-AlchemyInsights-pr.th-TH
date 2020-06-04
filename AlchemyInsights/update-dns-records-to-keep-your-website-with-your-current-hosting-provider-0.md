@@ -1,5 +1,5 @@
 ---
-title: อัปเดตระเบียน DNS เพื่อให้เว็บไซต์ของคุณมีผู้ให้บริการโฮสติ้งปัจจุบันของคุณ
+title: อัปเดตระเบียน DNS เพื่อเก็บเว็บไซต์ของคุณกับผู้ให้บริการโฮสต์ปัจจุบันของคุณ
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -14,36 +14,36 @@ ms.custom:
 - "100002"
 ms.assetid: 48251355-7383-4fdc-a1e1-9dc2c85a8d29
 ms.openlocfilehash: 7bd36c3954d12d3ee4ac624a2f827d8e5cd88082
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 08/29/2019
+ms.lasthandoff: 06/02/2020
 ms.locfileid: "36665779"
 ---
-# <a name="update-dns-records-to-keep-your-website-with-your-current-hosting-provider"></a><span data-ttu-id="4a108-102">อัปเดตระเบียน DNS เพื่อให้เว็บไซต์ของคุณมีผู้ให้บริการโฮสติ้งปัจจุบันของคุณ</span><span class="sxs-lookup"><span data-stu-id="4a108-102">Update DNS records to keep your website with your current hosting provider</span></span>
+# <a name="update-dns-records-to-keep-your-website-with-your-current-hosting-provider"></a><span data-ttu-id="ff03f-102">อัปเดตระเบียน DNS เพื่อเก็บเว็บไซต์ของคุณกับผู้ให้บริการโฮสต์ปัจจุบันของคุณ</span><span class="sxs-lookup"><span data-stu-id="ff03f-102">Update DNS records to keep your website with your current hosting provider</span></span>
 
-1. <span data-ttu-id="4a108-103">ในศูนย์กลางการดูแลระบบ Microsoft ๓๖๕ไปที่หน้า[โดเมน](https://portal.office.com/adminportal/home#/Domains)**การตั้งค่า** > และในรายการโดเมนให้เลือกโดเมนที่คุณใช้สำหรับเว็บไซต์ของคุณ</span><span class="sxs-lookup"><span data-stu-id="4a108-103">In the Microsoft 365 admin center, go to the **Setup** > [Domains](https://portal.office.com/adminportal/home#/Domains) page, and in the list of domains, select the domain you're using for your website.</span></span>
+1. <span data-ttu-id="ff03f-103">ในศูนย์การจัดการ Microsoft 365 ให้ไปที่หน้า**โดเมนการตั้งค่า**  >  [Domains](https://portal.office.com/adminportal/home#/Domains)และในรายการโดเมน ให้เลือกโดเมนที่คุณใช้สําหรับเว็บไซต์ของคุณ</span><span class="sxs-lookup"><span data-stu-id="ff03f-103">In the Microsoft 365 admin center, go to the **Setup** > [Domains](https://portal.office.com/adminportal/home#/Domains) page, and in the list of domains, select the domain you're using for your website.</span></span>
 
-2. <span data-ttu-id="4a108-104">เลือก **+ ระเบียนที่กำหนดเองใหม่**และป้อนต่อไปนี้:</span><span class="sxs-lookup"><span data-stu-id="4a108-104">Select **+ New custom record** and enter the following:</span></span>
+2. <span data-ttu-id="ff03f-104">เลือก **+ ระเบียนที่กําหนดเองใหม่**และป้อนต่อไปนี้:</span><span class="sxs-lookup"><span data-stu-id="ff03f-104">Select **+ New custom record** and enter the following:</span></span>
 
-  - <span data-ttu-id="4a108-105">สำหรับ**ชนิด DNS**ป้อน: **A (ที่อยู่)**</span><span class="sxs-lookup"><span data-stu-id="4a108-105">For **DNS type** enter: **A (Address)**</span></span>
+  - <span data-ttu-id="ff03f-105">สําหรับ**ประเภท DNS**ให้ป้อน: **A (ที่อยู่)**</span><span class="sxs-lookup"><span data-stu-id="ff03f-105">For **DNS type** enter: **A (Address)**</span></span>
 
-  - <span data-ttu-id="4a108-106">สำหรับ**ชื่อโฮสต์หรือ Alias**ให้พิมพ์ดังต่อไปนี้:**@**</span><span class="sxs-lookup"><span data-stu-id="4a108-106">For **Host name or Alias**, type the following: **@**</span></span>
+  - <span data-ttu-id="ff03f-106">สําหรับ**ชื่อโฮสต์หรือนามแฝง**ให้พิมพ์ดังต่อไปนี้:**@**</span><span class="sxs-lookup"><span data-stu-id="ff03f-106">For **Host name or Alias**, type the following: **@**</span></span>
 
-  - <span data-ttu-id="4a108-107">สำหรับ**ที่อยู่ ip**ให้พิมพ์ที่อยู่ ip แบบคงที่สำหรับเว็บไซต์ของคุณที่เป็นโฮสต์ในปัจจุบัน (ตัวอย่างเช่น 172.16.140.1)</span><span class="sxs-lookup"><span data-stu-id="4a108-107">For **IP Address**, type the static IP address for your website where it's currently hosted (for example, 172.16.140.1).</span></span>
+  - <span data-ttu-id="ff03f-107">สําหรับ**ที่อยู่ IP**ให้พิมพ์ที่อยู่ IP แบบคงที่สําหรับเว็บไซต์ของคุณซึ่งโฮสต์อยู่ในปัจจุบัน (ตัวอย่างเช่น 172.16.140.1)</span><span class="sxs-lookup"><span data-stu-id="ff03f-107">For **IP Address**, type the static IP address for your website where it's currently hosted (for example, 172.16.140.1).</span></span>
 
-    <span data-ttu-id="4a108-108">ซึ่งจะต้องเป็นที่อยู่ ip แบบ*คง*ที่สำหรับเว็บไซต์ไม่ใช่ที่อยู่ ip*ไดนามิก*</span><span class="sxs-lookup"><span data-stu-id="4a108-108">This must be a  *static*  IP address for the website, not a  *dynamic*  IP address.</span></span> <span data-ttu-id="4a108-109">ตรวจสอบกับเว็บไซต์ที่โฮสต์เว็บไซต์ของคุณเพื่อให้แน่ใจว่าคุณจะได้รับที่อยู่ IP แบบคงที่สำหรับเว็บไซต์สาธารณะของคุณ</span><span class="sxs-lookup"><span data-stu-id="4a108-109">Check with site where your website is hosted to make sure you can get a static IP address for your public website.</span></span>
+    <span data-ttu-id="ff03f-108">นี้ต้องเป็นที่อยู่ IP*แบบคงที่*สําหรับเว็บไซต์ไม่ใช่ที่อยู่ IP*แบบไดนามิก*</span><span class="sxs-lookup"><span data-stu-id="ff03f-108">This must be a  *static*  IP address for the website, not a  *dynamic*  IP address.</span></span> <span data-ttu-id="ff03f-109">ตรวจสอบกับเว็บไซต์ที่เว็บไซต์ของคุณเป็นเจ้าภาพเพื่อให้แน่ใจว่าคุณจะได้รับที่อยู่ IP แบบคงที่สําหรับเว็บไซต์สาธารณะของคุณ</span><span class="sxs-lookup"><span data-stu-id="ff03f-109">Check with site where your website is hosted to make sure you can get a static IP address for your public website.</span></span>
 
-3. <span data-ttu-id="4a108-110">เลือก**บันทึก**</span><span class="sxs-lookup"><span data-stu-id="4a108-110">Select **Save**.</span></span>
+3. <span data-ttu-id="ff03f-110">เลือก**บันทึก**</span><span class="sxs-lookup"><span data-stu-id="ff03f-110">Select **Save**.</span></span>
 
-<span data-ttu-id="4a108-111">นอกจากนี้คุณสามารถสร้างระเบียน CNAME เพื่อช่วยให้ลูกค้าพบเว็บไซต์ของคุณ</span><span class="sxs-lookup"><span data-stu-id="4a108-111">In addition, you can create a CNAME record to help customers find your website.</span></span>
+<span data-ttu-id="ff03f-111">นอกจากนี้ คุณสามารถสร้างระเบียน CNAME เพื่อช่วยให้ลูกค้าค้นหาเว็บไซต์ของคุณได้</span><span class="sxs-lookup"><span data-stu-id="ff03f-111">In addition, you can create a CNAME record to help customers find your website.</span></span>
   
-1. <span data-ttu-id="4a108-112">เลือก **+ ระเบียนที่กำหนดเองใหม่**และป้อนต่อไปนี้:</span><span class="sxs-lookup"><span data-stu-id="4a108-112">Select **+ New custom record** and enter the following:</span></span>
+1. <span data-ttu-id="ff03f-112">เลือก **+ ระเบียนที่กําหนดเองใหม่**และป้อนต่อไปนี้:</span><span class="sxs-lookup"><span data-stu-id="ff03f-112">Select **+ New custom record** and enter the following:</span></span>
 
-  - <span data-ttu-id="4a108-113">สำหรับ**ประเภท DNS**ป้อน: **CNAME (นามแฝง)**</span><span class="sxs-lookup"><span data-stu-id="4a108-113">For **DNS type** enter: **CNAME (Alias)**</span></span>
+  - <span data-ttu-id="ff03f-113">สําหรับ**ประเภท DNS**ให้ป้อน: **CNAME (นามแฝง)**</span><span class="sxs-lookup"><span data-stu-id="ff03f-113">For **DNS type** enter: **CNAME (Alias)**</span></span>
 
-  - <span data-ttu-id="4a108-114">สำหรับ**ชื่อโฮสต์หรือ Alias**ให้พิมพ์ดังต่อไปนี้: **www**</span><span class="sxs-lookup"><span data-stu-id="4a108-114">For **Host name or Alias**, type the following: **www**</span></span>
+  - <span data-ttu-id="ff03f-114">สําหรับ**ชื่อโฮสต์หรือนามแฝง**ให้พิมพ์ต่อไปนี้: **www**</span><span class="sxs-lookup"><span data-stu-id="ff03f-114">For **Host name or Alias**, type the following: **www**</span></span>
 
-  - <span data-ttu-id="4a108-115">สำหรับ**จุดที่อยู่**ให้พิมพ์ชื่อโดเมน (แบบเต็ม FQDN) สำหรับเว็บไซต์ของคุณ (ตัวอย่างเช่น contoso.com)</span><span class="sxs-lookup"><span data-stu-id="4a108-115">For **Points to address**, type the fully qualified domain name (FQDN) for your website (for example, contoso.com).</span></span>
+  - <span data-ttu-id="ff03f-115">สําหรับ**ที่อยู่ชี้ไปยัง**ให้พิมพ์ชื่อโดเมน (FQDN) แบบเต็มสําหรับเว็บไซต์ของคุณ (ตัวอย่างเช่น contoso.com)</span><span class="sxs-lookup"><span data-stu-id="ff03f-115">For **Points to address**, type the fully qualified domain name (FQDN) for your website (for example, contoso.com).</span></span>
 
-2. <span data-ttu-id="4a108-116">เลือก**บันทึก**</span><span class="sxs-lookup"><span data-stu-id="4a108-116">Select **Save**.</span></span>
+2. <span data-ttu-id="ff03f-116">เลือก**บันทึก**</span><span class="sxs-lookup"><span data-stu-id="ff03f-116">Select **Save**.</span></span>
