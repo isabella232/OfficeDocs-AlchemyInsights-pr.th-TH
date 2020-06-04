@@ -1,5 +1,5 @@
 ---
-title: ส่งคำขอการสนับสนุน PowerApps หรือกระแสของ Microsoft
+title: ส่งคําขอการสนับสนุนของ PowerApps หรือกระแสของ Microsoft
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -13,14 +13,14 @@ ms.custom:
 - "1495"
 - "6200027"
 ms.openlocfilehash: 9f2ce78def252a7cba32b28d28dea40b6213c3ef
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 06/02/2020
 ms.locfileid: "36559500"
 ---
-# <a name="submit-powerapps-or-microsoft-flow-support-requests"></a>ส่งคำขอการสนับสนุน PowerApps หรือกระแสของ Microsoft
+# <a name="submit-powerapps-or-microsoft-flow-support-requests"></a>ส่งคําขอการสนับสนุนของ PowerApps หรือกระแสของ Microsoft
 
-ถ้าคุณมีการ**PowerApps**หรือ**กระแส Microsoft**ลูกค้าโปรดส่งบัตรของคุณผ่านทาง[แพลตฟอร์มพลังงานศูนย์ดูแล](https://admin.powerplatform.microsoft.com/support?newTicket&product=15819)แบบใหม่ เว็บไซต์ใหม่มีเส้นทางอ้อมกับการสนับสนุนที่ดีที่สุดสำหรับ PowerApps และผลิตภัณฑ์อื่น ๆ แพลตฟอร์มพลังงาน
+หากคุณเป็นลูกค้า**PowerApps**หรือ**Microsoft Flow**โปรดส่งตั๋วของคุณผ่าน[ศูนย์ดูแลแพลตฟอร์มพลังงาน](https://admin.powerplatform.microsoft.com/support?newTicket&product=15819)ใหม่ พอร์ทัลใหม่มีเส้นทางโดยตรงมากขึ้นเพื่อสนับสนุนความช่วยเหลือที่ปรับให้เหมาะสมสําหรับ PowerApps และผลิตภัณฑ์แพลตฟอร์ม Power อื่น ๆ
 
-[ส่งการร้องขอการสนับสนุนกระแสของ Microsoft](https://admin.powerplatform.microsoft.com/support?newTicket&product=Flow)
+[ส่งคําขอสนับสนุนการไหลของ Microsoft](https://admin.powerplatform.microsoft.com/support?newTicket&product=Flow)

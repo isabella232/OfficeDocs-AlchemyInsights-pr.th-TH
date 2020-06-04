@@ -1,5 +1,5 @@
 ---
-title: 611 ใช้ปฏิทินร่วมกัน
+title: การแชร์ปฏิทิน 611
 ms.author: pdigia
 author: pebaum
 manager: jackiesm
@@ -13,16 +13,16 @@ ms.custom:
 - "3800009"
 ms.assetid: 7a46ee5e-700e-455f-b13a-a063b5907a55
 ms.openlocfilehash: 1739621bedc408cfd13da7b194964f8441d6b245
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 08/29/2019
+ms.lasthandoff: 06/02/2020
 ms.locfileid: "36665599"
 ---
-# <a name="calendar-sharing-in-outlook"></a>ปฏิทินที่ใช้ร่วมกันใน Outlook
+# <a name="calendar-sharing-in-outlook"></a>การแชร์ปฏิทินใน Outlook
 
-สำหรับข้อมูลเกี่ยวกับปฏิทิน Outlook ที่มีการใช้งานร่วมกัน ดูบทความเหล่านี้:
+สําหรับข้อมูลเกี่ยวกับการใช้ปฏิทิน Outlook ร่วมกัน ให้ดูบทความต่อไปนี้
   
-- [ปฏิทิน Outlook ที่มีการใช้ร่วมกันกับผู้อื่น](https://support.office.com/article/353ed2c1-3ec5-449d-8c73-6931a0adab88)
+- [แชร์ปฏิทิน Outlook กับบุคคลอื่น](https://support.office.com/article/353ed2c1-3ec5-449d-8c73-6931a0adab88)
 
-- [ปฏิทินของคุณใน Outlook บนเว็บสำหรับธุรกิจที่ใช้งานร่วมกัน](https://support.office.com/article/7ecef8ae-139c-40d9-bae2-a23977ee58d5)
+- [แชร์ปฏิทินของคุณใน Outlook บนเว็บสําหรับธุรกิจ](https://support.office.com/article/7ecef8ae-139c-40d9-bae2-a23977ee58d5)

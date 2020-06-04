@@ -10,18 +10,18 @@ ms.custom:
 - "33"
 - "1600006"
 ms.assetid: e0fcdfdb-288e-43d2-a445-7b63e594afc6
-description: กำหนดเป้าหมายไม่เกิน๕๐๐คำสำหรับบทความ
+description: กําหนดเป้าหมายไม่เกิน 500 คําสําหรับบทความ
 ms.openlocfilehash: 0a9d519b34dad0519cc2a1dbf6a8ed26e73b04d8
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 08/29/2019
+ms.lasthandoff: 06/02/2020
 ms.locfileid: "36666211"
 ---
 # <a name="setting-up-project"></a>การตั้งค่าโครงการ
 
- หากต้องการตั้งค่า Microsoft Project ให้ทำตามขั้นตอนใน[บทความนี้](https://support.office.com/article/7059249b-d9fe-4d61-ab96-5c5bf435f281.aspx)
+ เมื่อต้องการตั้งค่าโครงการของ Microsoft[ให้ทําตามขั้นตอนในบทความนี้](https://support.office.com/article/7059249b-d9fe-4d61-ab96-5c5bf435f281.aspx)
 
-**ประกาศสำหรับผู้ใช้ Mac:** ผลิตภัณฑ์โครงการไม่พร้อมใช้งานสำหรับ MacOS ในขณะนี้ 
+**ประกาศสําหรับผู้ใช้ Mac:** ผลิตภัณฑ์ Project ไม่พร้อมใช้งานสําหรับ MacOS ในขณะนี้ 
   
-ถ้าคุณกำลังทำงานเป็นข้อผิดพลาดในระหว่างการตั้งค่าให้[ติดตั้งโครงการโดยใช้การสนับสนุนและผู้ช่วยกู้คืน](https://aka.ms/SaRA-ProjectSetupScenario)
+ถ้าคุณกําลังทํางานเป็นข้อผิดพลาดระหว่างการติดตั้ง[ให้ติดตั้ง Project โดยใช้ตัวช่วยสนับสนุนและการกู้คืน](https://aka.ms/SaRA-ProjectSetupScenario)
