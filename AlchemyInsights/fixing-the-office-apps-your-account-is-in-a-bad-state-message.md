@@ -1,5 +1,5 @@
 ---
-title: การแก้ไขข้อความ บัญชีของคุณอยู่ในสถานะที่ไม่สามารถใช้งานได้ ของแอป Office
+title: การแก้ไขแอป Microsoft 365 บัญชีของคุณอยู่ในข้อความสถานะที่ไม่ถูกต้อง
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,14 +11,14 @@ ms.collection: Adm_O365
 ms.custom:
 - "2558"
 - "9000571"
-ms.openlocfilehash: 5592158c24ae55d712018d6886670fe8e9a794c3
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: 264307f23a349ef4ebf40f48ddbcddd3216a4927
+ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44499242"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "44580136"
 ---
-# <a name="fixing-the-office-apps-your-account-is-in-a-bad-state-error"></a>การแก้ไขข้อผิดพลาด "บัญชีของคุณอยู่ในสถานะที่ไม่สามารถใช้งานได้" ของแอป Office
+# <a name="fixing-the-microsoft-365-apps-your-account-is-in-a-bad-state-error"></a>การแก้ไขข้อผิดพลาดในแอป Microsoft 365 "บัญชีของคุณอยู่ในสถานะไม่ถูกต้อง"
 
 ในการแก้ไขข้อผิดพลาดนี้ ให้ลองใช้ตัวเลือกต่อไปนี้กับคอมพิวเตอร์ที่ได้รับผลกระทบ:
 

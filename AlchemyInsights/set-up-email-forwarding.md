@@ -12,16 +12,16 @@ ms.custom:
 - "20"
 - "1200004"
 ms.assetid: 15abf81d-5c5d-49da-ac81-1b4daa1809f6
-ms.openlocfilehash: faa1ac2ceeef9af86d8961e6a19b09ceef968a57
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: 71a7b0ad6c19d9a93a2beb955ebf86f2663ac47f
+ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44512537"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "44580998"
 ---
 # <a name="check-the-email-forwarding-settings-for-a-mailbox"></a>ตรวจสอบการตั้งค่าการส่งต่ออีเมลสําหรับกล่องจดหมาย
 
-การตรวจสอบการตั้งค่าการส่งต่ออีเมลบนกล่องจดหมาย Microsoft 365 เป็นเรื่องง่าย เพียงทําตามขั้นตอนเหล่านี้
+คุณสามารถตรวจสอบการตั้งค่าการส่งต่ออีเมลในกล่องจดหมาย Microsoft 365 ได้อย่างง่ายดาย เพียงทําตามขั้นตอนเหล่านี้
   
 > ถ้าเป็นกล่องจดหมายของผู้ใช้ ไปที่**Users** \> **ผู้ใช้ที่ใช้งานอยู่**ของผู้ใช้ และเลือกผู้ใช้ที่มีกล่องจดหมายที่คุณกําลังส่งต่อ บนแท็บ**จดหมาย**ให้เลือก**จัดการการส่งต่ออีเมล**
 

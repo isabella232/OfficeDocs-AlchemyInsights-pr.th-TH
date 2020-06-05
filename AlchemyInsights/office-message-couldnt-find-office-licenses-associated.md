@@ -1,5 +1,5 @@
 ---
-title: ข้อความแอป Office - ไม่พบสิทธิ์การใช้งาน Office ที่เชื่อมโยง
+title: ข้อความแอป Microsoft 365 - ไม่พบสิทธิ์การใช้งาน Office ที่เชื่อมโยง
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,14 +11,14 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001426"
 - "3421"
-ms.openlocfilehash: 28b8c977979c9174fc5fabd7a5c7376bb2109c03
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: 08996a2e78e098fa6415d2b65dd609d0fdee5232
+ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44505110"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "44581670"
 ---
-# <a name="office-apps-message---couldnt-find-office-licenses-associated"></a>ข้อความแอป Office - ไม่พบสิทธิ์การใช้งาน Office ที่เชื่อมโยง
+# <a name="microsoft-365-apps-message---couldnt-find-office-licenses-associated"></a>ข้อความแอป Microsoft 365 - ไม่พบสิทธิ์การใช้งาน Office ที่เชื่อมโยง
 
 เมื่อต้องการแก้ไขข้อผิดพลาดนี้ ให้ลองทําดังต่อไปนี้
 
@@ -38,7 +38,7 @@ ms.locfileid: "44505110"
 
 - รีเซ็ตสถานะการเปิดใช้งาน Office ดู[รีเซ็ตแอป Microsoft 365 สําหรับสถานะการเปิดใช้งานขององค์กร](https://docs.microsoft.com/office365/troubleshoot/activation/reset-office-365-proplus-activation-state)
 
-- ตรวจสอบไฟร์วอลล์ ซอฟต์แวร์ป้องกันไวรัส และการตั้งค่าพร็อกซีของคุณเพื่อยืนยันว่าไฟร์วอลล์ไม่ได้บล็อกการเข้าถึงแอป Office กับอินเทอร์เน็ต 
+- ตรวจสอบไฟร์วอลล์ ซอฟต์แวร์ป้องกันไวรัส และการตั้งค่าพร็อกซีของคุณเพื่อยืนยันว่าไฟร์วอลล์ไม่ได้บล็อกการเข้าถึงแอป Microsoft 365 กับอินเทอร์เน็ต 
 
 สําหรับการแก้ไขปัญหาเพิ่มเติม โปรดดู:
 

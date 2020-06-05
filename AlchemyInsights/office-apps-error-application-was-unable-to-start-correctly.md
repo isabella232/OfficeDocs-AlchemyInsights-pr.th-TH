@@ -1,5 +1,5 @@
 ---
-title: 'ข้อผิดพลาดของแอป Office: โปรแกรมประยุกต์ไม่สามารถเริ่มการทำงานได้อย่างถูกต้อง'
+title: 'ข้อผิดพลาดของโปรแกรมประยุกต์ Microsoft 365: โปรแกรมประยุกต์ไม่สามารถเริ่มการทํางานได้อย่างถูกต้อง'
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,25 +11,25 @@ ms.collection: Adm_O365
 ms.custom:
 - "2533"
 - "9000572"
-ms.openlocfilehash: a096fbb25daf341a3a66294782c33e20d29d8322
-ms.sourcegitcommit: a66b37557baafe35d39134105dc604c326191a48
+ms.openlocfilehash: bc860a2e5debed1de33b7269e699ccd034181602
+ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 12/27/2019
-ms.locfileid: "40886610"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "44581178"
 ---
-# <a name="office-apps-error-the-application-was-unable-to-start-correctly"></a>ข้อผิดพลาดของแอป Office: โปรแกรมประยุกต์ไม่สามารถเริ่มการทำงานได้อย่างถูกต้อง
+# <a name="microsoft-365-apps-error-the-application-was-unable-to-start-correctly"></a>ข้อผิดพลาดของโปรแกรมประยุกต์ Microsoft 365: โปรแกรมประยุกต์ไม่สามารถเริ่มการทํางานได้อย่างถูกต้อง
 
-ในการแก้ไขข้อผิดพลาดนี้ให้ลองใช้ตัวเลือกต่อไปนี้:
+เมื่อต้องการแก้ไขข้อผิดพลาดนี้ ให้ลองทําตัวเลือกต่อไปนี้
 
-- ตรวจสอบหรือ[ติดตั้งโปรแกรมปรับปรุงล่าสุด](https://support.office.com/article/update-office-and-your-computer-with-microsoft-update-2ab296f3-7f03-43a2-8e50-46de917611c5)สำหรับ Office
-- ตรวจสอบ[ปัญหาที่](https://support.office.com/article/powerpoint-isn-t-responding-hangs-or-freezes-652ede6e-e3d2-449a-a07f-8c800dfb948d?ocmsassetID=HA104114659&CorrelationId=98329f6f-f51f-4f44-a876-4142c3583312#bkmk_addins)เป็นไปได้เกี่ยวกับเพิ่มเติมที่ติดตั้งสำหรับ Office
-- [สำนักงานซ่อมแซม](https://support.office.com/article/repair-an-office-application-7821d4b6-7c1d-4205-aa0e-a6b40c5bb88b)โดยใช้แผงควบคุม
-- [ถอนการติดตั้ง](https://support.office.com/article/uninstall-office-from-a-pc-9dd49b83-264a-477a-8fcc-2fdf5dbf61d8)และติดตั้ง Office
+- ตรวจสอบหรือ[ติดตั้งการปรับปรุงล่าสุด](https://support.office.com/article/update-office-and-your-computer-with-microsoft-update-2ab296f3-7f03-43a2-8e50-46de917611c5)สําหรับ Office
+- ตรวจสอบปัญหาที่เป็นไปได้[เกี่ยวกับ Add-in ที่ติดตั้ง](https://support.office.com/article/powerpoint-isn-t-responding-hangs-or-freezes-652ede6e-e3d2-449a-a07f-8c800dfb948d?ocmsassetID=HA104114659&CorrelationId=98329f6f-f51f-4f44-a876-4142c3583312#bkmk_addins)สําหรับ Office
+- [ซ่อมแซม Office](https://support.office.com/article/repair-an-office-application-7821d4b6-7c1d-4205-aa0e-a6b40c5bb88b)โดยใช้แผงควบคุม
+- [ถอนการติดตั้ง](https://support.office.com/article/uninstall-office-from-a-pc-9dd49b83-264a-477a-8fcc-2fdf5dbf61d8)Office และติดตั้งใหม่
 
 
 สำหรับข้อมูลเพิ่มเติม ให้ดูที่ 
 
-- [ข้อผิดพลาดเมื่อเปิดแอป Microsoft Office](https://support.office.com/article/error-when-opening-microsoft-office-apps-b84b6a63-4b8c-46ec-ae9a-ad91d6160d72)
-- [ฉันได้รับข้อผิดพลาด "หยุดทำงาน" เมื่อฉันเริ่มโปรแกรมประยุกต์ Office บนพีซีของฉัน](https://support.office.com/article/i-get-a-stopped-working-error-when-i-start-office-applications-on-my-pc-52bd7985-4e99-4a35-84c8-2d9b8301a2fa)
-- [การแก้ไขปัญหาที่เกิดขึ้นเมื่อคุณเริ่มต้นหรือใช้โปรแกรมประยุกต์ Office](https://docs.microsoft.com/office/troubleshoot/word/issues-when-start-or-use-word)
+- [ข้อผิดพลาดเมื่อเปิดแอป Microsoft 365](https://support.office.com/article/error-when-opening-microsoft-office-apps-b84b6a63-4b8c-46ec-ae9a-ad91d6160d72)
+- [ฉันได้รับข้อผิดพลาด "หยุดทํางาน"](https://support.office.com/article/i-get-a-stopped-working-error-when-i-start-office-applications-on-my-pc-52bd7985-4e99-4a35-84c8-2d9b8301a2fa)
+- [แก้ไขปัญหาที่เกิดขึ้นเมื่อคุณเริ่มการทํางาน หรือใช้แอป Microsoft 365](https://docs.microsoft.com/office/troubleshoot/word/issues-when-start-or-use-word)

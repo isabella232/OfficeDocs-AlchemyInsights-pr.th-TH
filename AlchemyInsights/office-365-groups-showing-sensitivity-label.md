@@ -1,5 +1,5 @@
 ---
-title: กลุ่ม Microsoft 365 แสดงป้ายชื่อระดับความลับ
+title: กลุ่ม Microsoft 365 แสดงป้ายชื่อความไว
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,19 +11,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "1200024"
 - "4803"
-ms.openlocfilehash: 9aea00b8239ed126cd56385cc6265fc15466db30
-ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
+ms.openlocfilehash: d8cd49eae557536d67a7d3a0798984b35c5be40e
+ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 04/27/2020
-ms.locfileid: "43911886"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "44581746"
 ---
-# <a name="microsoft-365-groups-showing-sensitivity-label"></a>กลุ่ม Microsoft 365 แสดงป้ายชื่อระดับความลับ
+# <a name="microsoft-365-groups-showing-sensitivity-label"></a>กลุ่ม Microsoft 365 แสดงป้ายชื่อความไว
 
 คุณอาจเห็นปัญหาต่อไปนี้กับกลุ่ม Microsoft 365:
 
-- ไม่สามารถสร้างกลุ่ม Microsoft 365 จาก OWA ด้วยข้อผิดพลาด "เขตข้อมูลการจัดประเภทไม่สามารถว่างเปล่า"
+- ไม่สามารถสร้างกลุ่ม Microsoft 365 จาก OWA มีข้อผิดพลาด "ฟิลด์การจัดประเภทไม่สามารถว่างเปล่า"
 
-- เห็นป้ายความละเอียดอ่อนสําหรับกลุ่ม Microsoft 365 แม้ว่าคุณไม่ได้เปิดใช้งานคุณลักษณะ
+- ดูป้ายชื่อความไวสําหรับกลุ่ม Microsoft 365 แม้ว่าคุณไม่ได้เปิดใช้งานลักษณะการทํางาน
 
-ปัญหานี้ได้รับการระบุและแก้ไข การวางจําหน่ายการแก้ไขกําลังดําเนินการอยู่ และควรจะดําเนินการให้เสร็จสมบูรณ์ในอีกไม่กี่ชั่วโมง ในขณะเดียวกัน โปรดใช้พอร์ทัลผู้ดูแลระบบ Office หรือพอร์ทัลผู้ดูแลระบบ Azure เพื่อสร้างกลุ่ม Microsoft 365  
+ปัญหานี้ได้ถูกระบุ และแก้ไขปัญหา การเอาต์การแก้ไขกําลังดําเนินการอยู่ และควรดําเนินการในอีกไม่กี่ชั่วโมง ขณะเดียวกัน โปรดใช้พอร์ทัลผู้ดูแลระบบ Office หรือ พอร์ทัลการดูแล Azure เพื่อสร้างกลุ่ม Microsoft 365  

@@ -1,5 +1,5 @@
 ---
-title: ปัญหาการเปิดใช้งาน/เข้าสู่ระบบในโมดูลแพลตฟอร์มที่เชื่อถือได้
+title: ปัญหาการเปิดใช้งาน/ลงชื่อเข้าใช้ - โมดูลแพลตฟอร์มที่เชื่อถือได้ทํางานผิดปกติ
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,20 +11,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "3406"
 - "9001429"
-ms.openlocfilehash: d1c25bb283def13524b1dcd19d0c746ee32c4e11
-ms.sourcegitcommit: efdde3c24a0c1adfb8b6f5f59dcae435fb5c53a8
+ms.openlocfilehash: 914e07fd69523005fbd777d3c05c9cf1a8beb01c
+ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 11/19/2019
-ms.locfileid: "38712020"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "44581358"
 ---
-# <a name="fixing-the-office-apps-your-computers-trusted-platform-module-is-not-functioning-properly-message"></a>แก้ไขแอป Office "โมดูลของแพลตฟอร์มที่เชื่อถือได้ของคอมพิวเตอร์ของคุณไม่ทำงานอย่างถูกต้อง"
+# <a name="fixing-the-microsoft-365-apps-your-computers-trusted-platform-module-is-not-functioning-properly-message"></a>การแก้ไขโปรแกรมประยุกต์ Microsoft 365 "โมดูลแพลตฟอร์มที่เชื่อถือได้ของคอมพิวเตอร์ของคุณทํางานไม่ถูกต้อง"
 
-ในการแก้ไขข้อผิดพลาดนี้ให้ลองทำตามขั้นตอนต่อไปนี้:
+เมื่อต้องการแก้ไขข้อผิดพลาดนี้ ให้ลองทําดังต่อไปนี้
 
-1. เปิดแอป Office และ[ลงชื่อออก](https://support.office.com/article/5a20dc11-47e9-4b6f-945d-478cb6d92071)จากบัญชีผู้ใช้ที่มีอยู่   
-2. การ**ใช้บัญชี** > **การตั้งค่า** > Windows **& บัญชี**นำบัญชีงานที่มีอยู่ออก 
-3. การใช้**บัญชี** > **การตั้งค่า** > Windows**หรือการเข้าถึงโรงเรียน**ให้ยกเลิกการเชื่อมต่อบัญชีที่มีอยู่ 
-4. ตั้งค่าสถานะการเปิดใช้งาน Office ใหม่ [เรียนรู้วิธี](https://docs.microsoft.com/office365/troubleshoot/activation/reset-office-365-proplus-activation-state
-)การ
-5. ลอง[กระบวนการกู้คืนผู้ใช้](https://docs.microsoft.com/office365/troubleshoot/administration/connection-issue-when-sign-in-office-2016#symptom-2)เพื่อแก้ไขความล้มเหลวของแพลตฟอร์ม Module ที่เชื่อถือได้ (TPM)
+1. เปิดแอป Office และ[ออกจากระบบ](https://support.office.com/article/5a20dc11-47e9-4b6f-945d-478cb6d92071)บัญชีผู้ใช้ที่มีอยู่   
+2. ใช้**Settings**  >  **บัญชีการตั้งค่า Windows**  >  **บัญชีอีเมล&,** เอาบัญชีงานที่มีอยู่. 
+3. ใช้การตั้งค่า**บัญชีของ**Windows  >  **Accounts**  >  **ทํางานหรือโรงเรียน**, ยกเลิกการเชื่อมต่อบัญชีที่มีอยู่. 
+4. รีเซ็ตสถานะการเปิดใช้งาน Office [เรียนรู้วิธี](https://docs.microsoft.com/office365/troubleshoot/activation/reset-office-365-proplus-activation-state
+)
+5. ลอง[กระบวนการกู้คืนผู้ใช้](https://docs.microsoft.com/office365/troubleshoot/administration/connection-issue-when-sign-in-office-2016#symptom-2)เพื่อแก้ไขความล้มเหลวของโมดูลแพลตฟอร์มที่เชื่อถือได้ (TPM)

@@ -1,5 +1,5 @@
 ---
-title: ข้อความแอป Office - เราประสบปัญหากับการสมัครใช้งานของคุณ
+title: ข้อความของแอป Microsoft 365 - เราได้พบปัญหาในการสมัครสมาชิกของคุณ
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,14 +11,14 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001427"
 - "3419"
-ms.openlocfilehash: 6b370dd647bbe93c435b2c1853c16906c4c910f0
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: 23617d5ad336f3811022b007a78bb4bb7db74cf5
+ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44512465"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "44581574"
 ---
-# <a name="office-apps-message---weve-run-into-a-problem-with-your-subscription"></a>ข้อความแอป Office - เราประสบปัญหากับการสมัครใช้งานของคุณ
+# <a name="microsoft-365-apps-message---weve-run-into-a-problem-with-your-subscription"></a>ข้อความของแอป Microsoft 365 - เราได้พบปัญหาในการสมัครสมาชิกของคุณ
 
 - ถ้าคุณได้เปลี่ยนไปใช้การสมัครใช้งาน/แผนอื่นเมื่อเร็ว ๆ นี้ ให้ทําตามขั้นตอนใน["ประกาศบัญชี" ปรากฏใน Office หลังจากสลับแผน](https://support.office.com/article/-account-notice-appears-in-office-after-switching-office-365-plans-857dc33a-1efc-4ce7-ac3f-ef616314e27d)เพื่อติดตั้งใหม่หรือปรับปรุง Office
 
@@ -30,7 +30,7 @@ ms.locfileid: "44512465"
 
 - เรียกใช้[ตัวแก้ไขปัญหาการเปิดใช้งาน](https://aka.ms/SARA-OfficeActivation-Alchemy)และรีสตาร์ทคอมพิวเตอร์
 
-- บนเครื่องที่ได้รับผลกระทบ[Reset Office activation state](https://techcommunity.microsoft.com/t5/Office-365-ProPlus/Reset-Office-365-ProPlus-activation-state/td-p/331632)
+- บนเครื่องที่ได้รับผลกระทบ[Reset Office activation state](https://docs.microsoft.com/office/troubleshoot/activation/reset-office-365-proplus-activation-state)
 
 สําหรับคําแนะนํารายละเอียด โปรดดู: 
 
