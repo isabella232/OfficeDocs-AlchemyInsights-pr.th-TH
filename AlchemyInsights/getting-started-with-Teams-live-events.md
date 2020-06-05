@@ -1,5 +1,5 @@
 ---
-title: เริ่มต้นใช้งานกิจกรรมถ่ายทอดสดของ Teams
+title: การเริ่มต้นใช้งานการถ่ายทอดสดของ Teams
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,29 +11,30 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000208"
 - "3436"
-ms.openlocfilehash: 4b131f7d0cd39070bbc878823a47496bd6b3c99b
-ms.sourcegitcommit: fb24e7f90a2c422588da21f54b577d2a178dd344
+ms.openlocfilehash: 6ddb1e74d6c7217303da4f21a3bd71cdab3eb871
+ms.sourcegitcommit: 8e093114cd31141664e267a7c7b779398d5fdfa8
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 04/03/2020
-ms.locfileid: "43143014"
+ms.lasthandoff: 06/04/2020
+ms.locfileid: "44563637"
 ---
-# <a name="getting-started-with-teams-live-events"></a>เริ่มต้นใช้งานกิจกรรมถ่ายทอดสดของ Teams
+# <a name="getting-started-with-teams-live-events"></a>การเริ่มต้นใช้งานการถ่ายทอดสดของ Teams
 
-เหตุการณ์สดของ Microsoft Teams คือส่วนขยายของการประชุม Teams ที่ช่วยให้คุณสามารถจัดกําหนดการและจัดทําเหตุการณ์ที่สตรีมไปยังผู้ชมออนไลน์ขนาดใหญ่ได้
+เหตุการณ์ที่เกิดขึ้นจริงของ Microsoft Teams เป็นส่วนขยายของการประชุม Teams ที่ช่วยให้คุณสามารถจัดกําหนดการและผลิตเหตุการณ์ที่สตรีมไปยังผู้ชมออนไลน์ขนาดใหญ่
 
-ในการสร้างกิจกรรมสด คุณจะต้องมีสิ่งต่อไปนี้:
+ในการสร้างไลฟ์ไลฟ์เหตุการณ์ คุณจะต้องมีสิ่งต่อไปนี้:
 
-- [สิทธิ์การใช้งาน Office 365 Enterprise E1, E3 หรือ E5 หรือสิทธิ์การใช้งาน Office 365 A3 หรือ A5](https://docs.microsoft.com/microsoftteams/teams-live-events/set-up-for-teams-live-events#step-2-get-and-assign-licenses) **หมายเหตุ**: เนื่องจากการใช้งาน Teams เพิ่มขึ้นเมื่อเร็วๆ นี้ คุณจะไม่สามารถกําหนดนโยบาย Teams ให้กับ Teams ได้ และอาจไม่มีสิทธิ์เข้าถึงคุณลักษณะบางอย่างของ Teams เช่น การโทรและการประชุมทางเสียง
+- ก่อนอื่น ให้ยืนยันว่า Teams Live Events[พร้อมใช้งานในประเทศและภูมิภาคของคุณ](https://docs.microsoft.com/microsoftteams/teams-live-events/plan-for-teams-live-events#regional-availability) กิจกรรมสดไม่ได้รับการสนับสนุนในบางประเทศ  หากคุณได้กําหนดสิทธิ์การใช้งานและตั้งค่านโยบายแล้ว แต่ยังไม่สามารถสร้าง Teams Live Event ได้ คุณอาจอยู่ในประเทศหรือภูมิภาคที่ยังไม่มีกิจกรรมถ่ายทอดสด
+
+- [สิทธิ์การใช้งาน Office 365 Enterprise E1, E3 หรือ E5 หรือสิทธิ์การใช้งาน Office 365 A3 หรือ A5](https://docs.microsoft.com/microsoftteams/teams-live-events/set-up-for-teams-live-events#step-2-get-and-assign-licenses) **หมายเหตุ**: เนื่องจากการใช้งาน Teams เพิ่มขึ้นเมื่อไม่นานมานี้ เมื่อคุณมอบหมายสิทธิ์การใช้งาน Teams ให้กับผู้ใช้ อาจใช้เวลาประมาณ 24 ชั่วโมงก่อนที่พวกเขาจะตั้งค่าอย่างสมบูรณ์ คุณจะไม่สามารถกําหนดนโยบาย Teams ให้กับพวกเขาได้ และผู้ใช้เหล่านั้นอาจไม่สามารถเข้าถึงคุณลักษณะบางอย่างของ Teams เช่น การโทรและการประชุมทางเสียงได้
 
 - สิทธิ์ในการ[สร้างเหตุการณ์สดในศูนย์การจัดการ Microsoft Teams](https://docs.microsoft.com/microsoftteams/teams-live-events/set-up-for-teams-live-events#create-or-edit-a-live-events-policy)
 
-- สิทธิ์[ในการสร้างเหตุการณ์สดในสตรีมของ Microsoft](https://docs.microsoft.com/microsoftteams/teams-live-events/what-are-teams-live-events) (สําหรับเหตุการณ์ที่เกิดขึ้นโดยใช้แอปหรืออุปกรณ์กระจายเสียงภายนอก)
+- สิทธิ์ในการ[สร้างเหตุการณ์สดในกระแสข้อมูล Microsoft](https://docs.microsoft.com/microsoftteams/teams-live-events/what-are-teams-live-events) (สําหรับเหตุการณ์ที่เกิดขึ้นโดยใช้โปรแกรมประยุกต์ออกอากาศภายนอกหรืออุปกรณ์)
 
-- สมาชิกในทีมเต็มรูปแบบในองค์กร (ไม่สามารถเป็นแขกหรือจากองค์กรอื่น)
+- สมาชิกทีมทั้งหมดในองค์กร (ไม่สามารถเป็นแขกหรือจากองค์กรอื่น)
+การตั้งเวลาการประชุมส่วนตัว การแชร์หน้าจอ และการแชร์วิดีโอ IP เปิดอยู่ในนโยบายการประชุมของทีม
 
-- การจัดกําหนดการการประชุมส่วนตัว การแชร์หน้าจอ และการแชร์วิดีโอ IP เปิดอยู่ในนโยบายการประชุมของทีม
+- [แนวทางปฏิบัติที่ดีที่สุด](https://support.office.com/article/Best-practices-for-producing-a-Teams-live-event-e500370e-4dd1-4187-8b48-af10ef02cf42)สําหรับ Teams Live Events
 
-- [หลักปฏิบัติที่ดีที่สุด](https://support.office.com/article/Best-practices-for-producing-a-Teams-live-event-e500370e-4dd1-4187-8b48-af10ef02cf42)สําหรับกิจกรรมสดของทีม
-
-สําหรับข้อมูลเพิ่มเติม โปรดดูที่[การเริ่มต้นใช้งานเหตุการณ์การถ่ายทอดสดของ Microsoft Teams](https://support.office.com/article/get-started-with-microsoft-teams-live-events-d077fec2-a058-483e-9ab5-1494afda578a)
+สําหรับข้อมูลเพิ่มเติม โปรดดู[การเริ่มต้นใช้งานเหตุการณ์สดของ Microsoft Teams](https://support.office.com/article/get-started-with-microsoft-teams-live-events-d077fec2-a058-483e-9ab5-1494afda578a)

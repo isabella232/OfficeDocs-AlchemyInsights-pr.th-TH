@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002246"
 - "4369"
-ms.openlocfilehash: 2568ce2eb911b75915fde69ca97ca1c09fb051aa
-ms.sourcegitcommit: 497705a43e9317bf1d7519223f90a4d6a8c1c5db
+ms.openlocfilehash: d03a9aa5eae0c6e8e7f279442e0dd53b3e9d2700
+ms.sourcegitcommit: 8e093114cd31141664e267a7c7b779398d5fdfa8
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 06/03/2020
-ms.locfileid: "44534784"
+ms.lasthandoff: 06/04/2020
+ms.locfileid: "44563448"
 ---
 # <a name="controlling-read-receipts-in-teams"></a>การควบคุมใบตอบรับการอ่านใน Teams
 
@@ -28,4 +28,4 @@ ms.locfileid: "44534784"
 
 - ถ้าคุณอนุญาตให้ผู้ใช้ของคุณควบคุมการตั้งค่าใบตอบรับการอ่านของตนเอง[this is how they can modify them](https://docs.microsoft.com/microsoftteams/messaging-policies-in-teams#messaging-policy-settings) 
 
-**หมายเหตุ**: ผู้ควบคุมจะต้องเปิดใบตอบรับการเปิดอ่านเพื่อให้ผู้ใช้ทําการปรับเปลี่ยน
+**หมายเหตุ**: ผู้ควบคุมจะต้องเปิดใบตอบรับการเปิดอ่านเพื่อให้ผู้ใช้ทําการปรับเปลี่ยน เมื่อต้องการตรวจสอบหรือแก้ไขการตั้งค่านี้ ให้ไปที่นโยบายการส่งข้อความของ**ศูนย์การจัดการ Teams** >  **Messaging policies**  >  **Read receipts**
