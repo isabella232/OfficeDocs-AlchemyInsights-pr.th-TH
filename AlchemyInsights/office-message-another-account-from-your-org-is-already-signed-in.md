@@ -1,5 +1,5 @@
 ---
-title: ข้อความของแอป Office - ขออภัย บัญชีผู้ใช้อื่นจากองค์กรของคุณได้ลงชื่อเข้าใช้แล้ว
+title: ข้อความของแอป Microsoft 365 - ขออภัย บัญชีอื่นจากองค์กรของคุณลงชื่อเข้าใช้แล้ว
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,31 +11,31 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001422"
 - "3407"
-ms.openlocfilehash: 5c5dfd24ccb3e31ce56db8be4f4aebcf60bfcb69
-ms.sourcegitcommit: 940169c0edf638b5086d70cc275049f01dcff3cf
+ms.openlocfilehash: 60a51c2a45e76391b132b92bb03059864bffb2ed
+ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 04/08/2020
-ms.locfileid: "43182914"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "44576939"
 ---
-# <a name="office-apps-message---sorry-another-account-from-your-organization-is-already-signed-in"></a>ข้อความของแอป Office - ขออภัย บัญชีผู้ใช้อื่นจากองค์กรของคุณได้ลงชื่อเข้าใช้แล้ว
+# <a name="microsoft-365-apps-message---sorry-another-account-from-your-organization-is-already-signed-in"></a>ข้อความของแอป Microsoft 365 - ขออภัย บัญชีอื่นจากองค์กรของคุณลงชื่อเข้าใช้แล้ว
 
-เมื่อต้องการแก้ไขข้อผิดพลาดนี้ ให้ลองทําดังต่อไปนี้:
+เมื่อต้องการแก้ไขข้อผิดพลาดนี้ ให้ลองทําดังต่อไปนี้
 
-- เปิดแอป Office และ[ออกจากระบบ](https://support.office.com/article/sign-out-of-office-5a20dc11-47e9-4b6f-945d-478cb6d92071)บัญชีผู้ใช้ที่มีอยู่
+- เปิดแอป Office และ[ออกจาก](https://support.office.com/article/sign-out-of-office-5a20dc11-47e9-4b6f-945d-478cb6d92071)ระบบบัญชีผู้ใช้ที่มีอยู่
 
-- ไปที่**การตั้งค่า windows > บัญชีผู้ใช้> อีเมล &** บัญชี และเอาบัญชีงานที่มีอยู่ออก
+- ไปที่**การตั้งค่า Windows > บัญชี >บัญชี&อีเมล**และนําบัญชีงานที่มีอยู่ออก
 
-- ไปที่**การตั้งค่า Windows > บัญชีผู้ใช้ > การเข้าถึงงานหรือโรงเรียน**และยกเลิกการเชื่อมต่อบัญชีที่มีอยู่ 
+- ไปที่**การตั้งค่า Windows > บัญชีผู้ใช้> Access ทํางานหรือโรงเรียน**และยกเลิกการเชื่อมต่อบัญชีที่มีอยู่ 
 
-- คลิกไอคอน**+** เพื่อเพิ่มหรือเชื่อมต่อบัญชีของคุณ ใส่ข้อมูลประจําตัวของคุณและรอให้กระบวนการเสร็จสมบูรณ์
+- คลิก **+** ไอคอนเพื่อเพิ่มหรือเชื่อมต่อบัญชีของคุณ ใส่ข้อมูลประจําตัวของคุณและรอให้กระบวนการเสร็จสมบูรณ์
 
 - เปิดแอป Office และลงชื่อเข้าใช้อีกครั้งหากจําเป็น 
 
-หากปัญหายังคงมีอยู่ ให้ลองทําตามขั้นตอนต่อไปนี้: 
+ถ้าปัญหายังคงมีอยู่ ให้ลองทําตามขั้นตอนต่อไปนี้: 
 
-- รีเซ็ตสถานะการเปิดใช้งาน Office ดู[การตั้งค่าโปรแกรมประยุกต์ของ Microsoft 365 สําหรับสถานะการเปิดใช้งานขององค์กร](https://docs.microsoft.com/office365/troubleshoot/activation/reset-office-365-proplus-activation-state)
+- รีเซ็ตสถานะการเปิดใช้งาน Office ดู[รีเซ็ตแอป Microsoft 365 สําหรับสถานะการเปิดใช้งานขององค์กร](https://docs.microsoft.com/office365/troubleshoot/activation/reset-office-365-proplus-activation-state)
 
-สําหรับข้อมูลเพิ่มเติม ให้ดูที่[ขออภัย บัญชีผู้ใช้อื่นจากองค์กรของคุณได้ลงชื่อเข้าใช้บนคอมพิวเตอร์เครื่องนี้ใน](https://docs.microsoft.com/office/troubleshoot/error-messages/another-account-already-signed-in)Office แล้ว
+สําหรับข้อมูลเพิ่มเติม ให้ดูที่[ขออภัย บัญชีอื่นจากองค์กรของคุณได้ลงชื่อเข้าใช้ในคอมพิวเตอร์เครื่องนี้ใน](https://docs.microsoft.com/office/troubleshoot/error-messages/another-account-already-signed-in)Office แล้ว
 
-สําหรับ Mac โปรดดูที่[ไม่สามารถลงชื่อเข้าใช้แอป Office 2016 for Mac](https://docs.microsoft.com/office365/troubleshoot/authentication/sign-in-to-office-2016-for-mac-fail)
+สําหรับ Mac ให้ดูที่[ไม่สามารถลงชื่อเข้าใช้แอป Office 2016 for Mac](https://docs.microsoft.com/office365/troubleshoot/authentication/sign-in-to-office-2016-for-mac-fail)ได้

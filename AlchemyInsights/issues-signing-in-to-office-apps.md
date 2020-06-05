@@ -1,5 +1,5 @@
 ---
-title: ปัญหาในการลงชื่อเข้าใช้กับโปรแกรมประยุกต์ของ Office
+title: ปัญหาในการลงชื่อเข้าใช้แอป Microsoft 365
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,21 +11,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000571"
 - "2560"
-ms.openlocfilehash: de0a1b78724db9a8e93d8d599ce3b503abcb86e2
-ms.sourcegitcommit: 699ac3b0d66e0640f8e933eba3c2a4ba1cfcf3c7
+ms.openlocfilehash: e4f2fea5c2f368ae240614ee1f7bc729338dd75d
+ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 07/30/2019
-ms.locfileid: "35938365"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "44579956"
 ---
-# <a name="fixing-the-office-apps-sorry-another-account-from-your-organization-is-already-signed-in-message"></a>แก้ไขข้อความ "ขออภัย บัญชีผู้ใช้อื่นจากองค์กรของคุณมีการเซ็นชื่ออยู่แล้วใน" โปรแกรมประยุกต์ของ Office
+# <a name="fixing-the-microsoft-365-apps-sorry-another-account-from-your-organization-is-already-signed-in-message"></a>การแก้ไขแอป Microsoft 365 "ขออภัย บัญชีอื่นจากองค์กรของคุณลงชื่อเข้าใช้แล้ว"
 
-เมื่อต้องการแก้ไขข้อผิดพลาดนี้ ลองต่อไปนี้:
+เมื่อต้องการแก้ไขข้อผิดพลาดนี้ ให้ลองทําดังต่อไปนี้
 
-- เอาบัญชีงานทั้งหมด ยกเว้นบัญชีได้รับผลกระทบ โดยใช้การตั้งค่า Windows >**เข้างานหรือที่โรงเรียน**
-- [ข้อมูลประจำตัวของ Office ล้าง](https://docs.microsoft.com/office/troubleshoot/error-messages/another-account-already-signed-in#step-3-clear-cached-credentials-on-the-computer)โดยใช้ตัวจัดการข้อมูลประจำตัวของ Windows<br/>
-    **หมายเหตุ:** มีเปลี่ยนเส้นทางรีจิสทรีสำหรับ Office 2016 แปลง 16.0 (แลกเปลี่ยน: \Software\Microsoft\Office\16.0\Common\Identity\)
-- เปิดโปรแกรมประยุกต์ Office เลือก**แฟ้ม** > **บัญชี** > **เครื่องหมายออก** จากนั้น เข้าสู่ระบบโดยใช้บัญชีผู้ใช้ที่มีลิขสิทธิ์ถูกต้อง สำหรับข้อมูลเพิ่มเติม ให้ดู[บัญชีผู้ใช้ใน Office](https://support.office.com/article/accounts-in-office-628ea040-f265-49de-b986-be09c3ebf8a9)
-- สำหรับ Mac ดู[ไม่สามารถเข้าสู่ระบบเป็น 2016 Office สำหรับแอพลิเคชัน Mac](https://docs.microsoft.com/office365/troubleshoot/authentication/sign-in-to-office-2016-for-mac-fail)
+- เอาบัญชีงานทั้งหมดออก ยกเว้นบัญชีที่ได้รับผลกระทบ โดยใช้การตั้งค่า Windows > **Access งานหรือโรงเรียน**
+- [ล้างข้อมูลประจำตัวของ Office](https://docs.microsoft.com/office/troubleshoot/error-messages/another-account-already-signed-in#step-3-clear-cached-credentials-on-the-computer) โดยใช้ตัวจัดการข้อมูลประจำตัวของ Windows<br/>
+    **หมายเหตุ:** เส้นทางการลงทะเบียนของ Office 2016 เปลี่ยนเป็น 16.0 แล้ว (เช่น: \ซอฟต์แวร์\Microsoft\Office\16.0\ทั่วไป\รหัสประจําตัว\)
+- เปิดแอป Office เลือก**การ**  >  **Account**  >  **ลงชื่อออก**บัญชีไฟล์ จากนั้นลงชื่อเข้าใช้โดยใช้บัญชีผู้ใช้ที่มีสิทธิ์การใช้งานที่ถูกต้อง สำหรับข้อมูลโดยละเอียด โปรดดู[บัญชีใน Office](https://support.office.com/article/accounts-in-office-628ea040-f265-49de-b986-be09c3ebf8a9)
+- สําหรับ Mac ให้ดูที่[ไม่สามารถลงชื่อเข้าใช้แอป Office 2016 for Mac](https://docs.microsoft.com/office365/troubleshoot/authentication/sign-in-to-office-2016-for-mac-fail)ได้
 
-สำหรับข้อมูลเพิ่มเติม ดู["ขอโทษ บัญชีผู้ใช้อื่นจากองค์กรของคุณมีอยู่แล้วลงชื่อเข้าใช้บนคอมพิวเตอร์เครื่องนี้" ใน Office](https://docs.microsoft.com/office/troubleshoot/error-messages/another-account-already-signed-in)
+สําหรับข้อมูลเพิ่มเติม ให้ดูที่["ขออภัย บัญชีอื่นจากองค์กรของคุณได้ลงชื่อเข้าใช้บนคอมพิวเตอร์เครื่องนี้แล้ว" ใน Office](https://docs.microsoft.com/office/troubleshoot/error-messages/another-account-already-signed-in)
