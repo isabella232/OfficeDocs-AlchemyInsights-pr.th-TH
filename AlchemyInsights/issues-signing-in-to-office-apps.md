@@ -1,5 +1,5 @@
 ---
-title: ปัญหาในการลงชื่อเข้าใช้กับโปรแกรมประยุกต์ของ Office
+title: ปัญหาในการลงชื่อเข้าใช้แอป Microsoft 365
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,21 +11,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000571"
 - "2560"
-ms.openlocfilehash: de0a1b78724db9a8e93d8d599ce3b503abcb86e2
-ms.sourcegitcommit: 699ac3b0d66e0640f8e933eba3c2a4ba1cfcf3c7
+ms.openlocfilehash: e4f2fea5c2f368ae240614ee1f7bc729338dd75d
+ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 07/30/2019
-ms.locfileid: "35938365"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "44579956"
 ---
-# <a name="fixing-the-office-apps-sorry-another-account-from-your-organization-is-already-signed-in-message"></a><span data-ttu-id="a0e49-102">แก้ไขข้อความ "ขออภัย บัญชีผู้ใช้อื่นจากองค์กรของคุณมีการเซ็นชื่ออยู่แล้วใน" โปรแกรมประยุกต์ของ Office</span><span class="sxs-lookup"><span data-stu-id="a0e49-102">Fixing the Office apps "Sorry, another account from your organization is already signed in" message</span></span>
+# <a name="fixing-the-microsoft-365-apps-sorry-another-account-from-your-organization-is-already-signed-in-message"></a><span data-ttu-id="25852-102">การแก้ไขแอป Microsoft 365 "ขออภัย บัญชีอื่นจากองค์กรของคุณลงชื่อเข้าใช้แล้ว"</span><span class="sxs-lookup"><span data-stu-id="25852-102">Fixing the Microsoft 365 apps "Sorry, another account from your organization is already signed in" message</span></span>
 
-<span data-ttu-id="a0e49-103">เมื่อต้องการแก้ไขข้อผิดพลาดนี้ ลองต่อไปนี้:</span><span class="sxs-lookup"><span data-stu-id="a0e49-103">To fix this error, try the following:</span></span>
+<span data-ttu-id="25852-103">เมื่อต้องการแก้ไขข้อผิดพลาดนี้ ให้ลองทําดังต่อไปนี้</span><span class="sxs-lookup"><span data-stu-id="25852-103">To fix this error, try the following:</span></span>
 
-- <span data-ttu-id="a0e49-104">เอาบัญชีงานทั้งหมด ยกเว้นบัญชีได้รับผลกระทบ โดยใช้การตั้งค่า Windows >**เข้างานหรือที่โรงเรียน**</span><span class="sxs-lookup"><span data-stu-id="a0e49-104">Remove all work accounts, except the affected account, using Windows Settings > **Access work or school**.</span></span>
-- <span data-ttu-id="a0e49-105">[ข้อมูลประจำตัวของ Office ล้าง](https://docs.microsoft.com/office/troubleshoot/error-messages/another-account-already-signed-in#step-3-clear-cached-credentials-on-the-computer)โดยใช้ตัวจัดการข้อมูลประจำตัวของ Windows</span><span class="sxs-lookup"><span data-stu-id="a0e49-105">[Clear Office credentials](https://docs.microsoft.com/office/troubleshoot/error-messages/another-account-already-signed-in#step-3-clear-cached-credentials-on-the-computer) using Windows Credential Manager.</span></span><br/>
-    <span data-ttu-id="a0e49-106">**หมายเหตุ:** มีเปลี่ยนเส้นทางรีจิสทรีสำหรับ Office 2016 แปลง 16.0</span><span class="sxs-lookup"><span data-stu-id="a0e49-106">**Note:** The registry paths for Office 2016 have changed to 16.0.</span></span> <span data-ttu-id="a0e49-107">(แลกเปลี่ยน: \Software\Microsoft\Office\16.0\Common\Identity\)</span><span class="sxs-lookup"><span data-stu-id="a0e49-107">(Ex: \Software\Microsoft\Office\16.0\Common\Identity\)</span></span>
-- <span data-ttu-id="a0e49-108">เปิดโปรแกรมประยุกต์ Office เลือก**แฟ้ม** > **บัญชี** > **เครื่องหมายออก** จากนั้น เข้าสู่ระบบโดยใช้บัญชีผู้ใช้ที่มีลิขสิทธิ์ถูกต้อง</span><span class="sxs-lookup"><span data-stu-id="a0e49-108">Open an Office app, choose **File** > **Account** > **Sign Out**. Then sign in using a user account with a valid license.</span></span> <span data-ttu-id="a0e49-109">สำหรับข้อมูลเพิ่มเติม ให้ดู[บัญชีผู้ใช้ใน Office](https://support.office.com/article/accounts-in-office-628ea040-f265-49de-b986-be09c3ebf8a9)</span><span class="sxs-lookup"><span data-stu-id="a0e49-109">For detailed information, see [Accounts in Office](https://support.office.com/article/accounts-in-office-628ea040-f265-49de-b986-be09c3ebf8a9).</span></span>
-- <span data-ttu-id="a0e49-110">สำหรับ Mac ดู[ไม่สามารถเข้าสู่ระบบเป็น 2016 Office สำหรับแอพลิเคชัน Mac](https://docs.microsoft.com/office365/troubleshoot/authentication/sign-in-to-office-2016-for-mac-fail)</span><span class="sxs-lookup"><span data-stu-id="a0e49-110">For Mac, see [Can't sign in to an Office 2016 for Mac app](https://docs.microsoft.com/office365/troubleshoot/authentication/sign-in-to-office-2016-for-mac-fail).</span></span>
+- <span data-ttu-id="25852-104">เอาบัญชีงานทั้งหมดออก ยกเว้นบัญชีที่ได้รับผลกระทบ โดยใช้การตั้งค่า Windows > **Access งานหรือโรงเรียน**</span><span class="sxs-lookup"><span data-stu-id="25852-104">Remove all work accounts, except the affected account, using Windows Settings > **Access work or school**.</span></span>
+- <span data-ttu-id="25852-105">[ล้างข้อมูลประจำตัวของ Office](https://docs.microsoft.com/office/troubleshoot/error-messages/another-account-already-signed-in#step-3-clear-cached-credentials-on-the-computer) โดยใช้ตัวจัดการข้อมูลประจำตัวของ Windows</span><span class="sxs-lookup"><span data-stu-id="25852-105">[Clear Office credentials](https://docs.microsoft.com/office/troubleshoot/error-messages/another-account-already-signed-in#step-3-clear-cached-credentials-on-the-computer) using Windows Credential Manager.</span></span><br/>
+    <span data-ttu-id="25852-106">**หมายเหตุ:** เส้นทางการลงทะเบียนของ Office 2016 เปลี่ยนเป็น 16.0 แล้ว</span><span class="sxs-lookup"><span data-stu-id="25852-106">**Note:** The registry paths for Office 2016 have changed to 16.0.</span></span> <span data-ttu-id="25852-107">(เช่น: \ซอฟต์แวร์\Microsoft\Office\16.0\ทั่วไป\รหัสประจําตัว\)</span><span class="sxs-lookup"><span data-stu-id="25852-107">(Ex: \Software\Microsoft\Office\16.0\Common\Identity\)</span></span>
+- <span data-ttu-id="25852-108">เปิดแอป Office เลือก**การ**  >  **Account**  >  **ลงชื่อออก**บัญชีไฟล์ จากนั้นลงชื่อเข้าใช้โดยใช้บัญชีผู้ใช้ที่มีสิทธิ์การใช้งานที่ถูกต้อง</span><span class="sxs-lookup"><span data-stu-id="25852-108">Open an Office app, choose **File** > **Account** > **Sign Out**. Then sign in using a user account with a valid license.</span></span> <span data-ttu-id="25852-109">สำหรับข้อมูลโดยละเอียด โปรดดู[บัญชีใน Office](https://support.office.com/article/accounts-in-office-628ea040-f265-49de-b986-be09c3ebf8a9)</span><span class="sxs-lookup"><span data-stu-id="25852-109">For detailed information, see [Accounts in Office](https://support.office.com/article/accounts-in-office-628ea040-f265-49de-b986-be09c3ebf8a9).</span></span>
+- <span data-ttu-id="25852-110">สําหรับ Mac ให้ดูที่[ไม่สามารถลงชื่อเข้าใช้แอป Office 2016 for Mac](https://docs.microsoft.com/office365/troubleshoot/authentication/sign-in-to-office-2016-for-mac-fail)ได้</span><span class="sxs-lookup"><span data-stu-id="25852-110">For Mac, see [Can't sign in to an Office 2016 for Mac app](https://docs.microsoft.com/office365/troubleshoot/authentication/sign-in-to-office-2016-for-mac-fail).</span></span>
 
-<span data-ttu-id="a0e49-111">สำหรับข้อมูลเพิ่มเติม ดู["ขอโทษ บัญชีผู้ใช้อื่นจากองค์กรของคุณมีอยู่แล้วลงชื่อเข้าใช้บนคอมพิวเตอร์เครื่องนี้" ใน Office](https://docs.microsoft.com/office/troubleshoot/error-messages/another-account-already-signed-in)</span><span class="sxs-lookup"><span data-stu-id="a0e49-111">For more information, see ["Sorry, another account from your organization is already signed in on this computer" in Office](https://docs.microsoft.com/office/troubleshoot/error-messages/another-account-already-signed-in).</span></span>
+<span data-ttu-id="25852-111">สําหรับข้อมูลเพิ่มเติม ให้ดูที่["ขออภัย บัญชีอื่นจากองค์กรของคุณได้ลงชื่อเข้าใช้บนคอมพิวเตอร์เครื่องนี้แล้ว" ใน Office](https://docs.microsoft.com/office/troubleshoot/error-messages/another-account-already-signed-in)</span><span class="sxs-lookup"><span data-stu-id="25852-111">For more information, see ["Sorry, another account from your organization is already signed in on this computer" in Office](https://docs.microsoft.com/office/troubleshoot/error-messages/another-account-already-signed-in).</span></span>
