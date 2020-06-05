@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "3412"
 - "9001428"
-ms.openlocfilehash: b629f24014a789b1f9847f62e725f726d4199027
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: 89d0e589329d40f17c36baa54868154be0f5b887
+ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44512031"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "44582758"
 ---
 # <a name="suggestions-for-solving-unlicensed-product-errors"></a>คําแนะนําสําหรับการแก้ปัญหาข้อผิดพลาด "ผลิตภัณฑ์ที่ไม่มีสิทธิ์การใช้งาน"
 
@@ -26,7 +26,7 @@ ms.locfileid: "44512031"
 - ตรวจสอบให้แน่ใจว่าคุณมีการสมัครใช้งานที่อนุญาตให้มีสิทธิ์การใช้งานไคลเอ็นต์ เช่น Microsoft 365 Apps สําหรับธุรกิจหรือ Business Premium และ[ตรวจสอบว่าผู้ใช้มีสิทธิ์การใช้งานที่ได้รับมอบหมาย](https://docs.microsoft.com/microsoft-365/admin/add-users/add-users) 
 - ตรวจสอบให้แน่ใจว่า ผู้ใช้ลงชื่อเข้าใช้ Office ด้วยบัญชีผู้ใช้เดียวกันกับที่มีการกําหนดสิทธิ์การใช้งาน
 - ตรวจสอบ[หน้าสถานภาพบริการ](https://docs.microsoft.com/office365/enterprise/view-service-health)เพื่อดูว่ามีปัญหาใด ๆ ที่ทราบเกี่ยวกับบริการหรือไม่
-- ตรวจสอบไฟร์วอลล์ ซอฟต์แวร์ป้องกันไวรัส และการตั้งค่าพร็อกซีของคุณเพื่อยืนยันว่าไฟร์วอลล์ไม่ได้บล็อกการเข้าถึงแอป Office ไปยังอินเทอร์เน็ต ดู[URL และช่วงที่อยู่ IP](https://docs.microsoft.com/office365/enterprise/urls-and-ip-address-ranges)
+- ตรวจสอบไฟร์วอลล์ ซอฟต์แวร์ป้องกันไวรัส และการตั้งค่าพร็อกซีเพื่อยืนยันว่าไฟร์วอลล์ของคุณไม่ได้บล็อกการเข้าถึงแอป Microsoft 365 ไปยังอินเทอร์เน็ต ดู[URL และช่วงที่อยู่ IP](https://docs.microsoft.com/office365/enterprise/urls-and-ip-address-ranges)
 
 นอกจากนี้คุณอาจลองการดําเนินการแก้ไขปัญหาต่อไปนี้: 
 
