@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom:
 - "3518"
 - "1800021"
-ms.openlocfilehash: ecc1e5ec741cc90c58698991c3a3135f87c39938
-ms.sourcegitcommit: 9816ac4d0fef20558383a491e0e76b79c56323f5
+ms.openlocfilehash: c0982da82826d1644f437b19e0d343a59d7ac473
+ms.sourcegitcommit: e09af4285c6b81ca0a5320fdb811713ac25748c3
 ms.translationtype: MT
 ms.contentlocale: th-TH
 ms.lasthandoff: 06/09/2020
-ms.locfileid: "44618032"
+ms.locfileid: "44664265"
 ---
 # <a name="error-the-rules-on-this-computer-do-not-match"></a>ข้อผิดพลาด: กฎบนคอมพิวเตอร์นี้ไม่ตรงกัน
 
@@ -28,3 +28,4 @@ ms.locfileid: "44618032"
 **วิธีแก้ปัญหา**: ในรายงานล่าสุด ถ้าคุณยังทํางานเป็นปัญหา ให้พิจารณาการลบกฎ แล้วสร้าง และแก้ไขกฎใน OWA (Outlook Web App) จนกว่าปัญหาได้รับการแก้ไข
 
 ถ้าคุณไม่สามารถลบกฎด้วยตนเองคุณสามารถเรียกใช้คําสั่ง Outlook เมื่อคุณเริ่ม Outlook โดยการเรียกใช้ Outlook.exe /cleanrules นี้จะลบทั้งไคลเอ็นต์และกฎของเซิร์ฟเวอร์ มันจะลบกฎทั้งหมดสําหรับบัญชีทั้งหมดในโปรไฟล์ Outlook คําสั่งนี้ได้รับการบันทึกเพิ่มเติมในบทความสวิตช์บรรทัดคําสั่ง
+
