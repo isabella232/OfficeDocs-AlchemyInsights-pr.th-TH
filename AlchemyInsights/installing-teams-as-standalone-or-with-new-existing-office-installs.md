@@ -1,5 +1,5 @@
 ---
-title: การติดตั้ง Teams เป็นแบบสแตนด์อโลนหรือติดตั้ง Office ใหม่/ที่มีอยู่
+title: การติดตั้ง Teams เป็นแบบสแตนด์อโลน หรือติดตั้ง Office ใหม่/ที่มีอยู่
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,20 +11,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "2663"
 - "9000660"
-ms.openlocfilehash: 1c6e99056dad97362923c7c3feb1d6a739df5c6a
-ms.sourcegitcommit: 7e06d9ec1dd462cbd882f088c997d012a032f04d
+ms.openlocfilehash: 4ccc8a56528b0ca6eb69ccd4b2a9685b9c255c21
+ms.sourcegitcommit: 9816ac4d0fef20558383a491e0e76b79c56323f5
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 05/04/2020
-ms.locfileid: "44010588"
+ms.lasthandoff: 06/09/2020
+ms.locfileid: "44618188"
 ---
-# <a name="installing-teams-as-standalone-or-with-new-or-existing-office-installations"></a>การติดตั้ง Teams เป็นแบบสแตนด์อโลนหรือติดตั้ง Office ใหม่หรือที่มีอยู่
+# <a name="installing-teams-as-standalone-or-with-new-or-existing-office-installations"></a>การติดตั้ง Teams เป็นแบบสแตนด์อโลน หรือการติดตั้ง Office ใหม่หรือที่มีอยู่
 
-Microsoft Teams จะรวมเป็นส่วนหนึ่งของ*การติดตั้ง*แอป Microsoft 365 ใหม่สําหรับองค์กร, แอป Microsoft 365 สําหรับธุรกิจ และ Office for Mac สําหรับข้อมูลเพิ่มเติม ให้ดูที่[Microsoft Teams จะเริ่มต้นมาพร้อมกับการติดตั้ง Office ใหม่เมื่อใด](https://docs.microsoft.com/deployoffice/teams-install#when-will-microsoft-teams-start-being-included-with-new-installations-of-microsoft-365-apps)
+ทีม Microsoft จะรวมเป็นส่วนหนึ่งของ*การติดตั้ง*ใหม่ของ Microsoft 365 Apps สําหรับองค์กร, Microsoft 365 Apps สําหรับธุรกิจ และ Office สําหรับ Mac สําหรับข้อมูลเพิ่มเติม ให้ดูที่[Microsoft Teams จะเริ่มมาพร้อมกับการติดตั้ง Office ใหม่เมื่อใด](https://docs.microsoft.com/deployoffice/teams-install#when-will-microsoft-teams-start-being-included-with-new-installations-of-microsoft-365-apps)
 
-นอกจากนี้ เริ่มต้นด้วยรุ่น 1906 ในสถานีรายเดือน Teams จะถูก*เพิ่มเข้ากับการติดตั้งแอป*Microsoft 365 สําหรับธุรกิจ (และแอป Microsoft 365 สําหรับธุรกิจ) บนอุปกรณ์ที่ใช้ Windows เมื่อคุณปรับปรุงการติดตั้งที่มีอยู่ของคุณให้เป็นรุ่นล่าสุด สําหรับข้อมูลเพิ่มเติม ให้ดูที่[การติดตั้ง Office ที่มีอยู่เป็นอย่างไร](https://docs.microsoft.com/deployoffice/teams-install#what-about-existing-installations-of-microsoft-365-apps)
+นอกจากนี้, เริ่มต้นด้วยรุ่น 1906 ในช่องทางปัจจุบัน, ทีมจะถูก*เพิ่มการติดตั้งที่มีอยู่*ของ Microsoft 365 Apps สําหรับองค์กร (และ Microsoft 365 Apps สําหรับธุรกิจ) บนอุปกรณ์ที่ใช้ Windows เมื่อคุณปรับปรุงการติดตั้งที่มีอยู่ของคุณเป็นรุ่นล่าสุด. สําหรับข้อมูลเพิ่มเติม ให้ดูที่[สิ่งที่เกี่ยวกับการติดตั้ง Office ที่มีอยู่](https://docs.microsoft.com/deployoffice/teams-install#what-about-existing-installations-of-microsoft-365-apps)
 
-คุณสามารถปรับใช้ Teams เป็นแบบสแตนด์อโลนสําหรับผู้ใช้ของคุณโดย[ทําตามคําแนะนําเหล่านี้](https://docs.microsoft.com/MicrosoftTeams/msi-deployment)หรือคุณสามารถให้ผู้ใช้ติดตั้ง Teams สําหรับตัวเองhttps://teams.microsoft.com/downloadsจาก
+คุณสามารถปรับใช้ Teams เป็นแบบสแตนด์อโลนสําหรับผู้ใช้ของคุณโดย[ทําตามคําแนะนําเหล่านี้](https://docs.microsoft.com/MicrosoftTeams/msi-deployment)หรือคุณสามารถให้ผู้ใช้ของคุณติดตั้ง Teams https://teams.microsoft.com/downloads สําหรับตัวเองจาก
 
-หลังจากติดตั้ง Teams แล้ว Teams จะ[อัปเดตโดยอัตโนมัติทุก](https://docs.microsoft.com/deployoffice/teams-install#feature-and-quality-updates-for-microsoft-teams)ๆ สองสัปดาห์ด้วยฟีเจอร์ใหม่และการอัปเดตคุณภาพ 
+หลังจากติดตั้ง Teams แล้ว ทีมจะ[อัพเดท](https://docs.microsoft.com/deployoffice/teams-install#feature-and-quality-updates-for-microsoft-teams)โดยอัตโนมัติทุกสองสัปดาห์ด้วยคุณสมบัติใหม่และการอัปเดตคุณภาพ 
 
