@@ -1,5 +1,5 @@
 ---
-title: เพิ่มในทีม Outlook
+title: เพิ่มใน Outlook ของทีม
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -13,22 +13,15 @@ ms.custom:
 - "3536"
 - "9002573"
 - "4990"
-ms.openlocfilehash: e71e3bdcc11bf687b486aab634664cfb6eb55fdb
-ms.sourcegitcommit: 1c052f8dada7b7d081c61462396e1de3df682c28
+ms.openlocfilehash: e4645f5d589333817d65adffa6d02de9e9bac255
+ms.sourcegitcommit: 3ca312535d950105ee829e037f0ff8f1ddbbae72
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 05/05/2020
-ms.locfileid: "44021517"
+ms.lasthandoff: 06/11/2020
+ms.locfileid: "44702225"
 ---
-# <a name="teams-outlook-add-in"></a><span data-ttu-id="427c9-102">เพิ่มในทีม Outlook</span><span class="sxs-lookup"><span data-stu-id="427c9-102">Teams Outlook add-in</span></span>
+# <a name="teams-outlook-add-in"></a><span data-ttu-id="762d6-102">เพิ่มใน Outlook ของทีม</span><span class="sxs-lookup"><span data-stu-id="762d6-102">Teams Outlook add-in</span></span>
 
-<span data-ttu-id="427c9-103">มีหลายปัจจัยที่อาจทําให้ Teams add-in ของคุณไม่ปรากฏ และทั้งหมดจะแสดง[ที่นี่](https://docs.microsoft.com/microsoftteams/teams-add-in-for-outlook#teams-meeting-add-in-in-outlook-for-windows-does-not-show)</span><span class="sxs-lookup"><span data-stu-id="427c9-103">There are multiple factors that could cause your Teams add-in to not appear, and they are all listed [here](https://docs.microsoft.com/microsoftteams/teams-add-in-for-outlook#teams-meeting-add-in-in-outlook-for-windows-does-not-show).</span></span>
+<span data-ttu-id="762d6-103">เมื่อต้องการแก้ไขปัญหาที่ขาดหายไปทีม Outlook เพิ่มใน อันดับแรกให้แน่ใจว่าได้เรียกใช้บริการการวินิจฉัยที่นี่ในเว็บไซต์ Admin</span><span class="sxs-lookup"><span data-stu-id="762d6-103">To troubleshoot a missing Teams Outlook Add-in, first be sure to run the Service Diagnostic here in the Admin Portal.</span></span>  <span data-ttu-id="762d6-104">ถ้าการวินิจฉัยบริการบ่งชี้ว่า ไม่มีปัญหา โปรดดําเนินการดาวน์โหลด และเรียกใช้[การสนับสนุนของ Microsoft และการกู้คืนผู้ช่วย](https://aka.ms/SaRA-TeamsAddInScenario)**ทีม Outlook เพิ่มในสถานการณ์สมมติ**บนเครื่องผู้ใช้ที่ได้รับผลกระทบเพื่อวินิจฉัย และแก้ไขปัญหาไคลเอ็นต์ใด ๆ</span><span class="sxs-lookup"><span data-stu-id="762d6-104">If the Service Diagnostic indicates no issues, please proceed to download and run the [Microsoft Support and Recovery Assistant](https://aka.ms/SaRA-TeamsAddInScenario) **Teams Outlook Add-in Scenario** on the affected user machines to diagnose and correct any client issues.</span></span>
 
-<span data-ttu-id="427c9-104">**เราขอแนะนําให้คุณตรวจสอบก่อนว่า Add-in นั้นไม่ได้ปิดใช้งาน:**</span><span class="sxs-lookup"><span data-stu-id="427c9-104">**We recommend you first check that the add-in isn’t disabled:**</span></span>
-
-- <span data-ttu-id="427c9-105">ใน Outlook ให้คลิก**ไฟล์**แล้วคลิก**ตัวเลือก**</span><span class="sxs-lookup"><span data-stu-id="427c9-105">In Outlook, click **File** and then **Options**.</span></span>
-- <span data-ttu-id="427c9-106">เลือกแท็บ**เพิ่มเติม**ของกล่องโต้ตอบ**ตัวเลือก Outlook**</span><span class="sxs-lookup"><span data-stu-id="427c9-106">Select the **Add-ins** tab of **Outlook Options** dialog box.</span></span>
-- <span data-ttu-id="427c9-107">ยืนยันว่า**Microsoft ทีมประชุม add-in สําหรับ Microsoft Office**อยู่ในรายการ**โปรแกรมประยุกต์ที่ใช้งานอยู่เพิ่มเติม**</span><span class="sxs-lookup"><span data-stu-id="427c9-107">Confirm that **Microsoft Teams Meeting Add-in for Microsoft Office** is listed in the **Active Application Add-ins** list.</span></span>
-- <span data-ttu-id="427c9-108">ถ้าเพิ่มในการประชุมทีมอยู่ในรายการ**Add-in ของโปรแกรมประยุกต์ที่ถูกปิดใช้งาน**เลือก**COM Add-ins\*\*\*\*ในการจัดการแล้วคลิก\*\*\*\*ไป...**</span><span class="sxs-lookup"><span data-stu-id="427c9-108">If the Teams Meeting Add-in is listed in the **Disabled Application Add-ins** list, select **COM Add-ins** in **Manage** and then click **Go…**</span></span>
-- <span data-ttu-id="427c9-109">ตั้งค่ากล่องกาเครื่องหมายที่อยู่ถัดจาก**Add-in ของ Microsoft สําหรับ Microsoft Office**</span><span class="sxs-lookup"><span data-stu-id="427c9-109">Set the checkbox next to **Microsoft Teams Meeting Add-in for Microsoft Office**.</span></span>
-- <span data-ttu-id="427c9-110">คลิกตกลง**ในกล่องโต้ตอบ**ทั้งหมดและเริ่ม Outlook ใหม่</span><span class="sxs-lookup"><span data-stu-id="427c9-110">Click **OK** on all dialog boxes and restart Outlook.</span></span>
+<span data-ttu-id="762d6-105">เมื่อต้องการแก้ไขปัญหาด้วยตนเอง ให้ตรวจสอบรายการปัจจัยที่อาจก่อให้เกิดการเพิ่มทีมของคุณไม่ให้ปรากฏ[ที่นี่](https://docs.microsoft.com/microsoftteams/teams-add-in-for-outlook#teams-meeting-add-in-in-outlook-for-windows-does-not-show)</span><span class="sxs-lookup"><span data-stu-id="762d6-105">To manually troubleshoot the issue, review the list of potential factors that could cause your Teams add-in to not appear listed [here](https://docs.microsoft.com/microsoftteams/teams-add-in-for-outlook#teams-meeting-add-in-in-outlook-for-windows-does-not-show).</span></span>
