@@ -11,16 +11,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002490"
 - "4832"
-ms.openlocfilehash: 583ea686ea119e4e8b9cc7201a92b84ce77fe30e
-ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
+ms.openlocfilehash: a12ef0b9a7be66f294302eb16a569d82cea29507
+ms.sourcegitcommit: 36fcad9aeebac00a8441148d0e105cd72dcc1d7d
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 06/05/2020
-ms.locfileid: "44580568"
+ms.lasthandoff: 06/18/2020
+ms.locfileid: "44797990"
 ---
 # <a name="common-issues-and-resolutions-for-adfs"></a>ปัญหาทั่วไปและวิธีแก้ปัญหาสําหรับ ADFS
 
 การกําหนดค่าของโดเมนที่ติดต่อกับภายนอกสามารถปรับปรุงตามที่อธิบายไว้ในบทความฐานความรู้ของ Microsoft ต่อไปนี้
+
+- [ใบรับรองสหพันธรัฐ ADFS หมดอายุ](adfs-federation-certificate-expiring.md)
 
 - [ข้อผิดพลาด](https://support.microsoft.com/help/2713898)"มีปัญหาในการเข้าถึงไซต์" จาก FS โฆษณาเมื่อผู้ใช้ติดต่อกับภายนอกลงชื่อใน Microsoft 365, Azure หรือ Intun
 
