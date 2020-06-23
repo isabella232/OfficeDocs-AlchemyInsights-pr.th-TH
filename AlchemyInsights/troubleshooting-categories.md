@@ -1,5 +1,5 @@
 ---
-title: 604 หมวดหมู่การแก้ไขปัญหา
+title: ประเภทการแก้ไขปัญหา 604
 ms.author: pdigia
 author: pebaum
 manager: jackiesm
@@ -13,14 +13,15 @@ ms.custom:
 - "604"
 - "3800003"
 ms.assetid: dc8c3acf-fe72-4b92-8cdc-6a635502eeb1
-ms.openlocfilehash: a2c6194c515244782eb2111f827a3ea5ed7f7284
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 94143cf349479c5b2e6be87b3a5a11614e0bdfc9
+ms.sourcegitcommit: 722e9a0ed058cb1eab2dd053be2418b60f7d4aac
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43732385"
+ms.lasthandoff: 06/23/2020
+ms.locfileid: "44850822"
 ---
 # <a name="outlook-categories"></a>ประเภท Outlook
 
-ประเภทสีช่วยให้คุณสามารถระบุและจัดกลุ่มรายการที่เกี่ยวข้องใน Microsoft Outlook ได้อย่างง่ายดาย สําหรับข้อมูลเพิ่มเติม ให้ดูที่[การสร้างและกําหนดประเภทสี](https://support.office.com/article/A1FDE97E-15E1-4179-A1A0-8A91EF89B8DC)
-  
+ประเภทจะนําไปใช้กับรายการในปฏิทินของคุณเท่านั้น ถ้าคุณใช้ประเภทสีกับการเรียกประชุมหรือการประชุมที่คุณได้รับจากบุคคลอื่น  ถ้าคุณใช้ประเภทสีบนกล่องจดหมายที่แชร์ กล่องจดหมายของผู้รับมอบสิทธิ์ กล่องจดหมายกลุ่ม กล่องจดหมายห้อง ฯลฯ ประเภทสีจะมีผลต่อมุมมองของคุณเท่านั้น
+
+สําหรับข้อมูลเพิ่มเติม:[กําหนดประเภทสีให้กับการนัดหมาย ปฏิทิน การประชุม หรือเหตุการณ์](https://support.microsoft.com/office/750596d9-707d-4412-8c0e-7fdc0fc52527)
