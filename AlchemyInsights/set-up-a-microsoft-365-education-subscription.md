@@ -11,19 +11,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002444"
 - "5493"
-ms.openlocfilehash: 1759240afe18342bd5af205eb36d747803808134
-ms.sourcegitcommit: 07725fcaf073f0ac145f98653b989afdb34c5ad0
+ms.openlocfilehash: 3d2cb4689a0281e0184f2a02ec153208a997e8f7
+ms.sourcegitcommit: 981880f6141278b87da22924a39bb1bb5892bb83
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 04/28/2020
-ms.locfileid: "43915261"
+ms.lasthandoff: 06/22/2020
+ms.locfileid: "44841018"
 ---
 # <a name="set-up-a-microsoft-365-education-subscription"></a>ตั้งค่าการสมัครใช้งาน Microsoft 365 Education
 
-สําหรับไกด์ walk-through โปรดดู[วิดีโอเสียงบรรยาย](https://aka.ms/M365EduSetup)ของการศึกษาทั้งหมดตั้งค่ากระบวนการ
+สําหรับคําแนะนําเดินผ่าน, โปรดชม[วิดีโอเสียงอธิบาย](https://aka.ms/M365EduSetup)ของทั้งการศึกษาการตั้งค่ากระบวนการ.
 
-**ทรัพยากรที่ยอดเยี่ยมมากขึ้น**
+**แหล่งข้อมูลที่ยอดเยี่ยมมากขึ้น**
 
-- ดู[ตั้งค่าผู้เช่า Office 365 Education](https://docs.microsoft.com/microsoft-365/education/intune-edu-trial/set-up-office365-edu-tenant)สําหรับภาพรวม
-- ดู[การเริ่มต้นใช้งาน Microsoft 365 Education](https://docs.microsoft.com/education/)สําหรับผู้ดูแลระบบ IT นักพัฒนา และคู่ค้า 
-- [เชื่อมโยงบัญชี Microsoft Store ของคุณกับ Intune สําหรับการศึกษา](https://docs.microsoft.com/microsoft-365/education/intune-edu-trial/configure-microsoft-store-for-education) 
+- ดู[สร้างบัญชีผู้ใช้ผู้เช่า Office 365](https://docs.microsoft.com/microsoft-365/education/deploy/create-your-office-365-tenant)ของคุณสําหรับภาพรวม
+- ดู[การเริ่มต้นใช้งาน Microsoft 365 Education](https://docs.microsoft.com/education/)สําหรับผู้ดูแลระบบ IT นักพัฒนา และคู่ค้า

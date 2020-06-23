@@ -1,5 +1,5 @@
 ---
-title: ไม่สามารถเข้าถึง SharePoint
+title: ไม่สามารถเข้าถึง SharePoint ได้
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
@@ -12,15 +12,15 @@ ms.assetid: ''
 ms.custom:
 - "9000158"
 - "1676"
-ms.openlocfilehash: 5317518d0a27dfdd4d38b4e536d8bd0662b976fe
-ms.sourcegitcommit: f5a3b2f436b00e18cbf337044ea8818726517651
+ms.openlocfilehash: 74f8e9009dd314aab5ce45e9aeff3e3511e4e0c9
+ms.sourcegitcommit: 981880f6141278b87da22924a39bb1bb5892bb83
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 05/18/2020
-ms.locfileid: "44278839"
+ms.lasthandoff: 06/22/2020
+ms.locfileid: "44840940"
 ---
-# <a name="cannot-access-sharepoint"></a>ไม่สามารถเข้าถึง SharePoint
+# <a name="cannot-access-sharepoint"></a>ไม่สามารถเข้าถึง SharePoint ได้
 
-มีสาเหตุหลายประการที่ทําให้ Microsoft SharePoint หรือ Microsoft OneDrive อาจไม่สามารถเข้าถึงได้ ถ้าคุณไม่สามารถเข้าถึง SharePoint แบบออนไลน์ ใช้คําแนะนําต่อไปนี้เพื่อแก้ไขปัญหานี้
+มีหลายสาเหตุที่ทําให้ SharePoint หรือ OneDrive ไม่สามารถเข้าถึงได้ ถ้าคุณไม่สามารถเข้าถึง SharePoint หรือ OneDrive ให้ใช้คําแนะนําต่อไปนี้เพื่อแก้ไขปัญหานี้
 
-- [ไม่สามารถเข้าถึง SharePoint แบบออนไลน์](https://docs.microsoft.com/sharepoint/troubleshoot/sharing-and-permissions/sharepoint-online-inaccessible)
+- [ไม่สามารถเข้าถึง SharePoint หรือ OneDrive](https://docs.microsoft.com/sharepoint/troubleshoot/sharing-and-permissions/sharepoint-online-inaccessible)
