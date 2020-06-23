@@ -1,5 +1,5 @@
 ---
-title: 604 หมวดหมู่การแก้ไขปัญหา
+title: ประเภทการแก้ไขปัญหา 604
 ms.author: pdigia
 author: pebaum
 manager: jackiesm
@@ -13,14 +13,15 @@ ms.custom:
 - "604"
 - "3800003"
 ms.assetid: dc8c3acf-fe72-4b92-8cdc-6a635502eeb1
-ms.openlocfilehash: a2c6194c515244782eb2111f827a3ea5ed7f7284
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 94143cf349479c5b2e6be87b3a5a11614e0bdfc9
+ms.sourcegitcommit: 722e9a0ed058cb1eab2dd053be2418b60f7d4aac
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43732385"
+ms.lasthandoff: 06/23/2020
+ms.locfileid: "44850822"
 ---
-# <a name="outlook-categories"></a><span data-ttu-id="89a18-102">ประเภท Outlook</span><span class="sxs-lookup"><span data-stu-id="89a18-102">Outlook categories</span></span>
+# <a name="outlook-categories"></a><span data-ttu-id="c8c4c-102">ประเภท Outlook</span><span class="sxs-lookup"><span data-stu-id="c8c4c-102">Outlook categories</span></span>
 
-<span data-ttu-id="89a18-103">ประเภทสีช่วยให้คุณสามารถระบุและจัดกลุ่มรายการที่เกี่ยวข้องใน Microsoft Outlook ได้อย่างง่ายดาย</span><span class="sxs-lookup"><span data-stu-id="89a18-103">Color categories allow you to easily identify and group associated items in Microsoft Outlook.</span></span> <span data-ttu-id="89a18-104">สําหรับข้อมูลเพิ่มเติม ให้ดูที่[การสร้างและกําหนดประเภทสี](https://support.office.com/article/A1FDE97E-15E1-4179-A1A0-8A91EF89B8DC)</span><span class="sxs-lookup"><span data-stu-id="89a18-104">For more information, see [Create and assign color categories](https://support.office.com/article/A1FDE97E-15E1-4179-A1A0-8A91EF89B8DC).</span></span>
-  
+<span data-ttu-id="c8c4c-103">ประเภทจะนําไปใช้กับรายการในปฏิทินของคุณเท่านั้น</span><span class="sxs-lookup"><span data-stu-id="c8c4c-103">Categories only apply to items in your calendar.</span></span> <span data-ttu-id="c8c4c-104">ถ้าคุณใช้ประเภทสีกับการเรียกประชุมหรือการประชุมที่คุณได้รับจากบุคคลอื่น</span><span class="sxs-lookup"><span data-stu-id="c8c4c-104">If you apply a color category to a meeting request or a meeting you've received from another person, that color category will only show in your calendar.</span></span>  <span data-ttu-id="c8c4c-105">ถ้าคุณใช้ประเภทสีบนกล่องจดหมายที่แชร์ กล่องจดหมายของผู้รับมอบสิทธิ์ กล่องจดหมายกลุ่ม กล่องจดหมายห้อง ฯลฯ ประเภทสีจะมีผลต่อมุมมองของคุณเท่านั้น</span><span class="sxs-lookup"><span data-stu-id="c8c4c-105">If you apply a color category on a shared mailbox, delegate mailbox, group mailbox, room mailbox, etc. the color category only affects your view.</span></span>
+
+<span data-ttu-id="c8c4c-106">สําหรับข้อมูลเพิ่มเติม:[กําหนดประเภทสีให้กับการนัดหมาย ปฏิทิน การประชุม หรือเหตุการณ์](https://support.microsoft.com/office/750596d9-707d-4412-8c0e-7fdc0fc52527)</span><span class="sxs-lookup"><span data-stu-id="c8c4c-106">For more information: [Assign a color category to a calendar appointment, meeting, or event](https://support.microsoft.com/office/750596d9-707d-4412-8c0e-7fdc0fc52527)</span></span>
