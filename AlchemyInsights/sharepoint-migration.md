@@ -1,5 +1,5 @@
 ---
-title: โยกย้ายตัวเลือกไปยัง SharePoint แบบออนไลน์
+title: ย้ายตัวเลือกไปยัง SharePoint แบบออนไลน์
 ms.author: pebaum
 author: v-miegge
 manager: v-cojank
@@ -10,21 +10,21 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.assetid: c8c339c9-2e50-4daa-aa91-3eb5053e2bc6
-ms.openlocfilehash: fed306790f74fce7c0b5a97b3609af5a90f16bf0
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: d161e46e1d707fc05adab20aa62c2403f149cfd4
+ms.sourcegitcommit: 4265a9e79db6c2a396aa80ec0ebd467bbaadf366
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43758342"
+ms.lasthandoff: 07/08/2020
+ms.locfileid: "45083914"
 ---
-# <a name="migrate-options-to-sharepoint-online"></a>โยกย้ายตัวเลือกไปยัง SharePoint แบบออนไลน์
+# <a name="migrate-options-to-sharepoint-online"></a>ย้ายตัวเลือกไปยัง SharePoint แบบออนไลน์
 
-มีตัวเลือกต่างๆ ที่จะโยกย้ายเนื้อหาไปยัง SharePoint Online ขึ้นอยู่กับขนาดและปริมาณของไฟล์ที่คุณต้องการย้าย โปรดดูรายการของตัวเลือก[ที่อยู่ที่นี่](https://docs.microsoft.com/sharepointmigration/migrate-to-sharepoint-online)
+มีตัวเลือกต่างๆ ที่พร้อมให้โยกย้ายเนื้อหาไปยัง SharePoint Online ขึ้นอยู่กับขนาดและปริมาณของไฟล์ที่คุณต้องการย้าย โปรดดูรายการของตัวเลือก[ที่อยู่ที่นี่](https://docs.microsoft.com/sharepointmigration/migrate-to-sharepoint-online)
 
 สําหรับข้อมูลเพิ่มเติมเกี่ยวกับการย้ายข้อมูลเนื้อหา โปรดไปที่ลิงก์ด้านล่าง
 
-- [เครื่องมือการโยกย้าย SharePoint](https://docs.microsoft.com/sharepointmigration/introducing-the-sharepoint-migration-tool)
+- [เครื่องมือการโยกย้าย Sharepoint](https://docs.microsoft.com/sharepointmigration/introducing-the-sharepoint-migration-tool)
 
-- [เริ่มต้นใช้งานตัวจัดการการย้าย](https://docs.microsoft.com/sharepointmigration/mm-get-started)
+- [เริ่มต้นใช้งานตัวจัดการการย้ายข้อมูล](https://docs.microsoft.com/sharepointmigration/mm-get-started)
 
-- [มูเวอร์](https://mover.io/)
+- [ผู้เสนอญัตติ](https://docs.microsoft.com/sharepointmigration/mover-plan-migration)
