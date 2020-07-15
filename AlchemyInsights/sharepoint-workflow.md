@@ -1,5 +1,5 @@
 ---
-title: การแก้ไขปัญหาลำดับงานใน SharePoint
+title: การแก้ไขปัญหาเวิร์กโฟลว์ใน SharePoint
 ms.author: pebaum
 author: pebaum
 manager: pamgreen
@@ -14,19 +14,21 @@ ms.custom:
 - "1940"
 - "1718"
 ms.assetid: 7ae05f21-eb16-4d71-9e19-4f097eb100d2
-ms.openlocfilehash: 16ca9e18db31ddc2418c629e34f47f4ea0784feb
-ms.sourcegitcommit: ff9e8e27415cc7f24f1bc5fcbd477d293e460d9d
+ms.openlocfilehash: 1bf991112d05652bcb8a8b292374f7a5e2885103
+ms.sourcegitcommit: 45c2aaeee58c0be466b76c7f0cd71e796d3c8f76
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 02/20/2020
-ms.locfileid: "42162995"
+ms.lasthandoff: 07/15/2020
+ms.locfileid: "45138990"
 ---
-# <a name="troubleshoot-workflows-in-sharepoint"></a>การแก้ไขปัญหาลำดับงานใน SharePoint
+# <a name="troubleshoot-workflows-in-sharepoint"></a>การแก้ไขปัญหาเวิร์กโฟลว์ใน SharePoint
 
-**การแก้ไขปัญหาและการดีบักเวิร์กโฟลว์ใน SharePoint**
+**การแก้ไขปัญหาและการตรวจแก้จุดบกพร่องเวิร์กโฟลว์ใน SharePoint**
 
-ดูการ[แก้ไขปัญหาข้อผิดพลาดการตรวจสอบเวิร์กโฟลว์ sharepoint](https://docs.microsoft.com/sharepoint/dev/general-development/troubleshooting-sharepoint-server-workflow-validation-errors-in-visio)และการ[แก้จุดบกพร่องเวิร์กโฟลว์ sharepoint](https://docs.microsoft.com/sharepoint/dev/general-development/debugging-sharepoint-server-workflows)
+ดู[การแก้ไขปัญหาข้อผิดพลาดการตรวจสอบความถูกต้องของเวิร์กโฟลว์ SharePoint](https://docs.microsoft.com/sharepoint/dev/general-development/troubleshooting-sharepoint-server-workflow-validation-errors-in-visio)และการ[ดีบักเวิร์กโฟลว์ SharePoint](https://docs.microsoft.com/sharepoint/dev/general-development/debugging-sharepoint-server-workflows)
 
-**พลังงานโดยอัตโนมัติ**
+**พาวเวอร์อัตโนมัติ**
 
-ถ้าคุณเพิ่งเริ่มการทำงานกับเวิร์กโฟลว์ให้พิจารณาการใช้[พลังงานโดยอัตโนมัติ](https://docs.microsoft.com/power-automate/modern-approvals)แทนการแก้ไขปัญหาเวิร์กโฟลว์ SharePoint แบบคลาสสิค
+ถ้าคุณเพิ่งเริ่มต้นใช้งานเวิร์กโฟลว์ ให้ลองใช้[Power Automatเป็นอัตโนมัติ](https://docs.microsoft.com/power-automate/modern-approvals)แทนโซลูชันเวิร์กโฟลว์ SharePoint แบบคลาสสิก
+
+สําหรับข้อมูลเพิ่มเติม ให้ดูที่[เวิร์กโฟลว์ SharePoint ที่ถอนออก](https://docs.microsoft.com/alchemyinsights/sharepoint-workflows-retiring)
