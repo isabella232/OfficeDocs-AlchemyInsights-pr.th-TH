@@ -1,5 +1,5 @@
 ---
-title: การแก้ไขปัญหาลำดับงานใน SharePoint
+title: การแก้ไขปัญหาเวิร์กโฟลว์ใน SharePoint
 ms.author: pebaum
 author: pebaum
 manager: pamgreen
@@ -14,19 +14,21 @@ ms.custom:
 - "1940"
 - "1718"
 ms.assetid: 7ae05f21-eb16-4d71-9e19-4f097eb100d2
-ms.openlocfilehash: 16ca9e18db31ddc2418c629e34f47f4ea0784feb
-ms.sourcegitcommit: ff9e8e27415cc7f24f1bc5fcbd477d293e460d9d
+ms.openlocfilehash: 1bf991112d05652bcb8a8b292374f7a5e2885103
+ms.sourcegitcommit: 45c2aaeee58c0be466b76c7f0cd71e796d3c8f76
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 02/20/2020
-ms.locfileid: "42162995"
+ms.lasthandoff: 07/15/2020
+ms.locfileid: "45138990"
 ---
-# <a name="troubleshoot-workflows-in-sharepoint"></a><span data-ttu-id="c1ead-102">การแก้ไขปัญหาลำดับงานใน SharePoint</span><span class="sxs-lookup"><span data-stu-id="c1ead-102">Troubleshoot Workflows in SharePoint</span></span>
+# <a name="troubleshoot-workflows-in-sharepoint"></a><span data-ttu-id="346d7-102">การแก้ไขปัญหาเวิร์กโฟลว์ใน SharePoint</span><span class="sxs-lookup"><span data-stu-id="346d7-102">Troubleshoot Workflows in SharePoint</span></span>
 
-<span data-ttu-id="c1ead-103">**การแก้ไขปัญหาและการดีบักเวิร์กโฟลว์ใน SharePoint**</span><span class="sxs-lookup"><span data-stu-id="c1ead-103">**Troubleshoot and Debug Workflows in SharePoint**</span></span>
+<span data-ttu-id="346d7-103">**การแก้ไขปัญหาและการตรวจแก้จุดบกพร่องเวิร์กโฟลว์ใน SharePoint**</span><span class="sxs-lookup"><span data-stu-id="346d7-103">**Troubleshoot and Debug Workflows in SharePoint**</span></span>
 
-<span data-ttu-id="c1ead-104">ดูการ[แก้ไขปัญหาข้อผิดพลาดการตรวจสอบเวิร์กโฟลว์ sharepoint](https://docs.microsoft.com/sharepoint/dev/general-development/troubleshooting-sharepoint-server-workflow-validation-errors-in-visio)และการ[แก้จุดบกพร่องเวิร์กโฟลว์ sharepoint](https://docs.microsoft.com/sharepoint/dev/general-development/debugging-sharepoint-server-workflows)</span><span class="sxs-lookup"><span data-stu-id="c1ead-104">See [Troubleshoot SharePoint workflow validation errors](https://docs.microsoft.com/sharepoint/dev/general-development/troubleshooting-sharepoint-server-workflow-validation-errors-in-visio) and [Debugging SharePoint workflows](https://docs.microsoft.com/sharepoint/dev/general-development/debugging-sharepoint-server-workflows).</span></span>
+<span data-ttu-id="346d7-104">ดู[การแก้ไขปัญหาข้อผิดพลาดการตรวจสอบความถูกต้องของเวิร์กโฟลว์ SharePoint](https://docs.microsoft.com/sharepoint/dev/general-development/troubleshooting-sharepoint-server-workflow-validation-errors-in-visio)และการ[ดีบักเวิร์กโฟลว์ SharePoint](https://docs.microsoft.com/sharepoint/dev/general-development/debugging-sharepoint-server-workflows)</span><span class="sxs-lookup"><span data-stu-id="346d7-104">See [Troubleshoot SharePoint workflow validation errors](https://docs.microsoft.com/sharepoint/dev/general-development/troubleshooting-sharepoint-server-workflow-validation-errors-in-visio) and [Debugging SharePoint workflows](https://docs.microsoft.com/sharepoint/dev/general-development/debugging-sharepoint-server-workflows).</span></span>
 
-<span data-ttu-id="c1ead-105">**พลังงานโดยอัตโนมัติ**</span><span class="sxs-lookup"><span data-stu-id="c1ead-105">**Power Automate**</span></span>
+<span data-ttu-id="346d7-105">**พาวเวอร์อัตโนมัติ**</span><span class="sxs-lookup"><span data-stu-id="346d7-105">**Power Automate**</span></span>
 
-<span data-ttu-id="c1ead-106">ถ้าคุณเพิ่งเริ่มการทำงานกับเวิร์กโฟลว์ให้พิจารณาการใช้[พลังงานโดยอัตโนมัติ](https://docs.microsoft.com/power-automate/modern-approvals)แทนการแก้ไขปัญหาเวิร์กโฟลว์ SharePoint แบบคลาสสิค</span><span class="sxs-lookup"><span data-stu-id="c1ead-106">If you're just getting started with workflows, consider using [Power Automate](https://docs.microsoft.com/power-automate/modern-approvals) instead of the classic SharePoint workflow solutions.</span></span>
+<span data-ttu-id="346d7-106">ถ้าคุณเพิ่งเริ่มต้นใช้งานเวิร์กโฟลว์ ให้ลองใช้[Power Automatเป็นอัตโนมัติ](https://docs.microsoft.com/power-automate/modern-approvals)แทนโซลูชันเวิร์กโฟลว์ SharePoint แบบคลาสสิก</span><span class="sxs-lookup"><span data-stu-id="346d7-106">If you're just getting started with workflows, consider using [Power Automate](https://docs.microsoft.com/power-automate/modern-approvals) instead of the classic SharePoint workflow solutions.</span></span>
+
+<span data-ttu-id="346d7-107">สําหรับข้อมูลเพิ่มเติม ให้ดูที่[เวิร์กโฟลว์ SharePoint ที่ถอนออก](https://docs.microsoft.com/alchemyinsights/sharepoint-workflows-retiring)</span><span class="sxs-lookup"><span data-stu-id="346d7-107">For more information, see [SharePoint workflows retiring](https://docs.microsoft.com/alchemyinsights/sharepoint-workflows-retiring).</span></span>
