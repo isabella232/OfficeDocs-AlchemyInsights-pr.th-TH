@@ -1,5 +1,5 @@
 ---
-title: 761การเชื่อมต่อกับ PowerShell แบบออนไลน์ของอัตราแลกเปลี่ยนเมื่อเปิดใช้งาน MFA
+title: 761การเชื่อมต่อกับ PowerShell แบบออนไลน์ของอัตราแลกเปลี่ยนเมื่อ MFA ถูกเปิดใช้งาน
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -13,15 +13,13 @@ ms.custom:
 - "761"
 - "3500011"
 ms.assetid: 9b0b89e3-d1d7-4e4d-93de-bb4cd00904d8
-ms.openlocfilehash: 81d9e74652b20d2bbae6cae581cc31fdc33e82da
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 5a067cf5981e08c5938a48659a5254c43df17dcb
+ms.sourcegitcommit: 9e44b852d18a2816acac0aacb78cb99b4c114368
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43705824"
+ms.lasthandoff: 07/22/2020
+ms.locfileid: "45205322"
 ---
-# <a name="connect-to-exchange-online-powershell-when-mfa-is-enabled"></a>เชื่อมต่อกับ PowerShell แบบออนไลน์ของอัตราแลกเปลี่ยนเมื่อเปิดใช้งาน MFA
+# <a name="connect-to-exchange-online-powershell-when-mfa-is-enabled"></a>เชื่อมต่อกับ PowerShell แบบออนไลน์ของอัตราแลกเปลี่ยนเมื่อ MFA ถูกเปิดใช้งาน
 
-ถ้าบัญชีของคุณมีการเปิดใช้งานการรับรองความถูกต้องด้วยหลายปัจจัย (MFA) คุณจําเป็นต้องทําตามคําแนะนําเหล่านี้เพื่อเชื่อมต่อกับ PowerShell แบบออนไลน์[ของอัตราแลกเปลี่ยน: เชื่อมต่อกับ PowerShell แบบออนไลน์ของอัตราแลกเปลี่ยนโดยใช้การรับรองความถูกต้องด้วยหลายปัจจัย](https://docs.microsoft.com/powershell/exchange/exchange-online/connect-to-exchange-online-powershell/mfa-connect-to-exchange-online-powershell)
-
-**หมายเหตุ**: แม้ว่าคุณจะเชื่อมต่อกับ Exchange Online PowerShell ในอดีตโดยใช้[คําแนะนําการเชื่อมต่อปกติ](https://docs.microsoft.com/powershell/exchange/exchange-online/connect-to-exchange-online-powershell/connect-to-exchange-online-powershell)คุณต้องใช้คําแนะนําการเชื่อมต่อ MFA หลังจากที่ MFA ได้รับการเปิดใช้งานสําหรับบัญชีของคุณ
+ถ้าบัญชีของคุณมีการรับรองความถูกต้องด้วยหลายปัจจัย (MFA) เปิดใช้งาน คุณจําเป็นต้องทําตามคําแนะนําเหล่านี้เพื่อเชื่อมต่อกับ PowerShell แบบออนไลน์ของอัตราแลกเปลี่ยน:[ใช้ PowerShell แบบออนไลน์ของอัตราแลกเปลี่ยนกับการรับรองความถูกต้องแบบสมัยใหม่โดยใช้โมดูล V2](https://aka.ms/exops-docs) กรุณาค้นหาคําแนะนําการตรวจสอบ MFA / หลายปัจจัยในหน้านั้น
