@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "5677"
 - "9002964"
-ms.openlocfilehash: 2485374a9cd7082698245af913d0e2463b03b809
-ms.sourcegitcommit: 45c2aaeee58c0be466b76c7f0cd71e796d3c8f76
+ms.openlocfilehash: 682b437962b2192ef57cf48d4eae775bf2a4fcc7
+ms.sourcegitcommit: e90b918f02102cd9764881c2d8c914567c6b070e
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 07/15/2020
-ms.locfileid: "45141865"
+ms.lasthandoff: 07/29/2020
+ms.locfileid: "46509031"
 ---
 # <a name="microsoft-lists"></a>รายการไมโครซอฟท์
 
@@ -25,7 +25,7 @@ ms.locfileid: "45141865"
   
 **เวลา**  
 
-- ปล่อยเป้าหมายเพื่อเปิดใช้งานองค์กรในปลายเดือนกรกฎาคม 2020
+- เปิดตัวได้เริ่มสําหรับองค์กรที่เปิดใช้งานสําหรับการปล่อยเป้าหมาย.
 - ปล่อยให้ทุกองค์กรโดยกลางเดือนตุลาคม 2020
 
 ผู้ใช้ที่มีสิทธิ์การใช้งาน SharePoint สามารถเข้าถึงไอคอนรายการและเริ่มใช้ Microsoft รายการ ผู้ดูแลไม่สามารถปิดคุณลักษณะนี้ได้
