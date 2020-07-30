@@ -1,18 +1,26 @@
 ---
-title: เราอยู่ที่นี่เพื่อช่วย
+title: เรามาเพื่อช่วย
 ms.author: pebaum
 author: pebaum
+manager: scotv
+ms.date: 07/30/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
-ms.openlocfilehash: cccbf8bfb10ee50896382e4ee64d5e51302ef01e
-ms.sourcegitcommit: 75262cac10d7cba34d74fbef0356818e0bd6c14b
+ms.collection: Adm_O365
+ms.custom:
+- "3513"
+- "9001480"
+ms.openlocfilehash: 36cd68931a0a226681827267a0a9638930b63579
+ms.sourcegitcommit: d1c51266e2890f61662f77dceea2ad0c88210015
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 01/22/2020
-ms.locfileid: "41258982"
+ms.lasthandoff: 07/30/2020
+ms.locfileid: "46530578"
 ---
-# <a name="were-here-to-help"></a>เราอยู่ที่นี่เพื่อช่วย
+# <a name="were-here-to-help"></a>เรามาเพื่อช่วย
 
-กรุณาคลิกที่**ติดต่อฝ่ายสนับสนุน**ด้านล่างเพื่อสร้างบัตรโดยสารกับเรา ตัวแทนฝ่ายสนับสนุนจะติดต่อกลับโดยเร็วที่จะช่วยแก้ไขปัญหาของคุณ
+กรุณาคลิกที่**ติดต่อฝ่ายสนับสนุน**ด้านล่าง เพื่อสร้างตั๋วกับเรา ตัวแทนฝ่ายสนับสนุนจะตอบกลับคุณเร็ว ๆ นี้เพื่อช่วยแก้ไขปัญหาของคุณ
+
+ถ้าการสมัครใช้งานของคุณได้รับการจัดการโดยคู่ค้าของ Microsoft โปรดทํางานกับคู่ค้าของคุณเพื่อเปิดตั๋วสนับสนุน
