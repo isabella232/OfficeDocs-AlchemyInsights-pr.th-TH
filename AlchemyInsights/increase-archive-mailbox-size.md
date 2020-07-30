@@ -9,14 +9,17 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 305
 ms.assetid: ''
-ms.openlocfilehash: f80b2a10ebc17cd98ed1d29b0e6ba3ca01eb1d62
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: c43f8e32acad7937a03a45aab1e14e0e69edc1b2
+ms.sourcegitcommit: ffbed67c0a16ec423fa1d79b71e48ea4e2d320e1
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44508827"
+ms.lasthandoff: 07/29/2020
+ms.locfileid: "46522862"
 ---
 # <a name="increase-the-archive-mailbox-size"></a>เพิ่มขนาดกล่องจดหมายเก็บถาวร
+
+
+หากคุณต้องการให้เราเรียกใช้การตรวจสอบอัตโนมัติสําหรับการตั้งค่าที่กล่าวถึงด้านล่างให้เลือกปุ่มย้อนกลับ< -- ที่ด้านบนของหน้านี้แล้วป้อนที่อยู่อีเมลของผู้ใช้ที่ต้องการขนาดกล่องจดหมายของพวกเขาเก็บถาวรเพิ่มขึ้น
 
 Microsoft 365[จํากัด](https://docs.microsoft.com/office365/servicedescriptions/exchange-online-service-description/exchange-online-limits#mailbox-storage-limits)ขนาดของกล่องจดหมายเก็บถาวรตามสิทธิ์การใช้งานที่กําหนดให้กับบัญชีผู้ใช้ เมื่อกล่องจดหมายเก็บถาวรถึง 90% ของขนาดที่ได้รับอนุญาต เมื่อกล่องจดหมายเก็บถาวรถึงขนาดจํากัดผู้ใช้ไม่สามารถย้ายรายการเพิ่มเติมไปยังกล่องจดหมายเก็บถาวร Microsoft 365 จะไม่เพิ่มขนาดของกล่องจดหมายเก็บถาวรเมื่อถึงขีดจํากัดขนาด ผู้ใช้สามารถดําเนินการต่อไปนี้เพื่อเพิ่มพื้นที่ว่างในกล่องจดหมายเก็บถาวรแทน:
 
