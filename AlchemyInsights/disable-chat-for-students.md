@@ -1,0 +1,30 @@
+---
+title: ปิดใช้งานการแชทสำหรับนักเรียน
+ms.author: pebaum
+author: pebaum
+manager: scotv
+ms.date: 08/04/2020
+ms.audience: Admin
+ms.topic: article
+ROBOTS: NOINDEX, NOFOLLOW
+localization_priority: Priority
+ms.collection: Adm_O365
+ms.custom:
+- "6143"
+- "9003097"
+ms.openlocfilehash: f726015780a1de6f03c99e5e167fee44049c1e12
+ms.sourcegitcommit: 9540483984da2bba19888cb34f590ddad6890bb1
+ms.translationtype: MT
+ms.contentlocale: th-TH
+ms.lasthandoff: 08/04/2020
+ms.locfileid: "46629946"
+---
+# <a name="disable-chat-for-students"></a><span data-ttu-id="c34b7-102">ปิดใช้งานการแชทสำหรับนักเรียน</span><span class="sxs-lookup"><span data-stu-id="c34b7-102">Disable chat for students</span></span>
+
+<span data-ttu-id="c34b7-103">เราขอแนะนำให้ผู้ดูแลระบบขององค์กรการศึกษาพิจารณาใช้แพคเกจนโยบายสำหรับความปลอดภัยของนักเรียนและการศึกษา</span><span class="sxs-lookup"><span data-stu-id="c34b7-103">We recommend admins of Education organizations consider using policy packages for student and educator safety.</span></span> <span data-ttu-id="c34b7-104">สำหรับข้อมูลเพิ่มเติมให้ดูที่:</span><span class="sxs-lookup"><span data-stu-id="c34b7-104">For more info, see:</span></span>
+
+- [<span data-ttu-id="c34b7-105">แพคเกจนโยบายในทีม Microsoft</span><span class="sxs-lookup"><span data-stu-id="c34b7-105">Policy packages in Microsoft Teams</span></span>](https://docs.microsoft.com/microsoftteams/policy-packages-edu#policy-packages-in-microsoft-teams)
+- [<span data-ttu-id="c34b7-106">นโยบายที่ควรได้รับมอบหมายสำหรับความปลอดภัยของนักเรียน</span><span class="sxs-lookup"><span data-stu-id="c34b7-106">Policies that should be assigned for student safety</span></span>](https://docs.microsoft.com/microsoftteams/policy-packages-edu#policies-that-should-be-assigned-for-student-safety)
+- [<span data-ttu-id="c34b7-107">นโยบายที่ควรได้รับมอบหมายให้กับนักการศึกษา</span><span class="sxs-lookup"><span data-stu-id="c34b7-107">Policies that should be assigned for educators</span></span>](https://docs.microsoft.com/microsoftteams/policy-packages-edu#policies-that-should-be-assigned-for-educators) 
+
+<span data-ttu-id="c34b7-108">เมื่อต้องการปิดใช้งานการแชทสำหรับนักเรียนให้ดูตัวเลือกสำหรับการอนุญาตการแชทในการประชุมรวมถึงการอนุญาตการสนทนา1:1 ใน[นโยบายทีมและแพคเกจนโยบายสำหรับการศึกษา](https://docs.microsoft.com/microsoftteams/policy-packages-edu)</span><span class="sxs-lookup"><span data-stu-id="c34b7-108">To disable chat for a student, see the options for allowing chat in meetings as well as allowing 1:1 chat in [Teams policies and policy packages for Education](https://docs.microsoft.com/microsoftteams/policy-packages-edu).</span></span>
