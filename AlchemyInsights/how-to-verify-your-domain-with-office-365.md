@@ -1,5 +1,5 @@
 ---
-title: 'วิธียืนยันโดเมนของคุณ '
+title: 'วิธีการยืนยันโดเมนของคุณ '
 ms.author: v-crytho
 author: CrystalThomasMS
 ms.audience: ITPro
@@ -13,17 +13,17 @@ ms.custom:
 - "46"
 - "903"
 - "7"
-ms.openlocfilehash: 1aa0b489e9f300f930663532fde7f9022b948bc1
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: 5e6e501d24f1654a73761797cea5499e2c2d0c0e
+ms.sourcegitcommit: 5c424cf68afacdb7a97c01b1e1723f8ebffdefab
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44509043"
+ms.lasthandoff: 08/11/2020
+ms.locfileid: "46634325"
 ---
-# <a name="how-to-verify-your-domain"></a>วิธียืนยันโดเมนของคุณ
+# <a name="how-to-verify-your-domain"></a>วิธีการยืนยันโดเมนของคุณ
 
-หากต้องการยืนยันโดเมน คุณจะต้องเพิ่มระเบียน TXT ให้กับผู้รับจดทะเบียนโดเมนเพื่อยืนยันว่าคุณเป็นเจ้าของโดเมน ขั้นแรก ให้ทําตาม[ตัวช่วยสร้างเพิ่มโดเมน](https://portal.office.com/adminportal/home#/Domains/Wizard)โดยคลิก**โดเมน** \> **การตั้งค่า**แล้ว**เพิ่มโดเมน**
-  
-ทําตามคําแนะนําใน[สร้างระเบียน DNS ที่ผู้ให้บริการโฮสต์ DNS เพื่อเพิ่ม](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider)ระเบียน TXT เพื่อยืนยันโดเมนของคุณ
+เมื่อต้องการตรวจสอบโดเมนให้ทำตามตัว[ช่วยสร้างเพิ่มโดเมน](https://portal.office.com/adminportal/home#/Domains/Wizard)หรือไปยังโดเมนการ**ตั้งค่า**  >  **Domains**  >  **เพิ่มเติม**ด้วยตนเอง
 
-สําหรับโดเมนอื่น ๆ ที่มีปัญหาลอง[คําถามที่พบบ่อยโดเมน](https://docs.microsoft.com/microsoft-365/admin/setup/domains-faq)
+สำหรับข้อมูลเพิ่มเติมเกี่ยวกับวิธีการเพิ่มระเบียน TXT เพื่อยืนยันโดเมนของคุณให้ดูที่คำแนะนำใน[เพิ่มระเบียน DNS เพื่อเชื่อมต่อโดเมนของคุณ](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider)
+
+สำหรับคำถามโดเมนอื่นๆให้ดูที่คำถามที่[ถามบ่อยเกี่ยวกับโดเมน](https://docs.microsoft.com/microsoft-365/admin/setup/domains-faq)
