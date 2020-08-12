@@ -13,17 +13,17 @@ ms.custom:
 - "46"
 - "903"
 - "7"
-ms.openlocfilehash: 5e6e501d24f1654a73761797cea5499e2c2d0c0e
-ms.sourcegitcommit: 5c424cf68afacdb7a97c01b1e1723f8ebffdefab
+ms.openlocfilehash: a099b3f056696bebae150fdd5b82e921f928f116
+ms.sourcegitcommit: 3ef4860c2e1918c1ff4009201189a5b77be3454f
 ms.translationtype: MT
 ms.contentlocale: th-TH
 ms.lasthandoff: 08/11/2020
-ms.locfileid: "46634325"
+ms.locfileid: "46636712"
 ---
-# <a name="how-to-verify-your-domain"></a><span data-ttu-id="acb65-102">วิธีการยืนยันโดเมนของคุณ</span><span class="sxs-lookup"><span data-stu-id="acb65-102">How to verify your domain</span></span>
+# <a name="how-to-verify-your-domain"></a><span data-ttu-id="6a854-102">วิธีการยืนยันโดเมนของคุณ</span><span class="sxs-lookup"><span data-stu-id="6a854-102">How to verify your domain</span></span>
 
-<span data-ttu-id="acb65-103">เมื่อต้องการตรวจสอบโดเมนให้ทำตามตัว[ช่วยสร้างเพิ่มโดเมน](https://portal.office.com/adminportal/home#/Domains/Wizard)หรือไปยังโดเมนการ**ตั้งค่า**  >  **Domains**  >  **เพิ่มเติม**ด้วยตนเอง</span><span class="sxs-lookup"><span data-stu-id="acb65-103">To verify a domain, follow the [Add Domain wizard](https://portal.office.com/adminportal/home#/Domains/Wizard), or manually go to **Setup** > **Domains** > **Add domain**.</span></span>
+<span data-ttu-id="6a854-103">เมื่อต้องการตรวจสอบโดเมนให้ทำตามตัว[ช่วยสร้างเพิ่มโดเมน](https://portal.office.com/adminportal/home#/Domains/Wizard)หรือไปยังโดเมนการ**ตั้งค่า**  >  **Domains**  >  **เพิ่มเติม**ด้วยตนเอง</span><span class="sxs-lookup"><span data-stu-id="6a854-103">To verify a domain, follow the [Add Domain wizard](https://portal.office.com/adminportal/home#/Domains/Wizard), or manually go to **Setup** > **Domains** > **Add domain**.</span></span>
 
-<span data-ttu-id="acb65-104">สำหรับข้อมูลเพิ่มเติมเกี่ยวกับวิธีการเพิ่มระเบียน TXT เพื่อยืนยันโดเมนของคุณให้ดูที่คำแนะนำใน[เพิ่มระเบียน DNS เพื่อเชื่อมต่อโดเมนของคุณ](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider)</span><span class="sxs-lookup"><span data-stu-id="acb65-104">For more information about how to add a TXT record to verify your domain, see the instructions in [Add DNS records to connect your domain](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider).</span></span>
+<span data-ttu-id="6a854-104">สำหรับข้อมูลเพิ่มเติมเกี่ยวกับการเปลี่ยนแปลง DNS ที่จำเป็นสำหรับการตรวจสอบโดเมนของคุณให้ดูที่คำแนะนำใน[เพิ่มระเบียน DNS เพื่อเชื่อมต่อโดเมนของคุณ](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider)</span><span class="sxs-lookup"><span data-stu-id="6a854-104">For more information about DNS changes required to verify your domain, see the instructions in [Add DNS records to connect your domain](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider).</span></span>
 
-<span data-ttu-id="acb65-105">สำหรับคำถามโดเมนอื่นๆให้ดูที่คำถามที่[ถามบ่อยเกี่ยวกับโดเมน](https://docs.microsoft.com/microsoft-365/admin/setup/domains-faq)</span><span class="sxs-lookup"><span data-stu-id="acb65-105">For other domains questions, see the [Domains FAQ](https://docs.microsoft.com/microsoft-365/admin/setup/domains-faq).</span></span>
+<span data-ttu-id="6a854-105">สำหรับคำถามโดเมนอื่นๆให้ดูที่คำถามที่[ถามบ่อยเกี่ยวกับโดเมน](https://docs.microsoft.com/microsoft-365/admin/setup/domains-faq)</span><span class="sxs-lookup"><span data-stu-id="6a854-105">For other domains questions, see the [Domains FAQ](https://docs.microsoft.com/microsoft-365/admin/setup/domains-faq).</span></span>
