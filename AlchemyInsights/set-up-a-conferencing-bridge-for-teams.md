@@ -1,5 +1,5 @@
 ---
-title: ตั้งค่าบริดจ์การประชุมสําหรับ Teams
+title: ตั้งค่าบริดจ์การประชุมสำหรับทีม
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
@@ -18,6 +18,6 @@ ms.contentlocale: th-TH
 ms.lasthandoff: 03/25/2020
 ms.locfileid: "42953958"
 ---
-# <a name="set-up-a-conferencing-bridge-for-teams"></a>ตั้งค่าบริดจ์การประชุมสําหรับ Teams
+# <a name="set-up-a-conferencing-bridge-for-teams"></a>ตั้งค่าบริดจ์การประชุมสำหรับทีม
 
-คุณจะต้องตั้งค่าการประชุมทางเสียงสําหรับบุคคลที่วางแผนจะจัดกําหนดการหรือนําการประชุม เราได้จัดเตรียมกระบวนการทีละขั้นตอนเพื่อเสร็จสิ้นการตั้งค่าระบบโทรศัพท์ โปรดตรวจสอบ[การตั้งค่าระบบโทรศัพท์ ในองค์กรของคุณ](https://docs.microsoft.com/MicrosoftTeams/phone-number-calling-plans/port-order-overview)
+คุณจำเป็นต้องตั้งค่าการประชุมทางเสียงสำหรับบุคคลที่วางแผนที่จะจัดกำหนดการหรือนำเข้าการประชุมเท่านั้น เราได้ให้กระบวนการทีละขั้นตอนเพื่อทำให้การตั้งค่าระบบโทรศัพท์เสร็จสมบูรณ์ โปรดตรวจสอบ[การตั้งค่าระบบโทรศัพท์ในองค์กรของคุณ](https://docs.microsoft.com/MicrosoftTeams/phone-number-calling-plans/port-order-overview)
