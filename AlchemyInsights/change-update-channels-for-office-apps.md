@@ -1,5 +1,5 @@
 ---
-title: เปลี่ยนช่องทางการปรับปรุงสําหรับแอป Office
+title: เปลี่ยนช่องทางการอัปเดตสำหรับแอป Office
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,31 +12,31 @@ ms.collection: Adm_O365
 ms.custom:
 - "1740"
 - "9000140"
-ms.openlocfilehash: 4939682a6ca95c4f5475ee6aedea48c9ce83df7f
-ms.sourcegitcommit: b10cea11b4975354b91193327b58aa4740d34833
+ms.openlocfilehash: fb69bce40ab56b162c715af6a0647c8219c5564f
+ms.sourcegitcommit: dab885f2cb99057e959fb9be334f5a3a26a64058
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 07/28/2020
-ms.locfileid: "45440023"
+ms.lasthandoff: 08/13/2020
+ms.locfileid: "46665481"
 ---
-# <a name="change-update-channels-for-office-apps"></a>เปลี่ยนช่องทางการปรับปรุงสําหรับแอป Office
+# <a name="change-update-channels-for-office-apps"></a>เปลี่ยนช่องทางการอัปเดตสำหรับแอป Office
 
-สําหรับการติดตั้ง Office ใหม่ ให้ใช้การตั้งค่าการดาวน์โหลดซอฟต์แวร์ Office เพื่อเลือกช่องทางการปรับปรุงที่ต้องการ แล้วติดตั้งแอป Office (หรือติดตั้งใหม่) สําหรับข้อมูลเพิ่มเติม ให้ดูที่[การจัดการการตั้งค่าการดาวน์โหลดซอฟต์แวร์ใน Office 365](https://docs.microsoft.com/deployoffice/manage-software-download-settings-office-365) 
+สำหรับการติดตั้ง Office ใหม่ให้ใช้การตั้งค่าการดาวน์โหลดซอฟต์แวร์ของ Office เพื่อเลือกแชนเนลการอัปเดตที่ต้องการจากนั้นติดตั้ง (หรือติดตั้งใหม่) แอป Office สำหรับข้อมูลเพิ่มเติมให้ดู[ที่จัดการการตั้งค่าการดาวน์โหลดซอฟต์แวร์ใน Office ๓๖๕](https://docs.microsoft.com/deployoffice/manage-software-download-settings-office-365) 
 
-**หมายเหตุ** ช่องการปรับปรุงที่เลือกโดยใช้การตั้งค่าการดาวน์โหลดซอฟต์แวร์ Office นําไปใช้กับผู้ใช้ทั้งหมดที่ทําการติดตั้งใหม่โดยใช้พอร์ทัล O365 สําหรับข้อมูลเพิ่มเติม ให้ดูที่[การดาวน์โหลดและติดตั้งหรือติดตั้ง Microsoft 365 หรือ Office 2019 ใหม่บนพีซีหรือ Mac](https://support.microsoft.com/office/download-and-install-or-reinstall-microsoft-365-or-office-2019-on-a-pc-or-mac-4414eaaf-0478-48be-9c42-23adc4716658)   
+**หมายเหตุ:** ช่องทางการอัปเดตที่เลือกโดยใช้การตั้งค่าการดาวน์โหลดซอฟต์แวร์ของ Office จะนำไปใช้กับผู้ใช้ทุกคนที่ทำการติดตั้งใหม่โดยใช้ O365 portal สำหรับข้อมูลเพิ่มเติมให้ดูที่[ดาวน์โหลดและติดตั้งหรือติดตั้ง Microsoft ๓๖๕หรือ Office ๒๐๑๙อีกครั้งบนพีซีหรือ Mac](https://support.microsoft.com/office/download-and-install-or-reinstall-microsoft-365-or-office-2019-on-a-pc-or-mac-4414eaaf-0478-48be-9c42-23adc4716658)   
 
-สําหรับการติดตั้ง Office ที่มีอยู่ ให้ใช้เครื่องมือการปรับใช้ Office (ODT) เพื่อสลับไปยังช่องทางการปรับปรุงที่แตกต่างกัน:  
+สำหรับการติดตั้ง Office ที่มีอยู่ให้ใช้เครื่องมือการปรับใช้ Office (ODT) เพื่อสลับไปยังแชนเนลการอัปเดตที่แตกต่างกันดังนี้  
 
-1. ดาวน์โหลดรุ่นล่าสุดของเครื่องมือการปรับใช้ Office (setup.exe) จาก[ศูนย์ดาวน์โหลดของไมโครซอฟท์](https://go.microsoft.com/fwlink/p/?LinkID=626065)
-2. ระบุชื่อของช่องสัญญาณที่คุณต้องการสลับไป สําหรับข้อมูลเพิ่มเติม ให้ดูที่[ตัวเลือกการตั้งค่าคอนฟิกสําหรับเครื่องมือการปรับใช้ Office](https://docs.microsoft.com/DeployOffice/configuration-options-for-the-office-2016-deployment-tool#channel-attribute-part-of-add-element)
-3. สร้างไฟล์ XML การกําหนดค่าที่ระบุ update.xmlชื่อช่องสัญญาณที่เหมาะสม  
-    a. <Configuration>  
-    b. <ช่องทางการปรับปรุง **="รายเดือน"** />  
-    c. </Configuration>
-4. จากพร้อมท์คําสั่งการยกระดับ สลับไปยังตําแหน่งที่ตั้งของโฟลเดอร์ที่setup.exeอยู่ และเรียกใช้คําสั่งต่อไปนี้:  
-    a. setup.exe /กําหนดค่าupdate.xml
-5. เริ่มต้นโปรแกรมประยุกต์ Office (เช่น Excel) แล้วเลือก**File**  >  **บัญชี**แฟ้ม ในส่วน ข้อมูลผลิตภัณฑ์ ให้เลือก**อัปเดตตัวเลือก**  >  **การปรับปรุงเดี๋ยวนี้**
+1. ดาวน์โหลดเวอร์ชันล่าสุดของเครื่องมือการปรับใช้ Office (setup.exe) จาก[ศูนย์ดาวน์โหลดของไมโครซอฟท์](https://go.microsoft.com/fwlink/p/?LinkID=626065)
+2. ระบุชื่อของแชนเนลที่คุณต้องการสลับไปใช้ สำหรับข้อมูลเพิ่มเติมให้ดู[ที่ตัวเลือกการกำหนดค่าสำหรับเครื่องมือการปรับใช้ Office](https://docs.microsoft.com/DeployOffice/configuration-options-for-the-office-2016-deployment-tool#channel-attribute-part-of-add-element)
+3. สร้างไฟล์ XML การกำหนดค่าที่ระบุชื่อแชนเนลที่เหมาะสมตัวอย่างเช่น update.xml  
+    `<Configuration> 
+    <Updates **Channel="Monthly"** />  
+    </Configuration>`
+4. จากพร้อมท์คำสั่งยกระดับให้สลับไปยังตำแหน่งที่ตั้งของโฟลเดอร์ที่ setup.exe อยู่และเรียกใช้คำสั่งต่อไปนี้:  
+    a. setup.exe c:\odt\setup.exe/configure update.xml
+5. เริ่มแอปพลิเคชัน Office (เช่น Excel) แล้วเลือก**File**  >  **บัญชีผู้ใช้**ไฟล์ ในส่วนข้อมูลผลิตภัณฑ์ให้เลือกอัปเดตตัว**เลือกการอัปเด**  >  **ตเดี๋ยวนี้**
 
-สําหรับข้อมูลเพิ่มเติม ให้ดูที่[วิธีการสลับช่องทางการปรับปรุงสําหรับ Office Apps ที่มีอยู่](https://support.microsoft.com/help/3185078/how-to-switch-from-semi-annual-channel-to-monthly-channel) 
+สำหรับข้อมูลเพิ่มเติมให้ดู[ที่วิธีการสลับช่องทางการอัปเดตสำหรับแอป Office ที่มีอยู่](https://support.microsoft.com/help/3185078/how-to-switch-from-semi-annual-channel-to-monthly-channel) 
 
-สําหรับการสลับสถานีการปรับปรุงสําหรับผู้ใช้ที่เลือก หรือ โดยใช้ตัวจัดการการตั้งค่าคอนฟิก (SCCM), กําหนดค่าการตั้งค่าสถานีปรับปรุงโดยใช้วัตถุนโยบายกลุ่ม สําหรับข้อมูลเพิ่มเติม ให้ดูที่[ภาพรวมของช่องทางการปรับปรุงสําหรับแอป Microsoft 365](https://docs.microsoft.com/deployoffice/overview-update-channels#group-policy) สําหรับรายละเอียด ให้ดูที่[วิธีจัดการแชนเนล Office 365 ProPlus สําหรับผู้เชี่ยวชาญด้าน IT](https://techcommunity.microsoft.com/t5/office-365-blog/how-to-manage-office-365-proplus-channels-for-it-pros/ba-p/795813) [และจัดการการอัปเดตแอป Microsoft 365 ด้วยตัวจัดการการตั้งค่าคอนฟิกปลายทางของ Microsoft](https://docs.microsoft.com/deployoffice/manage-microsoft-365-apps-updates-configuration-manager)
+สำหรับการสลับช่องทางการอัปเดตสำหรับกลุ่มผู้ใช้ที่เลือกหรือโดยการใช้ตัวจัดการการตั้งค่าคอนฟิก (SCCM) ให้กำหนดค่าการตั้งค่าการอัปเดตระเบียนโดยใช้วัตถุนโยบายกลุ่ม สำหรับข้อมูลเพิ่มเติมให้ดู[ที่ภาพรวมของช่องทางการอัปเดตสำหรับแอป Microsoft ๓๖๕](https://docs.microsoft.com/deployoffice/overview-update-channels#group-policy) สำหรับรายละเอียดให้ดู [ที่วิธีการจัดการ Office ๓๖๕ ProPlus channel สำหรับผู้เชี่ยวชาญด้าน it](https://techcommunity.microsoft.com/t5/office-365-blog/how-to-manage-office-365-proplus-channels-for-it-pros/ba-p/795813) และ [จัดการการอัปเดตเป็นแอป Microsoft ๓๖๕ด้วยตัวจัดการการกำหนดค่า microsoft จุดสิ้น](https://docs.microsoft.com/deployoffice/manage-microsoft-365-apps-updates-configuration-manager)สุด
