@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "1740"
 - "9000140"
-ms.openlocfilehash: fb69bce40ab56b162c715af6a0647c8219c5564f
-ms.sourcegitcommit: dab885f2cb99057e959fb9be334f5a3a26a64058
+ms.openlocfilehash: 3e1042a38d2289b9ef2396e8300d32f20ddaa703
+ms.sourcegitcommit: b5e5f560bf6ef92b4475bd3d91b7df38b5a4b036
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 08/13/2020
-ms.locfileid: "46665481"
+ms.lasthandoff: 08/14/2020
+ms.locfileid: "46739846"
 ---
 # <a name="change-update-channels-for-office-apps"></a>เปลี่ยนช่องทางการอัปเดตสำหรับแอป Office
 
@@ -30,9 +30,11 @@ ms.locfileid: "46665481"
 1. ดาวน์โหลดเวอร์ชันล่าสุดของเครื่องมือการปรับใช้ Office (setup.exe) จาก[ศูนย์ดาวน์โหลดของไมโครซอฟท์](https://go.microsoft.com/fwlink/p/?LinkID=626065)
 2. ระบุชื่อของแชนเนลที่คุณต้องการสลับไปใช้ สำหรับข้อมูลเพิ่มเติมให้ดู[ที่ตัวเลือกการกำหนดค่าสำหรับเครื่องมือการปรับใช้ Office](https://docs.microsoft.com/DeployOffice/configuration-options-for-the-office-2016-deployment-tool#channel-attribute-part-of-add-element)
 3. สร้างไฟล์ XML การกำหนดค่าที่ระบุชื่อแชนเนลที่เหมาะสมตัวอย่างเช่น update.xml  
-    `<Configuration> 
-    <Updates **Channel="Monthly"** />  
-    </Configuration>`
+
+`<Configuration>`<br>
+`<Updates Channel="Monthly"/>`<br>
+`</Configuration>`<br>
+
 4. จากพร้อมท์คำสั่งยกระดับให้สลับไปยังตำแหน่งที่ตั้งของโฟลเดอร์ที่ setup.exe อยู่และเรียกใช้คำสั่งต่อไปนี้:  
     a. setup.exe c:\odt\setup.exe/configure update.xml
 5. เริ่มแอปพลิเคชัน Office (เช่น Excel) แล้วเลือก**File**  >  **บัญชีผู้ใช้**ไฟล์ ในส่วนข้อมูลผลิตภัณฑ์ให้เลือกอัปเดตตัว**เลือกการอัปเด**  >  **ตเดี๋ยวนี้**
