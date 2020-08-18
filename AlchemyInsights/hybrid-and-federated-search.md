@@ -1,7 +1,7 @@
 ---
-title: การค้นหาไฮบริดและการติดต่อกับภายนอก
-ms.author: v-todmc
-author: todmccoy
+title: การค้นหาแบบไฮบริดและ Federated
+ms.author: pebaum
+author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
@@ -11,15 +11,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000653"
 - "2505"
-ms.openlocfilehash: 15e4c6a5b531ca90b0a44e696aa158bd480c072f
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: 1570ab156ec9d2d973c270dc216985e6e2b5b0af
+ms.sourcegitcommit: 90f37eebec9aaa9e49c2cf4d201152c5e20e384b
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "37768998"
+ms.lasthandoff: 08/17/2020
+ms.locfileid: "46787196"
 ---
-# <a name="hybrid-and-federated-searches"></a><span data-ttu-id="d8aff-102">การค้นหาไฮบริดและการติดต่อกับภายนอก</span><span class="sxs-lookup"><span data-stu-id="d8aff-102">Hybrid and federated searches</span></span> 
+# <a name="hybrid-and-federated-searches"></a><span data-ttu-id="a23a7-102">การค้นหาแบบไฮบริดและ federated</span><span class="sxs-lookup"><span data-stu-id="a23a7-102">Hybrid and federated searches</span></span> 
 
-<span data-ttu-id="d8aff-103">สำหรับข้อมูลเกี่ยวกับไฮบริดสลีและการค้นหาการติดต่อกับภายนอกใน SharePoint แบบออนไลน์ให้ดูการ[ค้นหาไฮบริดสลีใน SharePoint](https://docs.microsoft.com/sharepoint/hybrid/hybrid-search-in-sharepoint)</span><span class="sxs-lookup"><span data-stu-id="d8aff-103">For information about hybrid and Federated Search in SharePoint Online, see [Hybrid search in SharePoint](https://docs.microsoft.com/sharepoint/hybrid/hybrid-search-in-sharepoint).</span></span>
+<span data-ttu-id="a23a7-103">สำหรับข้อมูลเกี่ยวกับการค้นหาแบบไฮบริดและที่ติดต่อกับภายนอกใน SharePoint Online ให้ดู[ที่การค้นหาแบบไฮบริดใน sharepoint](https://docs.microsoft.com/sharepoint/hybrid/hybrid-search-in-sharepoint)</span><span class="sxs-lookup"><span data-stu-id="a23a7-103">For information about hybrid and Federated Search in SharePoint Online, see [Hybrid search in SharePoint](https://docs.microsoft.com/sharepoint/hybrid/hybrid-search-in-sharepoint).</span></span>
 
-<span data-ttu-id="d8aff-104">สำหรับข้อมูลเกี่ยวกับการวางแผนการค้นหาแบบรวมศูนย์ไฮบริดสลีให้ดู[การค้นหาการติดต่อกับภายนอกไฮบริดสลีสำหรับ SharePoint Server](https://docs.microsoft.com/sharepoint/hybrid/plan-hybrid-federated-search)</span><span class="sxs-lookup"><span data-stu-id="d8aff-104">For information on planning hybrid federated search, see [Plan hybrid federated search for SharePoint Server](https://docs.microsoft.com/sharepoint/hybrid/plan-hybrid-federated-search).</span></span>
+<span data-ttu-id="a23a7-104">สำหรับข้อมูลเกี่ยวกับการวางแผนการค้นหาแบบไฮบริดที่ติดต่อกับภายนอกให้ดูที่การ[วางแผนการค้นหาแบบไฮบริดที่ติดต่อกับ](https://docs.microsoft.com/sharepoint/hybrid/plan-hybrid-federated-search)</span><span class="sxs-lookup"><span data-stu-id="a23a7-104">For information on planning hybrid federated search, see [Plan hybrid federated search for SharePoint Server](https://docs.microsoft.com/sharepoint/hybrid/plan-hybrid-federated-search).</span></span>
