@@ -1,7 +1,7 @@
 ---
-title: วิธีการกําหนดสิทธิ์ของไซต์ SharePoint ผ่านทางกลุ่ม SharePoint ด้วยตนเอง
-ms.author: v-todmc
-author: todmccoy
+title: วิธีการกำหนดสิทธิ์ของไซต์ SharePoint ด้วยกลุ่ม SharePoint
+ms.author: pebaum
+author: pebaum
 manager: mnirkhe
 ms.date: 04/21/2020
 ms.audience: Admin
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000165"
 - "3165"
-ms.openlocfilehash: 41a9279781601c8e7747d079a70e4905cdcfdcc2
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 49a2ac93bf146f4f134785fffc536101a3f91fcf
+ms.sourcegitcommit: 90f37eebec9aaa9e49c2cf4d201152c5e20e384b
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43705176"
+ms.lasthandoff: 08/17/2020
+ms.locfileid: "46786224"
 ---
-# <a name="how-to-customize-sharepoint-site-permissions-via-sharepoint-groups"></a>วิธีการกําหนดสิทธิ์ของไซต์ SharePoint ผ่านทางกลุ่ม SharePoint ด้วยตนเอง 
+# <a name="how-to-customize-sharepoint-site-permissions-via-sharepoint-groups"></a>วิธีการกำหนดสิทธิ์ของไซต์ SharePoint ด้วยกลุ่ม SharePoint 
 
-กลุ่ม SharePoint คือกลุ่มของผู้ใช้ที่ทุกคนมีสิทธิ์ชุดสิทธิ์เดียวกันกับไซต์และเนื้อหา แทนที่จะกําหนดสิทธิ์ทีละคน
+กลุ่ม SharePoint คือคอลเลกชันของผู้ใช้ที่มีสิทธิ์การใช้งานไซต์และเนื้อหาเดียวกัน แทนที่จะมอบสิทธิ์ให้กับผู้ใช้หนึ่งคนในแต่ละครั้งคุณสามารถใช้กลุ่มเพื่อกำหนดระดับสิทธิ์เดียวกันให้กับผู้ใช้หลายคนในครั้งเดียวได้อย่างสะดวก
 
-[การกําหนดสิทธิ์สําหรับไซต์ SharePoint เอง](https://docs.microsoft.com/sharepoint/customize-sharepoint-site-permissions)
+[กำหนดสิทธิ์ของไซต์ SharePoint เอง](https://docs.microsoft.com/sharepoint/customize-sharepoint-site-permissions)

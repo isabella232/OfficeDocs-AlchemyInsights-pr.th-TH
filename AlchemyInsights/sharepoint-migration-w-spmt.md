@@ -1,7 +1,7 @@
 ---
-title: การโยกย้าย SharePoint กับ SPMT
-ms.author: v-todmc
-author: todmccoy
+title: การโยกย้าย SharePoint ด้วย SPMT
+ms.author: pebaum
+author: pebaum
 manager: mnirkhe
 ms.date: 04/21/2020
 ms.audience: Admin
@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "5300030"
 - "2594"
-ms.openlocfilehash: 32afe7771a10e4d5ac9b6bd90467debc2961d0b7
-ms.sourcegitcommit: e6d73d240669342fde9d4d25b0ee2838b7e43965
+ms.openlocfilehash: bbe60a948230a5a385cabd637489a72286394ccf
+ms.sourcegitcommit: 90f37eebec9aaa9e49c2cf4d201152c5e20e384b
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 05/14/2020
-ms.locfileid: "44235376"
+ms.lasthandoff: 08/17/2020
+ms.locfileid: "46787087"
 ---
-# <a name="sharepoint-migration-with-spmt"></a>การโยกย้าย SharePoint กับ SPMT
+# <a name="sharepoint-migration-with-spmt"></a>การโยกย้าย SharePoint ด้วย SPMT
 
-ออกแบบมาเพื่อใช้สําหรับการย้ายข้อมูลตั้งแต่ชุดเล็กที่สุดของไฟล์ไปจนถึงการย้ายองค์กรขนาดใหญ่เครื่องมือการโยกย้าย SharePoint จะช่วยให้คุณสามารถถ่ายโอนข้อมูลของคุณไปยังระบบคลาวด์และใช้ประโยชน์จากการทํางานร่วมกันใหม่ล่าสุด
+ได้รับการออกแบบมาเพื่อใช้สำหรับการโยกย้ายตั้งแต่ชุดของไฟล์ที่มีขนาดใหญ่ที่สุดไปจนถึงการโยกย้ายองค์กรขนาดใหญ่เครื่องมือการโยกย้ายของ SharePoint จะช่วยให้คุณสามารถถ่ายโอนข้อมูลของคุณไปยัง cloud และใช้ประโยชน์จากโซลูชันการทำงานร่วมกันและการรักษาความปลอดภัยใหม่ล่าสุดด้วย Microsoft ๓๖๕
 
-- [ดาวน์โหลด และติดตั้งเครื่องมือการโยกย้าย SharePoint](https://docs.microsoft.com/sharepointmigration/introducing-the-sharepoint-migration-tool)
-- [การแก้ไขปัญหาและข้อผิดพลาดของ SPMT ทั่วไป](https://docs.microsoft.com/sharepointmigration/troubleshooting-common-spmt-issues)
+- [ดาวน์โหลดและติดตั้งเครื่องมือการโยกย้าย SharePoint](https://docs.microsoft.com/sharepointmigration/introducing-the-sharepoint-migration-tool)
+- [การแก้ไขปัญหาทั่วไปของ SPMT และข้อผิดพลาด](https://docs.microsoft.com/sharepointmigration/troubleshooting-common-spmt-issues)
 - [การแก้ไขปัญหาการติดตั้ง SPMT](https://docs.microsoft.com/sharepointmigration/spmt-install-issues#troubleshooting-spmt-installation-issues)

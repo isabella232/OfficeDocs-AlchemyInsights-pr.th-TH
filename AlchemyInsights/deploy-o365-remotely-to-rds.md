@@ -1,7 +1,7 @@
 ---
-title: การปรับใช้โปรแกรมประยุกต์ 365 ของ Microsoft สําหรับองค์กรสําหรับการใช้งานที่ใช้ร่วมกันบน RDS, เซิร์ฟเวอร์เทอร์มินัล หรือ VDI
-ms.author: v-todmc
-author: todmccoy
+title: การปรับใช้แอป Microsoft ๓๖๕สำหรับองค์กรสำหรับการใช้งานร่วมกันบน RDS, Terminal Server หรือ VDI
+ms.author: pebaum
+author: pebaum
 manager: mnirkhe
 ms.date: 04/21/2020
 ms.audience: Admin
@@ -12,40 +12,40 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001419"
 - "3411"
-ms.openlocfilehash: fe051cd1dac899dc9bb19d275c352ec6585b6a93
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: bd30d99221e3ddd0b07db0db78009f346babd2d0
+ms.sourcegitcommit: 90f37eebec9aaa9e49c2cf4d201152c5e20e384b
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44507605"
+ms.lasthandoff: 08/17/2020
+ms.locfileid: "46786296"
 ---
-# <a name="deploying-microsoft-365-apps-for-enterprise-for-shared-use-on-rds-terminal-server-or-vdi"></a>การปรับใช้โปรแกรมประยุกต์ 365 ของ Microsoft สําหรับองค์กรสําหรับการใช้งานที่ใช้ร่วมกันบน RDS, เซิร์ฟเวอร์เทอร์มินัล หรือ VDI
+# <a name="deploying-microsoft-365-apps-for-enterprise-for-shared-use-on-rds-terminal-server-or-vdi"></a>การปรับใช้แอป Microsoft ๓๖๕สำหรับองค์กรสำหรับการใช้งานร่วมกันบน RDS, Terminal Server หรือ VDI
 
-เมื่อต้องการปรับใช้โปรแกรมประยุกต์ 365 ของ Microsoft สําหรับองค์กรโดยใช้บริการเดสก์ท็อประยะไกล (RDS), ชื่อเดิมคือบริการเทอร์มินัล:
-- คุณต้องมีแผน Microsoft 365 สําหรับธุรกิจหรือแผน Office 365 ที่มีแอป Microsoft 365 สําหรับองค์กร เช่น Office 365 Enterprise E3 หรือ Enterprise E5
+เมื่อต้องการปรับใช้แอป Microsoft ๓๖๕สำหรับองค์กรที่ใช้บริการเดสก์ท็อประยะไกล (RDS) ซึ่งชื่อเดิมคือบริการเทอร์มินัล:
+- คุณต้องมี Microsoft ๓๖๕สำหรับแผนธุรกิจหรือแผน Office ๓๖๕ที่มีแอป Microsoft ๓๖๕สำหรับองค์กรเช่น Office ๓๖๕ Enterprise E3 หรือ Enterprise E5
    > [!NOTE] 
-   > แอป Microsoft 365 สําหรับธุรกิจและแผนมาตรฐานพรีเมี่ยมสําหรับธุรกิจ Microsoft 365 ไม่รวมแอป Microsoft 365 สําหรับองค์กร
-- คุณต้องเปิดใช้งาน[การเปิดใช้งานคอมพิวเตอร์ที่ใช้ร่วมกัน](https://docs.microsoft.com/DeployOffice/overview-shared-computer-activation)
+   > แอป Microsoft ๓๖๕สำหรับธุรกิจและแผนมาตรฐานของ Microsoft ๓๖๕ Business Premium ไม่รวมแอป Microsoft ๓๖๕สำหรับองค์กร
+- คุณต้องเปิดใช้งานการ[เปิดใช้งานคอมพิวเตอร์ที่แชร์](https://docs.microsoft.com/DeployOffice/overview-shared-computer-activation)
 
 > [!NOTE]
-> คุณยังสามารถดาวน์โหลด และเรียกใช้[ฝ่ายสนับสนุนของ Microsoft และผู้ช่วยกู้คืน](https://aka.ms/SaRA_OfficeSCA_M365Portal)เพื่อติดตั้ง Microsoft 365 Apps สําหรับองค์กรในโหมดการเปิดใช้งานคอมพิวเตอร์ที่ใช้ร่วมกัน
+> นอกจากนี้คุณยังสามารถดาวน์โหลดและเรียกใช้ตัว [ช่วยการสนับสนุนและการกู้คืนของ microsoft](https://aka.ms/SaRA_OfficeSCA_M365Portal) เพื่อติดตั้งแอป microsoft ๓๖๕สำหรับองค์กรในโหมดการเปิดใช้งานคอมพิวเตอร์ที่แชร์ได้
 
-สําหรับข้อมูลเพิ่มเติมเกี่ยวกับข้อกําหนดเบื้องต้น[Deploy Microsoft 365 Apps for enterprise by using Remote Desktop Services](https://docs.microsoft.com/DeployOffice/deploy-microsoft-365-apps-remote-desktop-services)
+สำหรับข้อมูลเพิ่มเติมเกี่ยวกับข้อกำหนดเบื้องต้นคำแนะนำการตั้งค่าและคำแนะนำเกี่ยวกับการติดตั้งแบบกำหนดเองโดยใช้เครื่องมือการปรับใช้ Office ให้ดูที่[การปรับใช้แอป Microsoft ๓๖๕สำหรับองค์กรโดยใช้บริการเดสก์ท็อประยะไกล](https://docs.microsoft.com/DeployOffice/deploy-microsoft-365-apps-remote-desktop-services)
 
-เมื่อต้องการแก้ไขข้อผิดพลาดที่เกี่ยวข้องกับการเปิดใช้งานคอมพิวเตอร์ที่ใช้ร่วมกัน:
-- ดู[แก้ไขปัญหาเกี่ยวกับการเปิดใช้งานคอมพิวเตอร์ที่ใช้ร่วมกันสําหรับ Microsoft 365 Apps สําหรับองค์กร](https://docs.microsoft.com/DeployOffice/troubleshoot-shared-computer-activation)
-- ดู[รีเซ็ตแอป Microsoft 365 สําหรับสถานะการเปิดใช้งานขององค์กร](https://go.microsoft.com/fwlink/?linkid=2109218)
+เมื่อต้องการแก้ไขข้อผิดพลาดที่เกี่ยวข้องกับการเปิดใช้งานคอมพิวเตอร์ที่แชร์:
+- ดู[แก้ไขปัญหาเกี่ยวกับการเปิดใช้งานคอมพิวเตอร์ที่แชร์สำหรับแอป Microsoft ๓๖๕สำหรับองค์กร](https://docs.microsoft.com/DeployOffice/troubleshoot-shared-computer-activation)
+- ให้ดูที่[ตั้งค่าแอป Microsoft ๓๖๕สำหรับสถานะการเปิดใช้งานขององค์กร](https://go.microsoft.com/fwlink/?linkid=2109218)
 
-ถ้าคุณต้องการติดตั้ง Microsoft 365 Apps สําหรับองค์กรบน RDS จากศูนย์การจัดการ Microsoft 365***ซึ่งใช้การตั้งค่าการติดตั้งเริ่มต้น***ให้ใช้ขั้นตอนต่อไปนี้:
+ถ้าคุณต้องการติดตั้งแอป Microsoft ๓๖๕สำหรับ enterprise บน RDS จากศูนย์การจัดการ Microsoft ๓๖๕ ***ที่ใช้การตั้งค่าการติดตั้งเริ่มต้น***ให้ใช้ขั้นตอนต่อไปนี้:
 
-1.    ตรวจสอบสิ่งที่คุณมีการสมัครใช้งาน [เรียนรู้วิธี](https://docs.microsoft.com/microsoft-365/admin/admin-overview/what-subscription-do-i-have)
-2.    หากจําเป็น ให้สลับไปยังการสมัครใช้งานอื่น [เรียนรู้วิธี](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/switch-to-a-different-plan)
-3.    ถ้า Office ถูกติดตั้งบนเซิร์ฟเวอร์ RDS โดยใช้การสมัครใช้งาน Microsoft อื่น ๆ ถอนการติดตั้ง ตัวอย่างเช่น โดยไปที่**แผงควบคุม**  >  **การถอนการติดตั้งโปรแกรม** ถอนการติดตั้งโดยใช้[ฝ่ายสนับสนุนของ Microsoft และผู้ช่วยกู้คืน](https://aka.ms/SARA-OfficeUninstall-Alchemy)ถ้าคุณกําลังทํางานเป็นปัญหา
-4.    บนเซิร์ฟเวอร์ RDS ให้ลงชื่อเข้าใช้ศูนย์การจัดการ Microsoft 365 ด้วยบัญชีผู้ดูแลระบบของคุณ[และติดตั้งแอป Microsoft 365 สําหรับองค์กร](https://portal.office.com/OLS/MySoftware.aspx)
-5.    หลังจากที่มีการติดตั้ง Office***แล้ว***
-6.    บนเซิร์ฟเวอร์ RDS เปิดใช้งานการเปิดใช้งานคอมพิวเตอร์ที่ใช้ร่วมกัน โดยการแก้ไขรีจิสทรี โดยทําตามขั้นตอนเหล่านี้:
-   1. คลิกขวาที่ปุ่ม Windows ที่มุมซ้ายล่างของหน้าจอแล้วเลือก**เรียกใช้** ในกล่อง เปิด ให้พิมพ์**regedit**แล้วเลือก**ตกลง**
-   2. เลือก**ใช่**เมื่อได้รับพร้อมท์ให้อนุญาตให้ตัวแก้ไขรีจิสทรีทําการเปลี่ยนแปลงอุปกรณ์ของคุณ
-   3. ในตัวแก้ไขรีจิสทรี ให้เพิ่มค่าสายอักขระของ**SharedComputerLicensing**ด้วยการตั้งค่า 1 ภายใต้ HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft \Office\คลิกToRun\การกําหนดค่า
-   4. บนเซิร์ฟเวอร์ RDS***ให้ลงชื่อเข้าใช้ในฐานะผู้ใช้ และ***[ตรวจสอบว่าเปิดใช้งานคอมพิวเตอร์ที่ใช้ร่วมกันสําหรับ Microsoft 365 Apps สําหรับองค์กร](https://docs.microsoft.com/DeployOffice/troubleshoot-shared-computer-activation#verify-that-activation-for-microsoft-365-apps-succeeded)
+1.    ตรวจสอบว่าคุณมีการสมัครใช้งานอะไรบ้าง [เรียนรู้วิธี](https://docs.microsoft.com/microsoft-365/admin/admin-overview/what-subscription-do-i-have)การ
+2.    ถ้าจำเป็นให้สลับไปยังการสมัครใช้งานอื่น [เรียนรู้วิธี](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/switch-to-a-different-plan)การ
+3.    ถ้า Office ได้รับการติดตั้งบนเซิร์ฟเวอร์ RDS แล้วโดยใช้การสมัครใช้งาน Microsoft อื่นๆให้ถอนการติดตั้ง ตัวอย่างเช่นโดยไปที่**แผงควบคุม**  >  **ถอนการติดตั้งโปรแกรม** ถอนการติดตั้งโดยใช้ตัว [ช่วยการสนับสนุนและการกู้คืนของ Microsoft](https://aka.ms/SARA-OfficeUninstall-Alchemy) ถ้าคุณกำลังใช้งานปัญหา
+4.    บนเซิร์ฟเวอร์ RDS ให้ลงชื่อเข้าใช้ศูนย์การจัดการ Microsoft ๓๖๕ด้วยบัญชีผู้ดูแลระบบของคุณและ[ติดตั้งแอป microsoft ๓๖๕สำหรับองค์กร](https://portal.office.com/OLS/MySoftware.aspx)
+5.    หลังจากติดตั้ง Office แล้ว ***อย่าเปิดหรือลงชื่อเข้า*** ใช้แอปพลิเคชัน office ใดๆ
+6.    บนเซิร์ฟเวอร์ RDS ให้เปิดใช้งานการเปิดใช้งานคอมพิวเตอร์ที่แชร์โดยการแก้ไขรีจิสทรีโดยทำตามขั้นตอนต่อไปนี้:
+   1. คลิกขวาที่ปุ่ม Windows ที่มุมล่างซ้ายของหน้าจอของคุณแล้วเลือก**เรียกใช้** ในกล่องเปิดให้พิมพ์**regedit**จากนั้นเลือก**ตกลง**
+   2. เลือก **ใช่** เมื่อได้รับพร้อมท์ให้อนุญาตให้แก้ไขรีจิสทรีเพื่อทำการเปลี่ยนแปลงไปยังอุปกรณ์ของคุณ
+   3. ใน Registry Editor ให้เพิ่มค่าสตริ **SharedComputerLicensing** ที่มีการตั้งค่า1ภายใต้ HKEY_LOCAL_MACHINE \software\microsoft \Office\ClickToRun\Configuration.
+   4. บนเซิร์ฟเวอร์ RDS ให้***ลงชื่อเข้าใช้ในฐานะผู้ใช้***และ[ตรวจสอบว่าเปิดใช้งานการเปิดใช้งานคอมพิวเตอร์ที่แชร์ไว้สำหรับแอป Microsoft ๓๖๕สำหรับองค์กร](https://docs.microsoft.com/DeployOffice/troubleshoot-shared-computer-activation#verify-that-activation-for-microsoft-365-apps-succeeded)
 

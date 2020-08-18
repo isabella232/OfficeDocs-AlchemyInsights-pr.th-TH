@@ -1,7 +1,7 @@
 ---
 title: เพิ่มผู้ใช้ลงในกลุ่ม SharePoint
-ms.author: v-todmc
-author: todmccoy
+ms.author: pebaum
+author: pebaum
 manager: mnirkhe
 ms.date: 04/21/2020
 ms.audience: Admin
@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000237"
 - "3199"
-ms.openlocfilehash: ea4fb74365fdd5f44e14aa68d5df6746ff3c754b
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: 7c51e5b033d42ddcdb744f55e15c1bc6843d8e62
+ms.sourcegitcommit: 90f37eebec9aaa9e49c2cf4d201152c5e20e384b
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44506649"
+ms.lasthandoff: 08/17/2020
+ms.locfileid: "46786747"
 ---
 # <a name="add-users-to-a-sharepoint-group"></a>เพิ่มผู้ใช้ลงในกลุ่ม SharePoint
 
-กลุ่ม SharePoint คือกลุ่มผู้ใช้ที่มีสิทธิ์ในไซต์และเนื้อหาชุดเดียวกัน แทนที่จะกําหนดสิทธิ์บุคคลหนึ่งคนในแต่ละครั้ง
+กลุ่ม SharePoint คือคอลเลกชันของผู้ใช้ที่มีสิทธิ์การใช้งานไซต์และเนื้อหาเดียวกัน แทนที่จะมอบสิทธิ์ให้กับผู้ใช้หนึ่งคนในแต่ละครั้งคุณสามารถใช้กลุ่มเพื่อกำหนดระดับสิทธิ์เดียวกันให้กับผู้ใช้หลายคนในครั้งเดียวได้อย่างสะดวก
 
 - [เพิ่มผู้ใช้ลงในกลุ่ม](https://docs.microsoft.com/sharepoint/customize-sharepoint-site-permissions#add-users-to-a-group)
-- [เพิ่มหรือเอาสมาชิกออกจากกลุ่ม Microsoft 365 โดยใช้ศูนย์การจัดการ](https://docs.microsoft.com/microsoft-365/admin/create-groups/add-or-remove-members-from-groups)
+- [เพิ่มหรือเอาสมาชิกออกจากกลุ่ม Microsoft ๓๖๕โดยใช้ศูนย์การจัดการ](https://docs.microsoft.com/microsoft-365/admin/create-groups/add-or-remove-members-from-groups)

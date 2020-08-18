@@ -1,7 +1,7 @@
 ---
-title: ตัวเลือกการใช้ร่วมกันปรากฏมัวหรือไม่สามารถใช้งานได้
-ms.author: v-todmc
-author: todmccoy
+title: ตัวเลือกการแชร์แสดงสีหรี่หรือไม่พร้อมใช้งาน
+ms.author: pebaum
+author: pebaum
 manager: mnirkhe
 ms.date: 04/21/2020
 ms.audience: Admin
@@ -12,13 +12,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000192"
 - "2591"
-ms.openlocfilehash: e4aebd8ffaa1169cb27dcf551f72ab7bc7b1210d
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 905c8f103acdb1f57dd0a1dd941841622220e93a
+ms.sourcegitcommit: 90f37eebec9aaa9e49c2cf4d201152c5e20e384b
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43758613"
+ms.lasthandoff: 08/17/2020
+ms.locfileid: "46787412"
 ---
-# <a name="sharing-options-appear-dim-or-are-not-available"></a>ตัวเลือกการใช้ร่วมกันปรากฏมัว หรือไม่พร้อมใช้งาน
+# <a name="sharing-options-appear-dim-or-are-not-available"></a>ตัวเลือกการแชร์ปรากฏหรี่หรือไม่พร้อมใช้งาน
 
-ถ้าตัวเลือกการแชร์บางตัวเลือกหรือไม่พร้อมใช้งานเมื่อพยายามแชร์จาก SharePoint Online หรือ OneDrive ให้ดูที่[ตัวเลือกการแชร์เป็นสีเทาเมื่อแชร์จาก SharePoint Online หรือ OneDrive](https://docs.microsoft.com/sharepoint/support/administration/sharing-options-grayed-out-when-sharing-from-sharepoint-online-or-onedrive)
+ถ้าตัวเลือกการแชร์บางตัวเลือกหรือไม่พร้อมใช้งานเมื่อพยายามแชร์จาก SharePoint Online หรือ OneDrive ให้ดู[ที่ตัวเลือกการแชร์จะเป็นสีเทาเมื่อแชร์จาก SharePoint Online หรือ onedrive](https://docs.microsoft.com/sharepoint/support/administration/sharing-options-grayed-out-when-sharing-from-sharepoint-online-or-onedrive)

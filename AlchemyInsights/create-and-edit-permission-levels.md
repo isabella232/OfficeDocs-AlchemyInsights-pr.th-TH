@@ -1,7 +1,7 @@
 ---
-title: การทํางานกับระดับสิทธิ์ของ SharePoint
-ms.author: v-todmc
-author: todmccoy
+title: การทำงานกับระดับสิทธิ์ของ SharePoint
+ms.author: pebaum
+author: pebaum
 manager: mnirkhe
 ms.date: 04/21/2020
 ms.audience: Admin
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000165"
 - "3164"
-ms.openlocfilehash: 924d8ed360c34c8cdcfba2651d1615ec1ca59c90
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: e0a3270af310e25cd7b8b37faccbd29214ea4b47
+ms.sourcegitcommit: 90f37eebec9aaa9e49c2cf4d201152c5e20e384b
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43705500"
+ms.lasthandoff: 08/17/2020
+ms.locfileid: "46786404"
 ---
-# <a name="working-with-sharepoint-permission-levels"></a>การทํางานกับระดับสิทธิ์ของ SharePoint
+# <a name="working-with-sharepoint-permission-levels"></a>การทำงานกับระดับสิทธิ์ของ SharePoint
 
-SharePoint มาพร้อมกับระดับสิทธิ์เริ่มต้นที่คุณสามารถใช้ เช่น**มีส่วนร่วม**และดู**เท่านั้น** แต่หากหนึ่งในเหล่านี้ไม่ตรงตามความต้องการของคุณคุณสามารถสร้างระดับสิทธิ์ใหม่ได้ โปรดทราบว่าการติดตามระดับสิทธิ์จะง่ายขึ้น
+SharePoint มาพร้อมกับระดับสิทธิ์เริ่มต้นที่คุณสามารถใช้ได้เช่นการ**สนับสนุน**และการ**ดูเท่านั้น** แต่ถ้าหนึ่งในสิ่งเหล่านี้ไม่ตรงตามความต้องการของคุณคุณสามารถสร้างระดับสิทธิ์ใหม่ได้ โปรดจำไว้ว่าการติดตามระดับสิทธิ์ได้ง่ายขึ้นถ้าคุณไม่เปลี่ยนแปลงค่าเริ่มต้น
 
 [วิธีการสร้างและแก้ไขระดับสิทธิ์](https://docs.microsoft.com/sharepoint/how-to-create-and-edit-permission-levels)
