@@ -1,5 +1,5 @@
 ---
-title: การเกษียณอายุของเครื่องมือ eDiscovery แบบดั้งเดิม
+title: การเกษียณอายุของเครื่องมือ eDiscovery ดั้งเดิม
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,44 +11,44 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001487"
 - "3523"
-ms.openlocfilehash: 262cca0feee17d1f929a5a94a4dd6c1ec317f6ec
-ms.sourcegitcommit: 6bf1d945b4fd6a1fe37d00c5ea99adea7eef9910
+ms.openlocfilehash: 94cd2127240be5faacd397ba6255fdb16e364308
+ms.sourcegitcommit: d4fc2a03af69e28e96075812d040fdd34d2e23f0
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 04/21/2020
-ms.locfileid: "43650587"
+ms.lasthandoff: 08/26/2020
+ms.locfileid: "46902639"
 ---
-# <a name="retirement-of-legacy-ediscovery-tools"></a>การเกษียณอายุของเครื่องมือ eDiscovery แบบดั้งเดิม
+# <a name="retirement-of-legacy-ediscovery-tools"></a>การเกษียณอายุของเครื่องมือ eDiscovery ดั้งเดิม
 
-จากฟังก์ชัน eDiscovery ใหม่ ที่ได้รับการปรับปรุงในศูนย์การปฏิบัติตามกฎระเบียบ 365 Microsoft เครื่องมือ eDiscovery แบบดั้งเดิมและ commandlets ต่อไปนี้จะออกใช้ในเดือนที่จะมาถึง:
+ผลลัพธ์ของฟังก์ชัน eDiscovery ใหม่และได้รับการปรับปรุงในศูนย์การปฏิบัติตามนโยบายของ Microsoft ๓๖๕จะมีการถอนเครื่องมือ eDiscovery และ commandlet ดังต่อไปนี้ในเดือนที่จะมาถึงดังต่อไปนี้
 
-- การหยุดพักในสถานที่[eDiscovery](https://docs.microsoft.com/exchange/security-and-compliance/in-place-ediscovery/in-place-ediscovery)และ[ในสถานที่](https://docs.microsoft.com/exchange/security-and-compliance/create-or-remove-in-place-holds)ในศูนย์การจัดการ Exchange
+- [EDiscovery ในสถาน](https://docs.microsoft.com/exchange/security-and-compliance/in-place-ediscovery/in-place-ediscovery) ที่และ [ในสถานที่ถือ](https://docs.microsoft.com/exchange/security-and-compliance/create-or-remove-in-place-holds) ในศูนย์การจัดการ Exchange
 
-- Cmdlet แบบออนไลน์ของอัตราแลกเปลี่ยนที่สนับสนุน eDiscovery ในสถานที่และในสถานที่ (cmdlet เหล่านี้ถูกระบุรวมเป็น cmdlet กล่องจดหมาย Search) ซึ่งรวมถึง cmdlet ต่อไปนี้:
+- Cmdlet PowerShell ของ Exchange Online ที่สนับสนุน eDiscovery ในสถานที่และในตำแหน่งที่ถือ (Cmdlet เหล่านี้จะมีการระบุเป็น *-MailboxSearch cmdlets) ซึ่งรวมถึง cmdlet ต่อไปนี้:
 
-    - [กล่องจดหมายใหม่ค้นหา](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance-content-search/new-mailboxsearch)
-    - [กล่องจดหมายเริ่มต้นค้นหา](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance-content-search/start-mailboxsearch)
-    - [หยุดการค้นหากล่องจดหมาย](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance-content-search/stop-mailboxsearch)
-    - [ตั้งค่ากล่องจดหมายค้นหา](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance-content-search/set-mailboxsearch)
+    - [MailboxSearch ใหม่](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance-content-search/new-mailboxsearch)
+    - [เริ่มต้น-MailboxSearch](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance-content-search/start-mailboxsearch)
+    - [หยุด-MailboxSearch](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance-content-search/stop-mailboxsearch)
+    - [ตั้งค่า-MailboxSearch](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance-content-search/set-mailboxsearch)
 
-- คําสั่งจัดการ[กล่องจดหมายการค้นหา](https://docs.microsoft.com/powershell/module/exchange/mailboxes/search-mailbox?view=exchange-ps)ใน PowerShell แบบออนไลน์ของอัตราแลกเปลี่ยน
-- การดําเนินการต่อไปนี้ใน API บริการเว็บอัตราแลกเปลี่ยน:
-    - [รับกล่องจดหมายที่ค้นหาได้](https://docs.microsoft.com/exchange/client-developer/web-service-reference/getsearchablemailboxes-operation)
-    - [ตั้งค่าการระงับบนกล่องจดหมาย](https://docs.microsoft.com/exchange/client-developer/web-service-reference/setholdonmailboxes-operation)
-    - [การฝากข้อความ](https://docs.microsoft.com/exchange/client-developer/web-service-reference/getholdonmailboxes-operation)
+- Cmdlet [กล่องจดหมายการค้นหา](https://docs.microsoft.com/powershell/module/exchange/mailboxes/search-mailbox?view=exchange-ps) ใน Exchange Online PowerShell
+- การดำเนินการต่อไปนี้ใน API เว็บเซอร์วิสของ Exchange:
+    - [GetSearchableMailboxes](https://docs.microsoft.com/exchange/client-developer/web-service-reference/getsearchablemailboxes-operation)
+    - [SetHoldOnMailboxes](https://docs.microsoft.com/exchange/client-developer/web-service-reference/setholdonmailboxes-operation)
+    - [GetHoldOnMailboxes](https://docs.microsoft.com/exchange/client-developer/web-service-reference/getholdonmailboxes-operation)
 
-- [ขั้นสูง eDiscovery v1.0](https://docs.microsoft.com/microsoft-365/compliance/office-365-advanced-ediscovery)
+- [ขั้นสูง eDiscovery v 1.0](https://docs.microsoft.com/microsoft-365/compliance/office-365-advanced-ediscovery)
 
-**ระยะเวลาเกษียณ :**
-- 1 เมษายน 2020: คุณจะไม่สามารถสร้างการค้นหาและการระงับใหม่ได้ แต่คุณยังสามารถเรียกใช้ แก้ไข และลบการค้นหาที่มีอยู่ตามความเสี่ยงของคุณเองได้ ฝ่ายสนับสนุนของ Microsoft จะไม่สนับสนุน & eDiscovery ในตําแหน่งใน EAC อีกต่อไป
+**ไทม์ไลน์สำหรับการเกษียณอายุ**:
+- **1 กรกฎาคม๒๐๒๐** คุณไม่สามารถสร้างการค้นหาใหม่และจัดเก็บได้อีกต่อไปแต่คุณสามารถเรียกใช้แก้ไขและลบการค้นหาที่มีอยู่ได้ด้วยความเสี่ยงของคุณเอง ฝ่ายสนับสนุนของ Microsoft ไม่สนับสนุนการใช้ eDiscovery ในตำแหน่งที่ & อยู่ใน EAC อีกต่อไป
+    
+- **1 ตุลาคม๒๐๒๐** & eDiscovery ในสถานที่มีฟังก์ชันการทำงานใน EAC จะถูกวางไว้ในโหมดอ่านอย่างเดียวเพื่อให้คุณสามารถเอาการค้นหาที่มีอยู่และการค้นหาที่มีอยู่ออกได้เท่านั้น
 
-- 1 กรกฎาคม 2020: & eDiscovery ในสถานที่เก็บใน EAC จะถูกวางในโหมดอ่านอย่างเดียว ซึ่งหมายความว่าคุณจะสามารถลบการค้นหาที่มีอยู่และระงับได้เท่านั้น
+**สำหรับข้อมูลเพิ่มเติมให้ดู**ที่:
 
-**สําหรับข้อมูลเพิ่มเติม โปรดดูที่**:
-
- - [โยกย้ายการค้นหา eDiscovery ดั้งเดิมและระงับไปยังศูนย์การปฏิบัติตามกฎระเบียบของ Microsoft 365](https://docs.microsoft.com/microsoft-365/compliance/migrate-legacy-ediscovery-searches-and-holds)
- - [การเกษียณอายุของเครื่องมือ eDiscovery แบบดั้งเดิม](https://docs.microsoft.com/microsoft-365/compliance/legacy-ediscovery-retirement)
- - [คําถามที่พบบ่อยเกี่ยวกับ อิน-เพลส](https://docs.microsoft.com/microsoft-365/compliance/legacy-ediscovery-retirement#faqs-about-in-place-ediscovery-and-in-place-holds)
+ - [โยกย้ายการค้นหา eDiscovery ดั้งเดิมและถือเป็นศูนย์การปฏิบัติตามนโยบายของ Microsoft ๓๖๕](https://docs.microsoft.com/microsoft-365/compliance/migrate-legacy-ediscovery-searches-and-holds)
+ - [การเกษียณอายุของเครื่องมือ eDiscovery ดั้งเดิม](https://docs.microsoft.com/microsoft-365/compliance/legacy-ediscovery-retirement)
+ - [คำถามที่ถามบ่อยเกี่ยวกับ eDiscovery ในสถานที่และในสถานที่ถือ](https://docs.microsoft.com/microsoft-365/compliance/legacy-ediscovery-retirement#faqs-about-in-place-ediscovery-and-in-place-holds)
 
 
 
