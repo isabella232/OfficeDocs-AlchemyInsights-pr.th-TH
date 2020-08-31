@@ -1,5 +1,5 @@
 ---
-title: การโอนย้ายโดเมน
+title: การโอนโดเมน
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,25 +11,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002570"
 - "4985"
-ms.openlocfilehash: e78b560329254f7035869c076db5ff31427dc7ae
-ms.sourcegitcommit: a98b25fa3cac9ebba983f4932881d774880aca93
+ms.openlocfilehash: f021f5981fdaf1e99c98fa109f1a6030badb1870
+ms.sourcegitcommit: cbed17334557c1dfa471623f8d5e735f72e697da
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "43783990"
+ms.lasthandoff: 08/28/2020
+ms.locfileid: "47300675"
 ---
-# <a name="domain-transfers"></a>การโอนย้ายโดเมน
+# <a name="domain-transfers"></a>การโอนโดเมน
 
-- [วิธีการถ่ายโอนโดเมนไมโครซอฟท์ซื้อไปยังผู้ให้บริการอื่นหลังจาก 60 วัน](https://docs.microsoft.com/microsoft-365/admin/setup/domains-faq?view=o365-worldwide#can-i-transfer-a-domain-i-purchased-from-microsoft-to-another-provider)
+[วิธีการโอนย้ายโดเมน Microsoft ที่ซื้อไปยังผู้ให้บริการอื่นหลังจาก๖๐วัน](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/transfer-a-domain-from-microsoft-to-another-host)
 
-    - แม้ว่า Microsoft โดเมนที่ซื้อแล้วจะไม่สนับสนุนการเปลี่ยนแปลงระเบียน NS แต่ให้[ปรับปรุงระเบียน DNS สําหรับเว็บไซต์ของคุณ](https://docs.microsoft.com/microsoft-365/admin/dns/update-dns-records-to-retain-current-hosting-provider?view=o365-worldwide)แทนที่จะถ่ายโอนการลงทะเบียนโดเมนของคุณไปยังเว็บโฮสต์
+แม้ว่าโดเมนที่ซื้อของ Microsoft ไม่สนับสนุนการเปลี่ยนแปลงระเบียน NS ให้ลอง [อัปเดตระเบียน DNS สำหรับเว็บไซต์ของคุณ](https://docs.microsoft.com/microsoft-365/admin/dns/update-dns-records-to-retain-current-hosting-provider?view=o365-worldwide) แทนการโอนการลงทะเบียนโดเมนของคุณไปยังเว็บ hoster
 
-- ไม่สามารถถ่ายโอนโดเมนที่ซื้อของ Microsoft ระหว่างผู้เช่า Microsoft 365 ได้ 
+โดเมนที่ซื้อของ Microsoft ไม่สามารถถ่ายโอนระหว่างผู้เช่า Microsoft ๓๖๕
 
-    - อย่างไรก็ตาม คุณสามารถถ่ายโอนโดเมนของบริษัทอื่นระหว่างผู้เช่า Microsoft 365 โดยการ[เอาโดเมนจากผู้เช่าหนึ่ง](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/remove-a-domain?view=o365-worldwide)แล้ว ตรวจสอบโดเมนในผู้เช่าอื่น
+อย่างไรก็ตามคุณสามารถโอนย้ายโดเมนของบริษัทอื่นระหว่างผู้เช่า Microsoft ๓๖๕โดยการ [เอาโดเมนออกจากผู้เช่าหนึ่ง](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/remove-a-domain?view=o365-worldwide) รายแล้วตรวจสอบโดเมนในผู้เช่าอื่น
 
-- การลงทะเบียนโดเมนหรือการเรียกเก็บเงินของบุคคลที่สามไม่สามารถโอนไปยัง Microsoft ได้
+การลงทะเบียนโดเมนหรือการเรียกเก็บเงินของบริษัทอื่นไม่สามารถถ่ายโอนไปยังไมโครซอฟท์ได้
 
-    - แต่โดเมนแบบกําหนดเองสามารถ[ตรวจสอบและใช้กับ Microsoft 365](https://docs.microsoft.com/microsoft-365/admin/setup/add-domain?view=o365-worldwide)
-
-- Onmicrosoft.comโดเมนเริ่มต้นเริ่มต้นไม่สามารถถ่ายโอนหรือเปลี่ยนชื่อได้
+โดเมนแบบกำหนดเองสามารถ[ตรวจสอบและใช้งานได้กับ Microsoft ๓๖๕](https://docs.microsoft.com/microsoft-365/admin/setup/add-domain?view=o365-worldwide) ไม่สามารถโอนย้ายหรือเปลี่ยนชื่อโดเมนเริ่มต้นของ Onmicrosoft.com ได้
