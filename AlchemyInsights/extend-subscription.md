@@ -1,8 +1,8 @@
 ---
-title: ตัวเลือกของฉันคืออะไรที่จะขยาย
-ms.author: pebaum
-author: pebaum
-manager: mnirkhe
+title: ตัวเลือกของฉันที่จะขยาย
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,19 +11,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "1400006"
 - "5832"
-ms.openlocfilehash: e75243e24f609601e3f4d0014a318a55294be7a4
-ms.sourcegitcommit: e09af4285c6b81ca0a5320fdb811713ac25748c3
+ms.openlocfilehash: 20626d3759cddfbc818da687ce4eafe0c41c843f
+ms.sourcegitcommit: de5f2e8527202ff04f1587f1289ab81e8c804bb2
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 06/09/2020
-ms.locfileid: "44708158"
+ms.lasthandoff: 09/03/2020
+ms.locfileid: "47364750"
 ---
-# <a name="what-are-my-options-to-extend"></a>ตัวเลือกของฉันคืออะไรที่จะขยาย?
+# <a name="what-are-my-options-to-extend"></a>ฉันจะขยายตัวเลือกของฉันได้อย่างไร
 
-ก่อนที่การสมัครใช้บริการจะถึงวันหมดอายุจริง
+ก่อนที่การสมัครใช้งานจะถึงวันหมดอายุของคุณคุณจะมีตัวเลือกสองสามตัวเลือกดังต่อไปนี้:
 
-- **ขยายการทดลองใช้ของคุณ**  ต้องการเวลามากขึ้นในการประเมิน Microsoft 365 หรือไม่ ในบางกรณี คุณอาจสามารถ[ขยายการทดลองใช้ของคุณได้](https://docs.microsoft.com/microsoft-365/commerce/extend-your-trial?view=o365-worldwide)  
-- **เปิดใช้งานการเรียกเก็บเงินที่เกิดประจํา**สําหรับการสมัครใช้งาน หากเปิดการเรียกเก็บเงินที่เกิดประจําอยู่แล้ว การสมัครของคุณจะถูกเรียกเก็บเงินโดยอัตโนมัติ และคุณจะถูกเรียกเก็บเงินสําหรับปีหรือเดือนเพิ่มเติม โดยขึ้นอยู่กับความถี่ในการชําระเงินปัจจุบันของคุณ หากสาเหตุใดก็ตามที่คุณปิดการเรียกเก็บเงินตามกิจวัตร คุณสามารถ[เปิดการเรียกเก็บเงินที่เกิดประจําได้เสมอ](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/renew-your-subscription?view=o365-worldwide)
-- หากคุณซื้อแอป Microsoft 365 สําหรับธุรกิจด้วย**บัตรเติมเงิน**คุณสามารถ[เปิดการเรียกเก็บเงินที่เกิดขึ้นประจํา](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/renew-your-subscription?view=o365-worldwide)สําหรับการสมัครใช้งานของคุณได้
-- หากคุณเป็น**ลูกค้า Open Volume Licensing**ที่มีการสมัครใช้งานแบบเติมเงินหนึ่งปี โปรดติดต่อคู่ค้าของคุณเพื่อซื้อหมายเลขผลิตภัณฑ์ใหม่ คุณจะได้รับคําแนะนําทางอีเมลเพื่อเปิดใช้งานคีย์ของคุณใน[ศูนย์บริการ Volume Licensing](https://go.microsoft.com/fwlink/p/?LinkID=282016) เมื่อต้องการเรียนรู้วิธีค้นหาคู่ค้าใหม่ หรือคู่ค้าที่คุณทํางานด้วยในอดีต ให้ดูที่[ค้นหาคู่ค้าหรือตัวแทนจําหน่ายของคุณ](https://docs.microsoft.com/microsoft-365/admin/manage/find-your-partner-or-reseller?view=o365-worldwide)
-- ถ้าคุณมีแอป**Microsoft 365 สําหรับธุรกิจ**ให้ดูที่[จัดการการเรียกเก็บเงินที่เกิดประจําสําหรับการสมัครใช้งานของคุณ](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/renew-your-subscription?view=o365-worldwide)
+- **ขยายระยะเวลาทดลองใช้ของคุณ**  ต้องการเวลาเพิ่มเติมในการประเมิน Microsoft ๓๖๕ใช่หรือไม่ ในบางกรณีคุณอาจสามารถขยายระยะเวลา  [ทดลองใช้ของคุณ](https://docs.microsoft.com/microsoft-365/commerce/extend-your-trial)ได้  
+- **เปิดใช้งานการเรียกเก็บเงิน** ที่เป็นกิจวัตรสำหรับการสมัครใช้งาน ถ้าการเรียกเก็บเงินเป็นกิจวัตรเปิดอยู่แล้วคุณไม่จำเป็นต้องดำเนินการใดๆ การสมัครใช้งานของคุณจะถูกเรียกเก็บเงินโดยอัตโนมัติและคุณจะถูกเรียกเก็บเงินสำหรับปีหรือเดือนเพิ่มเติมทั้งนี้ขึ้นอยู่กับความถี่ในการเรียกเก็บเงินปัจจุบันของคุณ ถ้าเหตุผลใดก็ตามที่คุณเปิดการเรียกเก็บเงินเป็นกิจวัตรคุณสามารถ  [เปิดการเรียกเก็บเงินที่เป็นกิจวัตร](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/renew-your-subscription)ได้ตลอดเวลา
+- ถ้าคุณซื้อแอป Microsoft ๓๖๕สำหรับธุรกิจด้วย  **บัตรแบบชำระเงินล่วงหน้า**คุณสามารถเปิดใช้งานการ  [เรียกเก็บเงินเป็นกิจวัตร](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/renew-your-subscription)  สำหรับการสมัครใช้งานของคุณได้
+- ถ้าคุณเป็น  **ลูกค้าเปิดใช้งาน Volume Licensing**  ที่มีการสมัครใช้งานแบบชำระเงินล่วงหน้าหนึ่งปีให้ติดต่อคู่ค้าของคุณเพื่อซื้อคีย์ผลิตภัณฑ์ใหม่ คุณจะได้รับคำแนะนำผ่านทางอีเมลเพื่อเปิดใช้งานคีย์ของคุณใน[ศูนย์บริการ Volume Licensing](https://go.microsoft.com/fwlink/p/?LinkID=282016) เมื่อต้องการเรียนรู้วิธีการค้นหาคู่ค้าใหม่หรือคู่ค้าที่คุณทำงานด้วยในอดีตให้ดูที่[ค้นหาคู่ค้าหรือตัวแทนจำหน่ายของคุณ](https://docs.microsoft.com/microsoft-365/admin/manage/find-your-partner-or-reseller)
+- ถ้าคุณมี**แอป Microsoft ๓๖๕สำหรับธุรกิจ**ให้ดู[จัดการการเรียกเก็บเงินเป็นกิจวัตรสำหรับการสมัครใช้งานของคุณ](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/renew-your-subscription)
