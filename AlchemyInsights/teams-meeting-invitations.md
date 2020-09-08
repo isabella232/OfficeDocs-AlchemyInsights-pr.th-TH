@@ -1,5 +1,5 @@
 ---
-title: คําเชิญเข้าร่วมการประชุมของทีม
+title: การเชิญเข้าร่วมการประชุมทีม
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,15 +11,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002511"
 - "4892"
-ms.openlocfilehash: 778ac2d7796539f78f34a6659b75116c8866f399
-ms.sourcegitcommit: 04484c73b96bf76d1b50796b3e8913f49095c4f3
+ms.openlocfilehash: 374aee5f3cc152d3fb03619c1748f7cc19b4ac44
+ms.sourcegitcommit: b7bbe4c5419668ce8e84196db382032ca09cd176
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 04/18/2020
-ms.locfileid: "43553413"
+ms.lasthandoff: 09/08/2020
+ms.locfileid: "47406525"
 ---
-# <a name="teams-meeting-invitations"></a><span data-ttu-id="b1aad-102">คําเชิญเข้าร่วมการประชุมของทีม</span><span class="sxs-lookup"><span data-stu-id="b1aad-102">Teams meeting invitations</span></span>
+# <a name="teams-meeting-invitations"></a><span data-ttu-id="cdc23-102">การเชิญเข้าร่วมการประชุมทีม</span><span class="sxs-lookup"><span data-stu-id="cdc23-102">Teams meeting invitations</span></span>
 
-- <span data-ttu-id="b1aad-103">คุณจําเป็นต้องรู้วิธี[สร้างคําเชิญเข้าร่วมประชุมใน Teams](https://support.office.com/article/Schedule-a-meeting-in-Teams-943507a9-8583-4c58-b5d2-8ec8265e04e5)หรือไม่?</span><span class="sxs-lookup"><span data-stu-id="b1aad-103">Do you need to know how to [create a meeting invitation in Teams](https://support.office.com/article/Schedule-a-meeting-in-Teams-943507a9-8583-4c58-b5d2-8ec8265e04e5)?</span></span>
+<span data-ttu-id="cdc23-103">ต้องการความช่วยเหลือในการกำหนดการเชิญเข้าร่วมการประชุมสำหรับองค์กรของคุณด้วยตนเองหรือไม่</span><span class="sxs-lookup"><span data-stu-id="cdc23-103">Need help customizing Teams Meeting Invitations for your organization?</span></span> <span data-ttu-id="cdc23-104">ตรวจสอบให้แน่ใจว่าได้เลือกกำหนดการเชิญเข้าร่วมการ[ประชุมเอง](https://docs.microsoft.com/microsoftteams/meeting-settings-in-teams#customize-meeting-invitations)</span><span class="sxs-lookup"><span data-stu-id="cdc23-104">Be sure to review [Customize Meeting invitations](https://docs.microsoft.com/microsoftteams/meeting-settings-in-teams#customize-meeting-invitations).</span></span>  
 
-- <span data-ttu-id="b1aad-104">ขณะนี้ไม่สามารถกําหนดคําเชิญเข้าร่วมการประชุมของทีม**ได้**</span><span class="sxs-lookup"><span data-stu-id="b1aad-104">Currently, Teams meeting invitations **cannot be customized**.</span></span> <span data-ttu-id="b1aad-105">กรุณา[ลงคะแนนในทีม UserVoice](https://microsoftteams.uservoice.com/)เพื่อเพิ่มปัญหานี้ลงในแผนงาน</span><span class="sxs-lookup"><span data-stu-id="b1aad-105">Please [vote on Teams UserVoice](https://microsoftteams.uservoice.com/) to have this issue added to the roadmap.</span></span>
+<span data-ttu-id="cdc23-105">สำหรับข้อมูลเพิ่มเติมให้ดู[จัดการการตั้งค่าการประชุมในทีม Microsoft](https://docs.microsoft.com/microsoftteams/meeting-settings-in-teams)</span><span class="sxs-lookup"><span data-stu-id="cdc23-105">For additional information see [Manage meeting settings in Microsoft Teams](https://docs.microsoft.com/microsoftteams/meeting-settings-in-teams).</span></span>
