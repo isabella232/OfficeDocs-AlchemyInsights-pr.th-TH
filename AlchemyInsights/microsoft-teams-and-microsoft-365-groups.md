@@ -1,5 +1,5 @@
 ---
-title: ทีมไมโครซอฟท์และกลุ่มไมโครซอฟท์ 365
+title: ทีม microsoft และกลุ่ม Microsoft ๓๖๕
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,19 +11,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002534"
 - "5126"
-ms.openlocfilehash: 7d014348bc84efa1dd952033c745a21571d74eb3
-ms.sourcegitcommit: 057d87c9d866fa1371d02350420d13774545c028
+ms.openlocfilehash: d7547e3547bc8f719b09c12debab1ca3ee1ebf21
+ms.sourcegitcommit: bd73b4889510864f4062c56139f14a6792e77b46
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 05/02/2020
-ms.locfileid: "44005640"
+ms.lasthandoff: 09/11/2020
+ms.locfileid: "47450154"
 ---
-# <a name="microsoft-teams-and-microsoft-365-groups"></a>ทีมไมโครซอฟท์และกลุ่มไมโครซอฟท์ 365
+# <a name="microsoft-teams-and-microsoft-365-groups"></a>ทีม microsoft และกลุ่ม Microsoft ๓๖๕
 
-- **สร้างกลุ่มจาก**[กลุ่มที่มีอยู่](https://support.microsoft.com/en-us/office/create-a-team-from-an-existing-group-24ec428e-40d7-4a1a-ab87-29be7d145865): คลิก **>ทีมเข้าร่วมหรือสร้างทีม**แล้ว**สร้าง> สร้างจาก**แล้วคลิก**กลุ่ม Office 365** **หมายเหตุ**: ตัวเลือกนี้จะพร้อมใช้งานสําหรับกลุ่ม Microsoft 365 ที่มีสมาชิก 5000 น้อยกว่า และไม่ได้ใช้ในการสร้างทีม
+- ควบคุมว่าใครสามารถสร้างกลุ่ม Microsoft ๓๖๕หรือทีมได้: ตามค่าเริ่มต้นผู้ใช้ทั้งหมดภายในองค์กรจะสามารถสร้างกลุ่มและทีม Microsoft ๓๖๕ได้ ทำตามขั้นตอนใน [จัดการว่าใครบ้างที่สามารถสร้างกลุ่ม](https://support.office.com/article/4c46c8cb-17d0-44b5-9776-005fced8e618) เพื่อกำหนดสิทธิ์ในการสร้างกลุ่มให้กับชุดของบุคคล
+- สร้างทีม  [จากกลุ่มที่มีอยู่](https://support.microsoft.com/office/24ec428e-40d7-4a1a-ab87-29be7d145865)แล้ว: คลิกทีม > เข้าร่วมหรือสร้างทีมจากนั้นสร้าง > สร้างจากแล้วคลิกกลุ่ม Office ๓๖๕ หมายเหตุ: ตัวเลือกนี้จะพร้อมใช้งานสำหรับกลุ่ม Microsoft ๓๖๕ที่มีสมาชิกน้อยกว่า๕๐๐๐และยังไม่ได้ใช้ในการสร้างทีม
+- คืนค่าทีมที่ถูกลบ: ทำตาม [ขั้นตอนเหล่านี้](https://docs.microsoft.com/microsoftteams/archive-or-delete-a-team#restore-a-deleted-team) เพื่อคืนค่าทีมที่ถูกลบโดยการคืนค่ากลุ่ม Microsoft ๓๖๕ที่เชื่อมโยงกับทีม
 
-- **คืนค่าทีมที่ถูกลบ**:[ทําตามขั้นตอนเหล่านี้](https://docs.microsoft.com/microsoftteams/archive-or-delete-a-team#restore-a-deleted-team)เพื่อคืนค่าทีมที่ถูกลบไปแล้วโดยการคืนค่ากลุ่ม Microsoft 365 ที่เชื่อมโยงกับกลุ่ม
-
-- **จํากัดสิทธิ์ในการสร้างกลุ่มหรือกลุ่มของ Microsoft 365**: ตามค่าเริ่มต้นผู้ใช้ทั้งหมดภายในบริษัทสามารถสร้างกลุ่มและกลุ่ม Microsoft 365 กลุ่มได้  ทําตามขั้นตอนใน[จัดการผู้ที่สามารถสร้างกลุ่ม](https://support.office.com/article/Manage-who-can-create-Office-365-Groups-4c46c8cb-17d0-44b5-9776-005fced8e618)เพื่อกําหนดสิทธิ์เพื่อสร้างกลุ่มให้กับกลุ่มบุคคลภายในบริษัทของคุณ โปรดสังเกตว่า การทําเช่นนี้จะส่งผลกระทบต่อการสร้างกลุ่มจากบริการต่างๆ เช่น Outlook, Teams และ Planner
-
-เมื่อต้องการเรียนรู้เพิ่มเติมเกี่ยวกับกลุ่มและกลุ่ม ให้ดูที่[กลุ่ม Microsoft 365 และ ทีม Microsoft](https://docs.microsoft.com/microsoftteams/office-365-groups)
+เมื่อต้องการเรียนรู้เพิ่มเติมเกี่ยวกับทีมและกลุ่มให้ดูที่[กลุ่ม microsoft ๓๖๕และทีม microsoft](https://docs.microsoft.com/microsoftteams/office-365-groups)
