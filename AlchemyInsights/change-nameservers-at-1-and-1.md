@@ -1,26 +1,27 @@
 ---
-title: เปลี่ยนเนมเซิร์ฟเวอร์ที่ 1 และ 1 IONOS
+title: เปลี่ยนเซิร์ฟเวอร์ชื่อที่1และ 1 IONOS
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "5826"
 - "14"
-ms.openlocfilehash: e85726aad00a40fac041bee1620caf8c5a843bb3
-ms.sourcegitcommit: 936330b11fec49f6174eadea6c765bdf9e6ba784
+ms.openlocfilehash: 49f0c4456e6f4dd4d78b2f50734edc98d8031608
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 06/12/2020
-ms.locfileid: "44748939"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47682773"
 ---
-# <a name="change-nameservers-at-1-and-1-ionos"></a>เปลี่ยนเนมเซิร์ฟเวอร์ที่ 1 และ 1 IONOS
+# <a name="change-nameservers-at-1-and-1-ionos"></a>เปลี่ยนเซิร์ฟเวอร์ชื่อที่1และ 1 IONOS
 
-[เปลี่ยนเนมเซิร์ฟเวอร์เพื่อตั้งค่า Microsoft 365 กับ 1&1 IONOS](https://docs.microsoft.com/microsoft-365/admin/dns/change-nameservers-at-1-1-internet)
+[เปลี่ยนเซิร์ฟเวอร์ชื่อเพื่อตั้งค่า Microsoft ๓๖๕ด้วย 1&1 IONOS](https://docs.microsoft.com/microsoft-365/admin/dns/change-nameservers-at-1-1-internet)
 
-สําหรับปัญหาอื่นๆ ของโดเมนลอง[คําถามที่พบบ่อยโดเมน](https://docs.microsoft.com/microsoft-365/admin/setup/domains-faq)
+สำหรับปัญหาอื่นๆของโดเมนให้ลองใช้คำ [ถามที่ถามบ่อยเกี่ยวกับโดเมน](https://docs.microsoft.com/microsoft-365/admin/setup/domains-faq)
