@@ -1,27 +1,28 @@
 ---
-title: เริ่มต้นใช้งานกับ Intun
+title: การเริ่มต้นใช้งาน Intune
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "3190"
 - "9001217"
-ms.openlocfilehash: 3d6c0797b4cf73d33908ef42191fd7093d645229
-ms.sourcegitcommit: bf87d91fa60bd961bc6c887c4a4be7a3c7665b38
+ms.openlocfilehash: dda42cf553b2b1e37b69f334c0ad426aa7a13d10
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 06/01/2020
-ms.locfileid: "44493589"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47706398"
 ---
-# <a name="getting-started-with-intune"></a>เริ่มต้นใช้งานกับ Intun
+# <a name="getting-started-with-intune"></a>การเริ่มต้นใช้งาน Intune
 
-สําหรับทัวร์อย่างรวดเร็วของ Intun และคอนโซลผู้ดูแลระบบ โปรดดู[คําแนะนําของ Intun](https://docs.microsoft.com/intune/fundamentals/tutorial-walkthrough-intune-portal)
+สำหรับการท่องเที่ยวอย่างรวดเร็วของ Intune และคอนโซลผู้ดูแลระบบให้ดู[ที่การฝึกปฏิบัติของ intune ในพอร์ทัล Azure](https://docs.microsoft.com/intune/fundamentals/tutorial-walkthrough-intune-portal)
 
-ถ้าคุณต้องการทดลองใช้ Intun หรือตั้งค่าทดลองใช้ งานตรวจทาน[เริ่มต้นใช้งานด่วน: ลองใช้ Microsoft Intun](https://docs.microsoft.com/intune/fundamentals/free-trial-sign-up)
+ถ้าคุณต้องการลองใช้ Intune หรือตั้งค่าเวอร์ชันทดลองใช้ให้ตรวจทาน[Quickstart: ลองใช้ Microsoft Intune ฟรี](https://docs.microsoft.com/intune/fundamentals/free-trial-sign-up)
 
-หากคุณมี Intun และพร้อมที่จะเริ่มใช้งานแล้ว ให้อ่านคู่มือ[การตั้งค่า Intun](https://docs.microsoft.com/intune/fundamentals/setup-steps) 
+ถ้าคุณมี Intune แล้วและพร้อมที่จะเริ่มใช้งานให้ตรวจดูคู่มือการ [ตั้งค่าของ Intune](https://docs.microsoft.com/intune/fundamentals/setup-steps) ของเรา 

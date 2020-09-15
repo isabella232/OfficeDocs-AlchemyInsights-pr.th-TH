@@ -1,25 +1,26 @@
 ---
-title: จัดการการควบคุมปริมาณ SharePoint แบบออนไลน์ โดยใช้กลับชี้แจงออก
+title: จัดการ SharePoint Online ที่ควบคุมปริมาณโดยใช้การย้อนกลับ
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9000136"
 - "5696"
-ms.openlocfilehash: dcd169fdf9a9aef155c909af4e60752cbfebdf7a
-ms.sourcegitcommit: bd7c03d4e994abb45c43510adca20b7600a87091
+ms.openlocfilehash: c57040a7e7f3b083088ea82af261e61579b5a759
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 05/20/2020
-ms.locfileid: "44358408"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47706002"
 ---
-# <a name="handle-sharepoint-online-throttling-by-using-exponential-back-off"></a>จัดการการควบคุมปริมาณ SharePoint แบบออนไลน์ โดยใช้กลับชี้แจงออก
+# <a name="handle-sharepoint-online-throttling-by-using-exponential-back-off"></a>จัดการ SharePoint Online ที่ควบคุมปริมาณโดยใช้การย้อนกลับ
 
-เมื่อคุณได้รับการควบคุมปริมาณใน SharePoint แบบออนไลน์ เทคนิคกลับแบบเอ็กซ์โพเนนเชียลปิดรอรอบระยะเวลาที่ยาวนานขึ้นก่อนที่จะลองรหัสที่ถูกควบคุมปริมาณ
+เมื่อคุณได้รับปริมาณใน SharePoint Online จะมีการเปิดใช้งานการเปิดใช้งานการเปิดใช้งานในช่วงเวลาที่ยาวนานก่อนที่จะลองใช้โค้ดที่ถูกปริมาณ
 
-- [จัดการการควบคุมปริมาณ SharePoint แบบออนไลน์ โดยใช้กลับชี้แจงออก](https://docs.microsoft.com/sharepoint/dev/solution-guidance/handle-sharepoint-online-throttling-by-using-exponential-back-off)
+- [จัดการ SharePoint Online ที่ควบคุมปริมาณโดยใช้การย้อนกลับ](https://docs.microsoft.com/sharepoint/dev/solution-guidance/handle-sharepoint-online-throttling-by-using-exponential-back-off)
