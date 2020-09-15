@@ -1,35 +1,36 @@
 ---
-title: การเข้าถึงบริการการเกษียณอายุ
+title: การปลดเกษียณบริการเข้าถึง
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
 - "9000356"
 - "2009"
 ms.assetid: ''
-ms.openlocfilehash: 977bd5887ef58b328463a9befcd6b47ac55f5a85
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 943066d5ac76c0630554ee724bbab9a94086fae4
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43687277"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47698701"
 ---
-# <a name="access-services-retirement"></a>การเข้าถึงบริการการเกษียณอายุ
+# <a name="access-services-retirement"></a>การปลดเกษียณบริการเข้าถึง
 
-ในเดือนมีนาคม 2017 และยังคงสื่อสารกันอย่างต่อเนื่องตลอดปีที่ผ่านมา ขั้นตอนถัดไปในกระบวนการนี้จะเป็นการเอาฐานข้อมูล Access Web ที่ใช้รายการ SharePoint เป็นที่เก็บข้อมูลต้นแบบออก
+ในขณะที่เราได้ประกาศใน MC97576 ในเดือนมีนาคม๒๐๑๗และยังคงสื่อสารผ่านทางบริการการเข้าถึงปีที่ผ่านมาจะถูกถอนออกไป ขั้นตอนถัดไปในกระบวนการนี้จะเป็นการเอาออกของฐานข้อมูล Access บนเว็บที่ใช้รายการ SharePoint เป็นที่เก็บข้อมูลที่อยู่ภายใต้
 
-**สิ่งนี้ส่งผลต่อฉันอย่างไร**
+**สิ่งนี้มีผลต่อฉันอย่างไร**
 
-เริ่ม 2019 มิถุนายน เราจะหยุดการสร้างฐานข้อมูล Access ใหม่ใน SharePoint Online และปิดบริการและแอปที่เหลือภายในเดือนเมษายน 2020
+เริ่มต้นเดือนมิถุนายน๒๐๑๙เราจะหยุดการสร้างฐานข้อมูล Access ใหม่ใน SharePoint Online และปิดบริการและแอปพลิเคชันที่เหลือในเดือนเมษายน๒๐๒๐
 
-**ฉันต้องทําอะไรบ้างเพื่อเตรียมการเปลี่ยนแปลงนี้**
+**ฉันต้องทำอะไรบ้างเพื่อเตรียมพร้อมสำหรับการเปลี่ยนแปลงนี้**
 
-เราสนับสนุนให้คุณสร้างแผนการเปลี่ยนสําหรับฐานข้อมูลเว็บ Access ขององค์กรของคุณ ผู้ดูแลระบบสามารถใช้[โปรแกรมสแกนโปรแกรมประยุกต์ SharePoint Access](https://github.com/SharePoint/PnP-Tools/tree/master/Solutions/SharePoint.AccessApp.Scanner)เพื่อขอรับสินค้าคงคลังของโปรแกรมประยุกต์ Access ที่ไซต์กําลังใช้อยู่
+เราขอแนะนำให้คุณสร้างแผนการเปลี่ยนสำหรับฐานข้อมูล Access บนเว็บขององค์กรของคุณ ผู้ดูแลระบบสามารถใช้ [สแกนเนอร์ของแอป SharePoint Access](https://github.com/SharePoint/PnP-Tools/tree/master/Solutions/SharePoint.AccessApp.Scanner) เพื่อขอรับสินค้าคงคลังของแอป access ที่ไซต์กำลังใช้งานอยู่
 
-มีหลายวิธีในการย้ายข้อมูลฐานข้อมูลเว็บ Access:
+มีหลายวิธีในการโยกย้ายข้อมูลฐานข้อมูลบนเว็บของ Access:
 
-- การนําเข้าฐานข้อมูล Access ภายในเครื่อง (.AS) ACCDB) หรือไปยังไฟล์ Excel
-- เราขอแนะนําให้สํารวจ Microsoft PowerApps เป็นแพลตฟอร์มอื่นเพื่อสร้างโซลูชันทางธุรกิจที่ไม่มีรหัสสําหรับเว็บและโทรศัพท์มือถือ
+- การนำเข้าไปยังฐานข้อมูล Access ภายในเครื่อง ( ACCDB) หรือไปยังไฟล์ Excel
+- นอกจากนี้เรายังแนะนำให้สำรวจ Microsoft PowerApps เป็นแพลตฟอร์มสำหรับการสร้างโซลูชันทางธุรกิจสำหรับเว็บและอุปกรณ์เคลื่อนที่ไม่ใช่โค้ด
