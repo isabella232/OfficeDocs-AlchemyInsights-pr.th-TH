@@ -1,33 +1,34 @@
 ---
-title: ขีดจํากัดและแฟ้มขนาดใหญ่ใน SharePoint
+title: ขีดจำกัดและไฟล์ขนาดใหญ่ใน SharePoint
 ms.author: toresing
 author: tomresing
 manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: bda3a75d-23f8-44d9-a23a-0abbfdccf131
-ms.openlocfilehash: 78c952dc27e2a201c3379dcce62d0c2ee7dc26d6
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 568ac18e98e49524832c144164c2fef7915f73bc
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43762732"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47675785"
 ---
-# <a name="files-that-cant-be-uploaded-to-sharepoint-online"></a>แฟ้มที่อัปโหลดไปยัง SharePoint แบบออนไลน์ไม่ได้
+# <a name="files-that-cant-be-uploaded-to-sharepoint-online"></a>ไฟล์ที่ไม่สามารถอัปโหลดไปยัง SharePoint Online ได้
 
-ถ้าแฟ้มไม่อัปโหลดไปยัง SharePoint Online ให้ตรวจสอบให้แน่ใจว่า:
+ถ้าไฟล์ไม่อัปโหลดไปยัง SharePoint Online ตรวจสอบให้แน่ใจว่า:
   
-- มีขนาดน้อยกว่า 15 GB
+- มีขนาดน้อยกว่า15กิกะไบต์
     
-- เส้นทางทั้งหมด รวมทั้งชื่อแฟ้ม มีอักขระน้อยกว่า 400 ตัว
+- เส้นทางทั้งหมดรวมถึงชื่อไฟล์มีอักขระน้อยกว่า๔๐๐
     
-- ชื่อแฟ้มไม่มีอักขระ " \* : \< \> ? / \ | และไม่ได้อยู่ในรายชื่อ[ที่ไม่ถูกต้อง](https://go.microsoft.com/fwlink/?linkid=866430)
+- ชื่อไฟล์ไม่มีอักขระ " \* : \< \> / \ | และไม่ได้อยู่ในรายการของ[ชื่อที่ไม่ถูกต้อง](https://go.microsoft.com/fwlink/?linkid=866430)
     
-ถ้าคุณกําลังพยายามอัปโหลดแฟ้มโดยใช้แอป OneDrive บนเดสก์ท็อป ให้ดูที่[ข้อจํากัดและข้อจํากัดเมื่อคุณซิงค์แฟ้มและโฟลเดอร์ หรือ](httpsbv://go.microsoft.com/fwlink/p/?LinkID=717734)[แก้ไขปัญหาการซิงค์ OneDrive](https://go.microsoft.com/fwlink/?linkid=866431)
+ถ้าคุณกำลังพยายามอัปโหลดไฟล์โดยใช้แอป OneDrive บนเดสก์ท็อปให้ดู[ข้อจำกัดและข้อจำกัดเมื่อคุณซิงค์ไฟล์และโฟลเดอร์](httpsbv://go.microsoft.com/fwlink/p/?LinkID=717734)หรือ[แก้ไขปัญหาการซิงค์ OneDrive](https://go.microsoft.com/fwlink/?linkid=866431)
   
 
