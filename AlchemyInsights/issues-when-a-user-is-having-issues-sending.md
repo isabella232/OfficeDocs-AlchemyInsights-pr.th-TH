@@ -1,9 +1,10 @@
 ---
-title: ๓๒๒ปัญหาเมื่อผู้ใช้มีปัญหาในการส่ง
+title: ๓๒๒ปัญหาเมื่อผู้ใช้กำลังมีปัญหาในการส่ง
 ms.author: chrisda
 author: chrisda
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
@@ -11,13 +12,13 @@ ms.custom:
 - "322"
 - "3100011"
 ms.assetid: 66c651d2-7e58-4bd8-a009-05065e644043
-ms.openlocfilehash: 5d3c3d749c298682e1a6798b0f05ccb4bb657015
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: e32347b4ad49b05ee34e21482f3e7d491290ad6d
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "36661531"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47676937"
 ---
-# <a name="a-user-is-having-issues-sending-email-messages"></a><span data-ttu-id="c0996-102">ผู้ใช้กำลังมีปัญหาในการส่งข้อความทางเมล</span><span class="sxs-lookup"><span data-stu-id="c0996-102">A user is having issues sending email messages</span></span>
+# <a name="a-user-is-having-issues-sending-email-messages"></a><span data-ttu-id="c5b78-102">ผู้ใช้กำลังมีปัญหาในการส่งข้อความอีเมล</span><span class="sxs-lookup"><span data-stu-id="c5b78-102">A user is having issues sending email messages</span></span>
 
-<span data-ttu-id="c0996-103">ดูเหมือนว่าคุณมีปัญหาการไหลของจดหมาย</span><span class="sxs-lookup"><span data-stu-id="c0996-103">It looks like you have a mail flow issue.</span></span> <span data-ttu-id="c0996-104">เรามีการวินิจฉัยที่จะช่วยระบุปัญหาการไหลของจดหมายทั่วไปจำนวนมาก</span><span class="sxs-lookup"><span data-stu-id="c0996-104">We have diagnostics that will help identify many common mail flow problems.</span></span> <span data-ttu-id="c0996-105">คลิ**กเรียกใช้การวินิจฉัย**ด้านล่าง</span><span class="sxs-lookup"><span data-stu-id="c0996-105">Click **Run Diagnostics** below.</span></span>
+<span data-ttu-id="c5b78-103">ดูเหมือนว่าคุณมีปัญหาในการรับส่งจดหมาย</span><span class="sxs-lookup"><span data-stu-id="c5b78-103">It looks like you have a mail flow issue.</span></span> <span data-ttu-id="c5b78-104">เรามีการวินิจฉัยที่จะช่วยระบุปัญหาการไหลเวียนของจดหมายทั่วไปจำนวนมาก</span><span class="sxs-lookup"><span data-stu-id="c5b78-104">We have diagnostics that will help identify many common mail flow problems.</span></span> <span data-ttu-id="c5b78-105">คลิก **เรียกใช้การวินิจฉัย** ด้านล่าง</span><span class="sxs-lookup"><span data-stu-id="c5b78-105">Click **Run Diagnostics** below.</span></span>
