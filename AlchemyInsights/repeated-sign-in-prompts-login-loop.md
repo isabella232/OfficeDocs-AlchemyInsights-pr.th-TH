@@ -1,10 +1,11 @@
 ---
-title: ซ้ําเข้าสู่ระบบในแจ้ง / ห่วงเข้าสู่ระบบ
+title: ทำซ้ำพร้อมท์การเข้าสู่ระบบ/การวนรอบการเข้าสู่ระบบ
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
@@ -13,18 +14,18 @@ ms.custom:
 - "9000571"
 - "9000725"
 - "2656"
-ms.openlocfilehash: 0cb5595513d8ade82782269c20e0173b2e7e7471
-ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
+ms.openlocfilehash: 3a5103607cd80b1b02c5e999e80965f23b6cbc18
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 06/05/2020
-ms.locfileid: "44582434"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47692782"
 ---
-# <a name="repeated-sign-in-prompts-in-microsoft-365-apps"></a>พร้อมท์การเข้าสู่ระบบซ้ําในแอป Microsoft 365
+# <a name="repeated-sign-in-prompts-in-microsoft-365-apps"></a>ทำซ้ำพร้อมท์การลงชื่อเข้าใช้ในแอป Microsoft ๓๖๕
 
-เมื่อต้องการแก้ไขปัญหาการพร้อมท์การเข้าสู่ระบบซ้ําในแอป Microsoft 365 ดู:
+เมื่อต้องการแก้ไขปัญหาพร้อมท์การลงชื่อเข้าใช้ซ้ำในแอป Microsoft ๓๖๕ให้ดูที่:
 
-- [วิธีการแก้ไขปัญหาแอปที่ไม่ใช่เบราว์เซอร์ที่ไม่สามารถเข้าสู่ระบบ Microsoft 365, Azure หรือ Intun](https://support.office.com/article/how-to-troubleshoot-non-browser-apps-that-can-t-sign-in-to-office-365-azure-or-intune-3ba1b268-66f6-462c-b0e5-070f5c2603c1)
-- ["การเข้าถึงถูกปฏิเสธ" หรือผู้ใช้ซ้ํา ๆ ได้รับการพร้อมท์สําหรับข้อมูลประจําตัวเมื่อเชื่อมต่อกับ Microsoft 365](https://docs.microsoft.com/office365/troubleshoot/security/access-denied-when-connect-to-office-365)
-- [ผู้ใช้ fededrated ซ้ํา ๆ จะพร้อมท์สําหรับข้อมูลประจําตัวในระหว่างการเข้าสู่ระบบไปยัง Microsoft 365, Azure หรือ Intun](https://docs.microsoft.com/office365/troubleshoot/authentication/federated-user-repeatedly-prompted-for-credentials)
+- [วิธีแก้ไขปัญหาแอปที่ไม่ใช่เบราว์เซอร์ที่ไม่สามารถลงชื่อเข้าใช้ Microsoft ๓๖๕, Azure หรือ Intune](https://support.office.com/article/how-to-troubleshoot-non-browser-apps-that-can-t-sign-in-to-office-365-azure-or-intune-3ba1b268-66f6-462c-b0e5-070f5c2603c1)
+- ["การเข้าถึงถูกปฏิเสธ" หรือผู้ใช้จะได้รับพร้อมท์สำหรับข้อมูลประจำตัวซ้ำๆเมื่อเชื่อมต่อกับ Microsoft ๓๖๕](https://docs.microsoft.com/office365/troubleshoot/security/access-denied-when-connect-to-office-365)
+- [ผู้ใช้ที่ติดต่อกับภายนอกจะได้รับพร้อมท์สำหรับข้อมูลประจำตัวซ้ำๆในระหว่างการลงชื่อเข้าใช้ Microsoft ๓๖๕, Azure หรือ Intune](https://docs.microsoft.com/office365/troubleshoot/authentication/federated-user-repeatedly-prompted-for-credentials)
 

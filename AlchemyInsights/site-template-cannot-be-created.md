@@ -1,31 +1,32 @@
 ---
-title: ไม่สามารถสร้างแม่แบบไซต์
+title: ไม่สามารถสร้างเทมเพลตของไซต์ได้
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9000094"
 - "5708"
-ms.openlocfilehash: 0b5e5d7cc2ddd939562ac6bb392441120c703515
-ms.sourcegitcommit: c46b8df485edbd13e8bb4d1b2ba1c2821ddc9da0
+ms.openlocfilehash: 03d2839811dcea6c5fa7a8325d97a8afa20233a6
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 05/23/2020
-ms.locfileid: "44358575"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47691558"
 ---
-# <a name="site-template-cannot-be-created"></a>ไม่สามารถสร้างแม่แบบไซต์
+# <a name="site-template-cannot-be-created"></a>ไม่สามารถสร้างเทมเพลตของไซต์ได้
 
-แม่แบบอาจไม่มีคุณลักษณะและจะไม่เปิดใช้งาน ถ้าคุณลักษณะนี้ไม่พร้อมใช้งานสําหรับเปิดใช้งานในไซต์คอลเลกชันปัจจุบัน
+เทมเพลตนี้อาจไม่มีฟีเจอร์และไม่สามารถเปิดใช้งานได้ ถ้าฟีเจอร์ไม่พร้อมใช้งานเมื่อต้องการเปิดใช้งานในไซต์คอลเลกชันปัจจุบันคุณจะไม่สามารถใช้เทมเพลตของไซต์เพื่อสร้างไซต์ได้
 
-- ตรวจสอบดูว่ารายการหรือไลบรารีมี[ขนาดเกินขีดจํากัดของมุมมองรายการ](https://support.office.com/article/Manage-large-lists-and-libraries-in-SharePoint-B8588DAE-9387-48C2-9248-C24122F07C59)5000 หรือไม่ เนื่องจากสามารถบล็อกการสร้างแม่แบบไซต์ได้
+- ตรวจสอบดูว่ารายการหรือไลบรารีใดที่เกินขีด [จำกัดของมุมมองรายการ](https://support.office.com/article/Manage-large-lists-and-libraries-in-SharePoint-B8588DAE-9387-48C2-9248-C24122F07C59) ของรายการ๕๐๐๐เนื่องจากการทำเช่นนี้สามารถบล็อกการสร้างเทมเพลตของไซต์ได้
 
-- ไซต์อาจใช้ทรัพยากรมากเกินไป และแม่แบบไซต์เกินขีดจํากัด 50 MB
+- ไซต์อาจใช้แหล่งข้อมูลมากเกินไปและดังนั้นแม่แบบไซต์เกินขีดจำกัด๕๐ MB
 
-- มีปัญหาในการแสดงข้อมูลจากรายการที่ใช้คอลัมน์ค้นหา สําหรับข้อมูลเพิ่มเติม ให้ดู[รายการแม่แบบที่สร้างขึ้นไม่แสดงข้อมูลจากรายการการค้นหาที่ถูกต้องใน SharePoint Online](https://docs.microsoft.com/sharepoint/support/lists-and-libraries/template-generated-list-incorrect-data)
+- มีปัญหาเกิดขึ้นในการแสดงข้อมูลจากรายการที่ใช้คอลัมน์การค้นหา สำหรับข้อมูลเพิ่มเติมให้ดูที่[รายการที่สร้างขึ้นโดยใช้เทมเพลตไม่แสดงข้อมูลจากรายการการค้นหาที่ถูกต้องใน SharePoint Online](https://docs.microsoft.com/sharepoint/support/lists-and-libraries/template-generated-list-incorrect-data)
 
-สําหรับข้อมูลเพิ่มเติมเกี่ยวกับปัญหาทั่วไปและวิธีแก้ไข โปรดดูที่[การสร้างและใช้แม่แบบไซต์](https://support.office.com/article/Create-and-use-site-templates-60371B0F-00E0-4C49-A844-34759EBDD989)
+สำหรับข้อมูลเพิ่มเติมเกี่ยวกับปัญหาทั่วไปและวิธีแก้ไขปัญหาโปรดดูที่[สร้างและใช้เทมเพลตไซต์](https://support.office.com/article/Create-and-use-site-templates-60371B0F-00E0-4C49-A844-34759EBDD989)
