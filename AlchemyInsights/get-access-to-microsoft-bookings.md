@@ -1,31 +1,32 @@
 ---
-title: รับสิทธิ์เข้าถึงการจองของ Microsoft
+title: รับสิทธิ์การเข้าถึงการจองของ Microsoft
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9002883"
 - "5498"
-ms.openlocfilehash: ed88ce1ce99afe0c9ab8ebac7eb0ff8b7e53ea25
-ms.sourcegitcommit: cc7b6f00275adaab90f702d48e65500434f11e83
+ms.openlocfilehash: 73a2c9016d39d40fa4e46cc069dd0d3f45900c10
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 05/06/2020
-ms.locfileid: "44086871"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47707658"
 ---
-# <a name="get-access-to-microsoft-bookings"></a>รับสิทธิ์เข้าถึงการจองของ Microsoft
+# <a name="get-access-to-microsoft-bookings"></a>รับสิทธิ์การเข้าถึงการจองของ Microsoft
 
-เปิดใช้งานการจองของ Microsoft ใน**ศูนย์การจัดการ Microsoft 365**
+เปิดใช้งานการจองของ Microsoft ใน**ศูนย์การจัดการ microsoft ๓๖๕**
 
-1. ไปที่**[การตั้งค่า](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/Settings/Services)>** การตั้งค่าและคลิก**การจอง**
-2. คลิกช่องทําเครื่องหมายที่**อนุญาตให้องค์กรของคุณใช้การจอง**เพื่อเปิดหรือปิดการจองสําหรับองค์กรของคุณ
+1. ไปที่การ**ตั้งค่า >[การตั้งค่า](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/Settings/Services)** แล้วคลิกการ**จอง**
+2. คลิกกล่องกาเครื่องหมายสำหรับ **อนุญาตให้องค์กรของคุณใช้การจอง** เพื่อเปิดใช้งานหรือปิดใช้งานการจองสำหรับองค์กรของคุณ
 3. คลิก**บันทึกการเปลี่ยนแปลง**
 
-**สิ่งสําคัญ**: แอป Microsoft Booking จะพร้อมใช้งานเพื่อใช้ตามค่าเริ่มต้นสําหรับ**Microsoft 365 Education A3, A5,** **Microsoft 365 ธุรกิจมาตรฐาน (เดิมคือธุรกิจพรีเมียม)** และ**Microsoft 365 Business Premium (เดิมคือธุรกิจ)** การจองสามารถใช้ได้กับ**ลูกค้าระดับองค์กร E3 และ E5**เป็นบริการเสริมจนถึงวันที่ 12 พฤษภาคม 2020 ซึ่งจะมีการเปิดบริการตามค่าเริ่มต้น
+**สิ่งสำคัญ**: แอป microsoft Booking จะพร้อมใช้งานตามค่าเริ่มต้นสำหรับ**Microsoft ๓๖๕ Education A3, A5**, **microsoft ๓๖๕ business Standard (ชื่อเดิมคือ business Premium)** และ**Microsoft ๓๖๕ business premium (ชื่อเดิมคือธุรกิจ)** การจองพร้อมใช้งานสำหรับ **ลูกค้าของ Enterprise E3 และ E5** เป็น add-on จนถึงวันที่12พฤษภาคม๒๐๒๐ซึ่งจะเปิดใช้งานตามค่าเริ่มต้น
 
-สําหรับข้อมูลเพิ่มเติม ให้ดูที่[รับการเข้าถึงการจองของ Microsoft](https://support.microsoft.com/en-us/office/get-access-to-microsoft-bookings-5382dc07-aaa5-45c9-8767-502333b214ce)
+สำหรับข้อมูลเพิ่มเติมให้ดู[ที่รับสิทธิ์การเข้าถึงการจองของ Microsoft](https://support.microsoft.com/en-us/office/get-access-to-microsoft-bookings-5382dc07-aaa5-45c9-8767-502333b214ce)
