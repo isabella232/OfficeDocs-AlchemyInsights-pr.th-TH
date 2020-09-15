@@ -6,34 +6,35 @@ manager: mnirkhe
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "5"
 - "14"
-ms.openlocfilehash: f295e0d7872a13cf47e386343b159e51bc0504de
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: 07a0dd19a768dd2b97923f0ced566b69ca2d6ba7
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44508107"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47714743"
 ---
-# <a name="update-your-domain-nameservers-to-point-to-microsoft"></a><span data-ttu-id="ca31d-102">อัปเดตเซิร์ฟเวอร์ชื่อโดเมนของคุณให้ชี้ไปที่ Microsoft</span><span class="sxs-lookup"><span data-stu-id="ca31d-102">Update your domain nameservers to point to Microsoft</span></span>
+# <a name="update-your-domain-nameservers-to-point-to-microsoft"></a><span data-ttu-id="085d9-102">อัปเดเซิร์ฟเวอร์ชื่อโดเมนของคุณให้ชี้ไปที่ Microsoft</span><span class="sxs-lookup"><span data-stu-id="085d9-102">Update your domain nameservers to point to Microsoft</span></span>
 
-<span data-ttu-id="ca31d-103">หมายเหตุ: บางครั้งการเปลี่ยนแปลงเนมเซิร์ฟเวอร์อาจใช้เวลาถึง 48 ชั่วโมงในการเผยแพร่</span><span class="sxs-lookup"><span data-stu-id="ca31d-103">Note: Nameserver changes can sometimes take up to 48 hours to propagate.</span></span>
+<span data-ttu-id="085d9-103">หมายเหตุ: การเปลี่ยนแปลง Nameserver บางครั้งอาจใช้เวลาถึง๔๘ชั่วโมงในการเผยแพร่</span><span class="sxs-lookup"><span data-stu-id="085d9-103">Note: Nameserver changes can sometimes take up to 48 hours to propagate.</span></span>
   
-<span data-ttu-id="ca31d-104">เมื่อต้องการตั้งค่าโดเมนของคุณใน Microsoft 365 เนมเซิร์ฟเวอร์ที่นายทะเบียนของคุณต้องได้รับการอัปเดต</span><span class="sxs-lookup"><span data-stu-id="ca31d-104">To set up your domain in Microsoft 365, the nameservers at your registrar need to be updated.</span></span> <span data-ttu-id="ca31d-105">สร้างหรือแก้ไขระเบียนเนมเซิร์ฟเวอร์ของคุณที่บริษัทจดทะเบียนโดเมนของคุณ</span><span class="sxs-lookup"><span data-stu-id="ca31d-105">Create or edit your nameserver records at your domain registrar.</span></span>
+<span data-ttu-id="085d9-104">เมื่อต้องการตั้งค่าโดเมนของคุณใน Microsoft ๓๖๕เซิร์ฟเวอร์ชื่อที่บริษัทจดทะเบียนของคุณจำเป็นต้องได้รับการอัปเดต</span><span class="sxs-lookup"><span data-stu-id="085d9-104">To set up your domain in Microsoft 365, the nameservers at your registrar need to be updated.</span></span> <span data-ttu-id="085d9-105">สร้างหรือแก้ไขระเบียน nameserver ของคุณที่บริษัทจดทะเบียนโดเมนของคุณ</span><span class="sxs-lookup"><span data-stu-id="085d9-105">Create or edit your nameserver records at your domain registrar.</span></span>
   
-1. <span data-ttu-id="ca31d-106">ไปที่เว็บไซต์ของผู้รับจดทะเบียนโดเมนและค้นหาพื้นที่ที่คุณสามารถแก้ไขเนมเซิร์ฟเวอร์ได้</span><span class="sxs-lookup"><span data-stu-id="ca31d-106">Go to your domain registrar's website and find the area where you can edit the nameservers.</span></span>
+1. <span data-ttu-id="085d9-106">ไปที่เว็บไซต์ของบริษัทจดทะเบียนโดเมนของคุณและค้นหาพื้นที่ที่คุณสามารถแก้ไขเซิร์ฟเวอร์ชื่อได้</span><span class="sxs-lookup"><span data-stu-id="085d9-106">Go to your domain registrar's website and find the area where you can edit the nameservers.</span></span>
   
-2. <span data-ttu-id="ca31d-107">สร้างหรือแก้ไขระเบียนเนมเซิร์ฟเวอร์สองระเบียนให้ตรงกับค่าเหล่านี้:</span><span class="sxs-lookup"><span data-stu-id="ca31d-107">Create or edit two nameserver records to match these values:</span></span>
+2. <span data-ttu-id="085d9-107">สร้างหรือแก้ไขระเบียน nameserver สองระเบียนให้ตรงกับค่าเหล่านี้:</span><span class="sxs-lookup"><span data-stu-id="085d9-107">Create or edit two nameserver records to match these values:</span></span>
 
-  - <span data-ttu-id="ca31d-108">ns1.bdm.microsoftonline.com</span><span class="sxs-lookup"><span data-stu-id="ca31d-108">ns1.bdm.microsoftonline.com</span></span>
+  - <span data-ttu-id="085d9-108">ns1.bdm.microsoftonline.com</span><span class="sxs-lookup"><span data-stu-id="085d9-108">ns1.bdm.microsoftonline.com</span></span>
 
-  - <span data-ttu-id="ca31d-109">ns2.bdm.microsoftonline.com</span><span class="sxs-lookup"><span data-stu-id="ca31d-109">ns2.bdm.microsoftonline.com</span></span>
+  - <span data-ttu-id="085d9-109">ns2.bdm.microsoftonline.com</span><span class="sxs-lookup"><span data-stu-id="085d9-109">ns2.bdm.microsoftonline.com</span></span>
 
-3. <span data-ttu-id="ca31d-110">บันทึกการเปลี่ยนแปลง</span><span class="sxs-lookup"><span data-stu-id="ca31d-110">Save changes.</span></span>
+3. <span data-ttu-id="085d9-110">บันทึกการเปลี่ยนแปลง</span><span class="sxs-lookup"><span data-stu-id="085d9-110">Save changes.</span></span>
 
-<span data-ttu-id="ca31d-111">นอกจากนี้คุณยังสามารถค้นหาคําแนะนําโดยละเอียดในบทความนี้:[เปลี่ยนเนมเซิร์ฟเวอร์กับผู้รับจดทะเบียนโดเมนใด ๆ](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/change-nameservers-at-any-domain-registrar)</span><span class="sxs-lookup"><span data-stu-id="ca31d-111">You can also find detailed instructions in this article: [Change nameservers with any domain registrar](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/change-nameservers-at-any-domain-registrar)</span></span>
+<span data-ttu-id="085d9-111">นอกจากนี้คุณยังสามารถค้นหาคำแนะนำโดยละเอียดในบทความนี้:[เปลี่ยนเซิร์ฟเวอร์ชื่อกับบริษัทจดทะเบียนโดเมนใดก็](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/change-nameservers-at-any-domain-registrar)ได้</span><span class="sxs-lookup"><span data-stu-id="085d9-111">You can also find detailed instructions in this article: [Change nameservers with any domain registrar](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/change-nameservers-at-any-domain-registrar)</span></span>
   
