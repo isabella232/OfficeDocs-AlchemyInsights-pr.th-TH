@@ -5,24 +5,25 @@ author: pebaum
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 467477cc-9d4f-47f1-a602-dbf334a42be5
-ms.openlocfilehash: f84d2ca8e5f620af7fb0d583fa311bf9d2d97c0d
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: ccc5e5b871cb014a1edf6457cf26b35cdfad706f
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43719593"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47677659"
 ---
 # <a name="fix-problems-uploading-files-to-onedrive"></a>แก้ไขปัญหาการอัปโหลดไฟล์ไปยัง OneDrive
 
-ลองทําวิธีนี้หากไฟล์ไม่อัปโหลด:
+ลองใช้วิธีนี้ถ้าไฟล์ไม่อัปโหลด:
   
-- เปลี่ยนชื่อแฟ้ม แล้วลองอีกครั้ง ชื่อแฟ้มและอักขระบางตัวในชื่อแฟ้มไม่ได้รับอนุญาต 
+- เปลี่ยนชื่อไฟล์แล้วลองอีกครั้ง ชื่อไฟล์และอักขระบางชื่อในชื่อไฟล์ไม่ได้รับอนุญาต 
     
-- ถ้าคุณกําลังซิงค์ไฟล์ ให้ย้ายไฟล์ออกจากโฟลเดอร์ OneDrive ของคุณ (ตัวอย่างเช่น ย้ายไฟล์นั้นไปยังเดสก์ท็อปของคุณ) และเมื่อสถานะการซิงค์ OneDrive ของคุณปรากฏเป็น "ทันสมัย" ให้ย้ายกลับ 
+- ถ้าคุณกำลังซิงค์ไฟล์ให้ย้ายไฟล์ออกจากโฟลเดอร์ OneDrive ของคุณ (ตัวอย่างเช่นย้ายไปยังเดสก์ท็อปของคุณ) และเมื่อสถานะการซิงค์ OneDrive ของคุณปรากฏเป็น "อัปเดตอยู่เสมอ" ให้ย้ายกลับไป 
     
-[เคล็ดลับการแก้ปัญหาเพิ่มเติม](https://go.microsoft.com/fwlink/?linkid=873155)
+[เคล็ดลับการแก้ไขปัญหาเพิ่มเติม](https://go.microsoft.com/fwlink/?linkid=873155)
   
 

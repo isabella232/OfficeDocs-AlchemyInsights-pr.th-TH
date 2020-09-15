@@ -1,53 +1,53 @@
 ---
-title: DLP ไม่ทํางานตามที่คาดไว้
+title: DLP ไม่ทำงานตามที่คาดไว้
 ms.author: deniseb
 author: denisebmsft
 manager: laurawi
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
-ms.prod: office-online-server
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
 - "1241"
 - "3200001"
 ms.assetid: f6fcf5ad-55a1-4f25-af27-1f7c1ce06409
-ms.openlocfilehash: e96904e2f0da2fe1fafb3f8722465eaf22681b71
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: 0ed893420b5813d5d18639c2c226c12f0306a13f
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44507497"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47679712"
 ---
-# <a name="dlp-not-working-as-expected"></a>DLP ไม่ทํางานตามที่คาดไว้
+# <a name="dlp-not-working-as-expected"></a>DLP ไม่ทำงานตามที่คาดไว้
 
-**สําคัญ**: ในช่วงเวลาที่ไม่เคยมีมาก่อนเหล่านี้เรากําลังดําเนินการเพื่อให้แน่ใจว่า SharePoint Online และบริการ OneDrive ยังคงมีอยู่มาก - โปรดเยี่ยมชม[SharePoint ออนไลน์ชั่วคราวการปรับปรุงคุณลักษณะ](https://aka.ms/ODSPAdjustments)สําหรับข้อมูลเพิ่มเติม
+**สำคัญ**: ในช่วงเวลาที่เป็นประวัติการณ์เหล่านี้เราจะดำเนินการตามขั้นตอนเพื่อให้แน่ใจว่าบริการ sharepoint Online และ OneDrive ยังคงพร้อมใช้งานอย่างมาก–โปรดไปที่การ [ปรับปรุงฟีเจอร์ชั่วคราวของ sharepoint Online](https://aka.ms/ODSPAdjustments) สำหรับข้อมูลเพิ่มเติม
 
  **การตั้งค่า DLP**
 
-คุณมีปัญหากับ**การป้องกันข้อมูลสูญหาย (DLP)** ใน Office 365 ไม่ทํางานตามที่คาดไว้หรือไม่ ตรวจสอบให้แน่ใจว่า**นโยบาย DLP**ของคุณถูกตั้งค่าอย่างถูกต้อง และว่าข้อมูลของคุณประกอบด้วยสิ่งที่**นโยบาย DLP**กําลังค้นหาเมื่อมีการประเมิน
+คุณมีปัญหาเกี่ยวกับการ **ป้องกันการสูญหายของข้อมูล (DLP)** ใน Office ๓๖๕ไม่ทำงานตามที่คาดไว้ใช่หรือไม่ ถ้าเป็นเช่นนั้นตรวจสอบให้แน่ใจว่า **นโยบาย dlp** ของคุณได้รับการตั้งค่าอย่างถูกต้องและข้อมูลของคุณมีสิ่งที่ **นโยบาย dlp** กำลังค้นหาเมื่อมีการประเมิน
   
-นโยบาย DLP ช่วยให้คุณสามารถระบุและป้องกันข้อมูลที่ละเอียดอ่อนในองค์กรของคุณ เมื่อต้องการตั้งค่านโยบาย DLP ให้ใช้ข้อมูล[ที่นี่](https://docs.microsoft.com/office365/securitycompliance/prevent-data-loss#set-up-dlp)
+นโยบาย DLP ช่วยให้คุณสามารถระบุและปกป้องข้อมูลที่สำคัญในองค์กรของคุณได้ เมื่อต้องการตั้งค่านโยบาย DLP ให้ใช้ข้อมูล[ต่อไปนี้](https://docs.microsoft.com/office365/securitycompliance/prevent-data-loss#set-up-dlp)
   
- **นโยบาย DLP มองหาอะไร**
+ **นโยบาย DLP ใดที่ค้นหา**
   
-เมื่อใช้**ชนิดข้อมูลที่ละเอียดอ่อนในตัว**ในศูนย์ความปลอดภัยและการปฏิบัติตามกฎระเบียบนโยบาย DLP จะค้นหารูปแบบและองค์ประกอบเฉพาะเมื่อตรวจพบชนิดที่สําคัญเหล่านี้
+เมื่อใช้ **ชนิดข้อมูลที่มีอยู่แล้วภาย** ในในศูนย์การรักษาความปลอดภัยและการปฏิบัติตามนโยบาย DLP ให้มองหารูปแบบและองค์ประกอบเฉพาะเมื่อตรวจหาชนิดที่มีความสำคัญเหล่านี้
   
-- **ประเภทข้อมูลที่ละเอียดอ่อนในตัว**
+- **ชนิดข้อมูลที่มีความสำคัญที่มีอยู่แล้วภายใน**
 
-    สําหรับข้อมูลเกี่ยวกับชนิด Sensitive ที่มีอยู่แล้วภายใน และนโยบาย DLP จะค้นหาเมื่อตรวจพบชนิด Sensitive ให้ดูที่:[ชนิดของข้อมูลที่ละเอียดอ่อนจะมีลักษณะอย่างไร](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions)
+    สำหรับข้อมูลเกี่ยวกับชนิดที่มีอยู่แล้วภายในและนโยบาย DLP จะมีลักษณะอย่างไรเมื่อตรวจหาชนิดที่มีความสำคัญให้ดูที่:[ชนิดข้อมูลที่มีความสำคัญคืออะไร](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions)
 
-- **ประเภทข้อมูลที่ละเอียดอ่อนแบบกําหนดเอง**
+- **ชนิดข้อมูลที่เป็นความลับแบบกำหนดเอง**
 
-    ถ้าคุณกําลังพยายามสร้างชนิดข้อมูลที่ละเอียดอ่อนแบบกําหนดเอง ให้ใช้บทความต่อไปนี้สําหรับข้อมูลเกี่ยวกับวิธีการสร้างชนิดที่สําคัญแบบกําหนดเอง:[สร้างชนิดข้อมูลที่ละเอียดอ่อนแบบกําหนดเอง](https://docs.microsoft.com/microsoft-365/compliance/create-a-custom-sensitive-information-type)
+    ถ้าคุณกำลังพยายามสร้างชนิดข้อมูลที่มีความสำคัญแบบกำหนดเองให้ใช้บทความต่อไปนี้สำหรับข้อมูลเกี่ยวกับวิธีการสร้างชนิดที่มีความสำคัญแบบกำหนดเอง: การ[สร้างชนิดข้อมูลที่เป็นความลับแบบกำหนดเอง](https://docs.microsoft.com/microsoft-365/compliance/create-a-custom-sensitive-information-type)
 
 **ทดสอบนโยบาย DLP**
 
-เมื่อต้องการทดสอบข้อมูลของคุณด้วยชนิดข้อมูลที่มีความไวในตัวหรือแบบกําหนดเอง ให้ใช้ตัวเลือก**ประเภทการทดสอบ**ภายใต้**Classifications**  >  **ประเภทข้อมูลละเอียดอ่อน**ของการจําแนกประเภท สําหรับข้อมูลเพิ่มเติม ให้ดูที่[การทดสอบชนิดข้อมูลที่ละเอียดอ่อนแบบกําหนดเอง](https://docs.microsoft.com/microsoft-365/compliance/create-a-custom-sensitive-information-type#create-custom-sensitive-information-types-in-the-security--compliance-center)
+เมื่อต้องการทดสอบข้อมูลของคุณด้วยชนิดข้อมูลที่เป็นความลับที่มีอยู่แล้วภายในหรือแบบกำหนดเองให้ใช้ตัวเลือก**ชนิดการทดสอบ****ภายใต้การจัดประเภท**  >  **ข้อมูล**ที่มีความสำคัญ สำหรับข้อมูลเพิ่มเติมให้ดูที่การ[ทดสอบชนิดข้อมูลที่เป็นความลับแบบกำหนดเอง](https://docs.microsoft.com/microsoft-365/compliance/create-a-custom-sensitive-information-type#create-custom-sensitive-information-types-in-the-security--compliance-center)
 
  **รายงาน**
   
-- รับข้อมูลเชิงลึกที่ละเอียดอ่อนด้วย[รายงาน DLP](https://docs.microsoft.com/microsoft-365/compliance/data-loss-prevention-policies#dlp-reports)
+- รับข้อมูลเชิงลึกของข้อมูลที่มีความสำคัญกับ [รายงาน DLP](https://docs.microsoft.com/microsoft-365/compliance/data-loss-prevention-policies#dlp-reports)
 
 - ดูรายละเอียดเฉพาะของเหตุการณ์ที่มี[รายงานเหตุการณ์](https://docs.microsoft.com/microsoft-365/compliance/data-loss-prevention-policies#incident-reports)

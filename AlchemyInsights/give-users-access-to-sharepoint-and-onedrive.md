@@ -1,34 +1,35 @@
 ---
-title: ให้สิทธิ์ผู้ใช้เข้าถึง SharePoint และ OneDrive
+title: ให้สิทธิ์การเข้าถึง SharePoint และ OneDrive แก่ผู้ใช้
 ms.author: pebaum
 author: pebaum
 manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: cebb7a4a-33e1-474e-a5d0-dbd02a80b1e9
-ms.openlocfilehash: 0bdc2fa97ad1fe8b3280411babaaf2bd685a644d
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: a7e9c0b7ffa5c11a2e24ee5fda6491f049f985f1
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43721848"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47677226"
 ---
-# <a name="give-users-access-to-sharepoint-and-onedrive"></a>ให้สิทธิ์ผู้ใช้เข้าถึง SharePoint และ OneDrive
+# <a name="give-users-access-to-sharepoint-and-onedrive"></a>ให้สิทธิ์การเข้าถึง SharePoint และ OneDrive แก่ผู้ใช้
 
 > [!NOTE]
-> ถ้าไซต์ OneDrive หรือ SharePoint ไม่พร้อมใช้งานสําหรับผู้ใช้หลายคนที่ก่อนหน้านี้มีการเข้าถึง อาจมีปัญหาการบริการชั่วคราว [ตรวจสอบแดชบอร์ดสถานภาพบริการ](https://portal.office.com/adminportal/home#/servicehealth)
+> ถ้าไซต์ OneDrive หรือ SharePoint ไม่พร้อมใช้งานสำหรับผู้ใช้หลายคนที่มีการเข้าถึงก่อนหน้านี้อาจมีปัญหาในการบริการชั่วคราว [ตรวจสอบแดชบอร์ดสถานภาพบริการ](https://portal.office.com/adminportal/home#/servicehealth)
   
-ถ้าคุณต้องการให้บุคคลในองค์กรของคุณสามารถลงชื่อเข้าใช้และใช้ SharePoint และ OneDrive ได้ คุณต้องเพิ่มบัญชีสําหรับบุคคลเหล่านั้น และตรวจสอบว่าบุคคลดังกล่าวมีสิทธิ์การใช้งานที่อนุญาตให้บุคคลเหล่านั้นเข้าถึง SharePoint และ OneDrive ได้ วิธีที่ง่ายที่สุดในการเพิ่มผู้ใช้อยู่ในศูนย์การจัดการ Microsoft 365
+ถ้าคุณต้องการให้บุคคลในองค์กรของคุณสามารถลงชื่อเข้าใช้และใช้ SharePoint และ OneDrive คุณจำเป็นต้องเพิ่มบัญชีผู้ใช้เหล่านั้นและตรวจสอบให้แน่ใจว่ามีสิทธิ์การใช้งานที่ให้สิทธิ์การเข้าถึง SharePoint และ OneDrive วิธีที่ง่ายที่สุดในการเพิ่มผู้ใช้อยู่ในศูนย์การจัดการ Microsoft ๓๖๕
   
-1. ไปที่หน้า[ผู้ใช้ที่ใช้งานอยู่ ใน ศูนย์การจัดการ Microsoft 365](https://portal.office.com/adminportal/home#/users)แล้วคลิก**เพิ่มผู้ใช้**
+1. ไปที่[หน้าผู้ใช้ที่ใช้งานอยู่ในศูนย์การจัดการ Microsoft ๓๖๕](https://portal.office.com/adminportal/home#/users)แล้วคลิก**เพิ่มผู้ใช้**
     
-2. กรอกข้อมูลสําหรับผู้ใช้ และตรวจสอบให้แน่ใจว่าภายใต้**สิทธิ์การใช้งานผลิตภัณฑ์**สิทธิ์การใช้งานถูกมอบหมาย และ**SharePoint Online**ถูกเลือกไว้ 
+2. กรอกข้อมูลสำหรับผู้ใช้และตรวจสอบให้แน่ใจว่าภายใต้สิทธิ์การใช้งาน **ผลิตภัณฑ์**สิทธิ์การใช้งานจะถูกกำหนดและ **SharePoint Online** ถูกเลือกไว้ 
     
-โปรดทราบว่าถ้าคุณอนุญาตให้มีการแชร์ภายนอกในองค์กรของคุณ คุณไม่จําเป็นต้องให้สิทธิ์การใช้งานแก่ผู้ใช้ภายนอกเหล่านี้ นอกจากนี้ คุณไม่จําเป็นต้องเพิ่มบัญชีสําหรับบัญชีเหล่านั้น เว้นแต่ว่าการใช้ร่วมกันถูกตั้งค่าเป็น "เฉพาะผู้ใช้ภายนอกที่มีอยู่เท่านั้น" ในกรณีนี้ ถ้าบุคคลนั้นไม่ได้อยู่ในไดเรกทอรีขององค์กรของคุณ
+โปรดทราบว่าถ้าคุณอนุญาตให้มีการแชร์ภายนอกในองค์กรของคุณผู้ใช้สามารถแชร์เนื้อหา SharePoint และ OneDrive กับบุคคลภายนอกองค์กรได้ คุณไม่จำเป็นต้องให้สิทธิ์การใช้งานผู้ใช้ภายนอกเหล่านี้ นอกจากนี้คุณยังไม่จำเป็นต้องเพิ่มบัญชีผู้ใช้เหล่านั้นเว้นแต่การแชร์ถูกตั้งค่าเป็น "เฉพาะผู้ใช้ภายนอกที่มีอยู่แล้ว" ในกรณีนี้ถ้าบุคคลนั้นไม่ได้อยู่ในไดเรกทอรีขององค์กรของคุณคุณจำเป็นต้องเพิ่มบุคคลเหล่านั้นเป็นผู้ใช้ที่เป็นผู้เยี่ยมชมในศูนย์การจัดการ AD Azure
   
 
