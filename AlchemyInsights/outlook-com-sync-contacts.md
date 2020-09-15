@@ -1,26 +1,27 @@
 ---
-title: ซิงค์รายชื่อในOutlook.com
+title: ซิงค์ที่ติดต่อใน Outlook.com
 ms.author: daeite
 author: daeite
 manager: joallard
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
 - "2404"
 - "8000048"
 - "9000554"
-ms.openlocfilehash: 9c8c5d5fd6c3504dac244d2ed6ed7ac444a10d2a
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 411ed1facbcc60b74340ac06d49bd401a9885add
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43722287"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47666349"
 ---
-# <a name="sync-contacts"></a>ซิงค์รายชื่อ
+# <a name="sync-contacts"></a>ซิงค์ที่ติดต่อ
 
-Outlook จะซิงค์ที่ติดต่อที่คุณสร้างใน[การเชื่อมต่อบุคคล](https://outlook.live.com/people/)ในอุปกรณ์และแอปอื่นๆ เช่น Outlook สําหรับ Android และ Outlook สําหรับ iOS เรียนรู้วิธีการ[สร้างรายชื่อ](https://support.office.com/article/5b909158-036e-4820-92f7-2a27f57b9f01)
+Outlook จะซิงค์ที่ติดต่อที่คุณสร้างขึ้นใน [บุคคล](https://outlook.live.com/people/) ในอุปกรณ์และแอปอื่นๆเช่น Outlook สำหรับ Android และ Outlook สำหรับ iOS เรียนรู้วิธีการ[สร้างที่ติดต่อ](https://support.office.com/article/5b909158-036e-4820-92f7-2a27f57b9f01)
 
-ผู้ติดต่อที่นําเข้า (ตัวอย่างเช่น ผู้ติดต่อจากบัญชีผู้ใช้อีเมลอื่นที่คุณเชื่อมต่อกับบัญชีOutlook.com) จะไม่ถูกซิงค์ เรียนรู้วิธี[นําเข้ารายชื่อ](https://support.office.com/article/285a3b55-8d93-4ac8-93df-43fffd13b2f1)
+ที่ติดต่อที่นำเข้า (ตัวอย่างเช่นที่ติดต่อจากบัญชีผู้ใช้อีเมลอื่นที่คุณเชื่อมต่อกับบัญชีผู้ใช้ Outlook.com ของคุณ) จะไม่ถูกซิงค์ เรียนรู้วิธีการ[นำเข้าที่ติดต่อ](https://support.office.com/article/285a3b55-8d93-4ac8-93df-43fffd13b2f1)

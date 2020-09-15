@@ -6,27 +6,28 @@ manager: mnirkhe
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "5884"
 - "3500007"
-ms.openlocfilehash: 2116bb837e4378ea29d7882df1d3010b3a4e0b1c
-ms.sourcegitcommit: 936330b11fec49f6174eadea6c765bdf9e6ba784
+ms.openlocfilehash: 9590f780cffeaf644733752c763e04d748b1b39e
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 06/12/2020
-ms.locfileid: "44749147"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47665737"
 ---
 # <a name="owner-cannot-create-sub-folder-using-outlook"></a>เจ้าของไม่สามารถสร้างโฟลเดอร์ย่อยโดยใช้ Outlook
 
-**มีปัญหาเกิดขึ้นกับเจ้าของโฟลเดอร์สาธารณะที่สร้างโฟลเดอร์ย่อยโดยใช้ Outlook ปัญหานี้จะได้รับการแก้ไขในเร็ว ๆ นี้**
+**มีปัญหาที่เกิดขึ้นอย่างต่อเนื่องกับเจ้าของโฟลเดอร์สาธารณะการสร้างโฟลเดอร์ย่อยโดยใช้ Outlook ปัญหานี้จะได้รับการแก้ไขในเร็วๆนี้**
 
-ในขณะเดียวกัน ใช้หนึ่งในวิธีแก้ไขปัญหาต่อไปนี้:
+ในขณะเดียวกันให้ใช้หนึ่งในวิธีการแก้ไขปัญหาต่อไปนี้:
 
-1. ใช้ Outlook สําหรับ MAC เพื่อสร้างโฟลเดอร์ย่อยเป็นปัญหาที่ส่งผลกระทบต่อ Outlook สําหรับหน้าต่างเดสก์ท็อปเท่านั้น (ทุกรุ่น)
-2. ให้ผู้ดูแลระบบสร้างโฟลเดอร์ย่อยโดยใช้ EXO เชลล์หรือ EAC
-3. การเปลี่ยนแปลงการDเริ่มต้นPublicFolderMailbox/EffectivePublicFolderMailboxบนกล่องจดหมายอื่นที่ไม่ใช่กล่องจดหมายเนื้อหาสําหรับโฟลเดอร์ที่ทําให้เกิดปัญหา  
-    - *ตั้งค่ากล่องจดหมายผู้ใช้1เริ่มต้น*
-4. รอหนึ่งชั่วโมง เริ่มต้นไคลเอ็นต์ Outlook ใหม่
+1. ใช้ Outlook for MAC เพื่อสร้างโฟลเดอร์ย่อยเป็นปัญหาที่มีผลต่อ Outlook สำหรับเดสก์ท็อป windows (ทุกเวอร์ชัน)
+2. มีผู้ดูแลระบบสร้างโฟลเดอร์ย่อยโดยใช้ Shell หรือ EAC
+3. เปลี่ยน DefaultPublicFolderMailbox/EffectivePublicFolderMailbox บนผู้ใช้ไปยังกล่องจดหมายอื่นที่ไม่ใช่กล่องจดหมายเนื้อหาสำหรับโฟลเดอร์ที่ทำให้เกิดปัญหา  
+    - *ตั้งค่ากล่องจดหมาย User1 DefaultPublicFolderMailbox PubMBX3*
+4. รอสักครู่ให้เริ่มไคลเอ็นต์ outlook ใหม่
