@@ -1,26 +1,27 @@
 ---
-title: ความขัดแย้งกับ SourceAnchor, พร็อกซีที่อยู่, ชื่อผู้ใช้
+title: ข้อขัดแย้งกับ SourceAnchor, ProxyAddress, UserPrincipalName
 ms.author: pebaum
 author: pebaum
 manager: scotv
 ms.date: 07/20/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "1699"
 - "1300022"
-ms.openlocfilehash: 826dfe9e5c7d24ff5186a94e1ada4dad536e7edd
-ms.sourcegitcommit: b0b050a83db28566b68e3ec09810c6b94280008e
+ms.openlocfilehash: 877c954bea219cf8d885645cd25e41a5b7bab6fd
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 07/20/2020
-ms.locfileid: "45198576"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47713473"
 ---
-# <a name="conflicts-with-sourceanchor-proxyaddress-userprincipalname"></a>ความขัดแย้งกับ SourceAnchor, พร็อกซีที่อยู่, ชื่อผู้ใช้
+# <a name="conflicts-with-sourceanchor-proxyaddress-userprincipalname"></a>ข้อขัดแย้งกับ SourceAnchor, ProxyAddress, UserPrincipalName
 
-ถ้าคุณได้รับข้อผิดพลาดในระหว่างการซิงโครไนส์ เช่น "วัตถุที่ซิงโครไนส์กับ ProxyAddress เดียวกันหรือ UserPrincipalName เดียวกันอยู่ในไดเรกทอรีของคุณ" ให้ดู[วินิจฉัย และแก้ไขข้อผิดพลาดการซิงค์แอตทริบิวต์ที่ซ้ํากัน](https://docs.microsoft.com/azure/active-directory/hybrid/how-to-connect-health-diagnose-sync-errors)
+ถ้าคุณได้รับข้อผิดพลาดในระหว่างการซิงโครไนซ์เช่น "วัตถุที่ซิงโครไนซ์กับ ProxyAddress หรือ UserPrincipalName ที่มีอยู่แล้วในไดเรกทอรีของคุณ" ให้ดูที่[ข้อผิดพลาดการซิงค์แอตทริบิวต์ของการวินิจฉัยและ remediate ซ้ำ](https://docs.microsoft.com/azure/active-directory/hybrid/how-to-connect-health-diagnose-sync-errors)
 
-นอกจากนี้ ให้พิจารณาการเปิดใช้งานความยืดหยุ่นของแอตทริบิวต์ที่ซ้ํากัน สําหรับข้อมูลเพิ่มเติม ให้ดูที่[การซิงโครไนส์ข้อมูลประจําตัวและความยืดหยุ่นของแอตทริบิวต์ที่ซ้ํากัน](https://aka.ms/duplicateattributeresiliency)
+นอกจากนี้ให้พิจารณาการเปิดใช้งานแอตทริบิวต์ที่ซ้ำกัน สำหรับข้อมูลเพิ่มเติมให้ดูที่การ[ซิงโครไนซ์ข้อมูลประจำตัวและแอตทริบิวต์ที่ซ้ำกันมีความยืดหยุ่น](https://aka.ms/duplicateattributeresiliency)

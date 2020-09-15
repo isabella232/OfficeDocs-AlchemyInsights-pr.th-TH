@@ -6,27 +6,28 @@ manager: scotv
 ms.date: 07/23/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "1127"
 - "6700007"
-ms.openlocfilehash: b8ad8c703ec8d7d089fec90cb12eecb6ad84298e
-ms.sourcegitcommit: 07e56267dedfc4cec1143072c791670cbf81186b
+ms.openlocfilehash: a147983e4ac5ee5c1bc0a6b5932e00557e8d6c10
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 07/24/2020
-ms.locfileid: "45424203"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47712275"
 ---
 # <a name="download-and-share-updates"></a>ดาวน์โหลดและแชร์การอัปเดต
 
-โหมดการดาวน์โหลดการปรับให้เหมาะสมในการนําส่งจะทําให้สามารถใช้ร่วมกันระหว่างพีซีหลายเครื่องได้ สําหรับข้อมูลเพิ่มเติม ให้ดูที่[การปรับการนําส่งให้เหมาะสมที่สุดสําหรับการปรับปรุง Windows 10](https://docs.microsoft.com/windows/deployment/update/waas-delivery-optimization)  
+โหมดการดาวน์โหลดการเพิ่มประสิทธิภาพการนำส่งช่วยให้การแชร์ระหว่างพีซีหลายเครื่องแทนการดาวน์โหลดการอัปเดต สำหรับข้อมูลเพิ่มเติมให้ดูที่การ[ปรับปรุงการนำส่งสำหรับ Windows 10 ให้เหมาะสม](https://docs.microsoft.com/windows/deployment/update/waas-delivery-optimization)  
 
-โหมดการดาวน์โหลดที่มีอยู่รวมถึง:  
+โหมดการดาวน์โหลดที่พร้อมใช้งานได้แก่:  
 - HTTP เท่านั้น  
-- Lan  
+- LAN  
 - กลุ่ม  
-- อินเทอร์เน็ต  
+- Internet  
 - ง่าย  
-- ข้าม
+- เลี่ยงผ่าน

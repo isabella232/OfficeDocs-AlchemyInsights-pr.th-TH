@@ -1,42 +1,43 @@
 ---
-title: วิธีการเขียน
+title: โคโม่ pagar com boleto
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9001213"
 - "3187"
-ms.openlocfilehash: a2199bfa7cf419fccb2951c0471c84e2a6683aa0
-ms.sourcegitcommit: 940169c0edf638b5086d70cc275049f01dcff3cf
+ms.openlocfilehash: 58c7e52d9e81d3e7e98479d868b8c6bcdd0f7ed7
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 04/08/2020
-ms.locfileid: "43183010"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47713762"
 ---
-# <a name="como-pagar-com-boleto"></a>วิธีการเขียน
+# <a name="como-pagar-com-boleto"></a>โคโม่ pagar com boleto
 
-**วิธีการให้คนตาย**
+**โคโม่ pagar minha fatura**
 
-ข้อมูลส่วนตัวฟูก!
+Você pode pagar sua fatura com boleto bancári ou transferência bancária eletrônica
 
-**วิธีการเขียน**
+**โคโม่ pagar com boleto**
 
-ข้อมูลส่วนตัวจากผู้เข้าพักของ Aisa ข้อมูลส่วนตัวจากผู้เข้าพักของ Aos
+อ่าว escolher esta opção de pagamento, você receberá o boleto em seu อีเมล em até 10 dias úteis após ข้อมูลทำ pedido ครั้น boleto terá vencimento de 30 dias após ข้อมูลทำ pedido e pode ser pago em ธนาคาร, correios, casa lotérica e alguns supermercados,,,,,,,,,,,
 
-- เอสโคลฮาเป็นรูปปากาเม็นโต "ฟาตูรา-พาคาเม็นโต
+- Escolha การ pagamento แบบชั่วคราว "Fatura-pagamento com Boleto Bancári"
 
-- มีข้อมูลในอีเมล
+- Você receberá um อีเมล com informacões sobre sua Fatura
 
-- มีอีเมล์
+- Você receberá sua Fatura ปออีเมล
 
-- มี 10 ตัว
+- Em até 10 dias úteis após sua compra, você receberá o Boleto para pagamento
 
-- ข้อมูลส่วนตัวจากผู้เข้าพักของ Axa
+- O vencimento ทำ Boleto será em 30 dias da data da compra
 
-- มี 10 ตัว, และมีการปนเปื้อน.
+- Caso não receba o Boleto em até 10 dias, เฟ em contato com nosso Suporte
 

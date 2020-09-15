@@ -5,24 +5,25 @@ author: pebaum
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 4d86bf9c-8158-40e2-a26f-cffe1ed856d1
-ms.openlocfilehash: 543cbd51120bc87675d82597673a681bc5fc53b3
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 51835611492b70627ef8f563f98b2922ee1454f3
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43715133"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47712347"
 ---
-# <a name="discard-a-check-out-from-a-document-library"></a>ละทิ้งการเช็คเอาท์จากไลบรารีเอกสาร
+# <a name="discard-a-check-out-from-a-document-library"></a>ละทิ้งการเช็คเอาท์ออกจากไลบรารีเอกสาร
 
-1. คลิกขวาที่แฟ้มที่คุณต้องการละทิ้งการเช็คเอาท์
+1. คลิกขวาที่ไฟล์ที่คุณต้องการละทิ้งเช็คเอาท์
     
-2. คลิก**เพิ่มเติม**แล้วคลิก**ละทิ้งการเช็คเอาท์** 
+2. คลิก**เพิ่มเติม**แล้วคลิก**ละทิ้งเช็คเอาท์** 
     
-3. จากกล่องโต้ตอบ ให้คลิก**ละทิ้งเช็คเอาท์**เพื่อล้างเช็คเอาท์ 
+3. จากกล่องโต้ตอบให้คลิก **ละทิ้งเช็คเอาท์** เพื่อล้างเช็คเอาท์ 
     
-สําหรับคําถามเพิ่มเติมเกี่ยวกับการเช็คอินและการเช็คเอาท์ ให้ดูที่[คําถามยอดนิยมเกี่ยวกับการเช็คเอาท์ เช็คอิน และรุ่น](https://go.microsoft.com/fwlink/?linkid=2018786)
+สำหรับคำถามเพิ่มเติมเกี่ยวกับการเช็คอินและเช็คเอาท์ให้ดู[คำถามยอดนิยมเกี่ยวกับการเช็คเอาท์เช็คอินและเวอร์ชัน](https://go.microsoft.com/fwlink/?linkid=2018786)
   
 
