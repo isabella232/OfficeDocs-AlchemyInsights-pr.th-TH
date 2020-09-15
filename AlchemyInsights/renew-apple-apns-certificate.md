@@ -1,27 +1,28 @@
 ---
-title: ต่ออายุใบรับรอง APNS ของ Apple
+title: ต่ออายุใบรับรอง APN ของ Apple
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9000654"
 - "3542"
-ms.openlocfilehash: dfdf8a50e1d1887361974f3db8122c129afd647b
-ms.sourcegitcommit: 75346a972c2174248de3bb55a19d714cee43c1cc
+ms.openlocfilehash: 74d2e6ffa91be3caaa3e5b1104814870d05e404d
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 04/09/2020
-ms.locfileid: "43211493"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47701194"
 ---
-# <a name="renew-apple-apns-certificate"></a>ต่ออายุใบรับรอง APNS ของ Apple
+# <a name="renew-apple-apns-certificate"></a>ต่ออายุใบรับรอง APN ของ Apple
 
-ใบรับรองพุช MDM ของ Apple หมดอายุแล้ว!
+ใบรับรองแบบพุชของ Apple MDM ของคุณหมดอายุแล้ว!
 
-ใบรับรองการผลักดันของ Apple MDM มีอายุหนึ่งปีและต้องต่ออายุเป็นประจําทุกปีเพื่อรักษาการจัดการอุปกรณ์ iOS และ macOS เป็นประจําทุกปี หากใบรับรองของคุณหมดอายุ จะไม่สามารถติดต่ออุปกรณ์ Apple ที่ลงทะเบียนไว้ได้ และไม่สามารถลงทะเบียนอุปกรณ์ใหม่ได้
+ใบรับรองแบบพุชของ Apple MDM มีอายุการใช้งานเป็นเวลา1ปีและต้องต่ออายุเพื่อรักษาการจัดการอุปกรณ์ iOS และ macOS ถ้าใบรับรองของคุณหมดอายุลงทะเบียนอุปกรณ์ Apple ไม่สามารถติดต่อได้และไม่สามารถลงทะเบียนอุปกรณ์ใหม่ได้
 
-หากต้องการต่ออายุใบรับรองพุช MDM ของ Apple โปรดดูที่[ต่ออายุใบรับรองพุชของ Apple MDM](https://docs.microsoft.com/intune/enrollment/apple-mdm-push-certificate-get#renew-apple-mdm-push-certificate)
+เมื่อต้องการต่ออายุใบรับรองแบบพุชของ Apple MDM ของคุณให้ดูที่[ต่ออายุใบรับรองแบบพุชของ APPLE mdm](https://docs.microsoft.com/intune/enrollment/apple-mdm-push-certificate-get#renew-apple-mdm-push-certificate)

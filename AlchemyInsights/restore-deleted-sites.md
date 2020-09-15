@@ -1,25 +1,26 @@
 ---
-title: คืนค่าไซต์ที่ถูกลบ
+title: การคืนค่าไซต์ที่ถูกลบ
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9000210"
 - "4836"
-ms.openlocfilehash: 7377309ce2ce51eb453fc95b0b24639793f5b2d9
-ms.sourcegitcommit: 940169c0edf638b5086d70cc275049f01dcff3cf
+ms.openlocfilehash: 352977a82fea6628bf3de0d81e75a8ccc3fb1628
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 04/08/2020
-ms.locfileid: "43182913"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47701122"
 ---
-# <a name="restore-deleted-sites"></a>คืนค่าไซต์ที่ถูกลบ
+# <a name="restore-deleted-sites"></a>การคืนค่าไซต์ที่ถูกลบ
 
-ไซต์ที่ถูกลบจะถูกเก็บรักษาไว้เป็นเวลา 93 วัน หลังจาก 93 วัน ไซต์และเนื้อหาและการตั้งค่าทั้งหมดจะถูกลบอย่างถาวร รวมถึงรายการ ไลบรารี เพจ และไซต์ย่อยใดๆ
+ไซต์ที่ถูกลบจะถูกเก็บไว้สำหรับ๙๓วัน หลังจากวันที่๙๓วันไซต์และเนื้อหาและการตั้งค่าทั้งหมดของพวกเขาจะถูกลบออกอย่างถาวรรวมถึงรายการไลบรารีหน้าและไซต์ย่อยใดๆ
 
-- สําหรับข้อมูลเพิ่มเติม ให้ดูที่[การคืนค่าไซต์ที่ถูกลบ](https://docs.microsoft.com/sharepoint/restore-deleted-site-collection)
+- สำหรับข้อมูลเพิ่มเติมให้ดูที่[คืนค่าไซต์ที่ถูกลบ](https://docs.microsoft.com/sharepoint/restore-deleted-site-collection)

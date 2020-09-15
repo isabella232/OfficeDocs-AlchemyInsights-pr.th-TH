@@ -1,9 +1,10 @@
 ---
-title: ปัญหาขณะกําลังโยกย้ายข้อมูลไปยัง SharePoint Online
+title: ปัญหาขณะโยกย้ายข้อมูลไปยัง SharePoint Online
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 686e8f18-b871-4dd2-864f-8562947ab583
@@ -11,23 +12,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "5300030"
 - "1885"
-ms.openlocfilehash: 7a801bb6ff5b5c1d48cbc99f27e5f398dd76db5f
-ms.sourcegitcommit: 04484c73b96bf76d1b50796b3e8913f49095c4f3
+ms.openlocfilehash: 277ef2d66c51322c095de3dcc6012562a9913161
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 04/18/2020
-ms.locfileid: "43552940"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47700906"
 ---
-# <a name="issues-while-migrating-data-to-sharepoint-online"></a>ปัญหาขณะกําลังโยกย้ายข้อมูลไปยัง SharePoint Online
+# <a name="issues-while-migrating-data-to-sharepoint-online"></a>ปัญหาขณะโยกย้ายข้อมูลไปยัง SharePoint Online
 
-**การโยกย้ายข้อมูลมากกว่า 100TB**
+**การโยกย้ายผ่าน100TB ของข้อมูล**
 
-ดูเหมือนว่าคุณกําลังย้ายข้อมูลมากกว่า 100TB ไปยัง SharePoint Online โปรดทําตามขั้นตอนด้านล่างเพื่อให้เราสามารถช่วยคุณโดยเร็วที่สุด 
+แสดงว่าคุณกำลังโยกย้ายไปยัง100TB ของข้อมูลไปยัง SharePoint Online โปรดทำตามขั้นตอนด้านล่างเพื่อให้เราสามารถช่วยคุณได้โดยเร็วที่สุดเท่าที่จะเป็นไปได้ 
 
-1. เลือก**คําขอบริการใหม่**แล้วเลือก**คําขอบริการใหม่** 
-2. ปล่อยชื่อเรื่องและคําอธิบายไว้เป็น**การย้าย SharePoint มากกว่า 100TB**
-3. เมื่อตั๋วถูกส่งไปแล้ว โปรดอัปเดตด้วยข้อมูลต่อไปนี้: 
+1. เลือก**คำขอบริการใหม่**แล้วคลิก**คำขอบริการใหม่** 
+2. ปล่อยให้ชื่อเรื่องและคำอธิบายเป็นการ**โยกย้าย SharePoint เหนือ 100TB**
+3. เมื่อมีการส่งตั๋วแล้วโปรดอัปเดตข้อมูลดังต่อไปนี้: 
 
-    - ขนาดโดยประมาณของการย้ายข้อมูล
-    - ค่าประมาณของเวลาที่คุณต้องการเริ่มต้นและดําเนินการย้ายให้เสร็จสมบูรณ์
-    - อธิบายตําแหน่งที่คุณกําลังย้ายเนื้อหาของคุณ เช่น SharePoint Server, Box, GDrive, การแชร์ไฟล์ และอื่นๆ
+    - ขนาดโดยประมาณของการโยกย้ายของคุณ
+    - การประเมินเมื่อคุณต้องการเริ่มต้นและดำเนินการโยกย้ายของคุณให้เสร็จสมบูรณ์
+    - อธิบายว่าคุณกำลังโยกย้ายเนื้อหาของคุณจากที่ใดเช่น SharePoint Server กล่อง GDrive การแชร์ไฟล์และอื่นๆ

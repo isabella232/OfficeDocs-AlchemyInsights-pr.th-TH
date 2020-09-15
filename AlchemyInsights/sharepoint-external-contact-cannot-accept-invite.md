@@ -1,26 +1,27 @@
 ---
-title: ผู้ติดต่อภายนอกไม่สามารถยอมรับการเชิญให้ใช้ร่วมกันได้
+title: ที่ติดต่อภายนอกไม่สามารถยอมรับการเชิญการแชร์ได้
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 4d197afd-e806-40ad-ac20-4b10bc497edb
-ms.openlocfilehash: 6f69b57b63e2f1abaa22ef496c2969d45b968802
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: 892e06498cea60851f9771e646a6e6dfbec6abdc
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40043990"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47700618"
 ---
-# <a name="external-contact-is-unable-to-accept-a-sharepoint-invitation"></a>ผู้ติดต่อภายนอกไม่สามารถยอมรับการเชิญ SharePoint
+# <a name="external-contact-is-unable-to-accept-a-sharepoint-invitation"></a>ที่ติดต่อภายนอกไม่สามารถยอมรับการเชิญของ SharePoint ได้
 
-หากภายนอกไม่สามารถยอมรับการเชิญให้ใช้ร่วมกันได้โปรดลองไปที่ลิงก์ด้านล่าง
+ถ้าภายนอกไม่สามารถยอมรับการเชิญการแชร์ได้โปรดลองเยี่ยมชมลิงก์ด้านล่าง
 
-- [ข้อผิดพลาดเมื่อผู้ใช้ภายนอกยอมรับการเชิญ SharePoint แบบออนไลน์โดยใช้บัญชีอื่น](https://docs.microsoft.com/sharepoint/support/sharing-and-permissions/error-when-external-user-accepts-an-invitation-by-using-another-account)
+- [ข้อความแสดงข้อผิดพลาดเมื่อผู้ใช้ภายนอกยอมรับการเชิญของ SharePoint Online โดยใช้บัญชีผู้ใช้อื่น](https://docs.microsoft.com/sharepoint/support/sharing-and-permissions/error-when-external-user-accepts-an-invitation-by-using-another-account)
 
-- [การเข้าถึงถูกปฏิเสธไปยังโฟลเดอร์ที่ใช้ร่วมกัน](https://docs.microsoft.com/sharepoint/support/sharing-and-permissions/cannot-access-shared-folder)
+- [การเข้าถึงถูกปฏิเสธไปยังโฟลเดอร์ที่แชร์](https://docs.microsoft.com/sharepoint/support/sharing-and-permissions/cannot-access-shared-folder)
 
-- [การใช้ข้อผิดพลาดร่วมกันใน SharePoint และ OneDrive](https://docs.microsoft.com/sharepoint/sharepoint-onedrive-error-message)
+- [การแชร์ข้อผิดพลาดใน SharePoint และ OneDrive](https://docs.microsoft.com/sharepoint/sharepoint-onedrive-error-message)
 

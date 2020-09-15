@@ -1,25 +1,26 @@
 ---
-title: จํากัดการแสดงข้อคิดเห็นในกระแสข้อมูล Microsoft
+title: จำกัดการแสดงข้อคิดเห็นใน Microsoft Stream
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9002650"
 - "5099"
-ms.openlocfilehash: 043a5d402d485510f710ee727aad5c6f5b77fb83
-ms.sourcegitcommit: 89ae9e8b36d1980f89f07b016fff0ec48f96b620
+ms.openlocfilehash: 4b93a64ebe13233b3c7260f59ad57eb679250f5d
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 04/23/2020
-ms.locfileid: "43790063"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47701094"
 ---
-# <a name="restrict-commenting-in-microsoft-stream"></a>จํากัดการแสดงข้อคิดเห็นในกระแสข้อมูล Microsoft
+# <a name="restrict-commenting-in-microsoft-stream"></a>จำกัดการแสดงข้อคิดเห็นใน Microsoft Stream
 
-ในฐานะองค์กร คุณอาจต้องการปิดใช้งานการแสดงความคิดเห็นสําหรับวิดีโอทั้งหมดที่โพสต์ในสตรีม โดยค่าเริ่มต้น ผู้อัปโหลดสามารถเปิดหรือปิดใช้งานความคิดเห็นในวิดีโอได้
+ในฐานะองค์กรคุณอาจต้องการปิดใช้งานการแสดงความคิดเห็นสำหรับวิดีโอทั้งหมดที่โพสต์ในสตรีม ตามค่าเริ่มต้นอัปสามารถเปิดใช้งานหรือปิดใช้งานข้อคิดเห็นบนวิดีโอของพวกเขาได้
 
-- [จํากัดการแสดงข้อคิดเห็นในกระแสข้อมูล Microsoft](https://docs.microsoft.com/stream/portal-disable-comments)
+- [จำกัดการแสดงข้อคิดเห็นใน Microsoft Stream](https://docs.microsoft.com/stream/portal-disable-comments)
