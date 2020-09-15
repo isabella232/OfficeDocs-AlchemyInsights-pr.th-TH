@@ -6,27 +6,28 @@ manager: scotv
 ms.date: 07/16/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "6034"
 - "9001470"
-ms.openlocfilehash: 0edafc8fab84ccdabecdc4853fde998ae79a8184
-ms.sourcegitcommit: c078058ee0b77ee1f1496feb2f3a5773e3e3b30d
+ms.openlocfilehash: 9a2013dfdfec32086f3ba029b6f78bffd9fcf79c
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 07/16/2020
-ms.locfileid: "45198360"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47665305"
 ---
 # <a name="software-inventory-is-missing-or-inaccurate"></a>สินค้าคงคลังของซอฟต์แวร์หายไปหรือไม่ถูกต้อง
 
-สินค้าคงคลังซอฟต์แวร์ในบริการ Microsoft Defender ATP ให้ชื่อผลิตภัณฑ์หรือผู้ขายหมายเลขรุ่นล่าสุดและจุดอ่อนที่ตรวจพบและช่องโหว่ สําหรับข้อมูลเพิ่มเติม ให้ดูที่[สินค้าคงคลังของซอฟต์แวร์ - การจัดการภัยคุกคามและช่องโหว่](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/tvm-software-inventory)
+สินค้าคงคลังซอฟต์แวร์ใน Microsoft Defender ATP service มีชื่อผลิตภัณฑ์หรือผู้จำหน่ายหมายเลขเวอร์ชันล่าสุดและจุดอ่อนและช่องโหว่ที่ตรวจพบ สำหรับข้อมูลเพิ่มเติมให้ดูที่[สินค้าคงคลังของซอฟต์แวร์-การจัดการภัยคุกคามและช่องโหว่](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/tvm-software-inventory)
 
-คุณสามารถรายงานข้อมูลที่คลุมเครือหรือไม่สมบูรณ์ หมายเลขเวอร์ชันที่ไม่ถูกต้อง หรือข้อมูลสินค้าคงคลังของซอฟต์แวร์ที่แก้ไขโดยทําตามขั้นตอนเหล่านี้  
+คุณสามารถรายงานข้อมูลที่คลุมเครือหรือไม่สมบูรณ์หมายเลขเวอร์ชันที่ไม่ถูกต้องหรือ remediated ข้อมูลสินค้าคงคลังของซอฟต์แวร์ได้โดยทำตามขั้นตอนต่อไปนี้  
 
-1. เปิดเมนูลอยซอฟต์แวร์ และเลือกแอปพลิเคชันในหน้าสินค้าคงคลังซอฟต์แวร์
-2. เลือก**รายงานความไม่ถูกต้อง**และจากบานหน้าต่างเมนูลอย ให้เลือกประเภทจากเมนูแบบเลื่อนลง
-3. กรอกอีเมล์แอดเดรสของท่าน และรายละเอียดความไม่ถูกต้อง
+1. เปิดเมนูลอยของซอฟต์แวร์และเลือกแอปพลิเคชันบนหน้าสินค้าคงคลังซอฟต์แวร์
+2. เลือก **รายงานต้อง**และจากบานหน้าต่างเมนูดรอปดาวน์ให้เลือกประเภทจากเมนูดรอปดาวน์
+3. กรอกที่อยู่อีเมลของคุณและรายละเอียดของต้อง
 4. เลือก**ส่ง**</br>
-    คําติชมของคุณจะถูกส่งไปยังภัยคุกคาม&ผู้เชี่ยวชาญด้านการจัดการช่องโหว่ทันที
+    คำติชมของคุณจะถูกส่งไปยังผู้เชี่ยวชาญด้านการจัดการช่องโหว่ที่ & โดยทันที

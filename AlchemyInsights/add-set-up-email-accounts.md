@@ -1,11 +1,12 @@
 ---
-title: 1800018 เพิ่ม/ตั้งค่าบัญชีอีเมล
+title: ๑๘๐๐๐๑๘เพิ่ม/ตั้งค่าบัญชีผู้ใช้อีเมล
 ms.author: pdigia
 author: pebaum
 manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
@@ -13,16 +14,16 @@ ms.custom:
 - "935"
 - "1800018"
 ms.assetid: 20ea6700-31b5-4491-aaf3-40ddd775e8a3
-ms.openlocfilehash: 18c1daeac68aac9931994e8484b334f61028bc3a
-ms.sourcegitcommit: fbaa2ce2cfb4d56d8c4cf2fa2d95489bdfcb7ff0
+ms.openlocfilehash: de769d9ca58bfad687d586647a3ad4d9b7b2616a
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 04/30/2020
-ms.locfileid: "43947629"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47687597"
 ---
-# <a name="problems-setting-up-an-email-account-in-outlook"></a>ปัญหาในการตั้งค่าบัญชีอีเมลใน Outlook
+# <a name="problems-setting-up-an-email-account-in-outlook"></a>ปัญหาในการตั้งค่าบัญชีผู้ใช้อีเมลใน Outlook
 
-ถ้าคุณมีปัญหาในการตั้งค่าบัญชีผู้ใช้ Exchange ใน Outlook คุณสามารถเรียกใช้[เครื่องมือการตั้งค่าบัญชี Outlook](https://aka.ms/SaRA-OutlookSetupProfile)บนเครื่องที่ได้รับผลกระทบ มันจะดําเนินการตรวจสอบต่างๆและให้การแก้ไขปัญหาที่เป็นไปได้ปัญหาการตั้งค่าบัญชีของคุณ
+ถ้าคุณกำลังมีปัญหาในการตั้งค่าบัญชีผู้ใช้ Exchange ใน Outlook คุณสามารถเรียกใช้ [เครื่องมือการตั้งค่าบัญชีผู้ใช้ outlook](https://aka.ms/SaRA-OutlookSetupProfile) บนเครื่องจักรที่ได้รับผลกระทบ การตรวจสอบต่างๆจะดำเนินการตรวจสอบต่างๆและมีวิธีแก้ไขปัญหาที่เป็นไปได้ในการตั้งค่าบัญชีผู้ใช้ของคุณ
   
-ถ้าคุณยังคงมีปัญหา ให้ดูที่[Outlook ไม่สามารถตั้งค่าส่วนกําหนดค่าใหม่ โดยใช้การค้นหาอัตโนมัติของอัตราแลกเปลี่ยนสําหรับกล่องจดหมาย Exchange แบบออนไลน์](https://docs.microsoft.com/exchange/troubleshoot/outlook-profiles/cannot-set-up-profile-autodiscover)
+ถ้าคุณยังคงพบปัญหาอยู่ให้ดู [ที่ Outlook ไม่สามารถตั้งค่าโปรไฟล์ใหม่โดยใช้ Exchange Autodiscover สำหรับกล่องจดหมาย Exchange Online](https://docs.microsoft.com/exchange/troubleshoot/outlook-profiles/cannot-set-up-profile-autodiscover)ได้
   

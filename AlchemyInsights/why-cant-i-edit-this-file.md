@@ -1,25 +1,26 @@
 ---
-title: เหตุใดฉันจึงไม่สามารถแก้ไขแฟ้มนี้ได้
+title: เหตุใดฉันจึงไม่สามารถแก้ไขไฟล์นี้ได้
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9000123"
 - "5634"
-ms.openlocfilehash: d9c7744a3789f4fe2f8026f2b0f800ee90d3f286
-ms.sourcegitcommit: e6d73d240669342fde9d4d25b0ee2838b7e43965
+ms.openlocfilehash: 7510871335fbb6fafc7b27423a89e44bcac76ec1
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 05/14/2020
-ms.locfileid: "44236694"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47664585"
 ---
-# <a name="why-cant-i-edit-this-file"></a>เหตุใดฉันจึงไม่สามารถแก้ไขแฟ้มนี้ได้
+# <a name="why-cant-i-edit-this-file"></a>เหตุใดฉันจึงไม่สามารถแก้ไขไฟล์นี้ได้
 
-ถ้าเอกสาร แผ่นงาน หรืองานนําเสนอถูกล็อกเพื่อแก้ไข และไม่สามารถแก้ไขในโปรแกรมประยุกต์เดสก์ท็อปของ Windows อาจเป็นแฟ้มที่กําลังถูกแก้ไขโดยบุคคลอื่น หรือแฟ้มเหล่านั้นได้เช็คเอาท์แล้ว
+ถ้าเอกสารเวิร์กชีตหรืองานนำเสนอถูกล็อกไว้เพื่อแก้ไขและไม่สามารถแก้ไขได้ในแอปพลิเคชัน Windows บนเดสก์ท็อปอาจเป็นไฟล์ที่กำลังถูกแก้ไขโดยบุคคลอื่นหรือมีไฟล์เช็คเอาท์
 
-ดูอย่างรวดเร็วเหตุผลบางประการ[ที่คุณอาจไม่สามารถแก้ไขแฟ้ม](https://support.office.com/article/why-can-t-i-edit-this-file-97315f48-aa5e-49d3-a4ae-a14b73daf87b)ได้
+ดูอย่างรวดเร็วด้วยเหตุผลบางประการที่ทำให้ [คุณอาจไม่สามารถแก้ไขไฟล์](https://support.office.com/article/why-can-t-i-edit-this-file-97315f48-aa5e-49d3-a4ae-a14b73daf87b)ได้

@@ -1,47 +1,48 @@
 ---
-title: การแก้ไขปัญหาการหยุดทํางานของ OneDrive
+title: แก้ไขปัญหา OneDrive หยุดทำงาน
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9003084"
 - "5885"
-ms.openlocfilehash: 7fbc4617a0426eb11359339edc950a108f782750
-ms.sourcegitcommit: 462522e6bccde76f6c46795b0eca71320c5d442d
+ms.openlocfilehash: 1155d370911b28bbb1ba83a15eace66d1daea28f
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 06/15/2020
-ms.locfileid: "44749171"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47665017"
 ---
-# <a name="troubleshoot-onedrive-crashes"></a>การแก้ไขปัญหาการหยุดทํางานของ OneDrive
+# <a name="troubleshoot-onedrive-crashes"></a>แก้ไขปัญหา OneDrive หยุดทำงาน
 
-หาก OneDrive ล้มเหลวซ้ํา ๆ ลองทําตามขั้นตอนการแก้ไขปัญหาเหล่านี้:
+ถ้า OneDrive หยุดทำงานซ้ำๆให้ลองใช้ขั้นตอนการแก้ไขปัญหาต่อไปนี้:
 
-**ตรวจสอบให้แน่ใจว่าไม่ได้ตั้งค่ารีจิสทรีคีย์:**
+**ตรวจสอบให้แน่ใจว่าไม่ได้ตั้งค่าคีย์รีจิสทรี:**
 
-1. การใช้ตัวแก้ไขรีจิสทรี ให้นําทางไปยัง HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\OneDrive
-2. ถ้า DisableFileSyncNGSC อยู่ และตั้งค่าเป็น 1 เปิดคีย์ และเปลี่ยนค่าเป็น 0
-3. เปิดใช้ OneDrive ด้วยตนเองโดยไปที่หน้าจอเริ่ม ![กดแป้น Windows](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABEAAAAOCAYAAADJ7fe0AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAADxSURBVDhPY/wPBAx4wR+Gd6/fM7x9/ZTh9ZuXDGdPnWE4tH0rw/UHDxlaVp9kCDCSYWABKfv35wfD+/cfGV4+fcLw5uVjhlOXzzFsX/qWYebmZAZPWWOGO2DD8ACQS9Y3e4Bcg4Y9/t94fPa/CoY4Aq8/+xik/T8TkEMxGDyGgANWwSqeobvbGSyAADIM3BwCDKXd3QyfoCLoQEGAA0xTxSWjsYMJwLHjkruU4UXSJ4YnT54x3Dh/luHmjfMMmw9wMjCDlRAGBDPgjy8fGT5//8rw9P4Thge3zzNcvXmDYevmfQzXb1xlmH/0ATADyjAAAKdWkD3ZSwNeAAAAAElFTkSuQmCC)ประเภท:OneDriveในกล่องค้นหา แล้วคลิกบนแอป OneDrive เดสก์ท็อป
+1. การใช้ Registry Editor ให้นำทางไปยัง HKEY_LOCAL_MACHINE \SOFTWARE\Policies\Microsoft\OneDrive
+2. ถ้า DisableFileSyncNGSC มีอยู่และตั้งค่าเป็น1ให้เปิดคีย์และเปลี่ยนค่าเป็น0
+3. เปิดใช้ OneDrive ด้วยตนเองโดยการไปที่เริ่ม ![กดแป้น Windows](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABEAAAAOCAYAAADJ7fe0AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAADxSURBVDhPY/wPBAx4wR+Gd6/fM7x9/ZTh9ZuXDGdPnWE4tH0rw/UHDxlaVp9kCDCSYWABKfv35wfD+/cfGV4+fcLw5uVjhlOXzzFsX/qWYebmZAZPWWOGO2DD8ACQS9Y3e4Bcg4Y9/t94fPa/CoY4Aq8/+xik/T8TkEMxGDyGgANWwSqeobvbGSyAADIM3BwCDKXd3QyfoCLoQEGAA0xTxSWjsYMJwLHjkruU4UXSJ4YnT54x3Dh/luHmjfMMmw9wMjCDlRAGBDPgjy8fGT5//8rw9P4Thge3zzNcvXmDYevmfQzXb1xlmH/0ATADyjAAAKdWkD3ZSwNeAAAAAElFTkSuQmCC)พิมพ์ OneDrive ในกล่องค้นหาจากนั้นคลิกที่แอป OneDrive บนเดสก์ท็อป
 
-**รีเซ็ต OneDrive:**
+**ตั้งค่า OneDrive ใหม่:**
 
-หมาย เหตุ:
+บันทึกย่อ
 
-- การรีเซ็ต OneDrive จะยกเลิกการเชื่อมต่อการซิงค์ทั้งหมดที่มีอยู่ (รวมถึง OneDrive ส่วนบุคคลของคุณถ้าตั้งค่า)
-- คุณจะไม่สูญเสียไฟล์หรือข้อมูลด้วยการรีเซ็ต OneDrive บนคอมพิวเตอร์ของคุณ
+- การรีเซ็ต OneDrive จะยกเลิกการเชื่อมต่อการซิงค์ที่มีอยู่ทั้งหมด (รวมถึง OneDrive ส่วนบุคคลของคุณถ้าตั้งค่า)
+- คุณจะไม่สูญเสียไฟล์หรือข้อมูลโดยการรีเซ็ต OneDrive บนคอมพิวเตอร์ของคุณ
 
-**เมื่อต้องการรีเซ็ต OneDrive:**
+**เมื่อต้องการตั้งค่า OneDrive ใหม่:**
 
 1. เปิดกล่องโต้ตอบเรียกใช้โดยการกดแป้น Windows และ R
-2. พิมพ์ %localappdata%\Microsoft\OneDrive\onedrive.exe /reset และกด ตกลง หน้าต่างคําสั่งอาจปรากฏขึ้นสั้น ๆ
-3. เปิดใช้ OneDrive ด้วยตนเองโดยไปที่หน้าจอเริ่ม ![กดแป้น Windows](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABEAAAAOCAYAAADJ7fe0AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAADxSURBVDhPY/wPBAx4wR+Gd6/fM7x9/ZTh9ZuXDGdPnWE4tH0rw/UHDxlaVp9kCDCSYWABKfv35wfD+/cfGV4+fcLw5uVjhlOXzzFsX/qWYebmZAZPWWOGO2DD8ACQS9Y3e4Bcg4Y9/t94fPa/CoY4Aq8/+xik/T8TkEMxGDyGgANWwSqeobvbGSyAADIM3BwCDKXd3QyfoCLoQEGAA0xTxSWjsYMJwLHjkruU4UXSJ4YnT54x3Dh/luHmjfMMmw9wMjCDlRAGBDPgjy8fGT5//8rw9P4Thge3zzNcvXmDYevmfQzXb1xlmH/0ATADyjAAAKdWkD3ZSwNeAAAAAElFTkSuQmCC)ประเภท:OneDriveในกล่องค้นหา แล้วคลิกบนแอป OneDrive เดสก์ท็อป
+2. พิมพ์% localappdata% \Microsoft\OneDrive\onedrive.exe/reset แล้วกดตกลง หน้าต่างคำสั่งอาจปรากฏขึ้นสั้นๆ
+3. เปิดใช้ OneDrive ด้วยตนเองโดยการไปที่เริ่ม ![กดแป้น Windows](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABEAAAAOCAYAAADJ7fe0AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAADxSURBVDhPY/wPBAx4wR+Gd6/fM7x9/ZTh9ZuXDGdPnWE4tH0rw/UHDxlaVp9kCDCSYWABKfv35wfD+/cfGV4+fcLw5uVjhlOXzzFsX/qWYebmZAZPWWOGO2DD8ACQS9Y3e4Bcg4Y9/t94fPa/CoY4Aq8/+xik/T8TkEMxGDyGgANWwSqeobvbGSyAADIM3BwCDKXd3QyfoCLoQEGAA0xTxSWjsYMJwLHjkruU4UXSJ4YnT54x3Dh/luHmjfMMmw9wMjCDlRAGBDPgjy8fGT5//8rw9P4Thge3zzNcvXmDYevmfQzXb1xlmH/0ATADyjAAAKdWkD3ZSwNeAAAAAElFTkSuQmCC)พิมพ์ OneDrive ในกล่องค้นหาจากนั้นคลิกที่แอป OneDrive บนเดสก์ท็อป
 
-หมาย เหตุ:
+บันทึกย่อ
 
-- หากคุณเลือกที่จะซิงค์เฉพาะบางโฟลเดอร์ก่อนการตั้งค่าใหม่ คุณจะต้องทําอีกครั้งเมื่อซิงค์เสร็จสิ้น อ่าน [เลือกโฟลเดอร์ OneDrive ที่จะซิงค์กับคอมพิวเตอร์ของคุณ](https://support.office.com/article/98b8b011-8b94-419b-aa95-a14ff2415e85)   สําหรับข้อมูลเพิ่มเติม
-- คุณจะต้องดําเนินการนี้ให้เสร็จสมบูรณ์สําหรับ OneDrive ส่วนบุคคลของคุณและ OneDrive สําหรับธุรกิจ
+- ถ้าคุณเลือกที่จะซิงค์เฉพาะบางโฟลเดอร์ก่อนที่จะตั้งค่าใหม่คุณจะต้องดำเนินการดังกล่าวอีกครั้งเมื่อซิงค์เสร็จสมบูรณ์ อ่าน [เลือกโฟลเดอร์ OneDrive ที่จะซิงค์กับคอมพิวเตอร์ของคุณ](https://support.office.com/article/98b8b011-8b94-419b-aa95-a14ff2415e85)   สำหรับข้อมูลเพิ่มเติม
+- คุณจะต้องดำเนินการนี้ให้เสร็จสมบูรณ์สำหรับ OneDrive ส่วนบุคคลของคุณและ OneDrive for Business

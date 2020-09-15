@@ -1,31 +1,32 @@
 ---
-title: การเข้าถึงถูกปฏิเสธไปยังไซต์ Web App โครงการ
+title: การเข้าถึงถูกปฏิเสธไปยังไซต์ Project Web App
 ms.author: pebaum
 author: pebaum
 manager: pamg
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "2700001"
 - "1381"
-ms.openlocfilehash: ea2069f73db1e7ff52ca7fa0be46b002e9b2702a
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: a5809e4afd3ea316bf97796899fcf2347e804ecd
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40050580"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47663676"
 ---
-# <a name="give-users-permissions-in-project-online"></a>ให้สิทธิ์ผู้ใช้ในโครงการแบบออนไลน์
+# <a name="give-users-permissions-in-project-online"></a>ให้สิทธิ์แก่ผู้ใช้ใน Project Online
 
-ให้สิทธิ์ผู้ใช้เข้าใช้งานเว็บไซต์โครงการ Web App โดยใช้โหมดสิทธิ์ของ SharePoint:
+การให้สิทธิ์ผู้ใช้เข้าถึงไซต์ Project Web App โดยใช้โหมดสิทธิ์ของ SharePoint ให้ทำดังนี้
 
-1. เข้าสู่ระบบในโครงการออนไลน์ในฐานะผู้ดูแล
-2. บนโฮมเพจของโครงการ Web App ให้เลือก**แชร์**ที่มุมขวาบน
-3. ในกล่องโต้ตอบการ**แชร์โครงการ Web App**พิมพ์ชื่อผู้ใช้ของบุคคลที่คุณต้องการให้สิทธิ์เข้าถึงในกล่อง**เชิญบุคคล**
-4. เลือก**แสดงตัวเลือก**และใน**เลือกเมนูระดับสิทธิ์เลือกผู้****จัดการโครงการสำหรับโครงการ Web App**
+1. ลงชื่อเข้าใช้ Project Online ในฐานะผู้ดูแลระบบ
+2. บนโฮมเพจของ Project Web App ให้เลือก **แชร์** ที่มุมขวาบน
+3. ในกล่องโต้ตอบ**แชร์ Project Web App**ให้พิมพ์ชื่อผู้ใช้ของบุคคลที่คุณต้องการให้สิทธิ์การเข้าถึงในกล่อง**เชิญบุคคล**
+4. เลือก**แสดงตัวเลือก**และในเมนู**เลือกระดับสิทธิ์**ให้เลือกผู้**จัดการโครงการสำหรับ project Web App**
 5. เลือก**แชร์**
 
-ถ้าคุณใช้โหมดสิทธิ์ของโครงการหรือสำหรับข้อมูลเพิ่มเติมโปรดดู[เพิ่มผู้คนในโครงการออนไลน์](https://docs.microsoft.com/projectonline/step-2-add-people-to-project-online)
+ถ้าคุณใช้โหมดสิทธิ์ของ Project หรือสำหรับข้อมูลเพิ่มเติมโปรดดู[ที่เพิ่มบุคคลลงใน Project Online](https://docs.microsoft.com/projectonline/step-2-add-people-to-project-online)

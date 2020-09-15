@@ -1,32 +1,33 @@
 ---
-title: การรับรองความถูกต้องด้วยหลายปัจจัยที่ไม่คาดคิด
+title: การรับรองความถูกต้องแบบหลายปัจจัยที่ไม่คาดคิด
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: ''
 ms.custom:
 - "1300007"
 - "4372"
-ms.openlocfilehash: a664bd709062ec1335ebcf1f9adddc8aef917ac1
-ms.sourcegitcommit: a98b25fa3cac9ebba983f4932881d774880aca93
+ms.openlocfilehash: 48303d5b408cbdb243ec45dc4c80ac9a83f273a0
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "43766620"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47689541"
 ---
-# <a name="unexpected-multi-factor-authentication"></a>การรับรองความถูกต้องด้วยหลายปัจจัยที่ไม่คาดคิด
+# <a name="unexpected-multi-factor-authentication"></a>การรับรองความถูกต้องแบบหลายปัจจัยที่ไม่คาดคิด
 
-ถ้าผู้เช่าของคุณถูกสร้างขึ้นหลังจากวันที่ 21 ตุลาคม 2019 และคุณได้รับพร้อมท์สําหรับ MFA โดยไม่คาดคิด คุณอาจมี[ค่าเริ่มต้นการรักษาความปลอดภัย](https://aka.ms/securitydefaults)ที่เปิดใช้งานในผู้เช่าของคุณโดยไม่คาดคิด 
+ถ้าผู้เช่าของคุณถูกสร้างขึ้นหลังจากวันที่21ตุลาคม๒๐๑๙และคุณจะได้รับพร้อมท์สำหรับ MFA โดยไม่คาดคิดคุณอาจมี [ค่าเริ่มต้นของความปลอดภัย](https://aka.ms/securitydefaults) ที่เปิดใช้งานในผู้เช่าของคุณ 
 
-เมื่อต้องการจัดการค่าเริ่มต้นความปลอดภัย:
+เมื่อต้องการจัดการค่าเริ่มต้นของความปลอดภัย:
 
-1. ลงชื่อเข้าใช้[ศูนย์การจัดการ](https://go.microsoft.com/fwlink/p/?linkid=834822)ด้วยข้อมูลประจําตัวของผู้ดูแลระบบส่วนกลางของคุณ
+1. ลงชื่อเข้าใช้ [ศูนย์การจัดการ](https://go.microsoft.com/fwlink/p/?linkid=834822) ด้วยข้อมูลประจำตัวของผู้ดูแลระบบส่วนกลางของคุณ
 
-2. ไปที่[คุณสมบัติไดเรกทอรีที่ใช้งานอยู่ของ Azure](https://portal.azure.com/#blade/Microsoft_AAD_IAM/ActiveDirectoryMenuBlade/Properties)
+2. ไปยัง [คุณสมบัติ Azure active](https://portal.azure.com/#blade/Microsoft_AAD_IAM/ActiveDirectoryMenuBlade/Properties)directory
 
-3. ที่ด้านล่างของหน้า ให้คลิก**จัดการค่าเริ่มต้นความปลอดภัย**
+3. ที่ด้านล่างของหน้าให้คลิก**จัดการค่าเริ่มต้นด้านความปลอดภัย**
 
-4. คลิก**ใช่**เพื่อเปิดใช้งานค่าเริ่มต้นการรักษาความปลอดภัยและ**ไม่ใช่**เพื่อปิดใช้งานค่าเริ่มต้นการรักษาความปลอดภัย
+4. คลิก **ใช่** เพื่อเปิดใช้งานค่าเริ่มต้นของความปลอดภัยและ **ไม่** ต้องปิดใช้งานค่าเริ่มต้นของความปลอดภัย

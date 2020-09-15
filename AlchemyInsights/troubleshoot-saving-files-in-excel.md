@@ -1,23 +1,24 @@
 ---
-title: การแก้ไขปัญหาการบันทึกแฟ้มใน Excel
+title: การแก้ไขปัญหาการบันทึกไฟล์ใน Excel
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9000703"
 - "2608"
-ms.openlocfilehash: 32f54f2560c75d2b0e6904974a6dc9fb01f433a0
-ms.sourcegitcommit: 8a83b508785c96c19648ed574f442bbef2c2dff9
+ms.openlocfilehash: 71de9a0fced18d90468da4c103e1707c506590c6
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 08/07/2019
-ms.locfileid: "36246097"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47664873"
 ---
-# <a name="how-to-troubleshoot-errors-when-you-save-excel-workbooks"></a>วิธีการแก้ไขปัญหาข้อผิดพลาดเมื่อคุณบันทึกสมุดงาน Excel
+# <a name="how-to-troubleshoot-errors-when-you-save-excel-workbooks"></a>วิธีการแก้ไขปัญหาข้อผิดพลาดเมื่อคุณบันทึกเวิร์กบุ๊ก Excel
 
-ถ้าคุณกำลังมีปัญหาในการบันทึกสมุดงานใน Excel ดู[วิธีการแก้ไขปัญหาข้อผิดพลาดเมื่อคุณบันทึกสมุดงาน Excel](https://docs.microsoft.com/office/troubleshoot/excel/issue-when-save-excel-workbooks)
+ถ้าคุณกำลังมีปัญหาในการบันทึกเวิร์กบุ๊กใน Excel ให้ดู[ที่วิธีการแก้ไขปัญหาข้อผิดพลาดเมื่อคุณบันทึกเวิร์กบุ๊ก Excel](https://docs.microsoft.com/office/troubleshoot/excel/issue-when-save-excel-workbooks)

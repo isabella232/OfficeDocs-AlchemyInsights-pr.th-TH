@@ -5,43 +5,44 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9000301"
 - "5765"
-ms.openlocfilehash: e27589b7f6730036040b948b6275cef072fd8235
-ms.sourcegitcommit: dc149ab45fbc2c974b54fb81156d2bc1b07017bb
+ms.openlocfilehash: 9efd969e3e639c2679b0768c4a0fd045916b00d1
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44569401"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47658753"
 ---
 # <a name="troubleshooting-events-from-email"></a>การแก้ไขปัญหาเหตุการณ์จากอีเมล
 
-1. ตรวจสอบลักษณะการทํางานถูกเปิดใช้งานสําหรับกล่องจดหมาย:**รับเหตุการณ์From-อีเมลการกําหนดค่า-รหัสประจําตัว <mailbox> **
+1. ตรวจสอบว่าฟีเจอร์ถูกเปิดใช้งานสำหรับกล่องจดหมาย:**รับ <mailbox> -EventsFromEmailConfiguration-ข้อมูลประจำตัว**
 
-2. แล้วดูที่ 'เหตุการณ์จากอีเมล' บันทึก**การส่งออก MailboxDiagnosticLogs <mailbox> -เวลาคอมโพเนนต์Profile**
+2. จากนั้นให้ดูที่ "เหตุการณ์จากอีเมล" บันทึกการ **ส่งออก-MailboxDiagnosticLogs <mailbox> -คอมโพเนนต์ TimeProfile**
 
-3. ในบันทึก 'เหตุการณ์จากอีเมล' ให้ค้นหา InternetMessageId ที่ตรงกับรายการในกล่องจดหมาย  
+3. ในบันทึก "เหตุการณ์จากอีเมล" ให้ค้นหา InternetMessageId ที่ตรงกับรายการในกล่องจดหมาย  
 
-4. TrustScore จะกําหนดว่ารายการนั้นถูกเพิ่มหรือไม่ เหตุการณ์จะถูกเพิ่มเฉพาะเมื่อ TrustScore = "เชื่อถือ"
+4. TrustScore จะกำหนดว่ารายการนั้นถูกเพิ่มหรือไม่ เหตุการณ์จะถูกเพิ่มถ้า TrustScore = "เชื่อถือได้"
 
-คุณสมบัติ Dm หรือ Dmarc ซึ่งอยู่ในส่วนหัวของข้อความ
+TrustScore จะถูกกำหนดโดย SPF, Dkim หรือคุณสมบัติ Dmarc ซึ่งอยู่ในส่วนหัวของข้อความ
 
 เมื่อต้องการดูคุณสมบัติเหล่านี้:
 
-**มุมมองเดสก์ท็อป**
+**Outlook บนเดสก์ท็อป**
 
 - เปิดรายการ
-- แฟ้ม -> คุณสมบัติ -> ส่วนหัวอินเทอร์เน็ต
+- ไฟล์-คุณสมบัติ >-ส่วนหัวของอินเทอร์เน็ต >
 
 หรือ
 
-**Mfcmapi**
+**MFCMapi**
 
-- นําทางไปยังรายการในกล่องจดหมาย
-- มองหาPR_TRANSPORT_MESSAGE_HEADERS_W
+- นำทางไปยังรายการในกล่องจดหมายเข้า
+- ค้นหา PR_TRANSPORT_MESSAGE_HEADERS_W
 
-คุณสมบัติเหล่านี้จะถูกกําหนด และบันทึกในระหว่างการขนส่งและสายงานการผลิต สําหรับการแก้ไขปัญหาเพิ่มเติม คุณอาจต้องติดตามด้วยการสนับสนุนการขนส่งเกี่ยวกับความล้มเหลวใน SPF, DKIM และ DMARC
+คุณสมบัติเหล่านี้จะถูกกำหนดและบันทึกในระหว่างการขนส่งและเส้นทาง สำหรับการแก้ไขปัญหาเพิ่มเติมคุณอาจต้องติดตามการสนับสนุนการขนส่งเกี่ยวกับความล้มเหลวใน SPF, DKIM และ. หรือ DMARC
