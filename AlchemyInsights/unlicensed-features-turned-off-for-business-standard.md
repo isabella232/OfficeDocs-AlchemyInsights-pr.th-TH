@@ -1,28 +1,29 @@
 ---
-title: คุณลักษณะที่ไม่มีสิทธิ์การใช้งานปิดสําหรับผู้ใช้มาตรฐานธุรกิจ
+title: ฟีเจอร์สิทธิ์การใช้งานถูกปิดใช้งานสำหรับผู้ใช้มาตรฐานทางธุรกิจ
 ms.author: pebaum
 author: pebaum
 manager: scotv
 ms.date: 07/16/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom: ''
-ms.openlocfilehash: 6bba3b5a53304a78daa52268761fbfa8e3bc0431
-ms.sourcegitcommit: a05276bd623466ad211e1f8d9f0c616672dd3640
+ms.openlocfilehash: 2fd5d03c287c81201d0d68cd718afef46db7a2f4
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 07/16/2020
-ms.locfileid: "45198229"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47658024"
 ---
-# <a name="unlicensed-features-turned-off-for-business-standard-users"></a>คุณลักษณะที่ไม่มีสิทธิ์การใช้งานปิดสําหรับผู้ใช้มาตรฐานธุรกิจ
+# <a name="unlicensed-features-turned-off-for-business-standard-users"></a>ฟีเจอร์สิทธิ์การใช้งานถูกปิดใช้งานสำหรับผู้ใช้มาตรฐานทางธุรกิจ
 
-ผู้ใช้และองค์กรมาตรฐานธุรกิจ Microsoft 365 บางองค์กรมีคุณลักษณะเพิ่มเติมพร้อมใช้งานสําหรับผู้ใช้เหล่านั้นมากกว่าที่อนุญาต คุณลักษณะเหล่านี้รวมถึงการตั้งค่าต่อไปนี้สําหรับการจําแนก การติดฉลาก และการป้องกัน (CLP) และการจัดการสิทธิ์แบบดิจิทัล (DRM):
+ผู้ใช้ Microsoft ๓๖๕ Business Standard และองค์กรบางรายมีฟีเจอร์เพิ่มเติมที่พร้อมใช้งานสำหรับผู้ใช้ที่ไม่ได้รับอนุญาตให้ใช้งานในขณะนี้ ฟีเจอร์เหล่านี้รวมถึงการตั้งค่าต่อไปนี้สำหรับการจัดประเภทการติดป้ายและการป้องกัน (.CLP) และการจัดการสิทธิ์ดิจิทัล (DRM):
     
-ณ วันที่ 30 มิถุนายน 2020 คุณลักษณะเพิ่มเติมถูกปิดใช้งานสําหรับผู้ใช้เหล่านี้ใน Microsoft Excel, Microsoft Word, Microsoft PowerPoint และ Microsoft Outlook
+ณวันที่30มิถุนายน๒๐๒๐ฟีเจอร์เพิ่มเติมจะถูกปิดใช้งานสำหรับผู้ใช้เหล่านี้ใน Microsoft Excel, Microsoft Word, Microsoft PowerPoint และ Microsoft Outlook
 
-พิจารณาเปลี่ยนชนิดสิทธิ์การใช้งานของผู้ใช้ที่ได้รับผลกระทบเป็นสิทธิ์การใช้งานที่มีคุณลักษณะเหล่านี้ 
+พิจารณาการเปลี่ยนชนิดสิทธิ์การใช้งานของผู้ใช้ที่มีผลต่อสิทธิ์การใช้งานที่มีฟีเจอร์เหล่านี้ 
 
-สําหรับข้อมูลเพิ่มเติม ให้ดูที่[คุณลักษณะที่ไม่มีสิทธิ์การใช้งานที่มอบให้กับผู้ใช้มาตรฐานธุรกิจ Microsoft 365](https://support.microsoft.com/help/4568654/extra-features-to-be-turned-off-for-microsoft-365-business-standard?preview)
+สำหรับข้อมูลเพิ่มเติมให้ดู [ที่ฟีเจอร์สิทธิ์การใช้งานที่ได้รับจากผู้ใช้ Microsoft ๓๖๕ Business Standard](https://support.microsoft.com/help/4568654/extra-features-to-be-turned-off-for-microsoft-365-business-standard?preview)

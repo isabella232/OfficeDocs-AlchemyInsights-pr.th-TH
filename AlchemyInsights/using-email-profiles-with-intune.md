@@ -1,42 +1,43 @@
 ---
-title: การใช้โปรไฟล์อีเมลกับ Intun
+title: การใช้โปรไฟล์อีเมลกับ Intune
 ms.author: pebaum
 author: pebaum
 manager: scotv
 ms.date: 07/28/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "1559"
 - "9000076"
-ms.openlocfilehash: 5aae83a0ab26c2bd59fddd2ad64d1c461d29f0f7
-ms.sourcegitcommit: 0e50dfcdb3f6aa72368279e23b83efecb9dc9c3f
+ms.openlocfilehash: 92d91de5d369eb9d0ffde2580b75376035a6945b
+ms.sourcegitcommit: 483444ab35ab0e4d410d121562045efde47aa61a
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 07/28/2020
-ms.locfileid: "46555759"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47653307"
 ---
-# <a name="using-email-profiles-with-intune"></a>การใช้โปรไฟล์อีเมลกับ Intun
+# <a name="using-email-profiles-with-intune"></a>การใช้โปรไฟล์อีเมลกับ Intune
 
-Intunbe สามารถใช้เพื่อสร้างและปรับใช้โปรไฟล์อีเมลสําหรับไคลเอ็นต์อีเมลเนทีฟ (ในตัว) บนแพลตฟอร์มอุปกรณ์หลาย
+Intune สามารถใช้ในการสร้างและปรับใช้โปรไฟล์อีเมลสำหรับไคลเอ็นต์อีเมลแบบดั้งเดิม (ภายใน) บนแพลตฟอร์มอุปกรณ์หลายเครื่อง
 
-สําหรับข้อมูลเกี่ยวกับข้อจํากัดบางอย่างที่เกี่ยวข้องกับโปรไฟล์อีเมล รวมถึงวิธีจัดการการมีอยู่ของโปรไฟล์ที่มีอยู่และวิธีการลบโปรไฟล์อีเมล โปรดดูที่[เพิ่มการตั้งค่าอีเมลไปยังอุปกรณ์ที่ใช้ Intun](https://docs.microsoft.com/intune/email-settings-configure)
+สำหรับข้อมูลเกี่ยวกับข้อจำกัดบางประการที่เกี่ยวข้องกับโปรไฟล์อีเมลรวมถึงวิธีการจัดการการแสดงตนของโปรไฟล์ที่มีอยู่และวิธีการเอาโปรไฟล์อีเมลให้ดู[เพิ่มการตั้งค่าอีเมลไปยังอุปกรณ์โดยใช้ Intune](https://docs.microsoft.com/intune/email-settings-configure)
 
-สําหรับข้อมูลเพิ่มเติมเกี่ยวกับวิธีสร้างโปรไฟล์อีเมลสําหรับแต่ละแพลตฟอร์มอุปกรณ์ โปรดดู:
+สำหรับข้อมูลเพิ่มเติมเกี่ยวกับวิธีการสร้างโปรไฟล์อีเมลสำหรับแต่ละแพลตฟอร์มอุปกรณ์ให้ดูที่:
 
-[การตั้งค่าอุปกรณ์ Android เพื่อกําหนดค่าอีเมล การตรวจสอบสิทธิ์ และการซิงโครไนซ์ใน Intun](https://docs.microsoft.com/intune/email-settings-android)  
-[เพิ่มการตั้งค่าอีเมลสําหรับอุปกรณ์ iOS และ iPadOS ใน Microsoft Intuni](https://docs.microsoft.com/intune/email-settings-ios)  
-[การตั้งค่าส่วนกําหนดค่าอีเมลใน Microsoft Intun สําหรับอุปกรณ์ที่ใช้ Windows Phone 8.1](https://docs.microsoft.com/intune/email-settings-windows-phone-8-1)  
-[การตั้งค่าส่วนกําหนดค่าอีเมลสําหรับอุปกรณ์ที่ใช้ Windows 10 ใน Microsoft Intun](https://docs.microsoft.com/intune/email-settings-windows-10)
+[การตั้งค่าอุปกรณ์ Android เพื่อกำหนดค่าอีเมลการรับรองความถูกต้องและการซิงโครไนซ์ใน Intune](https://docs.microsoft.com/intune/email-settings-android)  
+[เพิ่มการตั้งค่าอีเมลสำหรับอุปกรณ์ iOS และ iPadOS ใน Microsoft Intune](https://docs.microsoft.com/intune/email-settings-ios)  
+[การตั้งค่าโปรไฟล์อีเมลใน Microsoft Intune สำหรับอุปกรณ์ที่ใช้ Windows Phone ๘.๑](https://docs.microsoft.com/intune/email-settings-windows-phone-8-1)  
+[การตั้งค่าโปรไฟล์อีเมลสำหรับอุปกรณ์ที่ใช้ Windows 10 ใน Microsoft Intune](https://docs.microsoft.com/intune/email-settings-windows-10)
 
 **ปัญหาการซิงค์ทั่วไป**
 
-**KNOX บนโปรไฟล์อีเมล Android จะป้องกันไม่ให้ผู้ใช้ที่ติดต่อ ปฏิทิน และงาน จากการซิงค์ไปยังอุปกรณ์ของผู้ใช้**
+**โปรไฟล์อีเมลของ KNOX บน Android จะป้องกันไม่ให้ผู้ติดต่อของผู้ใช้ปฏิทินและงานของผู้ใช้ได้รับการซิงค์กับอุปกรณ์ของผู้ใช้**
 
-KNOX บนโปรไฟล์อีเมลของ Android KNOX เสนอตัวเลือกสําหรับผู้ดูแลระบบในการตัดสินใจว่าจะซิงค์เนื้อหาประเภทใดไปยังอุปกรณ์โดยการตั้งค่าแต่ละเปิดใช้งาน
+โปรไฟล์อีเมล knox ของ Android ใน Android จะมีตัวเลือกในการตัดสินใจเลือกชนิดเนื้อหาที่จะซิงค์ไปยังอุปกรณ์โดยการตั้งค่าแต่ละรายการที่จะเปิดใช้งาน
 
-ถ้าการตั้งค่าสําหรับชนิดเนื้อหาใดๆ ถูกตั้งค่าเป็น**ไม่ได้กําหนดค่า**(ค่าเริ่มต้น) ชนิดเนื้อหานั้นจะไม่ซิงค์โดยอัตโนมัติ ผู้ใช้อาจเปิดใช้งานชนิดเนื้อหาที่ต้องการโดยตรงบนอุปกรณ์ด้วยตนเอง แต่การกําหนดค่านั้นถูกเขียนทับโดยการตั้งค่านโยบาย Intun
+ถ้าการตั้งค่าสำหรับชนิดเนื้อหาใดๆถูกตั้งค่าเป็น **ไม่ได้กำหนดค่า** (ค่าเริ่มต้น) ชนิดเนื้อหานั้นจะไม่ถูกซิงค์โดยอัตโนมัติ ผู้ใช้อาจเปิดใช้งานชนิดเนื้อหาที่พวกเขาต้องการโดยตรงในอุปกรณ์ด้วยตนเองแต่การกำหนดค่าดังกล่าวจะถูกเขียนทับโดยการตั้งค่านโยบาย Intune และการหยุดการซิงค์สำหรับชนิดเนื้อหานั้น
 
