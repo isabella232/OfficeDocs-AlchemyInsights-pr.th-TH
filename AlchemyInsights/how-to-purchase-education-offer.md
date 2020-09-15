@@ -1,11 +1,12 @@
 ---
-title: วิธีซื้อข้อเสนอการศึกษา
+title: วิธีการสั่งซื้อข้อเสนอการศึกษา
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
@@ -14,25 +15,25 @@ ms.custom:
 - "369"
 - "1500009"
 ms.assetid: f7b8d5c5-2d9d-441e-91c7-0a042149ea0c
-ms.openlocfilehash: 398496221aeda4de8c0048c61a1155c807ca41c2
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: f150066c21195f4d508755fcdea97c6f3b07e11b
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44509187"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47703679"
 ---
-# <a name="how-to-purchase-education-offer"></a>วิธีซื้อข้อเสนอการศึกษา
+# <a name="how-to-purchase-education-offer"></a>วิธีการสั่งซื้อข้อเสนอการศึกษา
 
-คุณได้รับอนุมัติสําหรับ Office 365 การศึกษา วิธีการสั่งซื้อ:
+คุณได้รับการอนุมัติสำหรับ Office ๓๖๕ Education เมื่อต้องการซื้อ:
   
-1. ในศูนย์การจัดการ ให้ไปที่หน้า**การเรียกเก็บเงิน** \> **[ผลิตภัณฑ์ของคุณ](https://go.microsoft.com/fwlink/p/?linkid=842054)**
+1. ในศูนย์การจัดการให้ไปที่หน้าการ**เรียกเก็บเงิน** \> **[ของผลิตภัณฑ์ของคุณ](https://go.microsoft.com/fwlink/p/?linkid=842054)**
 
-2. เลือกการทดลองสําหรับ**นักศึกษาหรือคณะ**
+2. เลือกเวอร์ชันทดลองใช้สำหรับ**นักเรียนหรือคณาจารย์**
 
-3. ในส่วน**สิทธิ์การใช้งาน**ให้เลือก**ซื้อการสมัครใช้งาน**
+3. ในส่วน **สิทธิ์** การใช้งานให้เลือก **ซื้อการสมัคร**ใช้งาน
 
-4. ทําตามขั้นตอนที่เหลือเพื่อเช็คเอาท์
+4. ทำตามขั้นตอนที่เหลือเพื่อเช็คเอาท์
 
-หากคุณต้องการซื้อการสมัครใช้งานอื่นที่ไม่ใช่การสมัครใช้งานที่อยู่ในการทดลองใช้ ให้ไปที่**Billing** \> หน้า[บริการซื้อ](https://go.microsoft.com/fwlink/p/?linkid=868433)บิล และเลือกจากรายการภายใต้**แผนการศึกษา**
+ถ้าคุณต้องการซื้อการสมัครใช้งานนอกเหนือจากเวอร์ชันทดลองใช้ให้ไปที่หน้าบริการการซื้อการ**เรียกเก็บเงิน** \> [Purchase Services](https://go.microsoft.com/fwlink/p/?linkid=868433)แล้วเลือกจากรายการภายใต้**แผนการศึกษา**
 
-เมื่อต้องการเรียนรู้เพิ่มเติม ให้ดูที่[ซื้อแผนเดียวกับการทดลองใช้ของคุณ](https://docs.microsoft.com/microsoft-365/commerce/subscriptions-and-billing/buy-a-subscription-from-your-free-trial#buy-the-same-plan-as-your-trial)
+เมื่อต้องการเรียนรู้เพิ่มเติมให้ดูที่[ซื้อแผนเดียวกันกับเวอร์ชันทดลองใช้ของคุณ](https://docs.microsoft.com/microsoft-365/commerce/subscriptions-and-billing/buy-a-subscription-from-your-free-trial#buy-the-same-plan-as-your-trial)

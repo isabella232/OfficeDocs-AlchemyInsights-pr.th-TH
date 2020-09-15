@@ -6,26 +6,26 @@ manager: mnirkhe
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
-ms.prod: office-online-server
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 9b3a36d7-9d59-424f-91f4-5cd58a878ef8
 ms.custom:
 - "647"
 - "2000016"
-ms.openlocfilehash: 05745813ddeeee11b6c0c76558596e90560a6971
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: 0e208251ac345c4151eb949892768842ef503cef
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44509295"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47704076"
 ---
 # <a name="how-to-install-mac-office-from-the-portal"></a>วิธีการติดตั้ง Mac Office จากพอร์ทัล
 
-1. [ถอนการติดตั้ง Office 2011 สําหรับ Mac จากคอมพิวเตอร์ของคุณ](https://support.office.com/article/4bfcd230-0ea1-4656-bf30-dbfa44d358fa?wt.mc_id=Alchemy_ClientDIA)
+1. [ถอนการติดตั้ง Office ๒๐๑๑ For Mac จากคอมพิวเตอร์ของคุณ](https://support.office.com/article/4bfcd230-0ea1-4656-bf30-dbfa44d358fa?wt.mc_id=Alchemy_ClientDIA)
 
 2. [จัดการการตั้งค่าการดาวน์โหลดซอฟต์แวร์](https://docs.microsoft.com/DeployOffice/manage-software-download-settings-office-365)
 
-3. [กําหนดสิทธิ์การใช้งานให้กับผู้ใช้](https://docs.microsoft.com/microsoft-365/admin/subscriptions-and-billing/assign-licenses-to-users)
+3. [กำหนดสิทธิ์การใช้งานให้กับผู้ใช้](https://docs.microsoft.com/microsoft-365/admin/subscriptions-and-billing/assign-licenses-to-users)
 
-4. จากนั้นผู้ใช้สามารถติดตั้งซอฟต์แวร์ Office ด้วยตนเอง หรือคุณสามารถใช้ปรับใช้[Office กับผู้ใช้ Mac ของคุณ](https://docs.microsoft.com/DeployOffice/mac/deployment-guide-for-office-for-mac)
+4. ผู้ใช้สามารถติดตั้งซอฟต์แวร์ Office เองหรือคุณสามารถใช้การ [ปรับใช้ office กับผู้ใช้ Mac ของคุณ](https://docs.microsoft.com/DeployOffice/mac/deployment-guide-for-office-for-mac)ได้
