@@ -1,10 +1,11 @@
 ---
-title: Pivot Power อยู่ที่ไหน
-ms.author: chrsm
-author: chrsm
+title: Power Pivot อยู่ที่ใด
+ms.author: pebaum
+author: pebaum
 manager: jecon
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
@@ -14,31 +15,31 @@ ms.custom:
 - "146"
 - "2200001"
 ms.assetid: 0d95078e-9dbf-4def-8bfc-d6532c1bff00
-ms.openlocfilehash: 326f07ae2cf677822e7c7d31eba4e0dc3a6506a4
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 3be4424d6a0d76136bf10b2629e43c0a321720ab
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43765216"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47719108"
 ---
-# <a name="where-is-power-pivot"></a>Pivot Power อยู่ที่ไหน
+# <a name="where-is-power-pivot"></a>Power Pivot อยู่ที่ใด
 
-มีเหตุผลสามประการที่คุณอาจไม่เห็น Power Pivot
+มีสามเหตุผลที่คุณอาจไม่เห็น Power Pivot:
   
-**รุ่นของ Excel ของคุณไม่รวม Excel**
+**Excel เวอร์ชันของคุณไม่มี**
   
-Excel รุ่นไม่ได้ทั้งหมดรวมสาระสําคัญการใช้พลังงาน คุณจะต้องอัปเกรดเป็น Office เวอร์ชันที่มี Power Pivot [ตรวจสอบรายการรุ่นที่รองรับ](https://support.office.com/article/aa64e217-4b6e-410b-8337-20b87e1c2a4b.aspx)
+Excel บางเวอร์ชันไม่มี Power Pivot คุณจะต้องอัปเกรดเป็น Office เวอร์ชันที่มี Power Pivot [ตรวจสอบรายการของเวอร์ชันที่ได้รับการสนับสนุน](https://support.office.com/article/aa64e217-4b6e-410b-8337-20b87e1c2a4b.aspx)
   
-**คุณไม่ได้เปิดใช้งาน Power Pivot**
+**คุณยังไม่ได้เปิดใช้งาน Power Pivot**
   
-ถ้าคุณกําลังทํางานใน Excel รุ่นที่สนับสนุน Power Pivot ให้ตรวจสอบว่า Add-in ถูกเปิดใช้งาน:
+ถ้าคุณกำลังทำงานใน Excel ที่สนับสนุน Power Pivot ให้ตรวจสอบเพื่อดูว่า Add-in ถูกเปิดใช้งานอยู่หรือไม่:
   
-1. เลือก**ตัวเลือก**\>**แฟ้ม**\>**เพิ่มเติม**
+1. เลือก**File** \> **add-in ตัวเลือก** \> **Add-Ins**ไฟล์
 
-2. ในกล่องดรอปดาวน์**จัดการ**ให้เลือก**COM Add-in**แล้วคลิก**ไป**
+2. ในกล่อง**จัดการ**รายการดรอปดาวน์ให้เลือก**COM add-in**แล้วคลิก**ไป**
 
-3. ในกล่องโต้ตอบ**Add-in ของ Com**ให้เลือกกล่องกาเครื่องหมายที่อยู่ถัดจาก Pivot**ของ Power ของ Microsoft สําหรับ Excel**แล้วคลิก**ตกลง**
+3. ในกล่องโต้ตอบ**Com add-in**ให้เลือกกล่องกาเครื่องหมายที่อยู่ถัดจาก**Microsoft Power Pivot สำหรับ Excel**แล้วคลิก**ตกลง**
 
-**คุณมีการสมัครใช้งานหรือบัญชีหลายบัญชี**
+**คุณมีการสมัครใช้งานหรือบัญชีผู้ใช้หลายบัญชี**
   
-คุณอาจมีการสมัครใช้งาน Microsoft 365 ที่แตกต่างกันที่กําหนดให้กับบัญชีผู้ใช้ที่แตกต่างกัน ตรวจสอบให้แน่ใจว่าคุณลงชื่อเข้าใช้บัญชีด้วย Excel เวอร์ชันที่สนับสนุน Power Pivot ตรวจสอบรายการของ[รุ่นที่สนับสนุน](https://support.office.com/article/aa64e217-4b6e-410b-8337-20b87e1c2a4b.aspx)และทําตามคําแนะนําเพื่อ[สลับระหว่างบัญชี Office อื่น](https://support.office.com/article/b9582171-fd1f-4284-9846-bdd72bb28426.aspx#BKMK_WebSwitchAccounts)
+คุณอาจมีการสมัครใช้งาน Microsoft ๓๖๕ที่ได้รับการกำหนดให้กับบัญชีผู้ใช้ที่แตกต่างกัน ตรวจสอบให้แน่ใจว่าคุณได้ลงชื่อเข้าใช้บัญชีผู้ใช้ด้วย Excel เวอร์ชันที่สนับสนุน Power Pivot ตรวจสอบรายการของ[เวอร์ชัน](https://support.office.com/article/aa64e217-4b6e-410b-8337-20b87e1c2a4b.aspx)ที่ได้รับการสนับสนุนและทำตามคำแนะนำเพื่อ[สลับไปมาระหว่างบัญชีผู้ใช้ Office ที่แตกต่างกัน](https://support.office.com/article/b9582171-fd1f-4284-9846-bdd72bb28426.aspx#BKMK_WebSwitchAccounts)
