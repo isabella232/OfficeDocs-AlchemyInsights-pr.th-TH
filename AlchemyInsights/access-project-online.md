@@ -1,32 +1,33 @@
 ---
-title: เข้าถึงโครงการออนไลน์
+title: เข้าถึง Project Online
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "2700001"
 - "5723"
-ms.openlocfilehash: 09c241bc0d529377b5aa22d145afec9c07fe68b5
-ms.sourcegitcommit: 64ed44e6ada9250cac8ae1621157f78d0de2c49b
+ms.openlocfilehash: 94fd156311aafffa2a41552d811916e82f4462ab
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 05/29/2020
-ms.locfileid: "44493528"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47668592"
 ---
-# <a name="access-project-online"></a><span data-ttu-id="df78d-102">เข้าถึงโครงการออนไลน์</span><span class="sxs-lookup"><span data-stu-id="df78d-102">Access Project Online</span></span>
+# <a name="access-project-online"></a><span data-ttu-id="52bf2-102">เข้าถึง Project Online</span><span class="sxs-lookup"><span data-stu-id="52bf2-102">Access Project Online</span></span>
 
-- <span data-ttu-id="df78d-103">เมื่อต้องการเข้าถึง Project Online คุณต้อง[สมัครสมาชิก Project Online](https://docs.microsoft.com/ProjectOnline/get-started-with-project-online)ก่อนโดยการเพิ่มโครงการนั้นไปยัง Office 365 จากนั้นตรวจสอบให้แน่ใจว่า[คุณได้รับสิทธิ์การใช้งาน](https://docs.microsoft.com/ProjectOnline/step-1-sign-up-for-project-online#next-make-sure-you-can-get-in)</span><span class="sxs-lookup"><span data-stu-id="df78d-103">To access Project Online, you first need to [subscribe to Project Online](https://docs.microsoft.com/ProjectOnline/get-started-with-project-online) by adding it to Office 365, then make sure [you are assigned a license](https://docs.microsoft.com/ProjectOnline/step-1-sign-up-for-project-online#next-make-sure-you-can-get-in).</span></span>
-- <span data-ttu-id="df78d-104">[ทําตามขั้นตอนเหล่านี้](https://docs.microsoft.com/ProjectOnline/step-2-add-people-to-project-online)เพื่อเพิ่มผู้ใช้โครงการออนไลน์[และแชร์โครงการแบบออนไลน์](https://docs.microsoft.com/ProjectOnline/step-2-add-people-to-project-online#4-finally-share-project-online-with-the-people-you-added)กับพวกเขา</span><span class="sxs-lookup"><span data-stu-id="df78d-104">Follow [these steps](https://docs.microsoft.com/ProjectOnline/step-2-add-people-to-project-online) to add users to project Online and [share Project Online](https://docs.microsoft.com/ProjectOnline/step-2-add-people-to-project-online#4-finally-share-project-online-with-the-people-you-added) with them.</span></span>
+- <span data-ttu-id="52bf2-103">เมื่อต้องการเข้าถึง Project Online คุณจำเป็นต้องสมัครใช้งาน [Project online](https://docs.microsoft.com/ProjectOnline/get-started-with-project-online) ก่อนโดยการเพิ่มลงใน Office ๓๖๕แล้วตรวจสอบให้แน่ใจว่า [คุณได้กำหนดสิทธิ์การใช้](https://docs.microsoft.com/ProjectOnline/step-1-sign-up-for-project-online#next-make-sure-you-can-get-in)งานแล้ว</span><span class="sxs-lookup"><span data-stu-id="52bf2-103">To access Project Online, you first need to [subscribe to Project Online](https://docs.microsoft.com/ProjectOnline/get-started-with-project-online) by adding it to Office 365, then make sure [you are assigned a license](https://docs.microsoft.com/ProjectOnline/step-1-sign-up-for-project-online#next-make-sure-you-can-get-in).</span></span>
+- <span data-ttu-id="52bf2-104">ทำตาม [ขั้นตอนเหล่านี้](https://docs.microsoft.com/ProjectOnline/step-2-add-people-to-project-online) เพื่อเพิ่มผู้ใช้ลงใน project online และ [แชร์ project online](https://docs.microsoft.com/ProjectOnline/step-2-add-people-to-project-online#4-finally-share-project-online-with-the-people-you-added) กับพวกเขา</span><span class="sxs-lookup"><span data-stu-id="52bf2-104">Follow [these steps](https://docs.microsoft.com/ProjectOnline/step-2-add-people-to-project-online) to add users to project Online and [share Project Online](https://docs.microsoft.com/ProjectOnline/step-2-add-people-to-project-online#4-finally-share-project-online-with-the-people-you-added) with them.</span></span>
 
-<span data-ttu-id="df78d-105">เมื่อต้องการให้ผู้ใช้เข้าถึงไซต์โครงการ Web App โดยใช้โหมดสิทธิ์ของ SharePoint:</span><span class="sxs-lookup"><span data-stu-id="df78d-105">To give users access to a Project Web App site using SharePoint Permission Mode:</span></span>
+<span data-ttu-id="52bf2-105">เมื่อต้องการให้ผู้ใช้เข้าถึงไซต์ Project Web App โดยใช้โหมดสิทธิ์ของ SharePoint ให้ทำดังนี้</span><span class="sxs-lookup"><span data-stu-id="52bf2-105">To give users access to a Project Web App site using SharePoint Permission Mode:</span></span>
 
-1. <span data-ttu-id="df78d-106">เข้าสู่ระบบ Project Online ในฐานะผู้ดูแลระบบ</span><span class="sxs-lookup"><span data-stu-id="df78d-106">Log in to Project Online as an admin.</span></span>
-2. <span data-ttu-id="df78d-107">บนหน้าโฮมเพจ Project Web App ให้คลิก**แชร์**ที่มุมขวาบน</span><span class="sxs-lookup"><span data-stu-id="df78d-107">On the Project Web App home page, click **Share** in the top right corner.</span></span>
-3. <span data-ttu-id="df78d-108">ในกล่องโต้ตอบ**แชร์ Web App ของโครงการ**ให้พิมพ์ชื่อผู้ใช้ของบุคคลที่คุณต้องการมอบสิทธิ์การเข้าถึงในกล่อง**เชิญบุคคล**</span><span class="sxs-lookup"><span data-stu-id="df78d-108">In the **Share Project Web App** dialog box, type the username of the person you want to give access to in the **Invite People** box.</span></span>
-4. <span data-ttu-id="df78d-109">คลิก**แสดงตัวเลือก**และในเมนู**เลือกระดับสิทธิ์**ให้เลือก**ผู้จัดการโครงการ สําหรับโครงการ Web App**</span><span class="sxs-lookup"><span data-stu-id="df78d-109">Click **Show Options**, and in the **Select a permission level** menu, select **Project Managers for Project Web App**.</span></span>
-5. <span data-ttu-id="df78d-110">คลิก**แชร์**</span><span class="sxs-lookup"><span data-stu-id="df78d-110">Click **Share**.</span></span>
+1. <span data-ttu-id="52bf2-106">ลงชื่อเข้าใช้ Project Online ในฐานะผู้ดูแลระบบ</span><span class="sxs-lookup"><span data-stu-id="52bf2-106">Log in to Project Online as an admin.</span></span>
+2. <span data-ttu-id="52bf2-107">บนโฮมเพจของ Project Web App ให้คลิก **แชร์** ที่มุมขวาบน</span><span class="sxs-lookup"><span data-stu-id="52bf2-107">On the Project Web App home page, click **Share** in the top right corner.</span></span>
+3. <span data-ttu-id="52bf2-108">ในกล่องโต้ตอบ**แชร์ Project Web App**ให้พิมพ์ชื่อผู้ใช้ของบุคคลที่คุณต้องการให้สิทธิ์การเข้าถึงในกล่อง**เชิญบุคคล**</span><span class="sxs-lookup"><span data-stu-id="52bf2-108">In the **Share Project Web App** dialog box, type the username of the person you want to give access to in the **Invite People** box.</span></span>
+4. <span data-ttu-id="52bf2-109">คลิก**แสดงตัวเลือก**และในเมนู**เลือกระดับสิทธิ์**ให้เลือกผู้**จัดการโครงการสำหรับ project Web App**</span><span class="sxs-lookup"><span data-stu-id="52bf2-109">Click **Show Options**, and in the **Select a permission level** menu, select **Project Managers for Project Web App**.</span></span>
+5. <span data-ttu-id="52bf2-110">คลิก**แชร์**</span><span class="sxs-lookup"><span data-stu-id="52bf2-110">Click **Share**.</span></span>
