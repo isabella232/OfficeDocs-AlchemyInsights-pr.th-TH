@@ -5,25 +5,26 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "848"
 - "6700001"
-ms.openlocfilehash: f28ef015b6f8d890cf6d679a43c45720aedd9ab1
-ms.sourcegitcommit: 38c993eaa89c33cae59de19a381f7d4aafaef19b
+ms.openlocfilehash: db5494ef3e41920ffac0f0f114ee37d2936e07b0
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 10/16/2019
-ms.locfileid: "37549747"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47686373"
 ---
-# <a name="troubleshoot-issues-with-mdm-authority-in-microsoft-intune"></a>การแก้ไขปัญหาเกี่ยวกับหน่วยงาน MDM ใน Microsoft Intune
+# <a name="troubleshoot-issues-with-mdm-authority-in-microsoft-intune"></a>แก้ไขปัญหาเกี่ยวกับสิทธิ์การใช้งาน MDM ใน Microsoft Intune
 
-ต่อไปนี้เป็นบทความที่เป็นประโยชน์เกี่ยวกับการเริ่มต้นใช้งาน Intune:
+ต่อไปนี้เป็นบทความที่มีประโยชน์บางประการเกี่ยวกับการเริ่มต้นใช้งาน Intune:
 
 - [Intune คืออะไร](https://docs.microsoft.com/intune/what-is-intune)
 - [วิธีการตั้งค่า Intune เป็นครั้งแรก](https://docs.microsoft.com/intune/setup-steps)
-- [การใช้และการนำทาง Intune](https://docs.microsoft.com/intune/tutorial-walkthrough-intune-portal)
+- [การใช้และการนำทางของ Intune](https://docs.microsoft.com/intune/tutorial-walkthrough-intune-portal)
 
-ถ้าคุณกำลังมีปัญหาเกี่ยวกับหน่วยงาน MDM ของคุณโปรดดูที่การ[เปลี่ยนแปลงหน่วย](https://docs.microsoft.com/alchemyinsights/change-mdm-authority)งานการทำงานแบบ Intune mdm
+ถ้าคุณกำลังมีปัญหาเกี่ยวกับสิทธิ์การใช้งาน MDM ของคุณให้ดูที่การ [เปลี่ยนแปลงสิทธิ์](https://docs.microsoft.com/alchemyinsights/change-mdm-authority)การใช้งาน Mdm ของ Intune
