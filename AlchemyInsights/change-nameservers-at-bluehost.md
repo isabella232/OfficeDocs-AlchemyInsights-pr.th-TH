@@ -1,26 +1,27 @@
 ---
-title: เปลี่ยนเนมเซิร์ฟเวอร์ที่บลูโฮสต์
+title: เปลี่ยนเซิร์ฟเวอร์ชื่อที่ Bluehost
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "5858"
 - "14"
-ms.openlocfilehash: 9a8e3157a2f10e88b9fe3da65f32be573f1f2961
-ms.sourcegitcommit: 936330b11fec49f6174eadea6c765bdf9e6ba784
+ms.openlocfilehash: 77b1b2e288dabbcc0d8da593b48e22e2be07fcae
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 06/12/2020
-ms.locfileid: "44748966"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47682539"
 ---
-# <a name="change-nameservers-at-bluehost"></a><span data-ttu-id="24628-102">เปลี่ยนเนมเซิร์ฟเวอร์ที่บลูโฮสต์</span><span class="sxs-lookup"><span data-stu-id="24628-102">Change nameservers at Bluehost</span></span>
+# <a name="change-nameservers-at-bluehost"></a><span data-ttu-id="42eac-102">เปลี่ยนเซิร์ฟเวอร์ชื่อที่ Bluehost</span><span class="sxs-lookup"><span data-stu-id="42eac-102">Change nameservers at Bluehost</span></span>
 
-[<span data-ttu-id="24628-103">เปลี่ยนเนมเซิร์ฟเวอร์เพื่อติดตั้ง Microsoft 365 ด้วย Bluehost</span><span class="sxs-lookup"><span data-stu-id="24628-103">Change nameservers to setup Microsoft 365 with Bluehost</span></span>](https://docs.microsoft.com/microsoft-365/admin/dns/change-nameservers-at-bluehost?view=o365-worldwide)
+[<span data-ttu-id="42eac-103">เปลี่ยนเซิร์ฟเวอร์ชื่อเพื่อตั้งค่า Microsoft ๓๖๕ด้วย Bluehost</span><span class="sxs-lookup"><span data-stu-id="42eac-103">Change nameservers to setup Microsoft 365 with Bluehost</span></span>](https://docs.microsoft.com/microsoft-365/admin/dns/change-nameservers-at-bluehost?view=o365-worldwide)
 
-<span data-ttu-id="24628-104">สําหรับปัญหาโดเมนอื่น ๆ ลอง[FAQ โดเมน](https://docs.microsoft.com/microsoft-365/admin/setup/domains-faq?view=o365-worldwide)</span><span class="sxs-lookup"><span data-stu-id="24628-104">For other Domains issues try the  [Domains FAQ](https://docs.microsoft.com/microsoft-365/admin/setup/domains-faq?view=o365-worldwide)</span></span>
+<span data-ttu-id="42eac-104">สำหรับปัญหาอื่นๆของโดเมนให้ลองใช้คำ  [ถามที่ถามบ่อยเกี่ยวกับโดเมน](https://docs.microsoft.com/microsoft-365/admin/setup/domains-faq?view=o365-worldwide)</span><span class="sxs-lookup"><span data-stu-id="42eac-104">For other Domains issues try the  [Domains FAQ](https://docs.microsoft.com/microsoft-365/admin/setup/domains-faq?view=o365-worldwide)</span></span>
