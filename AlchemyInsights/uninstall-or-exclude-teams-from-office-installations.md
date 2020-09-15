@@ -1,31 +1,32 @@
 ---
-title: ถอนการติดตั้งหรือแยกทีมออกจากการติดตั้ง Office
+title: ถอนการติดตั้งหรือไม่รวมทีมออกจากการติดตั้ง Office
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "2662"
 - "9000660"
-ms.openlocfilehash: b6613733e743e08a9b18b1ada70fde164b0d5dc3
-ms.sourcegitcommit: 7e06d9ec1dd462cbd882f088c997d012a032f04d
+ms.openlocfilehash: 22d69db749671afdfe7a809d1bc598e2ad1891d8
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 05/04/2020
-ms.locfileid: "44010336"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47658240"
 ---
-# <a name="uninstall-or-exclude-teams-from-new-or-existing-office-installations"></a>ถอนการติดตั้งหรือแยกทีมออกจากการติดตั้ง Office ใหม่หรือที่มีอยู่
+# <a name="uninstall-or-exclude-teams-from-new-or-existing-office-installations"></a>ถอนการติดตั้งหรือไม่รวมทีมออกจากการติดตั้งใหม่หรือการติดตั้ง Office ที่มีอยู่
 
-Microsoft Teams จะรวมเป็นส่วนหนึ่งของแอป Microsoft 365 สําหรับธุรกิจ, Microsoft 365 Apps สําหรับธุรกิจ และ Office for Mac
+ทีม microsoft จะรวมเป็นส่วนหนึ่งของแอป Microsoft ๓๖๕สำหรับองค์กรแอป Microsoft ๓๖๕สำหรับธุรกิจและ Office for Mac
 
-- ใช้เครื่องมือ[การปรับใช้ Office](https://docs.microsoft.com/deployoffice/teams-install#how-to-exclude-microsoft-teams-from-new-installations-of-microsoft-365-apps)เพื่อแยกทีมจากการติดตั้งใหม่ของ Office
-- เมื่อต้องการ*ถอนการติดตั้ง*ทีมจากอุปกรณ์ที่เรียกใช้ Windows ให้ดูที่[การถอนการติดตั้ง Microsoft Teams](https://support.office.com/article/3b159754-3c26-4952-abe7-57d27f5f4c81) เมื่อต้องการล้างข้อมูล Microsoft Teams จากเครื่องเป้าหมายหรือผู้ใช้หลายราย ให้ดูที่[การปรับใช้ Microsoft Teams ล้างข้อมูล](https://docs.microsoft.com/microsoftteams/scripts/powershell-script-teams-deployment-clean-up)
-- ใช้ตัวเลือก[ป้องกัน TeamsInstall](https://docs.microsoft.com/deployoffice/teams-install#use-group-policy-to-control-the-installation-of-microsoft-teams
-)เพื่อป้องกันไม่ให้ทีม Microsoft ติดตั้งโดยอัตโนมัติด้วย Office
-- ใช้ตัวเลือก[ป้องกันFirstLaunchAfterInstall](https://docs.microsoft.com/deployoffice/teams-install#use-group-policy-to-prevent-microsoft-teams-from-starting-automatically-after-installation) *ก่อนที่ Teams จะถูกติดตั้ง*เพื่อป้องกันไม่ให้ทีม Microsoft เริ่มทํางานโดยอัตโนมัติหลังจากการติดตั้ง
+- ใช้ [เครื่องมือการปรับใช้ Office](https://docs.microsoft.com/deployoffice/teams-install#how-to-exclude-microsoft-teams-from-new-installations-of-microsoft-365-apps) เพื่อแยกทีมออกจากการติดตั้ง office ใหม่
+- เมื่อต้อง*การถอนการติดตั้ง*ทีมจากอุปกรณ์ที่ใช้ Windows ให้ดูที่[ถอนการติดตั้งทีม Microsoft](https://support.office.com/article/3b159754-3c26-4952-abe7-57d27f5f4c81) เมื่อต้องการล้างข้อมูลทีม Microsoft จากเครื่องจักรเป้าหมายหรือผู้ใช้หลายคนให้ดูที่การล้างข้อมูลการ [ปรับใช้ Microsoft](https://docs.microsoft.com/microsoftteams/scripts/powershell-script-teams-deployment-clean-up)team
+- ใช้ตัวเลือก [PreventTeamsInstall](https://docs.microsoft.com/deployoffice/teams-install#use-group-policy-to-control-the-installation-of-microsoft-teams
+) เพื่อป้องกันไม่ให้ทีม Microsoft ติดตั้งโดยอัตโนมัติด้วย Office
+- ใช้ตัวเลือก [PreventFirstLaunchAfterInstall](https://docs.microsoft.com/deployoffice/teams-install#use-group-policy-to-prevent-microsoft-teams-from-starting-automatically-after-installation) *ก่อนที่ทีมจะได้รับการติดตั้ง*เพื่อป้องกันไม่ให้ทีมของ Microsoft เริ่มต้นโดยอัตโนมัติหลังจากการติดตั้ง
 
-ถ้าคุณกําลังใช้ Office สําหรับ Mac ให้ดูที่[การติดตั้ง Microsoft Teams บน Mac](https://docs.microsoft.com/deployoffice/teams-install#microsoft-teams-installations-on-a-mac)
+ถ้าคุณกำลังใช้ Office for Mac ให้ดูที่[การติดตั้ง Microsoft team บน Mac](https://docs.microsoft.com/deployoffice/teams-install#microsoft-teams-installations-on-a-mac)
