@@ -1,40 +1,41 @@
 ---
-title: 'การป้องกันข้อมูล azure: การติดตั้งไคลเอนต์ AIP'
+title: 'การป้องกันข้อมูล Azure: การติดตั้งไคลเอ็นต์ AIP'
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9002278"
 - "5027"
-ms.openlocfilehash: 45b4e7d420ed7a69d5be8e86852292b00a5f2ef2
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: 230f857bd35f4cf381fc71de04231834fb8d0ee6
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44204328"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47714923"
 ---
-# <a name="azure-information-protection-aip-client-installation"></a>การป้องกันข้อมูล azure: การติดตั้งไคลเอนต์ AIP
+# <a name="azure-information-protection-aip-client-installation"></a>การป้องกันข้อมูล Azure: การติดตั้งไคลเอ็นต์ AIP
 
-ถ้าคุณกําลังติดตั้งไคลเอนต์ AIP ใช้ขั้นตอนต่อไปนี้ที่แนะนํา:
+ถ้าคุณกำลังติดตั้งไคลเอ็นต์ AIP ให้ใช้ขั้นตอนที่แนะนำต่อไปนี้:
 
-1. ดาวน์โหลดไคลเอ็นต์การป้องกันข้อมูล Azure จาก[ศูนย์ดาวน์โหลดของไมโครซอฟท์](https://www.microsoft.com/download/details.aspx?id=53018)
+1. ดาวน์โหลดไคลเอ็นต์การป้องกันข้อมูลของ Azure จาก[ศูนย์ดาวน์โหลดของไมโครซอฟท์](https://www.microsoft.com/download/details.aspx?id=53018)
 
-2. ตรวจสอบเอกสารต่อไปนี้สําหรับคําแนะนําในการติดตั้ง:
+2. ตรวจทานคำแนะนำในการติดตั้งเอกสารต่อไปนี้:
 
-    - สําหรับผู้ใช้:[ดาวน์โหลด และติดตั้งไคลเอ็นต์การป้องกันข้อมูล Azure](https://docs.microsoft.com/azure/information-protection/rms-client/install-client-app)
-    - สําหรับผู้ดูแลระบบ:[ติดตั้งไคลเอ็นต์การป้องกันข้อมูล Azure สําหรับผู้ใช้](https://docs.microsoft.com/azure/information-protection/rms-client/client-admin-guide-install)
+    - สำหรับผู้ใช้:[ดาวน์โหลดและติดตั้งไคลเอ็นต์การป้องกันข้อมูลของ Azure](https://docs.microsoft.com/azure/information-protection/rms-client/install-client-app)
+    - สำหรับผู้ดูแลระบบ:[ติดตั้งไคลเอ็นต์การป้องกันข้อมูลของ Azure สำหรับผู้ใช้](https://docs.microsoft.com/azure/information-protection/rms-client/client-admin-guide-install)
 
-3. ถ้าคุณพบข้อผิดพลาดในระหว่างกระบวนการติดตั้ง ให้ทําตามคําแนะนําของ[การแก้ไขปัญหาที่บล็อกโปรแกรมไม่ให้ถูกติดตั้งหรือเอาออก](https://support.microsoft.com/help/17588/windows-fix-problems-that-block-programs-being-installed-or-removed)
+3. ถ้าคุณพบข้อผิดพลาดในระหว่างขั้นตอนการติดตั้งให้ทำตามแนวทางในการ[แก้ไขปัญหาที่บล็อกโปรแกรมติดตั้งหรือเอาออก](https://support.microsoft.com/help/17588/windows-fix-problems-that-block-programs-being-installed-or-removed)
 
-4. ถ้าคุณยังพบปัญหาในการติดตั้งไคลเอ็นต์เองหลังจากเรียกใช้ Microsoft_Azure_Information_Protection_XXXXXXXXXXเครื่องมือข้างต้น **%temp%**
+4. ถ้าคุณยังคงพบปัญหาในการติดตั้งไคลเอ็นต์เองหลังจากเรียกใช้เครื่องมือด้านบนให้ค้นหาโฟลเดอร์ **% temp%** และให้ไฟล์บันทึกการติดตั้งไคลเอ็นต์ที่เริ่มต้นด้วย Microsoft_Azure_Information_Protection_XXXXXXXXXX. log
 
-สําหรับข้อมูลเพิ่มเติม:
+สำหรับข้อมูลเพิ่มเติม:
 
-- ตรวจสอบ[เอกสาร Azure Data Protection(AIP)](https://docs.microsoft.com/azure/information-protection/what-is-information-protection)[ข้อกําหนด](https://docs.microsoft.com/azure/information-protection/get-started/requirements)การตั้งค่าและตําแหน่งที่ตั้งเพื่อ[ดาวน์โหลดไคลเอนต์ AIP](https://www.microsoft.com/download/details.aspx?id=53018)
+- ตรวจทาน[เอกสารประกอบของ Azure Protection Protection (AIP)](https://docs.microsoft.com/azure/information-protection/what-is-information-protection),[ความต้อง](https://docs.microsoft.com/azure/information-protection/get-started/requirements)การตั้งค่าและตำแหน่งที่ตั้งเพื่อ[ดาวน์โหลดไคลเอ็นต์ AIP](https://www.microsoft.com/download/details.aspx?id=53018)
 
-- สําหรับข้อมูลการสมัครใช้งาน Azure ให้ดูที่[การสมัครใช้งานและคุณลักษณะการป้องกันข้อมูล Azure](https://azure.microsoft.com/pricing/details/information-protection)
+- สำหรับข้อมูลการสมัครใช้งาน Azure ให้ดูที่[การสมัครใช้งานการป้องกันข้อมูลของ azure และฟีเจอร์](https://azure.microsoft.com/pricing/details/information-protection)

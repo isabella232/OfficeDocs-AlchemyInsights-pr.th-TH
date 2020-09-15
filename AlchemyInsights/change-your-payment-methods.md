@@ -1,33 +1,34 @@
 ---
-title: เพิ่ม อัปเดต หรือนําวิธีการชําระเงินออก
+title: เพิ่มอัปเดตหรือนำวิธีการชำระเงินของคุณออก
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "1500001"
 - "4858"
-ms.openlocfilehash: bf5a5ac4f9eb5768f986d959b00bdf9767468c6b
-ms.sourcegitcommit: 64ed44e6ada9250cac8ae1621157f78d0de2c49b
+ms.openlocfilehash: d4bc9fde2821a4f0d70d65617bae3998fd4c8a6b
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 05/29/2020
-ms.locfileid: "44417443"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47714419"
 ---
-# <a name="add-update-or-remove-your-payment-methods"></a>เพิ่ม อัปเดต หรือนําวิธีการชําระเงินออก
+# <a name="add-update-or-remove-your-payment-methods"></a>เพิ่มอัปเดตหรือนำวิธีการชำระเงินของคุณออก
 
-คุณสามารถซื้อผลิตภัณฑ์และบริการจาก Microsoft ได้ด้วย**บัตรเครดิตหรือบัตรเดบิตหรือบัญชีธนาคาร** คุณสามารถป้อนข้อมูลการชําระเงินของคุณในหน้า[วิธีการชําระเงิน](https://go.microsoft.com/fwlink/p/?linkid=2018806)หรือเมื่อคุณทําการซื้อ
+คุณสามารถซื้อผลิตภัณฑ์และบริการจาก Microsoft ด้วย**บัตรเครดิตหรือบัตรเดบิตหรือบัญชีธนาคาร** คุณสามารถใส่ข้อมูลการชำระเงินของคุณบนหน้า [วิธีการชำระเงิน](https://go.microsoft.com/fwlink/p/?linkid=2018806) หรือเมื่อคุณทำการสั่งซื้อ
 
-- [เพิ่มวิธีการชําระเงิน](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods#add-a-payment-method)
+- [เพิ่มวิธีการชำระเงิน](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods#add-a-payment-method)
 
-- [อัพเดตรายละเอียดวิธีการชําระเงิน](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods#update-payment-method-details)
+- [อัปเดตรายละเอียดของวิธีการชำระเงิน](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods#update-payment-method-details)
 
-- [แทนที่วิธีการชําระเงิน](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods#replace-a-payment-method)
+- [เปลี่ยนวิธีการชำระเงิน](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods#replace-a-payment-method)
 
-- [ลบวิธีการชําระเงิน](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods#delete-a-payment-method)
+- [ลบวิธีการชำระเงิน](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods#delete-a-payment-method)
 
-- [แก้ปัญหาวิธีการชําระเงิน](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods#troubleshoot-payment-methods)
+- [การแก้ไขปัญหาเกี่ยวกับวิธีการชำระเงิน](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods#troubleshoot-payment-methods)

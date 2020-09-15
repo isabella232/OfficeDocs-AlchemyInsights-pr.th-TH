@@ -1,25 +1,26 @@
 ---
-title: สํารองข้อมูลโฟลเดอร์เอกสาร รูปภาพ และเดสก์ท็อปของคุณด้วย OneDrive
+title: สำรองข้อมูลเอกสารรูปภาพและโฟลเดอร์บนเดสก์ท็อปของคุณด้วย OneDrive
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9003078"
 - "5853"
-ms.openlocfilehash: 9c092f729bbd36f5b34aa983edb2d18583e4a04c
-ms.sourcegitcommit: 3ca312535d950105ee829e037f0ff8f1ddbbae72
+ms.openlocfilehash: 16b8d889017025eaaa0ce2474442354418f24801
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 06/11/2020
-ms.locfileid: "44708486"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47714851"
 ---
-# <a name="back-up-your-documents-pictures-and-desktop-folders-with-onedrive"></a>สํารองข้อมูลโฟลเดอร์เอกสาร รูปภาพ และเดสก์ท็อปของคุณด้วย OneDrive
+# <a name="back-up-your-documents-pictures-and-desktop-folders-with-onedrive"></a>สำรองข้อมูลเอกสารรูปภาพและโฟลเดอร์บนเดสก์ท็อปของคุณด้วย OneDrive
 
-คุณสามารถ[สํารองข้อมูลโฟลเดอร์ที่สําคัญของคุณ](https://support.office.com/article/d61a7930-a6fb-4b95-b28a-6552e77c3057)(โฟลเดอร์เดสก์ท็อป, เอกสาร และรูปภาพของคุณ) บนพีซี Windows ของคุณโดยใช้การสํารองข้อมูลโฟลเดอร์ OneDrive PC เพื่อให้โฟลเดอร์เหล่านั้นได้รับการป้องกันและพร้อมใช้งานบนอุปกรณ์อื่นๆ คุณสมบัตินี้ยังไม่พร้อมให้ใช้งานสําหรับ Mac  
+คุณสา [มารถสำรองโฟลเดอร์ที่สำคัญของคุณ](https://support.office.com/article/d61a7930-a6fb-4b95-b28a-6552e77c3057)  ได้ (โฟลเดอร์เดสก์ท็อปเอกสารและรูปภาพ) บนพีซีที่ใช้ Windows ของคุณด้วยการสำรองข้อมูลโฟลเดอร์ OneDrive บนพีซีดังนั้นจึงได้รับการป้องกันและพร้อมใช้งานบนอุปกรณ์อื่นๆ ฟีเจอร์นี้ยังไม่พร้อมใช้งานสำหรับ Mac  
 
-ถ้าคุณเป็นผู้ดูแลระบบไอทีที่ต้องการจัดการการสํารองโฟลเดอร์ที่สําคัญสําหรับองค์กร จะมีคําแนะนําสําหรับการ[เลื่อนออก OneDrive Known Folder Move](https://docs.microsoft.com/onedrive/redirect-known-folders)
+ถ้าคุณเป็นผู้ดูแลระบบ IT ที่ต้องการจัดการการสำรองข้อมูลโฟลเดอร์ที่สำคัญสำหรับองค์กรที่มีคำแนะนำสำหรับการวางการ[ย้ายโฟลเดอร์ที่รู้จัก OneDrive](https://docs.microsoft.com/onedrive/redirect-known-folders)

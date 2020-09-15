@@ -5,24 +5,25 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9000761"
 - "3514"
-ms.openlocfilehash: 4ffe8d77dad7db5fd5806fe879cf4934e5ca7c4a
-ms.sourcegitcommit: 89ae9e8b36d1980f89f07b016fff0ec48f96b620
+ms.openlocfilehash: 03c530e7ce5f00fce2222cf9993930b97e5a2818
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 04/23/2020
-ms.locfileid: "43788901"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47715148"
 ---
 # <a name="set-auto-replies-for-a-users-mailbox"></a>ตั้งค่าการตอบกลับอัตโนมัติสำหรับกล่องจดหมายของผู้ใช้
 
 **วิธีที่ 1 **
 
-1. เข้าสู่ระบบพอร์ทัล Microsoft 365
+1. ลงชื่อเข้าใช้พอร์ทัล Microsoft ๓๖๕
 
 2. ไปที่ **ผู้ใช้ > ผู้ใช้ที่ใช้งานอยู่** (หรือ **กลุ่ม > กล่องจดหมายที่แชร์** ถ้าคุณตั้งค่านี้ในกล่องจดหมายที่แชร์)
 
@@ -32,7 +33,7 @@ ms.locfileid: "43788901"
 
 **วิธีที่ 2 **
 
-1. เข้าสู่ระบบพอร์ทัลผู้ดูแลระบบ Microsoft 365 โดยใช้ข้อมูลประจําตัวของผู้ดูแล
+1. ลงชื่อเข้าใช้พอร์ทัลผู้ดูแลระบบ Microsoft ๓๖๕โดยใช้ข้อมูลประจำตัวของผู้ดูแลระบบ
 
 2. ขยาย **ศูนย์การจัดการ** จากนั้นคลิก **Exchange**
 
