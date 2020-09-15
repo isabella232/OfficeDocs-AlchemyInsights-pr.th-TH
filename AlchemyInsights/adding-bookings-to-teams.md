@@ -5,6 +5,7 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
@@ -13,15 +14,15 @@ ms.custom:
 - "5041"
 - "9002238"
 - "4344"
-ms.openlocfilehash: 89d57ff01873ae18db8046588df731d8923bbf78
-ms.sourcegitcommit: 312ed19d236006962f1b891d2961014959ab1898
+ms.openlocfilehash: a189e8d74efb869b1068accbe6e065a0aebd0b1c
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 04/25/2020
-ms.locfileid: "43812675"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47697108"
 ---
 # <a name="adding-bookings-to-teams"></a>การเพิ่มการจองให้กับทีม
 
-Microsoft Bookings เป็นแอปการจัดกําหนดการนัดหมายที่ช่วยให้คุณติดตามการจอง ผู้ดูแลระบบสามารถเพิ่มการจองเป็นแอปไปยังแถบแอป Microsoft Teams ของผู้ใช้โดย[การจัดการนโยบายการตั้งค่าแอปใน Microsoft Teams](https://docs.microsoft.com/microsoftteams/teams-app-setup-policies)
+การจองของ Microsoft คือแอปการจัดกำหนดการการนัดหมายที่ช่วยให้คุณสามารถติดตามการจองของคุณเจ้าหน้าที่และลูกค้าของคุณได้ ผู้ดูแลระบบสามารถเพิ่มการจองเป็นแอปไปยังแถบแอป Microsoft team ของผู้ใช้ของพวกเขาได้โดยการ[จัดการนโยบายการตั้งค่าแอปในทีม microsoft](https://docs.microsoft.com/microsoftteams/teams-app-setup-policies)
 
-สําหรับข้อมูลหรือการแก้ไขปัญหาในแอปการจอง โปรดดู[บทความการจอง](https://support.office.com/article/b9c9295c-c654-4b10-b5cc-f739825fc092)
+สำหรับข้อมูลหรือการแก้ไขปัญหาในแอปการจองให้ดู[บทความการจอง](https://support.office.com/article/b9c9295c-c654-4b10-b5cc-f739825fc092)

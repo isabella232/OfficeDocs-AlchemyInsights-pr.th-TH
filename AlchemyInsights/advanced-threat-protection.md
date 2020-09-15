@@ -1,32 +1,33 @@
 ---
-title: การป้องกันภัยคุกคามขั้นสูงของ Office 365
+title: การป้องกันการคุกคามขั้นสูงของ Office ๓๖๕
 ms.author: chrisda
 author: chrisda
 manager: dansimp
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 1036
 ms.assetid: ''
-ms.openlocfilehash: 5fc3f30e1f08764393dcced94be541b1c6bcc84d
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: c6b552a11b2eee647e2e5dc7b93523b03c0e7ea3
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44506613"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47696640"
 ---
-# <a name="office-365-advanced-threat-protection"></a>การป้องกันภัยคุกคามขั้นสูงของ Office 365
+# <a name="office-365-advanced-threat-protection"></a>การป้องกันการคุกคามขั้นสูงของ Office ๓๖๕
 
-- สิ่งที่แนบมาที่ปลอดภัย, การเชื่อมโยงที่ปลอดภัย, และการป้องกันฟิชชิ่งเป็นส่วนหนึ่งของการป้องกันภัยคุกคามขั้นสูงของ Office 365 (ATP) องค์กร E5, การศึกษา A5 และ Microsoft 365 พรีเมี่ยมธุรกิจรวมถึง ATP แผนอื่นๆ ทั้งหมดจําเป็นต้องมีการสมัครใช้บริการ ATP แบบแอดออน
+- สิ่งที่แนบมาที่ปลอดภัยลิงก์ที่ปลอดภัยและการป้องกันฟิชชิ่งเป็นส่วนหนึ่งของ Office ๓๖๕การป้องกันภัยคุกคามขั้นสูง (ATP) Enterprise E5, การศึกษา A5 และ Microsoft ๓๖๕ Business Premium รวมเอทีพี แผนอื่นๆทั้งหมดจำเป็นต้องใช้การสมัครใช้งาน add-on ของ ATP
 
-- คุณต้องมอบหมายสิทธิ์การใช้งานที่เหมาะสมเพื่อปกป้องผู้ใช้ของคุณโดย Atp ของ Office 365 ดู[หัวข้อนี้](https://docs.microsoft.com/microsoft-365/admin/add-users/add-users)สําหรับคําแนะนําเกี่ยวกับวิธีการใช้สิทธิ์การใช้งานจํานวนมากกับผู้ใช้ของคุณ
+- คุณจำเป็นต้องกำหนดสิทธิ์การใช้งานที่เหมาะสมเพื่อปกป้องผู้ใช้ของคุณโดย Office ๓๖๕ ATP ให้ดู [หัวข้อนี้](https://docs.microsoft.com/microsoft-365/admin/add-users/add-users) สำหรับคำแนะนำเกี่ยวกับวิธีการนำสิทธิ์การใช้งานจำนวนมากไปใช้กับผู้ใช้ของคุณ
 
-- ผู้ดูแลระบบส่วนกลางหรือผู้ดูแลระบบความปลอดภัยสามารถเข้าถึงคุณลักษณะของ Office 365 ATP ในศูนย์การปฏิบัติตามกฎระเบียบ&ความปลอดภัยที่นโยบาย**การจัดการภัยคุกคาม** \> **Policy**
+- ผู้ดูแลระบบส่วนกลางหรือผู้ดูแลระบบความปลอดภัยสามารถเข้าถึงฟีเจอร์ของ Office ๓๖๕ ATP ในศูนย์**Threat Managmeent**การปฏิบัติตามนโยบาย & ด้านความปลอดภัยที่ \> **นโยบาย**Managmeent ของภัยคุกคาม
 
-- นโยบายของสิ่งที่แนบมาที่ปลอดภัยและนโยบายการเชื่อมโยงที่ปลอดภัยสามารถกําหนดขอบเขตองค์กรของคุณทั้งองค์กร
+- สิ่งที่แนบมาที่ปลอดภัยและนโยบายการเชื่อมโยงที่ปลอดภัยสามารถลักษณะคุณทั้งองค์กรโดเมนที่เฉพาะเจาะจงหรือกลุ่มผู้ใช้ที่มีขนาดเล็กลง
 
-- ไม่มีนโยบายความปลอดภัย ATP เริ่มต้นสิ่งที่แนบมา คุณต้อง[สร้างนโยบาย](https://docs.microsoft.com/microsoft-365/security/office-365-security/set-up-atp-safe-attachments-policies)และนําไปใช้กับผู้ใช้ของคุณ
+- ไม่มีนโยบายสิ่งที่แนบมา ATP Safe ที่เป็นค่าเริ่มต้น คุณจำเป็นต้อง [สร้างนโยบาย](https://docs.microsoft.com/microsoft-365/security/office-365-security/set-up-atp-safe-attachments-policies) และนำไปใช้กับผู้ใช้ของคุณ
 
-- มีนโยบาย ATP Safe Links เริ่มต้นที่ใช้กับทุกคนในองค์กรของคุณ เมื่อต้องการแก้ไขนโยบายนี้ หรือสร้างนโยบายแบบกําหนดเอง ให้ดูที่[หัวข้อนี้](https://docs.microsoft.com/microsoft-365/security/office-365-security/set-up-atp-safe-links-policies)
+- นโยบายการเชื่อมโยงที่มีความปลอดภัย ATP เริ่มต้นที่นำไปใช้กับทุกคนในองค์กรของคุณ เมื่อต้องการแก้ไขนโยบายนี้หรือเมื่อต้องการสร้างนโยบายแบบกำหนดเองให้ดู[หัวข้อนี้](https://docs.microsoft.com/microsoft-365/security/office-365-security/set-up-atp-safe-links-policies)

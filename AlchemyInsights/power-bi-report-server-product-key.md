@@ -1,29 +1,30 @@
 ---
-title: หมายเลขผลิตภัณฑ์เซิร์ฟเวอร์รายงาน BI พลังงาน
+title: คีย์ผลิตภัณฑ์ของเซิร์ฟเวอร์รายงานของ Power BI
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "1305"
 - "2500001"
-ms.openlocfilehash: dc4418ed53bfc9e40eae8936f1b135b71ad57934
-ms.sourcegitcommit: e17e7d17fdb638349bb320b318085138d18f284c
+ms.openlocfilehash: ec7b033d524ba257ee985b5cd11881b0b9109e8b
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 07/16/2019
-ms.locfileid: "35753516"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47801968"
 ---
-# <a name="power-bi-report-server-product-key"></a>หมายเลขผลิตภัณฑ์เซิร์ฟเวอร์รายงาน BI พลังงาน
+# <a name="power-bi-report-server-product-key"></a>คีย์ผลิตภัณฑ์ของเซิร์ฟเวอร์รายงานของ Power BI
 
-ถ้าคุณซื้อ Premium BI พลังงาน ภายในแท็บการ**ตั้งค่าค่าจ้างพิเศษ**ของพอร์ทัล admin BI พลังงานคุณสามารถเข้าถึงเซิร์ฟเวอร์รายงาน BI พลังงาน product key ของคุณ ซึ่งมีเฉพาะผู้ดูแลระบบส่วนกลาง หรือผู้ใช้ที่มอบหมายบทบาทผู้ดูแลระบบบริการพลังงาน BI
+ถ้าคุณซื้อ Power BI Premium ภายในแท็บ **การตั้งค่าพรีเมียม** ของพอร์ทัลผู้ดูแลระบบ power bi ที่คุณมีสิทธิ์เข้าถึงคีย์ผลิตภัณฑ์ของเซิร์ฟเวอร์รายงาน power bi ของคุณ การทำเช่นนี้จะพร้อมใช้งานสำหรับผู้ดูแลระบบส่วนกลางหรือผู้ใช้ที่ได้รับมอบหมายบทบาทผู้ดูแลระบบ Power BI service
 
-เลือก**คีย์เซิร์ฟเวอร์รายงาน BI พลังงาน**แสดงกล่องโต้ตอบที่ประกอบด้วยหมายเลขผลิตภัณฑ์ของคุณ คุณสามารถคัดลอก และใช้กับการติดตั้ง
+การเลือก **คีย์เซิร์ฟเวอร์รายงาน POWER BI** จะแสดงกล่องโต้ตอบที่มีคีย์ผลิตภัณฑ์ของคุณ คุณสามารถคัดลอกและใช้งานได้ด้วยการติดตั้ง
 
-ถ้าคุณมีข้อตกลงการ SA องค์กรเซิร์ฟเวอร์ SQL คุณสามารถรับรหัสผลิตภัณฑ์ของคุณจาก[ศูนย์บริการการอนุญาตระดับเสียง](https://www.microsoft.com/Licensing/servicecenter/)
+ถ้าคุณมีข้อตกลงการใช้งานของ SQL Server Enterprise SA คุณสามารถรับคีย์ผลิตภัณฑ์ของคุณได้จาก[ศูนย์บริการ Volume Licensing](https://www.microsoft.com/Licensing/servicecenter/)
 
-สำหรับข้อมูลเพิ่มเติม:https://docs.microsoft.com/power-bi/report-server/install-report-server
+สำหรับข้อมูลเพิ่มเติม: https://docs.microsoft.com/power-bi/report-server/install-report-server

@@ -1,34 +1,35 @@
 ---
-title: รหัสข้อผิดพลาด 0x15
+title: รหัสข้อผิดพลาด0x15
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
 - "919"
 - "2000022"
 ms.assetid: 0d566afe-b21f-4f1b-8ca9-4b4d3b0f5435
-description: ถ้าคุณได้รับข้อผิดพลาดขณะเปิดใช้งาน Office 2013 บนการปรับใช้บริการเดสก์ท็อประยะไกล (RDS) ให้พิจารณาการเปิดใช้งาน ADAL โดยการแก้ไขรีจิสทรี
-ms.openlocfilehash: 468d13e59602cf173ed2e17af44c66babfc28703
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+description: ถ้าคุณได้รับข้อผิดพลาดขณะเปิดใช้งาน Office ๒๐๑๓บนการปรับใช้บริการเดสก์ท็อประยะไกล (RDS) ให้ลองเปิดใช้งานการ ADAL โดยการแก้ไขรีจิสทรี
+ms.openlocfilehash: deb2ac4b0fb6a7b2e0045ff1b0ba95ad6e5e4a3a
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44506865"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47709206"
 ---
-# <a name="error-while-activation-office-2013-on-remote-desktop-services"></a>ข้อผิดพลาดขณะเปิดใช้งาน Office 2013 บนบริการเดสก์ท็อประยะไกล
+# <a name="error-while-activation-office-2013-on-remote-desktop-services"></a>เกิดข้อผิดพลาดขณะเปิดใช้งาน Office ๒๐๑๓บนบริการเดสก์ท็อประยะไกล
 
-ถ้าคุณได้รับข้อผิดพลาดขณะเปิดใช้งาน Office 2013 บนการปรับใช้บริการเดสก์ท็อประยะไกล (RDS) ให้พิจารณาการเปิดใช้งาน ADAL โดยการแก้ไขรีจิสทรี
+ถ้าคุณได้รับข้อผิดพลาดขณะเปิดใช้งาน Office ๒๐๑๓บนการปรับใช้บริการเดสก์ท็อประยะไกล (RDS) ให้ลองเปิดใช้งานการ ADAL โดยการแก้ไขรีจิสทรี
   
-|**คีย์รีจิสทรี**|**ชนิด**|**ค่า**|
+|**รีจิสทรีคีย์**|**ชนิด**|**ค่า**|
 |:-----|:-----|:-----|
-|HKEY_CURRENT_USER\ซอฟต์แวร์\Microsoft\Office\15.0\ทั่วไป\รหัสประจําตัว\EnableADAL  <br/> |Reg_dword  <br/> |1  <br/> |
+|HKEY_CURRENT_USER \Software\Microsoft\Office\15.0\Common\Identity\EnableADAL  <br/> |REG_DWORD  <br/> |1  <br/> |
 
-สําหรับข้อมูลเพิ่มเติม ให้ดูที่[การเปิดใช้งานการรับรองความถูกต้องแบบสมัยใหม่สําหรับ Office 2013 บนอุปกรณ์ Windows](https://docs.microsoft.com/microsoft-365/admin/security-and-compliance/enable-modern-authentication)
+สำหรับข้อมูลเพิ่มเติมให้ดู[ที่เปิดใช้งานการรับรองความถูกต้องที่ทันสมัยสำหรับ Office ๒๐๑๓บนอุปกรณ์ Windows](https://docs.microsoft.com/microsoft-365/admin/security-and-compliance/enable-modern-authentication)
   
 > [!NOTE]
->  ADAL ถูกเปิดใช้งานโดยค่าเริ่มต้นใน Microsoft 365 Apps สําหรับองค์กรและ Office 2016 บริการเดสก์ท็อประยะไกล (RDS) ถูกตั้งชื่อก่อนหน้านี้บริการเทอร์มินัล
+>  ADAL จะถูกเปิดใช้งานตามค่าเริ่มต้นในแอป Microsoft ๓๖๕สำหรับองค์กรและ Office ๒๐๑๖ บริการเดสก์ท็อประยะไกล (RDS) ถูกชื่อว่าบริการเทอร์มินัลก่อนหน้านี้
   
