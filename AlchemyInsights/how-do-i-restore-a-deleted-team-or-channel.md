@@ -1,10 +1,11 @@
 ---
-title: ฉันจะคืนค่า eeam หรือช่องที่ลบไปแล้วได้อย่างไร
+title: ฉันจะคืนค่า eeam หรือแชนเนลที่ถูกลบได้อย่างไร
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
@@ -12,22 +13,22 @@ ms.custom:
 - "6500002"
 - "2650"
 - "2603"
-ms.openlocfilehash: efd2b09a93fb7a44c0dea7933bb9d02524bb1082
-ms.sourcegitcommit: 027bb52244f304b891143c72cccd89ac1a9a05aa
+ms.openlocfilehash: 4aee5c31fab7475def30a99a68848934febcfee2
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 09/30/2019
-ms.locfileid: "37328858"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47705030"
 ---
-# <a name="how-to-restore-a-deleted-team-or-channel"></a>วิธีกู้คืนทีมหรือช่องที่ถูกลบ
+# <a name="how-to-restore-a-deleted-team-or-channel"></a>วิธีการคืนค่าทีมหรือแชนเนลที่ถูกลบ
 
-สำหรับข้อมูลเพิ่มเติมโปรดดูที่[การคืนค่าทีมที่ถูกลบใน Microsoft Teams](https://blogs.technet.microsoft.com/skypehybridguy/2017/07/23/restoring-a-deleted-team-in-microsoft-teams)
+สำหรับข้อมูลเพิ่มเติมให้ดู[ที่คืนค่าทีมที่ถูกลบในทีม Microsoft](https://blogs.technet.microsoft.com/skypehybridguy/2017/07/23/restoring-a-deleted-team-in-microsoft-teams)
 
-ช่องที่ลบภายในทีมสามารถกู้คืนได้นานถึง21วันหลังจากลบช่องแล้ว
+คุณสามารถคืนค่าแชนเนลที่ถูกลบภายในทีมได้นานถึง21วันหลังจากที่แชนเนลถูกลบไปแล้ว
 
-ในการกู้คืนช่องที่ถูกลบเจ้าของทีมสามารถทำสิ่งต่อไปนี้:
+เมื่อต้องการกู้คืนแชนเนลที่ถูกลบเจ้าของทีมสามารถทำสิ่งต่อไปนี้ได้:
 
-1. เปิดการตั้งค่าทีมโดยการเลือกจุด3ด้านขวาของชื่อทีม
-2. เลือก**จัดการ** > **ช่อง** > ทีมที่**ลบ**แล้วเลือก**คืนค่า**ทางด้านขวา
+1. เปิดการตั้งค่าทีมโดยเลือกจุดสามจุดที่ด้านขวาของชื่อทีม
+2. เลือก**จัดการ**  >  **แชนเนล**ทีม  >  ที่**ถูกลบ**แล้วเลือก**คืนค่า**ทางด้านขวา
 
-สำหรับข้อมูลเพิ่มเติมโปรดดูที่[การคืนค่าทีมที่ถูกลบใน Microsoft Teams](https://blogs.technet.microsoft.com/skypehybridguy/2017/07/23/restoring-a-deleted-team-in-microsoft-teams)
+สำหรับข้อมูลเพิ่มเติมให้ดู[ที่คืนค่าทีมที่ถูกลบในทีม Microsoft](https://blogs.technet.microsoft.com/skypehybridguy/2017/07/23/restoring-a-deleted-team-in-microsoft-teams)
