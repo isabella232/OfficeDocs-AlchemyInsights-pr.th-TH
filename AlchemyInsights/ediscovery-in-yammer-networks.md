@@ -5,29 +5,30 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "3200003"
 - "3533"
-ms.openlocfilehash: 237121fa451fb9a05ca5ca496b92e743730656ce
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 4bba92d5756186923b103f7b945155c3cb972b35
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43714753"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47710935"
 ---
 # <a name="ediscovery-in-yammer-networks"></a>eDiscovery ในเครือข่าย Yammer
 
-ขณะนี้คุณสามารถทําการค้นหา eDiscovery สําหรับเนื้อหา Yammer  การดําเนินการค้นหา eDiscovery หรือส่งออกบนเนื้อหา Yammer จําเป็นต้องมีสิ่งต่อไปนี้:
+ขณะนี้คุณสามารถทำการค้นหา eDiscovery สำหรับเนื้อหา Yammer ได้แล้ว  การดำเนินการค้นหา eDiscovery หรือส่งออกบนเนื้อหา Yammer จำเป็นต้องมีสิ่งต่อไปนี้:
 
-1. คุณต้องย้ายเครือข่ายองค์กร Yammer ของคุณไปยังโหมดเนทิฟเพื่อทําให้ข้อความ Yammer และแฟ้มของคุณสามารถมองเห็นได้ **หมายเหตุ: ถ้าคุณเป็นลูกค้าใหม่ ณ วันที่ 9 มกราคม 2020 และเครือข่าย Yammer ของคุณอยู่ในโหมดเนทีฟ**
+1. คุณต้องโยกย้ายเครือข่ายขององค์กร Yammer ของคุณเป็นโหมด Native ก่อนที่จะทำให้ข้อความและไฟล์ Yammer ของคุณสามารถมองเห็นได้ **หมายเหตุ: ถ้าคุณเป็นลูกค้าใหม่ณวันที่9มกราคม๒๐๒๐และเครือข่าย Yammer ของคุณมีอยู่แล้วในโหมด Native ข้อมูลของคุณจะสามารถมองเห็นได้ด้วย eDiscovery**
 
-2. สําหรับการออกจากลูกค้า eDiscovery สําหรับ Yammer จะพร้อมใช้งานเมื่อเครื่องมือการจัดตําแหน่งโหมดเนทิฟถูกนําออกใช้ และการย้ายโหมดเนทิฟเสร็จสมบูรณ์สําหรับ Yammer ในผู้เช่า
+2. สำหรับการออกจากระบบลูกค้า eDiscovery สำหรับ Yammer จะพร้อมใช้งานเมื่อมีการเผยแพร่เครื่องมือการจัดแนวโหมด Native และการโยกย้ายโหมดพื้นเมืองเสร็จสมบูรณ์สำหรับ Yammer ในผู้เช่า
 
-สําหรับข้อมูลเพิ่มเติมเกี่ยวกับ:
+สำหรับข้อมูลเพิ่มเติมเกี่ยวกับ:
 
-- โหมดเนทีฟใน Yammer ดู:[ภาพรวมของโหมดเนทีฟ](https://docs.microsoft.com/yammer/configure-your-yammer-network/overview-native-mode)
-- eDiscovery ในเครือข่าย Yammer ดู:[ภาพรวมของ eDiscovery ในเครือข่าย Yammer](https://docs.microsoft.com/yammer/manage-security-and-compliance/overview-of-ediscovery)
-- ใน Microsoft 365 ดู[eDiscovery ใน Microsoft 365](https://docs.microsoft.com/microsoft-365/compliance/ediscovery)
+- โหมด native ใน Yammer ให้ดูที่:[ภาพรวมของโหมด Native](https://docs.microsoft.com/yammer/configure-your-yammer-network/overview-native-mode)
+- eDiscovery ในเครือข่าย Yammer ให้ดู:[ภาพรวมของ eDiscovery ในเครือข่าย yammer](https://docs.microsoft.com/yammer/manage-security-and-compliance/overview-of-ediscovery)
+- eDiscovery ใน Microsoft ๓๖๕ให้ดู[ที่ ediscovery ใน microsoft ๓๖๕](https://docs.microsoft.com/microsoft-365/compliance/ediscovery)
