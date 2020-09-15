@@ -1,26 +1,27 @@
 ---
-title: เริ่มใหม่
+title: เริ่มต้นใช้งาน Windows ใหม่
 ms.author: pebaum
 author: pebaum
 manager: scotv
 ms.date: 07/27/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "1280"
 - "6700008"
-ms.openlocfilehash: 5971bad40b6103b7d2fabaf554d04296ac7c4e2c
-ms.sourcegitcommit: e34bb95fb93250f1dc7aec6a13578bb3bb355935
+ms.openlocfilehash: 220f42d3005cdef272ed3e74a1101a52a9b47a8a
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 07/28/2020
-ms.locfileid: "45440455"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47698953"
 ---
-# <a name="windows-fresh-start"></a>เริ่มใหม่
+# <a name="windows-fresh-start"></a>เริ่มต้นใช้งาน Windows ใหม่
 
-การดําเนินการอุปกรณ์ Windows Fresh Start มีทางเลือกในการล้างอุปกรณ์และอุปกรณ์การกระทําออกพร้อมกับตัวเลือกในการเก็บรักษาสถานะการลงทะเบียนอุปกรณ์พร้อมกับผู้ใช้โฟลเดอร์เริ่มต้นปพลิเคชันและการตั้งค่า
+การกระทำของอุปกรณ์เริ่มต้นของ Windows สดจะนำเสนอทางเลือกในการลบข้อมูลอุปกรณ์และการดำเนินการถอนการติดตั้งพร้อมกับตัวเลือกเพื่อรักษาสถานะการลงทะเบียนของอุปกรณ์พร้อมกับแอปพลิเคชันและการตั้งค่าโฟลเดอร์ภายในบ้านของผู้ใช้
 
-สําหรับข้อมูลเพิ่มเติม ให้ดูที่[ใช้การเริ่มต้นใหม่เพื่อรีเซ็ตอุปกรณ์ Windows 10 ด้วย Intun](https://docs.microsoft.com/intune/device-fresh-start)
+สำหรับข้อมูลเพิ่มเติมให้ดู[ที่ใช้การเริ่มต้นใหม่เพื่อตั้งค่าอุปกรณ์ Windows 10 ใหม่ด้วย Intune](https://docs.microsoft.com/intune/device-fresh-start)
