@@ -1,22 +1,23 @@
 ---
-title: 1815 เพิ่มขนาดของกล่องจดหมายที่ใช้ร่วมกัน
+title: ๑๘๑๕เพิ่มขนาดของกล่องจดหมายที่แชร์
 ms.author: chrisda
 author: chrisda
 manager: dansimp
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 1815
 ms.assetid: ''
-ms.openlocfilehash: 52e4e313319ec55111ee656e1eef0b01ada88ca9
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 937f5aef89073ecd1c3c7b48d69b482c748e844f
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43711182"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47755906"
 ---
-# <a name="increase-the-size-of-a-shared-mailbox"></a>เพิ่มขนาดของกล่องจดหมายที่ใช้ร่วมกัน
+# <a name="increase-the-size-of-a-shared-mailbox"></a>เพิ่มขนาดของกล่องจดหมายที่แชร์
 
-คุณสามารถเพิ่มขนาดของกล่องจดหมายที่ใช้ร่วมกันจากขนาดเริ่มต้นที่ 50 กิกะไบต์ 100 กิกะไบต์ โดยการกําหนดกล่องจดหมายที่ใช้ร่วมกันสิทธิ์การใช้งาน Exchange แบบออนไลน์ P2 (ซึ่งรวมอยู่ใน E3 และ E5 สิทธิ์การใช้งาน) เมื่อคุณกําหนดสิทธิ์การใช้งาน P2 ไปยังกล่องจดหมายที่ใช้ร่วมกันใน[ผู้ใช้ที่ใช้งานอยู่](https://portal.office.com/adminportal/home)ขนาดจะเพิ่มขึ้นโดยอัตโนมัติภายใน 15 นาที
+คุณสามารถเพิ่มขนาดของกล่องจดหมายที่แชร์จากขนาดเริ่มต้นของ๕๐กิกะไบต์ถึง๑๐๐ GB ได้โดยการกำหนดกล่องจดหมายที่แชร์สิทธิ์การใช้งานของ Exchange Online P2 (ซึ่งรวมอยู่ภายในสิทธิ์การใช้งาน E3 และ E5) เมื่อคุณกำหนดสิทธิ์การใช้งาน P2 ให้กับกล่องจดหมายที่แชร์ใน [ผู้ใช้ที่ใช้งานอยู่](https://portal.office.com/adminportal/home)ขนาดจะถูกเพิ่มโดยอัตโนมัติภายใน15นาที
