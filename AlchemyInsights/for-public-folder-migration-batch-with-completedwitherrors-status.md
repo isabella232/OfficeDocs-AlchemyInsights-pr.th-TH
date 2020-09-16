@@ -1,31 +1,32 @@
 ---
-title: สำหรับชุดงานการโยกย้ายโฟลเดอร์สาธารณะที่มีสถานะ CompletedWithErrors
+title: สำหรับชุดการโยกย้ายโฟลเดอร์สาธารณะที่มีสถานะ CompletedWithErrors
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "3500007"
 - "3532"
-ms.openlocfilehash: 739e9d91f90e4c0374814d199e4372eb5625553a
-ms.sourcegitcommit: 2a9d059262c07c33f9a740b3da4e6e3366b2f925
+ms.openlocfilehash: cbf5237fdb5c660057465e67702e35f68e545ddb
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 02/20/2020
-ms.locfileid: "42158643"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47744132"
 ---
-# <a name="for-public-folder-migration-batch-with-completedwitherrors-status"></a>สำหรับชุดงานการโยกย้ายโฟลเดอร์สาธารณะที่มีสถานะ CompletedWithErrors
+# <a name="for-public-folder-migration-batch-with-completedwitherrors-status"></a>สำหรับชุดการโยกย้ายโฟลเดอร์สาธารณะที่มีสถานะ CompletedWithErrors
 
-ใช้ขั้นตอนต่อไปนี้เพื่อทำให้ชุดงานการข้ามรายการขนาดใหญ่/ไม่ถูกต้อง: 
-1. อนุมัติรายการที่ถูกข้ามในแบทช์การย้าย:
+ใช้ขั้นตอนต่อไปนี้เพื่อทำให้ชุดงานเสร็จสมบูรณ์การข้ามรายการขนาดใหญ่/ไม่ถูกต้อง: 
+1. อนุมัติรายการที่ถูกข้ามในชุดการโอนย้าย:
 
     `Set-MigrationBatch \<batchname> -ApproveSkippedItems` 
-2. ใช้คำสั่งต่อไปนี้เพื่ออนุมัติรายการที่ถูกข้ามในการร้องขอการโยกย้ายที่มี "ซิงค์" แต่ไม่เสร็จสมบูรณ์:
+2. ใช้คำสั่งต่อไปนี้เพื่ออนุมัติรายการที่ถูกข้ามในการร้องขอการโยกย้ายที่ "ซิงค์" แต่ยังไม่เสร็จสมบูรณ์:
 
     `$pf=Get-PublicFolderMailboxMigrationRequest | Get-PublicFolderMailboxMigrationRequestStatistics -IncludeReport; ForEach ($i in $pf) {if ($i.LargeItemsEncountered -gt 0 -or $i.BadItemsEncountered -gt 0) {Set-PublicFolderMailboxMigrationRequest $i.Identity.IdentifyingGuid -SkippedItemApprovalTime $([DateTime]::UtcNow)}}`
-3. แบทช์การโยกย้ายและการร้องขอควรดำเนินต่อและเสร็จสมบูรณ์ในไม่กี่นาที
+3. ชุดการโยกย้ายและการร้องขอควรดำเนินการต่อและดำเนินการต่อในเวลาไม่กี่นาที
 

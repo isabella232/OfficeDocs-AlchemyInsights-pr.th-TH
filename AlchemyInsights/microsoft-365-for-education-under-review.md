@@ -1,25 +1,26 @@
 ---
-title: ไมโครซอฟท์ 365 สําหรับการศึกษา -- ภายใต้การตรวจทาน
+title: Microsoft ๓๖๕สำหรับการศึกษา-ภายใต้รีวิว
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "1500009"
 - "5544"
-ms.openlocfilehash: 42a8d822d23d9292b844af3683dcf4e4aa936407
-ms.sourcegitcommit: 8b50994a2979778ce8474ce83bd86b60e7d2cb2f
+ms.openlocfilehash: 4b0f520cbb95eb53eb146c2b7cda2c8dfda5bb81
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 05/05/2020
-ms.locfileid: "44022663"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47743015"
 ---
-# <a name="microsoft-365-for-education---under-review"></a>ไมโครซอฟท์ 365 สําหรับการศึกษา -- ภายใต้การตรวจทาน
+# <a name="microsoft-365-for-education---under-review"></a>Microsoft ๓๖๕สำหรับการศึกษา-ภายใต้รีวิว
 
-คุณมีสิทธิ์ในฐานะสถาบันรับรองคุณภาพของ Microsoft**อยู่ภายใต้การทบทวน** คุณสามารถคาดหวังว่าจะได้รับการแจ้งเตือนเกี่ยวกับการกําหนดสิทธิ์ของคุณ**48 ชั่วโมง**จากเวลาที่คุณส่ง โปรดรออย่างน้อย**48 ชั่วโมง**เพื่อรับการแจ้งเตือนนี้ก่อนที่จะเปิดคําขอรับบริการ
+สิทธิ์ของคุณในฐานะสถาบันการศึกษาของ Microsoft ที่มีคุณสมบัติอยู่**ภายใต้รีวิว** คุณสามารถคาดว่าจะได้รับการแจ้งเตือนเกี่ยวกับการกำหนดสิทธิ์ของคุณ **๔๘ชั่วโมง** จากเวลาที่คุณส่งผลงาน โปรดอนุญาตอย่างน้อย **๔๘ชั่วโมง** เพื่อรับการแจ้งเตือนนี้ก่อนที่จะเปิดคำขอบริการ
 
-สําหรับข้อมูลเพิ่มเติม ให้ดูที่[การศึกษา 365 ของ Microsoft](https://www.microsoft.com/education/buy-license/microsoft365)
+สำหรับข้อมูลเพิ่มเติมให้ดูที่การ[ศึกษาของ Microsoft ๓๖๕](https://www.microsoft.com/education/buy-license/microsoft365)
