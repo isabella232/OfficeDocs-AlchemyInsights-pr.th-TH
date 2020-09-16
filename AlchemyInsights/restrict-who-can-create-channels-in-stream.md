@@ -1,25 +1,26 @@
 ---
-title: การจํากัดผู้ที่สามารถสร้างแชแนลในกระแสข้อมูล Microsoft
+title: จำกัดผู้ที่สามารถสร้างแชนเนลใน Microsoft Stream ได้
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9002650"
 - "5102"
-ms.openlocfilehash: 6db1ca2293c904829d2485c08013d8b27b369be6
-ms.sourcegitcommit: 89ae9e8b36d1980f89f07b016fff0ec48f96b620
+ms.openlocfilehash: 72c7bb969e3599f8ea87bcf11e11de5ddbb95412
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 04/23/2020
-ms.locfileid: "43790056"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47801275"
 ---
-# <a name="restrict-who-can-create-channels-in-microsoft-stream"></a>การจํากัดผู้ที่สามารถสร้างแชแนลในกระแสข้อมูล Microsoft
+# <a name="restrict-who-can-create-channels-in-microsoft-stream"></a>จำกัดผู้ที่สามารถสร้างแชนเนลใน Microsoft Stream ได้
 
-ในฐานะองค์กร คุณอาจต้องการจํากัดผู้ที่สามารถอัพโหลดช่องทั้งองค์กรในสตรีมได้ โดยค่าเริ่มต้นทุกคนสามารถสร้างช่องทางทั่วทั้งองค์กรได้ สำหรับข้อมูลเพิ่มเติม ให้ดูที่
+ในฐานะที่เป็นองค์กรที่คุณอาจต้องการจำกัดผู้ที่สามารถอัปโหลดการสร้างแชนเนลที่ครอบคลุมทั้งองค์กรในกระแสข้อมูล ตามค่าเริ่มต้นทุกคนสามารถสร้างแชนเนลที่ครอบคลุมทั้งองค์กรได้ สำหรับข้อมูลเพิ่มเติม ให้ดูที่
 
-- [จํากัดผู้ที่สามารถสร้างแชนเนลทั่วทั้งองค์กรใน Microsoft Stream](https://docs.microsoft.com/stream/restrict-companywide-channels)
+- [จำกัดว่าใครสามารถสร้างแชนเนลที่ครอบคลุมทั้งองค์กรใน Microsoft Stream ได้](https://docs.microsoft.com/stream/restrict-companywide-channels)
