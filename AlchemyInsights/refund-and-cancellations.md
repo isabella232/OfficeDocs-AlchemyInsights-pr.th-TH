@@ -1,29 +1,30 @@
 ---
-title: การคืนเงินและการยกเลิก
+title: การขอคืนเงินและการยกเลิก
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9002295"
 - "4445"
-ms.openlocfilehash: aa1883896027344a02e83ee9dd346b95c5272f17
-ms.sourcegitcommit: 9923ce61344e22c4490549b12f65fa2896490b1f
+ms.openlocfilehash: e8cd887099f6bbbf130531d98f539e95ad13e120
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 04/01/2020
-ms.locfileid: "43100664"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47721061"
 ---
-# <a name="refunds-and-cancellations"></a>การคืนเงินและการยกเลิก
+# <a name="refunds-and-cancellations"></a>การขอคืนเงินและการยกเลิก
 
-หากคุณซื้อผลิตภัณฑ์จาก Microsoft หรือ Microsoft Store คุณสามารถขอคืนสินค้าได้ คุณสามารถตรวจสอบ[ประวัติการสั่งซื้อ](https://account.microsoft.com/billing/orders/)ของคุณเพื่อตรวจสอบสิ่งที่คุณสั่งซื้อจาก Microsoft 
+ถ้าคุณซื้อผลิตภัณฑ์จาก Microsoft หรือ Microsoft Store คุณสามารถร้องขอการส่งกลับ คุณสามารถตรวจสอบ [ประวัติการสั่งซื้อ](https://account.microsoft.com/billing/orders/) ของคุณเพื่อตรวจสอบสิ่งที่คุณได้สั่งซื้อจากไมโครซอฟท์ 
 
-- สําหรับการคืนเงิน โปรดดูที่[การส่งคืนสินค้าที่คุณซื้อจาก Microsoft เพื่อแลกเปลี่ยนหรือคืนเงิน](https://support.microsoft.com/help/10558)
+- สำหรับการขอคืนเงินให้ดู[ที่ส่งกลับรายการที่คุณซื้อจาก Microsoft สำหรับ exchange หรือการคืนเงิน](https://support.microsoft.com/help/10558)
 
-- สําหรับการยกเลิก ให้ดูที่[ยกเลิกหรือปิดการเรียกเก็บเงินที่เกิดประจําบนการสมัครใช้งาน Microsoft](https://support.microsoft.com/help/4027815)
+- สำหรับการยกเลิกให้ดู[ยกเลิกหรือปิดการเรียกเก็บเงินที่เป็นกิจวัตรบนการสมัครใช้งาน Microsoft](https://support.microsoft.com/help/4027815)
 
-**หมายเหตุ**: หากคุณเห็นการเรียกเก็บเงินหลังจากปิดการเรียกเก็บเงินที่เกิดประจํา คุณอาจปิดการเรียกเก็บเงินนั้นหลังจากวันหมดอายุ [เรียนรู้เพิ่มเติม](https://support.microsoft.com/help/10640) 
+**หมายเหตุ**: ถ้าคุณเห็นค่าใช้จ่ายหลังจากปิดการเรียกเก็บเงินเป็นกิจวัตรคุณอาจปิดใช้งานหลังจากวันที่หมดอายุ [เรียนรู้เพิ่มเติม](https://support.microsoft.com/help/10640) 
