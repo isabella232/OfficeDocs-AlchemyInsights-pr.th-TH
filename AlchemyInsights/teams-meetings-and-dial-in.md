@@ -1,25 +1,26 @@
 ---
-title: การประชุมและการโทรเข้าของ Microsoft Teams
+title: การประชุมและการโทรเข้าของทีม Microsoft
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom: ''
-ms.openlocfilehash: f3b76333c03d4caec7e3552b813fd475515ea2cf
-ms.sourcegitcommit: fdfd41c2bfb2d45003b3906e6469377384a91cb5
+ms.openlocfilehash: 20dbb1b07877711dff8e33063e124b17d340ee57
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 04/15/2020
-ms.locfileid: "43509199"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47736118"
 ---
-# <a name="microsoft-teams-meetings-and-dial-in"></a>การประชุมและการโทรเข้าของ Microsoft Teams
+# <a name="microsoft-teams-meetings-and-dial-in"></a>การประชุมและการโทรเข้าของทีม Microsoft
 
-ต้องการความช่วยเหลือในการเปิดหรือตั้งค่า[การประชุมทางเสียง](https://docs.microsoft.com/microsoftteams/audio-conferencing-in-office-365)ใน Microsoft Teams ใช่หรือไม่ มีผู้ใช้รายนี้ถูกสร้างขึ้นเมื่อเร็วๆ นี้หรือไม่? ถ้าเป็นเช่นนั้นคุณจะต้องรอ 2 -- 24 ชั่วโมง **เพื่อให้การตั้งค่ามีผลบังคับใช้**
+ต้องการความช่วยเหลือในการเปิดหรือตั้งค่าการ [ประชุมทางเสียง](https://docs.microsoft.com/microsoftteams/audio-conferencing-in-office-365) ในทีม Microsoft ใช่หรือไม่ ผู้ใช้รายนี้ได้ถูกสร้างเมื่อเร็วๆนี้หรือไม่ ถ้าเป็นเช่นนั้นคุณจะต้องรอ2–24ชั่วโมง **เพื่อให้การตั้งค่ามีผล**
 
-- เมื่อต้องการตรวจสอบว่าผู้ใช้ได้รับสิทธิ์การใช้งานสําหรับการประชุมทางเสียงและมีหมายเลขโทรเข้าเริ่มต้น ให้ดูที่ การประชุม Teams และการเรียกเลขหมายใน[ใน ปัญหาและวิธีแก้ปัญหาทั่วไปของ Teams](https://docs.microsoft.com/microsoftteams/known-issues)
+- เมื่อต้องการตรวจสอบว่าผู้ใช้ได้รับสิทธิ์การใช้งานสำหรับการประชุมทางเสียงและมีหมายเลขโทรศัพท์เริ่มต้นให้ดูที่การประชุมทีมและการโทรเข้าใน[ทีมปัญหาและวิธีแก้ไขปัญหาทั่วไป](https://docs.microsoft.com/microsoftteams/known-issues)
 
-- เรียนรู้วิธี[จัดการนโยบายการประชุมใน Teams](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams) 
+- เรียนรู้วิธีการ[จัดการนโยบายการประชุมในทีม](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams) 
