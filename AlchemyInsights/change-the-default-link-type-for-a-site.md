@@ -1,25 +1,26 @@
 ---
-title: การเปลี่ยนชนิดการเชื่อมโยงเริ่มต้นสําหรับไซต์
+title: เปลี่ยนชนิดของลิงก์เริ่มต้นสำหรับไซต์
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9002578"
 - "4996"
-ms.openlocfilehash: c759e8e02b086adc2d4d7e24caba3e1684b13fcb
-ms.sourcegitcommit: 6ecb6fcbd738b8896c5d616130074438a1a6e357
+ms.openlocfilehash: 9169100cf286949fd31236f62dad3c91d6202181
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 04/16/2020
-ms.locfileid: "43530448"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47748380"
 ---
-# <a name="change-the-default-link-type-for-a-site"></a>การเปลี่ยนชนิดการเชื่อมโยงเริ่มต้นสําหรับไซต์
+# <a name="change-the-default-link-type-for-a-site"></a>เปลี่ยนชนิดของลิงก์เริ่มต้นสำหรับไซต์
 
-ผู้ใช้สามารถแชร์ไฟล์และโฟลเดอร์ใน SharePoint และ OneDrive โดยการส่งลิงก์ พวกเขาควรเลือกชนิดลิงก์ตามบุคคลที่พวกเขาต้องการให้สิทธิ์
+ผู้ใช้สามารถแชร์ไฟล์และโฟลเดอร์ใน SharePoint และ OneDrive ได้โดยการส่งลิงก์ พวกเขาควรเลือกชนิดของลิงก์ที่ยึดตามบุคคลที่พวกเขาต้องการให้สิทธิ์
 
-- [การเปลี่ยนชนิดการเชื่อมโยงเริ่มต้นสําหรับไซต์](https://docs.microsoft.com/sharepoint/change-default-sharing-link)
+- [เปลี่ยนชนิดของลิงก์เริ่มต้นสำหรับไซต์](https://docs.microsoft.com/sharepoint/change-default-sharing-link)
