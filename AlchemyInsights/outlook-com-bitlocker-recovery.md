@@ -1,26 +1,27 @@
 ---
-title: การกู้คืน Outlook.com BitLocker
+title: การกู้คืน BitLocker Outlook.com
 ms.author: daeite
 author: daeite
 manager: joallard
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "2381"
 - "9000545"
-ms.openlocfilehash: 39aa462e69d2636ee560504070d95e989c3cb0fb
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: b41797fbae6972bc0a9e0fa2252fec36f9b02ace
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43681915"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47753782"
 ---
-# <a name="bitlocker-recovery"></a><span data-ttu-id="70428-102">การกู้คืนด้วย BitLocker</span><span class="sxs-lookup"><span data-stu-id="70428-102">BitLocker recovery</span></span>
+# <a name="bitlocker-recovery"></a><span data-ttu-id="9dc8f-102">การกู้คืน BitLocker</span><span class="sxs-lookup"><span data-stu-id="9dc8f-102">BitLocker recovery</span></span>
 
-<span data-ttu-id="70428-103">ไปที่[อุปกรณ์](https://account.microsoft.com/devices/recoverykey)เพื่อดูคีย์การกู้คืน BitLocker ของคุณ</span><span class="sxs-lookup"><span data-stu-id="70428-103">Go to [Devices](https://account.microsoft.com/devices/recoverykey) to view your BitLocker recovery keys.</span></span>
+<span data-ttu-id="9dc8f-103">ไปที่ [อุปกรณ์](https://account.microsoft.com/devices/recoverykey) เพื่อดูคีย์การกู้คืน BitLocker ของคุณ</span><span class="sxs-lookup"><span data-stu-id="9dc8f-103">Go to [Devices](https://account.microsoft.com/devices/recoverykey) to view your BitLocker recovery keys.</span></span>
 
-<span data-ttu-id="70428-104">ดูข้อมูลเพิ่มเติมได้ที่ [ค้นหาคีย์การกู้คืน BitLocker ของฉัน](https://support.microsoft.com/help/4026181)</span><span class="sxs-lookup"><span data-stu-id="70428-104">See [Find my BitLocker recovery key](https://support.microsoft.com/help/4026181) for more information.</span></span>
+<span data-ttu-id="9dc8f-104">ให้ดูที่[ค้นหาคีย์การกู้คืน BitLocker ของฉัน](https://support.microsoft.com/help/4026181)   สำหรับข้อมูลเพิ่มเติม</span><span class="sxs-lookup"><span data-stu-id="9dc8f-104">See [Find my BitLocker recovery key](https://support.microsoft.com/help/4026181) for more information.</span></span>
