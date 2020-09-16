@@ -1,11 +1,12 @@
 ---
-title: โซลูชั่นสําหรับข้อผิดพลาด 30034-4
+title: วิธีแก้ไขปัญหาข้อผิดพลาด30034-4
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
@@ -13,25 +14,25 @@ ms.custom:
 - "836"
 - "2000020"
 ms.assetid: 02266d4a-f703-43da-9899-277d3664a447
-ms.openlocfilehash: e04f8a5028e3d174e6cb469a0f79cea19b4b20e7
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 02f74a04c1f18e176b7044be1de9323109d12aac
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43756938"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47738872"
 ---
-# <a name="solutions-for-error-30034-4"></a>โซลูชั่นสําหรับข้อผิดพลาด 30034-4
+# <a name="solutions-for-error-30034-4"></a>วิธีแก้ไขปัญหาข้อผิดพลาด30034-4
 
-ลองวิธีแก้ไขปัญหาเหล่านี้เพื่อแก้ไขข้อผิดพลาด[30034-4:](https://support.office.com/article/d5df89a9-0507-4b4c-92f9-22f457e630aa?wt.mc_id=Alchemy_ClientDIA)
+ลองใช้โซลูชันเหล่านี้เพื่อแก้ไขข้อผิดพลาด [30034-4](https://support.office.com/article/d5df89a9-0507-4b4c-92f9-22f457e630aa?wt.mc_id=Alchemy_ClientDIA):
   
-- รีสตาร์ทเครื่องคอมพิวเตอร์ของคุณ แล้ว[ลองติดตั้ง Office](https://portal.office.com/OLS/MySoftware.aspx)
+- รีสตาร์ตคอมพิวเตอร์ของคุณแล้วลอง[ติดตั้ง Office](https://portal.office.com/OLS/MySoftware.aspx)
 
-- ดาวน์โหลดและติดตั้ง[ผู้ช่วยสนับสนุนและการกู้คืน](https://aka.ms/SARA-OfficeUninstall-Alchemy)
+- ดาวน์โหลดและติดตั้งตัว[ช่วยการสนับสนุนและการกู้คืน](https://aka.ms/SARA-OfficeUninstall-Alchemy)
 
-1. เมื่อเปิดขึ้น จาก**ถอนการติดตั้งผลิตภัณฑ์ Office**ให้เลือกเวอร์ชันที่คุณต้องการถอนการติดตั้ง แล้วเลือก**ถัดไป**
+1. เมื่อเปิดจาก**ถอนการติดตั้งผลิตภัณฑ์ Office**เลือกเวอร์ชันที่คุณต้องการถอนการติดตั้งแล้วเลือก**ถัดไป**
 
-2. ดําเนินการต่อผ่านหน้าจอและรีสตาร์ทเครื่องคอมพิวเตอร์ของคุณเมื่อได้รับพร้อมท์
+2. ดำเนินการต่อไปยังหน้าจอและรีสตาร์ตคอมพิวเตอร์ของคุณเมื่อได้รับพร้อมท์
 
-    หลังจากเริ่มการทํางานใหม่
+    หลังจากเริ่มการทำงานใหม่ผู้ช่วยการสนับสนุนและการกู้คืนจะเปิดใหม่โดยอัตโนมัติเพื่อให้กระบวนการถอนการติดตั้งเสร็จสมบูรณ์
 
-3. ทําตามพร้อมท์ที่เหลือ และติดตั้ง[Office](https://portal.office.com/OLS/MySoftware.aspx)ใหม่ หรือปิดผู้ช่วย
+3. ติดตามพร้อมท์ที่เหลือและ [ติดตั้ง Office ใหม่](https://portal.office.com/OLS/MySoftware.aspx) หรือปิดตัวช่วยสร้าง
