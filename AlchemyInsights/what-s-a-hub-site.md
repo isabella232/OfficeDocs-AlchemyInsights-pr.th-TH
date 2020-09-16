@@ -1,24 +1,25 @@
 ---
-title: เว็บไซต์ฮับคืออะไร
+title: ไซต์ฮับคืออะไร
 ms.author: clake
 author: pebaum
 manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: c74df953-2ddc-4375-aea0-9f410881bb2e
-ms.openlocfilehash: d20d82aca926283a62015bd4dd84a97c347ef2d2
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: f6bcd7acd0562860414b72b9199a8c4a24d9bcf8
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43765334"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47767474"
 ---
-# <a name="whats-a-hub-site"></a><span data-ttu-id="cfa6f-102">เว็บไซต์ฮับคืออะไร</span><span class="sxs-lookup"><span data-stu-id="cfa6f-102">What's a hub site?</span></span>
+# <a name="whats-a-hub-site"></a><span data-ttu-id="2632d-102">ไซต์ฮับคืออะไร</span><span class="sxs-lookup"><span data-stu-id="2632d-102">What's a hub site?</span></span>
 
-<span data-ttu-id="cfa6f-103">ไซต์ศูนย์กลางจะช่วยคุณจัดระเบียบไซต์และมอบการนําทางและการสร้างแบรนด์ร่วมกัน</span><span class="sxs-lookup"><span data-stu-id="cfa6f-103">A hub site helps you organize sites and give them a common navigation and branding.</span></span> <span data-ttu-id="cfa6f-104">ผู้ดูแลระบบส่วนกลางหรือ SharePoint จะสามารถสร้างไซต์ฮับและระบุว่าผู้ใช้คนใดที่สามารถเชื่อมโยงไซต์ของตนกับฮับไซต์ได้</span><span class="sxs-lookup"><span data-stu-id="cfa6f-104">Global or SharePoint admins will be able to create hub sites and specify which users can associate their sites with the hub site.</span></span> <span data-ttu-id="cfa6f-105">สําหรับข้อมูลเพิ่มเติม ให้ดูที่[ไซต์ฮับของ SharePoint](https://go.microsoft.com/fwlink/?linkid=869388)</span><span class="sxs-lookup"><span data-stu-id="cfa6f-105">For more info, see [SharePoint hub sites](https://go.microsoft.com/fwlink/?linkid=869388).</span></span>
+<span data-ttu-id="2632d-103">ไซต์ฮับจะช่วยคุณจัดระเบียบไซต์และให้การนำทางและการใช้ตราสินค้าทั่วไป</span><span class="sxs-lookup"><span data-stu-id="2632d-103">A hub site helps you organize sites and give them a common navigation and branding.</span></span> <span data-ttu-id="2632d-104">ผู้ดูแลระบบส่วนกลางหรือผู้ดูแลระบบ SharePoint จะสามารถสร้างไซต์ฮับและระบุว่าผู้ใช้ใดบ้างที่สามารถเชื่อมโยงไซต์ของพวกเขากับไซต์ฮับได้</span><span class="sxs-lookup"><span data-stu-id="2632d-104">Global or SharePoint admins will be able to create hub sites and specify which users can associate their sites with the hub site.</span></span> <span data-ttu-id="2632d-105">สำหรับข้อมูลเพิ่มเติมให้ดูที่[ไซต์ SharePoint hub](https://go.microsoft.com/fwlink/?linkid=869388)</span><span class="sxs-lookup"><span data-stu-id="2632d-105">For more info, see [SharePoint hub sites](https://go.microsoft.com/fwlink/?linkid=869388).</span></span>
   
