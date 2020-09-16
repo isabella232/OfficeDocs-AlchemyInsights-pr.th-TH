@@ -1,30 +1,31 @@
 ---
-title: อีเมลย่อยอัตโนมัติของ SharePoint
+title: การแยกอีเมลแบบอัตโนมัติของ SharePoint
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9003118"
 - "5894"
-ms.openlocfilehash: fbca2ef975b46451c833bcc2691e008a9d82c28f
-ms.sourcegitcommit: 981880f6141278b87da22924a39bb1bb5892bb83
+ms.openlocfilehash: 42bfe92c835c2ad346ce62924d455e5d1396eaa6
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 06/22/2020
-ms.locfileid: "44847211"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47751190"
 ---
-# <a name="sharepoint-auto-digest-email"></a>อีเมลย่อยอัตโนมัติของ SharePoint
+# <a name="sharepoint-auto-digest-email"></a>การแยกอีเมลแบบอัตโนมัติของ SharePoint
 
-ข่าวย่อยอัตโนมัติของ SharePoint ส่งอีเมลอัตโนมัติไปยังผู้ใช้ใน บริษัท ของคุณเกี่ยวกับโพสต์ล่าสุดข่าวที่พวกเขายังไม่ได้อ่านที่เกี่ยวข้องกับพวกเขา
+การแยกย่อยของข่าวสารอัตโนมัติของ SharePoint จะส่งอีเมลแบบอัตโนมัติไปยังผู้ใช้ในบริษัทของคุณเกี่ยวกับโพสต์ข่าวสารล่าสุดที่พวกเขายังไม่ได้อ่านที่เกี่ยวข้องกับพวกเขา
 
-สําหรับข้อมูลเพิ่มเติมกรุณาเยี่ยมชม[https://aka.ms/autonewsdigest](https://aka.ms/autonewsdigest)
+สำหรับข้อมูลเพิ่มเติมโปรดดูที่ [https://aka.ms/autonewsdigest](https://aka.ms/autonewsdigest)
 
-- หมายเลขแผนงาน Microsoft 365: [64685](https://www.microsoft.com/microsoft-365/roadmap?filters=&featureid=64685)
-- ระยะเวลา: ลูกค้าที่ปล่อยเป้าหมายใน**ช่วงกลางเดือนกรกฎาคม (ก่อนหน้านี้เดือนมิถุนายน**และเสร็จสมบูรณ์สําหรับลูกค้าทั้งหมดโดย**ช่วงกลางเดือนสิงหาคม (ก่อนหน้านี้ต้นเดือนสิงหาคม)**
-- การเลื่อนออก: ระดับผู้ใช้จะหมุนออก
-- ประเภทการควบคุม: การควบคุมผู้ใช้**
+- Microsoft ๓๖๕ ID ของแผน:  [๖๔๖๘๕](https://www.microsoft.com/microsoft-365/roadmap?filters=&featureid=64685)
+- การกำหนดเวลา: ลูกค้าที่วางจำหน่ายใน**ช่วงกลางเดือนกรกฎาคม (ก่อนหน้านี้เดือนมิถุนายน**และเสร็จสมบูรณ์สำหรับลูกค้าทั้งหมดโดย**กลางเดือนสิงหาคม (ก่อนหน้านี้เดือนสิงหาคม)**
+- การออกจากระบบ: การโรลอัพระดับผู้ใช้
+- ชนิดของตัวควบคุม: การควบคุมผู้ใช้ ** การควบคุมผู้ดูแลระบบผ่านทาง PowerShell (เร็วๆนี้)
