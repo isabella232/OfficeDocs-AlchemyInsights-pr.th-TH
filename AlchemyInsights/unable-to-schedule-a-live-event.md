@@ -1,30 +1,31 @@
 ---
-title: ไม่สามารถจัดตารางเวลาถ่ายทอดสด
+title: ไม่สามารถจัดกำหนดการเหตุการณ์สด
 ms.author: pebaum
 author: pebaum
 manager: scotv
 ms.date: 08/03/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "6139"
 - "9000208"
-ms.openlocfilehash: e898e6dc0e779735b104cd5f304fc9e438b2f9b4
-ms.sourcegitcommit: c32ccdd6e87964f01a56d9a36070e4571ebf1ab1
+ms.openlocfilehash: a0507ee12efb3a076b962de72afda4a612fa1cfd
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 08/03/2020
-ms.locfileid: "46556123"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47735290"
 ---
-# <a name="unable-to-schedule-a-live-event"></a>ไม่สามารถจัดตารางเวลาถ่ายทอดสด
+# <a name="unable-to-schedule-a-live-event"></a>ไม่สามารถจัดกำหนดการเหตุการณ์สด
 
-ใบอนุญาตแผนบริการสําหรับองค์กรของคุณไม่สนับสนุน Teams Live Events กิจกรรมสดของ Teams มีให้สําหรับสิทธิ์การใช้งาน E1, E3, E5, A3 และ A5 เท่านั้น
+สิทธิ์การใช้งานแผนบริการสำหรับองค์กรของคุณไม่สนับสนุนการแข่งขันที่มีอยู่ในทีม ทีมเหตุการณ์ที่ถ่ายทอดสดจะพร้อมใช้งานสำหรับ E1, E3, E5, A3 และ A5 สิทธิ์การใช้งานเท่านั้น
 
-- รหัสผู้ใช้ที่ระบุไม่มีกล่องจดหมายออนไลน์ ซึ่งจําเป็นสําหรับการจัดตารางเวลา Teams Live Event ติดต่อผู้ดูแลระบบไอทีของคุณสําหรับความช่วยเหลือ สําหรับข้อมูลเพิ่มเติม ให้ดูที่[สร้างกล่องจดหมายของผู้ใช้ใน Exchange Online](https://docs.microsoft.com/exchange/recipients-in-exchange-online/create-user-mailboxes)
+- ID ผู้ใช้ที่ให้ไว้ไม่มีกล่องจดหมายแบบออนไลน์ซึ่งจำเป็นสำหรับการจัดกำหนดการเหตุการณ์แบบสดของทีม ติดต่อผู้ดูแลระบบ IT ของคุณเพื่อขอความช่วยเหลือ สำหรับข้อมูลเพิ่มเติมให้ดู[ที่สร้างกล่องจดหมายของผู้ใช้ใน Exchange Online](https://docs.microsoft.com/exchange/recipients-in-exchange-online/create-user-mailboxes)
 
-- องค์กรของคุณไม่มีสิทธิ์การใช้งานสตรีมที่พร้อมใช้งาน หรือผู้ใช้ที่ระบุไม่ได้ตั้งค่าอย่างถูกต้องในพอร์ทัลผู้ดูแลระบบสตรีม สําหรับข้อมูลเพิ่มเติม ให้ดูที่[เหตุการณ์สดใน Microsoft Stream](https://docs.microsoft.com/stream/live-event-overview)
+- องค์กรของคุณไม่มีสิทธิ์การใช้งานสตรีมที่พร้อมใช้งานหรือผู้ใช้ที่ให้มาไม่ได้ถูกตั้งค่าในพอร์ทัลการดูแลระบบสตรีม สำหรับข้อมูลเพิ่มเติมให้ดู[ที่เหตุการณ์ที่ถ่ายทอดสดใน Microsoft Stream](https://docs.microsoft.com/stream/live-event-overview)
 
-- องค์กรของคุณอยู่ในประเทศที่ไม่สนับสนุน Teams Live Events ในขณะนี้ เราทํางานอย่างหนักเพื่อเปิดใช้งาน Teams Live Events ในทุกภูมิภาค สําหรับข้อมูลเพิ่มเติม ให้ดูที่[วางแผนสําหรับเหตุการณ์ที่เกิดขึ้นจริงใน Microsoft Teams](https://docs.microsoft.com/microsoftteams/teams-live-events/plan-for-teams-live-events)
+- องค์กรของคุณอยู่ในประเทศที่ไม่สนับสนุนการทำงานของทีมเหตุการณ์ที่มีอยู่ในขณะนี้ เรากำลังทำงานอย่างหนักเพื่อเปิดใช้งานการแข่งขันของทีมในทุกภูมิภาค สำหรับข้อมูลเพิ่มเติมให้ดู[ที่วางแผนสำหรับเหตุการณ์สดในทีม Microsoft](https://docs.microsoft.com/microsoftteams/teams-live-events/plan-for-teams-live-events)

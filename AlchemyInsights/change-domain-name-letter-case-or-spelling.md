@@ -1,32 +1,33 @@
 ---
-title: เปลี่ยนกรณีอักษรหรือตัวพิมพ์ชื่อโดเมน
+title: เปลี่ยนตัวพิมพ์ของตัวอักษรชื่อโดเมนหรือการสะกด
 ms.author: pebaum
 author: pebaum
 manager: scotv
 ms.date: 07/13/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "5996"
 - "9003201"
-ms.openlocfilehash: 7a8efc6ee5dddc17bbd697055ff7c5d79c89864c
-ms.sourcegitcommit: 45c2aaeee58c0be466b76c7f0cd71e796d3c8f76
+ms.openlocfilehash: 8568cb52121d14e1f9fd242365ba4be0694fea53
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 07/15/2020
-ms.locfileid: "45138954"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47733742"
 ---
-# <a name="change-a-domain-name-letter-case-or-spelling"></a>เปลี่ยนกรณีอักษรหรือตัวพิมพ์ชื่อโดเมน
+# <a name="change-a-domain-name-letter-case-or-spelling"></a>เปลี่ยนตัวพิมพ์ของตัวอักษรชื่อโดเมนหรือการสะกด
 
-เมื่อต้องการเปลี่ยนการสะกดของชื่อโดเมนแบบกําหนดเอง เช่น ตัวอักษรตัวพิมพ์เล็กทั้งหมด หรือตัวอักษรตัวพิมพ์เล็กและตัวพิมพ์ใหญ่
+เมื่อต้องการเปลี่ยนการสะกดของชื่อโดเมนแบบกำหนดเองตัวอย่างเช่นตัวอักษรพิมพ์เล็กทั้งหมดหรือตัวอักษรพิมพ์ใหญ่และตัวพิมพ์ใหญ่จะต้องถูกเอาออกและเพิ่มอีกครั้งด้วยตัวพิมพ์อักษรหรือการสะกดที่ต้องการ
 
-1. บนหน้า[โดเมน](https://portal.office.com/adminportal/home#/Domains)ให้เลือกโดเมน แล้วเลือก**เอาโดเมนออก**</br>
+1. บน[หน้าโดเมน](https://portal.office.com/adminportal/home#/Domains)ให้เลือกโดเมนแล้วเลือก**เอาโดเมนออก**</br>
 
-    สําหรับคําแนะนําโดยละเอียดเพิ่มเติม ให้ดูที่[วิธีการเอาโดเมนออก](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/remove-a-domain?view=o365-worldwide)
+    สำหรับคำแนะนำโดยละเอียดเพิ่มเติมให้ดู[ที่วิธีการเอาโดเมนออก](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/remove-a-domain?view=o365-worldwide)
 
-2. เพิ่มโดเมนที่ มีการสะกดที่ถูกต้องและตัวพิมพ์ตัวอักษร โดยใช้[ตัวช่วยสร้างการเพิ่มโดเมน](https://portal.office.com/adminportal/home#/Domains/Wizard)
+2. เพิ่มโดเมนใหม่ด้วยตัวพิมพ์การสะกดและตัวอักษรที่ถูกต้องโดยใช้ตัว[ช่วยสร้างเพิ่มโดเมน](https://portal.office.com/adminportal/home#/Domains/Wizard)
 
-คุณไม่สามารถเปลี่ยนกรณีจดหมายหรือเปลี่ยนชื่อโดเมนonmicrosoft.com หรือโดเมนที่ซื้อผ่าน Microsoft หลังจากลงชื่อสมัครใช้แล้ว
+คุณไม่สามารถเปลี่ยนตัวพิมพ์ของตัวอักษรหรือเปลี่ยนชื่อโดเมน onmicrosoft.com หรือโดเมนที่ซื้อผ่านไมโครซอฟท์หลังจากลงทะเบียนแล้ว
