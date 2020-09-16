@@ -1,35 +1,36 @@
 ---
-title: ไมโครซอฟท์เปลี่ยนชื่อ Office 365 ไปยัง Microsoft 365
+title: Microsoft กำลังเปลี่ยนชื่อ Office ๓๖๕ไปยัง Microsoft ๓๖๕
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9002346"
 - "4566"
-ms.openlocfilehash: ac22565af3e0fbdb4f6109ad265b08b497bd75dc
-ms.sourcegitcommit: 9923ce61344e22c4490549b12f65fa2896490b1f
+ms.openlocfilehash: 9d201cc2286fc609e1295caecd60b9453fd124f4
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 04/01/2020
-ms.locfileid: "43100675"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47724850"
 ---
-# <a name="microsoft-is-renaming-office-365-to-microsoft-365"></a>ไมโครซอฟท์เปลี่ยนชื่อ Office 365 ไปยัง Microsoft 365
+# <a name="microsoft-is-renaming-office-365-to-microsoft-365"></a>Microsoft กำลังเปลี่ยนชื่อ Office ๓๖๕ไปยัง Microsoft ๓๖๕
 
-ไม่มีการกระทําที่จําเป็นในส่วนของคุณ ไม่มีการเปลี่ยนแปลงราคาหรือคุณลักษณะ แอปและบริการเดียวกันจะพร้อมใช้งานเฉพาะชื่อที่อัปเดตเท่านั้น ชื่อของการสมัครใช้งานของคุณจะอัปเดตในเอกสารของ Microsoft ศูนย์การจัดการ และใบแจ้งยอดการเรียกเก็บเงินของคุณโดยอัตโนมัติในหรือหลังวันที่ 21 เมษายน 2020
+ไม่จำเป็นต้องมีการดำเนินการใดๆในส่วนของคุณ ไม่มีการเปลี่ยนแปลงราคาหรือลักษณะการทำงาน แอปและบริการเดียวกันพร้อมใช้งานเฉพาะกับชื่อที่ได้รับการอัปเดต ชื่อของการสมัครใช้งานของคุณจะได้รับการอัปเดตโดยอัตโนมัติในเอกสารประกอบของ Microsoft ศูนย์การจัดการและใบแจ้งยอดหนี้ของคุณในวันที่หรือหลังวันที่21เมษายน๒๐๒๐
 
-การบอกรับเป็นสมาชิกต่อไปนี้จะถูกเปลี่ยนชื่อ:
+ในฐานะที่เป็นส่วนหนึ่งของการเปลี่ยนชื่อการสมัครใช้งานต่อไปนี้จะถูกเปลี่ยนชื่อ:
 
-- สิ่งจําเป็นสําหรับธุรกิจ Office 365 จะกลายเป็นพื้นฐานธุรกิจ 365 Microsoft
+- สิ่งที่จำเป็นสำหรับธุรกิจของ Office ๓๖๕จะกลายเป็น Microsoft ๓๖๕ Business Basic
 
-- ค่าจ้างพิเศษสําหรับธุรกิจ Office 365 จะกลายเป็นมาตรฐานธุรกิจของ Microsoft 365
+- Office ๓๖๕ Business Premium จะกลายเป็นมาตรฐานของ Microsoft ๓๖๕ Business
 
-- ธุรกิจของ Microsoft 365 จะกลายเป็นพรีเมี่ยมธุรกิจ 365 ของ Microsoft
+- Microsoft ๓๖๕ Business จะกลายเป็น Microsoft ๓๖๕ Business Premium
 
-- ธุรกิจ Office 365 จะกลายเป็นแอป Microsoft 365 สําหรับธุรกิจ
+- Office ๓๖๕ Business จะกลายเป็นแอป Microsoft ๓๖๕สำหรับธุรกิจ
 
-- Office 365 ProPlus จะกลายเป็นแอป Microsoft 365 สําหรับองค์กร
+- Office ๓๖๕ ProPlus จะกลายเป็นแอป Microsoft ๓๖๕สำหรับองค์กร

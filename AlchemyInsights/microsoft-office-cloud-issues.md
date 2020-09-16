@@ -1,27 +1,28 @@
 ---
-title: บทบาทผู้ดูแลระบบและวิธีการกําหนด
+title: บทบาทผู้ดูแลระบบและวิธีการกำหนด
 ms.author: pebaum
 author: pebaum
 manager: pamgreen
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: ca7d439d-ffe7-4351-bfd1-b022e4056138
-ms.openlocfilehash: 8bc63bd52b1d6a9a7913f025c9dc3390ffbb023f
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: d6d652d107d453692751ad802ebe397e52df5627
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43762372"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47724706"
 ---
-# <a name="experiencing-problems-with-a-cloud-service"></a>ประสบปัญหาในการให้บริการคลาวด์ใช่หรือไม่
+# <a name="experiencing-problems-with-a-cloud-service"></a>พบปัญหาเกี่ยวกับบริการระบบคลาวด์ใช่ไหม
 
-ถ้าคุณประสบปัญหาเกี่ยวกับบริการ Cloud คุณสามารถตรวจสอบ[สถานภาพบริการ](https://admin.microsoft.com/AdminPortal/Home#/servicehealth)ในศูนย์การจัดการ Microsoft 365 เพื่อตรวจสอบว่า เป็นปัญหาที่ทราบเกี่ยวกับการแก้ปัญหาที่อยู่ระหว่างดําเนินการก่อนที่คุณโทรฝ่ายสนับสนุน หรือใช้เวลาการแก้ไขปัญหา ปัญหาอาจเป็นเรื่องชั่วคราวและระบุแล้วโดย Microsoft แต่อาจมีการล่วงเวลาในเวลาระหว่างการระบุปัญหาและการลงรายการบัญชีไปยังแดชบอร์ดสุขภาพบริการ กรุณาตรวจสอบแดชบอร์ดบริการต่อไปสําหรับการปรับปรุงต่อไป
+ถ้าคุณพบปัญหาเกี่ยวกับบริการระบบคลาวด์คุณสามารถตรวจสอบ [สถานภาพบริการ](https://admin.microsoft.com/AdminPortal/Home#/servicehealth) ในศูนย์การจัดการ Microsoft ๓๖๕เพื่อตรวจสอบว่าเป็นปัญหาที่ทราบเกี่ยวกับความคืบหน้าในการแก้ไขปัญหาก่อนที่คุณจะติดต่อฝ่ายสนับสนุนหรือการแก้ไขปัญหาการใช้เวลา ปัญหานี้อาจเป็นแบบชั่วคราวและมีการระบุไว้แล้วโดยไมโครซอฟท์แต่อาจมีการเหลื่อมเวลาระหว่างการระบุปัญหาและการโพสต์ไปยังแดชบอร์ดความสมบูรณ์ของบริการ โปรดตรวจสอบแดชบอร์ดการบริการเพื่อดูการอัปเดตเพิ่มเติมต่อไป
 
 **นโยบายการแจ้งเตือน**
 
-เมื่อเกิดเหตุการณ์การบริการ Microsoft ตระหนักว่าการสื่อสารที่ตรงเป้าหมาย และถูกต้องทันเวลาเป็นสิ่งสําคัญสําหรับลูกค้า Microsoft จะระบุผู้ดูแลระบบโดยการปรับปรุง[แดชบอร์ดสถานภาพบริการ (SHD)](https://admin.microsoft.com/AdminPortal/Home#/servicehealth)ของผู้เช่าบนเว็บไซต์ Microsoft 365 Admin การปรับปรุงเหตุการณ์การบริการมีให้ในจังหวะชั่วโมงหรือหากจําเป็นต้องมีจังหวะที่แตกต่างกันก็จะระบุไว้ในการโพสต์การสื่อสาร SHD สําหรับข้อมูลเพิ่มเติม ให้ดูที่[วิธีการตรวจสอบความสมบูรณ์ของบริการ 365 Microsoft](https://docs.microsoft.com/office365/enterprise/view-service-health)
+เมื่อเหตุการณ์ของบริการเกิดขึ้น Microsoft จะรู้ว่าการติดต่อสื่อสารที่ทันเวลาและถูกต้องเป็นสิ่งสำคัญสำหรับลูกค้า Microsoft จะแจ้งให้ผู้ดูแลระบบทราบโดยการอัปเดต [แดชบอร์ดสถานภาพบริการเฉพาะผู้เช่า (SHD)](https://admin.microsoft.com/AdminPortal/Home#/servicehealth) บนพอร์ทัลผู้ดูแลระบบ Microsoft ๓๖๕ การอัปเดตประจำเหตุการณ์ของบริการจะมีให้ในการแข่งขันต่อชั่วโมงหรือถ้าจำเป็นต้องมีการใช้จังหวะที่แตกต่างกันจะมีการระบุไว้ในการโพสต์การติดต่อสื่อสาร SHD สำหรับข้อมูลเพิ่มเติมให้ดู[ที่วิธีการตรวจสอบสถานภาพบริการของ Microsoft ๓๖๕](https://docs.microsoft.com/office365/enterprise/view-service-health)
 
