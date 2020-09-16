@@ -1,24 +1,25 @@
 ---
-title: คุณสมบัติการมองเห็นเว็บ
+title: คุณสมบัติการมองเห็น Webresource
 ms.author: pebaum
 author: pebaum
 manager: scotv
 ms.date: 07/27/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "1952"
 - "9000326"
-ms.openlocfilehash: e7be59fd4bff91eb78fe15e5822c128698d16b9b
-ms.sourcegitcommit: b10cea11b4975354b91193327b58aa4740d34833
+ms.openlocfilehash: 0d5a619c1a9fdaabc9ec11b20d36431aeb235423
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 07/28/2020
-ms.locfileid: "45440248"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47725966"
 ---
-# <a name="webresource-visibility-property"></a>คุณสมบัติการมองเห็นเว็บ
+# <a name="webresource-visibility-property"></a>คุณสมบัติการมองเห็น Webresource
 
-คุณต้องเลือกตัวเลือก**มองเห็นได้ตามค่าเริ่มต้น**สําหรับทรัพยากรบนเว็บเพื่อให้ปรากฏบนฟอร์มและพร้อมใช้งานสําหรับผู้ใช้ สําหรับข้อมูลเพิ่มเติม ให้ดูที่[คุณสมบัติของทรัพยากรบนเว็บสําหรับฟอร์มแอปที่เป็นแบบโมเดล](https://docs.microsoft.com/powerapps/maker/model-driven-apps/web-resource-properties-legacy)
+คุณต้องเลือกตัวเลือกที่ **มองเห็นได้ตามค่าเริ่มต้น** สำหรับทรัพยากรบนเว็บเพื่อให้ปรากฏบนฟอร์มและพร้อมใช้งานสำหรับผู้ใช้ สำหรับข้อมูลเพิ่มเติมให้ดูที่[คุณสมบัติของทรัพยากรบนเว็บสำหรับฟอร์มแอปที่ขับเคลื่อนด้วยแบบจำลอง](https://docs.microsoft.com/powerapps/maker/model-driven-apps/web-resource-properties-legacy)

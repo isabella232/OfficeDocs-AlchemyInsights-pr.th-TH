@@ -1,36 +1,37 @@
 ---
-title: วิธีปิดบัญชี
+title: วิธีการปิดบัญชีผู้ใช้ของคุณ
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.custom: ''
 ms.assetid:
 - "9002317"
 - "4502"
-ms.openlocfilehash: 6a6a779ec422a201bd55f5a84d432a777fa656d9
-ms.sourcegitcommit: 183dc4c002c151474628b6d7c4571a5264dc5257
+ms.openlocfilehash: ea6a54b8eb64b54def4d8b8360f3f7cafba88afc
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 03/25/2020
-ms.locfileid: "42954054"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47780834"
 ---
-# <a name="how-to-close-your-account"></a>วิธีปิดบัญชี
+# <a name="how-to-close-your-account"></a>วิธีการปิดบัญชีผู้ใช้ของคุณ
 
-เมื่อคุณปิดบัญชีของคุณกับ Microsoft ข้อมูลทั้งหมดที่เกี่ยวข้องกับบัญชีของคุณจะถูกลบ ข้อมูลนี้รวมถึงการสมัครใช้งาน สิทธิ์การใช้งาน วิธีการชําระเงิน ผู้ใช้ และข้อมูลผู้ใช้ ก่อนที่คุณจะเริ่มกระบวนการนี้
+เมื่อคุณปิดบัญชีผู้ใช้ของคุณด้วย Microsoft ข้อมูลทั้งหมดที่เกี่ยวข้องกับบัญชีผู้ใช้ของคุณจะถูกลบ ข้อมูลนี้รวมถึงการสมัครใช้งานสิทธิ์การใช้งานวิธีการชำระเงินผู้ใช้และข้อมูลผู้ใช้ ก่อนที่คุณจะเริ่มกระบวนการนี้ให้ตรวจสอบให้แน่ใจว่าได้สำรองข้อมูลใดๆที่คุณต้องการเก็บรักษาไว้
 
-การปิดบัญชีของคุณมี 5 ขั้นตอน:
+มีห้าขั้นตอนในการปิดบัญชีผู้ใช้ของคุณ:
 
 1. ลบผู้ใช้
 
-2. ยกเลิกการบอกรับเป็นสมาชิกที่ใช้งานอยู่ทั้งหมด
+2. ยกเลิกการสมัครใช้งานที่ใช้งานอยู่ทั้งหมด
 
-3. ลบการบอกรับเป็นสมาชิกที่ถูกปิดใช้งานทั้งหมด
+3. ลบการสมัครใช้งานที่ปิดใช้งานทั้งหมด
 
-4. ปิดใช้งานการรับรองความถูกต้องด้วยหลายปัจจัย
+4. ปิดใช้งานการรับรองความถูกต้องแบบหลายปัจจัย
 
-5. ลบไดเรกทอรีในไดเรกทอรีที่ใช้งานอยู่ของ Azure
+5. ลบไดเรกทอรีใน Azure Active Directory
 
-คุณสามารถดูคําแนะนําฉบับเต็มได้ใน[บทความการสนับสนุนของบัญชี](https://docs.microsoft.com/microsoft-365/commerce/close-your-account)
+คุณสามารถค้นหาคำแนะนำแบบเต็มได้ในบทความที่ปิดการสนับสนุน[บัญชีผู้ใช้ของคุณ](https://docs.microsoft.com/microsoft-365/commerce/close-your-account)

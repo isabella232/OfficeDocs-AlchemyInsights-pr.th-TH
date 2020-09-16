@@ -1,23 +1,24 @@
 ---
-title: อัปเดตในกล่องจดหมายที่มุ่งเน้นและแผนการของเราสําหรับกองข้อความ
+title: อัปเดตในกล่องจดหมายเข้าที่โฟกัสและแผนของเราสำหรับการจัดระเบียบ
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9002504"
 - "4854"
-ms.openlocfilehash: 92e1633ff4d2ed709907f6125d05440ed673c8db
-ms.sourcegitcommit: 04484c73b96bf76d1b50796b3e8913f49095c4f3
+ms.openlocfilehash: c7a619d3b32556dbe0c1b20ae0f87d809d4cdbbb
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 04/18/2020
-ms.locfileid: "43553609"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47796883"
 ---
-# <a name="update-on-focused-inbox-and-our-plans-for-clutter"></a>อัปเดตในกล่องจดหมายที่มุ่งเน้นและแผนการของเราสําหรับกองข้อความ
+# <a name="update-on-focused-inbox-and-our-plans-for-clutter"></a>อัปเดตในกล่องจดหมายเข้าที่โฟกัสและแผนของเราสำหรับการจัดระเบียบ
 
-สําหรับข้อมูลล่าสุด ให้ดูที่[การปรับปรุงกล่องขาเข้าที่โฟกัสและแผนของเราสําหรับ กองข้อความ](https://techcommunity.microsoft.com/t5/outlook-blog/update-on-focused-inbox-and-our-plans-for-clutter/ba-p/136448)
+สำหรับข้อมูลล่าสุดให้ดู [อัปเดตในกล่องจดหมายเข้าที่โฟกัสและแผนของเราสำหรับ](https://techcommunity.microsoft.com/t5/outlook-blog/update-on-focused-inbox-and-our-plans-for-clutter/ba-p/136448)กองข้อความ

@@ -1,24 +1,25 @@
 ---
-title: เปิดใช้งานการโรมมิ่งรัฐองค์กร
+title: เปิดใช้งานการโรมมิ่งของรัฐขององค์กร
 ms.author: pebaum
 author: pebaum
 manager: scotv
 ms.date: 07/27/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "6116"
 - "9003236"
-ms.openlocfilehash: 354c78762786d536a52474f817ee32ed425dab7b
-ms.sourcegitcommit: b10cea11b4975354b91193327b58aa4740d34833
+ms.openlocfilehash: ce89060fc9e470c594970245bd003951ad09cd8b
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 07/28/2020
-ms.locfileid: "45439701"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47806418"
 ---
-# <a name="enable-enterprise-state-roaming"></a>เปิดใช้งานการโรมมิ่งรัฐองค์กร
+# <a name="enable-enterprise-state-roaming"></a>เปิดใช้งานการโรมมิ่งของรัฐขององค์กร
 
-เมื่อต้องการเปิดใช้งานการโรมมิ่งสถานะองค์กรด้วยพรีเมี่ยม Azure AD ดู[เปิดใช้งานการโรมมิ่งสถานะองค์กรในไดเรกทอรีที่ใช้งานอยู่ของ Azure](https://docs.microsoft.com/azure/active-directory/devices/enterprise-state-roaming-enable)
+เมื่อต้องการเปิดใช้งานการโรมมิ่งของรัฐขององค์กรด้วย Azure AD premium ให้ดูที่การ[เปิดใช้งานการโรมมิ่งของรัฐขององค์กรใน Azure Active directory](https://docs.microsoft.com/azure/active-directory/devices/enterprise-state-roaming-enable)
