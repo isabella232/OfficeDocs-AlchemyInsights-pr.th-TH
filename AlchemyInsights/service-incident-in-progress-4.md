@@ -1,9 +1,10 @@
 ---
-title: เหตุการณ์การบริการที่กําลังดําเนินการ
-ms.author: v-crytho
+title: เหตุการณ์ของบริการที่กำลังดำเนินการอยู่
+ms.author: pebaum
 author: CrystalThomasMS
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: e3fa17dd-c822-41e7-aaba-d9d2c5381fd6
@@ -12,19 +13,19 @@ ms.custom:
 - "1891"
 - "1600011"
 - "9000287"
-ms.openlocfilehash: 56593d5cc395799f7d253553e5f806d9f9b196e3
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: 8ed373939f82f7f96fd51587210dcc26f28e75f8
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "36666319"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47767690"
 ---
-# <a name="service-incident-in-progress"></a>เหตุการณ์การบริการที่กําลังดําเนินการ
+# <a name="service-incident-in-progress"></a>เหตุการณ์ของบริการที่กำลังดำเนินการอยู่
 
-คุณอาจได้รับผลกระทบจากเหตุการณ์บริการหรือคําแนะนําที่กําลังถูกตรวจสอบอยู่ คุณสามารถตรวจสอบสถานะล่าสุดได้โดยไปที่หน้า[สถานภาพบริการ](https://admin.microsoft.com/adminportal/home#/servicehealth)
+คุณอาจได้รับผลกระทบจากปัญหาด้านบริการหรือคำแนะนำที่ได้รับการตรวจสอบในขณะนี้ คุณสามารถตรวจสอบสถานะล่าสุดได้โดยไปที่หน้า[สถานภาพบริการ](https://admin.microsoft.com/adminportal/home#/servicehealth)
   
-เพื่อความสะดวกของคุณ, คุณสามารถหาสรุปของเหตุการณ์นี้ด้านล่าง:
+เพื่อความสะดวกของคุณคุณสามารถค้นหาข้อมูลสรุปของเหตุการณ์นี้ได้ที่ด้านล่าง:
   
-> **หมายเลขเหตุการณ์:**[{รหัสเหตุการณ์}](https://admin.microsoft.com/adminportal/home#/servicehealth)
+> **หมายเลขเหตุการณ์:**[{IncidentId}](https://admin.microsoft.com/adminportal/home#/servicehealth)
     
-> คําอธิบายผลกระทบ: {คําอธิบายผลกระทบ}
+> คำอธิบายผลกระทบ: {ImpactDescription}
