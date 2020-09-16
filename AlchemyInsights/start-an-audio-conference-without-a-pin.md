@@ -1,33 +1,34 @@
 ---
-title: เริ่มการประชุมทางเสียงโดยไม่มี PIN
+title: เริ่มการประชุมด้วยเสียงโดยไม่มี PIN
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9002882"
 - "5496"
-ms.openlocfilehash: c9f3453318a17ba578d9e8c4b158b5226167db73
-ms.sourcegitcommit: 8b50994a2979778ce8474ce83bd86b60e7d2cb2f
+ms.openlocfilehash: 2ba4dd1ef2725cf78de51ddcd8b510d90e504096
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 05/05/2020
-ms.locfileid: "44022642"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47726614"
 ---
-# <a name="start-an-audio-conference-without-a-pin"></a>เริ่มการประชุมทางเสียงโดยไม่มี PIN
+# <a name="start-an-audio-conference-without-a-pin"></a>เริ่มการประชุมด้วยเสียงโดยไม่มี PIN
 
-**เมื่อต้องการเปิดหรือปิดใช้งานผู้โทรแบบไม่ระบุชื่อจากการเข้าร่วมการประชุม**
+**เมื่อต้องการเปิดใช้งานหรือปิดใช้งานผู้โทรที่ไม่ระบุชื่อจากการเข้าร่วมการประชุม**
 
-การใช้**ศูนย์การจัดการ Microsoft Teams**:
+การใช้ **ศูนย์การจัดการทีมของ Microsoft**:
 
-1. ในการนําทางด้านซ้าย ให้คลิก**ผู้ใช้**
-2. เลือกผู้ใช้ในรายการ แล้วคลิก**แก้ไข**ที่ด้านบนของหน้า
-3. ถัดจาก**การประชุมทางเสียง**ให้คลิก**แก้ไข**
-4. ในบานหน้าต่าง**การประชุมทางเสียง**ให้เปิดหรือปิด**ใช้งานผู้โทรเข้าในสามารถเป็นคนแรกในการประชุม**
-5. คลิก**นําไปใช้**
+1. ในการนำทางด้านซ้ายให้คลิก**ผู้ใช้**
+2. เลือกผู้ใช้ในรายการแล้วคลิก **แก้ไข** ที่ด้านบนของหน้า
+3. ถัดจากการ**ประชุมทางเสียง**ให้คลิก**แก้ไข**
+4. ในบานหน้าต่างการ **ประชุมทางเสียง** ให้เปิดใช้งานหรือปิดใช้งาน **ผู้โทรเข้าที่สามารถเป็นบุคคลแรกในการประชุม**ได้
+5. คลิก**นำไปใช้**
 
-สําหรับข้อมูลเพิ่มเติม ให้ดูที่[การเปิดใช้งานหรือปิดใช้งานผู้โทรแบบไม่ระบุชื่อจากการเข้าร่วมการประชุม](https://docs.microsoft.com/microsoftteams/start-an-audio-conference-over-the-phone-without-a-pin-in-teams)
+สำหรับข้อมูลเพิ่มเติมให้ดูที่[เปิดใช้งานหรือปิดใช้งานผู้โทรที่ไม่ระบุชื่อจากการเข้าร่วมการประชุม](https://docs.microsoft.com/microsoftteams/start-an-audio-conference-over-the-phone-without-a-pin-in-teams)
