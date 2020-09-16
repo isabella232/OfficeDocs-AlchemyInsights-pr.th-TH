@@ -1,37 +1,38 @@
 ---
-title: ลบแชนเนลส่วนตัวของทีม
+title: การลบแชนเนลส่วนตัวของทีม
 ms.author: pebaum
 author: pebaum
 manager: scotv
 ms.date: 07/24/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "3781"
 - "9001223"
-ms.openlocfilehash: 2ee998f0c70973645c273a2a6609af2420a4f74b
-ms.sourcegitcommit: b10cea11b4975354b91193327b58aa4740d34833
+ms.openlocfilehash: 56021a335c64810700913cf08519b95f24a7a17d
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 07/28/2020
-ms.locfileid: "45439912"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47730934"
 ---
-# <a name="delete-a-teams-private-channel"></a>ลบแชนเนลส่วนตัวของทีม
+# <a name="delete-a-teams-private-channel"></a>การลบแชนเนลส่วนตัวของทีม
 
-Microsoft ตระหนักถึงปัญหาในการลบแชนเนลส่วนตัวของ Teams ถ้าคุณมีนโยบายการเก็บข้อมูล SharePoint ที่เปิดใช้งานสําหรับไซต์ SharePoint ต้นแบบ ไมโครซอฟท์กําลังทํางานเกี่ยวกับการแก้ไข ในระหว่างนี้ คุณสามารถใช้วิธีแก้ปัญหาต่อไปนี้เพื่อลบสถานีส่วนตัว
+Microsoft ทราบถึงปัญหาในการลบทีมส่วนตัวถ้าคุณมีนโยบายการเก็บข้อมูล SharePoint ที่เปิดใช้งานสำหรับไซต์ SharePoint ต้นแบบ Microsoft กำลังทำงานกับการแก้ไข ในระหว่างนี้คุณสามารถใช้วิธีการแก้ไขปัญหาต่อไปนี้เพื่อลบช่องทางส่วนตัว
 
-**แยกชุดทีม/ไซต์ออกจากนโยบายการเก็บข้อมูลของ Sharepoint**
+**ยกเว้นไซต์คอลเลกชันของทีม/ไซต์คอลเลกชันจากนโยบายการเก็บข้อมูลของ Sharepoint**
 
-1. ไปที่พอร์ทัลผู้ดูแลระบบ Office 365 แล้วเลือก**แสดงทั้งหมด**ในบานหน้าต่างนําทางด้านซ้าย
-2. ภายใต้**ศูนย์การจัดการ**ให้ไปที่**นโยบายการป้องกัน**  >  **การสูญหายของข้อมูล**  >  **Policy**&การปฏิบัติตามกฎระเบียบ
-3. ระบุนโยบายใด ๆ ที่ใช้กับไซต์ Sharepoint และปรับเปลี่ยนนโยบายเพื่อให้ไซต์ Sharepoint สําหรับทีมที่มีแชนเนลส่วนตัวไม่ได้รวมอยู่ในนโยบายการเก็บข้อมูล
+1. ไปที่พอร์ทัลผู้ดูแลระบบ Office ๓๖๕แล้วเลือก **แสดงทั้งหมด** ในบานหน้าต่างนำทางด้านซ้าย
+2. ภายใต้**ศูนย์การจัดการ**ให้ไปที่นโยบายการป้องกันการสูญหายของข้อมูลการ**รักษาความปลอดภัย & การปฏิบัติ**ตามนโยบาย  >  **Data Loss Prevention**  >  **Policy**
+3. ระบุนโยบายใดๆที่นำไปใช้กับไซต์ Sharepoint และปรับเปลี่ยนนโยบายดังนั้นไซต์ Sharepoint สำหรับทีมที่มีแชนเนลส่วนตัวจะไม่รวมอยู่ภายใต้นโยบายการเก็บข้อมูล
 4. บันทึกนโยบาย
-    การตั้งค่านโยบายอาจใช้เวลาถึง 24 ชั่วโมง
-    หลังจากที่เว็บไซต์ได้รับการยกเว้นคุณสามารถลบช่องส่วนตัว  
+    อาจใช้เวลาถึง24ชั่วโมงสำหรับการตั้งค่านโยบายจะมีผล
+    หลังจากที่ไซต์ถูกแยกออกแล้วคุณสามารถลบแชนเนลส่วนตัวได้  
     
-***คุณอาจ***ลบช่องส่วนตัวได้โดยใช้ Microsoft Teams บนอุปกรณ์ Android ของคุณ 
+คุณ  ***อาจ*** สามารถลบช่องทางส่วนตัวโดยใช้ทีม Microsoft บนอุปกรณ์ Android ของคุณ 
 
-สําหรับข้อมูล SharePoint ที่เกี่ยวข้อง ให้ดูที่[ไม่สามารถลบรายการใน SharePoint แบบออนไลน์ หรือ OneDrive สําหรับธุรกิจ](https://docs.microsoft.com/alchemyinsights/retention-policy-ediscovery-hold)
+สำหรับข้อมูล SharePoint ที่เกี่ยวข้องให้ดูที่ [ไม่สามารถลบรายการใน SharePoint Online หรือ OneDrive For Business](https://docs.microsoft.com/alchemyinsights/retention-policy-ediscovery-hold)ได้

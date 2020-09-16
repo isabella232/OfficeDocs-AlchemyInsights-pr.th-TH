@@ -1,37 +1,38 @@
 ---
-title: เกินขีดจํากัดอีเมลรายวัน เวิร์กโฟลว์ถูกระงับ
+title: เกินขีดจำกัดของอีเมลในชีวิตประจำวัน เวิร์กโฟลว์ถูกหยุดชั่วคราว
 ms.author: pebaum
 author: pebaum
 manager: pamgreen
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "5200020"
 - "1227"
-ms.openlocfilehash: 701c4aef6bfc0c4a2c4570f6dd16dbe4f99efc44
-ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
+ms.openlocfilehash: dfb42b24f1c2b4b05cb067a82505a6a8b63f277e
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 06/05/2020
-ms.locfileid: "44580352"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47731582"
 ---
-# <a name="daily-email-limit-exceeded-workflow-is-suspended"></a>เกินขีดจํากัดอีเมลรายวัน เวิร์กโฟลว์ถูกระงับ
+# <a name="daily-email-limit-exceeded-workflow-is-suspended"></a>เกินขีดจำกัดของอีเมลในชีวิตประจำวัน เวิร์กโฟลว์ถูกหยุดชั่วคราว
 
 ข้อผิดพลาดนี้อาจได้รับในสถานการณ์ต่อไปนี้:
 
-- คุณมีเวิร์กโฟลว์ใน SharePoint แบบออนไลน์ที่ใช้ชนิดแพลตฟอร์มลําดับงาน SharePoint 2010 หรือ SharePoint 2013
-- เวิร์กโฟลว์ถูกกําหนดค่าให้ส่งข้อความอีเมลที่กําหนดเองไปยังผู้ใช้มากกว่า 200 รายในแต่ละครั้ง
-- เมื่อคุณเรียกใช้เวิร์กโฟลว์ ข้อความอีเมลที่ไม่ได้ส่ง และคุณสังเกตเห็นลักษณะการทํางานต่อไปนี้:
-    - สําหรับเวิร์กโฟลว์ที่ใช้ชนิดแพลตฟอร์ม SharePoint 2013 คุณเรียกดูไปยังหน้า**สถานะเวิร์กโฟลว์** บนหน้า สถานะเวิร์กโฟลว์**สถานะภายใน**จะถูกตั้งค่าเป็น**เริ่มต้น**แล้วบอลลูนข้อมูลจะแสดง**ไม่สามารถส่งไปยังผู้รับ**ได้
+- คุณมีเวิร์กโฟลว์ใน SharePoint Online ที่กำลังใช้ชนิดของแพลตฟอร์มเวิร์กโฟลว์ sharepoint ๒๐๑๐หรือ SharePoint ๒๐๑๓
+- เวิร์กโฟลว์ถูกกำหนดค่าให้ส่งข้อความอีเมลที่กำหนดเองไปยังผู้ใช้มากกว่า๒๐๐คนในเวลามากกว่าผู้รับ๑๐,๐๐๐รายต่อวันหรือมากกว่า30ข้อความต่อนาที
+- เมื่อคุณเรียกใช้เวิร์กโฟลว์จะไม่มีการส่งข้อความอีเมลและคุณสังเกตเห็นลักษณะการทำงานต่อไปนี้:
+    - สำหรับเวิร์กโฟลว์ที่ใช้ชนิดแพลตฟอร์ม SharePoint ๒๐๑๓คุณเรียกดูหน้า**สถานะเวิร์กโฟลว์** บนหน้าสถานะเวิร์กโฟลว์จะมีการตั้งค่า **สถานะภายใน** เป็น **เริ่มต้น**และบอลลูนข้อมูลจะ **ไม่สามารถส่งไปยังผู้รับ**ได้
 
-เมื่อต้องการหลีกเลี่ยงปัญหานี้ ให้กําหนดค่าเวิร์กโฟลว์ของคุณเพื่อส่งข้อความอีเมลโดยไม่มีการ[เกินขีดจํากัดของผู้ส่ง Exchange แบบออนไลน์](https://docs.microsoft.com/office365/servicedescriptions/exchange-online-service-description/exchange-online-limits#recipientlimits) ตัวอย่างเช่น ใช้การหยุดชั่วคราวในเวิร์กโฟลว์ ส่งอีเมลไปยังกลุ่ม Microsoft 365 กลุ่มการแจกจ่ายหรือจดหมายที่เปิดใช้งานกลุ่มรักษาความปลอดภัย หรือส่งข้อความไปยังผู้รับน้อยกว่า 200 ครั้ง
+เมื่อต้องการแก้ไขปัญหานี้ให้กำหนดค่าเวิร์กโฟลว์ของคุณเพื่อส่งข้อความอีเมลโดยไม่เกิน[ขีดจำกัดผู้ส่ง Exchange Online](https://docs.microsoft.com/office365/servicedescriptions/exchange-online-service-description/exchange-online-limits#recipientlimits) ตัวอย่างเช่นใช้หยุดชั่วคราวในเวิร์กโฟลว์ส่งอีเมลไปยังกลุ่ม Microsoft ๓๖๕กลุ่มการแจกจ่ายหรือกลุ่มการรักษาความปลอดภัยที่เปิดใช้งานจดหมายหรือส่งข้อความให้น้อยกว่าผู้รับ๒๐๐ในแต่ละครั้ง
 
 
-สําหรับข้อมูลเพิ่มเติม ให้ดู[บทความ](https://support.microsoft.com/help/3150442/daily-email-limit-has-exceeded-and-your-workflow-has-been-suspended-or)ต่อไปนี้
+สำหรับข้อมูลเพิ่มเติมให้ดู [บทความ](https://support.microsoft.com/help/3150442/daily-email-limit-has-exceeded-and-your-workflow-has-been-suspended-or)ต่อไปนี้
 
 ## <a name="related-topics"></a>หัวข้อที่เกี่ยวข้อง
-- [สร้างโฟลว์](https://support.office.com/article/Create-a-flow-for-a-list-or-library-in-SharePoint-Online-or-OneDrive-for-Business-a9c3e03b-0654-46af-a254-20252e580d01) 
-- [การไหลและจุด](https://flow.microsoft.com/blog/sharepoint-and-flow/) 
+- [สร้างขั้นตอน](https://support.office.com/article/Create-a-flow-for-a-list-or-library-in-SharePoint-Online-or-OneDrive-for-Business-a9c3e03b-0654-46af-a254-20252e580d01) 
+- [SharePoint และการไหล](https://flow.microsoft.com/blog/sharepoint-and-flow/) 

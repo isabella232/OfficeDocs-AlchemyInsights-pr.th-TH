@@ -1,26 +1,27 @@
 ---
-title: ควบคุมว่าใครเป็นผู้สร้างกลุ่ม Microsoft 365 และทีมของ Microsoft
+title: ควบคุมผู้ที่สร้างกลุ่ม Microsoft ๓๖๕และทีม Microsoft
 ms.author: pebaum
 author: pebaum
 manager: scotv
 ms.date: 07/14/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "168"
 - "1200029"
-ms.openlocfilehash: d8b5745f89c7fa924ca326d51d9db04d7097709c
-ms.sourcegitcommit: 45c2aaeee58c0be466b76c7f0cd71e796d3c8f76
+ms.openlocfilehash: a36868c367eef0cabbeb9136a7b21e1cfa453a8d
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 07/15/2020
-ms.locfileid: "45141845"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47733274"
 ---
-# <a name="control-who-creates-microsoft-365-groups-and-microsoft-teams"></a>ควบคุมว่าใครเป็นผู้สร้างกลุ่ม Microsoft 365 และทีมของ Microsoft
+# <a name="control-who-creates-microsoft-365-groups-and-microsoft-teams"></a>ควบคุมผู้ที่สร้างกลุ่ม Microsoft ๓๖๕และทีม Microsoft
 
-โดยค่าเริ่มต้น ผู้ใช้ทั้งหมดภายในองค์กรสามารถสร้างกลุ่ม Microsoft 365 และทีม Microsoft คุณสามารถเปลี่ยนค่าเริ่มต้นและกําหนดสิทธิ์เพื่อสร้างกลุ่ม Microsoft 365 หรือ Teams เป็นชุดย่อยของผู้ใช้ภายในองค์กรของคุณ การเปลี่ยนแปลงนี้ยังส่งผลต่อการสร้างกลุ่มจากบริการ Microsoft 365 เช่น Outlook, Teams, Planner และอื่นๆ
+ตามค่าเริ่มต้นผู้ใช้ทั้งหมดภายในองค์กรสามารถสร้างกลุ่ม Microsoft ๓๖๕และทีม Microsoft คุณสามารถเปลี่ยนแปลงค่าเริ่มต้นและกำหนดสิทธิ์ในการสร้างกลุ่ม Microsoft ๓๖๕หรือทีมให้เป็นชุดย่อยของผู้ใช้ภายในองค์กรของคุณ การเปลี่ยนแปลงนี้ยังมีผลกระทบต่อการสร้างกลุ่มจากบริการ Microsoft ๓๖๕ใดๆเช่น Outlook, ทีม, ตัววางแผนและอื่นๆ
 
-สําหรับข้อมูลเพิ่มเติม ให้ดูที่[จัดการผู้ที่สามารถสร้างกลุ่ม Microsoft 365](https://support.office.com/article/Manage-who-can-create-Office-365-Groups-4c46c8cb-17d0-44b5-9776-005fced8e618)และ[Microsoft Teams](https://aka.ms/rtsf)ได้
+สำหรับข้อมูลเพิ่มเติมให้ดู[ที่จัดการว่าใครบ้างที่สามารถสร้างกลุ่ม microsoft ๓๖๕](https://support.office.com/article/Manage-who-can-create-Office-365-Groups-4c46c8cb-17d0-44b5-9776-005fced8e618)และ[ทีม microsoft](https://aka.ms/rtsf)

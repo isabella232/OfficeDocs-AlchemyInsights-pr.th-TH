@@ -1,24 +1,25 @@
 ---
-title: โยกย้ายแบบเคลื่อนย้ายไปยัง Microsoft
+title: การโยกย้ายแบบเคลื่อนย้ายไปยัง Microsoft
 ms.author: dstrome
 author: dstrome
 manager: dansimp
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.custom:
 - "695"
 - "3500010"
-ms.openlocfilehash: 22c91df2ec8ac1af7b6e3eb8c33ab7764c07c344
-ms.sourcegitcommit: a98b25fa3cac9ebba983f4932881d774880aca93
+ms.openlocfilehash: 79a2c02429915e1cd9354109cf39bbecb3fec821
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "43705140"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47731762"
 ---
-# <a name="cutover-migrations"></a>การย้ายแบบเคลื่อนย้าย
+# <a name="cutover-migrations"></a>การโยกย้ายแบบเคลื่อนย้าย
 
-เมื่อคุณลงทะเบียนสําหรับ Microsoft 365 คุณสามารถโยกย้ายเนื้อหาของกล่องจดหมายของผู้ใช้จากองค์กร Exchange ในสถานที่ เมื่อคุณทําเช่นนี้ทั้งหมดในครั้งเดียวจะเรียกว่าการโยกย้ายแบบเคลื่อนย้าย การย้ายแบบเคลื่อนย้ายอาจเหมาะกับคุณถ้าคุณกําลังใช้งาน Exchange เวอร์ชันที่สนับสนุนและมีกล่องจดหมายน้อยกว่า 2,000 รายการ หากต้องการเรียนรู้เพิ่มเติมเกี่ยวกับการย้ายแบบเคลื่อนย้าย ให้ดู:[โยกย้ายอีเมลโดยใช้วิธีการตัดอัตราแลกเปลี่ยน](https://docs.microsoft.com/Exchange/mailbox-migration/cutover-migration-to-office-365)
+เมื่อคุณลงชื่อเข้าใช้ Microsoft ๓๖๕คุณสามารถโยกย้ายเนื้อหาของกล่องจดหมายของผู้ใช้จากองค์กร Exchange ภายในองค์กรได้ เมื่อคุณทำเช่นนี้ทั้งหมดในครั้งเดียวจะเรียกว่าการโยกย้ายแบบเคลื่อนย้าย การโยกย้ายแบบเคลื่อนย้ายอาจเหมาะสมสำหรับคุณถ้าคุณกำลังใช้ Exchange เวอร์ชันที่ได้รับการสนับสนุนและมีกล่องจดหมายน้อยกว่า๒,๐๐๐ เมื่อต้องการค้นหาข้อมูลเพิ่มเติมเกี่ยวกับการโยกย้ายแบบเคลื่อนย้ายให้ดูที่:[โยกย้ายอีเมลโดยใช้วิธีการตัดการแลกเปลี่ยน](https://docs.microsoft.com/Exchange/mailbox-migration/cutover-migration-to-office-365)
   
