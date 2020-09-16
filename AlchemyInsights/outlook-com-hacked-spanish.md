@@ -1,25 +1,26 @@
 ---
-title: 8000066 - 1 กฎ -- Outlook.com hacked -- ภาษาสเปน
+title: ๘๐๐๐๐๖๖-กฎ 1-Outlook.com hacked-สเปน
 ms.author: daeite
 author: daeite
 manager: joallard
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 8000066
-ms.openlocfilehash: d4fc4029b564d9ee95218ce7572536477d110e13
-ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
+ms.openlocfilehash: 7fb286cf04cc8ec5995fca973dfe46d2684d4f08
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 06/05/2020
-ms.locfileid: "44581538"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47724238"
 ---
-# <a name="han-hackeada-mi-cuenta-de-outlookcom"></a>ฮันแฮ็คเกดาไมล์Outlook.com
+# <a name="han-hackeada-mi-cuenta-de-outlookcom"></a>ฮัน hackeada mi cuenta de Outlook.com
 
-ข้อมูลส่วนตัวของท่านเท่านั้น
+Si su cuenta se pirateado significa que alguien robó la contraseña y es posible que esté usando la cuenta para obtener acceso a información ส่วนบุคคล o enviar correo no deseado
 
-[มี 1 ท่าน ที่ 20:00 น.](https://support.office.com/es-es/article/han-pirateado-mi-cuenta-de-outlook-com-35993ac5-ac2f-494e-aacb-5232dda453d8?ui=es-ES&rs=es-ES&ad=ES?wt.mc_id=Office_Outlook_com_Alchemy)
+[Siga las instrucciones para recuperar su cuenta](https://support.office.com/es-es/article/han-pirateado-mi-cuenta-de-outlook-com-35993ac5-ac2f-494e-aacb-5232dda453d8?ui=es-ES&rs=es-ES&ad=ES?wt.mc_id=Office_Outlook_com_Alchemy)
 
-สําหรับการติดตั้งเป็นสื่อกลางในaccount.microsoft.com [account.microsoft.com](https://go.microsoft.com/fwlink/p/?linkid=836814)
+Para restablecer la cuenta mediante el teléfono u otro equipo, vaya a [account.microsoft.com](https://go.microsoft.com/fwlink/p/?linkid=836814)
