@@ -1,10 +1,11 @@
 ---
-title: ติดตั้ง PSTN ในการประชุมเสียงใน Skype สำหรับธุรกิจออนไลน์
+title: การตั้งค่าการโทรเข้าการประชุมทางเสียงของ PSTN ใน Skype for Business Online
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
@@ -12,21 +13,21 @@ ms.custom:
 - "9001521"
 - "3577"
 - "3579"
-ms.openlocfilehash: 2df72ee353fe0ac53d98d64942beca4ea5f83659
-ms.sourcegitcommit: 23d217597369d0ca585600f9454171e7c133c30e
+ms.openlocfilehash: 809627422cd245a6b5962762ced5b524dd0f3730
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 02/27/2020
-ms.locfileid: "42288271"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47739556"
 ---
-# <a name="setup-pstn-dial-in-audio-conferencing-in-skype-for-business-online"></a>ติดตั้ง PSTN ในการประชุมเสียงใน Skype สำหรับธุรกิจออนไลน์
+# <a name="setup-pstn-dial-in-audio-conferencing-in-skype-for-business-online"></a>การตั้งค่าการโทรเข้าการประชุมทางเสียงของ PSTN ใน Skype for Business Online
 
-ถ้าคุณต้องการตั้งค่าการประชุมทางเสียงสำหรับ Skype สำหรับธุรกิจออนไลน์คุณจะต้องทำสิ่งต่อไปนี้ 
+ถ้าคุณต้องการตั้งค่าการประชุมทางเสียงสำหรับ Skype for Business Online คุณจะต้องทำสิ่งต่อไปนี้ 
 
-- ดูว่าการประชุมทางเสียงมีให้บริการในประเทศ/ภูมิภาคของคุณหรือไม่
+- ค้นหาว่าการประชุมทางเสียงพร้อมใช้งานในประเทศ/ภูมิภาคของคุณหรือไม่
 
-- รับและมอบหมายใบอนุญาตให้กับผู้ใช้ของคุณ
+- รับและกำหนดสิทธิ์การใช้งานให้กับผู้ใช้ของคุณ
 
 - รับและกำหนดหมายเลขบริการ
 
-- ทำรายการตรวจสอบใน[การตั้งค่าการประชุมเสียงสำหรับ Skype สำหรับธุรกิจ](https://docs.microsoft.com/SkypeForBusiness/audio-conferencing-in-office-365/set-up-audio-conferencing)
+- ทำรายการตรวจสอบให้เสร็จสมบูรณ์ใน[ตั้งค่าการประชุมทางเสียงสำหรับ Skype For business](https://docs.microsoft.com/SkypeForBusiness/audio-conferencing-in-office-365/set-up-audio-conferencing)

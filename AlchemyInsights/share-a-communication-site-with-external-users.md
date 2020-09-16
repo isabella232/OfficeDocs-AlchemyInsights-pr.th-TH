@@ -10,11 +10,11 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: e0701ab9-7798-42cf-af73-9e14132dc669
 ms.openlocfilehash: 3439379b27303bcf3fd43f35336c05876e3e526e
-ms.sourcegitcommit: 483444ab35ab0e4d410d121562045efde47aa61a
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: th-TH
 ms.lasthandoff: 09/14/2020
-ms.locfileid: "47653784"
+ms.locfileid: "47739448"
 ---
 # <a name="share-a-communication-site-with-external-users"></a>แชร์ไซต์การติดต่อสื่อสารกับผู้ใช้ภายนอก
 

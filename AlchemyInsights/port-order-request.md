@@ -1,29 +1,30 @@
 ---
-title: คําขอสั่งซื้อท่าเรือ
+title: การร้องขอการสั่งซื้อพอร์ต
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9002252"
 - "4554"
-ms.openlocfilehash: 02e031703f53ea2807f0164634b1ea6ae8585e66
-ms.sourcegitcommit: 18df9a170f6a0bda191c0ae763d2a5069dd22efa
+ms.openlocfilehash: 546bfac95b9bf45ad7a11c4ec83255d0fe6a6b46
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 04/07/2020
-ms.locfileid: "43161026"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47741826"
 ---
-# <a name="port-order-request"></a>คําขอสั่งซื้อท่าเรือ
+# <a name="port-order-request"></a>การร้องขอการสั่งซื้อพอร์ต
 
-ดาวน์โหลด[LOA](https://docs.microsoft.com/microsoftteams/manage-phone-numbers-for-your-organization/manage-phone-numbers-for-your-organization#letters-of-authorization-loas-for-transferring-numbers)สําหรับประเทศหรือภูมิภาคของคุณ แล้วกรอกแบบฟอร์ม แล้วส่งไปที่เคาน์เตอร์บริการ PSTN สําหรับภูมิภาคของคุณ:
+ดาวน์โหลด [LOA](https://docs.microsoft.com/microsoftteams/manage-phone-numbers-for-your-organization/manage-phone-numbers-for-your-organization#letters-of-authorization-loas-for-transferring-numbers) สำหรับประเทศหรือภูมิภาคของคุณให้กรอกฟอร์มแล้วส่งไปยังโต๊ะบริการ PSTN สำหรับภูมิภาคของคุณ:
 
-- ในสหรัฐอเมริกา[ส่งคําขอของคุณ](mailto:ptn@microsoft.com)
+- ในประเทศสหรัฐอเมริกาให้[ส่งคำขอของคุณ](mailto:ptn@microsoft.com)
 
-- ในยุโรปส่ง[คําขอของคุณ](mailto:ptneu@microsoft.com)
+- ในยุโรปให้[ส่งคำขอของคุณ](mailto:ptneu@microsoft.com)
 
-- ในเอเชีย[ส่งคําขอของคุณ](mailto:ptnapac@microsoft.com)
+- ในเอเชียให้[ส่งคำขอของคุณ](mailto:ptnapac@microsoft.com)

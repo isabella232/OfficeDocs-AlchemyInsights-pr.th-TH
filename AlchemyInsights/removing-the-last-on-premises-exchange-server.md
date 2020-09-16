@@ -1,25 +1,26 @@
 ---
-title: การเอาเซิร์ฟเวอร์ Exchange ในสถานล่าสุดออก
+title: การเอาเซิร์ฟเวอร์ Exchange ภายในองค์กรล่าสุดออก
 ms.author: pebaum
 author: pebaum
 manager: dansimp
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
 - "692"
 - "3500010"
 ms.assetid: 2e0be4a5-ece8-461d-a80c-202c5ede5ecf
-ms.openlocfilehash: 1cc66e8ca2da1ac8cc4a2f31b92f094307b956f3
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 77dcc8d5396807f581c96ed79321a24ffe929d66
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43718219"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47741034"
 ---
-# <a name="removing-the-last-on-premises-exchange-server"></a>การเอาเซิร์ฟเวอร์ Exchange ในสถานล่าสุดออก
+# <a name="removing-the-last-on-premises-exchange-server"></a>การเอาเซิร์ฟเวอร์ Exchange ภายในองค์กรล่าสุดออก
 
-ก่อนที่จะลบเซิร์ฟเวอร์ Exchange ล่าสุดออกจากองค์กรในสถานที่ของคุณ คุณควรตรวจสอบให้แน่ใจว่าคุณเข้าใจถึงความหมายของการทําเช่นนี้เพื่อช่วยคุณตัดสินใจว่าคุณต้องการเซิร์ฟเวอร์สุดท้ายนั้นเพื่อจุดประสงค์อื่นใด สําหรับข้อมูลเพิ่มเติม ให้ดูที่[วิธีการและเวลาในการเลิกใช้เซิร์ฟเวอร์ Exchange ในสถานที่ของคุณในการปรับใช้ไฮบริดสลี](https://technet.microsoft.com/library/dn931280%28v=exchg.150%29.aspx)
+ก่อนที่จะเอา Exchange server สุดท้ายออกจากองค์กรภายในองค์กรของคุณคุณควรตรวจสอบให้แน่ใจว่าคุณเข้าใจถึงผลกระทบของการทำสิ่งนี้เพื่อช่วยให้คุณตัดสินใจว่าคุณจำเป็นต้องมีเซิร์ฟเวอร์ล่าสุดสำหรับวัตถุประสงค์อื่นๆหรือไม่ สำหรับข้อมูลเพิ่มเติมให้ดู[วิธีการและเวลาที่จะยกเลิกเซิร์ฟเวอร์ Exchange ภายในองค์กรของคุณในการปรับใช้แบบไฮบริด](https://technet.microsoft.com/library/dn931280%28v=exchg.150%29.aspx)
   
