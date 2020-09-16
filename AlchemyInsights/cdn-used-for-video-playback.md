@@ -1,25 +1,26 @@
 ---
-title: CDN ที่ใช้สําหรับการเล่นวิดีโอ
+title: CDN ที่ใช้สำหรับการเล่นวิดีโอ
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9002552"
 - "5146"
-ms.openlocfilehash: c40606df4a79fed1e526440f7f27f8f15dbd2032
-ms.sourcegitcommit: a98b25fa3cac9ebba983f4932881d774880aca93
+ms.openlocfilehash: 6bc87783375a206a84c96eb7ddd58db5bfd31728
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "44058879"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47756986"
 ---
-# <a name="cdn-used-for-video-playback"></a>CDN ที่ใช้สําหรับการเล่นวิดีโอ
+# <a name="cdn-used-for-video-playback"></a>CDN ที่ใช้สำหรับการเล่นวิดีโอ
 
-ถ่ายทอดสดจากสตรีมและเหตุการณ์สดของแอปภายนอกหรืออุปกรณ์จาก Yammer/Teams จะใช้ Azure CDN โดยอัตโนมัติ วิดีโอตามความต้องการที่อัปโหลดไปยังสตรีมไม่ได้ใช้ Azure CDN สําหรับการเล่น วิดีโอแบบไม่ถ่ายทอดสดในสตรีมจะเล่นจากเซิร์ฟเวอร์ต้นทาง Azure Media Services ที่สัมพันธ์กับผู้เช่าของคุณในภูมิภาคทางภูมิศาสตร์ของผู้เช่าของคุณ สำหรับข้อมูลเพิ่มเติม ให้ดูที่
+เหตุการณ์สดจากสตรีมและแอปภายนอกหรือเหตุการณ์ live ของอุปกรณ์จาก Yammer/ทีมจะใช้ Azure CDN โดยอัตโนมัติ วิดีโอตามความต้องการอัปโหลดไปยังสตรีมยังไม่ได้ใช้ Azure CDN สำหรับการเล่น วิดีโอที่ไม่มีการถ่ายทอดสดในสตรีมจะถูกเล่นจากเซิร์ฟเวอร์จุดเริ่มต้นของ Azure Media Services ที่เชื่อมโยงกับผู้เช่าของคุณในภูมิภาคทางภูมิศาสตร์ของผู้เช่าของคุณ สำหรับข้อมูลเพิ่มเติม ให้ดูที่
 
-- [CDN ที่ใช้สําหรับการเล่นวิดีโอ](https://docs.microsoft.com/stream/network-overview#cdn-used-for-video-playback)
+- [CDN ที่ใช้สำหรับการเล่นวิดีโอ](https://docs.microsoft.com/stream/network-overview#cdn-used-for-video-playback)
