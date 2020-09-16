@@ -1,32 +1,33 @@
 ---
-title: การจัดการคําอธิบายภาพสดสําหรับองค์กรการศึกษา
+title: การจัดการคำอธิบายภาพสดสำหรับองค์กรด้านการศึกษา
 ms.author: pebaum
 author: pebaum
 manager: scotv
 ms.date: 08/03/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "6140"
 - "9003263"
-ms.openlocfilehash: ae1e047863317863f4e6c0136200aba90a7032a0
-ms.sourcegitcommit: c32ccdd6e87964f01a56d9a36070e4571ebf1ab1
+ms.openlocfilehash: 1df49b09ef29c486d831e414cdf7fe22384c252f
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 08/03/2020
-ms.locfileid: "46556132"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47812782"
 ---
-# <a name="managing-live-captions-for-education-organizations"></a>การจัดการคําอธิบายภาพสดสําหรับองค์กรการศึกษา
+# <a name="managing-live-captions-for-education-organizations"></a>การจัดการคำอธิบายภาพสดสำหรับองค์กรด้านการศึกษา
 
-เราขอแนะนําให้ผู้ดูแลระบบขององค์กรการศึกษาพิจารณาการใช้แพคเกจนโยบายสําหรับนักเรียนและการศึกษาความปลอดภัยและการศึกษา สําหรับข้อมูลเพิ่มเติม โปรดดู:  
+เราขอแนะนำให้ผู้ดูแลระบบขององค์กรการศึกษาพิจารณาใช้แพคเกจนโยบายสำหรับความปลอดภัยของนักเรียนและนักการศึกษา สำหรับข้อมูลเพิ่มเติมให้ดูที่:  
 
-- [แพคเกจนโยบายในทีมของ Microsoft](https://docs.microsoft.com/microsoftteams/policy-packages-edu#policy-packages-in-microsoft-teams)  
+- [แพคเกจนโยบายในทีม Microsoft](https://docs.microsoft.com/microsoftteams/policy-packages-edu#policy-packages-in-microsoft-teams)  
     
-- [นโยบายที่ควรได้รับมอบหมายเพื่อความปลอดภัยของนักเรียน](https://docs.microsoft.com/microsoftteams/policy-packages-edu#policies-that-should-be-assigned-for-student-safety)
+- [นโยบายที่ควรได้รับมอบหมายสำหรับความปลอดภัยของนักเรียน](https://docs.microsoft.com/microsoftteams/policy-packages-edu#policies-that-should-be-assigned-for-student-safety)
 
-- [นโยบายที่ควรได้รับมอบหมายให้นักการศึกษา](https://docs.microsoft.com/microsoftteams/policy-packages-edu#policies-that-should-be-assigned-for-educators)
+- [นโยบายที่ควรได้รับมอบหมายให้กับนักการศึกษา](https://docs.microsoft.com/microsoftteams/policy-packages-edu#policies-that-should-be-assigned-for-educators)
 
-ถ้าคุณต้องการจัดการเฉพาะความสามารถในการเปิดใช้งานคําบรรยายภาพแบบสด ให้ดูที่[เปิดใช้งานคําบรรยายภาพสด](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams#enable-live-captions) สําหรับข้อมูลเพิ่มเติม ให้ดูที่[จัดการนโยบายการประชุมใน Teams](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams)
+ถ้าคุณต้องการจัดการเฉพาะความสามารถในการเปิดใช้งานคำอธิบายภาพสดให้ดูที่[เปิดใช้งานคำอธิบายภาพสด](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams#enable-live-captions) สำหรับข้อมูลเพิ่มเติมให้ดู[ที่จัดการนโยบายการประชุมในทีม](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams)

@@ -5,23 +5,24 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9002635"
 - "5154"
-ms.openlocfilehash: 3f16c7e7be99a50cd57f47ea2801b3022c4aec95
-ms.sourcegitcommit: 07725fcaf073f0ac145f98653b989afdb34c5ad0
+ms.openlocfilehash: 4c43fc16db84832c4e2aa3b6483632de6861b877
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 04/28/2020
-ms.locfileid: "43915286"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47784362"
 ---
 # <a name="encryption-with-transport-rules"></a>การเข้ารหัสลับที่มีกฎการขนส่ง
 
-ใน[ศูนย์ดูแล Exchange](https://go.microsoft.com/fwlink/p/?linkid=834822) (EAC), คุณสามารถใช้ความสามารถ Office ข้อความการเข้ารหัสลับ (OME) ในกฎการไหลของจดหมายของคุณเพื่อทริกเกอร์การเข้ารหัสลับข้อความ เลือกตัวเลือก**ใช้การเข้ารหัสลับข้อความ Office 365 และการป้องกันสิทธิ์**ในเงื่อนไขกฎการขนส่ง
+ใน [ศูนย์การจัดการ Exchange](https://go.microsoft.com/fwlink/p/?linkid=834822) (EAC) คุณสามารถใช้ความสามารถในการเข้ารหัสลับข้อความของ OFFICE (OME) ในกฎโฟลว์จดหมายของคุณเพื่อทริกเกอร์การเข้ารหัสลับข้อความ เลือกตัวเลือกการ **ใช้การเข้ารหัสลับข้อความของ Office ๓๖๕และการป้องกันสิทธิ์** บนเงื่อนไขของกฎการขนส่ง
 
-- สําหรับข้อมูลเพิ่มเติม ให้ดูที่[กําหนดกฎของกระแสจดหมายเพื่อเข้ารหัสลับ](https://docs.microsoft.com/microsoft-365/compliance/define-mail-flow-rules-to-encrypt-email)
+- สำหรับข้อมูลเพิ่มเติมให้ดู[ที่กำหนดกฎโฟลว์จดหมายเพื่อเข้ารหัสลับ](https://docs.microsoft.com/microsoft-365/compliance/define-mail-flow-rules-to-encrypt-email)
 
-- ใน Powershell ใช้ cmdlet[กฎ TransportRule ใหม่](https://docs.microsoft.com/microsoft-365/compliance/define-mail-flow-rules-to-encrypt-email?view=o365-worldwide#use-exchange-online-powershell-to-create-a-mail-flow-rule-for-encrypting-email-messages-without-the-new-ome-capabilities)และตั้งค่าพารามิเตอร์*ApplyOME*เพื่อ$true
+- ใน Powershell ให้ใช้ cmdlet [TransportRule ใหม่](https://docs.microsoft.com/microsoft-365/compliance/define-mail-flow-rules-to-encrypt-email?view=o365-worldwide#use-exchange-online-powershell-to-create-a-mail-flow-rule-for-encrypting-email-messages-without-the-new-ome-capabilities) และตั้งค่าพารามิเตอร์ *ApplyOME* เป็น $true
