@@ -1,26 +1,27 @@
 ---
-title: คุณลักษณะการคืนค่าแฟ้ม
+title: ฟีเจอร์การคืนค่าไฟล์
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9000210"
 - "4837"
-ms.openlocfilehash: 9a4942ae14a12e0a68a8c5bd25e46bdae326c803
-ms.sourcegitcommit: 940169c0edf638b5086d70cc275049f01dcff3cf
+ms.openlocfilehash: aad373f9e196a36b68b1e7a5f53f3459b3527a1e
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 04/08/2020
-ms.locfileid: "43183138"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47745338"
 ---
-# <a name="files-restore-feature"></a>คุณลักษณะการคืนค่าแฟ้ม
+# <a name="files-restore-feature"></a>ฟีเจอร์การคืนค่าไฟล์
 
-ถ้าแฟ้ม OneDrive หรือ SharePoint จํานวนมากของคุณถูกลบ เขียนทับ เสียหาย หรือติดไวรัสโดยมัลแวร์ คุณสามารถคืนค่าไลบรารีทั้งไลบรารีของ OneDrive หรือ SharePoint เป็นครั้งก่อนหน้าได้โดยใช้คุณลักษณะ 'การคืนค่าแฟ้ม' สําหรับข้อมูลเพิ่มเติม ให้ดูที่
+ถ้าไฟล์ OneDrive หรือไฟล์ SharePoint จำนวนมากของคุณได้รับการลบเขียนทับเสียหายหรือติดมัลแวร์คุณสามารถคืนค่าไลบรารี OneDrive หรือ SharePoint ทั้งหมดของคุณเป็นเวลาก่อนหน้าได้โดยใช้ฟีเจอร์การคืนค่าไฟล์ สำหรับข้อมูลเพิ่มเติมให้ดูที่:
 
 - [คืนค่าไลบรารี OneDrive](https://support.office.com/article/restore-your-onedrive-fa231298-759d-41cf-bcd0-25ac53eb8a150)
 
