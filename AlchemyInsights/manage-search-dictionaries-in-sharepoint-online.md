@@ -1,26 +1,27 @@
 ---
-title: จัดการพจนานุกรมการค้นหาใน SharePoint แบบออนไลน์
+title: จัดการพจนานุกรมการค้นหาใน SharePoint Online
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
 - "1244"
 - "5200021"
 ms.assetid: fe00f4c0-44d5-49d4-9db0-a62698bcd1d1
-ms.openlocfilehash: b3e00aecfaa4d6ca969da1b19e54dc06ff443e8e
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 5fcb235bb0a72a3c3c0c6909fdb835127885d73f
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43720679"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47777918"
 ---
 # <a name="manage-search-dictionaries"></a>จัดการพจนานุกรมการค้นหา
 
-พจนานุกรมการค้นหาใน SharePoint แบบออนไลน์ได้รับการจัดการใน SharePoint ออนไลน์คําที่เก็บซึ่งอยู่ในศูนย์การจัดการ SharePoint ใหม่ สําหรับข้อมูลเพิ่มเติมเกี่ยวกับวิธีการเพิ่มหรือแก้ไขพจนานุกรมการค้นหา ให้ดูที่[จัดการพจนานุกรมการค้นหา](https://go.microsoft.com/fwlink/?linkid=2044669&amp;clcid=0x409)
+พจนานุกรมค้นหาใน SharePoint online จะได้รับการจัดการในที่เก็บคำของ SharePoint Online ซึ่งอยู่ในศูนย์การจัดการ SharePoint ใหม่ สำหรับข้อมูลเพิ่มเติมเกี่ยวกับวิธีการเพิ่มหรือแก้ไขพจนานุกรมการค้นหาให้ดูที่[จัดการพจนานุกรมการค้นหา](https://go.microsoft.com/fwlink/?linkid=2044669&amp;clcid=0x409)
   
-ถ้าคุณไม่เห็นชุดคําพจนานุกรมการค้นหาปรากฏในที่เก็บคํา โปรดรอ 24 ชั่วโมง หากพจนานุกรมยังคงไม่ปรากฏหลังจาก 24 ชั่วโมง โปรดเข้าสู่ระบบตั๋วสนับสนุน
+ถ้าคุณไม่เห็นชุดคำของพจนานุกรมการค้นหาจะปรากฏขึ้นในที่เก็บคำโปรดรอ24ชั่วโมง ถ้าพจนานุกรมยังไม่ปรากฏหลังจาก24ชั่วโมงโปรดเข้าสู่ระบบบัตรสนับสนุน
   
