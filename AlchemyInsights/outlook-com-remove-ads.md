@@ -1,11 +1,12 @@
 ---
-title: นําโฆษณาออกในOutlook.com
+title: เอาโฆษณาออกใน Outlook.com
 ms.author: daeite
 author: daeite
 manager: jackiesm
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
@@ -13,13 +14,13 @@ ms.custom:
 - "1917"
 - "8000028"
 ms.assetid: 718cb8b3-5d51-4e31-823d-7b306dd60f01
-ms.openlocfilehash: 8a7c7c10fb982ab99713a5e35ca6a1b7f63f3f36
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 6c9002d1487a8df02998c55343b452398e78a3cf
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43743868"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47723518"
 ---
-# <a name="remove-ads-in-outlookcom"></a><span data-ttu-id="929b6-102">นําโฆษณาออกในOutlook.com</span><span class="sxs-lookup"><span data-stu-id="929b6-102">Remove ads in Outlook.com</span></span>
+# <a name="remove-ads-in-outlookcom"></a><span data-ttu-id="1bb64-102">เอาโฆษณาออกใน Outlook.com</span><span class="sxs-lookup"><span data-stu-id="1bb64-102">Remove ads in Outlook.com</span></span>
 
-<span data-ttu-id="929b6-103">Outlook.comเป็นบริการอีเมลฟรีซึ่งมีโฆษณา</span><span class="sxs-lookup"><span data-stu-id="929b6-103">Outlook.com is a free email service which contains ads.</span></span> <span data-ttu-id="929b6-104">ถ้าคุณต้องการลบโฆษณาในOutlook.com Microsoft จะเสนอคุณลักษณะ Outlook แบบพรีเมียมด้วยการสมัครใช้งาน Office 365 Home หรือ Office 365 ส่วนบุคคล</span><span class="sxs-lookup"><span data-stu-id="929b6-104">If you want to remove ads in Outlook.com, Microsoft offers premium Outlook features with Office 365 Home or Office 365 Personal subscriptions.</span></span> <span data-ttu-id="929b6-105">สําหรับข้อมูลเพิ่มเติม ให้ดูที่[รับคุณลักษณะของ Outlook ระดับพรีเมียมด้วย Office 365](https://go.microsoft.com/fwlink/?linkid=872181)</span><span class="sxs-lookup"><span data-stu-id="929b6-105">For more information, see [Get premium Outlook features with Office 365](https://go.microsoft.com/fwlink/?linkid=872181).</span></span>
+<span data-ttu-id="1bb64-103">Outlook.com คือบริการอีเมลแบบฟรีที่มีโฆษณา</span><span class="sxs-lookup"><span data-stu-id="1bb64-103">Outlook.com is a free email service which contains ads.</span></span> <span data-ttu-id="1bb64-104">ถ้าคุณต้องการนำโฆษณาใน Outlook.com, Microsoft มีฟีเจอร์พิเศษของ Outlook ที่มี Office ๓๖๕ Home หรือ Office ๓๖๕การสมัครใช้งานส่วนบุคคล</span><span class="sxs-lookup"><span data-stu-id="1bb64-104">If you want to remove ads in Outlook.com, Microsoft offers premium Outlook features with Office 365 Home or Office 365 Personal subscriptions.</span></span> <span data-ttu-id="1bb64-105">สำหรับข้อมูลเพิ่มเติมให้ดู[ที่รับฟีเจอร์ของ Outlook premium ด้วย Office ๓๖๕](https://go.microsoft.com/fwlink/?linkid=872181)</span><span class="sxs-lookup"><span data-stu-id="1bb64-105">For more information, see [Get premium Outlook features with Office 365](https://go.microsoft.com/fwlink/?linkid=872181).</span></span>

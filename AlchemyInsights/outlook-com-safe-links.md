@@ -1,11 +1,12 @@
 ---
-title: ลิงก์ปลอดภัยในOutlook.com
+title: ลิงก์ที่ปลอดภัยใน Outlook.com
 ms.author: daeite
 author: daeite
 manager: joallard
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
@@ -13,16 +14,16 @@ ms.custom:
 - "962"
 - "8000057"
 ms.assetid: f0e4afcc-b0a1-4b1b-b1e8-743504b54d37
-ms.openlocfilehash: d814ccf4392c2a9c5239deae788d4349a793a256
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: b7fa5f4dc709511b6857b12942be2e7fd81ac575
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43743688"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47723050"
 ---
-# <a name="advanced-outlookcom-security-for-microsoft-365-subscribers"></a><span data-ttu-id="8422d-102">ความปลอดภัยขั้นสูงOutlook.comสําหรับสมาชิก Microsoft 365</span><span class="sxs-lookup"><span data-stu-id="8422d-102">Advanced Outlook.com security for Microsoft 365 subscribers</span></span>
+# <a name="advanced-outlookcom-security-for-microsoft-365-subscribers"></a><span data-ttu-id="a5a12-102">การรักษาความปลอดภัย Outlook.com ขั้นสูงสำหรับสมาชิก Microsoft ๓๖๕</span><span class="sxs-lookup"><span data-stu-id="a5a12-102">Advanced Outlook.com security for Microsoft 365 subscribers</span></span>
 
-<span data-ttu-id="8422d-103">ผู้ใช้Outlook.comทั้งหมดได้รับประโยชน์จากการกรองสแปมและมัลแวร์</span><span class="sxs-lookup"><span data-stu-id="8422d-103">All Outlook.com users benefit from spam and malware filtering.</span></span> <span data-ttu-id="8422d-104">สําหรับสมาชิก Office 365 Home และ Office 365 Personal Outlook.comทําการคัดกรองสิ่งที่แนบและลิงก์ในข้อความที่คุณได้รับ</span><span class="sxs-lookup"><span data-stu-id="8422d-104">For Office 365 Home and Office 365 Personal subscribers, Outlook.com performs extra screening of attachments and links in messages you receive.</span></span> <span data-ttu-id="8422d-105">เมื่อต้องการเรียนรู้เพิ่มเติม ให้อ่าน[ความปลอดภัยขั้นสูงOutlook.comสําหรับสมาชิก Microsoft 365](https://support.office.com/article/882d2243-eab9-4545-a58a-b36fee4a46e2?wt.mc_id=Office_Outlook_com_Alchemy)</span><span class="sxs-lookup"><span data-stu-id="8422d-105">To learn more, read [Advanced Outlook.com security for Microsoft 365 subscribers](https://support.office.com/article/882d2243-eab9-4545-a58a-b36fee4a46e2?wt.mc_id=Office_Outlook_com_Alchemy).</span></span>
+<span data-ttu-id="a5a12-103">ผู้ใช้ Outlook.com ทั้งหมดจะได้รับประโยชน์จากการกรองสแปมและมัลแวร์</span><span class="sxs-lookup"><span data-stu-id="a5a12-103">All Outlook.com users benefit from spam and malware filtering.</span></span> <span data-ttu-id="a5a12-104">สำหรับผู้สมัครใช้งาน Office ๓๖๕ Home and Office ๓๖๕ส่วนบุคคล Outlook.com จะทำการคัดกรองสิ่งที่แนบมาและการเชื่อมโยงในข้อความที่คุณได้รับเป็นพิเศษ</span><span class="sxs-lookup"><span data-stu-id="a5a12-104">For Office 365 Home and Office 365 Personal subscribers, Outlook.com performs extra screening of attachments and links in messages you receive.</span></span> <span data-ttu-id="a5a12-105">เมื่อต้องการเรียนรู้เพิ่มเติมให้อ่านการ[รักษาความปลอดภัย Outlook.com ขั้นสูงสำหรับสมาชิก Microsoft ๓๖๕](https://support.office.com/article/882d2243-eab9-4545-a58a-b36fee4a46e2?wt.mc_id=Office_Outlook_com_Alchemy)</span><span class="sxs-lookup"><span data-stu-id="a5a12-105">To learn more, read [Advanced Outlook.com security for Microsoft 365 subscribers](https://support.office.com/article/882d2243-eab9-4545-a58a-b36fee4a46e2?wt.mc_id=Office_Outlook_com_Alchemy).</span></span>
 
-<span data-ttu-id="8422d-106">เมื่อต้องการเปิดหรือปิดลิงก์ปลอดภัย ให้ไปที่[การตั้งค่าความปลอดภัยระดับพรีเมียม](https://outlook.live.com/mail/options/premium/security)(</span><span class="sxs-lookup"><span data-stu-id="8422d-106">To turn on or turn off Safe Links, go to your [Premium Security settings](https://outlook.live.com/mail/options/premium/security) (</span></span><img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABIAAAASCAMAAABhEH5lAAAA51BMVEX6+fj6+fDr+fjK+fj69LRxsuj6+cjY+fi/+fin3ev6+ddMk81HdK5AaatHLn/ntXTrsW5cRmLOk0pAND5KNCl1NCOi3fiGwvjJ3fDBz+F6teFgpdt6stX68c314syTucirtchum8bjz8BQh7/6+b47fbrKtapiian63aFDaaHJuZJiQo36woVabH7ZtHiOQnTHm2wlKmqriWF/cFzVnVTFjlSyeUkrNEmBLkWfaUGsaT67fTrj9Pi19PjO8fiv5vj69OFWm9Pt3aZ1Qo0lNHQ1P2iYTWGOQmHcpV5kRlqvc0mrbERpPzMoEeekAAAAxElEQVQY03WQ5w6CUAyFy3Jv3HsrICoKqLj3fP/nsTcNakjsn9t+bW/OKfyL6iTCc49e/ktuRs2WEhE1U/qgQQfEzGkNyxzVXLdw0ASW+a7BZp3HpJ+cpovUjcv6PYtvSmKj4/SswTMaBgg9FQF5axWysKoson4cGMYCvlEAQDwK7XkZwEVbRBpDPC46ygbAbPl31p4Wvd8nwiRCLnIArJb1ZBD7KFWMkdQLSUVIhowsGaIwzzVHikfVV8lzHPv3OGTfTd4gnRNqGdZ49AAAAABJRU5ErkJggg==' />
- <span data-ttu-id="8422d-107">**การตั้งค่า** > **Premium** > **การรักษาความปลอดภัย**พรีเมี่ยม)</span><span class="sxs-lookup"><span data-stu-id="8422d-107">**Settings** > **Premium** > **Security**).</span></span>
+<span data-ttu-id="a5a12-106">เมื่อต้องการเปิดหรือปิดลิงก์ที่ปลอดภัยให้ไปที่ [การตั้งค่าความปลอดภัยระดับพรีเมียม](https://outlook.live.com/mail/options/premium/security) ของคุณ (</span><span class="sxs-lookup"><span data-stu-id="a5a12-106">To turn on or turn off Safe Links, go to your [Premium Security settings](https://outlook.live.com/mail/options/premium/security) (</span></span><img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABIAAAASCAMAAABhEH5lAAAA51BMVEX6+fj6+fDr+fjK+fj69LRxsuj6+cjY+fi/+fin3ev6+ddMk81HdK5AaatHLn/ntXTrsW5cRmLOk0pAND5KNCl1NCOi3fiGwvjJ3fDBz+F6teFgpdt6stX68c314syTucirtchum8bjz8BQh7/6+b47fbrKtapiian63aFDaaHJuZJiQo36woVabH7ZtHiOQnTHm2wlKmqriWF/cFzVnVTFjlSyeUkrNEmBLkWfaUGsaT67fTrj9Pi19PjO8fiv5vj69OFWm9Pt3aZ1Qo0lNHQ1P2iYTWGOQmHcpV5kRlqvc0mrbERpPzMoEeekAAAAxElEQVQY03WQ5w6CUAyFy3Jv3HsrICoKqLj3fP/nsTcNakjsn9t+bW/OKfyL6iTCc49e/ktuRs2WEhE1U/qgQQfEzGkNyxzVXLdw0ASW+a7BZp3HpJ+cpovUjcv6PYtvSmKj4/SswTMaBgg9FQF5axWysKoson4cGMYCvlEAQDwK7XkZwEVbRBpDPC46ygbAbPl31p4Wvd8nwiRCLnIArJb1ZBD7KFWMkdQLSUVIhowsGaIwzzVHikfVV8lzHPv3OGTfTd4gnRNqGdZ49AAAAABJRU5ErkJggg==' />
+ <span data-ttu-id="a5a12-107">**การตั้งค่า**  >  **เบี้ยประกันภัย**  >  **ความปลอดภัย**)</span><span class="sxs-lookup"><span data-stu-id="a5a12-107">**Settings** > **Premium** > **Security**).</span></span>
