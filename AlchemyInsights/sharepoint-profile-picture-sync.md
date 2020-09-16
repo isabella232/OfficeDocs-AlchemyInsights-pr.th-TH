@@ -4,30 +4,31 @@ ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 6b695be8-eaf5-44ff-b0ae-1e0d89e7ab36
 ms.custom:
 - "1828"
 - "9000231"
-ms.openlocfilehash: fc784c8d2cbb87656be776e20d4b6ee4fbdeb62f
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 9ee728fa9eefc882d220d8484c8c92d4d8c9af4d
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43758548"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47770607"
 ---
-# <a name="when-do-my-profile-changes-sync-to-the-sharepoint-user-profile-application"></a>โปรไฟล์ของฉันเปลี่ยนแปลงไปในโปรแกรมประยุกต์ SharePoint โปรไฟล์ผู้ใช้เมื่อใด
+# <a name="when-do-my-profile-changes-sync-to-the-sharepoint-user-profile-application"></a>เมื่อใดโปรไฟล์ของฉันจะเปลี่ยนการซิงค์ไปยังแอปพลิเคชันโปรไฟล์ผู้ใช้ SharePoint
 
-การทําข้อมูลรูปภาพโปรไฟล์ให้ตรงกันใน SharePoint Online จําเป็นต้องมีการกระทําของผู้ใช้เพื่อเริ่มต้นการซิงค์รูปถ่ายของตนเอง ไม่มีการทําข้อมูลรูปถ่ายให้ตรงกันกับ SharePoint แบบออนไลน์โดยอัตโนมัติ SharePoint แบบออนไลน์เท่านั้นซิงโครไนส์รูปถ่ายจากอัตราแลกเปลี่ยนแบบออนไลน์ ไม่ใช่ Azure ไดเรกทอรีที่ใช้งานอยู่
+การซิงโครไนซ์รูปภาพโปรไฟล์ใน SharePoint Online จำเป็นต้องมีการกระทำของผู้ใช้เพื่อเริ่มการซิงค์รูปถ่ายของพวกเขา ไม่มีการซิงโครไนซ์รูปถ่ายไปยัง SharePoint Online โดยอัตโนมัติ SharePoint Online จะซิงโครไนซ์รูปภาพจาก Exchange Online ไม่ใช่ Azure Active Directory เท่านั้น
 
-ถ้าผู้ใช้ไม่เคยทําการกระทําที่จะพร้อมท์ให้ซิงค์ หรือได้ปรับปรุงรูปประจําตัวแล้ว และรูปใหม่ไม่ปรากฏใน SharePoint Online ผู้ใช้อาจจําเป็นต้องพร้อมท์ให้ซิงค์ นี่คือวิธีที่พวกเขาสามารถทําเช่นนี้:
+ถ้าผู้ใช้ไม่เคยดำเนินการที่จะพร้อมท์การซิงค์หรือพวกเขาได้อัปเดตรูปภาพโพรไฟล์ของพวกเขาและผู้ใช้ใหม่จะไม่ปรากฏใน SharePoint Online ผู้ใช้อาจจำเป็นต้องพร้อมท์ให้ซิงค์ ต่อไปนี้คือวิธีที่พวกเขาสามารถดำเนินการได้ดังนี้
 
-1. เปิดเว็บเบราว์เซอร์ในเซสชันแบบส่วนตัวหรือแบบไม่ระบุตัวตน และ[ไปที่ Office.com](https://www.office.com/)
+1. เปิดเว็บเบราว์เซอร์ในเซสชันแบบส่วนตัวหรือไม่ระบุตัวตนและ[ไปที่ Office.com](https://www.office.com/)
 
-2. ลงชื่อเข้าใช้ด้วยบัญชีที่ทํางานหรือที่โรงเรียนของพวกเขา แล้วคลิกไทล์ OneDrive หรือ SharePoint
+2. ลงชื่อเข้าใช้ด้วยบัญชีผู้ใช้ของที่ทำงานหรือที่โรงเรียนของพวกเขาแล้วคลิกไทล์ OneDrive หรือ SharePoint
 
-3. [เพิ่มรูปโปรไฟล์ของพวกเขาใน Microsoft 365](https://support.office.com/article/Add-your-profile-photo-to-Office-365-2eaf93fd-b3f1-43b9-9cdc-bdcd548435b7)
+3. [เพิ่มรูปภาพโปรไฟล์ของพวกเขาไปยัง Microsoft ๓๖๕](https://support.office.com/article/Add-your-profile-photo-to-Office-365-2eaf93fd-b3f1-43b9-9cdc-bdcd548435b7)
 
-[ข้อมูลเกี่ยวกับการทําข้อมูลภาพโปรไฟล์ใน Microsoft 365 ให้ตรงกัน](https://support.office.com/article/Information-about-user-profile-synchronization-in-SharePoint-Online-177eb196-5887-43c9-84c3-b98a43d35129)
+[ข้อมูลเกี่ยวกับการซิงโครไนซ์รูปภาพโปรไฟล์ใน Microsoft ๓๖๕](https://support.office.com/article/Information-about-user-profile-synchronization-in-SharePoint-Online-177eb196-5887-43c9-84c3-b98a43d35129)
 

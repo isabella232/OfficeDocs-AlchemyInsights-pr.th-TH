@@ -1,24 +1,25 @@
 ---
-title: การควบคุมปริมาณแบบออนไลน์ของ SharePoint
+title: การควบคุมปริมาณ SharePoint Online
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: b376d8ea-50c4-47f0-9720-50d80aa3f7f1
-ms.openlocfilehash: fbc72376e90b787d34c6b1606cb977600fab863e
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: a5c05020377d1a0c0623dd841e28cbc5c6662c84
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43767664"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47770534"
 ---
-# <a name="sharepoint-online-throttling"></a>การควบคุมปริมาณแบบออนไลน์ของ SharePoint
+# <a name="sharepoint-online-throttling"></a>การควบคุมปริมาณ SharePoint Online
 
-SharePoint Online ใช้การควบคุมปริมาณเพื่อรักษาประสิทธิภาพสูงสุดและความน่าเชื่อถือของบริการ SharePoint แบบออนไลน์ การควบคุมปริมาณ จํากัด จํานวนของการกระทําของผู้ใช้หรือเรียกพร้อมกัน (ตามสคริปต์หรือรหัส) เพื่อป้องกันการใช้ทรัพยากรมากเกินไป ถ้าคุณได้รับการควบคุมปริมาณ 99% ของเวลาเป็นเพราะรหัสที่กําหนดเอง
+SharePoint Online ใช้การควบคุมปริมาณเพื่อรักษาประสิทธิภาพการทำงานที่ดีที่สุดและความน่าเชื่อถือของบริการ SharePoint Online การควบคุมปริมาณจะจำกัดจำนวนการดำเนินการของผู้ใช้หรือการโทรที่พร้อมกัน (โดยสคริปต์หรือโค้ด) เพื่อป้องกันไม่ให้มีทรัพยากรมากเกินไป ถ้าคุณได้รับปริมาณ, ๙๙% ของเวลาที่เป็นเพราะโค้ดแบบกำหนดเอง
   
-สําหรับข้อมูลเพิ่มเติมเกี่ยวกับการควบคุมปริมาณ ให้ดูที่[หลีกเลี่ยงการถูกควบคุมปริมาณหรือถูกบล็อกใน SharePoint Online](https://go.microsoft.com/fwlink/?linkid=2022019)
+สำหรับข้อมูลเพิ่มเติมเกี่ยวกับการควบคุมปริมาณให้ดูที่ [หลีกเลี่ยงการปริมาณหรือการบล็อกใน SharePoint Online](https://go.microsoft.com/fwlink/?linkid=2022019)
   
 
