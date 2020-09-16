@@ -5,25 +5,26 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9002315"
 - "4508"
-ms.openlocfilehash: e83ff4a0b3db9aabb3b258c17a848ed2b041bb87
-ms.sourcegitcommit: 3281e61d3dfca02a01cd6ad208a987cda66f4afa
+ms.openlocfilehash: e9bb9004ca35f965ae916bc4473a711eb8ae55c3
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 04/18/2020
-ms.locfileid: "43557025"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47729566"
 ---
 # <a name="onenote-temporary-adjustments"></a>การปรับปรุงชั่วคราวของ OneNote
 
-**สําคัญ**: ในช่วงเวลาที่ไม่เคยมีมาก่อนเหล่านี้เราจะดําเนินการเพื่อให้แน่ใจว่าบริการ OneNote ยังคงพร้อมใช้งานสูง
+**สิ่งสำคัญ**: ในช่วงเวลาที่เป็นประวัติการณ์เหล่านี้เราจะดำเนินการตามขั้นตอนเพื่อให้แน่ใจว่าบริการ OneNote ยังคงพร้อมใช้งานมาก
 
-- OneNote ใน Teams จะเป็นแบบอ่านอย่างเดียวสําหรับผู้เช่าในเชิงพาณิชย์และการศึกษา เมื่อต้องการแก้ไข โปรดใช้ OneNote สําหรับเว็บหรือแอป OneNote บนเดสก์ท็อป
+- OneNote ในทีมจะเป็นแบบอ่านอย่างเดียวสำหรับผู้เช่าเชิงพาณิชย์และการศึกษา เมื่อต้องการแก้ไขโปรดใช้ OneNote สำหรับเว็บหรือแอป OneNote บนเดสก์ท็อป
 
-- ขนาดการดาวน์โหลดและความถี่ในการซิงค์ไฟล์ที่แนบมามีการเปลี่ยนแปลง
+- ขนาดของการดาวน์โหลดและความถี่ในการซิงค์ของไฟล์ที่แนบมามีการเปลี่ยนแปลง
 
-โปรดเยี่ยมชม[การปรับชั่วคราวของ OneNote](https://techcommunity.microsoft.com/t5/onenote-service-updates/awareness-of-temporary-adjustments-in-microsoft-onenote/m-p/1248100)สําหรับข้อมูลเพิ่มเติม
+โปรดไปที่การ [ปรับปรุงชั่วคราวของ OneNote](https://techcommunity.microsoft.com/t5/onenote-service-updates/awareness-of-temporary-adjustments-in-microsoft-onenote/m-p/1248100) สำหรับข้อมูลเพิ่มเติม
