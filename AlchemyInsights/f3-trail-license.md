@@ -1,23 +1,24 @@
 ---
-title: ใบอนุญาตเส้นทาง F3
+title: สิทธิ์การใช้งานของเส้นทาง F3
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9002873"
 - "5565"
-ms.openlocfilehash: 63df724bd6e63be237140ac3272f85a625b8e5f3
-ms.sourcegitcommit: 8b50994a2979778ce8474ce83bd86b60e7d2cb2f
+ms.openlocfilehash: e521c8961df1ac81fe51f25fd495b3da7cd90868
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 05/05/2020
-ms.locfileid: "44022635"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47782778"
 ---
-# <a name="f3-trail-license"></a>ใบอนุญาตเส้นทาง F3
+# <a name="f3-trail-license"></a>สิทธิ์การใช้งานของเส้นทาง F3
 
-คุณสามารถลงทะเบียนสําหรับการสมัครสมาชิก F3 ทดลองใช้ฟรีและทดลองใช้เป็นเวลา 30 วัน ดู[เวอร์ชันทดลองใช้ฟรีด้วย Office 365 F3](https://go.microsoft.com/fwlink/p/?LinkID=848845&clcid=0x409&culture=en-us&country=US)
+คุณสามารถลงทะเบียนสำหรับการสมัครใช้งาน F3 เวอร์ชันทดลองใช้ฟรีแล้วลองใช้งานได้30วัน ดู[เวอร์ชันทดลองใช้ฟรีที่มี Office ๓๖๕ F3](https://go.microsoft.com/fwlink/p/?LinkID=848845&clcid=0x409&culture=en-us&country=US)

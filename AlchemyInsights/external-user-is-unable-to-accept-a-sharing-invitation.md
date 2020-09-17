@@ -1,9 +1,10 @@
 ---
-title: ผู้ใช้ภายนอกไม่สามารถยอมรับการเชิญการใช้ร่วมกัน
+title: ผู้ใช้ภายนอกไม่สามารถยอมรับการเชิญการแชร์ได้
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
@@ -11,22 +12,22 @@ ms.assetid: ''
 ms.custom:
 - "9000191"
 - "2383"
-ms.openlocfilehash: 21f9ead80336e638a064d16ca14c3ec5c73046c3
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: dd5dd5550ecaa781afd10c14157b437f3a78f9af
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40052092"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47782922"
 ---
-# <a name="external-user-is-unable-to-accept-a-sharing-invitation"></a>ผู้ใช้ภายนอกไม่สามารถยอมรับการเชิญการใช้ร่วมกัน
+# <a name="external-user-is-unable-to-accept-a-sharing-invitation"></a>ผู้ใช้ภายนอกไม่สามารถยอมรับการเชิญการแชร์ได้
 
-หากผู้ใช้ภายนอกไม่สามารถยอมรับคำเชิญการใช้งานร่วมกันของ SharePoint หรือ OneDrive โปรดลองไปที่ลิงก์ด้านล่าง: 
+ถ้าผู้ใช้ภายนอกไม่สามารถยอมรับการเชิญการแชร์ SharePoint หรือ OneDrive ได้โปรดลองเยี่ยมชมลิงก์ด้านล่าง: 
 
-- ["การเข้าถึงถูกปฏิเสธ", "คุณต้องมีสิทธิ์ในการเข้าถึงไซต์นี้" หรือ "ผู้ใช้ไม่พบในไดเรกทอรี" ข้อผิดพลาดใน SharePoint แบบออนไลน์และ OneDrive สำหรับธุรกิจ](https://docs.microsoft.com/sharepoint/support/administration/access-denied-or-need-permission-error-sharepoint-online-or-onedrive-for-business)
-- ["นโยบายขององค์กรของคุณไม่อนุญาตให้คุณใช้ร่วมกับผู้ใช้เหล่านี้" ข้อผิดพลาดเมื่อใช้ร่วมกันรายการหรือไซต์ใน SharePoint แบบออนไลน์หรือ OneDrive สำหรับธุรกิจ](https://docs.microsoft.com/sharepoint/support/administration/organization-policies-do-not-allow-you-to-share-with-users-error)
-- [ตัวเลือกการใช้ร่วมกันจะเป็นสีเทาเมื่อใช้ร่วมกันจาก SharePoint แบบออนไลน์หรือ OneDrive](https://docs.microsoft.com/sharepoint/support/administration/sharing-options-grayed-out-when-sharing-from-sharepoint-online-or-onedrive)
-- [ข้อผิดพลาดเมื่อผู้ใช้ภายนอกยอมรับการเชิญ SharePoint แบบออนไลน์โดยใช้บัญชีอื่น](https://docs.microsoft.com/sharepoint/support/sharing-and-permissions/error-when-external-user-accepts-an-invitation-by-using-another-account)
-- [ข้อผิดพลาดในการใช้ร่วมกันของ OSE ใน SharePoint และ OneDrive](https://docs.microsoft.com/sharepoint/sharepoint-onedrive-error-message)
+- ["การเข้าถึงถูกปฏิเสธ" คุณจำเป็นต้องมีสิทธิ์ในการเข้าถึงไซต์นี้ "หรือ" ไม่พบผู้ใช้ในไดเรกทอรี "ใน SharePoint Online และ OneDrive for Business](https://docs.microsoft.com/sharepoint/support/administration/access-denied-or-need-permission-error-sharepoint-online-or-onedrive-for-business)
+- [ข้อผิดพลาด "นโยบายขององค์กรของคุณไม่อนุญาตให้คุณแชร์กับผู้ใช้เหล่านี้" เมื่อแชร์รายการหรือไซต์ใน SharePoint Online หรือ OneDrive for Business](https://docs.microsoft.com/sharepoint/support/administration/organization-policies-do-not-allow-you-to-share-with-users-error)
+- [ตัวเลือกการแชร์จะเป็นสีเทาเมื่อแชร์จาก SharePoint Online หรือ OneDrive](https://docs.microsoft.com/sharepoint/support/administration/sharing-options-grayed-out-when-sharing-from-sharepoint-online-or-onedrive)
+- [ข้อความแสดงข้อผิดพลาดเมื่อผู้ใช้ภายนอกยอมรับการเชิญของ SharePoint Online โดยใช้บัญชีผู้ใช้อื่น](https://docs.microsoft.com/sharepoint/support/sharing-and-permissions/error-when-external-user-accepts-an-invitation-by-using-another-account)
+- [ข้อผิดพลาดการแชร์ OSE ใน SharePoint และ OneDrive](https://docs.microsoft.com/sharepoint/sharepoint-onedrive-error-message)
 
 
 
