@@ -1,28 +1,29 @@
 ---
-title: โหมดทีม Microsoft ร่วมกัน
+title: โหมดการรวมทีมของ Microsoft
 ms.author: pebaum
 author: pebaum
 manager: scotv
 ms.date: 07/16/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "6036"
 - "9003218"
-ms.openlocfilehash: 1738a21ea98f4c3c8a6a244492850a87c39441de
-ms.sourcegitcommit: c078058ee0b77ee1f1496feb2f3a5773e3e3b30d
+ms.openlocfilehash: c2288511c404a33141d28a4b04a6b38428317f10
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 07/16/2020
-ms.locfileid: "45198321"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47799871"
 ---
-# <a name="microsoft-teams-together-mode"></a>โหมดทีม Microsoft ร่วมกัน
+# <a name="microsoft-teams-together-mode"></a>โหมดการรวมทีมของ Microsoft
 
-โหมดร่วมกันรวมทศวรรษของการวิจัยและพัฒนาผลิตภัณฑ์สําหรับผู้เข้าร่วมในการสนทนาทางวิดีโอจะปรากฏร่วมกันในพื้นที่เสมือนเช่นหอประชุมห้องประชุมหรือคอฟฟี่บาร์ 
+โหมดการทำงานร่วมกันรวมทศวรรษของการค้นคว้าและการพัฒนาผลิตภัณฑ์สำหรับผู้เข้าร่วมในการสนทนาทางวิดีโอเพื่อให้ปรากฏอยู่ด้วยกันในพื้นที่เสมือนเช่นหอประชุมห้องประชุมหรือบาร์กาแฟ 
 
-คุณลักษณะใหม่ ditches ตารางแบบดั้งเดิมของกล่อง, การสร้างสภาพแวดล้อมที่ผู้ใช้กล่าวว่ามีผลกระทบอย่างลึกซึ้งในความรู้สึกของการประชุมวิดีโอและให้ความร่วมมือมากขึ้นกับกลุ่ม. เมื่อต้องการเรียนรู้เพิ่มเติมเกี่ยวกับโหมด 'ร่วมกัน' ให้ดูที่[วิธีรับประโยชน์สูงสุดจาก โหมดร่วม](https://techcommunity.microsoft.com/t5/microsoft-teams-blog/how-to-get-the-most-from-together-mode/ba-p/1509496)  
+ฟีเจอร์ใหม่ผีเส้นตารางแบบดั้งเดิมของกล่องการสร้างสภาพแวดล้อมที่ผู้ใช้กล่าวว่ามีผลกระทบอย่างลึกซึ้งเกี่ยวกับความรู้สึกของการประชุมทางวิดีโอและให้ cohesion เพิ่มเติมไปยังกลุ่ม เมื่อต้องการเรียนรู้เพิ่มเติมเกี่ยวกับโหมดการรวมกันให้ดูที่[วิธีการรับประโยชน์สูงสุดจากโหมดการรวม](https://techcommunity.microsoft.com/t5/microsoft-teams-blog/how-to-get-the-most-from-together-mode/ba-p/1509496)  
 
-สําหรับข้อมูลเพิ่มเติมเกี่ยวกับว่าโหมดร่วมจะพร้อมใช้งานสําหรับองค์กรของคุณที่ Microsoft 365 Roadmap, Microsoft [Teams - โหมดร่วมกัน](https://www.microsoft.com/microsoft-365/roadmap?featureid=65942)
+สำหรับข้อมูลเพิ่มเติมเกี่ยวกับเมื่อโหมดการรวมกันจะพร้อมใช้งานสำหรับองค์กรของคุณให้ดูที่ Microsoft ๓๖๕แผนการทำงานของ Microsoft, [โหมดทีมร่วมกัน](https://www.microsoft.com/microsoft-365/roadmap?featureid=65942)

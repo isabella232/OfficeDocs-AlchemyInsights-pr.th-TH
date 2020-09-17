@@ -1,27 +1,28 @@
 ---
-title: Outlook.com ไม่สามารถรับรหัสการตรวจสอบ
+title: Outlook.com ไม่ได้รับรหัสการตรวจสอบความถูกต้อง
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 6/5/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ms.custom:
 - "1005"
 - "8000060"
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.openlocfilehash: 5de84426e3b7eb0b0d755bbcd65f00f7f9eef5ec
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 180e2f6af99c22f85bb9f2effaac1bd7b235ad01
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36537714"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47799547"
 ---
-# <a name="cant-get-verification-codes"></a>ไม่สามารถรับรหัสการตรวจสอบ
+# <a name="cant-get-verification-codes"></a>ไม่สามารถรับรหัสการตรวจสอบได้
 
-ถ้าคุณไม่สามารถเข้าถึงอีเมลสำรองหรือหมายเลขโทรศัพท์ของคุณ ไป ไปหน้า[หลักด้านความปลอดภัย](https://account.microsoft.com/security)ของบัญชี Microsoft เลือก**ฉันไม่มีข้อมูลใด ๆ เหล่านี้**บนเพจการเข้าสู่ระบบ และทำตามคำแนะนำเพื่อแทนข้อมูลความปลอดภัยของคุณ
+ถ้าคุณไม่สามารถเข้าถึงอีเมลสำรองหรือหมายเลขโทรศัพท์ของคุณให้ไปที่หน้าข้อมูล [พื้นฐานเกี่ยวกับความปลอดภัย](https://account.microsoft.com/security) ของบัญชี Microsoft ของคุณแล้วเลือก **ฉันไม่มีสิ่งใดต่อไปนี้** บนหน้าการลงชื่อเข้าใช้และทำตามคำแนะนำเพื่อแทนที่ข้อมูลความปลอดภัยของคุณ
 
-*หมายเหตุ:* [แอพลิเคชันการรับรองความถูกต้องของ Microsoft](https://go.microsoft.com/fwlink/?linkid=2016117)ไม่จำเป็นต้องเชื่อมต่ออินเทอร์เน็ตเพื่อให้คุณ มีโค้ดการตรวจสอบ
+*หมายเหตุ:* [แอป Microsoft Authenticator](https://go.microsoft.com/fwlink/?linkid=2016117) ไม่จำเป็นต้องมีการเชื่อมต่ออินเทอร์เน็ตเพื่อให้คุณมีรหัสการตรวจสอบความถูกต้อง
 
-เมื่อต้องการเรียนรู้เพิ่มเติม อ่าน[Microsoft ความปลอดภัยข้อมูลและตรวจสอบรหัสบัญชี](https://support.microsoft.com/help/12428/)
+เมื่อต้องการเรียนรู้เพิ่มเติมให้อ่าน[ข้อมูลความปลอดภัยของบัญชี Microsoft และรหัสการตรวจสอบ](https://support.microsoft.com/help/12428/)

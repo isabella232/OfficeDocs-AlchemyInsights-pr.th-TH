@@ -1,28 +1,29 @@
 ---
-title: โครงการออนไลน์อยู่ในสถานะอ่านอย่างเดียว
+title: Project Online อยู่ในสถานะแบบอ่านอย่างเดียว
 ms.author: pebaum
 author: pebaum
 manager: pamg
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "1776"
 - "9000205"
-ms.openlocfilehash: dea4e24b0ceb0054f04e6737df0feb761d1143f3
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: ad2a9f95bf30708772edb166945f3f42e0f1f503
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43768024"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47801671"
 ---
-# <a name="project-online-is-in-a-read-only-state"></a>โครงการออนไลน์อยู่ในสถานะอ่านอย่างเดียว
+# <a name="project-online-is-in-a-read-only-state"></a>Project Online อยู่ในสถานะแบบอ่านอย่างเดียว
 
-มีเหตุผลทั่วไปสามประการที่อาจทําให้โครงการออนไลน์ถึงสถานะแบบอ่านอย่างเดียว:
+มีสาเหตุทั่วไปสามประการที่ทำให้ Project Online สามารถเข้าถึงสถานะแบบอ่านอย่างเดียวได้:
 
-1. องค์กรมีสิทธิ์การใช้งานโครงการออนไลน์ Essentials (s) เท่านั้น นี้ไม่เพียงพอที่จะให้เว็บไซต์มีชีวิตอยู่และในที่สุดก็จะได้รับ de - provisionedเราวางเว็บไซต์ในรัฐอ่านอย่างเดียวเพื่อให้ผู้ดูแลระบบรู้ว่าสิ่งที่ผิดและสามารถได้รับใบอนุญาตที่ถูกต้อง ผู้ดูแลระบบจะต้องเพิ่มสิทธิ์การใช้งาน Project Online Professional และ/หรือ Premium เว็บไซต์จะออกมาจากแบบอ่านอย่างเดียวที่จุดนั้น สําหรับข้อมูลเพิ่มเติม ให้ดูที่[เปรียบเทียบโซลูชันการจัดการโครงการ](https://products.office.com/project/compare-microsoft-project-management-software?tab=1)
-2. ถึงโควตาที่กําหนดแล้ว สําหรับข้อมูลเพิ่มเติม ให้ดูที่[โควตาโปรแกรมประยุกต์บนเว็บของโครงการ](https://docs.microsoft.com/projectonline/tune-project-online-performance#project-web-app-quota) ตรวจสอบ[การกําหนดค่าค่าสะสมของข้อมูลรายงาน timephased ในโครงการออนไลน์](https://docs.microsoft.com/ProjectOnline/configure-rollup-of-timephased-reporting-data-in-project-online)เพื่อดูว่ารายงาน granularity อาจส่งผลกระทบต่อการใช้งานโควต้า
-3. อ่านอย่างเดียวสามารถเป็นเงื่อนไขชั่วคราวมากที่อาจเกิดขึ้นในระหว่างการบํารุงรักษา การบํารุงรักษาส่วนใหญ่ไม่ได้สังเกตเห็นโดยลูกค้าของเราและคุณจะไม่เห็นนี้แต่บางครั้งเมื่อระยะเวลาสั้น ๆ ของการอ่านเท่านั้นมีประสบการณ์
+1. องค์กรมีการให้สิทธิ์การใช้งานสิ่งจำเป็นสำหรับ Project Online เท่านั้น นี่ไม่เพียงพอที่จะทำให้ไซต์มีชีวิตอยู่และในที่สุดจะได้รับการเตรียมใช้งานเราวางไซต์ในสถานะแบบอ่านอย่างเดียวเพื่อให้ผู้ดูแลระบบทราบว่ามีบางสิ่งผิดปกติและสามารถรับสิทธิ์การใช้งานที่ถูกต้องได้ ผู้ดูแลระบบจะต้องเพิ่มสิทธิ์การใช้งาน Project Online และ/หรือสิทธิ์การใช้งานพิเศษ ไซต์จะออกจากแบบอ่านอย่างเดียวที่จุดนั้น สำหรับข้อมูลเพิ่มเติมให้ดูที่[เปรียบเทียบโซลูชันการจัดการโครงการ](https://products.office.com/project/compare-microsoft-project-management-software?tab=1)
+2. มีการเข้าถึงโควตาที่ได้รับมอบหมายแล้ว สำหรับข้อมูลเพิ่มเติมให้ดูที่[โควตาของ Project Web App](https://docs.microsoft.com/projectonline/tune-project-online-performance#project-web-app-quota) ตรวจสอบการ [กำหนดค่าสะสมของข้อมูลการรายงานจเข้าใน Project Online](https://docs.microsoft.com/ProjectOnline/configure-rollup-of-timephased-reporting-data-in-project-online) เพื่อดูว่าองค์ประกอบของรายงานอาจส่งผลกระทบต่อการใช้งานโควตาอย่างไร
+3. แบบอ่านอย่างเดียวอาจเป็นเงื่อนไขชั่วคราวที่อาจเกิดขึ้นในระหว่างการบำรุงรักษา การบำรุงรักษาส่วนใหญ่จะไม่ได้รับการสังเกตเห็นโดยลูกค้าของเราและคุณจะไม่เห็นสิ่งนี้แต่จะมีบางครั้งที่มีการใช้งานแบบอ่านอย่างเดียวในช่วงเวลาสั้นๆ
