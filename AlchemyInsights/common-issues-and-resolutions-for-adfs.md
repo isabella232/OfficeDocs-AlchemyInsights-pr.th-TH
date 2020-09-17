@@ -1,33 +1,34 @@
 ---
-title: ปัญหาทั่วไปและวิธีแก้ปัญหาสําหรับ ADFS
+title: ปัญหาทั่วไปและวิธีแก้ปัญหาสำหรับ ADFS
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9002490"
 - "4832"
-ms.openlocfilehash: a12ef0b9a7be66f294302eb16a569d82cea29507
-ms.sourcegitcommit: 36fcad9aeebac00a8441148d0e105cd72dcc1d7d
+ms.openlocfilehash: 313c76df6b2d2739814f481917b4314363600af5
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 06/18/2020
-ms.locfileid: "44797990"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47812314"
 ---
-# <a name="common-issues-and-resolutions-for-adfs"></a>ปัญหาทั่วไปและวิธีแก้ปัญหาสําหรับ ADFS
+# <a name="common-issues-and-resolutions-for-adfs"></a>ปัญหาทั่วไปและวิธีแก้ปัญหาสำหรับ ADFS
 
-การกําหนดค่าของโดเมนที่ติดต่อกับภายนอกสามารถปรับปรุงตามที่อธิบายไว้ในบทความฐานความรู้ของ Microsoft ต่อไปนี้
+การกำหนดค่าของโดเมนที่ติดต่อกับภายนอกสามารถอัปเดตได้ตามที่อธิบายไว้ในบทความฐานความรู้ของ Microsoft ต่อไปนี้
 
-- [ใบรับรองสหพันธรัฐ ADFS หมดอายุ](adfs-federation-certificate-expiring.md)
+- [ใบรับรองสหพันธรัฐของ ADFS หมดอายุแล้ว](adfs-federation-certificate-expiring.md)
 
-- [ข้อผิดพลาด](https://support.microsoft.com/help/2713898)"มีปัญหาในการเข้าถึงไซต์" จาก FS โฆษณาเมื่อผู้ใช้ติดต่อกับภายนอกลงชื่อใน Microsoft 365, Azure หรือ Intun
+- [๒๗๑๓๘๙๘](https://support.microsoft.com/help/2713898)  "มีปัญหาเกิดขึ้นในการเข้าถึงไซต์" จาก AD fs เมื่อผู้ใช้ที่ติดต่อกับภายนอกลงชื่อเข้าใช้ Microsoft ๓๖๕, Azure หรือ Intune
 
-- [ข้อผิดพลาด](https://support.microsoft.com/help/2535191)"ขออภัย แต่เรากําลังมีปัญหาในการลงชื่อเข้าใช้คุณ" และ "80048163" เมื่อผู้ใช้ติดต่อกับภายนอกพยายามเข้าสู่ระบบ Microsoft 365, Azure หรือ Intun
+- [๒๕๓๕๑๙๑](https://support.microsoft.com/help/2535191) "ขออภัยแต่เรากำลังมีปัญหาในการลงชื่อเข้าใช้คุณ" และ "๘๐๐๔๘๑๖๓" ข้อผิดพลาดเมื่อผู้ใช้ที่ติดต่อกับภายนอกพยายามลงชื่อเข้าใช้ Microsoft ๓๖๕, Azure หรือ Intune
 
-- [ข้อผิดพลาด "2647020"](https://support.microsoft.com/help/2647020)เมื่อผู้ใช้ติดต่อกับภายนอกพยายามลงชื่อเข้าใช้ Microsoft 365, Azure หรือ Intun
+- [๒๖๔๗๐๒๐](https://support.microsoft.com/help/2647020)   "ขออภัยแต่เรากำลังมีปัญหาในการลงชื่อเข้าใช้คุณ" และ "๘๐๐๔๑๓๑๗" หรือ "๘๐๐๔๓๔๓๑" เมื่อผู้ใช้ที่ติดต่อกับภายนอกพยายามลงชื่อเข้าใช้ Microsoft ๓๖๕, Azure หรือ Intune
 
-สําหรับข้อมูลเพิ่มเติม ให้ดูที่[การปรับปรุงหรือซ่อมแซมการตั้งค่าของโดเมนที่ติดต่อกับภายนอกใน Microsoft 365, Azure หรือ Intun](https://docs.microsoft.com/office365/troubleshoot/active-directory/update-federated-domain-office-365)
+สำหรับข้อมูลเพิ่มเติมให้ดู[อัปเดตหรือซ่อมแซมการตั้งค่าของโดเมนที่ติดต่อกับภายนอกใน Microsoft ๓๖๕, Azure หรือ Intune](https://docs.microsoft.com/office365/troubleshoot/active-directory/update-federated-domain-office-365)

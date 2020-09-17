@@ -11,17 +11,17 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "1"
-ms.openlocfilehash: d26b0ff7101ec429b6099305e07ba45eead32449
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: b3f87de3657ee5060e91abc76ff64a7e5ba7f5ab
+ms.sourcegitcommit: 78939b01579b626b147d356045a37aec1170c948
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47689253"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47815768"
 ---
 # <a name="verify-your-domain-with-webcom"></a>ยืนยันโดเมนของคุณด้วย web.com
 
 เมื่อต้องการยืนยันโดเมนของคุณคุณจะต้องเพิ่มระเบียน TXT ลงในบริษัทจดทะเบียนโดเมนของคุณเพื่อยืนยันว่าคุณเป็นเจ้าของโดเมนของคุณ 
 
-ก่อนอื่นให้ทำตามตัว[ช่วยสร้างเพิ่มโดเมน](https://portal.office.com/adminportal/home#/Domains)โดยเลือกโดเมน**การตั้งค่า** \> **Domains**แล้ว**เพิ่มโดเมน**
+ก่อนอื่นให้ทำตามตัว[ช่วยสร้างเพิ่มโดเมน](https://admin.microsoft.com/Adminportal#/Domains)โดยเลือกโดเมน**การตั้งค่า** \> **Domains**แล้ว**เพิ่มโดเมน**
   
 ให้ดู [ที่สร้างระเบียน DNS ที่ web.com สำหรับ Microsoft ๓๖๕](https://docs.microsoft.com/microsoft-365/admin/dns/create-dns-records-at-web-com) สำหรับคำแนะนำทีละขั้นตอน
