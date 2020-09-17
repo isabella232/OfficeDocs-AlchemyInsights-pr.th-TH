@@ -1,38 +1,39 @@
 ---
-title: ระบุกิจกรรมกฎกล่องจดหมายเข้าในบันทึกการตรวจสอบ
+title: ระบุกิจกรรมกฎสำหรับกล่องจดหมายเข้าในบันทึกการตรวจสอบ
 ms.author: chrisda
 author: chrisda
 manager: dansimp
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
 - "1368"
 - "3100005"
 ms.assetid: ''
-ms.openlocfilehash: f946510539b3d28f2ceeec1546cbffce8bd352fd
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 3de6fcde6dc649cb77077d469cc66d4003e0c890
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43716443"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47779070"
 ---
-# <a name="identify-inbox-rule-activity-in-audit-logs"></a>ระบุกิจกรรมกฎกล่องจดหมายเข้าในบันทึกการตรวจสอบ
+# <a name="identify-inbox-rule-activity-in-audit-logs"></a>ระบุกิจกรรมกฎสำหรับกล่องจดหมายเข้าในบันทึกการตรวจสอบ
 
-คุณสามารถใช้การค้นหาบันทึกการตรวจสอบใน Microsoft 365 Security & ศูนย์การปฏิบัติตามกฎระเบียบเพื่อดูเหตุการณ์กฎกล่องขาเข้า (การสร้าง ปรับเปลี่ยน และการลบกฎของกล่องขาเข้า)
+คุณสามารถใช้การค้นหาบันทึกการตรวจสอบในศูนย์การรักษาความปลอดภัย & ของ Microsoft ๓๖๕เพื่อดูเหตุการณ์ของกฎสำหรับกล่องจดหมายเข้า (การสร้างการปรับเปลี่ยนและการลบกฎของกล่องจดหมายเข้า)
 
-1. เข้าสู่ระบบศูนย์[การปฏิบัติตาม&ความปลอดภัยของ Microsoft 365](https://protection.office.com/)
+1. ลงชื่อเข้าใช้[ศูนย์การรักษาความปลอดภัย Microsoft ๓๖๕ & ศูนย์การปฏิบัติตามนโยบาย](https://protection.office.com/)
 
-2. ไปที่หน้า**ค้นหาบันทึกการตรวจสอบ****การค้นหา** > 
+2. ไปที่หน้า**Search**  >  **ค้นหาบันทึกการตรวจสอบ**การค้นหา
 
-3. เลือกช่วงวันที่ในฟิลด์**วันที่เริ่มต้น**และ**วันที่สิ้นสุด**
+3. เลือกช่วงวันที่ในเขตข้อมูลวันที่**เริ่มต้น**และ**วันที่สิ้นสุด**
 
-4. ภายใต้**กิจกรรมกล่องจดหมาย Exchange**ตรวจสอบฟิลด์**กิจกรรม**ถูกตั้งค่าเป็น**สร้าง/ปรับเปลี่ยน/เปิด/ปิด/กฎของกล่องขาเข้า**
+4. ภายใต้**กิจกรรมกล่องจดหมาย Exchange**ให้ตรวจสอบว่าเขตข้อมูล**กิจกรรม**ถูกตั้งค่าเป็น**InboxRule สร้าง/แก้ไข/เปิดใช้งานกฎกล่องจดหมายเข้าใหม่**
 
 5. คลิก**ค้นหา**
 
-ในผลลัพธ์ ให้เลือกเรกคอร์ดการตรวจสอบ ในลอยรายละเอียด ให้คลิก**ข้อมูลเพิ่มเติม** ข้อมูลเกี่ยวกับการตั้งค่ากฎกล่องจดหมายเข้าจะแสดงอยู่ในฟิลด์**พารามิเตอร์**
+ในผลลัพธ์ให้เลือกระเบียนการตรวจสอบ ในเมนูรายละเอียดให้คลิก**ข้อมูลเพิ่มเติม** ข้อมูลเกี่ยวกับการตั้งค่ากฎสำหรับกล่องจดหมายเข้าจะแสดงอยู่ในเขตข้อมูล**พารามิเตอร์**
 
-สําหรับข้อมูลเพิ่มเติม โปรดดู[การกําหนดถ้าผู้ใช้สร้างกฎของกล่องขาเข้า](https://docs.microsoft.com//office365/securitycompliance/auditing-troubleshooting-scenarios#determining-if-a-user-created-an-inbox-rule)
+สำหรับข้อมูลเพิ่มเติมให้ดูที่[การกำหนดว่าผู้ใช้สร้างกฎกล่องจดหมายเข้าหรือ](https://docs.microsoft.com//office365/securitycompliance/auditing-troubleshooting-scenarios#determining-if-a-user-created-an-inbox-rule)ไม่

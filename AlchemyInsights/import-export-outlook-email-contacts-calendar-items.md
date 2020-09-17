@@ -1,27 +1,28 @@
 ---
-title: นําเข้าและส่งออกอีเมล ที่ติดต่อ และรายการปฏิทิน Outlook
+title: นำเข้าและส่งออกอีเมล Outlook ที่ติดต่อและรายการปฏิทิน
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 munlocking-an-account s.custom:
 - "9002365"
 - "4594"
-ms.openlocfilehash: 853a85593d6a5a12690bd51388e31f7adb7bc4c4
-ms.sourcegitcommit: 929f8accdca2b8e5be170e0fc8edd527581453d4
+ms.openlocfilehash: 0f7fb33eaec4df385d8f928085289375e4a97e0e
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 04/12/2020
-ms.locfileid: "43232789"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47778926"
 ---
-# <a name="import-and-export-outlook-email-contacts-and-calendar-items"></a>นําเข้าและส่งออกอีเมล ที่ติดต่อ และรายการปฏิทิน Outlook
+# <a name="import-and-export-outlook-email-contacts-and-calendar-items"></a>นำเข้าและส่งออกอีเมล Outlook ที่ติดต่อและรายการปฏิทิน
 
 1. ใน Outlook ให้คลิก**ไฟล์**
 
-2. คลิก**เปิด& ส่งออก**แล้วคลิก**นําเข้า/ส่งออก** ซึ่งจะเริ่มตัวช่วยสร้างการนําเข้าและส่งออก
+2. คลิก**เปิด & ส่งออก**แล้วคลิก**นำเข้า/ส่งออก** ซึ่งจะเป็นการเริ่มตัวช่วยสร้างการนำเข้าและส่งออก
 
-สําหรับชุดคําสั่งการนําเข้าและส่งออกสําหรับ Outlook ทั้งหมด ให้ดูที่[การนําเข้าและส่งออกอีเมล ที่ติดต่อ และปฏิทินของ Outlook](https://support.office.com/article/import-and-export-outlook-email-contacts-and-calendar-92577192-3881-4502-b79d-c3bbada6c8ef)
+สำหรับชุดคำแนะนำการนำเข้าและส่งออกที่สมบูรณ์สำหรับ Outlook ให้ดูที่[นำเข้าและส่งออกอีเมล Outlook ที่ติดต่อและปฏิทิน](https://support.office.com/article/import-and-export-outlook-email-contacts-and-calendar-92577192-3881-4502-b79d-c3bbada6c8ef)

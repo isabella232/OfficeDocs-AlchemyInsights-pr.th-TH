@@ -1,28 +1,29 @@
 ---
-title: วิธีการตั้งค่า กําหนดค่า และปรับใช้ Intun เนสําหรับการศึกษา
+title: วิธีการตั้งค่ากำหนดค่าและปรับใช้ Intune สำหรับการศึกษา
 ms.author: pebaum
 author: pebaum
 manager: scotv
 ms.date: 07/29/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "1701"
 - "9000165"
-ms.openlocfilehash: c865d5830c6dfc1946bd08de0411ecdbae89373e
-ms.sourcegitcommit: ffbed67c0a16ec423fa1d79b71e48ea4e2d320e1
+ms.openlocfilehash: d38278f8aaffa030e66a561bbea912998b99937f
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 07/29/2020
-ms.locfileid: "46555887"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47779178"
 ---
-# <a name="how-to-set-up-configure-and-deploy-intune-for-education"></a>วิธีการตั้งค่า กําหนดค่า และปรับใช้ Intun เนสําหรับการศึกษา
+# <a name="how-to-set-up-configure-and-deploy-intune-for-education"></a>วิธีการตั้งค่ากำหนดค่าและปรับใช้ Intune สำหรับการศึกษา
 
-สําหรับความช่วยเหลือในการตั้งค่า การกําหนดค่า และการปรับใช้ Intunเน for Education โปรดดูที่
+สำหรับความช่วยเหลือในการตั้งค่าการกำหนดค่าและการปรับใช้ Intune สำหรับการศึกษาให้ดูที่:
 
-- [อินทูนเพื่อการศึกษาคืออะไร](https://docs.microsoft.com/intune-education/what-is-intune-for-education)
-- [การศึกษาของไมโครซอฟท์](https://www.microsoft.com/education/intune/default.aspx)
-- [มีอะไรใหม่ใน Intun เนเพื่อการศึกษา](https://docs.microsoft.com/intune-education/whats-new-in-edu)
+- [Intune สำหรับการศึกษาคืออะไร](https://docs.microsoft.com/intune-education/what-is-intune-for-education)
+- [Microsoft Education](https://www.microsoft.com/education/intune/default.aspx)
+- [มีอะไรใหม่ใน Intune สำหรับการศึกษา](https://docs.microsoft.com/intune-education/whats-new-in-edu)
