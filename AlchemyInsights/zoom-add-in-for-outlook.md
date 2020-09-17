@@ -1,26 +1,27 @@
 ---
-title: ขยายเพิ่มเข้าสําหรับ Outlook
+title: การย่อ/ขยาย add-in สำหรับ Outlook
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9002503"
 - "4851"
-ms.openlocfilehash: 8e0fc4b89816c57c9b2efaafa8737f454c2de6c0
-ms.sourcegitcommit: 04484c73b96bf76d1b50796b3e8913f49095c4f3
+ms.openlocfilehash: ffa0ae15f1b3b52688e17f58b0725839134e9fed
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 04/18/2020
-ms.locfileid: "43553439"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47796235"
 ---
-# <a name="zoom-add-in-for-outlook"></a><span data-ttu-id="5d2cd-102">ขยายเพิ่มเข้าสําหรับ Outlook</span><span class="sxs-lookup"><span data-stu-id="5d2cd-102">Zoom add-in for Outlook</span></span>
+# <a name="zoom-add-in-for-outlook"></a><span data-ttu-id="887e2-102">การย่อ/ขยาย add-in สำหรับ Outlook</span><span class="sxs-lookup"><span data-stu-id="887e2-102">Zoom add-in for Outlook</span></span>
 
-<span data-ttu-id="5d2cd-103">เพิ่มอินตัวเลือกตัวจัดกําหนดการการย่อ/ขยายช่วยให้คุณสามารถเพิ่มการประชุมย่อ/ขยายไปยังเหตุการณ์ปฏิทิน Outlook ใหม่หรือที่มีอยู่บนเว็บได้อย่างง่ายดาย</span><span class="sxs-lookup"><span data-stu-id="5d2cd-103">The Zoom Scheduler add-in allows you to easily add a Zoom meeting to any new or existing Outlook calendar event on the web.</span></span>
+<span data-ttu-id="887e2-103">Add-in ตัวจัดกำหนดการการย่อ/ขยายช่วยให้คุณสามารถเพิ่มการประชุมการย่อ/ขยายไปยังเหตุการณ์ในปฏิทิน Outlook ใหม่หรือที่มีอยู่บนเว็บได้อย่างง่ายดาย</span><span class="sxs-lookup"><span data-stu-id="887e2-103">The Zoom Scheduler add-in allows you to easily add a Zoom meeting to any new or existing Outlook calendar event on the web.</span></span>
 
-<span data-ttu-id="5d2cd-104">คุณสามารถดาวน์โหลด add-in[ที่นี่](https://go.microsoft.com/fwlink/?linkid=2126413).</span><span class="sxs-lookup"><span data-stu-id="5d2cd-104">You can download the add-in [here](https://go.microsoft.com/fwlink/?linkid=2126413).</span></span>
+<span data-ttu-id="887e2-104">คุณสามารถดาวน์โหลด add-in ได้[ที่นี่](https://go.microsoft.com/fwlink/?linkid=2126413)</span><span class="sxs-lookup"><span data-stu-id="887e2-104">You can download the add-in [here](https://go.microsoft.com/fwlink/?linkid=2126413).</span></span>
  
