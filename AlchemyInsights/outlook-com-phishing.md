@@ -1,29 +1,30 @@
 ---
-title: จัดการกับฟิชชิ่งใน Outlook.com
+title: การจัดการกับฟิชชิ่งใน Outlook.com
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 6/3/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ms.custom:
 - "1895"
 - "9000289"
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.openlocfilehash: 96445a7689a0760c3d9dcd8e99889749d07e569a
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: c678710c49366d77f7ef8ea3f0b0c02dc252529d
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36535842"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47798251"
 ---
-# <a name="how-to-deal-with-a-phishing-email"></a><span data-ttu-id="bb743-102">วิธีจัดการกับอีเมลที่เป็นฟิชชิ่ง</span><span class="sxs-lookup"><span data-stu-id="bb743-102">How to deal with a phishing email</span></span>
+# <a name="how-to-deal-with-a-phishing-email"></a><span data-ttu-id="924ba-102">วิธีการจัดการกับอีเมลฟิชชิ่ง</span><span class="sxs-lookup"><span data-stu-id="924ba-102">How to deal with a phishing email</span></span>
 
-<span data-ttu-id="bb743-103">กลโกงของฟิชชิ่งเป็นจะเป็นอีเมลที่แสดงว่าถูกต้องตามกฎหมาย แต่เป็นจริงความพยายามขโมยข้อมูลส่วนบุคคลของคุณหรือระบบโอนเงิน</span><span class="sxs-lookup"><span data-stu-id="bb743-103">A phishing scam is an email that appears legitimate but is actually an attempt to steal your personal information or money.</span></span> <span data-ttu-id="bb743-104">Scammers สามารถใช้เทคนิคที่เรียกว่าการเคลื่อนย้ายเพื่อให้ปรากฏ เหมือนกับว่า คุณได้รับอีเมลจากตัวคุณเอง</span><span class="sxs-lookup"><span data-stu-id="bb743-104">Scammers can also use a technique called spoofing to make it appear as if you've received an email from yourself.</span></span>
+<span data-ttu-id="924ba-103">การหลอกลวงแบบฟิชชิ่งคืออีเมลที่ปรากฏตามกฎหมายแต่เป็นการพยายามขโมยข้อมูลส่วนตัวหรือเงินของคุณเป็นจริง</span><span class="sxs-lookup"><span data-stu-id="924ba-103">A phishing scam is an email that appears legitimate but is actually an attempt to steal your personal information or money.</span></span> <span data-ttu-id="924ba-104">นอกจากนี้ผู้หลอกลวงยังสามารถใช้เทคนิคที่เรียกว่าการหลอกลวงเพื่อทำให้ปรากฏได้เหมือนกับที่คุณได้รับอีเมลจากตัวคุณเอง</span><span class="sxs-lookup"><span data-stu-id="924ba-104">Scammers can also use a technique called spoofing to make it appear as if you've received an email from yourself.</span></span>
 
-<span data-ttu-id="bb743-105">ถ้าคุณได้รับอีเมลที่ดูเหมือนกลโกงของฟิชชิ่งจะเป็น คุณสามารถรายงานได้ โดยการเลือกข้อความแล้ว เลือก**อีเมลขยะ** > **ฟิชชิ่ง**ได้</span><span class="sxs-lookup"><span data-stu-id="bb743-105">If you get an email that looks like a phishing scam, you can report it by selecting the message and then selecting **Junk** > **Phishing**.</span></span>
+<span data-ttu-id="924ba-105">ถ้าคุณได้รับอีเมลที่มีลักษณะเหมือนกับการหลอกลวงฟิชชิ่งคุณสามารถรายงานได้โดยการเลือก**Junk**ข้อความแล้วเลือก  >  **ฟิชชิ่ง**ของอีเมลขยะ</span><span class="sxs-lookup"><span data-stu-id="924ba-105">If you get an email that looks like a phishing scam, you can report it by selecting the message and then selecting **Junk** > **Phishing**.</span></span>
 
-<span data-ttu-id="bb743-106">*หมายเหตุ:* เมื่อคุณทำเครื่องหมายข้อความว่าฟิชชิ่ง เฉพาะรายงานผู้ส่ง</span><span class="sxs-lookup"><span data-stu-id="bb743-106">*Note:* When you mark a message as phishing, it only reports the sender.</span></span><span data-ttu-id="bb743-107">ไม่บล็อกผู้ส่งที่ได้จากการส่งข้อความในอนาคต</span><span class="sxs-lookup"><span data-stu-id="bb743-107"> It doesn't block that sender from sending you messages in the future.</span></span> <span data-ttu-id="bb743-108">เมื่อต้องการบล็อกผู้ส่ง คุณจำเป็นต้องเพิ่มผู้ส่งลงในรายการผู้ส่งที่ถูกบล็อกของคุณ</span><span class="sxs-lookup"><span data-stu-id="bb743-108">To block the sender, you need to add the sender to your blocked senders list.</span></span> <span data-ttu-id="bb743-109">สำหรับข้อมูลเพิ่มเติม ดู[รายชื่อผู้ส่งที่บล็อก หรือยกเลิกบล็อกผู้ส่งใน Outlook.com](https://support.office.com/article/a3ece97b-82f8-4a5e-9ac3-e92fa6427ae4?wt.mc_id=Office_Outlook_com_Alchemy)</span><span class="sxs-lookup"><span data-stu-id="bb743-109">For more information, see [Block senders or unblock senders in Outlook.com](https://support.office.com/article/a3ece97b-82f8-4a5e-9ac3-e92fa6427ae4?wt.mc_id=Office_Outlook_com_Alchemy).</span></span>
+<span data-ttu-id="924ba-106">*หมายเหตุ:* เมื่อคุณทำเครื่องหมายข้อความว่าฟิชชิ่งจะรายงานเฉพาะผู้ส่งเท่านั้น</span><span class="sxs-lookup"><span data-stu-id="924ba-106">*Note:* When you mark a message as phishing, it only reports the sender.</span></span><span data-ttu-id="924ba-107">ไม่ได้บล็อกผู้ส่งไม่ให้ส่งข้อความถึงคุณในอนาคต</span><span class="sxs-lookup"><span data-stu-id="924ba-107"> It doesn't block that sender from sending you messages in the future.</span></span> <span data-ttu-id="924ba-108">เมื่อต้องการบล็อกผู้ส่งคุณจำเป็นต้องเพิ่มผู้ส่งลงในรายชื่อผู้ส่งที่ถูกบล็อกของคุณ</span><span class="sxs-lookup"><span data-stu-id="924ba-108">To block the sender, you need to add the sender to your blocked senders list.</span></span> <span data-ttu-id="924ba-109">สำหรับข้อมูลเพิ่มเติมให้ดู[ที่บล็อกผู้ส่งหรือยกเลิกการบล็อกผู้ส่งใน Outlook.com](https://support.office.com/article/a3ece97b-82f8-4a5e-9ac3-e92fa6427ae4?wt.mc_id=Office_Outlook_com_Alchemy)</span><span class="sxs-lookup"><span data-stu-id="924ba-109">For more information, see [Block senders or unblock senders in Outlook.com](https://support.office.com/article/a3ece97b-82f8-4a5e-9ac3-e92fa6427ae4?wt.mc_id=Office_Outlook_com_Alchemy).</span></span>
 
-<span data-ttu-id="bb743-110">เรียนรู้เกี่ยวกับวิธีการ[จัดการกับสิ่งไม่เหมาะสม ฟิช ชิ่ง หรือเคลื่อนย้ายใน Outlook.com](https://support.office.com/article/0d882ea5-eedc-4bed-aebc-079ffa1105a3?wt.mc_id=Office_Outlook_com_Alchemy)และ[Outlook.com รักษาความปลอดภัยขั้นสูงสำหรับสมาชิก Office 365](https://support.office.com/article/882d2243-eab9-4545-a58a-b36fee4a46e2?wt.mc_id=Office_Outlook_com_Alchemy)</span><span class="sxs-lookup"><span data-stu-id="bb743-110">Learn about how to [deal with abuse, phishing, or spoofing in Outlook.com](https://support.office.com/article/0d882ea5-eedc-4bed-aebc-079ffa1105a3?wt.mc_id=Office_Outlook_com_Alchemy) and [advanced Outlook.com security for Office 365 subscribers](https://support.office.com/article/882d2243-eab9-4545-a58a-b36fee4a46e2?wt.mc_id=Office_Outlook_com_Alchemy).</span></span>
+<span data-ttu-id="924ba-110">เรียนรู้เกี่ยวกับวิธีการจัดการกับการใช้งาน[ที่ไม่เหมาะสมฟิชชิ่งหรือการหลอกลวงใน Outlook.com](https://support.office.com/article/0d882ea5-eedc-4bed-aebc-079ffa1105a3?wt.mc_id=Office_Outlook_com_Alchemy)และ[การรักษาความปลอดภัย Outlook.com ขั้นสูงสำหรับสมาชิก Microsoft ๓๖๕](https://support.office.com/article/882d2243-eab9-4545-a58a-b36fee4a46e2?wt.mc_id=Office_Outlook_com_Alchemy)</span><span class="sxs-lookup"><span data-stu-id="924ba-110">Learn about how to [deal with abuse, phishing, or spoofing in Outlook.com](https://support.office.com/article/0d882ea5-eedc-4bed-aebc-079ffa1105a3?wt.mc_id=Office_Outlook_com_Alchemy) and [advanced Outlook.com security for Microsoft 365 subscribers](https://support.office.com/article/882d2243-eab9-4545-a58a-b36fee4a46e2?wt.mc_id=Office_Outlook_com_Alchemy).</span></span>
