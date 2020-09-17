@@ -1,24 +1,25 @@
 ---
-title: การปราบปรามเสียงรบกวนสตรีม
+title: การระงับเสียงของกระแสข้อมูล
 ms.author: pebaum
 author: pebaum
 manager: scotv
 ms.date: 07/20/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "6068"
 - "9003225"
-ms.openlocfilehash: e383b6bb1bda77b41c1b05823dd537db3040cab2
-ms.sourcegitcommit: b0b050a83db28566b68e3ec09810c6b94280008e
+ms.openlocfilehash: 21db226e971978239c9496898a6855988149fe3f
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 07/20/2020
-ms.locfileid: "45198552"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47795299"
 ---
-# <a name="stream-noise-suppression"></a>การปราบปรามเสียงรบกวนสตรีม
+# <a name="stream-noise-suppression"></a>การระงับเสียงของกระแสข้อมูล
 
-การปราบปรามเสียงรบกวนเมื่อเปิดโดยเจ้าของวิดีโอช่วยให้ผู้ชมสามารถแยกเสียงพูดและเสียงอื่นๆ ในระหว่างการเล่น สามารถเปิดหรือปิดการปิดเสียงสําหรับวิดีโอที่อัปโหลดใหม่แต่ละรายการ สําหรับข้อมูลเพิ่มเติม ให้ดูที่[การระงับเสียงรบกวน](https://docs.microsoft.com/stream/noise-suppression)
+การป้องกันเสียงรบกวนเมื่อเปิดใช้งานโดยเจ้าของวิดีโอจะช่วยให้ผู้ชมสามารถแยกเสียงจากเสียงและเพลงอื่นๆระหว่างการเล่นได้ คุณสามารถเปิดหรือปิดการป้องกันเสียงรบกวนสำหรับวิดีโอที่อัปโหลดใหม่แต่ละรายการได้ สำหรับข้อมูลเพิ่มเติมให้ดูที่การ[ปราบปรามเสียงรบกวน](https://docs.microsoft.com/stream/noise-suppression)

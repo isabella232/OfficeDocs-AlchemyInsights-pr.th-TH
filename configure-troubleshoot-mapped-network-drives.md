@@ -1,11 +1,12 @@
 ---
-title: วิธีการกําหนดค่าและแก้ไขปัญหาไดรฟ์เครือข่ายที่แมป
+title: วิธีการกำหนดค่าและการแก้ไขปัญหาไดรฟ์เครือข่ายที่แมป
 ms.author: v-miegge
 author: v-miegge
 manager: v-cojank
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
@@ -13,15 +14,15 @@ ms.custom:
 - "5300002"
 - "3180"
 ms.assetid: ''
-ms.openlocfilehash: 99842cacb86859109d81fdaff7d31b9032b6d3bf
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 604340aadadaa2f268dd72320a8c5efcb9abe984
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43707242"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47796199"
 ---
-# <a name="how-to-configure-and-troubleshoot-mapped-network-drives"></a>วิธีการกําหนดค่าและแก้ไขปัญหาไดรฟ์เครือข่ายที่แมป
+# <a name="how-to-configure-and-troubleshoot-mapped-network-drives"></a>วิธีการกำหนดค่าและการแก้ไขปัญหาไดรฟ์เครือข่ายที่แมป
 
-การแมปไลบรารีเป็นไดรฟ์เครือข่ายชั่วคราว และสนับสนุนผ่านทาง Internet Explorer เท่านั้น ซิงค์แฟ้ม[SharePoint กับไคลเอ็นต์ซิงค์ OneDrive ใหม่](https://support.office.com/article/6de9ede8-5b6e-4503-80b2-6190f3354a88)ซึ่งมี[แฟ้มตามความต้องการ](https://support.office.com/article/0e6860d3-d9f3-4971-b321-7092438fb38e) เข้าถึงไฟล์ทั้งหมดของคุณใน OneDrive โดยไม่ต้องใช้พื้นที่จัดเก็บข้อมูลภายในเครื่อง
+การแมปไลบรารีเป็นไดรฟ์เครือข่ายจะเป็นการชั่วคราวและได้รับการสนับสนุนผ่านทาง Internet Explorer เท่านั้น แทนที่ [ซิงค์ไฟล์ SharePoint ด้วยไคลเอ็นต์การซิงค์ OneDrive ใหม่](https://support.office.com/article/6de9ede8-5b6e-4503-80b2-6190f3354a88) ที่มี [ไฟล์ตามความต้อง](https://support.office.com/article/0e6860d3-d9f3-4971-b321-7092438fb38e)การ เข้าถึงไฟล์ทั้งหมดของคุณใน OneDrive ได้โดยไม่ต้องใช้พื้นที่เก็บข้อมูลภายในเครื่อง
 
-* [การแก้ไขปัญหาไดรฟ์เครือข่ายที่แมปที่เชื่อมต่อกับ SharePoint แบบออนไลน์](https://docs.microsoft.com/sharepoint/support/administration/troubleshoot-mapped-network-drives)
+* [แก้ไขปัญหาไดรฟ์เครือข่ายที่แมปที่เชื่อมต่อกับ SharePoint Online](https://docs.microsoft.com/sharepoint/support/administration/troubleshoot-mapped-network-drives)

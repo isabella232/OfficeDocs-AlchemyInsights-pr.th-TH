@@ -5,25 +5,26 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "3451"
 - "9001449"
-ms.openlocfilehash: 060492f0792caa34de872ccd97b27006ff172ba0
-ms.sourcegitcommit: 42463e8d8869f36225a27388d83d37629c6b149e
+ms.openlocfilehash: b6de4097a23e18ac84f6afd5c9d2b3c4ff7bb856
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 12/18/2019
-ms.locfileid: "40738447"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47794713"
 ---
-# <a name="change-a-standard-user-account-to-an-administrator-in-windows-10"></a>เปลี่ยนบัญชีผู้ใช้มาตรฐานเป็นผู้ดูแลระบบใน Windows 10
+# <a name="change-a-standard-user-account-to-an-administrator-in-windows-10"></a>เปลี่ยนบัญชีผู้ใช้มาตรฐานให้เป็นผู้ดูแลระบบใน Windows 10
 
 ต่อไปนี้เป็นวิธีการเปลี่ยนบัญชีผู้ใช้มาตรฐานให้กับผู้ดูแลระบบใน Windows 10:
 
-1. ไปที่**เริ่มต้น** > **การตั้งค่า** > **** > **ครอบครัว & บุคคลอื่น**(หรือ**บุคคลอื่น**ถ้าคุณกำลังใช้ Windows 10 Enterprise)
-2. เลือกบัญชีที่คุณต้องการให้เป็นผู้ดูแลระบบแล้วเลือก**เปลี่ยนบัญชี**
-3. ภายใต้**ชนิดบัญชี**เลือก**ผู้ดูแล**และจากนั้นให้เลือก **' ตกลง '**
+1. ไปที่**เริ่ม**  >  **การตั้งค่า**  >  **บัญชีผู้ใช้**ของ  >  **ครอบครัว & บุคคลอื่น**(หรือ**บุคคลอื่น**ถ้าคุณกำลังใช้ Windows 10 Enterprise)
+2. เลือกบัญชีผู้ใช้ที่คุณต้องการทำให้เป็นผู้ดูแลระบบแล้วเลือก**เปลี่ยนบัญชีผู้ใช้**
+3. ภายใต้**ชนิดบัญชีผู้ใช้**ให้เลือก**ผู้ดูแลระบบ**จากนั้นเลือก**ตกลง**
 
-**หมายเหตุ:** คุณสามารถเปลี่ยนบัญชีผู้ใช้ได้จากบัญชีผู้ดูแลที่มีอยู่เท่านั้น
+**หมายเหตุ:** คุณสามารถเปลี่ยนบัญชีผู้ใช้ได้จากบัญชีผู้ดูแลระบบที่มีอยู่แล้วเท่านั้น

@@ -1,31 +1,32 @@
 ---
-title: ใช้ SaRA เพื่อวินิจฉัย และแก้ไขปัญหาการรับรองความถูกต้องของ Outlook
+title: ใช้ SaRA เพื่อวินิจฉัยและแก้ไขปัญหาการรับรองความถูกต้องของ Outlook
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 munlocking-an-account s.custom:
 - "9002370"
 - "4605"
-ms.openlocfilehash: d9486254a507e38e91365df39413990ff6737e5a
-ms.sourcegitcommit: 929f8accdca2b8e5be170e0fc8edd527581453d4
+ms.openlocfilehash: 85438f6e4fde8679ae125ce7c89dfbfb0c8cb035
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 04/12/2020
-ms.locfileid: "43232817"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47795191"
 ---
-# <a name="use-sara-to-diagnose-and-resolve-outlook-authentication-issues"></a>ใช้ SaRA เพื่อวินิจฉัย และแก้ไขปัญหาการรับรองความถูกต้องของ Outlook
+# <a name="use-sara-to-diagnose-and-resolve-outlook-authentication-issues"></a>ใช้ SaRA เพื่อวินิจฉัยและแก้ไขปัญหาการรับรองความถูกต้องของ Outlook
 
-เมื่อต้องการวินิจฉัย&แก้ไขปัญหาการพิสูจน์ตัวจริงของ Outlook หรือปัญหาการพร้อมท์ข้อมูลประจําตัวซ้ํา โปรดติดตั้ง และเรียกใช้[การสนับสนุน Office 365 และผู้ช่วยการกู้คืน](https://diagnostics.office.com/#/)(SaRA)
+เมื่อต้องการวินิจฉัย & แก้ไขปัญหาเกี่ยวกับพร้อมท์การรับรองความถูกต้องของ Outlook ของคุณหรือการซ้ำๆโปรดติดตั้งและเรียกใช้ตัว [ช่วยการสนับสนุนและการกู้คืนของ Office ๓๖๕](https://diagnostics.office.com/#/) (SaRA)
 
-1. เรียกซาร่า
+1. เรียกใช้ SaRA
 
-2. เลือก**Outlook**บนหน้าจอแรก ให้คลิก**ถัดไป**
+2. เลือก**Outlook**บนหน้าจอแรกคลิก**ถัดไป**
 
-3. เลือก**Outlook จะถามรหัสผ่านของฉัน**ให้คลิก**ถัดไป**
+3. เลือก**Outlook เพื่อขอรหัสผ่านของฉัน**แล้วคลิก**ถัดไป**
 
-ผู้ช่วยสนับสนุนและการกู้คืนจะเรียกใช้การตรวจสอบการวินิจฉัยบางอย่าง และกลับมาด้วยโซลูชันที่เป็นไปได้สําหรับคุณเพื่อแก้ไขปัญหาการพิสูจน์ตัวจริงของ Outlook หรือข้อมูลประจําตัวพร้อมท์
+ตัวช่วยการสนับสนุนและการกู้คืนจะเรียกใช้การตรวจสอบการวินิจฉัยบางอย่างและกลับมาพร้อมกับโซลูชันที่เป็นไปได้เพื่อให้คุณสามารถแก้ไขปัญหาเกี่ยวกับการรับรองความถูกต้องของ Outlook หรือการพร้อมท์ข้อมูลประจำตัวของคุณได้

@@ -1,29 +1,30 @@
 ---
-title: ทําการเปลี่ยนแปลงตัวเปิดใช้แอป Microsoft 365
+title: ทำการเปลี่ยนแปลงตัวเปิดใช้แอป Microsoft ๓๖๕
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9003052"
 - "5811"
-ms.openlocfilehash: adb59243b9d5abd6629848917fa99236b9d5e365
-ms.sourcegitcommit: 122ac3670a59b056ab2ea82165ec55e7b19c747b
+ms.openlocfilehash: 24b59a0ceace36308a9c0390bf481105129d7e7a
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 06/08/2020
-ms.locfileid: "44650440"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47794677"
 ---
-# <a name="make-changes-to-the-microsoft-365-app-launcher"></a>ทําการเปลี่ยนแปลงตัวเปิดใช้แอป Microsoft 365
+# <a name="make-changes-to-the-microsoft-365-app-launcher"></a>ทำการเปลี่ยนแปลงตัวเปิดใช้แอป Microsoft ๓๖๕
 
-คุณสามารถเพิ่มไทล์แบบกําหนดเองของคุณเองไปยังตัวเปิดใช้แอปที่ชี้ไปยังไซต์ SharePoint ไซต์ภายนอก
+คุณสามารถเพิ่มไทล์แบบกำหนดเองของคุณลงในตัวเปิดใช้แอปที่ชี้ไปยังไซต์ SharePoint, ไซต์ภายนอก, แอปดั้งเดิมและอื่นๆ
 
-1. [เพิ่มไทล์แบบกําหนดเองลงในตัวเปิดใช้แอป](https://docs.microsoft.com/microsoft-365/admin/manage/customize-the-app-launcher)ในศูนย์การจัดการโดยไปที่ การตั้งค่า **>การตั้งค่าองค์กร**แล้วเลือกแท็บ**โปรไฟล์องค์กร**
-2. [เลื่อนตําแหน่งไทล์ไปยังตัวเปิดใช้แอป](https://docs.microsoft.com/microsoft-365/admin/manage/customize-the-app-launcher#promote-the-tile-to-app-launcher)โดยการ**ปักหมุดแอป**กับตัวเปิดใช้
-3. [แก้ไขหรือลบไทล์แบบกําหนดเอง](https://docs.microsoft.com/microsoft-365/admin/manage/customize-the-app-launcher#edit-or-delete-a-custom-tile)หากมีการเปลี่ยนแปลงบางอย่างสําหรับแอป
+1. [เพิ่มไทล์แบบกำหนดเองลงในตัวเปิดใช้แอปใน](https://docs.microsoft.com/microsoft-365/admin/manage/customize-the-app-launcher)ศูนย์การจัดการโดยไปที่การ**ตั้งค่า > การตั้งค่าองค์กร**แล้วเลือกแท็บ**โปรไฟล์ขององค์กร**
+2. [เลื่อนระดับไทล์ไปยังตัวเปิดใช้แอป](https://docs.microsoft.com/microsoft-365/admin/manage/customize-the-app-launcher#promote-the-tile-to-app-launcher) โดยการ **ปักหมุดแอปไป** ยังตัวเปิดใช้
+3. [แก้ไขหรือลบไทล์แบบกำหนดเอง](https://docs.microsoft.com/microsoft-365/admin/manage/customize-the-app-launcher#edit-or-delete-a-custom-tile) ถ้ามีการเปลี่ยนแปลงบางอย่างสำหรับแอป
 
-สําหรับข้อมูลเพิ่มเติม ให้ดูที่[การกําหนดตัวเปิดใช้แอปเอง](https://docs.microsoft.com/microsoft-365/admin/manage/customize-the-app-launcher)
+สำหรับข้อมูลเพิ่มเติมให้ดู[ที่การกำหนดตัวเปิดใช้แอป](https://docs.microsoft.com/microsoft-365/admin/manage/customize-the-app-launcher)

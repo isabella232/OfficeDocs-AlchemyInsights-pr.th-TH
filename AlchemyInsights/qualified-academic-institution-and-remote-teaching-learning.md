@@ -1,34 +1,35 @@
 ---
-title: สถาบันสอนและการเรียนรู้ที่ผ่านการรับรองจาก Microsoft
+title: สถาบันการศึกษาของ Microsoft ที่มีคุณสมบัติเหมาะสมและการเรียนรู้และการเรียนรู้ระยะไกล
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.custom: ''
 ms.assetid:
 - "1500009"
 - "4495"
-ms.openlocfilehash: 8d1a8cf65ccbf4cb6d1549ec58593bccc31feb01
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: 8943f2f8243d908f07823da534e16f80cd7d4903
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44062735"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47795803"
 ---
-# <a name="microsoft-qualified-academic-institution-and-remote-teaching-and-learning"></a>สถาบันสอนและการเรียนรู้ที่ผ่านการรับรองจาก Microsoft
+# <a name="microsoft-qualified-academic-institution-and-remote-teaching-and-learning"></a>สถาบันการศึกษาของ Microsoft ที่มีคุณสมบัติเหมาะสมและการเรียนรู้และการเรียนรู้ระยะไกล
 
-เมื่อต้องการเริ่มต้นใช้งาน Office 365 for Education ให้ไปที่[ไซต์](https://www.microsoft.com/microsoft-365/academic/compare-office-365-education-plans)นี้และลงทะเบียน
+เมื่อต้องการเริ่มต้นใช้งาน Office ๓๖๕สำหรับการศึกษาให้เยี่ยมชม [ไซต์](https://www.microsoft.com/microsoft-365/academic/compare-office-365-education-plans) นี้และลงทะเบียน
 
-คุณจะมี Office 365 A1 สําหรับการทดลองใช้งานของคณะและ Office 365 A1 สําหรับนักเรียนทดลองใช้ในขณะที่รอการมีสิทธิ์ขององค์กรของคุณที่จะได้รับการตรวจสอบ ตรวจสอบให้แน่ใจว่าได้เพิ่มโดเมนเนื่องจากสามารถช่วยเร่งกระบวนการอนุมัติ
+คุณจะมี Office ๓๖๕ A1 สำหรับคณาจารย์รุ่นทดลองใช้และ Office ๓๖๕ A1 สำหรับนักเรียนเวอร์ชันทดลองใช้ในขณะที่กำลังรอการตรวจสอบสิทธิ์ขององค์กรของคุณ ตรวจสอบให้แน่ใจว่าได้เพิ่มโดเมนเนื่องจากจะช่วยให้กระบวนการการอนุมัติทำงานได้
 
-คุณจะได้รับอีเมลแจ้งว่ามีสิทธิ์ขององค์กรได้รับอนุมัติแล้วหรือไม่  
+คุณจะได้รับอีเมลแจ้งให้คุณทราบว่าสิทธิ์ขององค์กรของคุณได้รับการอนุมัติแล้วหรือไม่  
 
-เมื่อคุณได้รับอนุมัติ คุณสามารถไปที่แท็บ[ซื้อบริการ](https://admin.microsoft.com/Adminportal/Home#/catalog)ของศูนย์การจัดการ Microsoft 365 เพื่อซื้อการสมัครใช้งาน
+เมื่อคุณได้รับการอนุมัติคุณสามารถไปที่แท็บ [บริการซื้อ](https://admin.microsoft.com/Adminportal/Home#/catalog) ของศูนย์การจัดการ Microsoft ๓๖๕เพื่อซื้อการสมัครใช้งานได้
 
-**การเรียนการสอนและการเรียนรู้ระยะไกล**
+**การเรียนรู้และการเรียนรู้ระยะไกล**
 
-โปรดดู[การสอนและการเรียนรู้ระยะไกลใน Office 365 Education](https://support.office.com/article/remote-teaching-and-learning-in-office-365-education-f651ccae-7b65-478b-8366-51bb884025c4)เพื่อเรียนรู้คําแนะนําที่ทันสมัยที่สุดเกี่ยวกับการตั้งค่าการวางแผนบทเรียนของโรงเรียนการประชุมจริงและแชร์เนื้อหากับนักเรียน
+โปรดดูการเรียนรู้ [และการเรียนรู้ระยะไกลใน Office ๓๖๕ Education](https://support.office.com/article/remote-teaching-and-learning-in-office-365-education-f651ccae-7b65-478b-8366-51bb884025c4) เพื่อเรียนรู้เกี่ยวกับคำแนะนำล่าสุดเกี่ยวกับการตั้งค่าการวางแผนบทเรียนของโรงเรียนของคุณการประชุมและการแชร์เนื้อหากับนักเรียน
 
-มีคําแนะนําด้านไอทีเพิ่มเติมใน[การเริ่มต้นใช้งาน Microsoft Teams สําหรับการเรียนรู้ระยะไกล](https://docs.microsoft.com/MicrosoftTeams/remote-learning-edu)และ[การเปลี่ยนไปสู่การเรียนรู้ระยะไกล](https://www.microsoft.com/education/remote-learning)
+มีคำแนะนำด้าน IT เพิ่มเติมใน[การเริ่มต้นใช้งาน Microsoft team สำหรับการเรียนรู้ระยะไกล](https://docs.microsoft.com/MicrosoftTeams/remote-learning-edu)และทำให้การ[เปลี่ยนไปใช้การเรียนรู้ระยะไกล](https://www.microsoft.com/education/remote-learning)
