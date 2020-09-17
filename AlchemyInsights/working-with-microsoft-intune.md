@@ -1,37 +1,38 @@
 ---
-title: การทํางานกับอินทอนไมโครซอฟท์
+title: การทำงานกับ Microsoft Intune
 ms.author: pebaum
 author: pebaum
 manager: scotv
 ms.date: 07/17/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "862"
 - "670000"
-ms.openlocfilehash: 1475e2caff83fd92c32be38a501334c3d682bd73
-ms.sourcegitcommit: 9ed8b920cb598f9e22f54964029b3bef8e22a630
+ms.openlocfilehash: 8d900198114703fb31157fa9724f4f9711b7b8c4
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "45198480"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47796379"
 ---
-# <a name="working-with-microsoft-intune"></a>การทํางานกับอินทอนไมโครซอฟท์
+# <a name="working-with-microsoft-intune"></a>การทำงานกับ Microsoft Intune
 
-ดูเหมือนคุณกําลังถามเรื่องอินจูน เราอาจสามารถช่วยตอบได้อย่างแม่นยํามากขึ้นหากคุณพูดคําถามของคุณด้วยประโยคสั้นๆ หนึ่งหรือสองประโยคที่อธิบายปัญหาของคุณ รวมถึงข้อผิดพลาด คุณลักษณะที่คุณกําลังใช้ เป็นต้น ระหว่างนี้
+ดูเหมือนว่าคุณกำลังถามเกี่ยวกับ Intune เราอาจจะช่วยเหลือคุณในการตอบคำถามที่ชัดเจนยิ่งขึ้นถ้าคุณบรรยายคำถามของคุณกับประโยคสั้นๆหนึ่งหรือสองประโยคที่อธิบายปัญหาของคุณรวมถึงข้อผิดพลาดฟีเจอร์ที่คุณกำลังใช้อยู่และอื่นๆ ในระหว่างนี้ต่อไปนี้เป็นข้อมูลบางอย่างเกี่ยวกับ Intune
 
-- [อินทูนคืออะไร?](https://docs.microsoft.com/intune/what-is-intune)
-- [วิธีการลงทะเบียนสําหรับการทดลอง Intun?](https://docs.microsoft.com/intune/free-trial-sign-up)
-- [ตั้งค่า Intun เป็นอันดับแรกหรือไม่?](https://docs.microsoft.com/intune/setup-steps)
+- [Intune คืออะไร](https://docs.microsoft.com/intune/what-is-intune)
+- [วิธีการลงทะเบียนสำหรับเวอร์ชันทดลองใช้ของ Intune](https://docs.microsoft.com/intune/free-trial-sign-up)
+- [ตั้งค่า Intune เป็นครั้งแรกใช่หรือไม่](https://docs.microsoft.com/intune/setup-steps)
 - [การลงทะเบียนอุปกรณ์คืออะไร](https://docs.microsoft.com/intune/device-enrollment)
-- [พื้นฐานการจัดการอุปกรณ์](https://docs.microsoft.com/mem/intune/fundamentals/)
+- [ข้อมูลพื้นฐานเกี่ยวกับการจัดการอุปกรณ์](https://docs.microsoft.com/mem/intune/fundamentals/)
 
-สําหรับรายละเอียดเกี่ยวกับการแก้ไขปัญหาใน Intun
+สำหรับรายละเอียดเกี่ยวกับการแก้ไขปัญหาใน Intune ให้ดูดังต่อไปนี้:
 
-- เมื่อต้องการวินิจฉัยและแก้ไขปัญหาความล้มเหลวทั่วไป ให้ดูที่[Intun](https://aka.ms/intunetroubleshooting) สําหรับข้อมูลเพิ่มเติม ให้ดูที่[ใช้พอร์ทัลการแก้ไขปัญหาเบื้องต้นเพื่อช่วยผู้ใช้ในบริษัทของคุณ](https://docs.microsoft.com/intune/help-desk-operators)
-- เมื่อต้องการค้นหาคําตอบและวิธีแก้ไขปัญหาทั่วไป ให้ดูที่[Intunเน TechNet](https://aka.ms/intuneforums)
-- เมื่อต้องการดูสถานะของบริการของคุณ ให้ดูที่[สถานภาพบริการ](https://portal.office.com/AdminPortal/Home#/servicehealth)
-- สําหรับข้อมูลการวางแผน[Intune documentation](https://docs.microsoft.com/intune/)
+- เมื่อต้องการวินิจฉัยและแก้ไขปัญหาความล้มเหลวทั่วไปให้ดูที่[พอร์ทัลการแก้ไขปัญหาของ Intune](https://aka.ms/intunetroubleshooting) สำหรับข้อมูลเพิ่มเติมให้ดู[ที่ใช้พอร์ทัลการแก้ไขปัญหาเพื่อช่วยผู้ใช้ที่บริษัทของคุณ](https://docs.microsoft.com/intune/help-desk-operators)
+- เมื่อต้องการค้นหาคำตอบและวิธีแก้ไขปัญหาทั่วไปให้ดูที่[Intune TechNet](https://aka.ms/intuneforums)
+- เมื่อต้องการดูสถานะของบริการของคุณให้ดูที่[สถานภาพบริการ](https://portal.office.com/AdminPortal/Home#/servicehealth)
+- สำหรับการวางแผนวิธีการและข้อมูลการแก้ไขปัญหาให้ดูที่[เอกสารประกอบของ Intune](https://docs.microsoft.com/intune/)

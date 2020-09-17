@@ -1,34 +1,35 @@
 ---
-title: ไม่สามารถเปลี่ยนชื่อผู้ใช้
+title: ไม่สามารถเปลี่ยนชื่อผู้ใช้ได้
 ms.author: pebaum
 author: pebaum
 manager: scotv
 ms.date: 07/24/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "1729"
 - "9000183"
-ms.openlocfilehash: 34aecdf503699ee500179f0958158fc964d77fcb
-ms.sourcegitcommit: b10cea11b4975354b91193327b58aa4740d34833
+ms.openlocfilehash: 76891b3abe156b736c3bb6da0f6cd1135346dbe2
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 07/28/2020
-ms.locfileid: "45440296"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47798683"
 ---
-# <a name="unable-to-change-username"></a>ไม่สามารถเปลี่ยนชื่อผู้ใช้
+# <a name="unable-to-change-username"></a>ไม่สามารถเปลี่ยนชื่อผู้ใช้ได้
 
-ในบางกรณี การเปลี่ยนแปลง UPN (UserPrincipalName) จะไม่ถูกเผยแพร่ไปยังระบบคลาวด์ คุณอาจได้รับข้อผิดพลาดในการตรวจสอบความถูกต้องในพอร์ทัล Office 365 หรือไม่สามารถเปลี่ยนชื่อผู้ใช้หรือที่อยู่อีเมลได้ เมื่อต้องการแก้ไขปัญหานี้ ด้วยตนเองตั้งค่า UserPrincipalName โดยใช้คําสั่ง PowerShell นี้
+ในบางกรณีการเปลี่ยนแปลง UPN (UserPrincipalName) ไม่ได้เผยแพร่ไปยัง cloud คุณอาจได้รับข้อผิดพลาดในการตรวจสอบในพอร์ทัล Office ๓๖๕หรือไม่สามารถเปลี่ยนชื่อผู้ใช้หรือที่อยู่อีเมลได้ เมื่อต้องการแก้ไขปัญหานี้ให้ตั้งค่า UserPrincipalName โดยใช้คำสั่ง PowerShell นี้ด้วยตนเอง
 
 **ตัวอย่าง: เปลี่ยนชื่อผู้ใช้**
 
 PowerShellCopy
 
-PS C: \> ชุด-MsolUserPrincipalName -userprincipalName "davidc@contoso.com" -NewUserPrincipalName "davidchew@contoso.com"
+PS C: \> Set-MsolUserPrincipalName-UserPrincipalName "davidc@contoso.com"-NewUserPrincipalName "davidchew@contoso.com"
 
-คําสั่งนี้เปลี่ยนชื่อdavidc@contoso.comdavidchew@contoso.com
+คำสั่งนี้จะเปลี่ยนชื่อ davidc@contoso.com เป็น davidchew@contoso.com
 
-สําหรับข้อมูลเพิ่มเติม ให้ดูที่[ชุด MsolUserPrincipalName](https://docs.microsoft.com/powershell/module/msonline/set-msoluserprincipalname?view=azureadps-1.0)
+สำหรับข้อมูลเพิ่มเติมให้ดูที่[ตั้งค่า MsolUserPrincipalName](https://docs.microsoft.com/powershell/module/msonline/set-msoluserprincipalname?view=azureadps-1.0)

@@ -1,11 +1,12 @@
 ---
-title: เมื่อใดที่บัตรของฉันถูกเรียกเก็บเงิน?
+title: บัตรเครดิตของฉันจะถูกเรียกเก็บเงินเมื่อใด
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
@@ -13,17 +14,17 @@ ms.custom:
 - "446"
 - "1500018"
 ms.assetid: 43db851f-f5e5-4849-8222-2c8ac26acb60
-ms.openlocfilehash: 44751ea0b8036875750e5e22ef300623c2590f97
-ms.sourcegitcommit: 64ed44e6ada9250cac8ae1621157f78d0de2c49b
+ms.openlocfilehash: dd0dde092494fbea5a262bfee59725bde9ebeb28
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 05/29/2020
-ms.locfileid: "44418091"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47796415"
 ---
-# <a name="when-is-my-credit-card-charged"></a>เมื่อใดที่บัตรของฉันถูกเรียกเก็บเงิน?
+# <a name="when-is-my-credit-card-charged"></a>บัตรเครดิตของฉันจะถูกเรียกเก็บเงินเมื่อใด
 
-เมื่อซื้อครั้งแรกอาจใช้เวลาถึงสองวันในการเรียกเก็บค่าธรรมเนียม
+ด้วยการซื้อเริ่มต้นอาจใช้เวลานานถึงสองวันสำหรับค่าใช้จ่ายที่จะเกิดขึ้น
   
-ค่าธรรมเนียมที่เกิดซ้ําเกิดขึ้นภายในหนึ่งวันของการสร้างใบแจ้งหนี้
+ค่าใช้จ่ายที่เป็นกิจวัตรจะเกิดขึ้นภายในหนึ่งวันของใบแจ้งหนี้ที่ถูกสร้างขึ้น
   
-หากการเรียกเก็บเงินไม่สําเร็จระบบจะพยายามชําระยอดเงินในอีกสองสามสัปดาห์ข้างหน้า คุณสามารถอัปเดตข้อมูลการชําระเงินของคุณได้ตลอดเวลาเพื่อประกันความพยายามในการเรียกเก็บเงินครั้งต่อไปจะประสบความสําเร็จ สําหรับข้อมูลเพิ่มเติม ให้ดูที่[จัดการวิธีการชําระเงิน](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods)
+ถ้าค่าใช้จ่ายไม่สำเร็จระบบจะพยายามชำระยอดคงเหลือในช่วงสองสามสัปดาห์ถัดไป คุณสามารถทำการอัปเดตข้อมูลการชำระเงินของคุณได้ตลอดเวลาเพื่อประกันความพยายามในการเรียกเก็บเงินครั้งถัดไปเสร็จเรียบร้อยแล้ว สำหรับข้อมูลเพิ่มเติมให้ดูที่[จัดการวิธีการชำระเงิน](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods)

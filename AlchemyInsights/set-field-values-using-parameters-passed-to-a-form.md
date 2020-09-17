@@ -1,26 +1,27 @@
 ---
-title: ตั้งค่าฟิลด์โดยใช้พารามิเตอร์ที่ส่งผ่านไปยังฟอร์ม - ฟิลด์การค้นหา
+title: ตั้งค่าเขตข้อมูลโดยใช้พารามิเตอร์ที่ส่งผ่านไปยังเขตข้อมูลการค้นหาแบบฟอร์ม
 ms.author: pebaum
 author: pebaum
 manager: scotv
 ms.date: 07/27/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "1927"
 - "9000307"
-ms.openlocfilehash: bd147296ab13b3b15b110bfaae54a63f7c260e2a
-ms.sourcegitcommit: b10cea11b4975354b91193327b58aa4740d34833
+ms.openlocfilehash: 4ea09924a77f2cb821b23677d29f5693c96fc727
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 07/28/2020
-ms.locfileid: "45439730"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47799007"
 ---
-# <a name="set-field-values-using-parameters-passed-to-a-form---lookup-fields"></a>ตั้งค่าฟิลด์โดยใช้พารามิเตอร์ที่ส่งผ่านไปยังฟอร์ม - ฟิลด์การค้นหา
+# <a name="set-field-values-using-parameters-passed-to-a-form---lookup-fields"></a>ตั้งค่าเขตข้อมูลโดยใช้พารามิเตอร์ที่ส่งผ่านไปยังเขตข้อมูลการค้นหาแบบฟอร์ม
 
-ตั้งค่าสําหรับเขตข้อมูลการค้นหาและตัวอย่าง: ใช้ Xrm.Utility.openEntityForm เพื่อเปิดหน้าต่างใหม่ คุณไม่สามารถตั้งค่าสําหรับ partylist หรือการค้นหาที่เกี่ยวข้อง
+ตั้งค่าสำหรับเขตข้อมูลการค้นหาและตัวอย่าง: ใช้ Xrm openEntityForm เพื่อเปิดหน้าต่างใหม่ คุณไม่สามารถตั้งค่าสำหรับ partylist หรือเกี่ยวกับการค้นหาได้
 
-สําหรับข้อมูลเพิ่มเติม ให้ดูที่[ตั้งค่าสําหรับฟิลด์การค้นหา](https://docs.microsoft.com/previous-versions/dynamicscrm-2016/developers-guide/gg334375(v=crm.8)#set-values-for-lookup-fields)
+สำหรับข้อมูลเพิ่มเติมให้ดูที่[ตั้งค่าสำหรับเขตข้อมูลการค้นหา](https://docs.microsoft.com/previous-versions/dynamicscrm-2016/developers-guide/gg334375(v=crm.8)#set-values-for-lookup-fields)

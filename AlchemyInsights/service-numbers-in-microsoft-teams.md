@@ -1,28 +1,29 @@
 ---
-title: หมายเลขบริการใน Teams
+title: หมายเลขบริการในทีม
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.custom:
 - "9002256"
 - "4359"
 ms.assetid: ''
-ms.openlocfilehash: b1bccc3ccdcbccfdbc68bbfd4ed40560b45f1797
-ms.sourcegitcommit: 83c644c35c2700dc515f091c8f41f9c283b89967
+ms.openlocfilehash: 6bf7cca2d17b4e31a0f10ef41a2b77dcf0cf7efa
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 04/02/2020
-ms.locfileid: "43105330"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47799043"
 ---
-# <a name="service-numbers-in-teams"></a>หมายเลขบริการใน Teams
+# <a name="service-numbers-in-teams"></a>หมายเลขบริการในทีม
 
-หมายเลขโทรศัพท์บริการมีความจุโทรพร้อมกันสูงกว่าผู้ใช้หรือหมายเลขโทรศัพท์มือถือของสมาชิก 
+หมายเลขโทรศัพท์บริการมีกำลังการโทรที่พร้อมใช้งานสูงกว่าที่ผู้ใช้หรือหมายเลขโทรศัพท์ของผู้สมัครใช้งาน 
 
-- [ตรวจสอบวิธีต่างๆ ในการรับหมายเลขบริการ](https://docs.microsoft.com/microsoftteams/getting-service-phone-numbers) 
+- [ตรวจทานวิธีต่างๆในการรับหมายเลขบริการ](https://docs.microsoft.com/microsoftteams/getting-service-phone-numbers) 
 
-- [ตรวจสอบวิธีการแปลงหมายเลขผู้ใช้เป็นหมายเลขบริการ](https://docs.microsoft.com/microsoftteams/manage-phone-numbers-for-your-organization/phone-number-management-for-the-u-s)
+- [ตรวจทานวิธีการแปลงหมายเลขผู้ใช้เป็นหมายเลขบริการ](https://docs.microsoft.com/microsoftteams/manage-phone-numbers-for-your-organization/phone-number-management-for-the-u-s)
 
-สําหรับข้อมูลเพิ่มเติม ให้ดูที่[จัดการหมายเลขโทรศัพท์สําหรับองค์กรของคุณ](https://docs.microsoft.com/microsoftteams/manage-phone-numbers-for-your-organization/manage-phone-numbers-for-your-organization)
+สำหรับข้อมูลเพิ่มเติมให้ดูที่[จัดการหมายเลขโทรศัพท์สำหรับองค์กรของคุณ](https://docs.microsoft.com/microsoftteams/manage-phone-numbers-for-your-organization/manage-phone-numbers-for-your-organization)
