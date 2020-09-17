@@ -1,29 +1,30 @@
 ---
-title: การปรับรุ่นเป็นรุ่นเต็มของ Microsoft ทีม
+title: อัปเกรดเป็นทีม Microsoft เวอร์ชันสมบูรณ์
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
 - "933"
 - "6500004"
 ms.assetid: 86e9b860-d4b2-495c-a135-5c7ecb8e6192
-ms.openlocfilehash: 74f242f4023e34d30787b91cb710bd658f1282ca
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 94249c294c095fe14c8193451275de44d21ff90e
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43766548"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47808366"
 ---
-# <a name="upgrade-to-the-full-version-of-microsoft-teams"></a>การปรับรุ่นเป็นรุ่นเต็มของ Microsoft ทีม
+# <a name="upgrade-to-the-full-version-of-microsoft-teams"></a>อัปเกรดเป็นทีม Microsoft เวอร์ชันสมบูรณ์
 
-ต้องการอัปเกรดจาก Microsoft Teams เวอร์ชันเต็มหรือไม่ ดู[อัปเกรด Microsoft Teams เป็นเวอร์ชันการสมัครใช้งาน Microsoft 365](https://docs.microsoft.com/microsoftteams/upgrade-freemium)ฟรี
+ต้องการอัปเกรดจากทีม Microsoft เวอร์ชันสมบูรณ์หรือไม่ ดู [อัปเกรด microsoft team ฟรีเป็นเวอร์ชันการสมัครใช้งาน microsoft ๓๖๕](https://docs.microsoft.com/microsoftteams/upgrade-freemium)
 
-คุณจะต้องปฏิบัติตามข้อกําหนดเหล่านี้:
+คุณจะต้องตรงตามข้อกำหนดเหล่านี้:
 
-- คุณคือผู้ที่สมัครเข้าร่วม Teams เวอร์ชันฟรีปัจจุบัน
-- ถ้าคุณมีโดเมนของคุณเอง
-- เมื่อต้องการถ่ายโอนข้อมูลเมื่อคุณปรับรุ่น หากคุณซื้อการสมัครใช้งานภายนอกกระบวนการอัปเกรด คุณจะไม่สามารถถ่ายโอนข้อมูลได้
+- คุณเป็นบุคคลที่ลงทะเบียนสำหรับทีมเวอร์ชันที่ไม่มีค่าใช้จ่ายในปัจจุบัน
+- ถ้าคุณมีโดเมนของคุณเองจะไม่สามารถเชื่อมโยงกับไดเรกทอรีที่ใช้งานอยู่ของ Azure ได้
+- เมื่อต้องการถ่ายโอนข้อมูลเมื่อคุณอัปเกรดคุณต้องสมัครใช้งานในระหว่างกระบวนการอัปเกรด ถ้าคุณซื้อการสมัครใช้งานที่อยู่นอกกระบวนการอัปเกรดคุณจะไม่สามารถถ่ายโอนข้อมูลได้
