@@ -1,29 +1,30 @@
 ---
-title: ต้องการความช่วยเหลือเกี่ยวกับบัญชี Outlook.com ของฉัน
+title: ต้องการความช่วยเหลือเกี่ยวกับบัญชีผู้ใช้ Outlook.com ของฉัน
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9001104"
 - "3065"
-ms.openlocfilehash: 73a386d338b880c808ec9f620e07b23badf1285f
-ms.sourcegitcommit: 23d217597369d0ca585600f9454171e7c133c30e
+ms.openlocfilehash: 46fe8d21b725083b733fdd9cc0a77b2962ff7c62
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 02/27/2020
-ms.locfileid: "42288302"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47803300"
 ---
-# <a name="need-help-with-my-outlookcom-account"></a>ต้องการความช่วยเหลือเกี่ยวกับบัญชี Outlook.com ของฉัน
+# <a name="need-help-with-my-outlookcom-account"></a>ต้องการความช่วยเหลือเกี่ยวกับบัญชีผู้ใช้ Outlook.com ของฉัน
 
-ถ้าคุณต้องการความช่วยเหลือเกี่ยวกับบริการ Outlook.com เรามีความช่วยเหลือทุ่มเทให้กับคุณ เมื่อต้องการรับการสนับสนุนโดยตรงบนเว็บแอพลิเคชัน: 
+ถ้าคุณต้องการความช่วยเหลือเกี่ยวกับบริการ Outlook.com เรามีความช่วยเหลือเฉพาะเพื่อช่วยเหลือคุณ เมื่อต้องการรับการสนับสนุนโดยตรงบนเว็บแอปให้ทำดังนี้ 
 
-1. คลิกบ? ที่ด้านบนขวาของหน้าจอ 
+1. คลิกบน? ไอคอนที่ด้านบนขวาของหน้าจอ 
 
-2. พิมพ์สิ่งที่คุณต้องการความช่วยเหลือด้วยบนกล่อง ' วิธีใช้ ' ที่แสดงบนหน้าจอป๊อปอัพและคลิก**ส่ง** 
+2. พิมพ์สิ่งที่คุณต้องการความช่วยเหลือเกี่ยวกับกล่องวิธีใช้ที่แสดงอยู่บนแผงป็อปอัพแล้วคลิก**ส่ง** 
 
-3. หากไม่มีการแก้ปัญหาโปรดเลื่อนลงแผงด้านข้างและคลิก**อีเมลหาเรา**
+3. ถ้าไม่มีการแก้ไขปัญหาโปรดเลื่อนลงไปที่แผงด้านข้างแล้วคลิก**อีเมลถึงเรา**
