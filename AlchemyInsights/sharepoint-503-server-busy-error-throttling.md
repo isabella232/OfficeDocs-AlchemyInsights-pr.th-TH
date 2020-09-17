@@ -1,10 +1,11 @@
 ---
-title: การควบคุมปริมาณแบบออนไลน์ของ SharePoint
+title: การควบคุมปริมาณ SharePoint Online
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: b376d8ea-50c4-47f0-9720-50d80aa3f7f1
@@ -12,26 +13,26 @@ ms.custom:
 - "9000149"
 - "1662"
 - "3491"
-ms.openlocfilehash: 50b2c29db1fd294abe6c9e60f067156109de392b
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 21d0f8d0118d92562b425921742513157563b5fb
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43742228"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47773866"
 ---
-# <a name="sharepoint-online-throttling"></a>การควบคุมปริมาณแบบออนไลน์ของ SharePoint
+# <a name="sharepoint-online-throttling"></a>การควบคุมปริมาณ SharePoint Online
 
-**สําคัญ**: ในช่วงเวลาที่ไม่เคยมีมาก่อนเหล่านี้ เราจะดําเนินการเพื่อให้แน่ใจว่า SharePoint Online และบริการ OneDrive ยังคงพร้อมใช้งานสูง – โปรดเยี่ยมชม[SharePoint Online ชั่วคราวปรับปรุงคุณลักษณะชั่วคราว](https://aka.ms/ODSPAdjustments)สําหรับข้อมูลเพิ่มเติม
+**สำคัญ**: ในช่วงเวลาที่เป็นประวัติการณ์เหล่านี้เราจะดำเนินการตามขั้นตอนเพื่อให้แน่ใจว่าบริการ sharepoint Online และ OneDrive ยังคงพร้อมใช้งานอย่างมาก–โปรดไปที่การ [ปรับปรุงฟีเจอร์ชั่วคราวของ sharepoint Online](https://aka.ms/ODSPAdjustments) สำหรับข้อมูลเพิ่มเติม
 
-**ข้อผิดพลาดของเซิร์ฟเวอร์ 503 ไม่ว่าง**
+**เซิร์ฟเวอร์๕๐๓มีข้อผิดพลาดที่ไม่ว่าง**
 
-ผู้ใช้อาจได้รับเซิร์ฟเวอร์ 503 ไม่ว่างข้อผิดพลาดเมื่อพยายามที่จะนําทางไปยังไซต์ SharePoint หรือ OneDrive 
+ผู้ใช้อาจได้รับข้อผิดพลาดที่ไม่ว่างของ๕๐๓เมื่อพยายามนำทางไปยังไซต์ SharePoint หรือ OneDrive 
 
-ข้อผิดพลาดนี้อาจมีสาเหตุจากการควบคุมปริมาณภายในบริการ SharePoint SharePoint Online ใช้การควบคุมปริมาณเพื่อรักษาประสิทธิภาพสูงสุดและความน่าเชื่อถือของบริการ SharePoint แบบออนไลน์ การควบคุมปริมาณ จํากัด จํานวนของการกระทําของผู้ใช้หรือเรียกพร้อมกัน (ตามสคริปต์หรือรหัส) เพื่อป้องกันการใช้ทรัพยากรมากเกินไป 
+ข้อผิดพลาดนี้อาจมีสาเหตุมาจากการควบคุมปริมาณภายในบริการ SharePoint SharePoint Online ใช้การควบคุมปริมาณเพื่อรักษาประสิทธิภาพการทำงานที่ดีที่สุดและความน่าเชื่อถือของบริการ SharePoint Online การควบคุมปริมาณจะจำกัดจำนวนการดำเนินการของผู้ใช้หรือการโทรที่พร้อมกัน (โดยสคริปต์หรือโค้ด) เพื่อป้องกันไม่ให้มีทรัพยากรมากเกินไป 
 
-สําหรับข้อมูลเพิ่มเติมเกี่ยวกับการควบคุมปริมาณ ให้ดูที่[หลีกเลี่ยงการถูกควบคุมปริมาณหรือถูกบล็อกใน SharePoint Online](https://docs.microsoft.com/sharepoint/dev/general-development/how-to-avoid-getting-throttled-or-blocked-in-sharepoint-online)
+สำหรับข้อมูลเพิ่มเติมเกี่ยวกับการควบคุมปริมาณให้ดูที่[หลีกเลี่ยงการปริมาณหรือการบล็อกใน SharePoint Online](https://docs.microsoft.com/sharepoint/dev/general-development/how-to-avoid-getting-throttled-or-blocked-in-sharepoint-online)
 
-ถ้าคุณเชื่อว่าข้อผิดพลาดนี้ไม่เกี่ยวข้องกับการควบคุมปริมาณ[Message center](https://portal.office.com/adminportal/home#/MessageCenter)
+ถ้าคุณเชื่อว่าข้อผิดพลาดนี้ไม่เกี่ยวข้องกับการควบคุมปริมาณคุณสามารถตรวจสอบว่ามีการบำรุงรักษาที่ใช้งานอยู่ในผู้เช่าของคุณหรือไม่โดยการนำทางไปยัง[ศูนย์ข้อความ](https://portal.office.com/adminportal/home#/MessageCenter)
 
- ตรวจสอบคําแนะนํา/เหตุการณ์ที่อาจเกิดขึ้น[Service Health](https://portal.office.com/adminportal/home#/servicehealth)
+ สุดท้ายให้ตรวจสอบให้แน่ใจว่าคุณได้เยี่ยมชมหน้า [สถานภาพบริการ](https://portal.office.com/adminportal/home#/servicehealth) เพื่อตรวจสอบคำแนะนำ/กรณีปัญหาที่อาจเกิดขึ้น
 

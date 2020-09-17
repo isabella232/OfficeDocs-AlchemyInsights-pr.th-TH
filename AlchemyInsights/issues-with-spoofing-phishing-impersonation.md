@@ -1,37 +1,38 @@
 ---
-title: ปัญหาเกี่ยวกับการปลอมแปลง ฟิชชิ่ง หรือการปลอมตัว
+title: ปัญหาเกี่ยวกับการหลอกลวงฟิชชิ่งหรือการเลียนแบบใช่หรือไม่
 ms.author: chrisda
 author: chrisda
 manager: dansimp
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 1755
 ms.assetid: ''
-ms.openlocfilehash: fb10c486833cfb0a1726dce69bc2176b39565e9d
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: 92e7f611b08a5457e52be248982785b2dc2ddabc
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44510051"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47773038"
 ---
-# <a name="issues-with-spoofing-phishing-or-impersonation"></a>ปัญหาเกี่ยวกับการปลอมแปลง ฟิชชิ่ง หรือการปลอมตัว
+# <a name="issues-with-spoofing-phishing-or-impersonation"></a>ปัญหาเกี่ยวกับการหลอกลวงฟิชชิ่งหรือการเลียนแบบใช่หรือไม่
 
 เรียนรู้วิธีที่ Microsoft ปกป้องคุณจาก:
 
-- [การปลอมแปลง](https://docs.microsoft.com/microsoft-365/security/office-365-security/anti-spoofing-protection)
+- [ปลอมแปลง](https://docs.microsoft.com/microsoft-365/security/office-365-security/anti-spoofing-protection)
 
-- [ฟิชชิงและการปลอมตัว](https://docs.microsoft.com/microsoft-365/security/office-365-security/atp-anti-phishing)
+- [ฟิชชิ่งและการเลียนแบบ](https://docs.microsoft.com/microsoft-365/security/office-365-security/atp-anti-phishing)
 
-คําแนะนําเพิ่มเติม:
+คำแนะนำเพิ่มเติม:
 
-- สําหรับผู้ส่งปลอมที่ดูเหมือนจะมาจากโดเมนของคุณเอง[SPF](https://docs.microsoft.com/microsoft-365/security/office-365-security/set-up-spf-in-office-365-to-help-prevent-spoofing)และ[DKIM](https://docs.microsoft.com/microsoft-365/security/office-365-security/use-dkim-to-validate-outbound-email)สามารถช่วยได้
+- สำหรับผู้ส่งปลอมที่ปรากฏมาจากโดเมนของคุณเอง [SPF](https://docs.microsoft.com/microsoft-365/security/office-365-security/set-up-spf-in-office-365-to-help-prevent-spoofing) และ [DKIM](https://docs.microsoft.com/microsoft-365/security/office-365-security/use-dkim-to-validate-outbound-email) สามารถช่วยคุณได้
 
-- ตรวจสอบว่าผู้ส่งในโดเมนของคุณไม่ได้ถูกกําหนดค่าให้ข้ามการกรองสแปมโดยใช้กฎการไหลของจดหมาย (หรือที่เรียกว่ากฎการขนส่ง) หรืออนุญาตรายการ สําหรับข้อมูลเพิ่มเติม ให้ดูที่[ข้อควรระวังในการข้ามตัวกรองสแปมของ Microsoft](https://docs.microsoft.com/exchange/troubleshoot/antispam/cautions-against-bypassing-spam-filters)
+- ตรวจสอบผู้ส่งในโดเมนของคุณเองไม่ได้รับการกำหนดค่าให้ข้ามการกรองป้องกันสแปมโดยใช้กฎโฟลว์จดหมาย (หรือที่เรียกว่ากฎการส่งผ่าน) หรืออนุญาตรายการ สำหรับข้อมูลเพิ่มเติมให้ดูที่ข้อควรระวังเกี่ยวกับการข้าม[ตัวกรองสแปมของ Microsoft](https://docs.microsoft.com/exchange/troubleshoot/antispam/cautions-against-bypassing-spam-filters)
 
-- ตรวจสอบว่าผู้ใช้ไม่ได้กําหนดค่ารายการ[รายชื่อผู้ส่งที่ปลอดภัย](https://support.office.com/article/BE1BAEA0-BEAB-4A30-B968-9004332336CE)ซึ่งอาจอนุญาตให้มีการโจมตีแบบฟิชชิ่งได้
+- ตรวจสอบว่าผู้ใช้ไม่ได้กำหนดค่ารายการ [รายชื่อผู้ส่งที่ปลอดภัย](https://support.office.com/article/BE1BAEA0-BEAB-4A30-B968-9004332336CE) ที่อาจทำให้การโจมตีของฟิชชิ่ง
 
-- ลองส่งสแปมและข้อความฟิชชิงที่มีความเชื่อมั่นสูงเพื่อกักกันแทนที่จะใช้โฟลเดอร์อีเมลขยะ สําหรับข้อมูลเพิ่มเติม ให้ดูที่[กักกันข้อความอีเมล](https://docs.microsoft.com/microsoft-365/security/office-365-security/quarantine-email-messages)
+- พิจารณาส่งข้อความอีเมลที่เชื่อถือได้และฟิชชิ่งเป็นการกักกันแทนที่จะเป็นโฟลเดอร์อีเมลขยะ สำหรับข้อมูลเพิ่มเติมให้ดูที่[ข้อความอีเมลที่ถูกกักกัน](https://docs.microsoft.com/microsoft-365/security/office-365-security/quarantine-email-messages)
 
-**[การรายงานข้อความไปยัง Microsoft](https://support.office.com/article/b5caa9f1-cdf3-4443-af8c-ff724ea719d2)คือวิธีที่ดีที่สุดในการแจ้งให้เราทราบว่าตัวกรองมีประสิทธิภาพเพียงใด**
+**การ[รายงานข้อความไปยัง Microsoft](https://support.office.com/article/b5caa9f1-cdf3-4443-af8c-ff724ea719d2)เป็นวิธีที่ดีที่สุดในการแจ้งให้เราทราบว่าตัวกรองกำลังดำเนินการอย่างไร**

@@ -1,25 +1,26 @@
 ---
-title: บันทึกตําแหน่งสําหรับไฟล์ที่ดาวน์โหลดจาก Teams
+title: บันทึกตำแหน่งที่ตั้งสำหรับไฟล์ที่ดาวน์โหลดจากทีม
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9002461"
 - "4768"
-ms.openlocfilehash: ff0adbfd4174f5f5345d538f3d748039c1bf1a0c
-ms.sourcegitcommit: bcd6df19adeb5e3a04e518a05621dd6c68da93f2
+ms.openlocfilehash: 22d5cb0070518c7a408002755d89db0e7f7f3fe4
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 04/30/2020
-ms.locfileid: "43955841"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47774514"
 ---
-# <a name="save-location-for-files-downloaded-from-teams"></a>บันทึกตําแหน่งสําหรับไฟล์ที่ดาวน์โหลดจาก Teams
+# <a name="save-location-for-files-downloaded-from-teams"></a>บันทึกตำแหน่งที่ตั้งสำหรับไฟล์ที่ดาวน์โหลดจากทีม
 
-ขณะนี้ไฟล์ที่ดาวน์โหลดใน Teams จะสามารถบันทึกได้เฉพาะโฟลเดอร์ดาวน์โหลดของโปรไฟล์ผู้ใช้เท่านั้น (เช่น C:\Users\<usesrname>\Downloads)
+ในขณะนี้ไฟล์ที่ดาวน์โหลดในทีมสามารถถูกบันทึกลงในโฟลเดอร์ดาวน์โหลดของโปรไฟล์ผู้ใช้ (เช่น C:\Users \<usesrname> \Downloads)
 
-คุณสามารถอ่านเพิ่มเติมเกี่ยวกับคําขอคุณลักษณะนี้และช่วยจัดลําดับความสําคัญการร้องขอโดย upvoting ในหัวข้อการสนทนา User Voice สําหรับหัวข้อนี้พบ[ที่นี่](https://microsoftteams.uservoice.com/forums/555103-public/suggestions/18693262-have-the-download-function-of-files-allow-you-to-s).
+คุณสามารถอ่านเพิ่มเติมเกี่ยวกับการร้องขอฟีเจอร์นี้และช่วยจัดลำดับความสำคัญของการร้องขอได้โดยการ upvoting ในเธรดการอภิปรายเสียงของผู้ใช้สำหรับหัวข้อนี้จะปรากฏ[ที่นี่](https://microsoftteams.uservoice.com/forums/555103-public/suggestions/18693262-have-the-download-function-of-files-allow-you-to-s)

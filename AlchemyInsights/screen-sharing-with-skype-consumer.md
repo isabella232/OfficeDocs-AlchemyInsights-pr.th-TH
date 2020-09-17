@@ -5,21 +5,22 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "4000009"
 - "1433"
-ms.openlocfilehash: ecb4110f2a51369b3f9cc7355abfdcb949d6107d
-ms.sourcegitcommit: 7232b48bcd8bb9867d52a2f055a46ce76a58b8da
+ms.openlocfilehash: 6c89ea3d599fe9944352d9d65ea172658460efeb
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 09/27/2019
-ms.locfileid: "37305315"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47774370"
 ---
-# <a name="screen-sharing-with-skype-consumer-users"></a>การแชร์หน้าจอกับผู้ใช้ Skype
+# <a name="screen-sharing-with-skype-consumer-users"></a>การแชร์หน้าจอกับผู้ใช้สำหรับผู้ใช้ Skype
 
-สำหรับคำแนะนำทั่วไปเกี่ยวกับวิธีการแบ่งปันโปรแกรมของคุณเพื่อเรียนรู้เกี่ยวกับข้อจำกัดที่มีการใช้ร่วมกันและสำหรับการแก้ไขปัญหาทรัพยากรให้ตรวจทาน[แบ่งปันหน้าจอของคุณใน Skype สำหรับธุรกิจ](https://support.office.com/article/Share-your-screen-in-Skype-for-Business-2d436dc9-d092-4ef1-83f1-dd9f7a7cd3fc)  
+สำหรับคำแนะนำทั่วไปเกี่ยวกับวิธีการแชร์โปรแกรมของคุณเพื่อเรียนรู้เกี่ยวกับข้อจำกัดที่มีการแชร์และสำหรับการแก้ไขปัญหาทรัพยากรตรวจทาน[แชร์หน้าจอของคุณใน Skype For business](https://support.office.com/article/Share-your-screen-in-Skype-for-Business-2d436dc9-d092-4ef1-83f1-dd9f7a7cd3fc)  
 
-ขณะนี้ Skype สำหรับผู้ใช้ทางธุรกิจจะไม่สามารถใช้ร่วมกับผู้ใช้ของผู้บริโภค Skype ได้ กรุณา[คลิกที่นี่](https://www.skypefeedback.com/forums/299913-generally-available/suggestions/12335259-enable-screen-sharing-to-consumer-skype-users)เพื่อแสดงความคิดเห็นเกี่ยวกับการเปิดใช้งานการแชร์หน้าจอกับผู้บริโภค Skype 
+ในปัจจุบันผู้ใช้ Skype for Business ไม่สามารถแชร์หน้าจอกับผู้ใช้ Skype ได้ โปรด [คลิกที่นี่](https://www.skypefeedback.com/forums/299913-generally-available/suggestions/12335259-enable-screen-sharing-to-consumer-skype-users) เพื่อให้คำติชมเกี่ยวกับการเปิดใช้งานการแชร์หน้าจอกับผู้ใช้ Skype สำหรับผู้ใช้ Skype 
