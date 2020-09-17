@@ -1,32 +1,33 @@
 ---
-title: วิธีการเพิ่มที่เก็บข้อมูลใน OneDrive สําหรับธุรกิจ
+title: วิธีเพิ่มที่เก็บข้อมูลใน OneDrive for Business
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: ceaa6256-a9d9-4fef-a274-d7219365e07f
-ms.openlocfilehash: adee1c5d1ffc23f54580549ab666ee8fac579263
-ms.sourcegitcommit: a98b25fa3cac9ebba983f4932881d774880aca93
+ms.openlocfilehash: 53eabf6c87dead3b7309c7da1f8a590940127169
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "44063060"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47780114"
 ---
-# <a name="how-to-increase-storage-in-onedrive-for-business"></a>วิธีการเพิ่มที่เก็บข้อมูลใน OneDrive สําหรับธุรกิจ
+# <a name="how-to-increase-storage-in-onedrive-for-business"></a>วิธีเพิ่มที่เก็บข้อมูลใน OneDrive for Business
 
-เมื่อต้องการเปลี่ยนที่เก็บข้อมูลเริ่มต้นสําหรับผู้ใช้ OneDrive ใหม่และที่มีอยู่ ให้ทําดังนี้
+เมื่อต้องการเปลี่ยนที่เก็บข้อมูลเริ่มต้นสำหรับผู้ใช้ OneDrive ใหม่และผู้ใช้ที่มีอยู่:
   
-- ไปที่หน้า[พื้นที่จัดเก็บ ของศูนย์การจัดการ OneDrive](https://admin.onedrive.com/?v=StorageSettings)แล้วป้อนจํานวนเงินใหม่ในหน่วย GB
+- ไปที่ [หน้าที่เก็บข้อมูลของศูนย์การจัดการ OneDrive](https://admin.onedrive.com/?v=StorageSettings)แล้วใส่จำนวนเงินใหม่ในหน่วยกิกะไบต์
 
-การตั้งค่าพื้นที่จัดเก็บนี้ใช้กับผู้ใช้ทุกคนที่คุณไม่ได้ตั้งค่าขีดจํากัดของพื้นที่จัดเก็บข้อมูลที่ระบุ เมื่อต้องการเปลี่ยนพื้นที่จัดเก็บสําหรับผู้ใช้เฉพาะ สําหรับข้อมูลเกี่ยวกับวิธีการทําเช่นนี้ ให้ดูที่[การเปลี่ยนพื้นที่จัดเก็บข้อมูล OneDrive ของผู้ใช้โดยใช้ PowerShell](https://go.microsoft.com/fwlink/?linkid=866402)
+การตั้งค่าพื้นที่จัดเก็บข้อมูลนี้จะนำไปใช้กับผู้ใช้ทั้งหมดที่คุณไม่ได้ตั้งค่าขีดจำกัดที่เก็บข้อมูลที่เฉพาะเจาะจง เมื่อต้องการเปลี่ยนพื้นที่จัดเก็บข้อมูลสำหรับผู้ใช้ที่เฉพาะเจาะจงคุณจำเป็นต้องใช้ Microsoft PowerShell สำหรับข้อมูลเกี่ยวกับวิธีการทำสิ่งนี้ให้ดูที่[เปลี่ยนพื้นที่เก็บข้อมูล OneDrive ของผู้ใช้ของคุณโดยใช้ PowerShell](https://go.microsoft.com/fwlink/?linkid=866402)
 
-**หมายเหตุ**: ดูเหมือนว่าคุณไม่ได้มีแผนที่มีพื้นที่เก็บข้อมูลไม่ จํากัด สําหรับข้อมูลเกี่ยวกับที่เก็บที่มาพร้อมกับแผนแต่ละแผน ให้ดูที่[OneDrive for Business คําอธิบายบริการ](https://go.microsoft.com/fwlink/p/?LinkID=826071)
+**หมายเหตุ**: ดูเหมือนว่าคุณยังไม่มีแผนที่มีที่เก็บข้อมูลแบบไม่จำกัด สำหรับข้อมูลเกี่ยวกับที่เก็บข้อมูลที่มาพร้อมกับแต่ละแผนให้ดูที่[คำอธิบายบริการ OneDrive For Business](https://go.microsoft.com/fwlink/p/?LinkID=826071)
   
-เมื่อต้องการเพิ่มที่เก็บข้อมูลของคุณใน OneDrive for Business ให้เลือกการสมัครใช้งานที่มี**OneDrive สําหรับแผนธุรกิจ 2**หรือ**Office 365 Enterprise E3** 
+เมื่อต้องการเพิ่มพื้นที่จัดเก็บข้อมูลของคุณใน OneDrive for Business ให้เลือกการสมัครใช้งานที่มี**onedrive For Business Plan 2**หรือ**Office ๓๖๕ Enterprise E3** 
   
-เมื่อต้องการเปลี่ยนแปลงแผน ใน ศูนย์การจัดการ Microsoft 365 ให้ไปที่หน้า**การเรียกเก็บเงิน** \> **[ผลิตภัณฑ์ของคุณ](https://go.microsoft.com/fwlink/p/?linkid=842054)** ให้เลือกการสมัครใช้งานที่จะเปลี่ยนแปลง แล้วเลือกแท็บ**ปรับรุ่น**
+เมื่อต้องการเปลี่ยนแผนในศูนย์การจัดการ Microsoft ๓๖๕ให้ไปที่หน้าการ**เรียกเก็บเงิน** \> **[ของผลิตภัณฑ์ของคุณ](https://go.microsoft.com/fwlink/p/?linkid=842054)** เลือกการสมัครใช้งานเพื่อเปลี่ยนแปลงแล้วเลือกแท็บการ**อัปเกรด**
   
-สําหรับข้อมูลเพิ่มเติมเกี่ยวกับการสลับแผนและ OneDrive สําหรับการจัดเก็บธุรกิจ ให้ดูที่[สลับไปยัง Microsoft 365 อื่นสําหรับแผนธุรกิจ](https://go.microsoft.com/fwlink/?LinkId=2031117)และ[OneDrive สําหรับรายละเอียดการบริการธุรกิจ](https://go.microsoft.com/fwlink/p/?LinkId-2031122)
+สำหรับข้อมูลเพิ่มเติมเกี่ยวกับการสลับแผนและที่เก็บข้อมูล OneDrive for Business ให้ดูที่[สลับไปยังแผนอื่นของ Microsoft ๓๖๕สำหรับธุรกิจ](https://go.microsoft.com/fwlink/?LinkId=2031117)และ[คำอธิบายบริการ OneDrive for business](https://go.microsoft.com/fwlink/p/?LinkId-2031122)
