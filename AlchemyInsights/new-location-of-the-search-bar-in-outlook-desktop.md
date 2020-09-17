@@ -1,24 +1,25 @@
 ---
-title: ตําแหน่งที่ตั้งใหม่ของแถบการค้นหาในเดสก์ท็อป Outlook
+title: ตำแหน่งที่ตั้งใหม่ของแถบค้นหาใน Outlook บนเดสก์ท็อป
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "1800005"
 - "5620"
-ms.openlocfilehash: 2497f226b955096520e35c378b31e3dd025b4a74
-ms.sourcegitcommit: 43acdecef129bfffc8bbe8ebb08fdd581b238a03
+ms.openlocfilehash: 920b5cd73b366e1bf656cd7090814ceb6beb3b8f
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 05/18/2020
-ms.locfileid: "44281108"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47803192"
 ---
-# <a name="new-location-of-the-search-bar-in-outlook-desktop"></a><span data-ttu-id="2e50a-102">ตําแหน่งที่ตั้งใหม่ของแถบการค้นหาในเดสก์ท็อป Outlook</span><span class="sxs-lookup"><span data-stu-id="2e50a-102">New location of the search bar in Outlook desktop</span></span>
+# <a name="new-location-of-the-search-bar-in-outlook-desktop"></a><span data-ttu-id="c2495-102">ตำแหน่งที่ตั้งใหม่ของแถบค้นหาใน Outlook บนเดสก์ท็อป</span><span class="sxs-lookup"><span data-stu-id="c2495-102">New location of the search bar in Outlook desktop</span></span>
 
-<span data-ttu-id="2e50a-103">กล่องค้นหา Outlook Desktop ได้ย้ายไปยังแถบชื่อเรื่องเพื่อให้สอดคล้องกับโปรแกรมประยุกต์ Office อื่น ๆ</span><span class="sxs-lookup"><span data-stu-id="2e50a-103">The Outlook Desktop search box has moved to the title bar to be consistent with the other Office applications.</span></span> <span data-ttu-id="2e50a-104">บ้านใหม่นี้สําหรับการค้นหาจะออกจากรายการข้อความที่สะอาดซึ่งคุณจะมีพื้นที่ให้พอดีกับข้อความเพิ่มเติม</span><span class="sxs-lookup"><span data-stu-id="2e50a-104">This new home for search will leave a cleaner message list where you'll have space to fit additional messages.</span></span>
-- <span data-ttu-id="2e50a-105">[เรียนรู้เพิ่มเติม](https://support.microsoft.com/en-us/office/96fee452-80cd-492d-a35c-5c37584b416b)</span><span class="sxs-lookup"><span data-stu-id="2e50a-105">[Learn more](https://support.microsoft.com/en-us/office/96fee452-80cd-492d-a35c-5c37584b416b).</span></span>
+<span data-ttu-id="c2495-103">กล่องค้นหาบนเดสก์ท็อปของ Outlook ได้ย้ายไปยังแถบชื่อเรื่องเพื่อให้สอดคล้องกับแอปพลิเคชัน Office อื่นๆ</span><span class="sxs-lookup"><span data-stu-id="c2495-103">The Outlook Desktop search box has moved to the title bar to be consistent with the other Office applications.</span></span> <span data-ttu-id="c2495-104">หน้าแรกใหม่สำหรับการค้นหาจะออกจากรายการข้อความที่ทำความสะอาดที่คุณจะมีช่องว่างเพื่อให้พอดีกับข้อความเพิ่มเติม</span><span class="sxs-lookup"><span data-stu-id="c2495-104">This new home for search will leave a cleaner message list where you'll have space to fit additional messages.</span></span>
+- <span data-ttu-id="c2495-105">[เรียนรู้เพิ่มเติม](https://support.microsoft.com/en-us/office/96fee452-80cd-492d-a35c-5c37584b416b)</span><span class="sxs-lookup"><span data-stu-id="c2495-105">[Learn more](https://support.microsoft.com/en-us/office/96fee452-80cd-492d-a35c-5c37584b416b).</span></span>
