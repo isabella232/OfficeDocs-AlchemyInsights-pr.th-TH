@@ -1,35 +1,36 @@
 ---
-title: การปฏิบัติตามมาตรฐาน HIPPA และ Office 365
+title: HIPPA การปฏิบัติตามกฎระเบียบและ Office ๓๖๕
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9002430"
 - "4720"
-ms.openlocfilehash: c1f4af839e232c4bf17e0f806f723615063037cb
-ms.sourcegitcommit: 89ae9e8b36d1980f89f07b016fff0ec48f96b620
+ms.openlocfilehash: ea0d01150f7dbf4d9788deb3430bc27862a54c45
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 04/23/2020
-ms.locfileid: "43790146"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47782202"
 ---
-# <a name="hippa-compliance-and-office-365"></a>การปฏิบัติตามมาตรฐาน HIPPA และ Office 365
+# <a name="hippa-compliance-and-office-365"></a>HIPPA การปฏิบัติตามกฎระเบียบและ Office ๓๖๕
 
-ต้องการเรียนรู้เพิ่มเติมเกี่ยวกับวิธีใช้บริการระบบคลาวด์ของ Microsoft เพื่อช่วยปฏิบัติตามข้อกําหนดด้านความปลอดภัยและความเป็นส่วนตัวของ HIPAA หรือไม่  คําถามเกี่ยวกับวิธีการใช้คะแนนการปฏิบัติตามกฎระเบียบของ Microsoft เพื่อประเมินความเสี่ยงของคุณหรือทําข้อตกลงทางธุรกิจกับ Microsoft?  
+ต้องการเรียนรู้เพิ่มเติมเกี่ยวกับวิธีการใช้บริการ cloud ของ Microsoft เพื่อช่วยให้สอดคล้องกับข้อกำหนดด้านความปลอดภัยและความเป็นส่วนตัวของ Microsoft  คำถามเกี่ยวกับวิธีใช้คะแนนการปฏิบัติตามข้อกำหนดของ Microsoft เพื่อประเมินความเสี่ยงของคุณหรือเข้าสู่ข้อตกลงทางธุรกิจ (โยง) กับไมโครซอฟท์  
 
-ดูทรัพยากรต่อไปนี้สําหรับข้อมูลเพิ่มเติม:
+ดูแหล่งข้อมูลต่อไปนี้สำหรับข้อมูลเพิ่มเติม:
 
-- สําหรับ**HIPAA และภาพรวมพระราชบัญญัติ HITECH**ดูความสามารถในการ[พกพาประกันสุขภาพและความรับผิดชอบ (HIPAA) &](https://docs.microsoft.com/microsoft-365/compliance/offering-hipaa-hitech?view=o365-worldwide)
+- สำหรับ**HIPAA และภาพรวมของพระราชบัญญัติของไฮเทค**ให้ดูที่[ประกันสุขภาพที่พกพาและความรับผิดชอบ (HIPAA) & ไฮเทค](https://docs.microsoft.com/microsoft-365/compliance/offering-hipaa-hitech?view=o365-worldwide)
 
-- **ใช้[คะแนนการปฏิบัติตาม](https://docs.microsoft.com/microsoft-365/compliance/offering-hipaa-hitech?view=o365-worldwide#use-microsoft-compliance-score-to-assess-your-risk)** ข้อกําหนดเพื่อประเมินความเสี่ยงของคุณ
+- **ใช้ [คะแนนการปฏิบัติตามนโยบาย](https://docs.microsoft.com/microsoft-365/compliance/offering-hipaa-hitech?view=o365-worldwide#use-microsoft-compliance-score-to-assess-your-risk)** เพื่อประเมินความเสี่ยงของคุณ
 
-- **เอกสารข้อเสนอการปฏิบัติตามกฎระเบียบของ Office 365**โปรดดูที่[สํานักงาน 365 รัฐบาลสหรัฐและสํานักงาน 365 สหรัฐอเมริกา](https://go.microsoft.com/fwlink/p/?LinkID=2077751)
+- **เอกสารข้อเสนอการปฏิบัติตาม**ข้อกำหนดของ office ๓๖๕ให้ดูที่[Office ๓๖๕, office ๓๖๕รัฐบาลสหรัฐอเมริกาและ Office ๓๖๕การป้องกันรัฐบาลของสหรัฐอเมริกา](https://go.microsoft.com/fwlink/p/?LinkID=2077751)
 
-- จําเป็นต้องเข้า BAA กับ Microsoft สําหรับ Microsoft Cloud Services:[ข้อตกลงของ HIPAA Business Associate](https://aka.ms/BAA)จะพร้อมใช้งานผ่านทางข้อกําหนดบริการออนไลน์ตามค่าเริ่มต้นสําหรับลูกค้าทั้งหมดที่ได้รับความคุ้มครองจากหน่วยงานหรือผู้ร่วมธุรกิจภายใต้ HIPAA ดู "บริการ Cloud ในขอบเขต Microsoft" บนเว็บเพจนี้สําหรับรายการของบริการระบบคลาวด์ที่ครอบคลุมโดย BAA นี้
+- จำเป็นต้องใส่ลงในบาด้วยไมโครซอฟท์สำหรับ Microsoft Cloud Services: [ข้อตกลง Business Business ของ HIPAA](https://aka.ms/BAA) จะพร้อมใช้งานผ่านทางข้อกำหนดของบริการออนไลน์ตามค่าเริ่มต้นให้กับลูกค้าทั้งหมดที่เป็นหน่วยงานที่คุ้มครองหรือผู้ร่วมธุรกิจภายใต้ HIPAA ให้ดูที่ "บริการระบบคลาวด์ในขอบเขตของ Microsoft" บนเว็บเพจนี้สำหรับรายการของบริการ cloud ที่ครอบคลุมในบานี้
 
-- การใช้ทีม Microsoft? [ดูวิธีที่ Microsoft Teams ช่วยด้วยการปฏิบัติตามข้อกําหนด HIPAA](https://www.microsoft.com/microsoft-365/blog/2019/04/30/white-paper-microsoft-teams-healthcare-providers-hipaa-compliance/)
+- การใช้ทีม Microsoft ดู [วิธีที่ Microsoft ทีมช่วยในการปฏิบัติตาม](https://www.microsoft.com/microsoft-365/blog/2019/04/30/white-paper-microsoft-teams-healthcare-providers-hipaa-compliance/)ข้อกำหนด HIPAA

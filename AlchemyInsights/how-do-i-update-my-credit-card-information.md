@@ -6,6 +6,7 @@ manager: mnirkhe
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
@@ -13,19 +14,19 @@ ms.custom:
 - "430"
 - "1500001"
 ms.assetid: 2f1bd3a4-a577-47f4-9ec4-5e094ccc7ee2
-ms.openlocfilehash: 83932ba5857df7bd65a5544a7dde8be5cdd58ccd
-ms.sourcegitcommit: e3a1f96200bc58dc8a5b3597cc2600e71c4bd266
+ms.openlocfilehash: c197d0eff7b6fb3fc1455e8b1aff931850dfe813
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 05/14/2020
-ms.locfileid: "44225287"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47781590"
 ---
 # <a name="how-do-i-update-my-credit-card-information"></a>ฉันจะอัปเดตข้อมูลบัตรเครดิตของฉันได้อย่างไร
 
-1. ในศูนย์การจัดการ ให้ไปที่**Billing**  >  หน้า**ใบเรียกเก็บเงิน&**  >  [วิธีการชําระเงิน](https://go.microsoft.com/fwlink/p/?linkid=2018806)
-2. เลือกแถวของวิธีการชําระเงินที่จะอัพเดต ในบานหน้าต่างด้านขวา ให้เลือก**แก้ไข**
-3. อัปเดตข้อมูลวิธีการชําระเงินของคุณ รวมถึงชื่อบนบัตรเครดิตหรือบัตรเดบิต ที่อยู่สําหรับเรียกเก็บเงิน หรือวันที่หมดอายุ แล้วเลือก**บันทึก**
+1. ในศูนย์การจัดการให้ไปที่**Billing**  >  **Bills & payments**  >  หน้า[วิธีการชำระเงิน](https://go.microsoft.com/fwlink/p/?linkid=2018806)ของใบเรียกเก็บเงิน & การชำระเงิน
+2. เลือกแถวของวิธีการชำระเงินที่ต้องการอัปเดต ในบานหน้าต่างด้านขวาให้เลือก**แก้ไข**
+3. อัปเดตข้อมูลวิธีการชำระเงินของคุณรวมถึงชื่อบนบัตรเครดิตหรือบัตรเดบิตที่อยู่การเรียกเก็บเงินหรือวันที่หมดอายุแล้วเลือก**บันทึก**
 
-หากต้องการเรียนรู้เพิ่มเติม โปรดดูที่[จัดการวิธีการชําระเงิน](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods)
+เมื่อต้องการเรียนรู้เพิ่มเติมให้ดูที่[จัดการวิธีการชำระเงิน](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods)
 
-**หมายเหตุ**: หากผู้ดูแลระบบคนอื่นซื้อการสมัครใช้งาน คุณจะไม่สามารถอัปเดตข้อมูลบัตรเครดิตหรือบัญชีธนาคารได้ หากบัตรเครดิตกําลังจะหมดอายุ และผู้ดูแลระบบคนอื่นไม่สามารถอัปเดตได้
+**หมายเหตุ**: ถ้าผู้ดูแลระบบคนอื่นซื้อการสมัครใช้งานคุณจะไม่สามารถอัปเดตข้อมูลบัตรเครดิตหรือบัญชีธนาคารของคุณได้ ถ้าบัตรเครดิตหมดอายุและผู้ดูแลระบบคนอื่นๆไม่สามารถอัปเดตได้คุณสามารถป้องกันไม่ให้หยุดชะงักของบริการได้โดยการเพิ่มบัตรเครดิตหรือบัญชีธนาคารใหม่สำหรับการสมัครใช้งาน

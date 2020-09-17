@@ -1,30 +1,31 @@
 ---
-title: วิธีใช้เกี่ยวกับเพจ SPFx และ Web Parts
+title: วิธีใช้สำหรับหน้า SPFx และ Web Part
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9003014"
 - "5806"
-ms.openlocfilehash: ce8842f1ea52501bde125812d7ed864f71a9e7f1
-ms.sourcegitcommit: 8e093114cd31141664e267a7c7b779398d5fdfa8
+ms.openlocfilehash: a55208747662f2aebbd230c51a00596893cc972b
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 06/04/2020
-ms.locfileid: "44569794"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47782310"
 ---
-# <a name="help-with-spfx-pages-and-web-parts"></a>วิธีใช้เกี่ยวกับเพจ SPFx และ Web Parts
+# <a name="help-with-spfx-pages-and-web-parts"></a>วิธีใช้สำหรับหน้า SPFx และ Web Part
 
-SPFx ได้รับการสนับสนุนผ่านการสนับสนุนนักพัฒนา Microsoft เท่านั้น ทีมผลิตภัณฑ์ SharePoint จะตอบสนองต่อชุมชนนักพัฒนาซอฟต์แวร์ผ่านช่องทางต่างๆ
+SPFx ได้รับการสนับสนุนผ่านทางฝ่ายสนับสนุนของ Microsoft สำหรับนักพัฒนาเท่านั้น ทีมผลิตภัณฑ์ SharePoint จะตอบสนองต่อชุมชนนักพัฒนาในหลายแชนเนล
 
-- [สามารถส่งคําถามการเขียนโปรแกรม](https://docs.microsoft.com/sharepoint/dev/support-feedback#programming-questions)ไปยัง**GitHub sp-dev-docs**หรือ**สแต็คล้น**
-- [ข้อบกพร่องของเอกสาร](https://docs.microsoft.com/sharepoint/dev/support-feedback#documentation-bugs)สามารถส่งไปยัง**GitHub**
-- [ข้อบกพร่องของโปรแกรมประยุกต์ตัวอย่าง](https://docs.microsoft.com/sharepoint/dev/support-feedback#sample-application-bugs)สามารถส่งไปยัง**GitHub**
-- [คําขอคุณลักษณะ](https://docs.microsoft.com/sharepoint/dev/support-feedback#feature-requests)สามารถส่งไปยัง UserVoice
+- [คำถามเกี่ยวกับการเขียนโปรแกรม](https://docs.microsoft.com/sharepoint/dev/support-feedback#programming-questions)  สามารถส่งไปยัง  **GitHub sp-dev-เอกสาร**  หรือสแตกที่มาก  **เกิน**ไป
+- ข้อ[บกพร่องของเอกสาร](https://docs.microsoft.com/sharepoint/dev/support-feedback#documentation-bugs)จะถูกส่งไปยัง**GitHub**
+- [ตัวอย่างข้อผิดพลาดของแอปพลิเคชัน](https://docs.microsoft.com/sharepoint/dev/support-feedback#sample-application-bugs)สามารถส่งไปยัง**GitHub**
+- การ[ร้องขอฟีเจอร์](https://docs.microsoft.com/sharepoint/dev/support-feedback#feature-requests)สามารถส่งไปยัง UserVoice ได้
 
-สําหรับทรัพยากรสําหรับนักพัฒนาซอฟต์แวร์เพิ่มเติม โปรดดูที่[การสนับสนุน&คําติชม](https://docs.microsoft.com/sharepoint/dev/support-feedback)
+สำหรับแหล่งข้อมูลสำหรับนักพัฒนาเพิ่มเติมให้ดูที่  [สนับสนุน & คำติชม](https://docs.microsoft.com/sharepoint/dev/support-feedback)
