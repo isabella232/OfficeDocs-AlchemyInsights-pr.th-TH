@@ -1,35 +1,36 @@
 ---
-title: จัดการโปรไฟล์ผู้ใช้ใน Delve
+title: การจัดการโปรไฟล์ผู้ใช้ใน Delve
 ms.author: ponincev
 author: pebaum
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: e595481a-91de-431d-bf86-d7610ff3b6a7
-ms.openlocfilehash: 73061d23b7deec176f0695dcfb1895eebc428df9
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 38f209e37ff8a5694ae59f7b7b85e1d439d88a3c
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43720558"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47811836"
 ---
-# <a name="manage-user-profiles-in-delve"></a>จัดการโปรไฟล์ผู้ใช้ใน Delve
+# <a name="manage-user-profiles-in-delve"></a>การจัดการโปรไฟล์ผู้ใช้ใน Delve
 
-Office Delve ช่วยให้ผู้ใช้จัดการโปรไฟล์ผู้ใช้ของตนเองได้ ผู้ใช้สามารถ:
+Office Delve ช่วยให้ผู้ใช้สามารถจัดการโปรไฟล์ผู้ใช้ของพวกเขาได้ ผู้ใช้สามารถทำดังต่อไปนี้
   
-- ดูและอัปเดตข้อมูล
+- ดูและอัปเดตข้อมูลของพวกเขา
     
-- เก็บข้อมูลบางอย่างไว้เป็นความลับ
+- เก็บข้อมูลบางส่วนไว้เป็นความลับ
     
-- เปลี่ยนโปรไฟล์หรือรูปภาพหน้าปกของพวกเขา
+- เปลี่ยนโปรไฟล์ของพวกเขาหรือรูปภาพหน้าปก
     
-- เปลี่ยนรูปแบบภาษาและเวลาสําหรับ Delve
+- เปลี่ยนรูปแบบภาษาและเวลาสำหรับ Delve
     
 > [!NOTE]
-> ถ้าผู้ใช้ปรับปรุงรูปประจําตัวแล้ว และการเปลี่ยนแปลงไม่ปรากฏใน SharePoint หรือ OneDrive ขอให้ผู้ใช้เปิดเว็บเบราว์เซอร์[ไปที่ Office.com](https://www.office.com)ลงชื่อเข้าใช้ด้วยบัญชีที่ทํางานหรือที่โรงเรียนของพวกเขา แล้วคลิกไทล์ OneDrive หรือ SharePoint การทําเช่นนี้จะพร้อมท์ให้รูปโปรไฟล์ซิงค์ ผู้ใช้อาจจําเป็นต้องลองทําตามขั้นตอนเหล่านี้ด้วยเบราว์เซอร์รุ่นส่วนตัว 
+> ถ้าผู้ใช้อัปเดตรูปภาพโพรไฟล์ของพวกเขาและการเปลี่ยนแปลงไม่ปรากฏใน SharePoint หรือ OneDrive ให้ขอให้พวกเขาเปิดเว็บเบราว์เซอร์ [ไปที่ Office.com](https://www.office.com)ลงชื่อเข้าใช้ด้วยบัญชีของที่ทำงานหรือที่โรงเรียนของพวกเขาแล้วคลิกไทล์ OneDrive หรือ SharePoint การทำเช่นนี้จะพร้อมท์ให้รูปภาพโปรไฟล์ซิงค์ ผู้ใช้อาจจำเป็นต้องทำขั้นตอนเหล่านี้ให้เสร็จสมบูรณ์ด้วยเบราว์เซอร์เวอร์ชันส่วนตัว 
   
-[เรียนรู้เพิ่มเติมเกี่ยวกับการอัปเดตโปรไฟล์ใน Delve](https://go.microsoft.com/fwlink/?linkid=735070)
+[เรียนรู้เพิ่มเติมเกี่ยวกับการอัปเดโปรไฟล์ใน Delve](https://go.microsoft.com/fwlink/?linkid=735070)
   
 
