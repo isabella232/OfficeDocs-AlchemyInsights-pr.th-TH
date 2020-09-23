@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001422"
 - "3407"
-ms.openlocfilehash: 0a9678905a58be2b68ad60d0d947483671d6b3b8
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: c2bb894cf97c094a1648da8db83cbd459da4fda4
+ms.sourcegitcommit: 57102d7daf32f370cab84dba342819a1ad5cb261
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47802832"
+ms.lasthandoff: 09/23/2020
+ms.locfileid: "48236039"
 ---
 # <a name="microsoft-365-apps-message---sorry-another-account-from-your-organization-is-already-signed-in"></a>ข้อความแอป Microsoft ๓๖๕-ขออภัยบัญชีผู้ใช้อื่นจากองค์กรของคุณได้ลงชื่อเข้าใช้แล้ว
 
@@ -32,6 +32,8 @@ ms.locfileid: "47802832"
 - คลิ **+** กไอคอนเพื่อเพิ่มหรือเชื่อมต่อบัญชีผู้ใช้ของคุณ ใส่ข้อมูลประจำตัวของคุณและรอให้กระบวนการเสร็จสมบูรณ์
 
 - เปิดใช้แอป Office และลงชื่อเข้าใช้อีกครั้งถ้าจำเป็น 
+
+**เคล็ดลับ** บนเครื่อง Windows เราสามารถวินิจฉัยและแก้ไขปัญหาการลงชื่อเข้าใช้ Office ทั่วไปได้โดยอัตโนมัติสำหรับคุณ ดาวน์โหลดและเรียกใช้ตัว  **[ช่วยการสนับสนุนและการกู้คืนของ Microsoft](https://aka.ms/SaRA-OfficeSignInScenario)** เพื่อใช้เครื่องมืออัตโนมัติของเรา
 
 ถ้าปัญหายังคงมีอยู่ให้ลองทำตามขั้นตอนต่อไปนี้: 
 

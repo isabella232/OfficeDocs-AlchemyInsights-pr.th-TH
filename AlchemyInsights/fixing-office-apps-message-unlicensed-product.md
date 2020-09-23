@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "2000023"
 - "3509"
-ms.openlocfilehash: 50939456df57920994e464db20e5da54f45f197a
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: e052c18eae035ff05c70a223f6d8a2eab875b2c9
+ms.sourcegitcommit: 57102d7daf32f370cab84dba342819a1ad5cb261
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47744645"
+ms.lasthandoff: 09/23/2020
+ms.locfileid: "48236108"
 ---
 # <a name="unable-to-activate-office"></a>ไม่สามารถเปิดใช้งาน Office ได้
 
@@ -26,6 +26,8 @@ ms.locfileid: "47744645"
 - ตรวจสอบให้แน่ใจว่าผู้ใช้กำลังลงชื่อเข้าใช้ Office ด้วยบัญชีผู้ใช้เดียวกันกับสิทธิ์การใช้งานที่ได้รับมอบหมาย
 - ตรวจสอบ [หน้าสถานภาพบริการของ Office ๓๖๕](https://docs.microsoft.com/office365/enterprise/view-service-health) เพื่อดูว่ามีปัญหาที่ทราบเกี่ยวกับบริการหรือไม่
 - ตรวจสอบไฟร์วอลล์ซอฟต์แวร์ป้องกันไวรัสและการตั้งค่าพร็อกซีของคุณเพื่อยืนยันว่าพวกเขาไม่ได้บล็อก Microsoft ๓๖๕ apps access ไปยังอินเทอร์เน็ต โปรดดู[ที่ url และช่วงที่อยู่ IP ของ Office ๓๖๕](https://docs.microsoft.com/office365/enterprise/urls-and-ip-address-ranges "Url และช่วงที่อยู่ IP ของ Office ๓๖๕")
+
+**เคล็ดลับ** บนเครื่อง Windows เราสามารถวินิจฉัยและแก้ไขปัญหาการลงชื่อเข้าใช้ Office ทั่วไปได้โดยอัตโนมัติสำหรับคุณ ดาวน์โหลดและเรียกใช้ตัว  **[ช่วยการสนับสนุนและการกู้คืนของ Microsoft](https://aka.ms/SaRA-OfficeSignInScenario)** เพื่อใช้เครื่องมืออัตโนมัติของเรา
 
 ใช้การดำเนินการแก้ไขปัญหาต่อไปนี้:
 
