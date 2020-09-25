@@ -14,12 +14,12 @@ ms.custom:
 - "1490"
 - "3200003"
 ms.assetid: ''
-ms.openlocfilehash: 6e04773d9c0a5f30b613221ad59fe77096ae39a9
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: ff28f96d64ec14980e9a47b630246b394faf4610
+ms.sourcegitcommit: fbe6925797cab0b38172386f1b059dc122e452a4
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47658969"
+ms.lasthandoff: 09/25/2020
+ms.locfileid: "48277834"
 ---
 # <a name="troubleshoot-content-search-errors"></a>การแก้ไขปัญหาข้อผิดพลาดในการค้นหาเนื้อหา
 
@@ -36,3 +36,5 @@ ms.locfileid: "47658969"
 หรือเมื่อการค้นหาหรือส่งออกผลลัพธ์จากกล่องจดหมายจำนวนมาก (มากกว่ากล่องจดหมาย๑๐๐,๐๐๐) คุณจะได้รับข้อผิดพลาดในการส่งออกหรือไม่
 
 สำหรับข้อผิดพลาดชนิดเหล่านี้ให้ลองค้นหาตำแหน่งที่ตั้งเนื้อหาที่ล้มเหลว ดู  [บทความนี้](https://docs.microsoft.com/microsoft-365/compliance/retry-failed-content-search) สำหรับข้อมูลเพิ่มเติม
+
+ถ้าคุณกำลังส่งออกกล่องจดหมายมากกว่า100K คุณจะต้องใช้ Powershell ต่อไปนี้เพื่อดาวน์โหลดผลลัพธ์การส่งออก:[ส่งออกผลลัพธ์จากกล่องจดหมายมากกว่า 100k](https://docs.microsoft.com/microsoft-365/compliance/export-search-results?view=o365-worldwide%23exporting-results-from-more-than-100000-mailboxes)

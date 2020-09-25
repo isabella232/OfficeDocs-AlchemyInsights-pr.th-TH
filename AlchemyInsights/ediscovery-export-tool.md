@@ -15,12 +15,12 @@ ms.custom:
 - "1100001"
 - "3100022"
 ms.assetid: b16d310d-1134-4959-be68-d1c0ad463930
-ms.openlocfilehash: 55f29fae0878917eaf2972ba1dfd3c5b8a26ce54
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 67e59182a5053111a08f5fb2be814931a1aa815d
+ms.sourcegitcommit: fbe6925797cab0b38172386f1b059dc122e452a4
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47711114"
+ms.lasthandoff: 09/25/2020
+ms.locfileid: "48277920"
 ---
 # <a name="cant-install-or-run-the-ediscovery-export-tool"></a>ไม่สามารถติดตั้งหรือเรียกใช้เครื่องมือส่งออก eDiscovery ได้ใช่หรือไม่
 
@@ -47,4 +47,5 @@ ms.locfileid: "47711114"
 - คุณได้รับมอบหมายบทบาทการส่งออกใน &amp; ศูนย์การปฏิบัติตามนโยบายด้านความปลอดภัยของ Microsoft ๓๖๕ ตามค่าเริ่มต้นบทบาทนี้จะได้รับการกำหนดให้กับกลุ่มบทบาทผู้จัดการ eDiscovery เท่านั้น ให้ดูที่[กำหนดสิทธิ์ eDiscovery](https://docs.microsoft.com/microsoft-365/compliance/assign-ediscovery-permissions)
 
 สำหรับข้อมูลเพิ่มเติมให้ดูที่[ส่งออกผลลัพธ์การค้นหาเนื้อหา](https://docs.microsoft.com/microsoft-365/compliance/export-search-results)
-  
+
+ถ้าคุณกำลังส่งออกกล่องจดหมายมากกว่า100K คุณจะต้องใช้ Powershell ต่อไปนี้เพื่อดาวน์โหลดผลลัพธ์การส่งออก:[ส่งออกผลลัพธ์จากกล่องจดหมายมากกว่า 100k](https://docs.microsoft.com/microsoft-365/compliance/export-search-results?view=o365-worldwide%23exporting-results-from-more-than-100000-mailboxes)
