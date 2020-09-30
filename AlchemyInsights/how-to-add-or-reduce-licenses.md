@@ -2,7 +2,7 @@
 title: เพิ่มหรือเอาสิทธิ์การใช้งานออกจากการสมัครใช้งานของคุณ
 ms.author: cmcatee
 author: cmcatee-MSFT
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -13,35 +13,27 @@ ms.custom:
 - "319"
 - "1500007"
 ms.assetid: 69797abf-3e60-4be2-b0a7-26022a14397e
-ms.openlocfilehash: d07403226345a4e90aa4f7a5aa7a4ef5e0e9ea19
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 0b86937c48d7fe553436863e5f6ec70438652451
+ms.sourcegitcommit: 0338332a70fec9bd1e81b26e1933a5d0e3f261b6
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47781230"
+ms.lasthandoff: 09/29/2020
+ms.locfileid: "48307289"
 ---
 # <a name="add-or-remove-licenses-for-your-subscription"></a>เพิ่มหรือเอาสิทธิ์การใช้งานออกจากการสมัครใช้งานของคุณ
 
-ต่อไปนี้เป็นวิธีการเพิ่ม/นำสิทธิ์การใช้งานออก
+ต่อไปนี้เป็นวิธีการเพิ่มหรือเอาสิทธิ์การใช้งานออก
   
-1. ในศูนย์การจัดการให้ไปที่หน้าการ**เรียกเก็บเงิน** \> **[ของผลิตภัณฑ์ของคุณ](https://go.microsoft.com/fwlink/p/?linkid=842054)**
-
-2. เลือกการสมัครใช้งานที่คุณต้องการเพิ่ม/นำสิทธิ์การใช้งานออก
-
-3. คลิก **เพิ่ม/เอาสิทธิ์**การใช้งานออก
-
-4. ใส่จำนวนผู้ใช้ทั้งหมดที่จำเป็น ตัวอย่างเช่นถ้าคุณมีสิทธิ์การใช้งาน25สิทธิ์และคุณต้องการเอาออก5ให้ใส่20ในเขตข้อมูลนี้
-
-5. คลิก**ส่งการเปลี่ยนแปลง**
-
-**หมายเหตุ**: ค่าใช้จ่ายใหม่ (การเพิ่มสิทธิ์การใช้งาน) หรือเครดิต (การลดสิทธิ์การใช้งาน) จะแสดงขึ้นในใบเรียกเก็บเงินครั้งถัดไปของคุณ
+1. ในศูนย์การจัดการให้ไปที่หน้าการ**เรียกเก็บเงิน**  >  [ของผลิตภัณฑ์ของคุณ](https://go.microsoft.com/fwlink/p/?linkid=842054)
+2. บนแท็บ **ผลิตภัณฑ์** ให้ค้นหาการสมัครใช้งานที่คุณต้องการซื้อหรือเอาสิทธิ์การใช้งานออก เลือก **การกระทำเพิ่มเติม** (จุดสามจุด) จากนั้นเลือก **ซื้อสิทธิ์**การใช้งาน
+3. ถ้าคุณต้องการลดจำนวนสิทธิ์การใช้งานที่ด้านบนสุดของบานหน้าต่าง **ซื้อสิทธิ์** การใช้งานให้เลือก **เอาสิทธิ์**การใช้งานออก
+4. เมื่อต้องการซื้อหรือเอาสิทธิ์การใช้งานออกภายใต้ **ปริมาณใหม่** ในกล่องสิทธิ์การใช้งาน **ทั้งหมด** ให้ใส่จำนวนสิทธิ์การใช้งานทั้งหมดที่คุณต้องการสำหรับการสมัครใช้งานนี้ ตัวอย่างเช่นถ้าคุณมีสิทธิ์การใช้งาน๑๐๐และคุณต้องการเพิ่ม25เพิ่มเติมให้ใส่๑๒๕ ถ้าคุณต้องการเอาสิทธิ์การใช้งาน25ให้ใส่๗๕
+5. เลือก**บันทึก**
 
 สำหรับข้อมูลเกี่ยวกับวิธีการกำหนดสิทธิ์การใช้งานให้ดู[ที่กำหนดสิทธิ์การใช้งานให้กับผู้ใช้](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users)
 
 **ทรัพยากร**
   
-- [จัดการสิทธิ์การใช้งานการสมัครใช้งาน-ซื้อหรือนำออก](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses)
-
-- [ยกเลิก Microsoft ๓๖๕สำหรับธุรกิจ](https://support.office.com/article/Cancel-Office-365-for-business-b1bc0bef-4608-4601-813a-cdd9f746709a)
-
-- [ซื้อการสมัครใช้งาน Microsoft ๓๖๕สำหรับธุรกิจอื่น](https://support.office.com/article/Buy-another-Office-365-for-business-subscription-fab3b86c-3359-4042-8692-5d4dc7550b7c)
+- [ซื้อหรือเอาสิทธิ์การใช้งานของการสมัครใช้งานออก](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses)
+- [ยกเลิก Microsoft ๓๖๕สำหรับธุรกิจ](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription)
+- [ลองใช้หรือซื้อการสมัครใช้งาน Microsoft ๓๖๕สำหรับธุรกิจ](https://docs.microsoft.com/microsoft-365/commerce/try-or-buy-microsoft-365)
