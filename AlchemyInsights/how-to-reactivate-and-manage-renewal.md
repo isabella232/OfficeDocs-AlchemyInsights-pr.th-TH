@@ -2,8 +2,8 @@
 title: วิธีการเปิดใช้งานและจัดการการต่ออายุ
 ms.author: cmcatee
 author: cmcatee-MSFT
-manager: mnirkhe
-ms.date: 04/21/2020
+manager: scotv
+ms.date: ''
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -14,37 +14,30 @@ ms.custom:
 - "349"
 - "1500012"
 ms.assetid: 6bec74c6-c7a6-4fa7-b5fc-c246c6ec5269
-ms.openlocfilehash: ef035f1e75756342cce48de7d00adfee7c74caf0
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: f2d3daba78f9f33bb17219b8987689d5992dcdbe
+ms.sourcegitcommit: 0338332a70fec9bd1e81b26e1933a5d0e3f261b6
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47779574"
+ms.lasthandoff: 09/29/2020
+ms.locfileid: "48307073"
 ---
-# <a name="how-to-reactivate-and-manage-recurring-billing"></a><span data-ttu-id="4aeef-102">วิธีการเปิดใช้งานและจัดการการเรียกเก็บเงินเป็นกิจวัตร</span><span class="sxs-lookup"><span data-stu-id="4aeef-102">How to reactivate and manage recurring billing</span></span>
+# <a name="how-to-reactivate-a-subscription-and-manage-recurring-billing"></a><span data-ttu-id="e213c-102">วิธีการเปิดใช้งานการสมัครใช้งานและจัดการการเรียกเก็บเงินแบบเป็นกิจวัตร</span><span class="sxs-lookup"><span data-stu-id="e213c-102">How to reactivate a subscription and manage recurring billing</span></span>
 
-<span data-ttu-id="4aeef-103">ดูเหมือนว่าคุณมีการสมัครใช้งานที่หมดอายุแล้ว</span><span class="sxs-lookup"><span data-stu-id="4aeef-103">Looks like you have a subscription that has expired.</span></span> <span data-ttu-id="4aeef-104">ถ้าคุณต้องการเปิดใช้งานใหม่ให้ทำดังนี้</span><span class="sxs-lookup"><span data-stu-id="4aeef-104">If you would like to reactivate it, here's how.</span></span>
+<span data-ttu-id="e213c-103">ดูเหมือนว่าคุณมีการสมัครใช้งานที่หมดอายุแล้ว</span><span class="sxs-lookup"><span data-stu-id="e213c-103">Looks like you have a subscription that has expired.</span></span> <span data-ttu-id="e213c-104">ถ้าคุณต้องการเปิดใช้งานใหม่ให้ทำดังนี้</span><span class="sxs-lookup"><span data-stu-id="e213c-104">If you would like to reactivate it, here's how.</span></span>
   
-1. <span data-ttu-id="4aeef-105">ในศูนย์การจัดการให้ไปที่หน้าการ**เรียกเก็บเงิน** \> **[ของผลิตภัณฑ์ของคุณ](https://go.microsoft.com/fwlink/p/?linkid=842054)**</span><span class="sxs-lookup"><span data-stu-id="4aeef-105">In the admin center, go to the **Billing** \> **[Your products](https://go.microsoft.com/fwlink/p/?linkid=842054)** page.</span></span>
+1. <span data-ttu-id="e213c-105">ในศูนย์การจัดการให้ไปที่หน้าการ**เรียกเก็บเงิน**  >  [ของผลิตภัณฑ์ของคุณ](https://go.microsoft.com/fwlink/p/?linkid=842054)</span><span class="sxs-lookup"><span data-stu-id="e213c-105">In the admin center, go to the **Billing** > [Your products](https://go.microsoft.com/fwlink/p/?linkid=842054) page.</span></span>
+2. <span data-ttu-id="e213c-106">บนแท็บ **ผลิตภัณฑ์** ให้ค้นหาการสมัครใช้งานที่คุณต้องการเปิดใช้งานใหม่</span><span class="sxs-lookup"><span data-stu-id="e213c-106">On the **Products** tab, find the subscription that you want to reactivate.</span></span> <span data-ttu-id="e213c-107">เลือก **การกระทำเพิ่มเติม** (จุดสามจุด) จากนั้นเลือกเปิดใช้งานการสมัครใช้งาน **นี้**อีกครั้ง</span><span class="sxs-lookup"><span data-stu-id="e213c-107">Select **More actions** (three dots), then select **Reactivate this subscription**.</span></span>
+3. <span data-ttu-id="e213c-108">ในบานหน้าต่างการสมัครใช้งาน**นี้**อีกครั้งให้เลือกวิธีการชำระเงินจากรายการดรอปดาวน์หรือเลือก**เพิ่มวิธีการชำระเงิน**</span><span class="sxs-lookup"><span data-stu-id="e213c-108">In the **Reactivate this subscription** pane, select a payment method from the drop-down list, or select **Add payment method**.</span></span>
+4. <span data-ttu-id="e213c-109">เลือก**บันทึก**</span><span class="sxs-lookup"><span data-stu-id="e213c-109">Select **Save**.</span></span>
 
-2. <span data-ttu-id="4aeef-106">ค้นหาการสมัครใช้งานที่คุณต้องการเปิดใช้งานใหม่</span><span class="sxs-lookup"><span data-stu-id="4aeef-106">Find the subscription that you want to reactivate.</span></span> <span data-ttu-id="4aeef-107">ในส่วนการ **เรียกเก็บเงิน** ให้เลือก  **เปิด**ใช้งานใหม่</span><span class="sxs-lookup"><span data-stu-id="4aeef-107">In the **Billing** section, select  **Reactivate**.</span></span>
+<span data-ttu-id="e213c-110">เมื่อต้องการเรียนรู้เพิ่มเติมให้ดูที่เปิดใช้งาน [การสมัครใช้งานของคุณ](https://docs.microsoft.com/microsoft-365/commerce/subscriptions-and-billing/reactivate-your-subscription)ใหม่</span><span class="sxs-lookup"><span data-stu-id="e213c-110">To learn more, see [Reactivate your subscription](https://docs.microsoft.com/microsoft-365/commerce/subscriptions-and-billing/reactivate-your-subscription).</span></span>
 
-    <span data-ttu-id="4aeef-108">ถ้าคุณไม่เห็น **เปิด** ใช้งานอีกครั้งเป็นตัวเลือกให้ใช้ปุ่ม "ต้องการความช่วยเหลือ" เพื่อพูดคุยกับวิศวกรฝ่ายสนับสนุนเพื่อเปิดใช้งานการสมัครใช้งานของคุณอีกครั้ง</span><span class="sxs-lookup"><span data-stu-id="4aeef-108">If you do not see **Reactivate** as an option, use the "Need help" button to talk to a support engineer to reactivate your subscription.</span></span>
-
-3. <span data-ttu-id="4aeef-109">ยืนยันรายละเอียดการชำระเงินของคุณ</span><span class="sxs-lookup"><span data-stu-id="4aeef-109">Confirm your payment details.</span></span> <span data-ttu-id="4aeef-110">คุณสามารถอัพเดตข้อมูลการชำระเงินที่มีอยู่ของคุณได้ที่นี่</span><span class="sxs-lookup"><span data-stu-id="4aeef-110">You can update your existing payment information here.</span></span> <span data-ttu-id="4aeef-111">เมื่อคุณใส่วิธีการชำระเงินของคุณเสร็จแล้วให้เลือก **เปิด**ใช้งานใหม่</span><span class="sxs-lookup"><span data-stu-id="4aeef-111">When you're finished entering your payment method, select **Reactivate**.</span></span>
-
-<span data-ttu-id="4aeef-112">เมื่อต้องการเรียนรู้เพิ่มเติมให้ดูที่เปิดใช้งาน [การสมัครใช้งานของคุณ](https://docs.microsoft.com/microsoft-365/commerce/subscriptions-and-billing/reactivate-your-subscription)ใหม่</span><span class="sxs-lookup"><span data-stu-id="4aeef-112">To learn more, see [Reactivate your subscription](https://docs.microsoft.com/microsoft-365/commerce/subscriptions-and-billing/reactivate-your-subscription).</span></span> 
-
-<span data-ttu-id="4aeef-113">เมื่อต้องการจัดการการเรียกเก็บเงินรายเดือนหรือรายปีคุณสามารถสลับเปิดหรือปิดการ **เรียกเก็บเงินเป็นกิจวัตร** ได้</span><span class="sxs-lookup"><span data-stu-id="4aeef-113">To manage monthly or yearly billing you can toggle **Recurring billing** on or off.</span></span>
+<span data-ttu-id="e213c-111">เมื่อต้องการจัดการการเรียกเก็บเงินรายเดือนหรือรายปีคุณสามารถสลับเปิดหรือปิดการ **เรียกเก็บเงินเป็นกิจวัตร** ได้</span><span class="sxs-lookup"><span data-stu-id="e213c-111">To manage monthly or yearly billing, you can toggle **Recurring billing** on or off.</span></span>
   
-1. <span data-ttu-id="4aeef-114">ในศูนย์การจัดการให้ไปที่หน้าการ**เรียกเก็บเงิน** \> **[ของผลิตภัณฑ์ของคุณ](https://go.microsoft.com/fwlink/p/?linkid=842054)**</span><span class="sxs-lookup"><span data-stu-id="4aeef-114">In the admin center, go to the **Billing** \> **[Your products](https://go.microsoft.com/fwlink/p/?linkid=842054)** page.</span></span>
+1. <span data-ttu-id="e213c-112">ในศูนย์การจัดการให้ไปที่หน้าการ**เรียกเก็บเงิน**  >  [ของผลิตภัณฑ์ของคุณ](https://go.microsoft.com/fwlink/p/?linkid=842054)</span><span class="sxs-lookup"><span data-stu-id="e213c-112">In the admin center, go to the **Billing** > [Your products](https://go.microsoft.com/fwlink/p/?linkid=842054) page.</span></span>
+2. <span data-ttu-id="e213c-113">บนแท็บ **ผลิตภัณฑ์** ให้เลือกการสมัครใช้งานที่คุณต้องการเปลี่ยนแปลง</span><span class="sxs-lookup"><span data-stu-id="e213c-113">On the **Products** tab, select the subscription that you want to change.</span></span>
+3. <span data-ttu-id="e213c-114">บนหน้ารายละเอียดการสมัครใช้งานภายใต้**การตั้งค่าการสมัครใช้งานและการชำระเงิน**ให้เลือก**แก้ไขการเรียกเก็บเงินเป็นกิจวัตร**</span><span class="sxs-lookup"><span data-stu-id="e213c-114">On the subscription details page, under **Subscription and payment settings**, select **Edit recurring billing**.</span></span>
+4. <span data-ttu-id="e213c-115">ในบานหน้าต่าง**แก้ไขการตั้งค่าการเรียกเก็บเงินเป็นกิจวัตร**ให้เลือก**เปิด**บน**แต่ต่ออายุหนึ่งครั้ง**หรือ**ปิด**</span><span class="sxs-lookup"><span data-stu-id="e213c-115">In the **Edit recurring billing settings** pane, select **On**, **On, but renew once**, or **Turn off**.</span></span>
+5. <span data-ttu-id="e213c-116">เลือก**บันทึก**</span><span class="sxs-lookup"><span data-stu-id="e213c-116">Select **Save**.</span></span>
 
-2. <span data-ttu-id="4aeef-115">เลือกการสมัครใช้งานที่คุณต้องการจัดการการเรียกเก็บเงินเป็นกิจวัตร</span><span class="sxs-lookup"><span data-stu-id="4aeef-115">Choose the subscription for which you want to manage recurring billing.</span></span>
-
-3. <span data-ttu-id="4aeef-116">ภายใต้การ**เรียกเก็บเงิน**ที่อยู่ถัดจาก**อายุ**หรือจะ**หมดอายุ**ให้เลือก**แก้ไข**</span><span class="sxs-lookup"><span data-stu-id="4aeef-116">Under **Billing**, next to **Renews on** or **Expiring on**, select **edit**.</span></span>
-
-4. <span data-ttu-id="4aeef-117">ในบานหน้าต่าง **การตั้งค่าการเรียกเก็บเงิน** ที่เป็นกิจวัตรให้เลือก **ปิด** เพื่อปิดใช้งาน</span><span class="sxs-lookup"><span data-stu-id="4aeef-117">In the **Recurring billing settings** pane, select **Turn OFF** to turn it off.</span></span> <span data-ttu-id="4aeef-118">ถ้าการเรียกเก็บเงินเป็นกิจวัตรถูกปิดใช้งานอยู่ให้เลือก **รายเดือน** หรือ **หนึ่งครั้ง** เพื่อเปิดใช้งาน</span><span class="sxs-lookup"><span data-stu-id="4aeef-118">If recurring billing is already turned off, select **Monthly** or **Once** to turn it on.</span></span>
-
-5. <span data-ttu-id="4aeef-119">เลือก**ส่งการเปลี่ยนแปลง**</span><span class="sxs-lookup"><span data-stu-id="4aeef-119">Select **Submit change**.</span></span>
-
-<span data-ttu-id="4aeef-120">เมื่อต้องการเรียนรู้เพิ่มเติมให้ดูที่[เปิดหรือปิดการเรียกเก็บเงินที่เป็นกิจวัตร](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/renew-your-subscription#turn-recurring-billing-off-or-on)</span><span class="sxs-lookup"><span data-stu-id="4aeef-120">To learn more, see [Turn recurring billing off or on](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/renew-your-subscription#turn-recurring-billing-off-or-on).</span></span>
+<span data-ttu-id="e213c-117">เมื่อต้องการเรียนรู้เพิ่มเติมให้ดูที่[เปิดหรือปิดการเรียกเก็บเงินที่เป็นกิจวัตร](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/renew-your-subscription#turn-recurring-billing-off-or-on)</span><span class="sxs-lookup"><span data-stu-id="e213c-117">To learn more, see [Turn recurring billing off or on](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/renew-your-subscription#turn-recurring-billing-off-or-on).</span></span>
