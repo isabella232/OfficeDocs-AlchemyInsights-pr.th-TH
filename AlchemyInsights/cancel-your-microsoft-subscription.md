@@ -1,8 +1,8 @@
 ---
 title: ยกเลิกการสมัครใช้งาน Microsoft ของคุณ
-ms.author: pebaum
-author: pebaum
-manager: mnirkhe
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,19 +12,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001727"
 - "3824"
-ms.openlocfilehash: 50cac2ae491e0bea1a18a56cc78cd8d3105b3a40
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 12a2daf3cc68b85a26d29088315d1046ddf3cfb6
+ms.sourcegitcommit: beb9715ac0c8e8333fef6764ecd346b7401a2612
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47683277"
+ms.lasthandoff: 10/10/2020
+ms.locfileid: "48416439"
 ---
 # <a name="cancel-your-microsoft-subscription"></a>ยกเลิกการสมัครใช้งาน Microsoft ของคุณ
 
-1. ไปที่ [บริการ & การสมัคร](https://account.microsoft.com/services/)ใช้งานและลงชื่อเข้าใช้ด้วยบัญชี Microsoft ที่คุณใช้เมื่อซื้อการสมัครใช้งานของคุณ
+ผู้ดูแลระบบสามารถยกเลิกการสมัครใช้งานสำหรับองค์กรของตนเองได้ในศูนย์การจัดการ Microsoft ๓๖๕
 
-2. ค้นหาการสมัครใช้งานของคุณแล้วคลิก**จัดการ** ถ้าคุณเห็นการเปิดใช้งานการ **เรียกเก็บเงินเป็นกิจวัตร** แทนที่จะ **จัดการ**ให้ข้ามไปยังส่วนการแก้ไขปัญหา  มิฉะนั้นให้ดำเนินการต่อไปยังขั้นตอนที่3
+1. ไปที่หน้าการ**เรียกเก็บเงิน** \> [ของผลิตภัณฑ์ของคุณ](https://go.microsoft.com/fwlink/p/?linkid=842054)
+2. บนแท็บ **ผลิตภัณฑ์** ให้ค้นหาการสมัครใช้งานที่คุณต้องการยกเลิก เลือก **การกระทำเพิ่มเติม** (จุดสามจุด) แล้วเลือก **ยกเลิกการสมัคร**ใช้งาน
+3. ในบานหน้าต่าง **ยกเลิกการสมัคร** ใช้งานให้เลือกเหตุผลที่คุณกำลังยกเลิก อีกทางหนึ่งคือให้คำติชม
+4. เลือก**บันทึก**
 
-3. บนหน้าถัดไปให้คลิก **ยกเลิก** หรือ **อัปเกรดหรือยกเลิก**ทั้งนี้ขึ้นอยู่กับชนิดการสมัครใช้งานของคุณ
-
-4. ทำตามคำแนะนำบนหน้าเพื่อดำเนินการยกเลิก
+การ**ขอคืนเงิน:** เครดิตตามสัดส่วนจะถูกส่งกลับไปยังคุณภายในรอบการเรียกเก็บเงินครั้งถัดไป

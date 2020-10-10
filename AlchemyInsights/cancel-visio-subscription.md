@@ -2,36 +2,32 @@
 title: ยกเลิกการสมัครใช้งาน Visio
 ms.author: cmcatee
 author: cmcatee-MSFT
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.assetid: ef2df989-8539-48b5-a324-97d2e09f14fe
 ms.custom:
 - "1400001"
 - "4721"
-ms.openlocfilehash: af41ef0469d475b1964d721ab52f175bf8812ffc
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 88109091a3a958c1a464bff2d5eef8ac05039c07
+ms.sourcegitcommit: beb9715ac0c8e8333fef6764ecd346b7401a2612
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47683313"
+ms.lasthandoff: 10/10/2020
+ms.locfileid: "48416390"
 ---
 # <a name="cancel-visio-subscription"></a>ยกเลิกการสมัครใช้งาน Visio
 
-ผู้ดูแลระบบสามารถยกเลิกการสมัครใช้งาน Visio สำหรับองค์กรของตนได้จาก**ศูนย์การจัดการ Microsoft ๓๖๕**
+ผู้ดูแลระบบสามารถยกเลิกการสมัครใช้งาน Visio สำหรับองค์กรของตนเองได้ในศูนย์การจัดการ Microsoft ๓๖๕
 
-1. ไปที่หน้าการ**เรียกเก็บเงิน >[ผลิตภัณฑ์ของคุณ](https://go.microsoft.com/fwlink/p/?linkid=842054)**
+1. ไปที่หน้าการ**เรียกเก็บเงิน** \> [ของผลิตภัณฑ์ของคุณ](https://go.microsoft.com/fwlink/p/?linkid=842054)
+2. บนแท็บ **ผลิตภัณฑ์** ให้ค้นหาการสมัครใช้งาน Visio ที่คุณต้องการยกเลิก เลือก **การกระทำเพิ่มเติม** (จุดสามจุด) แล้วเลือก **ยกเลิกการสมัคร**ใช้งาน
+3. ในบานหน้าต่าง **ยกเลิกการสมัคร** ใช้งานให้เลือกเหตุผลที่คุณกำลังยกเลิก อีกทางหนึ่งคือให้คำติชม
+4. เลือก**บันทึก**
 
-2. ค้นหาแผน Visio เพื่อยกเลิก
-
-3. คลิก **ยกเลิกการสมัคร**ใช้งาน
-
-**การขอคืนเงิน: เครดิตตามสัดส่วนจะถูกส่งกลับไปยังคุณภายในรอบการเรียกเก็บเงินครั้งถัดไป**
-
-**หมายเหตุ**: ถ้าคุณไม่เห็นตัวเลือกในการยกเลิกให้คลิกที่การสมัครใช้งานเพื่อดูรายละเอียดและคุณควรจะเห็นตัวเลือก**ยกเลิกการสมัคร**ใช้งานใน**การตั้งค่า & การดำเนินการ**
+การ**ขอคืนเงิน:** เครดิตตามสัดส่วนจะถูกส่งกลับไปยังคุณภายในรอบการเรียกเก็บเงินครั้งถัดไป
 
 เมื่อต้องการเรียนรู้เพิ่มเติมให้ดู[ยกเลิกการสมัครใช้งานของคุณ](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription)

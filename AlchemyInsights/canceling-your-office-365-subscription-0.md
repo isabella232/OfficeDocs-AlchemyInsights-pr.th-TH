@@ -2,8 +2,8 @@
 title: การยกเลิกการสมัครใช้งาน Microsoft ๓๖๕ของคุณใช่หรือไม่
 ms.author: cmcatee
 author: cmcatee-MSFT
-manager: mnirkhe
-ms.date: 04/21/2020
+manager: scotv
+ms.date: ''
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -13,22 +13,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "86"
 - "1400001"
-ms.assetid: dc0504f1-00ad-4769-be87-492ad98e42f0
-ms.openlocfilehash: b518c01129e11f08bf7f4b1017a5c50f099edc1a
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 0541c68ffc71503cccba47501f318939fc9e0a53
+ms.sourcegitcommit: beb9715ac0c8e8333fef6764ecd346b7401a2612
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47683205"
+ms.lasthandoff: 10/10/2020
+ms.locfileid: "48416361"
 ---
 # <a name="canceling-your-microsoft-365-subscription"></a>การยกเลิกการสมัครใช้งาน Microsoft ๓๖๕ของคุณใช่หรือไม่
 
 ขออภัยในความไม่เข้าสู่การค้นหา
   
-เราเชื่อว่าการสมัครใช้งานปัจจุบันของคุณมีที่นั่งน้อยกว่า25ที่โดยยึดตามข้อมูลองค์กรของคุณ เมื่อต้องการยกเลิกการสมัครใช้งานแบบออนไลน์ของคุณให้ไปที่หน้าการ**เรียกเก็บเงิน** \> **[ของผลิตภัณฑ์ของคุณ](https://go.microsoft.com/fwlink/p/?linkid=842054)** ในส่วนการ **ตั้งค่า & การกระทำ** ให้เลือก **ยกเลิกการสมัคร**ใช้งาน
+เราเชื่อว่าการสมัครใช้งานปัจจุบันของคุณมีที่นั่งน้อยกว่า25ที่โดยยึดตามข้อมูลองค์กรของคุณ เมื่อต้องการยกเลิกการสมัครใช้งานแบบออนไลน์ของคุณให้ไปที่หน้าการ**เรียกเก็บเงิน** \> [ของผลิตภัณฑ์ของคุณ](https://go.microsoft.com/fwlink/p/?linkid=842054) บนแท็บ **ผลิตภัณฑ์** ให้ค้นหาการสมัครใช้งานที่คุณต้องการยกเลิกเลือก **การดำเนินการเพิ่มเติม** (จุดสามจุด) จากนั้นเลือก **ยกเลิกการสมัคร**ใช้งาน
   
-**การขอคืนเงิน: เครดิตตามสัดส่วนจะถูกส่งกลับไปยังคุณภายในรอบการเรียกเก็บเงินครั้งถัดไป** 
+การ**ขอคืนเงิน:** เครดิตตามสัดส่วนจะถูกส่งกลับไปยังคุณภายในรอบการเรียกเก็บเงินครั้งถัดไป
 
-**หมายเหตุ**: ถ้าคุณไม่เห็นตัวเลือกในการยกเลิกให้คลิกที่การสมัครใช้งานเพื่อดูรายละเอียดและคุณควรจะเห็นตัวเลือก**ยกเลิกการสมัคร**ใช้งานใน**การตั้งค่า & การดำเนินการ** 
-
-เมื่อต้องการเรียนรู้เพิ่มเติมให้ดู[ยกเลิกการสมัครใช้งานของคุณ](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription) 
+เมื่อต้องการเรียนรู้เพิ่มเติมให้ดู[ยกเลิกการสมัครใช้งานของคุณ](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription)
