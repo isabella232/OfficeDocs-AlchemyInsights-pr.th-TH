@@ -14,12 +14,12 @@ ms.custom:
 - "1401"
 - "8000047"
 ms.assetid: 0ebfc3b9-de3c-487c-b01b-7b027e4c562f
-ms.openlocfilehash: 17bb3df0b28be00ec0a639f32ef8d9904c14f9d3
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 8d1ecd2bf8adbce205ff54e10895f744cb718d52
+ms.sourcegitcommit: 1fb324fd156008e77b7e2008af4b3dc1c0d0ea3e
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47704328"
+ms.lasthandoff: 10/13/2020
+ms.locfileid: "48451563"
 ---
 # <a name="how-to-create-an-email-signature"></a>วิธีการสร้างลายเซ็นอีเมล
 
@@ -28,3 +28,4 @@ ms.locfileid: "47704328"
  **หมายเหตุ:** คุณสามารถมีลายเซ็นได้เพียงหนึ่งลายเซ็นต่อหนึ่งบัญชีเท่านั้น
   
 เรียนรู้เพิ่มเติมเกี่ยวกับวิธีการ[สร้างและเพิ่มลายเซ็นอีเมลใน Outlook.com](https://support.office.com/article/776d9006-abdf-444e-b5b7-a61821dff034?wt.mc_id=Office_Outlook_com_Alchemy)
+
