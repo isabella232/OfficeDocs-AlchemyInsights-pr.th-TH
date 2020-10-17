@@ -1,8 +1,8 @@
 ---
 title: ระงับสิทธิ์การใช้งานหรือหยุดชั่วคราว
-ms.author: pebaum
-author: pebaum
-manager: mnirkhe
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,23 +12,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002927"
 - "5605"
-ms.openlocfilehash: 7d92f1c7a03eb9eb5c195b0d3a866e1da003f45d
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 355d83a5d99c079e5487a663f43b1155fa6f40b8
+ms.sourcegitcommit: ad2d185aa9e08c27c4a1c4803b679cc4e6305703
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47800195"
+ms.lasthandoff: 10/16/2020
+ms.locfileid: "48488936"
 ---
-# <a name="suspend-or-pause-licenses"></a><span data-ttu-id="4bf7f-102">ระงับสิทธิ์การใช้งานหรือหยุดชั่วคราว</span><span class="sxs-lookup"><span data-stu-id="4bf7f-102">Suspend or pause licenses</span></span>
+# <a name="suspend-or-pause-licenses"></a><span data-ttu-id="55743-102">ระงับสิทธิ์การใช้งานหรือหยุดชั่วคราว</span><span class="sxs-lookup"><span data-stu-id="55743-102">Suspend or pause licenses</span></span>
 
-<span data-ttu-id="4bf7f-103">เมื่อต้องการระงับหรือหยุดสิทธิ์การใช้งานของผู้ใช้ชั่วคราวชั่วคราวคุณสามารถเอาสิทธิ์การใช้งานออกจาก **ศูนย์การจัดการ Microsoft ๓๖๕** และเพิ่มกลับมาอีกครั้งในภายหลัง</span><span class="sxs-lookup"><span data-stu-id="4bf7f-103">To suspend or pause your user licenses temporarily, you can remove licenses from the **Microsoft 365 admin center** and add them back at a later time.</span></span>
+<span data-ttu-id="55743-103">เมื่อต้องการระงับหรือหยุดการใช้งานสิทธิ์การใช้งานชั่วคราวของคุณชั่วคราวคุณสามารถเอาสิทธิ์การใช้งานออกจากศูนย์การจัดการ Microsoft ๓๖๕แล้วเพิ่มกลับมาอีกครั้งในภายหลัง</span><span class="sxs-lookup"><span data-stu-id="55743-103">To suspend or pause your license usage temporarily, you can remove licenses from the Microsoft 365 admin center, and then add them back at a later time.</span></span>
 
-1. <span data-ttu-id="4bf7f-104">คุณจำเป็นต้องมีสิทธิ์การใช้งาน [ยกเลิก](https://docs.microsoft.com/microsoft-365/admin/manage/remove-licenses-from-users?view=o365-worldwide) ก่อนจากผู้ใช้ก่อนที่จะเอาออกจากการสมัครใช้งานของคุณ</span><span class="sxs-lookup"><span data-stu-id="4bf7f-104">You need to first [unassign licenses](https://docs.microsoft.com/microsoft-365/admin/manage/remove-licenses-from-users?view=o365-worldwide) from users, before removing them from your subscription.</span></span>
+1. <span data-ttu-id="55743-104">ก่อนที่จะเอาสิทธิ์การใช้งานออกจากการสมัครใช้งานของคุณคุณจะต้อง[ยกเลิกสิทธิ์การใช้งานก่อนจากผู้ใช้](https://docs.microsoft.com/microsoft-365/admin/manage/remove-licenses-from-users)</span><span class="sxs-lookup"><span data-stu-id="55743-104">Before removing licenses from your subscription, you must first [unassign licenses from users](https://docs.microsoft.com/microsoft-365/admin/manage/remove-licenses-from-users).</span></span>
+2. <span data-ttu-id="55743-105">ถัดไปให้ไปที่หน้าการ**เรียกเก็บเงิน**  >  [ของผลิตภัณฑ์ของคุณ](https://go.microsoft.com/fwlink/p/?linkid=842054)</span><span class="sxs-lookup"><span data-stu-id="55743-105">Next, go to the **Billing** > [Your products](https://go.microsoft.com/fwlink/p/?linkid=842054) page.</span></span>
+3. <span data-ttu-id="55743-106">บนแท็บ **ผลิตภัณฑ์** ให้เลือกการสมัครใช้งานที่คุณต้องการอัปเดต</span><span class="sxs-lookup"><span data-stu-id="55743-106">On the **Products** tab, select the subscription that you want to update.</span></span>
+4. <span data-ttu-id="55743-107">บนหน้ารายละเอียดการสมัครใช้งานให้เลือก **เอาสิทธิ์**การใช้งานออก</span><span class="sxs-lookup"><span data-stu-id="55743-107">On the subscription details page, select **Remove licenses**.</span></span>
+5. <span data-ttu-id="55743-108">ในบานหน้าต่าง**เอาสิทธิ์**การใช้งานออกในกล่องสิทธิ์การใช้งาน**ทั้งหมด**ให้ใส่จำนวนสิทธิ์การใช้งานทั้งหมดที่คุณต้องการสำหรับการสมัครใช้งานนี้จากนั้นเลือก**บันทึก**</span><span class="sxs-lookup"><span data-stu-id="55743-108">In the **Remove licenses** pane, in the **Total licenses** box, enter the total number of licenses that you want for this subscription, then select **Save**.</span></span> <span data-ttu-id="55743-109">ตัวอย่างเช่นถ้าคุณมีสิทธิ์การใช้งาน๑๐๐และต้องการระงับหรือหยุดชั่วคราว25จากนั้นใส่๗๕เป็นสิทธิ์การใช้งานทั้งหมดสำหรับการสมัครใช้งานของคุณ</span><span class="sxs-lookup"><span data-stu-id="55743-109">For example, if you have 100 licenses and want to suspend or pause 25, then enter 75 as the total licenses for your subscription.</span></span>
 
-2. <span data-ttu-id="4bf7f-105">จากนั้นไปที่การ**เรียกเก็บเงิน >[ผลิตภัณฑ์ของคุณ](https://go.microsoft.com/fwlink/p/?linkid=842054)**</span><span class="sxs-lookup"><span data-stu-id="4bf7f-105">Then go to **Billing > [Your products](https://go.microsoft.com/fwlink/p/?linkid=842054)**.</span></span>
-
-3. <span data-ttu-id="4bf7f-106">บนหน้า **ผลิตภัณฑ์ของคุณ** ให้ค้นหาการสมัครใช้งานที่คุณต้องการเอาสิทธิ์การใช้งานออกแล้วคลิก **เพิ่ม/เอาสิทธิ์**การใช้งานออก</span><span class="sxs-lookup"><span data-stu-id="4bf7f-106">On the **Your products** page, find the subscription you want to remove licenses for, and click **Add/Remove licenses**.</span></span>
-
-4. <span data-ttu-id="4bf7f-107">ในกล่องสิทธิ์การใช้งานทั้งหมดให้ใส่จำนวนสิทธิ์การใช้งานทั้งหมดที่คุณจำเป็นต้องใช้สำหรับการสมัครใช้งานนี้แล้วคลิก**ส่งการเปลี่ยนแปลง**</span><span class="sxs-lookup"><span data-stu-id="4bf7f-107">In the total licenses box, enter the total number of licenses that you need for this subscription, and then click **Submit change**.</span></span> <span data-ttu-id="4bf7f-108">ตัวอย่างเช่นถ้าคุณมีสิทธิ์การใช้งาน๑๐๐และต้องการระงับหรือหยุด๕๐แล้วให้ใส่๕๐เป็นสิทธิ์การใช้งานทั้งหมดสำหรับการสมัครใช้งานของคุณ</span><span class="sxs-lookup"><span data-stu-id="4bf7f-108">For example, if you have 100 licenses and want to suspend or pause 50, then enter 50 as the total licenses for your subscription.</span></span>
-
-<span data-ttu-id="4bf7f-109">สำหรับข้อมูลเพิ่มเติมให้ดูที่ [จัดการสิทธิ์](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses?view=o365-worldwide)การใช้งานการสมัครใช้งาน</span><span class="sxs-lookup"><span data-stu-id="4bf7f-109">For more info, see [Manage subscription licenses](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses?view=o365-worldwide).</span></span>
+<span data-ttu-id="55743-110">สำหรับข้อมูลเพิ่มเติมให้ดูที่ [จัดการสิทธิ์](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses)การใช้งานการสมัครใช้งาน</span><span class="sxs-lookup"><span data-stu-id="55743-110">For more info, see [Manage subscription licenses](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses).</span></span>
