@@ -1,5 +1,5 @@
 ---
-title: การแก้ไขปัญหาการป้องกันการคุกคามขั้นสูงของ Office ๓๖๕
+title: การแก้ไขปัญหา Microsoft Defender สำหรับ Office ๓๖๕
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -11,14 +11,14 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 1039
 ms.assetid: ''
-ms.openlocfilehash: 5a13653ba08d8c6b822354ff70f6d276d31cd816
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 2c9543660056ebc02b0bd297f619f20fa6820093
+ms.sourcegitcommit: 4caf5e6c2fee2903ccaf92cfc9006eb580faa7ba
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47658933"
+ms.lasthandoff: 10/29/2020
+ms.locfileid: "48801465"
 ---
-# <a name="troubleshooting-office-365-advanced-threat-protection"></a>การแก้ไขปัญหาการป้องกันการคุกคามขั้นสูงของ Office ๓๖๕
+# <a name="troubleshooting-microsoft-defender-for-office-365"></a>การแก้ไขปัญหา Microsoft Defender สำหรับ Office ๓๖๕
 
 - คุณสังเกตเห็นความล่าช้าในการนำส่งข้อความหรือไม่ ใช้ตัวเลือกการนำ [ส่งแบบไดนามิก](https://docs.microsoft.com/microsoft-365/security/office-365-security/dynamic-delivery-and-previewing) ในนโยบายสิ่งที่แนบมาของ ATP Safe ของคุณ การทำเช่นนี้จะช่วยหลีกเลี่ยงความล่าช้าของข้อความในขณะที่ปกป้องผู้รับจากไฟล์ที่เป็นอันตราย
 
@@ -28,8 +28,8 @@ ms.locfileid: "47658933"
 
   1. ไปที่ [https://protection.office.com](https://protection.office.com) แล้วลงชื่อเข้าใช้ด้วยบัญชีผู้ดูแลระบบส่วนกลางหรือบัญชีผู้ดูแลระบบความปลอดภัย
 
-  2. ในบานหน้าต่างนำทางด้านซ้ายภายใต้**การจัดการภัยคุกคาม**ให้เลือก**Policy** \> **ลิงก์ที่ปลอดภัย**ตามนโยบาย
+  2. ในบานหน้าต่างนำทางด้านซ้ายภายใต้ **การจัดการภัยคุกคาม** ให้เลือก **Policy** \> **ลิงก์ที่ปลอดภัย** ตามนโยบาย
 
-  3. ใน**นโยบายที่นำไปใช้กับส่วนทั้งหมดขององค์กร**ให้เลือกนโยบายแล้วคลิก**แก้ไข**
+  3. ใน **นโยบายที่นำไปใช้กับส่วนทั้งหมดขององค์กร** ให้เลือกนโยบายแล้วคลิก **แก้ไข**
 
-  4. ภายใต้**การตั้งค่า**ให้เปิดใช้งาน**ลิงก์ที่ปลอดภัยไปยังข้อความที่ส่งภายในองค์กร**
+  4. ภายใต้ **การตั้งค่า** ให้เปิดใช้งาน **ลิงก์ที่ปลอดภัยไปยังข้อความที่ส่งภายในองค์กร**
