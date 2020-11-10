@@ -13,33 +13,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "1740"
 - "9000140"
-ms.openlocfilehash: 70b416e2b572fe9b4257648e3426b4d36975681e
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 4f8c1eb9d67671b5b5bef59f214b17e024227757
+ms.sourcegitcommit: 847f2bfd660847440df0195258acb9253f313a69
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47756518"
+ms.lasthandoff: 11/09/2020
+ms.locfileid: "48949728"
 ---
 # <a name="change-update-channels-for-office-apps"></a>เปลี่ยนช่องทางการอัปเดตสำหรับแอป Office
 
-สำหรับการติดตั้ง Office ใหม่ให้ใช้การตั้งค่าการดาวน์โหลดซอฟต์แวร์ของ Office เพื่อเลือกแชนเนลการอัปเดตที่ต้องการจากนั้นติดตั้ง (หรือติดตั้งใหม่) แอป Office สำหรับข้อมูลเพิ่มเติมให้ดู[ที่จัดการการตั้งค่าการดาวน์โหลดซอฟต์แวร์ใน Office ๓๖๕](https://docs.microsoft.com/deployoffice/manage-software-download-settings-office-365) 
+ถ้าคุณกำลังจัดการช่องทางการอัปเดตแอป Microsoft ๓๖๕โดยใช้พอร์ทัลการดูแลให้ใช้  **ตัวเลือกการติดตั้ง Office**  เพื่อเลือกแชนเนลการอัปเดตที่ต้องการก่อนที่จะติดตั้งแอป Office สำหรับข้อมูลเพิ่มเติมให้ดู[ที่จัดการตัวเลือกการติดตั้ง Office ในศูนย์การจัดการ Microsoft ๓๖๕](https://docs.microsoft.com/deployoffice/manage-software-download-settings-office-365)
 
-**หมายเหตุ:** ช่องทางการอัปเดตที่เลือกโดยใช้การตั้งค่าการดาวน์โหลดซอฟต์แวร์ของ Office จะนำไปใช้กับผู้ใช้ทุกคนที่ทำการติดตั้งใหม่โดยใช้ O365 portal สำหรับข้อมูลเพิ่มเติมให้ดูที่[ดาวน์โหลดและติดตั้งหรือติดตั้ง Microsoft ๓๖๕หรือ Office ๒๐๑๙อีกครั้งบนพีซีหรือ Mac](https://support.microsoft.com/office/download-and-install-or-reinstall-microsoft-365-or-office-2019-on-a-pc-or-mac-4414eaaf-0478-48be-9c42-23adc4716658)   
+**หมายเหตุ:** ช่องทางการอัปเดตที่เลือกโดยใช้  **ตัวเลือกการติดตั้ง Office**  จะนำไปใช้กับผู้ใช้ทุกคนที่ดำเนินการติดตั้งใหม่ (และในบางกรณีการติดตั้งที่มีอยู่แล้ว) ถ้าคุณกำลังใช้วิธีอื่นๆบางอย่างเช่นเครื่องมือการปรับใช้ Office (ODT), Group policy (GPO) หรือตัวจัดการการกำหนดค่าของ Microsoft จุดสิ้นสุด (MECM) เพื่อจัดการวิธีที่ผู้ใช้ของคุณจะได้รับการอัปเดตของฟีเจอร์จากนั้นการตั้งค่าที่คุณเลือกในศูนย์การจัดการ Microsoft ๓๖๕จะไม่ถูกนำไปใช้
 
-สำหรับการติดตั้ง Office ที่มีอยู่ให้ใช้เครื่องมือการปรับใช้ Office (ODT) เพื่อสลับไปยังแชนเนลการอัปเดตที่แตกต่างกันดังนี้  
+ถ้าคุณกำลังจัดการช่องทางการอัปเดต Microsoft ๓๖๕ Apps โดยใช้ตัวเลือกการจัดการอื่นๆที่แสดงรายการข้างต้นให้ดู[ที่วิธีการสลับช่องทางการอัปเดตสำหรับแอป Office ที่มีอยู่](https://support.microsoft.com/help/3185078/how-to-switch-from-semi-annual-channel-to-monthly-channel)
 
-1. ดาวน์โหลดเวอร์ชันล่าสุดของเครื่องมือการปรับใช้ Office (setup.exe) จาก[ศูนย์ดาวน์โหลดของไมโครซอฟท์](https://go.microsoft.com/fwlink/p/?LinkID=626065)
-2. ระบุชื่อของแชนเนลที่คุณต้องการสลับไปใช้ สำหรับข้อมูลเพิ่มเติมให้ดู[ที่ตัวเลือกการกำหนดค่าสำหรับเครื่องมือการปรับใช้ Office](https://docs.microsoft.com/DeployOffice/configuration-options-for-the-office-2016-deployment-tool#channel-attribute-part-of-add-element)
-3. สร้างไฟล์ XML การกำหนดค่าที่ระบุชื่อแชนเนลที่เหมาะสมตัวอย่างเช่น update.xml  
-
-`<Configuration>`<br>
-`<Updates Channel="Current"/>`<br>
-`</Configuration>`<br>
-
-4. จากพร้อมท์คำสั่งยกระดับให้สลับไปยังตำแหน่งที่ตั้งของโฟลเดอร์ที่ setup.exe อยู่และเรียกใช้คำสั่งต่อไปนี้:  
-    a. setup.exe c:\odt\setup.exe/configure update.xml
-5. เริ่มแอปพลิเคชัน Office (เช่น Excel) แล้วเลือก**File**  >  **บัญชีผู้ใช้**ไฟล์ ในส่วนข้อมูลผลิตภัณฑ์ให้เลือกอัปเดตตัว**เลือกการอัปเด**  >  **ตเดี๋ยวนี้**
-
-สำหรับข้อมูลเพิ่มเติมให้ดู[ที่วิธีการสลับช่องทางการอัปเดตสำหรับแอป Office ที่มีอยู่](https://support.microsoft.com/help/3185078/how-to-switch-from-semi-annual-channel-to-monthly-channel) 
-
-สำหรับการสลับช่องทางการอัปเดตสำหรับกลุ่มผู้ใช้ที่เลือกหรือโดยการใช้ตัวจัดการการตั้งค่าคอนฟิก (SCCM) ให้กำหนดค่าการตั้งค่าการอัปเดตระเบียนโดยใช้วัตถุนโยบายกลุ่ม สำหรับข้อมูลเพิ่มเติมให้ดู[ที่ภาพรวมของช่องทางการอัปเดตสำหรับแอป Microsoft ๓๖๕](https://docs.microsoft.com/deployoffice/overview-update-channels#group-policy) สำหรับรายละเอียดให้ดู [ที่วิธีการจัดการ Office ๓๖๕ ProPlus channel สำหรับผู้เชี่ยวชาญด้าน it](https://techcommunity.microsoft.com/t5/office-365-blog/how-to-manage-office-365-proplus-channels-for-it-pros/ba-p/795813) และ [จัดการการอัปเดตเป็นแอป Microsoft ๓๖๕ด้วยตัวจัดการการกำหนดค่า microsoft จุดสิ้น](https://docs.microsoft.com/deployoffice/manage-microsoft-365-apps-updates-configuration-manager)สุด
+สำหรับข้อมูลโดยละเอียดให้ดูที่:  
+[วิธีการจัดการแชนแนล Office ๓๖๕ ProPlus สำหรับผู้เชี่ยวชาญด้าน IT](https://techcommunity.microsoft.com/t5/office-365-blog/how-to-manage-office-365-proplus-channels-for-it-pros/ba-p/795813)  
+[จัดการการอัปเดตเป็นแอป Microsoft ๓๖๕ด้วยตัวจัดการการกำหนดค่า Microsoft จุดสิ้นสุด](https://docs.microsoft.com/deployoffice/manage-microsoft-365-apps-updates-configuration-manager)
