@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001513"
 - "3572"
-ms.openlocfilehash: d6d460d90253ded2d093676f351d8250861ac0b9
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+- "7228"
+ms.openlocfilehash: 398c3b9db7c90fe016cab56ef9d13078e4011a6f
+ms.sourcegitcommit: a9415f3ae8c7ba267b5134bcbdc1e070cea41a0f
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47674957"
+ms.lasthandoff: 11/12/2020
+ms.locfileid: "49019566"
 ---
 # <a name="microsoft-teams-exploratory-experience"></a>ประสบการณ์การใช้งานสำรวจทีมของ Microsoft
 
-ประสบการณ์การใช้งาน Microsoft team สำรวจช่วยให้ผู้ใช้ในองค์กรของคุณที่มี Azure Active Directory (AAD) และไม่ได้รับสิทธิ์การใช้งานสำหรับทีมเริ่มต้นประสบการณ์การใช้งานสำรวจของทีม ผู้ดูแลระบบสามารถสลับเปิดหรือปิดฟีเจอร์นี้สำหรับผู้ใช้ในองค์กรของพวกเขาได้ (เวอร์ชันทดลองใช้ Cloud เชิงพาณิชย์ของ Microsoft ก่อนหน้านี้เรียกว่าทีมสำรวจประสบการณ์การใช้งาน)
-
-ประสบการณ์การใช้งาน Microsoft team สำรวจจะพร้อมใช้งานโดยไม่มีค่าใช้จ่ายเพิ่มเติมจนกว่าวันครบกำหนดของข้อตกลงขององค์กรถัดไปของคุณหรือหลังการต่ออายุหรือหลังวันที่มกราคม๒๐๒๑ ในขณะนั้นผู้ใช้ที่มีสิทธิ์การใช้งาน Microsoft สำรวจ experience จะต้องย้ายไปยังสิทธิ์การใช้งานที่มีการชำระเงินที่มีทีม
-
-สำหรับข้อมูลเพิ่มเติมโปรดดู[ที่การจัดการสิทธิ์การใช้งานสำรวจทีมของ Microsoft](https://docs.microsoft.com/microsoftteams/teams-exploratory/)
+- [ทีมสำรวจ](https://docs.microsoft.com/microsoftteams/teams-exploratory)คืออะไร ประสบการณ์การใช้งาน Microsoft team สำรวจช่วยให้ผู้ใช้ในองค์กรของคุณที่ไม่ได้รับสิทธิ์การใช้งานสำหรับทีมเริ่มต้นการใช้งานสำรวจของทีม สำหรับข้อมูลเพิ่มเติมโปรดดู[สิ่งที่อยู่ในประสบการณ์การใช้งานของทีมสำรวจ](https://docs.microsoft.com/microsoftteams/teams-exploratory#whats-in-the-teams-exploratory-experience)
+- [สิทธิ์การใช้งานของฉันจะหมดอายุเมื่อ](https://docs.microsoft.com/microsoftteams/teams-exploratory#how-long-does-the-teams-exploratory-experience-last)ใด ประสบการณ์การใช้งานสำรวจทีมของ Microsoft จะพร้อมใช้งานโดยไม่มีค่าใช้จ่ายเพิ่มเติมจนกว่าวันครบกำหนดของข้อตกลงครั้งถัดไปหรือหลังจากวันที่๒๐๒๑มกราคม
+- ในฐานะผู้ดูแลระบบคุณสามารถ [อัปเกรดผู้ใช้จากทีมสำรวจ](https://docs.microsoft.com/microsoftteams/teams-exploratory#upgrade-users-from-the-teams-exploratory-license) สิทธิ์การใช้งานได้โดยการซื้อการสมัครใช้งานที่มีทีมการเอาการสมัครใช้งานของทีมสำรวจออกจากผู้ใช้และการกำหนดสิทธิ์การใช้งานที่ซื้อใหม่
+- สำหรับข้อมูลเพิ่มเติมให้ดู [ที่จัดการสิทธิ์การใช้งานทีมสำรวจ](https://docs.microsoft.com/microsoftteams/teams-exploratory)
