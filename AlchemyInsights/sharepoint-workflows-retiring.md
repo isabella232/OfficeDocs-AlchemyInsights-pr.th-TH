@@ -13,23 +13,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "5900"
 - "9003071"
-ms.openlocfilehash: 4419482711541f238e01e81367a3c9cc69653069
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: cf85e4c45f1d88c3a643e298fac5d539cd127fdf
+ms.sourcegitcommit: 0f42d1600b6845083f0273d14c1d9e59344e4371
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47758588"
+ms.lasthandoff: 11/30/2020
+ms.locfileid: "49477494"
 ---
 # <a name="sharepoint-workflows-retiring"></a>เวิร์กโฟลว์ SharePoint จะถูกเกษียณ
 
-เวิร์กโฟลว์ SharePoint ๒๐๑๐กำลังถูกถอนการใช้งาน เราขอแนะนำให้โยกย้ายไปยัง [Power อัตโนมัติ](https://docs.microsoft.com/power-automate/getting-started) หรือโซลูชันที่ได้รับการสนับสนุนอื่น 
+เวิร์กโฟลว์ SharePoint ๒๐๑๐ถูกถอนออก เราขอแนะนำให้โยกย้ายไปยัง [Power อัตโนมัติ](https://docs.microsoft.com/power-automate/getting-started) หรือโซลูชันที่ได้รับการสนับสนุนอื่น 
 
 วันที่สำคัญ:
 
 - 1สิงหาคม๒๐๒๐เวิร์กโฟลว์ SharePoint ๒๐๑๐จะ **ปิด** ใช้งานสำหรับผู้เช่าที่สร้างขึ้นใหม่
 
 - 1พฤศจิกายน๒๐๒๐เวิร์กโฟลว์ SharePoint ๒๐๑๐จะถูก **เอาออก** จากผู้เช่าที่มีอยู่
-
-- 1พฤศจิกายน๒๐๒๐เวิร์กโฟลว์ SharePoint ๒๐๑๓จะ **ปิด** ใช้งานสำหรับผู้เช่าที่สร้างขึ้นใหม่
 
 สำหรับข้อมูลเพิ่มเติมให้ดูที่การ[สนับสนุนเวิร์กโฟลว์ SharePoint](https://aka.ms/sp-workflows-support)

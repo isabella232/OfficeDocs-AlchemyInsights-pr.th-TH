@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002964"
 - "6213"
-ms.openlocfilehash: a268745601da13f0fe09d7ca9260056d29b821bd
-ms.sourcegitcommit: 534e9217d99336eb471166ff83231c7e408fb1d9
+ms.openlocfilehash: 4022aff4bdedb9c3589e2546f75b00d9ea275293
+ms.sourcegitcommit: 0f42d1600b6845083f0273d14c1d9e59344e4371
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 11/09/2020
-ms.locfileid: "48947431"
+ms.lasthandoff: 11/30/2020
+ms.locfileid: "49477495"
 ---
 # <a name="lists-app-in-teams"></a>รายการแอปในทีม
 
@@ -27,10 +27,6 @@ ms.locfileid: "48947431"
 รายการถูกติดตั้งไว้ล่วงหน้าสำหรับผู้ใช้ทั้งหมดของทีมและพร้อมใช้งานโดยตรงในแกลเลอรีแท็บของทุกทีมและแชนเนล
 
 ผู้ดูแลระบบทีมสามารถควบคุมความพร้อมใช้งานของแอปได้โดยใช้นโยบายสิทธิ์สิทธิ์ของ Microsoft team สำหรับข้อมูลเพิ่มเติมให้ดู[ที่จัดการนโยบายสิทธิ์ของแอปในทีม Microsoft](https://docs.microsoft.com/microsoftteams/teams-app-permission-policies)
-
-การกำหนด **เวลา:** ต้นเดือนกันยายนและเสร็จสมบูรณ์โดยกลางเดือนตุลาคม๒๐๒๐  
-
-การ **สะสม:** ระดับองค์กร  
 
 **ชนิดของตัวควบคุม:**  การควบคุมผู้ดูแลทีม  
 
