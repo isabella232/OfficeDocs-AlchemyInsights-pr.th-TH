@@ -13,21 +13,19 @@ ms.assetid: ''
 ms.custom:
 - "9000700"
 - "2600"
-ms.openlocfilehash: 96023978dbbeeb162504d2b205a61f6980734d14
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: a0dd9d7fafaff0e9a2cc897009aad63d69cfab38
+ms.sourcegitcommit: 8577192bfc5ddc6fe64aabd8beb8a8dcd387c5ae
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47754358"
+ms.lasthandoff: 12/03/2020
+ms.locfileid: "49569186"
 ---
 # <a name="onedrive-puid-mismatch"></a>การไม่ตรงกันของ OneDrive PUID
-ดูเหมือนว่าคุณกำลังประสบกับการ [PUID ไม่ตรง](https://docs.microsoft.com/sharepoint/support/administration/access-denied-or-need-permission-error-sharepoint-online-or-onedrive-for-business#when-accessing-a-onedrive-site) กันใน OneDrive for Business โปรดทำตามขั้นตอนด้านล่างเพื่อให้เราสามารถช่วยคุณได้โดยเร็วที่สุดเท่าที่จะเป็นไปได้:
 
-1. คลิก**ติดต่อฝ่ายสนับสนุน**แล้วคลิก**คำขอบริการใหม่**
-2. ปล่อยให้ชื่อเรื่องและคำอธิบายเป็น**PUID ไม่ตรงกันบนไซต์ OneDrive**
+ดูเหมือนว่าคุณกำลังพบ [ID](https://docs.microsoft.com/sharepoint/troubleshoot/administration/access-denied-or-need-permission-error-sharepoint-online-or-onedrive-for-business#when-accessing-a-onedrive-site) ที่ไม่ตรงกันใน OneDrive for Business โปรดทำตามขั้นตอนด้านล่างเพื่อให้เราสามารถช่วยคุณได้โดยเร็วที่สุดเท่าที่จะเป็นไปได้:
+
+1. คลิก **ติดต่อฝ่ายสนับสนุน** แล้วคลิก **คำขอบริการใหม่**
+2. ปล่อยให้ชื่อเรื่องและคำอธิบายเป็น  **ID ผู้ใช้ของไซต์ OneDrive ไม่ตรง** กัน
 3. เมื่อมีการส่งตั๋วแล้วโปรดอัปเดตข้อมูลดังต่อไปนี้:
     - URL ของไซต์ OneDrive ที่ได้รับผลกระทบ
     - ชื่อหลักของผู้ใช้ (UPN) ของผู้ใช้ที่ได้รับผลกระทบ
-
-
-
