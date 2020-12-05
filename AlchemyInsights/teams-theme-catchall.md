@@ -1,5 +1,5 @@
 ---
-title: ใหม่ไปยังทีม Microsoft
+title: ตั้งค่าทีม Microsoft
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -12,17 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "2605"
 - "9000701"
-ms.openlocfilehash: 65c6744b152e73310fb094bb2612dff77da82223
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: b5e24c4d4cd074fcfba99147ee97254235c0a5bd
+ms.sourcegitcommit: 2e4a5153e530bf15744a52e982eeb0d99757e9d2
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47750434"
+ms.lasthandoff: 12/04/2020
+ms.locfileid: "49576270"
 ---
-# <a name="new-to-microsoft-teams"></a><span data-ttu-id="a3397-102">ใหม่ไปยังทีม Microsoft</span><span class="sxs-lookup"><span data-stu-id="a3397-102">New to Microsoft Teams</span></span>
+# <a name="set-up-microsoft-teams"></a><span data-ttu-id="bfb8a-102">ตั้งค่าทีม Microsoft</span><span class="sxs-lookup"><span data-stu-id="bfb8a-102">Set up Microsoft Teams</span></span>
 
-<span data-ttu-id="a3397-103">ให้ดู [ที่เริ่มต้นใช้งานทีม Microsoft](https://docs.microsoft.com/microsoftteams/get-started-with-teams-quick-start)</span><span class="sxs-lookup"><span data-stu-id="a3397-103">Check out [Get Started with Microsoft Teams](https://docs.microsoft.com/microsoftteams/get-started-with-teams-quick-start).</span></span> <span data-ttu-id="a3397-104">ตรวจสอบให้แน่ใจว่าได้ตรวจสอบวิดีโอการฝึกอบรมสำหรับผู้ดูแลระบบของ Microsoft team, สำรับและข้อมูลเพิ่มเติม</span><span class="sxs-lookup"><span data-stu-id="a3397-104">Be sure to check out Microsoft Teams IT Admin Training Videos, Decks, and more information.</span></span>
+<span data-ttu-id="bfb8a-103">[คู่มือการตั้งค่าทีม Microsoft](https://aka.ms/teamsguidance)จะให้องค์กรของคุณมีคำแนะนำในการตั้งค่าพื้นที่ทำงานของทีมที่โฮสต์การสนทนาแบบเรียลไทม์ผ่านทางการส่งข้อความการโทรและการประชุมทางเสียงหรือวิดีโอสำหรับทั้งทีมและการติดต่อสื่อสารแบบส่วนตัว</span><span class="sxs-lookup"><span data-stu-id="bfb8a-103">The  [Microsoft Teams setup guide](https://aka.ms/teamsguidance)  provides your organization with guidance to set up team workspaces that host real-time conversations through messaging, calls, and audio or video meetings for both team and private communication.</span></span> <span data-ttu-id="bfb8a-104">คุณจะได้รับคำแนะนำในการกำหนดความต้องการของเครือข่ายขององค์กรของคุณโดยใช้เครื่องมือการวางแผนเครือข่ายและที่ปรึกษาทีมภายในศูนย์การจัดการทีม</span><span class="sxs-lookup"><span data-stu-id="bfb8a-104">You'll receive instructions for determining your organization's network requirements by using the Network Planner tool and the Teams advisor within the Teams admin center.</span></span> <span data-ttu-id="bfb8a-105">เมื่อการปรับใช้ของคุณเสร็จสมบูรณ์แล้วรายการแนะนำจะมีแหล่งข้อมูลที่เป็นประโยชน์เพื่อเริ่มต้นใช้งานทีม</span><span class="sxs-lookup"><span data-stu-id="bfb8a-105">Once your deployment is complete, the guide includes helpful resources to get started using Teams.</span></span>
 
-<span data-ttu-id="a3397-105">ถ้าคุณต้องการความช่วยเหลือในการปรับใช้ทีมเพื่อสนับสนุนผู้ปฏิบัติงานระยะไกล (WFH) เนื่องจาก COVID-19 โปรดตรวจทานการ[สนับสนุนผู้ปฏิบัติงานระยะไกลโดยใช้ทีม Microsoft](https://docs.microsoft.com/microsoftteams/support-remote-work-with-teams)</span><span class="sxs-lookup"><span data-stu-id="a3397-105">If you need help deploying Teams to support Remote Workers (WFH) due to COVID-19, please review  [Support remote workers using Microsoft Teams](https://docs.microsoft.com/microsoftteams/support-remote-work-with-teams).</span></span> <span data-ttu-id="a3397-106">นอกจากนี้คุณอาจมีสิทธิ์ในการช่วยเหลือในการปรับใช้จากโปรแกรม Microsoft ๓๖๕ FastTrack-โปรดเยี่ยมชม [ศูนย์ FastTrack](https://www.microsoft.com/fasttrack) เพื่อส่งคำขอ</span><span class="sxs-lookup"><span data-stu-id="a3397-106">Also, you may be eligible for deployment assistance from the Microsoft 365 FastTrack Program - please visit the [FastTrack Center](https://www.microsoft.com/fasttrack) to submit a request.</span></span>
-
-<span data-ttu-id="a3397-107">**สิ่งสำคัญ**: เนื่องจากการเพิ่มขึ้นของการใช้งานของทีมเมื่อคุณกำหนดสิทธิ์การใช้งานของทีมให้กับผู้ใช้อาจใช้เวลาประมาณ24ชั่วโมงก่อนที่จะตั้งค่าทั้งหมด</span><span class="sxs-lookup"><span data-stu-id="a3397-107">**Important**: Due to a recent increase in Teams usage, when you assign a Teams license to a user, it may take around 24 hours before they'll be fully set up.</span></span> <span data-ttu-id="a3397-108">จากนั้นคุณจะไม่สามารถกำหนดนโยบายของทีมให้กับบุคคลเหล่านั้นได้และอาจไม่สามารถเข้าถึงฟีเจอร์บางอย่างของทีมเช่นการโทรและการประชุมทางเสียงได้</span><span class="sxs-lookup"><span data-stu-id="a3397-108">Until then, you won't be able to assign Teams policies to them, and they might not have access to some Teams features like calling and audio conferencing.</span></span>
+<span data-ttu-id="bfb8a-106">สำหรับข้อมูลเพิ่มเติมโปรดดู[ที่เริ่มต้นใช้งานทีม Microsoft](https://docs.microsoft.com/microsoftteams/get-started-with-teams-quick-start)</span><span class="sxs-lookup"><span data-stu-id="bfb8a-106">For additional information, please see [Get Started with Microsoft Teams](https://docs.microsoft.com/microsoftteams/get-started-with-teams-quick-start).</span></span>
