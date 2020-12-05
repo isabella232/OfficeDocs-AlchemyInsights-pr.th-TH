@@ -1,5 +1,5 @@
 ---
-title: ใหม่ไปยังทีม Microsoft
+title: ตั้งค่าทีม Microsoft
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -12,17 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "2605"
 - "9000701"
-ms.openlocfilehash: 65c6744b152e73310fb094bb2612dff77da82223
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: b5e24c4d4cd074fcfba99147ee97254235c0a5bd
+ms.sourcegitcommit: 2e4a5153e530bf15744a52e982eeb0d99757e9d2
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47750434"
+ms.lasthandoff: 12/04/2020
+ms.locfileid: "49576270"
 ---
-# <a name="new-to-microsoft-teams"></a>ใหม่ไปยังทีม Microsoft
+# <a name="set-up-microsoft-teams"></a>ตั้งค่าทีม Microsoft
 
-ให้ดู [ที่เริ่มต้นใช้งานทีม Microsoft](https://docs.microsoft.com/microsoftteams/get-started-with-teams-quick-start) ตรวจสอบให้แน่ใจว่าได้ตรวจสอบวิดีโอการฝึกอบรมสำหรับผู้ดูแลระบบของ Microsoft team, สำรับและข้อมูลเพิ่มเติม
+[คู่มือการตั้งค่าทีม Microsoft](https://aka.ms/teamsguidance)จะให้องค์กรของคุณมีคำแนะนำในการตั้งค่าพื้นที่ทำงานของทีมที่โฮสต์การสนทนาแบบเรียลไทม์ผ่านทางการส่งข้อความการโทรและการประชุมทางเสียงหรือวิดีโอสำหรับทั้งทีมและการติดต่อสื่อสารแบบส่วนตัว คุณจะได้รับคำแนะนำในการกำหนดความต้องการของเครือข่ายขององค์กรของคุณโดยใช้เครื่องมือการวางแผนเครือข่ายและที่ปรึกษาทีมภายในศูนย์การจัดการทีม เมื่อการปรับใช้ของคุณเสร็จสมบูรณ์แล้วรายการแนะนำจะมีแหล่งข้อมูลที่เป็นประโยชน์เพื่อเริ่มต้นใช้งานทีม
 
-ถ้าคุณต้องการความช่วยเหลือในการปรับใช้ทีมเพื่อสนับสนุนผู้ปฏิบัติงานระยะไกล (WFH) เนื่องจาก COVID-19 โปรดตรวจทานการ[สนับสนุนผู้ปฏิบัติงานระยะไกลโดยใช้ทีม Microsoft](https://docs.microsoft.com/microsoftteams/support-remote-work-with-teams) นอกจากนี้คุณอาจมีสิทธิ์ในการช่วยเหลือในการปรับใช้จากโปรแกรม Microsoft ๓๖๕ FastTrack-โปรดเยี่ยมชม [ศูนย์ FastTrack](https://www.microsoft.com/fasttrack) เพื่อส่งคำขอ
-
-**สิ่งสำคัญ**: เนื่องจากการเพิ่มขึ้นของการใช้งานของทีมเมื่อคุณกำหนดสิทธิ์การใช้งานของทีมให้กับผู้ใช้อาจใช้เวลาประมาณ24ชั่วโมงก่อนที่จะตั้งค่าทั้งหมด จากนั้นคุณจะไม่สามารถกำหนดนโยบายของทีมให้กับบุคคลเหล่านั้นได้และอาจไม่สามารถเข้าถึงฟีเจอร์บางอย่างของทีมเช่นการโทรและการประชุมทางเสียงได้
+สำหรับข้อมูลเพิ่มเติมโปรดดู[ที่เริ่มต้นใช้งานทีม Microsoft](https://docs.microsoft.com/microsoftteams/get-started-with-teams-quick-start)
