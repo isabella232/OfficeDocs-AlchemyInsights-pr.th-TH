@@ -1,0 +1,39 @@
+---
+title: วิธีการเพิ่มหรือเอาผู้รับมอบสิทธิ์ใน Mac ออก
+ms.author: v-aiyengar
+author: AshaIyengar21
+manager: dansimp
+ms.date: 12/05/2020
+ms.audience: Admin
+ms.topic: article
+ms.service: o365-administration
+ROBOTS: NOINDEX, NOFOLLOW
+localization_priority: Normal
+ms.collection: Adm_O365
+ms.custom:
+- "3800004"
+- "7336"
+ms.openlocfilehash: 631a1202eca985db93c31dbedca520674b06095e
+ms.sourcegitcommit: 2e4a5153e530bf15744a52e982eeb0d99757e9d2
+ms.translationtype: MT
+ms.contentlocale: th-TH
+ms.lasthandoff: 12/04/2020
+ms.locfileid: "49583695"
+---
+# <a name="how-to-add-or-remove-a-delegate-in-mac"></a><span data-ttu-id="0686b-102">วิธีการเพิ่มหรือเอาผู้รับมอบสิทธิ์ใน Mac ออก</span><span class="sxs-lookup"><span data-stu-id="0686b-102">How to add or remove a Delegate in Mac</span></span>
+
+<span data-ttu-id="0686b-103">ให้ทำดังต่อไปนี้เพื่อเพิ่มหรือลบผู้รับมอบสิทธิ์ใน Mac:</span><span class="sxs-lookup"><span data-stu-id="0686b-103">Do the following to add or remove a Delegate in Mac:</span></span>
+
+<span data-ttu-id="0686b-104">**วิธีการเพิ่มผู้รับมอบสิทธิ์ใน Mac**:</span><span class="sxs-lookup"><span data-stu-id="0686b-104">**How to add a Delegate in Mac**:</span></span>
+
+1. <span data-ttu-id="0686b-105">จากเมนู **เครื่องมือ** ให้เลือก **บัญชี** ผู้ใช้</span><span class="sxs-lookup"><span data-stu-id="0686b-105">From the **Tools** menu, select **Accounts**.</span></span>
+1. <span data-ttu-id="0686b-106">เลือกบัญชีผู้ใช้ Exchange ที่คุณจะใช้ในการเข้าถึงรายการที่ได้รับมอบสิทธิ์ให้คลิก **ขั้นสูง** แล้วคลิกผู้รับ **มอบสิทธิ์**</span><span class="sxs-lookup"><span data-stu-id="0686b-106">Select the Exchange account that you will use to access the delegated items, click **Advanced**, and then click **Delegates**.</span></span>
+1. <span data-ttu-id="0686b-107">ภายใต้ **บุคคลที่ฉันเป็นผู้รับมอบสิทธิ์** ให้คลิก **เพิ่ม**</span><span class="sxs-lookup"><span data-stu-id="0686b-107">Under **People I am a delegate for**, click **Add**.</span></span> <span data-ttu-id="0686b-108">.</span><span class="sxs-lookup"><span data-stu-id="0686b-108">.</span></span>
+1. <span data-ttu-id="0686b-109">พิมพ์ชื่อของบุคคลที่เพิ่มคุณเป็นผู้รับมอบสิทธิ์</span><span class="sxs-lookup"><span data-stu-id="0686b-109">Type the name of the person who added you as a delegate.</span></span>
+1. <span data-ttu-id="0686b-110">เลือกชื่อของบุคคลในผลลัพธ์การค้นหาแล้วคลิก **เพิ่ม**</span><span class="sxs-lookup"><span data-stu-id="0686b-110">Select the person's name in the search results, and then click **Add**.</span></span>
+ 
+<span data-ttu-id="0686b-111">**วิธีการลบผู้รับมอบสิทธิ์ใน Mac**:</span><span class="sxs-lookup"><span data-stu-id="0686b-111">**How to remove a Delegate in Mac**:</span></span>
+
+1. <span data-ttu-id="0686b-112">จากเมนู **เครื่องมือ** ให้เลือก **บัญชี** ผู้ใช้</span><span class="sxs-lookup"><span data-stu-id="0686b-112">From the **Tools** menu, select **Accounts**.</span></span>
+1. <span data-ttu-id="0686b-113">เลือกบัญชีผู้ใช้ Exchange ที่คุณต้องการเปลี่ยนแปลงแล้วคลิก **ขั้นสูง** จากนั้นคลิก \*\*\* ที่แท็บผู้รับมอบสิทธิ์</span><span class="sxs-lookup"><span data-stu-id="0686b-113">Select the Exchange account that you want to change, click **Advanced**, and then click \*\*\*\*Delegates tab.</span></span>
+1. <span data-ttu-id="0686b-114">ภายใต้ **บุคคลที่ฉันเป็นผู้รับมอบสิทธิ์** ให้เลือกบุคคลที่คุณต้องการหยุดการเป็นผู้รับมอบสิทธิ์จากนั้นคลิก **เอาออก**</span><span class="sxs-lookup"><span data-stu-id="0686b-114">Under **People I am a delegate for**, select the person for whom you want to stop being a delegate, and then click **Remove**.</span></span>
