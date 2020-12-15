@@ -13,16 +13,16 @@ ms.custom:
 - "46"
 - "903"
 - "7"
-ms.openlocfilehash: d26985b7b4e3c7389a783ab985f7bb11df7d64fe
-ms.sourcegitcommit: 78939b01579b626b147d356045a37aec1170c948
+ms.openlocfilehash: f6c9b54efd7001ce3c7385fd222cbf562f638bd7
+ms.sourcegitcommit: dd9eb38bf9403de29f46c844cb64bc1d4c515afc
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47815552"
+ms.lasthandoff: 12/15/2020
+ms.locfileid: "49683885"
 ---
 # <a name="how-to-verify-your-domain"></a>วิธีการยืนยันโดเมนของคุณ
 
-เมื่อต้องการตรวจสอบโดเมนให้ทำตามตัว[ช่วยสร้างเพิ่มโดเมน](https://admin.microsoft.com/Adminportal#/Domains/Wizard)หรือไปยังโดเมนการ**ตั้งค่า**  >  **Domains**  >  **เพิ่มเติม**ด้วยตนเอง
+เมื่อต้องการตรวจสอบโดเมนให้ทำตามตัว [ช่วยสร้างเพิ่มโดเมน](https://admin.microsoft.com/Adminportal#/Domains/Wizard)หรือไปยังโดเมนการ **ตั้งค่า**  >    >  **เพิ่มเติม** ด้วยตนเอง
 
 สำหรับข้อมูลเพิ่มเติมเกี่ยวกับการเปลี่ยนแปลง DNS ที่จำเป็นสำหรับการตรวจสอบโดเมนของคุณให้ดูที่คำแนะนำใน[เพิ่มระเบียน DNS เพื่อเชื่อมต่อโดเมนของคุณ](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider)
 

@@ -1,5 +1,5 @@
 ---
-title: เปลี่ยนชื่อผู้ใช้และที่อยู่อีเมลของผู้ใช้
+title: เปลี่ยนชื่อและที่อยู่อีเมล
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -13,16 +13,16 @@ ms.assetid: 9e00841d-fda2-4610-95a6-c99a4b1e891a
 ms.custom:
 - "17"
 - "4"
-ms.openlocfilehash: 3ef63bd59683eed105b8391188b8c8bbd99ed984
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 5f76ab1f3cec5cdf17cb8fa0aea179f29e271663
+ms.sourcegitcommit: dd9eb38bf9403de29f46c844cb64bc1d4c515afc
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47756950"
+ms.lasthandoff: 12/15/2020
+ms.locfileid: "49683921"
 ---
-# <a name="change-a-users-name-and-email-address"></a>เปลี่ยนชื่อผู้ใช้และที่อยู่อีเมลของผู้ใช้
+# <a name="change-a-name-and-email-address"></a>เปลี่ยนชื่อและที่อยู่อีเมล
 
-การเปลี่ยนชื่อผู้ใช้และที่อยู่อีเมลใน Microsoft ๓๖๕เป็นเรื่องง่าย ไปที่หน้า**Users** \> [ผู้ใช้ที่ใช้งานอยู่](https://go.microsoft.com/fwlink/p/?linkid=834822)ของผู้ใช้แล้วเลือกผู้ใช้เพื่อแก้ไขข้อมูลของพวกเขา นอกจากนี้คุณยังสามารถใช้บทความนี้สำหรับคำแนะนำทีละขั้นตอนดังนี้
+การเปลี่ยนชื่อผู้ใช้และที่อยู่อีเมลใน Microsoft ๓๖๕เป็นเรื่องง่าย ไปที่หน้า \> [ผู้ใช้ที่ใช้งานอยู่](https://go.microsoft.com/fwlink/p/?linkid=834822)ของผู้ใช้แล้วเลือกผู้ใช้เพื่อแก้ไขข้อมูลของพวกเขา นอกจากนี้คุณยังสามารถใช้บทความนี้สำหรับคำแนะนำทีละขั้นตอนดังนี้
   
 [เปลี่ยนชื่อผู้ใช้และที่อยู่อีเมลใน Microsoft ๓๖๕](https://docs.microsoft.com/microsoft-365/admin/add-users/change-a-user-name-and-email-address)
   
