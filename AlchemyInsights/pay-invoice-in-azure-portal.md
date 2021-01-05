@@ -13,14 +13,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004164"
 - "7284"
-ms.openlocfilehash: 76171db94d905eaec0263700e5148b29d224a247
-ms.sourcegitcommit: b5f05809732ac148161ffdb7b8cb2348f101ecae
+ms.openlocfilehash: 37fb216fc4694bcaa7dddc2c56432a16c0dad555
+ms.sourcegitcommit: 04bf13605a30ad4a2218ad9e94dcffcee4cc9aa6
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 12/17/2020
-ms.locfileid: "49715033"
+ms.lasthandoff: 01/05/2021
+ms.locfileid: "49755638"
 ---
 # <a name="pay-invoice-in-azure-portal---recommended-steps"></a>ชำระใบแจ้งหนี้ใน Azure portal-ขั้นตอนที่แนะนำ
+
+เราพบวิธีแก้ไขปัญหาของคุณโดยยึดตามคำอธิบายปัญหาของคุณ ลูกค้าส่วนใหญ่สามารถแก้ไขปัญหาของตนเองได้หลังจากที่ทำตามเอกสารประกอบของเราแล้ว
 
 คุณต้องเป็นผู้ดูแลระบบบัญชีผู้ใช้การเรียกเก็บเงินเพื่อชำระใบแจ้งหนี้ในพอร์ทัล Azure ผู้ดูแลระบบบัญชีผู้ใช้การเรียกเก็บเงินคือผู้ใช้ที่ลงทะเบียนสำหรับบัญชีข้อตกลงลูกค้าของ Microsoft ครั้งแรก 
 

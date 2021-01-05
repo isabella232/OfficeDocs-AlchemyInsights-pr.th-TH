@@ -13,14 +13,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004112"
 - "7191"
-ms.openlocfilehash: 84c9d89161111a5a1cf9aea92f49c754ad6b7f73
-ms.sourcegitcommit: c68aeb650c74cc790c6027a91965dcaf577f7428
+ms.openlocfilehash: b29991dccd0a97115fc1dbc3191dd2e52e6b5d23
+ms.sourcegitcommit: 04bf13605a30ad4a2218ad9e94dcffcee4cc9aa6
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 12/08/2020
-ms.locfileid: "49598778"
+ms.lasthandoff: 01/05/2021
+ms.locfileid: "49755602"
 ---
 # <a name="subscription-management---security-and-compliance-requests---azure-industry-compliance-accreditation"></a>การจัดการการสมัครใช้งาน-การร้องขอด้านความปลอดภัยและการปฏิบัติตามนโยบาย-การรับรองมาตรฐานอุตสาหกรรม azure
+
+เราพบวิธีแก้ไขปัญหาของคุณโดยยึดตามคำอธิบายปัญหาของคุณ ลูกค้าส่วนใหญ่สามารถแก้ไขปัญหาของตนเองได้หลังจากที่ทำตามเอกสารประกอบของเราแล้ว
 
 - **นโยบาย**: สำหรับคำถามใดๆบนเอกสารการปฏิบัติตามข้อบังคับของ Microsoft ให้ดูที่การ [ปฏิบัติตามนโยบายของศูนย์ความเชื่อถือของ Azure](https://docs.microsoft.com/compliance/regulatory/offering-SOC)
 

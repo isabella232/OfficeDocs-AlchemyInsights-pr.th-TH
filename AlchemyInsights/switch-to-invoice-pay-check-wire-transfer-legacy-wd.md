@@ -1,5 +1,5 @@
 ---
-title: สลับไปยังใบแจ้งหนี้ชำระเงิน (เช็ค/โอนสาย)-แบบดั้งเดิม WD
+title: สลับไปยังชำระเงินตามใบแจ้งหนี้ (เช็ค/โอนสาย)
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,14 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004168"
 - "7343"
-ms.openlocfilehash: 1be90771f994e832960383b1cb5e0bee8f5b08f8
-ms.sourcegitcommit: b561c339926fad609950ac92744c3cd91e0a68fa
+ms.openlocfilehash: c4c78d634cdef711423f573439c5091befedef34
+ms.sourcegitcommit: 04bf13605a30ad4a2218ad9e94dcffcee4cc9aa6
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 12/21/2020
-ms.locfileid: "49726163"
+ms.lasthandoff: 01/05/2021
+ms.locfileid: "49755422"
 ---
-# <a name="switch-to-invoice-pay-chequewire-transfer---legacy-wd"></a>สลับไปยังใบแจ้งหนี้ชำระเงิน (เช็ค/โอนสาย)-แบบดั้งเดิม WD
+# <a name="switch-to-pay-by-invoice-chequewire-transfer"></a>สลับไปยังชำระเงินตามใบแจ้งหนี้ (เช็ค/โอนสาย)
+
+เราพบวิธีแก้ไขปัญหาของคุณโดยยึดตามคำอธิบายปัญหาของคุณ ลูกค้าส่วนใหญ่สามารถแก้ไขปัญหาของตนเองได้หลังจากที่ทำตามเอกสารประกอบของเราแล้ว
 
 ถ้าคุณสลับไปยังชำระเงินตามใบแจ้งหนี้นั่นหมายความว่าคุณจะชำระบิลของคุณภายใน30วันของวันที่ออกใบแจ้งหนี้ เมื่อต้องการเข้าร่วมการชำระเงินสำหรับการสมัครใช้งาน Azure ของคุณโดยใช้ใบแจ้งหนี้ให้ส่งคำขอไปยังฝ่ายสนับสนุนของ Azure เมื่อคำขอของคุณได้รับการอนุมัติคุณสามารถสลับการสมัครใช้งานการชำระเงินผ่านใบแจ้งหนี้ใน [พอร์ทัล Azure](https://portal.azure.com/)ได้
 

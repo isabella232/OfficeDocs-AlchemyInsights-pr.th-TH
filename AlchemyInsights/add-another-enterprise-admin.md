@@ -13,14 +13,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004114"
 - "7425"
-ms.openlocfilehash: 436914e63e7fe28af371d1d50ff22a5e1b9d8b82
-ms.sourcegitcommit: b5f05809732ac148161ffdb7b8cb2348f101ecae
+ms.openlocfilehash: d5811b18e16a4b98cf507a79f212768c009b96b2
+ms.sourcegitcommit: 04bf13605a30ad4a2218ad9e94dcffcee4cc9aa6
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 12/17/2020
-ms.locfileid: "49715026"
+ms.lasthandoff: 01/05/2021
+ms.locfileid: "49755522"
 ---
 # <a name="add-another-enterprise-administrator---recommended-steps"></a>เพิ่มผู้ดูแลขององค์กรอื่น-ขั้นตอนที่แนะนำ
+
+เราพบวิธีแก้ไขปัญหาของคุณโดยยึดตามคำอธิบายปัญหาของคุณ ลูกค้าส่วนใหญ่สามารถแก้ไขปัญหาของตนเองได้หลังจากที่ทำตามเอกสารประกอบของเราแล้ว
 
 คุณสามารถมีผู้ดูแลระบบขององค์กรหลายคนในการลงทะเบียนขององค์กร
 
