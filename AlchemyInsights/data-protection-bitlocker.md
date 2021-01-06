@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "1802"
 - "9000220"
-ms.openlocfilehash: ab28162fcdf0a37060be3bdf15a78aceca7a48b1
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 0b305931a7279d8f1085c411cc9b47c991e1ee44
+ms.sourcegitcommit: 9c4b4853ff53f21c0177d48821846070bb00637c
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47731258"
+ms.lasthandoff: 01/06/2021
+ms.locfileid: "49768836"
 ---
 # <a name="enabling-bitlocker-encryption-with-intune"></a>การเปิดใช้งานการเข้ารหัสลับ Bitlocker ด้วย Intune
 
@@ -30,10 +30,12 @@ ms.locfileid: "47731258"
  
 **คำถามที่ถามบ่อย**
 
- Q: รุ่นของการเข้ารหัสลับอุปกรณ์ของ Windows ที่สนับสนุนโดยใช้นโยบายการป้องกันจุดสิ้นสุดหรือไม่<br>
- A: การตั้งค่าในนโยบายการป้องกันจุดสิ้นสุดของ Intune จะถูกนำไปใช้โดยใช้[CSP ของ Bitlocker](https://docs.microsoft.com/windows/client-management/mdm/bitlocker-csp) ไม่ใช่เวอร์ชันหรือรุ่นทั้งหมดของ Windows สนับสนุน Bitlocker CSP <br><br>
-      ในตอนนี้ Windows รุ่นต่อไปนี้ได้รับการสนับสนุน: Enterprise, Education, Mobile, mobile Enterprise และ Professional (รุ่น๑๘๐๙และเวอร์ชันที่ใหม่กว่า)
- 
+Q: รุ่นของการเข้ารหัสลับอุปกรณ์ของ Windows ที่สนับสนุนโดยใช้นโยบายการป้องกันจุดสิ้นสุดหรือไม่<br>
+A: การตั้งค่าในนโยบายการป้องกันจุดสิ้นสุดของ Intune จะถูกนำไปใช้โดยใช้[CSP ของ Bitlocker](https://docs.microsoft.com/windows/client-management/mdm/bitlocker-csp) ไม่ใช่เวอร์ชันหรือรุ่นทั้งหมดของ Windows สนับสนุน Bitlocker CSP <br><br>
+
+Q: Bitlocker สามารถเปิดใช้งานบนอุปกรณ์ได้โดยไม่จำเป็นต้องมีการโต้ตอบของผู้ใช้หรือไม่<br>
+A: ตราบใดที่จำเป็นต้องมีการ requisites ก่อนที่จำเป็นสามารถเปิดใช้งาน Bitlocker "การเข้ารหัสลับแบบ Silent" ผ่าน Intune ดูรายละเอียดของความต้องการของอุปกรณ์และการตั้งค่านโยบายตัวอย่างเพื่อเปิดใช้งานการเข้ารหัสลับแบบ silent ในเอกสารต่อไปนี้:[อย่าเปิดใช้งานการเข้ารหัสลับด้วย Bitlocker](https://docs.microsoft.com/mem/intune/protect/encrypt-devices#silently-enable-bitlocker-on-devices) <br><br>
+
 Q: ถ้าอุปกรณ์ถูกเข้ารหัสลับด้วย Bitlocker โดยใช้การตั้งค่าเริ่มต้นของระบบปฏิบัติการสำหรับการเข้ารหัสลับและความแรงของการเข้ารหัส (XTS-AES-๑๒๘) จะนำนโยบายที่มีการตั้งค่าที่แตกต่างกันโดยอัตโนมัติทริกเกอร์การเข้ารหัสลับของไดรฟ์ด้วยการตั้งค่าใหม่อีกครั้ง<br>
 A: ไม่ใช่ เมื่อต้องการนำการตั้งค่าการเข้ารหัสใหม่ไปใช้ไดรฟ์จะต้องถอดรหัสลับก่อน<br><br>
 **หมายเหตุ:** สำหรับอุปกรณ์ที่กำลังลงทะเบียนกับ Autopilot การเข้ารหัสลับอัตโนมัติที่จะเกิดขึ้นระหว่าง OOBE จะไม่ทริกเกอร์จนกว่าจะมีการประเมินนโยบาย Intune จนกว่าจะมีการประเมินนโยบายของ Intune ซึ่งจะทำให้การตั้งค่านโยบายถูกนำไปใช้แทนที่ค่าเริ่มต้นของระบบปฏิบัติการ
