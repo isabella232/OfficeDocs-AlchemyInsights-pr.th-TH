@@ -12,19 +12,25 @@ ms.collection: Adm_O365
 ms.custom:
 - "1802"
 - "9000220"
-ms.openlocfilehash: 0b305931a7279d8f1085c411cc9b47c991e1ee44
-ms.sourcegitcommit: 9c4b4853ff53f21c0177d48821846070bb00637c
+ms.openlocfilehash: 482c08b31e4d97ca5cc9ec6e35e309cb7536036d
+ms.sourcegitcommit: 58ac31a58c956a4d74f66bd4151a2311dc361b78
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 01/06/2021
-ms.locfileid: "49768836"
+ms.lasthandoff: 01/07/2021
+ms.locfileid: "49778212"
 ---
 # <a name="enabling-bitlocker-encryption-with-intune"></a>การเปิดใช้งานการเข้ารหัสลับ Bitlocker ด้วย Intune
 
- นโยบายการป้องกันจุดสิ้นสุดของ Intune สามารถใช้เพื่อกำหนดการตั้งค่าการเข้ารหัสลับของ Bitlocker สำหรับอุปกรณ์ Windows สำหรับข้อมูลเพิ่มเติมให้ดู[ที่การตั้งค่า Windows 10 (และเวอร์ชันที่ใหม่กว่า) เพื่อป้องกันอุปกรณ์โดยใช้ Intune](https://docs.microsoft.com/intune/endpoint-protection-windows-10#windows-encryption)
- 
+นโยบายการป้องกันจุดสิ้นสุดของ Intune สามารถใช้เพื่อกำหนดการตั้งค่าการเข้ารหัสลับของ Bitlocker สำหรับอุปกรณ์ Windows สำหรับข้อมูลเพิ่มเติมให้ดู[ที่การตั้งค่า Windows 10 (และเวอร์ชันที่ใหม่กว่า) เพื่อป้องกันอุปกรณ์โดยใช้ Intune](https://docs.microsoft.com/intune/endpoint-protection-windows-10#windows-encryption)
+
+นอกจากนโยบายการป้องกันจุดสิ้นสุดนอกจากนี้ยังมีรายงานการเข้ารหัสลับที่มีมุมมองที่ละเอียดยิ่งขึ้นของสถานะการเข้ารหัสลับสำหรับอุปกรณ์ รายงานนี้สามารถเข้าถึงได้จากพอร์ทัล MEM ภายใต้ **อุปกรณ์ > จอภาพ** จากนั้นภายใต้ **การกำหนดค่า** ให้เลือก [รายงานการเข้ารหัสลับ](https://endpoint.microsoft.com/#blade/Microsoft_Intune_DeviceSettings/DevicesMonitorMenu/encryptionReport)
+
+ถ้าคุณพบว่า Bitlocker ล้มเหลวในการเปิดใช้งานตามที่คาดไว้หรือว่าโปรไฟล์ที่ใช้ในการเปิดใช้งาน Bitlocker อยู่ในสถานะข้อผิดพลาดโปรดตรวจทานรายงานการเข้ารหัสลับเพื่อรับความเข้าใจที่ดียิ่งขึ้นว่าเหตุใดลักษณะการทำงานจึงเกิดขึ้น
+
+เมื่อต้องการค้นหารายละเอียดเกี่ยวกับวิธีการแปลรายงานรวมถึงค่าสถานะการเข้ารหัสลับต่างๆให้ดู[ที่ตรวจสอบการเข้ารหัสลับอุปกรณ์ด้วย Intune](https://docs.microsoft.com/mem/intune/protect/encryption-monitor)
+
 คุณควรทราบว่าอุปกรณ์รุ่นใหม่จำนวนมากที่ใช้ Windows 10 สนับสนุนการเข้ารหัสลับด้วย Bitlocker โดยอัตโนมัติซึ่งจะถูกทริกเกอร์โดยไม่มีแอปพลิเคชันของนโยบาย MDM การทำเช่นนี้อาจส่งผลกระทบต่อการใช้นโยบายถ้าการตั้งค่าที่ไม่ใช่ค่าเริ่มต้นถูกกำหนดค่า ดูคำถามที่ถามบ่อยต่อไปนี้สำหรับรายละเอียดเพิ่มเติม
- 
+
 สำหรับข้อมูลเพิ่มเติมเกี่ยวกับการแก้ไขปัญหาของ bitlocker ให้ดู[ที่แก้ไขปัญหานโยบาย bitlocker ใน Microsoft Intune](https://docs.microsoft.com/intune/protect/troubleshoot-bitlocker-policies)
  
  
