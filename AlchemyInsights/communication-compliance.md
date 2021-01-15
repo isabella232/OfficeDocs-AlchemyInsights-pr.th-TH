@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000549"
 - "3208"
-ms.openlocfilehash: 33f15f34b93e60d86c0ce185345f40fd0d3809f8
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: a002ca92a0ef8bf124ea66267392b30c35ebf95b
+ms.sourcegitcommit: 5e4c60a3f0eb51f4794b40c7a8802f3ad70c56b7
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47713870"
+ms.lasthandoff: 01/15/2021
+ms.locfileid: "49875158"
 ---
 # <a name="communication-compliance-in-microsoft-365"></a>การปฏิบัติตามข้อบังคับด้านการติดต่อสื่อสารใน Microsoft ๓๖๕
 
@@ -41,4 +41,7 @@ ms.locfileid: "47713870"
 - สิทธิ์การใช้งาน Office ๓๖๕ Enterprise E3 ที่มี add-on การปฏิบัติตามนโยบายขั้นสูง
 - การสมัครใช้งาน Office ๓๖๕ Enterprise E5
 
-ถ้าคุณไม่มีสิ่งใดข้างต้นและต้องการลองใช้การปฏิบัติตามข้อบังคับด้านการติดต่อสื่อสารให้**[ลงทะเบียนสำหรับเวอร์ชันทดลองใช้ของ Office ๓๖๕ Enterprise E5](https://go.microsoft.com/fwlink/p/?LinkID=698279)**
+ถ้าคุณไม่มีสิ่งใดข้างต้นและต้องการลองใช้การปฏิบัติตามข้อบังคับด้านการติดต่อสื่อสารให้ **[ลงทะเบียนสำหรับเวอร์ชันทดลองใช้ของ Office ๓๖๕ Enterprise E5](https://go.microsoft.com/fwlink/p/?LinkID=698279)**
+
+> [!NOTE]
+> อาจใช้เวลาถึง24ชั่วโมงสำหรับข้อความอีเมลที่จะประมวลผลอย่างสมบูรณ์ในนโยบาย การสื่อสารใน Microsoft team, Yammer และแพลตฟอร์มของบริษัทอื่นอาจใช้เวลาถึง๔๘ชั่วโมงในการดำเนินการอย่างสมบูรณ์ในนโยบาย
