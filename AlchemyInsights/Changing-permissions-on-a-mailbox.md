@@ -1,5 +1,5 @@
 ---
-title: การเปลี่ยนสิทธิ์ในกล่องจดหมาย
+title: การเปลี่ยนแปลงสิทธิ์ในกล่องจดหมาย
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,20 +11,20 @@ ROBOTS: NOINDEX, NOFOLLOW
 ms.custom:
 - "642"
 - "3500009"
-ms.openlocfilehash: 1e0dbe74a3b8dd25005f1eb82870efe9c4f7ccfc
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: bdcb04923b2ece136208e38b69ed7486ffcf7fb6
+ms.sourcegitcommit: 3f0abd54b4bd161bde22b9a7f86924a9dbb59684
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44502590"
+ms.lasthandoff: 01/15/2021
+ms.locfileid: "49880185"
 ---
-# <a name="changing-permissions-on-a-mailbox"></a>การเปลี่ยนสิทธิ์ในกล่องจดหมาย
+# <a name="changing-permissions-on-a-mailbox"></a>การเปลี่ยนแปลงสิทธิ์ในกล่องจดหมาย
 
-ถ้าผู้ใช้จําเป็นต้องเข้าถึงกล่องจดหมายอื่นที่ไม่ใช่ของตนเอง วิธีที่คุณกําหนดสิทธิ์เหล่านั้นขึ้นอยู่กับชนิดของกล่องจดหมาย หากผู้ใช้จําเป็นต้องเข้าถึง:
+ถ้าผู้ใช้ต้องการเข้าถึงกล่องจดหมายอื่นที่ไม่ใช่ของตนเองพวกเขาจำเป็นต้องได้รับสิทธิ์ในการทำงานกับกล่องจดหมายเหล่านั้น วิธีที่คุณมอบหมายสิทธิ์เหล่านั้นจะขึ้นอยู่กับชนิดของกล่องจดหมาย ถ้าผู้ใช้ต้องการเข้าถึง:
   
-- กล่องจดหมายของผู้ใช้อื่น ๆ - โปรดดูที่[ให้สิทธิ์กล่องจดหมายแก่ผู้ใช้อื่น](https://docs.microsoft.com/microsoft-365/admin/add-users/give-mailbox-permissions-to-another-user)
+- กล่องจดหมายของผู้ใช้อื่น-โปรดดู[ที่การให้สิทธิ์ในกล่องจดหมายแก่ผู้ใช้รายอื่น](https://docs.microsoft.com/microsoft-365/admin/add-users/give-mailbox-permissions-to-another-user)
     
-- กล่องจดหมายที่ใช้ร่วมกัน - โปรดดูที่[เพิ่มหรือเอาสมาชิกออกจากกล่องจดหมายที่ใช้ร่วมกัน](https://support.office.com/article/add-or-remove-members-from-a-shared-mailbox-a1cd0ae0-216c-4dc1-8171-bfacfbd4c1a7)
+- กล่องจดหมายที่แชร์-โปรดดู[กำหนดค่าการตั้งค่ากล่องจดหมายที่แชร์](https://docs.microsoft.com/microsoft-365/admin/email/configure-a-shared-mailbox#add-or-remove-members)
     
-ถ้าสิทธิ์ทํางานไม่ถูกต้องหลังจากที่คุณทําตามขั้นตอนข้างต้น แล้วไปที่ศูนย์การจัดการ Exchange และลองตั้งค่าสิทธิ์จากที่นั่น (ดู[จัดการสิทธิ์สําหรับผู้รับ](https://technet.microsoft.com/library/jj919240%28v=exchg.150%29.aspx))
+ถ้าสิทธิ์ทำงานไม่ถูกต้องหลังจากที่คุณทำตามขั้นตอนข้างต้นแล้วให้ไปที่ศูนย์การจัดการ Exchange แล้วลองตั้งค่าสิทธิ์จากที่นั่น (ดู [จัดการสิทธิ์สำหรับผู้รับ](https://technet.microsoft.com/library/jj919240%28v=exchg.150%29.aspx))
   
