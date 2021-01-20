@@ -12,15 +12,22 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 78695de0-7021-4900-a784-7cc782785f1d
-ms.openlocfilehash: 955797530f53d22c7c225ce0a32d686a00215219
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 53ddccaf9f688ecdeeab8ba21a0700733a4b61b4
+ms.sourcegitcommit: e378232f4c9ef4e962208100db752221e7bd2dd6
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47748263"
+ms.lasthandoff: 01/20/2021
+ms.locfileid: "49911786"
 ---
-# <a name="change-the-domain-for-microsoft-365-group"></a>เปลี่ยนโดเมนสำหรับกลุ่ม Microsoft ๓๖๕
+# <a name="change-the-domain-for-a-microsoft-365-group"></a>เปลี่ยนโดเมนสำหรับกลุ่ม Microsoft ๓๖๕
 
 ถ้าคุณต้องการเปลี่ยนโดเมนสำหรับกลุ่ม Microsoft ๓๖๕ระหว่างการสร้างให้ทำตามขั้นตอนใน[เลือกโดเมนที่จะใช้เมื่อสร้างกลุ่ม Microsoft ๓๖๕](https://docs.microsoft.com/microsoft-365/admin/create-groups/choose-domain-to-create-groups)
 
-หลังจากที่คุณสร้างกลุ่ม Microsoft ๓๖๕แล้วยังไม่มีวิธีการเปลี่ยนโดเมนในขณะนี้ วิธีเดียวคือการสร้างกลุ่ม Microsoft ๓๖๕ใหม่และลบกลุ่มเก่าถ้าจำเป็น (ที่อยู่อีเมลเพิ่มเติมสามารถเพิ่มได้ผ่านทาง[ศูนย์การจัดการ Exchange](https://outlook.office365.com/ecp)
+เมื่อต้องการเปลี่ยนโดเมนของกลุ่ม Microsoft ๓๖๕ที่มีอยู่ในฐานะผู้ดูแลระบบคุณสามารถนำทางไปยังศูนย์การจัดการ Microsoft ๓๖๕ https://admin.microsoft.com แล้วทำตามขั้นตอนต่อไปนี้:
+
+- เลือก **กลุ่ม** จากเมนูด้านซ้าย
+- ค้นหากลุ่ม M365 ที่คุณต้องการปรับเปลี่ยนแล้วเลือกแล้วคลิก **แก้ไข** ภายใต้ **ที่อยู่อีเมล** เมื่ออยู่บนแท็บ **ทั่วไป**
+- ในตอนนี้คุณสามารถเปลี่ยนโดเมนของที่อยู่อีเมลหลักและคุณยังสามารถเพิ่มนามแฝงอีเมลได้อีกด้วย
+
+> [!IMPORTANT]
+> กลุ่มการแจกจ่ายทั่วไปและกลุ่มความปลอดภัยที่เปิดใช้งานจดหมายจะช่วยให้คุณสามารถจัดการการตั้งค่าน้อยลงจากศูนย์การจัดการ M365, **กลุ่ม** ส่วน ถ้าคุณต้องการจัดการรายละเอียดเพิ่มเติมให้คลิกที่แท็บ **การตั้งค่า** เมื่อแก้ไขอย่างใดอย่างหนึ่งในศูนย์การจัดการ M365 แล้วเลือก **จัดการการตั้งค่าเพิ่มเติมในตัวเลือกศูนย์การจัดการ Exchange**
