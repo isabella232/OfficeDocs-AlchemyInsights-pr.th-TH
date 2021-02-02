@@ -1,5 +1,5 @@
 ---
-title: การเปลี่ยนแปลงการส่งกล่องจดหมายที่แชร์เป็นลักษณะการทำงาน
+title: การเปลี่ยนลักษณะการออนไลน์ของกล่องจดหมายที่แชร์
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -13,18 +13,18 @@ ms.custom:
 - "623"
 - "3500003"
 ms.assetid: 49fa4633-7c50-40cd-a064-608a21cb0476
-ms.openlocfilehash: 6bb54112e775068e567b8cd22313189222287202
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: f2cc1d4139fb017da2e483ca5cbb7ed14a44f65a
+ms.sourcegitcommit: 53e5caab697ebfb434ccef3ef98b8f2bee579b41
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47793669"
+ms.lasthandoff: 02/02/2021
+ms.locfileid: "50075880"
 ---
-# <a name="changing-shared-mailbox-send-as-behavior"></a>การเปลี่ยนแปลงการส่งกล่องจดหมายที่แชร์เป็นลักษณะการทำงาน
+# <a name="changing-shared-mailbox-send-as-behavior"></a>การเปลี่ยนลักษณะการออนไลน์ของกล่องจดหมายที่แชร์
 
-ตามค่าเริ่มต้นข้อความที่ส่งจากกล่องจดหมายที่แชร์จะไม่ถูกบันทึกไปยังโฟลเดอร์รายการที่ถูกส่งของกล่องจดหมายที่แชร์ แทนพวกเขาจะถูกบันทึกไปยังโฟลเดอร์รายการที่ถูกส่งของบุคคลที่ส่งข้อความ
+ตามค่าเริ่มต้น ข้อความที่ส่งจากกล่องจดหมายที่แชร์จะไม่ถูกบันทึกในโฟลเดอร์รายการที่ส่งของกล่องจดหมายที่แชร์ แต่จะถูกบันทึกไปยังโฟลเดอร์รายการที่ถูกส่งของบุคคลที่ส่งข้อความแทน
   
-ถ้าคุณต้องการให้สมาชิกทั้งหมดเห็นอีเมลที่ส่งในศูนย์การจัดการ Microsoft ๓๖๕ให้แก้ไขรายละเอียดของกล่องจดหมายที่แชร์แล้วเลือกแก้ไข**รายการที่ถูกส่ง** \> **Edit**
+ถ้าคุณต้องการให้สมาชิกทุกคนเห็นอีเมลที่ส่ง ในศูนย์การจัดการ Microsoft 365 ให้แก้ไขรายละเอียดกล่องจดหมายที่แชร์ แล้วเลือก **แก้ไข** \> **รายการที่** ส่ง
   
-เมื่อต้องการอ่านเพิ่มเติมให้ดู[ที่สร้างกล่องจดหมายที่แชร์](https://docs.microsoft.com/microsoft-365/admin/email/create-a-shared-mailbox)
+เมื่อต้องการอ่านเพิ่มเติม ให้ดู กําหนด [การตั้งค่ากล่องจดหมายที่](https://docs.microsoft.com/microsoft-365/admin/email/configure-a-shared-mailbox#allow-everyone-to-see-the-sent-email-the-replies)แชร์
   

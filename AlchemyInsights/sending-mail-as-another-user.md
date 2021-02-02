@@ -13,15 +13,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "6439"
 - "3500009"
-ms.openlocfilehash: e2ce7065d857455b85fc2e4595d1f5c915ca85b2
-ms.sourcegitcommit: 78939b01579b626b147d356045a37aec1170c948
+ms.openlocfilehash: 8bc35426bd1b65ba40fb6dc124df2a5f8bfb6679
+ms.sourcegitcommit: 53e5caab697ebfb434ccef3ef98b8f2bee579b41
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "48194190"
+ms.lasthandoff: 02/02/2021
+ms.locfileid: "50075844"
 ---
 # <a name="sending-mail-as-another-user"></a>การส่งจดหมายเป็นผู้ใช้อื่น
 
-ก่อนที่*User1*จะสามารถส่งอีเมลเป็น*User2* *User1*จะต้องได้รับสิทธิ์ในกล่องจดหมายของ*User2* เมื่อต้องการเรียนรู้วิธีการทำสิ่งนี้โปรดดูที่การให้สิทธิ์ในกล่องจดหมายแก่ผู้ใช้รายอื่น
+Before *User1* will be able to send email as *User2*, *User1* will need to be given permissions on *User2*'s mailbox. เมื่อต้องการเรียนรู้วิธีการนี้ โปรดดูที่ (มอบสิทธิ์ในกล่องจดหมายให้กับผู้ใช้อื่น)[ https://docs.microsoft.com/microsoft-365/admin/add-users/give-mailbox-permissions-to-another-user ]
 
-หลังจากที่ได้รับสิทธิ์ (ซึ่งอาจใช้เวลาประมาณ30นาที)- *User1* จะสามารถส่งเป็น *User2* ได้โดยทำตามขั้นตอนที่อธิบายไว้ในการสร้างหรือตอบกลับข้อความอีเมลในนามของบุคคลอื่น
+หลังจากได้รับสิทธิ์ (ซึ่งอาจใช้เวลาประมาณ 30 นาทีเพื่อให้มีผล) - ผู้ใช้ *1* จะสามารถส่งเป็น *ผู้ใช้2* โดยปฏิบัติตามขั้นตอนที่อธิบายไว้ใน สร้าง หรือตอบกลับข้อความอีเมลในนามของบุคคลอื่น
