@@ -1,5 +1,5 @@
 ---
-title: การเปิดใช้งาน Office โดยใช้การอนุญาตให้ใช้งานบนอุปกรณ์
+title: การเปิดใช้งาน Office โดยใช้สิทธิ์การใช้งานบนอุปกรณ์
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -12,24 +12,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001420"
 - "3433"
-ms.openlocfilehash: ae39e70780607c55dac1d3fac13b41910397d2e7
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: b82eeb6c716b180cf45dbae96dc4e508a977a517
+ms.sourcegitcommit: d3db72afc2f31ac9f1e78738937a51f40fb4b5fc
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47697900"
+ms.lasthandoff: 02/03/2021
+ms.locfileid: "50094056"
 ---
-# <a name="activating-office-using-device-based-licensing"></a>การเปิดใช้งาน Office โดยใช้การอนุญาตให้ใช้งานบนอุปกรณ์
+# <a name="activating-office-using-device-based-licensing"></a>การเปิดใช้งาน Office โดยใช้สิทธิ์การใช้งานบนอุปกรณ์
+
+สิทธิ์การใช้งานตามอุปกรณ์ของ Microsoft 365 Apps for Enterprise จะพร้อมใช้งานเป็นสิทธิ์การใช้งานเฉพาะลูกค้าเชิงพาณิชย์และลูกค้าสถาบันการศึกษาบางรายเท่านั้น ดูข้อมูลโดยละเอียดได้: การให้ [สิทธิ์การใช้งานตามอุปกรณ์ของแอป Microsoft 365 For Enterprise](https://docs.microsoft.com/deployoffice/device-based-licensing)
+
+เมื่อต้องการเปิดใช้งานแอป Microsoft 365 for enterprise โดยใช้สิทธิ์การใช้งานตามอุปกรณ์ ให้ดู:
+
+- [ความต้องการในการใช้สิทธิ์การใช้งานตามอุปกรณ์ของ Microsoft 365 Apps for Enterprise](https://docs.microsoft.com/deployoffice/device-based-licensing#requirements-for-using-device-based-licensing-for-microsoft-365-apps-for-enterprise)
+- [ขั้นตอนในการกําหนดค่าสิทธิ์การใช้งานตามอุปกรณ์ของ Microsoft 365 Apps for Enterprise](https://docs.microsoft.com/deployoffice/device-based-licensing#steps-to-configure-device-based-licensing-for-microsoft-365-apps-for-enterprise)
+
+สําหรับแนวทางการแก้ไขปัญหา ให้ดู [แก้ไขปัญหาการให้สิทธิ์การใช้งานบนอุปกรณ์สําหรับแอป Microsoft 365 สําหรับองค์กร](https://docs.microsoft.com/deployoffice/device-based-licensing#troubleshoot-device-based-licensing-for-microsoft-365-apps-for-enterprise)
 
 > [!NOTE]
-> การ [เปิดใช้งานอุปกรณ์](https://aka.ms/officedba) Office ที่ใช้สำหรับลูกค้าการศึกษาของสหรัฐอเมริกาจะไม่ได้รับการสนับสนุนในขณะนี้ เราขอแนะนำให้องค์กรวางแผนสำหรับสิทธิ์การใช้งานแอป Microsoft ๓๖๕สำหรับการศึกษา (อุปกรณ์) ใหม่สำหรับลูกค้าการศึกษา
-
-เมื่อต้องการเปิดใช้งาน Office โดยใช้การให้สิทธิ์การใช้งานโดยใช้อุปกรณ์คุณจำเป็นต้องมีสิทธิ์การใช้งาน add-on ของ Microsoft ๓๖๕ for Education (อุปกรณ์) ที่พร้อมใช้งานสำหรับลูกค้าการศึกษาเท่านั้นและพร้อมใช้งานผ่านทางการลงทะเบียนสำหรับโซลูชันการศึกษา (EES) เท่านั้น โปรดดูที่[ข้อกำหนดสำหรับการใช้การอนุญาตให้ใช้งานโดยใช้อุปกรณ์สำหรับ Microsoft ๓๖๕ Apps สำหรับองค์กร](https://docs.microsoft.com/deployoffice/device-based-licensing#requirements-for-using-device-based-licensing-for-microsoft-365-apps-for-enterprise)
-
-
-สำหรับข้อมูลโดยละเอียดเกี่ยวกับการตั้งค่าให้ดูที่:
-
-- [ขั้นตอนในการกำหนดค่าสิทธิ์การใช้งานโดยใช้อุปกรณ์สำหรับแอป Microsoft ๓๖๕สำหรับองค์กร](https://docs.microsoft.com/deployoffice/device-based-licensing#steps-to-configure-device-based-licensing-for-microsoft-365-apps-for-enterprise)
-- [จัดการสิทธิ์การใช้งานสำหรับอุปกรณ์](https://docs.microsoft.com/microsoft-365/admin/misc/manage-licenses-for-devices)
-
-สำหรับคำแนะนำในการแก้ไขปัญหาให้ดูที่การ[แก้ไขปัญหาการอนุญาตให้ใช้งานบนอุปกรณ์สำหรับ Microsoft ๓๖๕ Apps สำหรับองค์กร](https://docs.microsoft.com/deployoffice/device-based-licensing#troubleshoot-device-based-licensing-for-microsoft-365-apps-for-enterprise)
+> ถ้าแอป Microsoft 365 ได้รับการติดตั้งและเปิดใช้งานแล้วด้วยสิทธิ์การใช้งานการสมัครใช้งานแบบใช้ผู้ใช้หรือการเปิดใช้งานคอมพิวเตอร์ที่แชร์ คุณจะต้องรีเซ็ตสถานะสิทธิ์การใช้งานบนอุปกรณ์ก่อนที่จะเปลี่ยนเป็นสิทธิ์การใช้งานบนอุปกรณ์ เมื่อต้องการรีเซ็ตสถานะการเปิดใช้งาน ให้ดู รีเซ็ต [แอป Microsoft 365 สถานะการเปิดใช้งานขององค์กร](https://docs.microsoft.com/office/troubleshoot/activation/reset-office-365-proplus-activation-state)
