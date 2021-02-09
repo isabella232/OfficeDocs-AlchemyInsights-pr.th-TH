@@ -1,37 +1,35 @@
 ---
-title: ฉันจะเปลี่ยนจากการชำระเงินด้วยบัตรเครดิตเป็นใบแจ้งหนี้ได้อย่างไร
+title: ฉันจะเปลี่ยนการบัตรเครดิตเป็นใบแจ้งหนี้ได้อย่างไร
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.collection: Adm_O365
 ms.custom:
+- commerce
 - "433"
 - "1500001"
-ms.assetid: c8f2a1a1-9704-4d08-ba60-d836b9a5f981
-ms.openlocfilehash: 71f0026751fd9f4233c0de51519076cb6a0bce63
-ms.sourcegitcommit: fc62091696591175280c02c29876530d485c7871
+ms.openlocfilehash: 47c8a629f770f21bd508968e4db3e40d3d573506
+ms.sourcegitcommit: 43b6305cea25cc87ec2226a4f7de1f452671d762
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 09/26/2020
-ms.locfileid: "48286761"
+ms.lasthandoff: 02/09/2021
+ms.locfileid: "50152325"
 ---
-# <a name="how-do-i-change-from-credit-card-payments-to-invoice"></a><span data-ttu-id="83bf3-102">ฉันจะเปลี่ยนจากการชำระเงินด้วยบัตรเครดิตเป็นใบแจ้งหนี้ได้อย่างไร</span><span class="sxs-lookup"><span data-stu-id="83bf3-102">How do I change from credit card payments to invoice?</span></span>
+# <a name="how-do-i-change-from-credit-card-payments-to-invoice"></a><span data-ttu-id="fcac4-102">ฉันจะเปลี่ยนการบัตรเครดิตเป็นใบแจ้งหนี้ได้อย่างไร</span><span class="sxs-lookup"><span data-stu-id="fcac4-102">How do I change from credit card payments to invoice?</span></span>
 
 > [!NOTE]
-> <span data-ttu-id="83bf3-103">ตัวเลือกในการชำระเงินตามใบแจ้งหนี้จะพร้อมใช้งานก็ต่อเมื่อค่าใช้จ่ายการสมัครใช้งานของคุณเป็นจำนวนที่แน่นอน (ซึ่งแตกต่างกันไปตามตำแหน่งที่ตั้งของบริการ)</span><span class="sxs-lookup"><span data-stu-id="83bf3-103">The option to pay by invoice is only available if your subscription costs over a certain amount (which varies by service location).</span></span> <span data-ttu-id="83bf3-104">คุณอาจจำเป็นต้องมีการตรวจสอบเครดิตสำหรับการชำระเงินในใบแจ้งหนี้ที่มีขนาดใหญ่ขึ้น</span><span class="sxs-lookup"><span data-stu-id="83bf3-104">A credit check might be required for larger invoice payments.</span></span> <span data-ttu-id="83bf3-105">เมื่อต้องการเรียนรู้เพิ่มเติมให้ดูที่การ[ชำระเงินสำหรับการสมัครใช้งานของคุณ](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/pay-for-your-subscription)</span><span class="sxs-lookup"><span data-stu-id="83bf3-105">To learn more, see [Pay for your subscription](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/pay-for-your-subscription).</span></span>
+> <span data-ttu-id="fcac4-103">คุณสามารถเปลี่ยนได้เพียงการหักเงินตามใบแจ้งหนี้เท่านั้น ถ้าค่าใช้จ่ายการสมัครใช้งานของคุณสูงกว่าจํานวนที่แน่นอน</span><span class="sxs-lookup"><span data-stu-id="fcac4-103">You can only change to paying by invoice if your subscription costs above a certain amount.</span></span> <span data-ttu-id="fcac4-104">ก่อนอื่นคุณต้องจ่ายยอดคงเหลือใดๆ บนบัตรเครดิตหรือบัตรเดบิตหรือบัญชีธนาคารก่อนที่คุณจะสามารถเปลี่ยนเป็นการหักเงินตามใบแจ้งหนี้ได้</span><span class="sxs-lookup"><span data-stu-id="fcac4-104">You must first pay any outstanding balance on the credit or debit card or bank account before you can change to paying by invoice.</span></span>
 
-1. <span data-ttu-id="83bf3-106">ในศูนย์การจัดการให้ไปที่หน้าการ**เรียกเก็บเงิน**  >  [ของผลิตภัณฑ์ของคุณ](https://go.microsoft.com/fwlink/p/?linkid=842054)</span><span class="sxs-lookup"><span data-stu-id="83bf3-106">In the admin center, go to the **Billing** > [Your products](https://go.microsoft.com/fwlink/p/?linkid=842054) page.</span></span>
-2. <span data-ttu-id="83bf3-107">ค้นหาการสมัครใช้งานที่คุณต้องการเปลี่ยนแปลง</span><span class="sxs-lookup"><span data-stu-id="83bf3-107">Find the subscription that you want to change.</span></span> <span data-ttu-id="83bf3-108">ภายใต้การ**เรียกเก็บเงิน**ที่อยู่ถัดจากวิธีการชำระเงินให้เลือก**แก้ไข**</span><span class="sxs-lookup"><span data-stu-id="83bf3-108">Under **Billing**, next to the payment method, select **Edit**.</span></span>
-3. <span data-ttu-id="83bf3-109">ถัดจากวิธีการชำระเงินที่มีอยู่ของคุณให้เลือก**เปลี่ยน**</span><span class="sxs-lookup"><span data-stu-id="83bf3-109">Next to your existing payment method, select **Change**.</span></span>
-4. <span data-ttu-id="83bf3-110">จากเมนูดรอปดาวน์ให้เลือก**ใบแจ้งหนี้หรือการโอนสาย**</span><span class="sxs-lookup"><span data-stu-id="83bf3-110">From the drop-down menu, select **Invoice or wire transfer**.</span></span>
-5. <span data-ttu-id="83bf3-111">ใส่ชื่อที่อยู่และหมายเลขโทรศัพท์ของคุณ</span><span class="sxs-lookup"><span data-stu-id="83bf3-111">Enter your name, address, and phone number.</span></span> <span data-ttu-id="83bf3-112">คุณยังสามารถเพิ่มหมายเลข PO เพื่อแสดงบนใบแจ้งหนี้ได้อีกด้วย</span><span class="sxs-lookup"><span data-stu-id="83bf3-112">You can also add a PO number to display on the invoice.</span></span>
-6. <span data-ttu-id="83bf3-113">เมื่อคุณทำเสร็จแล้วให้เลือก**บันทึก**</span><span class="sxs-lookup"><span data-stu-id="83bf3-113">When you're finished, select **Save**.</span></span>
-7. <span data-ttu-id="83bf3-114">ตรวจสอบว่าวิธีการชำระเงินที่เลือกถูกต้องแล้วเลือก**บันทึก**</span><span class="sxs-lookup"><span data-stu-id="83bf3-114">Verify that the selected payment method is correct, then select **Save**.</span></span>
+1. <span data-ttu-id="fcac4-105">ในศูนย์การจัดการ **ให้ไปที่หน้า**  >  [การเรียกเก็บเงินผลิตภัณฑ์](https://go.microsoft.com/fwlink/p/?linkid=842054)ของคุณ</span><span class="sxs-lookup"><span data-stu-id="fcac4-105">In the admin center, go to the **Billing** > [Your products](https://go.microsoft.com/fwlink/p/?linkid=842054) page.</span></span>
+2. <span data-ttu-id="fcac4-106">บนแท็บ **ผลิตภัณฑ์** ให้ค้นหาการสมัครใช้งานที่คุณต้องการจะจ่ายด้วยวิธีการจ่ายเงินอื่น</span><span class="sxs-lookup"><span data-stu-id="fcac4-106">On the **Products** tab, find the subscription that you want to pay for with the alternate payment method.</span></span>
+3. <span data-ttu-id="fcac4-107">เลือก **การแอคชัน** เพิ่มเติม (จุดสามจุด) แล้วเลือก **แทนที่วิธีการเงิน**</span><span class="sxs-lookup"><span data-stu-id="fcac4-107">Select **More actions** (three dots), then select **Replace payment method**.</span></span>
+4. <span data-ttu-id="fcac4-108">ในบานหน้าต่าง **แทนที่วิธีการจ่ายเงิน** ให้เลือก **เพิ่มวิธีการเงิน**</span><span class="sxs-lookup"><span data-stu-id="fcac4-108">In the **Replace payment method** pane, select **Add payment method**.</span></span>
+5. <span data-ttu-id="fcac4-109">ในบานหน้าต่าง **เพิ่มวิธีการจ่ายเงิน** ให้เลือก **ใบแจ้งหนี้หรือการโอนเงิน** ผ่านธนาคาร</span><span class="sxs-lookup"><span data-stu-id="fcac4-109">In the **Add a payment method** pane, select **Invoice or wire transfer**.</span></span>
+6. <span data-ttu-id="fcac4-110">ใส่ชื่อ ที่อยู่ และหมายเลขโทรศัพท์ของคุณ</span><span class="sxs-lookup"><span data-stu-id="fcac4-110">Enter your name, address, and phone number.</span></span> <span data-ttu-id="fcac4-111">คุณยังสามารถเพิ่มหมายเลข PO เพื่อแสดงบนใบแจ้งหนี้</span><span class="sxs-lookup"><span data-stu-id="fcac4-111">You can also add a PO number to display on the invoice.</span></span>
+7. <span data-ttu-id="fcac4-112">เมื่อเสร็จแล้ว ให้เลือก **บันทึก**</span><span class="sxs-lookup"><span data-stu-id="fcac4-112">When you're finished, select **Save**.</span></span>
 
-<span data-ttu-id="83bf3-115">เมื่อต้องการเรียนรู้เพิ่มเติมให้ดู[เปลี่ยนวิธีการชำระเงินของคุณ](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/change-payment-method)</span><span class="sxs-lookup"><span data-stu-id="83bf3-115">To learn more, see [Change your payment method](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/change-payment-method).</span></span>
+<span data-ttu-id="fcac4-113">หากต้องการเรียนรู้เพิ่มเติม [โปรดดูวิธีการจ่ายค่าสมัครใช้งาน](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/pay-for-your-subscription)ของคุณ</span><span class="sxs-lookup"><span data-stu-id="fcac4-113">To learn more, see [How to pay for your subscription](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/pay-for-your-subscription).</span></span>
