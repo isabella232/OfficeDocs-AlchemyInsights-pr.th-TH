@@ -1,35 +1,37 @@
 ---
-title: คำถามที่ถามบ่อยเกี่ยวกับการชำระ
-ms.author: pebaum
-author: pebaum
-manager: mnirkhe
+title: Payment FAQ
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
-ms.collection: Adm_O365
 ms.custom:
+- commerce
 - "9001669"
 - "5128"
-ms.openlocfilehash: ef147642ac058892fb55e6384c196b24c78c57fb
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 6368b0c19b84cfb9b55de2993a7beadd32d383fa
+ms.sourcegitcommit: 43b6305cea25cc87ec2226a4f7de1f452671d762
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47662407"
+ms.lasthandoff: 02/09/2021
+ms.locfileid: "50152556"
 ---
-# <a name="payment-faq"></a>คำถามที่ถามบ่อยเกี่ยวกับการชำระ
+# <a name="payment-faq"></a>Payment FAQ
 
-จัดการการชำระเงินใน**ศูนย์การจัดการ Microsoft ๓๖๕** 
+จัดการการจ่ายเงินใน **ศูนย์การจัดการ Microsoft 365**
 
-- ไปที่การ **เรียกเก็บเงิน > [ผลิตภัณฑ์ของคุณ](https://go.microsoft.com/fwlink/p/?linkid=842054)** เพื่อกำหนดหรือเปลี่ยนแปลงวิธีการชำระเงินของการสมัครใช้งาน
-- ไปที่การ **เรียกเก็บเงิน > [วิธีการชำระเงิน](https://go.microsoft.com/fwlink/p/?linkid=2018806)** เพื่อเพิ่ม/อัปเดต/ลบวิธีการชำระเงิน
+- ไปที่หน้า **การเรียกเก็บเงิน> [ผลิตภัณฑ์ของคุณ](https://go.microsoft.com/fwlink/p/?linkid=842054)** เพื่อกําหนดหรือเปลี่ยนแปลงวิธีการจ่ายเงินของการสมัครใช้งาน
+- ไปที่ **วิธี> [การเรียกเก็บเงิน](https://go.microsoft.com/fwlink/p/?linkid=2018806)** เพื่อเพิ่ม อัปเดต แทนที่ หรือลบวิธีการเงิน
 
-- **วิธีการชำระเงิน** -ถ้าชำระเงินด้วยบัตรเครดิตหรือบัญชีธนาคารวิธีการชำระเงินที่เกี่ยวข้องกับการสมัครใช้งานของคุณจะถูกเรียกเก็บเงินภายในไม่กี่วันหลังจากที่มีการสร้างใบเรียกเก็บเงิน ถ้าการชำระเงินล้มเหลวให้อัปเดตวิธีการชำระเงินของคุณ สำหรับข้อมูลเพิ่มเติมให้ดูที่[จัดการวิธีการชำระเงิน](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods)
+- **วิธีการการ** ชเงิน - ถ้าการหักเงินด้วยบัตรเครดิตหรือบัญชีธนาคาร วิธีการเงินที่เชื่อมโยงกับการสมัครใช้งานของคุณจะถูกเรียกเก็บเงินภายในสองสามวันหลังจากสร้างใบเรียกเก็บเงิน ถ้าการ Payment ล้มเหลว ให้อัปเดตวิธีการเงินของคุณ ดูข้อมูลเพิ่มเติมได้ที่ จัดการ[วิธีการเงิน](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods)
 
-- การ**แจ้งเตือนที่เลยวันครบกำหนด**-การชำระเงินสามารถปฏิเสธได้ด้วยเหตุผลหลายประการรวมถึงเมื่อบัตรเครดิตหมดอายุแล้ว คุณสามารถใช้ฟีเจอร์การ **ชำระยอดคงเหลือ** ได้ตลอดเวลาเพื่อเปลี่ยนข้อมูลบัตรเครดิตของคุณและส่งการชำระเงินทันที สำหรับข้อมูลเพิ่มเติมให้ดู [ที่เกิดอะไรขึ้นถ้าบัตรเครดิตของฉันถูกปฏิเสธและชำระเงินของฉันเลยวันที่ครบกำหนด](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/pay-for-your-subscription?view=o365-worldwide#what-if-my-credit-card-was-declined-and-my-payment-is-past-due) **สิ่งสำคัญ**: หลังจากที่คุณได้อัปเดตวิธีการชำระเงินของคุณแล้วคุณยังอาจพบการแจ้งเตือนที่เลยวันครบกำหนดหรือการชำระเงินที่ถูกปฏิเสธถ้าคุณยังไม่ได้เชื่อมโยงวิธีการชำระเงินกับการสมัครใช้งานของคุณ คุณสามารถเปลี่ยนวิธีการชำระเงินสำหรับการสมัครใช้งานเดียวหรือหลายการสมัครใช้งานได้ สำหรับข้อมูลเพิ่มเติมให้ดูที่[จัดการวิธีการชำระเงิน](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods?view=o365-worldwide)
+- **การแจ้งเกี่ยวกับวันครบ** กําหนด - สามารถปฏิเสธการชเงินได้ด้วยเหตุผลหลายประการ รวมถึงเมื่อบัตรเครดิตหมดอายุ คุณสามารถใช้ฟีเจอร์ **การตั้งค่ายอดดุล** เมื่อใดก็ได้เพื่อเปลี่ยนข้อมูลบัตรเครดิตของคุณ แล้วส่งการเงินอีกครั้งทันที หากต้องการข้อมูลเพิ่มเติม ให้ดู [จะเกิดอะไรขึ้นถ้าฉันมียอดคงค้าง](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/pay-for-your-subscription#what-if-i-have-an-outstanding-balance)
 
-- **ความถี่ในการชำระเงินและการเรียกเก็บเงิน** จะถูกสร้างขึ้นเป็นรายเดือนหรือรายปีขึ้นอยู่กับความถี่ในการเรียกเก็บเงินที่เลือกเมื่อเช็คเอาท์ การทำเช่นนี้สามารถเปลี่ยนแปลงได้ตลอดเวลา สำหรับข้อมูลเพิ่มเติมให้ดู[ที่เปลี่ยนความถี่ในการเรียกเก็บเงินของคุณ](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/change-payment-frequency)
+    **สิ่ง** สําคัญ: หลังจากที่คุณได้อัปเดตวิธีการช้เงินของคุณแล้ว คุณยังอาจประสบปัญหาการครบกําหนดหรือการแจ้งเตือนการถูกปฏิเสธการช้เงินหากคุณยังไม่ได้เชื่อมโยงวิธีการช้เงินกับการสมัครใช้งานของคุณ คุณสามารถเปลี่ยนวิธีการจ่ายเงินของการสมัครใช้งานเดียวหรือหลายรายการได้ ดูข้อมูลเพิ่มเติมได้ที่ จัดการ[วิธีการเงิน](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods)
 
-สำหรับคำแนะนำที่สมบูรณ์ในการชำระเงินสำหรับการสมัครใช้งานของคุณให้ดูที่การ [ชำระเงินสำหรับการสมัคร](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/pay-for-your-subscription?view=o365-worldwide)ใช้งานของคุณ
+- **ความถี่ในการการจ่ายเงิน** และการเรียกเก็บเงิน - ระบบจะสร้างใบเรียกเก็บเงินรายเดือนหรือรายปี ขึ้นอยู่กับความถี่ในการเรียกเก็บเงินที่เลือกที่เช็คเอาท์ ซึ่งสามารถเปลี่ยนแปลงได้ตลอดเวลา ดูข้อมูลเพิ่มเติมได้ที่ เปลี่ยน [ความถี่ในการเรียกเก็บเงิน](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/change-payment-frequency)ของคุณ
+
+ดูคู่มือฉบับสมบูรณ์เกี่ยวกับการจ่ายค่าสมัครใช้งานของคุณดู [วิธีการจ่ายค่าสมัคร](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/pay-for-your-subscription)ใช้งานของคุณ

@@ -1,38 +1,36 @@
 ---
-title: เปลี่ยนวิธีการชำระเงิน
-ms.author: pebaum
-author: pebaum
-manager: mnirkhe
+title: เปลี่ยนวิธีการจ่ายเงิน
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
-ms.collection: Adm_O365
 ms.custom:
+- commerce
 - "9002612"
 - "5073"
-ms.openlocfilehash: f1076fdb94e051bb72b719ee5c8401dd49ce44da
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 3c72263cacd2f03f1970fc520ac624a280518a5f
+ms.sourcegitcommit: 43b6305cea25cc87ec2226a4f7de1f452671d762
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47681786"
+ms.lasthandoff: 02/09/2021
+ms.locfileid: "50152613"
 ---
-# <a name="change-payment-method-fromto"></a>เปลี่ยนวิธีการชำระเงินจาก/ถึง
+# <a name="change-payment-method-fromto"></a>เปลี่ยนวิธีการเงินจาก/เป็น
 
 1. **เปลี่ยนจากใบแจ้งหนี้เป็นบัตรเครดิตหรือบัญชีธนาคาร**
 
-    - เมื่อคุณเปลี่ยนจากการชำระเงินโดยใช้ใบแจ้งหนี้เมื่อต้องการชำระเงินด้วยบัตรเครดิตหรือบัญชีธนาคารเราจะสร้างการสมัครใช้งานใหม่โดยอัตโนมัติให้คุณย้ายผู้ใช้ของคุณไปยังการสมัครใช้งานใหม่แล้วปิดใช้งานการสมัครใช้งานเดิมของคุณ ไม่ต้องกังวลผู้ใช้ของคุณจะไม่เห็นการหยุดชะงักในบริการและข้อมูลทั้งหมดของพวกเขาจะพร้อมใช้งานผ่านการสมัครใช้งานใหม่ 
-
-    - ทำตามขั้นตอนที่บันทึกไว้ใน[เปลี่ยนจากใบแจ้งหนี้เป็นบัตรเครดิตหรือบัญชีธนาคาร](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/change-payment-method?view=o365-worldwide#change-from-invoice-to-credit-card-or-bank-account)
+    - คุณไม่สามารถเปลี่ยนจากการจ่ายเงินตามใบแจ้งหนี้เป็นการชเงินด้วยวิธีการจ่ายเงินอื่นโดยอัตโนมัติได้ แต่คุณต้อง [ซื้อการสมัครใช้งานอื่น](https://docs.microsoft.com/microsoft-365/commerce/try-or-buy-microsoft-365#buy-a-different-subscription) ที่ชําระด้วยบัตรเครดิตหรือบัตรเดบิตหรือบัญชีธนาคาร ย้ายผู้ใช้ [ทั้งหมด](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/move-users-different-subscription)ไปยังการสมัครใช้งานใหม่ [แล้วยกเลิกการสมัครใช้งาน](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription)เก่า
 
 2. **เปลี่ยนจากบัตรเครดิตหรือบัญชีธนาคารเป็นใบแจ้งหนี้**
 
-    - คุณสามารถเปลี่ยนเป็นชำระเงินตามใบแจ้งหนี้ได้เฉพาะเมื่อการสั่งซื้อของคุณอยู่เหนือปริมาณที่แน่นอนเท่านั้น ถ้าคุณไม่ตรงตามความต้องการคุณจะเห็นข้อความ "ปริมาณการสั่งซื้อของคุณไม่ใหญ่พอที่จะมีคุณสมบัติสำหรับใบแจ้งหนี้ที่มีการตรวจสอบสาย"
+    - คุณสามารถเปลี่ยนการใบแจ้งหนี้ได้เฉพาะเมื่อการสั่งซื้อของคุณมีมากกว่าปริมาณที่แน่นอนเท่านั้น ถ้าคุณไม่ตรงตามความต้องการ คุณจะเห็นข้อความ "ปริมาณการสั่งซื้อของคุณไม่เพียงพอที่จะรับรองคุณสมบัติใบแจ้งหนี้ด้วยเช็คสายไฟ"
 
-    - ถ้าปริมาณการสั่งซื้อของคุณสูงเกินไปอาจจำเป็นต้องมีการตรวจสอบเครดิต ถ้าเป็นเช่นนั้นคุณจะเห็นข้อความ "ไม่มีสิทธิ์ในการเปลี่ยนไปเป็นใบแจ้งหนี้ การสั่งซื้อของคุณจำเป็นต้องมีการตรวจสอบเครดิต " ในกรณีนี้คุณจะเปลี่ยนเป็นชำระเงินตามใบแจ้งหนี้ด้วยตนเอง
+    - ถ้าปริมาณการสั่งซื้อของคุณสูงเกินไป อาจต้องใช้การตรวจสอบเครดิต หากเป็นดังนั้น คุณจะเห็นข้อความ "ไม่มีสิทธิ์ในการเปลี่ยนเป็นใบแจ้งหนี้ ใบสั่งซื้อของคุณต้องการการตรวจสอบเครดิต" ในกรณีนี้ คุณเปลี่ยนแปลงการจ่ายค่าบริการตามใบแจ้งหนี้ด้วยตนเอง
 
-    - ทำตามขั้นตอนที่บันทึกไว้ใน [เปลี่ยนจากบัตรเครดิตหรือบัญชีธนาคารเป็นใบแจ้งหนี้](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/change-payment-method?view=o365-worldwide#change-from-credit-card-or-bank-account-to-invoice) เพื่อให้การเปลี่ยนแปลงด้วยตนเองเสร็จสมบูรณ์
+    - Follow the steps in [How do I change from credit card payments to invoice?](how-do-i-change-from-credit-card-payments-to-invoice.md) to complete the manual change.
 
-สำหรับข้อมูลเพิ่มเติมให้ดู[เปลี่ยนวิธีการชำระเงินของคุณ](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/change-payment-method)
+หากต้องการข้อมูลเพิ่มเติม โปรดดู [วิธีการจ่ายค่าสมัครใช้งาน](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/pay-for-your-subscription)ของคุณ
