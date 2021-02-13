@@ -1,32 +1,32 @@
 ---
-title: วิธีซื้อสิทธิ์การใช้งานสำหรับการสมัครใช้งานแอป Microsoft ๓๖๕สำหรับธุรกิจของคุณ
+title: วิธีซื้อสิทธิ์การใช้งานในการสมัครใช้งาน Microsoft 365 Apps for business
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.date: ''
 ms.audience: ITPro
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.assetid: 4ece4b95-0d06-4658-af45-28de859bdc9d
 ms.custom:
 - "652"
 - "2000017"
-ms.openlocfilehash: 27b9f659c97cea3c2eaa01b5a6b8facd5b255f8f
-ms.sourcegitcommit: ad2d185aa9e08c27c4a1c4803b679cc4e6305703
+ms.openlocfilehash: cefa266e26a5ddeb60ca0496742e9051d6f14830
+ms.sourcegitcommit: 2f39850ac0fba9fbeba9b8b7939ae79b505d3b67
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 10/16/2020
-ms.locfileid: "48488900"
+ms.lasthandoff: 02/12/2021
+ms.locfileid: "50232350"
 ---
-# <a name="how-to-buy-licenses-for-your-microsoft-365-apps-for-business-subscription"></a><span data-ttu-id="dbea4-102">วิธีซื้อสิทธิ์การใช้งานสำหรับการสมัครใช้งานแอป Microsoft ๓๖๕สำหรับธุรกิจของคุณ</span><span class="sxs-lookup"><span data-stu-id="dbea4-102">How to buy licenses for your Microsoft 365 Apps for business subscription</span></span>
+# <a name="how-to-buy-licenses-for-your-microsoft-365-apps-for-business-subscription"></a><span data-ttu-id="2dd47-102">วิธีซื้อสิทธิ์การใช้งานในการสมัครใช้งาน Microsoft 365 Apps for business</span><span class="sxs-lookup"><span data-stu-id="2dd47-102">How to buy licenses for your Microsoft 365 Apps for business subscription</span></span>
 
-<span data-ttu-id="dbea4-103">เมื่อกำหนดสิทธิ์การใช้งานให้กับผู้ใช้ของคุณคุณอาจพบว่าคุณจำเป็นต้องซื้อสิทธิ์การใช้งานเพิ่มเติม</span><span class="sxs-lookup"><span data-stu-id="dbea4-103">When assigning licenses to your users, you may find that you need to buy additional licenses.</span></span> <span data-ttu-id="dbea4-104">ใช้ขั้นตอนต่อไปนี้:</span><span class="sxs-lookup"><span data-stu-id="dbea4-104">Use the following steps:</span></span>
+<span data-ttu-id="2dd47-103">When assigning licenses to your users, you may find that you need to buy additional licenses.</span><span class="sxs-lookup"><span data-stu-id="2dd47-103">When assigning licenses to your users, you may find that you need to buy additional licenses.</span></span>
+
+<span data-ttu-id="2dd47-104">**ดูวิดีโอที่แสดง** วิธีการ: ซื้อ [สิทธิ์การใช้งานใหม่](https://go.microsoft.com/fwlink/p/?linkid=2154857)</span><span class="sxs-lookup"><span data-stu-id="2dd47-104">**WATCH a video** that shows how to do this: [Buy new licenses](https://go.microsoft.com/fwlink/p/?linkid=2154857)</span></span>
   
-1. <span data-ttu-id="dbea4-105">ในศูนย์การจัดการให้ไปที่หน้าการ**เรียกเก็บเงิน**  >  [ของผลิตภัณฑ์ของคุณ](https://go.microsoft.com/fwlink/p/?linkid=842054)</span><span class="sxs-lookup"><span data-stu-id="dbea4-105">In the admin center, go to the **Billing** > [Your products](https://go.microsoft.com/fwlink/p/?linkid=842054) page.</span></span>
-2. <span data-ttu-id="dbea4-106">บนแท็บ **ผลิตภัณฑ์** ให้ค้นหาการสมัครใช้งานที่คุณต้องการอัปเดต</span><span class="sxs-lookup"><span data-stu-id="dbea4-106">On the **Products** tab, find the subscription that you want to update.</span></span> <span data-ttu-id="dbea4-107">เลือก **การกระทำเพิ่มเติม** (จุดสามจุด) จากนั้นเลือก **ซื้อสิทธิ์**การใช้งาน</span><span class="sxs-lookup"><span data-stu-id="dbea4-107">Select **More actions** (three dots), then select **Buy licenses**.</span></span>
-3. <span data-ttu-id="dbea4-108">ในบานหน้าต่าง **ซื้อสิทธิ์** การใช้งานภายใต้ **ปริมาณใหม่** ในกล่องสิทธิ์การใช้งาน **ทั้งหมด** ให้ใส่จำนวนสิทธิ์การใช้งานทั้งหมดที่คุณต้องการสำหรับการสมัครใช้งานนี้</span><span class="sxs-lookup"><span data-stu-id="dbea4-108">In the **Buy licenses** pane, under **New quantity** in the **Total licenses** box, enter the total number of licenses that you want for this subscription.</span></span> <span data-ttu-id="dbea4-109">ตัวอย่างเช่นถ้าคุณมีสิทธิ์การใช้งาน๑๐๐และคุณต้องการเพิ่ม25เพิ่มเติมให้ใส่๑๒๕</span><span class="sxs-lookup"><span data-stu-id="dbea4-109">For example, if you have 100 licenses and you want to add 25 more, enter 125.</span></span>
-4. <span data-ttu-id="dbea4-110">เลือก**บันทึก**</span><span class="sxs-lookup"><span data-stu-id="dbea4-110">Select **Save**.</span></span>
+1. <span data-ttu-id="2dd47-105">ในศูนย์การจัดการ **ให้ไปที่หน้า**  >  [การเรียกเก็บเงินผลิตภัณฑ์](https://go.microsoft.com/fwlink/p/?linkid=842054)ของคุณ</span><span class="sxs-lookup"><span data-stu-id="2dd47-105">In the admin center, go to the **Billing** > [Your products](https://go.microsoft.com/fwlink/p/?linkid=842054) page.</span></span>
+2. <span data-ttu-id="2dd47-106">**บนแท็บ** ผลิตภัณฑ์ ให้ค้นหาการสมัครใช้งานที่คุณต้องการอัปเดต</span><span class="sxs-lookup"><span data-stu-id="2dd47-106">On the **Products** tab, find the subscription that you want to update.</span></span> <span data-ttu-id="2dd47-107">เลือก **การแอคชัน** เพิ่มเติม (จุดสามจุด) **แล้วเลือก ซื้อ** สิทธิ์การใช้งาน</span><span class="sxs-lookup"><span data-stu-id="2dd47-107">Select **More actions** (three dots), then select **Buy licenses**.</span></span>
+3. <span data-ttu-id="2dd47-108">ในบานหน้าต่าง **ซื้อสิทธิ์การใช้งาน** ภายใต้ **จํานวน** ใหม่ ในกล่อง สิทธิ์การใช้งาน **ทั้งหมด** ให้ใส่จํานวนสิทธิ์การใช้งานทั้งหมดที่คุณต้องการกับการสมัครใช้งานนี้</span><span class="sxs-lookup"><span data-stu-id="2dd47-108">In the **Buy licenses** pane, under **New quantity** in the **Total licenses** box, enter the total number of licenses that you want for this subscription.</span></span> <span data-ttu-id="2dd47-109">ตัวอย่างเช่น ถ้าคุณมีสิทธิ์การใช้งาน 100 สิทธิ์ และคุณต้องการเพิ่มอีก 25 สิทธิ์ ให้ใส่ 125</span><span class="sxs-lookup"><span data-stu-id="2dd47-109">For example, if you have 100 licenses and you want to add 25 more, enter 125.</span></span>
+4. <span data-ttu-id="2dd47-110">เลือกบันทึก</span><span class="sxs-lookup"><span data-stu-id="2dd47-110">Select **Save**.</span></span>
 
-<span data-ttu-id="dbea4-111">เมื่อต้องการเรียนรู้เพิ่มเติมให้ดู[ซื้อสิทธิ์การใช้งานสำหรับการสมัครใช้งาน Microsoft ๓๖๕สำหรับธุรกิจของคุณ](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses)</span><span class="sxs-lookup"><span data-stu-id="dbea4-111">To learn more, see [Buy licenses for your Microsoft 365 for business subscription](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses).</span></span>
+<span data-ttu-id="2dd47-111">เมื่อต้องการเรียนรู้เพิ่มเติม [ให้ดู ซื้อหรือเอาสิทธิ์การใช้งาน](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses)ออก</span><span class="sxs-lookup"><span data-stu-id="2dd47-111">To learn more, see [Buy or remove licenses](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses).</span></span>
