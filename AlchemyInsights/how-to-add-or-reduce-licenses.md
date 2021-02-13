@@ -12,28 +12,27 @@ ms.collection: Adm_O365
 ms.custom:
 - "319"
 - "1500007"
-ms.assetid: 69797abf-3e60-4be2-b0a7-26022a14397e
-ms.openlocfilehash: 0b86937c48d7fe553436863e5f6ec70438652451
-ms.sourcegitcommit: 0338332a70fec9bd1e81b26e1933a5d0e3f261b6
+ms.openlocfilehash: 6b4e488ee10345955f41c7a7a9d4851b670898b9
+ms.sourcegitcommit: 2f39850ac0fba9fbeba9b8b7939ae79b505d3b67
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 09/29/2020
-ms.locfileid: "48307289"
+ms.lasthandoff: 02/12/2021
+ms.locfileid: "50232458"
 ---
 # <a name="add-or-remove-licenses-for-your-subscription"></a>เพิ่มหรือเอาสิทธิ์การใช้งานออกจากการสมัครใช้งานของคุณ
 
-ต่อไปนี้เป็นวิธีการเพิ่มหรือเอาสิทธิ์การใช้งานออก
-  
-1. ในศูนย์การจัดการให้ไปที่หน้าการ**เรียกเก็บเงิน**  >  [ของผลิตภัณฑ์ของคุณ](https://go.microsoft.com/fwlink/p/?linkid=842054)
-2. บนแท็บ **ผลิตภัณฑ์** ให้ค้นหาการสมัครใช้งานที่คุณต้องการซื้อหรือเอาสิทธิ์การใช้งานออก เลือก **การกระทำเพิ่มเติม** (จุดสามจุด) จากนั้นเลือก **ซื้อสิทธิ์**การใช้งาน
-3. ถ้าคุณต้องการลดจำนวนสิทธิ์การใช้งานที่ด้านบนสุดของบานหน้าต่าง **ซื้อสิทธิ์** การใช้งานให้เลือก **เอาสิทธิ์**การใช้งานออก
-4. เมื่อต้องการซื้อหรือเอาสิทธิ์การใช้งานออกภายใต้ **ปริมาณใหม่** ในกล่องสิทธิ์การใช้งาน **ทั้งหมด** ให้ใส่จำนวนสิทธิ์การใช้งานทั้งหมดที่คุณต้องการสำหรับการสมัครใช้งานนี้ ตัวอย่างเช่นถ้าคุณมีสิทธิ์การใช้งาน๑๐๐และคุณต้องการเพิ่ม25เพิ่มเติมให้ใส่๑๒๕ ถ้าคุณต้องการเอาสิทธิ์การใช้งาน25ให้ใส่๗๕
-5. เลือก**บันทึก**
+**ดูวิดีโอที่แสดง** วิธีการ: ซื้อ [สิทธิ์การใช้งานใหม่หรือ](https://go.microsoft.com/fwlink/p/?linkid=2154857)[เอาสิทธิ์การใช้งานที่มีอยู่ออก](https://go.microsoft.com/fwlink/p/?linkid=2154938)
 
-สำหรับข้อมูลเกี่ยวกับวิธีการกำหนดสิทธิ์การใช้งานให้ดู[ที่กำหนดสิทธิ์การใช้งานให้กับผู้ใช้](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users)
+1. ในศูนย์การจัดการ ให้ไปที่ **หน้า**  >  [การเรียกเก็บเงินผลิตภัณฑ์](https://go.microsoft.com/fwlink/p/?linkid=842054)ของคุณ
+2. **บนแท็บผลิตภัณฑ์** ให้ค้นหาการสมัครใช้งานที่คุณสามารถซื้อหรือเอาสิทธิ์การใช้งานออก เลือก **การแอคชัน** เพิ่มเติม (จุดสามจุด) **แล้วเลือก ซื้อ** สิทธิ์การใช้งาน
+3. ถ้าคุณต้องการลดจํานวนสิทธิ์การใช้งาน ที่ด้านบนของบานหน้าต่างซื้อสิทธิ์การใช้งาน ให้เลือก **เอาสิทธิ์การใช้งาน** ออก
+4. เมื่อต้องการซื้อหรือเอาสิทธิ์การใช้งานออก **ภายใต้** จํานวนใหม่ **ในกล่อง** สิทธิ์การใช้งานทั้งหมด ให้ใส่จํานวนสิทธิ์การใช้งานทั้งหมดที่คุณต้องการกับการสมัครใช้งานนี้ ตัวอย่างเช่น ถ้าคุณมีสิทธิ์การใช้งาน 100 สิทธิ์ และคุณต้องการเพิ่มอีก 25 สิทธิ์ ให้ใส่ 125 ถ้าคุณต้องการเอาสิทธิ์การใช้งานออก 25 สิทธิ์ ให้ใส่ 75
+5. เลือกบันทึก
 
-**ทรัพยากร**
+For information on how to assign licenses, see [Assign licenses to users](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users).
+
+**แหล่งข้อมูล**
   
-- [ซื้อหรือเอาสิทธิ์การใช้งานของการสมัครใช้งานออก](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses)
-- [ยกเลิก Microsoft ๓๖๕สำหรับธุรกิจ](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription)
-- [ลองใช้หรือซื้อการสมัครใช้งาน Microsoft ๓๖๕สำหรับธุรกิจ](https://docs.microsoft.com/microsoft-365/commerce/try-or-buy-microsoft-365)
+- [ซื้อหรือเอาสิทธิ์การใช้งานออก](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses)
+- [ยกเลิก Microsoft 365 for business](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription)
+- [ลองใช้หรือซื้อการสมัครใช้งาน Microsoft 365 for business](https://docs.microsoft.com/microsoft-365/commerce/try-or-buy-microsoft-365)
