@@ -1,5 +1,5 @@
 ---
-title: การเอาข้อมูลและการเช็ดอุปกรณ์ออกจาก Intune
+title: การลบข้อมูลและการลบอุปกรณ์จาก Intun1
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,25 +13,30 @@ ms.collection: Adm_O365
 ms.custom:
 - "1279"
 - "6700008"
-ms.openlocfilehash: 24330dffb38be14dd369960ff86d4650d60c55ec
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+- "9004638"
+- "8392"
+ms.openlocfilehash: cada3c6f1e7d1dcd576baa1245fb5a62ed938613
+ms.sourcegitcommit: 229bd519ec1c14c65a243226a94eee23e117a7fc
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47701302"
+ms.lasthandoff: 03/03/2021
+ms.locfileid: "50416332"
 ---
-# <a name="removing-data-and-wiping-devices-from-intune"></a><span data-ttu-id="8a4a4-102">การเอาข้อมูลและการเช็ดอุปกรณ์ออกจาก Intune</span><span class="sxs-lookup"><span data-stu-id="8a4a4-102">Removing data and wiping devices from Intune</span></span>
+# <a name="removing-data-and-wiping-devices-from-intune"></a><span data-ttu-id="cfb1b-102">การลบข้อมูลและการลบอุปกรณ์จาก Intun1</span><span class="sxs-lookup"><span data-stu-id="cfb1b-102">Removing data and wiping devices from Intune</span></span>
 
-<span data-ttu-id="8a4a4-103">อุปกรณ์ถอนการติดตั้งและลบการดำเนินการระยะไกลสามารถใช้เพื่อเอาข้อมูลบริษัทที่จัดการโดย Intune หรือดำเนินการตั้งค่าจากโรงงานและส่งกลับอุปกรณ์ไปยังการตั้งค่าเริ่มต้น</span><span class="sxs-lookup"><span data-stu-id="8a4a4-103">The Device Retire and Device Wipe remote actions can be used to remove company data managed by Intune or to perform a factory reset and return the device to its default settings.</span></span>
+<span data-ttu-id="cfb1b-103">การเลิกใช้อุปกรณ์และการล้างอุปกรณ์การล้างอุปกรณ์สามารถใช้เพื่อเอาข้อมูลบริษัทที่จัดการโดย Intun> ออก หรือเพื่อรีเซ็ตเป็นค่าจากโรงงาน และส่งคืนอุปกรณ์เป็นการตั้งค่าเริ่มต้น</span><span class="sxs-lookup"><span data-stu-id="cfb1b-103">The Device Retire and Device Wipe remote actions can be used to remove company data managed by Intune or to perform a factory reset and return the device to its default settings.</span></span>
 
-1. <span data-ttu-id="8a4a4-104">ลงชื่อเข้าใช้การจัดการอุปกรณ์ของ Microsoft ๓๖๕แล้วไปที่**อุปกรณ์**  >  **ทั้งหมด**</span><span class="sxs-lookup"><span data-stu-id="8a4a4-104">Sign into Microsoft 365 Device Management, and go to **Devices** > **All Devices**.</span></span>
-2. <span data-ttu-id="8a4a4-105">เลือกอุปกรณ์ที่คุณต้องการลบข้อมูล</span><span class="sxs-lookup"><span data-stu-id="8a4a4-105">Select the device you want to wipe.</span></span>
-3. <span data-ttu-id="8a4a4-106">เลือกชนิดของการล้างข้อมูลระยะไกลที่คุณต้องการทำ</span><span class="sxs-lookup"><span data-stu-id="8a4a4-106">Select the type of remote wipe you want to do.</span></span> <span data-ttu-id="8a4a4-107">ถอนการลบเฉพาะข้อมูลขององค์กรเท่านั้นในขณะที่การลบข้อมูลทั้งหมดจะคืนค่าอุปกรณ์ไปยังการตั้งค่าจากโรงงาน</span><span class="sxs-lookup"><span data-stu-id="8a4a4-107">Retire deletes only organizational information, while full wipes restore the device to its factory settings.</span></span>
-4. <span data-ttu-id="8a4a4-108">เลือก **ใช่** เพื่อยืนยัน</span><span class="sxs-lookup"><span data-stu-id="8a4a4-108">Select **Yes** to confirm.</span></span> <span data-ttu-id="8a4a4-109">จนกว่าการลบจะเสร็จสิ้นสถานะการดำเนินการของอุปกรณ์จะแสดงเป็นออกจากระหว่างการดำเนินการ</span><span class="sxs-lookup"><span data-stu-id="8a4a4-109">Until the wipe finishes, the Device action status shows as Retire Pending.</span></span></br>
-    <span data-ttu-id="8a4a4-110">หลังจากที่การดำเนินการเสร็จสมบูรณ์แล้วคุณจะไม่เห็นอุปกรณ์เคลื่อนที่ในรายการของอุปกรณ์ที่มีการจัดการอีกต่อไป</span><span class="sxs-lookup"><span data-stu-id="8a4a4-110">After the action is completed, you'll no longer see the mobile device in the list of managed device.</span></span>
+1. <span data-ttu-id="cfb1b-104">ลงชื่อเข้าใช้การจัดการอุปกรณ์ Microsoft 365 แล้วไปที่  >  **อุปกรณ์ทั้งหมด**</span><span class="sxs-lookup"><span data-stu-id="cfb1b-104">Sign into Microsoft 365 Device Management, and go to **Devices** > **All Devices**.</span></span>
+2. <span data-ttu-id="cfb1b-105">เลือกอุปกรณ์ที่คุณต้องการลบข้อมูล</span><span class="sxs-lookup"><span data-stu-id="cfb1b-105">Select the device you want to wipe.</span></span>
+3. <span data-ttu-id="cfb1b-106">เลือกชนิดของการลบข้อมูลระยะไกลที่คุณต้องการลบ</span><span class="sxs-lookup"><span data-stu-id="cfb1b-106">Select the type of remote wipe you want to do.</span></span> <span data-ttu-id="cfb1b-107">การเลิกใช้จะลบข้อมูลขององค์กรเท่านั้น ในขณะที่การลบข้อมูลทั้งหมดจะคืนค่าอุปกรณ์กลับเป็นการตั้งค่าจากโรงงาน</span><span class="sxs-lookup"><span data-stu-id="cfb1b-107">Retire deletes only organizational information, while full wipes restore the device to its factory settings.</span></span>
+4. <span data-ttu-id="cfb1b-108">เลือกใช่ เพื่อยืนยัน</span><span class="sxs-lookup"><span data-stu-id="cfb1b-108">Select **Yes** to confirm.</span></span> <span data-ttu-id="cfb1b-109">จนกว่าการลบข้อมูลจะเสร็จสิ้น สถานะการกระบงของอุปกรณ์จะแสดง *เป็น เกษียณที่ค้าง* อยู่</span><span class="sxs-lookup"><span data-stu-id="cfb1b-109">Until the wipe finishes, the Device action status shows as *Retire Pending*.</span></span>
+    <span data-ttu-id="cfb1b-110">หลังจากการแอคชันเสร็จสมบูรณ์ คุณจะไม่เห็นอุปกรณ์เคลื่อนที่ในรายการของอุปกรณ์ที่มีการจัดการอีกต่อไป</span><span class="sxs-lookup"><span data-stu-id="cfb1b-110">After the action is completed, you'll no longer see the mobile device in the list of managed device.</span></span>
 
-<span data-ttu-id="8a4a4-111">**หมายเหตุ:** ข้อมูลบริษัทไม่สามารถเอาออกจากอุปกรณ์ที่เข้าร่วมกับ Azure AD ได้</span><span class="sxs-lookup"><span data-stu-id="8a4a4-111">**Note** Company data can't be removed from devices JOINED to Azure AD.</span></span>
+> [!NOTE]
+> <span data-ttu-id="cfb1b-111">ไม่สามารถเอาข้อมูลบริษัทออกจากอุปกรณ์ที่เข้าร่วมไปยัง Azure AD ได้</span><span class="sxs-lookup"><span data-stu-id="cfb1b-111">Company data can't be removed from devices JOINED to Azure AD.</span></span> 
 
-<span data-ttu-id="8a4a4-112">สำหรับรายละเอียดทั้งหมดของผลกระทบของการดำเนินการถอนและล้างข้อมูลรวมถึงสิ่งที่ถูกเก็บไว้และสิ่งที่ถูกลบออกให้ดูที่[เอาอุปกรณ์ออกโดยใช้การลบออกหรือด้วยตนเอง unenrolling อุปกรณ์](https://docs.microsoft.com/intune/devices-wipe)</span><span class="sxs-lookup"><span data-stu-id="8a4a4-112">For full details of the effect of the Retire and Wipe actions, including what is retained and what is deleted, see [Remove devices by using wipe, retire, or manually unenrolling the device](https://docs.microsoft.com/intune/devices-wipe).</span></span>
+<span data-ttu-id="cfb1b-112">For full details of the effect of the Retired and Wipe actions, including what is retained and what is deleted, see following documentation:</span><span class="sxs-lookup"><span data-stu-id="cfb1b-112">For full details of the effect of the Retire and Wipe actions, including what is retained and what is deleted, see following documentation:</span></span>
 
-<span data-ttu-id="8a4a4-113">เมื่อต้องการลบข้อมูลทั้งหมดออกจากอุปกรณ์ macOS ให้ดูที่[ลบข้อมูลทั้งหมดออกจากอุปกรณ์ macOS](https://docs.microsoft.com/intune/device-erase)</span><span class="sxs-lookup"><span data-stu-id="8a4a4-113">To erase all data from a macOS device, see [Erase all data from a macOS device](https://docs.microsoft.com/intune/device-erase).</span></span>
+- <span data-ttu-id="cfb1b-113">[ลบอุปกรณ์ออกโดยใช้การลบข้อมูล เลิกใช้ หรือยกเลิกการลงทะเบียนอุปกรณ์](https://docs.microsoft.com/mem/intune/remote-actions/devices-wipe)ด้วยตนเอง</span><span class="sxs-lookup"><span data-stu-id="cfb1b-113">[Remove devices by using wipe, retire, or manually unenrolling the device](https://docs.microsoft.com/mem/intune/remote-actions/devices-wipe).</span></span>
+- [<span data-ttu-id="cfb1b-114">วิธีการลบข้อมูลขององค์กรจากแอป Intun1 ที่มีการจัดการเท่านั้น</span><span class="sxs-lookup"><span data-stu-id="cfb1b-114">How to wipe only corporate data from Intune-managed apps</span></span>](https://docs.microsoft.com/mem/intune/apps/apps-selective-wipe)
+- <span data-ttu-id="cfb1b-115">[ลบข้อมูลทั้งหมดจากอุปกรณ์ macOS](https://docs.microsoft.com/mem/intune/remote-actions/device-erase)</span><span class="sxs-lookup"><span data-stu-id="cfb1b-115">[Erase all data from a macOS device](https://docs.microsoft.com/mem/intune/remote-actions/device-erase).</span></span>
