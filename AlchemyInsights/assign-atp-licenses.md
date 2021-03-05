@@ -1,8 +1,8 @@
 ---
-title: กำหนดสิทธิ์การใช้งานการป้องกันภัยคุกคามขั้นสูง
-ms.author: pebaum
-author: pebaum
-manager: mnirkhe
+title: กําหนดสิทธิ์การใช้งาน Microsoft Defender for Office 365
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,22 +12,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003019"
 - "5778"
-ms.openlocfilehash: a877495be34c9403f63ebf96b0b83052f4c31491
-ms.sourcegitcommit: 4caf5e6c2fee2903ccaf92cfc9006eb580faa7ba
+- commerce
+ms.openlocfilehash: 6eb6529b4b2b73b0f8a599eb396d088e77e9516d
+ms.sourcegitcommit: 5dc52d5fcb2833fbbc064edb783e609d8eef79c0
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 10/29/2020
-ms.locfileid: "48801210"
+ms.lasthandoff: 03/05/2021
+ms.locfileid: "50469609"
 ---
-# <a name="assign-advanced-threat-protection-licenses"></a>กำหนดสิทธิ์การใช้งานการป้องกันภัยคุกคามขั้นสูง
+# <a name="assign-microsoft-defender-for-office-365-licenses"></a>กําหนดสิทธิ์การใช้งาน Microsoft Defender for Office 365
 
-Microsoft Defender สำหรับ Office ๓๖๕สามารถมอบหมายให้กับผู้ใช้ในศูนย์การจัดการของ Microsoft ๓๖๕
+Microsoft Defender for Office 365 สามารถมอบหมายให้กับผู้ใช้ในศูนย์การจัดการ Microsoft 365 ได้
 
-1. ไปที่สิทธิ์การใช้งานการ **เรียกเก็บเงิน**  >  [Licenses](https://go.microsoft.com/fwlink/p/?linkid=842264)
-2. เลือกผลิตภัณฑ์ที่คุณต้องการกำหนดสิทธิ์การใช้งาน
-3. คลิก **กำหนดสิทธิ์** การใช้งาน
-4. ในบานหน้าต่าง **กำหนดสิทธิ์การใช้งานให้กับผู้ใช้**  ให้เริ่มพิมพ์ชื่อของผู้ใช้แล้วเลือกจากผลลัพธ์ คุณสามารถเพิ่มผู้ใช้ได้สูงสุด20คนในแต่ละครั้ง
-5. คลิก **เปิดหรือปิดใช้งานแอปและบริการ**  เพื่อมอบหมายหรือเอาออก
-6. คลิก **มอบหมาย** แล้ว **ปิด**
+1. ไปที่  >  [สิทธิ์การใช้งานการเรียกเก็บเงิน](https://go.microsoft.com/fwlink/p/?linkid=842264)
+2. เลือกผลิตภัณฑ์ที่คุณต้องการกําหนดสิทธิ์การใช้งาน
+3. คลิก **กําหนดสิทธิ์การใช้งาน**
+4. ในบานหน้าต่าง **มอบหมายสิทธิ์การใช้งาน**  ให้กับผู้ใช้ ให้เริ่มพิมพ์ชื่อผู้ใช้ แล้วเลือกจากผลลัพธ์ คุณสามารถเพิ่มผู้ใช้ได้มากถึง 20 รายในคราวเดียวกัน
+5. คลิก **เปิดหรือปิดแอปและบริการเพื่อ**  กําหนดหรือเอาออก
+6. **คลิก** มอบหมาย **แล้ว** ปิด
 
-เมื่อต้องการซื้อสิทธิ์การใช้งานเพิ่มเติมหรือเอาสิทธิ์การใช้งานออกให้ดูที่ [เพิ่ม/เอาสิทธิ์การ](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses?view=o365-worldwide#add-or-remove-licenses-for-your-business-subscription)ใช้งานออก
+เมื่อต้องการซื้อเพิ่มหรือลบสิทธิ์การใช้งาน ให้ดู [ซื้อหรือเอาสิทธิ์การใช้งาน](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses#buy-or-remove-licenses-for-your-business-subscription)ออก

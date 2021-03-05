@@ -1,8 +1,8 @@
 ---
-title: คำถามที่ถามบ่อยเกี่ยวกับการสมัครใช้งาน
-ms.author: pebaum
-author: pebaum
-manager: mnirkhe
+title: FAQ เกี่ยวกับการสมัครใช้งานทางธุรกิจ
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -20,23 +20,24 @@ ms.custom:
 - "5169"
 - "9002661"
 - "5161"
-ms.openlocfilehash: 4bcb865a0a54e8d9693314ae3bf14fe0d0ac27cd
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+- commerce
+ms.openlocfilehash: 80191be73c91faa9fe0fce12eed4c9a6f9ab8507
+ms.sourcegitcommit: 5dc52d5fcb2833fbbc064edb783e609d8eef79c0
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47685185"
+ms.lasthandoff: 03/05/2021
+ms.locfileid: "50469069"
 ---
-# <a name="business-subscription-faq"></a>คำถามที่ถามบ่อยเกี่ยวกับการสมัครใช้งาน
+# <a name="business-subscription-faq"></a>FAQ เกี่ยวกับการสมัครใช้งานทางธุรกิจ
 
-- เมื่อต้องการดูตัวเลือก Microsoft ๓๖๕สำหรับธุรกิจให้ดูที่[เปรียบเทียบแผนธุรกิจ](https://www.microsoft.com/microsoft-365/compare-all-microsoft-365-products?&activetab=tab:primaryr2) สำหรับข้อมูลเพิ่มเติมให้ติดต่อฝ่ายขาย1-855-270-0615
-- เมื่อต้องการ**ซื้อ**แผนให้ไปที่การ**เรียกเก็บเงิน >[บริการการซื้อ](https://go.microsoft.com/fwlink/p/?linkid=868433)** เลือกแผนและจำนวนผู้ใช้ สำหรับข้อมูลเพิ่มเติมให้ดูที่การ [ซื้อการสมัคร](https://docs.microsoft.com/microsoft-365/commerce/buy-another-subscription?view=o365-worldwide)ใช้งาน
-- เมื่อต้องการ**สลับแผน**ให้ดูที่[เปลี่ยนแผน Microsoft ๓๖๕สำหรับธุรกิจด้วยตนเอง](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/switch-plans-manually?view=o365-worldwide)
-- เมื่อต้องการกำหนดสิทธิ์การใช้งานของ**ผู้ใช้**ให้ไปที่สิทธิ์การใช้งาน **> การ[Licenses](https://go.microsoft.com/fwlink/p/?linkid=842264)เรียกเก็บเงิน** สำหรับข้อมูลเพิ่มเติมให้ดูที่ [กำหนดสิทธิ์](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users?view=o365-worldwide)การใช้งาน
-- เมื่อต้องการ **เพิ่ม/เอาสิทธิ์**การใช้งานออกให้ไปที่การ **เรียกเก็บเงิน > [ผลิตภัณฑ์ & บริการ](https://go.microsoft.com/fwlink/p/?linkid=842054)** เลือก **เพิ่ม/เอาสิทธิ์**การใช้งานออก สำหรับข้อมูลเพิ่มเติมให้ดูที่ [เพิ่ม/เอาสิทธิ์](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses?view=o365-worldwide#add-or-remove-licenses-for-your-business-subscription)การใช้งานออก
-- เมื่อต้องการ **ยกเลิก** สิทธิ์การใช้งานให้ไปที่การ **เรียกเก็บเงิน > [ผลิตภัณฑ์ & บริการ](https://go.microsoft.com/fwlink/p/?linkid=842054)** เลือก **การตั้งค่า & การดำเนินการ**แล้วคลิก **ยกเลิกการสมัคร**ใช้งาน สำหรับข้อมูลเพิ่มเติมให้ดู[ที่ยกเลิกการสมัครใช้งานของคุณ](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription)
-- เมื่อต้องการ**เปิดใช้งาน**การสมัครใช้งานให้ดูที่[เปิดใช้งานการสมัครใช้งานของคุณ](https://docs.microsoft.com/alchemyinsights/activate-your-office-365-subscription)
-- เมื่อต้องการเปิดใช้งานการสมัครใช้งาน **ที่หมดอายุ** ใหม่ให้ดูเปิดใช้งาน [การสมัคร](https://docs.microsoft.com/alchemyinsights/reactivate-your-subscription)ใช้งาน
-- เมื่อต้องการขยายระยะเวลา**ทดลองใช้**ให้ดูที่ขยายระยะเวลา[ทดลองใช้ของคุณ](https://docs.microsoft.com/alchemyinsights/extend-your-trial-for-office-365-for-business)
+- เมื่อต้องการดูตัวเลือก Microsoft 365 for business ให้ดู [เปรียบเทียบแผน](https://www.microsoft.com/microsoft-365/compare-all-microsoft-365-products?&activetab=tab:primaryr2)ธุรกิจ ดูข้อมูลเพิ่มเติมได้ที่ฝ่ายขาย 1-855-270-0615
+- เมื่อต้องการ **ซื้อ** แผน ให้ไปที่ **หน้าการเรียกเก็บเงิน> [สั่งซื้อบริการ](https://go.microsoft.com/fwlink/p/?linkid=868433)** ต่างๆ เลือกแผนและจํานวนผู้ใช้ ดูข้อมูลเพิ่มเติมได้ที่ [ซื้อการสมัครใช้งาน](https://docs.microsoft.com/microsoft-365/commerce/try-or-buy-microsoft-365#buy-a-different-subscription)อื่น
+- เมื่อต้องการ **เปลี่ยน** แผน [ให้ดู อัปเกรดเป็นแผน](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/upgrade-to-different-plan)อื่น
+- เมื่อต้องการ **กําหนด** สิทธิ์การใช้งานให้กับผู้ใช้ ให้ไปที่ **การเรียกเก็บเงิน>[สิทธิ์การใช้งาน](https://go.microsoft.com/fwlink/p/?linkid=842264)** For more info, see [Assign licenses to users](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users).
+- เมื่อต้องการ **ซื้อหรือลบ** สิทธิ์การใช้งาน ให้ไปที่หน้า **การเรียกเก็บเงิน> [ผลิตภัณฑ์](https://go.microsoft.com/fwlink/p/?linkid=842054)** ของคุณ ดูข้อมูลเพิ่มเติมได้ที่ [ซื้อหรือเอาสิทธิ์การใช้งาน](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses)ออก
+- เมื่อต้องการ **ยกเลิก** การสมัครใช้งาน ให้ไปที่ หน้า **การเรียกเก็บเงิน > [ผลิตภัณฑ์](https://go.microsoft.com/fwlink/p/?linkid=842054)** ของคุณ เลือกการสมัครใช้งาน และ **ในส่วน การตั้งค่าการสมัครใช้งานและการชเงิน** ให้เลือก **ยกเลิก** การสมัครใช้งาน ดูข้อมูลเพิ่มเติมได้ที่ [ยกเลิกการสมัครใช้งาน](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription)ของคุณ
+- เมื่อต้องการ **เปิดใช้งาน** การสมัครใช้งาน ให้ดู [เปิดใช้งานการสมัครใช้งาน](https://docs.microsoft.com/alchemyinsights/activate-your-office-365-subscription)ของคุณ
+- เมื่อต้องการ **เปิดใช้งานการสมัครใช้งาน** ใหม่ ให้ดู [เปิดใช้งานการสมัครใช้งานของคุณ](https://docs.microsoft.com/alchemyinsights/reactivate-your-subscription)ใหม่
+- เมื่อต้องการ  **ขยาย** การทดลองใช้ ให้ดู [ขยายการทดลองใช้](https://docs.microsoft.com/microsoft-365/commerce/extend-your-trial)ของคุณ
 
-สำหรับข้อมูลเพิ่มเติมให้ดูที่ [จัดการสิทธิ์](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses?view=o365-worldwide#add-or-remove-licenses-for-your-business-subscription)การใช้งานการสมัครใช้งาน
+ดูข้อมูลเพิ่มเติมได้ที่ [ซื้อหรือเอาสิทธิ์การใช้งาน](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses)ออก
