@@ -1,0 +1,31 @@
+---
+title: สิ่งที่ต้องจัดการเมื่อบัญชีถูกแฮ็ก
+ms.author: v-aiyengar
+author: AshaIyengar21
+manager: dansimp
+ms.date: 17/02/2021
+ms.audience: Admin
+ms.topic: article
+ms.service: o365-administration
+ROBOTS: NOINDEX, NOFOLLOW
+localization_priority: Normal
+ms.collection: Adm_O365
+ms.custom:
+- "9002486"
+- "7524"
+ms.openlocfilehash: 50451a32b4e798f3e2fd8ddebe573ef3435a4c71
+ms.sourcegitcommit: 251e2e82571fb3bb1fbe3dbf7bfca30e004b3373
+ms.translationtype: MT
+ms.contentlocale: th-TH
+ms.lasthandoff: 03/05/2021
+ms.locfileid: "50483147"
+---
+# <a name="what-to-do-when-an-account-is-hacked"></a><span data-ttu-id="c3d81-102">สิ่งที่ต้องจัดการเมื่อบัญชีถูกแฮ็ก</span><span class="sxs-lookup"><span data-stu-id="c3d81-102">What to do when an account is hacked</span></span>
+
+<span data-ttu-id="c3d81-103">ถ้าคุณคิดว่าบัญชีผู้ใช้ถูกแฮ็ก ให้ต่อไปนี้:</span><span class="sxs-lookup"><span data-stu-id="c3d81-103">If you think a user account has been hacked, do the following:</span></span>
+
+1. <span data-ttu-id="c3d81-104">[รีเซ็ตรหัสผ่านของผู้ใช้](https://go.microsoft.com/fwlink/?linkid=2103704)*ทันที*</span><span class="sxs-lookup"><span data-stu-id="c3d81-104">[Reset the user's password](https://go.microsoft.com/fwlink/?linkid=2103704) *immediately*.</span></span> <span data-ttu-id="c3d81-105">อย่าส่งรหัสผ่านใหม่ผ่านทางอีเมลไปยังผู้ใช้</span><span class="sxs-lookup"><span data-stu-id="c3d81-105">Don't send the new password via email to the user.</span></span>
+1. <span data-ttu-id="c3d81-106">[เอาที่อยู่การส่งต่อที่น่าสงสัย](https://go.microsoft.com/fwlink/?linkid=2103705) ที่ตั้งค่าบนกล่องจดหมายออก</span><span class="sxs-lookup"><span data-stu-id="c3d81-106">[Remove any suspicious forwarding addresses](https://go.microsoft.com/fwlink/?linkid=2103705) set on the mailbox.</span></span>
+1. <span data-ttu-id="c3d81-107">[เอากฎการส่งต่อ](https://go.microsoft.com/fwlink/?linkid=2103706) ที่ตั้งค่าบนกล่องจดหมายออก</span><span class="sxs-lookup"><span data-stu-id="c3d81-107">[Remove any forwarding rules](https://go.microsoft.com/fwlink/?linkid=2103706) set on the mailbox.</span></span>
+1. <span data-ttu-id="c3d81-108">ถ้าผู้ใช้ถูกบล็อกไม่ส่งอีเมล ให้ยืนยันว่าบัญชีของพวกเขาไม่ถูกละเมิด จากนั้นเอาบัญชีเหล่านั้นออกจาก [หน้า ผู้ใช้ที่ถูก](https://go.microsoft.com/fwlink/?linkid=2103706)บล็อก</span><span class="sxs-lookup"><span data-stu-id="c3d81-108">If the user is blocked from sending email, confirm that their account has not been compromised and then remove them from the [Restricted Users page](https://go.microsoft.com/fwlink/?linkid=2103706).</span></span>
+1. <span data-ttu-id="c3d81-109">เอาบัญชีผู้ใช้ออกจากกลุ่มบทบาท [การดูแลระบบ](https://go.microsoft.com/fwlink/?linkid=2092294)ใดๆ</span><span class="sxs-lookup"><span data-stu-id="c3d81-109">Remove the user account from any [administrative role groups](https://go.microsoft.com/fwlink/?linkid=2092294).</span></span>
