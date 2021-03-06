@@ -10,17 +10,17 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
-- "9004634"
-- "8377"
-ms.openlocfilehash: ba5a66c5f48ba7ff2c21ed460fcaa583684b864b
-ms.sourcegitcommit: 0f1e81498c68a5d1aba76a21fdae91a141b69f89
+- "9000652"
+- "8340"
+ms.openlocfilehash: 6ac90611bbe626e7f11b817965fd2d3c7fbf98c1
+ms.sourcegitcommit: c202c0df2d141e63f4f7eb13a56efbfc2f57348f
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 03/03/2021
-ms.locfileid: "50427959"
+ms.lasthandoff: 03/05/2021
+ms.locfileid: "50508572"
 ---
 # <a name="android-enterprise-enrollment-error-mgp-set-up-detection"></a>ข้อผิดพลาดการลงทะเบียนองค์กรของ Android: การตรวจสอบการตั้งค่า MGP
 
 เราตรวจพบว่า Managed Google Play ไม่ได้ตั้งค่าหรือยกเลิกการเชื่อมต่อในบัญชีของคุณ ซึ่งสามารถทําให้ไม่สามารถลงทะเบียนอุปกรณ์ในสถานการณ์ของ Android Enterprise ที่ต้องใช้การเชื่อมต่อ Google Play ที่จัดการ
 
-คุณสามารถตรวจสอบสถานะการเชื่อมต่อของ Google Play ที่จัดการในคอนโซล MEM ภายใต้การดูแลผู้เช่า > สถานะผู้เช่า **> สถานะ** ตัวเชื่อมต่อ และตรวจสอบเอกสารประกอบต่อไปนี้เพื่อเรียนรู้วิธีเชื่อมต่อบัญชี Intuned กับบัญชี Google ที่จัดการของคุณ: เชื่อมต่อบัญชี **[Intun1](https://docs.microsoft.com/mem/intune/enrollment/connect-intune-android-enterprise)** กับบัญชี Google Play ที่จัดการของคุณ
+คุณสามารถตรวจสอบสถานะการเชื่อมต่อของ Google Play ที่จัดการในคอนโซล MEM ภายใต้การดูแลผู้เช่า > สถานะผู้เช่า **> สถานะ** ตัวเชื่อมต่อ และตรวจสอบเอกสารประกอบต่อไปนี้เพื่อเรียนรู้เกี่ยวกับวิธีการเชื่อมต่อบัญชี Intuned กับบัญชี Google ที่จัดการของคุณ: เชื่อมต่อบัญชี **[Intuned](https://docs.microsoft.com/mem/intune/enrollment/connect-intune-android-enterprise)** กับบัญชี Google Play ที่จัดการของคุณ
