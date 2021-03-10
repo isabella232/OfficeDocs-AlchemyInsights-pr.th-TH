@@ -12,17 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "662"
 - "1500012"
-- commerce
-ms.openlocfilehash: dce0d832016913b057ef968926552a56419f4b62
-ms.sourcegitcommit: 5dc52d5fcb2833fbbc064edb783e609d8eef79c0
+ms.openlocfilehash: d3d1a3229de8a69d9f8a48f2618b13528e7a5a93
+ms.sourcegitcommit: dde46756ac370b3f384702f259bed1dbf8e7611b
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 03/05/2021
-ms.locfileid: "50469753"
+ms.lasthandoff: 03/10/2021
+ms.locfileid: "50602347"
 ---
 # <a name="prepaid-microsoft-365-renewal"></a>การต่ออายุ Microsoft 365 ที่จ่ายล่วงหน้า
 
-1. ในศูนย์การจัดการ ให้ไปที่ **หน้า** \> **[การเรียกเก็บเงินผลิตภัณฑ์](https://go.microsoft.com/fwlink/p/?linkid=842054)** ของคุณ
+1. ในศูนย์การจัดการ **ให้ไปที่หน้า** \> **[การเรียกเก็บเงินผลิตภัณฑ์](https://go.microsoft.com/fwlink/p/?linkid=842054)** ของคุณ
 2. **บนแท็บ** ผลิตภัณฑ์ ให้เลือกการสมัครใช้งานที่คุณต้องการขยาย
 3. บนหน้ารายละเอียดการสมัครใช้งาน ในส่วนการตั้งค่า **การสมัครใช้งานและการช** เงิน ให้เลือก **ขยายวันที่สิ้นสุด**
 4. บนหน้า **การต่ออายุหรือเพิ่ม** สิทธิ์การใช้งานของผู้ใช้ ให้เลือก **ใช้คีย์ผลิตภัณฑ์ใหม่และ** ยังไม่ได้ใช้ **แล้วเลือก** ถัดไป

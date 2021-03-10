@@ -9,15 +9,14 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.custom:
-- commerce
 - "1639"
 - "9000134"
-ms.openlocfilehash: 1ddff99967b62a151711a4c978f5fe35b2a99008
-ms.sourcegitcommit: 43b6305cea25cc87ec2226a4f7de1f452671d762
+ms.openlocfilehash: 7384200b7dadfb85e851f316b695ed65f242be59
+ms.sourcegitcommit: dde46756ac370b3f384702f259bed1dbf8e7611b
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 02/09/2021
-ms.locfileid: "50152577"
+ms.lasthandoff: 03/10/2021
+ms.locfileid: "50601437"
 ---
 # <a name="payment-options-for-microsoft-365-for-business-subscriptions"></a>ตัวเลือกการ Payment for Microsoft 365 for business subscriptions
   
@@ -33,7 +32,7 @@ ms.locfileid: "50152577"
   
 ถ้าค่าใช้จ่ายของการสมัครใช้งานของคุณเกินวงเงินจํานวนหนึ่ง (จํานวนจะแตกต่างกันไปตามสถานที่ตั้งของบริการ) คุณจะมีตัวเลือกในการจ่ายตามใบแจ้งหนี้โดยใช้เช็คหรือ EFT อาจต้องใช้การตรวจสอบเครดิตเพื่อใบแจ้งหนี้ที่มากขึ้น If a credit check is required, you'reified when you buy your subscription. ถ้าคุณตกลงที่จะติดต่อ คุณจะได้รับอีเมลที่มีข้อมูลเพิ่มเติมเกี่ยวกับการขออนุมัติเครดิต โดยปกติแล้วการตรวจสอบเครดิตจะเสร็จสมบูรณ์ภายใน 2 วันธุรกิจ
 
-ถ้าคุณใบแจ้งหนี้การบอกรับเป็นสมาชิกของคุณ คุณจะได้รับอีเมลเมื่อใบแจ้งยอดของคุณพร้อมดู อีเมลนี้ไม่มีสําเนาใบแจ้งยอดการเรียกเก็บเงินของคุณ อย่างไรก็ตาม คุณสามารถเลือกรับส[ําเนาใบแจ้งยอดการเรียกเก็บเงินในอีเมล](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/view-your-bill-or-invoice#receive-a-copy-of-your-billing-statement-in-email) ใบแจ้งยอดเงินของคุณมีรายละเอียดเกี่ยวกับตัวเลือกของคุณในการจ่ายเงินและที่ที่จะส่ง ถ้าคุณใส่หมายเลขใบสั่งซื้อ (PO) เมื่อคุณซื้อการสมัครใช้งาน หมายเลขนั้นจะปรากฏบนใบแจ้งยอดการเรียกเก็บเงินของคุณ For information about accessing billing statements, see [view your bill or invoice](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/view-your-bill-or-invoice).
+ถ้าคุณจ่ายตามใบแจ้งหนี้ของการสมัครใช้งาน คุณจะได้รับอีเมลเมื่อใบแจ้งยอดการเรียกเก็บเงินของคุณพร้อมดู อีเมลนี้ไม่มีสําเนาใบแจ้งยอดการเรียกเก็บเงินของคุณ อย่างไรก็ตาม คุณสามารถเลือกรับส[ําเนาใบแจ้งยอดการเรียกเก็บเงินในอีเมล](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/view-your-bill-or-invoice#receive-a-copy-of-your-billing-statement-in-email) ใบแจ้งยอดเงินของคุณมีรายละเอียดเกี่ยวกับตัวเลือกของคุณในการจ่ายเงินและที่ที่จะส่ง ถ้าคุณใส่หมายเลขใบสั่งซื้อ (PO) เมื่อคุณซื้อการสมัครใช้งาน หมายเลขจะปรากฏบนใบแจ้งยอดการเรียกเก็บเงินของคุณ For information about accessing billing statements, see [view your bill or invoice](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/view-your-bill-or-invoice).
   
 **ข้อมูลเพิ่มเติม**
   
