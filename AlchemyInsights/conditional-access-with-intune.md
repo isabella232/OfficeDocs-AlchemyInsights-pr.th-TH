@@ -1,5 +1,5 @@
 ---
-title: การเข้าถึงตามเงื่อนไขด้วย Intune
+title: การเข้าถึงตามเงื่อนไขด้วย Intun1
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
@@ -9,30 +9,30 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: aecba7c5-e86d-4ec8-9d44-679f5a3d659d
-ms.openlocfilehash: 5eec5982118b4f0246afadf2af219b2d5f32f95c
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 20ef8205431aad821419f2559be3402c8228d838
+ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47807678"
+ms.lasthandoff: 03/10/2021
+ms.locfileid: "50704805"
 ---
-# <a name="conditional-access-with-intune"></a>การเข้าถึงตามเงื่อนไขด้วย Intune
+# <a name="conditional-access-with-intune"></a>การเข้าถึงตามเงื่อนไขด้วย Intun1
 
-การใช้การ  **เข้าถึง**  แบบมีเงื่อนไขด้วย Intune จำเป็นต้องมี3ขั้นตอนดังนี้
+การใช้  **การเข้าถึงตามเงื่อนไขด้วย**  Intun1 ต้องมี 3 ขั้นตอน:
 
-- สร้าง  **นโยบายการปฏิบัติตามนโยบาย**  ([Android](https://docs.microsoft.com/intune/compliance-policy-create-android),  [iOS](https://docs.microsoft.com/intune/compliance-policy-create-ios),  [Windows](https://docs.microsoft.com//intune/compliance-policy-create-windows)) เพื่อกำหนดการตั้งค่าที่ต้องเป็นไปตามก่อนที่อุปกรณ์จะถือว่าเป็นไปตามนโยบาย ตัวอย่างเช่นอุปกรณ์จำเป็นต้องมี pin อย่างน้อย6หลักก่อนที่จะถือว่าสอดคล้องกัน
-- สร้าง **นโยบายการเข้าถึงตามเงื่อนไข**  ที่กำหนดว่าทรัพยากรใดบ้างที่ได้รับการป้องกันและต้องเป็นไปตามเงื่อนไขใดในการเข้าถึงแหล่งข้อมูลเหล่านั้น  ตัว[อย่างเช่น](https://docs.microsoft.com/intune/tutorial-protect-email-on-unmanaged-devices#create-conditional-access-policies)อุปกรณ์ต้องสอดคล้องก่อนที่จะเข้าถึงอีเมลขององค์กร
-- ตรวจสอบให้แน่ใจ **ว่านโยบายการปฏิบัติตามกฎระเบียบ**  และ  **นโยบายการเข้าถึงตามเงื่อนไข**  จะถูกกำหนดเป้าหมายให้กับกลุ่มผู้ใช้ที่ต้องการ การทำเช่นนี้อาจจำเป็นต้องสร้างกลุ่มผู้ใช้ที่เฉพาะเจาะจงใน Azure Active Directory
+- สร้างนโยบาย  **การปฏิบัติตามนโยบาย**  ([Android](https://docs.microsoft.com/intune/compliance-policy-create-android),  [iOS](https://docs.microsoft.com/intune/compliance-policy-create-ios),  [Windows](https://docs.microsoft.com//intune/compliance-policy-create-windows)) เพื่อกําหนดการตั้งค่าที่ต้องปฏิบัติตามก่อนที่จะถือว่าอุปกรณ์ปฏิบัติตามนโยบายแล้ว ตัวอย่างเช่น อุปกรณ์ต้องมีรหัส PIN อย่างน้อย 6 หลักก่อนที่จะถือว่าตรงตามมาตรฐาน
+- สร้าง **นโยบายการเข้าถึงตามเงื่อนไข**  ที่กําหนดว่าทรัพยากรใดที่ได้รับการป้องกัน และเงื่อนไขที่ต้องใช้เพื่อเข้าถึงทรัพยากรเหล่านั้น  [ตัวอย่างเช่น อุปกรณ์](https://docs.microsoft.com/intune/tutorial-protect-email-on-unmanaged-devices#create-conditional-access-policies)  จะต้องปฏิบัติตามนโยบายก่อนที่จะเข้าถึงอีเมลของบริษัท
+- ตรวจสอบให้แน่ใจ **ว่านโยบายการปฏิบัติตาม****นโยบายและนโยบายการเข้าถึง** ตามเงื่อนไขถูกตั้งเป้าหมายไปยังกลุ่มผู้ใช้ที่ต้องการ ซึ่งอาจต้องมีการสร้างกลุ่มเฉพาะของผู้ใช้ใน Azure Active Directory
 
-**ลิงก์ที่มีประโยชน์:**
+**ลิงก์ที่เป็นประโยชน์:**
 
-[ภาพรวมการปฏิบัติตามกฎระเบียบของอุปกรณ์](https://docs.microsoft.com/intune/device-compliance-get-started)
+[ภาพรวมการปฏิบัติตามนโยบายอุปกรณ์](https://docs.microsoft.com/intune/device-compliance-get-started)
 
 [การแก้ไขปัญหา CA](https://docs.microsoft.com/intune/troubleshoot-conditional-access)
 
-[นโยบายการแก้ไขปัญหา](https://docs.microsoft.com/intune/troubleshoot-policies-in-microsoft-intune)
+[การแก้ไขปัญหานโยบาย](https://docs.microsoft.com/troubleshoot/mem/intune/troubleshoot-policies-in-microsoft-intune)
 
-เมื่อต้องการป้องกันอีเมล (Exchange online) จาก access โดยอุปกรณ์ noncompliant เอกสารทั้งสองต้องเป็นไปตาม:
+เมื่อต้องการป้องกันอีเมล (Exchange Online) จากการเข้าถึงด้วยอุปกรณ์ที่ไม่เข้ากัน ต้องปฏิบัติตามทั้งสองเอกสาร:
 
-1. [ป้องกันการเข้าถึงอีเมลจากอุปกรณ์ที่ใช้ EAS](https://docs.microsoft.com/intune/tutorial-protect-email-on-unmanaged-devices)
-2. [ป้องกันการเข้าถึงอีเมลจากอุปกรณ์ที่ใช้ไคลเอ็นต์การรับรองความถูกต้องที่ทันสมัยเช่น Outlook](https://docs.microsoft.com/intune/tutorial-protect-email-on-enrolled-devices)
+1. [ป้องกันการเข้าถึงอีเมลจากอุปกรณ์โดยใช้ EAS](https://docs.microsoft.com/intune/tutorial-protect-email-on-unmanaged-devices)
+2. [ป้องกันการเข้าถึงอีเมลจากอุปกรณ์โดยใช้ไคลเอ็นต์การรับรองความถูกต้องสมัยใหม่ เช่น Outlook](https://docs.microsoft.com/intune/tutorial-protect-email-on-enrolled-devices)

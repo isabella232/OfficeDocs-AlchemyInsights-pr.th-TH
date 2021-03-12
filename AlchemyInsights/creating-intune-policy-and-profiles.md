@@ -1,5 +1,5 @@
 ---
-title: สร้างนโยบายของ Intune และโปรไฟล์ของ Intune
+title: สร้างนโยบายและโปรไฟล์ Intuny
 ms.author: mandia
 author: mandia
 manager: dougeby
@@ -13,34 +13,34 @@ ms.collection: Adm_O365
 ms.custom:
 - "1064"
 - "6700005"
-ms.openlocfilehash: 9026beac824ebc3849241dbb534c27b00ef1d0eb
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: af8f1a3dfaccaca52f187f387274d63b22631b2d
+ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47746778"
+ms.lasthandoff: 03/10/2021
+ms.locfileid: "50704661"
 ---
-# <a name="creating-intune-policy-and-profiles"></a>การสร้างนโยบายและโพรไฟล์ของ Intune
+# <a name="creating-intune-policy-and-profiles"></a>การสร้างนโยบายและโปรไฟล์ Intun1
 
-ใน Intune คุณสามารถสร้างนโยบายและโปรไฟล์ที่ทำสิ่งต่างๆได้
+Intuny คุณสามารถสร้างนโยบายและโปรไฟล์ที่ปฏิบัติสิ่งต่าง ๆ ได้
 
-- **โปรไฟล์การลงทะเบียน**: กำหนดการอุปกรณ์ของคุณตาม platform ให้เปิดใช้งานความสัมพันธ์ของผู้ใช้ใช้การรับรองความถูกต้องแบบหลายปัจจัยและอื่นๆ
+- **โปรไฟล์การลงทะเบียน**: ตั้งค่าอุปกรณ์ของคุณล่วงหน้าตามแพลตฟอร์ม เปิดใช้งานการยืนยันผู้ใช้ ใช้การรับรองความถูกต้องแบบหลายปัจจัย และอื่นๆ
 
-  การ[ลงทะเบียนอุปกรณ์คืออะไร](https://docs.microsoft.com/intune/device-enrollment)และสร้างโปรไฟล์การลงทะเบียนสำหรับ[Android](https://docs.microsoft.com/intune/android-enroll), [iOS](https://docs.microsoft.com/intune/ios-enroll), [macOS](https://docs.microsoft.com/intune/macos-enroll)และ[Windows](https://docs.microsoft.com/intune/windows-enrollment-methods)เป็นแหล่งข้อมูลที่ดี
+  [การลงทะเบียนอุปกรณ์คืออะไร](https://docs.microsoft.com/intune/device-enrollment)และสร้างโปรไฟล์การลงทะเบียน for [Android,](https://docs.microsoft.com/intune/android-enroll) [iOS,](https://docs.microsoft.com/intune/ios-enroll) [macOS](https://docs.microsoft.com/intune/macos-enroll)และ [Windows](https://docs.microsoft.com/intune/windows-enrollment-methods) เป็นแหล่งข้อมูลที่ดี
 
-- **นโยบายการปฏิบัติตามกฎระเบียบ**: กำหนดกฎและการตั้งค่าที่อุปกรณ์ต้องเป็นไปตามเพื่อให้สอดคล้องกัน นอกจากนี้คุณยังสามารถใช้นโยบายการปฏิบัติตามนโยบายเพื่อตรวจสอบอุปกรณ์และแจ้งให้ผู้ใช้ที่ไม่ปฏิบัติตามข้อบังคับ
+- **นโยบายการปฏิบัติตาม** นโยบาย : กําหนดกฎและการตั้งค่าที่อุปกรณ์ต้องปฏิบัติตามให้เป็นไปตามข้อกําหนด คุณยังสามารถใช้นโยบายการปฏิบัติตามนโยบายเพื่อตรวจสอบอุปกรณ์ และแจ้งให้ผู้ใช้ทราบเกี่ยวกับการปฏิบัติตามข้อบังคับ
 
-  เริ่มต้นใช้งาน[นโยบายการปฏิบัติตามนโยบายของอุปกรณ์](https://docs.microsoft.com/intune/device-compliance-get-started)
-- **นโยบายการเข้าถึงตามเงื่อนไข**: ช่วยรักษาความปลอดภัยทรัพยากรขององค์กรทั้งนี้ขึ้นอยู่กับเงื่อนไขที่คุณใส่ ตัวอย่างเช่นสำหรับอุปกรณ์ที่ไม่สอดคล้องกันให้ใช้การเข้าถึงตามเงื่อนไขเพื่อจำกัดการเข้าถึงอีเมลและ SharePoint
+  เริ่มต้นใช้งานนโยบาย[การปฏิบัติตามนโยบายของอุปกรณ์](https://docs.microsoft.com/intune/device-compliance-get-started)
+- **นโยบายการเข้าถึงตามเงื่อนไข**: ช่วยรักษาความปลอดภัยของแหล่งข้อมูลขององค์กร โดยขึ้นอยู่กับเงื่อนไขที่คุณใส่ ตัวอย่างเช่น ใช้การเข้าถึงตามเงื่อนไขเพื่อจํากัดการเข้าถึงอีเมลและ SharePoint
 
-  การ[เข้าถึงเงื่อนไข](https://docs.microsoft.com/intune/conditional-access)และ[วิธีทั่วไปในการใช้การเข้าถึง](https://docs.microsoft.com/intune/conditional-access-intune-common-ways-use)แบบมีเงื่อนไขคือทรัพยากรที่ดีในการเริ่มต้นใช้งาน
+  [การเข้าถึงตามเงื่อนไขและ](https://docs.microsoft.com/intune/conditional-access)[วิธีทั่วไปในการใช้การเข้าถึงตามเงื่อนไข](https://docs.microsoft.com/intune/conditional-access-intune-common-ways-use)คือแหล่งข้อมูลที่ดีในการเริ่มต้นใช้งาน
 
-- **โปรไฟล์การกำหนดค่า**: จัดการฟีเจอร์และการตั้งค่าบนอุปกรณ์รวมถึงการตั้งค่าอีเมลเพิ่มเครือข่าย WiFi ใช้เทมเพลตที่มีอยู่แล้วภายในตัวควบคุมอุปกรณ์ IOS และ macOS และอื่นๆ
+- **โปรไฟล์การกําหนด** ค่า : จัดการฟีเจอร์และการตั้งค่าบนอุปกรณ์ รวมถึงการตั้งค่าอีเมล เพิ่มเครือข่าย WiFi ใช้เทมเพลตที่มีอยู่แล้วภายใน ควบคุมฟีเจอร์ของอุปกรณ์ iOS และ macOS และอื่นๆ
 
-  เริ่มต้นใช้งานที่[โปรไฟล์การกำหนดค่าอุปกรณ์](https://docs.microsoft.com/intune/device-profiles)
+  เริ่มต้นใช้งานโปรไฟล์ [การกําหนดค่า](https://docs.microsoft.com/intune/device-profiles)อุปกรณ์
 
-ลิงก์ที่มีประโยชน์:
+ลิงก์ที่เป็นประโยชน์:
 
-- [คำถามทั่วไปปัญหาและวิธีแก้ไขปัญหาเกี่ยวกับนโยบายของอุปกรณ์และโปรไฟล์ใน Intune](https://docs.microsoft.com/intune/device-profile-troubleshoot)
+- [ข้อถาม ปัญหา และการแก้ไขปัญหาทั่วไปเกี่ยวกับนโยบายอุปกรณ์และโปรไฟล์ใน Intuny](https://docs.microsoft.com/intune/device-profile-troubleshoot)
 
-- [การแก้ไขปัญหานโยบายและโปรไฟล์ใน Intune](https://docs.microsoft.com/intune/troubleshoot-policies-in-microsoft-intune)
+- [แก้ไขปัญหานโยบายและโปรไฟล์ใน Intun1](https://docs.microsoft.com/troubleshoot/mem/intune/troubleshoot-policies-in-microsoft-intune)

@@ -12,24 +12,24 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000734"
 - "2657"
-ms.openlocfilehash: 683ca12c8f6e2511311c10ab5c4599ee66c08eb8
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 24a55417df0f89063fbdd9ade6d104be4f8ab49c
+ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47794353"
+ms.lasthandoff: 03/10/2021
+ms.locfileid: "50704625"
 ---
-# <a name="manage-meeting-policies-in-microsoft-teams"></a>จัดการนโยบายการประชุมในทีม Microsoft
+# <a name="manage-meeting-policies-in-microsoft-teams"></a>จัดการนโยบายการประชุมใน Microsoft Teams
 
-**หมายเหตุ: อาจใช้เวลาถึง24ชั่วโมงเพื่อให้การเปลี่ยนแปลงนโยบายมีผลต่อผู้ใช้** คุณอาจไม่สามารถทำการเปลี่ยนแปลงไปยังนโยบายที่สร้างขึ้นใหม่ได้ทันที รอ4ชั่วโมงและพยายามปรับเปลี่ยนนโยบายที่สร้างขึ้นใหม่อีกครั้ง
+**หมายเหตุ: อาจต้องใช้เวลาถึง 24 ชั่วโมงเพื่อให้การเปลี่ยนแปลงนโยบายมีผลกับผู้ใช้** คุณอาจไม่สามารถเปลี่ยนแปลงนโยบายที่สร้างขึ้นใหม่ได้ทันที รอ 4 ชั่วโมงและพยายามปรับเปลี่ยนนโยบายที่สร้างขึ้นใหม่อีกครั้ง
 
-นโยบายการประชุมจะถูกใช้ในการควบคุมฟีเจอร์ที่พร้อมใช้งานสำหรับผู้เข้าร่วมการประชุมสำหรับการประชุมที่จัดกำหนดการโดยผู้ใช้ในองค์กรของคุณ ฟีเจอร์บางอย่างของนโยบายการประชุมอาจไม่ถูกนำไปใช้ในศูนย์การจัดการทีมยัง (เหล่านี้จะมีป้ายชื่อว่า "มาเร็วๆนี้" ในเอกสารประกอบ) ในกรณีนี้หรือถ้าคุณได้รับข้อผิดพลาดเช่น "เราไม่สามารถอัปเดตรายละเอียดได้ในขณะนี้แต่ลองอีกครั้งในภายหลัง" ในศูนย์การจัดการทีมของ Microsoft เราขอแนะนำให้คุณใช้ PowerShell เพื่อสร้างหรือปรับเปลี่ยนนโยบายการประชุมของทีม 
+นโยบายการประชุมจะถูกใช้เพื่อควบคุมฟีเจอร์ที่พร้อมใช้งานกับผู้เข้าร่วมการประชุมของการประชุมที่ถูกจัดเวลาโดยผู้ใช้ในองค์กรของคุณ ฟีเจอร์บางอย่างของนโยบายการประชุมอาจยังไม่มีการปรับใช้ในศูนย์การจัดการ Teams (จะมีป้ายชื่อ "เร็วๆ นี้" ในเอกสาร) ในกรณีนี้ หรือถ้าคุณได้รับข้อผิดพลาด เช่น "เราไม่สามารถอัปเดตนโยบายได้ในขณะนี้ แต่ลองอีกครั้งในภายหลัง" ในศูนย์การจัดการ Microsoft Teams เราขอแนะนนะให้คุณใช้ PowerShell เพื่อสร้างหรือปรับเปลี่ยนนโยบายการประชุม Teams 
 
-สำหรับข้อมูลเพิ่มเติมเกี่ยวกับนโยบายการประชุมให้ดูที่แหล่งข้อมูลต่อไปนี้:
+ดูข้อมูลเพิ่มเติมเกี่ยวกับนโยบายการประชุมที่แหล่งข้อมูลต่อไปนี้
 
-- เมื่อต้องการเรียนรู้เกี่ยวกับการสร้างนโยบายการทำการเปลี่ยนแปลงและการกำหนดผู้ใช้ให้กับนโยบายให้ดูที่[จัดการนโยบายการประชุมในทีม](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams)
+- เมื่อต้องการเรียนรู้เกี่ยวกับการสร้างนโยบาย การเปลี่ยนแปลง และการกําหนดผู้ใช้ให้กับนโยบาย ให้ดูที่[จัดการนโยบายการประชุมใน Teams](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams)
 
-- เมื่อต้องการทำการเปลี่ยนแปลงนโยบายโดยใช้ cmdlet ของ PowerShell ให้ดูที่[ภาพรวมของทีม PowerShell](https://docs.microsoft.com/microsoftteams/teams-powershell-overview) 
-    - คุณจำเป็นต้องใช้ [โมดูล PowerShell ของ Skype For business](https://www.microsoft.com/download/details.aspx?id=39366) สำหรับนโยบายการประชุมของทีม 
-    - ตรวจทาน [คู่มือ cmdlet ของ CsTeamsMeetingPolicy](https://docs.microsoft.com/search/?search=CsTeamsMeetingPolicy&view=skype-ps) สำหรับข้อมูลเพิ่มเติม
+- เมื่อต้องการเปลี่ยนแปลงนโยบายโดยใช้ cmdlet ของ PowerShell ให้ดู [ภาพรวม PowerShell ของ](https://docs.microsoft.com/microsoftteams/teams-powershell-overview)Teams 
+    - คุณต้องใช้มอดู [ล PowerShell ของ Skype for Business](https://docs.microsoft.com/skypeforbusiness/set-up-your-computer-for-windows-powershell/download-and-install-the-skype-for-business-online-connector) เพื่อใช้งานนโยบายการประชุม Teams 
+    - ตรวจทาน [เอกสาร cmdlets *-CsTeamsMeetingPolicy cmdlets](https://docs.microsoft.com/search/?search=CsTeamsMeetingPolicy&view=skype-ps) เพื่อดูข้อมูลเพิ่มเติม
 
