@@ -12,22 +12,22 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003958"
 - "7014"
-ms.openlocfilehash: cc6fd9d874bb1a02a98d6d6c4c9991f0b02f91fb
-ms.sourcegitcommit: 77d16f186ac95e85be2528c4756f0dac9368fe92
+ms.openlocfilehash: 8711b33851e2dac4499f39e3bfbff955d3cb91e3
+ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 12/18/2020
-ms.locfileid: "49722166"
+ms.lasthandoff: 03/10/2021
+ms.locfileid: "50708045"
 ---
-# <a name="troubleshoot-problems-with-accessing-webmail"></a><span data-ttu-id="b9d5d-102">การแก้ไขปัญหาเกี่ยวกับการเข้าถึงเว็บเมล</span><span class="sxs-lookup"><span data-stu-id="b9d5d-102">Troubleshoot problems with accessing webmail</span></span>
+# <a name="troubleshoot-problems-with-accessing-webmail"></a><span data-ttu-id="be100-102">การแก้ไขปัญหาเกี่ยวกับการเข้าถึงเว็บเมล</span><span class="sxs-lookup"><span data-stu-id="be100-102">Troubleshoot problems with accessing webmail</span></span>
 
-<span data-ttu-id="b9d5d-103">การตั้งค่าวันที่และเวลาไม่ถูกต้องบนพีซีของคุณอาจทำให้เกิดปัญหาในการเข้าถึงเซิร์ฟเวอร์อีเมลแบบใช้เว็บ</span><span class="sxs-lookup"><span data-stu-id="b9d5d-103">Incorrect date and time settings on your PC can cause problems with accessing web-based email servers.</span></span> <span data-ttu-id="b9d5d-104">เมื่อต้องการตรวจสอบให้แน่ใจว่าการตั้งค่าวันที่และเวลาถูกต้องให้ทำตามขั้นตอนต่อไปนี้</span><span class="sxs-lookup"><span data-stu-id="b9d5d-104">To ensure that the date and time settings are correct, follow these steps:</span></span>
+<span data-ttu-id="be100-103">การตั้งค่าวันที่และเวลาที่ไม่ถูกต้องบนพีซีของคุณอาจทําให้เกิดปัญหากับการเข้าถึงเซิร์ฟเวอร์อีเมลบนเว็บ</span><span class="sxs-lookup"><span data-stu-id="be100-103">Incorrect date and time settings on your PC can cause problems with accessing web-based email servers.</span></span> <span data-ttu-id="be100-104">เมื่อต้องการตรวจสอบให้แน่ใจว่าการตั้งค่าวันที่และเวลาถูกต้อง ให้ปฏิบัติตามขั้นตอนเหล่านี้:</span><span class="sxs-lookup"><span data-stu-id="be100-104">To ensure that the date and time settings are correct, follow these steps:</span></span>
 
-1. <span data-ttu-id="b9d5d-105">เลือก **เริ่ม** พิมพ์ **วันที่และเวลา** จากนั้นเลือก **วันที่และเวลา**</span><span class="sxs-lookup"><span data-stu-id="b9d5d-105">Select **Start**, type **date and time**, and then select **Date and Time**.</span></span>
-2. <span data-ttu-id="b9d5d-106">ในหน้าต่าง **วันที่ & เวลา** ให้เลือกทำอย่างใดอย่างหนึ่งต่อไปนี้:</span><span class="sxs-lookup"><span data-stu-id="b9d5d-106">In the **Date & time** window, do one of the following:</span></span>
+1. <span data-ttu-id="be100-105">**เลือก** เริ่ม **พิมพ์** วันที่และเวลา **จากนั้นเลือกวันที่และเวลา**</span><span class="sxs-lookup"><span data-stu-id="be100-105">Select **Start**, type **date and time**, and then select **Date and Time**.</span></span>
+2. <span data-ttu-id="be100-106">ในหน้าต่าง **&วันที่** ให้เลือกเลือกอย่างใดอย่างหนึ่งต่อไปนี้</span><span class="sxs-lookup"><span data-stu-id="be100-106">In the **Date & time** window, do one of the following:</span></span>
 
-    - <span data-ttu-id="b9d5d-107">เปิดใช้งานการ **ตั้งค่าเวลาโดยอัตโนมัติ** และ **ตั้งค่าโซนเวลาโดยอัตโนมัติ**</span><span class="sxs-lookup"><span data-stu-id="b9d5d-107">Turn on **Set time automatically** and **Set time zone automatically**.</span></span>
+    - <span data-ttu-id="be100-107">เปิด **ตั้งเวลาโดยอัตโนมัติ** และ **ตั้งค่าโซนเวลา** โดยอัตโนมัติ</span><span class="sxs-lookup"><span data-stu-id="be100-107">Turn on **Set time automatically** and **Set time zone automatically**.</span></span>
 
-    - <span data-ttu-id="b9d5d-108">ปิดการตั้งค่าอัตโนมัติแต่เลือกปุ่ม **เปลี่ยน** แล้วเลือกการตั้งค่า **วันที่** และ **เวลา** ในกล่องโต้ตอบ **เปลี่ยนวันที่และเวลา** จากนั้นเลือก **เปลี่ยน**</span><span class="sxs-lookup"><span data-stu-id="b9d5d-108">Keep the auto-settings off but select the **Change** button, select the **Date** and **Time** settings in the **Change date and time** dialog box, and then select **Change**.</span></span>
+    - <span data-ttu-id="be100-108">ปิดการตั้งค่าอัตโนมัติไว้ แต่ **เลือก** ปุ่ม เปลี่ยน **แล้วเลือกการตั้งค่า** วันที่และเวลาในกล่องโต้ตอบเปลี่ยนวันที่และเวลา **แล้วเลือก** เปลี่ยน</span><span class="sxs-lookup"><span data-stu-id="be100-108">Keep the auto-settings off but select the **Change** button, select the **Date** and **Time** settings in the **Change date and time** dialog box, and then select **Change**.</span></span>
 
-<span data-ttu-id="b9d5d-109">เมื่อต้องการเรียนรู้เพิ่มเติมให้ดูที่[แก้ไขปัญหาการเข้าถึงเว็บเมลของคุณโดยใช้ Internet Explorer](https://go.microsoft.com/fwlink/?linkid=2139414)</span><span class="sxs-lookup"><span data-stu-id="b9d5d-109">To learn more, see [Troubleshoot problems accessing webmail using Internet Explorer](https://go.microsoft.com/fwlink/?linkid=2139414).</span></span>
+<span data-ttu-id="be100-109">เมื่อต้องการเรียนรู้เพิ่มเติม[ให้ดู การแก้ไขปัญหาการเข้าถึงเว็บเมลโดยใช้ Internet Explorer](https://answers.microsoft.com/windows/forum/all/problem-accessing-email-through-ie/41f871f3-6df3-4bc9-a5bd-7f71651a2888)</span><span class="sxs-lookup"><span data-stu-id="be100-109">To learn more, see [Troubleshoot problems accessing webmail using Internet Explorer](https://answers.microsoft.com/windows/forum/all/problem-accessing-email-through-ie/41f871f3-6df3-4bc9-a5bd-7f71651a2888).</span></span>
