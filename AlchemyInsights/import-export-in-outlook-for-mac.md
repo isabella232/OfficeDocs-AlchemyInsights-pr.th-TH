@@ -1,5 +1,5 @@
 ---
-title: นำเข้า-ส่งออกใน outlook-for mac
+title: import-export-in-outlook-for-mac
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -14,27 +14,27 @@ ms.custom:
 - "1800027"
 - "1222"
 ms.assetid: ''
-ms.openlocfilehash: 7ce37e2ea3efbc762d5298311eac6054d238224c
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: fcba3e4b8979bd75e97ac67282c7b7893d4d7abc
+ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47667933"
+ms.lasthandoff: 03/10/2021
+ms.locfileid: "50708117"
 ---
-# <a name="importexport-in-outlook-for-mac"></a>นำเข้า/ส่งออกใน Outlook for Mac 
+# <a name="importexport-in-outlook-for-mac"></a>นําเข้า/ส่งออกใน Outlook for Mac 
 
-ส่งออก
-1. บนแท็บ**เครื่องมือ**ให้เลือก**ส่งออก**
-2. ในกล่อง**บันทึกเป็น**ภายใต้**รายการโปรด**ให้เลือกโฟลเดอร์**ดาวน์โหลด**แล้วเลือก**บันทึก**
-3. เมื่อคุณเห็นการแจ้งให้ทราบว่าการส่งออกเสร็จสมบูรณ์แล้วให้เลือก**เสร็จสิ้น**
+ส่งออก:
+1. **บนแท็บ** เครื่องมือ **ให้เลือก** ส่งออก
+2. ในกล่อง **บันทึก** เป็น **ภายใต้** รายการโปรด ให้เลือก **โฟลเดอร์** ดาวน์โหลด **แล้วเลือก** บันทึก
+3. เมื่อคุณเห็นการแจ้งเตือนว่าการส่งออกเสร็จสมบูรณ์แล้ว **ให้เลือก** เสร็จสิ้น
 
-นำเข้า
-1. บนแท็บ**เครื่องมือ**ให้เลือก**นำเข้า**
-2. เลือก**ไฟล์เก็บถาวรของ Outlook for Windows (.pst)**  >  **ต่อ**
-3. ค้นหาไฟล์ .pst บน Mac ของคุณจากนั้นเลือก**นำเข้า**
-4. เมื่อกระบวนการนำเข้าเสร็จสมบูรณ์ให้เลือก**เสร็จสิ้น**
-5. รายการที่นำเข้าจะปรากฏขึ้นในบานหน้าต่างนำทางภายใต้**บนคอมพิวเตอร์ของฉัน**
+นําเข้า:
+1. บนแท็บ **เครื่องมือ** ให้เลือก **นํา** เข้า
+2. เลือก **ไฟล์เก็บถาวร Outlook for Windows (.pst)**  >  **Continue**
+3. ค้นหาไฟล์ .pst บน Mac ของคุณ แล้วเลือก **นํา** เข้า
+4. เมื่อขั้นตอนการนําเข้าเสร็จสมบูรณ์ **ให้เลือก** เสร็จสิ้น
+5. รายการที่นําเข้าจะปรากฏในบานหน้าต่างนําทาง **ภายใต้ บนคอมพิวเตอร์** ของฉัน
 
-สำหรับชุดคำแนะนำการนำเข้าและส่งออกทั้งหมดสำหรับ Outlook for Mac ให้ดูที่การ[นำเข้าและส่งออกอีเมล Outlook ที่ติดต่อและปฏิทิน](https://support.office.com/article/92577192-3881-4502-b79d-c3bbada6c8ef#ID0EAACAAA=Mac) 
+For full set of Import and Export instructions for Outlook for Mac see [Import and export Outlook email, contacts, and calendar](https://support.office.com/article/92577192-3881-4502-b79d-c3bbada6c8ef#ID0EAACAAA=Mac). 
 
-เมื่อต้องการรับการสนับสนุนในแอปสำหรับปัญหา Outlook for Mac ให้เปิด Outlook แล้วเลือก**วิธีใช้**  >  **ติดต่อฝ่ายสนับสนุน** พิมพ์คำถามของคุณและสมาชิกของทีมสนับสนุน Outlook for Mac จะได้รับการติดต่อกับคุณ [ติดต่อฝ่ายสนับสนุนใน Outlook for Mac](https://go.microsoft.com/fwlink/?linkid=2002400&clcid=0x409)
+เมื่อต้องการรับการสนับสนุนในแอป Outlook for Mac ให้เปิด Outlookแล้วเลือก  >  **ติดต่อฝ่ายสนับสนุน** ของวิธีใช้ พิมพ์คําถามของคุณและสมาชิกของทีมสนับสนุน Outlook for Mac จะติดต่อกับคุณ [ติดต่อฝ่ายสนับสนุนใน Outlook for Mac](https://support.microsoft.com/office/contact-support-within-outlook-for-mac-d0410177-8e65-4487-93f7-206a3a3d71a8)

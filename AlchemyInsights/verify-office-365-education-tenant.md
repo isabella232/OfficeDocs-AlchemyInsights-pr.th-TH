@@ -1,5 +1,5 @@
 ---
-title: ตรวจสอบผู้เช่า Office ๓๖๕ Education
+title: ตรวจสอบผู้เช่า Office 365 Education
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
@@ -12,13 +12,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002258"
 - "4360"
-ms.openlocfilehash: 783e764f4f6da4ed2ceb19f8734d4178fa362edd
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: d9022e51ab2dc7119adaebe3d8315dd18670963d
+ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47796523"
+ms.lasthandoff: 03/10/2021
+ms.locfileid: "50707433"
 ---
-# <a name="verify-office-365-education-tenant"></a>ตรวจสอบผู้เช่า Office ๓๖๕ Education
+# <a name="verify-office-365-education-tenant"></a>ตรวจสอบผู้เช่า Office 365 Education
 
-ผู้เช่าของคุณสามารถตรวจสอบได้ว่าเป็นผู้เช่าการศึกษาโดยทำตามขั้นตอนง่ายๆไม่กี่ขั้นตอน ตรวจทาน [การตั้งค่าผู้เช่า Office ๓๖๕](https://docs.microsoft.com/microsoft-365/education/intune-edu-trial/set-up-office365-edu-tenant) สำหรับข้อมูลเพิ่มเติม 
+ผู้เช่าของคุณสามารถตรวจสอบแล้วว่าเป็นผู้เช่าทางการศึกษาโดยปฏิบัติตามขั้นตอนง่ายๆ สองสามขั้นตอน ตรวจทาน [ตั้งค่าผู้เช่า Office 365](https://docs.microsoft.com/microsoft-365/education/deploy/create-your-office-365-tenant) เพื่อดูข้อมูลเพิ่มเติม 

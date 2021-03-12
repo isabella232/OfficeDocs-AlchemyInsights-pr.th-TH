@@ -1,5 +1,5 @@
 ---
-title: การนำป้ายความลับไปใช้โดยอัตโนมัติ
+title: ใช้ป้ายชื่อระดับความลับโดยอัตโนมัติ
 ms.author: pebaum
 author: pebaum
 manager: laurawi
@@ -12,29 +12,29 @@ localization_priority: Normal
 ms.custom:
 - "1737"
 - "9000181"
-ms.openlocfilehash: 8f316ad92ff31e28c3b3ffd25f25bd03ee159380
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: fb05213b7b1efecbabc3e25f6c4587b0d303f783
+ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47715184"
+ms.lasthandoff: 03/10/2021
+ms.locfileid: "50707253"
 ---
-# <a name="auto-apply-sensitivity-labels"></a>การนำป้ายความลับไปใช้โดยอัตโนมัติ
+# <a name="auto-apply-sensitivity-labels"></a>ใช้ป้ายชื่อระดับความลับโดยอัตโนมัติ
 
-ป้ายชื่อความลับสามารถนำไปใช้กับเนื้อหาของผู้ใช้ด้วยตนเองหรือคุณสามารถกำหนดค่าให้นำไปใช้กับเนื้อหาโดยอัตโนมัติได้
+ป้ายชื่อระดับความลับสามารถถูกปรับใช้กับเนื้อหาด้วยตนเองโดยผู้ใช้ หรือคุณสามารถกําหนดค่าให้ใช้กับเนื้อหาโดยอัตโนมัติได้
 
-การนำป้ายความลับไปใช้โดยอัตโนมัติเอาความต้องการในการฝึกอบรมผู้ใช้เกี่ยวกับวิธีการจัดประเภทเนื้อหาและจำเป็นต้องแจ้งให้พวกเขาทราบเกี่ยวกับการกำหนดค่านโยบาย
+การใช้ป้ายชื่อระดับความลับโดยอัตโนมัติจะลบความต้องฝึกอบรมผู้ใช้เกี่ยวกับวิธีการจัดประเภทเนื้อหาและความต้องแจ้งให้พวกเขาทราบเกี่ยวกับการกําหนดค่านโยบาย
 
-เมื่อต้องการนำป้ายชื่อไปใช้โดยอัตโนมัติจำเป็นต้องมีสิ่งต่อไปนี้:
+เมื่อต้องการใช้ป้ายชื่อโดยอัตโนมัติ สิ่งต่อไปนี้จะต้องใช้:
 
-- การสมัครใช้งานข้อมูล Azure Protection P2
-- [ดาวน์โหลดและติดตั้งไคลเอ็นต์การติดตามข้อมูล Azure unified](https://docs.microsoft.com/azure/information-protection/rms-client/install-unifiedlabelingclient-app)
+- การสมัครใช้งาน Azure Information Protection P2
+- [ดาวน์โหลดและติดตั้งไคลเอ็นต์ป้ายผนึกส่วนรวมของ Azure Information Protection](https://docs.microsoft.com/azure/information-protection/rms-client/install-unifiedlabelingclient-app)
 
-เรากำลังทำงานกับการสนับสนุนพื้นเมืองที่ไม่จำเป็นต้องมีการป้องกันข้อมูล Azure ที่รวมกันไคลเอ็นต์การติดฉลากในอนาคต
+เราพยายามอย่างเต็มที่ที่จะไม่ต้องใช้ไคลเอ็นต์การติดป้ายรวมของ Azure Information Protection ในอนาคต
 
-ในปัจจุบัน Windows เท่านั้นที่สนับสนุนไคลเอ็นต์การติดฉลากแบบครบวงจร  ฟีเจอร์นี้ยังไม่ได้รับการสนับสนุนบน Mac, iOS และ Android
+ในขณะนี้ เฉพาะ Windows เท่านั้นที่สนับสนุนไคลเอ็นต์ป้ายผนึกแบบรวม  ฟีเจอร์นี้ยังไม่ได้รับการสนับสนุนบน Mac, iOS และ Android
 
-สำหรับข้อมูลเพิ่มเติมเกี่ยวกับป้ายชื่อความลับและนำไปใช้กับเนื้อหาโดยอัตโนมัติให้ดูที่:
+ดูข้อมูลเพิ่มเติมเกี่ยวกับป้ายชื่อระดับความลับและปรับใช้กับเนื้อหาโดยอัตโนมัติที่:
 
-- [ภาพรวมของป้ายชื่อความลับ](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels)
-- [นำป้ายความลับไปใช้กับเนื้อหาโดยอัตโนมัติ](https://docs.microsoft.com/office365/securitycompliance/apply_sensitivity_label_automatically)
+- [ภาพรวมของป้ายระดับความลับ](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels)
+- [ใช้ป้ายชื่อระดับความลับกับเนื้อหาโดยอัตโนมัติ](https://docs.microsoft.com/microsoft-365/compliance/apply-sensitivity-label-automatically)

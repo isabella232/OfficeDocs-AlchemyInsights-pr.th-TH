@@ -1,9 +1,9 @@
 ---
-title: ปัญหาเกี่ยวกับลิงก์และ Url
+title: ปัญหาเกี่ยวกับลิงก์และ URL
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
-ms.date: 01/15/2021
+ms.date: 02/25/2021
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -13,45 +13,45 @@ ms.collection: Adm_O365
 ms.custom:
 - "7720"
 - "9004329"
-ms.openlocfilehash: 24885d873d6471a72ae66581ad1ceb0a19b664f7
-ms.sourcegitcommit: 029c4697b77ce996d41ca74c4fa86de1bb84bd99
+ms.openlocfilehash: f682afc2006957a83d02973d28e2a07ee63ac888
+ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 01/25/2021
-ms.locfileid: "49974756"
+ms.lasthandoff: 03/10/2021
+ms.locfileid: "50707901"
 ---
-# <a name="issues-with-links-and-urls"></a>ปัญหาเกี่ยวกับลิงก์และ Url
+# <a name="issues-with-links-and-urls"></a>ปัญหาเกี่ยวกับลิงก์และ URL
 
-การเปลี่ยนเส้นทาง Url URI/ตอบกลับ (ทั้งสองนิพจน์จะสามารถเปลี่ยนได้) คือ Url ที่ใช้โดยแพลตฟอร์มสำหรับข้อมูลเฉพาะตัวของ Microsoft เพื่อส่งกลับโทเค็นที่ร้องขอแอป สำหรับข้อมูลเกี่ยวกับ Url เหล่านี้ให้ดูบทความต่อไปนี้:
+URL การเปลี่ยนเส้นทาง URI/การตอบกลับ (ทั้งสองนิพจน์สามารถสลับกันได้) คือ URL ที่ใช้โดยแพลตฟอร์มข้อมูลเฉพาะตัวของ Microsoft เพื่อส่งกลับโทเค็นที่ร้องขอโดยแอป ดูบทความต่อไปนี้เพื่อดูข้อมูลเกี่ยวกับ URL เหล่านี้:
 
-- [ขั้นตอนการรับรองความถูกต้องและสถานการณ์สมมติของแอปพลิเคชัน](https://docs.microsoft.com/azure/active-directory/develop/authentication-flows-app-scenarios) -ข้อมูลเกี่ยวกับการเปลี่ยนเส้นทาง URIs ในหน้าการ **ลงทะเบียนแอปของ** แต่ละสถานการณ์
-- [การเปลี่ยนเส้นทางข้อจำกัดและข้อจำกัดของ URL ของ URI/ตอบกลับ](https://docs.microsoft.com/azure/active-directory/develop/reply-url)
+- [การรับรองความถูกต้องโฟลว์และสถานการณ์สมมติ](https://docs.microsoft.com/azure/active-directory/develop/authentication-flows-app-scenarios) ของแอปพลิเคชัน - ข้อมูลเกี่ยวกับ URI การเปลี่ยนเส้นทาง **ในหน้าการลงทะเบียน** แอปของแต่ละสถานการณ์
+- [การเปลี่ยนเส้นทางข้อจํากัดและข้อจํากัดของ URL URI/การตอบกลับ](https://docs.microsoft.com/azure/active-directory/develop/reply-url)
 
-**ฉันไม่ทราบวิธีการลงทะเบียน URL URI/ตอบกลับที่ถูกเปลี่ยนเส้นทางขวาสำหรับแอปของฉัน**
+**ฉันไม่ทราบวิธีการลงทะเบียน URI เปลี่ยนเส้นทางที่ถูกต้อง / URL ตอบกลับของแอปของฉัน**
 
-เมื่อคุณลงชื่อเข้าใช้ด้วยแอปพลิเคชันที่คุณกำลังพัฒนาถ้ากล่องโต้ตอบการลงชื่อเข้าใช้แสดง **AADSTS50011: url ตอบกลับที่ระบุในการร้องขอไม่ตรง <your app ID> กับ url ตอบกลับที่กำหนดค่าไว้สำหรับแอปพลิเคชัน** คุณจะต้องเพิ่มลงในการลงทะเบียนแอปพลิเคชันของคุณ, URI การเปลี่ยนเส้นทางที่รหัสของคุณใช้ในการร้องขอโท
+เมื่อคุณลงชื่อเข้าใช้ด้วยแอปพลิเคชันที่คุณพัฒนา ถ้ากล่องโต้ตอบลงชื่อเข้าใช้แสดง **AADSTS50011: URL <your app ID>** ตอบกลับที่ระบุในการร้องขอไม่ตรงกับ URL ตอบกลับที่กําหนดค่าไว้ให้กับแอปพลิเคชัน คุณจะต้องเพิ่มไปยังการลงทะเบียนแอปพลิเคชันของคุณ การเปลี่ยนเส้นทาง URI ที่โค้ดของคุณใช้ในการร้องขอโทเค็นไปยังแพลตฟอร์มข้อมูลเฉพาะตัวของ Microsoft
 
-เมื่อต้องการเพิ่ม URL การตอบกลับให้ไปที่แท็บการ **รับรองความถูกต้อง** ในหน้าการ **ลงทะเบียนแอปพลิเคชัน** ของคุณในพอร์ทัล Azure และเพิ่มรายการในส่วนการ **เปลี่ยนเส้นทาง URIs** เปลี่ยนเส้นทาง URIs จะถูกพิมพ์ (เว็บหรืออุปกรณ์เคลื่อนที่/เดสก์ท็อป) ค่าที่คุณจำเป็นต้องใส่จะขึ้นอยู่กับชนิดของแอปพลิเคชันที่คุณกำลังสร้างตามที่อธิบายไว้ด้านล่าง:
+เมื่อต้องการเพิ่ม URL ตอบกลับ ให้ไปที่แท็บ **การรับรองความถูก****ต้องในหน้าการลงทะเบียน** แอปพลิเคชันในพอร์ทัล Azure และเพิ่มรายการในส่วน **URI การ** เปลี่ยนเส้นทาง ค่าที่คุณต้องใส่จะขึ้นอยู่กับชนิดของแอปพลิเคชันที่คุณสร้าง ตามที่อธิบายไว้ด้านล่าง:
 
-- สำหรับแอปพลิเคชันหน้าเดียวและเว็บแอป URL ตอบกลับคือ URL ในแอปพลิเคชันของคุณ ดูการ [ลงทะเบียนแอปพลิเคชันหน้าเดียว](https://docs.microsoft.com/azure/active-directory/develop/scenario-spa-app-registration#register-a-redirect-uri) หรือ [ลงทะเบียนแอป web App โดยใช้ Azure portal](https://docs.microsoft.com/azure/active-directory/develop/scenario-web-app-sign-user-app-registration?tabs=aspnetcore#register-an-app-using-azure-portal)
-- สำหรับแอปเดสก์ท็อปค่าที่คุณจำเป็นต้องเลือกจะขึ้นอยู่กับ:
-    - platform (MacOS จะแตกต่างจาก Windows หรือ Linux)
-    - วิธีที่คุณได้รับโทเค็น (แบบโต้ตอบที่มีการทำงานของรหัสอุปกรณ์ที่มีการรับรองความถูกต้องของ Windows แบบรวม [IWA] หรือที่มีชื่อผู้ใช้/รหัสผ่าน)
-    สำหรับรายละเอียดให้ดูที่การ [ลงทะเบียนแอปบนเดสก์ท็อป-การเปลี่ยนเส้นทาง URi](https://docs.microsoft.com/azure/active-directory/develop/scenario-desktop-app-registration#redirect-uris)
-- สำหรับแอปพลิเคชันมือถือ URI การเปลี่ยนเส้นทางจะขึ้นอยู่กับ:
-    - platform (iOS/Android/UWP)
-    - ข้อมูลที่ใช้ในการสร้างแอปของคุณเช่น ID bundle ใน iOS และชื่อแพคเกจและการแฮชสำหรับลายเซ็นบน Android การลงทะเบียนแอป Azure portal จะช่วยคุณได้ สำหรับรายละเอียดให้ดูที่[การกำหนดค่าของแพลตฟอร์มและการเปลี่ยนเส้นทาง URIs](https://docs.microsoft.com/azure/active-directory/develop/scenario-mobile-app-registration#platform-configuration-and-redirect-uris)
-
-> [!NOTE]
-> เว็บ APIs และบางวิธีที่เงียบของการรับโทเค็น (IWA และชื่อผู้ใช้/รหัสผ่าน) ไม่จำเป็นต้องมี URI การเปลี่ยนเส้นทาง
-
-**ฉันได้ปรับใช้แอปพลิเคชันเว็บของฉันและเมื่อฉันทดสอบแอปที่ปรับใช้แล้วฉันจะได้รับข้อความตอบกลับ url ที่ไม่ตรงกัน**
-
-เพิ่มการเปลี่ยนเส้นทาง URIs สำหรับตำแหน่งที่ตั้งทั้งหมดที่คุณกำลังปรับใช้แอปพลิเคชันบนเว็บของคุณ สำหรับข้อมูลเพิ่มเติมให้ดู[ที่ลงทะเบียนแอป web app โดยใช้ Azure portal](https://docs.microsoft.com/azure/active-directory/develop/scenario-web-app-sign-user-app-registration)
+- For single-page applications and web apps, the reply URL is a URL in your application. ดู [การลงทะเบียนแอปพลิเคชันหน้าเดียว](https://docs.microsoft.com/azure/active-directory/develop/scenario-spa-app-registration#register-a-redirect-uri) หรือ [ลงทะเบียนแอปบนเว็บโดยใช้พอร์ทัล Azure](https://docs.microsoft.com/azure/active-directory/develop/scenario-web-app-sign-user-app-registration?tabs=aspnetcore#register-an-app-using-azure-portal)
+- ในแอปบนเดสก์ท็อป ค่าที่คุณต้องเลือกจะขึ้นอยู่กับสิ่งต่อไปนี้
+    - แพลตฟอร์ม (MacOS แตกต่างจาก Windows หรือ Linux)
+    - วิธีที่คุณรับโทเค็น (แบบโต้ตอบด้วยลโฟลว์รหัสอุปกรณ์ด้วยการรับรองความถูกต้องของ Windows แบบรวม [IWA] หรือด้วยชื่อผู้ใช้/รหัสผ่าน)
+    For details, see [Desktop apps - การลงทะเบียนแอป - เปลี่ยนเส้นทาง URi](https://docs.microsoft.com/azure/active-directory/develop/scenario-desktop-app-registration#redirect-uris)
+- For mobile applications, the redirect URI depends on:
+    - แพลตฟอร์ม (iOS/Android/UWP)
+    - ข้อมูลที่ใช้ในการสร้างแอปของคุณ เช่น Bundle ID ใน iOS และชื่อแพคเกจและแฮชลายเซ็นบน Android การลงทะเบียนแอปพอร์ทัล Azure จะช่วยคุณได้ For details, see [platform configuration and redirect URI](https://docs.microsoft.com/azure/active-directory/develop/scenario-mobile-app-registration#platform-configuration-and-redirect-uris).
 
 > [!NOTE]
-> เพิ่มการเปลี่ยนเส้นทาง URI สำหรับตำแหน่งที่ตั้งทันทีหลังจากที่คุณได้ปรับใช้แอปพลิเคชันที่ตำแหน่งที่ตั้งนั้น
+> API เว็บและวิธีที่เงียบบางวิธีในการรับโทเค็น (IWA และชื่อผู้ใช้/รหัสผ่าน) ไม่ต้องมี URI การเปลี่ยนเส้นทาง
 
-**ฉันไม่สามารถลงทะเบียน Url การตอบกลับเพียงพอ**
+**ฉันได้ปรับใช้แอปพลิเคชันบนเว็บของฉันและเมื่อฉันทดสอบแอปที่ปรับใช้ ฉันได้รับข้อความตอบกลับ URL ที่ไม่ตรงกัน**
 
-คุณเป็น ISV และมีการเปลี่ยนเส้นทาง URIs หนึ่งหรือหลายรายการสำหรับลูกค้าทุกรายของคุณ คุณต้องการโยกย้ายจาก ADAL/Azure AD v1.0 เป็น MSAL/Microsoft identity platform และคุณจะกด[จำนวนสูงสุดของการเปลี่ยนเส้นทาง URIs](https://docs.microsoft.com/azure/active-directory/develop/reply-url#maximum-number-of-redirect-uris) เมื่อต้องการแก้ไขปัญหานี้ให้ [เพิ่มการเปลี่ยนเส้นทาง URIs ไปยัง](https://docs.microsoft.com/azure/active-directory/develop/reply-url#add-redirect-uris-to-service-principals) การรักษาบริการที่สอดคล้องกับลูกค้าแต่ละรายของคุณ
+เพิ่ม URI เปลี่ยนเส้นทางของทุกที่ตั้งที่คุณปรับใช้แอปพลิเคชันบนเว็บของคุณ ดูข้อมูลเพิ่มเติมในการลงทะเบียน[แอปบนเว็บโดยใช้พอร์ทัล Azure](https://docs.microsoft.com/azure/active-directory/develop/scenario-web-app-sign-user-app-registration)
+
+> [!NOTE]
+> เพิ่ม URI เปลี่ยนเส้นทางไปยังสถานที่หนึ่งทันทีหลังจากที่คุณได้ปรับใช้แอปพลิเคชันที่สถานที่นั้นแล้ว
+
+**ฉันไม่สามารถลงทะเบียน URL ตอบกลับได้มากพอ**
+
+คุณเป็น ISV และมี URI เปลี่ยนเส้นทางหนึ่งหรือหลายรายการกับลูกค้าของคุณทุกคน คุณต้องการโยกย้ายจาก ADAL/Azure AD v1.0 ไปยัง MSAL/แพลตฟอร์มข้อมูลเฉพาะตัวของ Microsoft และคุณมีจํานวนสูงสุดในการเปลี่ยนเส้นทาง[URI](https://docs.microsoft.com/azure/active-directory/develop/reply-url#maximum-number-of-redirect-uris) เมื่อต้องการแก้ไขปัญหานี้ [ให้เพิ่ม URI เปลี่ยนเส้นทางไปยังบริการ](https://docs.microsoft.com/azure/active-directory/develop/reply-url#add-redirect-uris-to-service-principals) หลักที่สอดคล้องกับลูกค้าของคุณแต่ละรายการ

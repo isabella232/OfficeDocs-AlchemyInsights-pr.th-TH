@@ -12,26 +12,26 @@ ms.assetid: a371aee9-9c76-4951-89c5-e9e48811eded
 ms.custom:
 - "904"
 - "2000023"
-ms.openlocfilehash: dffc58ee2a01157dca0b365d5419c571f2e545f7
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 7f61ff7eb02371790ecb335841244eddb2bcbb2e
+ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47779863"
+ms.lasthandoff: 03/10/2021
+ms.locfileid: "50707757"
 ---
 # <a name="how-to-install-office"></a>วิธีติดตั้ง Office
 
-เมื่อต้องการติดตั้งแอปพลิเคชันไคลเอ็นต์ของ Office ให้ตรวจสอบให้แน่ใจว่าคุณมีการสมัครใช้งานทางธุรกิจเช่น Microsoft ๓๖๕ Business Premium Standard, แอป Microsoft ๓๖๕สำหรับธุรกิจหรือ Office ๓๖๕ Education
+เมื่อต้องการติดตั้งแอปไคลเอ็นต์ Office ตรวจสอบให้แน่ใจว่าคุณมีการสมัครใช้งานทางธุรกิจ เช่น Microsoft 365 Business Premium Standard, Microsoft 365 Apps for business หรือ Office 365 Education
   
-*หมายเหตุ: [office Home and Business](https://products.office.com/home-and-business)เป็นผลิตภัณฑ์[office สำหรับใช้งานที่บ้าน](https://support.office.com/article/28cbc8cf-1332-4f04-9123-9b660abb629e?wt.mc_id=Alchemy_ClientDIA)และไม่ใช่ส่วนหนึ่งของการสมัครใช้งานทางธุรกิจ สำหรับคำแนะนำที่เฉพาะเจาะจงบน Visio หรือ Project ให้ดู[ติดตั้ง Visio](https://support.office.com/article/f98f21e3-aa02-4827-9167-ddab5b025710)หรือ[ติดตั้ง Project](https://support.office.com/article/7059249b-d9fe-4d61-ab96-5c5bf435f281)*
+*หมายเหตุ: [Office Home and Business](https://support.microsoft.com/office/office-for-home-and-office-for-business-plans-28cbc8cf-1332-4f04-9123-9b660abb629e)เป็นผลิตภัณฑ์ Office for [Home](https://support.office.com/article/28cbc8cf-1332-4f04-9123-9b660abb629e?wt.mc_id=Alchemy_ClientDIA)และไม่ใช่ส่วนหนึ่งของการสมัครใช้งานทางธุรกิจ หากต้องการคําแนะนําเฉพาะเกี่ยวกับ Visio หรือ Project [ให้ดู ติดตั้ง Visio](https://support.office.com/article/f98f21e3-aa02-4827-9167-ddab5b025710) [หรือติดตั้ง Project](https://support.office.com/article/7059249b-d9fe-4d61-ab96-5c5bf435f281)*
 
-สร้างบัญชีผู้ใช้และเพิ่มโดเมนของคุณ ตรวจสอบให้แน่ใจว่าผู้ใช้มีสิทธิ์การใช้งานที่ได้รับ[มอบหมาย](https://docs.microsoft.com/microsoft-365/admin/add-users/add-users)
+สร้างบัญชีผู้ใช้และเพิ่มโดเมนของคุณ ตรวจสอบให้แน่ใจว่าผู้ใช้มี[สิทธิ์การใช้งานที่ได้รับมอบหมาย](https://docs.microsoft.com/microsoft-365/admin/add-users/add-users)
 
-มีผู้ใช้แต่ละคน:
+ให้ผู้ใช้แต่ละคน:
 
-1. ไปที่หน้าพอร์ [https://portal.office.com/OLS/MySoftware.aspx](https://portal.office.com/OLS/MySoftware.aspx) ทัล:
-2. ลงชื่อเข้าใช้ด้วยบัญชีที่ทำงานหรือโรงเรียนของพวกเขาถ้ายังไม่ได้ลงชื่อเข้าใช้
-3. ภายใต้ส่วน Office ให้เลือกภาษา เลือก **ขั้นสูง** เพื่อเลือกเวอร์ชัน๓๒บิตหรือ๖๔บิต
-4. เลือก**ติดตั้ง**
+1. ไปที่หน้าพอร์ทัล [https://portal.office.com/OLS/MySoftware.aspx](https://portal.office.com/OLS/MySoftware.aspx) :
+2. ลงชื่อเข้าใช้ด้วยบัญชีที่โรงเรียนหรือที่โรงเรียนถ้ายังไม่ได้ลงชื่อเข้าใช้
+3. ภายใต้ส่วน Office ให้เลือกภาษา เลือกขั้นสูง เพื่อเลือกเวอร์ชัน 32 บิตหรือเวอร์ชัน 64 บิต
+4. เลือกติดตั้ง
 
-สำหรับขั้นตอนโดยละเอียดและวิธีแก้ไขปัญหาเมื่อติดตั้ง Office ให้ดู[ดาวน์โหลดและติดตั้งหรือติดตั้ง office ใหม่บนพีซีหรือ Mac](https://support.office.com/article/4414eaaf-0478-48be-9c42-23adc4716658?wt.mc_id=Alchemy_ClientDIA)
+ดูขั้นตอนโดยละเอียดและวิธีแก้ปัญหาเมื่อติดตั้ง Office[ดูดาวน์โหลดและติดตั้ง หรือติดตั้ง Office ใหม่บนพีซีหรือ Mac](https://support.office.com/article/4414eaaf-0478-48be-9c42-23adc4716658?wt.mc_id=Alchemy_ClientDIA)

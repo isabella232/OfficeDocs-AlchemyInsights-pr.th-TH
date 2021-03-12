@@ -1,5 +1,5 @@
 ---
-title: อัปเดตวิธีการชำระเงิน
+title: จัดการบัตรและวิธีการจ่ายเงิน
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -11,43 +11,52 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9003546"
-- "6461"
-ms.openlocfilehash: a8809cf77b0904596137a305fc3a8e05b988dc75
-ms.sourcegitcommit: d151b09064df3fb573ae07a387a08d98a9553b9b
+- "6462"
+ms.openlocfilehash: cfc4d84c8161c321a981eb5c4b0fb749c0c12047
+ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 10/28/2020
-ms.locfileid: "48807802"
+ms.lasthandoff: 03/10/2021
+ms.locfileid: "50708009"
 ---
-# <a name="updatedelete-payment-method"></a>อัปเดต/ลบวิธีการชำระเงิน
+# <a name="manage-card-and-payment-method"></a>จัดการบัตรและวิธีการจ่ายเงิน
 
-ในพอร์ทัล Azure ในฐานะผู้ดูแลระบบบัญชีผู้ใช้คุณสามารถเพิ่มบัตรเครดิตใหม่อัปเดตข้อมูลบัตรเครดิตที่มีอยู่หรือลบบัตรเครดิตที่คุณไม่ได้ใช้งาน สำหรับ[ข้อตกลงลูกค้าของ Microsoft](https://docs.microsoft.com/azure/billing/billing-how-to-change-credit-card?WT.mc_id=Portal-Microsoft_Azure_Support#check-access-to-a-microsoft-customer-agreement)วิธีการชำระเงินจะเกี่ยวข้องกับ[โปรไฟล์การเรียกเก็บเงิน](https://docs.microsoft.com/azure/billing/billing-how-to-change-credit-card?WT.mc_id=Portal-Microsoft_Azure_Support#change-payment-method-for-a-billing-profile) เฉพาะผู้ใช้ที่ลงทะเบียนสำหรับ Azure เท่านั้นที่สามารถอัปเดตวิธีการชำระเงินได้
+ในพอร์ทัล Azure ในฐานะผู้ดูแลระบบบัญชี คุณสามารถเพิ่มบัตรเดบิต/บัตรเครดิตใหม่ อัปเดตบัตรเดบิต/บัตรเครดิตที่มีอยู่ หรือลบบัตรเดบิต/บัตรเครดิตที่คุณไม่ได้ใช้ ใน [ข้อตกลงของลูกค้า Microsoft](https://docs.microsoft.com/azure/billing/billing-how-to-change-credit-card?WT.mc_id=Portal-Microsoft_Azure_Support#check-access-to-a-microsoft-customer-agreement)วิธีการจ่ายเงินจะ [เชื่อมโยงกับโปรไฟล์](https://docs.microsoft.com/azure/billing/billing-how-to-change-credit-card?WT.mc_id=Portal-Microsoft_Azure_Support#change-payment-method-for-a-billing-profile)การเรียกเก็บเงิน เฉพาะผู้ใช้ที่ลงทะเบียนกับ Azure เท่านั้นที่สามารถอัปเดตวิธีการเงินได้
 
-**อัปเดต/เปลี่ยน/เอาบัตรเครดิตหรือบัตรเดบิตที่มีอยู่ออก**
+**เพิ่มบัตรเดบิตหรือบัตรเครดิตใหม่ไปยังการสมัครใช้งาน Azure**
 
-1.  ลงชื่อเข้าใช้ [พอร์ทัล Azure](https://portal.azure.com/)ในฐานะ [ผู้ดูแลระบบบัญชีผู้ใช้](https://docs.microsoft.com/azure/billing/billing-subscription-transfer?WT.mc_id=Portal-Microsoft_Azure_Support#whoisaa) ค้นหา **การจัดการต้นทุน + การเรียกเก็บเงิน**
-2.  เลือก **วิธีการชำระเงิน** คลิกที่บัตรเครดิตหรือบัตรเดบิตที่คุณต้องการแก้ไข ฟอร์มบัตรเครดิตจะปรากฏทางด้านขวา
-3.  อัปเดตรายละเอียดของบัตรเครดิตหรือบัตรเดบิต เลือก **บันทึก**
-4.  เมื่อต้องการ **เอาออก** ให้เลือกกล่องที่อยู่ถัดจากการ์ดที่คุณต้องการเอาออก
-5.  คลิก **ลบ**
+1. ลงชื่อเข้าใช้พอร์ทัล [Azure](https://ms.portal.azure.com/) ในฐานะ [ผู้ดูแลระบบ](https://docs.microsoft.com/azure/cost-management-billing/manage/billing-subscription-transfer?WT.mc_id=Portal-Microsoft_Azure_Support#whoisaa)บัญชี เลือก **การจัดการต้นทุน +** การเรียกเก็บเงิน
+2. เลือกการสมัครใช้งานที่คุณต้องการเพิ่มบัตรเดบิตหรือบัตรเครดิต เลือก **วิธีการการ Payment**
+3. ที่มุมบนซ้าย **+** ให้เลือกเพื่อเพิ่มบัตร ฟอร์มบัตรเดบิต/บัตรเครดิตจะปรากฏขึ้นทางด้านขวา ใส่รายละเอียดบัตรเดบิตหรือบัตรเครดิต
+4. เมื่อต้องการให้บัตรใบนี้แสดงวิธีการจ่ายเงินที่ใช้งานอยู่ ให้เลือกกล่องกาเครื่องหมายถัดจาก การ **ให้วิธีการจ่ายเงิน** นี้เป็นวิธีที่ฉันใช้อยู่ที่ด้านบนของฟอร์ม บัตรใบนี้จะกลายเป็นเครื่องมือในการ Payment ที่ใช้งานของการสมัครใช้งานทั้งหมดที่ใช้บัตรใบเดียวกับการสมัครใช้บริการที่เลือก เลือกถัดไป
+5. คลิก **ตั้งค่าที่ใช้งานอยู่** 
+ 
+**อัปเดต/เปลี่ยน/เอาบัตรเดบิตหรือบัตรเครดิตที่มีอยู่ออก**
 
-**หมายเหตุ** : คุณไม่สามารถเอาบัตรเครดิตของคุณออกได้ถ้ามีการเชื่อมโยงกับการสมัครใช้งาน Microsoft ที่ใช้งานอยู่อื่นๆ คุณจะต้องเอาบัตรเครดิตออกจากการสมัครใช้งานที่ใช้งานอยู่ทั้งหมดที่คุณมีกับ Microsoft แล้วลองอีกครั้ง
+1.  ลงชื่อเข้าใช้พอร์ทัล [Azure](https://portal.azure.com/) ในฐานะ [ผู้ดูแลระบบ](https://docs.microsoft.com/azure/billing/billing-subscription-transfer?WT.mc_id=Portal-Microsoft_Azure_Support#whoisaa)บัญชี ค้นหา **การจัดการต้นทุน +** การเรียกเก็บเงิน
+2.  เลือก **วิธีการการ Payment** คลิกบัตรเดบิตหรือบัตรเครดิตที่คุณต้องการแก้ไข ฟอร์มบัตรเดบิต/บัตรเครดิตจะปรากฏขึ้นทางด้านขวา
+3.  อัปเดตรายละเอียดเดบิตหรือบัตรเครดิต เลือกบันทึก
+4.  **เมื่อต้องการ** เอาออก ให้เลือกกล่องที่อยู่ถัดจากบัตรที่คุณต้องการเอาออก
+5.  คลิกลบ
 
-เรียนรู้เพิ่มเติม: [อัปเดตเปลี่ยนแปลงหรือลบวิธีการชำระเงิน](https://docs.microsoft.com/azure/billing/billing-how-to-change-credit-card?WT.mc_id=Portal-Microsoft_Azure_Support)
+**หมายเหตุ**: คุณไม่สามารถลบบัตรเดบิต/บัตรเครดิตของคุณออกถ้าเชื่อมโยงกับการสมัครใช้งาน Microsoft อื่นๆ ที่ใช้งานอยู่ คุณจะต้องเอาบัตรเดบิต/บัตรเครดิตออกจากการสมัครใช้งานทั้งหมดที่คุณมีกับ Microsoft แล้วลองอีกครั้ง
 
-**การแก้ไขปัญหาการชำระเงิน**
+หากต้องการข้อมูลเพิ่มเติม โปรดดู [อัปเดต เปลี่ยนแปลง หรือเอาวิธีการเงินออก](https://docs.microsoft.com/azure/billing/billing-how-to-change-credit-card?WT.mc_id=Portal-Microsoft_Azure_Support)
 
-ดู [แก้ไขปัญหาเกี่ยวกับปัญหาการชำระเงิน/สถานการณ์ข้อผิดพลาด](https://support.microsoft.com/help/4505172/troubleshooting-payment-issues) เพื่อดูว่าสามารถแก้ไขปัญหาของคุณได้หรือไม่
+**แก้ไขปัญหาการจ่ายเงิน**
 
-ถ้ามีการชำระเงินที่ค้างอยู่บนบัตรเนื่องจากบัตรถูกปฏิเสธโดยสถาบันการเงินของคุณโปรดติดต่อ **สถาบันการเงิน** ของคุณเพื่อแก้ไขปัญหา ใช้ตัวชี้ที่ด้านล่าง:
+ดู [การแก้ไขปัญหาการเช็คเอาท์/สถานการณ์สมมติ](https://docs.microsoft.com/azure/cost-management-billing/manage/billing-troubleshoot-azure-payment-issues) ข้อผิดพลาดเพื่อดูว่าสามารถแก้ไขปัญหาของคุณแล้วหรือไม่
 
-- คุณอาจจำเป็นต้องตรวจสอบกับธนาคารเพื่อดูว่ามีการเปิดใช้งานธุรกรรมระหว่างประเทศบนบัตรหรือไม่
-- ถ้าบัตรมีวงเงินสินเชื่อเพื่อชำระยอดคงเหลือ
-- ถ้ามีการเปิดใช้งานการชำระเงินที่เป็นกิจวัตรบนบัตร
+ถ้ามีการค้างอยู่บนบัตรที่ค้างอยู่บนบัตรซึ่งเป็นผลมาจากสถาบันทางการเงินของคุณที่ปฏิเสธบัตรของคุณ โปรดติดต่อ **สถาบันการศึกษาของคุณเพื่อ** แก้ไขปัญหา ใช้ตัวชี้ด้านล่าง:
 
-**เอกสารที่แนะนำ**
+- คุณอาจต้องตรวจสอบกับธนาคารเพื่อดู: 
+    - ถ้าเปิดใช้งานการทรานแซคชันสากลบนบัตร
+    - ถ้าบัตรมีขีดจํากัดเครดิตในการค้างจ่ายยอดดุล
+    - ถ้าเปิดใช้งานการจ่ายเงินเป็นกิจวัตรบนบัตร
 
-- [ตั้งค่าการออกใบแจ้งหนี้](https://azure.microsoft.com/pricing/invoicing/)
-- [เปลี่ยนวิธีการชำระเงิน-คำถามที่ถามบ่อย](https://docs.microsoft.com/azure/billing/billing-how-to-change-credit-card?WT.mc_id=Portal-Microsoft_Azure_Support#frequently-asked-questions)
-- [เปลี่ยนวิธีการชำระเงินสำหรับโปรไฟล์การเรียกเก็บเงิน](https://docs.microsoft.com/azure/billing/billing-how-to-change-credit-card?WT.mc_id=Portal-Microsoft_Azure_Support#change-payment-method-for-a-billing-profile)
-- [ตรวจสอบการเข้าถึงข้อตกลงลูกค้าของ Microsoft](https://docs.microsoft.com/azure/billing/billing-how-to-change-credit-card?WT.mc_id=Portal-Microsoft_Azure_Support#check-access-to-a-microsoft-customer-agreement)
+**เอกสารที่แนะนา**
+
+- [ตั้งค่าการออกใบแจ้งหนี้](https://docs.microsoft.com/azure/cost-management-billing/manage/pay-by-invoice)
+- [เปลี่ยนวิธีการจ่ายเงิน - FAQ](https://docs.microsoft.com/azure/cost-management-billing/manage/change-credit-card?WT.mc_id=Portal-Microsoft_Azure_Support#frequently-asked-questions)
+- [เปลี่ยนวิธีการจ่ายเงินของโปรไฟล์การเรียกเก็บเงิน](https://docs.microsoft.com/azure/cost-management-billing/manage/change-credit-card?WT.mc_id=Portal-Microsoft_Azure_Support#change-payment-method-for-a-billing-profile)
+- [ตรวจสอบการเข้าถึงข้อตกลงของลูกค้า Microsoft](https://docs.microsoft.com/azure/cost-management-billing/manage/change-credit-card?WT.mc_id=Portal-Microsoft_Azure_Support#check-access-to-a-microsoft-customer-agreement)
