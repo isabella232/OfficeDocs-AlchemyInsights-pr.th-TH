@@ -1,5 +1,5 @@
 ---
-title: รุ่นของ Minecraft ที่มี Office ๓๖๕ Education ฟรี
+title: Minecraft Edition ที่มี Office 365 Education ฟรี
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -13,27 +13,27 @@ ms.custom:
 - "1427"
 - "1500009"
 ms.assetid: 7cf69a77-2212-43a7-bd68-122afd876e59
-ms.openlocfilehash: baa2401888ab3dac8f32fd2d209c3cf3cf5ce426
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 385e50304405268da638a7422c215a95f3f11e3b
+ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47674129"
+ms.lasthandoff: 03/10/2021
+ms.locfileid: "50709449"
 ---
-# <a name="minecraft-edition-with-office-365-education-for-free"></a>รุ่นของ Minecraft ที่มี Office ๓๖๕ Education ฟรี
+# <a name="minecraft-edition-with-office-365-education-for-free"></a>Minecraft Edition ที่มี Office 365 Education ฟรี
 
-[รุ่นของ Minecraft ที่มี Office ๓๖๕ Education ฟรี](https://docs.microsoft.com/education/windows/get-minecraft-for-education)
+[Minecraft Edition ที่มี Office 365 Education ฟรี](https://docs.microsoft.com/education/windows/get-minecraft-for-education)
   
-- **Minecraft: รุ่นการศึกษา** จำเป็นต้องใช้ Windows 10
+- **Minecraft: Education Edition** ต้องใช้ Windows 10
 
-- การทดลองใช้หรือการสมัครใช้งานของ **Minecraft: Edition การศึกษา** จะถูกนำเสนอให้กับผู้เช่าที่ได้รับการจัดการโดย Azure active Directory (azure AD)
+- รุ่นทดลองใช้หรือการสมัครใช้งานของ **Minecraft: Education Edition** จะเสนอให้ผู้เช่าทางการศึกษาที่ได้รับการจัดการโดย Azure Active Directory (Azure AD)
 
-  - ถ้าโรงเรียนของคุณไม่มีผู้เช่า AD Azure[ผู้ดูแลระบบ IT สามารถตั้งค่า](https://docs.microsoft.com/education/windows/school-get-minecraft)เป็นส่วนหนึ่งของกระบวนการของการรับ**Minecraft: รุ่นการศึกษา**
+  - ถ้าโรงเรียนของคุณไม่มีผู้เช่า Azure AD ผู้ดูแลระบบ [IT สามารถ](https://docs.microsoft.com/education/windows/school-get-minecraft) ตั้งค่าให้เป็นส่วนหนึ่งของกระบวนการรับ **Minecraft: Education Edition** ได้
 
-  - Office ๓๖๕ Education ซึ่งรวมถึงแอป Microsoft ๓๖๕เวอร์ชันออนไลน์พร้อมที่เก็บข้อมูลแบบออนไลน์ 1 TB ฟรีสำหรับครูและนักเรียน [ลงทะเบียนโรงเรียนของคุณสำหรับการศึกษา Office ๓๖๕](https://products.office.com/academic/office-365-education-plan)
+  - Office 365 Education ซึ่งมีแอป Microsoft 365 เวอร์ชันออนไลน์พร้อมที่จัดเก็บแบบออนไลน์ขนาด 1 TB พร้อมให้ครูและนักเรียนใช้ได้ฟรี [ลงทะเบียนโรงเรียนของคุณเกี่ยวกับ Office 365 Education](https://www.microsoft.com/education/products/office)
 
-  - ถ้าโรงเรียนของคุณมีการสมัครใช้งาน Office ๓๖๕ Education รวมถึงการสมัครใช้งาน Azure AD ฟรี [ลงทะเบียนการสมัครใช้งาน AZURE AD ฟรีของคุณ](https://msdn.microsoft.com/library/windows/hardware/mt703369%28v=vs.85%29.aspx)
+  - ถ้าโรงเรียนของคุณมีการสมัครใช้งาน Office 365 Education จะมีการสมัครใช้งาน Azure AD ฟรี [ลงทะเบียนการสมัครใช้งาน Azure AD ฟรี](https://msdn.microsoft.com/library/windows/hardware/mt703369%28v=vs.85%29.aspx)ของคุณ
 
-[เรียนรู้วิธีที่ครูสามารถรับและแจกจ่าย Minecraft: รุ่นการศึกษา](https://docs.microsoft.com/education/windows/teacher-get-minecraft)
+[เรียนรู้วิธีที่ครูสามารถดาวน์โหลดและแจกจ่าย Minecraft: Education Edition](https://docs.microsoft.com/education/windows/teacher-get-minecraft)
   
-[เรียนรู้วิธีที่ผู้ดูแลระบบ IT สามารถรับและแจกจ่าย Minecraft: Edition การศึกษา](https://docs.microsoft.com/education/windows/school-get-minecraft)และวิธีการจัดการสิทธิ์สำหรับ Minecraft
+[เรียนรู้วิธีที่ผู้ดูแลระบบ IT สามารถดาวน์โหลดและแจกจ่าย Minecraft: Education Edition](https://docs.microsoft.com/education/windows/school-get-minecraft)และวิธีการจัดการสิทธิ์ของ Minecraft

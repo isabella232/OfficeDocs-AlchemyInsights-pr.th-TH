@@ -13,21 +13,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000266"
 - "1867"
-ms.openlocfilehash: d90b60de72cf87a56e3b7f6a792708693f31af00
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: b7580f0e609d21bdc13fc07fda0bfd15bdb7a7ca
+ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47770858"
+ms.lasthandoff: 03/10/2021
+ms.locfileid: "50709089"
 ---
 # <a name="sharepoint-online-powershell"></a>Sharepoint Online PowerShell
 
-การทำงานกับ PowerShell หรือสคริปต์ภายใน Sharepoint Online หรือไม่ ไปที่ลิงก์ทางด้านล่างเพื่อดูข้อมูลเพิ่มเติม
-- [การเริ่มต้นใช้งาน SharePoint Online Management Shell](https://docs.microsoft.com/powershell/sharepoint/sharepoint-online/connect-sharepoint-online?view=sharepoint-ps)
-- [เชื่อมต่อกับ SPO PowerShell ที่มีการรับรองความถูกต้องรับรอง (MFA)](https://docs.microsoft.com/powershell/sharepoint/sharepoint-online/connect-sharepoint-online?view=sharepoint-ps#to-connect-with-multifactor-authentication-mfa)
-- [รูปแบบและหลักปฏิบัติของ SharePoint (PnP)](https://docs.microsoft.com/powershell/sharepoint/sharepoint-pnp/sharepoint-pnp-cmdlets?view=sharepoint-ps) มีไลบรารีของคำสั่ง PowerShell ที่ช่วยให้คุณสามารถดำเนินการการจัดการที่ซับซ้อนต่อ SPO
+ต้องการใช้งาน PowerShell หรือสคริปต์ภายใน Sharepoint Online ใช่ไหม ไปที่ลิงก์ด้านล่างเพื่อดูข้อมูลเพิ่มเติม
+- [เริ่มต้นใช้งาน SharePoint Online Management Shell](https://docs.microsoft.com/powershell/sharepoint/sharepoint-online/connect-sharepoint-online?view=sharepoint-ps)
+- [เชื่อมต่อกับ SPO PowerShell ที่มีการรับรองความถูกต้องแบบหลายปัจจัย (MFA)](https://docs.microsoft.com/powershell/sharepoint/sharepoint-online/connect-sharepoint-online?view=sharepoint-ps#to-connect-with-multifactor-authentication-mfa)
+- [รูปแบบและหลักปฏิบัติของ SharePoint (PnP)](https://docs.microsoft.com/powershell/sharepoint/sharepoint-pnp/sharepoint-pnp-cmdlets?view=sharepoint-ps) มีไลบรารีของสั่ง PowerShell ที่ช่วยให้คุณสามารถจัดการที่ซับซ้อนต่อ SPO ได้
 
 > [!NOTE]
-> - ถ้าคุณกำลังมีปัญหาในการเชื่อมต่อกับ SPO management shell ตรวจสอบให้แน่ใจว่าคุณได้อัปเดตเป็นเวอร์ชันล่าสุดแล้วลอง [นำเข้าโมดูลใหม่](https://docs.microsoft.com/powershell/developer/module/importing-a-powershell-module) โดยใช้ *"นำเข้าโมดูลของไมโครซอฟท์ออนไลน์. PowerShell"*
-> - ถ้าคุณกำลังพยายามเรียกใช้สคริปต์รูปแบบวัตถุฝั่งไคลเอ็นต์คุณจำเป็นต้องมีการติดตั้ง [SDK คอมโพเนนต์ของไคลเอ็นต์ Sharepoint Online](https://www.microsoft.com/download/details.aspx?id=42038) ไว้บนเครื่องภายในเครื่องของคุณ
-> - ถ้าคุณกำลังมีปัญหาในการเรียกใช้สคริปต์จาก PowerShell คุณอาจต้องการพิจารณาเรียกใช้ PowerShell ในฐานะผู้ดูแลระบบและการเปลี่ยนแปลง [นโยบายการดำเนิน](https://docs.microsoft.com/powershell/module/microsoft.powershell.core/about/about_execution_policies?view=powershell-6)การ
+> - ถ้าคุณมีปัญหาในการเชื่อมต่อกับเชลล์การจัดการ SPO ตรวจสอบให้แน่ใจว่าคุณได้อัปเดตเป็นเวอร์ชันล่าสุดแล้วและพยายามนําเข้ามอดูลอีกครั้งโดยใช้ *"Import-Module Microsoft.Online.SharePoint.PowerShell"* [](https://docs.microsoft.com/powershell/scripting/developer/module/importing-a-powershell-module?view=powershell-7.1)
+> - ถ้าคุณพยายามเรียกใช้สคริปต์โมเดลวัตถุที่ฝั่งไคลเอ็นต์ คุณจะต้องติดตั้ง [SharePoint Online Client Components SDK](https://www.microsoft.com/download/details.aspx?id=42038) บนเครื่องของคุณ
+> - If you are having issues running scripts from PowerShell, you may want to consider running PowerShell as an Administrator and changing the [Execution Policy](https://docs.microsoft.com/powershell/module/microsoft.powershell.core/about/about_execution_policies?view=powershell-6).

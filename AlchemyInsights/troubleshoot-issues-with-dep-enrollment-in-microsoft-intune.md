@@ -1,5 +1,5 @@
 ---
-title: แก้ไขปัญหาเกี่ยวกับการลงทะเบียน DEP ใน Microsoft Intune
+title: แก้ไขปัญหาการลงทะเบียน DEP ใน Microsoft Intun1
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -13,21 +13,21 @@ ms.assetid: 5d32afde-47ab-4b1e-a669-662e5dbdc213
 ms.custom:
 - "783"
 - "6200002"
-ms.openlocfilehash: 50aab6e1e3c0d74d2e305e0bdd47c92b3a27c79f
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: f76e47c2a3007175ae1bfbd9d20cb59513eb713b
+ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47797315"
+ms.lasthandoff: 03/10/2021
+ms.locfileid: "50708729"
 ---
-# <a name="troubleshoot-issues-with-dep-enrollment-in-microsoft-intune"></a>แก้ไขปัญหาเกี่ยวกับการลงทะเบียน DEP ใน Microsoft Intune
+# <a name="troubleshoot-issues-with-dep-enrollment-in-microsoft-intune"></a>แก้ไขปัญหาการลงทะเบียน DEP ใน Microsoft Intun1
 
-ตรวจทานแหล่งข้อมูลที่แสดงรายการด้านล่างเพื่อแก้ไขปัญหาของคุณได้แล้วในตอนนี้
+ตรวจสอบแหล่งข้อมูลที่แสดงอยู่ในรายการด้านล่างเพื่อแก้ไขปัญหาของคุณทันที
   
-1. ถ้าอุปกรณ์ DEP ไม่สามารถลงทะเบียนและ MFA (การรับรองความถูกต้องแบบหลายปัจจัย) ถูกเปิดใช้งานโปรดปิดใช้งาน MFA ในขณะนี้ MFA ไม่ได้รับการสนับสนุนสำหรับการลงทะเบียน DEP
+1. ถ้าอุปกรณ์ DEP ไม่สามารถลงทะเบียนและเปิดใช้งาน MFA (การรับรองความถูกต้องโดยใช้หลายปัจจัย) โปรดปิดใช้งาน MFA ขณะนี้ MFA ไม่ได้รับการสนับสนุนในการลงทะเบียน DEP
 
-2. ใช้การ [แก้ไขปัญหาของ Intune ของพอร์ทัล](https://devicemanagement.microsoft.com/#blade/Microsoft_Intune_DeviceSettings/TroubleshootBlade) เพื่อวินิจฉัยและแก้ไขปัญหาการลงทะเบียนทั่วไป ตรวจทาน [เอกสารนี้](https://docs.microsoft.com/intune/help-desk-operators) สำหรับรายละเอียดเพิ่มเติม
+2. ใช้ [พอร์ทัลการแก้ไขปัญหา Intuns](https://devicemanagement.microsoft.com/#blade/Microsoft_Intune_DeviceSettings/TroubleshootBlade) เพื่อวินิจฉัยและแก้ไขความล้มเหลวในการลงทะเบียนทั่วไป ตรวจทาน [เอกสาร](https://docs.microsoft.com/intune/help-desk-operators) นี้เพื่อดูรายละเอียดเพิ่มเติม
 
-3. ตรวจทานเอกสารเหล่านี้สำหรับรายการของข้อผิดพลาดทั่วไปที่ป้องกันการลงทะเบียนและวิธีแก้ไขปัญหาแต่ละ [คำแนะนำการแก้ไข](https://support.microsoft.com/help/4039809/troubleshooting-ios-device-enrollment-in-intune) ปัญหาและ [เอกสารการแก้ไขปัญหา](https://docs.microsoft.com/intune-classic/troubleshoot/troubleshoot-device-enrollment-in-intune)
+3. ตรวจทานเอกสารเหล่านี้เพื่อดูรายการข้อผิดพลาดทั่วไปที่ป้องกันการลงทะเบียนและการแก้ปัญหา: คู่มือ[การแก้ไขปัญหาและ](https://support.microsoft.com/help/4039809/troubleshooting-ios-device-enrollment-in-intune)[การแก้ไขปัญหาเอกสาร](https://docs.microsoft.com/troubleshoot/mem/intune/troubleshoot-device-enrollment-in-intune)
 
-4. [เรียนรู้เกี่ยวกับโปรแกรมการลงทะเบียนอุปกรณ์](https://docs.microsoft.com/intune/device-enrollment-program-enroll-ios)
+4. [เรียนรู้เกี่ยวกับโปรแกรมการลงทะเบียน](https://docs.microsoft.com/intune/device-enrollment-program-enroll-ios)อุปกรณ์

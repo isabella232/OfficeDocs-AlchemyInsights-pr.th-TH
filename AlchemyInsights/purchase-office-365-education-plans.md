@@ -1,5 +1,5 @@
 ---
-title: Microsoft ๓๖๕สำหรับการศึกษาที่ได้รับการอนุมัติ
+title: Microsoft 365 for Education - อนุมัติแล้ว
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -13,31 +13,31 @@ ms.custom:
 - "1500009"
 - "328"
 - "330"
-ms.openlocfilehash: 324b941f3814876ac28b37aa09737c861e68fe99
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 422823c3cf26570facecd408af3a9b43f578e029
+ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47693430"
+ms.lasthandoff: 03/10/2021
+ms.locfileid: "50708801"
 ---
-# <a name="microsoft-365-for-education---approved"></a>Microsoft ๓๖๕สำหรับการศึกษาที่ได้รับการอนุมัติ
+# <a name="microsoft-365-for-education---approved"></a>Microsoft 365 for Education - อนุมัติแล้ว
 
-คุณได้รับการอนุมัติสำหรับ Office ๓๖๕ Education  เมื่อต้องการซื้อ:
+คุณได้รับการอนุมัติให้ Office 365 Education  เมื่อต้องการซื้อ:
 
-1. นำทางไปยังบริการการซื้อการ**เรียกเก็บเงิน**  >  [Purchase Services](https://portal.office.com/AdminPortal/Home#/catalog)
+1. นําทาง **ไปยัง**  >  [บริการการซื้อการเรียกเก็บเงิน](https://portal.office.com/AdminPortal/Home#/catalog)
 
-2. เลือกจากรายการภายใต้**แผนการศึกษา**
+2. เลือกจากรายการภายใต้ **แผน** การศึกษา
 
-3. โฮเวอร์เหนือการสมัครใช้งานที่คุณต้องการซื้อแล้วคลิก**ซื้อทันที**
+3. โฮเวอร์เหนือการสมัครใช้งานที่คุณต้องการซื้อ แล้วคลิก **ซื้อ** ทันที
 
-4. [ตั้งค่าผู้เช่า Microsoft ๓๖๕ Education ของคุณ](https://docs.microsoft.com/microsoft-365/education/intune-edu-trial/set-up-office365-edu-tenant)
+4. [ตั้งค่าผู้เช่า Microsoft 365 Education](https://docs.microsoft.com/microsoft-365/education/deploy/create-your-office-365-tenant)ของคุณ
 
-**เปิดทีม**
+**เปิด Teams**
 
-- เมื่อต้องการเปิดใช้งาน microsoft team สำหรับผู้ใช้ทั้งหมดให้ไปที่การตั้งค่า**การตั้งค่า**  >  **Settings**  >  [ทีม microsoft](https://admin.microsoft.com/Adminportal/Home#/SettingsMultiPivot/:/Settings/L1/SkypeTeams)แล้วคลิกกล่องกาเครื่องหมาย**เปิดทีม microsoft สำหรับผู้ใช้ทั้งหมด** คลิก**บันทึกการเปลี่ยนแปลง**
+- เมื่อต้องการเปิด Microsoft Teams ให้กับผู้ใช้ทุกคน ให้ไปที่ **การตั้งค่า**  >    >  [Microsoft Teams](https://admin.microsoft.com/Adminportal/Home#/SettingsMultiPivot/:/Settings/L1/SkypeTeams)แล้วคลิก **กล่องกาเครื่องหมาย เปิด Microsoft Teams ของผู้ใช้** ทั้งหมด คลิก **บันทึก** การเปลี่ยนแปลง
 
-**การเรียนรู้และการเรียนรู้ระยะไกล**
+**การสอนและการเรียนรู้จากระยะไกล**
 
-- โปรดดูการเรียนรู้ [และการเรียนรู้ระยะไกลใน Office ๓๖๕ Education](https://support.office.com/article/remote-teaching-and-learning-in-office-365-education-f651ccae-7b65-478b-8366-51bb884025c4) เพื่อเรียนรู้เกี่ยวกับคำแนะนำล่าสุดเกี่ยวกับการตั้งค่าการวางแผนบทเรียนของโรงเรียนของคุณการประชุมและการแชร์เนื้อหากับนักเรียน
+- โปรดดูการสอน [และการเรียนรู้จากระยะไกลใน Office 365 Education](https://support.office.com/article/remote-teaching-and-learning-in-office-365-education-f651ccae-7b65-478b-8366-51bb884025c4) เพื่อเรียนรู้เกี่ยวกับแนวทางล่าสุดเกี่ยวกับการตั้งค่าการวางแผนบทเรียนของโรงเรียนการประชุมแบบเสมือนและการแชร์เนื้อหากับนักเรียน
 
-- มีคำแนะนำด้าน IT เพิ่มเติมใน[การเริ่มต้นใช้งาน Microsoft team สำหรับการเรียนรู้ระยะไกล](https://docs.microsoft.com/MicrosoftTeams/remote-learning-edu)และทำให้การ[เปลี่ยนไปใช้การเรียนรู้ระยะไกล](https://www.microsoft.com/education/remote-learning)
+- มีแนวทางด้าน IT เพิ่มเติมใน[การเริ่มต้นใช้งาน Microsoft Teams สําหรับการเรียนรู้จากระยะไกล](https://docs.microsoft.com/MicrosoftTeams/remote-learning-edu)[และการเปลี่ยนไปใช้การเรียนรู้](https://www.microsoft.com/education/remote-learning)จากระยะไกล

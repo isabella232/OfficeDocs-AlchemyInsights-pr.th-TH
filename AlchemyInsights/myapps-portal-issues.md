@@ -1,5 +1,5 @@
 ---
-title: ปัญหาเกี่ยวกับพอร์ทัลแอปของฉัน
+title: ปัญหาพอร์ทัล MyApps
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -13,54 +13,54 @@ ms.collection: Adm_O365
 ms.custom:
 - "7771"
 - "9004350"
-ms.openlocfilehash: ce17fdbda093dff6706762b6753f9cac889c3098
-ms.sourcegitcommit: e378232f4c9ef4e962208100db752221e7bd2dd6
+ms.openlocfilehash: 067e26184a5de81fe824c398d13659c41ed577c1
+ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 01/20/2021
-ms.locfileid: "49917217"
+ms.lasthandoff: 03/10/2021
+ms.locfileid: "50708585"
 ---
-# <a name="myapps-portal-issues"></a>ปัญหาเกี่ยวกับพอร์ทัลแอปของฉัน
+# <a name="myapps-portal-issues"></a>ปัญหาพอร์ทัล MyApps
 
-เมื่อต้องการแก้ไขปัญหาที่คุณพบเมื่อลงชื่อเข้าใช้หรือใช้พอร์ทัลแอปของฉันให้ดูที่การ[แก้ไขปัญหาเกี่ยวกับพอร์ทัลแอปของฉัน](https://docs.microsoft.com/azure/active-directory/user-help/my-apps-portal-end-user-troubleshoot)
+เมื่อต้องการแก้ไขปัญหาที่คุณพบเมื่อลงชื่อเข้าใช้หรือใช้พอร์ทัล แอปของฉัน ให้ดู แก้ไขปัญหาเกี่ยวกับพอร์ทัล [แอป](https://docs.microsoft.com/azure/active-directory/user-help/my-apps-portal-end-user-troubleshoot)ของฉัน
 
 **ฉันไม่เห็นแอปพลิเคชันที่ฉันคาดไว้บนแผงการเข้าถึงแอปพลิเคชัน**
 
-สำหรับคำแนะนำเกี่ยวกับการค้นหาสาเหตุที่แอปพลิเคชันที่คุณคาดว่าจะไม่ปรากฏบนแผงการเข้าถึงแอปพลิเคชันให้ดูที่:
+สําหรับแนวทางเกี่ยวกับการค้นหาสาเหตุที่แอปพลิเคชันที่คุณคาดไว้ไม่ปรากฏบนแผงการเข้าถึงแอปพลิเคชัน ให้ดู:
 
-- [ฉันไม่ทราบว่าทำไมแอปพลิเคชันที่ฉันมอบหมายไม่ปรากฏบนแผงการเข้าถึง](https://docs.microsoft.com/azure/active-directory/application-access-panel-unexpected-application-not-appearing/)
+- [ฉันไม่ทราบว่าเหตุใดแอปพลิเคชันที่ฉันมอบหมายจึงไม่ปรากฏบนแผงการเข้าถึง](https://docs.microsoft.com/azure/active-directory/manage-apps/application-sign-in-other-problem-access-panel)
      
-- [ฉันไม่ทราบสาเหตุที่แอปพลิเคชันปรากฏบนแผงการเข้าถึง](https://docs.microsoft.com/azure/active-directory/application-access-panel-unexpected-application-appears/)
+- [ฉันไม่ทราบว่าเหตุใดแอปพลิเคชันจึงปรากฏบนแผงการเข้าถึง](https://docs.microsoft.com/azure/active-directory/manage-apps/application-sign-in-other-problem-access-panel)
 
-**ฉันมีปัญหาในการลงชื่อเข้าใช้ในแผงการเข้าถึงแอปพลิเคชัน**
+**ฉันมีปัญหาในการลงชื่อเข้าใช้แผงการเข้าถึงแอปพลิเคชัน**
 
-เมื่อต้องการแก้ไขปัญหาเกี่ยวกับการลงชื่อเข้าใช้แผงการเข้าถึงแอปพลิเคชันให้ดูที่:
+เมื่อต้องการแก้ไขปัญหาเกี่ยวกับการลงชื่อเข้าใช้แผงการเข้าถึงแอปพลิเคชัน ให้ดู:
 
-[ฉันไม่สามารถลงชื่อเข้าใช้ในเว็บไซต์ของแผงการเข้าถึงได้](https://docs.microsoft.com/azure/active-directory/manage-apps/application-sign-in-other-problem-access-panel)
+[ฉันไม่สามารถลงชื่อเข้าใช้เว็บไซต์แผงการเข้าถึง](https://docs.microsoft.com/azure/active-directory/manage-apps/application-sign-in-other-problem-access-panel)
 
-**ฉันมีปัญหาในการใช้ส่วนขยายเบราว์เซอร์ของแผงการเข้าถึงแอปพลิเคชัน**
+**ฉันพบปัญหาในการใช้โปรแกรมเสริมเบราว์เซอร์แผงการเข้าถึงแอปพลิเคชัน**
 
-เมื่อต้องการแก้ไขปัญหาเกี่ยวกับการใช้นามสกุลเบราว์เซอร์ของแผงการเข้าถึงแอปพลิเคชันให้ดูที่:
+เมื่อต้องการแก้ไขปัญหาเกี่ยวกับการใช้งานโปรแกรมเสริมเบราว์เซอร์แผงการเข้าถึงแอปพลิเคชัน ให้ดู:
 
-[ฉันเห็นข้อผิดพลาดเมื่อติดตั้งส่วนขยายเบราว์เซอร์ของแผงเข้าถึงแอปพลิเคชัน](https://docs.microsoft.com/azure/active-directory/application-access-panel-extension-problem-installing/)
+[ฉันเห็นข้อผิดพลาดเมื่อติดตั้งส่วนขยายเบราว์เซอร์แผงการเข้าถึงแอปพลิเคชัน](https://docs.microsoft.com/azure/active-directory/application-access-panel-extension-problem-installing/)
 
 **ฉันมีปัญหากับฟีเจอร์บนแผงการเข้าถึงแอปพลิเคชัน**
 
-เมื่อต้องการแก้ไขปัญหาที่เกี่ยวข้องกับฟีเจอร์ที่เฉพาะเจาะจงบนแผงการเข้าถึงแอปพลิเคชันให้ดูที่:
+เมื่อต้องการแก้ไขปัญหาที่เกี่ยวข้องกับฟีเจอร์ที่ระบุบนแผงการเข้าถึงแอปพลิเคชัน ให้ดู:
 
 - [ฉันไม่ทราบวิธีการใช้การเข้าถึงแอปพลิเคชันแบบบริการตนเอง](https://docs.microsoft.com/azure/active-directory/manage-apps/access-panel-manage-self-service-access) 
 
 - [ฉันพบปัญหาเมื่อใช้การเข้าถึงแอปพลิเคชันแบบบริการตนเอง](https://docs.microsoft.com/azure/active-directory/manage-apps/access-panel-manage-self-service-access)
     
-**ถ้าคุณกำลังมีปัญหาในการปรับใช้หรือการใช้พอร์ทัลแอปของฉัน**
+**ถ้าคุณพบปัญหาในการปรับใช้หรือใช้พอร์ทัลแอปของฉัน**
 
-เมื่อต้องการแก้ไขปัญหาที่คุณพบเมื่อปรับใช้หรือใช้พอร์ทัลแอปของฉันให้ดูที่:
+เมื่อต้องการแก้ไขปัญหาที่คุณพบเมื่อปรับใช้หรือใช้พอร์ทัล MyApps ให้ดู:
 
 - [สร้างคอลเลกชันบนพอร์ทัลแอปของฉัน](https://docs.microsoft.com/azure/active-directory/manage-apps/access-panel-collections) 
     
-- [กำหนดค่าการกำหนดแอปการบริการตนเอง](https://docs.microsoft.com/azure/active-directory/manage-apps/manage-self-service-access)
+- [กําหนดค่าการมอบหมายแอปด้วยตนเอง](https://docs.microsoft.com/azure/active-directory/manage-apps/manage-self-service-access)
      
-- [แก้ไขปัญหาของผู้ใช้ในพอร์ทัลแอปของฉัน](https://docs.microsoft.com/azure/active-directory/user-help/my-apps-portal-end-user-troubleshoot)
+- [แก้ไขปัญหาผู้ใช้ในพอร์ทัลแอปของฉัน](https://docs.microsoft.com/azure/active-directory/user-help/my-apps-portal-end-user-troubleshoot)
 
 
 
