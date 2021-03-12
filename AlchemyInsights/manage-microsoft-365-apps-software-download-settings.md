@@ -1,0 +1,24 @@
+---
+title: จัดการการตั้งค่าการดาวน์โหลดซอฟต์แวร์แอป Microsoft 365
+ms.author: pebaum
+author: pebaum
+manager: mnirkhe
+ms.audience: Admin
+ms.topic: article
+ms.service: o365-administration
+ROBOTS: NOINDEX, NOFOLLOW
+localization_priority: Priority
+ms.collection: Adm_O365
+ms.custom:
+- "9002427"
+- "5733"
+ms.openlocfilehash: 87dc342f9d4cb8081d35bd93827d05f7598418f9
+ms.sourcegitcommit: 847f2bfd660847440df0195258acb9253f313a69
+ms.translationtype: MT
+ms.contentlocale: th-TH
+ms.lasthandoff: 11/09/2020
+ms.locfileid: "50714426"
+---
+# <a name="manage-office-installation-options"></a>จัดการตัวเลือกการติดตั้ง Office
+
+ในฐานะผู้ดูแลระบบ Office 365 คุณสามารถควบคุมซอฟต์แวร์ Office ที่ผู้ใช้ของคุณสามารถดาวน์โหลดและติดตั้งได้จาก Office 365 ดูข้อมูลเพิ่มเติม ที่[จัดการตัวเลือกการติดตั้ง Office ในศูนย์การจัดการ Microsoft 365](https://docs.microsoft.com/deployoffice/manage-software-download-settings-office-365)
