@@ -1,9 +1,9 @@
 ---
-title: กำลังยกเลิกการสมัครใช้งานของคุณหรือไม่
+title: ยกเลิกการสมัครใช้งานของคุณใช่หรือไม่
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,25 +12,24 @@ ms.collection: Adm_O365
 ms.custom:
 - "4"
 - "1400001"
-ms.assetid: e0ba53f0-3b0a-4082-a42f-40f2b45ad91a
-ms.openlocfilehash: 443623b83e220d4016448809770609110294d72f
-ms.sourcegitcommit: 7d1b9f098235000b84cd74c032861ad14bfa6fc9
+- commerce
+ms.openlocfilehash: e69a91cda5f5df07a7ee429dce7145af366be464
+ms.sourcegitcommit: 1736dc914ceb9d72fc87f45762f2aa7f646b8fbb
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 11/18/2020
-ms.locfileid: "49348684"
+ms.lasthandoff: 03/17/2021
+ms.locfileid: "50837401"
 ---
-# <a name="canceling-your-subscription"></a>กำลังยกเลิกการสมัครใช้งานของคุณหรือไม่
+# <a name="canceling-your-subscription"></a>ยกเลิกการสมัครใช้งานของคุณใช่หรือไม่
 
-เราขออภัยที่จะเห็นคุณไปแต่ถ้าคุณต้องการยกเลิกการสมัครใช้งานของคุณต่อไปนี้คือตัวเลือกของคุณ:
+เราเสียใจที่คุณยกเลิกการสมัครใช้งาน แต่หากคุณต้องการยกเลิกการสมัครใช้งาน ต่อไปนี้คือตัวเลือกของคุณ:
   
-- ถ้าคุณเป็นลูกค้าเวอร์ชันทดลองใช้จะไม่มีอะไรที่จะยกเลิก การสมัครใช้งานเวอร์ชันทดลองใช้จะหมดอายุโดยอัตโนมัติเว้นแต่ว่าคุณจะให้วิธีการชำระเงิน
-- ถ้าคุณมีสิทธิ์การใช้งานที่ได้รับมอบหมายน้อยกว่า25สิทธิ์คุณสามารถยกเลิกการสมัครใช้งานแบบออนไลน์ของคุณได้ ไปที่หน้าการ **เรียกเก็บเงิน** \> [ของผลิตภัณฑ์ของคุณ](https://go.microsoft.com/fwlink/p/?linkid=842054) และค้นหาการสมัครใช้งานที่คุณต้องการยกเลิก เลือก **การกระทำเพิ่มเติม** (จุดสามจุด) แล้วเลือก **ยกเลิกการสมัคร** ใช้งาน
-- ถ้าคุณมีสิทธิ์การใช้งานมากกว่า25สิทธิ์ให้[ติดต่อฝ่ายสนับสนุนเพื่อยกเลิกการสมัครใช้งานของคุณ](https://docs.microsoft.com/microsoft-365/admin/contact-support-for-business-products?view=o365-worldwide)
+- ถ้าคุณมีสิทธิ์การใช้งานที่มอบหมายน้อยกว่า 25 รายการ คุณสามารถยกเลิกการสมัครใช้งานออนไลน์ได้ ไปที่ **หน้า** \> **[การเรียกเก็บเงินผลิตภัณฑ์](https://go.microsoft.com/fwlink/p/?linkid=842054)** ของคุณ แล้วค้นหาการสมัครใช้งานที่คุณต้องการยกเลิก เลือก **การทํา** เพิ่มเติม (จุดสามจุด) **จากนั้นเลือกยกเลิก** การสมัครใช้งาน
+- If you have more than 25 licenses assigned to users, [call support to cancel your subscription](https://docs.microsoft.com/microsoft-365/admin/contact-support-for-business-products?view=o365-worldwide).
   
-**การขอคืนเงิน: เครดิตตามสัดส่วนจะถูกส่งกลับไปยังคุณภายในรอบการเรียกเก็บเงินครั้งถัดไป**
+**การคืนเงิน: เครดิตตามส่วนจะถูกส่งกลับให้คุณภายในรอบการเรียกเก็บเงินถัดไป**
 
 > [!NOTE]
-> ถ้าคุณไม่เห็นตัวเลือกในการยกเลิกให้เลือกการสมัครใช้งานเพื่อดูหน้ารายละเอียด ในส่วนการ **ตั้งค่าการสมัครใช้งานและการชำระเงิน** ให้เลือก **ยกเลิกการสมัคร** ใช้งาน
+> ถ้าคุณไม่เห็นตัวเลือกในการยกเลิก ให้เลือกการสมัครใช้งานเพื่อดูรายละเอียดในหน้า ในส่วน **การตั้งค่าการสมัครใช้งานและการชเงิน** ให้เลือก **ยกเลิก** การสมัครใช้งาน
 
-เมื่อต้องการเรียนรู้เพิ่มเติมให้ดู[ยกเลิกการสมัครใช้งานของคุณ](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription)
+หากต้องการเรียนรู้เพิ่มเติม [โปรดดูที่ ยกเลิกการสมัครใช้งาน](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription)ของคุณ
