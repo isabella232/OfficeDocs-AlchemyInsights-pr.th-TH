@@ -1,5 +1,5 @@
 ---
-title: การโอนย้ายโดเมนของสหราชอาณาจักร
+title: การถ่ายโอนโดเมน .uk
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,15 +13,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002570"
 - "6969"
-ms.openlocfilehash: 42fa6189bc41c573fcb06fb41c9c6c4af82a0c8f
-ms.sourcegitcommit: 9604f7cec8bf18ae2d7e5915cab4671a3a04d316
+ms.openlocfilehash: 9b08d72834c1bbfd46e9724ecf9c564325493ba5
+ms.sourcegitcommit: c08bed4071baa3bb5879496df3ed44fb828c8367
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 12/08/2020
-ms.locfileid: "49598823"
+ms.lasthandoff: 03/19/2021
+ms.locfileid: "50896670"
 ---
-# <a name="uk-domain-transfers"></a>การโอนย้ายโดเมนของสหราชอาณาจักร
+# <a name="uk-domain-transfers"></a>การถ่ายโอนโดเมน .uk
 
-ติดต่อฝ่ายสนับสนุนของไมโครซอฟท์และร้องขอการ **เปลี่ยนแปลงแท็ก IPS** ให้ตรงกับบริษัทจดทะเบียนที่คุณต้องการจัดการโดเมนของคุณไปข้างหน้า เมื่อการเปลี่ยนแปลงแท็กโดเมนจะโอนย้ายไปยังบริษัทจดทะเบียนใหม่ทันที จากนั้นคุณจะต้องทำงานกับบริษัทจดทะเบียนใหม่เพื่อให้การโอนย้ายเสร็จสมบูรณ์ซึ่งน่าจะจ่ายค่าธรรมเนียมการโอนย้ายและการเพิ่มโดเมนที่โอนย้ายไปยังบัญชีผู้ใช้ของคุณกับบริษัทจดทะเบียนใหม่
+ติดต่อฝ่ายสนับสนุนของ Microsoft และ **ขอรับการเปลี่ยนแปลงแท็ก IPS** ให้ตรงกับบริษัทจดทะเบียนที่คุณต้องการจัดการโดเมนของคุณต่อ เมื่อแท็กมีการเปลี่ยนแปลง โดเมนจะโอนไปยังบริษัทจดทะเบียนใหม่ทันที จากนั้นคุณจะต้องร่วมงานกับบริษัทจดทะเบียนใหม่เพื่อถ่ายโอนให้เสร็จสมบูรณ์ ค่าธรรมเนียมการโอนที่มีแนวโน้มที่จะเรียกเก็บและเพิ่มโดเมนที่ถ่ายโอนไปยังบัญชีของคุณกับบริษัทจดทะเบียนใหม่ของคุณ
 
-สำหรับข้อมูลเพิ่มเติมเกี่ยวกับการโอนย้ายโดเมนให้ดู[ที่การถ่ายโอนโดเมนจาก Microsoft ไปยังโฮสต์อื่น](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/transfer-a-domain-from-microsoft-to-another-host?view=o365-worldwide)
+For more information on domain transfers, see [Transfer a domain from Microsoft to another host](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/transfer-a-domain-from-microsoft-to-another-host?view=o365-worldwide).
+
+เตรียมพร้อมเพื่อให้แท็ก IPS ของบริษัทจดทะเบียนใหม่ ซึ่งสามารถพบได้ https://registrars.nominet.uk/uk-namespace/registrar-agreement/list-of-registrars/ ที่
