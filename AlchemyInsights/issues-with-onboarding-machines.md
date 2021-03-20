@@ -1,5 +1,5 @@
 ---
-title: ปัญหาเกี่ยวกับเครื่องปฐมนิเทศ
+title: ปัญหาเกี่ยวกับเครื่องออนบอร์ดไปยัง Microsoft Defender for Endpoints
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,18 +13,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "6023"
 - "9002913"
-ms.openlocfilehash: c3203ed68eb19d5f6d75eb2269094bb0422b14cc
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 7ccec69f8ab43f277978176519a7f8f8df443846
+ms.sourcegitcommit: 1d73771d147325cfd8578e6816becd8331913890
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47676901"
+ms.lasthandoff: 03/19/2021
+ms.locfileid: "50901586"
 ---
-# <a name="issues-with-onboarding-machines"></a>ปัญหาเกี่ยวกับเครื่องปฐมนิเทศ
+# <a name="issues-with-onboarding-machines-to-microsoft-defender-for-endpoints"></a>ปัญหาเกี่ยวกับเครื่องออนบอร์ดไปยัง Microsoft Defender for Endpoints
 
-คุณอาจมีปัญหาเกี่ยวกับเครื่องปฐมนิเทศให้บริการ MDATP ถ้าคุณสามารถเข้าถึงเครื่องของผู้ใช้ให้ทำตามขั้นตอนต่อไปนี้:
+คุณอาจมีปัญหากับเครื่องออนบอร์ดลงในบริการ MDE ถ้าคุณสามารถเข้าถึงเครื่องของผู้ใช้ ปลายทาง ให้ปฏิบัติตามขั้นตอนเหล่านี้:
 
-1. ดาวน์โหลดเครื่องมือการวินิจฉัยตัว[วิเคราะห์การเชื่อมต่อไคลเอ็นต์](https://aka.ms/mdatpanalyzer)
-2. แยกและเรียกใช้ MDATPAnalyzer
-3. ค้นหาบันทึกการวินิจฉัยในโฟลเดอร์ที่ชื่อว่า MDATPClientAnalyzerResult โฟลเดอร์เดียวกันกับที่ดาวน์โหลดเครื่องมือตัววิเคราะห์
-4. ตรวจทานไฟล์บันทึก MDATPClientAnalyzer.txt เพื่อค้นหาปัญหาการตั้งค่าการเชื่อมต่อหรือการตั้งค่าพร็อกซีของอินเทอร์เน็ต
+1. ดาวน์โหลดเวอร์ชันล่าสุดของเครื่องมือวินิจฉัย[ตัววิเคราะห์ไคลเอ็นต์ MDE](https://aka.ms/betamdeanalyzer)
+2. คลิกขวาที่ **MDEClientAnalyzer.cmd** แล้วเลือก 'เรียกใช้ในฐานะผู้ดูแลระบบ'
+3. Follow any guidance suggested in **MDEClientAnalyzer.htm**.
+4. ดูโฟลเดอร์ย่อยที่สร้างขึ้นที่ชื่อว่า **MDEClientAnalyzerResult** เพิ่มเติม
+5. ถ้าต้องใช้แนวทางเพิ่มเติม ให้ติดต่อ [Microsoft Defender เพื่อรับการสนับสนุนเกี่ยวกับ](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/contact-support) จุดสิ้นสุด และMDEClientAnalyzerResult.zipไฟล์สําหรับการวิเคราะห์
