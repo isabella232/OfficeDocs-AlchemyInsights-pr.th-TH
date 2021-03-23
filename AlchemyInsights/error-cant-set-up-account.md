@@ -1,0 +1,27 @@
+---
+title: 'ข้อผิดพลาด: ขออภัย เราไม่สามารถตั้งค่าบัญชีของคุณได้ในขณะนี้ (NoMatchingSFoundProductsFound)'
+ms.author: pebaum
+author: pebaum
+manager: dansimp
+ms.date: 03/16/2021
+ms.audience: Admin
+ms.topic: article
+ms.service: o365-administration
+ROBOTS: NOINDEX, NOFOLLOW
+localization_priority: Priority
+ms.collection: Adm_O365
+ms.custom:
+- "9807"
+- "9005648"
+ms.openlocfilehash: 8660ff1099f2f540f62336b0dac664d2b0c08efa
+ms.sourcegitcommit: c08bed4071baa3bb5879496df3ed44fb828c8367
+ms.translationtype: MT
+ms.contentlocale: th-TH
+ms.lasthandoff: 03/19/2021
+ms.locfileid: "51037907"
+---
+# <a name="error-sorry-we-cant-set-up-your-account-right-now-nomatchingeligibleproductsfound"></a>ข้อผิดพลาด: ขออภัย เราไม่สามารถตั้งค่าบัญชีของคุณได้ในขณะนี้ (NoMatchingTligibleProductsFound)
+
+ถ้าคุณได้รับข้อความ: "ขออภัย เราไม่สามารถตั้งค่าบัญชีของคุณได้ในขณะนี้ (NoMatchingSLigibleProductsFound)" หมายความว่าคีย์ผลิตภัณฑ์ของคุณถูกซื้อในประเทศหรือภูมิภาคอื่นที่ไม่ใช่ที่คุณอยู่ในปัจจุบัน ต้องแลกใช้ผลิตภัณฑ์ Office ในประเทศหรือภูมิภาคที่ซื้อ
+
+ซึ่งอาจเกิดขึ้นได้ถ้าคุณพยายามขยายระยะเวลาการสมัครใช้งาน Microsoft ปัจจุบันของคุณด้วยคีย์ผลิตภัณฑ์ที่ซื้อในประเทศหรือภูมิภาคอื่นที่ไม่ใช่คีย์เดิมที่ใช้ในการเริ่มการสมัครใช้งานของคุณ ตัวอย่างเช่น ถ้าคุณตั้งค่าการสมัครใช้งาน Office ของคุณด้วยคีย์ผลิตภัณฑ์ที่ซื้อในประเทศจีน แล้วคุณซื้อคีย์ผลิตภัณฑ์ในสหรัฐอเมริกาและพยายามขยายการสมัครใช้งาน Office ของคุณด้วยคีย์ผลิตภัณฑ์ของสหรัฐอเมริกา
