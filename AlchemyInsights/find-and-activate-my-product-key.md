@@ -1,5 +1,5 @@
 ---
-title: ค้นหาและเปิดใช้งานคีย์ผลิตภัณฑ์ของฉัน
+title: โปรแกรมสิทธิ์การใช้งาน Microsoft Open
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
@@ -12,14 +12,14 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001519"
 - "3576"
-ms.openlocfilehash: 37a847074f14ac914950ad42dfc0c6c52db942a6
-ms.sourcegitcommit: 2eab0980268e08a58014459d44a08a1cc34a17d4
+ms.openlocfilehash: bbe0ee6718e470e5d1d309a6e87f5312ef806599
+ms.sourcegitcommit: 84f0aebdb278703f642a0c33fe260e3aee849be9
 ms.translationtype: MT
 ms.contentlocale: th-TH
 ms.lasthandoff: 03/25/2021
-ms.locfileid: "51200728"
+ms.locfileid: "51217952"
 ---
-# <a name="find-and-activate-my-product-key"></a>ค้นหาและเปิดใช้งานคีย์ผลิตภัณฑ์ของฉัน
+# <a name="microsoft-open-license-program"></a>โปรแกรมสิทธิ์การใช้งาน Microsoft Open
 
 ถ้าคุณซื้อ Microsoft 365 for business ผ่าน [โปรแกรมสิทธิ์การใช้งาน Microsoft Open](https://go.microsoft.com/fwlink/p/?LinkID=613298)นี่คือวิธีการค้นหาและเปิดใช้งานคีย์ผลิตภัณฑ์ของคุณ
 
