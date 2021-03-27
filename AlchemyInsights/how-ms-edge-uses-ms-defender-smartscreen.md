@@ -13,17 +13,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003847"
 - "6897"
-ms.openlocfilehash: 2a08bd507c77e9735028b30f7bf7bc8f8f018cad
-ms.sourcegitcommit: 2e4a5153e530bf15744a52e982eeb0d99757e9d2
+- "8331"
+- "9004625"
+ms.openlocfilehash: f03243ae6ff076920c4d5895b78931c26c9be675
+ms.sourcegitcommit: 6bfe9cd9d0b18481e0cac6f1f5bc86ed7df31037
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 12/04/2020
-ms.locfileid: "49583721"
+ms.lasthandoff: 03/27/2021
+ms.locfileid: "51398640"
 ---
-# <a name="how-microsoft-edge-uses-microsoft-defender-smartscreen"></a>วิธีที่ Microsoft Edge ใช้ Microsoft Defender SmartScreen
+# <a name="how-microsoft-edge-uses-microsoft-defender-smartscreen"></a>วิธีการที่ Microsoft Edge ใช้ Microsoft Defender SmartScreen
 
-เมื่อต้องการให้คุณปลอดภัยบนเว็บ Microsoft Edge ใช้ Microsoft Defender SmartScreen เป็นระบบการเตือนล่วงหน้ากับเว็บไซต์ที่ perpetrate การโจมตีฟิชชิ่งและการแจกจ่ายมัลแวร์ผ่านการโจมตีที่โฟกัส
+เพื่อรักษาความปลอดภัยบนเว็บ Microsoft Edge จะใช้ Microsoft Defender SmartScreen เป็นระบบคําเตือนล่วงหน้ากับเว็บไซต์ที่การโจมตีฟิชชิ่งอย่างถาวรและกระจายมัลแวร์ผ่านการโจมตีที่โฟกัส
 
-ผู้ดูแลระบบสามารถกำหนดค่า Microsoft Defender SmartScreen ได้โดยใช้นโยบายกลุ่ม, Microsoft Intune หรือการจัดการอุปกรณ์เคลื่อนที่ (MDM) ขึ้นอยู่กับวิธีที่คุณตั้งค่า Microsoft Defender SmartScreen คุณสามารถแสดงหน้าคำเตือนของผู้ใช้และให้พวกเขาดำเนินการต่อไปยังไซต์หรือบล็อกไซต์ทั้งหมด
+ผู้ดูแลระบบสามารถกําหนดค่า Microsoft Defender SmartScreen โดยใช้นโยบายกลุ่ม, Microsoft Intun1 หรือการตั้งค่าการจัดการอุปกรณ์เคลื่อนที่ (MDM) ได้ คุณสามารถแสดงหน้าคําเตือนให้ผู้ใช้เห็น และให้พวกเขาไปยังไซต์ต่อไปหรือบล็อกไซต์ทั้งหมดได้ โดยขึ้นอยู่กับวิธีที่คุณตั้งค่า Microsoft Defender SmartScreen
 
-เมื่อต้องการเรียนรู้เพิ่มเติมให้ดูที่การ[สนับสนุน Microsoft Edge สำหรับ Microsoft Defender SmartScreen](https://go.microsoft.com/fwlink/?linkid=2133081)และ[Microsoft Defender Guard แอปพลิเคชัน](https://go.microsoft.com/fwlink/?linkid=2132839)
+หากต้องการเรียนรู้เพิ่มเติม โปรดดูการสนับสนุน[Microsoft Edge ของ Microsoft Defender SmartScreen](https://go.microsoft.com/fwlink/?linkid=2133081)และ Microsoft Defender Application [Guard](https://go.microsoft.com/fwlink/?linkid=2132839)
