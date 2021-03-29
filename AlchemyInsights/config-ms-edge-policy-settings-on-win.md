@@ -1,5 +1,5 @@
 ---
-title: การกำหนดค่าการตั้งค่านโยบาย Microsoft Edge บน Windows
+title: กําหนดการตั้งค่านโยบายของ Microsoft Edge บน Windows
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -12,21 +12,23 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9003845"
+- "9004632"
 - "6894"
-ms.openlocfilehash: 7f626152c3833638436dfe05e8dcd13fc86ef594
-ms.sourcegitcommit: 2e4a5153e530bf15744a52e982eeb0d99757e9d2
+- "8358"
+ms.openlocfilehash: e9bb489b4d8ecd76fd777ade9fb740ecad542900
+ms.sourcegitcommit: db908b3da2c7a6508a77bf4f2c80afb294fadbd1
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 12/04/2020
-ms.locfileid: "49583747"
+ms.lasthandoff: 03/29/2021
+ms.locfileid: "51402394"
 ---
-# <a name="configure-microsoft-edge-policy-settings-on-windows"></a>การกำหนดค่าการตั้งค่านโยบาย Microsoft Edge บน Windows
+# <a name="configure-microsoft-edge-policy-settings-on-windows"></a>กําหนดการตั้งค่านโยบายของ Microsoft Edge บน Windows
 
-เมื่อต้องการกำหนดค่าการตั้งค่านโยบายและการปรับปรุงที่มีการจัดการสำหรับ Microsoft Edge ให้ใช้วัตถุนโยบายกลุ่ม (GPOs) นอกจากนี้คุณยังสามารถจัดเตรียมนโยบายผ่านรีจิสทรีได้อีกด้วย การทำเช่นนี้จะเหมาะสมสำหรับอุปกรณ์ Windows (1) ที่เข้าร่วมกับโดเมน active Directory ของ Microsoft และสำหรับ (2) Windows 10 Pro และอินสแตนซ์ขององค์กรที่ลงทะเบียนสำหรับการจัดการอุปกรณ์ใน Microsoft Intune
+เมื่อต้องการกําหนดค่าการตั้งค่านโยบายและการอัปเดตที่มีการจัดการของ Microsoft Edge ให้ใช้ Group Policy Objects (GPOs) คุณยังสามารถเตรียมใช้งานนโยบายผ่านทางรีจิสทรี ซึ่งเหมาะสมกับอุปกรณ์ Windows (1) ที่เข้าร่วมโดเมน Microsoft Active Directory และอินสแตนซ์ Windows 10 Pro และ Enterprise (2) ที่ลงทะเบียนไว้เพื่อการจัดการอุปกรณ์ใน Microsoft Intuned
 
-เมื่อต้องการกำหนดค่า Microsoft Edge โดยใช้ Gpo ให้ทำดังต่อไปนี้:
+เมื่อต้องการกําหนดค่า Microsoft Edge โดยใช้ GPOs ให้ต่อไปนี้:
 
-1. เมื่อต้องการจัดเก็บศูนย์กลางของนโยบายกลุ่มในโดเมน Active Directory ของคุณหรือไปยังโฟลเดอร์เทมเพลตคำนิยามนโยบายบนคอมพิวเตอร์แต่ละเครื่องให้ติดตั้งแม่แบบการดูแลระบบทั้งหมดที่เพิ่มกฎและการตั้งค่าสำหรับ Microsoft Edge
-2. กำหนดค่านโยบายเฉพาะที่คุณต้องการตั้งค่า
+1. ไปที่ Store ส่วนกลางของนโยบายกลุ่ม ในโดเมน Active Directory ของคุณ หรือไปยังโฟลเดอร์เทมเพลตข้อนิยามนโยบายบนคอมพิวเตอร์แต่ละเครื่อง ติดตั้งเทมเพลตการดูแลระบบทั้งหมดที่เพิ่มกฎและการตั้งค่าให้กับ Microsoft Edge
+2. กําหนดค่านโยบายเฉพาะที่คุณต้องการตั้งค่า
 
-เมื่อต้องการเรียนรู้เพิ่มเติมให้ดูที่[กำหนดค่าการตั้งค่านโยบาย Microsoft Edge บน Windows](https://go.microsoft.com/fwlink/?linkid=2135024)
+เมื่อต้องการเรียนรู้เพิ่มเติม ให้ดู[กําหนดการตั้งค่านโยบายของ Microsoft Edge บน Windows](https://go.microsoft.com/fwlink/?linkid=2135024)

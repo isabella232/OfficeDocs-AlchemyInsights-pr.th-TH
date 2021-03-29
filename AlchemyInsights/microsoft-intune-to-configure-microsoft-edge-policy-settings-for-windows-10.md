@@ -1,5 +1,5 @@
 ---
-title: ใช้ Microsoft Intune ในการกำหนดค่าการตั้งค่านโยบาย Microsoft Edge สำหรับ Windows 10
+title: ใช้ Microsoft Intuned เพื่อกําหนดการตั้งค่านโยบายของ Microsoft Edge ให้กับ Windows 10
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -11,18 +11,20 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9003843"
+- "9004632"
 - "7096"
-ms.openlocfilehash: e526d25aeb70ca7d89225c7f8db87f465afc903b
-ms.sourcegitcommit: b3f26339eda6ab4a5f952dd35a41c4c1de603cd2
+- "8365"
+ms.openlocfilehash: 0107571b4a9313b39751f8c8d06468ccf8cdf807
+ms.sourcegitcommit: db908b3da2c7a6508a77bf4f2c80afb294fadbd1
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 12/10/2020
-ms.locfileid: "49679778"
+ms.lasthandoff: 03/29/2021
+ms.locfileid: "51401782"
 ---
-# <a name="use-microsoft-intune-to-configure-microsoft-edge-policy-settings-for-windows-10"></a>ใช้ Microsoft Intune ในการกำหนดค่าการตั้งค่านโยบาย Microsoft Edge สำหรับ Windows 10
+# <a name="use-microsoft-intune-to-configure-microsoft-edge-policy-settings-for-windows-10"></a>ใช้ Microsoft Intuned เพื่อกําหนดการตั้งค่านโยบายของ Microsoft Edge ให้กับ Windows 10
 
-คุณสามารถกำหนดค่านโยบาย Microsoft Edge และการตั้งค่าได้โดยการเพิ่มโปรไฟล์การกำหนดค่าอุปกรณ์ลงใน Microsoft Intune การตั้งค่านี้จะเท่ากับการกำหนดค่านโยบายกลุ่ม Active Directory ของ Microsoft Azure หรือการตั้งค่าวัตถุนโยบายกลุ่มภายในเครื่อง (GPO) บนอุปกรณ์ของผู้ใช้
+คุณสามารถกําหนดนโยบายและการตั้งค่า Microsoft Edge ได้โดยการเพิ่มโปรไฟล์การกําหนดค่าอุปกรณ์ไปยัง Microsoft Intun1 ซึ่งเทียบเท่ากับการกําหนดค่านโยบายกลุ่ม Microsoft Azure Active Directory หรือการตั้งค่า Group Policy Object (GPO) ภายในอุปกรณ์ของผู้ใช้
 
-เมื่อต้องการเรียนรู้เพิ่มเติมให้ดูที่[สร้างโปรไฟล์เพื่อจัดการการตั้งค่าใน Microsoft Edge สำหรับ Windows 10](https://go.microsoft.com/fwlink/?linkid=2133700)
+เมื่อต้องการเรียนรู้เพิ่มเติม ให้ดู[สร้างโปรไฟล์เพื่อจัดการการตั้งค่าใน Microsoft Edge for Windows 10](https://go.microsoft.com/fwlink/?linkid=2133700)
 
-บทความนี้นำไปใช้กับ Microsoft Edge เวอร์ชัน๗๗และเวอร์ชันที่ใหม่กว่า
+บทความนี้ใช้ได้กับ Microsoft Edge เวอร์ชัน 77 และเวอร์ชันที่ใหม่กว่า
