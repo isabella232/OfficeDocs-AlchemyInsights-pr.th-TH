@@ -1,0 +1,33 @@
+---
+title: นําเข้ารายการโปรดจากเบราว์เซอร์อื่นที่ไม่ใช่ Internet Explorer, Google Chrome หรือ Mozilla Firefox
+ms.author: pebaum
+author: pebaum
+manager: scotv
+ms.date: 03/30/2021
+ms.audience: Admin
+ms.topic: article
+ms.service: o365-administration
+ROBOTS: NOINDEX, NOFOLLOW
+localization_priority: Priority
+ms.collection: Adm_O365
+ms.custom:
+- "9450"
+- "9005491"
+ms.openlocfilehash: 48e6d5ac22278544587d167f8bdd9957079f85d8
+ms.sourcegitcommit: bef118c00aa397cd6d8941d403fe9cfa49dd8c73
+ms.translationtype: MT
+ms.contentlocale: th-TH
+ms.lasthandoff: 03/30/2021
+ms.locfileid: "51492151"
+---
+# <a name="import-favorites-from-a-browser-other-than-internet-explorer-google-chrome-or-mozilla-firefox"></a><span data-ttu-id="f84a8-102">นําเข้ารายการโปรดจากเบราว์เซอร์อื่นที่ไม่ใช่ Internet Explorer, Google Chrome หรือ Mozilla Firefox</span><span class="sxs-lookup"><span data-stu-id="f84a8-102">Import favorites from a browser other than Internet Explorer, Google Chrome, or Mozilla Firefox</span></span>
+
+1. <span data-ttu-id="f84a8-103">ในเบราว์เซอร์ที่คุณต้องการนําเข้ารายการโปรดของคุณ ให้บันทึกรายการโปรดในไฟล์ HTML</span><span class="sxs-lookup"><span data-stu-id="f84a8-103">In the browser from which you want to import your favorites, save the favorites in an HTML file.</span></span>
+
+1. <span data-ttu-id="f84a8-104">เปิด Microsoft Edge จากนั้นเลือก **การตั้งค่าและอื่นๆ ...**  >  **การตั้งค่า**  >  **นําเข้าข้อมูล** เบราว์เซอร์</span><span class="sxs-lookup"><span data-stu-id="f84a8-104">Open Microsoft Edge, and then select **Settings and more ...** > **Settings** > **Import browser data**.</span></span>
+
+1. <span data-ttu-id="f84a8-105">จากเมนู **นําเข้า** ให้เลือก **รายการโปรดหรือบุ๊กมาร์กไฟล์ HTML**  >  **เลือก** ไฟล์ จากนั้นเลือกไฟล์ HTML ที่มีรายการโปรดของคุณ</span><span class="sxs-lookup"><span data-stu-id="f84a8-105">From the **Import from** menu, select **Favorites or bookmarks HTML file** > **Choose file**, and then select the HTML file with your favorites.</span></span>
+
+1. <span data-ttu-id="f84a8-106">ใน **เสร็จเรียบร้อยแล้ว!**</span><span class="sxs-lookup"><span data-stu-id="f84a8-106">In the **All done!**</span></span> <span data-ttu-id="f84a8-107">ให้เลือก **เสร็จสิ้น**</span><span class="sxs-lookup"><span data-stu-id="f84a8-107">dialog box, select **Done**.</span></span>
+
+<span data-ttu-id="f84a8-108">รายการโปรดที่นําเข้าควรอยู่ในโฟลเดอร์ ตัวอย่างเช่น รายการโปรดที่นําเข้าหรือรายการโปรดอื่นๆ บนแถบรายการโปรด</span><span class="sxs-lookup"><span data-stu-id="f84a8-108">The imported favorites should be in a folder for example, Imported or Other favorites, on the Favorites bar.</span></span> <span data-ttu-id="f84a8-109">คุณสามารถเก็บรายการเหล่านั้นไว้ในที่ๆ พวกเขาอยู่หรือย้ายไปยังโฟลเดอร์อื่นได้</span><span class="sxs-lookup"><span data-stu-id="f84a8-109">You can keep them where they are or move them to a different folder.</span></span>
