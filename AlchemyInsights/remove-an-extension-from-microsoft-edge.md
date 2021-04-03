@@ -1,5 +1,5 @@
 ---
-title: เอาส่วนขยายออกจาก Microsoft Edge
+title: ลบส่วนขยายจาก Microsoft Edge
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,18 +12,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003881"
 - "6936"
-ms.openlocfilehash: d0fda273317a2f2437f8808cbf29d9a9788df225
-ms.sourcegitcommit: 097a8cabe0d2280af489159789988a0ab532dabb
+- "8311"
+- "9004621"
+ms.openlocfilehash: 1c8cfa9e871957de647b19b3ef6746740886d2fb
+ms.sourcegitcommit: 7b2e5078dd65f11af6650e692a7ea48e91f544e0
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 12/11/2020
-ms.locfileid: "49679955"
+ms.lasthandoff: 04/02/2021
+ms.locfileid: "51504979"
 ---
-# <a name="remove-an-extension-from-microsoft-edge"></a>เอาส่วนขยายออกจาก Microsoft Edge
+# <a name="remove-an-extension-from-microsoft-edge"></a>ลบส่วนขยายจาก Microsoft Edge
 
 เมื่อต้องการเอาส่วนขยายออกจาก Microsoft Edge:
 
 1. เปิด Microsoft Edge
-2. เลือก **... > นามสกุล**
-3. บนหน้า **ส่วนขยายที่ติดตั้ง** ให้ค้นหาส่วนขยายที่คุณต้องการเอาออกแล้วเลือก **เอาออก** ที่อยู่ถัดจากนั้น
-4. ในกล่องโต้ตอบการยืนยันให้เลือก **เอาออก**
+2. เลือก **... >เสริม**
+3. บนหน้า **ส่วนขยายที่ติดตั้ง** ให้ค้นหาส่วนขยายที่คุณต้องการเอาออก แล้วเลือก **เอาออก** ที่อยู่ติดกับส่วนขยายนั้น
+4. ในกล่องโต้ตอบการยืนยัน **ให้เลือก** เอาออก

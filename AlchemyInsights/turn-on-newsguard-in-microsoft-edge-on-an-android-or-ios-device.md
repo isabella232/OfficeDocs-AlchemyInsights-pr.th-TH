@@ -1,5 +1,5 @@
 ---
-title: เปิดใช้งาน NewsGuard ใน Microsoft Edge บนอุปกรณ์ Android หรือ iOS
+title: เปิด NewsGuard ใน Microsoft Edge บนอุปกรณ์ Android หรือ iOS
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -13,17 +13,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004028"
 - "7098"
-ms.openlocfilehash: 7c3cb0eecb2ce073637623062d6c15c7bac4c1c9
-ms.sourcegitcommit: 94036315916fbc79dca2a692c2e9bc1139dd28f6
+- "8308"
+- "9004621"
+ms.openlocfilehash: 73e2cefe98185ff9f741e8d46b92ebcc8a5a499a
+ms.sourcegitcommit: 7b2e5078dd65f11af6650e692a7ea48e91f544e0
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 12/08/2020
-ms.locfileid: "49678825"
+ms.lasthandoff: 04/02/2021
+ms.locfileid: "51505663"
 ---
-# <a name="turn-on-newsguard-in-microsoft-edge-on-an-android-or-ios-device"></a>เปิดใช้งาน NewsGuard ใน Microsoft Edge บนอุปกรณ์ Android หรือ iOS
+# <a name="turn-on-newsguard-in-microsoft-edge-on-an-android-or-ios-device"></a>เปิด NewsGuard ใน Microsoft Edge บนอุปกรณ์ Android หรือ iOS
 
-NewsGuard เป็นส่วนขยายของบริษัทอื่นที่ประเมินและการจัดอันดับเว็บไซต์บนมาตรฐาน journalistic ของความน่าเชื่อถือและความโปร่งใสในสหรัฐอเมริกา ส่วนขยายนี้จะพร้อมใช้งานใน Microsoft Edge แต่จะถูกปิดใช้งานตามค่าเริ่มต้น เมื่อเปิดใช้งานส่วนขยายจะไม่ป้องกันการเข้าถึงไซต์และจะไม่ขัดจังหวะการเรียกดู
+NewsGuard คือโปรแกรมเสริมของบริษัทอื่นที่ประเมินและประเมินเว็บไซต์ตามมาตรฐานความน่าเชื่อถือและความโปร่งใสทางบันทึกศาสตร์ในสหรัฐอเมริกา โปรแกรมเสริมนี้พร้อมใช้งานใน Microsoft Edge แต่จะปิดอยู่ตามค่าเริ่มต้น เมื่อเปิดใช้งาน ส่วนขยายจะไม่ป้องกันการเข้าถึงไซต์และจะไม่ขัดจังหวะการเรียกดู
 
-เมื่อต้องการเปิดใช้งาน NewsGuard ให้ทำตามขั้นตอนต่อไปนี้:
-1. เลือก ... > **การตั้งค่า**  >  การ **จัดอันดับข่าวสาร**
-2. เปิด **ใช้งานการจัดอันดับการแสดงผลบนแถบที่อยู่**
+เมื่อต้องการเปิด NewsGuard ให้ปฏิบัติตามขั้นตอนด้านล่างให้เสร็จสมบูรณ์:
+1. เลือก ... > **การตั้งค่า**  >  **การจัดอันดับ** ข่าวสาร
+2. เปิด **การแสดงการจัดอันดับบนแถบ** ที่อยู่

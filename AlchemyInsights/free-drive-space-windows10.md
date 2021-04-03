@@ -12,13 +12,15 @@ localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9771"
+- "9774"
+- "9005390"
 - "9005403"
-ms.openlocfilehash: 3838f3db3bc5f54bcb1a2558484056f3194b76e1
-ms.sourcegitcommit: c08bed4071baa3bb5879496df3ed44fb828c8367
+ms.openlocfilehash: 2313636307bfddce2810c2d4c4ce9e3b407a7bdf
+ms.sourcegitcommit: 7b2e5078dd65f11af6650e692a7ea48e91f544e0
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 03/19/2021
-ms.locfileid: "51037951"
+ms.lasthandoff: 04/02/2021
+ms.locfileid: "51505375"
 ---
 # <a name="free-up-drive-space-in-windows-10"></a>เพิ่มเนื้อที่ว่างบนไดรฟ์ใน Windows 10
 
@@ -39,7 +41,7 @@ ms.locfileid: "51037951"
 
 1. เลือกตัวเลือก **ขั้นสูง**
 
-1. เลื่อนลงและเลือก **รีเซ็ต** จากนั้น **ยืนยันการ** รีเซ็ต
+1. เลื่อนลงแล้วเลือก **รีเซ็ต** จากนั้น **ยืนยันการ** รีเซ็ต
 
 **ขั้นตอนที่ 2: ล้างแคช Microsoft Store**
 
@@ -47,7 +49,7 @@ ms.locfileid: "51037951"
 
 1. พิมพ์ wsreset.exe **แล้วเลือก** ตกลง
 
-1. หน้าต่าง พร้อมท์สั่ง เปล่า จะเปิดขึ้น หลังจากผ่านไปประมาณ 10 วินาที หน้าต่างจะปิดและ Store จะเปิดขึ้นโดยอัตโนมัติ
+1. หน้าต่างพร้อมท์สั่งเปล่าจะเปิดขึ้น หลังจากผ่านไปประมาณ 10 วินาที หน้าต่างจะปิดและ Store จะเปิดขึ้นโดยอัตโนมัติ
 
 **ขั้นตอนที่ 3: รีเซ็ต Windows Update**
 
