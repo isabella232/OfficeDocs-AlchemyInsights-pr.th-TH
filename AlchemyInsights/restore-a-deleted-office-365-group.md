@@ -14,18 +14,18 @@ ms.custom:
 - "98"
 - "1200024"
 ms.assetid: bc0396ea-c426-4d1d-bb89-ced602d06fb6
-ms.openlocfilehash: caa2c8987eecb89bac3469bf9471847858cab0ba
-ms.sourcegitcommit: ec99a3a2e1e6a13d9a829d65ad1692a607dc3a17
+ms.openlocfilehash: b72b7c93ce9fe1b90d1608811b0eeabc8aec1363
+ms.sourcegitcommit: a5edaaefdc56f8d5c8220a335f4e8228e2de4ee0
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 04/06/2021
-ms.locfileid: "51597462"
+ms.lasthandoff: 04/08/2021
+ms.locfileid: "51645150"
 ---
 # <a name="restore-a-deleted-microsoft-365-group"></a>คืนค่ากลุ่ม Microsoft 365 ที่ถูกลบ
 
 คุณสามารถคืนค่ากลุ่ม Microsoft 365 หรือ Microsoft Teams ที่ถูกลบภายใน 30 วันจากการลบ
 
-1. ไปที่ศูนย์ [การจัดการ Microsoft 365](https://aka.ms/RestoreDeletedGroup) เพื่อเข้าสู่ระบบและแสดงรายการกลุ่มและทีมที่ถูกลบ
+1. ไปที่ศูนย์ [การจัดการ Microsoft 365](https://aka.ms/RestoreDeletedGroup) เพื่อเข้าสู่ระบบรายการของคุณคือกลุ่มและทีมที่ถูกลบ
 
     **หมายเหตุ:** เข้าสู่ระบบโดยใช้บัญชีที่มอบหมายให้ผู้ดูแลผู้เช่าหรือบทบาทผู้ดูแลกลุ่ม
 
