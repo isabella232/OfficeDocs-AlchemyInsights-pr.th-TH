@@ -1,5 +1,5 @@
 ---
-title: สิทธิ์การใช้งานระบบโทรศัพท์
+title: สิทธิ์การใช้งาน Microsoft Teams Phone
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -12,24 +12,24 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002342"
 - "4559"
-ms.openlocfilehash: 8e140f0542b332aee047cd8b71540e2b72d8e199
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: b7d68e01456a1a055d975a1d9a3f8bc35f5296c2
+ms.sourcegitcommit: ef7ec42aba3c06aa8966dfac71cec18c08e7acf8
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47776973"
+ms.lasthandoff: 04/13/2021
+ms.locfileid: "51692737"
 ---
-# <a name="phone-system-license"></a>สิทธิ์การใช้งานระบบโทรศัพท์
+# <a name="microsoft-teams-phone-license"></a>สิทธิ์การใช้งาน Microsoft Teams Phone
 
-**สิทธิ์การใช้งานระบบโทรศัพท์**คือ add-on ไปยัง**ทีม Microsoft** สิทธิ์การใช้งานจะพร้อมใช้งานตามค่าเริ่มต้นที่มี[office ๓๖๕ Enterprise E5](https://www.microsoft.com/microsoft-365/business/office-365-enterprise-e5-business-software?rtc=1&activetab=pivot%3aoverviewtab)และจำเป็นต้องซื้อเป็น Add-on สำหรับ[Office ๓๖๕ Enterprise E1](https://products.office.com/business/office-365-enterprise-e1-business-software)หรือ[E3](https://products.office.com/business/office-365-enterprise-e3-business-software)
+สิทธิ์การใช้งาน **Microsoft Teams Phone** เป็น Add-on ของ Microsoft **Teams** สิทธิ์การใช้งานจะพร้อมใช้งานตามค่าเริ่มต้นด้วย Office [365 Enterprise E5](https://www.microsoft.com/microsoft-365/business/office-365-enterprise-e5-business-software?rtc=1&activetab=pivot%3aoverviewtab)และจะต้องซื้อเป็น Add-on ของแผน[Office 365 Enterprise E1](https://products.office.com/business/office-365-enterprise-e1-business-software)หรือ[E3](https://products.office.com/business/office-365-enterprise-e3-business-software)
 
-1. ลงชื่อเข้าใช้ศูนย์การจัดการ Microsoft ๓๖๕
+1. ลงชื่อเข้าใช้ศูนย์การจัดการ Microsoft 365
 
-2. ไปที่ **> การเรียกเก็บเงินของบริการการซื้อ > การสมัคร**ใช้งาน add-on 
+2. ไปที่ **การเรียกเก็บเงิน >สั่งซื้อ>การสมัครใช้งาน Add-on** 
 
-3. คุณจะเห็น add-on ของระบบโทรศัพท์ คลิก**ซื้อทันที**
+3. คุณจะเห็น Add-on ของ Teams Phone คลิก **ซื้อ** ทันที
 
-หลังจากที่คุณซื้อสิทธิ์การใช้งานระบบโทรศัพท์คุณจะเห็นราคาและตัวเลือกในการซื้อแผนการโทร
+หลังจากที่คุณซื้อสิทธิ์การใช้งาน Teams Phone คุณจะเห็นราคาและตัวเลือกในการซื้อแผนการโทร
 
-**หมายเหตุ**: การเปลี่ยนแปลงจะใช้เวลา2ถึง24ชั่วโมงเพื่อให้การเปลี่ยนแปลงมีผล สำหรับข้อมูลเพิ่มเติมให้ดู[ที่ตั้งค่าระบบโทรศัพท์ในองค์กรของคุณ](https://docs.microsoft.com/MicrosoftTeams/setting-up-your-phone-system) 
+**หมายเหตุ**: อาจใช้เวลา 2 ถึง 24 ชั่วโมงเพื่อให้การเปลี่ยนแปลงมีผล ดูข้อมูลเพิ่มเติมได้ที่ ตั้งค่า [โทรศัพท์ Microsoft Teams ใน](https://docs.microsoft.com/MicrosoftTeams/setting-up-your-phone-system)องค์กรของคุณ 
 

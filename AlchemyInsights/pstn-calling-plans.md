@@ -1,5 +1,5 @@
 ---
-title: แผนการโทรผ่าน PSTN
+title: แผนการโทร PSTN
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -13,19 +13,19 @@ ms.custom:
 - "9002447"
 - "4760"
 - "4761"
-ms.openlocfilehash: ecfdc59afeb8cd3dae8ae1b2cfba4618bbffe126
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 9ff0de1a4c0c86aef7cf98981b785109bc69dddd
+ms.sourcegitcommit: ef7ec42aba3c06aa8966dfac71cec18c08e7acf8
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47662524"
+ms.lasthandoff: 04/13/2021
+ms.locfileid: "51692485"
 ---
-# <a name="pstn-calling-plans"></a>แผนการโทรผ่าน PSTN
+# <a name="pstn-calling-plans"></a>แผนการโทร PSTN
 
-ถ้าคุณต้องการให้ผู้ใช้ของคุณสามารถโทรหาโทรศัพท์ทั่วไปได้และคุณยังไม่มีผู้ให้บริการในการโทรด้วยเสียงคุณจำเป็นต้องซื้อแผนการโทร
+ถ้าคุณต้องการให้ผู้ใช้ของคุณสามารถโทรไปยังโทรศัพท์ปกติ และคุณไม่มีผู้ให้บริการเพื่อโทรออกด้วยเสียง คุณต้องซื้อแผนการโทร
 
-- ดู [วิธีการซื้อแผนการโทร](https://docs.microsoft.com/MicrosoftTeams/calling-plans-for-office-365) เพื่อเริ่มกระบวนการซื้อ
+- [ดู วิธีซื้อแผนการโทร](https://docs.microsoft.com/MicrosoftTeams/calling-plans-for-office-365)เพื่อเริ่มกระบวนการซื้อ
 
-- ตั้งค่า[เครดิตการติดต่อสื่อสาร](https://docs.microsoft.com/microsoftteams/set-up-communications-credits-for-your-organization)เพื่อป้องกันไม่ให้ผู้ใช้**ใช้งานไม่กี่นาที** ดูอัตราค่า[ที่นี่](https://products.office.com/microsoft-teams/voice-calling) 
+- Setup [Communication Credits](https://docs.microsoft.com/microsoftteams/set-up-communications-credits-for-your-organization) to prevent users **from running out of minutes**. ดู [อัตรา](https://products.office.com/microsoft-teams/voice-calling)ที่นี่ 
 
-- สำหรับข้อมูลเพิ่มเติมให้ดูที่ [ระบบโทรศัพท์และแผนการโทร](https://docs.microsoft.com/MicrosoftTeams/calling-plan-landing-page) หรือ [เครดิตการสื่อสารคืออะไร](https://docs.microsoft.com/microsoftteams/what-are-communications-credits)
+- ดูข้อมูลเพิ่มเติมได้ที่ Microsoft [Teams Phone และ แผนการโทรของ Microsoft Teams](https://docs.microsoft.com/MicrosoftTeams/calling-plan-landing-page) [หรือ เครดิตการติดต่อสื่อสารคืออะไร](https://docs.microsoft.com/microsoftteams/what-are-communications-credits)
