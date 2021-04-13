@@ -1,0 +1,13 @@
+---
+<span data-ttu-id="d6bbe-101">ชื่อเรื่อง: "แก้ไขปัญหาการแสดงตนใน Outlook" ms.author: ผู้เขียน pebaum: ตัวจัดการ pebaum: scotv ms.date: 04/8/2021 ms.audience: Admin ms.topic: article ms.service: o365-administration ROBOTS: NOINDEX, NOFOLLOW localization_priority: Priority ms.collection: Adm_O365 ms.custom: (</span><span class="sxs-lookup"><span data-stu-id="d6bbe-101">title: "Troubleshoot presence issues in Outlook" ms.author: pebaum author: pebaum manager: scotv ms.date: 04/8/2021 ms.audience: Admin ms.topic: article ms.service: o365-administration ROBOTS: NOINDEX, NOFOLLOW localization_priority: Priority ms.collection: Adm_O365 ms.custom: (</span></span>
+- <span data-ttu-id="d6bbe-102">9257</span><span class="sxs-lookup"><span data-stu-id="d6bbe-102">9257</span></span>
+- <span data-ttu-id="d6bbe-103">9003349</span><span class="sxs-lookup"><span data-stu-id="d6bbe-103">9003349</span></span>
+---
+
+# <a name="troubleshoot-presence-issues-in-outlook"></a><span data-ttu-id="d6bbe-104">แก้ไขปัญหาการแสดงตนใน Outlook</span><span class="sxs-lookup"><span data-stu-id="d6bbe-104">Troubleshoot presence issues in Outlook</span></span>
+
+<span data-ttu-id="d6bbe-105">เมื่อต้องการวินิจฉัยและแก้ไขปัญหาสถานะการแสดงตนของผู้ใช้ใน Outlook ให้ดาวน์โหลดและเรียกใช้ตัวช่วยการสนับสนุนและการกู้คืนของ Microsoft >[สถานะ Teams](https://aka.ms/SaRA-TeamsPresenceScenario)</span><span class="sxs-lookup"><span data-stu-id="d6bbe-105">To diagnose and correct issues with the presence status for a user in Outlook, download and run Microsoft Support and Recovery Assistant > [Teams Presence Scenario](https://aka.ms/SaRA-TeamsPresenceScenario).</span></span>
+
+<span data-ttu-id="d6bbe-106">เมื่อต้องการแก้ไขปัญหาการแสดงตนใน Outlook ด้วยตนเอง ให้ปฏิบัติตามขั้นตอนใน[ปัญหาสถานะการแสดงตนของผู้ใช้ใน Outlook](https://docs.microsoft.com/microsoftteams/troubleshoot/teams-im-presence/issues-with-presence-in-outlook)</span><span class="sxs-lookup"><span data-stu-id="d6bbe-106">To manually troubleshoot an issue with presence in Outlook, follow the steps in [User presence status issues in Outlook](https://docs.microsoft.com/microsoftteams/troubleshoot/teams-im-presence/issues-with-presence-in-outlook).</span></span>
+
+<span data-ttu-id="d6bbe-107">ถ้าสถานะการแสดงตนไม่ได้อัปเดตใน Teams ให้ดู[สถานะการแสดงตนจริงของคุณไม่ได้แสดงใน Teams](https://docs.microsoft.com/microsoftteams/troubleshoot/teams-im-presence/presence-not-show-actual-status)</span><span class="sxs-lookup"><span data-stu-id="d6bbe-107">If the presence status is not updating in Teams, see [Your actual presence status isn't reflected in Teams](https://docs.microsoft.com/microsoftteams/troubleshoot/teams-im-presence/presence-not-show-actual-status).</span></span>
