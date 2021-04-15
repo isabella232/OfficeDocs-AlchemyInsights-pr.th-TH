@@ -1,8 +1,8 @@
 ---
-title: ปัญหาในการลงชื่อเข้าใช้สำหรับนักเรียน
+title: ปัญหาการลงชื่อเข้าใช้ของนักเรียน
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -13,23 +13,23 @@ ms.custom:
 - "9000744"
 - "3813"
 - "3818"
-ms.openlocfilehash: de2f7df9856a133bacca1c9983e0ab1deebe290e
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: bd9ed8ff0f01842d906cb5385f000213e5917f87
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47719828"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51787120"
 ---
-# <a name="sign-in-issues-for-students"></a><span data-ttu-id="41d4f-102">ปัญหาในการลงชื่อเข้าใช้สำหรับนักเรียน</span><span class="sxs-lookup"><span data-stu-id="41d4f-102">Sign-in issues for students</span></span>
+# <a name="sign-in-issues-for-students"></a><span data-ttu-id="f11ec-102">ปัญหาการลงชื่อเข้าใช้ของนักเรียน</span><span class="sxs-lookup"><span data-stu-id="f11ec-102">Sign-in issues for students</span></span>
 
-<span data-ttu-id="41d4f-103">เมื่อนักเรียนมีปัญหาในการเข้าสู่ระบบเหตุผลที่พบบ่อยที่สุดคือทีมไม่ได้เปิดใช้งานสำหรับบทบาทของนักเรียน</span><span class="sxs-lookup"><span data-stu-id="41d4f-103">When students have trouble logging in, the most common reason is that Teams is not enabled for the student role.</span></span> <span data-ttu-id="41d4f-104">เมื่อต้องการแก้ไขปัญหานี้คุณจำเป็นต้องเปิดใช้งานทีม Microsoft ด้วยตนเอง:</span><span class="sxs-lookup"><span data-stu-id="41d4f-104">To fix this, you need to enable Microsoft Teams manually:</span></span>
+<span data-ttu-id="f11ec-103">เมื่อนักเรียนมีปัญหาในการเข้าสู่ระบบ เหตุผลทั่วไปคือ Teams ไม่ได้เปิดใช้งานในบทบาทของนักเรียน</span><span class="sxs-lookup"><span data-stu-id="f11ec-103">When students have trouble logging in, the most common reason is that Teams is not enabled for the student role.</span></span> <span data-ttu-id="f11ec-104">เมื่อต้องการแก้ไขปัญหานี้ คุณต้องเปิดใช้งาน Microsoft Teams ด้วยตนเอง:</span><span class="sxs-lookup"><span data-stu-id="f11ec-104">To fix this, you need to enable Microsoft Teams manually:</span></span>
 
-1. <span data-ttu-id="41d4f-105">ไปที่การตั้งค่าศูนย์การจัดการ Microsoft ๓๖๕**การตั้งค่า> > ทีม Microsoft**</span><span class="sxs-lookup"><span data-stu-id="41d4f-105">Go to the Microsoft 365 admin center **Settings> Settings > Microsoft Teams**.</span></span> 
+1. <span data-ttu-id="f11ec-105">ไปที่ ศูนย์การจัดการ Microsoft 365 **การตั้งค่า> การตั้งค่า > Microsoft Teams**</span><span class="sxs-lookup"><span data-stu-id="f11ec-105">Go to the Microsoft 365 admin center **Settings> Settings > Microsoft Teams**.</span></span> 
 
-2. <span data-ttu-id="41d4f-106">ถ้าคุณไม่เห็นทีม Microsoft ในรายการบริการให้ปิด**ลองใช้ศูนย์การจัดการใหม่**เพื่อค้นหา**การตั้งค่า > บริการและ Add-in > ทีม Microsoft**</span><span class="sxs-lookup"><span data-stu-id="41d4f-106">If you don't see Microsoft Teams in the Services list, turn off **Try the new admin center** to find **Settings > Services and add-ins > Microsoft Teams**.</span></span> 
+2. <span data-ttu-id="f11ec-106">หากคุณไม่เห็น Microsoft Teams ในรายการ บริการ ให้ปิด ลองใช้ศูนย์การจัดการใหม่เพื่อค้นหา การตั้งค่า > Services และ **add-ins > Microsoft Teams**</span><span class="sxs-lookup"><span data-stu-id="f11ec-106">If you don't see Microsoft Teams in the Services list, turn off **Try the new admin center** to find **Settings > Services and add-ins > Microsoft Teams**.</span></span> 
 
-<span data-ttu-id="41d4f-107">สำหรับข้อมูลเพิ่มเติมให้ดูที่[เปิดใช้งานทีม Microsoft สำหรับโรงเรียนของคุณ](https://docs.microsoft.com/microsoft-365/education/intune-edu-trial/enable-microsoft-teams#enable-microsoft-teams-for-your-school-1)</span><span class="sxs-lookup"><span data-stu-id="41d4f-107">For more information, see [Enable Microsoft Teams for your school](https://docs.microsoft.com/microsoft-365/education/intune-edu-trial/enable-microsoft-teams#enable-microsoft-teams-for-your-school-1).</span></span> 
+<span data-ttu-id="f11ec-107">ดูข้อมูลเพิ่มเติมที่ [เปิดใช้งาน Microsoft Teams ในโรงเรียน](https://docs.microsoft.com/microsoft-365/education/intune-edu-trial/enable-microsoft-teams#enable-microsoft-teams-for-your-school-1)ของคุณ</span><span class="sxs-lookup"><span data-stu-id="f11ec-107">For more information, see [Enable Microsoft Teams for your school](https://docs.microsoft.com/microsoft-365/education/intune-edu-trial/enable-microsoft-teams#enable-microsoft-teams-for-your-school-1).</span></span> 
 
-<span data-ttu-id="41d4f-108">**สิ่งสำคัญ**: คุณอาจต้องรอถึง24ชั่วโมงเพื่อให้การเปลี่ยนแปลงของคุณมีผล</span><span class="sxs-lookup"><span data-stu-id="41d4f-108">**Important**: You may have to wait up to 24 hours for your changes to take effect.</span></span>
+<span data-ttu-id="f11ec-108">**สิ่ง** สําคัญ: คุณอาจต้องรอถึง 24 ชั่วโมงเพื่อให้การเปลี่ยนแปลงของคุณมีผล</span><span class="sxs-lookup"><span data-stu-id="f11ec-108">**Important**: You may have to wait up to 24 hours for your changes to take effect.</span></span>
 
  
