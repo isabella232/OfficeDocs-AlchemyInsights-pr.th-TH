@@ -1,8 +1,8 @@
 ---
-title: การแก้ไขปัญหาเหตุการณ์ live ใน Microsoft Stream
+title: การแก้ไขปัญหาเหตุการณ์สดใน Microsoft Stream
 ms.author: cmcatee
 author: cmcatee-MSFT
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -13,13 +13,13 @@ ms.assetid: ef2df989-8539-48b5-a324-97d2e09f14fe
 ms.custom:
 - "9001511"
 - "5097"
-ms.openlocfilehash: 18ffe57c251db9c36f8c7ab56633fe3772f8aa4e
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: a0637bb8f96038c6e9898b5148fe4458358fdc6d
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47749858"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51782899"
 ---
-# <a name="troubleshooting-live-events-in-microsoft-stream"></a>การแก้ไขปัญหาเหตุการณ์ live ใน Microsoft Stream
+# <a name="troubleshooting-live-events-in-microsoft-stream"></a>การแก้ไขปัญหาเหตุการณ์สดใน Microsoft Stream
 
-มีหลายพื้นที่ในการตรวจสอบเพื่อให้แน่ใจว่าเหตุการณ์ live ของ Microsoft Stream ทำงานได้อย่างราบรื่น สำหรับข้อมูลเพิ่มเติมโปรดดู[การแก้ไขปัญหาเหตุการณ์ที่เกิดขึ้นจริงใน Microsoft Stream](https://docs.microsoft.com/stream/live-event-troubleshooting)
+มีพื้นที่มากมายให้ตรวจสอบเพื่อให้มั่นใจว่าเหตุการณ์สดของ Microsoft Stream สามารถเรียกใช้ได้อย่างราบรื่น ดูข้อมูลเพิ่มเติมที่ การแก้ไขปัญหา [เหตุการณ์สดใน Microsoft](https://docs.microsoft.com/stream/live-event-troubleshooting)Stream

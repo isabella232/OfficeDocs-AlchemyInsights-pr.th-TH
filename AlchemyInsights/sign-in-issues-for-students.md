@@ -1,8 +1,8 @@
 ---
-title: ปัญหาในการลงชื่อเข้าใช้สำหรับนักเรียน
+title: ปัญหาการลงชื่อเข้าใช้ของนักเรียน
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -13,23 +13,23 @@ ms.custom:
 - "9000744"
 - "3813"
 - "3818"
-ms.openlocfilehash: de2f7df9856a133bacca1c9983e0ab1deebe290e
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: bd9ed8ff0f01842d906cb5385f000213e5917f87
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47719828"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51787120"
 ---
-# <a name="sign-in-issues-for-students"></a>ปัญหาในการลงชื่อเข้าใช้สำหรับนักเรียน
+# <a name="sign-in-issues-for-students"></a>ปัญหาการลงชื่อเข้าใช้ของนักเรียน
 
-เมื่อนักเรียนมีปัญหาในการเข้าสู่ระบบเหตุผลที่พบบ่อยที่สุดคือทีมไม่ได้เปิดใช้งานสำหรับบทบาทของนักเรียน เมื่อต้องการแก้ไขปัญหานี้คุณจำเป็นต้องเปิดใช้งานทีม Microsoft ด้วยตนเอง:
+เมื่อนักเรียนมีปัญหาในการเข้าสู่ระบบ เหตุผลทั่วไปคือ Teams ไม่ได้เปิดใช้งานในบทบาทของนักเรียน เมื่อต้องการแก้ไขปัญหานี้ คุณต้องเปิดใช้งาน Microsoft Teams ด้วยตนเอง:
 
-1. ไปที่การตั้งค่าศูนย์การจัดการ Microsoft ๓๖๕**การตั้งค่า> > ทีม Microsoft** 
+1. ไปที่ ศูนย์การจัดการ Microsoft 365 **การตั้งค่า> การตั้งค่า > Microsoft Teams** 
 
-2. ถ้าคุณไม่เห็นทีม Microsoft ในรายการบริการให้ปิด**ลองใช้ศูนย์การจัดการใหม่**เพื่อค้นหา**การตั้งค่า > บริการและ Add-in > ทีม Microsoft** 
+2. หากคุณไม่เห็น Microsoft Teams ในรายการ บริการ ให้ปิด ลองใช้ศูนย์การจัดการใหม่เพื่อค้นหา การตั้งค่า > Services และ **add-ins > Microsoft Teams** 
 
-สำหรับข้อมูลเพิ่มเติมให้ดูที่[เปิดใช้งานทีม Microsoft สำหรับโรงเรียนของคุณ](https://docs.microsoft.com/microsoft-365/education/intune-edu-trial/enable-microsoft-teams#enable-microsoft-teams-for-your-school-1) 
+ดูข้อมูลเพิ่มเติมที่ [เปิดใช้งาน Microsoft Teams ในโรงเรียน](https://docs.microsoft.com/microsoft-365/education/intune-edu-trial/enable-microsoft-teams#enable-microsoft-teams-for-your-school-1)ของคุณ 
 
-**สิ่งสำคัญ**: คุณอาจต้องรอถึง24ชั่วโมงเพื่อให้การเปลี่ยนแปลงของคุณมีผล
+**สิ่ง** สําคัญ: คุณอาจต้องรอถึง 24 ชั่วโมงเพื่อให้การเปลี่ยนแปลงของคุณมีผล
 
  

@@ -1,8 +1,8 @@
 ---
-title: ตั้งค่าการสมัครใช้งาน Microsoft ๓๖๕ Business
+title: ตั้งค่าการสมัครใช้งาน Microsoft 365 Business
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002444"
 - "4795"
-ms.openlocfilehash: 5d165264452e81ffc0ea5b891dcea45f49be9518
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: f155b5e37047495c8044d58dc4403adfe18d34e2
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47720368"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51788506"
 ---
-# <a name="set-up-a-microsoft-365-business-subscription"></a>ตั้งค่าการสมัครใช้งาน Microsoft ๓๖๕ Business
+# <a name="set-up-a-microsoft-365-business-subscription"></a>ตั้งค่าการสมัครใช้งาน Microsoft 365 Business
 
-สำหรับคำแนะนำการเดินผ่านโปรดดูที่การ [ปรับใช้ Office ๓๖๕สำหรับองค์กรของคุณ](https://docs.microsoft.com/office365/enterprise/setup-overview-for-enterprises) เพื่อช่วยให้คุณสามารถตั้งค่าการสมัครใช้งานขององค์กรของคุณได้
+ให้ดูที่ ปรับใช้ [Office 365](https://docs.microsoft.com/office365/enterprise/setup-overview-for-enterprises) for องค์กรของคุณ เพื่อช่วยคุณตั้งค่ากับการสมัครใช้งาน Enterprise
 
 **แหล่งข้อมูลที่ยอดเยี่ยมมากขึ้น**
 
-- [FastTrack สำหรับ office ๓๖๕](https://docs.microsoft.com/fasttrack/O365-fasttrack-benefit-for-office-365) เป็นวิธีที่ดีที่สุดสำหรับการปรับใช้ Office ๓๖๕ FastTrack จะแนะนำคุณผ่านการกำหนดค่าการปรับใช้ที่ใช้บ่อยที่สุดและสามารถตอบคำถามได้ตลอดทาง 
+- [FastTrack for Office 365](https://docs.microsoft.com/fasttrack/O365-fasttrack-benefit-for-office-365) เป็นวิธีที่ดีที่สุดในการปรับใช้ Office 365 FastTrack จะแนะแนวคุณตลอดการกําหนดค่าการปรับใช้ทั่วไป และสามารถตอบคําถามระหว่างการกําหนดค่าได้ 
 
-- [ทำงานด้วยตนเองการปรับใช้ที่แนะนำของ Office ๓๖๕ Enterprise](https://docs.microsoft.com/office365/enterprise/setup-overview-for-enterprises#do-it-yourself-guided-deployment-of-office-365-enterprise) หลังจากที่คุณทำการวางแผนเสร็จสมบูรณ์แล้ว 
+- [Do-it-yourself guided deployment of Office 365 Enterprise](https://docs.microsoft.com/office365/enterprise/setup-overview-for-enterprises#do-it-yourself-guided-deployment-of-office-365-enterprise) after you've completed your planning. 

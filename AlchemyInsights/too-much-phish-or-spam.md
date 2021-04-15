@@ -1,26 +1,30 @@
 ---
-title: ๖๖๕คุณจะได้รับ phish หรือสแปมมากเกินไปในกล่องจดหมายของคุณหรือไม่
+title: 665 คุณถูกพิการหรือสแปมมากเกินไปในกล่องจดหมายของคุณหรือไม่
 ms.author: chrisda
 author: chrisda
 manager: dansimp
-ms.audience: ITPro
+ms.date: 04/14/2021
+audience: ITPro
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 665,2578
 ms.assetid: ''
-ms.openlocfilehash: 17b31d712ce6fdb36da8bbc2839c2b1df1de3cb4
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 4422ec5ca350dbb7608f936afa708887ce509ae3
+ms.sourcegitcommit: 1070c392bb32f0f9e660d9f156c10c212b5dfb50
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47700258"
+ms.lasthandoff: 04/14/2021
+ms.locfileid: "51767956"
 ---
-# <a name="are-you-receiving-too-much-phish-or-spam-in-your-mailbox"></a>คุณได้รับ phish หรือสแปมมากเกินไปในกล่องจดหมายของคุณหรือไม่
+# <a name="are-you-receiving-too-much-phish-or-spam-in-your-mailbox"></a>คุณถูกฟาดหรือสแปมมากเกินไปในกล่องจดหมายของคุณใช่ไหม
 
-ในฐานะผู้ดูแลระบบ Microsoft ๓๖๕วิธีที่ดีที่สุดในการระบุสาเหตุที่ส่งข้อความฟิชชิ่งหรือสแปมคือการส่งตัวอย่างไปยัง Microsoft ในการส่ง[Explorer](https://protection.office.com/reportsubmission) คุณจะได้รับคำติชมทันทีที่เกี่ยวข้องกับการกรองข้อความและเหตุใดจึงมีปัญหา
+> [!NOTE]
+> คุณสามารถเข้าถึงศูนย์การรักษาความปลอดภัยของ Microsoft 365 [security.microsoft.com](https://security.microsoft.com)
 
-เมื่อต้องการทำให้เป็น easer คุณสามารถอนุญาตให้ผู้ใช้ของคุณรายงานไปยัง Microsoft ได้โดยตรงผ่านทาง[Add-in ข้อความรายงาน](https://appsource.microsoft.com/product/office/WA104381180?src=office&tab=Overview)
+ในฐานะผู้ดูแลระบบ Microsoft 365 วิธีที่ดีที่สุดในการระบุว่าเหตุใดข้อความฟิชชิ่งหรือสแปมจึงถูกส่งคือการส่งตัวอย่างไปยัง Microsoft[ใน Submissions Explorer](https://security.microsoft.com/reportsubmission) คุณจะได้รับข้อเสนอแนะเกี่ยวกับการกรองข้อความในทันที และสาเหตุที่เกิดปัญหา
 
-**คุณทราบหรือไม่**: ตอนนี้คุณสามารถส่งตัวอย่างได้โดยตรงจากการ [ติดตามข้อความ](https://protection.office.com/messagetrace) และการวางแผน E5/ATP 2 ที่ลูกค้าสามารถส่งตัวอย่างจาก [ภัยคุกคาม Explorer](https://docs.microsoft.com/microsoft-365/security/office-365-security/threat-explorer)ได้
+เพื่อให้ง่ายขึ้น คุณสามารถอนุญาตให้ผู้ใช้ของคุณรายงานไปยัง Microsoft ได้โดยตรงผ่าน[Add-in รายงานข้อความ](https://appsource.microsoft.com/product/office/WA104381180?src=office&tab=Overview)
+
+**คุณทราบหรือไม่**: ขณะนี้คุณสามารถส่งตัวอย่างได้โดยตรงจากการติดตาม [ข้อความ](https://security.microsoft.com/messagetrace)และลูกค้า E5/ATP Plan 2 สามารถส่งตัวอย่างจาก [Threat Explorer](https://docs.microsoft.com/microsoft-365/security/office-365-security/threat-explorer)
