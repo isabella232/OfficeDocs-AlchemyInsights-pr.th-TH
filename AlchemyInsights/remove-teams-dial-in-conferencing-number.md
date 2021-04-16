@@ -1,8 +1,8 @@
 ---
-title: เอาหมายเลขการโทรเข้าการประชุมของทีมออก
+title: ลบหมายเลข Dial-in Conferencing ของ Teams ออก
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,35 +12,35 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002248"
 - "4540"
-ms.openlocfilehash: 129913c77a9a603289b6e23e57b96aa4ff9628e9
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 8d78351a15886021621c81ba5900b3af5f58f308
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47795767"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51799324"
 ---
-# <a name="remove-teams-dial-in-conferencing-number"></a>เอาหมายเลขการโทรเข้าการประชุมของทีมออก
+# <a name="remove-teams-dial-in-conferencing-number"></a>ลบหมายเลข Dial-in Conferencing ของ Teams ออก
 
-คุณต้องการความช่วยเหลือในการเอาหมายเลขโทรเข้าการประชุมออกจากบริดจ์การประชุมของคุณหรือไม่ หมายเลขที่คุณกำลังพยายามยกเลิกการลงทะเบียนในปัจจุบันเป็นหมายเลขเริ่มต้นหรือไม่ ถ้าเป็นเช่นนั้นคุณจะต้องเปลี่ยนหมายเลขเริ่มต้นของบริดจ์การประชุม
+คุณต้องการความช่วยเหลือในการเอาหมายเลข Dial-in Conferencing ออกจากบริดจ์การประชุมของคุณหรือไม่ หมายเลขที่คุณพยายามยกเลิกการลงทะเบียนในปัจจุบันเป็นหมายเลขเริ่มต้นหรือไม่ If so you will first need to change the default number of the conferencing bridge.
 
-หมายเลขโทรศัพท์เริ่มต้นของบริดจ์การประชุมกำหนด ID ผู้โทรที่จะใช้เมื่อการโทรขาออกถูกวางโดยผู้เข้าร่วมประชุมหรือผู้จัดการประชุมจากภายในการประชุม
+หมายเลขโทรศัพท์เริ่มต้นของบริดจ์การประชุมจะกําหนด ID ผู้โทรที่จะใช้เมื่อมีการโทรออกโดยผู้เข้าร่วมหรือผู้จัดการประชุมจากภายในการประชุม
 
-1. ลงชื่อเข้าใช้ด้วยบัญชีผู้ใช้ที่ทำงานของคุณ
+1. ลงชื่อเข้าใช้ด้วยบัญชีที่งานของคุณ
 
-2. ไปที่**ศูนย์การจัดการ Microsoft ๓๖๕**
+2. ไปที่ **ศูนย์การจัดการ Microsoft 365**
 
-3. ไปที่**ศูนย์การจัดการ | ทีม & Skype**
+3. ไปที่ **ศูนย์การจัดการ | Teams & Skype**
 
-4. ไปที่การ**ประชุม**
+4. **ไปที่** การประชุม
 
-5. ไปที่**บริดจ์การประชุม**
+5. ไปที่ **บริดจ์การประชุม**
 
-6. เน้นหมายเลขโทรศัพท์ของบริการที่คุณต้องการกำหนดค่าเป็นค่าเริ่มต้น
+6. เน้นหมายเลขที่โทรของบริการที่คุณต้องการกําหนดค่าเป็นค่าเริ่มต้น
 
-7. เลือก**ตั้งเป็นค่าเริ่มต้น**
+7. เลือก **ตั้ง** เป็นค่าเริ่มต้น
 
-สำหรับข้อมูลเพิ่มเติมให้ดูที่การ[เปลี่ยนหมายเลขโทรศัพท์บนบริดจ์การประชุมทางเสียงของคุณ](https://docs.microsoft.com/microsoftteams/change-the-phone-numbers-on-your-audio-conferencing-bridge)
+For more information, refer to [Change the phone numbers on your Audio Conferencing bridge](https://docs.microsoft.com/microsoftteams/change-the-phone-numbers-on-your-audio-conferencing-bridge).
 
 แหล่งข้อมูลที่เกี่ยวข้อง:
 
-- [เปลี่ยนการตั้งค่าสำหรับบริดจ์การประชุมทางเสียง](https://docs.microsoft.com/microsoftteams/change-the-settings-for-an-audio-conferencing-bridge)
+- [การเปลี่ยนการตั้งค่าบริดจ์การประชุมทางเสียง](https://docs.microsoft.com/microsoftteams/change-the-settings-for-an-audio-conferencing-bridge)
