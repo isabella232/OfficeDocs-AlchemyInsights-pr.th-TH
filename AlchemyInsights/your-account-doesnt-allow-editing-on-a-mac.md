@@ -1,8 +1,8 @@
 ---
-title: ปัญหาการเปิดใช้งาน-บัญชีผู้ใช้ไม่อนุญาตให้แก้ไขบน Mac
+title: ปัญหาการเปิดใช้งาน - บัญชีไม่อนุญาตให้แก้ไขบน Mac
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,23 +12,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "3409"
 - "9001425"
-ms.openlocfilehash: b4304f73ccad60f84c5cc6111de1e425695898e9
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 69ccee6d9a412370577becb9c563d32ea0bb4038
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47748848"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51796003"
 ---
-# <a name="fixing-the-microsoft-365-apps-your-account-doesnt-allow-editing-on-a-mac-message"></a>การแก้ไขแอป Microsoft ๓๖๕ "บัญชีผู้ใช้ของคุณไม่อนุญาตให้แก้ไขบน Mac" ข้อความ
+# <a name="fixing-the-microsoft-365-apps-your-account-doesnt-allow-editing-on-a-mac-message"></a>การแก้ไขข้อความ "บัญชีของคุณไม่อนุญาตให้แก้ไขบน Mac" ของแอป Microsoft 365
 
-ถ้าคุณได้รับข้อความนี้ให้ลองทำดังต่อไปนี้:
+ถ้าคุณได้รับข้อความนี้ ให้ลองวิธีต่อไปนี้:
 
-- ตรวจสอบให้แน่ใจว่าคุณมีการสมัครใช้งานที่อนุญาตให้ใช้สิทธิ์การใช้งานไคลเอ็นต์และตรวจสอบให้แน่ใจ [ว่าผู้ใช้มีสิทธิ์การ](https://docs.microsoft.com/microsoft-365/admin/add-users/add-users)ใช้งานที่มอบหมาย 
-- ดาวน์โหลดและเรียกใช้ [เครื่องมือการเอาสิทธิ์การใช้](https://support.office.com/article/how-to-remove-office-license-files-on-a-mac-b032c0f6-a431-4dad-83a9-6b727c03b193)งานออก
-- ตั้งค่าข้อมูลประจำตัวของคุณใหม่ ให้ดูที่ [ไม่สามารถเปิดใช้งาน Office หลังจากการติดตั้ง](https://support.office.com/article/5efba2b4-b1e6-4e5f-bf3c-6ab945d03dea#bkmk_cantactivate)ได้
-- เริ่มต้นและลงชื่อเข้าใช้ Office ด้วยบัญชีผู้ใช้ของคุณ
+- Make sure you have a subscription that allows client licenses, and [ensure that the user has a license assigned](https://docs.microsoft.com/microsoft-365/admin/add-users/add-users). 
+- ดาวน์โหลดและเรียกใช้ [เครื่องมือการเอาสิทธิ์การใช้งาน](https://support.office.com/article/how-to-remove-office-license-files-on-a-mac-b032c0f6-a431-4dad-83a9-6b727c03b193)ออก
+- ตั้งค่าข้อมูลรับรองของคุณใหม่ ดู [ไม่สามารถเปิดใช้งาน Office หลังจาก](https://support.office.com/article/5efba2b4-b1e6-4e5f-bf3c-6ab945d03dea#bkmk_cantactivate)การติดตั้ง
+- รีสตาร์ตและลงชื่อเข้าใช้ Office ด้วยบัญชีของคุณ
 
 สำหรับข้อมูลเพิ่มเติม ให้ดูที่
 - [เปิดใช้งาน Office for Mac](https://support.office.com/article/activate-office-for-mac-7f6646b1-bb14-422a-9ad4-a53410fcefb2)
-- [สิ่งที่คุณสามารถลองทำได้ถ้าคุณไม่สามารถติดตั้งหรือเปิดใช้งาน Office for Mac](https://support.office.com/article/5efba2b4-b1e6-4e5f-bf3c-6ab945d03dea#picktab=activation)
-- [Outlook ๒๐๑๖ for Mac จะแสดงพร้อมท์สำหรับการรับรองความถูกต้องซ้ำๆ](https://docs.microsoft.com/outlook/troubleshoot/sign-in/repeated-prompts-authentication)
+- [สิ่งที่คุณสามารถลองได้ถ้าคุณไม่สามารถติดตั้งหรือเปิดใช้งาน Office for Mac](https://support.office.com/article/5efba2b4-b1e6-4e5f-bf3c-6ab945d03dea#picktab=activation)
+- [Outlook 2016 for Mac พร้อมท์การรับรองความถูกต้องซ้ําๆ](https://docs.microsoft.com/outlook/troubleshoot/sign-in/repeated-prompts-authentication)
