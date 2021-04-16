@@ -1,8 +1,8 @@
 ---
-title: แชนเนลส่วนตัว
+title: แชนเนลส่วนบุคคล
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,21 +12,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001223"
 - "3205"
-ms.openlocfilehash: 6812bd789e0769118cf940418e8edeae8a1c2355
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 6dacba53908b3aad980d0a781d7489334a5ec054
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47801824"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51790423"
 ---
-# <a name="private-channels-in-microsoft-teams"></a><span data-ttu-id="eaea5-102">แชนเนลส่วนตัวในทีม Microsoft</span><span class="sxs-lookup"><span data-stu-id="eaea5-102">Private channels in Microsoft Teams</span></span>
+# <a name="private-channels-in-microsoft-teams"></a><span data-ttu-id="30da8-102">แชนเนลส่วนบุคคลใน Microsoft Teams</span><span class="sxs-lookup"><span data-stu-id="30da8-102">Private channels in Microsoft Teams</span></span>
 
-<span data-ttu-id="eaea5-103">ช่องทางส่วนตัวในทีม Microsoft สร้างช่องว่างที่เน้นสำหรับการทำงานร่วมกันภายในทีมของคุณ</span><span class="sxs-lookup"><span data-stu-id="eaea5-103">Private channels in Microsoft Teams create focused spaces for collaboration within your teams.</span></span> <span data-ttu-id="eaea5-104">เฉพาะผู้ใช้ในทีมที่เป็นเจ้าของหรือสมาชิกของแชนเนลส่วนตัวเท่านั้นที่สามารถเข้าถึงแชนเนลได้</span><span class="sxs-lookup"><span data-stu-id="eaea5-104">Only the users on the team who are owners or members of the private channel can access the channel.</span></span> <span data-ttu-id="eaea5-105">ทุกคนรวมถึงผู้เยี่ยมชมสามารถเพิ่มเป็นสมาชิกของแชนเนลส่วนตัวได้ตราบใดที่พวกเขาเป็นสมาชิกของทีมอยู่แล้ว</span><span class="sxs-lookup"><span data-stu-id="eaea5-105">Anyone, including guests, can be added as a member of a private channel as long as they are already members of the team.</span></span>
+<span data-ttu-id="30da8-103">แชนเนลส่วนบุคคลใน Microsoft Teams สร้างพื้นที่ที่โฟกัสไว้เพื่อการร่วมมือกันภายในทีมของคุณ</span><span class="sxs-lookup"><span data-stu-id="30da8-103">Private channels in Microsoft Teams create focused spaces for collaboration within your teams.</span></span> <span data-ttu-id="30da8-104">เฉพาะผู้ใช้ในทีมที่เป็นเจ้าของหรือสมาชิกของแชนเนลส่วนบุคคลเท่านั้นที่สามารถเข้าถึงแชนเนลได้</span><span class="sxs-lookup"><span data-stu-id="30da8-104">Only the users on the team who are owners or members of the private channel can access the channel.</span></span> <span data-ttu-id="30da8-105">ทุกคน รวมถึงแขกสามารถเพิ่มเป็นสมาชิกของแชนเนลส่วนบุคคลได้ตราบใดที่พวกเขาเป็นสมาชิกทีมอยู่แล้ว</span><span class="sxs-lookup"><span data-stu-id="30da8-105">Anyone, including guests, can be added as a member of a private channel as long as they are already members of the team.</span></span>
 
-<span data-ttu-id="eaea5-106">เมื่อต้องการเรียนรู้เพิ่มเติมให้เริ่มต้นใช้งาน[แชนเนลส่วนตัวในทีม Microsoft](https://docs.microsoft.com/MicrosoftTeams/private-channels)</span><span class="sxs-lookup"><span data-stu-id="eaea5-106">To learn more, start with [Private channels in Microsoft Teams](https://docs.microsoft.com/MicrosoftTeams/private-channels).</span></span> <span data-ttu-id="eaea5-107">สิ่งนี้รวมถึงข้อมูลเช่นการ[สร้างแชนเนลส่วนตัวและการเป็นสมาชิก](https://docs.microsoft.com/MicrosoftTeams/private-channels#private-channel-creation-and-membership)และ[ไซต์ SharePoint ของแชนเนลส่วนตัว](https://docs.microsoft.com/MicrosoftTeams/private-channels#private-channel-sharepoint-sites)</span><span class="sxs-lookup"><span data-stu-id="eaea5-107">This includes information such as [private channel creation and membership](https://docs.microsoft.com/MicrosoftTeams/private-channels#private-channel-creation-and-membership) and [private channel SharePoint sites](https://docs.microsoft.com/MicrosoftTeams/private-channels#private-channel-sharepoint-sites).</span></span>
+<span data-ttu-id="30da8-106">เมื่อต้องการเรียนรู้เพิ่มเติม เริ่มต้นด้วย แช[นเนลส่วนบุคคล ใน Microsoft Teams](https://docs.microsoft.com/MicrosoftTeams/private-channels)</span><span class="sxs-lookup"><span data-stu-id="30da8-106">To learn more, start with [Private channels in Microsoft Teams](https://docs.microsoft.com/MicrosoftTeams/private-channels).</span></span> <span data-ttu-id="30da8-107">ซึ่งรวมถึงข้อมูล เช่น การสร้างแช[นเนลส่วนบุคคลและการเป็นสมาชิก](https://docs.microsoft.com/MicrosoftTeams/private-channels#private-channel-creation-and-membership)และ[ไซต์ SharePoint ของแชนเนลส่วนบุคคล](https://docs.microsoft.com/MicrosoftTeams/private-channels#private-channel-sharepoint-sites)</span><span class="sxs-lookup"><span data-stu-id="30da8-107">This includes information such as [private channel creation and membership](https://docs.microsoft.com/MicrosoftTeams/private-channels#private-channel-creation-and-membership) and [private channel SharePoint sites](https://docs.microsoft.com/MicrosoftTeams/private-channels#private-channel-sharepoint-sites).</span></span>
 
-<span data-ttu-id="eaea5-108">**จำเป็นต้องมีเจ้าของทีมใหม่ใช่หรือไม่**</span><span class="sxs-lookup"><span data-stu-id="eaea5-108">**Need a new team owner?**</span></span>
+<span data-ttu-id="30da8-108">**ต้องการเจ้าของทีมใหม่ใช่ไหม**</span><span class="sxs-lookup"><span data-stu-id="30da8-108">**Need a new team owner?**</span></span>
 
-<span data-ttu-id="eaea5-109">ถ้าเจ้าของแชนเนลส่วนตัวของคุณออกจากองค์กรของคุณหรือจะถูกนำออกจากกลุ่มสมาชิกของแชนเนลส่วนตัวจะได้รับการเลื่อนระดับโดยอัตโนมัติเป็นเจ้าของแชนเนลส่วนตัว</span><span class="sxs-lookup"><span data-stu-id="eaea5-109">If your private channel owner leaves your organization or is removed from the group, a member of the private channel is automatically promoted to be the private channel owner.</span></span>
+<span data-ttu-id="30da8-109">ถ้าเจ้าของแชนเนลส่วนบุคคลของคุณออกจากองค์กรของคุณหรือถูกเอาออกจากกลุ่ม สมาชิกของแชนเนลส่วนบุคคลจะได้รับการเลื่อนระดับเป็นเจ้าของแชนเนลส่วนบุคคลโดยอัตโนมัติ</span><span class="sxs-lookup"><span data-stu-id="30da8-109">If your private channel owner leaves your organization or is removed from the group, a member of the private channel is automatically promoted to be the private channel owner.</span></span>
 
-<span data-ttu-id="eaea5-110">ผู้ดูแลระบบยังสามารถดู [จัดการวงจรชีวิตของแชนเนลส่วนตัวใน Microsoft](https://docs.microsoft.com/MicrosoftTeams/private-channels-life-cycle-management) team เพื่อเรียนรู้เพิ่มเติมเกี่ยวกับนโยบายเพื่อจัดการผู้ที่สามารถสร้างแชนเนลส่วนตัวรวมถึงวิธีที่จะช่วยสร้างคิวรีสำหรับ eDiscovery หรือตามกฎหมาย</span><span class="sxs-lookup"><span data-stu-id="eaea5-110">Admins can also see [Manage the life cycle of private channels in Microsoft Teams](https://docs.microsoft.com/MicrosoftTeams/private-channels-life-cycle-management) to learn more about policies to manage who can create private channels, as well as ways to help build queries for eDiscovery or legal holds.</span></span>
+<span data-ttu-id="30da8-110">ผู้ดูแลระบบยังสามารถดู จัดการวงจรอายุของแชนเนลส่วนบุคคลใน [Microsoft Teams](https://docs.microsoft.com/MicrosoftTeams/private-channels-life-cycle-management) เพื่อเรียนรู้เพิ่มเติมเกี่ยวกับนโยบายในการจัดการบุคคลที่สามารถสร้างแชนเนลส่วนบุคคล ตลอดจนวิธีช่วยสร้างคิวรีของ eDiscovery หรือบัญชีที่ถูกต้องตามกฎหมาย</span><span class="sxs-lookup"><span data-stu-id="30da8-110">Admins can also see [Manage the life cycle of private channels in Microsoft Teams](https://docs.microsoft.com/MicrosoftTeams/private-channels-life-cycle-management) to learn more about policies to manage who can create private channels, as well as ways to help build queries for eDiscovery or legal holds.</span></span>
