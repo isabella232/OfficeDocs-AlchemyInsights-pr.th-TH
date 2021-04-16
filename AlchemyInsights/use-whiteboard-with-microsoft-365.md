@@ -1,8 +1,8 @@
 ---
-title: ใช้ไวท์บอร์ดกับ Microsoft ๓๖๕
+title: ใช้ Whiteboard กับ Microsoft 365
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,21 +12,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002354"
 - "4581"
-ms.openlocfilehash: 3c8e944efb4f74bb2894f611e3580b9e34f5db5b
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: faf454882ecc0ddff7832c10525f0c324e7c003f
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47796703"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51808297"
 ---
-# <a name="use-whiteboard-with-microsoft-365"></a>ใช้ไวท์บอร์ดกับ Microsoft ๓๖๕
+# <a name="use-whiteboard-with-microsoft-365"></a>ใช้ Whiteboard กับ Microsoft 365
 
-Microsoft ไวท์บอร์ดคือผืนผ้าใบดิจิตอลแบบรูปแบบอิสระที่ผู้ใช้เนื้อหาและแนวคิดมารวมกัน 
+Microsoft Whiteboard คือพื้นที่ดิจิทัลอิสระที่บุคคล เนื้อหา และความคิดมารวมกัน 
 
-- [เปิดใช้งานไวท์บอร์ด](https://support.office.com/article/d236aef8-fcdf-4b5e-b5d7-7f157461e920#bkmk_07) เป็นผู้ดูแลระบบ Microsoft ๓๖๕ 
+- [เปิดใช้งาน Whiteboard](https://support.office.com/article/d236aef8-fcdf-4b5e-b5d7-7f157461e920#bkmk_07) ในฐานะผู้ดูแลระบบ Microsoft 365 
 
-- ใช้[ไวท์บอร์ดกับทีม Microsoft](https://support.microsoft.com/office/7a6e7218-e9dc-4ccc-89aa-b1a0bb9c31ee) 
+- ใช้[ไวท์บอร์ด กับ Microsoft Teams](https://support.microsoft.com/office/7a6e7218-e9dc-4ccc-89aa-b1a0bb9c31ee) 
 
-- ทำงาน[ร่วม](https://support.office.com/article/d236aef8-fcdf-4b5e-b5d7-7f157461e920#bkmk_27)กันกับผู้อื่นบนไวท์บอร์ด 
+- [การ](https://support.office.com/article/d236aef8-fcdf-4b5e-b5d7-7f157461e920#bkmk_27) ร่วมมือกันกับผู้อื่นบน Whiteboard 
 
-สำหรับข้อมูลเพิ่มเติมให้ดูที่[วิธีใช้ Microsoft ไวท์บอร์ด](https://support.office.com/article/d236aef8-fcdf-4b5e-b5d7-7f157461e920) 
+ดูข้อมูลเพิ่มเติมได้ที่ วิธีใช้[Microsoft Whiteboard](https://support.office.com/article/d236aef8-fcdf-4b5e-b5d7-7f157461e920) 
