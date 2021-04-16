@@ -2,7 +2,7 @@
 title: ข้อผิดพลาดในการเปิดใช้งาน Office
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,21 +12,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002310"
 - "4489"
-ms.openlocfilehash: e3c3f53b5e053cec00010e8d321f3f48bbfd5bab
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: f791c15a57a4da209b7802db853c0d3ab6c1b681
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47702166"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51802258"
 ---
 # <a name="office-activation-errors"></a>ข้อผิดพลาดในการเปิดใช้งาน Office
 
-1. ใน**แผงควบคุม > โปรแกรมและฟีเจอร์**การค้นหา**Office** คุณควรจะเห็น**microsoft ๓๖๕สำหรับองค์กร**หรือ**microsoft ๓๖๕สำหรับธุรกิจ** ถ้าคุณเห็น Office เวอร์ชันมากกว่าหนึ่งรายการให้ถอนการติดตั้งเวอร์ชันที่คุณไม่ได้ใช้งาน ถ้าคุณไม่สามารถถอนการติดตั้งได้สำเร็จโดยใช้แผงควบคุมให้ใช้ตัวช่วยการสนับสนุนและการกู้คืน (SaRA) เพื่อ [ถอนการติดตั้ง](https://aka.ms/SARA-OfficeUninstall-Alchemy) เวอร์ชันที่คุณไม่ได้ใช้ จากนั้นให้เริ่ม Office ใหม่และลงชื่อเข้าใช้โดยใช้บัญชีที่ทำงานหรือโรงเรียนของคุณถ้าได้รับพร้อมท์ 
+1. ใน **แผงควบคุม >โปรแกรมและ** ฟีเจอร์ ให้ **ค้นหา Office** คุณควรเห็น **Microsoft 365 for enterprise** หรือ **Microsoft 365 for business** ถ้าคุณเห็น Office มากกว่าหนึ่งเวอร์ชันในรายการ ให้ถอนการติดตั้งเวอร์ชันที่คุณไม่ได้ใช้ ถ้าคุณไม่สามารถถอนการติดตั้งโดยใช้แผงควบคุมได้ ให้ใช้ตัวช่วยการสนับสนุนและการกู้คืน (SaRA) เพื่อถอนการติดตั้งเวอร์ชันที่คุณไม่ได้ใช้[](https://aka.ms/SARA-OfficeUninstall-Alchemy) จากนั้นรีสตาร์ต Office และลงชื่อเข้าใช้ด้วยบัญชีที่โรงเรียนหรือที่โรงเรียนของคุณ ถ้าได้รับพร้อมท์ 
 
-2. ถ้า Office ยังไม่มีสิทธิ์ให้กลับไปที่**แผงควบคุม > โปรแกรมและฟีเจอร์**คลิกขวาที่การติดตั้ง Office ที่เหลืออยู่แล้วคลิก**ปรับเปลี่ยน**(หรือ**เปลี่ยนแปลง**) แล้วคลิกการ**ซ่อมแซมแบบออนไลน์** การซ่อมแซมแบบออนไลน์อาจใช้เวลาสักครู่ จากนั้นให้เริ่ม Office ใหม่และลงชื่อเข้าใช้โดยใช้บัญชีที่ทำงานหรือโรงเรียนของคุณถ้าได้รับพร้อมท์ 
+2. ถ้า Office ยังคงไม่มีสิทธิ์ ให้กลับไปที่ แผงควบคุม **>** โปรแกรมและฟีเจอร์ คลิกขวาที่การติดตั้ง Office ที่เหลือ คลิก ปรับเปลี่ยน **(หรือ** เปลี่ยน **)** แล้วคลิก **ซ่อมแซม** แบบออนไลน์ การซ่อมแซมแบบออนไลน์อาจใช้เวลาสักครู่ จากนั้นรีสตาร์ต Office และลงชื่อเข้าใช้ด้วยบัญชีที่โรงเรียนหรือที่โรงเรียนของคุณ ถ้าได้รับพร้อมท์ 
 
-3. ถ้า Office ยังไม่มีสิทธิ์ให้ดาวน์โหลดแล้วเรียกใช้ตัว [แก้ไขปัญหาการเปิดใช้งาน](https://aka.ms/SARA-OfficeActivation-Alchemy) บนเครื่องจักรที่ได้รับผลกระทบเพื่อแก้ไขปัญหาการเปิดใช้งาน 
+3. ถ้า Office ยังคงไม่มีใบอนุญาต ให้ดาวน์โหลดแล้วเรียกใช้ [ตัว](https://aka.ms/SARA-OfficeActivation-Alchemy) แก้ไขปัญหาการเปิดใช้งานบนเครื่องที่ได้รับผลกระทบเพื่อแก้ไขปัญหาการเปิดใช้งาน 
 
-4. ถ้า Office ยังไม่มีสิทธิ์ให้[ตั้งค่าสถานะการเปิดใช้งาน Office ใหม่](https://docs.microsoft.com/office365/troubleshoot/activation/reset-office-365-proplus-activation-state) จากนั้นให้เริ่ม Office ใหม่และลงชื่อเข้าใช้โดยใช้บัญชีที่ทำงานหรือโรงเรียนของคุณถ้าได้รับพร้อมท์  
+4. ถ้า Office ยังคงไม่มีสิทธิ์ใช้งาน ให้[รีเซ็ตสถานะการเปิดใช้งาน Office](https://docs.microsoft.com/office365/troubleshoot/activation/reset-office-365-proplus-activation-state) จากนั้นรีสตาร์ต Office และลงชื่อเข้าใช้ด้วยบัญชีที่โรงเรียนหรือที่โรงเรียนของคุณ ถ้าได้รับพร้อมท์  
 
-5. สำหรับการดำเนินการแก้ไขปัญหาเพิ่มเติมให้ดู[ที่ข้อผิดพลาดในการเปิดใช้งานผลิตภัณฑ์และการเปิดใช้งานใน Office](https://support.office.com/article/unlicensed-product-and-activation-errors-in-office-0d23d3c0-c19c-4b2f-9845-5344fedc4380)
+5. For more troubleshooting actions, see [Unlicensed Product and activation errors in Office](https://support.office.com/article/unlicensed-product-and-activation-errors-in-office-0d23d3c0-c19c-4b2f-9845-5344fedc4380).
