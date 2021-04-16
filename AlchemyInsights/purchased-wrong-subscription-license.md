@@ -1,8 +1,8 @@
 ---
-title: ซื้อสิทธิ์การใช้งานการสมัครใช้งานที่ผิด
+title: ซื้อสิทธิ์การใช้งานการสมัครใช้งานที่ไม่ถูกต้อง
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,20 +12,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002455"
 - "4793"
-ms.openlocfilehash: c002fc1c177f72119baaee90c07d0d60c1be5f8b
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: b423b3ea8ce8616cb8018112ea12191bbe3ed7c7
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47768518"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51809890"
 ---
-# <a name="purchased-wrong-subscription-license"></a>ซื้อสิทธิ์การใช้งานการสมัครใช้งานที่ผิด
+# <a name="purchased-wrong-subscription-license"></a>ซื้อสิทธิ์การใช้งานการสมัครใช้งานที่ไม่ถูกต้อง
 
-ถ้าคุณซื้อแผนการสมัครใช้งานที่ไม่ถูกต้องให้ทำตามขั้นตอนต่อไปนี้:
+ถ้าคุณซื้อแผนการสมัครใช้งานที่ไม่ถูกต้อง ให้ทําตามขั้นตอนเหล่านี้:
 
-- ซื้อแผนการสมัครใช้งานที่คุณต้องการ ดู [ซื้อการสมัครใช้](https://docs.microsoft.com/alchemyinsights/buy-a-subscription-to-office-365-for-business)งาน
-- ยกเลิกการสมัครใช้งานที่ไม่ถูกต้อง ให้ดู[ที่ยกเลิกการสมัครใช้งานของคุณ](https://docs.microsoft.com/alchemyinsights/canceling-your-office-365-subscription)
-ไม่มีการลงโทษแต่คุณจะถูกเรียกเก็บเงินสำหรับจำนวนหรือวันที่คุณใช้สิทธิ์การใช้งาน เครดิตตามสัดส่วนจะถูกส่งกลับไปยังคุณภายในรอบการเรียกเก็บเงินครั้งถัดไป
-- กำหนดสิทธิ์การใช้งานให้กับผู้ใช้ภายใต้แผนใหม่ ดู [วิธีการกำหนดสิทธิ์การใช้](https://docs.microsoft.com/alchemyinsights/how-to-assign-a-license-to-a-user)งาน
+- ซื้อแผนการสมัครใช้งานที่คุณต้องการ ดู [ซื้อ](https://docs.microsoft.com/alchemyinsights/buy-a-subscription-to-office-365-for-business)การสมัครใช้งาน
+- ยกเลิกการสมัครใช้งานที่ไม่ถูกต้อง ดู [ยกเลิกการสมัครใช้งาน](https://docs.microsoft.com/alchemyinsights/canceling-your-office-365-subscription)ของคุณ
+ไม่มีข้อปรับ แต่คุณจะถูกเรียกเก็บเงินตามจํานวนหรือวันที่คุณใช้งานสิทธิ์การใช้งาน เครดิตตามส่วนจะถูกส่งกลับถึงคุณภายในรอบการเรียกเก็บเงินถัดไป
+- มอบหมายสิทธิ์การใช้งานให้กับผู้ใช้ภายใต้แผนใหม่ [ดูวิธีการกําหนด](https://docs.microsoft.com/alchemyinsights/how-to-assign-a-license-to-a-user)สิทธิ์การใช้งาน
 
-**หมายเหตุ**: ถ้าคุณซื้อการสมัครใช้งานจากคู่ค้าหรือผู้ค้าปลีกให้ติดต่อพวกเขาโดยตรงสำหรับการยกเลิกและการซื้อทั้งหมด ถ้าคุณเป็นลูกค้าข้อตกลงองค์กร Volume Licensing ให้ติดต่อ[ศูนย์บริการ Volume license](https://support.microsoft.com/help/4471406/how-to-contact-the-microsoft-volume-licensing-service-center)
+**หมายเหตุ**: ถ้าคุณซื้อการสมัครใช้งานจากคู่ค้าหรือผู้จัดซื้อ ให้ติดต่อคู่ค้าและการซื้อทั้งหมดโดยตรง ถ้าคุณเป็นลูกค้า Volume Licensing Enterprise Agreement โปรดติดต่อ[ศูนย์บริการ Volume License](https://support.microsoft.com/help/4471406/how-to-contact-the-microsoft-volume-licensing-service-center)

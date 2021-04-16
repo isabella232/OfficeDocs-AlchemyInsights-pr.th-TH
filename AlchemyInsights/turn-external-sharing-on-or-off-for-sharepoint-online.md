@@ -1,8 +1,8 @@
 ---
-title: เปิดหรือปิดการแชร์ภายนอกสำหรับ SharePoint Online
+title: เปิดหรือปิดการแชร์ภายนอกของ SharePoint Online
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,13 +12,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000191"
 - "3168"
-ms.openlocfilehash: 54669a31804bc71000944fd401f40fc1a68fb579
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 1df1d784d85bbaba2c1932b4d7bbae90448beef3
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47735793"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51808918"
 ---
-# <a name="turn-external-sharing-on-or-off-for-sharepoint-online"></a>เปิดหรือปิดการแชร์ภายนอกสำหรับ SharePoint Online
+# <a name="turn-external-sharing-on-or-off-for-sharepoint-online"></a>เปิดหรือปิดการแชร์ภายนอกของ SharePoint Online
 
-เมื่อต้องการเรียนรู้วิธีที่ผู้ดูแลระบบส่วนกลางและผู้ดูแล SharePoint สามารถเปลี่ยนการตั้งค่าการแชร์ระดับองค์กรสำหรับ SharePoint และ OneDrive ให้ดู[ที่เปิดหรือปิดการแชร์ภายนอก](https://docs.microsoft.com/sharepoint/turn-external-sharing-on-or-off)
+เมื่อต้องการเรียนรู้วิธีที่ผู้ดูแลระบบส่วนกลางและผู้ดูแลระบบ SharePoint สามารถเปลี่ยนการตั้งค่าการแชร์ระดับองค์กรของพวกเขาใน SharePoint และ OneDrive  [ให้ดู เปิดหรือปิดการแชร์](https://docs.microsoft.com/sharepoint/turn-external-sharing-on-or-off)ภายนอก

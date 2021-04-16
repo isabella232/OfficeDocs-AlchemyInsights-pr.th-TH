@@ -1,8 +1,8 @@
 ---
-title: ไม่สามารถสร้างการประเมินความเข้ากันได้
+title: ไม่สามารถสร้างแบบทดสอบความเข้ากันได้
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000655"
 - "2503"
-ms.openlocfilehash: 9843afe5392778993a2197f2ce76761dcf732d4a
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: a42872d1685782abc86b55674e84ad1ace338c88
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47674093"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51810359"
 ---
-# <a name="cant-create-a-compatibility-assessment"></a>ไม่สามารถสร้างการประเมินความเข้ากันได้
+# <a name="cant-create-a-compatibility-assessment"></a>ไม่สามารถสร้างแบบทดสอบความเข้ากันได้
 
-ตัวจัดการการกำหนดค่า Microsoft จุดสิ้นสุดที่กำหนดค่าอุปกรณ์เสร็จเรียบร้อยแล้วแต่ Analytics บนเดสก์ท็อปไม่สามารถสร้างการประเมินความเข้ากันได้ ไม่มีชุดข้อมูลที่สมบูรณ์สำหรับการกำหนดค่าของอุปกรณ์ (สำมะโน) หรือแอปที่ติดตั้ง (สินค้าคงคลัง)
+ตัวจัดการการกําหนดค่าจุดสิ้นสุดของ Microsoft กําหนดค่าอุปกรณ์เรียบร้อยแล้ว แต่การวิเคราะห์เดสก์ท็อปไม่สามารถสร้างแบบทดสอบความเข้ากันได้ได้ ไม่มีชุดข้อมูลที่สมบูรณ์ในการกําหนดค่า (สมาโน) ของอุปกรณ์หรือแอปที่ติดตั้ง (สินค้าคงคลัง)
 
-ปัญหานี้มักจะได้รับการแก้ไขโดยอัตโนมัติเมื่ออุปกรณ์พยายามใหม่ ถ้ายังคงมีอยู่ให้ตรวจสอบให้แน่ใจว่าอุปกรณ์สามารถสื่อสารกับบริการนั้นได้ สำหรับข้อมูลเพิ่มเติมให้[ดูที่](https://docs.microsoft.com/configmgr/desktop-analytics/enable-data-sharing#endpoints)จุดสิ้นสุดและ[ข้อมูลที่ขาดหายไป](https://docs.microsoft.com/configmgr/desktop-analytics/monitor-connection-health#missing-data)
+ปัญหานี้ได้รับการแก้ไขโดยอัตโนมัติเมื่อการลองอุปกรณ์ใหม่ หากยังคงอยู่ ตรวจสอบให้แน่ใจว่าอุปกรณ์ดังกล่าวสามารถสื่อสารกับบริการได้ หากต้องการข้อมูลเพิ่มเติม โปรดดู[จุดสิ้นสุด](https://docs.microsoft.com/configmgr/desktop-analytics/enable-data-sharing#endpoints)[และข้อมูล](https://docs.microsoft.com/configmgr/desktop-analytics/monitor-connection-health#missing-data)ขาดหายไป

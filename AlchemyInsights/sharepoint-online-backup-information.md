@@ -1,8 +1,8 @@
 ---
-title: ข้อมูลการสํารองข้อมูลของ SharePoint Online
+title: ข้อมูลการสํารองข้อมูล SharePoint Online
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000277"
 - "4838"
-ms.openlocfilehash: b9724c3fef32701cc5b919a64f9d4b78ce7a15a5
-ms.sourcegitcommit: 05a9dd3121c21322dc9ddec4c2eec548cafd5a43
+ms.openlocfilehash: 5020dde481bb2e2c9a00ed8050937a0e8cf520f8
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 02/09/2021
-ms.locfileid: "50165232"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51809134"
 ---
 # <a name="sharepoint-online-backup-information"></a>ข้อมูลการสํารองข้อมูล SharePoint Online
 
 For more information on SharePoint and OneDrive resiliency, see:
 
-- [ความยืดหยุ่นของข้อมูล SharePoint และ OneDrive ใน Microsoft 365](https://docs.microsoft.com/compliance/assurance/assurance-sharepoint-onedrive-data-resiliency)
+- [ความยืดหยุ่นในข้อมูล SharePoint และ OneDrive ใน Microsoft 365](https://docs.microsoft.com/compliance/assurance/assurance-sharepoint-onedrive-data-resiliency)
 
 > [!NOTE]
-> SharePoint Online จะเก็บรักษาการสํารองข้อมูลเนื้อหาทั้งหมดไว้เป็นเวลา 14 วันนอกเหนือจากการลบจริง ถ้าไม่สามารถคืนค่าเนื้อหา[ผ่านทางถังรีไซเคิล](https://support.microsoft.com/office/restore-deleted-items-from-the-site-collection-recycle-bin-5fa924ee-16d7-487b-9a0a-021b9062d14b)หรือการคืนค่าไฟล์[](https://support.microsoft.com/office/restore-your-onedrive-fa231298-759d-41cf-bcd0-25ac53eb8a15)ได้ ผู้ดูแลระบบสามารถติดต่อฝ่ายสนับสนุนของไมโครซอฟท์เพื่อขอคืนค่าได้ตลอดเวลาภายในหน้าต่าง 14 วัน การคืนค่าจากการสํารองข้อมูลสามารถเสร็จสมบูรณ์ได้เฉพาะกับไซต์คอลเลกชันหรือไซต์ย่อยเท่านั้น ไม่ใช่ไฟล์ รายการ หรือไลบรารีที่เฉพาะเจาะจง
+> SharePoint Online เก็บรักษาการสํารองของเนื้อหาทั้งหมดไว้เป็นเวลา 14 วันนอกเหนือจากการลบจริง ถ้าไม่สามารถคืนค่าเนื้อหา[ผ่านถังรีไซเคิล](https://support.microsoft.com/office/restore-deleted-items-from-the-site-collection-recycle-bin-5fa924ee-16d7-487b-9a0a-021b9062d14b)หรือการคืนค่าไฟล์[](https://support.microsoft.com/office/restore-your-onedrive-fa231298-759d-41cf-bcd0-25ac53eb8a15)ผู้ดูแลระบบสามารถติดต่อฝ่ายสนับสนุนของไมโครซอฟท์เพื่อขอคืนค่าเมื่อใดก็ได้ภายในหน้าต่าง 14 วัน การคืนค่าจากการสํารองข้อมูลสามารถเสร็จสมบูรณ์ได้เฉพาะกับไซต์คอลเลกชันหรือไซต์ย่อยเท่านั้น ไม่ใช่ไฟล์ รายการ หรือไลบรารีที่ระบุ

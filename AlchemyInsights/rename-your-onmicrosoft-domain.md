@@ -2,7 +2,7 @@
 title: เปลี่ยนชื่อโดเมน onmicrosoft ของคุณ
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -13,16 +13,16 @@ ms.custom:
 - "16"
 - "1000015"
 ms.assetid: ae399389-f176-4a0c-8b9d-4d6605059914
-ms.openlocfilehash: c74e4c761c331cbe26d14dbe67632d2bb24c7763
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 1e966aab4d24b47f3672dcb3c84eb6961b8966f1
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47701338"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51810251"
 ---
 # <a name="rename-your-onmicrosoftcom-domain"></a>เปลี่ยนชื่อโดเมน onmicrosoft.com ของคุณ
 
- **คุณไม่สามารถเปลี่ยนชื่อโดเมน onmicrosoft หลังจากลงทะเบียนแล้ว** ตัวอย่างเช่นถ้าโดเมนเริ่มต้นที่คุณเลือกเป็น  *fourthcoffee.onmicrosoft.com*คุณจะไม่สามารถเปลี่ยนเป็น  *fabrikam.onmicrosoft.com*ได้ เมื่อต้องการใช้โดเมน onmicrosoft.com อื่นคุณจะต้องเริ่มการสมัครใช้งานใหม่ด้วย Microsoft ๓๖๕
+ **คุณไม่สามารถเปลี่ยนชื่อโดเมน onmicrosoft หลังจากลงทะเบียนได้** For example, if the initial domain you chose was  *fourthcoffee.onmicrosoft.com*, you can't change it to be  *fabrikam.onmicrosoft.com*. เมื่อต้องการใช้ onmicrosoft.com อื่น คุณจะต้องเริ่มการสมัครใช้งานใหม่ด้วย Microsoft 365
   
-ถ้าคุณต้องการใช้โดเมนแบบกำหนดเองเช่น  *contoso.com*  คุณสามารถเพิ่มโดเมนที่ [คุณเป็นเจ้าของ](https://docs.microsoft.com/microsoft-365/admin/setup/add-domain) หรือ [ซื้อจากไมโครซอฟท์](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/buy-a-domain-name)ได้
+หากคุณต้องการใช้โดเมนแบบ contoso.com *โดเมนของคุณ* คุณสามารถเพิ่ม [โดเมนที่คุณเป็นเจ้าของ](https://docs.microsoft.com/microsoft-365/admin/setup/add-domain)หรือ [ซื้อจาก Microsoft](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/buy-a-domain-name)
   

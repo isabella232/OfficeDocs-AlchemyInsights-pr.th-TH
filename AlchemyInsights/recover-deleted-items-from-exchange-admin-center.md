@@ -2,7 +2,7 @@
 title: กู้คืนรายการที่ถูกลบจากศูนย์การจัดการ Exchange
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "1800008"
 - "5719"
-ms.openlocfilehash: f231cbb27d0fc50c10ee8189ba02538abe300aec
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: d6699e08a33a72b0c726c149829667cd57afb0a0
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47693142"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51809746"
 ---
 # <a name="recover-deleted-items-from-exchange-admin-center"></a>กู้คืนรายการที่ถูกลบจากศูนย์การจัดการ Exchange
 
-ภายใน [ประสบการณ์การใช้งานการจัดการกล่องจดหมาย](https://admin.exchange.microsoft.com/#/mailboxes)แบบง่ายและได้รับการอัปเดตภายในศูนย์การจัดการ EXCHANGE (EAC) คุณสามารถเลือกกล่องจดหมายที่เฉพาะเจาะจงของผู้ใช้และกู้คืนรายการได้
+ภายในประสบการณ์การจัดการ [กล่องจดหมายที่เรียบง่ายและอัปเดต](https://admin.exchange.microsoft.com/#/mailboxes)แล้ว ภายในศูนย์การจัดการ Exchange (EAC) คุณสามารถเลือกกล่องจดหมายที่ผู้ใช้ระบุและกู้คืนรายการได้
 
-1. เลือก**กล่องจดหมาย**ภายใต้**ผู้รับ**
-2. เลือกผู้ใช้ที่คุณต้องการกู้คืนอีเมลจาก
-3. เลือก**กู้คืนรายการที่ถูกลบ**
-    - คุณอาจจำเป็นต้องดูภายใต้ **... ดรอปดาวน์เพิ่มเติม**เพื่อดู**กู้คืนรายการที่ถูกลบ**
-4. ผู้ใช้ตัวเลือกตัวกรองเพื่อค้นหารายการที่คุณต้องการกู้คืน
+1. **เลือกกล่องจดหมาย****ภายใต้** ผู้รับ
+2. เลือกผู้ใช้ที่คุณต้องการกู้คืนอีเมล
+3. เลือก **กู้คืนรายการ** ที่ถูกลบ
+    - คุณอาจต้องดูภายใต้ **... เพิ่มเติม** ดรอปดาวน์เพื่อดู **กู้คืนรายการ** ที่ถูกลบ
+4. ผู้ใช้ตัวเลือกการกรองเพื่อค้นหารายการที่คุณต้องการกู้คืน

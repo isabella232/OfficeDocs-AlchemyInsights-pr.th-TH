@@ -1,8 +1,8 @@
 ---
-title: วิธีการสั่งซื้อ Office ๓๖๕แผนการศึกษา
+title: วิธีการสั่งซื้อแผน Office 365 Education
 ms.author: cmcatee
 author: cmcatee-MSFT
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
@@ -15,25 +15,25 @@ ms.custom:
 - "370"
 - "1500009"
 ms.assetid: eabdc749-9ec5-4961-9adf-2e7e7d5fb330
-ms.openlocfilehash: 7199f8321d68ad9641dda265adba804216dede92
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 8546be7dc2ab569fe0beb3150ead687d3a96c83a
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47703355"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51810755"
 ---
-# <a name="how-to-purchase-office-365-education-plans"></a>วิธีการสั่งซื้อ Office ๓๖๕แผนการศึกษา
+# <a name="how-to-purchase-office-365-education-plans"></a>วิธีการสั่งซื้อแผน Office 365 Education
 
-คุณได้รับการอนุมัติสำหรับ Office ๓๖๕ Education  เมื่อต้องการซื้อ:
+คุณได้รับการอนุมัติให้ Office 365 Education  เมื่อต้องการซื้อ:
 
-1. นำทางไปยังการ**[เรียกเก็บเงิน > บริการการซื้อ](https://portal.office.com/AdminPortal/Home#/catalog)**
+1. นําทาง **[ไปยัง>การเรียกเก็บเงิน เพื่อซื้อ](https://portal.office.com/AdminPortal/Home#/catalog)** บริการ
 
-2. เลือกจากรายการภายใต้**แผนการศึกษา**
+2. เลือกจากรายการภายใต้ **แผนการศึกษา**
 
-3. โฮเวอร์เหนือการสมัครใช้งานที่คุณต้องการซื้อแล้วคลิก**ซื้อทันที**
+3. โฮเวอร์เหนือการสมัครใช้งานที่คุณต้องการซื้อ แล้วคลิก **ซื้อ** ทันที
 
-**การเรียนรู้และการเรียนรู้ระยะไกล**
+**การสอนและการเรียนรู้จากระยะไกล**
 
-- โปรดดูการเรียนรู้ [และการเรียนรู้ระยะไกลใน Office ๓๖๕ Education](https://support.office.com/article/remote-teaching-and-learning-in-office-365-education-f651ccae-7b65-478b-8366-51bb884025c4) เพื่อเรียนรู้เกี่ยวกับคำแนะนำล่าสุดเกี่ยวกับการตั้งค่าการวางแผนบทเรียนของโรงเรียนของคุณการประชุมและการแชร์เนื้อหากับนักเรียน
+- โปรดดู การสอน [และการเรียนรู้จากระยะไกลใน Office 365 Education](https://support.office.com/article/remote-teaching-and-learning-in-office-365-education-f651ccae-7b65-478b-8366-51bb884025c4) เพื่อเรียนรู้คู่มือล่าสุดเกี่ยวกับการตั้งค่าการวางแผนบทเรียนของโรงเรียน การประชุมแบบเสมือน และการแชร์เนื้อหากับนักเรียน
 
-- มีคำแนะนำด้าน IT เพิ่มเติมใน[การเริ่มต้นใช้งาน Microsoft team สำหรับการเรียนรู้ระยะไกล](https://docs.microsoft.com/MicrosoftTeams/remote-learning-edu)และทำให้การ[เปลี่ยนไปใช้การเรียนรู้ระยะไกล](https://www.microsoft.com/education/remote-learning)
+- มีแนวทางด้าน IT เพิ่มเติมใน[เริ่มต้นใช้งาน Microsoft Teams สําหรับการเรียนรู้จากระยะไกล และ](https://docs.microsoft.com/MicrosoftTeams/remote-learning-edu)การเปลี่ยน[ไปใช้การเรียนรู้จากระยะไกล](https://www.microsoft.com/education/remote-learning)
