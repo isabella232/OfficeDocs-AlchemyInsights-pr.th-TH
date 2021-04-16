@@ -2,7 +2,7 @@
 title: เปลี่ยนรหัสผ่านของคุณ
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: reference
 ms.service: o365-administration
@@ -10,19 +10,19 @@ localization_priority: Normal
 ROBOTS: NOINDEX, NOFOLLOW
 ms.custom:
 - 0bd18328-35e4-4e4a-94c3-48430e8e2e77
-ms.openlocfilehash: 9abc97379dc153956e8cf3ce59ddb046623b85d5
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: 7903069254a2889445b552c9d638c9d7049e112a
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "36496435"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51805192"
 ---
-# <a name="change-your-password-in-outlook"></a>เปลี่ยนรหัสผ่านของคุณใน Outlook
+# <a name="change-your-password-in-outlook"></a>เปลี่ยนรหัสผ่านใน Outlook
 
-หากคุณลืมรหัสผ่านให้ไปที่[หน้าการรีเซ็ตรหัสผ่านของบัญชี Microsoft](https://go.microsoft.com/fwlink/p/?linkid=841909) มิฉะนั้นให้ทำตามคำแนะนำด้านล่าง
+หากคุณลืมรหัสผ่านของคุณ ให้ไปที่หน้ารีเซ็ต[รหัสผ่านบัญชี Microsoft](https://go.microsoft.com/fwlink/p/?linkid=841909) มิฉะนั้น ให้ปฏิบัติตามคําแนะนําด้านล่าง
   
-1. เลือกชื่อหรือรูปโปรไฟล์ของคุณที่มุมขวาบนแล้วเลือก**ดูบัญชี**
-2. ภายใต้สวัสดี! เลือก**เปลี่ยนรหัสผ่าน**
-3. เลือกรหัสผ่านใหม่และเลือก**บันทึก**
+1. เลือกชื่อหรือรูปภาพโปรไฟล์ของคุณที่มุมบนขวา **แล้วเลือก ดู** บัญชี
+2. ภายใต้การทักทาย! เลือก **เปลี่ยนรหัสผ่าน**
+3. เลือกรหัสผ่านใหม่ **แล้วเลือก** บันทึก
 
-หากต้องการเรียนรู้เพิ่มเติมโปรดดู[เปลี่ยนรหัสผ่านของฉันใน Outlook.com](https://support.office.com/article/2138d690-811c-4545-b2f3-e4dbe80c9735.aspx)
+เมื่อต้องการเรียนรู้เพิ่มเติม[ให้ดู เปลี่ยนรหัสผ่านของฉันใน Outlook.com](https://support.office.com/article/2138d690-811c-4545-b2f3-e4dbe80c9735.aspx)
