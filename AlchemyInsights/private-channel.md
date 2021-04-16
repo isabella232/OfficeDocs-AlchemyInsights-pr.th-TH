@@ -1,8 +1,8 @@
 ---
-title: แชนเนลส่วนตัว
+title: แชนเนลส่วนบุคคล
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,21 +12,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001223"
 - "3205"
-ms.openlocfilehash: 6812bd789e0769118cf940418e8edeae8a1c2355
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 6dacba53908b3aad980d0a781d7489334a5ec054
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47801824"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51790423"
 ---
-# <a name="private-channels-in-microsoft-teams"></a>แชนเนลส่วนตัวในทีม Microsoft
+# <a name="private-channels-in-microsoft-teams"></a>แชนเนลส่วนบุคคลใน Microsoft Teams
 
-ช่องทางส่วนตัวในทีม Microsoft สร้างช่องว่างที่เน้นสำหรับการทำงานร่วมกันภายในทีมของคุณ เฉพาะผู้ใช้ในทีมที่เป็นเจ้าของหรือสมาชิกของแชนเนลส่วนตัวเท่านั้นที่สามารถเข้าถึงแชนเนลได้ ทุกคนรวมถึงผู้เยี่ยมชมสามารถเพิ่มเป็นสมาชิกของแชนเนลส่วนตัวได้ตราบใดที่พวกเขาเป็นสมาชิกของทีมอยู่แล้ว
+แชนเนลส่วนบุคคลใน Microsoft Teams สร้างพื้นที่ที่โฟกัสไว้เพื่อการร่วมมือกันภายในทีมของคุณ เฉพาะผู้ใช้ในทีมที่เป็นเจ้าของหรือสมาชิกของแชนเนลส่วนบุคคลเท่านั้นที่สามารถเข้าถึงแชนเนลได้ ทุกคน รวมถึงแขกสามารถเพิ่มเป็นสมาชิกของแชนเนลส่วนบุคคลได้ตราบใดที่พวกเขาเป็นสมาชิกทีมอยู่แล้ว
 
-เมื่อต้องการเรียนรู้เพิ่มเติมให้เริ่มต้นใช้งาน[แชนเนลส่วนตัวในทีม Microsoft](https://docs.microsoft.com/MicrosoftTeams/private-channels) สิ่งนี้รวมถึงข้อมูลเช่นการ[สร้างแชนเนลส่วนตัวและการเป็นสมาชิก](https://docs.microsoft.com/MicrosoftTeams/private-channels#private-channel-creation-and-membership)และ[ไซต์ SharePoint ของแชนเนลส่วนตัว](https://docs.microsoft.com/MicrosoftTeams/private-channels#private-channel-sharepoint-sites)
+เมื่อต้องการเรียนรู้เพิ่มเติม เริ่มต้นด้วย แช[นเนลส่วนบุคคล ใน Microsoft Teams](https://docs.microsoft.com/MicrosoftTeams/private-channels) ซึ่งรวมถึงข้อมูล เช่น การสร้างแช[นเนลส่วนบุคคลและการเป็นสมาชิก](https://docs.microsoft.com/MicrosoftTeams/private-channels#private-channel-creation-and-membership)และ[ไซต์ SharePoint ของแชนเนลส่วนบุคคล](https://docs.microsoft.com/MicrosoftTeams/private-channels#private-channel-sharepoint-sites)
 
-**จำเป็นต้องมีเจ้าของทีมใหม่ใช่หรือไม่**
+**ต้องการเจ้าของทีมใหม่ใช่ไหม**
 
-ถ้าเจ้าของแชนเนลส่วนตัวของคุณออกจากองค์กรของคุณหรือจะถูกนำออกจากกลุ่มสมาชิกของแชนเนลส่วนตัวจะได้รับการเลื่อนระดับโดยอัตโนมัติเป็นเจ้าของแชนเนลส่วนตัว
+ถ้าเจ้าของแชนเนลส่วนบุคคลของคุณออกจากองค์กรของคุณหรือถูกเอาออกจากกลุ่ม สมาชิกของแชนเนลส่วนบุคคลจะได้รับการเลื่อนระดับเป็นเจ้าของแชนเนลส่วนบุคคลโดยอัตโนมัติ
 
-ผู้ดูแลระบบยังสามารถดู [จัดการวงจรชีวิตของแชนเนลส่วนตัวใน Microsoft](https://docs.microsoft.com/MicrosoftTeams/private-channels-life-cycle-management) team เพื่อเรียนรู้เพิ่มเติมเกี่ยวกับนโยบายเพื่อจัดการผู้ที่สามารถสร้างแชนเนลส่วนตัวรวมถึงวิธีที่จะช่วยสร้างคิวรีสำหรับ eDiscovery หรือตามกฎหมาย
+ผู้ดูแลระบบยังสามารถดู จัดการวงจรอายุของแชนเนลส่วนบุคคลใน [Microsoft Teams](https://docs.microsoft.com/MicrosoftTeams/private-channels-life-cycle-management) เพื่อเรียนรู้เพิ่มเติมเกี่ยวกับนโยบายในการจัดการบุคคลที่สามารถสร้างแชนเนลส่วนบุคคล ตลอดจนวิธีช่วยสร้างคิวรีของ eDiscovery หรือบัญชีที่ถูกต้องตามกฎหมาย

@@ -2,7 +2,7 @@
 title: แก้ไขด่วน
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,13 +12,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003088"
 - "5841"
-ms.openlocfilehash: 5f5c1873e1abc351eb5b656c66846a8bd9a6b61e
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: aa5c60bebe9192d17a34615d635f8691d6e72e87
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47774718"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51790315"
 ---
 # <a name="quick-edit"></a>แก้ไขด่วน
 
-มีสองวิธีในการแก้ไขรายการในรายการ SharePoint คุณสามารถแก้ไขรายการเดียวในมุมมองรายการได้ซึ่งเป็นวิธีการเริ่มต้น หรือทำงานได้อย่างมีประสิทธิภาพยิ่งขึ้นคุณสามารถแก้ไขหลายรายการในมุมมองการแก้ไขด่วนได้ คุณต้องมีสิทธิ์การใช้งานระดับที่ได้รับการสนับสนุนหรือสูงกว่าในการแก้ไขรายการ ดู[แก้ไขรายการใน SharePoint Online](https://support.microsoft.com/office/dac1a1c3-a80b-4082-ba57-715cf613d0f7)
+มีสองวิธีในการแก้ไขข้อมูลในรายการ SharePoint คุณสามารถแก้ไขรายการเดียวในมุมมองรายการ ซึ่งเป็นวิธีเริ่มต้น หรือเพื่อให้มีประสิทธิภาพมากยิ่งขึ้น คุณสามารถแก้ไขหลายรายการในมุมมองแก้ไขด่วนได้ คุณต้องมีสิทธิ์ระดับสนับสนุนหรือสูงกว่าเพื่อแก้ไขรายการ ดู[แก้ไขข้อมูลในรายการใน SharePoint Online](https://support.microsoft.com/office/dac1a1c3-a80b-4082-ba57-715cf613d0f7)
