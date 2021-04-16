@@ -1,8 +1,8 @@
 ---
-title: เหตุใดการอัปเดตซอฟต์แวร์จึงไม่ถูกจัดวาง
+title: เหตุใดจึงไม่มีการปรับใช้การอัปเดตซอฟต์แวร์
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003773"
 - "6717"
-ms.openlocfilehash: 2e7156f994d27f46cec6dcc3c8680b55ebfe3ec2
-ms.sourcegitcommit: 9fd002ce49ad9a7e58c3eb997a8063e2e1feab55
+ms.openlocfilehash: 8e539260e1d99f18bf9bec32ae244c94aeebddbc
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 10/06/2020
-ms.locfileid: "48461980"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51805705"
 ---
-# <a name="why-software-updates-are-not-being-deployed"></a><span data-ttu-id="5b2a0-102">เหตุใดการอัปเดตซอฟต์แวร์จึงไม่ถูกจัดวาง</span><span class="sxs-lookup"><span data-stu-id="5b2a0-102">Why software updates are not being deployed?</span></span>
+# <a name="why-software-updates-are-not-being-deployed"></a><span data-ttu-id="d25fd-102">เหตุใดจึงไม่มีการปรับใช้การอัปเดตซอฟต์แวร์</span><span class="sxs-lookup"><span data-stu-id="d25fd-102">Why software updates are not being deployed?</span></span>
 
-<span data-ttu-id="5b2a0-103">ตรวจทานสิ่งต่อไปนี้ถ้าคุณได้กำหนดค่าการอัปเดตซอฟต์แวร์ผ่านทางการอัปเดต Windows 10 แต่การอัปเดตจะไม่ถูกปรับใช้:</span><span class="sxs-lookup"><span data-stu-id="5b2a0-103">Review the following if you configured software updates through a Windows 10 update ring but the updates are not being deployed:</span></span>  
+<span data-ttu-id="d25fd-103">ตรวจสอบต่อไปนี้ ถ้าคุณกําหนดค่าการอัปเดตซอฟต์แวร์ผ่านวงรอบการอัปเดต Windows 10 แต่การอัปเดตจะไม่ถูกปรับใช้:</span><span class="sxs-lookup"><span data-stu-id="d25fd-103">Review the following if you configured software updates through a Windows 10 update ring but the updates are not being deployed:</span></span>  
 
-- <span data-ttu-id="5b2a0-104">พิจารณาเปลี่ยนการให้บริการของ Windows จากชนิดการวางจำหน่ายแบบ  **ครึ่งรายครึ่งปี**  เป็นชนิดที่เข้มงวดมากขึ้นเป็นชนิดการวางจำหน่ายบ่อย</span><span class="sxs-lookup"><span data-stu-id="5b2a0-104">Consider changing Windows servicing from a  **Semi-Annual Channel**  release type to a stricter, more frequent release type</span></span>  
-- <span data-ttu-id="5b2a0-105">ตรวจสอบการอัปเด deferral สำหรับการอัปเด**ตที่มีคุณภาพ**และการ**อัปเดตของฟีเจอร์**</span><span class="sxs-lookup"><span data-stu-id="5b2a0-105">Check the deferral period for  **Quality update**  and  **Feature update**.</span></span> <span data-ttu-id="5b2a0-106">ช่วงเวลา deferral สามารถนำไปสู่การหน่วงเวลาในการอัปเดตสำหรับวันที่๑๘๐ได้</span><span class="sxs-lookup"><span data-stu-id="5b2a0-106">The deferral period could lead to delay in updates for up 180 days.</span></span>
+- <span data-ttu-id="d25fd-104">พิจารณาเปลี่ยนการให้บริการ Windows จาก  **ช่องทางรายครึ่ง**  ปีเป็นประเภทการเผยแพร่ที่เข้มงวดและบ่อยขึ้น</span><span class="sxs-lookup"><span data-stu-id="d25fd-104">Consider changing Windows servicing from a  **Semi-Annual Channel**  release type to a stricter, more frequent release type</span></span>  
+- <span data-ttu-id="d25fd-105">ตรวจสอบช่วงการเลื่อนเวลา **การอัปเดตคุณภาพ\*\*\*\*และการอัปเดต** ฟีเจอร์</span><span class="sxs-lookup"><span data-stu-id="d25fd-105">Check the deferral period for  **Quality update**  and  **Feature update**.</span></span> <span data-ttu-id="d25fd-106">ช่วงเวลาการยืดเวลาอาจส่งผลให้การอัปเดตล่าช้าเป็นเวลา 180 วัน</span><span class="sxs-lookup"><span data-stu-id="d25fd-106">The deferral period could lead to delay in updates for up 180 days.</span></span>
