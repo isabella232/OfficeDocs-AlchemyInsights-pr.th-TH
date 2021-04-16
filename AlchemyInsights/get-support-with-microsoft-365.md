@@ -1,8 +1,8 @@
 ---
-title: รับความช่วยเหลือเกี่ยวกับ Microsoft ๓๖๕
+title: รับการสนับสนุนด้วย Microsoft 365
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -14,13 +14,13 @@ ms.custom:
 - "4503"
 - "9002471"
 - "4818"
-ms.openlocfilehash: c925d1dd6d11f1fbd31eaa05a2d876c84b3e23b7
-ms.sourcegitcommit: 1fb324fd156008e77b7e2008af4b3dc1c0d0ea3e
+ms.openlocfilehash: f5b3f6aaaeef8931ef04c61baedde02ff35679b6
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 10/13/2020
-ms.locfileid: "48452283"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51812123"
 ---
-# <a name="get-support-with-microsoft-365"></a><span data-ttu-id="09533-102">รับความช่วยเหลือเกี่ยวกับ Microsoft ๓๖๕</span><span class="sxs-lookup"><span data-stu-id="09533-102">Get support with Microsoft 365</span></span>
+# <a name="get-support-with-microsoft-365"></a><span data-ttu-id="be13d-102">รับการสนับสนุนด้วย Microsoft 365</span><span class="sxs-lookup"><span data-stu-id="be13d-102">Get support with Microsoft 365</span></span>
 
-<span data-ttu-id="09533-103">เมื่อต้องการค้นหาแหล่งข้อมูลที่เหมาะสมสำหรับปัญหาของคุณเราจำเป็นต้องมีข้อมูลโดยละเอียดเพิ่มเติม</span><span class="sxs-lookup"><span data-stu-id="09533-103">In order to find the right resources for your issue, we'll need more detailed information.</span></span> <span data-ttu-id="09533-104">โปรด restate ปัญหาของคุณและใส่ชื่อผลิตภัณฑ์เฉพาะฟีเจอร์หรือข้อผิดพลาดและส่งคิวรีการค้นหาของคุณอีกครั้ง</span><span class="sxs-lookup"><span data-stu-id="09533-104">Please restate your issue and include specific product names, features, or errors and submit your search query again.</span></span>
+<span data-ttu-id="be13d-103">เมื่อต้องการค้นหาแหล่งข้อมูลที่เหมาะสมให้กับปัญหาของคุณ เราต้องการข้อมูลโดยละเอียดเพิ่มเติม</span><span class="sxs-lookup"><span data-stu-id="be13d-103">In order to find the right resources for your issue, we'll need more detailed information.</span></span> <span data-ttu-id="be13d-104">โปรดแจ้งปัญหาของคุณใหม่และใส่ชื่อผลิตภัณฑ์ ฟีเจอร์ หรือข้อผิดพลาดเฉพาะ และส่งคิวรีการค้นหาของคุณอีกครั้ง</span><span class="sxs-lookup"><span data-stu-id="be13d-104">Please restate your issue and include specific product names, features, or errors and submit your search query again.</span></span>

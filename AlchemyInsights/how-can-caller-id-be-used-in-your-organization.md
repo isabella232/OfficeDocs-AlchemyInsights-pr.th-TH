@@ -1,8 +1,8 @@
 ---
-title: รหัสผู้โทรจะใช้ในองค์กรของคุณได้อย่างไร
+title: วิธีใช้รหัสผู้โทรเข้าในองค์กรของคุณ
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002506"
 - "4859"
-ms.openlocfilehash: ccbbf79d72b6a472498ff336676afc81cf26a17b
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 5d312cf48b08ef7a8b074169e548da7ba5e39b2b
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47782185"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51811403"
 ---
-# <a name="how-can-caller-id-be-used-in-your-organization"></a><span data-ttu-id="4f2b6-102">ID ผู้โทรจะใช้ในองค์กรของคุณได้อย่างไร</span><span class="sxs-lookup"><span data-stu-id="4f2b6-102">How can caller ID be used in your organization?</span></span>
+# <a name="how-can-caller-id-be-used-in-your-organization"></a><span data-ttu-id="f1108-102">รหัสผู้โทรเข้าสามารถใช้ในองค์กรของคุณได้อย่างไร</span><span class="sxs-lookup"><span data-stu-id="f1108-102">How can caller ID be used in your organization?</span></span>
 
-<span data-ttu-id="4f2b6-103">คุณต้องการกำหนดค่า ID ผู้โทรสำหรับผู้ใช้ของคุณหรือไม่</span><span class="sxs-lookup"><span data-stu-id="4f2b6-103">Would you like to configure caller ID for your users?</span></span>
+<span data-ttu-id="f1108-103">คุณต้องการกําหนดค่ารหัสผู้โทรเข้าให้กับผู้ใช้ของคุณหรือไม่</span><span class="sxs-lookup"><span data-stu-id="f1108-103">Would you like to configure caller ID for your users?</span></span>
 
-- <span data-ttu-id="4f2b6-104">ดู[ว่าสามารถใช้ ID ผู้โทรในองค์กรของคุณ](https://docs.microsoft.com/microsoftteams/how-can-caller-id-be-used-in-your-organization)ได้อย่างไร</span><span class="sxs-lookup"><span data-stu-id="4f2b6-104">See [How can caller ID be used in your organization?](https://docs.microsoft.com/microsoftteams/how-can-caller-id-be-used-in-your-organization)</span></span>
-- <span data-ttu-id="4f2b6-105">ตรวจสอบให้แน่ใจว่าคุณเข้าใจ [องค์ประกอบทั้งหมดที่](https://docs.microsoft.com/microsoftteams/more-about-calling-line-id-and-calling-party-name) จำเป็นสำหรับ ID ผู้โทรเพื่อทำงานได้อย่างถูกต้อง</span><span class="sxs-lookup"><span data-stu-id="4f2b6-105">Be sure you understand [all the elements](https://docs.microsoft.com/microsoftteams/more-about-calling-line-id-and-calling-party-name) necessary for caller ID to work properly.</span></span>
+- <span data-ttu-id="f1108-104">ดู [รหัสผู้โทรเข้าที่ใช้ในองค์กรของคุณได้อย่างไร](https://docs.microsoft.com/microsoftteams/how-can-caller-id-be-used-in-your-organization)</span><span class="sxs-lookup"><span data-stu-id="f1108-104">See [How can caller ID be used in your organization?](https://docs.microsoft.com/microsoftteams/how-can-caller-id-be-used-in-your-organization)</span></span>
+- <span data-ttu-id="f1108-105">โปรดแน่ใจว่าคุณ [เข้าใจองค์ประกอบทั้งหมดที่](https://docs.microsoft.com/microsoftteams/more-about-calling-line-id-and-calling-party-name) จําเป็นเพื่อให้รหัสผู้เรียกเข้าสามารถใช้งานได้อย่างถูกต้อง</span><span class="sxs-lookup"><span data-stu-id="f1108-105">Be sure you understand [all the elements](https://docs.microsoft.com/microsoftteams/more-about-calling-line-id-and-calling-party-name) necessary for caller ID to work properly.</span></span>
