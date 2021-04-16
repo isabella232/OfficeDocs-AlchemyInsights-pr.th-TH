@@ -1,8 +1,8 @@
 ---
-title: ค้นหาสถานะของตั๋ว Microsoft ๓๖๕ของคุณ
+title: ค้นหาสถานะของตั๋ว Microsoft 365 ของคุณ
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,13 +12,13 @@ ms.collection: Adm_O365
 munlocking-an-account s.custom:
 - "9002251"
 - "4362"
-ms.openlocfilehash: 74aa97173e2999d756e638bfedc180b17e3a8f1c
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 3ddf6b87ec40f9b91e47cc2938c9160a9158a8d3
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47708198"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51813059"
 ---
-# <a name="find-the-status-of-your-microsoft-365-ticket"></a>ค้นหาสถานะของตั๋ว Microsoft ๓๖๕ของคุณ
+# <a name="find-the-status-of-your-microsoft-365-ticket"></a>ค้นหาสถานะของตั๋ว Microsoft 365 ของคุณ
 
-ถ้าคุณกำลังมองหาการอัปเดตสถานะบนตั๋วของคุณคุณสามารถดูสถานะตั๋วในศูนย์การจัดการได้ จากศูนย์การจัดการให้คลิก **แสดงการสนับสนุน > ทั้งหมด**จากนั้นคลิก **ดูคำขอบริ**การ
+ถ้าคุณมองหาการอัปเดตสถานะบนตั๋วของคุณ คุณสามารถดูสถานะตั๋วในศูนย์การจัดการได้ จากศูนย์การจัดการ ให้คลิก **แสดง>บริการ** ทั้งหมด จากนั้นคลิก **ดูการร้องขอ** บริการ

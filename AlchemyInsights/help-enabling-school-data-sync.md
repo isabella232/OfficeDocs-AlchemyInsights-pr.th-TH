@@ -1,8 +1,8 @@
 ---
-title: ช่วยในการเปิดใช้งานการซิงค์ข้อมูลของโรงเรียน
+title: ความช่วยเหลือในการเปิดใช้งานการซิงค์ข้อมูลของโรงเรียน
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001732"
 - "3834"
-ms.openlocfilehash: 7547f296892d9d583916f4fe9b652083771bfa43
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 10224171bf81cd31b2d90afb30887539aa7b4e58
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47705426"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51811691"
 ---
-# <a name="help-enabling-school-data-sync"></a>ช่วยในการเปิดใช้งานการซิงค์ข้อมูลของโรงเรียน
+# <a name="help-enabling-school-data-sync"></a>ความช่วยเหลือในการเปิดใช้งานการซิงค์ข้อมูลของโรงเรียน
 
-ต้องการความช่วยเหลือในการเปิดใช้งานการซิงค์ข้อมูลโรงเรียนหรือไม่ คุณทราบหรือไม่ว่าคุณอาจมีสิทธิ์ในการขอความช่วยเหลือจากโปรแกรม Microsoft ๓๖๕ FastTrack
+ต้องการความช่วยเหลือในการเปิดใช้งานการซิงค์ข้อมูลของโรงเรียนหรือไม่ คุณทราบหรือไม่ว่าคุณอาจมีสิทธิ์รับความช่วยเหลือจากโปรแกรม Microsoft 365 FastTrack
 
-โปรดไปที่ [ศูนย์การ FastTrack](https://www.microsoft.com/fasttrack) เพื่อส่งคำขอความช่วยเหลือในการเปิดใช้งานการซิงค์ข้อมูลของโรงเรียนสำหรับองค์กรของคุณ
+โปรดไปที่ [ศูนย์ FastTrack](https://www.microsoft.com/fasttrack) เพื่อส่งการร้องขอเพื่อขอความช่วยเหลือในการเปิดใช้งานการซิงค์ข้อมูลโรงเรียนให้กับองค์กรของคุณ

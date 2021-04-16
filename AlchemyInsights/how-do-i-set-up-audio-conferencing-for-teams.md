@@ -1,8 +1,8 @@
 ---
-title: ฉันจะตั้งค่าการประชุมทางเสียงสำหรับทีมได้อย่างไร
+title: ฉันจะตั้งค่าการประชุมทางเสียงให้กับ Teams อย่างไร
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -13,31 +13,31 @@ ms.custom:
 - "2711"
 - "2712"
 - "9000766"
-ms.openlocfilehash: 61312e3b74e41c4474ac89eeeee8bc6e75372fa8
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: d5d5288dc3ea8a708e92d79adf03eb21d65d42ac
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47781554"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51811079"
 ---
-# <a name="microsoft-teams--audio-conferencing"></a>ทีม Microsoft –การประชุมทางเสียง
+# <a name="microsoft-teams--audio-conferencing"></a>Microsoft Teams – การประชุมผ่านเสียง
 
-ต้องการความช่วยเหลือในการเปิดหรือตั้งค่าการ [ประชุมทางเสียงสำหรับทีม Microsoft](https://docs.microsoft.com/microsoftteams/set-up-audio-conferencing-in-teams)ใช่หรือไม่  มีการสร้างผู้ใช้ล่าสุดแล้วหรือยัง ถ้าเป็นเช่นนั้นคุณจะต้องใช้เวลาหลายชั่วโมงเพื่อให้การตั้งค่ามีผล
+ต้องการความช่วยเหลือในการเปิดหรือตั้งค่า [การประชุมทางเสียงของ Microsoft Teams](https://docs.microsoft.com/microsoftteams/set-up-audio-conferencing-in-teams)ใช่หรือไม่  ผู้ใช้ถูกสร้างล่าสุดหรือไม่ หากใช้ คุณจะต้องใช้เวลาหลายชั่วโมงเพื่อให้การตั้งค่ามีผล
 
-ถ้า [มีการซื้อสิทธิ์](https://docs.microsoft.com/microsoftteams/set-up-audio-conferencing-in-teams#step-2-get-and-assign-licenses)การใช้งานแล้วให้ตรวจสอบว่าผู้ใช้ได้รับสิทธิ์การใช้งานสำหรับการประชุมทางเสียงของ Microsoft ๓๖๕และมีหมายเลขโทรศัพท์เริ่มต้น
+ถ้า [ซื้อสิทธิ์การใช้งาน ให้ตรวจสอบว่า](https://docs.microsoft.com/microsoftteams/set-up-audio-conferencing-in-teams#step-2-get-and-assign-licenses)ผู้ใช้มีสิทธิ์การใช้งานการประชุมทางเสียงของ Microsoft 365 และมีหมายเลขที่โทรเริ่มต้น
 
-1. ไปที่ [ผู้ใช้ที่ใช้งานอยู่](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/users) จากนั้นเลือกผู้ใช้ที่อยู่ในคำถาม
+1. ไปที่ [ผู้ใช้ที่ใช้งานอยู่](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/users) แล้วเลือกผู้ใช้ในคําถาม
 
-2. ทั้งนี้ขึ้นอยู่กับเวอร์ชันของศูนย์การจัดการให้เลือกสิทธิ์การใช้งาน**และแอ**ปหรือคลิก**แก้ไข**สิทธิ์การใช้งาน**ผลิตภัณฑ์**
+2. ขึ้นอยู่กับเวอร์ชันของศูนย์การจัดการ **เลือก สิทธิ์การใช้งานและแอป****หรือคลิก****แก้ไขบนสิทธิ์การใช้งาน** ผลิตภัณฑ์
 
-3. ยืนยันว่าผู้ใช้มีสิทธิ์การใช้งานที่เลือกสำหรับการ**ประชุมทางเสียงของ microsoft ๓๖๕, ทีม Microsoft**และ**Skype for Business Online (Plan 2)** ถ้าไม่มีสิทธิ์การใช้งานการ **ประชุมทางเสียงของ Microsoft ๓๖๕** คุณจะต้อง [ซื้อการเพิ่มสิทธิ์](https://docs.microsoft.com/microsoftteams/teams-add-on-licensing/microsoft-teams-add-on-licensing?tabs=small-business) การใช้งานก่อน
+3. ยืนยันว่าผู้ใช้มีสิทธิ์การใช้งานที่เลือกไว้ในการประชุมทางเสียง **ของ Microsoft 365, Microsoft Teams** และ Skype for Business Online **(Plan 2)** ถ้าไม่มีสิทธิ์การใช้งาน การประชุมผ่านเสียงของ **Microsoft 365** คุณจะต้อง [ซื้อสิทธิ์การใช้งานเพิ่มบน](https://docs.microsoft.com/microsoftteams/teams-add-on-licensing/microsoft-teams-add-on-licensing?tabs=small-business) สิทธิ์การใช้งานก่อน
 
-4. **ศูนย์การจัดการ**ผู้ใช้ให้คลิก**แสดงทั้งหมด**แล้ว**ทีม**
+4. ศูนย์ **การจัดการผู้ใช้****คลิก แสดง** ทั้งหมด **จากนั้นเลือก** Teams
 
-5. ใน**ศูนย์การจัดการทีม Microsoft**ให้คลิก**พอร์ทัลแบบดั้งเดิม**
+5. ใน **ศูนย์การจัดการ Microsoft Teams** ให้คลิก **พอร์ทัล** ดั้งเดิม
 
-6. ใน**ศูนย์การจัดการ Skype For business**ให้คลิกการ**ประชุมทางเสียง**แล้วคลิก**ผู้ใช้**
+6. ใน **ศูนย์การจัดการ Skype for Business** ให้คลิก **การประชุม** ทางเสียง **จากนั้น** ผู้ใช้
 
-7. เลือกผู้ใช้ที่อยู่ในคำถามและตรวจสอบผู้ใช้ที่มี**หมายเลขโทรศัพท์เริ่มต้น**
+7. เลือกผู้ใช้ในคําถาม และตรวจสอบว่าผู้ใช้มี **หมายเลขที่โทรเริ่มต้น**
 
-ถ้าคุณต้องการความช่วยเหลือเพิ่มเติมเกี่ยวกับการจัดซื้อสิทธิ์การใช้งานสำหรับการ**ประชุมทางเสียงของ microsoft**ให้โทรถึง[ฝ่ายสนับสนุนการเรียกเก็บเงิน](https://docs.microsoft.com/microsoft-365/admin/contact-support-for-business-products?view=o365-worldwide#phone-support)
+หากคุณต้องการความช่วยเหลือเพิ่มเติมเกี่ยวกับการซื้อสิทธิ์การใช้งานการประชุมผ่านเสียงของ **Microsoft** โปรดโทรติดต่อ [ฝ่ายสนับสนุนการเรียกเก็บเงินของ Microsoft](https://docs.microsoft.com/microsoft-365/admin/contact-support-for-business-products?view=o365-worldwide#phone-support)

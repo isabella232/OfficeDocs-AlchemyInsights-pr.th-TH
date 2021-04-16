@@ -2,7 +2,7 @@
 title: ฉันจะเพิ่มบัตรเครดิตได้อย่างไร
 ms.author: cmcatee
 author: cmcatee-MSFT
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
@@ -14,21 +14,21 @@ ms.custom:
 - "432"
 - "1500001"
 ms.assetid: fbce8401-1a2c-4372-af0b-d855c1cd5f31
-ms.openlocfilehash: 2db7b38a495d38d0da980100e51cb2754d7fb860
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: dbea3f179dc7f89386ba4f89dfe4b70e2e594bcd
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47782058"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51811367"
 ---
 # <a name="how-do-i-add-a-credit-card"></a>ฉันจะเพิ่มบัตรเครดิตได้อย่างไร
 
-1. ในศูนย์การจัดการ Microsoft ๓๖๕ให้ไปที่**Billing** \> หน้า[วิธีการชำระเงินสำหรับการ](https://go.microsoft.com/fwlink/p/?linkid=2018806)เรียกเก็บเงิน
+1. ในศูนย์การจัดการ Microsoft 365 ให้ไปที่ **หน้าวิธีการ** \> [การเรียกเก็บเงิน](https://go.microsoft.com/fwlink/p/?linkid=2018806)
 
-2. คลิก**เพิ่มวิธีการชำระเงิน**
+2. คลิก **เพิ่มวิธีการเงิน**
 
-3. บนหน้า **วิธีการชำระเงิน** ให้เลือกวิธีการชำระเงินจากเมนูดรอปดาวน์
+3. บนหน้า **วิธีการการ** Payment ให้เลือกวิธีการเงินจากเมนูดรอปดาวน์
 
-4. ใส่ข้อมูลสำหรับบัตรเครดิตหรือบัญชีธนาคารใหม่แล้วคลิก**บันทึก**
+4. ใส่ข้อมูลบัตรเครดิตหรือบัญชีธนาคารใหม่ **แล้วคลิก** บันทึก
 
-เมื่อต้องการเรียนรู้เพิ่มเติมให้ดูที่[จัดการวิธีการชำระเงิน](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods)
+เมื่อต้องการเรียนรู้เพิ่มเติม ให้ดู[จัดการวิธีการเงิน](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods)

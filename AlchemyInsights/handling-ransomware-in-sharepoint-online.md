@@ -1,8 +1,8 @@
 ---
-title: การจัดการ ransomware ใน SharePoint Online
+title: การจัดการแรนซัมแวร์ใน SharePoint Online
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,14 +12,14 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000650"
 - "2487"
-ms.openlocfilehash: e9e69d846af13cd7260822a30fbbbfd7b1fb773a
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: a8f7385a8f371fa24b3e0efdd02dd6c305b4920e
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47705894"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51811763"
 ---
-# <a name="handling-ransomware-in-sharepoint-online"></a>การจัดการ ransomware ใน SharePoint Online
+# <a name="handling-ransomware-in-sharepoint-online"></a>การจัดการแรนซัมแวร์ใน SharePoint Online
 
-Ransomware คือมัลแวร์ที่บล็อกการเข้าถึงรายการต่างๆบนคอมพิวเตอร์ของคุณและต้องการค่าไถ่จากคุณเพื่อให้ผู้สร้างสามารถปลดล็อกที่พวกเขาได้กำหนดไว้
-- [การจัดการ ransomware ใน SharePoint Online](https://docs.microsoft.com/sharepoint/troubleshoot/security/handling-ransomware-in-sharepoint-online)
+แรนซัมแวร์คือมัลแวร์ที่บล็อกการเข้าถึงรายการต่างๆ บนคอมพิวเตอร์ของคุณ และเรียกร้องแรนซัมจากคุณเพื่อให้ผู้สร้างปลดการล็อกที่พวกเขากําหนด
+- [การจัดการแรนซัมแวร์ใน SharePoint Online](https://docs.microsoft.com/sharepoint/troubleshoot/security/handling-ransomware-in-sharepoint-online)

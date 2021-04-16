@@ -1,8 +1,8 @@
 ---
-title: การแก้ไขแอป Microsoft ๓๖๕ที่บัญชีผู้ใช้ของคุณอยู่ในข้อความสถานะที่ไม่ถูกต้อง
+title: การแก้ไขแอป Microsoft 365 บัญชีของคุณอยู่ในข้อความสถานะที่ไม่ดี
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,14 +12,14 @@ ms.collection: Adm_O365
 ms.custom:
 - "2558"
 - "9000571"
-ms.openlocfilehash: ec529291ec9406eba9dc2b0f2cc7a93c77fa3456
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 4654b49289a455c1e6641f47fae573d2fcebc717
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47744564"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51812555"
 ---
-# <a name="fixing-the-microsoft-365-apps-your-account-is-in-a-bad-state-error"></a>การแก้ไขแอป Microsoft ๓๖๕ของคุณ "บัญชีผู้ใช้ของคุณอยู่ในสถานะที่ไม่ถูกต้อง"
+# <a name="fixing-the-microsoft-365-apps-your-account-is-in-a-bad-state-error"></a>แก้ไขข้อผิดพลาด "บัญชีของคุณอยู่ในสถานะที่ไม่ดี" ของแอป Microsoft 365
 
 ในการแก้ไขข้อผิดพลาดนี้ ให้ลองใช้ตัวเลือกต่อไปนี้กับคอมพิวเตอร์ที่ได้รับผลกระทบ:
 
@@ -28,5 +28,5 @@ ms.locfileid: "47744564"
   **หมายเหตุ:** เส้นทางการลงทะเบียนของ Office 2016 เปลี่ยนเป็น 16.0 แล้ว ตัวอย่างเช่น \Software\Microsoft\Office\16.0\Common\Identity\
 - หากเกิดข้อผิดพลาดขณะเชื่อมต่อกับ Office 365 เมื่อใช้ Office 2013 [ให้เปิดใช้งานการรับรองความถูกต้องสมัยใหม่](https://docs.microsoft.com/microsoft-365/admin/security-and-compliance/enable-modern-authentication)สำหรับไคลเอ็นต์ Office
 
-สำหรับข้อมูลเพิ่มเติมให้ดู[ที่วิธีแก้ไขปัญหาแอปที่ไม่ใช่เบราว์เซอร์ที่ไม่สามารถลงชื่อเข้าใช้ Microsoft ๓๖๕, Azure หรือ Intune](https://support.office.com/article/how-to-troubleshoot-non-browser-apps-that-can-t-sign-in-to-office-365-azure-or-intune-3ba1b268-66f6-462c-b0e5-070f5c2603c1)
+ดูข้อมูลเพิ่มเติมที่[วิธีการแก้ไขปัญหาแอปที่ไม่ใช่เบราว์เซอร์ที่ไม่สามารถลงชื่อเข้าใช้ Microsoft 365, Azure หรือ Intuny](https://support.office.com/article/how-to-troubleshoot-non-browser-apps-that-can-t-sign-in-to-office-365-azure-or-intune-3ba1b268-66f6-462c-b0e5-070f5c2603c1)
 

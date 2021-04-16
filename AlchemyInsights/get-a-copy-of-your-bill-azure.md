@@ -1,8 +1,8 @@
 ---
-title: ต้องการสำเนาใบเรียกเก็บเงินหรือการใช้งานของคุณ
+title: ต้องการสําเนาใบเรียกเก็บเงินหรือการใช้งานของคุณ
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,69 +12,69 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003801"
 - "6804"
-ms.openlocfilehash: 5ec935ddd9e273561886831e60c98ae1a542f9da
-ms.sourcegitcommit: f8b41ecda6db0b8f64fe0c51f1e8e6619f504d61
+ms.openlocfilehash: 14ba8cb6825090ec458ad919a55a77b01d9dfd38
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 10/28/2020
-ms.locfileid: "48808375"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51812442"
 ---
-# <a name="get-a-copy-of-your-bill-or-usage"></a>รับสำเนาใบเรียกเก็บเงินหรือการใช้งานของคุณ
+# <a name="get-a-copy-of-your-bill-or-usage"></a>รับสําเนาใบเรียกเก็บเงินหรือการใช้งานของคุณ
 
 **ดาวน์โหลดใบแจ้งหนี้ Azure ของคุณ (.pdf)**
 
-1. เลือกการสมัครใช้งานของคุณจาก [หน้าการสมัคร](https://portal.azure.com/#blade/Microsoft_Azure_Billing/SubscriptionsBlade) ใช้งานในพอร์ทัล Azure เป็น [ผู้ใช้ที่มีสิทธิ์เข้าถึงใบแจ้งหนี้](https://docs.microsoft.com/azure/cost-management-billing/manage/manage-billing-access?WT.mc_id=Portal-Microsoft_Azure_Support) จากนั้นเลือก **ใบแจ้งหนี้**
-2. คลิก **ดาวน์โหลดใบแจ้งหนี้** เพื่อดูสำเนาใบแจ้งหนี้ PDF ของคุณ ถ้า **ไม่มี** ให้ดู [ที่ทำไมฉันจึงไม่เห็นใบแจ้งหนี้สำหรับช่วงเวลาการเรียกเก็บเงินครั้งล่าสุด](https://docs.microsoft.com/azure/cost-management-billing/manage/download-azure-invoice-daily-usage-date?WT.mc_id=Portal-Microsoft_Azure_Support#noinvoice)
-3. นอกจากนี้คุณยังสามารถดูการใช้งานประจำวันของคุณได้โดยการคลิกที่ช่วงเวลาการเรียกเก็บเงินเพื่อรับ PDF ของใบแจ้งหนี้ของคุณและสำเนาของไฟล์การใช้งานประจำวันที่มีรายละเอียดของคุณ ( CSV): [รับข้อมูลใบแจ้งหนี้และการใช้งาน](https://docs.microsoft.com/azure/cost-management-billing/manage/download-azure-invoice-daily-usage-date?WT.mc_id=Portal-Microsoft_Azure_Support)
+1. เลือกการสมัครใช้งานของคุณ [จากหน้าการสมัครใช้งาน](https://portal.azure.com/#blade/Microsoft_Azure_Billing/SubscriptionsBlade)ในพอร์ทัล Azure [ในฐานะผู้ใช้ที่มีสิทธิ์เข้าถึงใบแจ้งหนี้](https://docs.microsoft.com/azure/cost-management-billing/manage/manage-billing-access?WT.mc_id=Portal-Microsoft_Azure_Support)**แล้วเลือกใบแจ้งหนี้**
+2. คลิก **ดาวน์โหลดใบแจ้งหนี้** เพื่อดูสําเนาใบแจ้งหนี้ PDF ของคุณ หากระบุว่า **ไม่พร้อมใช้งาน** ให้ดู [เหตุใดฉันจึงไม่เห็นใบแจ้งหนี้ในช่วงการเรียกเก็บเงินครั้งล่าสุด](https://docs.microsoft.com/azure/cost-management-billing/manage/download-azure-invoice-daily-usage-date?WT.mc_id=Portal-Microsoft_Azure_Support#noinvoice)
+3. คุณยังสามารถดูการใช้งานรายวันของคุณโดยการคลิกระยะเวลาการเรียกเก็บเงิน เพื่อรับ PDF ของใบแจ้งหนี้และสําเนาของไฟล์การใช้งานรายวันโดยละเอียดของคุณ ( CSV): [รับข้อมูลใบแจ้งหนี้และการใช้งาน](https://docs.microsoft.com/azure/cost-management-billing/manage/download-azure-invoice-daily-usage-date?WT.mc_id=Portal-Microsoft_Azure_Support)
 
-**รับใบแจ้งหนี้ของคุณในอีเมล (.pdf)**
+**รับใบแจ้งหนี้ของคุณทางอีเมล (.pdf)**
 
-1. เลือกการสมัครใช้งานของคุณจาก [หน้าการสมัคร](https://ms.portal.azure.com/#blade/Microsoft_Azure_Billing/SubscriptionsBlade)ใช้งาน คลิก **ใบแจ้งหนี้** แล้ว **ส่งอีเมลหน้าใบแจ้งหนี้ของฉัน**
-2. คลิก **เลือกเข้า** ร่วมและยอมรับข้อตกลง คุณจะต้องเลือกเข้าร่วมสำหรับการสมัครใช้งานแต่ละรายการที่คุณเป็นเจ้าของ หมายเหตุ: ถ้าคุณไม่ได้รับอีเมลหลังจากทำตามขั้นตอนตรวจสอบให้แน่ใจว่าที่อยู่อีเมลของคุณถูกต้องในการ [กำหนดลักษณะการติดต่อสื่อสารบนโปรไฟล์ของคุณ](https://account.windowsazure.com/profile)
-3. [ใบแจ้งหนี้ Azure ที่ส่งตรงไปยังกล่องจดหมายเข้าของคุณโดยตรง](https://azure.microsoft.com/blog/azure-email-invoices/)
+1. เลือกการสมัครใช้งานของคุณ [จากหน้า](https://ms.portal.azure.com/#blade/Microsoft_Azure_Billing/SubscriptionsBlade)การสมัครใช้งาน คลิก **ใบแจ้งหนี้ แล้วเลือก****ส่งอีเมลใบแจ้งหนี้ของฉัน**
+2. คลิก **เลือก** รับ และยอมรับข้อใดข้อหนึ่ง คุณจะต้องเลือกรับการสมัครใช้งานแต่ละรายการที่คุณเป็นเจ้าของ หมายเหตุ: ถ้าคุณไม่ได้รับอีเมลหลังจากปฏิบัติตามขั้นตอนแล้ว ตรวจสอบให้แน่ใจว่าที่อยู่อีเมลของคุณถูกต้องในการกตั้งค่า [การสื่อสารบนโปรไฟล์ของคุณ](https://account.windowsazure.com/profile)
+3. [ใบแจ้งหนี้ Azure ที่ส่งอีเมลไปยังกล่องจดหมายเข้าของคุณ](https://azure.microsoft.com/blog/azure-email-invoices/)
 
-ทำความ **เข้าใจการใช้งานประจำวัน:**  
- ทำ [ความเข้าใจเกี่ยวกับใบเรียกเก็บเงินของคุณสำหรับ Microsoft Azure](https://docs.microsoft.com/azure/cost-management-billing/understand/review-individual-bill?WT.mc_id=Portal-Microsoft_Azure_Support)  
+**เข้าใจการใช้งานรายวัน:**  
+ [เข้าใจใบเรียกเก็บเงินของคุณเกี่ยวกับ Microsoft Azure](https://docs.microsoft.com/azure/cost-management-billing/understand/review-individual-bill?WT.mc_id=Portal-Microsoft_Azure_Support)  
 
-**จัดการค่าใช้จ่าย:** [ป้องกันค่าใช้จ่ายที่ไม่คาดคิดกับการเรียกเก็บเงิน Azure และการจัดการต้นทุน](https://docs.microsoft.com/azure/cost-management-billing/manage/getting-started?WT.mc_id=Portal-Microsoft_Azure_Support)  
+**จัดการค่าใช้จ่าย:** [ป้องกันค่าใช้จ่ายที่ไม่คาดคิดด้วยการเรียกเก็บเงิน Azure และการจัดการค่าใช้จ่าย](https://docs.microsoft.com/azure/cost-management-billing/manage/getting-started?WT.mc_id=Portal-Microsoft_Azure_Support)  
 
-**ข้อตกลงลูกค้าของ Microsoft (MCA)** :
+**ข้อตกลงของลูกค้า Microsoft (MCA)**:
 
-เรียนรู้  [วิธีการตรวจสอบการเข้าถึงข้อตกลงลูกค้าของ Microsoft หรือไม่](https://docs.microsoft.com/azure/cost-management-billing/manage/download-azure-invoice-daily-usage-date?WT.mc_id=Portal-Microsoft_Azure_Support#check-access-to-a-microsoft-customer-agreement)  
-ถ้าคุณมี [ข้อตกลงลูกค้าของ Microsoft](https://docs.microsoft.com/azure/cost-management-billing/manage/download-azure-invoice-daily-usage-date?WT.mc_id=Portal-Microsoft_Azure_Support#check-access-to-a-microsoft-customer-agreement)คุณสามารถดาวน์โหลดการใช้งานใน [พอร์ทัล Azure](https://portal.azure.com/)
+[เรียนรู้วิธีการตรวจสอบการเข้าถึงข้อตกลงของลูกค้า Microsoft](https://docs.microsoft.com/azure/cost-management-billing/manage/download-azure-invoice-daily-usage-date?WT.mc_id=Portal-Microsoft_Azure_Support#check-access-to-a-microsoft-customer-agreement)  
+ถ้าคุณมี ข้อตกลงของลูกค้า [Microsoft คุณสามารถ](https://docs.microsoft.com/azure/cost-management-billing/manage/download-azure-invoice-daily-usage-date?WT.mc_id=Portal-Microsoft_Azure_Support#check-access-to-a-microsoft-customer-agreement)ดาวน์โหลดการใช้งานในพอร์ทัล [Azure](https://portal.azure.com/)
 
-**รับใบแจ้งหนี้ข้อตกลงของลูกค้า Microsoft ของคุณในอีเมล** :
+**รับใบแจ้งหนี้ข้อตกลงของลูกค้า Microsoft ในอีเมล**:
 
-ถ้าคุณมีข้อตกลงลูกค้าของ Microsoft คุณสามารถเลือกที่จะรับใบแจ้งหนี้ของคุณในอีเมลได้ เจ้าของโปรไฟล์การเรียกเก็บเงินผู้สนับสนุนผู้อ่านและผู้จัดการใบแจ้งหนี้ทั้งหมดจะได้รับใบแจ้งหนี้ทางอีเมล ผู้อ่านไม่สามารถอัปเดตการกำหนดลักษณะใบแจ้งหนี้ของอีเมล
+ถ้าคุณมี ข้อตกลงของลูกค้า Microsoft คุณสามารถเลือกรับใบแจ้งหนี้ในอีเมลได้ เจ้าของโปรไฟล์การเรียกเก็บเงิน ผู้สนับสนุน ผู้อ่าน และผู้จัดการใบแจ้งหนี้ทั้งหมดจะได้รับใบแจ้งหนี้ทางอีเมล ผู้อ่านไม่สามารถอัปเดตการ preference ใบแจ้งหนี้ของอีเมล
 
-- ค้นหา **การจัดการต้นทุน + การเรียกเก็บเงิน** เลือก **โปรไฟล์การเรียกเก็บเงิน** ภายใต้การตั้งค่าให้เลือก **คุณสมบัติ**
-- ภายใต้ใบแจ้งหนี้ทางอีเมลให้เลือก **อัปเดตการกำหนดลักษณะใบแจ้งหนี้ทางอีเมล** เลือกเลือกเข้าร่วม คลิก **อัปเดต**
+- ค้นหา **การจัดการต้นทุน +** การเรียกเก็บเงิน เลือก **โปรไฟล์** การเรียกเก็บเงิน ภายใต้ การตั้งค่า **ให้เลือก คุณสมบัติ**
+- ภายใต้ ใบแจ้งหนี้ทางอีเมล ให้เลือก อัปเดต **การลักษณะของใบแจ้งหนี้อีเมล** เลือก เข้าร่วม คลิก **อัปเดต**
 
-**ข้อตกลงขององค์กร (EA)**
+**ข้อตกลงองค์กร (EA)**
 
-เมื่อต้องการดูและดาวน์โหลดข้อมูลการใช้งานเป็นลูกค้า EA คุณต้องเป็นผู้ดูแลระบบขององค์กรเจ้าของบัญชีผู้ใช้หรือผู้ดูแลระบบแผนกที่มีการเปิดใช้งานนโยบายค่าใช้จ่ายของมุมมอง
+เมื่อต้องการดูและดาวน์โหลดข้อมูลการใช้งานเป็นลูกค้า EA คุณต้องเป็นผู้ดูแลระบบขององค์กร เจ้าของบัญชี หรือผู้ดูแลระบบแผนกที่เปิดใช้งานนโยบายค่าใช้จ่ายมุมมอง
 
-- ลงชื่อเข้าใช้พอร์ทัล Azure ค้นหา **การจัดการต้นทุน + การเรียกเก็บเงิน** เลือกโปรไฟล์การเรียกเก็บเงิน
-- เลือกการใช้งาน + ค่าใช้จ่าย สำหรับเดือนที่คุณต้องการดาวน์โหลดให้เลือกดาวน์โหลด
+- ลงชื่อเข้าใช้พอร์ทัล Azure ค้นหา **การจัดการต้นทุน +** การเรียกเก็บเงิน เลือกโปรไฟล์การเรียกเก็บเงิน
+- เลือก การใช้งาน + ค่าใช้จ่าย เลือก ดาวน์โหลด ในเดือนที่คุณต้องการดาวน์โหลด
 
-**การสมัครใช้งาน Azure MOSP**  
+**การสมัครใช้งาน MOSP Azure**  
 [ดาวน์โหลดใบแจ้งหนี้การสมัครใช้งาน MOSP Azure](https://docs.microsoft.com/azure/cost-management-billing/understand/download-azure-invoice?WT.mc_id=Portal-Microsoft_Azure_Support#download-your-mosp-azure-subscription-invoice)
 
-**การแก้ไขปัญหา: ไม่สามารถดูใบแจ้งหนี้สำหรับช่วงเวลาการเรียกเก็บเงินครั้งล่าสุดได้หรือไม่**
+**แก้ไขปัญหา: ไม่เห็นใบแจ้งหนี้ในช่วงการเรียกเก็บเงินล่าสุดใช่หรือไม่**
 
-เหตุผลที่เป็นไปได้บางประการที่คุณอาจไม่เห็นใบแจ้งหนี้:
+สาเหตุบางประการที่อาจเป็นไปได้ที่คุณอาจไม่เห็นใบแจ้งหนี้:
 
-- คุณมีจำนวนเงินเครดิตรายเดือนที่มีการสมัครใช้งานของคุณที่คุณไม่เกินหรือคุณมีเวอร์ชันทดลองใช้ฟรี ใบแจ้งหนี้จะถูกสร้างขึ้นเมื่อคุณเป็นหนี้เงินเท่านั้น
-- มีอายุน้อยกว่า30วันจากวันที่คุณสมัครใช้งาน Azure
-- ยังไม่มีการสร้างใบแจ้งหนี้ รอจนกว่าจุดสิ้นสุดของระยะเวลาการเรียกเก็บเงิน
-- ถ้าคุณไม่ใช่ผู้ดูแลระบบบัญชีผู้ใช้ใบแจ้งหนี้ที่เก่ากว่าอาจไม่พร้อมใช้งานสำหรับคุณ **หมายเหตุ** : Microsoft ไม่มีรายงานการใช้งานหรือข้อมูลการใช้งานใดๆกับลูกค้า Azure CSP ข้อมูลการใช้งานศูนย์คู่ค้าคือการหันหน้าเข้าหาคู่ค้า
-- เรียนรู้เพิ่มเติมเกี่ยวกับ AIO (Azure ใน open) การเรียกเก็บเงินและการใช้งาน: [Azure ใน open](https://azure.microsoft.com/offers/ms-azr-0111p/)
+- คุณมีจํานวนเครดิตรายเดือนกับการสมัครใช้งานของคุณที่ไม่เกินหรือมีรุ่นทดลองใช้ฟรี ใบแจ้งหนี้จะถูกสร้างขึ้นเมื่อคุณค้างเงินเท่านั้น
+- ภายในเวลาไม่ถึง 30 วันนับจากวันที่คุณสมัครใช้งาน Azure
+- ยังไม่มีการสร้างใบแจ้งหนี้ รอจนถึงวันที่สิ้นสุดของรอบการเรียกเก็บเงิน
+- ถ้าคุณไม่ใช่ผู้ดูแลระบบบัญชี ใบแจ้งหนี้ที่เก่ากว่าอาจไม่พร้อมใช้งานให้คุณ **หมายเหตุ**: Microsoft ไม่มีรายงานการใช้งานหรือข้อมูลการใช้งานไปยังลูกค้า Azure CSP ข้อมูลการใช้งานศูนย์คู่ค้าเป็นคู่ค้า
+- เรียนรู้เพิ่มเติมเกี่ยวกับการเรียกเก็บเงินและการใช้งาน AIO (Azure ในการเปิด) : [Azure ที่เปิดอยู่](https://azure.microsoft.com/offers/ms-azr-0111p/)
 
-**เอกสารที่แนะนำ**
+**เอกสารที่แนะนา**
 
-- [เหตุใดคุณจึงอาจไม่เห็นใบแจ้งหนี้](https://docs.microsoft.com/azure/cost-management-billing/understand/download-azure-invoice?WT.mc_id=Portal-Microsoft_Azure_Support#noinvoice)
-- [ร้องขอ/ดาวน์โหลด/ดูใบแจ้งหนี้การเรียกเก็บเงินของ Azure และข้อมูลการใช้งานของคุณ](https://docs.microsoft.com/azure/cost-management-billing/manage/download-azure-invoice-daily-usage-date?WT.mc_id=Portal-Microsoft_Azure_Support)
-- [วิธีการส่งใบแจ้งหนี้ของ Azure ไปยังกล่องจดหมายเข้าของคุณโดยตรง](https://docs.microsoft.com/azure/cost-management-billing/manage/download-azure-invoice-daily-usage-date?WT.mc_id=Portal-Microsoft_Azure_Support)
-- [ทำความเข้าใจเกี่ยวกับค่าใช้จ่ายในการใช้งาน](https://docs.microsoft.com/azure/cost-management-billing/understand/review-individual-bill?WT.mc_id=Portal-Microsoft_Azure_Support#csv)
-- [ทำความเข้าใจเกี่ยวกับข้อกำหนดในใบแจ้งหนี้ของคุณ](https://docs.microsoft.com/azure/cost-management-billing/understand/understand-invoice?WT.mc_id=Portal-Microsoft_Azure_Support)
-- [ทำความเข้าใจเกี่ยวกับใบแจ้งหนี้ของ Azure CSP](https://docs.microsoft.com/partner-center/azure-plan-lp?WT.mc_id=Portal-Microsoft_Azure_Support)
+- [เหตุใดคุณอาจไม่เห็นใบแจ้งหนี้](https://docs.microsoft.com/azure/cost-management-billing/understand/download-azure-invoice?WT.mc_id=Portal-Microsoft_Azure_Support#noinvoice)
+- [ร้องขอ/ดาวน์โหลด/ดูข้อมูลใบแจ้งหนี้การเรียกเก็บเงิน Azure และข้อมูลการใช้งาน](https://docs.microsoft.com/azure/cost-management-billing/manage/download-azure-invoice-daily-usage-date?WT.mc_id=Portal-Microsoft_Azure_Support)
+- [วิธีการส่งอีเมลใบแจ้งหนี้ Azure ไปยังกล่องจดหมายเข้าของคุณโดยตรง](https://docs.microsoft.com/azure/cost-management-billing/manage/download-azure-invoice-daily-usage-date?WT.mc_id=Portal-Microsoft_Azure_Support)
+- [เข้าใจค่าบริการการใช้งานโดยละเอียด](https://docs.microsoft.com/azure/cost-management-billing/understand/review-individual-bill?WT.mc_id=Portal-Microsoft_Azure_Support#csv)
+- [เข้าใจข้อตามเงื่อนไขในใบแจ้งหนี้ของคุณ](https://docs.microsoft.com/azure/cost-management-billing/understand/understand-invoice?WT.mc_id=Portal-Microsoft_Azure_Support)
+- [เข้าใจใบแจ้งหนี้ของ Azure CSP](https://docs.microsoft.com/partner-center/azure-plan-lp?WT.mc_id=Portal-Microsoft_Azure_Support)

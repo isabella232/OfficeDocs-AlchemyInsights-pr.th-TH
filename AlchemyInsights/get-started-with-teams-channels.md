@@ -1,8 +1,8 @@
 ---
-title: เริ่มต้นใช้งานแชนเนลของทีม
+title: เริ่มต้นใช้งาน Teams Channels
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002512"
 - "5036"
-ms.openlocfilehash: d7d161757a7cec0e4fcdd0885f94ec3304d91d55
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 87c939ba7349c60fc6c6bc95bf19425d6593baf5
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47707226"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51812195"
 ---
-# <a name="get-started-with-teams-channels"></a>เริ่มต้นใช้งานแชนเนลของทีม
+# <a name="get-started-with-teams-channels"></a>เริ่มต้นใช้งาน Teams Channels
 
-แชนเนลคือสถานที่ที่การสนทนาเกิดขึ้นและตำแหน่งที่ทำงานที่ทำได้จริง แชนเนลสามารถเปิดให้กับสมาชิกในทีมทั้งหมดหรือถ้าคุณต้องการให้ผู้ชมเพิ่มขึ้นเลือกผู้ชมสามารถเป็นส่วนตัวได้ แชนเนลมาตรฐานมีไว้สำหรับการสนทนาที่ทุกคนในทีมสามารถเข้าร่วมการสื่อสารกับผู้ที่มีส่วนร่วมในการสื่อสารกับชุดย่อยของบุคคลในทีมได้
+แชนเนลคือสถานที่ที่มีการสนทนาเกิดขึ้นและที่ที่งานนั้นเกิดขึ้น แชนเนลสามารถเปิดให้สมาชิกในทีมทั้งหมดได้ หรือถ้าคุณต้องการผู้ชมที่เลือกเพิ่มเติม พวกเขาสามารถเป็นแบบส่วนตัวได้ แชนเนลมาตรฐานมีไว้เพื่อการสนทนาที่ทุกคนในทีมสามารถเข้าร่วมและแชนเนลส่วนบุคคลจํากัดการติดต่อสื่อสารกับกลุ่มบุคคลย่อยในทีมได้
 
-โปรดดูข้อมูลเพิ่มเติมดังต่อไปนี้:
+โปรดดูรายการต่อไปนี้เพื่อดูข้อมูลเพิ่มเติม:
 
-- [วิธีใช้การใช้ทีมและแชนเนล](https://support.office.com/article/teams-and-channels-df38ae23-8f85-46d3-b071-cb11b9de5499) สำหรับผู้ใช้ทีมทั้งหมด
+- [วิธีใช้ทีมและแชนเนล](https://support.office.com/article/teams-and-channels-df38ae23-8f85-46d3-b071-cb11b9de5499) ของผู้ใช้ Teams ทั้งหมด
 
-- วิธีใช้สำหรับผู้ดูแลระบบไอที [กับทีมและแชนเนล](https://docs.microsoft.com/microsoftteams/teams-channels-overview) 
+- ความช่วยเหลือด้านผู้ดูแลระบบ [IT เกี่ยวกับ Teams และแชนเนล](https://docs.microsoft.com/microsoftteams/teams-channels-overview) 

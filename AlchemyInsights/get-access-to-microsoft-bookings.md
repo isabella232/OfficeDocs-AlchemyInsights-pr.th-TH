@@ -1,8 +1,8 @@
 ---
-title: รับสิทธิ์การเข้าถึงการจองของ Microsoft
+title: รับสิทธิ์การเข้าถึง Microsoft Bookings
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,21 +12,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002883"
 - "5498"
-ms.openlocfilehash: 73a2c9016d39d40fa4e46cc069dd0d3f45900c10
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 612fcc70848e1e57897b1de63cf66bde89911208
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47707658"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51812428"
 ---
-# <a name="get-access-to-microsoft-bookings"></a>รับสิทธิ์การเข้าถึงการจองของ Microsoft
+# <a name="get-access-to-microsoft-bookings"></a>รับสิทธิ์การเข้าถึง Microsoft Bookings
 
-เปิดใช้งานการจองของ Microsoft ใน**ศูนย์การจัดการ microsoft ๓๖๕**
+เปิดใช้งาน Microsoft Bookings ใน **ศูนย์การจัดการ Microsoft 365**
 
-1. ไปที่การ**ตั้งค่า >[การตั้งค่า](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/Settings/Services)** แล้วคลิกการ**จอง**
-2. คลิกกล่องกาเครื่องหมายสำหรับ **อนุญาตให้องค์กรของคุณใช้การจอง** เพื่อเปิดใช้งานหรือปิดใช้งานการจองสำหรับองค์กรของคุณ
-3. คลิก**บันทึกการเปลี่ยนแปลง**
+1. ไปที่ **การตั้งค่า >[](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/Settings/Services)** การตั้งค่า แล้วคลิก **Bookings**
+2. คลิกกล่องกาเครื่องหมาย **ของ อนุญาตให้องค์กรของคุณใช้ Bookings** เพื่อเปิดใช้งานหรือปิดใช้งานการจองขององค์กรของคุณ
+3. คลิก **บันทึก** การเปลี่ยนแปลง
 
-**สิ่งสำคัญ**: แอป microsoft Booking จะพร้อมใช้งานตามค่าเริ่มต้นสำหรับ**Microsoft ๓๖๕ Education A3, A5**, **microsoft ๓๖๕ business Standard (ชื่อเดิมคือ business Premium)** และ**Microsoft ๓๖๕ business premium (ชื่อเดิมคือธุรกิจ)** การจองพร้อมใช้งานสำหรับ **ลูกค้าของ Enterprise E3 และ E5** เป็น add-on จนถึงวันที่12พฤษภาคม๒๐๒๐ซึ่งจะเปิดใช้งานตามค่าเริ่มต้น
+**สิ่ง** สําคัญ: แอป Microsoft Booking พร้อมใช้งานตามค่าเริ่มต้นใน **Microsoft 365 Education A3, A5,** **Microsoft 365 Business Standard (ชื่อเดิมคือ Business Premium)** และ **Microsoft 365 Business Premium (ชื่อเดิมคือ Business)** Bookings จะพร้อมใช้งานกับลูกค้า **Enterprise E3** และ E5 เป็น Add-on จนถึงวันที่ 12 พฤษภาคม 2020 ซึ่งจะถูกเปิดใช้งานตามค่าเริ่มต้น
 
-สำหรับข้อมูลเพิ่มเติมให้ดู[ที่รับสิทธิ์การเข้าถึงการจองของ Microsoft](https://support.microsoft.com/en-us/office/get-access-to-microsoft-bookings-5382dc07-aaa5-45c9-8767-502333b214ce)
+For more info, see [Get access to Microsoft Bookings](https://support.microsoft.com/en-us/office/get-access-to-microsoft-bookings-5382dc07-aaa5-45c9-8767-502333b214ce).

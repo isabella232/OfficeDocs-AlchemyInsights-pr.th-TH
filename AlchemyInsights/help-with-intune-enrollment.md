@@ -1,8 +1,8 @@
 ---
-title: วิธีใช้เกี่ยวกับการลงทะเบียน Intune
+title: ความช่วยเหลือเกี่ยวกับการลงทะเบียน Intun1
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,26 +12,26 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002973"
 - "5687"
-ms.openlocfilehash: 516ec77ac29b17509f39bc03cbea8fb7a5a8adbb
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: c749286a2b97b9ff36c25de30838ae38a2d0939a
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47705210"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51811583"
 ---
-# <a name="help-with-intune-enrollment"></a>วิธีใช้เกี่ยวกับการลงทะเบียน Intune
+# <a name="help-with-intune-enrollment"></a>ความช่วยเหลือเกี่ยวกับการลงทะเบียน Intun1
 
 
-- [เรียนรู้เกี่ยวกับการลงทะเบียนอุปกรณ์ด้วย Intune](https://docs.microsoft.com/intune/device-enrollment)
+- [เรียนรู้เกี่ยวกับการลงทะเบียนอุปกรณ์ด้วย Intun1](https://docs.microsoft.com/intune/device-enrollment)
 
-- [ตั้งค่าการลงทะเบียนอุปกรณ์ iOS ด้วย Intune](https://docs.microsoft.com/intune/ios-enroll)
+- [ตั้งค่าอุปกรณ์ iOS การลงทะเบียนด้วย Intun1](https://docs.microsoft.com/intune/ios-enroll)
 
-- [ตั้งค่าการลงทะเบียนอุปกรณ์ Android ด้วย Intune](https://docs.microsoft.com/intune/android-enroll)
+- [ตั้งค่าอุปกรณ์ Android การลงทะเบียนด้วย Intun1](https://docs.microsoft.com/intune/android-enroll)
 
-- [ตั้งค่าการลงทะเบียนอุปกรณ์ Windows ด้วย Intune](https://docs.microsoft.com/intune/windows-enroll)
+- [ตั้งค่าการลงทะเบียนอุปกรณ์ Windows ด้วย Intun1](https://docs.microsoft.com/intune/windows-enroll)
 
 **การแก้ไขปัญหาการลงทะเบียนอุปกรณ์**
 
-1. ใช้การแก้ไขปัญหาของ Intune ของพอร์ทัลเพื่อวินิจฉัยและแก้ไขปัญหาการลงทะเบียนทั่วไป ตรวจทานเอกสาร [นี้](https://docs.microsoft.com/intune/help-desk-operators) สำหรับรายละเอียดเพิ่มเติม
+1. ใช้พอร์ทัลการแก้ไขปัญหา Intun1 เพื่อวินิจฉัยและแก้ไขความล้มเหลวในการลงทะเบียนทั่วไป ตรวจทาน [เอกสาร](https://docs.microsoft.com/intune/help-desk-operators) นี้เพื่อดูรายละเอียดเพิ่มเติม
 
-2. ตรวจทานเอกสารเหล่านี้สำหรับรายการของข้อผิดพลาดทั่วไปที่ป้องกันการลงทะเบียนและวิธีแก้ไขปัญหาแต่ละ[คำแนะนำการแก้ไข](https://support.microsoft.com/help/4469913/troubleshooting-windows-device-enrollment-problems-in-microsoft-intune)ปัญหาและ[เอกสารการแก้ไขปัญหา](https://docs.microsoft.com/intune/troubleshoot-device-enrollment-in-intune)
+2. ตรวจทานเอกสารเหล่านี้เพื่อดูรายการข้อผิดพลาดทั่วไปที่ป้องกันไม่ให้การลงทะเบียนและการแก้ไขปัญหาแต่ละรายการ:[คู่มือการแก้ไขปัญหา](https://support.microsoft.com/help/4469913/troubleshooting-windows-device-enrollment-problems-in-microsoft-intune)[และ การแก้ไขปัญหาเอกสาร](https://docs.microsoft.com/intune/troubleshoot-device-enrollment-in-intune)
