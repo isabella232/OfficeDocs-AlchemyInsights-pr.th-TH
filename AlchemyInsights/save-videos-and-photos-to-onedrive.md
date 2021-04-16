@@ -2,7 +2,7 @@
 title: บันทึกวิดีโอและรูปถ่ายไปยัง OneDrive
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,13 +12,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002296"
 - "4580"
-ms.openlocfilehash: a98ba557a4e10cd5c9b5f13a0d39b6b726fab21a
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 0f84f84b71f716a468eb8bf1de0cd50b4f7e63b8
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47774334"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51797848"
 ---
 # <a name="save-videos-and-photos-to-onedrive"></a>บันทึกวิดีโอและรูปถ่ายไปยัง OneDrive
 
-เรียนรู้วิธีการ[บันทึกวิดีโอและรูปถ่ายไปยัง OneDrive โดยอัตโนมัติ](https://support.office.com/article/Save-photos-and-videos-to-OneDrive-automatically-42a0202d-c944-4ebc-bb17-32d0082226f8)
+เรียนรู้วิธีการ[บันทึกวิดีโอและรูปถ่ายโดยอัตโนมัติไปยัง OneDrive](https://support.office.com/article/Save-photos-and-videos-to-OneDrive-automatically-42a0202d-c944-4ebc-bb17-32d0082226f8)
