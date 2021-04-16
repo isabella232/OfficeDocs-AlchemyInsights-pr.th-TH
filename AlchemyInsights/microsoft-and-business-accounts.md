@@ -2,7 +2,7 @@
 title: บัญชี Microsoft และบัญชีธุรกิจ
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,23 +12,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002448"
 - "4747"
-ms.openlocfilehash: 132eec1f28db4877c3b85f8bb162d5bc5d9ec92d
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 1501b66c12e06aaa2aa91e3dc1b78c959a42a144
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47742222"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51794311"
 ---
 # <a name="microsoft-and-business-accounts"></a>บัญชี Microsoft และบัญชีธุรกิจ
 
-บัญชี Microsoft ของคุณจะแตกต่างจากบัญชีผู้ใช้ microsoft ๓๖๕หรือ Office ๓๖๕ของคุณ
+บัญชี Microsoft ของคุณแตกต่างจากบัญชี Microsoft 365 หรือ Office 365 ของคุณ
 
-- **MSA (บัญชี Microsoft)** เป็นบัญชีส่วนบุคคลที่มักจะใช้ที่อยู่อีเม outlook.com, Hotmail.com หรือ live.com เพื่อเข้าถึงอุปกรณ์และบริการต่างๆของ Microsoft เช่นเมื่อต้องการลงชื่อเข้าใช้ Windows Pc, Skype, Outlook.com, Windows Phone และ Xbox live
-- **บัญชีผู้ใช้ Microsoft ๓๖๕หรือ Office ๓๖๕** คือบัญชีธุรกิจหรือโรงเรียนที่คุณมักใช้เพื่อเข้าสู่ระบบพอร์ทัล Office ๓๖๕ (portal.office.com) ของคุณ นี่คือบัญชีผู้ใช้นี้ที่ Microsoft ๓๖๕หรือการสมัครใช้งาน Office ๓๖๕ของคุณเชื่อมโยงอยู่
+- **MSA (บัญชี Microsoft)** คือบัญชีส่วนบุคคลที่มักจะใช้ที่อยู่อีเมล outlook.com, Hotmail.com หรือ live.com เพื่อเข้าถึงอุปกรณ์และบริการต่างๆ ของ Microsoft เช่น เพื่อลงชื่อเข้าใช้พีซี Windows, Skype, Outlook.com, Windows Phone และ Xbox LIVE
+- **บัญชี Microsoft 365 หรือ Office 365** เป็นบัญชีธุรกิจหรือโรงเรียนที่คุณมักจะใช้เพื่อเข้าสู่ระบบพอร์ทัล Office 365 (portal.office.com) บัญชีนี้ที่เชื่อมโยงกับการสมัครใช้งาน Microsoft 365 หรือ Office 365 ของคุณ
 
 ข้อมูลเพิ่มเติม:
 
-- [คำถามที่ถามบ่อยเกี่ยวกับวิธีใช้บัญชี Microsoft](https://support.microsoft.com/hub/4294457/microsoft-account-help) 
+- [ถามที่ถามบ่อยเกี่ยวกับวิธีใช้บัญชี Microsoft](https://support.microsoft.com/hub/4294457/microsoft-account-help) 
 - [วิธีลงชื่อเข้าใช้บัญชี Microsoft ของคุณ](https://support.microsoft.com/help/4028195/microsoft-account-how-to-sign-in)
-- [การสร้างและการลงชื่อเข้าใช้บัญชี Microsoft](https://account.microsoft.com/account)
+- [สร้างและลงชื่อเข้าใช้บัญชี Microsoft](https://account.microsoft.com/account)
 - [วิธีการค้นหาบัญชี Microsoft ของคุณ](https://support.microsoft.com/help/13811/microsoft-account-how-to-find)

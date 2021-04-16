@@ -1,8 +1,8 @@
 ---
-title: Microsoft ๓๖๕สถานภาพบริการ
+title: สถานภาพบริการ Microsoft 365
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,22 +12,22 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001682"
 - "3747"
-ms.openlocfilehash: 61729bb79f9cfc2586fed5db1a97f7e79569cdfe
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: a636305b369d6a0d78d768acd420f14b295812a5
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47742762"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51794491"
 ---
-# <a name="microsoft-365-service-health"></a>Microsoft ๓๖๕สถานภาพบริการ
+# <a name="microsoft-365-service-health"></a>สถานภาพบริการ Microsoft 365
 
 
-ตรวจสอบสถานภาพบริการของบริการใดๆจาก[แดชบอร์ดความสมบูรณ์ของบริการ](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/servicehealth) เมื่อเลือก **ศูนย์การจัดการใหม่** ที่มุมบนขวาคุณจะเห็นตัวเลือกสถานภาพบริการใหม่
+ตรวจสอบสถานภาพบริการของบริการใดๆ จาก [แดชบอร์ดสถานภาพ](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/servicehealth)บริการ เมื่อเลือก **ศูนย์การจัดการใหม่** ที่มุมขวาบน คุณจะเห็นตัวเลือกสถานภาพบริการใหม่
 
-- เลือกการ **กำหนดลักษณะ** เพื่อรับ **การแจ้งเตือนทางอีเม**สถานภาพบริการ
+- เลือก **การการตั้งค่า** เพื่อรับการแจ้งเตือนทางอีเมล **สถานภาพ** บริการ
 
-- เลือก **รายงานปัญหา** ถ้าคุณพบปัญหาเกี่ยวกับบริการ
+- **เลือก รายงาน** ปัญหา ถ้าคุณพบปัญหาเกี่ยวกับบริการ
 
-- เลือก **ประวัติ** เพื่อตรวจทานประวัติสถานภาพบริการขององค์กรของคุณ 
+- **เลือก** ประวัติ เพื่อตรวจสอบประวัติสถานภาพบริการขององค์กรของคุณ 
 
-สำหรับข้อมูลเพิ่มเติมให้ดู[ที่วิธีการตรวจสอบสถานภาพบริการของ Microsoft ๓๖๕](https://docs.microsoft.com/office365/enterprise/view-service-health) 
+ดูข้อมูลเพิ่มเติมได้ที่ วิธีการ[ตรวจสอบสถานภาพบริการ Microsoft 365](https://docs.microsoft.com/office365/enterprise/view-service-health) 
