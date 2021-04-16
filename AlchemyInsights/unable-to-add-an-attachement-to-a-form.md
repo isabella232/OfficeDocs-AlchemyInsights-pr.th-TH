@@ -1,8 +1,8 @@
 ---
-title: ไม่สามารถเพิ่มสิ่งที่แนบมาลงในฟอร์มที่มีการเชื่อมต่อกับภายนอกได้
+title: ไม่สามารถเพิ่มสิ่งที่แนบมาลงในฟอร์มเชื่อมต่อภายนอก
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,13 +12,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003121"
 - "5901"
-ms.openlocfilehash: 033363705cba1426339feda4eaf7441762fdaf93
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 50434b664d0fbec6788f7d5601f39123420489bd
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47749425"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51797344"
 ---
-# <a name="unable-to-add-an-attachment-to-an-externally-facing-form"></a><span data-ttu-id="87b30-102">ไม่สามารถเพิ่มสิ่งที่แนบมาลงในฟอร์มที่มีการเชื่อมต่อกับภายนอกได้</span><span class="sxs-lookup"><span data-stu-id="87b30-102">Unable to add an attachment to an externally-facing form</span></span>
+# <a name="unable-to-add-an-attachment-to-an-externally-facing-form"></a><span data-ttu-id="f179a-102">ไม่สามารถเพิ่มสิ่งที่แนบมาลงในฟอร์มเชื่อมต่อภายนอก</span><span class="sxs-lookup"><span data-stu-id="f179a-102">Unable to add an attachment to an externally-facing form</span></span>
 
-<span data-ttu-id="87b30-103">ถ้าคุณกำลังพยายามเพิ่มสิ่งที่แนบมาลงในแบบสำรวจ Microsoft Forms ภายนอกฟีเจอร์นี้ยังไม่พร้อมใช้งาน</span><span class="sxs-lookup"><span data-stu-id="87b30-103">If you are trying to add an attachment to an external Microsoft Forms survey, that feature is not yet available.</span></span> <span data-ttu-id="87b30-104">เมื่อต้องการติดตามสถานะของคำขอฟีเจอร์นั้นให้ไปที่ [รายการ UserVoice นี้](https://go.microsoft.com/fwlink/?linkid=2133069)แล้วเพิ่มคะแนนเสียงของคุณ</span><span class="sxs-lookup"><span data-stu-id="87b30-104">To track the status of that feature request, go to [this UserVoice entry](https://go.microsoft.com/fwlink/?linkid=2133069), and add your vote.</span></span>
+<span data-ttu-id="f179a-103">ถ้าคุณพยายามเพิ่มสิ่งที่แนบมาลงในแบบสํารวจ Microsoft Forms ภายนอก ฟีเจอร์นั้นยังไม่พร้อมใช้งาน</span><span class="sxs-lookup"><span data-stu-id="f179a-103">If you are trying to add an attachment to an external Microsoft Forms survey, that feature is not yet available.</span></span> <span data-ttu-id="f179a-104">เมื่อต้องการติดตามสถานะของการร้องขอฟีเจอร์ ให้ไปที่รายการ [UserVoice นี้](https://go.microsoft.com/fwlink/?linkid=2133069)แล้วเพิ่มคะแนนเสียงของคุณ</span><span class="sxs-lookup"><span data-stu-id="f179a-104">To track the status of that feature request, go to [this UserVoice entry](https://go.microsoft.com/fwlink/?linkid=2133069), and add your vote.</span></span>
