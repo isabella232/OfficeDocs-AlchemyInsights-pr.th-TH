@@ -1,8 +1,8 @@
 ---
-title: วิธีการสั่งซื้อ Office ๓๖๕แผนการศึกษา
+title: วิธีการสั่งซื้อแผน Office 365 Education
 ms.author: cmcatee
 author: cmcatee-MSFT
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
@@ -14,15 +14,15 @@ ms.custom:
 - "335"
 - "1500009"
 ms.assetid: 22f7af2f-85b5-405b-9116-50abe531b023
-ms.openlocfilehash: 88cbd28f81b699088a1985f31873427998435428
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 0808f542c460e83ab940954eeaaad8f5167b9a29
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47703535"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51810791"
 ---
-# <a name="how-to-purchase-office-365-education-plans"></a><span data-ttu-id="2e761-102">วิธีการสั่งซื้อ Office ๓๖๕แผนการศึกษา</span><span class="sxs-lookup"><span data-stu-id="2e761-102">How to purchase Office 365 Education plans</span></span>
+# <a name="how-to-purchase-office-365-education-plans"></a><span data-ttu-id="f6e93-102">วิธีการสั่งซื้อแผน Office 365 Education</span><span class="sxs-lookup"><span data-stu-id="f6e93-102">How to purchase Office 365 Education plans</span></span>
 
-<span data-ttu-id="2e761-103">เราตรวจสอบการร้องขอของคุณและการกำหนดองค์กรนี้ไม่มีสิทธิ์เป็นสถาบันการศึกษาของ Microsoft ที่มีคุณสมบัติเหมาะสม</span><span class="sxs-lookup"><span data-stu-id="2e761-103">We reviewed your request and determined this organization is not eligible as a Microsoft Qualified Academic Institution.</span></span> <span data-ttu-id="2e761-104">ข้อเสนอเวอร์ชันทดลองใช้ปัจจุบันของคุณจะหมดอายุเมื่อสิ้นสุดระยะเวลาทดลองใช้</span><span class="sxs-lookup"><span data-stu-id="2e761-104">Your current academic trial offers will expire at the end of the trial period.</span></span>
+<span data-ttu-id="f6e93-103">เราตรวจสอบการร้องขอของคุณและระบุว่าองค์กรนี้ไม่มีสิทธิ์เป็นสถาบันการศึกษาที่ผ่านคุณสมบัติของ Microsoft</span><span class="sxs-lookup"><span data-stu-id="f6e93-103">We reviewed your request and determined this organization is not eligible as a Microsoft Qualified Academic Institution.</span></span> <span data-ttu-id="f6e93-104">ข้อเสนอรุ่นทดลองใช้ทางการศึกษาปัจจุบันของคุณจะหมดอายุเมื่อสิ้นสุดระยะเวลาทดลองใช้</span><span class="sxs-lookup"><span data-stu-id="f6e93-104">Your current academic trial offers will expire at the end of the trial period.</span></span>
   
-<span data-ttu-id="2e761-105">เมื่อต้องการซื้อ Microsoft ๓๖๕เชิงพาณิชย์โปรดดู[ข้อเสนอที่พร้อมใช้งาน](https://go.microsoft.com/fwlink/p/?linkid=868433)</span><span class="sxs-lookup"><span data-stu-id="2e761-105">To purchase Microsoft 365 commercially, please see [available offers](https://go.microsoft.com/fwlink/p/?linkid=868433).</span></span>  
+<span data-ttu-id="f6e93-105">เมื่อต้องการซื้อ Microsoft 365 ในเชิงพาณิชย์ [โปรดดูข้อเสนอที่](https://go.microsoft.com/fwlink/p/?linkid=868433)พร้อมใช้งาน</span><span class="sxs-lookup"><span data-stu-id="f6e93-105">To purchase Microsoft 365 commercially, please see [available offers](https://go.microsoft.com/fwlink/p/?linkid=868433).</span></span>  

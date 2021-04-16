@@ -1,8 +1,8 @@
 ---
-title: การคืนค่าไซต์ที่ถูกลบ
+title: คืนค่าไซต์ที่ถูกลบ
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000210"
 - "4836"
-ms.openlocfilehash: 352977a82fea6628bf3de0d81e75a8ccc3fb1628
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: eca087369f8cf879a27d713da3e8e190aaf34eb9
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47701122"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51809422"
 ---
-# <a name="restore-deleted-sites"></a><span data-ttu-id="7a7d4-102">การคืนค่าไซต์ที่ถูกลบ</span><span class="sxs-lookup"><span data-stu-id="7a7d4-102">Restore deleted sites</span></span>
+# <a name="restore-deleted-sites"></a><span data-ttu-id="b6d13-102">คืนค่าไซต์ที่ถูกลบ</span><span class="sxs-lookup"><span data-stu-id="b6d13-102">Restore deleted sites</span></span>
 
-<span data-ttu-id="7a7d4-103">ไซต์ที่ถูกลบจะถูกเก็บไว้สำหรับ๙๓วัน</span><span class="sxs-lookup"><span data-stu-id="7a7d4-103">Deleted sites are retained for 93 days.</span></span> <span data-ttu-id="7a7d4-104">หลังจากวันที่๙๓วันไซต์และเนื้อหาและการตั้งค่าทั้งหมดของพวกเขาจะถูกลบออกอย่างถาวรรวมถึงรายการไลบรารีหน้าและไซต์ย่อยใดๆ</span><span class="sxs-lookup"><span data-stu-id="7a7d4-104">After 93 days, sites and all their content and settings are permanently deleted, including lists, libraries, pages, and any subsites.</span></span>
+<span data-ttu-id="b6d13-103">ไซต์ที่ถูกลบจะถูกเก็บไว้เป็นเวลา 93 วัน</span><span class="sxs-lookup"><span data-stu-id="b6d13-103">Deleted sites are retained for 93 days.</span></span> <span data-ttu-id="b6d13-104">หลังจาก 93 วัน ไซต์และเนื้อหาและการตั้งค่าทั้งหมดจะถูกลบอย่างถาวร รวมถึงรายการ ไลบรารี หน้า และไซต์ย่อยใดๆ</span><span class="sxs-lookup"><span data-stu-id="b6d13-104">After 93 days, sites and all their content and settings are permanently deleted, including lists, libraries, pages, and any subsites.</span></span>
 
-- <span data-ttu-id="7a7d4-105">สำหรับข้อมูลเพิ่มเติมให้ดูที่[คืนค่าไซต์ที่ถูกลบ](https://docs.microsoft.com/sharepoint/restore-deleted-site-collection)</span><span class="sxs-lookup"><span data-stu-id="7a7d4-105">For more info, see [Restore deleted sites](https://docs.microsoft.com/sharepoint/restore-deleted-site-collection).</span></span>
+- <span data-ttu-id="b6d13-105">ดูข้อมูลเพิ่มเติมได้ที่ คืนค่า[ไซต์ที่ถูกลบ](https://docs.microsoft.com/sharepoint/restore-deleted-site-collection)</span><span class="sxs-lookup"><span data-stu-id="b6d13-105">For more info, see [Restore deleted sites](https://docs.microsoft.com/sharepoint/restore-deleted-site-collection).</span></span>
