@@ -2,7 +2,7 @@
 title: DNS
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002909"
 - "5625"
-ms.openlocfilehash: 4d7965ecd23afb899a3b5bc46ce22acddc1cd40f
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: c94173a4b13be2d3fb0b05d4ec03365c00137b79
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47679207"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51815013"
 ---
 # <a name="dns"></a>DNS
 
-- [การสร้างระเบียน DNS ที่ผู้ให้บริการโฮสต์ DNS ใดๆ](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider?view=o365-worldwide)
-- [แก้ไขปัญหาเกี่ยวกับ DNS โดเมนเว็บไซต์และอีเมล](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/find-and-fix-issues?view=o365-worldwide)
+- [สร้างระเบียน DNS ที่ผู้ให้บริการโฮสต์ DNS ใดๆ](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider?view=o365-worldwide)
+- [แก้ไขปัญหา DNS โดเมน เว็บไซต์ และอีเมล](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/find-and-fix-issues?view=o365-worldwide)
 
-มิฉะนั้นให้ลอง rephrasing ปัญหาของคุณหรือดูคำ[ถามที่ถามบ่อยเกี่ยวกับโดเมน](https://docs.microsoft.com/microsoft-365/admin/setup/domains-faq?view=o365-worldwide)
+มิฉะนั้น ให้ลองเปลี่ยนอีเมลใหม่หรือดู โดเมนที่[ถามบ่อย](https://docs.microsoft.com/microsoft-365/admin/setup/domains-faq?view=o365-worldwide)

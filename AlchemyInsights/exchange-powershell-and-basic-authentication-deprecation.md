@@ -1,8 +1,8 @@
 ---
-title: การแผนการรับรองความถูกต้องของ Exchange PowerShell และ basic
+title: การเลิกใช้ Exchange PowerShell และการรับรองความถูกต้องพื้นฐาน
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "3500011"
 - "4577"
-ms.openlocfilehash: f4f0f63112d639101ea9e9d7e9a9c16a32de4cf3
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 01938a59b53ccf8b7867ed9c256e141205d31dff
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47782994"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51813491"
 ---
-# <a name="exchange-powershell-and-basic-authentication-deprecation"></a>การแผนการรับรองความถูกต้องของ Exchange PowerShell และ basic
+# <a name="exchange-powershell-and-basic-authentication-deprecation"></a>การเลิกใช้ Exchange PowerShell และการรับรองความถูกต้องพื้นฐาน
 
-สำหรับข้อมูลล่าสุดเกี่ยวกับวิธีการเชื่อมต่อกับ Exchange Online PowerShell โดยไม่ต้องใช้การรับรองความถูกต้องพื้นฐาน[โปรดไปที่นี่](https://aka.ms/exops-docs) โมดูลของ PowerShell V2 ไม่ใช้การรับรองความถูกต้องพื้นฐาน
+For the latest information about how to connect to Exchange Online PowerShell without the use of Basic Authentication, [please go here](https://aka.ms/exops-docs). โมดูล PowerShell V2 ไม่ได้ใช้การรับรองความถูกต้องพื้นฐาน
 
-โปรดทราบว่าการรับรองความถูกต้องพื้นฐานยังคงจำเป็นต้องเปิดใช้งานบนเครื่องไคลเอ็นต์ของคุณ
-โมดูลของ PowerShell V2 ใหม่ใช้การรับรองความถูกต้องสมัยใหม่ในการสร้างการเชื่อมต่อสำหรับการเปิดใช้งาน Cmdlet ของ Cmdlet V2 ทั้งหมด นอกเหนือจาก cmdlet ของ V2 แล้วยังช่วยให้คุณสามารถเข้าถึง Cmdlet ของ PowerShell ระยะไกล (RPS) รุ่นเก่าซึ่งจำเป็นต้องมีเซสชัน PowerShell ระยะไกลที่จะถูกสร้างขึ้น การสร้างเซสชัน RPS บนเครื่อง Windows ต้องการให้ WinRM BasicAuth เปิดใช้งานบนเครื่องไคลเอ็นต์แม้ว่าโมดูลที่ใช้กลไกการรับรองความถูกต้องที่ทันสมัยในการรับรองความถูกต้องของบริการ ขั้นตอนการรับรองความถูกต้องของ WinRM Basic จะใช้สำหรับการขนส่งโทเค็นการรับรองความถูกต้องที่ทันสมัย ถ้ามีการปิดใช้งานการรับรองความถูกต้องของ WinRM Basic บนเครื่องไคลเอ็นต์ cmdlet V2 ใหม่จะยังคงทำงาน (แต่ cmdlet ของ RPS ที่เก่ากว่าจะไม่)
+โปรดทราบว่า การรับรองความถูกต้องพื้นฐานยังคงต้องเปิดใช้งานบนเครื่องไคลเอ็นต์ของคุณ
+โมดูล PowerShell V2 ใหม่ใช้การรับรองความถูกต้องแบบใหม่เพื่อสร้างการเชื่อมต่อเพื่อเปิดใช้งาน Cmdlet V2 ที่ใช้ REST ทั้งหมด นอกเหนือจาก cmdlets V2 แล้ว ยังช่วยให้คุณเข้าถึง Cmdlet ของ PowerShell ระยะไกล (RPS) ที่เก่ากว่าซึ่งต้องใช้เซสชัน PowerShell ระยะไกล การสร้างเซสชัน RPS บนเครื่อง Windows ต้องใช้ WinRM BasicAuth เพื่อเปิดใช้งานบนเครื่องไคลเอ็นต์แม้ว่าโมดูลจะใช้กลไกการรับรองความถูกต้องแบบใหม่เพื่อรับรองความถูกต้องของบริการ ไปป์ไลน์การรับรองความถูกต้องพื้นฐาน WinRM จะใช้ในการส่งโทเค็นการรับรองความถูกต้องแบบใหม่ ถ้าการรับรองความถูกต้องพื้นฐาน WinRM ถูกปิดใช้งานบนเครื่องไคลเอ็นต์ cmdlets V2 ใหม่จะยังคงสามารถใช้งานต่อไปได้ (แต่ cmdlet RPS ที่เก่ากว่าจะไม่แสดง)

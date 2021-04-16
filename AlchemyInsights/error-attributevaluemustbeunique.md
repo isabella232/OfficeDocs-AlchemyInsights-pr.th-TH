@@ -1,8 +1,8 @@
 ---
-title: ข้อผิดพลาด AttributeValueMustBeUnique
+title: Error AttributeValu <2>MustBeUnique
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
@@ -12,23 +12,23 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: bf8ac830-6f0c-4616-827d-987616700e59
-ms.openlocfilehash: 4627a7ae34b0dd9f16538ef75ac8792672dcc056
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 35eb88624a5535e136ac1d01faf8e905bf00eb45
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47709170"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51813779"
 ---
-# <a name="error-attributevaluemustbeunique"></a>ข้อผิดพลาด: AttributeValueMustBeUnique
+# <a name="error-attributevaluemustbeunique"></a>ข้อผิดพลาด: AttributeValusMustBeUnique
 
-สาเหตุทั่วไปของข้อผิดพลาด AttributeValueMustBeUnique คือวัตถุสองวัตถุที่มี SourceAnchor ที่แตกต่างกัน (immutableId) มีค่าเดียวกันสำหรับแอตทริบิวต์ ProxyAddresses และ/หรือ UserPrincipalName เมื่อต้องการแก้ไขข้อผิดพลาด AttributeValueMustBeUnique:
+เหตุผลที่ใช้กันมากที่สุดของข้อผิดพลาด AttributeValusMustBeUnique คือวัตถุสองรายการที่มี SourceAnchor ที่ต่างกัน (immutableId) มีค่าเดียวกันนี้กับแอตทริบิวต์ ProxyAddresses และ/หรือ UserPrincipalName เมื่อต้องการแก้ไขข้อผิดพลาด AttributeValusMustBeUnique:
   
-1. ระบุการ proxyAddresses ที่ซ้ำกัน userPrincipalName หรือค่าแอตทริบิวต์อื่นๆที่เป็นสาเหตุของข้อผิดพลาด นอกจากนี้ระบุวัตถุสองอย่าง (หรือมากกว่า) ที่เกี่ยวข้องกับข้อขัดแย้ง รายงานที่สร้างขึ้นโดย Azure AD Connect Health for sync สามารถช่วยให้คุณระบุวัตถุสองวัตถุได้
+1. ระบุ proxyAddresses ที่ซ้นแล้ว userPrincipalName หรือค่าแอตทริบิวต์อื่นๆ ที่ทําให้เกิดข้อผิดพลาด นอกจากนี้ ให้ระบุว่าวัตถุสองรายการ (หรือมากกว่านั้น) รายการใดที่เกี่ยวข้องในข้อขัดแย้งนี้ รายงานที่สร้างขึ้นโดย Azure AD Connect Health for sync สามารถช่วยคุณระบุวัตถุทั้งสองรายการได้
     
-2. ระบุว่าวัตถุใดควรมีค่าที่ซ้ำกันและวัตถุใดที่ไม่ควรทำ
+2. ระบุว่าวัตถุใดควรมีค่าที่คัดลอกไว้ต่อและวัตถุใดไม่ควรถูกคัดลอก
     
-3. เอาค่าที่ซ้ำกันออกจากวัตถุที่ไม่ควรมีค่านั้น โปรดสังเกตว่าคุณควรทำการเปลี่ยนแปลงในไดเรกทอรีที่วัตถุนั้นมีที่มาจาก ในบางกรณีคุณอาจจำเป็นต้องลบวัตถุใดวัตถุหนึ่งในข้อขัดแย้ง
+3. เอาค่าที่คัดลอกออกจากวัตถุที่ไม่ควรมีค่าดังกล่าว โปรดทราบว่าคุณควรเปลี่ยนแปลงในไดเรกทอรีที่มีวัตถุมาจาก ในบางกรณี คุณอาจต้องลบหนึ่งในวัตถุที่ขัดแย้งกัน
     
-4. ถ้าคุณทำการเปลี่ยนแปลงในโฆษณาภายในองค์กรให้ Azure AD Connect การซิงค์การเปลี่ยนแปลงเพื่อให้ได้รับการแก้ไขข้อผิดพลาด
+4. ถ้าคุณเปลี่ยนแปลงใน AD ภายในองค์กร ให้ให้ Azure AD Connect ซิงค์การเปลี่ยนแปลงเพื่อให้ข้อผิดพลาดได้รับการแก้ไข
     
 

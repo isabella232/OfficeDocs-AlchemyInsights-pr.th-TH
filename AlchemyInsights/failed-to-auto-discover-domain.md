@@ -2,7 +2,7 @@
 title: FAILED_TO_AUTO_DISCOVER_DOMAIN
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001721"
 - "3816"
-ms.openlocfilehash: 2ae66cd4ec8ba0113deb4c23803f69b53360ade7
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 248a1baac87b09b4c6f29c160beadb52ed0d3983
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47782742"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51813275"
 ---
 # <a name="failed_to_auto_discover_domain"></a>FAILED_TO_AUTO_DISCOVER_DOMAIN
 
-เหตุการณ์ของบริการที่ใช้งานอยู่อาจเกิดขึ้นและทำให้คุณไม่สามารถเข้าถึงศูนย์การจัดการทีมได้ โปรดตรวจสอบรายละเอียดของ **บริการ** ของคุณ
+เหตุการณ์บริการที่ใช้งานอยู่อาจเกิดขึ้นและทําให้คุณไม่สามารถเข้าถึงศูนย์การจัดการ Teams ได้ โปรดตรวจสอบ Service **Health Dash** ของคุณเพื่อดูรายละเอียด
 
-สำหรับขั้นตอนการแก้ไขปัญหาโดยละเอียดให้ดูที่ข้อผิดพลาด FAILED_TO_AUTO_DISCOVER_DOMAIN ในศูนย์การจัดการทีมของ Microsoft
+ดูขั้นตอนการแก้ไขปัญหาโดยละเอียดที่FAILED_TO_AUTO_DISCOVER_DOMAINในศูนย์การจัดการ Microsoft Teams

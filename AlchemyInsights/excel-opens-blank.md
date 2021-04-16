@@ -1,8 +1,8 @@
 ---
-title: Excel จะเปิดขึ้นว่างไว้
+title: Excel เปิดว่าง
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,13 +12,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000707"
 - "2610"
-ms.openlocfilehash: a7f3bf370a9f200c158bfe505012136867578dea
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 1e9761404b0f0ccd199d67c78c3f7c4cb445d41d
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47783462"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51813599"
 ---
-# <a name="excel-opens-blank"></a>Excel จะเปิดขึ้นว่างไว้
+# <a name="excel-opens-blank"></a>Excel เปิดว่าง
 
-ถ้า Excel เริ่มทำงานแต่แสดงหน้าจอเปล่าที่คุณคาดหวังว่าจะให้ไฟล์ปรากฏขึ้นมาให้ดูที่การ[แก้ไขปัญหาการเปิด Excel ว่างเมื่อคุณดับเบิลคลิกที่ไอคอนไฟล์หรือชื่อไฟล์](https://docs.microsoft.com/office/troubleshoot/excel/excel-opens-blank)
+ถ้า Excel เริ่มแต่แสดงหน้าจอว่างที่คุณต้องการให้ไฟล์ปรากฏขึ้น ให้ดู [แก้ไขปัญหาการเปิด Excel ที่ว่างเปล่าเมื่อคุณดับเบิลคลิกที่ไอคอนไฟล์หรือชื่อ](https://docs.microsoft.com/office/troubleshoot/excel/excel-opens-blank)ไฟล์

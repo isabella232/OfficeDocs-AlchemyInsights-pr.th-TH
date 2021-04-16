@@ -1,8 +1,8 @@
 ---
-title: มีข้อผิดพลาดในการตรวจสอบความถูกต้องของโทเค็นการเข้าถึงในระหว่างการใช้งาน Analytics บนเดสก์ท็อป
+title: มีข้อผิดพลาดการตรวจสอบความถูกต้องของข้อผิดพลาดโทเค็นการเข้าถึงระหว่างการวิเคราะห์เดสก์ท็อปบนบอร์ด
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "2536"
 - "9000657"
-ms.openlocfilehash: 45c6fb1a1632799a07c028c0791b6b8e77635293
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 12e5906ba8cbc76ba1fd99dde1cf76396c3a6942
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47783570"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51813707"
 ---
-# <a name="there-was-an-error-validating-access-token-error-during-desktop-analytics-onboarding"></a>ข้อผิดพลาด "มีข้อผิดพลาดในการตรวจสอบโทเค็นการเข้าถึง" ในระหว่างการปฐมนิเทศ Analytics บนเดสก์ท็อป
+# <a name="there-was-an-error-validating-access-token-error-during-desktop-analytics-onboarding"></a>ข้อผิดพลาด "มีข้อผิดพลาดในการตรวจสอบโทเค็นการเข้าถึง" ระหว่างการออนบอร์ดการวิเคราะห์เดสก์ท็อป
 
-ข้อผิดพลาดนี้มักจะสังเกตเมื่อโทเค็นการรับรองความถูกต้องหมดอายุ โดยปกติแล้วการรีเฟรชหน้าจะรีเฟรชโทเค็น อย่างไรก็ตามปัญหานี้อาจยังคงมีอยู่ถ้ามีนโยบายการเข้าถึงตามเงื่อนไขที่นำไปใช้กับบัญชีผู้ใช้ในการวิเคราะห์บนเดสก์ท็อปบนกระดาน คุณสามารถตรวจสอบการลงชื่อเข้าใช้ Azure AD ในบันทึกในพอร์ทัล Azure เพื่อดูว่ามีความล้มเหลวในการลงชื่อเข้าใช้สำหรับบัญชีผู้ใช้สำหรับปฐมนิเทศ Analytics บนเดสก์ท็อปหรือไม่
+โดยปกติแล้วจะพบข้อผิดพลาดนี้เมื่อโทเค็นการรับรองความถูกต้องหมดอายุ โดยปกติแล้ว รีเฟรชหน้าจะรีเฟรชโทเค็น อย่างไรก็ตาม ปัญหานี้สามารถคงอยู่ได้ถ้ามีนโยบายการเข้าถึงตามเงื่อนไขที่ปรับใช้กับบัญชีที่ใช้กับการวิเคราะห์เดสก์ท็อปบนบอร์ด คุณสามารถตรวจทานแฟ้มบันทึกการลงชื่อเข้าใช้ Azure AD ในพอร์ทัล Azure เพื่อดูว่ามีความล้มเหลวในการลงชื่อเข้าใช้บัญชีที่ใช้กับการออนบอร์ดบนเดสก์ท็อปหรือไม่
 
-สำหรับข้อมูลเพิ่มเติมเกี่ยวกับการเข้าถึงแบบมีเงื่อนไขให้เยี่ยมชม[วางแผนการปรับใช้การเข้าถึงตามเงื่อนไขของคุณ](https://docs.microsoft.com/azure/active-directory/conditional-access/plan-conditional-access)
+For more information about Conditional Access, visit [Plan your Conditional Access deployment](https://docs.microsoft.com/azure/active-directory/conditional-access/plan-conditional-access).

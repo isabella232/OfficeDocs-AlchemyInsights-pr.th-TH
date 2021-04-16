@@ -2,7 +2,7 @@
 title: เปิดใช้งานโหมดนักพัฒนาใน Windows 10
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002955"
 - "5657"
-ms.openlocfilehash: aa4d75c6e293355ef0bdd965bcdf4789f4548624
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: b4d1a2242a7c4e6c8f61de022103118827710d62
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47806490"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51814319"
 ---
 # <a name="enable-developer-mode-in-windows-10"></a>เปิดใช้งานโหมดนักพัฒนาใน Windows 10
 
-โหมดนักพัฒนาสำหรับผู้ใช้ที่กำลังพัฒนาแอปพลิเคชันและจำเป็นต้องสามารถ sideload แอปและเข้าถึงฟีเจอร์ของนักพัฒนาอื่นๆได้เช่นการเรียกใช้แอปในโหมดการตรวจแก้จุดบกพร่องภายใน Visual Studio
+โหมดนักพัฒนา มีไว้เพื่อผู้ใช้ที่พัฒนาแอปพลิเคชันและต้องสามารถไซด์โหลดแอปและเข้าถึงฟีเจอร์นักพัฒนาอื่นๆ เช่น การเรียกใช้แอปในโหมดดีบักภายใน Visual Studio
 
-เมื่อต้องการเปิดใช้งานโหมดนักพัฒนาให้ไปที่การ**[ตั้งค่า > การอัปเดต & การรักษาความปลอดภัย > สำหรับนักพัฒนา](ms-settings:developers?activationSource=GetHelp)** ทั้งนี้ขึ้นอยู่กับรุ่นของ Windows 10 ที่คุณมีคุณจะเห็นรายการการเลือกที่มีตัวเลือกในการเปิดใช้งานแทนหรือโหมดนักพัฒนาหรือเพียงแค่สลับเพื่อเปิดใช้งาน**โหมดนักพัฒนา**
+เมื่อต้องการเปิดใช้งาน โหมดนักพัฒนา ให้ไปที่ **[การตั้งค่า > การอัปเดต&ความปลอดภัย > นักพัฒนา](ms-settings:developers?activationSource=GetHelp)** คุณจะเห็นรายการส่วนที่เลือกที่มีตัวเลือกในการเปิดโหมดไซด์โหลดหรือโหมดนักพัฒนา ทั้งนี้ขึ้นอยู่กับรุ่นของ Windows 10 ที่คุณมี หรือเพียงการสลับเพื่อเปิด **โหมด** นักพัฒนา
 
-เมื่อต้องการเรียนรู้เพิ่มเติมเกี่ยวกับโหมดนักพัฒนาให้ดูที่[เปิดใช้งานอุปกรณ์ของคุณเพื่อการพัฒนา](https://docs.microsoft.com/windows/uwp/get-started/enable-your-device-for-development)
+เมื่อต้องการเรียนรู้เพิ่มเติมเกี่ยวกับโหมดนักพัฒนา ให้ดู [เปิดใช้งานอุปกรณ์ของคุณเพื่อ](https://docs.microsoft.com/windows/uwp/get-started/enable-your-device-for-development)การพัฒนา
