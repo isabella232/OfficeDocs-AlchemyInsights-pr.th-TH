@@ -1,8 +1,8 @@
 ---
-title: สิทธิ์การใช้งาน A1 สำหรับ Office ๓๖๕
+title: สิทธิ์การใช้งาน A1 ของ Office 365
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,23 +12,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002568"
 - "4981"
-ms.openlocfilehash: e8f384c753652edbb02c3178cb9fe45082328aae
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 7cc451fce065754146d09073b218ecc79d49612b
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47663757"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51804103"
 ---
-# <a name="a1-license-for-office-365"></a>สิทธิ์การใช้งาน A1 สำหรับ Office ๓๖๕
+# <a name="a1-license-for-office-365"></a>สิทธิ์การใช้งาน A1 ของ Office 365
 
-- ถ้าสถาบันของคุณมีคุณสมบัติสำหรับการศึกษา Office ๓๖๕อยู่แล้วคุณสามารถเพิ่ม **แผน A1** ไปยังบัญชีผู้ใช้ของคุณจาก [บริการซื้อ](https://docs.microsoft.com/microsoft-365/commerce/buy-another-subscription#buy-another-subscription)ได้
+- If your institute already qualified for Office 365 Education, you can add the **A1 plan** to your account from [Purchase services](https://docs.microsoft.com/microsoft-365/commerce/buy-another-subscription#buy-another-subscription).
 
-- ถ้าสถาบันการศึกษาของคุณยังไม่ได้ตั้งค่าการศึกษาของ Office ๓๖๕แต่คุณต้องการเพิ่มการศึกษาของ Office ให้ฟรีคุณสามารถ [เริ่มต้น](https://www.microsoft.com/education/products/office) ใช้งานได้โดยการให้อีเมลของคุณ
+- If your institute hasn't yet set up Office 365 Education, but you're looking to add it for free, you [can get started](https://www.microsoft.com/education/products/office) by providing your email.
 
-- ถ้าคุณต้องการ**สลับ**จากแผนการศึกษาที่แตกต่างกันไปยังแผน A1 ให้ดูที่[สลับไปยังแผนอื่น](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/switch-plans-manually)
+- ถ้าคุณต้องการสลับจาก **แผน** การศึกษาอื่นเป็นแผน A1 ให้ดู [สลับเป็นแผน](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/switch-plans-manually)อื่น
 
-- เมื่อต้องการกำหนดผู้ใช้ให้กับแผน A1 ให้ดูที่[มอบหมายสิทธิ์การใช้งานให้กับผู้ใช้](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users)
+- เมื่อต้องการกําหนดผู้ใช้ให้กับแผน A1 [ให้ดู กําหนดสิทธิ์การใช้งานให้กับ](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users)ผู้ใช้
 
-**สิ่งสำคัญ**: คุณอาจต้องรอถึง24ชั่วโมงเพื่อให้การเปลี่ยนแปลงของคุณมีผล
+**สิ่ง** สําคัญ: คุณอาจต้องรอถึง 24 ชั่วโมงเพื่อให้การเปลี่ยนแปลงของคุณมีผล
 
-สำหรับข้อมูลเพิ่มเติมให้ดูที่การ[ศึกษา Office ๓๖๕การเรียนรู้ระยะไกลและการเรียนรู้](https://support.office.com/article/remote-teaching-and-learning-in-office-365-education-f651ccae-7b65-478b-8366-51bb884025c4)และ[การทำการเปลี่ยนไปใช้การเรียนรู้ระยะไกล](https://www.microsoft.com/education/remote-learning)
+For more info, see [Office 365 Education, Remote teaching and learning](https://support.office.com/article/remote-teaching-and-learning-in-office-365-education-f651ccae-7b65-478b-8366-51bb884025c4) and Making the transition to remote [learning](https://www.microsoft.com/education/remote-learning).

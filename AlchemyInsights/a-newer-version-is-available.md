@@ -1,8 +1,8 @@
 ---
-title: เวอร์ชันที่ใหม่กว่าจะพร้อมใช้งาน
+title: มีเวอร์ชันที่ใหม่กว่า
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,13 +12,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000694"
 - "2597"
-ms.openlocfilehash: a9e89f4c1548cb018cbb9c8f3063634ba35effa0
-ms.sourcegitcommit: 0f26f6b23b3d48c3c6cddf98bc41df484f16cb00
+ms.openlocfilehash: aa0d233209827b387a9ee23aaf828794ed3cfc90
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 12/08/2020
-ms.locfileid: "49599003"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51804292"
 ---
 # <a name="delete-the-office-document-cache"></a>ลบแคชเอกสาร Office
 
-ถ้าคุณได้รับพร้อมท์ของ Excel ที่มี **ไฟล์เวอร์ชันใหม่กว่า** ให้ลองลบแคชเอกสาร office โดยทำตามคำแนะนำใน [ลบแคชเอกสาร office ของคุณ](https://support.office.com/article/b1d3765e-d71b-4bb8-99ca-acd22c42995d) จากนั้นให้ลองเปิดไฟล์อีกครั้ง
+ถ้าคุณได้รับพร้อมท์ของ Excel ว่า **ไฟล์** เวอร์ชันที่ใหม่กว่าพร้อมใช้งาน ให้ลองลบแคชเอกสาร Office โดยปฏิบัติตามคําแนะนําใน [ลบแคชเอกสาร Office](https://support.office.com/article/b1d3765e-d71b-4bb8-99ca-acd22c42995d)ของคุณ จากนั้นลองเปิดไฟล์อีกครั้ง

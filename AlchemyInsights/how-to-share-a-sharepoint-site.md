@@ -1,8 +1,8 @@
 ---
-title: วิธีการแชร์ไซต์ SharePoint
+title: วิธีแชร์ไซต์ SharePoint
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
@@ -13,15 +13,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000192"
 - "3171"
-ms.openlocfilehash: c45b308492062e3e3938a4f85d5b6ce478933d97
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 456d3e610e24534503dec86dfc0f5e6180866ded
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47703282"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51803491"
 ---
-# <a name="how-to-share-a-sharepoint-site"></a>วิธีการแชร์ไซต์ SharePoint
+# <a name="how-to-share-a-sharepoint-site"></a>วิธีแชร์ไซต์ SharePoint
 
-ถ้าคุณเป็นเจ้าของไซต์คุณสามารถกำหนดให้บุคคลอื่นสามารถเข้าถึงไซต์ได้โดยการเพิ่มบุคคลเหล่านั้นเป็นเจ้าของสมาชิกหรือผู้เยี่ยมชม ([ต้องการแชร์ไฟล์หรือโฟลเดอร์แทนใช่ไหม](https://support.office.com/article/share-sharepoint-files-or-folders-1fe37332-0f9a-4719-970e-d2578da4941c))
+ถ้าคุณเป็นเจ้าของไซต์ คุณสามารถให้บุคคลอื่นเข้าถึงไซต์ได้โดยการเพิ่มพวกเขาเป็นเจ้าของ สมาชิก หรือผู้เยี่ยมชม ([ต้องการแชร์ไฟล์หรือโฟลเดอร์แทนใช่หรือไม่](https://support.office.com/article/share-sharepoint-files-or-folders-1fe37332-0f9a-4719-970e-d2578da4941c))
 
 [แชร์ไซต์](https://support.office.com/article/share-a-site-958771a8-d041-4eb8-b51c-afea2eae3658)

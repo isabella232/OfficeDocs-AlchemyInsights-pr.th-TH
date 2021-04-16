@@ -2,7 +2,7 @@
 title: เอาโดเมนออก
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: reference
 ms.service: o365-administration
@@ -11,16 +11,16 @@ ROBOTS: NOINDEX, NOFOLLOW
 ms.custom:
 - "25"
 - "9"
-ms.openlocfilehash: 5d83fc0d00d1c5b2d07040b31ba392cac2fc32c0
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: 8d0071360330248b93dbd5bbf42a2b595d287364
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44502230"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51804652"
 ---
-# <a name="trying-to-remove-your-domain"></a>กําลังพยายามลบโดเมนของคุณใช่ไหม
+# <a name="trying-to-remove-your-domain"></a>พยายามเอาโดเมนของคุณออกใช่ไหม
 
-ทําตามขั้นตอนใน[เอาโดเมนออก](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/remove-a-domain)
+ให้ปฏิบัติตามขั้นตอน [ใน เอาโดเมน](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/remove-a-domain)ออก
   
-คุณจะต้องอัปเดตผู้ใช้หรือกลุ่มใดๆ ที่กําหนดให้กับชื่อโดเมนนั้นก่อนที่จะนําโดเมนออก ตรวจสอบ[คําถามที่พบบ่อยเกี่ยวกับโดเมน](https://docs.microsoft.com/microsoft-365/admin/setup/domains-faq)สําหรับโซลูชันทั่วไปอื่นๆ
+คุณจะต้องอัปเดตผู้ใช้หรือกลุ่มที่มอบหมายให้กับชื่อโดเมนนั้นก่อนที่คุณจะเอาโดเมนออก ตรวจสอบ ที่ [ถามบ่อยเกี่ยวกับ](https://docs.microsoft.com/microsoft-365/admin/setup/domains-faq) โดเมน เพื่อแก้ไขปัญหาทั่วไปอื่นๆ
   
