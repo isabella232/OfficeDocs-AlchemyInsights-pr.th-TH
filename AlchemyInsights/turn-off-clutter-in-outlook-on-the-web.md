@@ -1,8 +1,8 @@
 ---
-title: อัปเดตในกล่องจดหมายเข้าที่โฟกัสและแผนของเราสำหรับการจัดระเบียบ
+title: อัปเดตกล่องจดหมายเข้าที่โฟกัสและแผนของเราเกี่ยวกับกองข้อความ
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,13 +12,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002504"
 - "4854"
-ms.openlocfilehash: c2a9da8977ffd82829f0ea799052cf3389d6afc7
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 100fa441ec1c74085e67bb1cbb1b790e9864cc67
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47797135"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51834642"
 ---
-# <a name="update-on-focused-inbox-and-our-plans-for-clutter"></a><span data-ttu-id="74e32-102">อัปเดตในกล่องจดหมายเข้าที่โฟกัสและแผนของเราสำหรับการจัดระเบียบ</span><span class="sxs-lookup"><span data-stu-id="74e32-102">Update on Focused Inbox and our plans for Clutter</span></span>
+# <a name="update-on-focused-inbox-and-our-plans-for-clutter"></a><span data-ttu-id="ac4fd-102">อัปเดตกล่องจดหมายเข้าที่โฟกัสและแผนของเราเกี่ยวกับกองข้อความ</span><span class="sxs-lookup"><span data-stu-id="ac4fd-102">Update on Focused Inbox and our plans for Clutter</span></span>
 
-<span data-ttu-id="74e32-103">สำหรับข้อมูลล่าสุดให้ดูที่การอัปเดตในกล่องจดหมายเข้าที่โฟกัสและแผนของเราสำหรับการจัดระเบียบ</span><span class="sxs-lookup"><span data-stu-id="74e32-103">for the latest information see: Update on Focused Inbox and our plans for Clutter</span></span>
+<span data-ttu-id="ac4fd-103">เพื่อดูข้อมูลล่าสุด ให้ดู: อัปเดตกล่องจดหมายเข้าที่โฟกัสและแผนของเราเกี่ยวกับกองข้อความ</span><span class="sxs-lookup"><span data-stu-id="ac4fd-103">for the latest information see: Update on Focused Inbox and our plans for Clutter</span></span>

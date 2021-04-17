@@ -1,8 +1,8 @@
 ---
-title: การแก้ไขปัญหาการตั้งค่าสำหรับการใช้งานสตรีม-API
+title: การแก้ไขปัญหาการตั้งค่า For Stream - ความพร้อมใช้งาน API
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,14 +12,14 @@ ms.collection: Adm_O365
 ms.custom:
 - "2800001"
 - "1338"
-ms.openlocfilehash: d25849c36eda0f286e7758955104e8df2ed46d76
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 6648aec3d027a0768af3c39b3176b0be68b017cb
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47658609"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51834822"
 ---
-# <a name="api-availability"></a><span data-ttu-id="caaab-102">ความพร้อมใช้งานของ API</span><span class="sxs-lookup"><span data-stu-id="caaab-102">API Availability</span></span>
+# <a name="api-availability"></a><span data-ttu-id="b4459-102">ความพร้อมใช้งาน API</span><span class="sxs-lookup"><span data-stu-id="b4459-102">API Availability</span></span>
 
-<span data-ttu-id="caaab-103">Api สำหรับสตรีมไม่พร้อมใช้งานในวันนี้</span><span class="sxs-lookup"><span data-stu-id="caaab-103">APIs for Stream are not available today.</span></span>
-<span data-ttu-id="caaab-104">สำหรับข้อมูลเพิ่มเติม:https://stream.microsoft.com/support/</span><span class="sxs-lookup"><span data-stu-id="caaab-104">For more information: https://stream.microsoft.com/support/</span></span>
+<span data-ttu-id="b4459-103">API for Stream ยังไม่พร้อมใช้งานในวันนี้</span><span class="sxs-lookup"><span data-stu-id="b4459-103">APIs for Stream are not available today.</span></span>
+<span data-ttu-id="b4459-104">For more information: https://stream.microsoft.com/support/</span><span class="sxs-lookup"><span data-stu-id="b4459-104">For more information: https://stream.microsoft.com/support/</span></span>

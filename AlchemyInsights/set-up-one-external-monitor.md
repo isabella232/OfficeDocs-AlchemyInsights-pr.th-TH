@@ -1,8 +1,8 @@
 ---
-title: ตั้งค่าจอภาพภายนอกหนึ่งจอ
+title: ตั้งค่าจอภาพภายนอกหนึ่งจอภาพ
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,20 +12,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "3453"
 - "9001450"
-ms.openlocfilehash: 699219510d5c68884b4552599c95549decd435cc
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 51d95ecdfd78fb501c23a5ad8b906eadad8b4bf2
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47773938"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51835542"
 ---
-# <a name="set-up-one-monitor"></a><span data-ttu-id="1be71-102">ตั้งค่าจอภาพหนึ่งจอ</span><span class="sxs-lookup"><span data-stu-id="1be71-102">Set up one monitor</span></span>
+# <a name="set-up-one-monitor"></a><span data-ttu-id="f66e2-102">ตั้งค่าจอภาพเดียว</span><span class="sxs-lookup"><span data-stu-id="f66e2-102">Set up one monitor</span></span>
 
-<span data-ttu-id="1be71-103">**ตรวจสอบการตั้งค่าโครงการของพีซีของคุณ**</span><span class="sxs-lookup"><span data-stu-id="1be71-103">**Check your PC's project settings**</span></span>
+<span data-ttu-id="f66e2-103">**ตรวจสอบการตั้งค่าโครงการของพีซีของคุณ**</span><span class="sxs-lookup"><span data-stu-id="f66e2-103">**Check your PC's project settings**</span></span>
 
-1. <span data-ttu-id="1be71-104">เปิดการตั้งค่าโครงการของคุณโดยการกดแป้นต่อไปนี้ในเวลาเดียวกัน: แป้น Windows (ปุ่มเริ่มต้นโลโก้ Windows) + P</span><span class="sxs-lookup"><span data-stu-id="1be71-104">Open your project settings by pressing the following keys at the same time: Windows key (Windows logo Start button) + P.</span></span>
-2. <span data-ttu-id="1be71-105">เลือก**Duplicate**ทำซ้ำ**ขยาย**หรือ**หน้าจอที่สองเท่านั้น**ขึ้นอยู่กับการกำหนดลักษณะของคุณ</span><span class="sxs-lookup"><span data-stu-id="1be71-105">Choose **Duplicate**, **Extend**, or **Second screen only**, depending on your preferences.</span></span>
+1. <span data-ttu-id="f66e2-104">เปิดการตั้งค่าโครงการของคุณโดยการกดแป้นต่อไปนี้พร้อมกัน: แป้น Windows (ปุ่มเริ่มโลโก้ Windows) + P</span><span class="sxs-lookup"><span data-stu-id="f66e2-104">Open your project settings by pressing the following keys at the same time: Windows key (Windows logo Start button) + P.</span></span>
+2. <span data-ttu-id="f66e2-105">เลือกรายการที่ **คัดลอก** ขยาย หรือ **เฉพาะหน้าจอที่สอง** ขึ้นอยู่กับการลักษณะของคุณ</span><span class="sxs-lookup"><span data-stu-id="f66e2-105">Choose **Duplicate**, **Extend**, or **Second screen only**, depending on your preferences.</span></span>
 
-<span data-ttu-id="1be71-106">**หมายเหตุ:** ถ้าพีซีของคุณมีพอร์ตการแสดงเพียงพอร์ตเดียว (เช่น HDMI หรือ VGA) คุณจำเป็นต้องใช้แท่นวางอุปกรณ์หรืออะแดปเตอร์ USB เพื่อตั้งค่าหลายจอภาพ</span><span class="sxs-lookup"><span data-stu-id="1be71-106">**Note:** If your PC has only one display port (such as HDMI or VGA), you'll need a docking station or a USB adapter to set up multiple monitors.</span></span>
+<span data-ttu-id="f66e2-106">**หมายเหตุ:** หากพีซีของคุณมีพอร์ตจอแสดงผลเพียงหนึ่งพอร์ต (เช่น HDMI หรือ VGA) คุณต้องใช้ที่วางเทียบหรืออะแดปเตอร์ USB เพื่อตั้งค่าหลายจอภาพ</span><span class="sxs-lookup"><span data-stu-id="f66e2-106">**Note:** If your PC has only one display port (such as HDMI or VGA), you'll need a docking station or a USB adapter to set up multiple monitors.</span></span>
 
-<span data-ttu-id="1be71-107">นอกจากนี้ถ้าคุณสามารถตั้งค่าหนึ่งจอภาพแต่ไม่ใช่หลายจอพีซีของคุณอาจเข้ากันไม่ได้กับหลายจอภาพ</span><span class="sxs-lookup"><span data-stu-id="1be71-107">Also, if you can set up one monitor but not multiple, your PC might not be compatible with multiple monitors.</span></span> <span data-ttu-id="1be71-108">ตรวจสอบเอกสารต้นฉบับของพีซีของคุณเพื่อดูข้อมูลเพิ่มเติม</span><span class="sxs-lookup"><span data-stu-id="1be71-108">Check your PC's original documents for more info.</span></span>
+<span data-ttu-id="f66e2-107">นอกจากนี้ หากคุณสามารถตั้งค่าจอภาพหนึ่งจอแต่ไม่หลายจอภาพ พีซีของคุณอาจเข้ากันไม่ได้กับหลายจอภาพ</span><span class="sxs-lookup"><span data-stu-id="f66e2-107">Also, if you can set up one monitor but not multiple, your PC might not be compatible with multiple monitors.</span></span> <span data-ttu-id="f66e2-108">ตรวจสอบเอกสารต้นฉบับของพีซีของคุณเพื่อดูข้อมูลเพิ่มเติม</span><span class="sxs-lookup"><span data-stu-id="f66e2-108">Check your PC's original documents for more info.</span></span>
