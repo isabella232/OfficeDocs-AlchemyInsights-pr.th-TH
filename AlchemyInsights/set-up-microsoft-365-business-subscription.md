@@ -1,8 +1,8 @@
 ---
-title: ตั้งค่าการสมัครใช้งาน Microsoft ๓๖๕ Business
+title: ตั้งค่าการสมัครใช้งาน Microsoft 365 Business
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,23 +12,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002444"
 - "4776"
-ms.openlocfilehash: 16cf26135c45b4a395dd7fb826f67394ae2b0da9
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 61b7f044e4b66ed49500b903b15d48c42c79ff9b
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47800951"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51835578"
 ---
-# <a name="set-up-a-microsoft-365-business-subscription"></a>ตั้งค่าการสมัครใช้งาน Microsoft ๓๖๕ Business
+# <a name="set-up-a-microsoft-365-business-subscription"></a>ตั้งค่าการสมัครใช้งาน Microsoft 365 Business
 
-สำหรับคำแนะนำการเดินผ่านโปรดดูที่การ [ตั้งค่า Microsoft ๓๖๕สำหรับธุรกิจ](https://docs.microsoft.com/microsoft-365/admin/setup/setup?view=o365-worldwide) เพื่อช่วยให้คุณสามารถตั้งค่าการสมัครใช้งานทางธุรกิจของคุณได้ 
+ให้ดูที่ ตั้งค่า [Microsoft 365 for Business](https://docs.microsoft.com/microsoft-365/admin/setup/setup?view=o365-worldwide) เพื่อช่วยคุณตั้งค่าการสมัครใช้งาน Business 
 
 **แหล่งข้อมูลที่ยอดเยี่ยมมากขึ้น**
 
-- [วิธีการออกจากทีม Microsoft](https://docs.microsoft.com/microsoftteams/how-to-roll-out-teams?toc=%2Foffice365%2Fadmin%2Ftoc.json&bc=%2Foffice365%2Fadmin%2Fbreadcrumb%2Ftoc.json&view=o365-worldwide)
+- [วิธีเริ่มใช้ Microsoft Teams](https://docs.microsoft.com/microsoftteams/how-to-roll-out-teams?toc=%2Foffice365%2Fadmin%2Ftoc.json&bc=%2Foffice365%2Fadmin%2Fbreadcrumb%2Ftoc.json&view=o365-worldwide)
 
 - [ตั้งค่าที่เก็บไฟล์และการแชร์](https://docs.microsoft.com/microsoft-365/admin/setup/set-up-file-storage-and-sharing?view=o365-worldwide)
 
 - [ติดตั้งแอปพลิเคชัน Office](https://docs.microsoft.com/microsoft-365/admin/setup/install-applications?view=o365-worldwide)
 
-สำหรับการฝึกอบรมเพิ่มเติมให้[เสร็จสมบูรณ์ชุดสำหรับธุรกิจขนาดเล็กและสิ่งที่ใหม่ไปยัง Microsoft ๓๖๕](https://support.office.com/article/set-up-your-small-business-6ab4bbcd-79cf-4000-a0bd-d42ce4d12816)
+For additional training, [complete the series for small businesses and those new to Microsoft 365](https://support.office.com/article/set-up-your-small-business-6ab4bbcd-79cf-4000-a0bd-d42ce4d12816).

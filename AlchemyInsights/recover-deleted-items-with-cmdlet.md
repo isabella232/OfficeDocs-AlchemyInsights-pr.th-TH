@@ -2,7 +2,7 @@
 title: กู้คืนรายการที่ถูกลบด้วย cmdlet
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "1800008"
 - "5718"
-ms.openlocfilehash: 91a9bcf75b13881b903a1d3b6f2da53f65811c9c
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: d8f2a50f39d7bcd321692ab093e2efa6613e9814
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47741322"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51835830"
 ---
 # <a name="recover-deleted-items-with-cmdlet"></a>กู้คืนรายการที่ถูกลบด้วย cmdlet
 
-- ใช้ cmdlet [Get-RecoverableItems](https://docs.microsoft.com/powershell/module/exchange/get-recoverableitems?view=exchange-ps) เพื่อดูรายการที่ถูกลบในกล่องจดหมาย หลังจากที่คุณพบรายการที่ถูกลบแล้วคุณสามารถใช้ cmdlet การ [คืนค่า-RecoverableItems](https://docs.microsoft.com/powershell/module/exchange/Restore-RecoverableItems?view=exchange-ps) เพื่อคืนค่าได้
+- ใช้ [cmdlet Get-RecoverableItems](https://docs.microsoft.com/powershell/module/exchange/get-recoverableitems?view=exchange-ps) เพื่อดูรายการที่ถูกลบในกล่องจดหมาย หลังจากที่คุณพบรายการที่ถูกลบ คุณใช้ cmdlet [Restore-RecoverableItems](https://docs.microsoft.com/powershell/module/exchange/Restore-RecoverableItems?view=exchange-ps) เพื่อคืนค่ารายการเหล่านั้น
 
-- ดูรายละเอียดทั้งหมดในการ[รับ RecoverableItems](https://docs.microsoft.com/powershell/module/exchange/get-recoverableitems?view=exchange-ps)
+- ดูรายละเอียดแบบเต็มใน[Get-RecoverableItems](https://docs.microsoft.com/powershell/module/exchange/get-recoverableitems?view=exchange-ps)
 
-- คุณจำเป็นต้องได้รับมอบหมายบทบาทการส่งออกการนำเข้ากล่องจดหมายก่อนที่คุณจะสามารถเรียกใช้ cmdlet นี้ได้ โปรดดูข้อมูลเพิ่มเติม [ได้ที่ RecoverableItems](https://docs.microsoft.com/powershell/module/exchange/get-recoverableitems?view=exchange-ps) สำหรับข้อมูลเพิ่มเติม
+- คุณต้องได้รับมอบหมายบทบาทนําเข้าส่งออกกล่องจดหมายก่อนที่คุณจะสามารถเรียกใช้ cmdlet นี้ โปรดดู [Get-RecoverableItems](https://docs.microsoft.com/powershell/module/exchange/get-recoverableitems?view=exchange-ps) เพื่อดูข้อมูลเพิ่มเติม
