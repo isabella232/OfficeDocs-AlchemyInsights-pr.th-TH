@@ -1,8 +1,8 @@
 ---
-title: ปัญหาในการลงชื่อเข้าใช้แอป Microsoft ๓๖๕
+title: ปัญหาในการลงชื่อเข้าใช้แอป Microsoft 365
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,30 +12,30 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000571"
 - "2574"
-ms.openlocfilehash: a1e9844094dd164ca8bd5fb2a196161a5de0282f
-ms.sourcegitcommit: 57102d7daf32f370cab84dba342819a1ad5cb261
+ms.openlocfilehash: 02841a1b4e92eec94fc6409941d91618f02518c1
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 09/23/2020
-ms.locfileid: "48236144"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51836622"
 ---
-# <a name="issues-signing-into-microsoft-365-apps"></a>ปัญหาในการลงชื่อเข้าใช้แอป Microsoft ๓๖๕
+# <a name="issues-signing-into-microsoft-365-apps"></a>ปัญหาในการลงชื่อเข้าใช้แอป Microsoft 365
 
-เมื่อต้องการแก้ไขปัญหาการลงชื่อเข้าใช้ด้วยแอป Microsoft ๓๖๕ให้ลองใช้ตัวเลือกต่อไปนี้บนเครื่องจักรที่ได้รับผลกระทบ:  
+เมื่อต้องการแก้ไขปัญหาการลงชื่อเข้าใช้แอป Microsoft 365 ให้ลองใช้ตัวเลือกต่อไปนี้บนเครื่องที่ได้รับผลกระทบ:  
 
-- สำหรับ Windows ให้ดู [คำแนะนำเกี่ยวกับการแก้ไขปัญหาทั่วไปในการลงชื่อเข้าใช้](https://docs.microsoft.com/office365/troubleshoot/administration/disabling-adal-wam-not-recommended#recommendations-on-resolving-common-sign-in-issues)
-- สำหรับ Mac ให้ดูที่  [ไม่สามารถลงชื่อเข้าใช้แอป Office ๒๐๑๖ For Mac ได้](https://docs.microsoft.com/office365/troubleshoot/authentication/sign-in-to-office-2016-for-mac-fail)
+- For Windows, see [Recommendations on resolving common sign-in issues](https://docs.microsoft.com/office365/troubleshoot/administration/disabling-adal-wam-not-recommended#recommendations-on-resolving-common-sign-in-issues)
+- For Mac,  [see Can't sign in to an Office 2016 for Mac app](https://docs.microsoft.com/office365/troubleshoot/authentication/sign-in-to-office-2016-for-mac-fail)
 
-**เคล็ดลับ** บนเครื่อง Windows เราสามารถวินิจฉัยและแก้ไขปัญหาการลงชื่อเข้าใช้ Office ทั่วไปได้โดยอัตโนมัติสำหรับคุณ ดาวน์โหลดและเรียกใช้ตัว  **[ช่วยการสนับสนุนและการกู้คืนของ Microsoft](https://aka.ms/SaRA-OfficeSignInScenario)** เพื่อใช้เครื่องมืออัตโนมัติของเรา
+**เคล็ดลับ** บนเครื่อง Windows เราสามารถวินิจฉัยและแก้ไขปัญหาการลงชื่อเข้าใช้ Office ทั่วไปหลายอย่างให้คุณโดยอัตโนมัติ ดาวน์โหลดและเรียกใช้  **[ตัวช่วยการสนับสนุนและการกู้คืน](https://aka.ms/SaRA-OfficeSignInScenario)** ของ Microsoft เพื่อใช้เครื่องมืออัตโนมัติของเรา
 
-**หมายเหตุ:** การปิดใช้งานการรับรองความถูกต้องแบบสมัยใหม่ (ADAL) หรือการจัดการบัญชีผู้ใช้เว็บ (WAM) สำหรับการแก้ไขปัญหาการลงชื่อเข้าใช้หรือการเปิดใช้งานไม่**แนะนำ** ถ้าข้อผิดพลาดเกิดขึ้นขณะเชื่อมต่อกับ Microsoft ๓๖๕โดยใช้ Office ๒๐๑๓ให้ตรวจสอบให้แน่ใจว่าคุณได้ [เปิดใช้งานการรับรองความถูกต้องที่ทันสมัย](https://docs.microsoft.com/microsoft-365/admin/security-and-compliance/enable-modern-authentication)  สำหรับไคลเอ็นต์ Office
+**หมายเหตุ:** ไม่แนะให้ปิดใช้งานการรับรองความถูกต้องสมัยใหม่ (ADAL) หรือการจัดการบัญชีเว็บ (WAM) เพื่อแก้ไขปัญหาการลงชื่อเข้าใช้  **หรือ** การเปิดใช้งาน ถ้าเกิดข้อผิดพลาดขณะเชื่อมต่อกับ Microsoft 365 โดยใช้ Office 2013 ตรวจสอบให้แน่ใจว่าคุณเปิดใช้งาน [การรับรองความถูกต้องแบบใหม่](https://docs.microsoft.com/microsoft-365/admin/security-and-compliance/enable-modern-authentication)  สํารับไคลเอ็นต์ Office
 
-สำหรับการดำเนินการแก้ไขปัญหาที่เฉพาะเจาะจงให้ดูที่:
+ดูวิธีการแก้ไขปัญหาเฉพาะที่:
 
-[ปัญหาการเชื่อมต่อในการลงชื่อเข้าใช้หลังจากอัปเดตเป็น Office ๒๐๑๖รุ่น16.0.7967 บน Windows 10](https://docs.microsoft.com/office365/troubleshoot/administration/connection-issue-when-sign-in-office-2016)  
+[ปัญหาการเชื่อมต่อในการลงชื่อเข้าใช้หลังจากอัปเดตเป็น Office 2016 รุ่น 16.0.7967 บน Windows 10](https://docs.microsoft.com/office365/troubleshoot/administration/connection-issue-when-sign-in-office-2016)  
 
-[คุณไม่สามารถลงชื่อเข้าใช้บัญชีผู้ใช้ขององค์กรของคุณเช่น Office ๓๖๕, Azure หรือ Intune](https://docs.microsoft.com/office365/troubleshoot/authentication/sign-in-to-office-365-azure-intune)
+[คุณไม่สามารถลงชื่อเข้าใช้บัญชีขององค์กรของคุณ เช่น Office 365, Azure หรือ Intuned ได้](https://docs.microsoft.com/office365/troubleshoot/authentication/sign-in-to-office-365-azure-intune)
 
-[วิธีแก้ไขปัญหาแอปที่ไม่ใช่เบราว์เซอร์ที่ไม่สามารถลงชื่อเข้าใช้ Office ๓๖๕, Azure หรือ Intune](https://support.office.com/article/how-to-troubleshoot-non-browser-apps-that-can-t-sign-in-to-office-365-azure-or-intune-3ba1b268-66f6-462c-b0e5-070f5c2603c1?ui=en-US&rs=en-US&ad=US)
+[วิธีแก้ไขปัญหาแอปที่ไม่ใช่เบราว์เซอร์ที่ไม่สามารถลงชื่อเข้าใช้ Office 365, Azure หรือ Intuny](https://support.office.com/article/how-to-troubleshoot-non-browser-apps-that-can-t-sign-in-to-office-365-azure-or-intune-3ba1b268-66f6-462c-b0e5-070f5c2603c1?ui=en-US&rs=en-US&ad=US)
 
-[ได้รับพร้อมท์ซ้ำๆสำหรับข้อมูลประจำตัวใน Office](https://docs.microsoft.com/office365/troubleshoot/authentication/access-denied-when-connect-to-office-365)
+[ได้รับพร้อมท์ซ้ําๆ เกี่ยวกับข้อมูลรับรองใน Office](https://docs.microsoft.com/office365/troubleshoot/authentication/access-denied-when-connect-to-office-365)

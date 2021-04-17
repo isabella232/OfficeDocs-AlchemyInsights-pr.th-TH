@@ -2,7 +2,7 @@
 title: วางแอปบนเดสก์ท็อป
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001668"
 - "3735"
-ms.openlocfilehash: 4d7ce305231b94ce37960ccc92cdc87395397cfa
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: e04a6c9d29df92d65d120e6f9907cb82661fc912
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47768266"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51835866"
 ---
 # <a name="put-apps-on-the-desktop"></a>วางแอปบนเดสก์ท็อป
 
-ค้นหาแอปในเมนู **เริ่ม** แล้วคว้าไอคอนแอปได้ด้วยการกดปุ่มเมาส์ซ้ายค้างไว้และย้ายไอคอนไปยังเดสก์ท็อป
+ค้นหาแอปในเมนู **เริ่มต้น** และจับไอคอนแอปโดยกดปุ่มเมาส์ซ้ายค้างไว้แล้วย้ายไอคอนไปยังเดสก์ท็อป
 
-นอกจากนี้คุณยังสามารถกด **แป้น Windows + R** แล้วพิมพ์คำสั่งนี้:
+คุณอาจกดแป้น Windows + **R แล้ว** พิมพ์ในสั่งนี้:
 
 `shell:appsfolder`
 
-การทำเช่นนี้จะเปิดโฟลเดอร์**แอปพลิเคชัน**ใน**File Explorer** ในตอนนี้คุณสามารถลากแล้วปล่อยไอคอนแอปไปยังเดสก์ท็อป
+ซึ่งจะเปิดโฟลเดอร์ **แอปพลิเคชัน** ใน **File Explorer** ตอนนี้คุณอาจลากแล้วปล่อยไอคอนแอปไปยังเดสก์ท็อป

@@ -1,8 +1,8 @@
 ---
-title: สิทธิ์การใช้งานไม่ทำงาน
+title: สิทธิ์การใช้งานไม่ใช้งานได้
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,25 +12,25 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002459"
 - "4764"
-ms.openlocfilehash: 78a42b389b9f1d417db6a6602f3a3c1072f9c1f7
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 2e915860046dd66c7d7642c0b031717c2113681f
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47676253"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51836514"
 ---
-# <a name="license-not-working"></a>สิทธิ์การใช้งานไม่ทำงาน
+# <a name="license-not-working"></a>สิทธิ์การใช้งานไม่ใช้งานได้
 
-ต่อไปนี้คือการตรวจสอบสองสามประการที่คุณสามารถลองทำได้:
+ต่อไปนี้คือการตรวจสอบความถูกต้องสองสามรายการที่คุณสามารถลองได้:
 
-- ถ้าคุณได้กำหนดสิทธิ์การใช้งาน Office ๓๖๕และแอปที่เกี่ยวข้องไม่ทำงานโปรดให้กระบวนการซิงค์ทั้งหมดอย่างน้อย24ชั่วโมงเพื่อให้เสร็จสมบูรณ์ 
+- ถ้าคุณมอบหมายสิทธิ์การใช้งาน Office 365 และแอปที่เกี่ยวข้องไม่ใช้งาน โปรดให้เวลาอย่างน้อย 24 ชั่วโมงเพื่อให้กระบวนการซิงค์ทั้งหมดเสร็จสมบูรณ์ 
 
-- ให้ลองสลับสิทธิ์การใช้งานผลิตภัณฑ์และเปิดและดูว่าสามารถแก้ไขปัญหาได้หรือไม่ 
+- ลองสลับปิดและเปิดสิทธิ์การใช้งานผลิตภัณฑ์ แล้วดูว่าสามารถแก้ไขปัญหาหรือไม่ 
 
-- ถ้าคุณไม่เห็นสิทธิ์การใช้งานที่มอบหมายให้ตรวจสอบให้แน่ใจว่าสิทธิ์การใช้งานถูกมอบหมายให้กับผู้ใช้ ให้ดู[ที่กำหนดสิทธิ์การใช้งานให้กับผู้ใช้](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users?view=o365-worldwide)
+- ถ้าคุณไม่เห็นสิทธิ์การใช้งานที่มอบหมาย ให้ตรวจสอบว่าได้มอบหมายสิทธิ์การใช้งานให้กับผู้ใช้แล้ว ดู [กําหนดสิทธิ์การใช้งานให้กับ](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users?view=o365-worldwide)ผู้ใช้
 
-- ตรวจสอบว่าการสมัครใช้งานของคุณหมดอายุแล้วและต่ออายุถ้าจำเป็น ให้ดู [ที่เปิดใช้งานการสมัครใช้งานของคุณ](https://docs.microsoft.com/alchemyinsights/reactivate-your-subscription)ใหม่ 
+- ตรวจสอบว่าการสมัครใช้งานของคุณหมดอายุและต่ออายุหรือไม่ถ้าต้องใช้ ดู [เปิดใช้งานการสมัครใช้งาน](https://docs.microsoft.com/alchemyinsights/reactivate-your-subscription)ของคุณใหม่ 
 
-- ถ้าคุณซื้อสิทธิ์การใช้งานจากผู้ค้าปลีกหรือคู่ค้าบุคคลเหล่านั้นอาจไม่ได้เปิดใช้งาน โปรดติดต่อพวกเขาโดยตรง:[ค้นหาคู่ค้า Office ๓๖๕หรือตัวแทนจำหน่ายของคุณ](https://docs.microsoft.com//microsoft-365/admin/manage/find-your-partner-or-reseller)
+- If you purchased licenses from a reseller or partner, they might not have activated them. โปรดติดต่อพวกเขาโดยตรง: [ค้นหาคู่ค้าหรือผู้ค้าปลีก Office 365](https://docs.microsoft.com//microsoft-365/admin/manage/find-your-partner-or-reseller)ของคุณ
 
-- ถ้ามีปัญหาเกิดขึ้นขณะเปิดใช้งานการสมัครใช้งานของคุณให้ลอง[ทำขั้นตอนการลงทะเบียนต่อ](https://go.microsoft.com/fwlink/?linkid=2126800)
+- หากมีปัญหาใดๆ ขณะเปิดใช้งานการสมัครใช้งาน ของคุณ ให้ลองทํา [ตามขั้นตอนการลงทะเบียน](https://go.microsoft.com/fwlink/?linkid=2126800)ต่อไป

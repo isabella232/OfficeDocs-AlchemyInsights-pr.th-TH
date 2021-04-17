@@ -1,8 +1,8 @@
 ---
-title: ข้อความแอป Microsoft ๓๖๕-ไม่พบสิทธิ์การใช้งาน Office ที่เชื่อมโยง
+title: ข้อความแอป Microsoft 365 - ไม่พบสิทธิ์การใช้งาน Office ที่เชื่อมโยง
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,37 +12,37 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001426"
 - "3421"
-ms.openlocfilehash: 9b997523e17f1130ada52006b5709a012a5c6376
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 29ea9db530dd4914ffd86655eeae5508b73ccb7e
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47802796"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51836226"
 ---
-# <a name="microsoft-365-apps-message---couldnt-find-office-licenses-associated"></a>ข้อความแอป Microsoft ๓๖๕-ไม่พบสิทธิ์การใช้งาน Office ที่เชื่อมโยง
+# <a name="microsoft-365-apps-message---couldnt-find-office-licenses-associated"></a>ข้อความแอป Microsoft 365 - ไม่พบสิทธิ์การใช้งาน Office ที่เชื่อมโยง
 
-เมื่อต้องการแก้ไขข้อผิดพลาดนี้ให้ลองทำดังต่อไปนี้:
+เมื่อต้องการแก้ไขข้อผิดพลาดนี้ ให้ลองวิธีต่อไปนี้:
 
-- เอาออกและมอบหมายสิทธิ์การใช้ [งาน Office](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users) ใหม่สำหรับผู้ใช้ที่ได้รับผลกระทบ
+- Remove and [reassign Office license](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users) for the affected user.
 
-- เปิดแอป Office และ [ลงชื่อออก](https://support.office.com/article/sign-out-of-office-5a20dc11-47e9-4b6f-945d-478cb6d92071) จากบัญชีผู้ใช้ใดๆที่มีอยู่
+- เปิดแอป Office [และ ลงชื่อ](https://support.office.com/article/sign-out-of-office-5a20dc11-47e9-4b6f-945d-478cb6d92071) ออกจากบัญชีผู้ใช้ที่มีอยู่
 
-- ไปที่ **การตั้งค่า Windows > บัญชีผู้ใช้ > อีเม & บัญชี** ผู้ใช้และเอาบัญชีที่ทำงานที่มีอยู่ออก
+- ไปที่ การตั้งค่า **Windows >บัญชี>อีเมล&บัญชีและ** เอาบัญชีที่งานที่มีอยู่ออก
 
-- ไปที่ **การตั้งค่า Windows > บัญชีผู้ใช้ > เข้าถึงที่ทำงานหรือโรงเรียน** และยกเลิกการเชื่อมต่อบัญชีผู้ใช้ที่มีอยู่
+- ไปที่การตั้งค่า **Windows >บัญชี > Access ของที่โรงเรียน** และยกเลิกการเชื่อมต่อบัญชีที่มีอยู่
 
-- คลิ **+** กไอคอนเพื่อเพิ่มหรือเชื่อมต่อบัญชีผู้ใช้ของคุณ ใส่ข้อมูลประจำตัวของคุณและรอให้กระบวนการเสร็จสมบูรณ์
+- คลิก **+** ไอคอนเพื่อเพิ่มหรือเชื่อมต่อบัญชีผู้ใช้ของคุณ ใส่ข้อมูลรับรองของคุณ และรอให้กระบวนการเสร็จสมบูรณ์
 
-- เปิดใช้แอป Office และลงชื่อเข้าใช้อีกครั้งถ้าจำเป็น
+- เปิดใช้แอป Office แล้วลงชื่อเข้าใช้อีกครั้งถ้าต้องการ
 
-ถ้าปัญหายังคงมีอยู่ให้ลองทำตามขั้นตอนต่อไปนี้:
+ถ้าปัญหายังคงอยู่ ให้ลองปฏิบัติตามขั้นตอนต่อไปนี้:
 
-- ตั้งค่าสถานะการเปิดใช้งาน Office ใหม่ ให้ดูที่[ตั้งค่าแอป Microsoft ๓๖๕สำหรับสถานะการเปิดใช้งานขององค์กร](https://docs.microsoft.com/office365/troubleshoot/activation/reset-office-365-proplus-activation-state)
+- รีเซ็ตสถานะการเปิดใช้งาน Office ดู [รีเซ็ตแอป Microsoft 365 สถานะการเปิดใช้งานระดับ](https://docs.microsoft.com/office365/troubleshoot/activation/reset-office-365-proplus-activation-state)องค์กร
 
-- ตรวจสอบไฟร์วอลล์ซอฟต์แวร์ป้องกันไวรัสและการตั้งค่าพร็อกซีของคุณเพื่อยืนยันว่าพวกเขาไม่ได้บล็อกการเข้าถึงแอป Microsoft ๓๖๕ไปยังอินเทอร์เน็ต 
+- ตรวจสอบไฟร์วอลล์ ซอฟต์แวร์ป้องกันไวรัส และการตั้งค่าพร็อกซีของคุณเพื่อยืนยันว่าไม่ได้บล็อกไม่ให้แอป Microsoft 365 เข้าถึงอินเทอร์เน็ต 
 
-สำหรับโซลูชันการแก้ไขปัญหาเพิ่มเติมให้ดูที่:
+ดูวิธีแก้ไขปัญหาเพิ่มเติมที่:
 
-[ข้อผิดพลาดในการเปิดใช้งานผลิตภัณฑ์และการเปิดใช้งานใน Office](https://support.office.com/Article/0d23d3c0-c19c-4b2f-9845-5344fedc4380?wt.mc_id=Alchemy_ClientDIA)
+[ข้อผิดพลาดผลิตภัณฑ์ที่ไม่มีใบอนุญาตและการเปิดใช้งานใน Office](https://support.office.com/Article/0d23d3c0-c19c-4b2f-9845-5344fedc4380?wt.mc_id=Alchemy_ClientDIA)
 
-[Url และช่วงที่อยู่ IP ของ Microsoft ๓๖๕](https://docs.microsoft.com/office365/enterprise/urls-and-ip-address-ranges)
+[URL และช่วงที่อยู่ IP ของ Microsoft 365](https://docs.microsoft.com/office365/enterprise/urls-and-ip-address-ranges)

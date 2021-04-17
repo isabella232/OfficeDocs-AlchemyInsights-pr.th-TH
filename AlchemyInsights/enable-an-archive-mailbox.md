@@ -2,7 +2,8 @@
 title: เปิดใช้งานกล่องจดหมายเก็บถาวร
 ms.author: markjjo
 author: markjjo
-ms.audience: ITPro
+manager: laurawi
+audience: ITPro
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,49 +12,28 @@ ms.custom:
 - "307"
 - "3100008"
 ms.assetid: e1a5fab7-d3a5-4d4c-8ee2-0edf4ec9b76b
-ms.openlocfilehash: 3e20eaf8dec85454ce5a67e1b21292b2a33ebb1d
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: d0b7125cb25d739d553bf00054fb24c84eb4cae6
+ms.sourcegitcommit: 3e2a80d0db0111f203628e7232760b3e1e3a23a0
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47811725"
+ms.lasthandoff: 04/16/2021
+ms.locfileid: "51857899"
 ---
 # <a name="enable-an-archive-mailbox"></a>เปิดใช้งานกล่องจดหมายเก็บถาวร
 
-ถ้าคุณต้องการให้เราเรียกใช้การตรวจสอบโดยอัตโนมัติเพื่อให้แน่ใจว่าสามารถกำหนดค่ากล่องจดหมายเก็บถาวรได้ให้เลือกปุ่มย้อนกลับ <-ที่ด้านบนของหน้านี้แล้วใส่ที่อยู่อีเมลของบัญชีผู้ใช้นั้น
+เมื่อต้องการเปิดใช้งานการเก็บถาวรในศูนย์การปฏิบัติตามข้อบังคับ M365:
 
-เก็บถาวรกล่องจดหมายใน Microsoft ๓๖๕ (หรือที่เรียกว่าที่เก็บถาวร *แบบออนไลน์* หรือที่เก็บ *ถาวรในสถานที่*) ให้ผู้ใช้ที่มีที่เก็บอีเมลเพิ่มเติม ผู้ใช้สามารถย้ายหรือคัดลอกรายการไปยังกล่องจดหมายเก็บถาวรของพวกเขาและผู้ดูแลระบบสามารถสร้างนโยบายการเก็บถาวรที่ย้ายรายการไปยังกล่องจดหมายเก็บถาวรโดยอัตโนมัติ
-  
-ต่อไปนี้เป็นวิธีการสร้างกล่องจดหมายเก็บถาวร:
-  
-1. [https://protection.office.com](https://protection.office.com)ไปที่
+1. [https://compliance.microsoft.com](https://compliance.microsoft.com)ไปที่
+2. เลือก **การควบคุม** ข้อมูล
+3. จากนั้นคลิก **ตัวเลือก** เก็บถาวร
 
-2. ลงชื่อเข้าใช้ Microsoft ๓๖๕โดยใช้บัญชีผู้ดูแลระบบของคุณ
+หรือติดตาม [ลิงก์](https://sip.compliance.microsoft.com/informationgovernance?viewid=archive)นี้  
 
-3. ในบานหน้าต่างด้านซ้ายของศูนย์การปฏิบัติตามนโยบายด้านความปลอดภัย &amp; ให้เลือกที่เก็บถาวรของการ**กำกับดูแลข้อมูล** \> **Archive**
+For shared mailboxes:
 
-4. เลือกผู้ใช้ที่มีกล่องจดหมายเก็บถาวรที่คุณต้องการเปิดใช้งาน
-
-5. ในบานหน้าต่างรายละเอียดทางด้านขวาให้คลิก **เปิดใช้งาน** แล้วคลิก **ใช่** ในข้อความแจ้งเตือนเพื่อเปิดใช้งานกล่องจดหมายเก็บถาวร
-
-นอกจากนี้คุณยังสามารถเปิดใช้งานกล่องจดหมายเก็บถาวรได้โดยการเลือกผู้ใช้หลายคน (โดยใช้แป้น **Shift** หรือ **Ctrl** ) แล้วคลิก **เปิดใช้งาน** ในบานหน้าต่างรายละเอียด
-  
-### <a name="shared-mailboxes"></a>กล่องจดหมายที่แชร์
-
-เมื่อต้องการเปิดใช้งานการเก็บถาวรสำหรับกล่องจดหมายที่แชร์สิทธิ์การใช้งาน Exchange Online Plan 2 หรือสิทธิ์การใช้งาน Exchange Online Plan 1 ที่มีสิทธิ์การใช้งานการเก็บถาวร Exchange Online  
-
-เมื่อต้องการเปิดใช้งานการเก็บถาวรสำหรับกล่องจดหมายที่แชร์ให้ทำดังนี้
-
-1. ไปที่ [ศูนย์การจัดการ Exchange](https://outlook.office365.com/ecp) และลงชื่อเข้าใช้โดยใช้บัญชีผู้ดูแลระบบของคุณ
-
-2. ไปที่**ผู้รับ**ที่  >  **แชร์**
-
+1. ไปที่ศูนย์ [การจัดการ Exchange](https://outlook.office365.com/ecp) และลงชื่อเข้าใช้โดยใช้บัญชีผู้ดูแลระบบของคุณ
+2. ไปที่ **ผู้รับ**  >  **ที่** แชร์
 3. เลือกกล่องจดหมายที่แชร์
+4. ในบานหน้าต่างรายละเอียดทางด้านขวา ภายใต้ ที่เก็บถาวร **ในสถานที่****ให้คลิก** เปิดใช้งาน แล้วคลิก ใช่ **เพื่อ** เปิดใช้งานกล่องจดหมายเก็บถาวร
 
-4. ในบานหน้าต่างรายละเอียดทางด้านขวาภายใต้ที่ **เก็บถาวรในสถานที่**ให้คลิก **เปิดใช้งาน**แล้วคลิก **ใช่** เพื่อเปิดใช้งานกล่องจดหมายเก็บถาวร
-
-สำหรับข้อมูลเพิ่มเติม ให้ดูที่
-  
-- [เปิดใช้งานกล่องจดหมายเก็บถาวร](https://docs.microsoft.com/microsoft-365/compliance/enable-archive-mailboxes)
-
-- [ตั้งค่านโยบายการเก็บถาวรและการลบ](https://docs.microsoft.com//office365/securitycompliance/set-up-an-archive-and-deletion-policy-for-mailboxes)
+For more information on moving message to the Archive mailbox, see [Set up an archive and deletion policy](https://docs.microsoft.com//office365/securitycompliance/set-up-an-archive-and-deletion-policy-for-mailboxes).

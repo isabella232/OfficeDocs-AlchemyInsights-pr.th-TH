@@ -1,8 +1,8 @@
 ---
-title: เจ้าของไม่สามารถสร้างโฟลเดอร์ย่อยโดยใช้ Outlook
+title: เจ้าของไม่สามารถสร้างโฟลเดอร์ย่อยโดยใช้ Outlook ได้
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
@@ -13,21 +13,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "5884"
 - "3500007"
-ms.openlocfilehash: 9590f780cffeaf644733752c763e04d748b1b39e
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: b2ab7b60bc521fd28d68333bb963528f7b9e05f2
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47665737"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51836154"
 ---
-# <a name="owner-cannot-create-sub-folder-using-outlook"></a>เจ้าของไม่สามารถสร้างโฟลเดอร์ย่อยโดยใช้ Outlook
+# <a name="owner-cannot-create-sub-folder-using-outlook"></a>เจ้าของไม่สามารถสร้างโฟลเดอร์ย่อยโดยใช้ Outlook ได้
 
-**มีปัญหาที่เกิดขึ้นอย่างต่อเนื่องกับเจ้าของโฟลเดอร์สาธารณะการสร้างโฟลเดอร์ย่อยโดยใช้ Outlook ปัญหานี้จะได้รับการแก้ไขในเร็วๆนี้**
+**มีปัญหาที่เจ้าของโฟลเดอร์สาธารณะสร้างโฟลเดอร์ย่อยโดยใช้ Outlook อย่างต่อเนื่อง ปัญหานี้จะได้รับการแก้ไขในเร็วๆ นี้**
 
-ในขณะเดียวกันให้ใช้หนึ่งในวิธีการแก้ไขปัญหาต่อไปนี้:
+ขณะเดียวกัน ให้ใช้วิธีแก้ไขปัญหาชั่วคราวข้อใดข้อหนึ่งต่อไปนี้
 
-1. ใช้ Outlook for MAC เพื่อสร้างโฟลเดอร์ย่อยเป็นปัญหาที่มีผลต่อ Outlook สำหรับเดสก์ท็อป windows (ทุกเวอร์ชัน)
-2. มีผู้ดูแลระบบสร้างโฟลเดอร์ย่อยโดยใช้ Shell หรือ EAC
-3. เปลี่ยน DefaultPublicFolderMailbox/EffectivePublicFolderMailbox บนผู้ใช้ไปยังกล่องจดหมายอื่นที่ไม่ใช่กล่องจดหมายเนื้อหาสำหรับโฟลเดอร์ที่ทำให้เกิดปัญหา  
-    - *ตั้งค่ากล่องจดหมาย User1 DefaultPublicFolderMailbox PubMBX3*
-4. รอสักครู่ให้เริ่มไคลเอ็นต์ outlook ใหม่
+1. ใช้ Outlook for MAC เพื่อสร้างโฟลเดอร์ย่อยเนื่องจากปัญหาส่งผลกระทบต่อ Outlook for Windows บนเดสก์ท็อปเท่านั้น (ทุกเวอร์ชัน)
+2. ให้ผู้ดูแลระบบสร้างโฟลเดอร์ย่อยโดยใช้ EXO Shell หรือ EAC
+3. เปลี่ยน DefaultPublicFolderMailbox/EffectivePublicFolderMailbox บนผู้ใช้เป็นกล่องจดหมายอื่นนอกเหนือจากกล่องจดหมายเนื้อหาของโฟลเดอร์ที่ทําให้เกิดปัญหา  
+    - *Set-Mailbox User1 DefaultPublicFolderMailbox PubMBX3*
+4. รอหนึ่งชั่วโมง รีสตาร์ตไคลเอ็นต์ Outlook
