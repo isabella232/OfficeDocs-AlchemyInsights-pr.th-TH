@@ -1,8 +1,8 @@
 ---
-title: การทดลองใช้ Office ๓๖๕ใหม่ของ E1
+title: Office 365 E1 รุ่นทดลองใช้ใหม่
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,13 +12,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001710"
 - "3789"
-ms.openlocfilehash: dfde60184374c3031a645f1193ea164f246bed92
-ms.sourcegitcommit: 35e2c122d8a838d98d1f0851c29b16282261580f
+ms.openlocfilehash: fc2f20488e55f73ed2437220d3fd56ff64848450
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 11/17/2020
-ms.locfileid: "49086103"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51825210"
 ---
-# <a name="new-office-365-e1-trial"></a><span data-ttu-id="95b36-102">การทดลองใช้ Office ๓๖๕ใหม่ของ E1</span><span class="sxs-lookup"><span data-stu-id="95b36-102">New Office 365 E1 Trial</span></span>
+# <a name="new-office-365-e1-trial"></a><span data-ttu-id="fd1e1-102">Office 365 E1 รุ่นทดลองใช้ใหม่</span><span class="sxs-lookup"><span data-stu-id="fd1e1-102">New Office 365 E1 Trial</span></span>
 
-<span data-ttu-id="95b36-103">ณวันที่1กรกฎาคม๒๐๒๐สิทธิ์การใช้งาน Office ๓๖๕เวอร์ชันทดลองใช้ของ Office ไม่พร้อมใช้งานอีกต่อไป</span><span class="sxs-lookup"><span data-stu-id="95b36-103">As of July 1, 2020, the Office 365 E1 Trial license is no longer available.</span></span> <span data-ttu-id="95b36-104">ถ้าคุณจำเป็นต้องมีสิทธิ์การใช้งานผู้ใช้สำหรับทีม Microsoft ให้อ่าน [คำอธิบายบริการของทีม microsoft](https://docs.microsoft.com/office365/servicedescriptions/teams-service-description) สำหรับรายการของการสมัครใช้งานที่มีการชำระเงินที่มีทีม</span><span class="sxs-lookup"><span data-stu-id="95b36-104">If you need to license users for Microsoft Teams, read the [Microsoft Teams service description](https://docs.microsoft.com/office365/servicedescriptions/teams-service-description) for a list of paid subscriptions that include Teams.</span></span> <span data-ttu-id="95b36-105">อีกทางหนึ่งคือองค์กรที่มีสิทธิ์สามารถใช้งาน [เวอร์ชันฟรีของทีม](https://support.office.com/article/Welcome-to-Microsoft-Teams-free-6d79a648-6913-4696-9237-ed13de64ae3c)หรือพนักงานสามารถเปิดใช้งาน [ทีมสำรวจ](https://docs.microsoft.com/MicrosoftTeams/teams-exploratory) ประสบการณ์การใช้งานได้</span><span class="sxs-lookup"><span data-stu-id="95b36-105">Alternatively, eligible organizations can use the [Free version of Teams](https://support.office.com/article/Welcome-to-Microsoft-Teams-free-6d79a648-6913-4696-9237-ed13de64ae3c), or employees can activate the [Teams Exploratory](https://docs.microsoft.com/MicrosoftTeams/teams-exploratory) experience.</span></span>
+<span data-ttu-id="fd1e1-103">ตั้งแต่วันที่ 1 กรกฎาคม 2020 สิทธิ์การใช้งาน Office 365 E1 เวอร์ชันทดลองใช้จะไม่สามารถใช้งานได้อีกต่อไป</span><span class="sxs-lookup"><span data-stu-id="fd1e1-103">As of July 1, 2020, the Office 365 E1 Trial license is no longer available.</span></span> <span data-ttu-id="fd1e1-104">หากคุณต้องการให้สิทธิ์การใช้งานแก่ผู้ใช้ Microsoft Teams โปรดอ่านรายละเอียดบริการ [Microsoft Teams](https://docs.microsoft.com/office365/servicedescriptions/teams-service-description) เพื่อดูรายการการสมัครใช้งานแบบชําระเงินซึ่งรวมถึง Teams</span><span class="sxs-lookup"><span data-stu-id="fd1e1-104">If you need to license users for Microsoft Teams, read the [Microsoft Teams service description](https://docs.microsoft.com/office365/servicedescriptions/teams-service-description) for a list of paid subscriptions that include Teams.</span></span> <span data-ttu-id="fd1e1-105">หรือองค์กรที่มีสิทธิ์สามารถใช้ Teams เวอร์ชัน[ฟรี หรือพนักงาน](https://support.office.com/article/Welcome-to-Microsoft-Teams-free-6d79a648-6913-4696-9237-ed13de64ae3c)สามารถเปิดใช้งานประสบการณ์การใช้งาน Teams [Exploratory](https://docs.microsoft.com/MicrosoftTeams/teams-exploratory)</span><span class="sxs-lookup"><span data-stu-id="fd1e1-105">Alternatively, eligible organizations can use the [Free version of Teams](https://support.office.com/article/Welcome-to-Microsoft-Teams-free-6d79a648-6913-4696-9237-ed13de64ae3c), or employees can activate the [Teams Exploratory](https://docs.microsoft.com/MicrosoftTeams/teams-exploratory) experience.</span></span>

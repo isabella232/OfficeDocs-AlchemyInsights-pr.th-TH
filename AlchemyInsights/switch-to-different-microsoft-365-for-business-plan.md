@@ -1,8 +1,8 @@
 ---
-title: สลับไปยังแผน Microsoft ๓๖๕สำหรับธุรกิจอื่น
+title: สลับเป็นแผนอื่นของ Microsoft 365 for business
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -18,19 +18,19 @@ ms.custom:
 - "5160"
 - "9002663"
 - "5168"
-ms.openlocfilehash: 605e4cd00287178455877c8652af2034147e1ade
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 830a719d3851f4d0c293ec86dff1b412b50b2692
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47700510"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51824850"
 ---
-# <a name="switch-to-a-different-microsoft-365-for-business-plan"></a><span data-ttu-id="50c90-102">สลับไปยังแผน Microsoft ๓๖๕สำหรับธุรกิจอื่น</span><span class="sxs-lookup"><span data-stu-id="50c90-102">Switch to a different Microsoft 365 for business plan</span></span>
+# <a name="switch-to-a-different-microsoft-365-for-business-plan"></a><span data-ttu-id="5f9a0-102">สลับเป็นแผนอื่นของ Microsoft 365 for business</span><span class="sxs-lookup"><span data-stu-id="5f9a0-102">Switch to a different Microsoft 365 for business plan</span></span>
 
-<span data-ttu-id="50c90-103">การสลับแผนสามารถดำเนินการให้เสร็จสมบูรณ์ได้ในศูนย์การจัดการ Microsoft ๓๖๕</span><span class="sxs-lookup"><span data-stu-id="50c90-103">Switching plans can be completed in the Microsoft 365 Admin Center.</span></span>
+<span data-ttu-id="5f9a0-103">การสลับแผนสามารถเสร็จสมบูรณ์ในศูนย์การจัดการ Microsoft 365</span><span class="sxs-lookup"><span data-stu-id="5f9a0-103">Switching plans can be completed in the Microsoft 365 Admin Center.</span></span>
 
-- <span data-ttu-id="50c90-104">[สลับแผนด้วยตนเอง](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/switch-plans-manually) โดยการซื้อการสมัครใช้งานใหม่การกำหนดสิทธิ์การใช้งานใหม่และการยกเลิกแผนอื่น (ถ้าจำเป็น)</span><span class="sxs-lookup"><span data-stu-id="50c90-104">[Switch plans manually](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/switch-plans-manually) by purchasing the new subscription, re-assigning licenses, and cancelling the other plan (if needed).</span></span>
+- <span data-ttu-id="5f9a0-104">[สลับแผน](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/switch-plans-manually) ด้วยตนเองโดยการซื้อการสมัครใช้งานใหม่ การกําหนดสิทธิ์การใช้งานใหม่ และการยกเลิกแผนอื่น (ถ้าต้องใช้)</span><span class="sxs-lookup"><span data-stu-id="5f9a0-104">[Switch plans manually](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/switch-plans-manually) by purchasing the new subscription, re-assigning licenses, and cancelling the other plan (if needed).</span></span>
 
-- <span data-ttu-id="50c90-105">ในบางสถานการณ์ [ปุ่มสลับแผน](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/switch-to-a-different-plan#use-the-switch-plans-button) จะพร้อมใช้งานเพื่อนำคุณผ่านขั้นตอนในการสลับแผน</span><span class="sxs-lookup"><span data-stu-id="50c90-105">In some situations the [Switch Plans button](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/switch-to-a-different-plan#use-the-switch-plans-button) is available to lead you through the process of switching plans.</span></span>
+- <span data-ttu-id="5f9a0-105">In some situations the [Switch Plans button](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/switch-to-a-different-plan#use-the-switch-plans-button) is available to lead you through the process of switching plans.</span><span class="sxs-lookup"><span data-stu-id="5f9a0-105">In some situations the [Switch Plans button](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/switch-to-a-different-plan#use-the-switch-plans-button) is available to lead you through the process of switching plans.</span></span>
 
-<span data-ttu-id="50c90-106">สำหรับข้อมูลเพิ่มเติมให้ดูที่สลับไปยังแผนอื่นของ[Microsoft ๓๖๕สำหรับธุรกิจ](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/switch-to-a-different-plan)</span><span class="sxs-lookup"><span data-stu-id="50c90-106">For more info, see Switch to a different [Microsoft 365 for business plan](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/switch-to-a-different-plan).</span></span>
+<span data-ttu-id="5f9a0-106">ดูข้อมูลเพิ่มเติมได้ที่ สลับเป็นแผนอื่นของ[Microsoft 365 for business](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/switch-to-a-different-plan)</span><span class="sxs-lookup"><span data-stu-id="5f9a0-106">For more info, see Switch to a different [Microsoft 365 for business plan](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/switch-to-a-different-plan).</span></span>
