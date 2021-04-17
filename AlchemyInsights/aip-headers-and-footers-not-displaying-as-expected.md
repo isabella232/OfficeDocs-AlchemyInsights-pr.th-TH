@@ -2,7 +2,7 @@
 title: 'AIP: หัวกระดาษและท้ายกระดาษไม่แสดงตามที่คาดไว้'
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,34 +12,34 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002266"
 - "4541"
-ms.openlocfilehash: 811a48587272776c8ece5e654a921c15cf52af5f
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 5f50fc1d38618017bca61b4e9290d9893983534e
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47696567"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51821718"
 ---
 # <a name="aip-headers-and-footers-not-displaying-as-expected"></a>AIP: หัวกระดาษและท้ายกระดาษไม่แสดงตามที่คาดไว้
 
-ถ้าคุณพบปัญหาเกี่ยวกับการทำเครื่องหมายการแสดงผลที่ไม่แสดงตามที่คาดไว้ให้ดูแนวทางต่อไปนี้:
+ถ้าคุณพบปัญหาเกี่ยวกับเครื่องหมายแบบเป็นภาพไม่แสดงตามที่คาดไว้ ให้ดูแนวทางต่อไปนี้
 
-1. ตรวจสอบให้แน่ใจว่าคุณได้รับการตรวจทาน[เมื่อมีการนำเครื่องหมายภาพไปใช้](https://docs.microsoft.com/azure/information-protection/configure-policy-markings#when-visual-markings-are-applied)
-2. สำหรับการติดป้าย Office ให้ตรวจทาน[เมื่อ office ๓๖๕ใช้การทำเครื่องหมายเนื้อหาและการเข้ารหัสลับ](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels-office-apps#when-office-apps-apply-content-marking-and-encryption)
-3. ถ้าคุณต้องการเอาส่วนหัว/ส่วนท้ายที่มีอยู่ออกให้รีวิว[เอาหัวกระดาษและท้ายกระดาษออกจากโซลูชันการติดฉลากอื่นๆ](https://docs.microsoft.com/azure/information-protection/rms-client/client-admin-guide-customizations#remove-headers-and-footers-from-other-labeling-solutions)
+1. ตรวจสอบให้แน่ใจว่าคุณได้ตรวจทานแล้ว [เมื่อมีการใช้เครื่องหมายแบบ](https://docs.microsoft.com/azure/information-protection/configure-policy-markings#when-visual-markings-are-applied)เป็นภาพ
+2. For Office labeling, review [When Office 365 applies content marking and encryption](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels-office-apps#when-office-apps-apply-content-marking-and-encryption).
+3. ถ้าคุณต้องการเอาหัวกระดาษ/ท้ายกระดาษที่มีอยู่ออก ให้ตรวจทาน [เอาหัวกระดาษและท้ายกระดาษออกจากโซลูชันการติดป้ายชื่อ](https://docs.microsoft.com/azure/information-protection/rms-client/client-admin-guide-customizations#remove-headers-and-footers-from-other-labeling-solutions)อื่นๆ
 
-ถ้าคุณยังคงพบปัญหาให้รวบรวมล็อกไคลเอ็นต์การป้องกันข้อมูลของ Azure และแนบไฟล์บันทึกที่ส่งออกไปยังตั๋วนี้
+ถ้าคุณยังคงพบปัญหานี้ ให้รวบรวมบันทึกของไคลเอ็นต์ Azure Information Protection และแนบบันทึกที่ส่งออกไปยังตั๋วนี้
 
-**ส่งออกแฟ้มบันทึกการป้องกันข้อมูล Azure**
+**ส่งออกบันทึก Azure Information Protection**
 
 1. เปิดเอกสาร Office หรือสร้างอีเมลใหม่ใน Outlook
-2. คลิกการ**ป้องกัน/ความไว**ต่อ  >  **วิธีใช้และคำติชม**
-3. คลิก**ส่งออกบันทึก**
-4. บันทึกไฟล์บันทึกไปยังตำแหน่งที่ตั้งของคุณและแนบเข้ากับคำขอบริการนี้
+2. คลิก **วิธีใช้และข้อคิดเห็นเกี่ยวกับการป้องกัน/** ระดับ  >  **ความลับ**
+3. คลิก **ส่งออก** แฟ้มบันทึก
+4. บันทึกแฟ้มบันทึกไปยังตัวเลือกของสถานที่และแนบไฟล์ไปกับการร้องขอบริการนี้
 
-สำหรับข้อมูลเพิ่มเติมให้ดูที่:
+โปรดดูข้อมูลเพิ่มเติมที่:
 
-- [วิธีการกำหนดค่าป้ายชื่อสำหรับเครื่องหมายภาพสำหรับการป้องกันข้อมูล Azure](https://docs.microsoft.com/azure/information-protection/configure-policy-markings)
-- [ตรวจทานเอกสารประกอบการป้องกันข้อมูลของ Azure](https://docs.microsoft.com/azure/information-protection/what-is-information-protection)
-- [ข้อกำหนดสำหรับการป้องกันข้อมูล Azure](https://docs.microsoft.com/azure/information-protection/get-started/requirements)
-- [บทช่วยสอนเริ่มต้นใช้งานด่วนสำหรับการป้องกันข้อมูล Azure](https://docs.microsoft.com/azure/information-protection/get-started/infoprotect-quick-start-tutorial)
-- [ดาวน์โหลดไคลเอ็นต์การป้องกันข้อมูล Azure](https://www.microsoft.com/download/details.aspx?id=53018)
+- [วิธีการกําหนดค่าป้ายชื่อเพื่อเครื่องหมายแบบเป็นภาพเพื่อ Azure Information Protection](https://docs.microsoft.com/azure/information-protection/configure-policy-markings)
+- [ตรวจทานเอกสาร Azure Information Protection](https://docs.microsoft.com/azure/information-protection/what-is-information-protection)
+- [ความต้องการของ Azure Information Protection](https://docs.microsoft.com/azure/information-protection/get-started/requirements)
+- [บทช่วยสอนเริ่มต้นใช้งานด่วนของ Azure Information Protection](https://docs.microsoft.com/azure/information-protection/get-started/infoprotect-quick-start-tutorial)
+- [ดาวน์โหลดไคลเอ็นต์ Azure Information Protection](https://www.microsoft.com/download/details.aspx?id=53018)

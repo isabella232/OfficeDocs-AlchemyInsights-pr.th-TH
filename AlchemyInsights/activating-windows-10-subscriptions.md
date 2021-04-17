@@ -2,7 +2,7 @@
 title: การเปิดใช้งานการสมัครใช้งาน Windows 10
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,13 +12,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002307"
 - "4480"
-ms.openlocfilehash: 6259b1a7a87e62ca3ce7b3bf4d26fe7832fb99d6
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 87bf872bd35a0e7cf67bb1fd3795d578b63adbe2
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47697936"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51822978"
 ---
 # <a name="activating-windows-10-subscriptions"></a>การเปิดใช้งานการสมัครใช้งาน Windows 10
 
-Microsoft ๓๖๕ Business การศึกษาและองค์กรให้สิทธิ์การใช้งานแบบดิจิทัลสำหรับ Windows 10 เป็นส่วนหนึ่งของการสมัครใช้งาน เมื่อต้องการเปิดใช้งานการสมัครใช้งานอุปกรณ์ของคุณจะต้องเปิดใช้งาน Windows 10 Pro แล้ว (๑๗๐๓หรือเวอร์ชันที่ใหม่กว่า) สำหรับรายการทั้งหมดของความต้องการในการเปิดใช้งานการสมัครใช้งาน Windows 10 ให้ดูที่[ข้อกำหนดในการเปิดใช้งานการสมัครใช้งาน windows 10](https://docs.microsoft.com/windows/deployment/windows-10-subscription-activation#requirements)
+Microsoft 365 Business, Education และ Enterprise มีใบอนุญาตใช้งานดิจิทัลของ Windows 10 เป็นส่วนหนึ่งของการสมัครใช้งาน เมื่อต้องการเปิดใช้งานการสมัครใช้งาน อุปกรณ์ของคุณต้องเปิดใช้งาน Windows 10 Pro (1703 หรือใหม่กว่า) For a full list of requirements for activating a Windows 10 subscription, see [Windows 10 Subscription Activation Requirements](https://docs.microsoft.com/windows/deployment/windows-10-subscription-activation#requirements).

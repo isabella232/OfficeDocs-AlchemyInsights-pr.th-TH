@@ -1,8 +1,8 @@
 ---
-title: วิธีใช้ add-in
+title: วิธีใช้ Add-in
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000776"
 - "2717"
-ms.openlocfilehash: abb12a533ba3c5d610ef27c713c32fa46d75e78f
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: e459ef90a1d08d5f3b4e742b4a31104147733d7b
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47688173"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51822510"
 ---
-# <a name="add-in-help"></a>วิธีใช้ add-in
+# <a name="add-in-help"></a>วิธีใช้ Add-in
 
-- ถ้าคุณกำลังมีปัญหากับ add-in ที่เฉพาะเจาะจงให้ลองเอาออกหรือปิดใช้งานการเพิ่มแอปแล้วเพิ่มใหม่อีกครั้ง สำหรับความช่วยเหลือเกี่ยวกับการเพิ่มหรือการเอา add-in ออกใน Excel ให้ดูที่[เพิ่มหรือเอา add-in ออกใน excel](https://support.office.com/client/0af570c4-5cf3-4fa9-9b88-403625a0b460)
+- ถ้าคุณมีปัญหากับ Add-in เฉพาะ ให้ลองเอา Add-in ออกหรือปิดใช้งานการเพิ่ม แล้วเพิ่ม Add-in อีกครั้ง หากต้องการความช่วยเหลือเกี่ยวกับการเพิ่มหรือการเอา Add-in ใน Excel[ออก ให้ดู เพิ่มหรือเอา Add-in ออกใน Excel](https://support.office.com/client/0af570c4-5cf3-4fa9-9b88-403625a0b460)
 
-- สำหรับความช่วยเหลือในการปรับใช้ add-in ในศูนย์การจัดการ Microsoft ๓๖๕ให้ดูที่[จัดการการปรับใช้ add-in ของ Office ๓๖๕ในศูนย์การจัดการ microsoft ๓๖๕](https://docs.microsoft.com/microsoft-365/admin/manage/manage-deployment-of-add-ins)
+- For help deploying add-ins in the Microsoft 365 admin center, see [Manage deployment of Office 365 add-ins in the Microsoft 365 admin center](https://docs.microsoft.com/microsoft-365/admin/manage/manage-deployment-of-add-ins).

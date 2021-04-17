@@ -1,8 +1,8 @@
 ---
-title: เพิ่มรหัสผ่านลงในเอกสารของคุณ
+title: เพิ่มรหัสผ่านให้กับเอกสารของคุณ
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001454"
 - "3464"
-ms.openlocfilehash: 439b18c025d4ef8defccece24557493fce4af8cd
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 171c1716012240bd79f77148086adfee2d324667
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47688533"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51822726"
 ---
-# <a name="add-a-password-to-a-word-document"></a>เพิ่มรหัสผ่านลงในเอกสาร Word
+# <a name="add-a-password-to-a-word-document"></a>เพิ่มรหัสผ่านให้กับเอกสาร Word
 
-1. ไปที่**File**  >  **ข้อมูล**ไฟล์  >  **ป้องกัน**การ  >  **เข้ารหัสลับเอกสารด้วยรหัสผ่าน**
-2. ใส่รหัสผ่านที่คุณต้องการใช้แล้วเลือก**ตกลง**
-3. ใส่รหัสผ่านอีกครั้งแล้วเลือก**ตกลง**
+1. ไปที่ **ข้อมูล**  >  **ไฟล์**  >  **ป้องกันการเข้ารหัสลับ**  >  **เอกสารด้วย** รหัสผ่าน
+2. ใส่รหัสผ่านที่คุณต้องการใช้ **แล้วเลือก** ตกลง
+3. ใส่รหัสผ่านอีกครั้ง **แล้วเลือก** ตกลง

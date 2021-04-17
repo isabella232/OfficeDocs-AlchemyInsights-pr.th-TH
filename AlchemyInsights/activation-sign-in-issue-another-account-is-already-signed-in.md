@@ -1,8 +1,8 @@
 ---
-title: การเปิดใช้งาน/ปัญหาในการลงชื่อเข้าใช้-บัญชีผู้ใช้อื่นถูกลงชื่อเข้าใช้แล้ว
+title: ปัญหาการเปิดใช้งาน/การลงชื่อเข้าใช้ -บัญชีอื่นลงชื่อเข้าใช้อยู่แล้ว
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,24 +12,24 @@ ms.collection: Adm_O365
 ms.custom:
 - "3407"
 - "9001422"
-ms.openlocfilehash: 28cab94af5c3e57bce5a41d36c20a57ebfa825ec
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 76eef6f89cc1cb4c26e9022c7048d23937e5af59
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47697756"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51822942"
 ---
-# <a name="fixing-the-microsoft-365-apps-sorry-another-account-from-your-organization-is-already-signed-in-message"></a>การแก้ไขแอป Microsoft ๓๖๕ "ขออภัยบัญชีผู้ใช้อื่นจากองค์กรของคุณได้ลงชื่อเข้าใช้แล้ว" ข้อความ
+# <a name="fixing-the-microsoft-365-apps-sorry-another-account-from-your-organization-is-already-signed-in-message"></a>การแก้ไขข้อความ "ขออภัย บัญชีอื่นจากองค์กรของคุณลงชื่อเข้าใช้แล้ว" ของแอป Microsoft 365
 
-เมื่อต้องการแก้ไขข้อผิดพลาดนี้ให้ลองทำดังต่อไปนี้:
+เมื่อต้องการแก้ไขข้อผิดพลาดนี้ ให้ลองวิธีต่อไปนี้:
 
-1. เปิดแอป Office และ [ลงชื่อออก](https://support.office.com/article/5a20dc11-47e9-4b6f-945d-478cb6d92071) จากบัญชีผู้ใช้ใดๆที่มีอยู่   
-2. การใช้บัญชีผู้ใช้บัญชีผู้ใช้ Windows**การตั้งค่า**  >  **บัญชี**ผู้ใช้  >  **&** เอาบัญชีที่ทำงานทั้งหมดออกยกเว้นบัญชีที่ได้รับผลกระทบ 
-3. การใช้**การตั้งค่า**Windows Access account ที่  >  **Accounts**  >  **ทำงานหรือโรงเรียน**ยกเลิกการเชื่อมต่อบัญชีที่ทำงานทั้งหมดยกเว้นบัญชีที่ได้รับผลกระทบ 
-4. ตั้งค่าสถานะการเปิดใช้งาน Office ใหม่ [เรียนรู้วิธี](https://docs.microsoft.com/office365/troubleshoot/activation/reset-office-365-proplus-activation-state
-)การ
-5. [ลงชื่อเข้า](https://support.office.com/article/628ea040-f265-49de-b986-be09c3ebf8a9) ใช้โดยใช้บัญชีผู้ใช้ที่ได้รับผลกระทบ 
+1. เปิดแอป Office [แล้วลงชื่อ](https://support.office.com/article/5a20dc11-47e9-4b6f-945d-478cb6d92071) ออกจากบัญชีผู้ใช้ใดๆ ที่มีอยู่   
+2. ใช้ บัญชี **การตั้งค่า**  >  **Windows**  >  **&อีเมล** ลบบัญชีที่งานทั้งหมดยกเว้นบัญชีที่ได้รับผลกระทบออก 
+3. การใช้ บัญชี **การตั้งค่า**  >  **Windows**  >  **เข้าถึงบัญชีที่โรงเรียน** หรือที่โรงเรียน ยกเลิกการเชื่อมต่อบัญชีที่งานทั้งหมดยกเว้นบัญชีที่ได้รับผลกระทบ 
+4. รีเซ็ตสถานะการเปิดใช้งาน Office [เรียนรู้วิธีการ](https://docs.microsoft.com/office365/troubleshoot/activation/reset-office-365-proplus-activation-state
+)
+5. [ลงชื่อเข้าใช้](https://support.office.com/article/628ea040-f265-49de-b986-be09c3ebf8a9) ด้วยบัญชีผู้ใช้ที่ได้รับผลกระทบ 
 
-สำหรับข้อมูลเพิ่มเติมให้ดูที่["ขออภัยบัญชีผู้ใช้อื่นจากองค์กรของคุณได้ลงชื่อเข้าใช้บนคอมพิวเตอร์เครื่องนี้แล้ว" ใน Office ๒๐๑๓](https://docs.microsoft.com/office/troubleshoot/error-messages/another-account-already-signed-in)
+For more information, see ["Sorry, another account from your organization is already signed in on this computer" in Office 2013](https://docs.microsoft.com/office/troubleshoot/error-messages/another-account-already-signed-in).
 
-สำหรับ Mac ให้ดูที่ [ไม่สามารถลงชื่อเข้าใช้แอป Office ๒๐๑๖ For Mac](https://docs.microsoft.com/office365/troubleshoot/authentication/sign-in-to-office-2016-for-mac-fail)ได้
+For Mac, [see Can't sign in to an Office 2016 for Mac app](https://docs.microsoft.com/office365/troubleshoot/authentication/sign-in-to-office-2016-for-mac-fail).

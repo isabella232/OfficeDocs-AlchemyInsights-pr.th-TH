@@ -2,7 +2,7 @@
 title: เพิ่มคู่ค้าในการสมัครใช้งานของคุณ
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,21 +12,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001683"
 - "5066"
-ms.openlocfilehash: 3a876b70a739788768bfbabf7777d727f0a5e748
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 22f22016e266d0b99efe8fa225a19f689f4a71fc
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47688713"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51822762"
 ---
 # <a name="add-a-partner-to-your-subscription"></a>เพิ่มคู่ค้าในการสมัครใช้งานของคุณ
 
-คุณสามารถเพิ่มคู่ค้าได้ในขณะที่การซื้อการสมัครใช้งาน[ของคุณ](https://docs.microsoft.com/microsoft-365/admin/misc/add-partner?view=o365-worldwide#add-a-partner-at-the-time-of-purchase)หรือการสมัครใช้งาน[ที่มีอยู่](https://docs.microsoft.com/microsoft-365/admin/misc/add-partner?view=o365-worldwide#add-a-partner-to-an-existing-subscription)ใน**ศูนย์การจัดการ Microsoft ๓๖๕**
+สามารถเพิ่มคู่ค้าได้ [ในเวลาที่ซื้อการสมัครใช้งานหรือ](https://docs.microsoft.com/microsoft-365/admin/misc/add-partner?view=o365-worldwide#add-a-partner-at-the-time-of-purchase)การสมัครใช้งาน [ที่มีอยู่ใน](https://docs.microsoft.com/microsoft-365/admin/misc/add-partner?view=o365-worldwide#add-a-partner-to-an-existing-subscription)ศูนย์การจัดการ **Microsoft 365**
 
 **เพิ่มคู่ค้าไปยังการสมัครใช้งานที่มีอยู่**
 
-1. ในศูนย์การจัดการมีการ**เรียกเก็บเงิน >[ผลิตภัณฑ์ & บริการ](https://go.microsoft.com/fwlink/p/?linkid=842054)** 
-2. ถ้าคุณมีการสมัครใช้งานหลายรายการให้เลือกชื่อของการสมัครใช้งานที่คุณต้องการแก้ไข 
-3. บนหน้าการสมัครใช้งานให้เลือกแท็บ **คู่ค้า** แล้วพิมพ์ **ID เครือข่ายคู่ค้า** สำหรับคู่ค้าที่คุณกำลังเพิ่ม คุณสามารถรับ ID คู่ค้า Microsoft ของคู่ค้าได้โดยขอให้คู่ค้าของคุณทราบ 
+1. ในศูนย์การจัดการ ไปที่ การเรียกเก็บเงิน **>[บริการ&ของคุณ](https://go.microsoft.com/fwlink/p/?linkid=842054)** 
+2. ถ้าคุณมีการสมัครใช้งานหลายรายการ ให้เลือกชื่อของการสมัครใช้งานที่คุณต้องการแก้ไข 
+3. บนหน้าการสมัครใช้งาน ให้เลือกแท็บ **คู่ค้า** แล้วพิมพ์ **Id เครือข่าย** คู่ค้า ของคู่ค้าที่คุณเพิ่ม คุณสามารถขอรับ ID คู่ค้าของ Microsoft โดยสอบถามคู่ค้า 
 
-สำหรับข้อมูลเพิ่มเติมให้ดู [ที่เพิ่มเปลี่ยนแปลงหรือลบคู่ค้าที่ปรึกษาการสมัครใช้](https://docs.microsoft.com/microsoft-365/admin/misc/add-partner)งาน 
+For more info, see [Add, change, or delete a subscription advisor partner](https://docs.microsoft.com/microsoft-365/admin/misc/add-partner). 
