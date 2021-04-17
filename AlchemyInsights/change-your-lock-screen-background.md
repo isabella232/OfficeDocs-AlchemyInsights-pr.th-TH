@@ -1,8 +1,8 @@
 ---
-title: เปลี่ยนพื้นหลังหน้าจอเมื่อล็อกของคุณ
+title: เปลี่ยนพื้นหลังหน้าจอเมื่อล็อก
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,21 +12,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001667"
 - "3734"
-ms.openlocfilehash: 44e7d38655c7087f0b95a80488aef2de1fcb36c9
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 8c13ad21019ffa00067ea6be0af7f05210e264a8
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47714491"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51818127"
 ---
-# <a name="change-your-lock-screen-background"></a><span data-ttu-id="2f7da-102">เปลี่ยนพื้นหลังหน้าจอเมื่อล็อกของคุณ</span><span class="sxs-lookup"><span data-stu-id="2f7da-102">Change your lock screen background</span></span>
+# <a name="change-your-lock-screen-background"></a><span data-ttu-id="b28d6-102">เปลี่ยนพื้นหลังหน้าจอเมื่อล็อก</span><span class="sxs-lookup"><span data-stu-id="b28d6-102">Change your lock screen background</span></span>
 
-- <span data-ttu-id="2f7da-103">ไปที่หน้าจอ**การตั้งค่าการตั้งค่า**  >  **ส่วนบุคคล**  >  **Lock screen**</span><span class="sxs-lookup"><span data-stu-id="2f7da-103">Go to **Settings** > **Personalization** > **Lock screen**.</span></span> <span data-ttu-id="2f7da-104">หรือคลิกหรือแตะ[ที่นี่](ms-settings:lockscreen?activationSource=GetHelp)</span><span class="sxs-lookup"><span data-stu-id="2f7da-104">Or click or tap [here](ms-settings:lockscreen?activationSource=GetHelp).</span></span>
+- <span data-ttu-id="b28d6-103">ไปที่ **การตั้งค่า**  >  **ส่วนบุคคล**  >  **หน้าจอเมื่อ** ล็อก</span><span class="sxs-lookup"><span data-stu-id="b28d6-103">Go to **Settings** > **Personalization** > **Lock screen**.</span></span> <span data-ttu-id="b28d6-104">หรือคลิกหรือ [แตะ](ms-settings:lockscreen?activationSource=GetHelp)ที่นี่</span><span class="sxs-lookup"><span data-stu-id="b28d6-104">Or click or tap [here](ms-settings:lockscreen?activationSource=GetHelp).</span></span>
 
-- <span data-ttu-id="2f7da-105">เมื่อต้องการตั้งค่ารูปภาพพื้นหลังแบบกำหนดเองให้เลือก **รูปภาพ** จากรายการดรอปดาวน์ **พื้นหลัง** แล้วเลือกหรือ **เรียกดู** รูปภาพ</span><span class="sxs-lookup"><span data-stu-id="2f7da-105">To set a custom background picture, select **Picture** from the **Background** drop-down list, and choose or **Browse** to the picture.</span></span>
+- <span data-ttu-id="b28d6-105">เมื่อต้องการตั้งค่ารูปภาพพื้นหลังแบบ **ปรับแต่งเอง** ให้เลือก รูปภาพ **จากรายการ** ดรอปดาวน์ พื้นหลัง แล้วเลือก **หรือ** เรียกดูรูปภาพ</span><span class="sxs-lookup"><span data-stu-id="b28d6-105">To set a custom background picture, select **Picture** from the **Background** drop-down list, and choose or **Browse** to the picture.</span></span>
 
-  ![ตั้งค่ารูปภาพพื้นหลังแบบกำหนดเอง](media/set-custom-background-pic.png)
+  ![ตั้งค่ารูปภาพพื้นหลังแบบปรับแต่งเอง](media/set-custom-background-pic.png)
 
-- <span data-ttu-id="2f7da-107">เมื่อต้องการตั้งค่าการนำเสนอรูปภาพแบบกำหนดเองให้เลือกการนำ **เสนอสไลด์** จากรายการดรอปดาวน์ **พื้นหลัง** และเลือกอัลบั้มหรือเพิ่มโฟลเดอร์ที่มีรูปภาพสำหรับการนำเสนอสไลด์</span><span class="sxs-lookup"><span data-stu-id="2f7da-107">To set up a slideshow of custom pictures, select **Slideshow** from the **Background** drop-down list, and choose an album or add a folder that contains the pictures for the slideshow.</span></span>
+- <span data-ttu-id="b28d6-107">เมื่อต้องการตั้งค่าการสไลด์ของรูปภาพ **แบบปรับแต่งเอง** ให้เลือก การสไลด์ สไลด์ จากรายการดรอปดาวน์ พื้นหลัง แล้วเลือกอัลบั้มหรือเพิ่มโฟลเดอร์ที่มีรูปภาพของการสไลด์</span><span class="sxs-lookup"><span data-stu-id="b28d6-107">To set up a slideshow of custom pictures, select **Slideshow** from the **Background** drop-down list, and choose an album or add a folder that contains the pictures for the slideshow.</span></span>
 
-  ![ตั้งค่าการนำเสนอภาพนิ่งของรูปภาพแบบกำหนดเอง](media/set-up-slideshow-background.png)
+  ![ตั้งค่าการสไลด์ของรูปภาพแบบปรับแต่งเอง](media/set-up-slideshow-background.png)
