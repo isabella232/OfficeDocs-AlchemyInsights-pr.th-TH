@@ -1,8 +1,8 @@
 ---
-title: การเพิ่มการจองไปยัง Teams
+title: การเพิ่ม Bookings ลงใน Teams
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -14,15 +14,15 @@ ms.custom:
 - "5041"
 - "9002238"
 - "4344"
-ms.openlocfilehash: 527f90621fb8a15967259b58de673bf28025bd3c
-ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
+ms.openlocfilehash: ec9501bedc4eb2f06fc306215c6898d2bde29c4c
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 03/10/2021
-ms.locfileid: "50707289"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51822186"
 ---
-# <a name="adding-bookings-to-teams"></a><span data-ttu-id="13d47-102">การเพิ่มการจองไปยัง Teams</span><span class="sxs-lookup"><span data-stu-id="13d47-102">Adding Bookings to Teams</span></span>
+# <a name="adding-bookings-to-teams"></a><span data-ttu-id="cf671-102">การเพิ่ม Bookings ลงใน Teams</span><span class="sxs-lookup"><span data-stu-id="cf671-102">Adding Bookings to Teams</span></span>
 
-<span data-ttu-id="13d47-103">Microsoft Bookings เป็นแอปการจัดตารางการนัดหมายที่ช่วยให้คุณสามารถติดตามการจอง พนักงาน และลูกค้าของคุณ</span><span class="sxs-lookup"><span data-stu-id="13d47-103">Microsoft Bookings is an appointment scheduling app that helps you keep track of your bookings, your staff, and your customers.</span></span> <span data-ttu-id="13d47-104">ผู้ดูแลระบบสามารถเพิ่ม Bookings เป็นแอปลงในแถบแอป Microsoft Teams ของผู้ใช้ได้โดยการ[จัดการนโยบายการตั้งค่าแอปใน Microsoft Teams](https://docs.microsoft.com/microsoftteams/teams-app-setup-policies)</span><span class="sxs-lookup"><span data-stu-id="13d47-104">Admins can add Bookings as an app to the Microsoft Teams app bar of their users by [Managing app setup policies in Microsoft Teams](https://docs.microsoft.com/microsoftteams/teams-app-setup-policies).</span></span>
+<span data-ttu-id="cf671-103">Microsoft Bookings เป็นแอปการจัดตารางการนัดหมายที่ช่วยให้คุณติดตามการจอง พนักงานของคุณ และลูกค้าของคุณ</span><span class="sxs-lookup"><span data-stu-id="cf671-103">Microsoft Bookings is an appointment scheduling app that helps you keep track of your bookings, your staff, and your customers.</span></span> <span data-ttu-id="cf671-104">ผู้ดูแลระบบสามารถเพิ่ม Bookings เป็นแอปลงในแถบแอป Microsoft Teams ของผู้ใช้ได้โดย[การจัดการนโยบายการตั้งค่าแอปใน Microsoft Teams](https://docs.microsoft.com/microsoftteams/teams-app-setup-policies)</span><span class="sxs-lookup"><span data-stu-id="cf671-104">Admins can add Bookings as an app to the Microsoft Teams app bar of their users by [Managing app setup policies in Microsoft Teams](https://docs.microsoft.com/microsoftteams/teams-app-setup-policies).</span></span>
 
-<span data-ttu-id="13d47-105">ดูข้อมูลหรือการแก้ไขปัญหาในแอป Bookings[ได้บทความเกี่ยวกับ Bookings](https://docs.microsoft.com/microsoft-365/bookings/bookings-faq)</span><span class="sxs-lookup"><span data-stu-id="13d47-105">For information or troubleshooting in the Bookings app, see [Bookings articles](https://docs.microsoft.com/microsoft-365/bookings/bookings-faq).</span></span>
+<span data-ttu-id="cf671-105">For information or troubleshooting in the Bookings app, see [Bookings articles](https://docs.microsoft.com/microsoft-365/bookings/bookings-faq).</span><span class="sxs-lookup"><span data-stu-id="cf671-105">For information or troubleshooting in the Bookings app, see [Bookings articles](https://docs.microsoft.com/microsoft-365/bookings/bookings-faq).</span></span>
