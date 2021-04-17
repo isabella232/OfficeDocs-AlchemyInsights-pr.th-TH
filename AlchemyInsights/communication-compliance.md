@@ -1,8 +1,8 @@
 ---
-title: การปฏิบัติตามนโยบายการสื่อสาร
+title: การปฏิบัติตามข้อบังคับด้านการสื่อสาร
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,36 +12,36 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000549"
 - "3208"
-ms.openlocfilehash: a002ca92a0ef8bf124ea66267392b30c35ebf95b
-ms.sourcegitcommit: 5e4c60a3f0eb51f4794b40c7a8802f3ad70c56b7
+ms.openlocfilehash: fe834e12f35550cef669c5a60a2f3e460648dbd0
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 01/15/2021
-ms.locfileid: "49875158"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51817515"
 ---
-# <a name="communication-compliance-in-microsoft-365"></a>การปฏิบัติตามข้อบังคับด้านการติดต่อสื่อสารใน Microsoft ๓๖๕
+# <a name="communication-compliance-in-microsoft-365"></a>การปฏิบัติตามข้อบังคับด้านการสื่อสารใน Microsoft 365
 
-การปฏิบัติตามนโยบายการสื่อสารเป็นโซลูชันการปฏิบัติตามนโยบาย Microsoft ๓๖๕ใหม่ที่ช่วยให้องค์กรตรงตามข้อกำหนดด้านการปฏิบัติตามกฎระเบียบและลดความเสี่ยงในการติดต่อสื่อสาร ขึ้นอยู่กับฟีเจอร์การควบคุมและมีการปรับปรุงใหม่รวมถึง:
+การปฏิบัติตามข้อบังคับด้านการสื่อสารเป็นโซลูชันการปฏิบัติตามข้อบังคับแบบใหม่ของ Microsoft 365 ที่ช่วยให้องค์กรปฏิบัติตามข้อบังคับและลดความเสี่ยงในการสื่อสาร โดยยึดตามฟีเจอร์การดูแลและประกอบด้วยการปรับปรุงใหม่ รวมถึง:
 
-- เทมเพลตที่กำหนดเองได้แบบอัจฉริยะ
-- เวิร์กโฟลว์ที่มีความยืดหยุ่น
-- ข้อมูลเชิงลึกที่สามารถดำเนินการได้
+- เทมเพลตที่ปรับแต่งได้อัจฉริยะ
+- เวิร์กโฟลว์ในการแก้ไขที่ยืดหยุ่น
+- ข้อมูลเชิงลึกที่สามารถปฏิบัติได้
 
-ถ้าคุณใช้ [นโยบายการควบคุม](https://docs.microsoft.com/microsoft-365/compliance/supervision-policies)อยู่ในขณะนี้เราขอแนะนำให้คุณใช้การการติดต่อสื่อสารใหม่กับความต้องการด้านกฎระเบียบที่อยู่
+หากปัจจุบันคุณใช้นโยบาย [การควบคุม เราขอ](https://docs.microsoft.com/microsoft-365/compliance/supervision-policies)แนะนําให้คุณใช้การปฏิบัติตามข้อบังคับด้านการสื่อสารใหม่เพื่อแก้ไขปัญหาความต้องการตามกฎหมาย
 
-เมื่อต้องการตั้งค่าการปฏิบัติตามนโยบายการสื่อสารให้ดูที่[กำหนดค่าการปฏิบัติตามนโยบายการสื่อสาร](https://docs.microsoft.com/microsoft-365/compliance/communication-compliance-configure)
+เมื่อต้องการตั้งค่าการปฏิบัติตามข้อบังคับด้านการสื่อสาร [ให้ดู กําหนดค่าการปฏิบัติตาม](https://docs.microsoft.com/microsoft-365/compliance/communication-compliance-configure)นโยบายการสื่อสาร
 
-เมื่อต้องการตรวจสอบรีวิวและการปฏิบัติตามข้อบังคับด้านการติดต่อสื่อสาร remediate ให้ดูที่การ[ตรวจสอบการปฏิบัติตามนโยบายการติดต่อสื่อสาร remediate](https://docs.microsoft.com/microsoft-365/compliance/communication-compliance-investigate-remediate)
+เมื่อต้องการตรวจสอบ ตรวจสอบ และแก้ไขการปฏิบัติตามข้อบังคับด้านการสื่อสาร ให้ดู [ตรวจสอบและแก้ไขการแจ้งเตือนการปฏิบัติตามนโยบาย](https://docs.microsoft.com/microsoft-365/compliance/communication-compliance-investigate-remediate)การสื่อสาร
 
-สำหรับภาพรวมของฟีเจอร์การปฏิบัติตามข้อบังคับด้านการติดต่อสื่อสารให้ดูที่[การปฏิบัติตามนโยบายการสื่อสารใน Microsoft ๓๖๕](https://docs.microsoft.com/microsoft-365/compliance/communication-compliance)
+For an overview of the communication compliance feature, see [Communication compliance in Microsoft 365](https://docs.microsoft.com/microsoft-365/compliance/communication-compliance).
 
-ข้อกำหนดสิทธิ์การใช้งาน: ผู้ใช้ที่ตรวจสอบโดยนโยบายการติดต่อสื่อสารต้องมีอย่างใดอย่างหนึ่งต่อไปนี้:
+ข้อต้องมีสิทธิ์การใช้งาน: ผู้ใช้ที่ตรวจสอบโดยนโยบายการติดต่อสื่อสารต้องมีอย่างใดอย่างหนึ่งต่อไปนี้:
 
-- สิทธิ์การใช้งานการปฏิบัติตามกฎระเบียบของ Microsoft ๓๖๕ E5
-- สิทธิ์การใช้งาน Office ๓๖๕ Enterprise E3 ที่มี add-on การปฏิบัติตามนโยบายขั้นสูง
-- การสมัครใช้งาน Office ๓๖๕ Enterprise E5
+- สิทธิ์การใช้งาน Microsoft 365 E5 Compliance
+- สิทธิ์การใช้งาน Office 365 Enterprise E3 ที่มี Add-on การปฏิบัติตามข้อบังคับขั้นสูง
+- การสมัครใช้งาน Office 365 Enterprise E5
 
-ถ้าคุณไม่มีสิ่งใดข้างต้นและต้องการลองใช้การปฏิบัติตามข้อบังคับด้านการติดต่อสื่อสารให้ **[ลงทะเบียนสำหรับเวอร์ชันทดลองใช้ของ Office ๓๖๕ Enterprise E5](https://go.microsoft.com/fwlink/p/?LinkID=698279)**
+ถ้าคุณไม่มีข้อใดข้อหนึ่งข้างต้น และต้องการลองใช้การปฏิบัติตามข้อบังคับด้านการสื่อสาร ให้ ลงทะเบียนทดลองใช้ **[Office 365 Enterprise E5](https://go.microsoft.com/fwlink/p/?LinkID=698279)**
 
 > [!NOTE]
-> อาจใช้เวลาถึง24ชั่วโมงสำหรับข้อความอีเมลที่จะประมวลผลอย่างสมบูรณ์ในนโยบาย การสื่อสารใน Microsoft team, Yammer และแพลตฟอร์มของบริษัทอื่นอาจใช้เวลาถึง๔๘ชั่วโมงในการดำเนินการอย่างสมบูรณ์ในนโยบาย
+> อาจใช้เวลาถึง 24 ชั่วโมงในการประมวลผลข้อความอีเมลในนโยบายอย่างสมบูรณ์ การติดต่อสื่อสารใน Microsoft Teams, Yammer และแพลตฟอร์มของบริษัทภายนอกอาจใช้เวลาถึง 48 ชั่วโมงในการประมวลผลอย่างเต็มรูปแบบในนโยบาย

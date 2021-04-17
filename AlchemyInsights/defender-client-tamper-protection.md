@@ -1,8 +1,8 @@
 ---
-title: 'การป้องกันการงัดแงะของไคลเอ็นต์ '
+title: 'การป้องกันการ Tamper ของไคลเอ็นต์ Defender '
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,22 +12,22 @@ ms.collection: Adm_O365
 ms.custom:
 - "3479"
 - "9001464"
-ms.openlocfilehash: 2c03e43bb8a669fcc8ff22e6c6df319a9a548be7
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 4873b026839b7cde8221bf8389cd33023056e605
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47680523"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51815598"
 ---
-# <a name="defender-tamper-protection"></a>การป้องกันการงัดแงะของกองหลัง 
+# <a name="defender-tamper-protection"></a>Defender Tamper Protection 
 
-ด้วยการป้องกันการงัดแงะแอปที่เป็นอันตรายจะถูกป้องกันไม่ให้ดำเนินการดังต่อไปนี้:
+ด้วย Tamper Protection แอปที่เป็นอันตรายจะถูกป้องกันไม่ให้ถูกจัดการเช่น:
 
-- การปิดใช้งานการป้องกันไวรัสและการคุกคาม
+- การปิดใช้งานการป้องกันไวรัสและภัยคุกคาม
 - การปิดใช้งานการป้องกันแบบเรียลไทม์
-- การปิดการตรวจสอบลักษณะการทำงาน
+- การปิดการตรวจสอบลักษณะการเกิดขึ้น
 - การปิดใช้งานโปรแกรมป้องกันไวรัส (เช่น IOfficeAntivirus (IOAV))
-- การปิดใช้งานการป้องกันการส่งผ่านระบบคลาวด์
+- การปิดใช้งานการป้องกันบนระบบคลาวด์
 - การเอาการอัปเดตข่าวกรองความปลอดภัยออก
 
-สำหรับรายละเอียดเพิ่มเติมให้ดู[ที่ปกป้องการตั้งค่าความปลอดภัยด้วยการป้องกันการงัดแงะ](https://docs.microsoft.com/windows/security/threat-protection/windows-defender-antivirus/prevent-changes-to-security-settings-with-tamper-protection)
+ดูรายละเอียดเพิ่มเติมที่[ปกป้องการตั้งค่าความปลอดภัยด้วย Tamper Protection](https://docs.microsoft.com/windows/security/threat-protection/windows-defender-antivirus/prevent-changes-to-security-settings-with-tamper-protection)

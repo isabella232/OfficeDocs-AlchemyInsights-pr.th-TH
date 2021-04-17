@@ -1,8 +1,8 @@
 ---
-title: การสร้างการควบคุมกลุ่ม
+title: ควบคุมการสร้างกลุ่ม
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
@@ -14,15 +14,15 @@ ms.custom:
 - "168"
 - "1200029"
 ms.assetid: e06cdce9-1e43-475d-970b-e0bac0fc5446
-ms.openlocfilehash: fa3dd7798eb41164ca27a2dfe2a036e53bc3db0d
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 9f6bbad8b8e3133567ffa5b83120da0c6f07f9b7
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47733238"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51816723"
 ---
-# <a name="control-creation-of-microsoft-365-groups"></a>ตัวควบคุมการสร้างกลุ่ม Microsoft ๓๖๕
+# <a name="control-creation-of-microsoft-365-groups"></a>ควบคุมการสร้างกลุ่ม Microsoft 365
 
-ตามค่าเริ่มต้นผู้ใช้ทั้งหมดภายในบริษัทจะสามารถสร้างกลุ่มได้ ถ้าจำเป็นคุณสามารถเปลี่ยนการตั้งค่านี้และกำหนดสิทธิ์ในการสร้างกลุ่มเป็นชุดของบุคคลภายในบริษัทของคุณได้ โปรดทราบว่าสิ่งนี้จะมีผลกระทบต่อการสร้างกลุ่มจากบริการ Microsoft ๓๖๕ใดๆ (เช่น Outlook, ทีม, การวางแผนและอื่นๆ)
+ตามค่าเริ่มต้น ผู้ใช้ทั้งหมดภายในบริษัทสามารถสร้างกลุ่มได้ ถ้ามีความเป็นที่ต้องการ คุณสามารถเปลี่ยนแปลงการตั้งค่านี้ และกําหนดสิทธิ์ในการสร้างกลุ่มให้กับกลุ่มบุคคลภายในบริษัทของคุณ โปรดทราบว่าการนี้จะมีผลกระทบต่อการสร้างกลุ่มจากบริการ Microsoft 365 ใดๆ (เช่น Outlook, Teams, Planner และอื่นๆ)
   
-คำแนะนำ: [จัดการผู้ที่สามารถสร้างกลุ่ม Microsoft ๓๖๕](https://docs.microsoft.com/microsoft-365/admin/create-groups/manage-creation-of-groups)
+คําแ [นะนํา: จัดการบุคคลที่สามารถสร้างกลุ่ม Microsoft 365](https://docs.microsoft.com/microsoft-365/admin/create-groups/manage-creation-of-groups)

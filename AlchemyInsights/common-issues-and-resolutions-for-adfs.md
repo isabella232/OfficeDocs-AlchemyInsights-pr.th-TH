@@ -1,8 +1,8 @@
 ---
-title: ปัญหาทั่วไปและวิธีแก้ปัญหาสำหรับ ADFS
+title: ปัญหาและวิธีแก้ปัญหาทั่วไปใน ADFS
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,25 +12,25 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002490"
 - "4832"
-ms.openlocfilehash: 3bcf65b93e5c5adbfa0ca275c69da882aa125c39
-ms.sourcegitcommit: aabc5178929892d532782036bfb338b4b480d4e5
+ms.openlocfilehash: 5e7853ea6c2a58aff6a4238e58c855a7f2071553
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "48213046"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51817623"
 ---
-# <a name="common-issues-and-resolutions-for-adfs"></a>ปัญหาทั่วไปและวิธีแก้ปัญหาสำหรับ ADFS
+# <a name="common-issues-and-resolutions-for-adfs"></a>ปัญหาและวิธีแก้ปัญหาทั่วไปใน ADFS
 
-การกำหนดค่าของโดเมนที่ติดต่อกับภายนอกสามารถอัปเดตได้ตามที่อธิบายไว้ในบทความฐานความรู้ของ Microsoft ต่อไปนี้
+การกําหนดค่าโดเมนภายนอกสามารถอัปเดตตามที่อธิบายไว้ในบทความ Microsoft Knowledge Base ต่อไปนี้
 
-- [ใบรับรองสหพันธรัฐของ ADFS หมดอายุแล้ว](adfs-federation-certificate-expiring.md)
+- [ใบรับรองการติดต่อกับภายนอก ADFS หมดอายุ](adfs-federation-certificate-expiring.md)
 
-- [ตั้งค่า ADFS สำหรับ Office ๓๖๕สำหรับการลงชื่อเข้าระบบครั้งเดียว](https://docs.microsoft.com/office365/troubleshoot/active-directory/set-up-adfs-for-single-sign-on)
+- [ตั้งค่า ADFS for Office 365 for Single Sign-on](https://docs.microsoft.com/office365/troubleshoot/active-directory/set-up-adfs-for-single-sign-on)
 
-- [๒๗๑๓๘๙๘](https://support.microsoft.com/help/2713898)  "มีปัญหาเกิดขึ้นในการเข้าถึงไซต์" จาก AD fs เมื่อผู้ใช้ที่ติดต่อกับภายนอกลงชื่อเข้าใช้ Microsoft ๓๖๕, Azure หรือ Intune
+- ข้อผิดพลาด "มีปัญหาในการเข้าถึงไซต์[" 2713898](https://support.microsoft.com/help/2713898)จาก AD FS เมื่อผู้ใช้ภายนอกลงชื่อเข้าใช้ Microsoft 365, Azure หรือ Intuny
 
-- [๒๕๓๕๑๙๑](https://support.microsoft.com/help/2535191) "ขออภัยแต่เรากำลังมีปัญหาในการลงชื่อเข้าใช้คุณ" และ "๘๐๐๔๘๑๖๓" ข้อผิดพลาดเมื่อผู้ใช้ที่ติดต่อกับภายนอกพยายามลงชื่อเข้าใช้ Microsoft ๓๖๕, Azure หรือ Intune
+- [2535191](https://support.microsoft.com/help/2535191) "ขออภัย แต่เรามีปัญหาในการลงชื่อเข้าใช้" และข้อผิดพลาด "80048163" เมื่อผู้ใช้ภายนอกพยายามลงชื่อเข้าใช้ Microsoft 365, Azure หรือ Intuny
 
-- [๒๖๔๗๐๒๐](https://support.microsoft.com/help/2647020)   "ขออภัยแต่เรากำลังมีปัญหาในการลงชื่อเข้าใช้คุณ" และ "๘๐๐๔๑๓๑๗" หรือ "๘๐๐๔๓๔๓๑" เมื่อผู้ใช้ที่ติดต่อกับภายนอกพยายามลงชื่อเข้าใช้ Microsoft ๓๖๕, Azure หรือ Intune
+- [2647020](https://support.microsoft.com/help/2647020)   "ขออภัย แต่เรามีปัญหาในการลงชื่อเข้าใช้" และข้อผิดพลาด "80041317" หรือ "80043431" เมื่อผู้ใช้ภายนอกพยายามลงชื่อเข้าใช้ Microsoft 365, Azure หรือ Intuny
 
-สำหรับข้อมูลเพิ่มเติมให้ดู[อัปเดตหรือซ่อมแซมการตั้งค่าของโดเมนที่ติดต่อกับภายนอกใน Microsoft ๓๖๕, Azure หรือ Intune](https://docs.microsoft.com/office365/troubleshoot/active-directory/update-federated-domain-office-365)
+For more information, see [Update or repair the settings of a fededrated domain in Microsoft 365, Azure, or Intuned](https://docs.microsoft.com/office365/troubleshoot/active-directory/update-federated-domain-office-365).

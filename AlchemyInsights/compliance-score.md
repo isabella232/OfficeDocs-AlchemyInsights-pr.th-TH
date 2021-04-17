@@ -1,8 +1,8 @@
 ---
-title: คะแนนการปฏิบัติตามข้อบังคับ
+title: คะแนนการปฏิบัติตามกฎระเบียบ
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,30 +12,30 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001483"
 - "3519"
-ms.openlocfilehash: fc42b7d4959d624da68d444c03af94d2b3ba0af5
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 78b0658902034560c4f568b1ae2dcd66bb5fb540
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47785478"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51817335"
 ---
-# <a name="compliance-score"></a>คะแนนการปฏิบัติตามข้อบังคับ
+# <a name="compliance-score"></a>คะแนนการปฏิบัติตามกฎระเบียบ
 
-คะแนนการปฏิบัติตามข้อกำหนดของ microsoft (ตัวอย่าง) เป็นฟีเจอร์ใน Microsoft ๓๖๕ซึ่งจะช่วยให้คุณสามารถวัดท่าทางการปฏิบัติตามนโยบายขององค์กรของคุณได้ ใช้คะแนนความเสี่ยงโดยยึดตามความคืบหน้าของการดำเนินการที่เกี่ยวข้องกับการปฏิบัติตามกฎระเบียบ   การปฏิบัติตามข้อกำหนดคือ [ตัวจัดการการปฏิบัติตามข้อบังคับ](https://docs.microsoft.com/microsoft-365/compliance/compliance-manager-overview) เวอร์ชันที่เรียบง่ายและมีวิธีที่ง่ายต่อการตรวจสอบการปฏิบัติตามข้อบังคับของคุณและดำเนินการเพื่อปรับปรุง 
+คะแนนการปฏิบัติตามนโยบายของ Microsoft (ตัวอย่าง) เป็นฟีเจอร์ใน Microsoft 365 ที่ช่วยให้คุณวัดท่าทางการปฏิบัติตามข้อบังคับขององค์กรของคุณ ใช้คะแนนตามความเสี่ยงตามความคืบหน้าของการปรับใช้การดําเนินการปฏิบัติตามกฎระเบียบที่เกี่ยวข้อง   คะแนนการปฏิบัติตามกฎระเบียบเป็นเวอร์ชันที่ง่ายขึ้น [ของตัวจัดการ](https://docs.microsoft.com/microsoft-365/compliance/compliance-manager-overview) การปฏิบัติตามข้อบังคับ และมีวิธีที่ง่ายดายในการตรวจสอบความสอดคล้องของการปฏิบัติตามข้อบังคับของคุณ และใช้การดําเนินการเพื่อปรับปรุง 
 
-ผู้ดูแลระบบส่วนกลางจะต้องตั้งค่า [สิทธิ์](https://docs.microsoft.com/microsoft-365/security/office-365-security/permissions-in-the-security-and-compliance-center) ที่เหมาะสมในศูนย์การปฏิบัติตามกฎระเบียบของ Microsoft เพื่อเข้าถึงคะแนนการปฏิบัติตามข้อบังคับ  สิทธิ์ใดๆที่กำหนดค่าไว้ก่อนหน้านี้สำหรับตัวจัดการการปฏิบัติตามข้อกำหนดจะไม่ถ่ายโอนไปยังคะแนนการปฏิบัติตามข้อบังคับ
+ผู้ดูแลระบบส่วนกลางจะต้องตั้งค่าสิทธิ์ที่เหมาะสมใน [ศูนย์การปฏิบัติตาม](https://docs.microsoft.com/microsoft-365/security/office-365-security/permissions-in-the-security-and-compliance-center) ข้อบังคับของ Microsoft เพื่อเข้าถึงคะแนนการปฏิบัติตามนโยบาย  สิทธิ์ใดๆ ที่กําหนดค่าไว้ก่อนหน้านี้ให้กับตัวจัดการการปฏิบัติตามกฎระเบียบจะไม่ถ่ายโอนไปยังคะแนนการปฏิบัติตามกฎระเบียบ
 
-**เมื่อต้องการเข้าถึงคะแนนการปฏิบัติตามข้อบังคับ**
+**เพื่อเข้าถึงคะแนนการปฏิบัติตามนโยบาย**
 
-1. ไปที่ศูนย์การปฏิบัติตามกฎระเบียบของ Microsoft ๓๖๕แล้ว **ลงชื่อเข้าใช้** ด้วยบัญชีผู้ดูแลระบบส่วนกลางของ microsoft ๓๖๕ของคุณ
+1. ไปที่ศูนย์การปฏิบัติตามนโยบายของ Microsoft 365 **และลงชื่อเข้าใช้ด้วย** บัญชีผู้ดูแลระบบส่วนกลางของ Microsoft 365 ของคุณ
 
-2. เลือก **คะแนนการปฏิบัติตาม** ข้อกำหนดในบานหน้าต่างนำทางด้านซ้าย จากนั้นคุณจะเห็น[แดชบอร์ดคะแนนการปฏิบัติตามกฎระเบียบของคุณกับคะแนนของคุณ](https://docs.microsoft.com/microsoft-365/compliance/compliance-score-setup#understand-the-compliance-score-dashboard)
+2. เลือก **คะแนนการปฏิบัติตาม** นโยบาย บนบานหน้าต่างนําทางด้านซ้าย จากนั้นคุณควรจะเห็นแดชบอร์ด [คะแนนการปฏิบัติตามกฎระเบียบที่มีคะแนน](https://docs.microsoft.com/microsoft-365/compliance/compliance-score-setup#understand-the-compliance-score-dashboard)ของคุณ
  
 
-**สำหรับข้อมูลเพิ่มเติมเกี่ยวกับ**:
+**ดูข้อมูลเพิ่มเติมเกี่ยวกับ**:
 
-- การตั้งค่าสิทธิ์การเข้าถึงสำหรับคะแนนการปฏิบัติตาม[ข้อกำหนดให้ดูให้ผู้ใช้สามารถเข้าถึงศูนย์การรักษาความปลอดภัยของ Microsoft ๓๖๕ & ศูนย์การปฏิบัติตามนโยบาย](https://docs.microsoft.com/microsoft-365/security/office-365-security/grant-access-to-the-security-and-compliance-center)
-- การทำงานกับการดำเนินการปรับปรุงในคะแนนการปฏิบัติตามข้อกำหนดให้ดู  [ที่การทำงานกับการปฏิบัติตาม](https://docs.microsoft.com/microsoft-365/compliance/working-with-compliance-score)ข้อกำหนด
-- วิธีการคำนวณคะแนนการปฏิบัติตามข้อบังคับให้ดูที่ [วิธีการปฏิบัติตาม](https://docs.microsoft.com/microsoft-365/compliance/compliance-score-methodology)ข้อกำหนดของคะแนน
-- การปฏิบัติตามนโยบายของผู้จัดการฝ่ายกำกับดูแลการปฏิบัติตามข้อกำหนดให้ดู[ที่ความสัมพันธ์กับการปฏิบัติตามกฎระเบียบ](https://docs.microsoft.com/microsoft-365/compliance/compliance-score#relationship-to-compliance-manager)
+- การตั้งค่าสิทธิ์การเข้าถึงคะแนนการปฏิบัติตามข้อบังคับ ให้ดู [ให้สิทธิ์การเข้าถึงศูนย์การปฏิบัติตามข้อบังคับของ Microsoft 365 แก่](https://docs.microsoft.com/microsoft-365/security/office-365-security/grant-access-to-the-security-and-compliance-center)ผู้ใช้ &การปฏิบัติตามนโยบาย
+- การดาเนินการปรับปรุงในคะแนนการปฏิบัติตามนโยบาย  [ให้ดู การสอดคล้องกับคะแนนการปฏิบัติตาม](https://docs.microsoft.com/microsoft-365/compliance/working-with-compliance-score)นโยบาย
+- วิธีการคํานวณคะแนนการปฏิบัติตามกฎระเบียบ ให้ดูที่ [วิธีการคํานวณคะแนนการปฏิบัติตาม](https://docs.microsoft.com/microsoft-365/compliance/compliance-score-methodology)กฎระเบียบ
+- คะแนนการปฏิบัติตามกฎระเบียบเปรียบเทียบกับตัวจัดการการปฏิบัติตามกฎระเบียบ [ให้ดู ความสัมพันธ์กับตัวจัดการการปฏิบัติตาม](https://docs.microsoft.com/microsoft-365/compliance/compliance-score#relationship-to-compliance-manager)ข้อบังคับ
 

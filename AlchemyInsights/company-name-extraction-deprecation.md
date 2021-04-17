@@ -1,8 +1,8 @@
 ---
-title: การแยกชื่อบริษัทแผน
+title: การเลิกใช้การแยกข้อมูลชื่อบริษัท
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "2703"
 - "9000759"
-ms.openlocfilehash: 8487ba5c0e3c00df9e25101c8086fbf34994480f
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: a0e646694424e7526e8d761092a39f94356017d7
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47681027"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51817407"
 ---
-# <a name="changes-to-company-name-extraction-in-sharepoint-online"></a>การเปลี่ยนแปลงการแยกชื่อบริษัทใน SharePoint Online
+# <a name="changes-to-company-name-extraction-in-sharepoint-online"></a>การเปลี่ยนแปลงการแยกข้อมูลชื่อบริษัทใน SharePoint Online
 
-เริ่มต้นวันที่15พฤศจิกายน๒๐๑๙เราจะลบการ[แยกชื่อบริษัทออกจาก SharePoint Online](https://docs.microsoft.com/sharepoint/changes-to-company-name-extraction-in-sharepoint-online) การแยกชื่อบริษัทใน SharePoint ช่วยให้ระบบการค้นหาแยกชื่อบริษัทจากเนื้อหาภายใต้ชุดเฉพาะของเงื่อนไขโดยใช้พจนานุกรมที่มีการเติมข้อมูลล่วงหน้าหรือโดยใช้รายการการรวมหรือการยกเว้นบริษัท ในขณะที่การสกัดชื่อบริษัทได้กลายเป็นโซลูชันที่อาศัยอยู่เมื่อต้องการสืบทอดชื่อบริษัทอย่างน้อยหนึ่งชื่อจากเนื้อหาใน SharePoint Online ทั้งพจนานุกรมและชุดฟีเจอร์ต้นแบบของชุดข้อมูลนั้นหมดอายุแล้ว
+ตั้งแต่วันที่ 15 พฤศจิกายน 2019 เราจะลบ[การแยกชื่อบริษัทออกจาก SharePoint Online](https://docs.microsoft.com/sharepoint/changes-to-company-name-extraction-in-sharepoint-online) การแยกข้อมูลชื่อบริษัทใน SharePoint ช่วยให้ระบบการค้นหาสามารถแยกชื่อบริษัทออกจากเนื้อหาภายใต้ชุดเงื่อนไขที่ระบุโดยใช้พจนานุกรมที่มีข้อมูลล่วงหน้าหรือโดยใช้รายการที่รวมไว้ในบริษัทหรือรายการที่แยกออกจากบริษัท ในขณะที่การแยกข้อมูลชื่อบริษัทกลายเป็นโซลูชันที่น่าเชื่อถือในการหาข้อมูลชื่อบริษัทอย่างน้อยหนึ่งชื่อจากเนื้อหาใน SharePoint Online ทั้งพจนานุกรมและชุดฟีเจอร์ที่ล้าสมัย
 
-- [ฉันจะทราบได้อย่างไรว่าการแยกชื่อบริษัทถูกเปิดใช้งานสำหรับคุณสมบัติหรือไม่](https://docs.microsoft.com/sharepoint/changes-to-company-name-extraction-in-sharepoint-online#how-do-i-know-if-company-name-extraction-is-enabled-for-a-property)
+- [ฉันจะทราบได้อย่างไรว่าการแยกข้อมูลชื่อบริษัทถูกเปิดใช้งานกับคุณสมบัติหรือไม่](https://docs.microsoft.com/sharepoint/changes-to-company-name-extraction-in-sharepoint-online#how-do-i-know-if-company-name-extraction-is-enabled-for-a-property)
 
-- [จะเกิดอะไรขึ้นเมื่อการแยกชื่อบริษัทถูกยกเลิกการสนับสนุน](https://docs.microsoft.com/sharepoint/changes-to-company-name-extraction-in-sharepoint-online#what-happens-when-company-name-extraction-is-deprecated) 
+- [จะเกิดอะไรขึ้นเมื่อการแยกข้อมูลชื่อบริษัทไม่ได้สนับสนุน](https://docs.microsoft.com/sharepoint/changes-to-company-name-extraction-in-sharepoint-online#what-happens-when-company-name-extraction-is-deprecated) 
 
-- [มีทางเลือกในการสกัดชื่อบริษัทหรือไม่](https://docs.microsoft.com/sharepoint/changes-to-company-name-extraction-in-sharepoint-online#are-there-alternatives-to-company-name-extraction) 
+- [มีทางเลือกอื่นในการแยกข้อมูลชื่อบริษัทหรือไม่](https://docs.microsoft.com/sharepoint/changes-to-company-name-extraction-in-sharepoint-online#are-there-alternatives-to-company-name-extraction) 

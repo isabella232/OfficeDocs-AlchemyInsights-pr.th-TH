@@ -1,8 +1,8 @@
 ---
-title: คำถามเกี่ยวกับการเรียกเก็บเงินและสิทธิ์การใช้งาน COVID-19
+title: ถามเกี่ยวกับการเรียกเก็บเงินและสิทธิ์การใช้งาน COVID-19
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -16,13 +16,13 @@ ms.custom:
 - "5113"
 - "9002647"
 - "5091"
-ms.openlocfilehash: 083a4047f86bf315702a90822eaefa5a5d2bf72a
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 5c6355106bf53d929eaaac3286ae27ccf7d738a0
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47747570"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51816435"
 ---
-# <a name="covid-19-billing-and-license-questions"></a>คำถามเกี่ยวกับการเรียกเก็บเงินและสิทธิ์การใช้งาน COVID-19
+# <a name="covid-19-billing-and-license-questions"></a>ถามเกี่ยวกับการเรียกเก็บเงินและสิทธิ์การใช้งาน COVID-19
 
-อ้างอิงถึงความ [มุ่งมั่นของเราให้กับลูกค้าในระหว่าง COVID-19](https://www.microsoft.com/microsoft-365/blog/2020/03/05/our-commitment-to-customers-during-covid-19/) การโพสต์บล็อกสำหรับการอัปเดตล่าสุด  ถ้าคุณมีคำถามเกี่ยวกับการเรียกเก็บเงินหรือสิทธิ์การใช้งานเฉพาะที่เกี่ยวข้องกับวิกฤต Covid-19 โปรดคลิก **ติดต่อฝ่ายสนับสนุน** ที่ด้านล่างของหน้านี้
+ดูข้อ [ผูกมัดของเรากับลูกค้าระหว่างโพสต์ในบล็อก COVID-19](https://www.microsoft.com/microsoft-365/blog/2020/03/05/our-commitment-to-customers-during-covid-19/) เพื่ออัปเดตล่าสุด  ถ้าคุณมีข้อถามเกี่ยวกับการเรียกเก็บเงินหรือสิทธิ์การใช้งานที่เกี่ยวข้องกับภาวะวิกฤติ Covid-19 โปรด **คลิก** ติดต่อฝ่ายสนับสนุน ที่ด้านล่างของหน้านี้

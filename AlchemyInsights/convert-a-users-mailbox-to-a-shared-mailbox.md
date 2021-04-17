@@ -1,8 +1,8 @@
 ---
-title: การแปลงกล่องจดหมายของผู้ใช้เป็นกล่องจดหมายที่แชร์
+title: แปลงกล่องจดหมายของผู้ใช้เป็นกล่องจดหมายที่แชร์
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -13,16 +13,16 @@ ms.custom:
 - "624"
 - "3500003"
 ms.assetid: a38afd0a-fae5-49e1-9757-6986d5f5531e
-ms.openlocfilehash: 7c64e9db982ffb5e8a8e90d812ed09de45ef9fb0
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 4e359b3eeb4522ca18108a4dca6efc5aae17e594
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47732914"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51816615"
 ---
-# <a name="convert-a-user-mailbox-to-a-shared-mailbox"></a>การแปลงกล่องจดหมายของผู้ใช้เป็นกล่องจดหมายที่แชร์
+# <a name="convert-a-user-mailbox-to-a-shared-mailbox"></a>แปลงกล่องจดหมายของผู้ใช้เป็นกล่องจดหมายที่แชร์
 
-เมื่อคุณแปลงกล่องจดหมายของผู้ใช้แต่ละรายให้เป็นกล่องจดหมายที่แชร์รายการอีเมลและปฏิทินที่มีอยู่ทั้งหมดจะถูกเก็บไว้ในกล่องจดหมายที่แชร์ที่ผู้ใช้หลายคนสามารถเข้าถึงได้ นอกจากนี้คุณยังสามารถแปลงกล่องจดหมายที่แชร์กลับไปยังกล่องจดหมายของผู้ใช้ (ส่วนตัว) ได้อีกด้วย
+เมื่อคุณแปลงกล่องจดหมายของผู้ใช้เป็นกล่องจดหมายที่แชร์ รายการอีเมลและปฏิทินที่มีอยู่ทั้งหมดจะถูกเก็บไว้ในกล่องจดหมายที่แชร์ซึ่งบุคคลหลายคนสามารถเข้าถึงได้ คุณยังสามารถแปลงกล่องจดหมายที่แชร์กลับไปเป็นกล่องจดหมายของผู้ใช้ (ส่วนตัว) ได้
   
-สำหรับข้อมูลเพิ่มเติมให้ดูที่การ[แปลงกล่องจดหมายของผู้ใช้เป็นกล่องจดหมายที่แชร์](https://docs.microsoft.com/microsoft-365/admin/email/convert-user-mailbox-to-shared-mailbox)
+For more information, see [Convert a user mailbox to a shared mailbox](https://docs.microsoft.com/microsoft-365/admin/email/convert-user-mailbox-to-shared-mailbox).
   

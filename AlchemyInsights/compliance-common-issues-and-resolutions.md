@@ -1,8 +1,8 @@
 ---
-title: การปฏิบัติตามนโยบายและการแก้ปัญหาทั่วไป
+title: ปัญหาและการแก้ไขปัญหาทั่วไปเกี่ยวกับการปฏิบัติตามกฎระเบียบ
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,27 +12,27 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000722"
 - "4812"
-ms.openlocfilehash: 4979375f098f65c703bad813feebcb5df6bd59ad
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 128209e31b5697a3ab9252f339c9de3c3169e5c6
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47713618"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51817371"
 ---
-# <a name="compliance-common-issues-and-resolutions"></a>การปฏิบัติตามนโยบายและการแก้ปัญหาทั่วไป
+# <a name="compliance-common-issues-and-resolutions"></a>ปัญหาและการแก้ไขปัญหาทั่วไปเกี่ยวกับการปฏิบัติตามกฎระเบียบ
 
-ต่อไปนี้คือหัวข้อที่ร้องขอบ่อยสำหรับการปฏิบัติตามข้อบังคับดังต่อไปนี้
+ต่อไปนี้เป็นหัวข้อที่ได้รับการร้องขอบ่อยบางส่วนเพื่อการปฏิบัติตามข้อบังคับ:
 
-- วิธีกำหนดค่าการเก็บถาวรและข้อความที่ไม่ได้ย้ายไปยังการเก็บถาวรโดยอัตโนมัติ: จำเป็นต้อง[เปิดใช้งานการเก็บถาวรตั้งค่านโยบายการเก็บถาวร](https://docs.microsoft.com/microsoft-365/compliance/enable-archive-mailboxes?view=o365-worldwide)และ[เพิ่มขนาดของการเก็บถาวร](https://docs.microsoft.com/microsoft-365/compliance/enable-unlimited-archiving?view=o365-worldwide)
+- วิธีกําหนดค่า เก็บถาวร และข้อความจะไม่ย้ายไปยังเก็บถาวรโดยอัตโนมัติ: ต้องการเปิดใช้งานการเก็บถาวร[ตั้งค่า](https://docs.microsoft.com/microsoft-365/compliance/enable-archive-mailboxes?view=o365-worldwide)นโยบายการเก็บถาวร และเพิ่ม[ขนาดการเก็บถาวร](https://docs.microsoft.com/microsoft-365/compliance/enable-unlimited-archiving?view=o365-worldwide)
 
-- นโยบายการเก็บข้อมูล: คำถามเกี่ยวกับ[การคำนวณอายุการเก็บข้อมูล](https://docs.microsoft.com/exchange/security-and-compliance/messaging-records-management/retention-age)[เพิ่มหรือเอาแท็ก](https://docs.microsoft.com/exchange/security-and-compliance/messaging-records-management/add-or-remove-retention-tags)การเก็บข้อมูลออก[โดยใช้นโยบายการเก็บข้อมูลในศูนย์การรักษาความปลอดภัยและการปฏิบัติตามกฎระเบียบ](https://docs.microsoft.com/microsoft-365/compliance/retention-policies?view=o365-worldwide)เพื่อรักษาหรือลบเนื้อหา
+- นโยบายการเก็บข้อมูล: ข้อสงสัยเกี่ยวกับการ[คํานวณ](https://docs.microsoft.com/exchange/security-and-compliance/messaging-records-management/retention-age)อายุการ[เก็บข้อมูล](https://docs.microsoft.com/exchange/security-and-compliance/messaging-records-management/add-or-remove-retention-tags)เพิ่มหรือเอาแท็ก[](https://docs.microsoft.com/microsoft-365/compliance/retention-policies?view=o365-worldwide)การเก็บข้อมูลออก การใช้นโยบายการเก็บข้อมูลในศูนย์การรักษาความปลอดภัยและการปฏิบัติตามนโยบายเพื่อเก็บรักษาหรือลบเนื้อหา
 
-- การตั้งค่า EDiscovery และการค้นหาเนื้อหาและการส่งออก: การ[ค้นหาเนื้อหา](https://docs.microsoft.com/microsoft-365/compliance/search-for-content?view=o365-worldwide)และ[ส่งออกผลลัพธ์การค้นหา](https://docs.microsoft.com/microsoft-365/compliance/export-search-results?view=o365-worldwide)
+- Setup EDiscovery and Content Searches and Export: [Content Search](https://docs.microsoft.com/microsoft-365/compliance/search-for-content?view=o365-worldwide) and [Export Search Results](https://docs.microsoft.com/microsoft-365/compliance/export-search-results?view=o365-worldwide).
 
-- การตรวจสอบใน O365: การ[ค้นหาบันทึกการตรวจสอบใน o365](https://docs.microsoft.com/microsoft-365/compliance/search-the-audit-log-in-security-and-compliance?view=o365-worldwide)
+- การตรวจสอบใน O365:[บันทึกการตรวจสอบการค้นหาใน O365](https://docs.microsoft.com/microsoft-365/compliance/search-the-audit-log-in-security-and-compliance?view=o365-worldwide)
 
-- การป้องกันการสูญหายของข้อมูล (DLP): ดู [ภาพรวมของการป้องกันการสูญหายของข้อมูล (dlp)](https://docs.microsoft.com/microsoft-365/compliance/data-loss-prevention-policies?view=o365-worldwide) สำหรับข้อมูลเพิ่มเติม
+- การป้องกันการสูญหายของข้อมูล(DLP) : ดูข้อมูลเพิ่มเติมที่ ภาพรวมของการป้องกันการสูญหายของข้อมูล[(DLP)](https://docs.microsoft.com/microsoft-365/compliance/data-loss-prevention-policies?view=o365-worldwide)
  
-- ป้ายชื่อความลับ: เมื่อต้องการเรียนรู้เพิ่มเติมให้ดูที่การ[สร้างและกำหนดค่าป้ายชื่อความลับและนโยบายของพวกเขา](https://docs.microsoft.com/microsoft-365/compliance/create-sensitivity-labels)
+- ป้ายระดับความลับ: เมื่อต้องการเรียนรู้เพิ่มเติม ให้ดู[สร้างและกําหนดค่าป้ายระดับความลับและนโยบาย](https://docs.microsoft.com/microsoft-365/compliance/create-sensitivity-labels)
 
-**หมายเหตุ**: สำหรับคำตอบที่เฉพาะเจาะจงมากขึ้นเกี่ยวกับปัญหาด้านการปฏิบัติตามข้อกำหนดสั้นๆบรรยายคำถามของคุณและรวมถึงข้อผิดพลาดที่คุณเห็นหรือฟีเจอร์ที่คุณกำลังใช้อยู่
+**หมายเหตุ**: เพื่อตอบคําตอบที่เฉพาะเจาะจงมากขึ้นเกี่ยวกับปัญหาการปฏิบัติตามกฎระเบียบ ให้แก้ไขคําถามของคุณใหม่ช่วงสั้นๆ และใส่ข้อผิดพลาดใดๆ ที่คุณพบหรือคุณลักษณะที่คุณใช้งาน

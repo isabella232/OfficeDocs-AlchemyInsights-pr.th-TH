@@ -1,8 +1,8 @@
 ---
-title: การควบคุมปริมาณการซิงค์
+title: ควบคุมปริมาณงานการซิงค์
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,13 +12,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000343"
 - "5839"
-ms.openlocfilehash: 90ba01b761a88443ac35e6b149f3443c470f2abb
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 6e45f55efac556d2d9c4f1ebd837db61dfa5422f
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47747678"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51816687"
 ---
-# <a name="control-sync-throughput"></a>การควบคุมปริมาณการซิงค์
+# <a name="control-sync-throughput"></a>ควบคุมปริมาณงานการซิงค์
 
-ถ้าคุณต้องการควบคุมการซิงค์การรับส่งข้อมูลของแอปเราขอแนะนำให้ใช้นโยบายคุณภาพของเครือข่ายของบริการ (QoS) หรือนโยบาย QoS ของ Windows เมื่อเป็นไปได้ สำหรับข้อมูลเกี่ยวกับการตั้งค่าเครือข่ายที่คุณสามารถทำให้พร้อมใช้งานสำหรับผู้ใช้ของคุณให้ดู [ที่เปลี่ยนแปลงการอัปโหลดหรือดาวน์โหลดแอป OneDrive sync ของแอป OneDrive](https://support.office.com/article/71cc69da-2371-4981-8cc8-b4558bdda56e)
+ถ้าคุณต้องควบคุมการรับส่งข้อมูลของแอปซิงค์ เราขอแนะนนะให้ใช้บริการนโยบายคุณภาพเครือข่าย (QoS) หรือนโยบาย Windows QoS เมื่อเป็นไปได้ For info about the network settings you can make available to your users, see [Change the OneDrive sync app upload or download rate.](https://support.office.com/article/71cc69da-2371-4981-8cc8-b4558bdda56e)

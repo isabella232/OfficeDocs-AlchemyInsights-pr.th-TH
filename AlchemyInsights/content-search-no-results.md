@@ -1,8 +1,8 @@
 ---
-title: การค้นหาเนื้อหาไม่มีผลลัพธ์
+title: การค้นหาเนื้อหาไม่มีผลลัพธ์การค้นหา
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000661"
 - "2527"
-ms.openlocfilehash: 1e90c403556a317ff810971ccfa4a91694fb1171
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 0267286ca5967ee891e65343d49adf776f0322a6
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47680666"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51816867"
 ---
-# <a name="no-results-from-content-searchexports"></a>ไม่มีผลลัพธ์จากการค้นหาเนื้อหา/การส่งออก
+# <a name="no-results-from-content-searchexports"></a>ไม่มีผลลัพธ์จากการค้นหา/ส่งออกเนื้อหา
 
-ปัญหาเกี่ยวกับการค้นหาเนื้อหา/การส่งออกจะไม่ส่งกลับข้อมูลใดๆอาจเนื่องจากตัวกรองความปลอดภัยการปฏิบัติตามกฎระเบียบบางอย่างที่ตั้งค่าโดยผู้ดูแลระบบที่เฉพาะเจาะจงและไม่สื่อสารกับผู้ดูแลระบบทั้งหมด
+ปัญหาเกี่ยวกับการค้นหา/การส่งออกเนื้อหาไม่ส่งกลับข้อมูลใดๆ อาจเป็นเพราะตัวกรองความปลอดภัยการปฏิบัติตามกฎระเบียบบางตัวที่ตั้งค่าโดยผู้ดูแลระบบที่ระบุ และไม่ได้สื่อสารกับผู้ดูแลระบบทั้งหมด
 
-เมื่อต้องการแก้ไขปัญหานี้ให้ตรวจสอบดูว่ามีตัวกรองความปลอดภัยการปฏิบัติตามกฎระเบียบใดที่อาจทำให้เกิดปัญหานี้:
-1. เชื่อมต่อกับการรักษาความปลอดภัยและการปฏิบัติตามนโยบายศูนย์ Powershell
-2. เรียกใช้ commandlet ต่อไปนี้:
+เมื่อต้องการแก้ไขปัญหานี้ ให้ตรวจสอบเพื่อดูว่ามีตัวกรองความปลอดภัยการปฏิบัติตามนโยบายที่อาจเป็นสาเหตุของสิ่งนี้:
+1. เชื่อมต่อกับ Powershell ของศูนย์การรักษาความปลอดภัยและการปฏิบัติตามนโยบาย
+2. เรียกใช้ commandlets ต่อไปนี้:
 <br>$org = "yourdomain.com"
-<br>$Org ComplianceSecurityFilter-องค์กร
+<br>Get-ComplianceSecurityFilter -องค์กร $org

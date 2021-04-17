@@ -2,7 +2,7 @@
 title: แดชบอร์ดไม่โหลด
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002929"
 - "5608"
-ms.openlocfilehash: aacc690e174fc9308cb39ed6190fd7d2ef3d25c6
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: e800db4165a770f9980d2178dbad8ec2fc898858
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47731438"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51815670"
 ---
 # <a name="dashboard-not-loading"></a>แดชบอร์ดไม่โหลด
 
-**อาการ**
+**อาการ:**
 
-แดชบอร์ดอาจค้างอยู่กับสปินเนอร์โหลดหรืออาจแสดงข้อความแสดงข้อผิดพลาดทั่วไป: "บางอย่างไม่ถูกต้อง ตรวจสอบรายละเอียดทางเทคนิคสำหรับรายละเอียดเพิ่มเติม "
+แดชบอร์ดอาจติดอยู่กับตัวหมุนการโหลด หรืออาจแสดงข้อความแสดงข้อผิดพลาดทั่วไป: "มีบางอย่างผิดพลาด ตรวจสอบรายละเอียดด้านเทคนิคเพื่อดูรายละเอียดเพิ่มเติม"
 
 **คู่มือการแก้ไขปัญหา:**
 
-โปรดดู[แดชบอร์ UCI ไม่โหลดหลังจากการเผยแพร่๒๐๐๓.๕](https://support.microsoft.com/help/4558635/uci-dashboard-not-loading-after-the-2003-5-release)
+โปรดดูแดชบอร์ด[UCI ไม่โหลดหลังจากรุ่น 2003.5](https://support.microsoft.com/help/4558635/uci-dashboard-not-loading-after-the-2003-5-release)

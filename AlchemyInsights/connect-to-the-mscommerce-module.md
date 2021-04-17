@@ -1,8 +1,8 @@
 ---
-title: เชื่อมต่อกับโมดู MSCommerce
+title: เชื่อมต่อกับมอดูล MSCommerce
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,21 +12,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001212"
 - "3528"
-ms.openlocfilehash: 41dd044d99d14f25ea15699bfb74f7c37e3928c1
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: e77c6a329ac99a4cea4f143dcb3c661b6a518e35
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47713257"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51817047"
 ---
-# <a name="connect-to-the-mscommerce-module"></a>เชื่อมต่อกับโมดู MSCommerce
+# <a name="connect-to-the-mscommerce-module"></a>เชื่อมต่อกับมอดูล MSCommerce
 
-คุณต้องเชื่อมต่อกับโมดู MSCommerce ก่อนที่คุณจะสามารถดูหรือตั้งค่านโยบาย AllowSelfServicePurchase ได้  
+คุณต้องเชื่อมต่อกับมอดูล MSCommerce ก่อนที่คุณจะสามารถดูหรือตั้งค่านโยบาย AllowSelfServicePurchase ได้  
 
-เมื่อต้องการเชื่อมต่อกับโมดู MSCommerce ที่พร้อมท์ PowerShell (PS C: \) ให้ใส่คำสั่งต่อไปนี้:
+เมื่อต้องการเชื่อมต่อกับมอดูล MSCommerce ที่พร้อมท์ PowerShell (PS C: \) ให้ใส่สั่งต่อไปนี้:
 
 `Connect-MSCommerce`
 
-การทำเช่นนี้จะเปิดกล่องโต้ตอบการลงชื่อเข้าใช้ ใส่ชื่อผู้ใช้และรหัสผ่านของคุณเพื่อลงชื่อเข้าใช้
+นี่จะเปิดกล่องโต้ตอบการลงชื่อเข้าใช้ ใส่ชื่อผู้ใช้และรหัสผ่านของคุณเพื่อลงชื่อเข้าใช้
 
-**หมายเหตุ:** &nbsp; &nbsp; บัญชีผู้ใช้ที่ใช้ในการลงชื่อเข้าใช้ต้องเป็นบริษัทหรือผู้ดูแลระบบการเรียกเก็บเงิน
+**หมายเหตุ:** &nbsp; &nbsp; บัญชีที่ใช้ในการลงชื่อเข้าใช้ต้องเป็นผู้ดูแลระบบของบริษัทหรือผู้ดูแลการเรียกเก็บเงิน
