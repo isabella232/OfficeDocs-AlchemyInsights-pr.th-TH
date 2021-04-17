@@ -1,8 +1,8 @@
 ---
-title: การแยกอีเมลแบบอัตโนมัติของ SharePoint
+title: อีเมลการแยกย่อยอัตโนมัติของ SharePoint
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,20 +12,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003118"
 - "5894"
-ms.openlocfilehash: 42bfe92c835c2ad346ce62924d455e5d1396eaa6
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: f6d682947f1184c4576fca9d972da8c4cd48ae2d
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47751190"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51831213"
 ---
-# <a name="sharepoint-auto-digest-email"></a>การแยกอีเมลแบบอัตโนมัติของ SharePoint
+# <a name="sharepoint-auto-digest-email"></a>อีเมลการแยกย่อยอัตโนมัติของ SharePoint
 
-การแยกย่อยของข่าวสารอัตโนมัติของ SharePoint จะส่งอีเมลแบบอัตโนมัติไปยังผู้ใช้ในบริษัทของคุณเกี่ยวกับโพสต์ข่าวสารล่าสุดที่พวกเขายังไม่ได้อ่านที่เกี่ยวข้องกับพวกเขา
+ข่าวสารย่อยอัตโนมัติของ SharePoint ส่งอีเมลอัตโนมัติไปยังผู้ใช้ในบริษัทของคุณเกี่ยวกับโพสต์ข่าวสารล่าสุดที่พวกเขายังไม่ได้อ่านที่เกี่ยวข้องกับพวกเขา
 
-สำหรับข้อมูลเพิ่มเติมโปรดดูที่ [https://aka.ms/autonewsdigest](https://aka.ms/autonewsdigest)
+หากต้องการข้อมูลเพิ่มเติม โปรดไปที่ [https://aka.ms/autonewsdigest](https://aka.ms/autonewsdigest)
 
-- Microsoft ๓๖๕ ID ของแผน:  [๖๔๖๘๕](https://www.microsoft.com/microsoft-365/roadmap?filters=&featureid=64685)
-- การกำหนดเวลา: ลูกค้าที่วางจำหน่ายใน**ช่วงกลางเดือนกรกฎาคม (ก่อนหน้านี้เดือนมิถุนายน**และเสร็จสมบูรณ์สำหรับลูกค้าทั้งหมดโดย**กลางเดือนสิงหาคม (ก่อนหน้านี้เดือนสิงหาคม)**
-- การออกจากระบบ: การโรลอัพระดับผู้ใช้
-- ชนิดของตัวควบคุม: การควบคุมผู้ใช้ ** การควบคุมผู้ดูแลระบบผ่านทาง PowerShell (เร็วๆนี้)
+- ID โรดแมปของ Microsoft 365:  [64685](https://www.microsoft.com/microsoft-365/roadmap?filters=&featureid=64685)
+- การตั้งเวลา: เปิดตัวลูกค้าเป้าหมาย **ในช่วงกลางเดือนกรกฎาคม (ก่อนหน้านี้จะ** ถึงเดือนมิถุนายนและเสร็จสมบูรณ์กับลูกค้าทั้งหมด **ก่อนกลางเดือนสิงหาคม (ช่วงต้นเดือนสิงหาคม)**
+- การเริ่มใช้: การเริ่มใช้ระดับผู้ใช้
+- ชนิดตัวควบคุม: การควบคุมผู้ใช้ **การควบคุมโดยผู้ดูแลระบบผ่าน PowerShell (เร็วๆ นี้)

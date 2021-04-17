@@ -2,7 +2,7 @@
 title: แก้ไขปัญหาเกี่ยวกับตัวเลือกการลงทะเบียน Microsoft Intun1
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
@@ -13,20 +13,20 @@ ms.assetid: 3891bd0c-374c-49aa-9336-86caccb9639e
 ms.custom:
 - "786"
 - "6200002"
-ms.openlocfilehash: 9e375d1ae3f6bfa56c4c050a296a0ae9b0ce05f9
-ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
+ms.openlocfilehash: 84159de0f29782d3c2a6a92ac77322e4bec525dd
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 03/10/2021
-ms.locfileid: "50708621"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51830925"
 ---
 # <a name="troubleshoot-issues-with-enrollment-options-microsoft-intune"></a>แก้ไขปัญหาเกี่ยวกับตัวเลือกการลงทะเบียน Microsoft Intun1
 
-ตรวจสอบแหล่งข้อมูลที่แสดงอยู่ในรายการด้านล่างเพื่อแก้ไขปัญหาของคุณทันที
+ตรวจสอบแหล่งข้อมูลที่แสดงอยู่ด้านล่างเพื่อแก้ไขปัญหาของคุณทันที
   
-- [ตรวจทาน Intun1 TechNet เพื่อค้นหาคําตอบและโซลูชันของปัญหา](https://social.technet.microsoft.com/Forums/home?category=microsoftintune&amp;filter=alltypes&amp;sort=lastpostdesc)ทั่วไป
+- [ตรวจสอบ Intun1 TechNet เพื่อค้นหาคําตอบและโซลูชันของปัญหา](https://social.technet.microsoft.com/Forums/home?category=microsoftintune&amp;filter=alltypes&amp;sort=lastpostdesc)ทั่วไป
 
-- ใช้ [พอร์ทัลการแก้ไขปัญหา Intuns](https://aka.ms/intunetroubleshooting) เพื่อวินิจฉัยและแก้ไขความล้มเหลวในการลงทะเบียนทั่วไป ตรวจทาน [เอกสาร](https://docs.microsoft.com/intune/help-desk-operators) นี้เพื่อดูรายละเอียดเพิ่มเติม
+- ใช้ [พอร์ทัลการแก้ไขปัญหา Intun1](https://aka.ms/intunetroubleshooting) เพื่อวินิจฉัยและแก้ไขความล้มเหลวในการลงทะเบียนทั่วไป ตรวจทาน [เอกสาร](https://docs.microsoft.com/intune/help-desk-operators) นี้เพื่อดูรายละเอียดเพิ่มเติม
 
 - ตรวจทาน [เอกสาร](https://docs.microsoft.com/troubleshoot/mem/intune/troubleshoot-device-enrollment-in-intune) นี้เพื่อดูรายการข้อผิดพลาดทั่วไปที่ป้องกันไม่ให้ลงทะเบียนและแก้ไขปัญหาในแต่ละรายการ
 

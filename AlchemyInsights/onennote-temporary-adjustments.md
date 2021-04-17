@@ -2,7 +2,7 @@
 title: การปรับปรุงชั่วคราวของ OneNote
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002315"
 - "4508"
-ms.openlocfilehash: e9bb9004ca35f965ae916bc4473a711eb8ae55c3
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 5586a7b1f87c4cd747f6694641077b90c7ed956c
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47729566"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51831609"
 ---
 # <a name="onenote-temporary-adjustments"></a>การปรับปรุงชั่วคราวของ OneNote
 
-**สิ่งสำคัญ**: ในช่วงเวลาที่เป็นประวัติการณ์เหล่านี้เราจะดำเนินการตามขั้นตอนเพื่อให้แน่ใจว่าบริการ OneNote ยังคงพร้อมใช้งานมาก
+**สิ่ง** สําคัญ : ในระหว่างช่วงเวลาที่ไม่มีประวัติการเหล่านี้ เราใช้เวลาหลายขั้นตอนเพื่อให้แน่ใจว่าบริการ OneNote ยังคงพร้อมใช้งานอยู่
 
-- OneNote ในทีมจะเป็นแบบอ่านอย่างเดียวสำหรับผู้เช่าเชิงพาณิชย์และการศึกษา เมื่อต้องการแก้ไขโปรดใช้ OneNote สำหรับเว็บหรือแอป OneNote บนเดสก์ท็อป
+- OneNote ใน Teams จะเป็นแบบอ่านอย่างเดียวในผู้เช่าเชิงพาณิชย์และการศึกษา เมื่อต้องการแก้ไข โปรดใช้ OneNote บนเว็บหรือแอป OneNote บนเดสก์ท็อป
 
-- ขนาดของการดาวน์โหลดและความถี่ในการซิงค์ของไฟล์ที่แนบมามีการเปลี่ยนแปลง
+- มีการเปลี่ยนแปลงขนาดการดาวน์โหลดและความถี่ในการซิงค์ของไฟล์ที่แนบมา
 
-โปรดไปที่การ [ปรับปรุงชั่วคราวของ OneNote](https://techcommunity.microsoft.com/t5/onenote-service-updates/awareness-of-temporary-adjustments-in-microsoft-onenote/m-p/1248100) สำหรับข้อมูลเพิ่มเติม
+โปรด [ไปที่การปรับปรุงชั่วคราวของ OneNote](https://techcommunity.microsoft.com/t5/onenote-service-updates/awareness-of-temporary-adjustments-in-microsoft-onenote/m-p/1248100) เพื่อดูข้อมูลเพิ่มเติม

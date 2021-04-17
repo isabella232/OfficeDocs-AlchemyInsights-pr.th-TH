@@ -2,7 +2,7 @@
 title: สารบัญ
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,23 +12,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "3042"
 - "9000592"
-ms.openlocfilehash: b3e78ae5f7f6bc79b46993d7f67a57114282edd3
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: c44e18d349624d9fed172bc3ffecc59b41717dda
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47758048"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51831069"
 ---
 # <a name="table-of-contents"></a>สารบัญ
 
-สำหรับข้อมูลเกี่ยวกับการสร้างสารบัญใน Word ให้ดูที่ [การแทรก](https://support.office.com/article/882e8564-0edb-435e-84b5-1d8552ccf0c0)สารบัญหรือดาวน์โหลด [บทช่วยสอน](https://go.microsoft.com/fwlink/?linkid=2065106)สารบัญของเรา
+For information on creating a table of contents in Word, see [Insert a table of contents](https://support.office.com/article/882e8564-0edb-435e-84b5-1d8552ccf0c0), or download our Table of Contents [tutorial](https://go.microsoft.com/fwlink/?linkid=2065106).
 
 **วิธีแก้ไขปัญหาทั่วไป**
 
 - สารบัญไม่มีหัวเรื่องที่คุณเพิ่งเพิ่มลงในเอกสารของคุณ
-  1. เลือกข้อความหัวเรื่องไปยัง**สไตล์หน้าแรก**  >  **Styles**และตรวจสอบว่าสไตล์จะถูกนำไปใช้กับหัวเรื่อง
-  2. ไปที่**References**  >  **ตารางการอัปเดตการ**อ้างอิงเพื่ออัปเดตตารางเนื้อหา
+  1. เลือกข้อความหัวเรื่อง ไปที่  >  **สไตล์** หน้าแรก แล้วตรวจสอบว่าได้ปรับใช้สไตล์กับหัวเรื่องแล้ว
+  2. ไปที่ **ตาราง**  >  **อัปเดต** การอ้างอิง เพื่ออัปเดตสารบัญ
 
-- สารบัญกำลังแสดงข้อความมากเกินไป 
-  1. เลือกข้อความย่อหน้าแล้วไปที่สไตล์**หน้าแรก**  >  **Styles**
-  2. เลือกสไตล์เช่น **ปกติ**ที่ไม่ได้รวมอยู่ในสารบัญ
+- สารบัญแสดงข้อความมากเกินไป 
+  1. เลือกข้อความย่อหน้า แล้วไปที่  >  **สไตล์** หน้าแรก
+  2. เลือกสไตล์ **เช่น** ปกติ ที่ไม่ได้รวมอยู่ในสารบัญ

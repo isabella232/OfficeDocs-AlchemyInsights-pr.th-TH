@@ -1,8 +1,8 @@
 ---
-title: การเชิญเข้าร่วมการประชุมทีม
+title: คําเชิญเข้าร่วมประชุม Teams
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002511"
 - "4892"
-ms.openlocfilehash: 2c332abe8c525012f4d6b2cd8c3f7054ccc8933e
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 88b7cbbe36882e06400869fbd211bb6fe81e845c
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47736235"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51831033"
 ---
-# <a name="teams-meeting-invitations"></a>การเชิญเข้าร่วมการประชุมทีม
+# <a name="teams-meeting-invitations"></a>คําเชิญเข้าร่วมประชุม Teams
 
-ต้องการความช่วยเหลือในการกำหนดการเชิญเข้าร่วมการประชุมสำหรับองค์กรของคุณด้วยตนเองหรือไม่ ตรวจสอบให้แน่ใจว่าได้เลือกกำหนดการเชิญเข้าร่วมการ[ประชุมเอง](https://docs.microsoft.com/microsoftteams/meeting-settings-in-teams#customize-meeting-invitations)  
+ต้องการความช่วยเหลือในการปรับแต่งคําเชิญเข้าร่วมประชุม Teams ให้กับองค์กรของคุณหรือไม่ อย่าลืมตรวจทาน การ [เชิญเข้าร่วมการประชุมแบบปรับแต่ง](https://docs.microsoft.com/microsoftteams/meeting-settings-in-teams#customize-meeting-invitations)เอง  
 
-สำหรับข้อมูลเพิ่มเติมให้ดู[จัดการการตั้งค่าการประชุมในทีม Microsoft](https://docs.microsoft.com/microsoftteams/meeting-settings-in-teams)
+หากต้องการข้อมูลเพิ่มเติม โปรดดู[จัดการการตั้งค่าการประชุมใน Microsoft Teams](https://docs.microsoft.com/microsoftteams/meeting-settings-in-teams)

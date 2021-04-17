@@ -1,8 +1,8 @@
 ---
-title: ไฟล์/โฟลเดอร์ที่หายไปใน SharePoint Online
+title: ไฟล์/โฟลเดอร์ใน SharePoint Online หายไป
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002302"
 - "4465"
-ms.openlocfilehash: 22dc27acae4297dc67620e2ab3977cf2ea2e592a
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 4895eeacf0a766efc3684acb4ea36461853e9822
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47667429"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51831717"
 ---
-# <a name="missing-filesfolders-in-sharepoint-online"></a>ไฟล์/โฟลเดอร์ที่หายไปใน SharePoint Online
+# <a name="missing-filesfolders-in-sharepoint-online"></a>ไฟล์/โฟลเดอร์ใน SharePoint Online หายไป
 
-ถ้าไฟล์ OneDrive ของคุณได้รับการลบเขียนทับเสียหายหรือติดตั้งมัลแวร์เราจะมอบตัวเลือกต่างๆให้กับผู้ใช้เพื่อช่วยในกระบวนการกู้คืน
+ถ้าไฟล์ OneDrive ของคุณถูกลบ เขียนทับ เสียหาย หรือติดมัลแวร์ เราจะมอบตัวเลือกมากมายแก่ผู้ใช้เพื่อช่วยในขั้นตอนการกู้คืน
 
-- [วิธีการกู้คืนรายการที่หายไปลบหรือเสียหายใน OneDrive](https://go.microsoft.com/fwlink/?linkid=2125166)
+- [วิธีการกู้คืนรายการที่หายไป รายการที่ถูกลบ หรือรายการที่เสียหายใน OneDrive](https://go.microsoft.com/fwlink/?linkid=2125166)

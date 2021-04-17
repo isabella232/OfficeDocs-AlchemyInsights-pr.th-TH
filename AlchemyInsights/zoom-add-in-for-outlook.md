@@ -1,8 +1,8 @@
 ---
-title: การย่อ/ขยาย add-in สำหรับ Outlook
+title: ย่อ/ขยาย Add-in for Outlook
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002503"
 - "4851"
-ms.openlocfilehash: ffa0ae15f1b3b52688e17f58b0725839134e9fed
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 8ef80703f8274bee5e8184b5e4eeb6be0d45afbc
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47796235"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51830304"
 ---
-# <a name="zoom-add-in-for-outlook"></a>การย่อ/ขยาย add-in สำหรับ Outlook
+# <a name="zoom-add-in-for-outlook"></a>ย่อ/ขยาย Add-in for Outlook
 
-Add-in ตัวจัดกำหนดการการย่อ/ขยายช่วยให้คุณสามารถเพิ่มการประชุมการย่อ/ขยายไปยังเหตุการณ์ในปฏิทิน Outlook ใหม่หรือที่มีอยู่บนเว็บได้อย่างง่ายดาย
+Add-in Zoom Scheduler ช่วยให้คุณสามารถเพิ่มการประชุมย่อ/ขยายลงในเหตุการณ์ปฏิทิน Outlook ใหม่หรือที่มีอยู่บนเว็บได้อย่างง่ายดาย
 
-คุณสามารถดาวน์โหลด add-in ได้[ที่นี่](https://go.microsoft.com/fwlink/?linkid=2126413)
+คุณสามารถดาวน์โหลด Add-in[](https://go.microsoft.com/fwlink/?linkid=2126413)ได้ที่นี่
  

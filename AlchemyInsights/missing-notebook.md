@@ -2,7 +2,7 @@
 title: สมุดบันทึกหายไป
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000559"
 - "2502"
-ms.openlocfilehash: e47ea1dbc69d686fc5a2624ec6ee06171ceaa508
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 8fafb3377ce7b09a87f9cf5458db56f00e4387d9
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47667177"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51831681"
 ---
 # <a name="recover-missing-notebook"></a>กู้คืนสมุดบันทึกที่หายไป
 
-ถ้าสมุดบันทึกบน OneDrive ถูกลบโดยไม่ตั้งใจคุณสามารถกู้คืนได้โดยทำตามขั้นตอนในการ [คืนค่าไฟล์หรือโฟลเดอร์ที่ถูกลบใน OneDrive](https://support.office.com/article/949ada80-0026-4db3-a953-c99083e6a84f)
+ถ้าสมุดบันทึกบน OneDrive ถูกลบโดยไม่ได้ตั้งใจ คุณสามารถกู้คืนได้โดยปฏิบัติตามขั้นตอนใน [คืนค่าไฟล์หรือโฟลเดอร์ที่ถูกลบใน OneDrive](https://support.office.com/article/949ada80-0026-4db3-a953-c99083e6a84f)
 
-คุณสามารถกู้คืนสมุดบันทึกบน OneDrive ที่ถูกลบภายใน30วันตามค่าเริ่มต้นได้โดยทำตามขั้นตอนใน [คืนค่า onedrive ที่ถูกลบ](https://docs.microsoft.com/onedrive/restore-deleted-onedrive)
+คุณสามารถกู้คืนสมุดบันทึกบน OneDrive ที่ถูกลบได้ภายใน 30 วันตามค่าเริ่มต้น โดยปฏิบัติตามขั้นตอน [ใน คืนค่า OneDrive ที่ถูกลบ](https://docs.microsoft.com/onedrive/restore-deleted-onedrive)
 
-OneNote อาจใช้บัญชีผู้ใช้อื่นนอกเหนือจากที่คุณคาดคิด ถ้าคุณมีบัญชีที่ทำงานหรือที่โรงเรียนที่มีให้นอกเหนือจากบัญชี Microsoft ส่วนบุคคลของคุณคุณจะต้องเพิ่มบัญชีผู้ใช้อื่นของคุณเพื่อดูสมุดบันทึกทั้งหมดของคุณ (โปรดดูคำแนะนำเกี่ยวกับวิธีการ[เพิ่มบัญชีผู้ใช้ใน OneNote](https://support.office.com/article/5afff855-54ee-47e4-a773-db048d4ac299)
+OneNote อาจใช้บัญชีอื่นที่ไม่ใช่ที่คุณคาดไว้ ถ้าคุณมีบัญชีที่จัดหาให้จากที่โรงเรียนหรือที่โรงเรียนนอกเหนือจากบัญชี Microsoft ส่วนบุคคลของคุณ คุณจะต้องเพิ่มบัญชีอื่นของคุณเพื่อดูสมุดบันทึกของคุณทั้งหมด (ดูคําแนะนําเกี่ยวกับวิธีการเพิ่ม[บัญชีใน OneNote](https://support.office.com/article/5afff855-54ee-47e4-a773-db048d4ac299)

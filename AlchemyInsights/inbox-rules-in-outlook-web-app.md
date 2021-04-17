@@ -1,8 +1,8 @@
 ---
-title: กฎกล่องจดหมายเข้าใน Outlook Web app
+title: กฎของกล่องจดหมายเข้าใน Outlook Web App
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "1800021"
 - "922"
-ms.openlocfilehash: ab1dce94874988dedea5b0c13d6acd6ec2ccbda8
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 9d9bc9e9bcceace8457ae0d4961a9d7d5eda0cb8
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47778854"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51830268"
 ---
-# <a name="inbox-rules-in-outlook-web-app"></a>กฎกล่องจดหมายเข้าใน Outlook Web app
+# <a name="inbox-rules-in-outlook-web-app"></a>กฎของกล่องจดหมายเข้าใน Outlook Web App
 
-1. ในเว็บเบราว์เซอร์ให้ลงชื่อเข้าใช้ Outlook Web App โดยใช้ URL ที่ได้รับมาจากบุคคลที่จัดการอีเมลสำหรับองค์กรของคุณ ใส่ชื่อผู้ใช้และรหัสผ่านของคุณแล้วคลิก**ลงชื่อเข้าใช้**
-2. ที่ด้านบนสุดของหน้าให้คลิก**การตั้งค่า > ตัวเลือก**
-3. ใน**ตัวเลือก**ให้คลิก**จัดระเบียบอีเมลที่ > กฎของกล่องจดหมายเข้า**
+1. ในเว็บเบราว์เซอร์ ให้ลงชื่อเข้าใช้ Outlook Web App โดยใช้ URL ที่ให้โดยผู้ที่จัดการอีเมลให้กับองค์กรของคุณ ใส่ชื่อผู้ใช้และรหัสผ่านของคุณ **แล้วคลิก** ลงชื่อเข้าใช้
+2. ที่ด้านบนของหน้า ให้คลิก การตั้งค่า **>** ตัวเลือก
+3. ใน **ตัวเลือก** ให้คลิก **จัดระเบียบอีเมล>กฎของกล่องจดหมาย** เข้า
 
-สำหรับข้อมูลเพิ่มเติมเกี่ยวกับวิธีการทำงานกับกฎกล่องจดหมายเข้าโปรดดู[ที่กฎของกล่องจดหมายเข้าใน Outlook Web App](https://support.office.com/article/inbox-rules-in-outlook-web-app-edea3d17-00c9-434b-b9b7-26ee8d9f5622)
+For additional information on how to work with inbox rules, please see [Inbox rules in Outlook Web App](https://support.office.com/article/inbox-rules-in-outlook-web-app-edea3d17-00c9-434b-b9b7-26ee8d9f5622).

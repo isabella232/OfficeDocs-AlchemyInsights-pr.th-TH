@@ -1,8 +1,8 @@
 ---
-title: แก้ไขปัญหาการเปิดไฟล์ PowerPoint
+title: แก้ไขปัญหาในการเปิดไฟล์ PowerPoint
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001698"
 - "5144"
-ms.openlocfilehash: f2d60107bccc5471c45d9e6175daee1526f1b9d0
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 363d08c033b33ebdd1abd3e5d30674ac274b9e24
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47797855"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51830742"
 ---
-# <a name="resolve-issues-opening-powerpoint-files"></a>แก้ไขปัญหาการเปิดไฟล์ PowerPoint
+# <a name="resolve-issues-opening-powerpoint-files"></a>แก้ไขปัญหาในการเปิดไฟล์ PowerPoint
 
-- ทำตามขั้นตอนใน [ข้อผิดพลาด: ไม่สามารถอ่านไฟล์หรือไม่สามารถเปิดงานนำเสนอ](https://support.office.com/article/Error-Can-t-read-file-or-Presentation-cannot-be-opened-7f2f31e2-d4dd-4c1f-9e27-ba6fadf92d44) ได้ถ้าคุณได้รับข้อความแสดงข้อผิดพลาดเมื่อเปิดไฟล์
-- ถ้าคุณกำลังมีปัญหาในการเปิดไฟล์ Office จากไลบรารีเอกสาร SharePoint หรือ OneDrive ให้ลองทำดังต่อไปนี้:
-    - ตรวจสอบข้อจำกัดของไฟล์ใน [ชื่อไฟล์และชนิดไฟล์ที่ไม่ถูกต้องใน onedrive, onedrive For Business และ SharePoint](https://support.office.com/article/64883a5d-228e-48f5-b3d2-eb39e07630fa) เพื่อให้แน่ใจว่าไฟล์ได้รับการสนับสนุน
-    - [ลบแคชเอกสาร Office ของคุณ](https://support.office.com/article/b1d3765e-d71b-4bb8-99ca-acd22c42995d)
+- ให้ปฏิบัติตาม [ขั้นตอนใน ข้อผิดพลาด: ไม่สามารถอ่านไฟล์ หรือเปิด](https://support.office.com/article/Error-Can-t-read-file-or-Presentation-cannot-be-opened-7f2f31e2-d4dd-4c1f-9e27-ba6fadf92d44) งานนําเสนอไม่ได้ถ้าคุณได้รับข้อความแสดงข้อผิดพลาดเมื่อเปิดไฟล์
+- ถ้าคุณมีปัญหาในการเปิดไฟล์ Office จาก SharePoint หรือไลบรารีเอกสาร OneDrive ให้ลองต่อไปนี้:
+    - ตรวจสอบข้อจํากัดของ [ไฟล์ในชื่อไฟล์และชนิดไฟล์ที่ไม่ถูกต้องใน OneDrive, OneDrive for Business](https://support.office.com/article/64883a5d-228e-48f5-b3d2-eb39e07630fa) และ SharePoint เพื่อให้แน่ใจว่าไฟล์ได้รับการสนับสนุน
+    - [ลบแคชเอกสาร Office](https://support.office.com/article/b1d3765e-d71b-4bb8-99ca-acd22c42995d)ของคุณ
 
-สำหรับข้อมูลเพิ่มเติมให้ดูที่[แก้ไขปัญหาการเปิดเอกสารในไลบรารี SharePoint](https://support.office.com/article/31329fa1-4ad0-47fc-95d8-bb0c5b12a536)
+For more information, [see Fix problems opening documents in SharePoint libraries](https://support.office.com/article/31329fa1-4ad0-47fc-95d8-bb0c5b12a536).
