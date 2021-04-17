@@ -1,8 +1,8 @@
 ---
-title: แป้นกดหมายเลขของทีมหายไป
+title: แป้นกดหมายเลขเสียงของ Teams หายไป
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "2641"
 - "9000719"
-ms.openlocfilehash: 185c261311acc527b0f0469ef1d72ed00e56d17b
-ms.sourcegitcommit: 1fb324fd156008e77b7e2008af4b3dc1c0d0ea3e
+ms.openlocfilehash: 6837cb9fffcf93a7fb99fec4c2343f476dd00599
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 10/13/2020
-ms.locfileid: "48452067"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51832365"
 ---
-# <a name="dial-pad-is-missing-in-microsoft-teams"></a>แป้นกดหมายเลขหายไปในทีม Microsoft 
+# <a name="dial-pad-is-missing-in-microsoft-teams"></a>แป้นกดหมายเลขหายไปใน Microsoft Teams 
 
-ถ้าแป้นกดหมายเลขของคุณหายไปในทีม Microsoft โปรดตรวจสอบดังต่อไปนี้:
+หากแป้นกดหมายเลขของคุณหายไปใน Microsoft Teams โปรดตรวจสอบดังต่อไปนี้:
 
-- ตรวจสอบให้แน่ใจว่าผู้ใช้ได้รับมอบหมายสิทธิ์การใช้งานของ [ทีม](https://docs.microsoft.com/MicrosoftTeams/assign-teams-licenses)แล้ว
-- ตรวจสอบให้แน่ใจว่าผู้ใช้ได้รับการกำหนด [แผนการโทร](https://docs.microsoft.com/MicrosoftTeams/calling-plan-landing-page) แล้ว
-- เปิดใช้งานผู้ใช้สำหรับ[องค์กรเสียง](https://docs.microsoft.com/skypeforbusiness/skype-for-business-hybrid-solutions/plan-your-phone-system-cloud-pbx-solution/enable-users-for-enterprise-voice-online-and-phone-system-voicemail#to-enable-your-users-for-phone-system-in-office-365-voice-and-voicemail)
+- ตรวจสอบให้แน่ใจว่าผู้ใช้ได้รับการมอบหมาย[สิทธิ์การใช้งาน Teams](https://docs.microsoft.com/MicrosoftTeams/assign-teams-licenses)
+- ตรวจสอบให้แน่ใจว่าผู้ใช้ได้รับการ [มอบหมายแผนการ](https://docs.microsoft.com/MicrosoftTeams/calling-plan-landing-page) โทรแล้ว
+- เปิดใช้งาน ผู้ใช้[for Enterprise Voice](https://docs.microsoft.com/skypeforbusiness/skype-for-business-hybrid-solutions/plan-your-phone-system-cloud-pbx-solution/enable-users-for-enterprise-voice-online-and-phone-system-voicemail#to-enable-your-users-for-phone-system-in-office-365-voice-and-voicemail)

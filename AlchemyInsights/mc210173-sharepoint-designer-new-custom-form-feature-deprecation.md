@@ -1,8 +1,8 @@
 ---
-title: MC210173-SharePoint Designer ใหม่คุณลักษณะฟอร์มแบบกำหนดเองแผน
+title: MC210173 - การเลิกใช้ฟีเจอร์ฟอร์มแบบปรับแต่งเองของ SharePoint Designer
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -14,21 +14,21 @@ ms.custom:
 - "5508"
 - "9000127"
 - "5507"
-ms.openlocfilehash: a53b8885a877cb688cfb42bb4f9108cb2cef2418
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 5be1ac4c8a4044adbc7d37c32ba7b3cb67c6cc25
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47743899"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51831825"
 ---
-# <a name="mc210173---sharepoint-designer-new-custom-form-feature-deprecation"></a>MC210173-SharePoint Designer ใหม่คุณลักษณะฟอร์มแบบกำหนดเองแผน
+# <a name="mc210173---sharepoint-designer-new-custom-form-feature-deprecation"></a>MC210173 - การเลิกใช้ฟีเจอร์ฟอร์มแบบปรับแต่งเองของ SharePoint Designer
 
-เราได้ระบุปัญหาที่ส่งผลต่อฟังก์ชันการทำงานของ SharePoint Designer สำหรับการ [สร้างฟอร์มแบบกำหนดเอง](https://support.microsoft.com/en-us/office/create-a-custom-list-form-using-sharepoint-designer-917d8fdb-ee00-4441-adb3-a94612d1d105?ui=en-us&rs=en-us&ad=us#bm2) ภายใน SharePoint Online หลังจากการตรวจสอบอย่างระมัดระวังเราได้ระบุว่าไม่มีการแก้ไขปัญหาที่ทราบแล้วสำหรับปัญหานี้และเลือกที่จะปิดใช้งานฟีเจอร์การสร้างฟอร์มแบบกำหนดเองที่มีผลบังคับใช้ในเวลา 3:00 AM UTC ในวันเสาร์, 25 เมษายน๒๐๒๐ การเปลี่ยนแปลงนี้ไม่มีผลกระทบต่อความสามารถในการแก้ไขฟอร์มที่สร้างไว้ก่อนหน้าหรือคุณลักษณะอื่นๆที่มีอยู่ใน SharePoint Online Designer
+เราได้ระบุปัญหาที่มีผลกระทบต่อฟังก์ชันการใช้ฟังก์ชัน SharePoint Designer ในการสร้าง [ฟอร์มแบบปรับแต่งเอง](https://support.microsoft.com/en-us/office/create-a-custom-list-form-using-sharepoint-designer-917d8fdb-ee00-4441-adb3-a94612d1d105?ui=en-us&rs=en-us&ad=us#bm2) ภายใน SharePoint Online หลังจากระมัดระวังการใช้ความระมัดระวัง เราได้กําหนดว่า ไม่มีการแก้ไขที่ทราบแล้วของปัญหานี้ และได้เลือกที่จะปิดใช้งานฟีเจอร์การสร้างฟอร์มแบบกําหนดเองได้อย่างมีประสิทธิภาพตั้งแต่ 3:00 น. UTC ในวันเสาร์ 25 เมษายน 2020 การเปลี่ยนแปลงนี้จะไม่ส่งผลกระทบต่อความสามารถในการแก้ไขฟอร์มที่สร้างไว้ก่อนหน้านี้หรือฟีเจอร์ที่มีอยู่อื่นๆ ใน SharePoint Online Designer
 
-หลังจากที่ทำการเปลี่ยนแปลงนี้ผู้ใช้อาจได้รับข้อผิดพลาด: "ไม่สามารถบันทึกการเปลี่ยนแปลงรายการไปยังเซิร์ฟเวอร์ได้" เมื่อสร้างฟอร์มใหม่
+หลังจากการเปลี่ยนแปลงนี้แล้ว ผู้ใช้อาจได้รับข้อผิดพลาด: "ไม่สามารถบันทึกการเปลี่ยนแปลงรายการไปยังเซิร์ฟเวอร์ได้" เมื่อสร้างฟอร์มใหม่
 
-ผู้ใช้ที่มีการใช้งาน SharePoint Designer ก่อนหน้านี้เพื่อสร้างฟอร์มแบบกำหนดเองแทนที่จะสามารถใช้ [PowerApps](https://docs.microsoft.com/powerapps/maker/canvas-apps/customize-list-form) เพื่อวัตถุประสงค์นี้ได้
+ผู้ใช้ที่ใช้ SharePoint Designer มาก่อนหน้านี้เพื่อสร้างฟอร์มแบบปรับแต่งเองจะสามารถใช้ [PowerApps](https://docs.microsoft.com/powerapps/maker/canvas-apps/customize-list-form) เพื่อจุดประสงค์นี้แทนได้
 
-PowerApps เป็นเครื่องมือที่ง่ายและมีประสิทธิภาพที่ช่วยให้ผู้ใช้สามารถดำเนินการในประสบการณ์การใช้งาน SharePoint Online ที่ทันสมัยในการสร้างและแก้ไขฟอร์มแบบกำหนดเองสำหรับรายการ SharePoint และไลบรารีเอกสารได้โดยตรงจากหน้าต่างเบราว์เซอร์ PowerApps ไม่จำเป็นต้องมีความรู้เกี่ยวกับการเขียนโค้ดแบบดั้งเดิมหรือการดาวน์โหลดแอปที่เพิ่มเติมเช่น InfoPath
+PowerApps เป็นเครื่องมือที่ง่ายและมีประสิทธิภาพที่ช่วยให้ผู้ใช้สามารถดําเนินการในประสบการณ์ที่ทันสมัยของ SharePoint Online เพื่อสร้างและแก้ไขฟอร์มแบบปรับแต่งเองในรายการ SharePoint และไลบรารีเอกสารได้จากหน้าต่างเบราว์เซอร์ PowerApps ไม่ต้องมีการเขียนโค้ดความรู้แบบดั้งเดิมหรือการดาวน์โหลดแอปเพิ่มเติมใดๆ เช่น InfoPath
 
-**หมายเหตุ**: ผู้ใช้ SharePoint Online Classic จำเป็นต้องสลับไปยังประสบการณ์การใช้งานที่ทันสมัยในการเข้าถึงและใช้งาน PowerApps อย่างชั่วคราว แม้ว่าฟอร์มแบบกำหนดเองทั้งหมดที่สร้างขึ้นใน PowerApps จะสามารถเข้าถึงได้โดยผู้ใช้ที่ใช้ประสบการณ์การใช้งานแบบคลาสสิกของ SharePoint Online
+**หมายเหตุ**: ผู้ใช้ SharePoint Online Classic จะต้องสลับไปยังประสบการณ์การใช้งานที่ทันสมัยชั่วคราวเพื่อเข้าถึงและใช้ PowerApps แม้ว่า ฟอร์มแบบปรับแต่งเองทั้งหมดที่สร้างขึ้นใน PowerApps จะสามารถเข้าถึงได้โดยผู้ใช้ประสบการณ์การใช้งาน SharePoint Online แบบคลาสสิก

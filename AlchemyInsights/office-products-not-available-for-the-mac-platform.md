@@ -1,8 +1,8 @@
 ---
-title: ผลิตภัณฑ์ Office ที่ไม่พร้อมใช้งานสำหรับแพลตฟอร์ม Mac
+title: ผลิตภัณฑ์ Office ไม่พร้อมใช้งานบนแพลตฟอร์ม Mac
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: ITPro
 ms.topic: article
 ms.service: o365-administration
@@ -15,14 +15,14 @@ ms.custom:
 - "756"
 - "755"
 - "2000016"
-ms.openlocfilehash: 312ef6de211f972173eab6071bd5f8e44fc40bf3
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 7ea579188d8b28f4af47e03e09e9767d9d84e5e7
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47802688"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51832869"
 ---
-# <a name="office-products-not-available-for-the-mac-platform"></a>ผลิตภัณฑ์ Office ที่ไม่พร้อมใช้งานสำหรับแพลตฟอร์ม Mac
+# <a name="office-products-not-available-for-the-mac-platform"></a>ผลิตภัณฑ์ Office ไม่พร้อมใช้งานบนแพลตฟอร์ม Mac
 
-Visio, Project, Publisher และ Access ไม่พร้อมใช้งานสำหรับแพลตฟอร์ม Mac อย่างไรก็ตาม Visio Online และ Project Online จะพร้อมใช้งานและทำงานบนแพลตฟอร์มทั้งหมด
+Visio, Project, Publisher และ Access ไม่พร้อมใช้งานบนแพลตฟอร์ม Mac แต่ Visio Online และ Project Online จะพร้อมใช้งานและใช้งานบนแพลตฟอร์มทั้งหมด
   
