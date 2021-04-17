@@ -1,8 +1,8 @@
 ---
-title: ตั้งค่า PIN การประชุมใหม่ในทีม
+title: ตั้งค่า PIN การประชุมใหม่ใน Teams
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,26 +12,26 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002882"
 - "5494"
-ms.openlocfilehash: ac3316bbfdbcce2f651e5803adc23c2c5d110164
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 613dea3b5043ff53902bd797e3edc46afb5c7107
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47692134"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51828747"
 ---
-# <a name="reset-conferencing-pin-in-teams"></a>ตั้งค่า PIN การประชุมใหม่ในทีม
+# <a name="reset-conferencing-pin-in-teams"></a>ตั้งค่า PIN การประชุมใหม่ใน Teams
 
-เมื่อต้องการรีเซ็ต PIN การประชุมทางเสียงในทีมให้ใช้ขั้นตอนต่อไปนี้  
+เมื่อต้องการรีเซ็ต PIN การประชุมทางเสียงใน Teams ให้ใช้ขั้นตอนต่อไปนี้  
 
-การใช้ศูนย์การจัดการทีมของ Microsoft:
+การใช้ศูนย์การจัดการ Microsoft Teams:
 
-1. ในการนำทางด้านซ้ายให้คลิก **ผู้ใช้**แล้วเลือกผู้ใช้จากรายการของผู้ใช้ที่พร้อมใช้งาน
-2. คลิก**แก้ไข**
-3. ภายใต้การประชุมทางเสียงให้คลิก**ตั้งค่า PIN ใหม่**
-4. คลิก**ตั้งค่าใหม่**
+1. ในการนําทางด้านซ้าย **ให้คลิก** ผู้ใช้ แล้วเลือกผู้ใช้จากรายการผู้ใช้ที่พร้อมใช้งาน
+2. คลิกแก้ไข
+3. ภายใต้ การประชุมผ่านเสียง **ให้คลิก ตั้งค่า PIN** ใหม่
+4. คลิก **รีเซ็ต**
 
-เมื่อต้องการให้ผู้ใช้ตั้งค่า PIN ของตนเอง:
-1. https://admin0m.online.lync.com/lscp/usp/pstnconferencingให้ผู้ใช้ไปยัง
-2. คลิก**ตั้งค่า PIN ใหม่**
+To Have a user reset his or her own PIN:
+1. ให้ผู้ใช้ https://admin0m.online.lync.com/lscp/usp/pstnconferencing ไปที่
+2. คลิก **รีเซ็ต PIN**
 
-สำหรับข้อมูลเพิ่มเติมให้ดู [ที่ตั้งค่า PIN การประชุมทางเสียงในทีม Microsoft](https://docs.microsoft.com/microsoftteams/reset-the-audio-conferencing-pin-in-teams)
+For more information, see [Reset the Audio Conferencing PIN in Microsoft Teams](https://docs.microsoft.com/microsoftteams/reset-the-audio-conferencing-pin-in-teams)

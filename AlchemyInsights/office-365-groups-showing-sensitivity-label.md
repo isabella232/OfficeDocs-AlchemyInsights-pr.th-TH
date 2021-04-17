@@ -1,8 +1,8 @@
 ---
-title: กลุ่ม Microsoft ๓๖๕แสดงป้ายชื่อความลับ
+title: กลุ่ม Microsoft 365 ที่แสดงป้ายชื่อระดับความลับ
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "1200024"
 - "4803"
-ms.openlocfilehash: 6875076da9d1984d94cd65c9cf1e582c9e5e7e8f
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 81906f5260c032bb15dd12dfce5945a8972fb5eb
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47803084"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51829143"
 ---
-# <a name="microsoft-365-groups-showing-sensitivity-label"></a>กลุ่ม Microsoft ๓๖๕แสดงป้ายชื่อความลับ
+# <a name="microsoft-365-groups-showing-sensitivity-label"></a>กลุ่ม Microsoft 365 ที่แสดงป้ายชื่อระดับความลับ
 
-คุณอาจพบปัญหาต่อไปนี้กับกลุ่ม Microsoft ๓๖๕:
+คุณอาจเห็นปัญหาต่อไปนี้เกี่ยวกับกลุ่ม Microsoft 365:
 
-- ไม่สามารถสร้างกลุ่ม Microsoft ๓๖๕จาก OWA ที่มีข้อผิดพลาด "เขตข้อมูลการจัดประเภทไม่สามารถว่างได้"
+- ไม่สามารถสร้างกลุ่ม Microsoft 365 จาก OWA มีข้อผิดพลาด "ไม่สามารถล้างเขตข้อมูลการจัดประเภทได้"
 
-- การดูป้ายชื่อความลับสำหรับกลุ่ม Microsoft ๓๖๕แม้ว่าคุณจะไม่ได้เปิดใช้งานฟีเจอร์นี้
+- การดูป้ายระดับความลับของกลุ่ม Microsoft 365 แม้ว่าคุณจะไม่ได้เปิดใช้งานฟีเจอร์นี้
 
-ปัญหานี้ได้รับการระบุและได้รับการแก้ไขแล้ว การแก้ไขปัญหาไวร์กำลังดำเนินการอยู่และควรเสร็จสมบูรณ์ในไม่กี่ชั่วโมง ในขณะเดียวกันโปรดใช้พอร์ทัลการดูแลระบบ Office หรือพอร์ทัลผู้ดูแลระบบ Azure เพื่อสร้างกลุ่ม Microsoft ๓๖๕  
+มีการระบุและแก้ไขปัญหานี้แล้ว การเริ่มแก้ไขปัญหาอยู่ระหว่างการเริ่มพัฒนาและควรเสร็จสมบูรณ์ในอีกไม่กี่ชั่วโมง ขณะเดียวกัน โปรดใช้พอร์ทัลผู้ดูแลระบบ Office หรือพอร์ทัลผู้ดูแลระบบ Azure เพื่อสร้างกลุ่ม Microsoft 365  

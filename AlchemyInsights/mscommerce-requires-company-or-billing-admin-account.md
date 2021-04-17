@@ -1,8 +1,8 @@
 ---
-title: เชื่อมต่อกับโมดู MSCommerce
+title: เชื่อมต่อกับมอดูล MSCommerce
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,21 +12,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001212"
 - "3529"
-ms.openlocfilehash: 15dc7038426a8d436c236a91aa0f3462f6a3e366
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 8e6819f6d6ff37baab4bdd49cb5a87c32490f841
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47702634"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51829755"
 ---
-# <a name="mscommerce-requires-a-company-or-billing-administrator-account"></a>MSCommerce จำเป็นต้องมีบริษัทหรือบัญชีผู้ดูแลการเรียกเก็บเงิน
+# <a name="mscommerce-requires-a-company-or-billing-administrator-account"></a>MSCommerce ต้องใช้บัญชีของบริษัทหรือผู้ดูแลการเรียกเก็บเงิน
 
-โมดู MSCommerce จำเป็นต้องมีบัญชีผู้ใช้กับบริษัทหรือสิทธิ์ของผู้ดูแลระบบการเรียกเก็บเงิน ถ้าคุณได้รับข้อผิดพลาดต่อไปนี้คุณจะต้องเชื่อมต่อกับบัญชีผู้ใช้อื่น
+โมดูล MSCommerce ต้องใช้บัญชีที่มีสิทธิ์ผู้ดูแลระบบของบริษัทหรือผู้ดูแลการเรียกเก็บเงิน ถ้าคุณได้รับข้อผิดพลาดต่อไปนี้ คุณจะต้องเชื่อมต่อกับบัญชีอื่นอีกครั้ง
 
-*ErrorMessage-เซิร์ฟเวอร์ระยะไกลจะส่งกลับข้อผิดพลาด: (๔๐๓) ต้องห้าม ErrorDetails-ที่ C:\Program Files\WindowsPowerShell\Modules\MSCommerce\1.2\MSCommerce.psm1: 216 อักขระ: 5*<br>
-*+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;HandleError-ErrorContext $ _-CustomErrorMessage "ล้มเหลวในการ retri ...*<br>
+*ErrorMessage - เซิร์ฟเวอร์ระยะไกลส่งกลับข้อผิดพลาด: (403) Forbidden ErrorDetails - ที่ C:\Program Files\WindowsPowerShell\Modules\MSCommerce\1.2\MSCommerce.psm1:216 char:5*<br>
+*+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;HandleError -ErrorContext $_ -CustomErrorMessage "ไม่สามารถลองใหม่...*<br>
 \+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*+ CategoryInfo: NotSpecified: (:) [เขียน-ข้อผิดพลาด], WriteErrorException*<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*+ ประยุกต์: คำสั่ง WriteErrorException, HandleError*
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*+ CategoryInfo : ไม่ระบุ: (:) [Write-Error], WriteErrorException*<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*+FullyQualifiedErrorId : Microsoft.PowerShell.Commands.WriteErrorException,HandleError*
 
-ถ้าบัญชีผู้ใช้ของคุณไม่มีบริษัทหรือสิทธิ์ของผู้ดูแลระบบการเรียกเก็บเงินให้ติดต่อผู้ดูแลระบบ IT ของคุณ
+ถ้าบัญชีของคุณไม่มีสิทธิ์ผู้ดูแลระบบของบริษัทหรือผู้ดูแลการเรียกเก็บเงิน ให้ติดต่อผู้ดูแลระบบ IT ของคุณ

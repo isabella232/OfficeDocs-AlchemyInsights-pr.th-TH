@@ -1,8 +1,8 @@
 ---
-title: หมายเลขโทรศัพท์ฝ่ายสนับสนุนของ Microsoft ๓๖๕
+title: หมายเลขโทรศัพท์ฝ่ายสนับสนุนของ Microsoft 365
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002926"
 - "5599"
-ms.openlocfilehash: 3b9069dd172beb81fdffe2b5a90868376cda9015
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: e6c0cfb8e7bccdf8a420b53970da43f65ca5a992
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47742654"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51829980"
 ---
-# <a name="microsoft-365-support-phone-number"></a>หมายเลขโทรศัพท์ฝ่ายสนับสนุนของ Microsoft ๓๖๕
+# <a name="microsoft-365-support-phone-number"></a>หมายเลขโทรศัพท์ฝ่ายสนับสนุนของ Microsoft 365
 
-- สำหรับโซลูชันวิธีใช้ตนเองหรือเมื่อต้องการร้องขอการโทรกลับจากการสนับสนุนโปรดพิมพ์คำอธิบายปัญหาที่เฉพาะเจาะจงมากขึ้น  ถ้าคุณยังคงต้องการเปิดบัตรสนับสนุนให้คลิก **ติดต่อฝ่ายสนับสนุน** ที่ด้านล่างของหน้านี้
+- หากต้องการแก้ไขปัญหาด้วยตนเองหรือร้องขอการโทรกลับจากฝ่ายสนับสนุน โปรดพิมพ์รายละเอียดปัญหาที่เฉพาะเจาะจงเพิ่มเติม  ถ้าคุณยังต้องการเปิดตั๋วการสนับสนุน **ให้คลิก ติดต่อ** ฝ่ายสนับสนุน ที่ด้านล่างของหน้านี้
 
-- [หมายเลขโทรศัพท์สำหรับการสนับสนุน Microsoft ๓๖๕ business](https://docs.microsoft.com/microsoft-365/admin/contact-support-for-business-products?view=o365-worldwide&tabs=phone)
+- [หมายเลขโทรศัพท์การสนับสนุน Microsoft 365 Business](https://docs.microsoft.com/microsoft-365/admin/contact-support-for-business-products?view=o365-worldwide&tabs=phone)

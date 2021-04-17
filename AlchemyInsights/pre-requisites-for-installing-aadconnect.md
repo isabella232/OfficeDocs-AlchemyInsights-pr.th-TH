@@ -1,8 +1,8 @@
 ---
-title: Pre-requisites สำหรับการติดตั้ง AADConnect
+title: Pre-requisites for installing AADConnect
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,13 +12,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "1300023"
 - "4533"
-ms.openlocfilehash: b0b95296ef6e5cbdd27d36969d09a57dcc554e51
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: fc17da9781c4960f91e76f2c60b7067cdd24e473
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47720989"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51828999"
 ---
-# <a name="pre-requisites-for-installing-aadconnect"></a>Pre-requisites สำหรับการติดตั้ง AADConnect
+# <a name="pre-requisites-for-installing-aadconnect"></a>Pre-requisites for installing AADConnect
 
-ต้องติดตั้งการเชื่อมต่อ Azure AD บน Windows Server ๒๐๑๒หรือเวอร์ชันที่ใหม่กว่า เซิร์ฟเวอร์นี้ต้องเป็นโดเมนที่เข้าร่วมและอาจเป็นตัวควบคุมโดเมนหรือเซิร์ฟเวอร์สมาชิก  สำหรับรายการทั้งหมดของความต้องการของการเชื่อมต่อ AD Azure และ pre-requisites โปรดตรวจทาน[ข้อกำหนดเบื้องต้นสำหรับ AZURE AD Connect](https://docs.microsoft.com/azure/active-directory/hybrid/how-to-connect-install-prerequisites)
+ต้องติดตั้ง Azure AD Connect Windows Server 2012หรือใหม่กว่า เซิร์ฟเวอร์นี้ต้องถูกรวมโดเมนและอาจเป็นตัวควบคุมโดเมนหรือเซิร์ฟเวอร์สมาชิก  โปรดดู ข้อเบื้องต้นเบื้องต้นของ Azure AD Connect เพื่อดูรายการข้อกฎหมายและข้อกที่ต้องเบื้องต้นของ [Azure AD Connect](https://docs.microsoft.com/azure/active-directory/hybrid/how-to-connect-install-prerequisites)ทั้งหมด

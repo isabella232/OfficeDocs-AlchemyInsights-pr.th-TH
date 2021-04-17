@@ -1,8 +1,8 @@
 ---
-title: ข้อมูลภาษีของ Microsoft ๓๖๕
+title: ข้อมูลภาษี Microsoft 365
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "1500034"
 - "4896"
-ms.openlocfilehash: 1a0b4ed082fad56dba324e112bce48eb94371ab0
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 8482500972167da0eb25eaeb4ed0381a4485e6b8
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47742546"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51829944"
 ---
-# <a name="microsoft-365-tax-information"></a>ข้อมูลภาษีของ Microsoft ๓๖๕
+# <a name="microsoft-365-tax-information"></a>ข้อมูลภาษี Microsoft 365
 
-ภาษีสำหรับการซื้อศูนย์การจัดการ Microsoft ๓๖๕ที่คุณทำผ่าน Microsoft จะถูกกำหนดโดยที่อยู่ทางธุรกิจของคุณหรือถ้าชื่อนั้นแตกต่างจากที่อยู่ในการจัดส่งของคุณ สำหรับภาพรวมที่สมบูรณ์ให้ดู[ข้อมูลภาษี](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/tax-information?view=o365-worldwide)
+ภาษีต่างๆ ของศูนย์การจัดการ Microsoft 365 ที่คุณซื้อผ่าน Microsoft จะถูกกําหนดโดยที่อยู่ธุรกิจของคุณ หรือตามที่อยู่ที่จัดส่งของคุณแตกต่างกัน ดูภาพรวมโดยสมบูรณ์ที่ [ข้อมูล](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/tax-information?view=o365-worldwide)ภาษี
 
-- [คุณจะถูกเรียกเก็บภาษีอะไรบ้าง](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/tax-information?view=o365-worldwide#what-tax-will-i-be-charged) 
+- [คุณจะถูกเรียกเก็บภาษีแบบใด](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/tax-information?view=o365-worldwide#what-tax-will-i-be-charged) 
 
-- [วิธีคำนวณภาษี](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/tax-information?view=o365-worldwide#how-taxes-are-calculated)
+- [วิธีการคํานวณภาษี](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/tax-information?view=o365-worldwide#how-taxes-are-calculated)
 
-- [นำไปใช้กับสถานะการยกเว้นภาษี](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/tax-information?view=o365-worldwide#apply-for-tax-exempt-status)
+- [ขอสถานะการยกเว้น](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/tax-information?view=o365-worldwide#apply-for-tax-exempt-status)ภาษี
