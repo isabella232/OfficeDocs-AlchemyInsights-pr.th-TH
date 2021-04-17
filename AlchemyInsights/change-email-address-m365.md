@@ -1,8 +1,8 @@
 ---
-title: เปลี่ยนที่อยู่อีเมลของ Microsoft ๓๖๕กลุ่มหรือทีม Microsoft
+title: เปลี่ยนที่อยู่อีเมลของกลุ่ม Microsoft 365 หรือ Microsoft Teams
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,21 +12,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "1200024"
 - "4704"
-ms.openlocfilehash: ff7abaf3d8e0ed977eba5712bdd19185738fa75c
-ms.sourcegitcommit: 8be59778b7d39213a27a471802eae7fc006eb1ff
+ms.openlocfilehash: 7800a447c5dfcc8397121e1149921916ff7944ac
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 01/05/2021
-ms.locfileid: "49756576"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51819099"
 ---
-# <a name="change-email-address-of-a-microsoft-365-group-or-microsoft-teams"></a>เปลี่ยนที่อยู่อีเมลของ Microsoft ๓๖๕กลุ่มหรือทีม Microsoft
+# <a name="change-email-address-of-a-microsoft-365-group-or-microsoft-teams"></a>เปลี่ยนที่อยู่อีเมลของกลุ่ม Microsoft 365 หรือ Microsoft Teams
 
-คุณสามารถเปลี่ยนที่อยู่อีเมลของกลุ่ม Microsoft ๓๖๕หรือทีม Microsoft ได้โดยใช้[ศูนย์การจัดการ Microsoft ๓๖๕](https://admin.microsoft.com/) เพียงเลือกกลุ่มแล้วเลือก @edit อีเมลแอดเดรส
+คุณสามารถเปลี่ยนที่อยู่อีเมลของกลุ่ม Microsoft 365 หรือ Microsoft Teams โดยใช้ศูนย์การจัดการ[Microsoft 365](https://admin.microsoft.com/) เพียงเลือกกลุ่ม @editที่อยู่อีเมลของคุณ
 
-คุณยังสามารถใช้คำสั่ง EXO PowerShell ต่อไปนี้เพื่อเปลี่ยนที่อยู่ SMTP หลักของกลุ่ม/ทีม Microsoft ๓๖๕:
+คุณยังสามารถใช้สั่ง EXO PowerShell ต่อไปนี้เพื่อเปลี่ยนที่อยู่ SMTP หลักของกลุ่ม Microsoft 365/Teams:
 
 `Set-UnifiedGroup <Group Name> -PrimarySmtpAddress <new SMTP Address>`
 
-ตัวอย่าง
+ตัวอย่าง:
 
 `Set-UnifiedGroup Marketing -PrimarySmtpAddress marketing@contoso.com`

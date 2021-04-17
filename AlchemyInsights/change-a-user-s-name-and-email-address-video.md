@@ -1,8 +1,8 @@
 ---
-title: เปลี่ยนชื่อผู้ใช้และที่อยู่อีเมลของผู้ใช้
+title: เปลี่ยนชื่อผู้ใช้และที่อยู่อีเมล
 ms.author: cmcatee
 author: cmcatee-MSFT
-manager: mnirkhe
+manager: scotv
 ms.audience: ITPro
 ms.topic: article
 ms.service: o365-administration
@@ -13,19 +13,19 @@ ms.assetid: 9e00841d-fda2-4610-95a6-c99a4b1e891a
 ms.custom:
 - "7601"
 - "4"
-ms.openlocfilehash: dec26ee6c3266feedc39a1c1a6af0b3f1a7a2413
-ms.sourcegitcommit: dd9eb38bf9403de29f46c844cb64bc1d4c515afc
+ms.openlocfilehash: 2aacb53781640580380d0227185639ab026f1973
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 12/15/2020
-ms.locfileid: "49692294"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51819351"
 ---
-# <a name="change-a-users-name-and-email-address"></a>เปลี่ยนชื่อผู้ใช้และที่อยู่อีเมลของผู้ใช้
+# <a name="change-a-users-name-and-email-address"></a>เปลี่ยนชื่อผู้ใช้และที่อยู่อีเมล
 
 > [!VIDEO https://www.microsoft.com/videoplayer/embed/RE1SJuc?autoplay=false]
 
-การเปลี่ยนชื่อผู้ใช้และที่อยู่อีเมลใน Microsoft ๓๖๕เป็นเรื่องง่าย ไปที่หน้า \> [ผู้ใช้ที่ใช้งานอยู่](https://go.microsoft.com/fwlink/p/?linkid=834822)ของผู้ใช้แล้วเลือกผู้ใช้เพื่อแก้ไขข้อมูลของพวกเขา นอกจากนี้คุณยังสามารถใช้บทความนี้สำหรับคำแนะนำทีละขั้นตอนดังนี้
+การเปลี่ยนชื่อผู้ใช้และที่อยู่อีเมลใน Microsoft 365 เป็นเรื่องง่าย ไปที่ **หน้า** \> [ผู้ใช้ที่ใช้งานอยู่](https://go.microsoft.com/fwlink/p/?linkid=834822) และเลือกผู้ใช้เพื่อแก้ไขข้อมูลของพวกเขา คุณยังสามารถใช้บทความนี้เพื่อดูคําแนะนําทีละขั้นตอน:
   
-[เปลี่ยนชื่อผู้ใช้และที่อยู่อีเมลใน Microsoft ๓๖๕](https://docs.microsoft.com/microsoft-365/admin/add-users/change-a-user-name-and-email-address)
+[เปลี่ยนชื่อผู้ใช้และที่อยู่อีเมลใน Microsoft 365](https://docs.microsoft.com/microsoft-365/admin/add-users/change-a-user-name-and-email-address)
   
- **หมายเหตุ**: ถ้าคุณเปลี่ยนที่อยู่อีเมลหลักของผู้ใช้ที่อยู่อีเมลเก่าของผู้ใช้จะยังคงถูกต้องสำหรับการรับอีเมล (ซึ่งจะเกิดขึ้นโดยอัตโนมัติ) นอกจากนี้ถ้าองค์กรของคุณอยู่ในสถานะแบบไฮบริดอีเมลและการเปลี่ยนชื่อผู้ใช้ทั้งหมดจำเป็นต้องทำใน active Directory ภายในองค์กรแล้วซิงค์กับระบบคลาวด์
+ **หมายเหตุ**: ถ้าคุณเปลี่ยนที่อยู่อีเมลหลักของผู้ใช้ ที่อยู่อีเมลเก่าของผู้ใช้จะยังคงได้รับอีเมลอยู่ (ซึ่งจะเกิดขึ้นโดยอัตโนมัติ) นอกจากนี้ ถ้าองค์กรของคุณอยู่ในสถานะไฮบริด ต้องเปลี่ยนแปลงอีเมลและชื่อผู้ใช้ทั้งหมดใน Active Directory ภายในองค์กร แล้วซิงค์กับระบบคลาวด์

@@ -2,7 +2,7 @@
 title: คิวการโทร
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000731"
 - "2665"
-ms.openlocfilehash: 2cbb823c2051fd3c78233ce9ec5b090519654e69
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: f905aedc95f5791c51bcff52a2a7a725c159732f
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47734354"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51819855"
 ---
-# <a name="call-queues-in-microsoft-teams-and-skype-for-business"></a>คิวการโทรในทีม Microsoft และ Skype for Business 
+# <a name="call-queues-in-microsoft-teams-and-skype-for-business"></a>คิวการโทรใน Microsoft Teams และ Skype for Business 
 
-เมื่อต้องการเริ่มต้นใช้งานคิวการโทรให้ดูที่ลิงก์ต่อไปนี้
+เมื่อต้องการเริ่มต้นใช้งานคิวการโทร ให้ดูลิงก์ต่อไปนี้
 
-- [สร้างคิวการโทรผ่านระบบคลาวด์](https://docs.microsoft.com/microsoftteams/create-a-phone-system-call-queue)
-- [ตอบรับสายการเข้าร่วมอัตโนมัติและคิวการโทรโดยตรงจากทีม](https://docs.microsoft.com/microsoftteams/answer-auto-attendant-and-call-queue-calls)
+- [สร้างคิวการโทรบน Cloud](https://docs.microsoft.com/microsoftteams/create-a-phone-system-call-queue)
+- [รับการเข้าร่วมอัตโนมัติและโทรเข้าคิวได้โดยตรงจาก Teams](https://docs.microsoft.com/microsoftteams/answer-auto-attendant-and-call-queue-calls)

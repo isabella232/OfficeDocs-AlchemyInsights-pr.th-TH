@@ -1,8 +1,8 @@
 ---
-title: ยกเลิกการคืนเงินหรือปิดการสมัครใช้งาน Microsoft ๓๖๕ของคุณ
+title: ยกเลิก คืนเงิน หรือปิดการสมัครใช้งาน Microsoft 365 ของคุณ
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002914"
 - "5614"
-ms.openlocfilehash: 4c9ef57546b2dabecd15f1cad47f918d4a0aeda0
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: be745ebce624929d524e806012e70e29804615b9
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47683565"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51819747"
 ---
-# <a name="cancelrefundclose-your-microsoft-365-subscription"></a>ยกเลิก/คืนเงิน/ปิดการสมัครใช้งาน Microsoft ๓๖๕ของคุณ
+# <a name="cancelrefundclose-your-microsoft-365-subscription"></a>ยกเลิก/คืนเงิน/ปิดการสมัครใช้งาน Microsoft 365 ของคุณ
 
-จะเกิดอะไรขึ้นเมื่อคุณยกเลิกการสมัครใช้งานของคุณ สำหรับข้อมูลเพิ่มเติมให้ดู[ที่ยกเลิกการสมัครใช้งานของคุณ](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription?view=o365-worldwide)
+จะเกิดอะไรขึ้นเมื่อคุณยกเลิกการสมัครใช้งานของคุณ ดูข้อมูลเพิ่มเติมได้ที่ [ยกเลิกการสมัครใช้งาน](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription?view=o365-worldwide)ของคุณ
 
-- **เครดิตตามสัดส่วน**จะถูกส่งกลับไปยังคุณภายในรอบการเรียกเก็บเงินครั้งถัดไป
-- การสมัครใช้งานจะย้ายไปยัง **สถานะที่ถูกปิดใช้งานสำหรับ๙๐วัน** (ในประเทศหรือภูมิภาคส่วนใหญ่)
-- **ผู้ดูแลระบบยังสามารถเข้าถึงและสำรองข้อมูล** สำหรับองค์กรของพวกเขาได้ในขณะที่การสมัครใช้งานอยู่ในสถานะที่ถูกปิดใช้งาน
+- เครดิต **ตามส่วน** ใดๆ จะถูกส่งกลับถึงคุณภายในรอบการเรียกเก็บเงินถัดไป
+- การสมัครใช้งานจะย้ายไปยังสถานะ **ถูกปิดใช้งานเป็นเวลา 90** วัน (ในประเทศหรือภูมิภาคส่วนใหญ่)
+- **ผู้ดูแลระบบยังคงสามารถเข้าถึงและย้อนกลับข้อมูล** ขององค์กรของตนในขณะที่การสมัครใช้งานอยู่ในสถานะถูกปิดใช้งาน
 
-เมื่อต้องการปิดบัญชีของคุณก่อนที่จะปิดใช้งานรอบระยะเวลาทั่วไปให้ดู[ที่ปิดบัญชีผู้ใช้ของคุณ](https://docs.microsoft.com/microsoft-365/commerce/close-your-account?view=o365-worldwide)
+เมื่อต้องการปิดบัญชีของคุณก่อนช่วงเวลาปิดใช้งานทั่วไป [ให้ดู ปิด](https://docs.microsoft.com/microsoft-365/commerce/close-your-account?view=o365-worldwide)บัญชีของคุณ

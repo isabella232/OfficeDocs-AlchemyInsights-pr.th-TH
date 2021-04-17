@@ -1,8 +1,8 @@
 ---
-title: เปลี่ยนข้อมูลบัญชีผู้ใช้การเรียกเก็บเงิน
+title: เปลี่ยนแปลงข้อมูลบัญชีการเรียกเก็บเงิน
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,21 +12,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002605"
 - "5022"
-ms.openlocfilehash: e888eb597d4290314c41ef691598c25a2126ccd8
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 8b5e7ec1c8558ef3c776d186f4f522f7b169306a
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47793999"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51819243"
 ---
-# <a name="change-billing-account-information"></a>เปลี่ยนข้อมูลบัญชีผู้ใช้การเรียกเก็บเงิน
+# <a name="change-billing-account-information"></a>เปลี่ยนแปลงข้อมูลบัญชีการเรียกเก็บเงิน
 
-หน้ารายละเอียดบัญชีการเรียกเก็บเงินแสดงโปรไฟล์บัญชีผู้ใช้ของคุณ
+หน้ารายละเอียดบัญชีการเรียกเก็บเงินจะแสดงโปรไฟล์บัญชีของคุณ
 
-- คุณ **ไม่สามารถ** เอาบัญชีผู้ใช้การเรียกเก็บเงินออกจากการ **เรียกเก็บเงิน > บัญชีผู้ใช้การ [เรียกเก็บเงิน](https://go.microsoft.com/fwlink/p/?linkid=2084771)** ได้ บัญชีผู้ใช้การเรียกเก็บเงินแต่ละบัญชีมีการกำหนดข้อมูลเกี่ยวกับองค์กรของคุณรวมถึงผู้ใช้ที่ทำการ [ซื้อแบบบริการตนเอง](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/manage-self-service-purchases-admins) ที่ได้รับอนุญาตจากองค์กรของคุณ 
+- ไม่สามารถลบ **บัญชี** การเรียกเก็บเงินออกจาก การเรียกเก็บเงิน >**[การเรียกเก็บเงิน](https://go.microsoft.com/fwlink/p/?linkid=2084771)** ของคุณ บัญชีการเรียกเก็บเงินแต่ละบัญชีจะระบุข้อมูลเกี่ยวกับองค์กรของคุณ รวมถึงผู้ใช้ที่ได้ซื้อ [ด้วยตนเอง](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/manage-self-service-purchases-admins) ตามที่องค์กรของคุณอนุญาต 
 
-- คุณ **ไม่สามารถ** เปลี่ยนประเทศ/ภูมิภาคจากการ **เรียกเก็บเงิน > บัญชีผู้ใช้การ [เรียกเก็บเงิน](https://go.microsoft.com/fwlink/p/?linkid=2084771)** ได้ คุณจะต้องลงทะเบียนสำหรับบัญชีผู้ใช้ใหม่และเลือกประเทศ/ภูมิภาคที่ต้องการ 
+- คุณไม่สามารถ **เปลี่ยนประเทศ** /ภูมิภาคจาก การเรียกเก็บเงินของ **บัญชี> [การเรียกเก็บเงิน](https://go.microsoft.com/fwlink/p/?linkid=2084771)** ได้ คุณจะต้องลงทะเบียนบัญชีใหม่และเลือกประเทศ/ภูมิภาคที่ต้องการ 
 
-- คุณ **สามารถ** เปลี่ยนแปลงรายละเอียดบัญชีผู้ใช้อื่นๆเช่นชื่อบริษัทที่อยู่และข้อมูลที่ติดต่อได้ 
+- **สามารถเปลี่ยนรายละเอียด** บัญชีอื่นๆ เช่น ชื่อบริษัท ที่อยู่ และข้อมูลที่ติดต่อ 
 
-สำหรับข้อมูลเพิ่มเติมให้ดูที่จัดการบัญชีผู้ใช้การ[เรียกเก็บเงิน](https://docs.microsoft.com/microsoft-365/commerce/manage-billing-accounts) 
+ดูข้อมูลเพิ่มเติมได้ที่ จัดการ[บัญชีการเรียกเก็บเงิน](https://docs.microsoft.com/microsoft-365/commerce/manage-billing-accounts) 
