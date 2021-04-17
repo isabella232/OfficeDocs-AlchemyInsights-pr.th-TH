@@ -1,8 +1,8 @@
 ---
-title: การโยกย้ายไปยัง Microsoft Intune
+title: การโยกย้ายไปยัง Microsoft Intun1
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001216"
 - "3188"
-ms.openlocfilehash: c2b474e2a12b4ad60ad95eab18b7f01d3c1933e1
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 17b565a6034e2687a1733fa53d988a83df2e3b95
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47674525"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51831789"
 ---
-# <a name="migrating-to-microsoft-intune"></a><span data-ttu-id="a3d11-102">การโยกย้ายไปยัง Microsoft Intune</span><span class="sxs-lookup"><span data-stu-id="a3d11-102">Migrating to Microsoft Intune</span></span>
+# <a name="migrating-to-microsoft-intune"></a><span data-ttu-id="0dcec-102">การโยกย้ายไปยัง Microsoft Intun1</span><span class="sxs-lookup"><span data-stu-id="0dcec-102">Migrating to Microsoft Intune</span></span>
 
-<span data-ttu-id="a3d11-103">ถ้าคุณกำลังพยายามโยกย้ายไปยัง Intune ตรวจทาน[คู่มือการโยกย้าย intune](https://docs.microsoft.com/intune/fundamentals/migration-guide)</span><span class="sxs-lookup"><span data-stu-id="a3d11-103">If you're trying to migrate to Intune review the [Intune Migration Guide](https://docs.microsoft.com/intune/fundamentals/migration-guide).</span></span>
+<span data-ttu-id="0dcec-103">ถ้าคุณพยายามโยกย้ายไปยัง Intun1 ให้ตรวจทาน คู่มือ[การโยกย้าย Intun <2>](https://docs.microsoft.com/intune/fundamentals/migration-guide)</span><span class="sxs-lookup"><span data-stu-id="0dcec-103">If you're trying to migrate to Intune review the [Intune Migration Guide](https://docs.microsoft.com/intune/fundamentals/migration-guide).</span></span>
 
-<span data-ttu-id="a3d11-104">สำหรับคำแนะนำที่เฉพาะเจาะจงเพิ่มเติมเกี่ยวกับการโยกย้ายจากระบบศูนย์การกำหนดค่าตัวจัดการ (และการใช้งานที่ไม่ได้ใช้งานแบบไฮบริด) เป็น Intune reivew [เอกสารการโยกย้ายแบบไฮบริด](https://docs.microsoft.com/sccm/mdm/deploy-use/migrate-hybridmdm-to-intunesa)ของเรา</span><span class="sxs-lookup"><span data-stu-id="a3d11-104">For more specific guidance on migrating from System Center Configuration Manager (and SCCM Hybrid) to Intune, reivew our [Hybrid Migration Documentation](https://docs.microsoft.com/sccm/mdm/deploy-use/migrate-hybridmdm-to-intunesa).</span></span> 
+<span data-ttu-id="0dcec-104">สําหรับแนวทางเฉพาะเพิ่มเติมเกี่ยวกับการโยกย้ายจาก System Center Configuration Manager (และ SCCM Hybrid) ไปยัง Intuny ให้เปิดคู่มือการ [โยกย้ายแบบไฮบริด](https://docs.microsoft.com/sccm/mdm/deploy-use/migrate-hybridmdm-to-intunesa)ของเราอีกครั้ง</span><span class="sxs-lookup"><span data-stu-id="0dcec-104">For more specific guidance on migrating from System Center Configuration Manager (and SCCM Hybrid) to Intune, reivew our [Hybrid Migration Documentation](https://docs.microsoft.com/sccm/mdm/deploy-use/migrate-hybridmdm-to-intunesa).</span></span> 

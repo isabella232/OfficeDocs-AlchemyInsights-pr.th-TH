@@ -1,8 +1,8 @@
 ---
-title: 'คำเตือนการซิงค์: การซิงค์ล่าสุดมากกว่า2วันที่ผ่านมา'
+title: 'คําเตือนการซิงค์: ซิงค์ครั้งล่าสุดมากกว่า 3 วันที่ผ่านมา'
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001505"
 - "3562"
-ms.openlocfilehash: 0263dd1e7490e5fecb461fecaff875194acb9e60
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 786178b1cea84d1e01a43ce4c84df0a3846953c4
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47737108"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51831105"
 ---
-# <a name="sync-warning-last-synced-more-than-3-days-ago"></a><span data-ttu-id="ffa31-102">คำเตือนการซิงค์: การซิงค์ล่าสุดมากกว่า2วันที่ผ่านมา</span><span class="sxs-lookup"><span data-stu-id="ffa31-102">Sync warning: last synced more than 3 days ago</span></span>
+# <a name="sync-warning-last-synced-more-than-3-days-ago"></a><span data-ttu-id="1b2f7-102">คําเตือนการซิงค์: ซิงค์ครั้งล่าสุดมากกว่า 3 วันที่ผ่านมา</span><span class="sxs-lookup"><span data-stu-id="1b2f7-102">Sync warning: last synced more than 3 days ago</span></span>
 
-<span data-ttu-id="ffa31-103">สำหรับการแก้ไขปัญหาเพิ่มเติมให้ดู[ที่การแก้ไขปัญหาเกี่ยวกับการซิงโครไนซ์ไดเรกทอรี](https://docs.microsoft.com/office365/enterprise/fix-problems-with-directory-synchronization)</span><span class="sxs-lookup"><span data-stu-id="ffa31-103">For additional troubleshooting, see [Fixing problems with directory synchronization](https://docs.microsoft.com/office365/enterprise/fix-problems-with-directory-synchronization).</span></span>
+<span data-ttu-id="1b2f7-103">For additional troubleshooting, [see Fixing problems with directory synchronization](https://docs.microsoft.com/office365/enterprise/fix-problems-with-directory-synchronization).</span><span class="sxs-lookup"><span data-stu-id="1b2f7-103">For additional troubleshooting, see [Fixing problems with directory synchronization](https://docs.microsoft.com/office365/enterprise/fix-problems-with-directory-synchronization).</span></span>
 
-<span data-ttu-id="ffa31-104">คุณสามารถตรวจสอบสถานะการซิงค์ในพอร์ทัลการดูแลระบบ Office โดยทำตามคำแนะนำใน[ดูสถานะการซิงโครไนซ์ไดเรกทอรี](https://docs.microsoft.com/office365/enterprise/view-directory-synchronization-status)</span><span class="sxs-lookup"><span data-stu-id="ffa31-104">You can check sync status in the Office admin portal by following the instructions in [View directory synchronization status](https://docs.microsoft.com/office365/enterprise/view-directory-synchronization-status).</span></span>
+<span data-ttu-id="1b2f7-104">คุณสามารถตรวจสอบสถานะการซิงค์ในพอร์ทัลผู้ดูแลระบบ Office โดยปฏิบัติตามคําแนะนําใน [ดูสถานะการซิงโครไนซ์](https://docs.microsoft.com/office365/enterprise/view-directory-synchronization-status)ไดเรกทอรี</span><span class="sxs-lookup"><span data-stu-id="1b2f7-104">You can check sync status in the Office admin portal by following the instructions in [View directory synchronization status](https://docs.microsoft.com/office365/enterprise/view-directory-synchronization-status).</span></span>
 
