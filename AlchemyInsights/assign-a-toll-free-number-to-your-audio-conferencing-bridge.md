@@ -1,8 +1,8 @@
 ---
-title: กำหนดหมายเลขโทรฟรีให้กับบริดจ์การประชุมทางเสียงของคุณ
+title: กําหนดหมายเลขโทรฟรีให้กับบริดจ์การประชุมทางเสียงของคุณ
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,20 +12,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002532"
 - "5141"
-ms.openlocfilehash: 59b82920a0c96b71aa75c8eed57699687ecc681f
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 8d0ec82e602aff6558a08c4e5b7fb02e07167969
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47716300"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51821133"
 ---
-# <a name="assign-a-toll-free-number-to-your-audio-conferencing-bridge"></a>กำหนดหมายเลขโทรฟรีให้กับบริดจ์การประชุมทางเสียงของคุณ
+# <a name="assign-a-toll-free-number-to-your-audio-conferencing-bridge"></a>กําหนดหมายเลขโทรฟรีให้กับบริดจ์การประชุมทางเสียงของคุณ
 
-เมื่อต้องการกำหนดหมายเลขโทรศัพท์ใหม่ให้กับบริดจ์การประชุมทางเสียงของคุณ:
+เมื่อต้องการกําหนดหมายเลขโทรศัพท์ใหม่ให้กับบริดจ์การประชุมทางเสียงของคุณ ให้ต่อไปนี้
 
-1. ลงชื่อเข้าใช้ Office ๓๖๕ด้วยบัญชีผู้ใช้ที่ทำงานของคุณ
-2. ไปที่**ศูนย์การจัดการ Microsoft ๓๖๕ > ศูนย์การจัดการ > ทีม & Skype > พอร์ทัล > เสียง > หมายเลขโทรศัพท์แบบดั้งเดิม**
-3. เลือกหมายเลขโทรศัพท์จากรายการและในบานหน้าต่าง **การดำเนินการ** ให้คลิก **มอบ**หมาย
-4. บนหน้า**มอบหมาย**ให้คลิก**บันทึก**
+1. ลงชื่อเข้าใช้ Office 365 ด้วยบัญชีที่งานของคุณ
+2. ไปที่ ศูนย์การจัดการ **Microsoft 365**>ศูนย์การจัดการ > Teams & Skype > พอร์ทัลดั้งเดิม > Voice > หมายเลขโทรศัพท์
+3. เลือกหมายเลขโทรศัพท์จากรายการ และในบานหน้าต่าง การ **ปฏิบัติการ** ให้คลิก **กําหนด**
+4. **บนหน้า** มอบหมาย **ให้คลิก** บันทึก
 
-สำหรับข้อมูลเพิ่มเติมให้ดู[เปลี่ยนหมายเลขโทรศัพท์บนบริดจ์การประชุมทางเสียงของคุณ](https://docs.microsoft.com/MicrosoftTeams/change-the-phone-numbers-on-your-audio-conferencing-bridge)
+For more information, see [Change the phone numbers on your Audio Conferencing bridge](https://docs.microsoft.com/MicrosoftTeams/change-the-phone-numbers-on-your-audio-conferencing-bridge).

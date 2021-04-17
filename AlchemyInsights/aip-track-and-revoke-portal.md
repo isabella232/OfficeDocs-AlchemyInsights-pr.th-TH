@@ -2,7 +2,7 @@
 title: 'AIP: ติดตามและยกเลิกพอร์ทัล'
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,28 +12,28 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002281"
 - "5519"
-ms.openlocfilehash: af2deff6b1ac8531fca9020277265f1d9d958775
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: b187cd9a0f11168f54deb226c4828c280c0763cd
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47663172"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51821610"
 ---
 # <a name="aip-track-and-revoke-portal"></a>AIP: ติดตามและยกเลิกพอร์ทัล
 
-ใช้ **ไซต์การติดตามเอกสาร** ในพอร์ทัล Azure เพื่อติดตามและยกเลิกเอกสารเมื่อใช้การป้องกันข้อมูลของ azure แอปพลิเคชัน Office (Word, Excel และ PowerPoint) และ File Explorer ยังสามารถใช้ในการติดตามและยกเลิกเอกสารได้อีกด้วย
+ใช้ **ไซต์การติดตามเอกสาร** ในพอร์ทัล Azure เพื่อติดตามและยกเลิกเอกสารเมื่อใช้ Azure Information Protection แอปพลิเคชัน Office (Word, Excel และ PowerPoint) และ File Explorer ยังสามารถใช้เพื่อติดตามและยกเลิกเอกสารได้
 
-1. ในไซต์การติดตามเอกสารให้คลิกยก**เลิกการเข้าถึง** เลิกเอกสารจะเอาการเข้าถึงออกจากผู้ใช้ที่ได้รับอนุญาต เอกสารจะไม่ถูกลบ
-2. ในแอปพลิเคชัน Office ให้ทำดังนี้
-    - เปิดเอกสารที่ได้รับการป้องกันที่คุณต้องการติดตามหรือยกเลิก
-    - บนแท็บ**หน้าแรก**ในกลุ่ม**การป้องกัน**ให้คลิก**ป้องกัน > ติดตามและยกเลิก**
+1. ในไซต์การติดตามเอกสาร ให้คลิก **ยกเลิก** การเข้าถึง การเพิกถอนเอกสารจะเอาการเข้าถึงออกจากผู้ใช้ที่ได้รับอนุญาต เอกสารจะไม่ถูกลบ
+2. ในแอปพลิเคชัน Office:
+    - เปิดเอกสารที่มีการป้องกันที่คุณต้องการติดตามหรือเพิกถอน
+    - บนแท็บ **หน้าแรก** ในกลุ่ม **การป้องกัน** ให้คลิก > ติดตาม **และ** ยกเลิก
 
-- สำหรับข้อมูลเพิ่มเติมเกี่ยวกับการติดตามและการเลิกเอกสารให้ดูที่[ติดตามและยกเลิก](https://docs.microsoft.com/azure/information-protection/rms-client/client-track-revoke)
+- For additional information on tracking and revoking a document, [see Track and Revoke](https://docs.microsoft.com/azure/information-protection/rms-client/client-track-revoke).
 
-สำหรับข้อมูลเกี่ยวกับการใช้ PowerShell เพื่อจัดการไซต์การติดตามเอกสารการบันทึกข้อมูลให้ดูดังต่อไปนี้:
-- [คู่มือผู้ใช้: ติดตามและยกเลิกเอกสารของคุณเมื่อคุณใช้การป้องกันข้อมูล Azure](https://docs.microsoft.com/azure/information-protection/rms-client/client-track-revoke)
-- [คู่มือสำหรับผู้ดูแลระบบ: การกำหนดค่าและการใช้การติดตามเอกสารสำหรับการป้องกันข้อมูล Azure](https://docs.microsoft.com/azure/information-protection/rms-client/client-admin-guide-document-tracking)
-- [สิทธิ์การใช้งานการจัดการสิทธิ์การใช้งาน](https://docs.microsoft.com/azure/information-protection/configure-usage-rights#rights-management-use-license)
-- [รีวิวการสมัครใช้งานการป้องกันข้อมูลของ Azure และฟีเจอร์](https://azure.microsoft.com/pricing/details/information-protection)
-- [ข้อกำหนดสำหรับการป้องกันข้อมูล Azure](https://docs.microsoft.com/azure/information-protection/get-started/requirements)
-- [บทช่วยสอนเริ่มต้นใช้งานด่วนสำหรับการป้องกันข้อมูล Azure](https://docs.microsoft.com/azure/information-protection/get-started/infoprotect-quick-start-tutorial)
+For information on using PowerShell to manage the document tracking site, logging information, see the following:
+- [คู่มือผู้ใช้: ติดตามและยกเลิกเอกสารของคุณเมื่อคุณใช้ Azure Information Protection](https://docs.microsoft.com/azure/information-protection/rms-client/client-track-revoke)
+- [คู่มือผู้ดูแลระบบ: การกําหนดค่าและการใช้การติดตามเอกสารเพื่อการปกป้องข้อมูล Azure](https://docs.microsoft.com/azure/information-protection/rms-client/client-admin-guide-document-tracking)
+- [สิทธิ์การใช้งานการจัดการสิทธิ์](https://docs.microsoft.com/azure/information-protection/configure-usage-rights#rights-management-use-license)
+- [ตรวจสอบการสมัครใช้งานและฟีเจอร์ Azure Information Protection](https://azure.microsoft.com/pricing/details/information-protection)
+- [ความต้องการของ Azure Information Protection](https://docs.microsoft.com/azure/information-protection/get-started/requirements)
+- [บทช่วยสอนเริ่มต้นใช้งานด่วนของ Azure Information Protection](https://docs.microsoft.com/azure/information-protection/get-started/infoprotect-quick-start-tutorial)

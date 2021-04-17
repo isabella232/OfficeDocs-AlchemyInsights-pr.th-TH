@@ -1,8 +1,8 @@
 ---
-title: นำไปใช้กับสถานะการยกเว้นภาษี
+title: ขอสถานะการยกเว้นภาษี
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,25 +12,25 @@ ms.collection: Adm_O365
 ms.custom:
 - "1500034"
 - "4895"
-ms.openlocfilehash: 0e84de8568adca684e4d2497438f54c9d31ea49e
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 0bc705cd595268b14a169d002859706cae404ebb
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47716804"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51821313"
 ---
-# <a name="apply-for-tax-exempt-status"></a>นำไปใช้กับสถานะการยกเว้นภาษี
+# <a name="apply-for-tax-exempt-status"></a>ขอสถานะการยกเว้นภาษี
 
-โปรดเตรียมเอกสารต่อไปนี้ให้พร้อม คุณจะต้อง [เริ่มการร้องขอบริ](https://docs.microsoft.com/microsoft-365/admin/contact-support-for-business-products) การเพื่อสร้างสถานะการยกเว้นภาษี
+โปรดเตรียมเอกสารประกอบต่อไปนี้ให้พร้อม คุณจะต้องเริ่มต้นการร้องขอ [บริการเพื่อสร้าง](https://docs.microsoft.com/microsoft-365/admin/contact-support-for-business-products) สถานะการยกเว้นภาษี
 
-- **สหรัฐอเมริกา** -โปรดมี **ใบรับรองการยกเว้นภาษีขาย** ที่พร้อมใช้งาน
+- **สหรัฐอเมริกา** - โปรด **เตรียมใบรับรองการยกเว้นภาษีขาย** ให้พร้อม
 
-- **แคนาดา** -โปรดมี **ใบรับรองการยกเว้น (หรือตัวอักษรที่เทียบเท่ากันของการอนุญาต)** พร้อมใช้งาน
+- **แคนาดา** - โปรดเตรียม **ใบรับรองการยกเว้น (หรือหนังสือมอบฉันทบ)** ให้พร้อม
 
-- **ไอร์แลนด์** -โปรดมี **ใบรับรองการยกเว้นภาษี 13B/56A** พร้อมใช้งานแล้ว
+- **ไอร์แลนด์** - โปรดเตรียมใบรับรองการยกเว้นภาษี **13B/56A** ให้พร้อมแล้ว
 
-- **องค์กรระหว่างประเทศที่ถือว่าได้รับการยกเว้นภาษี** -โปรดมีการ **ยืนยันการรับรอง/จดหมายจากเจ้าหน้าที่ภาษีท้องถิ่น** พร้อม
+- **องค์กรนานาชาติที่ยกเว้นภาษี** - โปรดยืนยันใบรับรอง **/จดหมายจากหน่วยงานจัดเก็บภาษีในท้องถิ่น** พร้อมแล้ว
 
-- **เปอร์โตริโก-โปรด** มี **Certificado de Compras Exentas** พร้อมใช้งานแล้ว
+- **เปอร์โตริโก** - โปรดเตรียม **Certificado de Com accors Exentas** ให้พร้อม
 
-สำหรับข้อมูลเพิ่มเติมให้ดูที่[ข้อมูลภาษี](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/tax-information)
+หากต้องการข้อมูลเพิ่มเติม โปรดดู [ข้อมูล](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/tax-information)ภาษี

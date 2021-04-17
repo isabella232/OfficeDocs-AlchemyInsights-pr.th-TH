@@ -1,8 +1,8 @@
 ---
-title: โอนสิทธิ์การเรียกเก็บเงิน Azure
+title: โอนสิทธิ์ความเป็นเจ้าของการเรียกเก็บเงิน Azure
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,35 +12,35 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003560"
 - "6849"
-ms.openlocfilehash: 74b7cc879973790b7532106c80b718856682a334
-ms.sourcegitcommit: 04bf13605a30ad4a2218ad9e94dcffcee4cc9aa6
+ms.openlocfilehash: fc02a64807cad61cfeecf04d1f8e38666402583f
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 01/05/2021
-ms.locfileid: "49755566"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51820629"
 ---
-# <a name="transfer-azure-billing-ownership"></a>โอนสิทธิ์การเรียกเก็บเงิน Azure
+# <a name="transfer-azure-billing-ownership"></a>โอนสิทธิ์ความเป็นเจ้าของการเรียกเก็บเงิน Azure
 
-ลงชื่อเข้าใช้ [พอร์ทัล Azure](https://portal.azure.com/) ในฐานะผู้ดูแลระบบของบัญชีผู้ใช้การเรียกเก็บเงินที่มีการสมัครใช้งานที่คุณต้องการโอนย้าย ถ้าคุณไม่แน่ใจว่าคุณเป็นผู้ดูแลระบบหรือไม่หรือถ้าคุณต้องการกำหนดผู้ใช้ให้ดูที่[กำหนดผู้ดูแลระบบการเรียกเก็บเงินของบัญชีผู้ใช้](https://docs.microsoft.com/azure/cost-management-billing/understand/subscription-transfer#whoisaa)
+ลงชื่อเข้าใช้พอร์ทัล [Azure](https://portal.azure.com/) ในฐานะผู้ดูแลระบบของบัญชีการเรียกเก็บเงินที่มีการสมัครใช้งานที่คุณต้องการโอน ถ้าคุณไม่แน่ใจว่าคุณเป็นผู้ดูแลระบบหรือไม่ หรือคุณต้องดูว่าใครคือใคร ให้ดู ระบุ [ผู้ดูแลระบบการเรียกเก็บเงิน](https://docs.microsoft.com/azure/cost-management-billing/understand/subscription-transfer#whoisaa)ของบัญชี
 
-1. ค้นหา _การจัดการต้นทุน + การเรียกเก็บเงิน_
-1. เลือกการ **สมัคร** ใช้งานจากบานหน้าต่างด้านซ้าย คุณอาจจำเป็นต้องเลือกขอบเขตการเรียกเก็บเงินจากนั้นการ **สมัคร** ใช้งานหรือการสมัครใช้งาน **Azure** ทั้งนี้ขึ้นอยู่กับการเข้าถึง
-1. เลือก **โอนความเป็นเจ้าของการเรียกเก็บเงิน** สำหรับการสมัครใช้งานที่คุณต้องการโอนย้าย
-1. ใส่ที่อยู่อีเมลของผู้ใช้ที่เป็นผู้ดูแลการเรียกเก็บเงินของบัญชีผู้ใช้ที่จะเป็นเจ้าของใหม่สำหรับการสมัครใช้งานแล้วเลือก **ส่งคำขอการโอนย้าย**
-1. ผู้ใช้ได้รับอีเมลที่มีคำแนะนำในการตรวจสอบคำขอการโอนย้ายของคุณ เมื่อต้องการอนุมัติคำขอการโอนย้ายผู้ใช้จะเลือกลิงก์ในอีเมลและตามคำแนะนำ
+1. ค้นหา _การจัดการต้นทุน +_ การเรียกเก็บเงิน
+1. **เลือก การสมัครใช้งาน** จากบานหน้าต่างด้านซ้าย ขึ้นอยู่กับการเข้าถึง คุณอาจต้องเลือกขอบเขตการเรียกเก็บเงิน แล้วเลือก **การสมัครใช้งาน หรือ****การสมัครใช้งาน Azure**
+1. เลือก **โอนความเป็นเจ้าของ** การเรียกเก็บเงิน ของการสมัครใช้งานที่คุณต้องการถ่ายโอน
+1. ใส่ที่อยู่อีเมลของผู้ใช้ที่เป็นผู้ดูแลระบบการเรียกเก็บเงินของบัญชีที่จะเป็นเจ้าของใหม่การสมัครใช้งาน แล้วเลือก ส่ง **การร้องขอ** การโอน
+1. ผู้ใช้จะได้รับอีเมลที่มีคําแนะนําเพื่อตรวจสอบคําขอถ่ายโอนของคุณ เมื่อต้องการอนุมัติคําขอโอน ผู้ใช้จะเลือกลิงก์ในอีเมล และปฏิบัติตามคําแนะนํา
 
-โปรดทราบว่าถ้าคุณโอนความเป็นเจ้าของการเรียกเก็บเงินของการสมัครใช้งานของคุณไปยังบัญชีผู้ใช้ของคุณในผู้เช่า Azure AD อื่น [ตัวควบคุมการเข้าถึงตามบทบาททั้งหมด (RBAC)](https://docs.microsoft.com/azure/role-based-access-control/overview?WT.mc_id=Portal-Microsoft_Azure_Support) ที่มอบหมายเพื่อจัดการทรัพยากรในการสมัครใช้งานจะถูกเอาออกอย่างถาวร เฉพาะเจ้าของใหม่เท่านั้นที่จะมีสิทธิ์เข้าถึงเพื่อจัดการทรัพยากรในการสมัครใช้งาน สำหรับข้อมูลเพิ่มเติมเกี่ยวกับวิธีการเปลี่ยนไดเรกทอรีสำหรับการสมัครใช้งานให้ดูที่การ[โอนการสมัครใช้งานไปยังผู้ใช้ในผู้เช่า AZURE AD รายอื่น](https://docs.microsoft.com/azure/active-directory/managed-identities-azure-resources/known-issues?WT.mc_id=Portal-Microsoft_Azure_Support)
+โปรดทราบว่า ถ้าคุณถ่ายโอนความเป็นเจ้าของการเรียกเก็บเงินของการสมัครใช้งานของคุณไปยังบัญชีของผู้ใช้ในผู้เช่า Azure AD อื่น งานที่มอบหมายการเข้าถึงตามบทบาท [(RBAC)](https://docs.microsoft.com/azure/role-based-access-control/overview?WT.mc_id=Portal-Microsoft_Azure_Support) ทั้งหมดเพื่อจัดการทรัพยากรในการสมัครใช้งานจะถูกเอาออกอย่างถาวร เฉพาะเจ้าของใหม่เท่านั้นที่จะมีสิทธิ์เข้าถึงเพื่อจัดการทรัพยากรในการสมัครใช้งาน For more information about how to change directory for a subscription, see [Transferring subscription to a user in another Azure AD tenant](https://docs.microsoft.com/azure/active-directory/managed-identities-azure-resources/known-issues?WT.mc_id=Portal-Microsoft_Azure_Support).
 
-_**ผลกระทบที่สำคัญบนใบแจ้งหนี้ของคุณ**_: ถ้าคุณได้โอนสิทธิ์การเรียกเก็บเงินสำหรับการสมัครใช้งาน Azure การเรียกเก็บเงินของคุณจะได้รับการจัดอันดับเป็น pro คุณจะสามารถเข้าถึงใบแจ้งหนี้ได้ดังต่อไปนี้:  
+_**ผลกระทบที่สําคัญในใบแจ้งหนี้**_ ของคุณ: ถ้าคุณได้โอนสิทธิ์ความเป็นเจ้าของการเรียกเก็บเงินของการสมัครใช้งาน Azure การเรียกเก็บเงินของคุณจะได้รับการให้คะแนนตามสัดส่วน คุณจะสามารถเข้าถึงใบแจ้งหนี้ตามรายการต่อไปนี้:  
 
-1. เลือกการสมัครใช้งานของคุณจาก [หน้าการสมัคร](https://portal.azure.com/#blade/Microsoft_Azure_Billing/SubscriptionsBlade)ใช้   งานในพอร์ทัล Azure เป็น [ผู้ใช้ที่มีสิทธิ์เข้าถึงใบแจ้งหนี้](https://docs.microsoft.com/azure/cost-management-billing/manage/manage-billing-access?WT.mc_id=Portal-Microsoft_Azure_Support)จากนั้นเลือก **ใบแจ้งหนี้**
-1. คลิก **ดาวน์โหลดใบแจ้งหนี้**   เพื่อดูสำเนาใบแจ้งหนี้ PDF ของคุณ ถ้า _ไม่มี_ ให้ดู [ที่ทำไมฉันจึงไม่เห็นใบแจ้งหนี้สำหรับช่วงเวลาการเรียกเก็บเงินล่าสุด](https://docs.microsoft.com/azure/cost-management-billing/manage/download-azure-invoice-daily-usage-date?WT.mc_id=Portal-Microsoft_Azure_Support#noinvoice)
-1. นอกจากนี้คุณยังสามารถดูการใช้งานประจำวันของคุณได้โดยการคลิกที่ **ช่วงเวลาการเรียกเก็บเงิน** เพื่อรับ PDF ของใบแจ้งหนี้ของคุณและสำเนาของไฟล์การใช้งานประจำวันที่มีรายละเอียดของคุณ ( CSV) สำหรับข้อมูลเพิ่มเติมให้ดูที่ [รับใบแจ้งหนี้และข้อมูลการใช้งาน](https://docs.microsoft.com/azure/cost-management-billing/manage/download-azure-invoice-daily-usage-date?WT.mc_id=Portal-Microsoft_Azure_Support)
+1. เลือกการสมัครใช้งานของคุณ [จากหน้า](https://portal.azure.com/#blade/Microsoft_Azure_Billing/SubscriptionsBlade)   การสมัครใช้งานในพอร์ทัล Azure [ในฐานะผู้ใช้ที่มีสิทธิ์](https://docs.microsoft.com/azure/cost-management-billing/manage/manage-billing-access?WT.mc_id=Portal-Microsoft_Azure_Support)เข้าถึงใบแจ้งหนี้ **จากนั้นเลือก** ใบแจ้งหนี้
+1. คลิก **ดาวน์โหลดใบแจ้งหนี้**   เพื่อดูสําเนาใบแจ้งหนี้ PDF ของคุณ หากระบุว่า _ไม่พร้อมใช้งาน_ ให้ดู [เหตุใดฉันจึงไม่เห็นใบแจ้งหนี้ในช่วงการเรียกเก็บเงินล่าสุด](https://docs.microsoft.com/azure/cost-management-billing/manage/download-azure-invoice-daily-usage-date?WT.mc_id=Portal-Microsoft_Azure_Support#noinvoice)
+1. คุณยังสามารถดูการใช้งานรายวันของคุณโดยการคลิกระยะเวลาการเรียกเก็บเงิน **เพื่อรับ** PDF ของใบแจ้งหนี้และสําเนาของไฟล์การใช้งานรายวันโดยละเอียดของคุณ ( CSV) หากต้องการข้อมูลเพิ่มเติม โปรดดู [รับข้อมูลใบแจ้งหนี้และการใช้](https://docs.microsoft.com/azure/cost-management-billing/manage/download-azure-invoice-daily-usage-date?WT.mc_id=Portal-Microsoft_Azure_Support)
 
-**เอกสารที่แนะนำ**
+**เอกสารที่แนะนา**
 
-- [โอนความเป็นเจ้าของการเรียกเก็บเงินของการสมัครใช้งาน Azure ไปยังบัญชีผู้ใช้อื่น](https://docs.microsoft.com/azure/cost-management-billing/manage/billing-subscription-transfer)
-- [เกี่ยวกับการโอนความเป็นเจ้าของการเรียกเก็บเงินสำหรับการสมัครใช้งาน Azure](https://docs.microsoft.com//azure/cost-management-billing/understand/subscription-transfer)
-- [การถ่ายโอน Visual Studio, Microsoft Partner Network (MPN) และชำระเงินตามที่คุณไปยังการสมัครใช้งาน Dev/ทดสอบ](https://docs.microsoft.com/azure/billing/billing-subscription-transfer?WT.mc_id=Portal-Microsoft_Azure_Support#transferring-visual-studio-microsoft-partner-network-mpn-and-pay-as-you-go-devtest-subscriptions)
-- [คำถามที่ถามบ่อยเกี่ยวกับการโอนสิทธิ์](https://docs.microsoft.com/azure/billing/billing-subscription-transfer?WT.mc_id=Portal-Microsoft_Azure_Support#frequently-asked-questions-faq-for-senders)
-- [การแก้ไขปัญหาการโอนความเป็นเจ้าของ](https://docs.microsoft.com/azure/billing/billing-subscription-transfer?WT.mc_id=Portal-Microsoft_Azure_Support#troubleshooting)
+- [โอนความเป็นเจ้าของการเรียกเก็บเงินของการสมัครใช้งาน Azure ไปยังบัญชีอื่น](https://docs.microsoft.com/azure/cost-management-billing/manage/billing-subscription-transfer)
+- [เกี่ยวกับการโอนสิทธิ์ความเป็นเจ้าของการเรียกเก็บเงินของการสมัครใช้งาน Azure](https://docs.microsoft.com//azure/cost-management-billing/understand/subscription-transfer)
+- [การโอน Visual Studio, Microsoft Partner Network (MPN) และ Pay เมื่อคุณใช้งานการสมัครใช้งาน Dev/Test](https://docs.microsoft.com/azure/billing/billing-subscription-transfer?WT.mc_id=Portal-Microsoft_Azure_Support#transferring-visual-studio-microsoft-partner-network-mpn-and-pay-as-you-go-devtest-subscriptions)
+- [โอนย้ายความเป็นเจ้าของที่ถามบ่อย](https://docs.microsoft.com/azure/billing/billing-subscription-transfer?WT.mc_id=Portal-Microsoft_Azure_Support#frequently-asked-questions-faq-for-senders)
+- [แก้ไขปัญหาการโอนสิทธิ์ความเป็นเจ้าของ](https://docs.microsoft.com/azure/billing/billing-subscription-transfer?WT.mc_id=Portal-Microsoft_Azure_Support#troubleshooting)

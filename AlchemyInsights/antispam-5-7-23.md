@@ -1,8 +1,8 @@
 ---
-title: แอนตี้สแปม-5.7.23
+title: Antispam - 5.7.23
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "3156"
 - "9001196"
-ms.openlocfilehash: ecbce4f0077dc9acab63575c19d40c0675a406ac
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: e494e8017f24d65a94d1a7490be4d67c46a2120b
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47717344"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51821430"
 ---
-# <a name="fix-email-delivery-issues-for-error-code-5723"></a>แก้ไขปัญหาการนำส่งอีเมลสำหรับรหัสข้อผิดพลาด5.7.23
+# <a name="fix-email-delivery-issues-for-error-code-5723"></a>แก้ไขปัญหาการส่งอีเมลของรหัสข้อผิดพลาด 5.7.23
 
-ตรวจสอบระเบียน DNS ของ SPF สำหรับโดเมนของคุณที่มีตัวตรวจสอบระเบียน SPF หรือ DNS ที่พร้อมใช้งานสาธารณะบนเว็บ
+ตรวจสอบระเบียน DNS ของ SPF กับโดเมนของคุณที่ตัวตรวจสอบระเบียน SPF หรือ DNS ที่พร้อมใช้งานแบบสาธารณะบนเว็บ
 
-ตรวจสอบว่าข้อความขาออกจะไม่ถูกระบุว่าเป็นสแปมโดย Microsoft และกำหนดเส้นทางผ่านทางกลุ่มการนำ[ส่งความเสี่ยงสูง](https://docs.microsoft.com/microsoft-365/security/office-365-security/high-risk-delivery-pool-for-outbound-messages) ข้อความในกลุ่มการนำส่งความเสี่ยงสูงจะไม่ผ่านการตรวจสอบ SPF และดังนั้นจึงไม่ได้รับการยอมรับจากองค์กรอีเมลของปลายทาง
+ตรวจสอบว่าข้อความขาออกไม่ได้ระบุว่าเป็นสแปมโดยไมโครซอฟท์ และถูกเส้นทางผ่าน [พูลการส่งข้อความความเสี่ยง](https://docs.microsoft.com/microsoft-365/security/office-365-security/high-risk-delivery-pool-for-outbound-messages)สูง ข้อความในพูลการส่งความเสี่ยงสูงจะไม่ผ่านการตรวจสอบ SPF ดังนั้นจึงไม่ได้รับการยอมรับจากองค์กรอีเมลปลายทาง
 
-ถ้าปัญหายังคงมีอยู่คุณอาจจำเป็นต้องติดต่อผู้ดูแลระบบของ host mail ที่คุณกำลังพยายามส่งอีเมล จดบันทึกข้อผิดพลาดภายนอกโดยละเอียดที่พร้อมใช้งานในข้อความตีกลับ ฝ่ายสนับสนุนของ Microsoft อาจไม่สามารถให้ความช่วยเหลือเพิ่มเติมได้
+ถ้าปัญหายังคงอยู่ คุณอาจต้องติดต่อผู้ดูแลระบบของโฮสต์จดหมายที่คุณพยายามส่งอีเมล จดบันทึกข้อผิดพลาดภายนอกโดยละเอียดที่พร้อมใช้งานในข้อความแจ้งการตีกลับ ฝ่ายสนับสนุนของ Microsoft อาจไม่สามารถช่วยเหลือเพิ่มเติมได้

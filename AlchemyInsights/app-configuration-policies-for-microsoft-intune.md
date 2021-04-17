@@ -1,8 +1,8 @@
 ---
-title: นโยบายการกำหนดค่าแอปสำหรับ Microsoft Intune
+title: นโยบายการกําหนดค่าแอปของ Microsoft Intun1
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -14,23 +14,23 @@ ms.custom:
 - "1030"
 - "9003770"
 - "6709"
-ms.openlocfilehash: babdff75b53c4a5cab0ae7697369304319d105af
-ms.sourcegitcommit: 9fd002ce49ad9a7e58c3eb997a8063e2e1feab55
+ms.openlocfilehash: e37485d6fecab8c0eeb513185adf71b394064744
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 10/06/2020
-ms.locfileid: "48366411"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51821349"
 ---
-# <a name="app-configuration-policies-for-microsoft-intune"></a>นโยบายการกำหนดค่าแอปสำหรับ Microsoft Intune
+# <a name="app-configuration-policies-for-microsoft-intune"></a>นโยบายการกําหนดค่าแอปของ Microsoft Intun1
 
-นโยบายการกำหนดค่าแอปใน Microsoft Intune จะใช้เพื่อให้การตั้งค่าการกำหนดค่าสำหรับ iOS หรือแอปพลิเคชัน Android การตั้งค่าการกำหนดค่าเหล่านี้อนุญาตให้มีการกำหนดค่าแอปเพื่อกำหนดเอง โปรดทราบว่ามีข้อจำกัดในการคำนึงถึงเวอร์ชันของระบบปฏิบัติการใดและแอปพลิเคชันใดที่สนับสนุนการใช้นโยบายการกำหนดค่า
+นโยบายการกําหนดค่าแอปใน Microsoft Intun1 จะใช้เพื่อมอบการตั้งค่าการกําหนดค่าให้กับแอปพลิเคชัน iOS หรือ Android การตั้งค่าการกําหนดค่าเหล่านี้อนุญาตให้กําหนดแอปเองได้ โปรดทราบว่า มีข้อจํากัดเกี่ยวกับเวอร์ชันของระบบปฏิบัติการและแอปพลิเคชันใดที่สนับสนุนการใช้นโยบายการกําหนดค่า
 
-โปรดตรวจทานเอกสารต่อไปนี้สำหรับรายละเอียด
+โปรดตรวจสอบเอกสารต่อไปนี้เพื่อดูรายละเอียด
 
-[นโยบายการกำหนดค่าแอปสำหรับ Microsoft Intune](https://docs.microsoft.com/intune/app-configuration-policies-overview)  
+[นโยบายการกําหนดค่าแอปของ Microsoft Intun1](https://docs.microsoft.com/intune/app-configuration-policies-overview)  
 
-[เพิ่มนโยบายการกำหนดค่าแอปสำหรับอุปกรณ์ iOS ที่มีการจัดการ](https://docs.microsoft.com/intune/app-configuration-policies-use-ios)  
+[เพิ่มนโยบายการกําหนดค่าแอปบนอุปกรณ์ iOS ที่มีการจัดการ](https://docs.microsoft.com/intune/app-configuration-policies-use-ios)  
 
-[เพิ่มนโยบายการกำหนดค่าแอปสำหรับอุปกรณ์ Android ที่มีการจัดการ](https://docs.microsoft.com/intune/app-configuration-policies-use-android)
+[เพิ่มนโยบายการกําหนดค่าแอปบนอุปกรณ์ Android ที่มีการจัดการ](https://docs.microsoft.com/intune/app-configuration-policies-use-android)
 
-[เพิ่มนโยบายการกำหนดค่าแอปสำหรับแอปที่ได้รับการจัดการโดยไม่มีการลงทะเบียนอุปกรณ์](https://docs.microsoft.com/intune/app-configuration-policies-managed-app)
+[เพิ่มนโยบายการกําหนดค่าแอปของแอปที่มีการจัดการโดยไม่ต้องลงทะเบียนอุปกรณ์](https://docs.microsoft.com/intune/app-configuration-policies-managed-app)

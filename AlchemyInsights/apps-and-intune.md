@@ -1,8 +1,8 @@
 ---
-title: แอปและ Intune
+title: แอปและ Intun1
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "6700002"
 - "5764"
-ms.openlocfilehash: 81d0e5e774596065410873a244b345b56af46905
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 63b5c49522fc2fb7a1044b1f6779d55729c0b01e
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47716516"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51821277"
 ---
-# <a name="apps-and-intune"></a>แอปและ Intune
+# <a name="apps-and-intune"></a>แอปและ Intun1
 
-สำหรับภาพรวมของวิธีที่ Intune สามารถช่วยจัดการแอปให้เริ่มต้นด้วย[การจัดการแอป Microsoft Intune คืออะไร](https://docs.microsoft.com/mem/intune/apps/app-management)
+For an overview of how Intun1 can help manage apps, start with  [Microsoft Intun1 app management?](https://docs.microsoft.com/mem/intune/apps/app-management).
 
-สำหรับข้อมูลเพิ่มเติมเกี่ยวกับการอัปโหลดแอปไปยัง Intune และปรับใช้กับอุปกรณ์ของคุณให้ดูที่[Quickstart: เพิ่มและกำหนดแอปไคลเอ็นต์](https://docs.microsoft.com/mem/intune/apps/quickstart-add-assign-app)
+ดูข้อมูลเพิ่มเติมเกี่ยวกับการอัปโหลดแอปไปยัง Intun1 และปรับใช้แอปเหล่านั้นกับอุปกรณ์ของคุณ ได้อ่าน คู่มือ  [เริ่มต้นใช้งานด่วน: เพิ่มและกําหนดแอป](https://docs.microsoft.com/mem/intune/apps/quickstart-add-assign-app)ไคลเอ็นต์
 
-เมื่อต้องการปกป้องข้อมูลขององค์กรภายในแอปพลิเคชันอุปกรณ์เคลื่อนที่ให้ดูที่[Quickstart: สร้างและกำหนดนโยบายการป้องกันแอป](https://docs.microsoft.com/mem/intune/apps/quickstart-create-assign-app-policy)
+เมื่อต้องการปกป้องข้อมูลองค์กรภายในแอปพลิเคชันบนอุปกรณ์เคลื่อนที่ ให้ดู [คู่มือเริ่มต้นใช้งานด่วน: สร้างและกําหนดนโยบายการป้องกัน](https://docs.microsoft.com/mem/intune/apps/quickstart-create-assign-app-policy)แอป
