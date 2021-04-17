@@ -2,7 +2,7 @@
 title: อัปเดตระเบียน DNS ที่ Bluehost
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "100001"
 - "5820"
-ms.openlocfilehash: a3468ea65de7c1a8b7469ef4859d1c832e16c821
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 1ae896816dfe1308e4f1e455fce563e72f2b9617
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47657736"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51827667"
 ---
 # <a name="update-dns-records-at-bluehost"></a>อัปเดตระเบียน DNS ที่ Bluehost
 
-ใช้ลิงก์ด้านล่างเพื่อช่วยในการอัปเดตระเบียน DNS ของคุณ
+ใช้ลิงก์ด้านล่างเพื่อช่วยอัปเดตระเบียน DNS ของคุณ
 
-- [การสร้างระเบียน DNS ที่ Bluehost](https://docs.microsoft.com/microsoft-365/admin/dns/create-dns-records-at-bluehost?view=o365-worldwide)
-- [เพิ่มหรือแก้ไขระเบียน DNS แบบกำหนดเองใน Office ๓๖๕](https://docs.microsoft.com/microsoft-365/admin/setup/add-domain#add-or-edit-custom-dns-records)
+- [สร้างระเบียน DNS ที่ Bluehost](https://docs.microsoft.com/microsoft-365/admin/dns/create-dns-records-at-bluehost?view=o365-worldwide)
+- [เพิ่มหรือแก้ไขระเบียน DNS แบบปรับแต่งเองใน Office 365](https://docs.microsoft.com/microsoft-365/admin/setup/add-domain#add-or-edit-custom-dns-records)

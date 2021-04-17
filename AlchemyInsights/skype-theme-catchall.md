@@ -1,8 +1,8 @@
 ---
-title: Skype theme catchall
+title: สะดุดธีม Skype
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,27 +12,27 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000702"
 - "2601"
-ms.openlocfilehash: 96f5a34707d469e3651d3868058a156182ff4021
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: d83f029910532bf7c7485e237c1d094d83657fca
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47726938"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51826506"
 ---
-# <a name="skype-for-business-common-issues-and-resolutions"></a>ปัญหาและวิธีแก้ไขปัญหาทั่วไปของ Skype for Business 
+# <a name="skype-for-business-common-issues-and-resolutions"></a>ปัญหาและการแก้ไขปัญหาทั่วไปของ Skype for Business 
 
-สำหรับคำถามที่เฉพาะเจาะจงเกี่ยวกับ Skype for Business โปรดบรรยายคำถามของคุณเพื่ออธิบายปัญหาของคุณรวมถึงข้อผิดพลาดฟีเจอร์ที่คุณกำลังใช้เป็นต้น 
+หากต้องการคําถามเฉพาะเกี่ยวกับ Skype for Business คุณสามารถอ่านคําถามของคุณใหม่ช่วงสั้นๆ เพื่ออธิบายปัญหาของคุณ รวมถึงข้อผิดพลาด ฟีเจอร์ที่คุณใช้งาน และอื่นๆ 
 
-ต่อไปนี้คือหัวข้อที่ร้องขอบ่อย:
+ต่อไปนี้เป็นหัวข้อที่ร้องขอบ่อยบางส่วน:
 
-**แก้ไขปัญหาการลงชื่อเข้าใช้ Skype For business:** ก่อนอื่นให้ตรวจสอบให้แน่ใจว่า [บริการ Skype For business](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/servicehealth) มีสุขภาพดี ถ้าเป็นเช่นนั้นให้ตรวจทาน [ข้อผิดพลาดในการเข้าสู่ระบบ Skype For Business Online](https://docs.microsoft.com/SkypeForBusiness/set-up-skype-for-business-online/troubleshooting-sign-in-errors-for-admins#check-for-common-causes-of-skype-for-business-online-sign-in-errors) เพื่อกำจัดสาเหตุทั่วไปของความยากในการลงชื่อเข้าใช้
+**แก้ไขปัญหาการลงชื่อเข้าใช้ Skype for Business:** ก่อนอื่น ตรวจสอบให้แน่ใจว่าบริการ [Skype for Business](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/servicehealth) มีสุขภาพที่ดี ถ้าเป็นปกติ ให้ [ตรวจทาน การแก้ไขปัญหาข้อผิดพลาดในการเข้าสู่ระบบ Skype for Business Online](https://docs.microsoft.com/SkypeForBusiness/set-up-skype-for-business-online/troubleshooting-sign-in-errors-for-admins#check-for-common-causes-of-skype-for-business-online-sign-in-errors) เพื่อขจัดสาเหตุทั่วไปในการลงชื่อเข้าใช้ได้ยาก
  
-**แก้ไขปัญหาเสียงและวิดีโอใน Skype For business:** ตรวจทานการ[แก้ปัญหาทั่วไปเกี่ยวกับเสียงและวิดีโอใน Skype For business](https://support.office.com/article/Troubleshoot-audio-and-video-in-Skype-for-Business-62777bc6-c52b-47ae-84ba-a8905c3b71dc) 
+**แก้ไขปัญหาเสียงและวิดีโอใน Skype for Business:** ตรวจสอบ [วิธีแก้ไขปัญหาทั่วไปเกี่ยวกับเสียงและวิดีโอใน Skype for Business](https://support.office.com/article/Troubleshoot-audio-and-video-in-Skype-for-Business-62777bc6-c52b-47ae-84ba-a8905c3b71dc) 
 
-**แก้ไขปัญหาการเชื่อมต่อใน Skype For business:** ตรวจทานการ[แก้ไขปัญหาการเชื่อมต่อทั่วไปใน Skype For business](https://support.office.com/article/troubleshoot-connection-issues-in-skype-for-business-ca302828-783f-425c-bbe2-356348583771)
+**แก้ไขปัญหาการเชื่อมต่อใน Skype for Business:** ตรวจสอบ [โซลูชันของปัญหาการเชื่อมต่อทั่วไปใน Skype for Business](https://support.office.com/article/troubleshoot-connection-issues-in-skype-for-business-ca302828-783f-425c-bbe2-356348583771)
 
-ติดต่อ**สื่อสารกับที่ติดต่อภายนอกของ skype For business (สหพันธรัฐ):** [ตั้งค่า skype for Business ให้กับผู้ใช้ skype for business ภายนอก](https://docs.microsoft.com/SkypeForBusiness/set-up-skype-for-business-online/allow-users-to-contact-external-skype-for-business-users)
+**สื่อสารกับที่ติดต่อ Skype for Business ภายนอก (การติดต่อกับภายนอก):** [ตั้งค่า Skype for Business ให้ติดต่อผู้ใช้ Skype for Business](https://docs.microsoft.com/SkypeForBusiness/set-up-skype-for-business-online/allow-users-to-contact-external-skype-for-business-users)ภายนอก
 
-**สื่อสารกับที่ติดต่อ skype:** [ให้ผู้ใช้ skype for business เพิ่มที่ติดต่อ skype](https://docs.microsoft.com/SkypeForBusiness/set-up-skype-for-business-online/let-skype-for-business-users-add-skype-contacts)
+**ติดต่อสื่อสารกับที่ติดต่อ Skype:** [ให้ผู้ใช้ Skype for Business เพิ่มที่ติดต่อ Skype](https://docs.microsoft.com/SkypeForBusiness/set-up-skype-for-business-online/let-skype-for-business-users-add-skype-contacts)ได้
 
-**อัปเกรด Skype For business ไปยังทีม Microsoft:** ตรวจสอบ [การเริ่มต้นใช้งานการอัปเกรดทีม microsoft ของคุณ](https://docs.microsoft.com/microsoftteams/upgrade-start-here) และเรียนรู้เพิ่ม [เติมเกี่ยวกับการ](https://docs.microsoft.com/microsoftteams/coexistence-chat-calls-presence) มีอยู่ร่วมกันกับทีม Microsoft เมื่อคุณนำทีมไปใช้ในองค์กรของคุณ 
+**อัปเกรด Skype for Business เป็น Microsoft Teams:** ตรวจสอบ [การเริ่มต้นใช้งานการอัปเกรด Microsoft Teams ของคุณ](https://docs.microsoft.com/microsoftteams/upgrade-start-here) และเรียนรู้เพิ่มเติมเกี่ยวกับการอยู่ [ร่วมกัน](https://docs.microsoft.com/microsoftteams/coexistence-chat-calls-presence) กับ Microsoft Teams เมื่อคุณปรับใช้ Teams ในองค์กรของคุณ 

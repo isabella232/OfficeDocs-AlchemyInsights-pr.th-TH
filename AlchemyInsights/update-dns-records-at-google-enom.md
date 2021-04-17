@@ -2,7 +2,7 @@
 title: อัปเดตระเบียน DNS ที่ Google (eNom)
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "100001"
 - "5821"
-ms.openlocfilehash: 34d065fbc8e04e4bcf70d04d6628784703d5f0d7
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: ae76d919bf1a0285e31d53e87219a0a204bb42e9
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47799943"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51827595"
 ---
 # <a name="update-dns-records-at-google-enom"></a>อัปเดตระเบียน DNS ที่ Google (eNom)
 
-ใช้ลิงก์ด้านล่างเพื่อช่วยในการอัปเดตระเบียน DNS ของคุณ
+ใช้ลิงก์ด้านล่างเพื่อช่วยอัปเดตระเบียน DNS ของคุณ
 
 - [สร้างระเบียน DNS ที่ Google (eNom](https://docs.microsoft.com/microsoft-365/admin/dns/create-dns-records-for-domain-managed-by-google-enom?view=o365-worldwide)
-- [เพิ่มหรือแก้ไขระเบียน DNS แบบกำหนดเองใน Office ๓๖๕](https://docs.microsoft.com/microsoft-365/admin/setup/add-domain#add-or-edit-custom-dns-records)
+- [เพิ่มหรือแก้ไขระเบียน DNS แบบปรับแต่งเองใน Office 365](https://docs.microsoft.com/microsoft-365/admin/setup/add-domain#add-or-edit-custom-dns-records)

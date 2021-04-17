@@ -1,8 +1,8 @@
 ---
-title: ไคลเอ็นต์ของทีมหยุดทำงานหรือไม่
+title: ลูกค้า Teams หยุดการใช่หรือเปล่า
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,34 +12,34 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002323"
 - "4512"
-ms.openlocfilehash: 39310233eae83ceb18c6ff82451ae747f3c50048
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 20f03b075787cab85ab15d5272c0416b88ebbaee
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47691126"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51826290"
 ---
-# <a name="teams-client-crashing"></a>ไคลเอ็นต์ของทีมหยุดทำงานหรือไม่
+# <a name="teams-client-crashing"></a>ลูกค้า Teams หยุดการใช่หรือเปล่า
 
-ถ้าไคลเอ็นต์ทีมของคุณหยุดทำงานให้ลองทำดังต่อไปนี้:
+ถ้าไคลเอ็นต์ Teams ของคุณหยุดการผิดพลาด ให้ลองวิธีต่อไปนี้:
 
-- ถ้าคุณกำลังใช้แอปทีมบนเดสก์ท็อปให้ [ตรวจสอบให้แน่ใจว่าได้อัปเดตแอปที่สมบูรณ์](https://support.office.com/article/Update-Microsoft-Teams-535a8e4b-45f0-4f6c-8b3d-91bca7a51db1)แล้ว
+- ถ้าคุณใช้แอป Teams บนเดสก์ท็อป [ตรวจสอบให้แน่ใจว่าแอปได้รับการอัปเดต](https://support.office.com/article/Update-Microsoft-Teams-535a8e4b-45f0-4f6c-8b3d-91bca7a51db1)เต็มรูปแบบ
 
-- ตรวจสอบให้แน่ใจว่าคุณสามารถเข้าถึง [url และช่วงที่อยู่ของ Microsoft ๓๖๕](https://docs.microsoft.com/microsoftteams/connectivity-issues) ทั้งหมดได้
+- ตรวจสอบให้แน่ใจว่า URL [และช่วงที่อยู่ของ Microsoft 365](https://docs.microsoft.com/microsoftteams/connectivity-issues) ทั้งหมดสามารถเข้าถึงได้
 
-- ลงชื่อเข้าใช้ด้วยบัญชีผู้ดูแลผู้เช่าของคุณและตรวจสอบ [แดชบอร์ดความสมบูรณ์ของบริการ](https://docs.microsoft.com/office365/enterprise/view-service-health) ของคุณเพื่อตรวจสอบว่าไม่มีกระแสตกหรือบริการที่มีการลดทอน
+- เข้าสู่ระบบด้วยบัญชีผู้ดูแลระบบผู้เช่าของคุณ และตรวจสอบ [แดชบอร์ดสถาน](https://docs.microsoft.com/office365/enterprise/view-service-health) ภาพบริการของคุณเพื่อตรวจสอบว่าไม่มีข้อมูลการไม่อยู่หรือการลดบริการ
 
-- ถอนการติดตั้งและติดตั้งแอปพลิเคชันของทีมใหม่ (ลิงก์)
-    - เรียกดูโฟลเดอร์%appdata%\Microsoft\teams\ บนคอมพิวเตอร์ของคุณและลบไฟล์ทั้งหมดในไดเรกทอรีนั้น
-    - [ดาวน์โหลดและติดตั้งแอปทีม](https://www.microsoft.com/microsoft-365/microsoft-teams/group-chat-software#office-DesktopAppDownload-ofoushy)และถ้าเป็นไปได้ให้ติดตั้งทีมในฐานะผู้ดูแลระบบ (คลิกขวาที่ตัวติดตั้งทีมแล้วเลือก "เรียกใช้ในฐานะผู้ดูแลระบบ" ถ้าพร้อมใช้งาน)
+- ถอนการติดตั้งและติดตั้งแอปพลิเคชัน Teams ใหม่ (ลิงก์)
+    - เรียกดูโฟลเดอร์ %appdata%\Microsoft\teams\ บนคอมพิวเตอร์ของคุณ แล้วลบไฟล์ทั้งหมดในไดเรกทอรีนั้น
+    - [ดาวน์โหลดและติดตั้งแอป Teams และ](https://www.microsoft.com/microsoft-365/microsoft-teams/group-chat-software#office-DesktopAppDownload-ofoushy)ถ้าเป็นไปได้ ให้ติดตั้ง Teams ในฐานะผู้ดูแลระบบ (คลิกขวาที่ตัวติดตั้ง Teams และเลือก "เรียกใช้ในฐานะผู้ดูแลระบบ" ถ้ามี)
 
-ถ้าไคลเอ็นต์ทีมของคุณยังคงหยุดทำงานคุณสามารถทำซ้ำปัญหาได้หรือไม่ ถ้าเป็นเช่นนั้น:
+ถ้าไคลเอ็นต์ Teams ของคุณยังคงหยุดการหยุดการใช่ คุณสามารถให้เกิดปัญหานั้นขึ้นได้หรือไม่ หากเป็นดังนั้น:
 
-1. ใช้ตัวบันทึกขั้นตอนเพื่อจับภาพขั้นตอนของคุณ
-    - ปิดแอปพลิเคชันที่ไม่จำเป็นหรือเป็นความลับทั้งหมด
-    - เปิดใช้งานตัวบันทึกขั้นตอนและทำซ้ำปัญหาในขณะที่เข้าสู่ระบบด้วยบัญชีผู้ใช้ที่ได้รับผลกระทบ
-    - [รวบรวมบันทึกของทีมที่จับภาพขั้นตอนของ repro ที่บันทึกไว้](https://docs.microsoft.com/microsoftteams/log-files) **หมายเหตุ**: ตรวจสอบให้แน่ใจว่าคุณจับภาพที่อยู่การลงชื่อเข้าใช้ของผู้ใช้ที่ได้รับผลกระทบ
-    - รวบรวมข้อมูลการถ่ายโอนข้อมูลและ/หรือข้อมูลกลุ่มข้อบกพร่อง (Windows) เปิดใช้งาน Windows Powershell บนเครื่องที่เกิดความผิดพลาดและเรียกใช้คำสั่งต่อไปนี้:
+1. ใช้ตัวบันทึกขั้นตอนเพื่อบันทึกขั้นตอนของคุณ
+    - ปิดแอปพลิเคชันทั้งหมดโดยไม่จําเป็นหรือเป็นความลับ
+    - เรียกใช้ตัวบันทึกขั้นตอน และพบปัญหาขณะเข้าสู่ระบบด้วยบัญชีผู้ใช้ที่ได้รับผลกระทบ
+    - [รวบรวมบันทึกของทีมที่บันทึกขั้นตอน repro ที่บันทึกไว้](https://docs.microsoft.com/microsoftteams/log-files) **หมายเหตุ**: ตรวจสอบให้แน่ใจว่าคุณบันทึกที่อยู่การลงชื่อเข้าใช้ของผู้ใช้ที่มีผลกระทบ
+    - รวบรวมข้อมูลการเก็บและ/หรือข้อมูลกลุ่มความผิดพลาด (Windows) เปิดใช้ Windows Powershell บนเครื่องที่ระบบหยุดการหยุดการหยุดและเรียกใช้การสั่งต่อไปนี้:
 
         `
         PS C:\Users\user01> cd $env:temp
@@ -47,4 +47,4 @@ ms.locfileid: "47691126"
         PS C:\Users\user01\AppData\Local\Temp> notepad .\FaultBuckets.txt
         `
     
-2. แนบไฟล์ไปยังกรณีสนับสนุนของคุณ
+2. แนบไฟล์กับกรณีการสนับสนุนของคุณ

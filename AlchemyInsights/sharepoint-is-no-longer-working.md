@@ -1,8 +1,8 @@
 ---
-title: SharePoint ไม่ทำงานอีกต่อไป
+title: SharePoint ไม่สามารถใช้งานได้อีกต่อไป
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003047"
 - "5801"
-ms.openlocfilehash: 1880ef923a1e0f2b2c8ce8eb539cba485f8601da
-ms.sourcegitcommit: 76a385e9f8a806dfd70f35bf87acb21a056407f2
+ms.openlocfilehash: 42e8cab99f21b55ce463ac431df1e17b22f9460c
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 11/12/2020
-ms.locfileid: "49002720"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51826650"
 ---
-# <a name="sharepoint-is-no-longer-working"></a>SharePoint ไม่ทำงานอีกต่อไป
+# <a name="sharepoint-is-no-longer-working"></a>SharePoint ไม่สามารถใช้งานได้อีกต่อไป
 
-มีเหตุผลสองสามประการที่ทำให้ SharePoint ไม่สามารถทำงานได้อีกต่อไป
+มีหลายสาเหตุที่ SharePoint อาจไม่สามารถใช้งานได้อีกต่อไป
 
-1. อาจมีปัญหาด้านสถานภาพบริการที่เกิดขึ้นกับ SharePoint สำหรับข้อมูลเพิ่มเติมให้ดูที่[แดชบอร์ดสถานภาพบริการ](https://admin.microsoft.com/AdminPortal/Home#/servicehealth)
-2. สิทธิ์อาจมีการเปลี่ยนแปลงหรือถูกเอาออก สำหรับข้อมูลเพิ่มเติมให้ดู [ที่ไม่สามารถเข้าถึง SharePoint Online](https://docs.microsoft.com/sharepoint/troubleshoot/sharing-and-permissions/sharepoint-online-inaccessible)ได้
-3. ปัญหาเกี่ยวกับเบราว์เซอร์อาจเป็นการป้องกันไม่ให้ผู้ใช้เปิด SharePoint ขอให้ผู้ใช้ลองใช้โหมดส่วนตัวของเบราว์เซอร์ของพวกเขาและลงชื่อเข้าใช้ SharePoint อีกครั้ง
+1. อาจมีปัญหาสถานภาพบริการเกิดขึ้นกับ SharePoint ดูข้อมูลเพิ่มเติมได้ที่ แดชบอร์ด [สถานภาพ](https://admin.microsoft.com/AdminPortal/Home#/servicehealth)บริการ
+2. สิทธิ์อาจมีการเปลี่ยนแปลงหรือถูกเอาออก For more info, see [Unable to access SharePoint Online](https://docs.microsoft.com/sharepoint/troubleshoot/sharing-and-permissions/sharepoint-online-inaccessible).
+3. ปัญหาของเบราว์เซอร์อาจป้องกันไม่ให้ผู้ใช้เปิด SharePoint ขอให้ผู้ใช้ลองใช้โหมดส่วนตัวของเบราว์เซอร์ของพวกเขาแล้วลงชื่อเข้าใช้ SharePoint อีกครั้ง

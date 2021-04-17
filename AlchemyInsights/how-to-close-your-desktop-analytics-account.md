@@ -1,8 +1,8 @@
 ---
-title: วิธีปิดบัญชีผู้ใช้ Analytics บนเดสก์ท็อปของคุณ
+title: วิธีการปิดบัญชีการวิเคราะห์เดสก์ท็อปของคุณ
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000655"
 - "2499"
-ms.openlocfilehash: 89c6ef78e025657d7b4456bf54f43817ea6bdb6d
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 4fab35e44ab7c08611da89e7e4d798e463356ab1
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47704733"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51825786"
 ---
-# <a name="how-to-close-your-desktop-analytics-account"></a>วิธีปิดบัญชีผู้ใช้ Analytics บนเดสก์ท็อปของคุณ
+# <a name="how-to-close-your-desktop-analytics-account"></a>วิธีการปิดบัญชีการวิเคราะห์เดสก์ท็อปของคุณ
 
-ถ้าคุณตั้งค่าการวิเคราะห์บนเดสก์ท็อปในสภาพแวดล้อมของคุณแล้วตัดสินใจว่าคุณต้องการเอาออกให้ใช้กระบวนการในลิงก์ต่อไปนี้:
+ถ้าคุณตั้งค่าการวิเคราะห์เดสก์ท็อปในสภาพแวดล้อมของคุณ แล้วตัดสินใจว่าคุณต้องเอาการวิเคราะห์ออก ให้ใช้กระบวนการในลิงก์ต่อไปนี้:
 
-[วิธีการปิดบัญชีผู้ใช้ของคุณ](https://docs.microsoft.com/configmgr/desktop-analytics/account-close)
+[วิธีการปิดบัญชีของคุณ](https://docs.microsoft.com/configmgr/desktop-analytics/account-close)
 
-ขั้นตอนแรกคือการติดต่อฝ่ายสนับสนุนของไมโครซอฟท์ เปิดกรณีสนับสนุนเพื่อปิดบัญชีผู้ใช้ Analytics บนเดสก์ท็อปของคุณ อย่าทำขั้นตอนเพิ่มเติมต่อไปจนกว่าคุณจะได้รับการยืนยันว่า Microsoft ปิดบัญชีของคุณแล้ว
+ขั้นตอนแรกคือติดต่อฝ่ายสนับสนุนของ Microsoft เปิดกรณีสนับสนุนเพื่อปิดบัญชีการวิเคราะห์เดสก์ท็อปของคุณ อย่าปฏิบัติตามขั้นตอนเพิ่มเติมจนกว่าคุณจะได้รับการยืนยันว่า Microsoft ปิดบัญชีของคุณ

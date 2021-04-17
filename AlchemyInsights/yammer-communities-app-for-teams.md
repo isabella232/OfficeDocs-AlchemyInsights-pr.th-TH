@@ -1,8 +1,8 @@
 ---
-title: แอปชุมชน Yammer สำหรับทีม Microsoft
+title: แอปชุมชน Yammer ของ Microsoft Teams
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -14,23 +14,23 @@ ms.custom:
 - "5134"
 - "9002653"
 - "5129"
-ms.openlocfilehash: 89d71126b5663ea11f7ca9166b2e72e854953dcf
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 94c2b184d433c918bc1cf04e0547734e65fb3568
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47664405"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51825858"
 ---
-# <a name="yammer-communities-app-for-microsoft-teams"></a>แอปชุมชน Yammer สำหรับทีม Microsoft
+# <a name="yammer-communities-app-for-microsoft-teams"></a>แอปชุมชน Yammer ของ Microsoft Teams
 
-ชุมชน Yammer ซึ่งทำให้คุณสามารถสร้างความสัมพันธ์และแชร์ความรู้ในทีมและทั้งองค์กรพร้อมใช้งานในแอปได้ในขณะที่ทำงานในทีม Microsoft คุณสามารถปักหมุดแอปไปยังด้านซ้ายของทีมได้ 
+ชุมชน Yammer ซึ่งช่วยให้คุณสามารถสร้างความสัมพันธ์และแชร์ความรู้ระหว่างทีมและทั้งองค์กรซึ่งพร้อมให้ใช้งานในแอปขณะใช้งาน Microsoft Teams แล้ว คุณสามารถปักหมุดแอปทางด้านซ้ายของ Teams ได้ 
 
-- โปรดดูข้อมูลเพิ่มเติมใน[แอปชุมชนของ Yammer สำหรับทีม Microsoft](https://go.microsoft.com/fwlink/?linkid=2127757&clcid=0x409)
+- โปรดดู [แอปชุมชน Yammer ของ Microsoft Teams](https://go.microsoft.com/fwlink/?linkid=2127757&clcid=0x409) เพื่อดูข้อมูลเพิ่มเติม
 
 **ลิงก์โดยตรงไปยังแอปชุมชน Yammer**
 
-- คุณสามารถแชร์ [https://aka.ms/YammerInTeams](https://aka.ms/YammerInTeams) กับผู้ใช้เพื่อเชื่อมโยงไปยังและ **เพิ่ม** แอปชุมชน Yammer ภายในทีมได้โดยตรง
+- คุณสามารถแชร์ [https://aka.ms/YammerInTeams](https://aka.ms/YammerInTeams) กับผู้ใช้เพื่อลิงก์ **และเพิ่มแอป** ชุมชน Yammer ภายใน Teams ได้โดยตรง
 
-**ไวร์ทั่วทั้งบริษัท**
+**การเริ่มให้บริการทั่วทั้งบริษัท**
 
-- ถ้าคุณต้องการติดตั้งแอปชุมชน Yammer สำหรับทีม Microsoft ในองค์กรของคุณผู้ดูแลระบบสามารถเลือกที่จะปรับใช้และปักหมุดแอปสำหรับผู้ใช้ทั้งหมดหรือแผนกที่เฉพาะเจาะจงผ่าน[นโยบายแบบกำหนดเอง](https://docs.microsoft.com/microsoftteams/manage-apps) โปรดทราบว่าอาจต้องใช้เวลาอย่างน้อย2ชั่วโมงสำหรับนโยบายเพื่อเผยแพร่ไปยังไคลเอ็นต์ทั้งหมด
+- ถ้าคุณต้องการติดตั้งแอปชุมชน Yammer For Microsoft Teams ทั่วทั้งองค์กรของคุณ ผู้ดูแลระบบสามารถเลือกปรับใช้และปักหมุดแอปของผู้ใช้ทั้งหมดหรือแผนกใดแผนกหนึ่งผ่าน [นโยบายแบบปรับแต่ง](https://docs.microsoft.com/microsoftteams/manage-apps)เอง โปรดทราบว่าการเผยแพร่นโยบายไปยังลูกค้าทั้งหมดอาจใช้เวลาอย่างน้อย 2 ชั่วโมง

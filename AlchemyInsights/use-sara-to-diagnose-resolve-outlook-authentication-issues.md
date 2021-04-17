@@ -1,8 +1,8 @@
 ---
-title: ใช้ SaRA เพื่อวินิจฉัยและแก้ไขปัญหาการรับรองความถูกต้องของ Outlook
+title: ใช้ SaRA เพื่อวินิจฉัยและแก้ไขปัญหาการรับรองความถูกต้อง Outlook
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,21 +12,21 @@ ms.collection: Adm_O365
 munlocking-an-account s.custom:
 - "9002370"
 - "4605"
-ms.openlocfilehash: 85438f6e4fde8679ae125ce7c89dfbfb0c8cb035
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 34f934e223deae9d4b5bcfe1f3eb8a07b374860f
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47795191"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51826038"
 ---
-# <a name="use-sara-to-diagnose-and-resolve-outlook-authentication-issues"></a>ใช้ SaRA เพื่อวินิจฉัยและแก้ไขปัญหาการรับรองความถูกต้องของ Outlook
+# <a name="use-sara-to-diagnose-and-resolve-outlook-authentication-issues"></a>ใช้ SaRA เพื่อวินิจฉัยและแก้ไขปัญหาการรับรองความถูกต้อง Outlook
 
-เมื่อต้องการวินิจฉัย & แก้ไขปัญหาเกี่ยวกับพร้อมท์การรับรองความถูกต้องของ Outlook ของคุณหรือการซ้ำๆโปรดติดตั้งและเรียกใช้ตัว [ช่วยการสนับสนุนและการกู้คืนของ Office ๓๖๕](https://diagnostics.office.com/#/) (SaRA)
+เมื่อต้องการวินิจฉัยว่า &การรับรองความถูกต้องของ Outlook หรือปัญหาพร้อมท์ข้อมูลรับรองความถูกต้องซ้ําๆ โปรดติดตั้งและเรียกใช้ตัวช่วยการสนับสนุนและการกู้คืนของ [Office 365](https://diagnostics.office.com/#/) (SaRA)
 
 1. เรียกใช้ SaRA
 
-2. เลือก**Outlook**บนหน้าจอแรกคลิก**ถัดไป**
+2. เลือก **Outlook** บนหน้าจอแรก **ให้คลิก** ถัดไป
 
-3. เลือก**Outlook เพื่อขอรหัสผ่านของฉัน**แล้วคลิก**ถัดไป**
+3. เลือก **Outlook ขอให้ใส่รหัสผ่านของฉัน** ต่อไป **คลิก** ถัดไป
 
-ตัวช่วยการสนับสนุนและการกู้คืนจะเรียกใช้การตรวจสอบการวินิจฉัยบางอย่างและกลับมาพร้อมกับโซลูชันที่เป็นไปได้เพื่อให้คุณสามารถแก้ไขปัญหาเกี่ยวกับการรับรองความถูกต้องของ Outlook หรือการพร้อมท์ข้อมูลประจำตัวของคุณได้
+ตัวช่วยการสนับสนุนและการกู้คืนจะเรียกใช้การตรวจสอบการวินิจฉัยบางอย่าง และกลับมาพร้อมโซลูชันที่เป็นไปได้ให้คุณแก้ไขปัญหาการรับรองความถูกต้อง Outlook หรือพร้อมท์ข้อมูลรับรองความถูกต้อง

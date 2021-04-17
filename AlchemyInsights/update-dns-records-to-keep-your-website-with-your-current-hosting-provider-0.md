@@ -1,8 +1,8 @@
 ---
-title: อัปเดตระเบียน DNS เพื่อเก็บเว็บไซต์ของคุณไว้กับผู้ให้บริการโฮสต์ปัจจุบันของคุณ
+title: อัปเดตระเบียน DNS เพื่อเก็บเว็บไซต์ของคุณกับผู้ให้บริการโฮสต์ปัจจุบันของคุณ
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -14,37 +14,37 @@ ms.custom:
 - "43"
 - "100002"
 ms.assetid: 48251355-7383-4fdc-a1e1-9dc2c85a8d29
-ms.openlocfilehash: 1d8654bc2dfb9063d0203992d624285eb646027d
-ms.sourcegitcommit: 78939b01579b626b147d356045a37aec1170c948
+ms.openlocfilehash: 89bce2aa5931c0c20706efabd42d2351be43938b
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47815804"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51827558"
 ---
-# <a name="update-dns-records-to-keep-your-website-with-your-current-hosting-provider"></a>อัปเดตระเบียน DNS เพื่อเก็บเว็บไซต์ของคุณไว้กับผู้ให้บริการโฮสต์ปัจจุบันของคุณ
+# <a name="update-dns-records-to-keep-your-website-with-your-current-hosting-provider"></a>อัปเดตระเบียน DNS เพื่อเก็บเว็บไซต์ของคุณกับผู้ให้บริการโฮสต์ปัจจุบันของคุณ
 
-1. ในศูนย์การจัดการ Microsoft ๓๖๕ให้ไปที่หน้า**Setup**  >  [โดเมน](https://admin.microsoft.com/Adminportal#/Domains)การตั้งค่าและในรายการโดเมนให้เลือกโดเมนที่คุณกำลังใช้สำหรับเว็บไซต์ของคุณ
+1. ในศูนย์การจัดการ Microsoft 365 ให้ไปที่หน้าตั้งค่าโดเมน และในรายการโดเมน  >  [](https://admin.microsoft.com/Adminportal#/Domains)ให้เลือกโดเมนที่คุณใช้กับเว็บไซต์ของคุณ
 
-2. เลือก **+ ระเบียนแบบกำหนดเองใหม่** แล้วใส่ข้อมูลต่อไปนี้:
+2. เลือก **+ ระเบียนแบบปรับแต่งเอง** ใหม่ แล้วใส่ข้อมูลต่อไปนี้:
 
-  - สำหรับ **ชนิด DNS** ให้ใส่: **A (ที่อยู่)**
+  - For **DNS type** enter: A **(Address)**
 
-  - สำหรับ **ชื่อโฮสต์หรือนามแฝง**ให้พิมพ์ดังต่อไปนี้: **@**
+  - For **Host name or Alias**, type the following: **@**
 
-  - สำหรับ **ที่อยู่ ip**ให้พิมพ์ที่อยู่ ip แบบคงที่สำหรับเว็บไซต์ของคุณที่โฮสต์อยู่ในปัจจุบัน (ตัวอย่างเช่น 172.16.140.1)
+  - For **IP Address**, type the static IP address for your website where it's currently hosted (for example, 172.16.140.1).
 
-    การทำเช่นนี้จะต้องเป็นที่อยู่ ip แบบ*คง*ที่สำหรับเว็บไซต์ไม่ใช่ที่อยู่ ip*แบบไดนามิก* ตรวจสอบกับไซต์ที่โฮสต์เว็บไซต์ของคุณเพื่อให้แน่ใจว่าคุณจะได้รับที่อยู่ IP แบบคงที่สำหรับเว็บไซต์สาธารณะของคุณ
+    ซึ่ง  *ต้องเป็นที่อยู่*  IP แบบคงที่ของเว็บไซต์ ไม่ใช่  *ที่อยู่*  IP แบบไดนามิก ตรวจสอบกับไซต์ที่เว็บไซต์ของคุณถูกโฮสต์เพื่อให้แน่ใจว่าคุณสามารถรับที่อยู่ IP แบบคงที่ของเว็บไซต์สาธารณะของคุณ
 
-3. เลือก**บันทึก**
+3. เลือกบันทึก
 
-นอกจากนี้คุณยังสามารถสร้างระเบียน CNAME เพื่อช่วยให้ลูกค้าค้นหาเว็บไซต์ของคุณได้
+นอกจากนี้ คุณสามารถสร้างระเบียน CNAME เพื่อช่วยให้ลูกค้าค้นหาเว็บไซต์ของคุณได้
   
-1. เลือก **+ ระเบียนแบบกำหนดเองใหม่** แล้วใส่ข้อมูลต่อไปนี้:
+1. เลือก **+ ระเบียนแบบปรับแต่งเอง** ใหม่ แล้วใส่ข้อมูลต่อไปนี้:
 
-  - สำหรับ **ชนิด DNS** ให้ใส่: **CNAME (นามแฝง)**
+  - For **DNS type** enter: **CNAME (Alias)**
 
-  - สำหรับ **ชื่อโฮสต์หรือนามแฝง**ให้พิมพ์ดังต่อไปนี้: **www**
+  - For **Host name or Alias**, type the following: **www**
 
-  - สำหรับ **ที่อยู่ชี้ไปยัง**ให้พิมพ์ชื่อโดเมนแบบเต็ม (FQDN) สำหรับเว็บไซต์ของคุณ (ตัวอย่างเช่น contoso.com)
+  - For **Points to address**, type the fully qualified domain name (FQDN) for your website (for example, contoso.com).
 
-2. เลือก**บันทึก**
+2. เลือกบันทึก

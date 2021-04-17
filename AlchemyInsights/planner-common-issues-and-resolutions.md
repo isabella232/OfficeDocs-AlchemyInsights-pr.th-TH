@@ -1,8 +1,8 @@
 ---
-title: ปัญหาและวิธีแก้ไขปัญหาทั่วไปของการวางแผน
+title: ปัญหาและการแก้ไขปัญหาทั่วไปของ Planner
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,32 +12,32 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000685"
 - "3193"
-ms.openlocfilehash: b30b47493f9b9df0f6a5fd177745cad98c2d018a
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 4a289c9e932c1c1724017ffd6711b8466d4cad6d
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47802076"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51826902"
 ---
-# <a name="planner-common-issues-and-resolutions"></a>ปัญหาและวิธีแก้ไขปัญหาทั่วไปของการวางแผน
+# <a name="planner-common-issues-and-resolutions"></a>ปัญหาและการแก้ไขปัญหาทั่วไปของ Planner
 
-ต่อไปนี้คือหัวข้อที่ร้องขอบ่อยที่มี Microsoft วางแผน
+ต่อไปนี้เป็นหัวข้อที่ได้รับการร้องขอบ่อยบางส่วนด้วย Microsoft Planner
  
-- **การเริ่มต้น**[ใช้งาน: เริ่มต้นใช้งานการวางแผน](https://support.office.com/article/microsoft-planner-help-4a9a13c6-3adf-4a60-a6fc-15c0b15e16fc)และเรียนรู้วิธีการ[เปิดใช้งานการวางแผนสำหรับองค์กรของคุณเพิ่มผู้ใช้ที่เป็นผู้เยี่ยมชมและจัดการการเข้าถึงในสภาพแวดล้อมของคุณ](https://docs.microsoft.com/office365/planner/planner-for-admins)
+- **เริ่มต้นใช้งาน: เริ่มต้นใช้งาน** [Planner](https://support.office.com/article/microsoft-planner-help-4a9a13c6-3adf-4a60-a6fc-15c0b15e16fc)และเรียนรู้วิธีเปิดใช้งาน [Planner for องค์กรของคุณ เพิ่มผู้ใช้ที่เป็นแขก และจัดการการเข้าถึงในสภาพแวดล้อม](https://docs.microsoft.com/office365/planner/planner-for-admins)ของคุณ
 
-- การ**ใช้การวางแผนในทีม**: สำหรับภาพรวมทั่วไปของการรวมการวางแผนกับทีม microsoft ให้ดูที่[ใช้การวางแผนในทีม microsoft](https://support.office.com/article/62798a9f-e8f7-4722-a700-27dd28a06ee0)
+- **การใช้ Planner ใน Teams**: เพื่อดูภาพรวมทั่วไปของการรวม Planner กับ Microsoft Teams ให้ดู [ใช้ Planner ใน Microsoft Teams](https://support.office.com/article/62798a9f-e8f7-4722-a700-27dd28a06ee0)
 
-     - [เพิ่มแท็บการวางแผนลงในแชนเนลของทีม](https://support.office.com/article/62798a9f-e8f7-4722-a700-27dd28a06ee0#bkmk_addaplannertabtoateamchannel) ผู้ใช้ที่เพิ่มแท็บต้องเป็นสมาชิกของทีมไม่ใช่เพียงเจ้าของเท่านั้น คุณสามารถเพิ่มผู้ใช้ในฐานะสมาชิกผ่านทางส่วนติดต่อของทีมได้ นอกจากนี้คุณยังสามารถ [เพิ่มแผนที่มีอยู่ให้กับทีม Microsoft](https://techcommunity.microsoft.com/t5/Planner-Blog/Bringing-a-Plan-into-Microsoft-Teams/ba-p/57463)ได้อีกด้วย
+     - [เพิ่มแท็บ Planner ลงในแชนเนลทีม](https://support.office.com/article/62798a9f-e8f7-4722-a700-27dd28a06ee0#bkmk_addaplannertabtoateamchannel) ผู้ใช้ที่เพิ่มแท็บจะต้องเป็นสมาชิกของทีม ไม่ใช่แค่เจ้าของ คุณสามารถเพิ่มผู้ใช้เป็นสมาชิกผ่านทางส่วนติดต่อ Teams คุณยังสามารถเพิ่ม [แผนที่มีอยู่ลงใน Microsoft Teams](https://techcommunity.microsoft.com/t5/Planner-Blog/Bringing-a-Plan-into-Microsoft-Teams/ba-p/57463)ได้
 
-    - [เอาแท็บการวางแผนออกหรือลบแผน](https://support.office.com/article/62798a9f-e8f7-4722-a700-27dd28a06ee0#bkmk_removeaplannertabordeleteaplan) แผนที่ถูกลบไม่สามารถกู้คืนในทีมได้ ถ้ากลุ่มถูกลบออกแล้วคุณสามารถ [กู้คืนแผนและกลุ่มที่ถูกลบ](https://techcommunity.microsoft.com/t5/planner-blog/microsoft-planner-now-you-can-recover-deleted-plans-and-groups/ba-p/362242
-)ได้
+    - [ลบแท็บ Planner หรือลบ](https://support.office.com/article/62798a9f-e8f7-4722-a700-27dd28a06ee0#bkmk_removeaplannertabordeleteaplan)แผน ไม่สามารถกู้คืนแผนที่ถูกลบใน Teams ได้ ถ้ากลุ่มถูกลบแล้ว คุณสามารถกู้คืน [แผนและกลุ่ม](https://techcommunity.microsoft.com/t5/planner-blog/microsoft-planner-now-you-can-recover-deleted-plans-and-groups/ba-p/362242
+)ที่ถูกลบได้
  
-- **ผู้ใช้ที่เป็นผู้เยี่ยมชม:** จัดการการ [เข้าถึงของผู้ใช้ที่เป็นผู้เยี่ยมชมกับผู้](https://support.office.com/article/guest-access-in-microsoft-planner-cc5d7f96-dced-4da4-ab62-08c72d9759c6) วางแผน
+- **ผู้ใช้ที่เป็นแขก:** จัดการ [การเข้าถึงของผู้ใช้ที่เป็น](https://support.office.com/article/guest-access-in-microsoft-planner-cc5d7f96-dced-4da4-ab62-08c72d9759c6) ผู้ใช้ของ Planner
  
-- **การแจ้งเตือน:** ตรวจทาน [ชนิดของการแจ้งเตือนที่คุณจะได้รับ](https://support.office.com/article/stay-on-top-of-tasks-and-plans-with-email-and-notifications-cce223d6-b0ae-43cf-a080-266e2414a859)กิจกรรมที่ทริกเกอร์และที่ที่คุณสามารถเปลี่ยนการตั้งค่าการแจ้งเตือนได้
+- **การแจ้งเตือน:** ตรวจสอบ [ชนิดของการแจ้งเตือนที่คุณจะได้รับ](https://support.office.com/article/stay-on-top-of-tasks-and-plans-with-email-and-notifications-cce223d6-b0ae-43cf-a080-266e2414a859)กิจกรรมที่ทริกเกอร์และที่ที่คุณสามารถเปลี่ยนการตั้งค่าการแจ้งเตือน
  
-- **ข้อคิดเห็น** 
-   - เรียนรู้เกี่ยวกับปัญหาเกี่ยวกับการ [ดูหรือการเพิ่มข้อคิดเห็น](https://docs.microsoft.com/office365/planner/planner-for-admins#can-people-in-my-organization-use-planner-if-they-dont-have-an-exchange-online-mailbox) ลงในงานโดยไม่มีกล่องจดหมาย Exchange Online
-   - เรียนรู้วิธีการ [ตรวจสอบให้แน่ใจว่าผู้ใช้ทุกคนสามารถรับอีเมลสำหรับการวางแผน](https://docs.microsoft.com/office365/planner/planner-for-admins#how-do-i-make-sure-all-my-users-can-get-emails-forplanner)ได้
+- **ข้อคิดเห็น:** 
+   - เรียนรู้ [เกี่ยวกับปัญหาเกี่ยวกับการดูหรือการเพิ่มข้อคิดเห็น](https://docs.microsoft.com/office365/planner/planner-for-admins#can-people-in-my-organization-use-planner-if-they-dont-have-an-exchange-online-mailbox) ลงในงานโดยไม่ต้องมีกล่องจดหมาย Exchange Online
+   - เรียนรู้วิธีการตรวจสอบให้แน่ใจ[ว่าผู้ใช้ทั้งหมดสามารถรับอีเมลของ Planner](https://docs.microsoft.com/office365/planner/planner-for-admins#how-do-i-make-sure-all-my-users-can-get-emails-forplanner)
 
-- การ**จัดการงาน:** ตรวจทานข้อมูลเกี่ยวกับการให้ข้อคิดเห็นเกี่ยวกับ[งาน](https://support.office.com/article/comment-on-tasks-in-microsoft-planner-fd4aedde-7785-4cd0-96ee-122fbc9140e1)และการ[ลบงานหรือแผน](https://support.office.com/article/delete-a-task-or-plan-39e10e78-13f0-446d-94cd-9e562648497a)
+- **การจัดการงาน:** ตรวจทานข้อมูลเกี่ยวกับ [การแสดงข้อคิดเห็นเกี่ยวกับ](https://support.office.com/article/comment-on-tasks-in-microsoft-planner-fd4aedde-7785-4cd0-96ee-122fbc9140e1) งาน [และลบงานหรือ](https://support.office.com/article/delete-a-task-or-plan-39e10e78-13f0-446d-94cd-9e562648497a)แผน

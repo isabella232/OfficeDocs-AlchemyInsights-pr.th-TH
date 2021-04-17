@@ -1,8 +1,8 @@
 ---
-title: ถอดสายและเชื่อมต่อกล้องใหม่
+title: ถอดปลั๊กและเชื่อมต่อกล้องอีกครั้ง
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
@@ -12,15 +12,15 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - gethelp
-ms.openlocfilehash: 8cd57e5df85717cb7814f7652f3a8cecaed2e031
-ms.sourcegitcommit: 9a39e7cff11854c54c717a2c0094bfdfefee4ffd
+ms.openlocfilehash: 9c733c69b1430c9a5439caf99cf8f6fddff60ef5
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 10/01/2020
-ms.locfileid: "48365257"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51827739"
 ---
-# <a name="unplug-and-reconnect-camera"></a>ถอดสายและเชื่อมต่อกล้องใหม่
+# <a name="unplug-and-reconnect-camera"></a>ถอดปลั๊กและเชื่อมต่อกล้องอีกครั้ง
 
-ขออภัยไม่สามารถใช้งานได้ ถ้ากล้องเป็นกล้องภายนอกการเชื่อมต่ออุปกรณ์และการเชื่อมต่ออีกครั้งอาจช่วยได้
+ขออภัยไม่ได้ผล ถ้ากล้องเป็นกล้องภายนอก ให้ถอดอุปกรณ์ออกและเชื่อมต่ออีกครั้งอาจช่วยได้
 
-ถ้าเป็นกล้องที่มีอยู่แล้วภายในให้เริ่มระบบคอมพิวเตอร์ของคุณใหม่อาจช่วยคุณได้
+ถ้านี่เป็นกล้องในตัว การรีสตาร์ตคอมพิวเตอร์ของคุณอาจช่วยได้

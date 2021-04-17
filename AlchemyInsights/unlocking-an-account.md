@@ -1,8 +1,8 @@
 ---
-title: การปลดล็อกบัญชีผู้ใช้
+title: การปลดล็อกบัญชี
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,33 +12,33 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002449"
 - "4748"
-ms.openlocfilehash: 9a6178bd6ebc9c1c86869ece552448fbe8ac9a9b
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 532b273154a31c024825b150d9b0edd42eb6130c
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47657916"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51827775"
 ---
-# <a name="unlocking-an-account"></a>การปลดล็อกบัญชีผู้ใช้
+# <a name="unlocking-an-account"></a>การปลดล็อกบัญชี
 
-ผู้ใช้ที่เป็นไปได้จะถูกปิดใช้งาน Microsoft ๓๖๕เนื่องจากการพยายามใช้รหัสผ่านที่ไม่ถูกต้องหรือการเสียหายอื่นๆ เมื่อต้องการช่วยให้ผู้ใช้ลงชื่อเข้าใช้ Microsoft ๓๖๕**คุณสามารถลองทำตามขั้นตอนต่อไปนี้ก่อนที่จะเปิดคำขอการสนับสนุน** 
+ผู้ใช้อาจจะถูกล็อกออกจาก Microsoft 365 เนื่องจากพยายามใส่รหัสผ่านไม่ดีหรือถูกโจมตีอื่นๆ เมื่อต้องการช่วยให้ผู้ใช้ลงชื่อเข้าใช้ Microsoft 365 อีกครั้ง **คุณสามารถลองขั้นตอนต่อไปนี้ก่อนที่จะเปิดการร้องขอ** การสนับสนุน 
 
-**อีเมลที่ถูกจำกัด**
+**อีเมลที่ถูกห้าม**
 
-ในฐานะผู้ดูแลระบบถ้าผู้ใช้หนึ่งคนของคุณได้รับการจำกัดจากการส่งอีเมลคุณสามารถ[ยกเลิกการบล็อกบัญชีผู้ใช้ได้ด้วยตัวคุณเอง](https://docs.microsoft.com/microsoft-365/security/office-365-security/removing-user-from-restricted-users-portal-after-spam) ผู้ใช้จะสามารถส่งอีเมลภายในหนึ่งชั่วโมงหลังจากที่เอาข้อจำกัดออก
+ในฐานะผู้ดูแลระบบ ถ้าผู้ใช้รายใดรายหนึ่งของคุณถูกห้ามการส่งอีเมล คุณสามารถ [ยกเลิกการบล็อกบัญชีได้](https://docs.microsoft.com/microsoft-365/security/office-365-security/removing-user-from-restricted-users-portal-after-spam)ด้วยตนเอง ผู้ใช้จะสามารถส่งอีเมลภายในหนึ่งชั่วโมงหลังจากเอาข้อจํากัดออก
 
-**ตั้งค่ารหัสผ่านของผู้ใช้ใหม่**
+**ตั้งค่ารหัสผ่านผู้ใช้ใหม่**
 
-1. ในศูนย์การจัดการให้ไปที่**ผู้ใช้ > ผู้ใช้ที่[ใช้งานอยู่](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/users)**
+1. ในศูนย์การจัดการ ให้ไปที่ **ผู้ใช้ > [ผู้ใช้](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/users)** ที่ใช้งานอยู่
 
-2. เลือกผู้ใช้แล้วคลิก**ตั้งค่ารหัสผ่านใหม่**
+2. เลือกผู้ใช้ แล้วคลิก **รีเซ็ต** รหัสผ่าน
 
-**ตรวจสอบให้แน่ใจว่าผู้ใช้ได้รับอนุญาตให้ลงชื่อเข้าใช้**
+**ตรวจสอบให้แน่ใจว่าผู้ใช้สามารถลงชื่อเข้าใช้ได้**
 
-1. ในศูนย์การจัดการให้ไปที่**ผู้ใช้ > ผู้ใช้ที่[ใช้งานอยู่](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/users)**
+1. ในศูนย์การจัดการ ให้ไปที่ **ผู้ใช้ > [ผู้ใช้](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/users)** ที่ใช้งานอยู่
 
-2. เลือกผู้ใช้แล้วคลิก**การกระทำเพิ่มเติม (...)** จากนั้นคลิก**แก้ไขสถานะการลงชื่อเข้าใช้**
+2. เลือกผู้ใช้ แล้วคลิก การ **แอคชันเพิ่มเติม (...)**; จากนั้นคลิก **แก้ไขสถานะการ** ลงชื่อเข้าใช้
 
-สำหรับสถานการณ์การตั้งค่ารหัสผ่านใหม่เพิ่มเติมรวมถึงการตั้งค่ารหัสผ่านแบบบริการตนเองให้ดูที่ [ตั้งค่า Microsoft ๓๖๕ใหม่สำหรับการใช้งานหลายค่าการเรียกเก็บเงินออนไลน์-การชำระเงิน-instrumentsbusiness-รหัส](https://docs.microsoft.com/microsoft-365/admin/add-users/reset-passwords?view=o365-worldwide)ผ่าน
+For more password reset scenarios, including Self-Service Password Reset, [see Reset Microsoft 365 for multiple-attempts-to-charge-online-payment-instrumentsbusiness passwords](https://docs.microsoft.com/microsoft-365/admin/add-users/reset-passwords?view=o365-worldwide).
 
-บริการนี้จะป้องกันไม่ให้ผู้ใช้ส่งอีเมลหลังจากตรวจสอบหลักฐานของบัญชีผู้ใช้ที่ถูกบุกรุกและ/หรือสแปมขาออก ในฐานะที่เป็นข้อควรระวังให้ทำตามขั้นตอนใน [การตอบสนองต่อบัญชีผู้ใช้อีเมลที่ถูกบุกรุกใน Microsoft ๓๖๕](https://docs.microsoft.com/microsoft-365/security/office-365-security/responding-to-a-compromised-email-account) สำหรับผู้ใช้
+บริการนี้จะป้องกันไม่ให้ผู้ใช้ส่งอีเมลหลังจากตรวจพบหลักฐานของบัญชีที่ถูกละเมิด และ/หรือสแปมขาออก เพื่อความปลอดภัย ให้ปฏิบัติตามขั้นตอนในการ [ตอบสนองต่อบัญชีอีเมลที่ถูกละเมิดใน Microsoft 365](https://docs.microsoft.com/microsoft-365/security/office-365-security/responding-to-a-compromised-email-account) ให้กับผู้ใช้
