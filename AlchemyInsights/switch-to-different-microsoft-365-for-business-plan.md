@@ -1,8 +1,8 @@
 ---
-title: สลับไปยังแผน Microsoft ๓๖๕สำหรับธุรกิจอื่น
+title: สลับเป็นแผนอื่นของ Microsoft 365 for business
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -18,19 +18,19 @@ ms.custom:
 - "5160"
 - "9002663"
 - "5168"
-ms.openlocfilehash: 605e4cd00287178455877c8652af2034147e1ade
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 830a719d3851f4d0c293ec86dff1b412b50b2692
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47700510"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51824850"
 ---
-# <a name="switch-to-a-different-microsoft-365-for-business-plan"></a>สลับไปยังแผน Microsoft ๓๖๕สำหรับธุรกิจอื่น
+# <a name="switch-to-a-different-microsoft-365-for-business-plan"></a>สลับเป็นแผนอื่นของ Microsoft 365 for business
 
-การสลับแผนสามารถดำเนินการให้เสร็จสมบูรณ์ได้ในศูนย์การจัดการ Microsoft ๓๖๕
+การสลับแผนสามารถเสร็จสมบูรณ์ในศูนย์การจัดการ Microsoft 365
 
-- [สลับแผนด้วยตนเอง](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/switch-plans-manually) โดยการซื้อการสมัครใช้งานใหม่การกำหนดสิทธิ์การใช้งานใหม่และการยกเลิกแผนอื่น (ถ้าจำเป็น)
+- [สลับแผน](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/switch-plans-manually) ด้วยตนเองโดยการซื้อการสมัครใช้งานใหม่ การกําหนดสิทธิ์การใช้งานใหม่ และการยกเลิกแผนอื่น (ถ้าต้องใช้)
 
-- ในบางสถานการณ์ [ปุ่มสลับแผน](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/switch-to-a-different-plan#use-the-switch-plans-button) จะพร้อมใช้งานเพื่อนำคุณผ่านขั้นตอนในการสลับแผน
+- In some situations the [Switch Plans button](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/switch-to-a-different-plan#use-the-switch-plans-button) is available to lead you through the process of switching plans.
 
-สำหรับข้อมูลเพิ่มเติมให้ดูที่สลับไปยังแผนอื่นของ[Microsoft ๓๖๕สำหรับธุรกิจ](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/switch-to-a-different-plan)
+ดูข้อมูลเพิ่มเติมได้ที่ สลับเป็นแผนอื่นของ[Microsoft 365 for business](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/switch-to-a-different-plan)

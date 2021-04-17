@@ -1,8 +1,8 @@
 ---
-title: เปิดใช้งานและกำหนดสิทธิ์การใช้งานแอปพลิเคชันซอฟต์แวร์แบบเป็นบริการ
+title: เปิดใช้งานและกําหนดสิทธิ์การใช้งานแอปแบบบริการซอฟต์แวร์
 ms.author: cmcatee
 author: cmcatee-MSFT
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,27 +12,27 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000563"
 - "2422"
-ms.openlocfilehash: 8e0742a528a8bf5beefb32e32c5139b35ecad38d
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: c31de2fd6e34ffb4d510bc3bb33525e58c1c6557
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47698593"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51823230"
 ---
-# <a name="activate-and-assign-software-as-a-service-app-licenses"></a>เปิดใช้งานและกำหนดสิทธิ์การใช้งานแอปพลิเคชันซอฟต์แวร์แบบเป็นบริการ 
+# <a name="activate-and-assign-software-as-a-service-app-licenses"></a>เปิดใช้งานและกําหนดสิทธิ์การใช้งานแอปแบบบริการซอฟต์แวร์ 
 
 ## <a name="to-activate-apps"></a>เมื่อต้องการเปิดใช้งานแอป
 
-1. ในศูนย์การจัดการให้ไปที่หน้าการ**เรียกเก็บเงิน**  >  **[ของผลิตภัณฑ์ของคุณ](https://go.microsoft.com/fwlink/p/?linkid=842054)** จากนั้นเลือกแท็บ**แอป**
+1. ในศูนย์การจัดการ ให้ไปที่ **หน้า**  >  **[การเรียกเก็บเงินผลิตภัณฑ์](https://go.microsoft.com/fwlink/p/?linkid=842054)** ของคุณ แล้วเลือก **แท็บ** แอป
 
 2. ค้นหาและเลือกแอปที่คุณต้องการจัดการ
 
-3. ภายใต้**สิทธิ์**การใช้งานให้เลือก**ตั้งค่าบัญชีผู้ใช้**  
+3. **ภายใต้ สิทธิ** การใช้งาน **ให้เลือก ตั้งค่า** บัญชี  
 
-## <a name="to-assign-app-licenses"></a>เมื่อต้องการกำหนดสิทธิ์การใช้งานแอป
+## <a name="to-assign-app-licenses"></a>เมื่อต้องการกําหนดสิทธิ์การใช้งานแอป
 
-1. ในศูนย์การจัดการให้ไปที่หน้าการ**เรียกเก็บเงิน**  >  **[ของผลิตภัณฑ์ของคุณ](https://go.microsoft.com/fwlink/p/?linkid=842054)** จากนั้นเลือกแท็บ**แอป**
+1. ในศูนย์การจัดการ ให้ไปที่ **หน้า**  >  **[การเรียกเก็บเงินผลิตภัณฑ์](https://go.microsoft.com/fwlink/p/?linkid=842054)** ของคุณ แล้วเลือก **แท็บ** แอป
 
 2. ค้นหาและเลือกแอปที่คุณต้องการจัดการ  
 
-3. ภายใต้**การตั้งค่า & การดำเนิน**การให้เลือกลิงก์เพื่อ**จัดการในพอร์ทัลของ publisher**
+3. ภายใต้ **&การตั้งค่า** ให้เลือกลิงก์ **เพื่อ จัดการ ในพอร์ทัลของ** ผู้เผยแพร่

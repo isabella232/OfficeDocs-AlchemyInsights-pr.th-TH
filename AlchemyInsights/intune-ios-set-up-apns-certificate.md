@@ -1,8 +1,8 @@
 ---
-title: การตั้งค่าใบรับรอง APN iOS ของ Intune
+title: Intun1 iOS ตั้งค่าใบรับรอง APNS
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,21 +12,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000654"
 - "3543"
-ms.openlocfilehash: f58405de018c916e08672022bb4f66292524b736
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 66590b8a063e74e80bbe3e1e497c596d63a54ece
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47667465"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51824058"
 ---
-# <a name="intune-ios-set-up-apns-certificate"></a>การตั้งค่าใบรับรอง APN iOS ของ Intune
+# <a name="intune-ios-set-up-apns-certificate"></a>Intun1 iOS ตั้งค่าใบรับรอง APNS
 
-ใบรับรองแบบพุชของ Apple MDM (หรือที่เรียกว่าใบรับรองบริการการแจ้งเตือนแบบพุชของ Apple (APN)) ไม่ได้ถูกกำหนดค่าในการสมัครใช้งานของคุณ
+ใบรับรอง Apple MDM Push (หรือที่เรียกว่าใบรับรอง Apple Push Notification Service (APNS) ยังไม่ได้กําหนดค่าในการสมัครใช้งานของคุณ
 
-ถ้าไม่มีการกำหนดค่าใบรับรองแบบผลักข้อมูลของ Apple MDM คุณจะไม่สามารถลงทะเบียนและจัดการอุปกรณ์ iOS และ MacOS ได้ หลังจากที่คุณเพิ่มใบรับรองไปยัง Intune แล้วผู้ใช้ของคุณสามารถติดตั้งแอป Portal ของบริษัทเพื่อลงทะเบียนอุปกรณ์ iOS ของพวกเขาได้
+ถ้าไม่มีใบรับรองแบบพุชของ Apple MDM ที่กําหนดค่าไว้ คุณจะไม่สามารถลงทะเบียนและจัดการอุปกรณ์ iOS และ MacOS ได้ หลังจากที่คุณเพิ่มใบรับรองไปยัง Intun1 ผู้ใช้ของคุณสามารถติดตั้งแอป Company Portal เพื่อลงทะเบียนอุปกรณ์ iOS ของพวกเขาได้
 
-สำหรับคำแนะนำทีละขั้นตอนในการเพิ่มใบรับรอง APN ให้กับผู้เช่า Intune ของคุณโปรดตรวจทานเนื้อหาบนลิงก์ต่อไปนี้:
+โปรดดูเนื้อหาบนลิงก์ต่อไปนี้เพื่อไปยังคู่มือทีละขั้นตอนในการเพิ่มใบรับรอง APNS ลงในผู้เช่า Intunte ของคุณ
 
-- [รับใบรับรองแบบพุชของ Apple MDM](https://docs.microsoft.com/mem/intune/enrollment/apple-mdm-push-certificate-get)
+- [รับใบรับรองแบบพุช MDM ของ Apple](https://docs.microsoft.com/mem/intune/enrollment/apple-mdm-push-certificate-get)
 
-ถ้าคุณกำลังมีปัญหาเกี่ยวกับใบรับรองการแจ้งเตือนแบบพุชของ Apple (Apn) อ้างอิงไปยังโพสต์ในบล็อกนี้: [Intune และใบรับรอง apn: คำถามที่ถามบ่อยและปัญหาทั่วไป](https://techcommunity.microsoft.com/t5/Intune-Customer-Success/Intune-and-the-APNs-certificate-FAQ-and-common-issues/ba-p/280121)
+ถ้าคุณมีปัญหากับใบรับรองการแจ้งเตือนแบบพุช (APN) ของ Apple ให้อ้างอิงโพสต์ในบล็อกนี้: Intun1 และใบรับรอง [APN: FAQ และปัญหาทั่วไป](https://techcommunity.microsoft.com/t5/Intune-Customer-Success/Intune-and-the-APNs-certificate-FAQ-and-common-issues/ba-p/280121)

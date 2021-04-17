@@ -1,8 +1,8 @@
 ---
-title: การโยกย้ายจาก AIP ไปยัง MIP/Unified การติดป้ายในศูนย์การปฏิบัติตามนโยบาย
+title: การโยกย้ายจาก AIP ไปยังป้ายชื่อ MIP/Unified ในศูนย์การปฏิบัติตามข้อบังคับ
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,37 +12,37 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002278"
 - "5114"
-ms.openlocfilehash: 7157eada10db2443f64fb7925f408359275d75eb
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 12f5f5c46edd7918618c55a8a1905f3b28643092
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47674345"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51825390"
 ---
-# <a name="migration-from-aip-to-mipunified-labeling-in-the-compliance-center"></a>การโยกย้ายจาก AIP ไปยัง MIP/Unified การติดป้ายในศูนย์การปฏิบัติตามนโยบาย
+# <a name="migration-from-aip-to-mipunified-labeling-in-the-compliance-center"></a>การโยกย้ายจาก AIP ไปยังป้ายชื่อ MIP/Unified ในศูนย์การปฏิบัติตามข้อบังคับ
 
-เมื่อต้องการโยกย้ายจากป้ายชื่อ AIP เพื่อรวมการติดป้ายในศูนย์การรักษาความปลอดภัยและการปฏิบัติตามนโยบายให้ทำดังต่อไปนี้:
+เมื่อต้องการโยกย้ายจากป้ายชื่อ AIP ไปยังป้ายชื่อแบบครบวงจรในศูนย์การรักษาความปลอดภัยและการปฏิบัติตามนโยบาย ให้ปฏิบัติดังนี้
 
 **เปิดใช้งานการป้องกันจากพอร์ทัล Azure**
 
-1. ถ้าคุณยังไม่ได้ทำให้เปิดหน้าต่างเบราว์เซอร์ใหม่และ[ลงชื่อเข้าใช้พอร์ทัล Azure](https://docs.microsoft.com/azure/information-protection/deploy-use/configure-policy#signing-in-to-the-azure-portal) นำทางไปยังใบมีด**การป้องกันข้อมูลของ Azure** ตัวอย่างเช่นบนเมนูฮับให้คลิก **บริการทั้งหมด** แล้วเริ่มพิมพ์ **ข้อมูล** ในกล่องตัวกรอง เลือก**การป้องกันข้อมูล Azure** ถ้าคุณยังไม่ได้เข้าถึงใบมีดการป้องกันข้อมูลของ Azure ก่อนให้ดู [ขั้นตอนเพิ่มเติม](https://docs.microsoft.com/azure/information-protection/deploy-use/configure-policy#to-access-the-azure-information-protection-blade-for-the-first-time) แบบครั้งเดียวเพื่อเพิ่มใบมีดนี้ไปยังพอร์ทัล เมื่อต้องการเปิดใบมีดการป้องกันข้อมูลของ Azure คุณต้องมี [แผนพรีเมียมการป้องกันข้อมูลของ azure](https://www.microsoft.com/cloud-platform/azure-information-protection-pricing) หรือแผน Office ๓๖๕ที่มีการจัดการสิทธิ์ ถ้าคุณมีหนึ่งในการสมัครใช้งานเหล่านี้แต่เห็นข้อความว่าไม่พบการสมัครใช้งานที่ถูกต้องให้ [ติดต่อฝ่ายสนับสนุนของไมโครซอฟท์](https://docs.microsoft.com/azure/information-protection/get-started/information-support#to-contact-microsoft-support) หรือใช้ช่องทางการสนับสนุนมาตรฐานของคุณ
+1. ถ้าคุณยังไม่ได้เปิด ให้เปิดหน้าต่างเบราว์เซอร์ใหม่และ[ลงชื่อเข้าใช้พอร์ทัล Azure](https://docs.microsoft.com/azure/information-protection/deploy-use/configure-policy#signing-in-to-the-azure-portal) นําทางไปยัง **เบลด Azure Information Protection** ตัวอย่างเช่น บนเมนูฮับ ให้คลิก **บริการทั้งหมด** แล้วเริ่ม **พิมพ์** ข้อมูล ในกล่อง ตัวกรอง เลือก **Azure Information Protection** ถ้าคุณไม่เคยเข้าถึงเบลด Azure Information Protection มาก่อน ให้ดูขั้นตอนเพิ่มเติมแบบใช้ [เวลา](https://docs.microsoft.com/azure/information-protection/deploy-use/configure-policy#to-access-the-azure-information-protection-blade-for-the-first-time) เดียวเพื่อเพิ่มเบลดนี้ลงในพอร์ทัล เมื่อต้องการเปิดเบลด Azure Information Protection คุณต้องมีแผน [Azure Information Protection Premium](https://www.microsoft.com/cloud-platform/azure-information-protection-pricing) หรือแผน Office 365 ที่มีการจัดการสิทธิ์ ถ้าคุณมีหนึ่งในการสมัครใช้งานเหล่านี้ แต่เห็นข้อความว่าไม่พบการสมัครใช้งานที่ถูกต้อง ติดต่อฝ่ายสนับสนุนของ [Microsoft หรือใช้](https://docs.microsoft.com/azure/information-protection/get-started/information-support#to-contact-microsoft-support) แชนเนลการสนับสนุนมาตรฐานของคุณ
 
-2. ค้นหาตัวเลือก**จัดการ**เมนูแล้วเลือก**การเปิดใช้งานการป้องกัน** คลิก **เปิดใช้งาน**แล้วยืนยันการดำเนินการของคุณ เมื่อการเปิดใช้งานเสร็จสมบูรณ์แล้วแถบข้อมูลจะแสดงการ**เปิดใช้งานเสร็จเรียบร้อยแล้ว**
+2. ค้นหา **ตัวเลือก** เมนู จัดการ แล้วเลือก **การเปิดใช้งาน** การป้องกัน คลิก **เปิดใช้งาน** แล้วยืนยันการทํางานของคุณ เมื่อเปิดใช้งานเสร็จสมบูรณ์ แถบข้อมูลจะแสดง การเปิดใช้งาน **เสร็จสมบูรณ์**
 
-**โยกย้ายป้ายชื่อการป้องกันข้อมูล Azure ไปยังศูนย์การรักษาความปลอดภัยของ Office ๓๖๕ & ศูนย์การปฏิบัติตามนโยบาย**
+**โยกย้ายป้ายชื่อ Azure Information Protection ไปยังศูนย์การรักษา& Office 365**
 
-1. ตรวจสอบให้แน่ใจว่าคุณได้เข้าสู่ระบบในฐานะผู้ใช้ที่มีสิทธิ์ระดับผู้ดูแลระบบส่วนกลาง
+1. ตรวจสอบให้แน่ใจว่าคุณเข้าสู่ระบบในฐานะผู้ใช้ที่มีสิทธิ์ผู้ดูแลระบบส่วนกลาง
 
-2. นำทางไปยังใบมีด**การป้องกันข้อมูลของ Azure**
+2. นําทางไปยัง **เบลด Azure Information Protection**
 
-3. จากตัวเลือก**จัดการ**เมนูให้เลือกการ**ติดป้ายแบบครบวงจร**
+3. จาก **ตัวเลือก** เมนูจัดการ **ให้เลือก การติดป้ายผนึก** แบบรวม
 
-4. บนหน้าการ **ป้องกันข้อมูลของ Azure-การติดป้ายชื่อแบบ** รวมให้คลิก **เปิดใช้งาน** แล้วทำตามคำแนะนำออนไลน์
+4. บน **Azure Information Protection - ใบป้ายชื่อแบบรวม** ให้คลิก **เปิดใช้งาน และ** ปฏิบัติตามคําแนะนําแบบออนไลน์
 
-**หมายเหตุ**: ตรวจสอบว่าคุณมีสิทธิ์ที่เหมาะสมก่อนที่จะเปิดใช้งานการโยกย้ายศูนย์การรักษาความปลอดภัย & การปฏิบัติตามนโยบาย ดูบทความเหล่านี้สำหรับข้อมูลเพิ่มเติม:
+**หมายเหตุ**: ตรวจสอบว่าคุณมีสิทธิ์ที่เหมาะสมก่อนที่จะเปิดใช้งานการโยกย้ายศูนย์&การปฏิบัติตามนโยบาย ดูบทความเหล่านี้เพื่อดูข้อมูลเพิ่มเติม:
 
-1. [คุณจำเป็นต้องเป็นผู้ดูแลระบบส่วนกลางเพื่อกำหนดค่าการป้องกันข้อมูลของ Azure หรือฉันสามารถมอบสิทธิ์ให้กับผู้ดูแลระบบรายอื่นได้หรือไม่](https://docs.microsoft.com/azure/information-protection/faqs#do-you-need-to-be-a-global-admin-to-configure-azure-information-protection-or-can-i-delegate-to-other-administrators)
+1. [คุณต้องเป็นผู้ดูแลระบบส่วนกลางเพื่อกําหนดค่า Azure Information Protection หรือฉันสามารถมอบสิทธิ์ให้กับผู้ดูแลระบบคนอื่นได้หรือไม่](https://docs.microsoft.com/azure/information-protection/faqs#do-you-need-to-be-a-global-admin-to-configure-azure-information-protection-or-can-i-delegate-to-other-administrators)
 
-2. [ข้อมูลที่สำคัญเกี่ยวกับบทบาทการดูแลระบบหลังจากโยกย้ายไปยังศูนย์การปฏิบัติตามกฎระเบียบ & ด้านความปลอดภัย](https://docs.microsoft.com/azure/information-protection/configure-policy-migrate-labels#important-information-about-administrative-roles)
+2. [ข้อมูลสําคัญเกี่ยวกับบทบาทผู้ดูแลระบบหลังจากการโยกย้ายไปยังศูนย์&การปฏิบัติตามนโยบาย](https://docs.microsoft.com/azure/information-protection/configure-policy-migrate-labels#important-information-about-administrative-roles)
 
-สำหรับข้อมูลเพิ่มเติมเกี่ยวกับ AIP เพื่อรวมการโยกย้ายการโยกย้ายไปยังศูนย์การรักษาความปลอดภัยและการปฏิบัติตามนโยบายให้ดูที่การ[โยกย้ายป้ายชื่อ](https://docs.microsoft.com/azure/information-protection/configure-policy-migrate-labels)
+For more information on the AIP to Unified Labeling migration to Security and Compliance Center, see [Migrate labels](https://docs.microsoft.com/azure/information-protection/configure-policy-migrate-labels).

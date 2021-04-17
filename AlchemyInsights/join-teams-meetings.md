@@ -1,8 +1,8 @@
 ---
-title: เข้าร่วมการประชุมทีม
+title: เข้าร่วมการประชุม Teams
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "2667"
 - "9000735"
-ms.openlocfilehash: a27c6ac118608a6f4ce85b38c2ddaa2bd8f80b4f
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: caa0cb4aa9a76cf1e18eafb73273c2fe5cc6a6df
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47772930"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51824022"
 ---
-# <a name="join-a-meeting-in-teams"></a>เข้าร่วมการประชุมในทีม
+# <a name="join-a-meeting-in-teams"></a>เข้าร่วมการประชุมใน Teams
 
-เมื่อต้องการเข้าร่วมการประชุมทีมให้ตั้งค่านโยบายการประชุมก่อนจากนั้นให้ผู้ใช้ที่ต้องการเข้าร่วมจากอุปกรณ์ที่ต้องการของพวกเขาโดยตรง:
+เมื่อต้องการเข้าร่วมการประชุม Teams ก่อนอื่นให้ตั้งค่านโยบายการประชุม จากนั้นให้ให้ผู้ใช้เข้าร่วมจากอุปกรณ์ที่ต้องการ:
 
-- ตั้งค่านโยบายการประชุมที่ควบคุมว่าใครจะสามารถเข้าร่วมการประชุมในฐานะผู้ [เข้าร่วมหรือผู้](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams#meeting-policy-settings---participants--guests)เยี่ยมชมได้ 
+- ตั้งค่านโยบายการประชุมที่ควบคุมว่าใครจะสามารถเข้าร่วมการประชุมในฐานะ [ผู้เข้าร่วมหรือผู้ใช้](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams#meeting-policy-settings---participants--guests)ภายนอกได้ 
 
-- ใช้ [Cmdlet PowerShell](https://docs.microsoft.com/microsoftteams/teams-powershell-overview) ของ Microsoft team เพื่อทำการเปลี่ยนแปลงนโยบาย    
+- ใช้ [cmdlet ของ](https://docs.microsoft.com/microsoftteams/teams-powershell-overview) Microsoft Teams PowerShell เพื่อเปลี่ยนแปลงนโยบาย    
 
-**หมายเหตุ:** อาจใช้เวลาถึง24ชั่วโมงสำหรับการเปลี่ยนแปลงนโยบายจะมีผล
+**หมายเหตุ:** อาจต้องใช้เวลาถึง 24 ชั่วโมงเพื่อให้การเปลี่ยนแปลงนโยบายมีผล

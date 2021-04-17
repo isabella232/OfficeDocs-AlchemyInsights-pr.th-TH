@@ -1,8 +1,8 @@
 ---
-title: ย้ายไฟล์ไปยัง OneDrive for Business จากผู้ให้บริการ cloud รายอื่น
+title: ย้ายไฟล์ไปยัง OneDrive for Business จากผู้ให้บริการ Cloud รายอื่น
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003086"
 - "5851"
-ms.openlocfilehash: ea1b8212a00d8863d55a10d839d0a15c379ab5fa
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: c54a2c665b6ed8761bdcee8c88044a4bc840483d
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47799691"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51825354"
 ---
-# <a name="move-files-into-onedrive-for-business-from-another-cloud-provider"></a>ย้ายไฟล์ไปยัง OneDrive for Business จากผู้ให้บริการ cloud รายอื่น
+# <a name="move-files-into-onedrive-for-business-from-another-cloud-provider"></a>ย้ายไฟล์ไปยัง OneDrive for Business จากผู้ให้บริการ Cloud รายอื่น
 
-ถ้าคุณกำลังโยกย้ายข้อมูลจากผู้ให้บริการ cloud รายอื่นลงใน OneDrive หรือ SharePoint [ผู้รับมอบ](https://go.microsoft.com/fwlink/?linkid=2132453) อำนาจสนับสนุนการโยกย้ายจากผู้ให้บริการระบบคลาวด์มากกว่าหนึ่งโหลรวมถึงกล่อง, Dropbox, Egnyte และ Google Drive คุณยังสามารถใช้ผู้นำเสนอเพื่อโยกย้ายจากผู้เช่า SharePoint รายหนึ่งไปยังอีกคนหนึ่งหรือจากผู้ใช้ OneDrive หรือ OneDrive.com
+ถ้าคุณโยกย้ายข้อมูลจากผู้ให้บริการ Cloud อื่นๆ ไปยัง OneDrive หรือ SharePoint ผู้[](https://go.microsoft.com/fwlink/?linkid=2132453)ย้ายจะสนับสนุนการโยกย้ายจากผู้ให้บริการระบบคลาวด์นับสิบราย รวมถึง Box, Dropbox, Egnyte และ Google Drive ผู้ย้ายยังสามารถใช้เพื่อโยกย้ายจากผู้เช่า SharePoint หนึ่งไปยังอีกผู้เช่าหนึ่ง หรือจากผู้ใช้ OneDrive หรือผู้ OneDrive.com ได้
 
-[เรียนรู้เพิ่มเติมเกี่ยวกับ](https://go.microsoft.com/fwlink/?linkid=2132453)การเสนองาน
+[เรียนรู้เพิ่มเติมเกี่ยวกับ ผู้](https://go.microsoft.com/fwlink/?linkid=2132453)ย้าย
 
-เรียนรู้เกี่ยวกับวิธีการเพิ่มเติมในการ [ย้ายไฟล์ที่คุณจัดเก็บไว้ใน Microsoft OneDrive หรือบริการที่เก็บไฟล์บนระบบคลาวด์อื่นๆ](https://support.microsoft.com/office/7fb28cad-7e25-451f-8b4b-2d1a71e5c0e9) ไปยัง OneDrive for Business ใน Office ๓๖๕
+เรียนรู้เกี่ยวกับวิธีการเพิ่มเติมเพื่อย้าย [ไฟล์ที่คุณจัดเก็บไว้ใน Microsoft OneDrive หรือบริการที่เก็บข้อมูล](https://support.microsoft.com/office/7fb28cad-7e25-451f-8b4b-2d1a71e5c0e9) ไฟล์บนระบบคลาวด์อื่นๆ ไปยัง OneDrive for Business ใน Office 365

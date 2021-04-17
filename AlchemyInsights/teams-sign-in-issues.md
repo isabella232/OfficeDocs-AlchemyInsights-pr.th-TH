@@ -1,8 +1,8 @@
 ---
-title: ปัญหาในการลงชื่อเข้าใช้ของทีม
+title: ปัญหาการลงชื่อเข้าใช้ Teams
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "2688"
 - "9000744"
-ms.openlocfilehash: c3c1933a00fdb4cb0a71e6cbd19f499cb789957b
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: f484015d8a96730443ef4b35da5ec59af2419a55
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47750686"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51824742"
 ---
-# <a name="troubleshooting-teams-sign-in"></a>การแก้ไขปัญหาการลงชื่อเข้าใช้ในทีม 
+# <a name="troubleshooting-teams-sign-in"></a>การแก้ไขปัญหาการลงชื่อเข้าใช้ Teams 
 
-มีปัญหาในการลงชื่อเข้าใช้ทีม Microsoft ใช่หรือไม่ อ้างอิงไปยังบทความต่อไปนี้สำหรับข้อมูลเพิ่มเติม
+มีปัญหาในการลงชื่อเข้าใช้ Microsoft Teams ใช่ไหม ดูบทความต่อไปนี้เพื่อดูข้อมูลเพิ่มเติม
 
-- [เหตุใดฉันจึงมีปัญหาในการลงชื่อเข้าใช้ในทีม Microsoft](https://support.office.com/article/a02f683b-61a3-4008-9447-ee60c5593b0f)
-- [ทีม Microsoft ติดอยู่ในการวนรอบการเข้าสู่ระบบใน Edge หรือ Internet Explorer](https://docs.microsoft.com/microsoftteams/troubleshoot/teams-sign-in/sign-in-loop)
-- [รหัสสถานะของคุณคือข้อผิดพลาด4c7 กับทีม Microsoft](https://support.microsoft.com/help/4041047/modern-authentication-failed-here-status-code-is-4c7-when-signing-in-t)
-- [ฉันจะเข้าถึงทีม Microsoft ได้อย่างไร](https://support.office.com/article/how-do-i-get-access-to-microsoft-teams-fc7f1634-abd3-4f26-a597-9df16e4ca65b)
+- [เหตุใดฉันจึงมีปัญหาในการลงชื่อเข้าใช้ Microsoft Teams](https://support.office.com/article/a02f683b-61a3-4008-9447-ee60c5593b0f)
+- [Microsoft Teams ติดอยู่ในวงรอบการเข้าสู่ระบบใน Microsoft Edge หรือ Internet Explorer](https://docs.microsoft.com/microsoftteams/troubleshoot/teams-sign-in/sign-in-loop)
+- [รหัสสถานะของคุณคือข้อผิดพลาด 4c7 กับ Microsoft Teams](https://support.microsoft.com/help/4041047/modern-authentication-failed-here-status-code-is-4c7-when-signing-in-t)
+- [ฉันจะเข้าถึง Microsoft Teams ได้อย่างไร](https://support.office.com/article/how-do-i-get-access-to-microsoft-teams-fc7f1634-abd3-4f26-a597-9df16e4ca65b)

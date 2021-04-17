@@ -2,7 +2,7 @@
 title: จัดการผู้ใช้ที่ซิงโครไนซ์
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,20 +12,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000609"
 - "2444"
-ms.openlocfilehash: 7bf7d3f00308ff6bc973cd52e09ca51c5fd0f45b
-ms.sourcegitcommit: 1fb324fd156008e77b7e2008af4b3dc1c0d0ea3e
+ms.openlocfilehash: 0dc2ecfa0bb5703c619dc1b2d6b4d517f999da0d
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 10/13/2020
-ms.locfileid: "48451419"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51823986"
 ---
-# <a name="unable-to-set-primary-email-address-change-user-attributes-or-removedelete-a-synchronized-user"></a>ไม่สามารถตั้งค่าที่อยู่อีเมลหลักเปลี่ยนแอตทริบิวต์ของผู้ใช้หรือลบ/ลบผู้ใช้ที่ซิงโครไนซ์ได้
+# <a name="unable-to-set-primary-email-address-change-user-attributes-or-removedelete-a-synchronized-user"></a>ไม่สามารถตั้งค่าที่อยู่อีเมลหลัก เปลี่ยนแอตทริบิวต์ของผู้ใช้ หรือลบผู้ใช้ที่ถูกซิงโครไนซ์
 
-ถ้ามีการเปิดใช้งานการซิงโครไนซ์ไดเรกทอรีสำหรับสภาพแวดล้อมของคุณคุณจะไม่สามารถเปลี่ยนแอตทริบิวต์บางอย่างของผู้ใช้หรือวัตถุได้โดยใช้ศูนย์การจัดการ Microsoft ๓๖๕
+ถ้าเปิดใช้งานการซิงโครไนซ์ไดเรกทอรีกับสภาพแวดล้อมของคุณ แอตทริบิวต์ผู้ใช้หรือวัตถุบางอย่างจะไม่สามารถเปลี่ยนแปลงได้โดยใช้ศูนย์การจัดการ Microsoft 365
 
-เมื่อต้องการจัดการผู้ใช้ที่ซิงโครไนซ์และแอตทริบิวต์ทั้งหมดโดยสมบูรณ์ให้ใช้ผู้ใช้ของไดเรกทอรีที่ใช้งานอยู่ภายในเครื่องของคุณและคอนโซลการจัดการกลุ่ม (adsiedit. msc)  
+เมื่อต้องการจัดการผู้ใช้ที่ซิงโครไนซ์และแอตทริบิวต์ทั้งหมดให้สมบูรณ์ ให้ใช้ผู้ใช้ไดเรกทอรีที่ใช้งานอยู่ภายในเครื่องและคอนโซลการจัดการกลุ่ม (adsiedit.msc)  
 
-อีกวิธีหนึ่งคือคุณสามารถเปลี่ยนผู้ใช้แต่ละรายหรือแอตทริบิวต์สำหรับผู้ใช้ที่ทำข้อมูลให้ตรงกันโดยใช้ powershell เช่นที่แสดงในตัวอย่างทั่วไปเหล่านี้:
+อีกวิธีหนึ่งคือ คุณสามารถเปลี่ยนผู้ใช้แต่ละรายหรือแอตทริบิวต์ของผู้ใช้ที่ซิงโครไนซ์โดยใช้ Powershell เช่นที่แสดงในตัวอย่างทั่วไปเหล่านี้:
 
 `Set-MsolUser -UserPrincipalName user@yourdomain.onmicrosoft.com -AlternateEmailAddresses user2@yourvanitydomain.onmicrosoft.com`
 

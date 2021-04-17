@@ -2,7 +2,7 @@
 title: สิทธิ์ของผู้ใช้ไม่เพียงพอ
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,13 +12,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002274"
 - "4492"
-ms.openlocfilehash: 0e3ec9ae688656bb0952f3ce4a116a14f07495b2
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: b036c7c958f5ca02d035eecc4a31d1c610276871
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47662976"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51824130"
 ---
 # <a name="insufficient-user-permissions"></a>สิทธิ์ของผู้ใช้ไม่เพียงพอ
 
-ปัญหานี้เกิดขึ้นเมื่อไม่ตรงตาม[ข้อกำหนดเบื้องต้นที่จำเป็น](https://docs.microsoft.com/configmgr/tenant-attach/device-sync-actions#prerequisites) โปรดตรวจสอบให้แน่ใจว่าผู้ใช้ได้แจ้งสิทธิ์ของ **ทรัพยากร** ภายใต้คลาสของวัตถุ **คอลเลกชัน** ในตัวจัดการการกำหนดค่า
+ปัญหานี้เกิดขึ้นเมื่อไม่ [เป็นไปตามเงื่อนไขเบื้องต้น](https://docs.microsoft.com/configmgr/tenant-attach/device-sync-actions#prerequisites) ที่ต้องมี โปรดตรวจสอบให้แน่ใจว่าผู้ใช้มีสิทธิ์ **แจ้งทรัพยากร** ภายใต้คลาส **วัตถุคอลเลกชัน** ในตัวจัดการการกําหนดค่า

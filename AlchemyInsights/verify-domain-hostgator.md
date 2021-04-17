@@ -2,7 +2,7 @@
 title: ยืนยันโดเมนของคุณด้วย Hostgator
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -11,17 +11,17 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "1"
-ms.openlocfilehash: e364551f50e8c8efdee74842be2fb4fab734bb71
-ms.sourcegitcommit: 78939b01579b626b147d356045a37aec1170c948
+ms.openlocfilehash: c333322ff791a288607e4f6a090d655106e93420
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47816416"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51824310"
 ---
 # <a name="verify-your-domain-with-hostgator"></a>ยืนยันโดเมนของคุณด้วย Hostgator
 
-เมื่อต้องการยืนยันโดเมนของคุณคุณจะต้องเพิ่มระเบียน TXT ลงในบริษัทจดทะเบียนโดเมนของคุณเพื่อยืนยันว่าคุณเป็นเจ้าของโดเมนของคุณ 
+เมื่อต้องการยืนยันโดเมนของคุณ คุณจะต้องเพิ่มระเบียน TXT ลงในบริษัทจดทะเบียนโดเมนของคุณเพื่อยืนยันว่าคุณเป็นเจ้าของโดเมนของคุณ 
 
-ก่อนอื่นให้ทำตามตัว[ช่วยสร้างเพิ่มโดเมน](https://admin.microsoft.com/Adminportal#/Domains)โดยเลือกโดเมน**การตั้งค่า** \> **Domains**แล้ว**เพิ่มโดเมน**
+ก่อนอื่น [ให้ปฏิบัติตามตัวช่วยสร้าง](https://admin.microsoft.com/Adminportal#/Domains) เพิ่มโดเมน **โดย** \> **การเลือก การตั้งค่า** โดเมน จากนั้น **เพิ่ม** โดเมน
   
-ให้ดู [ที่สร้างระเบียน DNS ที่ Hostgator สำหรับ Microsoft ๓๖๕](https://docs.microsoft.com/microsoft-365/admin/dns/create-dns-records-at-hostgator) สำหรับคำแนะนำทีละขั้นตอน
+ดู [สร้างระเบียน DNS ที่ Hostgator for Microsoft 365](https://docs.microsoft.com/microsoft-365/admin/dns/create-dns-records-at-hostgator) เพื่อดูคําแนะนําทีละขั้นตอน

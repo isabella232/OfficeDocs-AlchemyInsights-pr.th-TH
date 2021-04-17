@@ -2,7 +2,7 @@
 title: จัดการบัญชีผู้ใช้และการสมัครใช้งานของคุณ
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,35 +12,35 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001669"
 - "4560"
-ms.openlocfilehash: c17485c40af22dd30339d819a08818d02e4ac737
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: f6af9e73bd88d1c4f37a1b7d408f8f89b9423f70
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47703102"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51823914"
 ---
 # <a name="manage-your-account-and-subscriptions"></a>จัดการบัญชีผู้ใช้และการสมัครใช้งานของคุณ
 
-**การทำงานจากที่บ้าน**
-- [ฉันจะรับ Office เวอร์ชันทดลองใช้ฟรี6เดือน๓๖๕ได้อย่างไรรวมถึงทีม Microsoft](https://docs.microsoft.com/MicrosoftTeams/e1-trial-license)
+**การเริ่มต้นจากที่บ้าน**
+- [ฉันจะรับ Office 365 E1 รุ่นทดลองใช้ฟรี 6 เดือน รวมถึง Microsoft Teams ได้อย่างไร](https://docs.microsoft.com/MicrosoftTeams/e1-trial-license)
 
-- [ตัวเลือกสำหรับการประชุมทางเสียง](https://docs.microsoft.com/alchemyinsights/options-for-audio-conferencing)
+- [ตัวเลือกการประชุมทางเสียง](https://docs.microsoft.com/alchemyinsights/options-for-audio-conferencing)
 
-**การเรียนรู้และการเรียนรู้ระยะไกล**
+**การสอนและการเรียนรู้จากระยะไกล**
 
-- [การทำการเปลี่ยนไปใช้การเรียนรู้ระยะไกล](https://www.microsoft.com/education/remote-learning)
+- [การเปลี่ยนไปใช้การเรียนรู้จากระยะไกล](https://www.microsoft.com/education/remote-learning)
 
-- [เริ่มต้นใช้งานทีม Microsoft สำหรับการเรียนรู้ระยะไกล](https://docs.microsoft.com/MicrosoftTeams/remote-learning-edu)
+- [เริ่มต้นใช้งาน Microsoft Teams เพื่อการเรียนรู้จากระยะไกล](https://docs.microsoft.com/MicrosoftTeams/remote-learning-edu)
 
-- [การเรียนการสอนและการเรียนรู้จากระยะไกลใน Office ๓๖๕ Education](https://docs.microsoft.com/MicrosoftTeams/remote-learning-edu)
+- [การสอนและการเรียนรู้จากระยะไกลใน Office 365 Education](https://docs.microsoft.com/MicrosoftTeams/remote-learning-edu)
 
-**ภายในศูนย์การจัดการ Microsoft ๓๖๕คุณสามารถทำได้**ดังนี้ 
+**ภายในศูนย์การจัดการ Microsoft 365 คุณสามารถ**: 
 
 - [ดูใบเรียกเก็บเงินของคุณ](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/view-your-bill-or-invoice) 
 
-- [ทำความเข้าใจเกี่ยวกับใบแจ้งหนี้ของคุณ](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/understand-your-invoice)
+- [เข้าใจใบแจ้งหนี้ของคุณ](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/understand-your-invoice)
 
-- [จัดการวิธีการชำระเงิน](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods)
+- [จัดการวิธีการเงิน](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods)
 
 **จัดการการสมัครใช้งานและสิทธิ์การใช้งาน** 
 
@@ -48,12 +48,12 @@ ms.locfileid: "47703102"
 
 - [ต่ออายุ](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/renew-your-subscription) 
 
-- [เปิด](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/reactivate-your-subscription)
+- [เปิดใช้งานใหม่](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/reactivate-your-subscription)
 
 - [เพิ่ม/เอาสิทธิ์การใช้งานออก](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses)
 
 - [ยกเลิกการสมัครใช้งาน](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription)
 
-- [กำหนดสิทธิ์การใช้งานให้กับผู้ใช้](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users)
+- [มอบหมายสิทธิ์การใช้งานให้กับผู้ใช้](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users)
 
-ถ้าคุณมีสิทธิ์การใช้งานที่ได้รับมอบหมายแล้วคุณสามารถค้นหาแอปพลิเคชันที่คุณสามารถดาวน์โหลดได้บนหน้า[บัญชีผู้ใช้ของฉัน](https://portal.office.com/account/#installs) หน้านี้จะแสดงรายการของแอปพลิเคชันที่พร้อมให้คุณดาวน์โหลดโดยยึดตามสิทธิ์การใช้งานที่มอบหมาย ถ้าคุณได้ดาวน์โหลดแอปพลิเคชัน Office แล้วคุณอาจจำเป็นต้องลงชื่อเข้าใช้แอปพลิเคชันที่มีบัญชีผู้ใช้ของที่ทำงานหรือที่โรงเรียนของคุณ คุณสามารถทำได้ในแอปพลิเคชัน Office (Word, Excel และอื่นๆ) โดยการคลิก **บัญชีผู้ใช้ > ไฟล์** (ใกล้กับด้านล่าง) ภายใต้ข้อมูลผู้ใช้ให้คลิก **สลับบัญชีผู้**ใช้ สำหรับข้อมูลเพิ่มเติมให้อ่านการ[ติดตั้งแอปพลิเคชัน Office](https://docs.microsoft.com/microsoft-365/admin/setup/install-applications) 
+ถ้าคุณมีสิทธิ์การใช้งานที่มอบหมายแล้ว คุณสามารถค้นหาแอปพลิเคชันที่คุณสามารถดาวน์โหลดได้ [บนหน้า บัญชี](https://portal.office.com/account/#installs) ของฉัน หน้านี้มีรายการแอปพลิเคชันที่พร้อมใช้งานให้คุณดาวน์โหลดโดยยึดตามสิทธิการใช้งานที่ได้รับมอบหมาย ถ้าคุณดาวน์โหลดแอปพลิเคชัน Office แล้ว คุณอาจต้องลงชื่อเข้าใช้แอปพลิเคชันด้วยบัญชีที่โรงเรียนหรือที่โรงเรียน คุณสามารถเรียกใช้ในแอปพลิเคชัน Office ใดก็ได้ (Word, Excel และอื่นๆ) โดยการคลิก ไฟล์ **>บัญชี** (ใกล้ด้านล่าง) ภายใต้ ข้อมูลผู้ใช้ **ให้คลิก สลับ** บัญชี For more information, read [Install Office Applications](https://docs.microsoft.com/microsoft-365/admin/setup/install-applications). 
