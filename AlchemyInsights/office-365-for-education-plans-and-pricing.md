@@ -1,8 +1,8 @@
 ---
-title: Office ๓๖๕สำหรับแผนการศึกษาและการกำหนดราคา
+title: แผนและราคา Office 365 for Education
 ms.author: cmcatee
 author: cmcatee-MSFT
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
@@ -14,17 +14,17 @@ ms.custom:
 - "476"
 - "1500026"
 ms.assetid: 34b852e0-bf1d-4cf3-9aa6-c80eed67bfeb
-ms.openlocfilehash: 6d6292fddfceb03191c29dc14e9b2295da52e4ac
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 95d398a7f287899d11dc069e9874db805c5f51a8
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47729602"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51829611"
 ---
-# <a name="get-microsoft-365-free-for-your-entire-school"></a><span data-ttu-id="583a9-102">รับ Microsoft ๓๖๕ฟรีสำหรับโรงเรียนทั้งหมดของคุณ</span><span class="sxs-lookup"><span data-stu-id="583a9-102">Get Microsoft 365 free for your entire school</span></span>
+# <a name="get-microsoft-365-free-for-your-entire-school"></a><span data-ttu-id="172d8-102">รับ Microsoft 365 ฟรีทั่วทั้งโรงเรียนของคุณ</span><span class="sxs-lookup"><span data-stu-id="172d8-102">Get Microsoft 365 free for your entire school</span></span>
 
-<span data-ttu-id="583a9-103">ปรับปรุงการทำงานร่วมกันในชั้นเรียนและโรงเรียนด้วยเครื่องมือเพิ่มประสิทธิภาพการใช้งานฟรี</span><span class="sxs-lookup"><span data-stu-id="583a9-103">Improve classroom and school collaboration with free productivity tools.</span></span> <span data-ttu-id="583a9-104">คุณจะต้องตรวจสอบว่าคุณเป็นสถาบันการศึกษาที่ได้รับการรับรองเพื่อใช้ประโยชน์จากข้อเสนอเหล่านี้</span><span class="sxs-lookup"><span data-stu-id="583a9-104">You will need to verify that you are an accredited academic institution to take advantage of these offers.</span></span>
+<span data-ttu-id="172d8-103">ปรับปรุงห้องเรียนและการร่วมมือกันในโรงเรียนด้วยเครื่องมือที่มีประสิทธิภาพ</span><span class="sxs-lookup"><span data-stu-id="172d8-103">Improve classroom and school collaboration with free productivity tools.</span></span> <span data-ttu-id="172d8-104">คุณจะต้องยืนยันว่าคุณได้รับการรับรองจากสถาบันการศึกษาเพื่อใช้ประโยชน์จากข้อเสนอเหล่านี้</span><span class="sxs-lookup"><span data-stu-id="172d8-104">You will need to verify that you are an accredited academic institution to take advantage of these offers.</span></span>
   
-- [<span data-ttu-id="583a9-105">ตรวจทานแผนการศึกษา</span><span class="sxs-lookup"><span data-stu-id="583a9-105">Review the Education plans</span></span>](https://products.office.com/academic/compare-office-365-education-plans)
+- [<span data-ttu-id="172d8-105">ตรวจทานแผนการศึกษา</span><span class="sxs-lookup"><span data-stu-id="172d8-105">Review the Education plans</span></span>](https://products.office.com/academic/compare-office-365-education-plans)
 
-- [<span data-ttu-id="583a9-106">เปรียบเทียบการสมัครใช้งาน Microsoft ๓๖๕ทั้งหมด</span><span class="sxs-lookup"><span data-stu-id="583a9-106">Compare all Microsoft 365 subscriptions</span></span>](https://products.office.com/business/compare-more-office-365-for-business-plans)
+- [<span data-ttu-id="172d8-106">เปรียบเทียบการสมัครใช้งาน Microsoft 365 ทั้งหมด</span><span class="sxs-lookup"><span data-stu-id="172d8-106">Compare all Microsoft 365 subscriptions</span></span>](https://products.office.com/business/compare-more-office-365-for-business-plans)

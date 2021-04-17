@@ -1,8 +1,8 @@
 ---
-title: นำเข้าและส่งออกอีเมล Outlook ที่ติดต่อและรายการปฏิทิน
+title: นําเข้าและส่งออกอีเมล ผู้ติดต่อ และรายการปฏิทินของ Outlook
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 munlocking-an-account s.custom:
 - "9002365"
 - "4594"
-ms.openlocfilehash: 0f7fb33eaec4df385d8f928085289375e4a97e0e
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: f5acdb44bc69e9929988824fd52bbfb0979f4ca2
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47778926"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51829215"
 ---
-# <a name="import-and-export-outlook-email-contacts-and-calendar-items"></a><span data-ttu-id="d753b-102">นำเข้าและส่งออกอีเมล Outlook ที่ติดต่อและรายการปฏิทิน</span><span class="sxs-lookup"><span data-stu-id="d753b-102">Import and export Outlook email, contacts, and calendar items</span></span>
+# <a name="import-and-export-outlook-email-contacts-and-calendar-items"></a><span data-ttu-id="e720a-102">นําเข้าและส่งออกอีเมล ผู้ติดต่อ และรายการปฏิทินของ Outlook</span><span class="sxs-lookup"><span data-stu-id="e720a-102">Import and export Outlook email, contacts, and calendar items</span></span>
 
-1. <span data-ttu-id="d753b-103">ใน Outlook ให้คลิก**ไฟล์**</span><span class="sxs-lookup"><span data-stu-id="d753b-103">In Outlook, click **File**.</span></span>
+1. <span data-ttu-id="e720a-103">ใน Outlook **ให้คลิก** ไฟล์</span><span class="sxs-lookup"><span data-stu-id="e720a-103">In Outlook, click **File**.</span></span>
 
-2. <span data-ttu-id="d753b-104">คลิก**เปิด & ส่งออก**แล้วคลิก**นำเข้า/ส่งออก**</span><span class="sxs-lookup"><span data-stu-id="d753b-104">Click **Open & Export**, and then click **Import/Export**.</span></span> <span data-ttu-id="d753b-105">ซึ่งจะเป็นการเริ่มตัวช่วยสร้างการนำเข้าและส่งออก</span><span class="sxs-lookup"><span data-stu-id="d753b-105">This starts the Import and Export wizard.</span></span>
+2. <span data-ttu-id="e720a-104">คลิก **&ส่งออก** แล้วคลิก นํา **เข้า/** ส่งออก</span><span class="sxs-lookup"><span data-stu-id="e720a-104">Click **Open & Export**, and then click **Import/Export**.</span></span> <span data-ttu-id="e720a-105">ซึ่งจะเริ่มตัวช่วยสร้างการนําเข้าและส่งออก</span><span class="sxs-lookup"><span data-stu-id="e720a-105">This starts the Import and Export wizard.</span></span>
 
-<span data-ttu-id="d753b-106">สำหรับชุดคำแนะนำการนำเข้าและส่งออกที่สมบูรณ์สำหรับ Outlook ให้ดูที่[นำเข้าและส่งออกอีเมล Outlook ที่ติดต่อและปฏิทิน](https://support.office.com/article/import-and-export-outlook-email-contacts-and-calendar-92577192-3881-4502-b79d-c3bbada6c8ef)</span><span class="sxs-lookup"><span data-stu-id="d753b-106">For a complete set of import and export instructions for Outlook, see [Import and export Outlook email, contacts, and calendar](https://support.office.com/article/import-and-export-outlook-email-contacts-and-calendar-92577192-3881-4502-b79d-c3bbada6c8ef).</span></span>
+<span data-ttu-id="e720a-106">For a complete set of import and export instructions for Outlook, see [Import and export Outlook email, contacts, and calendar](https://support.office.com/article/import-and-export-outlook-email-contacts-and-calendar-92577192-3881-4502-b79d-c3bbada6c8ef).</span><span class="sxs-lookup"><span data-stu-id="e720a-106">For a complete set of import and export instructions for Outlook, see [Import and export Outlook email, contacts, and calendar](https://support.office.com/article/import-and-export-outlook-email-contacts-and-calendar-92577192-3881-4502-b79d-c3bbada6c8ef).</span></span>

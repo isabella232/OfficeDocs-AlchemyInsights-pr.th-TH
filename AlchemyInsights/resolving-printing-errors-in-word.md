@@ -2,7 +2,7 @@
 title: การแก้ไขข้อผิดพลาดในการพิมพ์ใน Word
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "3040"
 - "9000585"
-ms.openlocfilehash: de1f6e6f78c0100b994db3fdb759054cdb7f8bf1
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 8adda2a4a2c9a41d67747a68eb9eeafb1bf2ae34
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47720881"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51828711"
 ---
-# <a name="resolving-print-failures-in-word"></a><span data-ttu-id="94740-102">การแก้ไขปัญหาการพิมพ์ล้มเหลวใน Word</span><span class="sxs-lookup"><span data-stu-id="94740-102">Resolving print failures in Word</span></span>
+# <a name="resolving-print-failures-in-word"></a><span data-ttu-id="ad915-102">การแก้ไขการพิมพ์ล้มเหลวใน Word</span><span class="sxs-lookup"><span data-stu-id="ad915-102">Resolving print failures in Word</span></span>
 
-<span data-ttu-id="94740-103">ถ้าคุณได้รับข้อผิดพลาดเมื่อพิมพ์ใน Word ให้ลองพิมพ์จากเอกสารทดสอบใหม่เพื่อตรวจสอบว่าปัญหาของคุณเกี่ยวข้องกับเอกสารที่เฉพาะเจาะจงหรือไม่</span><span class="sxs-lookup"><span data-stu-id="94740-103">If you are receiving errors when printing in Word, try printing from a new test document to determine if your problem is related to a specific document.</span></span>
+<span data-ttu-id="ad915-103">ถ้าคุณได้รับข้อผิดพลาดเมื่อพิมพ์ใน Word ให้ลองพิมพ์จากเอกสารทดสอบใหม่เพื่อตรวจสอบว่าปัญหาของคุณเกี่ยวข้องกับเอกสารที่ระบุหรือไม่</span><span class="sxs-lookup"><span data-stu-id="ad915-103">If you are receiving errors when printing in Word, try printing from a new test document to determine if your problem is related to a specific document.</span></span>
 
-- <span data-ttu-id="94740-104">ถ้าคุณสามารถพิมพ์จากเอกสารทดสอบแต่ยังไม่สามารถพิมพ์เอกสารต้นฉบับของคุณเอกสารต้นฉบับของคุณอาจเสียหาย</span><span class="sxs-lookup"><span data-stu-id="94740-104">If you can print from the test document but still can't print your original document, your original document may be damaged.</span></span> <span data-ttu-id="94740-105">ทำตามคำแนะนำใน[วิธีการแก้ไขปัญหาเอกสารที่เสียหายใน Word](https://docs.microsoft.com/office/troubleshoot/word/damaged-documents-in-word#update-microsoft-office-and-windows)</span><span class="sxs-lookup"><span data-stu-id="94740-105">Follow the instructions in [How to troubleshoot damaged documents in Word](https://docs.microsoft.com/office/troubleshoot/word/damaged-documents-in-word#update-microsoft-office-and-windows).</span></span>
-- <span data-ttu-id="94740-106">ถ้าคุณยังไม่สามารถพิมพ์ได้ให้ทำตามคำแนะนำในการแก้ไขปัญหาการ [พิมพ์ล้มเหลวใน Word](https://docs.microsoft.com/office/troubleshoot/word/print-failures-in-word) เพื่อวินิจฉัยและแก้ไขปัญหา</span><span class="sxs-lookup"><span data-stu-id="94740-106">If you still can't print, follow the instructions in [Troubleshoot print failures in Word](https://docs.microsoft.com/office/troubleshoot/word/print-failures-in-word) to diagnose and fix the issue.</span></span>
+- <span data-ttu-id="ad915-104">ถ้าคุณสามารถพิมพ์จากเอกสารทดสอบแต่ยังคงไม่สามารถพิมพ์เอกสารต้นฉบับของคุณ เอกสารต้นฉบับของคุณอาจเสียหาย</span><span class="sxs-lookup"><span data-stu-id="ad915-104">If you can print from the test document but still can't print your original document, your original document may be damaged.</span></span> <span data-ttu-id="ad915-105">Follow the instructions in [How to troubleshoot damaged documents in Word](https://docs.microsoft.com/office/troubleshoot/word/damaged-documents-in-word#update-microsoft-office-and-windows).</span><span class="sxs-lookup"><span data-stu-id="ad915-105">Follow the instructions in [How to troubleshoot damaged documents in Word](https://docs.microsoft.com/office/troubleshoot/word/damaged-documents-in-word#update-microsoft-office-and-windows).</span></span>
+- <span data-ttu-id="ad915-106">ถ้าคุณยังไม่สามารถพิมพ์ได้ ให้ปฏิบัติตามคําแนะนําใน [แก้ไขปัญหาการพิมพ์](https://docs.microsoft.com/office/troubleshoot/word/print-failures-in-word) ที่ล้มเหลวใน Word เพื่อวินิจฉัยและแก้ไขปัญหา</span><span class="sxs-lookup"><span data-stu-id="ad915-106">If you still can't print, follow the instructions in [Troubleshoot print failures in Word](https://docs.microsoft.com/office/troubleshoot/word/print-failures-in-word) to diagnose and fix the issue.</span></span>
