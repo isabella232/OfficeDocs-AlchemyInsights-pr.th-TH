@@ -2,7 +2,7 @@
 title: การใช้แอป Microsoft Authenticator
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001679"
 - "3744"
-ms.openlocfilehash: 69ff8e3e0d9eeec2d39d1d5ddb4e4e540895d017
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 62c981d616cc612b77922a8cbc4cedf4b3b87cf0
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47770102"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51834354"
 ---
 # <a name="using-the-microsoft-authenticator-app"></a>การใช้แอป Microsoft Authenticator
 
-ลงชื่อเข้าใช้บัญชี Microsoft ส่วนบุคคลของคุณโดยใช้ลายนิ้วมือการจดจำใบหน้าหรือ PIN
+ลงชื่อเข้าใช้บัญชี Microsoft ส่วนบุคคลของคุณโดยใช้ลายนิ้วมือ การรู้ภาพใบหน้า หรือ PIN
 
 - [วิธีใช้แอป Microsoft Authenticator](https://support.microsoft.com/help/4026727/microsoft-account-how-to-use-the-microsoft-authenticator-app) 
 
-- [ตั้งค่าแอปตัวรับรองความ](https://docs.microsoft.com/azure/active-directory/user-help/security-info-setup-auth-app)ถูกต้องโดยการสแกนโค้ด QR หรือด้วย[การเพิ่มบัญชีผู้ใช้ด้วยตนเอง](https://docs.microsoft.com/azure/active-directory/user-help/user-help-auth-app-add-account-manual)  
+- [ตั้งค่าแอป Authenticator](https://docs.microsoft.com/azure/active-directory/user-help/security-info-setup-auth-app) โดยการสแกนคิวอาร์โค้ด [หรือโดยการเพิ่มบัญชี](https://docs.microsoft.com/azure/active-directory/user-help/user-help-auth-app-add-account-manual)ด้วยตนเอง  
 
-สำหรับข้อมูลเพิ่มเติมให้ดูที่ [ภาพรวมของแอปตัว](https://docs.microsoft.com/azure/active-directory/user-help/user-help-auth-app-overview)รับรองความถูกต้อง
+ดูข้อมูลเพิ่มเติมได้ที่ ภาพรวมของแอป[Authenticator](https://docs.microsoft.com/azure/active-directory/user-help/user-help-auth-app-overview)

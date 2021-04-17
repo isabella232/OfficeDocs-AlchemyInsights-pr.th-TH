@@ -1,8 +1,8 @@
 ---
-title: ผู้ติดต่อคืออะไร
+title: รายชื่อผู้ติดต่อคืออะไร
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002613"
 - "5043"
-ms.openlocfilehash: 333a058fb37e3962b018e2d745654df341f678a6
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: a52bd240e3c9b26538bc6a69f8ff4fb34b021ac8
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47807318"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51834282"
 ---
-# <a name="what-are-contacts"></a>ผู้ติดต่อคืออะไร
+# <a name="what-are-contacts"></a>รายชื่อผู้ติดต่อคืออะไร
 
-มีหลายวิธีที่คุณสามารถทำงานกับที่ติดต่อใน Microsoft ๓๖๕และส่วนมากจะขึ้นอยู่กับวิธีที่คุณใช้ที่ติดต่อ
+คุณสามารถใช้งานที่ติดต่อใน Microsoft 365 ได้หลายวิธีและโดยขึ้นอยู่กับวิธีที่คุณใช้ที่ติดต่อ
 
-- เมื่อต้องการเรียนรู้เพิ่มเติมเกี่ยวกับที่ติดต่อที่แตกต่างกันทั่วทั้ง Microsoft ๓๖๕ให้ดูที่[วิธีใช้ด่วน: วิธีการจัดการที่ติดต่อ](https://docs.microsoft.com/microsoft-365/admin/misc/ways-to-manage-contacts?view=o365-worldwide)
+- เมื่อต้องการเรียนรู้เพิ่มเติมเกี่ยวกับที่ติดต่อต่างๆ ทั่วทั้ง Microsoft 365 [ให้ดู วิธีใช้ด่วน: วิธีจัดการ](https://docs.microsoft.com/microsoft-365/admin/misc/ways-to-manage-contacts?view=o365-worldwide)ที่ติดต่อ
 
-- เมื่อต้องการเริ่มต้นใช้งานที่ติดต่อกับ Outlook ให้ดู[เริ่มต้นใช้งานที่ติดต่อใน outlook](https://support.office.com/article/using-contacts-people-in-outlook-on-the-web-1e3438c7-26b2-420c-87de-3cea9d31b5cb?WT.mc_id=365AdminCSH&ui=en-US&rs=en-US&ad=US)
+- เมื่อต้องการเริ่มต้นใช้งานที่ติดต่อกับ Outlook ให้ดู [เริ่มต้นใช้งานที่ติดต่อใน](https://support.office.com/article/using-contacts-people-in-outlook-on-the-web-1e3438c7-26b2-420c-87de-3cea9d31b5cb?WT.mc_id=365AdminCSH&ui=en-US&rs=en-US&ad=US)Outlook

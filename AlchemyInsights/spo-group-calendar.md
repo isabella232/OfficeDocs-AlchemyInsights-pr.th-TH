@@ -2,7 +2,7 @@
 title: ปฏิทินกลุ่ม SPO
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,14 +12,14 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000677"
 - "2736"
-ms.openlocfilehash: f91141a5dbff8b08602335335073c9f332601c9e
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 461e7b4dfcc3642aa522b3639156bc3edd1aede8
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47726794"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51835218"
 ---
 # <a name="spo-group-calendar"></a>ปฏิทินกลุ่ม SPO
 
-Web part สำหรับปฏิทินกลุ่มจะช่วยให้คุณสามารถใส่ปฏิทินของ Microsoft ๓๖๕ในหน้าของคุณได้โดยตรงเพื่อให้ผู้อ่านของคุณสามารถมองเห็นได้อย่างง่ายดาย
-- สำหรับข้อมูลเพิ่มเติมให้ดู[ที่ใช้ web part สำหรับปฏิทินกลุ่ม](https://support.microsoft.com/en-us/office/use-the-group-calendar-web-part-eaf3c04d-5699-48cb-8b5e-3caa887d51ce?ui=en-us&rs=en-us&ad=us)
+Web Part ปฏิทินกลุ่มช่วยให้คุณสามารถวางปฏิทินกลุ่ม Microsoft 365 ลงในหน้าของคุณเพื่อให้ผู้อ่านสามารถมองเห็นได้ง่าย
+- ดูข้อมูลเพิ่มเติมได้ที่ ใช้ [Web Part ปฏิทิน](https://support.microsoft.com/en-us/office/use-the-group-calendar-web-part-eaf3c04d-5699-48cb-8b5e-3caa887d51ce?ui=en-us&rs=en-us&ad=us)กลุ่ม

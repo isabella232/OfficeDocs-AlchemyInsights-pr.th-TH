@@ -1,8 +1,8 @@
 ---
-title: การใช้ Microsoft Edge โดยยึดตามเบราว์เซอร์โครเมียมสำหรับการส่งออก Ediscovery
+title: การใช้ Microsoft Edge ที่ใช้เบราว์เซอร์ Chromium เพื่อส่งออก Ediscovery
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,21 +12,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "3473"
 - "3100022"
-ms.openlocfilehash: 64aebb7f048dba37eef8cd1fa6286b36823d3f0f
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 7ee724e5109effce8883be50e360948313c84b34
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47734534"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51834390"
 ---
-# <a name="using-microsoft-edge-based-on-chromium-browsers-for-ediscovery-export"></a>การใช้ Microsoft Edge โดยยึดตามเบราว์เซอร์โครเมียมสำหรับการส่งออก Ediscovery
+# <a name="using-microsoft-edge-based-on-chromium-browsers-for-ediscovery-export"></a>การใช้ Microsoft Edge ที่ใช้เบราว์เซอร์ Chromium เพื่อส่งออก Ediscovery
 
-เนื่องจากการเปลี่ยนแปลงล่าสุดเบราว์เซอร์ Microsoft Edge จะไม่มีการสนับสนุน ClickOnce ที่เปิดใช้งานตามค่าเริ่มต้นอีกต่อไป เมื่อต้องการดำเนินการต่อโดยใช้เครื่องมือการส่งออกของ Microsoft ๓๖๕ eDiscovery คุณจะต้องใช้ Microsoft Internet Explorer หรือเปิดใช้งานการสนับสนุน ClickOnce ใน Microsoft Edge 
+เนื่องจากการเปลี่ยนแปลงล่าสุด เบราว์เซอร์ Microsoft Edge จะไม่เปิดใช้งานการสนับสนุน ClickOnce ตามค่าเริ่มต้นอีกต่อไป เมื่อต้องการใช้เครื่องมือส่งออก eDiscovery ของ Microsoft 365 ต่อ คุณจะต้องใช้ Microsoft Internet Explorer หรือเปิดใช้งานการสนับสนุน ClickOnce ใน Microsoft Edge 
 
-เมื่อต้องการเปิดใช้งานการสนับสนุน ClickOnce ใน Microsoft Edge โดยยึดตามโครเมียม: 
-1. ในเบราว์เซอร์ Microsoft Edge ของคุณให้ไปที่ edge://flags/#edge-คลิก-หนึ่งครั้ง
-2. สำหรับตัวเลือกการสนับสนุน ClickOnce ให้เปลี่ยนค่าจาก**ค่าเริ่มต้น**หรือ**ปิด**ใช้งานเพื่อ**เปิดใช้งาน** 
-3. ที่ด้านล่างของหน้าต่างเบราว์เซอร์ให้เลือก**เริ่มต้นใหม่** <br>
- การเปลี่ยนแปลงจะมีผลหลังจากเริ่มการทำงานของ Microsoft Edge ใหม่ 
+เมื่อต้องการเปิดใช้งานการสนับสนุน ClickOnce ใน Microsoft Edge ที่ยึดตาม Chromium: 
+1. ในเบราว์เซอร์ Microsoft Edge ให้ไปที่ edge://flags/#edge-click-once
+2. For the ClickOnce Support option, change the value from **Default** or **Disabled** to **Enabled**. 
+3. ที่ด้านล่างของหน้าต่างเบราว์เซอร์ ให้เลือก รี **สตาร์** ต <br>
+ การเปลี่ยนแปลงจะมีผลหลังจากรีสตาร์ต Microsoft Edge 
 
-สำหรับข้อมูลเกี่ยวกับการตั้งค่านี้และขั้นตอนสำหรับการติดตั้งเครื่องมือส่งออกให้ดูที่[ส่งออกผลลัพธ์การค้นหาเนื้อหา](https://docs.microsoft.com/microsoft-365/compliance/export-search-results)
+For information on this and steps for installing the export tool, see: [ Export Content Search results](https://docs.microsoft.com/microsoft-365/compliance/export-search-results).

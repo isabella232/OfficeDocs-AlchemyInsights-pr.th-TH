@@ -1,8 +1,8 @@
 ---
-title: กลุ่มทีมและ Cloud Video Interop
+title: Teams และ Cloud Video Interop
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002894"
 - "5540"
-ms.openlocfilehash: 9cd5e06b96ee3a4d1d6ccf151c6ec5d59589d06a
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 2458849f0333b87a51935d076d0a7ca916c472a4
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47670131"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51835182"
 ---
-# <a name="teams-and-cloud-video-interop-cvi"></a>ทีมและ Cloud Video Interop (CVI)
+# <a name="teams-and-cloud-video-interop-cvi"></a>Teams และ Cloud Video Interop (CVI)
 
-Cloud Video Interop (CVI) เป็นโซลูชันของบริษัทอื่นที่มีคุณสมบัติของ Microsoft ที่เปิดใช้งานห้องประชุมของบริษัทอื่น (telepresence) และอุปกรณ์วิดีโอส่วนบุคคล (VTCs) เพื่อเข้าร่วมการประชุมของ Microsoft team
+Cloud Video Interop (CVI) เป็นโซลูชันของบริษัทอื่นที่มีคุณสมบัติเหมาะสมของ Microsoft ที่เปิดใช้งานห้องประชุมของบริษัทอื่น (การส่งผ่านข้อมูลทางไกล) และอุปกรณ์วิดีโอส่วนบุคคล (VTCs) เพื่อเข้าร่วมการประชุม Microsoft Teams
 
-- สำหรับข้อมูลเพิ่มเติมให้ดูที่การ[Interop ของวิดีโอบน Cloud สำหรับทีม Microsoft](https://docs.microsoft.com/microsoftteams/cloud-video-interop)
+- ดูข้อมูลเพิ่มเติมได้ที่ Cloud [Video Interop for Microsoft Teams](https://docs.microsoft.com/microsoftteams/cloud-video-interop)

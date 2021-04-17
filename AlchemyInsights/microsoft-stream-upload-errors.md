@@ -1,8 +1,8 @@
 ---
-title: ข้อผิดพลาดในการอัปโหลดของ Microsoft Stream
+title: ข้อผิดพลาดในการอัปโหลด Microsoft Stream
 ms.author: cmcatee
 author: cmcatee-MSFT
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -13,13 +13,13 @@ ms.assetid: ef2df989-8539-48b5-a324-97d2e09f14fe
 ms.custom:
 - "9002643"
 - "5094"
-ms.openlocfilehash: 25adfcf9df258c29b21f78e37ce4247ba5bdc61b
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: d6f0f9cc6a65be912b72431b4b4824011faef0f2
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47675281"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51833922"
 ---
-# <a name="microsoft-stream-upload-errors"></a>ข้อผิดพลาดในการอัปโหลดของ Microsoft Stream
+# <a name="microsoft-stream-upload-errors"></a>ข้อผิดพลาดในการอัปโหลด Microsoft Stream
 
-ถ้าคุณได้รับข้อผิดพลาดในการอัปโหลดใน Microsoft Stream โปรดดูที่[ข้อผิดพลาดในการอัปโหลดสตรีม](https://docs.microsoft.com/stream/portal-understanding-upload-errors)
+ถ้าคุณได้รับข้อผิดพลาดในการอัปโหลดใน Microsoft Stream โปรดดู [ข้อผิดพลาดในการอัปโหลด](https://docs.microsoft.com/stream/portal-understanding-upload-errors)Stream

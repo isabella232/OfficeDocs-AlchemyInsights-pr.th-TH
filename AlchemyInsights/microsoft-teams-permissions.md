@@ -1,8 +1,8 @@
 ---
-title: สิทธิ์ของทีม Microsoft
+title: สิทธิ์ Microsoft Teams
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "2658"
 - "9000730"
-ms.openlocfilehash: e4acfcfdb65bbe5310f062f4f6cd21889159ec4e
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 8e6ce1a6344c70f43f76164612bc55b95a61e97d
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47777731"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51833778"
 ---
-# <a name="microsoft-teams-permissions"></a>สิทธิ์ของทีม Microsoft
+# <a name="microsoft-teams-permissions"></a>สิทธิ์ Microsoft Teams
 
-ทีม Microsoft มีบทบาทผู้ใช้สองบทบาทคือเจ้าของและสมาชิก ตามค่าเริ่มต้นผู้ใช้ที่สร้างทีมใหม่จะได้รับสถานะของเจ้าของ นอกจากนี้เจ้าของและสมาชิกยังสามารถมีความสามารถของผู้ควบคุมสำหรับแชนเนล (ถ้ามีการตั้งค่าการควบคุมไว้แล้ว) ถ้ามีการสร้างทีมจากกลุ่ม Microsoft ๓๖๕ที่มีอยู่แล้วสิทธิ์จะได้รับการสืบทอดมา สำหรับข้อมูลเพิ่มเติม ให้ดูที่
+Microsoft Teams มีบทบาทผู้ใช้สองบทบาท: เจ้าของและสมาชิก ตามค่าเริ่มต้น ผู้ใช้ที่สร้างทีมใหม่จะได้รับสถานะเจ้าของ นอกจากนี้เจ้าของและสมาชิกสามารถมีความสามารถของผู้ควบคุมแชนเนลได้ (ถ้ามีการตั้งค่าการดูแล) ถ้าทีมถูกสร้างขึ้นจากกลุ่ม Microsoft 365 ที่มีอยู่ สิทธิ์จะถูกสืบทอด สำหรับข้อมูลเพิ่มเติม ให้ดูที่
 
-- [กำหนดเจ้าของทีมและสมาชิกในทีม Microsoft](https://docs.microsoft.com/microsoftteams/assign-roles-permissions)
-- [สิทธิ์และข้อควรพิจารณาของแอปทีม Microsoft](https://docs.microsoft.com/microsoftteams/app-permissions)
-- [ตั้งค่าสิทธิ์สำหรับผู้เยี่ยมชมสำหรับแชนเนลในทีม](https://support.office.com/article/4756c468-2746-4bfd-a582-736d55fcc169)
+- [กําหนดเจ้าของทีมและสมาชิกใน Microsoft Teams](https://docs.microsoft.com/microsoftteams/assign-roles-permissions)
+- [สิทธิ์และข้อควรพิจารณาของแอป Microsoft Teams](https://docs.microsoft.com/microsoftteams/app-permissions)
+- [ตั้งค่าสิทธิ์ของแขกในแชนเนลใน Teams](https://support.office.com/article/4756c468-2746-4bfd-a582-736d55fcc169)
