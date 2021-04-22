@@ -3,7 +3,7 @@ title: ยกเลิกการสมัครใช้งานใน Azure
 ms.author: pebaum
 author: pebaum
 manager: scotv
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003797"
 - "6786"
-ms.openlocfilehash: fcb767f5e981e8e208914a76f3b88f4433e42818
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 83fab49ccafd23352fe28569289a709a198fd402
+ms.sourcegitcommit: 80a36e6447953b3f65e45c05607dbfc585fbf8b0
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51819603"
+ms.lasthandoff: 04/21/2021
+ms.locfileid: "51936173"
 ---
 # <a name="cancel-subscription"></a>ยกเลิกการสมัครใช้งาน
 
-เฉพาะผู้ดูแลระบบหรือเจ้าของบัญชีในการสมัครใช้งานเท่านั้น คุณสามารถยกเลิกการสมัครใช้งาน Azure ในพอร์ทัล Azure ถ้าคุณไม่ต้องการการสมัครใช้งานอีกต่อไป ให้ปฏิบัติตามขั้นตอนด้านล่าง
+ถ้าคุณไม่ต้องการการสมัครใช้งาน Azure อีกต่อไป คุณสามารถยกเลิกการสมัครใช้งานได้ในพอร์ทัล Azure การสมัครใช้งาน Azure สามารถยกเลิกได้โดยผู้ดูแลบัญชีหรือผู้ใช้ที่มีสิทธิ์เจ้าของในการสมัครใช้งานเท่านั้น
 
 1. เลือกการสมัครใช้งานของคุณ[จากหน้าการสมัครใช้งานในพอร์ทัล Azure](https://portal.azure.com/#blade/Microsoft_Azure_Billing/SubscriptionsBlade)
 2. เลือกการสมัครใช้งานที่คุณต้องการยกเลิก
