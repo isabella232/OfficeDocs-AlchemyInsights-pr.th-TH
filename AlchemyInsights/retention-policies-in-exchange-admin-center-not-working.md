@@ -1,5 +1,5 @@
 ---
-title: นโยบายการเก็บข้อมูลในศูนย์การจัดการ Exchange ไม่ทำงาน
+title: นโยบายการเก็บข้อมูลในศูนย์การจัดการ Exchange ไม่ใช้งาน
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -13,55 +13,35 @@ ms.custom:
 - "308"
 - "3100007"
 ms.assetid: a48fd5fd-4af7-4d5f-b617-b0f9334ccaa7
-ms.openlocfilehash: 1fee2361b2dd6e0989d430a17aebb13bd5948578
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: bb2ce7ce2405be575dfdb79d304fef690e863a4e
+ms.sourcegitcommit: e9206b7bb1bf2efd2471edbf4c60c00c3607bc41
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47740529"
+ms.lasthandoff: 04/22/2021
+ms.locfileid: "51952247"
 ---
 # <a name="retention-policies-in-exchange-admin-center"></a>นโยบายการเก็บข้อมูลในศูนย์การจัดการ Exchange
 
-ถ้าคุณต้องการให้เราเรียกใช้การตรวจสอบโดยอัตโนมัติสำหรับการตั้งค่าที่ระบุไว้ด้านล่างให้เลือกปุ่มย้อนกลับ <-ที่ด้านบนของหน้านี้แล้วใส่ที่อยู่อีเมลของผู้ใช้ที่มีปัญหาเกี่ยวกับนโยบายการเก็บข้อมูล
+ถ้าคุณต้องการให้เราเรียกใช้การตรวจสอบการตั้งค่าที่กล่าวถึงด้านล่างโดยอัตโนมัติ ให้เลือกปุ่ม ย้อนกลับ < ที่ด้านบนของหน้านี้ จากนั้นใส่ที่อยู่อีเมลของผู้ใช้ที่มีปัญหากับนโยบายการเก็บข้อมูล
 
- **ปัญหา:** นโยบายการเก็บข้อมูลที่สร้างขึ้นใหม่หรือที่อัปเดตในศูนย์การจัดการ Exchange จะไม่ถูกนำไปใช้กับกล่องจดหมายหรือรายการจะไม่ถูกย้ายไปยังกล่องจดหมายเก็บถาวรหรือถูกลบ 
-  
- **สาเหตุราก:**
-  
-- ซึ่งอาจเป็นเพราะ **ผู้ช่วยโฟลเดอร์** ที่มีการจัดการยังไม่ได้ประมวลผลกล่องจดหมายของผู้ใช้ ผู้ช่วยโฟลเดอร์ที่ได้รับการจัดการพยายามดำเนินการทุกกล่องจดหมายในองค์กร cloud-based ของคุณทุกๆ7วัน ถ้าคุณเปลี่ยนแท็กการเก็บข้อมูลหรือนำนโยบายการเก็บข้อมูลอื่นไปใช้กับกล่องจดหมายคุณสามารถรอจนกว่าโฟลเดอร์ที่ได้รับการจัดการช่วยประมวลผลกล่องจดหมายหรือคุณสามารถเรียกใช้ cmdlet เริ่มต้น ManagedFolderAssistant เพื่อเริ่มต้นตัวช่วยสร้างโฟลเดอร์ที่มีการจัดการเพื่อประมวลผลกล่องจดหมายที่เฉพาะเจาะจงได้ การเรียกใช้ cmdlet นี้มีประโยชน์สำหรับการทดสอบหรือการแก้ไขปัญหานโยบายการเก็บข้อมูลหรือการตั้งค่าแท็กการเก็บข้อมูล สำหรับข้อมูลเพิ่มเติมให้เยี่ยมชม[เรียกใช้ตัวช่วยสร้างโฟลเดอร์ที่มีการจัดการ](https://msdn.microsoft.com/library/gg271153%28v=exchsrvcs.149%29.aspx#managedfolderassist)
-    
-  - **วิธีแก้ไข:** เรียกใช้คำสั่งต่อไปนี้เพื่อเริ่มต้นตัวช่วยสร้างโฟลเดอร์ที่มีการจัดการสำหรับกล่องจดหมายที่เฉพาะเจาะจง:
-    
-  ```
-  Start-ManagedFolderAssistant -Identity <name of the mailbox>
-  ```
+ถ้าคุณมีปัญหากับนโยบายการเก็บข้อมูลในศูนย์การจัดการ Exchange จะไม่ใช้กับกล่องจดหมายหรือรายการที่ไม่ได้ย้ายไปยังกล่องจดหมายเก็บถาวร ให้ตรวจสอบดังต่อไปนี้:
 
-- สิ่งนี้อาจเกิดขึ้นถ้า **RetentionHold** ถูก **เปิดใช้งาน** ในกล่องจดหมาย ถ้ามีการวางกล่องจดหมายบน RetentionHold นโยบายการเก็บข้อมูลในกล่องจดหมายจะไม่ถูกประมวลผลในระหว่างช่วงเวลานั้น สำหรับสนใจเพิ่มเติมเกี่ยวกับการตั้งค่า RetentionHold ให้ดูที่การ[ระงับการเก็บข้อมูลในกล่องจดหมาย](https://docs.microsoft.com/exchange/security-and-compliance/messaging-records-management/mailbox-retention-hold)
-    
-    **วิธีแก้ไข**
-    
-  - ตรวจสอบสถานะของการตั้งค่า RetentionHold บนกล่องจดหมายที่เฉพาะเจาะจงใน [EXO powershell](https://docs.microsoft.com/powershell/exchange/exchange-online/connect-to-exchange-online-powershell/connect-to-exchange-online-powershell?view=exchange-ps):
-    
-  ```
-  Get-Mailbox -Identity <name of the mailbox> |fl *retentionHold*
-  ```
+**สาเหตุหลัก:**
 
-  - เรียกใช้คำสั่งต่อไปนี้เพื่อ **ปิดใช้งาน** RetentionHold ในกล่องจดหมายที่เฉพาะเจาะจง:
-    
-  ```
-  Set-Mailbox -RetentionHoldEnabled $false
-  ```
+- **ตัวช่วยโฟลเดอร์ที่มี** การจัดการไม่ได้ประมวลผลกล่องจดหมายของผู้ใช้ ตัวช่วยโฟลเดอร์ที่มีการจัดการจะพยายามประมวลผลกล่องจดหมายทั้งหมดในองค์กรระบบคลาวด์ของคุณทุกๆ 7 วัน
 
-  - ในตอนนี้ให้เรียกใช้ตัวช่วยสร้างโฟลเดอร์ที่ได้รับการจัดการอีกครั้ง:
-    
-  ```
-  Start-ManagedFolderAssistant -Identity <name of the mailbox>
-  ```
+  **วิธีแก้ไข:** เรียกใช้ตัวช่วยจัดการโฟลเดอร์
 
- **หมายเหตุ:** ถ้ากล่องจดหมายมีขนาดเล็กกว่า10เมกะไบต์ผู้ช่วยโฟลเดอร์ที่มีการจัดการจะไม่ประมวลผลกล่องจดหมายโดยอัตโนมัติ
+- **มีการเปิดใช้งาน RetentionHold** บนกล่องจดหมายแล้ว ถ้ากล่องจดหมายถูกวางไว้ใน RetentionHold นโยบายการเก็บข้อมูลบนกล่องจดหมายจะไม่ถูกประมวลผลระหว่างช่วงเวลาดังกล่าว
+
+  **วิธีแก้ไข:** ตรวจสอบสถานะของการตั้งค่าการหยุดการเก็บข้อมูลและอัปเดตตามต้องการ For details, see [Mailbox Retention Hold](https://docs.microsoft.com/exchange/security-and-compliance/messaging-records-management/mailbox-retention-hold).
  
-สำหรับข้อมูลเพิ่มเติมเกี่ยวกับนโยบายการเก็บข้อมูลในศูนย์การจัดการ Exchange ให้ดูที่:
+**หมายเหตุ:** ถ้ากล่องจดหมายมีขนาดเล็กกว่า 10 MB ตัวช่วยจัดการโฟลเดอร์จะไม่ประมวลผลกล่องจดหมายโดยอัตโนมัติ
+ 
+ดูข้อมูลเพิ่มเติมเกี่ยวกับนโยบายการเก็บข้อมูลในศูนย์การจัดการ Exchange ที่:
+
 - [แท็กการเก็บข้อมูลและนโยบายการเก็บข้อมูล](https://docs.microsoft.com/exchange/security-and-compliance/messaging-records-management/retention-tags-and-policies)
-- [นำนโยบายการเก็บข้อมูลไปใช้กับกล่องจดหมาย](https://docs.microsoft.com/exchange/security-and-compliance/messaging-records-management/apply-retention-policy)
-- [การเพิ่มหรือเอาแท็กการเก็บข้อมูลออก](https://docs.microsoft.com/exchange/security-and-compliance/messaging-records-management/add-or-remove-retention-tags)
-- [วิธีระบุชนิดของการเก็บไว้ในกล่องจดหมาย](https://docs.microsoft.com/microsoft-365/compliance/identify-a-hold-on-an-exchange-online-mailbox)
+
+- [ใช้นโยบายการเก็บข้อมูลกับกล่องจดหมาย หรือเพิ่ม](https://docs.microsoft.com/exchange/security-and-compliance/messaging-records-management/apply-retention-policy)[หรือเอาแท็กการเก็บข้อมูลออก](https://docs.microsoft.com/exchange/security-and-compliance/messaging-records-management/add-or-remove-retention-tags)
+
+- [วิธีการระบุชนิดของการหยุดบนกล่องจดหมาย](https://docs.microsoft.com/microsoft-365/compliance/identify-a-hold-on-an-exchange-online-mailbox)

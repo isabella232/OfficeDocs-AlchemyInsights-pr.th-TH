@@ -1,5 +1,5 @@
 ---
-title: เคล็ดลับนโยบาย DLP ไม่ทำงาน
+title: เคล็ดลับนโยบาย DLP ไม่ใช้งาน
 ms.author: deniseb
 author: denisebmsft
 manager: laurawims
@@ -13,28 +13,23 @@ ms.assetid: c03d30be-474a-4a34-b3c0-240eb2a2c466
 ms.custom:
 - "1428"
 - "3200001"
-ms.openlocfilehash: 1e1f9b84cb8bd07468d3da0eeaff3716b9a309a4
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 68387bf6f5f91657f1d853b9d67bdea6fac21bde
+ms.sourcegitcommit: e9206b7bb1bf2efd2471edbf4c60c00c3607bc41
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47679604"
+ms.lasthandoff: 04/22/2021
+ms.locfileid: "51952211"
 ---
-# <a name="dlp-policy-tip-issues"></a>ปัญหาเกี่ยวกับเคล็ดลับนโยบาย DLP
+# <a name="dlp-policy-tip-issues"></a>ปัญหาเคล็ดลับนโยบาย DLP
 
-**สำคัญ**: ในช่วงเวลาที่เป็นประวัติการณ์เหล่านี้เราจะดำเนินการตามขั้นตอนเพื่อให้แน่ใจว่าบริการ sharepoint Online และ OneDrive ยังคงพร้อมใช้งานอย่างมาก–โปรดไปที่การ [ปรับปรุงฟีเจอร์ชั่วคราวของ sharepoint Online](https://aka.ms/ODSPAdjustments) สำหรับข้อมูลเพิ่มเติม
+**สิ่ง** สําคัญ: ระหว่างช่วงเวลาที่ไม่มีประวัติใช้งานเหล่านี้ เราปฏิบัติตามขั้นตอนเพื่อให้แน่ใจว่าบริการ SharePoint Online และ OneDrive ยังคงพร้อมใช้งานอยู่ โปรดเยี่ยมชม การปรับฟีเจอร์ชั่วคราวของ [SharePoint Online](https://aka.ms/ODSPAdjustments) เพื่อดูข้อมูลเพิ่มเติม
 
-**เคล็ดลับนโยบาย DLP**
+เมื่อต้องการกําหนดค่าเคล็ดลับนโยบายเกี่ยวกับนโยบาย DLP ของคุณ&ศูนย์การปฏิบัติตามข้อบังคับในโหมดการบังคับใช้ทั้งหมด ให้ปฏิบัติดังนี้
 
-เมื่อใช้**นโยบาย DLP**ผู้ใช้สามารถได้รับการแจ้งให้ทราบเกี่ยวกับการละเมิดนโยบายด้วย**เคล็ดลับนโยบาย** ผู้ดูแลระบบสามารถกำหนดค่าเคล็ดลับนโยบายในการแสดงในขณะที่ทดสอบนโยบาย DLP ของพวกเขาหรือเมื่อนโยบายอยู่ในโหมดการบังคับใช้แบบเต็ม
-  
-เมื่อต้องการกำหนดค่าเคล็ดลับนโยบายในนโยบาย DLP ของคุณในศูนย์การรักษาความปลอดภัยและการปฏิบัติตามนโยบายในโหมดการบังคับใช้แบบเต็มให้ทำดังต่อไปนี้:
-  
-- ตรวจสอบให้แน่ใจว่ามีการ**เปิดใช้งาน**เคล็ดลับนโยบายในกฎ DLP โดยใช้ขั้นตอน[ต่อไปนี้](https://docs.microsoft.com/microsoft-365/compliance/use-notifications-and-policy-tips)
+- ตรวจสอบให้แน่ใจว่ามีการเปิดใช้งาน **เคล็ดลับ** นโยบายในกฎ DLP แล้ว For steps, see [Send email notifications and show policy tips for DLP policies](https://docs.microsoft.com/microsoft-365/compliance/use-notifications-and-policy-tips).
 
-- ตรวจสอบให้แน่ใจว่าเนื้อหาของคุณ**ตรงกับ**สิ่งที่จำเป็นต้อง**ใช้**ในการทริกเกอร์กฎที่ระบุไว้ในบทความนี้[ที่นี่](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions)
+ตรวจสอบให้แน่ใจว่าเนื้อหาของคุณตรงกับสิ่งที่ต้องระบุเพื่อทริกเกอร์กฎที่ระบุไว้ในข้อนิยาม[เอนทิตีของชนิดข้อมูลที่เป็นความลับ](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions)
 
-- เคล็ดลับนโยบายแสดงในทั้ง OWA และ Outlook อย่างไรก็ตามเมื่อใช้ **Outlook ๒๐๑๓หรือใหม่กว่า**คำแนะนำนโยบายจะแสดงเฉพาะภายใต้เงื่อนไขบางอย่าง เงื่อนไขเหล่านี้จะแสดงรายการที่นี่: เงื่อนไขที่ได้ [รับการสนับสนุนสำหรับ Outlook ๒๐๑๓หรือใหม่กว่าสำหรับการแสดงเคล็ดลับนโยบาย](https://docs.microsoft.com/microsoft-365/compliance/use-notifications-and-policy-tips)
+เคล็ดลับนโยบายจะแสดงทั้งใน OWA และ Outlook อย่างไรก็ตาม เมื่อใช้ Outlook 2013 หรือใหม่กว่า เคล็ดลับนโยบายจะแสดงภายใต้เงื่อนไขบางอย่างเท่านั้น For the specific conditions list, see [Supported conditions for Outlook 2013 or later for displaying Policy Tips](https://docs.microsoft.com/microsoft-365/compliance/use-notifications-and-policy-tips).
 
-สำหรับข้อมูลเพิ่มเติมเกี่ยวกับเคล็ดลับนโยบาย DLP ให้ดูที่: [แสดงเคล็ดลับนโยบายสำหรับนโยบาย DLP](https://docs.microsoft.com/microsoft-365/compliance/use-notifications-and-policy-tips)
-  
+For information on DLP Policy tips, see [DLP Policy Tips Reference](https://docs.microsoft.com/microsoft-365/compliance/dlp-policy-tips-reference?view=o365-worldwide#support-matrix-for-dlp-policy-tips-across-microsoft-apps) and [Support Matrix for DLP Policy tips](https://docs.microsoft.com/microsoft-365/compliance/dlp-policy-tips-reference?view=o365-worldwide#support-matrix-for-dlp-policy-tips-across-microsoft-apps).
