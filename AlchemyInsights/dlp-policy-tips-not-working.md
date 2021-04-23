@@ -13,12 +13,12 @@ ms.assetid: c03d30be-474a-4a34-b3c0-240eb2a2c466
 ms.custom:
 - "1428"
 - "3200001"
-ms.openlocfilehash: 68387bf6f5f91657f1d853b9d67bdea6fac21bde
-ms.sourcegitcommit: e9206b7bb1bf2efd2471edbf4c60c00c3607bc41
+ms.openlocfilehash: 8a3b8175c077b77d1c9b5d859012faddcb1fa3a0
+ms.sourcegitcommit: 099704f7f4bdf122d09bb4f7cc71d36fc77a7fcf
 ms.translationtype: MT
 ms.contentlocale: th-TH
 ms.lasthandoff: 04/22/2021
-ms.locfileid: "51952211"
+ms.locfileid: "51958721"
 ---
 # <a name="dlp-policy-tip-issues"></a>ปัญหาเคล็ดลับนโยบาย DLP
 
@@ -28,8 +28,8 @@ ms.locfileid: "51952211"
 
 - ตรวจสอบให้แน่ใจว่ามีการเปิดใช้งาน **เคล็ดลับ** นโยบายในกฎ DLP แล้ว For steps, see [Send email notifications and show policy tips for DLP policies](https://docs.microsoft.com/microsoft-365/compliance/use-notifications-and-policy-tips).
 
-ตรวจสอบให้แน่ใจว่าเนื้อหาของคุณตรงกับสิ่งที่ต้องระบุเพื่อทริกเกอร์กฎที่ระบุไว้ในข้อนิยาม[เอนทิตีของชนิดข้อมูลที่เป็นความลับ](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions)
+- ตรวจสอบให้แน่ใจว่าเนื้อหาของคุณตรงกับสิ่งที่ต้องระบุเพื่อทริกเกอร์กฎที่ระบุไว้ในข้อนิยาม[เอนทิตีของชนิดข้อมูลที่เป็นความลับ](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions)
 
-เคล็ดลับนโยบายจะแสดงทั้งใน OWA และ Outlook อย่างไรก็ตาม เมื่อใช้ Outlook 2013 หรือใหม่กว่า เคล็ดลับนโยบายจะแสดงภายใต้เงื่อนไขบางอย่างเท่านั้น For the specific conditions list, see [Supported conditions for Outlook 2013 or later for displaying Policy Tips](https://docs.microsoft.com/microsoft-365/compliance/use-notifications-and-policy-tips).
+- เคล็ดลับนโยบายจะแสดงทั้งใน OWA และ Outlook อย่างไรก็ตาม เมื่อใช้ Outlook 2013 หรือใหม่กว่า เคล็ดลับนโยบายจะแสดงภายใต้เงื่อนไขบางอย่างเท่านั้น For the specific conditions list, see [Supported conditions for Outlook 2013 or later for displaying Policy Tips](https://docs.microsoft.com/microsoft-365/compliance/use-notifications-and-policy-tips).
 
 For information on DLP Policy tips, see [DLP Policy Tips Reference](https://docs.microsoft.com/microsoft-365/compliance/dlp-policy-tips-reference?view=o365-worldwide#support-matrix-for-dlp-policy-tips-across-microsoft-apps) and [Support Matrix for DLP Policy tips](https://docs.microsoft.com/microsoft-365/compliance/dlp-policy-tips-reference?view=o365-worldwide#support-matrix-for-dlp-policy-tips-across-microsoft-apps).
