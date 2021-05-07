@@ -1,5 +1,5 @@
 ---
-title: รายงานบันทึกการตรวจสอบ SharePoint แบบคลาสสิก
+title: รายงานSharePointการตรวจสอบแบบคลาสสิก
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -12,41 +12,25 @@ localization_priority: Normal
 ms.custom:
 - "1372"
 - "3100005"
-ms.assetid: ''
-ms.openlocfilehash: daf79f8d75ccdff8ad54f0f307648a5832a6bb71
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: f84a86331ffe714ffb5154d55608a91725a2fbfb
+ms.sourcegitcommit: 6c6b0c3885f33b08db929fe0b6496508d31fa2d6
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47662227"
+ms.lasthandoff: 05/06/2021
+ms.locfileid: "52233625"
 ---
-# <a name="sharepoint-and-onedrive-audit-logs"></a>บันทึกการตรวจสอบของ SharePoint และ OneDrive
-
-## <a name="sharepoint-classic-audit-logs"></a>บันทึกการตรวจสอบแบบคลาสสิกของ SharePoint
-
-SPO การตรวจสอบดั้งเดิมถูกโยกย้ายไปยังบันทึกการตรวจสอบแบบรวม (UAL) ในตอนนี้รายงานการตรวจสอบแบบดั้งเดิมของ SPO ทั้งหมดจะได้รับการดำเนินการผ่าน UAL และจะมีการโยกย้ายสัญญาณการตรวจสอบแบบดั้งเดิมไปยัง UAL
-
-การเปลี่ยนแปลงที่สำคัญ:
-
-* การตัดแต่งจะไม่พร้อมใช้งานเป็นความสามารถ
-* การเลือกเหตุการณ์ที่เฉพาะเจาะจงในการตรวจสอบไม่พร้อมใช้งาน อ้างอิงไปยัง [เอกสารนี้](https://docs.microsoft.com/microsoft-365/compliance/search-the-audit-log-in-security-and-compliance) สำหรับรายการของเหตุการณ์ที่ตรวจสอบทั้งหมดที่พร้อมใช้งานตามค่าเริ่มต้น
-* ตัวเลือก **ตำแหน่งที่ตั้ง** ภายใต้ **รายงานแบบกำหนดเอง** จะไม่พร้อมใช้งาน
-* ตัวเลือกการ **เปิดหรือการดาวน์โหลดเอกสาร** ไม่พร้อมใช้งาน
-
-[การกำหนดค่าการตั้งค่าการตรวจสอบสำหรับไซต์คอลเลกชัน](https://support.office.com/article/Configure-audit-settings-for-a-site-collection-A9920C97-38C0-44F2-8BCB-4CF1E2AE22D2)
-
-## <a name="sharepoint-and-onedrive-modern-unified-audit-logs-from-compliance"></a>บันทึกการตรวจสอบแบบครบวงจรของ SharePoint และ OneDrive จากการปฏิบัติตามกฎระเบียบ
+# <a name="sharepoint-and-onedrive-audit-logs"></a>SharePointและOneDriveบันทึกการตรวจสอบ
 
 * [เปิด/ปิดการบันทึกการตรวจสอบแบบครบวงจร](https://docs.microsoft.com/microsoft-365/compliance/turn-audit-log-search-on-or-off) 
 
-ไม่จำเป็นต้องมีการกำหนดค่าเพิ่มเติมภายใน SharePoint หรือ OneDrive
-
-ใช้การค้นหาการบันทึกการตรวจสอบเพื่อตรวจสอบกิจกรรมของไฟล์ (s), โฟลเดอร์ (s), สิทธิ์การใช้งาน:
+ใช้การค้นหาบันทึกการตรวจสอบเพื่อตรวจสอบกิจกรรมของไฟล์ โฟลเดอร์ ผู้ใช้ สิทธิ์:
 
 * [กิจกรรมของไฟล์และหน้า](https://docs.microsoft.com/microsoft-365/compliance/search-the-audit-log-in-security-and-compliance)
 * [กิจกรรมของโฟลเดอร์](https://docs.microsoft.com/microsoft-365/compliance/search-the-audit-log-in-security-and-compliance#folder-activities)
-* [การแชร์และการร้องขอการเข้าถึงกิจกรรม](https://docs.microsoft.com/microsoft-365/compliance/search-the-audit-log-in-security-and-compliance#sharing-and-access-request-activities)
+* [กิจกรรมการแชร์และการร้องขอการเข้าถึง](https://docs.microsoft.com/microsoft-365/compliance/search-the-audit-log-in-security-and-compliance#sharing-and-access-request-activities)
 * [กิจกรรมการซิงโครไนซ์](https://docs.microsoft.com/microsoft-365/compliance/search-the-audit-log-in-security-and-compliance#synchronization-activities)
-* [กิจกรรมการดูแลไซต์](https://docs.microsoft.com/microsoft-365/compliance/search-the-audit-log-in-security-and-compliance#site-administration-activities)
+* [กิจกรรมการจัดการดูแลไซต์](https://docs.microsoft.com/microsoft-365/compliance/search-the-audit-log-in-security-and-compliance#site-administration-activities)
 
-สำหรับข้อมูลเพิ่มเติมเกี่ยวกับวิธีการเรียกใช้เหตุการณ์เหล่านี้ให้ดู[ที่ค้นหาบันทึกการตรวจสอบ](https://docs.microsoft.com/microsoft-365/compliance/search-the-audit-log-in-security-and-compliance#search-the-audit-log)
+For more information about how to retrieve these events, see [Search the audit log](https://docs.microsoft.com/microsoft-365/compliance/search-the-audit-log-in-security-and-compliance#search-the-audit-log).
+
+การตรวจสอบแบบดั้งเดิมของ SPO ถูกโยกย้ายไปยังบันทึกการตรวจสอบแบบครบวงจร (UAL) รายงานการตรวจสอบแบบดั้งเดิมของ SPO ทั้งหมดถูกขับเคลื่อนผ่าน UAL และสัญญาณการตรวจสอบแบบดั้งเดิมถูกโยกย้ายไปยัง UAL For more information, see [Configure audit data for a site collection](https://support.office.com/article/Configure-audit-settings-for-a-site-collection-A9920C97-38C0-44F2-8BCB-4CF1E2AE22D2).

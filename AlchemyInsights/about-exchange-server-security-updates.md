@@ -1,5 +1,5 @@
 ---
-title: เกี่ยวกับการอัปเดตความปลอดภัยของ Exchange Server
+title: เกี่ยวกับExchange Serverอัปเดต
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -15,21 +15,19 @@ ms.custom:
 - "9005483"
 - "9413"
 - "9412"
-ms.openlocfilehash: 6e902151fe06227c74413a4fd98e3211343e510b
-ms.sourcegitcommit: be246651064dfeacc866b2f69c0dbe4002a73f1c
+ms.openlocfilehash: 9f012d0f500eeec4e5a7f1152b9a3ba3bebe1b57
+ms.sourcegitcommit: 6c6b0c3885f33b08db929fe0b6496508d31fa2d6
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50726546"
+ms.lasthandoff: 05/06/2021
+ms.locfileid: "52233481"
 ---
-# <a name="about-exchange-server-security-updates"></a>เกี่ยวกับการอัปเดตความปลอดภัยของ Exchange Server
+# <a name="about-exchange-server-updates"></a>เกี่ยวกับExchange Serverอัปเดต
 
-Microsoft ได้เผยแพร่ชุดการอัปเดตความปลอดภัยที่วิกฤติใน Exchange Server ภายในองค์กร เวอร์ชันของเซิร์ฟเวอร์ที่ได้รับผลกระทบคือระดับการอัปเดตใดๆ ของ Exchange Server 2010, 2013, 2016 และ 2019 Exchange Online จะไม่ได้รับผลกระทบ แต่ถ้าคุณมีเซิร์ฟเวอร์ Exchange ภายในองค์กรบางส่วนเนื่องจากการกําหนดค่าแบบไฮบริด เซิร์ฟเวอร์เหล่านั้นอาจมีความเสี่ยง
+โดยปกติ Microsoft จะเผยแพร่Exchange Serverการอัปเดตการอัปเดตวันอังคาร (การอัปเดตความปลอดภัย) หรือรายไตรมาส (การอัปเดตสะสม) เมื่อต้องการดูประกาศของการอัปเดตที่เผยแพร่ล่าสุด ให้ดูที่ บล็อกExchange[ทีม](https://aka.ms/ehlo)ล่าสุด
 
-โปรดดูประกาศต่อไปนี้เกี่ยวกับสถานที่ตั้งของการแก้ไข: [เผยแพร่แล้ว: การอัปเดตความปลอดภัยของ Exchange Server ในเดือนมีนาคม 2021](https://techcommunity.microsoft.com/t5/exchange-team-blog/released-march-2021-exchange-server-security-updates/ba-p/2175901)
+- เมื่อต้องการเก็บExchangeของคุณ ให้ใช้สคริปต์[Exchange Serverตัวตรวจสอบสถานภาพ (GitHub ให้ใช้เวอร์ชันล่าสุด)](https://aka.ms/ExchangeHealthChecker) การเรียกใช้สคริปต์นี้จะบอกให้คุณรู้ถ้ามีเซิร์ฟเวอร์ Exchange ของคุณอยู่หลังการอัปเดต (CUs และ SUs)
 
-**หมายเหตุสําคัญ:**
+- เมื่อต้องการอัปเดตเป็นการอัปเดตสะสมล่าสุด ให้ไปที่ ตัวช่วยสร้างExchange[อัปเดตสะสม](https://aka.ms/ExchangeUpdateWizard)แล้วเลือก CU และ CU เป้าหมายที่คุณใช้งานอยู่ในขณะนี้ เลือก **บอกขั้นตอนเพื่อรับ** เส้นทางสภาพแวดล้อมของคุณ
 
-ถ้าติดตั้งการอัปเดตด้วยตนเอง โปรดอ่านส่วน "ปัญหาที่ทราบแล้ว" ของการอัปเดตบทความ KB เพื่อดูข้อมูลสําคัญ การอัปเดตการรักษาความปลอดภัยต้องเรียกใช้จากพร้อมท์ CMD/PowerShell ด้วยสิทธิ์ผู้ดูแล!
-
-ข้อมูลการแก้ไขปัญหาการอัปเดต [สามารถพบได้](https://aka.ms/exupdatefaq)ที่นี่
+- หากคุณพบข้อผิดพลาดในระหว่างหรือหลังการติดตั้งExchange Serverการอัปเดตต่างๆ ให้ดู การติดตั้งแบบ[ไม่สExchangeสะสมและการอัปเดตความปลอดภัย](https://docs.microsoft.com/exchange/troubleshoot/client-connectivity/exchange-security-update-issues)
