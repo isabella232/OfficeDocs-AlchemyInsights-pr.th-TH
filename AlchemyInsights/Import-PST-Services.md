@@ -1,5 +1,5 @@
 ---
-title: ๑๒๔๕-การนำเข้า-PST-บริการ
+title: 1245-นําเข้า-PST-Services
 ms.author: markjjo
 author: markjjo
 manager: lauraw
@@ -14,27 +14,27 @@ ms.custom:
 - "1245"
 - "1800027"
 ms.assetid: ''
-ms.openlocfilehash: a4c7ed707853cd4d99db4b5a3d630df343a1ffe0
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 107099899e881097a752d0376a4d76d51ea62463
+ms.sourcegitcommit: 67dbb2f157f6e83f41d9480071c1d35ac5565509
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47664081"
+ms.lasthandoff: 05/13/2021
+ms.locfileid: "52470290"
 ---
-# <a name="microsoft-365-import-service"></a>บริการการนำเข้าของ Microsoft ๓๖๕
+# <a name="microsoft-365-import-service"></a>Microsoft 365 นําเข้าบริการ
 
-บริการการนำเข้าของ Microsoft ๓๖๕ช่วยให้คุณสามารถนำเข้าไฟล์ PST จำนวนมากไปยังกล่องจดหมาย Exchange Online
+บริการMicrosoft 365นําเข้าช่วยให้คุณนําเข้าไฟล์ PST หลายไฟล์เป็นกลุ่มExchange Onlineกล่องจดหมายได้
 
-เมื่อต้องการเข้าถึงบริการนำเข้าและเริ่มกระบวนการนำเข้าให้ทำดังนี้
+เมื่อต้องการเข้าถึงบริการนําเข้าและเริ่มกระบวนการนําเข้า:
 
-1. ไปที่ [ศูนย์การปฏิบัติตามกฎระเบียบ & ด้านความปลอดภัย](https://protection.office.com) และลงชื่อเข้าใช้โดยใช้ข้อมูลประจำตัวสำหรับบัญชีผู้ดูแลระบบในองค์กรของคุณ
+1. ไปที่ ศูนย์ [การรักษา&การปฏิบัติตามนโยบาย](https://protection.office.com) และลงชื่อเข้าใช้โดยใช้ข้อมูลรับรองความถูกต้องของบัญชีผู้ดูแลระบบในองค์กรของคุณ
 
-2. ในบานหน้าต่างด้านซ้ายของ**ศูนย์การปฏิบัติตามนโยบาย & ด้านความปลอดภัย**ให้คลิกการ**นำเข้าข้อมูลการกำกับดูแลข้อมูล >**
+2. ในบานหน้าต่างด้านซ้ายของ ศูนย์การรักษา **&การปฏิบัติตามนโยบาย** ให้คลิก **การควบคุมข้อมูล >นํา** เข้า
 
-3. บนหน้า**นำเข้า**ให้คลิก**งานนำเข้าใหม่**
+3. บนหน้า **นําเข้า** ให้คลิก **งานนําเข้า** ใหม่
 
-4. เมื่อต้องการทำตามขั้นตอนในตัวช่วยสร้างให้เสร็จสมบูรณ์โปรดทำตาม [คำแนะนำทีละขั้น](https://docs.microsoft.com/microsoft-365/security/office-365-security/use-dkim-to-validate-outbound-email)ตอนเหล่านี้
+4. เมื่อต้องการเสร็จสิ้นขั้นตอนในตัวช่วยสร้าง ให้ปฏิบัติตามคําแ [นะนําทีละขั้นตอน](/microsoft-365/compliance/use-network-upload-to-import-pst-files.md)เหล่านี้
 
-**สิ่งสำคัญ**: เมื่อต้องการเข้าถึงหน้า**นำเข้า**ในศูนย์การปฏิบัติตามกฎระเบียบ & ด้านความปลอดภัยคุณจะได้รับมอบหมาย[สิทธิ์ที่เหมาะสม](https://docs.microsoft.com/microsoft-365/security/office-365-security/use-dkim-to-validate-outbound-email)
+**สิ่ง** สําคัญ : เมื่อต้องการ **เข้าถึง** หน้า การนําเข้า &ศูนย์การปฏิบัติตามข้อบังคับ คุณได้รับมอบหมาย  [สิทธิ์](/microsoft-365/security/office-365-security/use-dkim-to-validate-outbound-email.md)ที่เหมาะสม
 
-ถ้าคุณเพียงแค่ต้องการนำเข้าไฟล์ PST ไปยังกล่องจดหมายของคุณให้ดู[บทความนี้](https://support.office.com/article/import-email-contacts-and-calendar-from-an-outlook-pst-file-431a8e9a-f99f-4d5f-ae48-ded54b3440ac)
+ถ้าคุณเพียงต้องการนําเข้า PST ไปยังกล่องจดหมายของคุณ [ให้ดู](https://support.office.com/article/import-email-contacts-and-calendar-from-an-outlook-pst-file-431a8e9a-f99f-4d5f-ae48-ded54b3440ac)บทความนี้
