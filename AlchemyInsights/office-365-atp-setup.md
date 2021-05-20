@@ -1,5 +1,5 @@
 ---
-title: การตั้งค่า Microsoft Defender for Office 365 (ATP)
+title: การตั้งค่า Microsoft Defender Office 365
 ms.author: deniseb
 author: denisebmsft
 manager: laurawi
@@ -11,20 +11,20 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Admin_O365
 ms.custom: 3100021
-ms.openlocfilehash: 4f09e85589cd654a0a557fe1ad997804d7b1b406
-ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
+ms.openlocfilehash: 9fb4d7b85bc7bcdfc0fe82f5371213aa7470fca7
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 03/10/2021
-ms.locfileid: "50708657"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52543632"
 ---
-# <a name="microsoft-defender-for-office-365-atp"></a><span data-ttu-id="9ecd5-102">Microsoft Defender for Office 365 (ATP)</span><span class="sxs-lookup"><span data-stu-id="9ecd5-102">Microsoft Defender for Office 365 (ATP)</span></span>
+# <a name="microsoft-defender-for-office-365"></a><span data-ttu-id="32b07-102">Microsoft Defender for Office 365</span><span class="sxs-lookup"><span data-stu-id="32b07-102">Microsoft Defender for Office 365</span></span>
 
-<span data-ttu-id="9ecd5-103">Office 365 ATP[มีสิ่งที่แนบมาที่ปลอดภัย](https://docs.microsoft.com/microsoft-365/security/office-365-security/atp-safe-attachments)[ลิงก์ที่ปลอดภัย](https://docs.microsoft.com/microsoft-365/security/office-365-security/atp-safe-links)การป้องกัน[ฟิชชิ่ง](https://docs.microsoft.com/microsoft-365/security/office-365-security/atp-anti-phishing)ขั้นสูง และอื่นๆ</span><span class="sxs-lookup"><span data-stu-id="9ecd5-103">Office 365 ATP includes [Safe Attachments](https://docs.microsoft.com/microsoft-365/security/office-365-security/atp-safe-attachments), [Safe Links](https://docs.microsoft.com/microsoft-365/security/office-365-security/atp-safe-links), [advanced Anti-Phishing](https://docs.microsoft.com/microsoft-365/security/office-365-security/atp-anti-phishing), and more.</span></span> 
+<span data-ttu-id="32b07-103">Microsoft Defender Office 365[มีสิ่งที่แนบมา](/microsoft-365/security/office-365-security/atp-safe-attachments)[ที่ปลอดภัย](/microsoft-365/security/office-365-security/atp-safe-links)ลิงก์[ที่ปลอดภัย การป้องกันฟิชชิ่ง](/microsoft-365/security/office-365-security/atp-anti-phishing)ขั้นสูง และอื่นๆ</span><span class="sxs-lookup"><span data-stu-id="32b07-103">Microsoft Defender for Office 365 includes [Safe Attachments](/microsoft-365/security/office-365-security/atp-safe-attachments), [Safe Links](/microsoft-365/security/office-365-security/atp-safe-links), [advanced Anti-Phishing](/microsoft-365/security/office-365-security/atp-anti-phishing), and more.</span></span> 
 
-<span data-ttu-id="9ecd5-104">ATP รวมอยู่ในการสมัครใช้งาน เช่น Office 365 Enterprise E5, Office 365 Education A5 และ Microsoft 365 Business Premium</span><span class="sxs-lookup"><span data-stu-id="9ecd5-104">ATP is included in subscriptions, such as Office 365 Enterprise E5, Office 365 Education A5, and Microsoft 365 Business Premium.</span></span> <span data-ttu-id="9ecd5-105">ถ้าการสมัครใช้งานของคุณไม่มี ATP คุณสามารถซื้อ ATP เป็น Add-on ได้</span><span class="sxs-lookup"><span data-stu-id="9ecd5-105">If your subscription does not include ATP, you can potentially purchase ATP as an add-on.</span></span> <span data-ttu-id="9ecd5-106">เมื่อต้องการเรียนรู้เพิ่มเติม ให้ดูที่[อธิบายบริการของ Office 365 ATP](https://docs.microsoft.com/office365/servicedescriptions/office-365-advanced-threat-protection-service-description)</span><span class="sxs-lookup"><span data-stu-id="9ecd5-106">To learn more, see [Office 365 ATP Service Description](https://docs.microsoft.com/office365/servicedescriptions/office-365-advanced-threat-protection-service-description).</span></span>
+<span data-ttu-id="32b07-104">Microsoft Defender Office 365จะรวมอยู่ในการสมัครใช้งาน เช่น Office 365 Enterprise E5, Office 365 Education A5 Microsoft 365 Business Premium</span><span class="sxs-lookup"><span data-stu-id="32b07-104">Microsoft Defender for Office 365 is included in subscriptions such as Office 365 Enterprise E5, Office 365 Education A5, and Microsoft 365 Business Premium.</span></span> <span data-ttu-id="32b07-105">ถ้าการสมัครใช้งานของคุณไม่มีอยู่ คุณสามารถซื้อเป็น Add-on ได้</span><span class="sxs-lookup"><span data-stu-id="32b07-105">If your subscription does not include it, you can potentially purchase it as an add-on.</span></span> <span data-ttu-id="32b07-106">หากต้องการเรียนรู้เพิ่มเติม โปรดดู[Microsoft Defender for Office 365อธิบายบริการของคุณ](/office365/servicedescriptions/office-365-advanced-threat-protection-service-description)</span><span class="sxs-lookup"><span data-stu-id="32b07-106">To learn more, see [Microsoft Defender for Office 365 Service Description](/office365/servicedescriptions/office-365-advanced-threat-protection-service-description).</span></span>
 
-## <a name="set-up-office-365-atp"></a><span data-ttu-id="9ecd5-107">ตั้งค่า Office 365 ATP</span><span class="sxs-lookup"><span data-stu-id="9ecd5-107">Set up Office 365 ATP</span></span>
+## <a name="set-up-microsoft-defender-for-office-365"></a><span data-ttu-id="32b07-107">ตั้งค่า Microsoft Defender Office 365</span><span class="sxs-lookup"><span data-stu-id="32b07-107">Set up Microsoft Defender for Office 365</span></span>
 
-<span data-ttu-id="9ecd5-108">เพื่อให้การป้องกัน ATP มีผล คุณจะต้องกําหนดค่านโยบาย</span><span class="sxs-lookup"><span data-stu-id="9ecd5-108">For ATP protection to be in effect, you must configure policies.</span></span> <span data-ttu-id="9ecd5-109">ดู[คู่มือเริ่มต้นใช้งานด่วน: ตั้งค่า Microsoft Defender for Office 365](https://docs.microsoft.com/microsoft-365/security/office-365-security/office-365-atp)</span><span class="sxs-lookup"><span data-stu-id="9ecd5-109">See [Quick Start Guide: Set up Microsoft Defender for Office 365](https://docs.microsoft.com/microsoft-365/security/office-365-security/office-365-atp).</span></span>
+<span data-ttu-id="32b07-108">เพื่อให้ Microsoft Defender Office 365การป้องกันอย่างมีผลกระทบ คุณต้องกําหนดค่านโยบาย</span><span class="sxs-lookup"><span data-stu-id="32b07-108">For Microsoft Defender for Office 365 protection to be in effect, you must configure policies.</span></span> <span data-ttu-id="32b07-109">ดู[คู่มือเริ่มต้นใช้งานด่วน: ตั้งค่า Microsoft Defender Office 365](/microsoft-365/security/office-365-security/office-365-atp)</span><span class="sxs-lookup"><span data-stu-id="32b07-109">See [Quick Start Guide: Set up Microsoft Defender for Office 365](/microsoft-365/security/office-365-security/office-365-atp).</span></span>
 
