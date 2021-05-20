@@ -1,5 +1,5 @@
 ---
-title: เรียนรู้เกี่ยวกับ ATP
+title: เรียนรู้เกี่ยวกับ Microsoft Defender Office 365
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,26 +13,26 @@ ms.collection: Adm_O365
 ms.custom:
 - "3100019"
 - "7522"
-ms.openlocfilehash: 62eb0d38519292a951c69ba096503e51e31ee543
-ms.sourcegitcommit: db908b3da2c7a6508a77bf4f2c80afb294fadbd1
+ms.openlocfilehash: df341ed0c7aacaf84d3a33f223b7df44be5a78d9
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 03/29/2021
-ms.locfileid: "51403582"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52539807"
 ---
-# <a name="learn-about-atp"></a>เรียนรู้เกี่ยวกับ ATP
+# <a name="learn-about-microsoft-defender-for-office-365"></a>เรียนรู้เกี่ยวกับ Microsoft Defender Office 365
 
-ต่อไปนี้เป็นข้อมูลบางอย่างเกี่ยวกับ Office 365 Advanced Threat Protection (ATP):
+ต่อไปนี้เป็นข้อมูลบางอย่างเกี่ยวกับ Microsoft Defender Office 365:
 
-**ATP คืออะไร**
+**Microsoft Defender for Office 365 คืออะไร**
 
-ATP คือบริการการกรองอีเมลบนระบบคลาวด์ที่ช่วยปกป้ององค์กรจากมัลแวร์และไวรัสที่ไม่รู้จักโดยให้การป้องกัน Zero-Day ที่มีประสิทธิภาพ ซึ่งรวมถึงฟีเจอร์ต่างๆ เพื่อป้องกันองค์กรจากลิงก์ที่เป็นอันตรายแบบเรียลไทม์
+Microsoft Defender Office 365เป็นบริการการกรองอีเมลบนระบบคลาวด์ที่ช่วยปกป้ององค์กรจากมัลแวร์และไวรัสที่ไม่รู้จัก โดยให้การป้องกันการป้องกันภายในวันที่ศูนย์ที่มีประสิทธิภาพ ซึ่งรวมถึงฟีเจอร์เพื่อป้องกันองค์กรจากลิงก์ที่เป็นอันตรายแบบเรียลไทม์
 
-**ฉันจะเปิดใช้งาน ATP ได้อย่างไร**
+**ฉันจะเปิดใช้งาน Microsoft Defender for Office 365 ได้อย่างไร**
 
-สิ่งที่แนบมา ที่ปลอดภัย ลิงก์ที่ปลอดภัย และการป้องกันการฟิชชิ่งเป็นส่วนหนึ่งของฟีเจอร์ ATP Enterprise E5, Education A5 และ Microsoft 365 Business มีฟีเจอร์ ATP ในตัว แผนอื่นๆ ทั้งหมดต้องการการสมัครใช้งาน ADD-on ATP คุณต้องกําหนดสิทธิ์การใช้งานที่เหมาะสมให้กับผู้ใช้ของคุณเพื่อให้ได้รับการป้องกันโดย Office 365 ATP คุณต้องมีสิทธิ์ผู้ดูแลระบบส่วนกลางหรือผู้ดูแลระบบความปลอดภัยเพื่อเข้าถึงฟีเจอร์นี้ To learn more about how to apply licenses in bulk to your end-users, see [Assign licenses to users in Office 365 for business](https://go.microsoft.com/fwlink/?linkid=2093435).
+สิ่งที่แนบมาที่ปลอดภัย ลิงก์ที่ปลอดภัย และการป้องกันการฟิชชิ่งเป็นส่วนหนึ่งของฟีเจอร์ Microsoft Defender Office 365ที่ปลอดภัย Enterprise E5, Education A5 และ Microsoft 365 Businessมี Microsoft Defender ในตัวOffice 365คุณลักษณะบางอย่าง แผนอื่นๆ ทั้งหมดต้องการ Add-on Microsoft Defender Office 365การสมัครใช้งานของคุณ คุณต้องกําหนดสิทธิ์การใช้งานที่เหมาะสมให้กับผู้ใช้ของคุณเพื่อให้ได้รับการป้องกันโดย Microsoft Defender Office 365ของคุณ คุณต้องมีสิทธิ์ผู้ดูแลระบบส่วนกลางหรือผู้ดูแลระบบความปลอดภัยเพื่อเข้าถึงฟีเจอร์นี้ เมื่อต้องการเรียนรู้เพิ่มเติมเกี่ยวกับวิธีการใช้สิทธิ์การใช้งานแบบเป็นกลุ่มกับผู้ใช้ปลายทางของคุณ ให้ดู[มอบหมายสิทธิ์การใช้งานให้ผู้ใช้](https://go.microsoft.com/fwlink/?linkid=2093435)ใน Office 365 for business
 
-**ฉันจะจัดการ ATP หรือเรียนรู้เพิ่มเติมเกี่ยวกับ ATP ได้อย่างไร**
+**ฉันจะจัดการ Microsoft Defender for Office 365หรือเรียนรู้เพิ่มเติมเกี่ยวกับเรื่องนี้ได้อย่างไร**
 
-a. ไปที่[การตั้งค่า](https://go.microsoft.com/fwlink/p/?linkid=2075721)
-b. ภายใต้ **ลงชื่อเข้าใช้และความปลอดภัย** ให้ **ค้นหา เพิ่ม** การป้องกันจากภัยคุกคามขั้นสูง [แล้วเลือก](https://go.microsoft.com/fwlink/?linkid=2109302)ดู
+a. [ไปที่](https://go.microsoft.com/fwlink/p/?linkid=2075721)ตั้งค่า
+b. **ในส่วน ลงชื่อเข้าใช้และความปลอดภัย** ค้นหา **เพิ่มการป้องกันจากภัยคุกคาม** ขั้นสูง [แล้วเลือก](https://go.microsoft.com/fwlink/?linkid=2109302)มุมมอง
