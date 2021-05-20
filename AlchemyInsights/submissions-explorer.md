@@ -1,5 +1,5 @@
 ---
-title: ฟีเจอร์ใหม่๒๕๕๔เพื่อช่วยในการวินิจฉัย EOP และ ATP
+title: 2554 ฟีเจอร์ใหม่เพื่อช่วยวินิจฉัย EOP และ Microsoft Defender Office 365
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -11,13 +11,13 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 2554
 ms.assetid: ''
-ms.openlocfilehash: 991b51f6b304f8c9a0ad53ea8f32d70237a0919f
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 6a0ee90b71f54b9b440cdac227243eb64e2b3d1b
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47726541"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52544921"
 ---
-# <a name="new-feature-to-help-diagnose-eop-and-atp"></a>ฟีเจอร์ใหม่เพื่อช่วยในการวินิจฉัย EOP และ ATP
+# <a name="new-feature-to-help-diagnose-eop-and-microsoft-defender-for-office-365"></a>ฟีเจอร์ใหม่เพื่อช่วยวินิจฉัย EOP และ Microsoft Defender Office 365
 
-ในฐานะผู้ดูแลระบบคุณสามารถรายงานข้อความอีเมลที่น่าสงสัย Url และเนื้อหาไปยัง Microsoft ในการส่ง [Explorer](https://protection.office.com/reportsubmission)ได้อย่างง่ายดาย คุณยังสามารถใช้เพื่อช่วยทำความเข้าใจว่าทำไมข้อความที่ถูกต้องถูกตั้งค่าสถานะอย่างไม่ถูกต้อง สำหรับข้อมูลเพิ่มเติมให้ดู [ประกาศ](https://techcommunity.microsoft.com/t5/Security-Privacy-and-Compliance/Empower-security-teams-to-easily-report-suspicious-emails-amp/ba-p/752622)นี้
+ในฐานะผู้ดูแลระบบ ตอนนี้คุณสามารถรายงานข้อความอีเมล URL และเนื้อหาที่น่าสงสัยไปยัง Microsoft ได้อย่างง่ายดาย[ใน Submissions Explorer](https://protection.office.com/reportsubmission) คุณยังสามารถใช้เพื่อช่วยเข้าใจว่าเหตุใดข้อความที่ถูกต้องจึงถูกตั้งค่าสถานะไม่ถูกต้อง หากต้องการข้อมูลเพิ่มเติม โปรดดู [ประกาศ](https://techcommunity.microsoft.com/t5/Security-Privacy-and-Compliance/Empower-security-teams-to-easily-report-suspicious-emails-amp/ba-p/752622)นี้

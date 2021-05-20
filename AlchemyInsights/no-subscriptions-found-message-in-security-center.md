@@ -13,19 +13,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "6028"
 - "9001222"
-ms.openlocfilehash: 01117bc535df14533e426fd2d31c336fccc75611
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 777fb9b09aa26d166f9971589bda464ccb90f4be
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "50714390"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52544127"
 ---
 # <a name="no-subscriptions-found-message-in-the-security-center"></a>ไม่พบการสมัครใช้งานในศูนย์ความปลอดภัย
 
-ถ้าในขณะที่เข้าถึงศูนย์การรักษาความปลอดภัยของ Microsoft Defender คุณได้รับข้อความ "ไม่มีการสมัครใช้งาน" หมายความว่า Azure Active Directory (AAD) ที่ใช้ในการเข้าสู่ระบบผู้ใช้พอร์ทัลไม่มีสิทธิ์การใช้งาน MICROSOFT Defender ATP  
+ถ้าขณะศูนย์การรักษาความปลอดภัยของ Microsoft Defenderเข้าถึง คุณจะได้รับข้อความ "ไม่มีการสมัครใช้งาน" หมายความว่า Azure Active Directory (AAD) ที่ใช้ในการเข้าสู่ระบบผู้ใช้ไปยังพอร์ทัลMicrosoft Defender ATPสิทธิ์การใช้งานของคุณ  
 
-สิทธิ์การใช้งาน Windows E5 และ Office E5 เป็นสิทธิ์การใช้งานแยกต่างหาก
+The Windows E5 and Office E5 licenses are separate licenses.
 
-เปิดกรณีสนับสนุนถ้าซื้อสิทธิ์การใช้งานแต่ยังไม่ได้เตรียมใช้งานอินสแตนซ์ AAD นี้ คุณมี: <br/>
+เปิดกรณีการสนับสนุนถ้าซื้อสิทธิ์การใช้งานแต่ยังไม่ได้เตรียมใช้งานกับอินสแตนซ์ AAD นี้ คุณมีรายการใดรายการหนึ่งต่อไปนี้ <br/>
 -   ปัญหาการเตรียมใช้งานสิทธิ์การใช้งานที่เป็นไปได้<br/>
--   คุณเตรียมใช้งานสิทธิ์การใช้งาน Microsoft AAD อื่นโดยไม่ได้ตั้งใจซึ่งใช้การรับรองความถูกต้องในบริการ
+-   คุณเตรียมใช้งานสิทธิ์การใช้งาน Microsoft AAD อื่นโดยไม่ได้ตั้งใจ ซึ่งใช้ในการรับรองความถูกต้องในบริการ

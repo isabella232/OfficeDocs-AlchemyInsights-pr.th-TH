@@ -1,5 +1,5 @@
 ---
-title: เครื่อง Offboarding จากบริการ Microsoft Defender ATP
+title: เครื่อง Offboarding จากMicrosoft Defender ATPของคุณ
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,16 +13,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "6024"
 - "9002913"
-ms.openlocfilehash: 693a1b0e8e06158691d5b23cb4bc2f4e3b828b71
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: fbba15ad0d93f61d5a3fd2bb24ae54f17141ee8b
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "50714282"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52544705"
 ---
-# <a name="offboarding-machines-from-the-microsoft-defender-atp-service"></a>เครื่อง Offboarding จากบริการ Microsoft Defender ATP
+# <a name="offboarding-machines-from-the-microsoft-defender-atp-service"></a>เครื่อง Offboarding จากMicrosoft Defender ATPของคุณ
 
-ถ้าคุณต้องการความช่วยเหลือในการออกจากบริการ Defender ATP ให้ดูคําแนะนําเกี่ยวกับระบบปฏิบัติการของคุณ:  
+หากคุณต้องการความช่วยเหลือในการ Offboarding เครื่องจากบริการ Defender ATP ให้ดูคําแนะนําเกี่ยวกับระบบปฏิบัติการของคุณ:  
 
-- บนอุปกรณ์ Windows 10 ให้ดู[อุปกรณ์ Offboard จากบริการ Microsoft Defender ATP](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/offboard-machines#offboard-windows-10-devices)
-- บนอุปกรณ์ที่ไม่ใช่ Windows ให้ดู[Offboard ที่ไม่ใช่อุปกรณ์ Windows](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/configure-endpoints-non-windows#offboard-non-windows-devices)
+- สWindows 10อุปกรณ์[อื่นๆ ให้ดู อุปกรณ์ Offboard จากMicrosoft Defender ATPอื่น](/windows/security/threat-protection/microsoft-defender-atp/offboard-machines#offboard-windows-10-devices)
+- บนอุปกรณ์ที่Windowsไม่ได้ ดู[Offboard ที่ไม่ใช่Windowsอื่น](/windows/security/threat-protection/microsoft-defender-atp/configure-endpoints-non-windows#offboard-non-windows-devices)

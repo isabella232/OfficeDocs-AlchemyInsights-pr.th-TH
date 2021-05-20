@@ -1,5 +1,5 @@
 ---
-title: เปิดใช้งาน Office ๓๖๕ ATP สำหรับ SharePoint, OneDrive และทีม Microsoft
+title: เปิดใช้งานOffice 365 ATP SharePoint OneDrive และMicrosoft Teams
 ms.author: deniseb
 author: denisebmsft
 manager: laurawi
@@ -11,20 +11,20 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Admin_O365
 ms.custom: 3100021
-ms.openlocfilehash: bef43656097c6f27677172899df1ada7900a9b64
-ms.sourcegitcommit: 4caf5e6c2fee2903ccaf92cfc9006eb580faa7ba
+ms.openlocfilehash: dd367176f8d6f38f1f94ae6627229234f15c81ff
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 10/29/2020
-ms.locfileid: "48801094"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52543947"
 ---
-# <a name="enable-microsoft-defender-for-office-365-for-sharepoint-online-onedrive-and-microsoft-teams"></a>เปิดใช้งาน Microsoft Defender สำหรับ Office ๓๖๕สำหรับ SharePoint Online, OneDrive และทีม Microsoft
+# <a name="enable-microsoft-defender-for-office-365-for-sharepoint-online-onedrive-and-microsoft-teams"></a>เปิดใช้งาน Microsoft Defender Office 365 for SharePoint Online, OneDrive และ Microsoft Teams
 
-1. ไปที่ https://protection.office.com แล้วลงชื่อเข้าใช้
-2. เลือก **นโยบายการจัดการภัยคุกคาม**  >  **Policy**  >  **สิ่งที่แนบมาที่ปลอดภัย**
-3. เลือก **เปิดใช้งาน ATP สำหรับ SharePoint, OneDrive และทีม Microsoft** แล้วคลิก **บันทึก**
-4. แนะนำ ในฐานะผู้ดูแลระบบส่วนกลางหรือผู้ดูแลระบบ SharePoint Online ให้เรียกใช้ cmdlet [SPOTenant](https://docs.microsoft.com/powershell/module/sharepoint-online/Set-SPOTenant?view=sharepoint-ps)ที่มีการตั้งค่าพารามิเตอร์ **DisallowInfectedFileDownload** เป็น *true*
-5. แนะนำ [ตั้งค่าการแจ้งเตือน](https://docs.microsoft.com/microsoft-365/security/office-365-security/turn-on-atp-for-spo-odb-and-teams#set-up-alerts-for-detected-files) สำหรับไฟล์ที่ตรวจพบ
+1. ไปที่ https://protection.office.com และลงชื่อเข้าใช้
+2. เลือก **นโยบาย**  >  **การจัดการ**  >  **ภัยคุกคาม สิ่งที่แนบมา** ที่ปลอดภัย
+3. **เลือก เปิด Defender Office 365 SharePoint OneDrive Microsoft Teams** Defender **แล้วคลิก** บันทึก
+4. (แนะนนะให้) ในฐานะผู้ดูแลระบบส่วนกลางหรือผู้ดูแลระบบ SharePoint Online ให้เรียกใช้ cmdlet [Set-SPOTenant](/powershell/module/sharepoint-online/Set-SPOTenant?view=sharepoint-ps)ด้วย **พารามิเตอร์ DisallowInfectedFileDownload** ที่ *ตั้งค่าเป็น true*
+5. (แนะนนะให้) [ตั้งค่าการแจ้งเตือน](/microsoft-365/security/office-365-security/turn-on-atp-for-spo-odb-and-teams#set-up-alerts-for-detected-files) ไฟล์ที่ถูกตรวจพบ
 
 > [!NOTE]
-> ATP จะ nto สแกนทุกไฟล์เดี่ยวใน SharePoint Online, OneDrive หรือทีม Microsoft ไฟล์จะสแกนแบบอะซิงโครนัสผ่านกระบวนการที่ใช้การแชร์และเหตุการณ์กิจกรรมของผู้เยี่ยมชมพร้อมกับสมาร์ทวริและสัญญาณการคุกคามเพื่อระบุไฟล์ที่เป็นอันตราย ให้ดูที่[ATP สำหรับ SharePoint, OneDrive และทีม Microsoft](https://docs.microsoft.com/microsoft-365/security/office-365-security/atp-for-spo-odb-and-teams)
+> Microsoft Defender Office 365จะไม่สแกนทุกไฟล์ใน SharePoint Online, OneDrive หรือ Microsoft Teams ไฟล์จะถูกสแกนแบบอะซิงโครนัสผ่านกระบวนการที่ใช้เหตุการณ์กิจกรรมการแชร์และเหตุการณ์กิจกรรมของแขก พร้อมกับพฤติกรรมที่ชาญฉลาดและภัยคุกคามเพื่อระบุไฟล์ที่เป็นอันตราย ดู[Microsoft Defender Office 365 SharePoint OneDrive Microsoft Teams](/microsoft-365/security/office-365-security/atp-for-spo-odb-and-teams)

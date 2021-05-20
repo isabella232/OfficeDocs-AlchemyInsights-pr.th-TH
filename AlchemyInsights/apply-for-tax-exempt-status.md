@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "1500034"
 - "4895"
-ms.openlocfilehash: a5cb61f750b0233a8b73a36aa35f26d4b3640e1d
-ms.sourcegitcommit: 5b0cd6ecd16798a421b9614cfd0f416d43e7ce6a
+ms.openlocfilehash: 9f5bdb508f2e1ab884cb199914885ccb6103f2fb
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 05/06/2021
-ms.locfileid: "52261787"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52543911"
 ---
 # <a name="apply-for-tax-exempt-status"></a>ขอสถานะการยกเว้นภาษี
 
-โปรดเตรียมเอกสารประกอบต่อไปนี้ให้พร้อม คุณจะต้องเริ่มต้นการร้องขอ [บริการเพื่อสร้าง](/microsoft-365/admin/contact-support-for-business-products) สถานะการยกเว้นภาษี
+โปรดเตรียมเอกสารประกอบต่อไปนี้ให้พร้อม คุณจะต้องเริ่มต้นการร้องขอ [บริการเพื่อสร้าง](https://go.microsoft.com/fwlink/p/?linkid=518322) สถานะการยกเว้นภาษี
 
 - **สหรัฐอเมริกา** - โปรด **เตรียมใบรับรองการยกเว้นภาษีขาย** ให้พร้อม
 
@@ -33,4 +33,4 @@ ms.locfileid: "52261787"
 
 - **เปอร์โตริโก** - โปรดเตรียม **Certificado de Com accors Exentas** ให้พร้อม
 
-หากต้องการข้อมูลเพิ่มเติม โปรดดู [ข้อมูล](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/tax-information)ภาษี
+หากต้องการข้อมูลเพิ่มเติม โปรดดู [ข้อมูล](/microsoft-365/commerce/billing-and-payments/tax-information)ภาษี
