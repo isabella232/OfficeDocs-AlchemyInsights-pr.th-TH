@@ -1,5 +1,5 @@
 ---
-title: การแก้ไขปัญหาการตอบกลับอัตโนมัติ เมื่อไม่อยู่ที่สํานักงาน
+title: การแก้ไขปัญหาการตอบกลับอัตโนมัติOfficeไม่อยู่ที่สOffice
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000761"
 - "5831"
-ms.openlocfilehash: 59d07326e8a9c9ec987d1346c03ac1f5323127d3
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 7f71d9dca45fab5f63faf6cb4b6286f8ac57176a
+ms.sourcegitcommit: e943554d921772fc9df4e65e72b05525e6630f15
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51832257"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52573729"
 ---
-# <a name="troubleshooting-out-of-office-automatic-replies"></a><span data-ttu-id="d47ab-102">การแก้ไขปัญหาการตอบกลับอัตโนมัติ เมื่อไม่อยู่ที่สํานักงาน</span><span class="sxs-lookup"><span data-stu-id="d47ab-102">Troubleshooting Out Of Office automatic replies</span></span>
+# <a name="troubleshooting-out-of-office-automatic-replies"></a><span data-ttu-id="3e7ec-102">การแก้ไขปัญหาการตอบกลับอัตโนมัติOfficeไม่อยู่ที่สOffice</span><span class="sxs-lookup"><span data-stu-id="3e7ec-102">Troubleshooting Out Of Office automatic replies</span></span>
 
-<span data-ttu-id="d47ab-103">สาเหตุที่เป็นไปได้ที่หลากหลายอาจเป็นสาเหตุของปัญหา ขึ้นอยู่กับวิธีที่คุณกําหนดค่าการตอบกลับอัตโนมัติเมื่อไม่อยู่ที่สํานักงาน</span><span class="sxs-lookup"><span data-stu-id="d47ab-103">A wide variety of possible causes could be the reason for problems depending on how you have configured the Out of Office automatic replies.</span></span>
+<span data-ttu-id="3e7ec-103">สาเหตุที่เป็นไปได้ที่หลากหลายอาจเป็นสาเหตุของปัญหา ขึ้นอยู่กับวิธีที่คุณกําหนดค่าการตอบกลับอัตโนมัติเมื่อไม่Officeออก</span><span class="sxs-lookup"><span data-stu-id="3e7ec-103">A wide variety of possible causes could be the reason for problems depending on how you have configured the Out of Office automatic replies.</span></span>
 
-<span data-ttu-id="d47ab-104">เพื่อความเข้าใจในเชิงลึกเกี่ยวกับปัญหาที่เกิดขึ้น โปรดอ่าน การตอบกลับ ความเข้าใจและการแก้ไขปัญหาเมื่อไม่อยู่ที่  [สํานักงาน (OOF)](https://techcommunity.microsoft.com/t5/exchange-team-blog/understanding-and-troubleshooting-out-of-office-oof-replies/ba-p/1411972)</span><span class="sxs-lookup"><span data-stu-id="d47ab-104">For a deeper comprehension of where the problem could be, please read  [Understanding and troubleshooting Out of Office (OOF) replies](https://techcommunity.microsoft.com/t5/exchange-team-blog/understanding-and-troubleshooting-out-of-office-oof-replies/ba-p/1411972)</span></span>
+<span data-ttu-id="3e7ec-104">อ่าน ความเข้าใจในเชิงลึกเกี่ยวกับปัญหาที่เกิดขึ้น โปรดอ่าน ความเข้าใจและการแก้ไขปัญหาการตอบกลับ เมื่อไม่อยู่ที่Office [(OOF)](/exchange/troubleshoot/email-delivery/understand-troubleshoot-oof-replies)</span><span class="sxs-lookup"><span data-stu-id="3e7ec-104">For a deeper comprehension of where the problem could be, please read  [Understanding and troubleshooting Out of Office (OOF) replies](/exchange/troubleshoot/email-delivery/understand-troubleshoot-oof-replies).</span></span>
