@@ -16,17 +16,17 @@ ms.custom:
 - "1100004"
 - "735"
 - "826"
-ms.openlocfilehash: ad5e86b0ee515c674493891c32779d4540e0937c
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 8714ec8bb90f4c785b20be053b35ca213dd8c61b
+ms.sourcegitcommit: 2d617ae59eed0ce8b571339ceefce6473c03b94c
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51810215"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52569670"
 ---
 # <a name="reset-or-change-passwords"></a>ตั้งค่าใหม่หรือเปลี่ยนรหัสผ่าน
 
-ผู้ใช้สามารถเปลี่ยนรหัสผ่านของตนเองจาก บัญชีของฉัน **การ**  >  [รักษาความปลอดภัย &ความเป็นส่วนตัว](https://portal.office.com/account/#security)
+ผู้ใช้สามารถเปลี่ยนรหัสผ่านของตนเองโดยการเลือกรูปถ่ายหรือชื่อย่อของผู้ใช้ > **ดู** บัญชี
   
 ถ้าผู้ใช้ลืมรหัสผ่าน ผู้ดูแลระบบสามารถตั้งค่ารหัสผ่านใหม่ได้โดยไปที่ ผู้ใช้ผู้ใช้ที่ใช้งานอยู่  >  [](https://portal.office.com/adminportal/home#/users)เลือกผู้ใช้ แล้วคลิก **รีเซ็ต** รหัสผ่าน
   
-[คลิกที่นี่เพื่อเรียนรู้เพิ่มเติม](https://docs.microsoft.com/microsoft-365/admin/add-users/reset-passwords)หรือเพื่อให้ผู้ใช้รีเซ็ตรหัสผ่านที่ถูกลืม
+เมื่อต้องการเรียนรู้เพิ่มเติมเกี่ยวกับรหัสผ่านและอนุญาตให้ผู้ใช้รีเซ็ตรหัสผ่านของตนเอง ให้ดู [ตั้งค่ารหัสผ่าน](/microsoft-365/admin/add-users/reset-passwords)ใหม่

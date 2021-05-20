@@ -13,19 +13,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "93"
 - "1200022"
-ms.openlocfilehash: adc95413c269584d75e907fcdcb231a0a0f9a99e
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 7009dcf86da9d8a3fc8ea2f90ecbff3487f3fc59
+ms.sourcegitcommit: 2d617ae59eed0ce8b571339ceefce6473c03b94c
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51822258"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52569727"
 ---
 # <a name="add-a-user"></a>เพิ่มผู้ใช้
 
-1. ในศูนย์การจัดการ Microsoft 365 **ให้ไปที่**  >  [ผู้ใช้ที่ใช้งานอยู่](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/users)
+1. ใน Microsoft 365ศูนย์การจัดการ **ให้ไปที่**  >  [ผู้ใช้ที่ใช้งานอยู่](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/users)
 
 2. คลิก **เพิ่ม** ผู้ใช้
 
-3. กรอกข้อมูลของผู้ใช้ เลือก **เสร็จสิ้น** การเพิ่ม เมื่อคุณเสร็จสิ้น
+3. Follow the wizard to add user info,pProduct licenses, optional roles, and profile information.
 
-เมื่อต้องการเรียนรู้เพิ่มเติม ให้ดู [เพิ่มผู้ใช้แต่ละรายหรือแบบ](https://docs.microsoft.com/microsoft-365/admin/add-users/add-users)กลุ่ม
+เมื่อต้องการเรียนรู้เพิ่มเติม ให้ดู [เพิ่มผู้ใช้แต่ละรายหรือแบบ](/microsoft-365/admin/add-users/add-users)กลุ่ม

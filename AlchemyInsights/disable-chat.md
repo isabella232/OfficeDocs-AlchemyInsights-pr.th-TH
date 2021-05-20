@@ -13,22 +13,24 @@ ms.collection: Adm_O365
 ms.custom:
 - "6889"
 - "9000738"
-ms.openlocfilehash: b6041dd41d0d94b832b962518c73560737684ce1
-ms.sourcegitcommit: 35e2c122d8a838d98d1f0851c29b16282261580f
+ms.openlocfilehash: ab1c412f0214f0e2cea8351415f8c550ada9409a
+ms.sourcegitcommit: e943554d921772fc9df4e65e72b05525e6630f15
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 11/17/2020
-ms.locfileid: "49089160"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52573765"
 ---
 # <a name="disable-chat"></a>ปิดใช้งานการแชท
 
-เมื่อต้องการปิดใช้งานการแชทสำหรับองค์กรของคุณคุณสามารถสร้างนโยบายที่จะช่วยให้คุณสามารถควบคุมฟีเจอร์การแชทและการรับส่งข้อความแชนแนลที่พร้อมใช้งานได้ มีหลายวิธีในการทำเช่นนี้ขึ้นอยู่กับวิธีที่คุณต้องการกำหนดค่าการแชท
+เมื่อต้องการเปิดใช้งานหรือปิดใช้งานการแชทขององค์กรของคุณ คุณสามารถสร้างนโยบายที่จะอนุญาตให้คุณควบคุมฟีเจอร์การส่งข้อความของแชทและแชนเนลที่พร้อมใช้งาน การกําหนดค่าการแชทสามารถทํางานได้หลายวิธี โดยขึ้นอยู่กับวิธีที่คุณต้องการกําหนดค่าการแชท
 
-- การ **ส่งข้อ** ความ: ในศูนย์การจัดการทีมให้ไปที่ [นโยบายการส่งข้อ](https://admin.teams.microsoft.com/)ความแล้วสลับเปิดหรือ **ปิด** การ **แชท** สำหรับข้อมูลเพิ่มเติมเกี่ยวกับนโยบายการส่งข้อความแบบกำหนดเองและวิธีการกำหนดนโยบายให้กับผู้ใช้ให้ดู[ที่จัดการนโยบายการส่งข้อความในทีม](https://docs.microsoft.com/microsoftteams/messaging-policies-in-teams)
-- การ **ประชุม**: ในศูนย์การจัดการทีมให้ไปที่ [นโยบายการประชุม](https://admin.teams.microsoft.com/)-การตั้งค่าสำหรับการแชทจะอนุญาตให้มีการ **แชทในการประชุม** สำหรับข้อมูลเพิ่มเติมเกี่ยวกับการสร้างนโยบายการประชุมแบบกำหนดเองให้ดู[ที่จัดการนโยบายการประชุมในทีม](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams)และ[อนุญาตการสนทนาในการประชุม](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams#allow-chat-in-meetings)
-- **ผู้ใช้ที่เป็นผู้เยี่ยมชม**: คุณสามารถกำหนดค่านโยบายการเข้าถึงของผู้เยี่ยมชมเพื่ออนุญาตให้ผู้ใช้สามารถเข้าถึงการแชทได้ที่สามารถสลับเปิดหรือ **ปิด** การ **แชท** สำหรับข้อมูลเพิ่มเติมโปรดดูที่[กำหนดค่าการเข้าถึงของผู้เยี่ยมชมในศูนย์การจัดการทีม](https://docs.microsoft.com/microsoftteams/set-up-guests#configure-guest-access-in-the-teams-admin-center)
-- **นักเรียน**: เมื่อต้องการปิดใช้งานการแชทสำหรับนักเรียนให้ดูตัวเลือกสำหรับการอนุญาตการแชทในการประชุมและการอนุญาตให้มีการสนทนา1:1 ใน [นโยบายทีมและแพคเกจนโยบายสำหรับการศึกษา](https://docs.microsoft.com/microsoftteams/policy-packages-edu)
+- **การประชุม**: ใน Teamsผู้ดูแลระบบ ให้ไปที่ [นโยบายการประชุม](https://admin.teams.microsoft.com/)- การตั้งค่าการแชทคือ **อนุญาตการแชทใน** การประชุม For more information on creating custom meeting policies, see [Manage meeting policies in Teams](/microsoftteams/meeting-policies-in-teams) and Allow chat in [meetings](/microsoftteams/meeting-policies-in-teams#allow-chat-in-meetings).
 
+- **อายุ M*essaging**: Teamsศูนย์การจัดการ ให้ไปที่ [นโยบาย](https://admin.teams.microsoft.com/)การส่งข้อความ และสลับ **เปิด การแชท****หรือ** ปิด For more information on custom messaging policies and how to assign policies to users, see [Manage messaging policies in Teams](/microsoftteams/messaging-policies-in-teams).
+
+- **นักเรียน**: เมื่อต้องการปิดใช้งานการสนทนาให้กับนักเรียน ให้ดูตัวเลือกในการอนุญาตให้มีการสนทนาในการประชุมและอนุญาตการสนทนาแบบ 1:1 ในTeams [นโยบายและแพคเกจนโยบายของ Education](/microsoftteams/policy-packages-edu)
+
+- ผู้ใช้ที่เป็นผู้ใช้ภายนอก: คุณสามารถกําหนดค่านโยบายการเข้าถึงของแขกเพื่ออนุญาตให้ผู้ใช้ภายนอกสามารถเข้าถึงการแชทใครสามารถสลับ **เปิด หรือ** ปิด การแชท For more information, see [Configure guest access in the Teams admin center](/microsoftteams/set-up-guests#configure-guest-access-in-the-teams-admin-center).
 
 
 
