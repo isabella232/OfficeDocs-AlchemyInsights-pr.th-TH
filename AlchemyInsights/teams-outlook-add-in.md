@@ -1,5 +1,5 @@
 ---
-title: Add-in ของ Outlook ของ Teams
+title: Teams Outlook-in (แชร์Teamsแชร์ ประชุมทันที Teamsใหม่ เข้าร่วมTeamsใหม่)
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -14,22 +14,23 @@ ms.custom:
 - "3536"
 - "9002573"
 - "4990"
-ms.openlocfilehash: 815a0dbfa770b811321329ee48fc27113f08c8e2
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 2ce65a5a5d425d41a127541ee738b6e947a41b05
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51835038"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52542768"
 ---
-# <a name="teams-outlook-add-in"></a>Add-in ของ Outlook ของ Teams
+# <a name="teams-outlook-add-in-share-to-teams--meet-now-new-teams-meeting-join-teams-meeting"></a>Teams Outlook-in (แชร์Teamsประชุมทันทีประชุมใหม่Teamsใหม่ เข้าร่วมTeamsใหม่)
 
-## <a name="to-troubleshoot-a-missing-teams-outlook-add-in"></a>เมื่อต้องการแก้ไขปัญหา Add-in ของ Teams Outlook ที่หายไป
+## <a name="to-troubleshoot-a-missing-teams-outlook-add-in"></a>เมื่อต้องการแก้ไขปัญหาเกี่ยวกับTeams Outlook Add-in ที่หายไป
 
-1. เรียกใช้การวินิจฉัยบริการในพอร์ทัลผู้ดูแลระบบ 
-2. ถ้าการวินิจฉัยบริการไม่ระบุปัญหา วินิจฉัยและแก้ไขปัญหาใดๆ ของลูกค้าบนเครื่องของผู้ใช้ที่ได้รับผลกระทบ โดยการดาวน์โหลดและเรียกใช้ Microsoft Support และ [Recovery Assistant](https://aka.ms/SaRA-TeamsAddInScenario)  >  **ของ Outlook Add-in Scenario**
+1. เรียกใช้การวินิจฉัย "Add-in ของทีมหายไปOutlook" ซึ่งตรวจสอบว่าผู้ใช้มีนโยบายที่ถูกต้องเพื่อTeams Outlook Add-in ใหม่ เมื่อต้องการเข้าถึงการวินิจฉัย ให้พิมพ์ **Diag: Teams Add-in ที่Outlook** ในกล่องค้นหา
 
-เมื่อต้องการแก้ไขปัญหา Add-in ของ Teams Outlook ที่หายไปด้วยตนเอง ให้ตรวจดูรายการปัจจัยที่อาจเกิดขึ้นที่อาจทําให้ Add-in ของ Teams ของคุณไม่แสดงในรายการ ดูข้อมูลเพิ่มเติมได้ที่ [Add-in การประชุม Teams ใน Outlook for Windows ไม่](https://docs.microsoft.com/microsoftteams/teams-add-in-for-outlook#teams-meeting-add-in-in-outlook-for-windows-does-not-show)แสดง
+1. ถ้าการวินิจฉัยบริการไม่ระบุปัญหา วินิจฉัย และแก้ไขปัญหาไคลเอ็นต์ใดๆ บนเครื่องของผู้ใช้ที่ได้รับผลกระทบ โดยการดาวน์โหลดและเรียกใช้ [สถานการณ์](https://aka.ms/SaRA-TeamsAddInScenario)  >  **Add-in** ของ Microsoft ตัวช่วยการสนับสนุนและการกู้คืน Teams Outlook
 
-## <a name="to-troubleshoot-scheduling-a-teams-meeting-on-behalf-of-someone-else-delegate"></a>เมื่อต้องการแก้ไขปัญหาการจัดตารางการประชุม Teams ในนามของบุคคลอื่น (ผู้รับมอบสิทธิ์)
+เมื่อต้องการแก้ไขปัญหา Add-in Teams Outlookที่หายไปด้วยตนเอง ให้ตรวจทานรายการของปัจจัยที่อาจเกิดขึ้นซึ่งอาจTeams Add-in ของคุณไม่ปรากฏขึ้นในรายการ For more info, see [Teams Meeting add-in in Outlook for Windows not show](/microsoftteams/teams-add-in-for-outlook#teams-meeting-add-in-in-outlook-for-windows-does-not-show).
 
-เมื่อต้องการจัดเวลาการประชุม Teams ในนามของบุคคลอื่น ให้ดู แก้ไขปัญหาการโต้ตอบ[ระหว่าง Microsoft Teams และ Exchange Server](https://docs.microsoft.com/microsoftteams/troubleshoot/known-issues/teams-exchange-interaction-issue)
+## <a name="to-troubleshoot-scheduling-a-teams-meeting-on-behalf-of-someone-else-delegate"></a>เมื่อต้องการแก้ไขปัญหาการจัดTeamsการประชุมในนามของบุคคลอื่น (ผู้รับมอบสิทธิ์)
+
+เมื่อต้องการจัดTeamsการประชุมของคุณในนามของบุคคลอื่น ให้ดู แก้ไขปัญหาMicrosoft Teams[และExchange Serverปัญหาเกี่ยวกับการโต้ตอบ](/microsoftteams/troubleshoot/known-issues/teams-exchange-interaction-issue)

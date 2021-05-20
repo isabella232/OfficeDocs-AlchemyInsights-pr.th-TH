@@ -1,5 +1,5 @@
 ---
-title: แมปไลบรารี SharePoint ไปยังไดรฟ์เครือข่าย
+title: แมปSharePointไปยังไดรฟ์เครือข่าย
 ms.author: pebaum
 author: pebaum
 manager: pamgreen
@@ -11,23 +11,21 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 4b8245c3-a179-4524-ae83-0c22d539c202
-ms.openlocfilehash: 9115a3ab8d1234127a95628a9a49679ef06f6d39
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 6b7cb38362baa26bd39fe7478ef6dd1971b5b063
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47806202"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52542840"
 ---
-# <a name="map-a-sharepoint-library-to-a-network-drive"></a>แมปไลบรารี SharePoint ไปยังไดรฟ์เครือข่าย
+# <a name="map-a-sharepoint-library-to-a-network-drive"></a>แมปSharePointไปยังไดรฟ์เครือข่าย
 
-การแมปไลบรารีเป็นไดรฟ์เครือข่ายจะเป็นการชั่วคราวและได้รับการสนับสนุนผ่านทาง Internet Explorer เท่านั้น ในบางครั้งคุณต้องเปิดไซต์ SharePoint ใน Internet Explorer และเลือกไม่รับการ **ลงชื่อ** เข้าใช้เพื่อป้องกันไม่ให้เซสชันหมดอายุ แทนที่[ซิงค์ไฟล์ SharePoint ด้วยไคลเอ็นต์การซิงค์ OneDrive ใหม่](https://support.office.com/article/sync-sharepoint-files-with-the-new-onedrive-sync-client-6de9ede8-5b6e-4503-80b2-6190f3354a88) </a> ที่มี[ไฟล์ตามความต้อง](https://support.office.com/article/learn-about-onedrive-files-on-demand-0e6860d3-d9f3-4971-b321-7092438fb38e)การ เข้าถึงไฟล์ทั้งหมดของคุณใน OneDrive ได้โดยไม่ต้องใช้พื้นที่เก็บข้อมูลภายในเครื่อง
+แทนที่จะแมปไดรฟ์เครือข่าย SharePointไฟล์ด้วยไคลเอ็นต์OneDriveการซิงค์ใหม่ ซึ่งมีการเข้าถึงไฟล์ได้ตามต้องการ เข้าถึงไฟล์ของคุณทั้งหมดใน OneDriveโดยไม่ต้องใช้พื้นที่เก็บข้อมูลภายในเครื่อง For more information, see [Sync SharePoint Teams files with your computer](https://support.microsoft.com/office/sync-sharepoint-and-teams-files-with-your-computer-6de9ede8-5b6e-4503-80b2-6190f3354a88) and Save disk space with OneDrive Files [On-Demand for Windows 10](https://support.microsoft.com/office/save-disk-space-with-onedrive-files-on-demand-for-windows-10-0e6860d3-d9f3-4971-b321-7092438fb38e).
 
-ถ้าคุณเลือกที่จะแมปไดรฟ์แทนที่จะ [ใช้ไคลเอ็นต์การซิงค์ OneDrive ใหม่](https://support.office.com/article/sync-sharepoint-files-with-the-new-onedrive-sync-client-6de9ede8-5b6e-4503-80b2-6190f3354a88)ให้ตรวจสอบให้แน่ใจว่าคุณทำตามขั้นตอนในบทความด้านล่างนี้ 
+ถ้าคุณเลือกแมปไดรฟ์แทนที่จะใช้ไคลเอ็นต์การซิงค์ OneDrive[ใหม่](https://support.microsoft.com/office/sync-sharepoint-and-teams-files-with-your-computer-6de9ede8-5b6e-4503-80b2-6190f3354a88)ตรวจสอบให้แน่ใจว่าคุณได้ปฏิบัติตามขั้นตอนเหล่านี้:
 
+- [แก้ไขปัญหาเครือข่ายที่แมปไดรฟ์ที่เชื่อมต่อกับ SharePoint Online](/sharepoint/support/administration/troubleshoot-mapped-network-drives)
 
-**วิธีการกำหนดค่าและการแก้ไขปัญหาไดรฟ์เครือข่ายที่แมป**
+- [ข้อผิดพลาดการรับรองความถูกต้องจะเกิดขึ้นเมื่อไคลเอ็นต์ไม่มีการสนับสนุน TLS 1.2](/sharepoint/troubleshoot/administration/authentication-errors-tls12-support#network-drive-mapped-to-a-sharepoint-library)  
 
-
-[ให้ดูที่การแก้ไขปัญหาไดรฟ์เครือข่ายที่แมปที่เชื่อมต่อกับ SharePoint Onlines](https://docs.microsoft.com/sharepoint/support/administration/troubleshoot-mapped-network-drives)
-
-หมายเหตุ: ถ้าคุณใช้ Internet Explorer 10 กับ Windows 8 หรือ Windows 7 และได้รับการ **ปฏิเสธการเข้าถึงที่ถูกปฏิเสธ** หรือ **เส้นทางไม่สามารถเข้าถึง** ได้เมื่อแมปไดรฟ์ให้ติดตั้ง [โปรแกรมแก้ไขด่วนนี้](https://support.microsoft.com/help/2846960) เพื่อแก้ไขปัญหานี้ 
+**หมายเหตุ:** ถ้าคุณใช้ Internet Explorer 10กับ Windows 8 หรือ Windows 7 และได้รับ **การเข้าถึง** ถูกปฏิเสธหรือเส้นทางไม่สามารถเข้าถึงได้เมื่อแมปไดรฟ์ ให้แก้ไขปัญหานี้โดยการติดตั้งการแก้ไข [ด่วนนี้](https://support.microsoft.com/topic/error-when-you-open-a-sharepoint-document-library-in-windows-explorer-or-map-a-network-drive-to-the-library-after-you-install-internet-explorer-10-96e640ba-059f-9b09-bb91-2a0319ee8b1d)

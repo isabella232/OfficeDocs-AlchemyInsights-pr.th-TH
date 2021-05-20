@@ -1,5 +1,5 @@
 ---
-title: ATP สำหรับ SharePoint, OneDrive และทีม Microsoft
+title: Microsoft Defender Office 365 for SharePoint, OneDrive และ Microsoft Teams
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -11,25 +11,25 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 1037
 ms.assetid: ''
-ms.openlocfilehash: 3d02ded959114675847831690b4d4a3ebcf0e137
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 7d2ed7bc4c7d99cd01dadc12e38762903d6d8ab3
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47715580"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52543596"
 ---
-# <a name="atp-for-sharepoint-onedrive-and-microsoft-teams"></a>ATP สำหรับ SharePoint, OneDrive และทีม Microsoft
+# <a name="microsoft-defender-for-office-365-for-sharepoint-onedrive-and-microsoft-teams"></a>Microsoft Defender Office 365 for SharePoint, OneDrive และ Microsoft Teams
 
-ทำตามขั้นตอนต่อไปนี้เพื่อเปิดใช้งานการป้องกันภัยคุกคามขั้นสูง:
+ให้ปฏิบัติตามขั้นตอนเหล่านี้เพื่อเปิดใช้งาน Microsoft Defender Office 365:
 
-1. ไปที่ [https://protection.office.com](https://protection.office.com) แล้วลงชื่อเข้าใช้ด้วยบัญชีผู้ดูแลระบบส่วนกลางหรือบัญชีผู้ดูแลระบบความปลอดภัย
+1. ไปที่ [https://protection.office.com](https://protection.office.com) และลงชื่อเข้าใช้ด้วยบัญชีผู้ดูแลระบบส่วนกลางหรือผู้ดูแลระบบความปลอดภัย
 
-2. ในบานหน้าต่างนำทางด้านซ้ายภายใต้**การจัดการภัยคุกคาม**ให้เลือก**นโยบาย** \> **ที่แนบมาที่ปลอดภัย**
+2. ในบานหน้าต่างนําทางด้านซ้าย ภายใต้ **การจัดการภัยคุกคาม** ให้เลือก \> **นโยบายสิ่งที่แนบมา** ที่ปลอดภัย
 
-3. เลือก**เปิดใช้งาน ATP สำหรับ SharePoint, OneDrive และ Microsoft ทีม**
+3. เลือก **เปิด Defender Office 365 for SharePoint OneDrive, Microsoft Teams**
 
-4. [สร้างนโยบายการแจ้งเตือนกิจกรรม](https://docs.microsoft.com/microsoft-365/compliance/create-activity-alerts) เพื่อรับการแจ้งเตือนเมื่อเราตรวจหาไฟล์ที่เป็นอันตราย
+4. [สร้างนโยบายการแจ้งเตือนกิจกรรม](/microsoft-365/compliance/create-activity-alerts) เพื่อรับการแจ้งเตือนเมื่อเราตรวจพบไฟล์ที่เป็นอันตราย
 
-สำหรับคำแนะนำให้เสร็จสมบูรณ์ให้ดู [หัวข้อ](https://docs.microsoft.com/microsoft-365/security/office-365-security/turn-on-atp-for-spo-odb-and-teams)นี้
+ดูคําแนะ[นําทั้งหมดได้ ให้ดู เปิดสิ่งที่แนบมาที่ปลอดภัยSharePoint OneDrive Microsoft Teams](/microsoft-365/security/office-365-security/turn-on-atp-for-spo-odb-and-teams)
 
-**หมายเหตุ**: โดยการออกแบบ ATP จะไม่สแกนทุกไฟล์เดี่ยวใน SharePoint Online, OneDrive for Business หรือทีม Microsoft ไฟล์จะถูกสแกนแบบอะซิงโครนัสโดยกระบวนการที่ใช้การแชร์กิจกรรมกิจกรรมของผู้เยี่ยมชมและการคุกคามสัญญาณเพื่อระบุไฟล์ที่เป็นอันตราย สำหรับข้อมูลเพิ่มเติมให้ดู [หัวข้อ](https://docs.microsoft.com/microsoft-365/security/office-365-security/atp-for-spo-odb-and-teams)นี้
+**หมายเหตุ**: ตามการออกแบบ Microsoft Defender for Office 365จะไม่สแกนทุกไฟล์ใน SharePoint Online, OneDrive for Business หรือ Microsoft Teams ไฟล์จะถูกสแกนแบบอะซิงโครนัสโดยกระบวนการที่ใช้กิจกรรมการแชร์ กิจกรรมของแขก และสัญญาณภัยคุกคามเพื่อระบุไฟล์ที่เป็นอันตราย ดูข้อมูลเพิ่มเติมที่[สิ่งที่แนบมาที่ปลอดภัยSharePoint OneDrive Microsoft Teams](/microsoft-365/security/office-365-security/atp-for-spo-odb-and-teams)

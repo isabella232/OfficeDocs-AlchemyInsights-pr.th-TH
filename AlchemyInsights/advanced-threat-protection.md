@@ -1,5 +1,5 @@
 ---
-title: Microsoft Defender สำหรับ Office ๓๖๕
+title: Microsoft Defender for Office 365
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -11,23 +11,23 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 1036
 ms.assetid: ''
-ms.openlocfilehash: a07c56c0977811e286d61f2e7c3336275c3501a2
-ms.sourcegitcommit: 4caf5e6c2fee2903ccaf92cfc9006eb580faa7ba
+ms.openlocfilehash: c4d462c14623282a7a94a0009275c4f36c70d33b
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 10/29/2020
-ms.locfileid: "48801246"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52542912"
 ---
-# <a name="microsoft-defender-for-office-365"></a>Microsoft Defender สำหรับ Office ๓๖๕
+# <a name="microsoft-defender-for-office-365"></a>Microsoft Defender for Office 365
 
-- สิ่งที่แนบมาที่ปลอดภัยลิงก์ที่ปลอดภัยและการป้องกันฟิชชิ่งเป็นส่วนหนึ่งของ Microsoft Defender สำหรับ Office ๓๖๕ (ATP) Enterprise E5, การศึกษา A5 และ Microsoft ๓๖๕ Business Premium รวมเอทีพี แผนอื่นๆทั้งหมดจำเป็นต้องใช้การสมัครใช้งาน add-on ของ ATP
+- สิ่งที่แนบมาที่ปลอดภัย ลิงก์ที่ปลอดภัย และการป้องกันการฟิชชิ่งเป็นส่วนหนึ่งของ Microsoft Defender Office 365ที่ปลอดภัย Enterprise E5, Education A5 และ Microsoft 365 Business Premiumมี Microsoft Defender Office 365 แผนอื่นๆ ทั้งหมดต้องการ Add-on Microsoft Defender Office 365การสมัครใช้งานของคุณ
 
-- คุณจำเป็นต้องกำหนดสิทธิ์การใช้งานที่เหมาะสมเพื่อปกป้องผู้ใช้ของคุณโดย Office ๓๖๕ ATP ให้ดู [หัวข้อนี้](https://docs.microsoft.com/microsoft-365/admin/add-users/add-users) สำหรับคำแนะนำเกี่ยวกับวิธีการนำสิทธิ์การใช้งานจำนวนมากไปใช้กับผู้ใช้ของคุณ
+- คุณต้องกําหนดสิทธิการใช้งานที่เหมาะสมเพื่อปกป้องผู้ใช้ของคุณโดย Microsoft Defender Office 365ของคุณ ให้ดูที่ [เพิ่มผู้ใช้และมอบหมายสิทธิ์การใช้งานพร้อมกัน เพื่อดู](/microsoft-365/admin/add-users/add-users) คําแนะนําเกี่ยวกับวิธีการนําสิทธิ์การใช้งานแบบกลุ่มไปใช้กับผู้ใช้ของคุณ
 
-- ผู้ดูแลระบบส่วนกลางหรือผู้ดูแลระบบความปลอดภัยสามารถเข้าถึงฟีเจอร์ของ Office ๓๖๕ ATP ในศูนย์ **Threat Managmeent** การปฏิบัติตามนโยบาย & ด้านความปลอดภัยที่ \> **นโยบาย** Managmeent ของภัยคุกคาม
+- ผู้ดูแลระบบส่วนกลางหรือผู้ดูแลระบบความปลอดภัยสามารถเข้าถึงคุณลักษณะของ Microsoft Defender for Office 365 ในศูนย์การปฏิบัติตาม&ที่ นโยบายภัยคุกคาม **Managmeent** \> 
 
-- สิ่งที่แนบมาที่ปลอดภัยและนโยบายการเชื่อมโยงที่ปลอดภัยสามารถลักษณะคุณทั้งองค์กรโดเมนที่เฉพาะเจาะจงหรือกลุ่มผู้ใช้ที่มีขนาดเล็กลง
+- นโยบายสิ่งที่แนบมาที่ปลอดภัยและลิงก์ที่ปลอดภัยสามารถจัดขอบเขตไว้เป็นทั้งองค์กรของคุณ โดเมนเฉพาะ หรือกลุ่มผู้ใช้ที่มีขนาดเล็กกว่าได้
 
-- ไม่มีนโยบายสิ่งที่แนบมา ATP Safe ที่เป็นค่าเริ่มต้น คุณจำเป็นต้อง [สร้างนโยบาย](https://docs.microsoft.com/microsoft-365/security/office-365-security/set-up-atp-safe-attachments-policies) และนำไปใช้กับผู้ใช้ของคุณ
+- ไม่มีนโยบาย Safe Attachment เริ่มต้น คุณต้อง [สร้างนโยบาย](/microsoft-365/security/office-365-security/set-up-atp-safe-attachments-policies) และปรับใช้กับผู้ใช้ของคุณ
 
-- นโยบายการเชื่อมโยงที่มีความปลอดภัย ATP เริ่มต้นที่นำไปใช้กับทุกคนในองค์กรของคุณ เมื่อต้องการแก้ไขนโยบายนี้หรือเมื่อต้องการสร้างนโยบายแบบกำหนดเองให้ดู[หัวข้อนี้](https://docs.microsoft.com/microsoft-365/security/office-365-security/set-up-atp-safe-links-policies)
+- นโยบายลิงก์ที่ปลอดภัยเริ่มต้นที่ใช้ได้กับทุกคนในองค์กรของคุณ เมื่อต้องการแก้ไขนโยบายนี้หรือสร้างนโยบายแบบปรับแต่งเอง[ให้ดู ตั้งค่านโยบายลิงก์ที่ปลอดภัยใน Microsoft Defender Office 365](/microsoft-365/security/office-365-security/set-up-atp-safe-links-policies)

@@ -1,5 +1,5 @@
 ---
-title: การ detections แบบกำหนดเองของการล่าสัตว์ขั้นสูง๙๐๐๑๒๒๐
+title: 9001220การตรวจจับการตรวจหาการตรวจหาแบบของคุณเองขั้นสูง
 ms.author: dolmont
 author: DulceMontemayor
 manager: dansimp
@@ -14,22 +14,22 @@ ms.custom:
 - "3200"
 - "9001220"
 ms.assetid: ''
-ms.openlocfilehash: 40351bd7852b69e0ff2ae6f630749ecbc1e0f13b
-ms.sourcegitcommit: 4caf5e6c2fee2903ccaf92cfc9006eb580faa7ba
+ms.openlocfilehash: ea478cfbbbe96065608990770e0453d8f2613981
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 10/29/2020
-ms.locfileid: "48801537"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52543020"
 ---
-# <a name="advanced-hunting-custom-detections"></a>การ detections แบบกำหนดเองของการล่าสัตว์ขั้นสูง
+# <a name="advanced-hunting-custom-detections"></a>การตรวจหาการล่าล่าที่แบบปรับแต่งเองขั้นสูง
 
-คุณสามารถเรียนรู้วิธีการสร้างและจัดการกฎ detections แบบกำหนดเองได้โดยยึดตามคิวรีล่าสัตว์ขั้นสูง ด้วย detections แบบกำหนดเองคุณสามารถตรวจสอบและตอบสนองต่อเหตุการณ์ต่างๆและสถานะของระบบรวมถึงกิจกรรมการละเมิดที่น่าสงสัยและอุปกรณ์ misconfigured คุณสามารถทำได้ด้วยกฎการตรวจหาที่กำหนดเองที่ทริกเกอร์การแจ้งเตือนและการตอบกลับโดยอัตโนมัติ
+You can learn how to create and manage custom detections rules based on advanced queries ด้วยการตรวจหาแบบปรับแต่งเอง คุณสามารถตรวจสอบและตอบสนองต่อเหตุการณ์และสถานะระบบต่างๆ รวมถึงกิจกรรมการรั่วไหลที่น่าสงสัยและอุปกรณ์ที่ที่ไม่ถูกต้องได้ คุณสามารถเรียกใช้กฎการตรวจหาแบบปรับแต่งได้ซึ่งทริกเกอร์การแจ้งเตือนและการตอบสนองต่อการแอคชันโดยอัตโนมัติ
   
-ถ้าคุณกำลังใช้ Microsoft Defender ATP ให้ดูที่หัวข้อต่อไปนี้สำหรับรายละเอียด: 
-- [ภาพรวมของ detections แบบกำหนดเอง](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/overview-custom-detections)
-- [การสร้างกฎการตรวจหาแบบกำหนดเอง](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/custom-detection-rules)
-- [ดูและจัดการกฎการตรวจหาแบบกำหนดเอง](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/custom-detections-manage)
+ถ้าคุณMicrosoft Defender ATPหัวข้อต่อไปนี้เพื่อดูรายละเอียด: 
+- [ภาพรวมการตรวจหาแบบปรับแต่งเอง](/windows/security/threat-protection/microsoft-defender-atp/overview-custom-detections)
+- [สร้างกฎการตรวจหาแบบเอง](/windows/security/threat-protection/microsoft-defender-atp/custom-detection-rules)
+- [ดูและจัดการกฎการตรวจหาแบบเอง](/windows/security/threat-protection/microsoft-defender-atp/custom-detections-manage)
 
-ถ้าคุณกำลังใช้ Microsoft ๓๖๕ Defender ให้ดูที่หัวข้อต่อไปนี้สำหรับรายละเอียด: 
-- [ภาพรวมของ detections แบบกำหนดเอง](https://docs.microsoft.com/microsoft-365/security/mtp/custom-detections-overview)
-- [การสร้างและจัดการกฎ detections แบบกำหนดเอง](https://docs.microsoft.com/microsoft-365/security/mtp/custom-detection-rules)
+หากคุณใช้งาน Microsoft 365 Defender ให้ดูหัวข้อต่อไปนี้เพื่อดูรายละเอียด: 
+- [ภาพรวมการตรวจหาแบบปรับแต่งเอง](/microsoft-365/security/mtp/custom-detections-overview)
+- [สร้างและจัดการกฎการตรวจหาแบบเอง](/microsoft-365/security/mtp/custom-detection-rules)

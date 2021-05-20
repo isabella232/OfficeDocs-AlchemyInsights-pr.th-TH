@@ -1,5 +1,5 @@
 ---
-title: การป้องกันการคุกคามขั้นสูงใน SharePoint และ OneDrive
+title: Advanced Threat Protection in SharePoint and OneDrive
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
@@ -13,23 +13,23 @@ ms.custom:
 - "9000650"
 - "2489"
 ms.assetid: ''
-ms.openlocfilehash: 2cf3455fb545ce2b89d9f4278bf9474db0b07ce8
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: cc7ea11f9cd12f3459c5da4b0fd6fe124d133293
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47663352"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52542948"
 ---
-# <a name="advanced-threat-protection-atp-in-sharepoint-and-onedrive"></a>การป้องกันภัยคุกคามขั้นสูง (ATP) ใน SharePoint และ OneDrive
+# <a name="microsoft-defender-for-office-365-in-sharepoint-and-onedrive"></a>Microsoft Defender for Office 365 ใน SharePoint OneDrive
 
-ดูสิ่งต่อไปนี้:
-- [ATP สำหรับ SharePoint, OneDrive และทีม](https://docs.microsoft.com/microsoft-365/security/office-365-security/atp-for-spo-odb-and-teams)
-- [การคุกคาม Explorer และ Realtime detections](https://docs.microsoft.com/microsoft-365/security/office-365-security/threat-explorer-views)
+ดูรายการต่อไปนี้:
+- [Microsoft Defender Office 365 for SharePoint, OneDrive และ Teams](/microsoft-365/security/office-365-security/atp-for-spo-odb-and-teams)
+- [Threat Explorer และการตรวจหาแบบเรียลไทม์](/microsoft-365/security/office-365-security/threat-explorer-views)
 
 
 ข้อมูลเพิ่มเติม:
 
-- [การตรวจหาไวรัสใน SPO](https://docs.microsoft.com/microsoft-365/security/office-365-security/virus-detection-in-spo)</br>
-- [การเข้ารหัสลับข้อมูลใน ODB และ SPO](https://docs.microsoft.com/microsoft-365/compliance/data-encryption-in-odb-and-spo)</br>
-- [การปกป้องข้อมูลของคุณใน SharePoint](https://docs.microsoft.com/sharepoint/safeguarding-your-data)</br>
-- [การตรวจหา Ransomware และการกู้คืนไฟล์](https://support.office.com/article/Ransomware-detection-and-recovering-your-files-0d90ec50-6bfd-40f4-acc7-b8c12c73637f)
+- [การตรวจหาไวรัสใน SPO](/microsoft-365/security/office-365-security/virus-detection-in-spo)</br>
+- [การเข้ารหัสลับข้อมูลใน ODB และ SPO](/microsoft-365/compliance/data-encryption-in-odb-and-spo)</br>
+- [การป้องกันข้อมูลของคุณในSharePoint](/sharepoint/safeguarding-your-data)</br>
+- [การตรวจหาแรนซัมแวร์และการกู้คืนไฟล์](https://support.office.com/article/Ransomware-detection-and-recovering-your-files-0d90ec50-6bfd-40f4-acc7-b8c12c73637f)
