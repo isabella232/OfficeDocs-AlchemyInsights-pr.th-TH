@@ -1,5 +1,5 @@
 ---
-title: ไม่พบการบันทึกการประชุม Teams
+title: ไม่พบการบันทึกTeamsการประชุม
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,21 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002530"
 - "7963"
-ms.openlocfilehash: 62548fd9a09cf1835671dd051b1523027138ff47
-ms.sourcegitcommit: 6110a081c19ae804ddbdea2cc1df7ecd23aacabc
+ms.openlocfilehash: 24ebe3d619ce4d0043736ccbb63f7ca8d71ded74
+ms.sourcegitcommit: 610a5d950cdf488870601762ef52d881e3e22a48
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 02/16/2021
-ms.locfileid: "50294377"
+ms.lasthandoff: 05/28/2021
+ms.locfileid: "52696955"
 ---
-# <a name="cant-find-the-teams-meeting-recording"></a>ไม่พบการบันทึกการประชุม Teams
+# <a name="cant-find-the-teams-meeting-recording"></a>ไม่พบการบันทึกTeamsการประชุม
 
-ถ้าคุณไม่พบหรือไม่พบการบันทึกการประชุม Teams ให้ดูคู่มือการแก้ไขปัญหาต่อไปนี้:
+ถ้าคุณไม่พบหรือค้นหาการบันทึกการประชุมTeams ให้เรียกใช้การวินิจฉัยการบันทึกการประชุมที่หายไปโดยการพิมพ์ **Diag: การบันทึก** ที่หายไป ในกล่องด้านบน 
 
-[แก้ไขปัญหาการบันทึกการประชุม Teams - Microsoft Teams | เอกสาร Microsoft](https://docs.microsoft.com/microsoftteams/troubleshoot/meetings/troubleshoot-meeting-recording-issues)
+การบันทึกจะพบใน Stream, OneDrive หรือ SharePoint ขึ้นอยู่กับวิธีการกําหนดค่าผู้เช่าของคุณ และการบันทึกมีไว้เพื่อการประชุมแชนเนลหรือไม่ ดูคําแนะนําเกี่ยวกับวิธีการค้นหาการบันทึกการประชุมด้วยตนเองที่: 
 
-การบันทึกการประชุมของคุณจะอยู่ใน Stream, OneDrive หรือ SharePoint ขึ้นอยู่กับวิธีการกําหนดค่าผู้เช่าของคุณ
+[ปัญหาที่ 2: ลิงก์การบันทึกการประชุมไม่สามารถมองเห็นได้ในหน้าต่างการสนทนา](/microsoftteams/troubleshoot/meetings/troubleshoot-meeting-recording-issues#issue-2-the-meeting-recording-link-isnt-visible-in-a-chat-window)
 
-ดูคําแนะนําเกี่ยวกับวิธีการค้นหาการบันทึกการประชุมที่:
-
-**[ปัญหาที่ 2: ลิงก์การบันทึกการประชุมไม่ปรากฏในหน้าต่างการสนทนา](https://docs.microsoft.com/microsoftteams/troubleshoot/meetings/troubleshoot-meeting-recording-issues#issue-2-the-meeting-recording-link-isnt-visible-in-a-chat-window)**
+ดูข้อมูลเพิ่มเติม [ที่ ปัญหาเกี่ยวกับการบันทึก](/microsoftteams/troubleshoot/meetings/troubleshoot-meeting-recording-issues)การประชุม
