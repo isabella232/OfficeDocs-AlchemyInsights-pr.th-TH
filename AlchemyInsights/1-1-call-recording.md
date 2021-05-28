@@ -13,26 +13,25 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002530"
 - "7648"
-ms.openlocfilehash: af09e8805409446a42a62c82aa577ad27f09a17a
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 18c68fee514681b2a81c3cfa022c29ce83834f22
+ms.sourcegitcommit: 610a5d950cdf488870601762ef52d881e3e22a48
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50733868"
+ms.lasthandoff: 05/28/2021
+ms.locfileid: "52696977"
 ---
-# <a name="11-call-recording"></a><span data-ttu-id="27bf5-102">การบันทึกการโทรแบบ 1:1</span><span class="sxs-lookup"><span data-stu-id="27bf5-102">1:1 call recording</span></span>
+# <a name="11-call-recording"></a><span data-ttu-id="1bd57-102">การบันทึกการโทรแบบ 1:1</span><span class="sxs-lookup"><span data-stu-id="1bd57-102">1:1 call recording</span></span>
 
-<span data-ttu-id="27bf5-103">ผู้ดูแลระบบต้องจัดการทันทีเพื่ออนุญาตให้ผู้ใช้บันทึกการโทรแบบ 1:1 ได้ต่อไป</span><span class="sxs-lookup"><span data-stu-id="27bf5-103">Administrators need to take action now to continue allowing users to Record 1:1 calls.</span></span>
- 
-<span data-ttu-id="27bf5-104">ตั้งแต่วันที่ 12 เมษายน 2021 เราจะเริ่มบังคับใช้ตัวเลือกนโยบายการโทรของ Teams ใหม่ *AllowCloudRecordingForCalls*</span><span class="sxs-lookup"><span data-stu-id="27bf5-104">Beginning April 12, 2021, we will start enforcing a new Teams Calling Policy option *AllowCloudRecordingForCalls*.</span></span> 
+<span data-ttu-id="1bd57-103">ถ้า **ปุ่ม เริ่ม** การบันทึก เป็นสีเทาในการโทรแบบ 1:1 คุณจะต้องเปลี่ยนการตั้งค่านโยบายของผู้ใช้ที่ได้รับผลกระทบ</span><span class="sxs-lookup"><span data-stu-id="1bd57-103">If the **Start Recording** button is grayed out in a 1:1 call, you need to change the policy settings for the impacted user.</span></span>   
 
-<span data-ttu-id="27bf5-105">ขณะนี้ความสามารถในการบันทึกการโทรแบบ 1:1 จะถูกควบคุมโดยตัวเลือก *AllowCloudRecording* ในนโยบายการประชุม Teams</span><span class="sxs-lookup"><span data-stu-id="27bf5-105">Currently 1:1 call recording capabilities are controlled by the *AllowCloudRecording* option in Teams Meeting Policies.</span></span> <span data-ttu-id="27bf5-106">ถ้าผู้ใช้ของคุณได้รับอนุญาตให้บันทึกการประชุม Teams พวกเขาจะสามารถบันทึกการโทรแบบ 1:1 ได้</span><span class="sxs-lookup"><span data-stu-id="27bf5-106">If your users are allowed to record Teams Meetings they can also record 1:1 calls.</span></span>
+<span data-ttu-id="1bd57-104">ตั้งแต่วันที่ 31 พฤษภาคม 2021 เราจะเริ่มบังคับใช้นโยบายการโทรTeams *AllowCloudRecordingForCalls* ใหม่</span><span class="sxs-lookup"><span data-stu-id="1bd57-104">Beginning May 31, 2021, we'll start enforcing a new Teams Calling Policy *AllowCloudRecordingForCalls*.</span></span> <span data-ttu-id="1bd57-105">ก่อนการเปลี่ยนแปลงนี้ การบันทึกการโทรแบบ 1:1 จะถูกควบคุมโดย *AllowCloudRecording Teams* นโยบายการประชุม</span><span class="sxs-lookup"><span data-stu-id="1bd57-105">Prior to this change, 1:1 call recording is controlled by the *AllowCloudRecording* Teams Meeting Policy.</span></span> <span data-ttu-id="1bd57-106">การเปลี่ยนแปลงนี้อยู่ในโพสต์ของศูนย์ข้อความ: [(อัปเดตแล้ว) 1:1 บทนํานโยบายการบันทึก](https://portal.microsoft.com/Adminportal/Home?ref=MessageCenter/:/messages/MC238796)การโทร</span><span class="sxs-lookup"><span data-stu-id="1bd57-106">This change is documented in the Message Center post: [(Updated) 1:1 Call recording policy introduction](https://portal.microsoft.com/Adminportal/Home?ref=MessageCenter/:/messages/MC238796).</span></span>  
 
-<span data-ttu-id="27bf5-107">ถ้าคุณต้องการบล็อกผู้ใช้ทั้งหมดจากการบันทึกการโทรแบบ 1:1 คุณไม่ต้องการที่จะหยุดการใดๆ</span><span class="sxs-lookup"><span data-stu-id="27bf5-107">If you prefer to block all users from recording 1:1 calls, you do not need to take any action.</span></span> <span data-ttu-id="27bf5-108">*AllowCloudRecordingForCalls* calling policy option will be $False by default.</span><span class="sxs-lookup"><span data-stu-id="27bf5-108">*AllowCloudRecordingForCalls* calling policy option will be $False by default.</span></span>
+<span data-ttu-id="1bd57-107">*AllowCloudRecordingForCalls*   ตัวเลือกนโยบายการโทรถูกตั้งค่า **$False** ตามค่าเริ่มต้น</span><span class="sxs-lookup"><span data-stu-id="1bd57-107">*AllowCloudRecordingForCalls* calling policy option is set to **$False** by default.</span></span> <span data-ttu-id="1bd57-108">ถ้าคุณต้องการบล็อกผู้ใช้ทั้งหมดไม่ให้บันทึกการโทรแบบ 1:1 คุณไม่ต้จะต้องการใดๆ</span><span class="sxs-lookup"><span data-stu-id="1bd57-108">If you prefer to block all users from recording 1:1 calls, you don't need to take any action.</span></span>  
 
-<span data-ttu-id="27bf5-109">การเปลี่ยนแปลงนี้อยู่ในโพสต์ของศูนย์ข้อความต่อไปนี้: (อัปเดต) บทนํานโยบายการบันทึกการโทรแบบ[1:1](https://portal.microsoft.com/Adminportal/Home?ref=MessageCenter/:/messages/MC238796)เมื่อต้องการตั้งค่าตัวเลือกนโยบายการโทรของ Teams คุณต้องใช้[Teams PowerShell](https://docs.microsoft.com/microsoftteams/teams-powershell-install)</span><span class="sxs-lookup"><span data-stu-id="27bf5-109">This change is documented in the following Message Center Post: [(Updated) 1:1 Call recording policy introduction](https://portal.microsoft.com/Adminportal/Home?ref=MessageCenter/:/messages/MC238796) To set the Teams Calling Policy Option you must use [Teams PowerShell](https://docs.microsoft.com/microsoftteams/teams-powershell-install).</span></span>
+<span data-ttu-id="1bd57-109">เมื่อต้องการเปิดใช้งานการบันทึกการโทรให้กับผู้ใช้ทั้งหมดในการโทรแบบ 1:1 Teams PowerShell เพื่อเรียกใช้ cmdlet ต่อไปนี้:</span><span class="sxs-lookup"><span data-stu-id="1bd57-109">To enable call recording for all users in 1:1 calls use Teams PowerShell to run the following cmdlet:</span></span> 
 
-<span data-ttu-id="27bf5-110">**เมื่อต้องการเปิดใช้งานการบันทึกการโทรในการโทรแบบ 1:1 ให้** Set-CsTeamsCallingPolicy -Identity Global -AllowCloudRecordingForCalls $True</span><span class="sxs-lookup"><span data-stu-id="27bf5-110">**To enable call recording in 1:1 calls:** Set-CsTeamsCallingPolicy -Identity Global -AllowCloudRecordingForCalls $True</span></span>
+<span data-ttu-id="1bd57-110">**Set-CsTeamsCallingPolicy -Identity Global -AllowCloudRecordingForCalls $True**</span><span class="sxs-lookup"><span data-stu-id="1bd57-110">**Set-CsTeamsCallingPolicy -Identity Global -AllowCloudRecordingForCalls $True**</span></span> 
 
-<span data-ttu-id="27bf5-111">**เมื่อต้องการปิดใช้งานการบันทึกการโทรในการโทรแบบ 1:1 ให้** Set-CsTeamsCallingPolicy -Identity Global -AllowCloudRecordingForCalls $False</span><span class="sxs-lookup"><span data-stu-id="27bf5-111">**To disable call recording in 1:1 calls:** Set-CsTeamsCallingPolicy -Identity Global -AllowCloudRecordingForCalls $False</span></span>
+<span data-ttu-id="1bd57-111">อีกวิธีหนึ่งคือ คุณสามารถสร้างนโยบายใหม่และตั้งค่า **-AllowCloudRecordingForCalls** **เพื่อ$true** และกําหนดนโยบายนั้นให้กับผู้ใช้ของคุณ</span><span class="sxs-lookup"><span data-stu-id="1bd57-111">Alternatively, you can create a new policy and set **-AllowCloudRecordingForCalls** to **$true** and assign that policy to your users.</span></span> 
 
+<span data-ttu-id="1bd57-112">ดูข้อมูลเพิ่มเติมที่[1:1 การควบคุมนโยบายการบันทึกการโทร (เกือบเสร็จแล้ว!) ที่นี่](https://techcommunity.microsoft.com/t5/microsoft-teams-support/1-1-call-recording-policy-controls-are-almost-here/ba-p/2217668)</span><span class="sxs-lookup"><span data-stu-id="1bd57-112">For more information, see [1:1 Call Recording Policy Controls Are (Almost!) Here](https://techcommunity.microsoft.com/t5/microsoft-teams-support/1-1-call-recording-policy-controls-are-almost-here/ba-p/2217668).</span></span>
