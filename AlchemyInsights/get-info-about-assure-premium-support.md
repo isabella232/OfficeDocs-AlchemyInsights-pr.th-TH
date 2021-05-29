@@ -1,5 +1,5 @@
 ---
-title: รับข้อมูลเกี่ยวกับการสนับสนุนซอฟต์แวร์ที่ได้รับความช่วยเหลือ Assure และ Premium
+title: รับข้อมูลเกี่ยวกับโปรแกรม Assure Premiumการสนับสนุนซอฟต์แวร์ที่ได้รับความช่วยเหลือ
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,22 +13,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "10136"
 - "9005723"
-ms.openlocfilehash: 5a796eb736c995eac9be390593096a4a6c006f7f
-ms.sourcegitcommit: e552d65aac79433a911723412bf1252d20d3f0da
+ms.openlocfilehash: 56a5b3a452a353044807792a86a76b7e6e33c1b0
+ms.sourcegitcommit: d2108b13acc44e26b65f9a2739cbce9bf98959a5
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 03/30/2021
-ms.locfileid: "51491895"
+ms.lasthandoff: 05/28/2021
+ms.locfileid: "52702073"
 ---
-# <a name="get-info-about-assure-and-premium-assisted-software-support"></a>รับข้อมูลเกี่ยวกับการสนับสนุนซอฟต์แวร์ที่ได้รับความช่วยเหลือ Assure และ Premium
+# <a name="get-info-about-premium-assisted-software-support"></a>รับข้อมูลเกี่ยวกับการสนับสนุนPremiumที่ได้รับความช่วยเหลือ
 
-Microsoft เสนอตัวเลือกแบบหนึ่ง-ต่อ-หนึ่งหลายตัวเลือกเพื่อรับการสนับสนุนที่ได้รับความช่วยเหลือเกี่ยวกับซอฟต์แวร์ Windows และ Office:
+Microsoft เสนอตัวเลือกแบบหนึ่ง-ต่อ-หนึ่งเพื่อการสนับสนุนที่ได้รับความช่วยเหลือWindowsและOfficeซอฟต์แวร์ต่อไปนี้:
 
-- **การสนับสนุนซอฟต์แวร์ Assure**: การสนับสนุนซอฟต์แวร์ของ Office และ Windows หนึ่งปี
-- **การสนับสนุนทางเทคนิคของ Windows Premium**: การสนับสนุนซอฟต์แวร์ Windows แบบใช้เวลาเดียว
-- **การสนับสนุนทางเทคนิคของ Office Premium**: การสนับสนุนซอฟต์แวร์ Office แบบใช้เวลาเดียว
+- **Windows Premiumฝ่ายเทคนิค:** การสนับสนุนซอฟต์แวร์Windowsแบบใช้เวลาเดียว
 
-For more info, see [assisted software support options: Assure and Premium](https://support.microsoft.com/help/4467230/assisted-software-support-options-assure-premium).
+- **Office Premiumสนับสนุนทางเทคนิค:** การสนับสนุนซอฟต์แวร์Officeแบบใช้ครั้งแรก
 
-ถ้าคุณซื้อการสมัครใช้งาน Assure แล้วและต้องการความช่วยเหลือ ให้พิมพ์ตัวแทนในกล่องการสนทนาด้านล่าง และบอกตัวแทนว่าคุณเป็นสมาชิก Assure
+**หมายเหตุ:** ถ้าคุณมีการสมัครใช้งาน Assure อยู่แล้ว โปรดทราบว่า Assure ไม่ได้เสนอเป็นตัวเลือกการสนับสนุนอีกต่อไป การสมัครใช้งานปัจจุบันของคุณยังคงใช้ได้ตามระยะเวลาที่คุณซื้อ แต่ไม่สามารถต่ออายุได้
 
