@@ -13,18 +13,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "11512"
 - "9006672"
-ms.openlocfilehash: c5b0721d286b07d7e0f84199885b6f527a2b42a2
-ms.sourcegitcommit: f7a9e97d04b7b6cbb633b32094d40f1874bf0fce
+ms.openlocfilehash: 0db6f434fa74970ac6083501ab26762cc6b7885f
+ms.sourcegitcommit: 1eee2412dfb8b1f10a3aa28dd1086a0c589cdba0
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 06/06/2021
-ms.locfileid: "52794144"
+ms.lasthandoff: 06/07/2021
+ms.locfileid: "52798663"
 ---
 # <a name="manage-webinar-registration"></a>จัดการการลงทะเบียนการสัมมนาผ่านเว็บ
 
 คุณสามารถจัดการผู้ที่สามารถลงทะเบียนเข้าร่วมTeamsสัมมนาผ่านเว็บโดยใช้Teamsสั่ง Powershell เมื่อต้องการTeams Powershell [Teams PowerShell](/microsoftteams/teams-powershell-install) 
 
-ตามค่าเริ่มต้น *WhoCanRegister* จะเปิดใช้งานและตั้งค่า **เป็น EveryoneInCompany** To allow anyone, including anonymous users, to register, you must set the Meeting Policy to **Everyone** by using the Powershell command:
+ตามค่าเริ่มต้น *WhoCanRegister* จะเปิดใช้งานและ **ตั้งค่าเป็น** ทุกคน 
+
+ถ้าคุณไม่เห็นตัวเลือกเพื่ออนุญาตการลงทะเบียนให้ทุกคนในคําเชิญเข้าร่วมประชุม ให้เรียกใช้การตั้งค่า *WhoCanRegister ใหม่* เป็น ทุกคน และรอ 24 ชั่วโมง เมื่อต้องการเรียกใช้ *WhoCanRegister ใหม่* ให้ใช้สั่ง Powershell:
 
 `Set-CsTeamsMeetingPolicy -WhoCanRegister Everyone`
 
