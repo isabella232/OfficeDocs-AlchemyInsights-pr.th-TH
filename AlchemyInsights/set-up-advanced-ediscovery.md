@@ -2,6 +2,7 @@
 title: ตั้งค่า eDiscovery ขั้นสูง
 ms.author: pebaum
 author: pebaum
+manager: scotv
 ms.audience: ITPro
 ms.topic: article
 ms.service: o365-administration
@@ -12,31 +13,33 @@ ms.collection: Adm_O365
 ms.custom:
 - "3200003"
 - "3835"
-ms.openlocfilehash: f3a74bf74fb0786227e3f6c9bd53af1c8bebe098
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 928eac7dc5455a96d8f49f60a368f098f8e322bb
+ms.sourcegitcommit: 29019d042be8283d24048f96f1a16ec865c74ca6
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47795551"
+ms.lasthandoff: 06/10/2021
+ms.locfileid: "52882708"
 ---
 # <a name="set-up-advanced-ediscovery"></a>ตั้งค่า eDiscovery ขั้นสูง
 
-ขั้นสูง eDiscovery ช่วยให้คุณวิเคราะห์ข้อมูลที่ไม่มีโครงสร้างของคุณเพื่อช่วยลดต้นทุน eDiscovery คุณสามารถใช้การวิเคราะห์ข้อความการเรียนรู้ของเครื่องและการเขียนโค้ดที่เกี่ยวข้อง/คาดเดาได้  ฟีเจอร์ eDiscovery ขั้นสูงจำเป็นต้องใช้อย่างใดอย่างหนึ่งต่อไปนี้:
+ด้วยAdvanced eDiscoveryคุณสามารถปรับใช้การวิเคราะห์ข้อความ การเรียนรู้ด้วยเครื่อง และการเขียนโค้ดความเกี่ยวข้อง/การคาดเดา ฟีเจอร์Advanced eDiscoveryต้องมีหนึ่งในรายการต่อไปนี้:
 
-- การสมัครใช้งาน Microsoft ๓๖๕ E5 หรือ Office ๓๖๕ E5
+- Microsoft 365 E5หรือOffice 365 E5
 
-- การสมัครใช้งาน Microsoft ๓๖๕ E3 พร้อม add-on การปฏิบัติตามนโยบาย E5
+- Microsoft 365 E3การสมัครใช้งานด้วย Add-on การปฏิบัติตามข้อบังคับ E5
 
-- การสมัครใช้งาน Office ๓๖๕ E3 ที่มี add-on การปฏิบัติตามนโยบายขั้นสูง
+- Office 365 การสมัครใช้งาน E3 ที่มี Add-on การปฏิบัติตามข้อบังคับขั้นสูง
 
-ด้านล่างนี้เป็นภาพรวมของขั้นตอนการตั้งค่าและจัดการ eDiscovery ขั้นสูง:
+ด้านล่างนี้คือภาพรวมระดับสูงของขั้นตอนในการตั้งค่าและจัดการAdvanced eDiscovery:
 
-**1. ตรวจสอบและกำหนดสิทธิ์การใช้งานที่เหมาะสม**
+**1. ตรวจสอบและกําหนดสิทธิ์การใช้งานที่เหมาะสม**
 
-**2. กำหนดสิทธิ์ eDiscovery**
+**2. กําหนดสิทธิ์ eDiscovery**
 
-**3. กำหนดค่าการตั้งค่าส่วนกลางสำหรับ eDiscovery ขั้นสูง**
+**3. กําหนดค่าการตั้งค่าส่วนกลางAdvanced eDiscovery**
 
-**4. สร้างตัวพิมพ์ eDiscovery ขั้นสูง**
+**4. สร้างAdvanced eDiscoveryกรณี**
 
-สำหรับข้อมูลเกี่ยวกับขั้นตอนที่จำเป็นในการตั้งค่า eDiscovery ขั้นสูงให้ดู[เริ่มต้นใช้งาน Ediscovery ขั้นสูง](https://docs.microsoft.com/microsoft-365/compliance/get-started-with-advanced-ediscovery?view=o365-worldwide)
+For information on the necessary steps to setup Advanced eDiscovery, see[เริ่มต้นใช้งาน with Advanced eDiscovery](/microsoft-365/compliance/get-started-with-advanced-ediscovery).
+
+For information about how to create and manage cases, see [Create and manage Advanced eDiscovery cases in Microsoft 365](/microsoft-365/compliance/create-and-manage-advanced-ediscoveryv2-case).
