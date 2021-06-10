@@ -2,6 +2,7 @@
 title: ตั้งค่า eDiscovery ขั้นสูง
 ms.author: pebaum
 author: pebaum
+manager: scotv
 ms.audience: ITPro
 ms.topic: article
 ms.service: o365-administration
@@ -12,31 +13,33 @@ ms.collection: Adm_O365
 ms.custom:
 - "3200003"
 - "3835"
-ms.openlocfilehash: f3a74bf74fb0786227e3f6c9bd53af1c8bebe098
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 928eac7dc5455a96d8f49f60a368f098f8e322bb
+ms.sourcegitcommit: 29019d042be8283d24048f96f1a16ec865c74ca6
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47795551"
+ms.lasthandoff: 06/10/2021
+ms.locfileid: "52882708"
 ---
-# <a name="set-up-advanced-ediscovery"></a><span data-ttu-id="4c1f8-102">ตั้งค่า eDiscovery ขั้นสูง</span><span class="sxs-lookup"><span data-stu-id="4c1f8-102">Set up advanced eDiscovery</span></span>
+# <a name="set-up-advanced-ediscovery"></a><span data-ttu-id="16a74-102">ตั้งค่า eDiscovery ขั้นสูง</span><span class="sxs-lookup"><span data-stu-id="16a74-102">Set up advanced eDiscovery</span></span>
 
-<span data-ttu-id="4c1f8-103">ขั้นสูง eDiscovery ช่วยให้คุณวิเคราะห์ข้อมูลที่ไม่มีโครงสร้างของคุณเพื่อช่วยลดต้นทุน eDiscovery</span><span class="sxs-lookup"><span data-stu-id="4c1f8-103">Advanced eDiscovery lets you analyze your unstructured data to help reduce eDiscovery cost.</span></span> <span data-ttu-id="4c1f8-104">คุณสามารถใช้การวิเคราะห์ข้อความการเรียนรู้ของเครื่องและการเขียนโค้ดที่เกี่ยวข้อง/คาดเดาได้</span><span class="sxs-lookup"><span data-stu-id="4c1f8-104">You can apply text analytics, machine learning, and relevance/predictive coding.</span></span>  <span data-ttu-id="4c1f8-105">ฟีเจอร์ eDiscovery ขั้นสูงจำเป็นต้องใช้อย่างใดอย่างหนึ่งต่อไปนี้:</span><span class="sxs-lookup"><span data-stu-id="4c1f8-105">The Advanced eDiscovery feature requires either of the following:</span></span>
+<span data-ttu-id="16a74-103">ด้วยAdvanced eDiscoveryคุณสามารถปรับใช้การวิเคราะห์ข้อความ การเรียนรู้ด้วยเครื่อง และการเขียนโค้ดความเกี่ยวข้อง/การคาดเดา</span><span class="sxs-lookup"><span data-stu-id="16a74-103">With Advanced eDiscovery, you can apply text analytics, machine learning, and relevance/predictive coding.</span></span> <span data-ttu-id="16a74-104">ฟีเจอร์Advanced eDiscoveryต้องมีหนึ่งในรายการต่อไปนี้:</span><span class="sxs-lookup"><span data-stu-id="16a74-104">The Advanced eDiscovery feature requires one of the following:</span></span>
 
-- <span data-ttu-id="4c1f8-106">การสมัครใช้งาน Microsoft ๓๖๕ E5 หรือ Office ๓๖๕ E5</span><span class="sxs-lookup"><span data-stu-id="4c1f8-106">Microsoft 365 E5 or Office 365 E5 subscription</span></span>
+- <span data-ttu-id="16a74-105">Microsoft 365 E5หรือOffice 365 E5</span><span class="sxs-lookup"><span data-stu-id="16a74-105">Microsoft 365 E5 or Office 365 E5 subscription</span></span>
 
-- <span data-ttu-id="4c1f8-107">การสมัครใช้งาน Microsoft ๓๖๕ E3 พร้อม add-on การปฏิบัติตามนโยบาย E5</span><span class="sxs-lookup"><span data-stu-id="4c1f8-107">Microsoft 365 E3 subscription with E5 Compliance add-on</span></span>
+- <span data-ttu-id="16a74-106">Microsoft 365 E3การสมัครใช้งานด้วย Add-on การปฏิบัติตามข้อบังคับ E5</span><span class="sxs-lookup"><span data-stu-id="16a74-106">Microsoft 365 E3 subscription with E5 Compliance add-on</span></span>
 
-- <span data-ttu-id="4c1f8-108">การสมัครใช้งาน Office ๓๖๕ E3 ที่มี add-on การปฏิบัติตามนโยบายขั้นสูง</span><span class="sxs-lookup"><span data-stu-id="4c1f8-108">Office 365 E3 subscription with Advanced Compliance add-on</span></span>
+- <span data-ttu-id="16a74-107">Office 365 การสมัครใช้งาน E3 ที่มี Add-on การปฏิบัติตามข้อบังคับขั้นสูง</span><span class="sxs-lookup"><span data-stu-id="16a74-107">Office 365 E3 subscription with Advanced Compliance add-on</span></span>
 
-<span data-ttu-id="4c1f8-109">ด้านล่างนี้เป็นภาพรวมของขั้นตอนการตั้งค่าและจัดการ eDiscovery ขั้นสูง:</span><span class="sxs-lookup"><span data-stu-id="4c1f8-109">Below is a high-level overview of steps to setup and manage Advanced eDiscovery:</span></span>
+<span data-ttu-id="16a74-108">ด้านล่างนี้คือภาพรวมระดับสูงของขั้นตอนในการตั้งค่าและจัดการAdvanced eDiscovery:</span><span class="sxs-lookup"><span data-stu-id="16a74-108">Below is a high-level overview of steps to setup and manage Advanced eDiscovery:</span></span>
 
-<span data-ttu-id="4c1f8-110">**1. ตรวจสอบและกำหนดสิทธิ์การใช้งานที่เหมาะสม**</span><span class="sxs-lookup"><span data-stu-id="4c1f8-110">**1. Verify and assign appropriate licenses**</span></span>
+<span data-ttu-id="16a74-109">**1. ตรวจสอบและกําหนดสิทธิ์การใช้งานที่เหมาะสม**</span><span class="sxs-lookup"><span data-stu-id="16a74-109">**1. Verify and assign appropriate licenses**</span></span>
 
-<span data-ttu-id="4c1f8-111">**2. กำหนดสิทธิ์ eDiscovery**</span><span class="sxs-lookup"><span data-stu-id="4c1f8-111">**2. Assign eDiscovery permissions**</span></span>
+<span data-ttu-id="16a74-110">**2. กําหนดสิทธิ์ eDiscovery**</span><span class="sxs-lookup"><span data-stu-id="16a74-110">**2. Assign eDiscovery permissions**</span></span>
 
-<span data-ttu-id="4c1f8-112">**3. กำหนดค่าการตั้งค่าส่วนกลางสำหรับ eDiscovery ขั้นสูง**</span><span class="sxs-lookup"><span data-stu-id="4c1f8-112">**3. Configure global settings for Advanced eDiscovery**</span></span>
+<span data-ttu-id="16a74-111">**3. กําหนดค่าการตั้งค่าส่วนกลางAdvanced eDiscovery**</span><span class="sxs-lookup"><span data-stu-id="16a74-111">**3. Configure global settings for Advanced eDiscovery**</span></span>
 
-<span data-ttu-id="4c1f8-113">**4. สร้างตัวพิมพ์ eDiscovery ขั้นสูง**</span><span class="sxs-lookup"><span data-stu-id="4c1f8-113">**4. Create an Advanced eDiscovery case**</span></span>
+<span data-ttu-id="16a74-112">**4. สร้างAdvanced eDiscoveryกรณี**</span><span class="sxs-lookup"><span data-stu-id="16a74-112">**4. Create an Advanced eDiscovery case**</span></span>
 
-<span data-ttu-id="4c1f8-114">สำหรับข้อมูลเกี่ยวกับขั้นตอนที่จำเป็นในการตั้งค่า eDiscovery ขั้นสูงให้ดู[เริ่มต้นใช้งาน Ediscovery ขั้นสูง](https://docs.microsoft.com/microsoft-365/compliance/get-started-with-advanced-ediscovery?view=o365-worldwide)</span><span class="sxs-lookup"><span data-stu-id="4c1f8-114">For information on the necessary steps to setup Advanced eDiscovery , see  [Get Started with Advanced eDiscovery](https://docs.microsoft.com/microsoft-365/compliance/get-started-with-advanced-ediscovery?view=o365-worldwide).</span></span>
+<span data-ttu-id="16a74-113">For information on the necessary steps to setup Advanced eDiscovery, see[เริ่มต้นใช้งาน with Advanced eDiscovery](/microsoft-365/compliance/get-started-with-advanced-ediscovery).</span><span class="sxs-lookup"><span data-stu-id="16a74-113">For information on the necessary steps to setup Advanced eDiscovery, see [Get Started with Advanced eDiscovery](/microsoft-365/compliance/get-started-with-advanced-ediscovery).</span></span>
+
+<span data-ttu-id="16a74-114">For information about how to create and manage cases, see [Create and manage Advanced eDiscovery cases in Microsoft 365](/microsoft-365/compliance/create-and-manage-advanced-ediscoveryv2-case).</span><span class="sxs-lookup"><span data-stu-id="16a74-114">For information about how to create and manage cases, see [Create and manage Advanced eDiscovery cases in Microsoft 365](/microsoft-365/compliance/create-and-manage-advanced-ediscoveryv2-case).</span></span>
