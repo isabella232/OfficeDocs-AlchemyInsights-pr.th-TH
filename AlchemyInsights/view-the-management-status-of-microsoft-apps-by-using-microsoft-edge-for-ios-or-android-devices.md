@@ -1,5 +1,5 @@
 ---
-title: ดูสถานะการจัดการของแอป Microsoft โดยใช้ Microsoft Edge สำหรับ iOS หรืออุปกรณ์ Android
+title: ดูสถานะการจัดการของแอป Microsoft โดยใช้Microsoft Edgeอุปกรณ์ iOS หรือ Android
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -12,18 +12,20 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9003896"
+- "9006502"
 - "6950"
-ms.openlocfilehash: e670981d2cb9a918ad33cc9e6ce15663c112df1d
-ms.sourcegitcommit: 523098560e54a50184a99c974809dfbfffadacb5
+- "11143"
+ms.openlocfilehash: 321dac91dfbfea560b6b488b003940518637e642
+ms.sourcegitcommit: 7a406a3d4680662e81f0056454f7e25fb2f52504
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 12/09/2020
-ms.locfileid: "49679202"
+ms.lasthandoff: 06/17/2021
+ms.locfileid: "52989916"
 ---
-# <a name="view-the-management-status-of-microsoft-apps-by-using-microsoft-edge-for-ios-or-android-devices"></a><span data-ttu-id="3ec31-102">ดูสถานะการจัดการของแอป Microsoft โดยใช้ Microsoft Edge สำหรับ iOS หรืออุปกรณ์ Android</span><span class="sxs-lookup"><span data-stu-id="3ec31-102">View the management status of Microsoft apps by using Microsoft Edge for iOS or Android devices</span></span>
+# <a name="view-the-management-status-of-microsoft-apps-by-using-microsoft-edge-for-ios-or-android-devices"></a><span data-ttu-id="ac9e7-102">ดูสถานะการจัดการของแอป Microsoft โดยใช้Microsoft Edgeอุปกรณ์ iOS หรือ Android</span><span class="sxs-lookup"><span data-stu-id="ac9e7-102">View the management status of Microsoft apps by using Microsoft Edge for iOS or Android devices</span></span>
 
-<span data-ttu-id="3ec31-103">เมื่อต้องการเข้าถึงบันทึกของแอปสำหรับใช้ในการแก้ไขปัญหาแอป iOS หรือ Android ของคุณที่มีการจัดการให้เปิด Microsoft Edge แล้วพิมพ์ **เกี่ยวกับ: intunehelp** ในกล่องที่อยู่</span><span class="sxs-lookup"><span data-stu-id="3ec31-103">To access app logs for use in troubleshooting your managed iOS or Android apps, open Microsoft Edge and type **about:intunehelp** in the address box.</span></span> <span data-ttu-id="3ec31-104">Microsoft Edge เปิดใช้งานในโหมดการแก้ไขปัญหา</span><span class="sxs-lookup"><span data-stu-id="3ec31-104">Microsoft Edge launches in troubleshooting mode.</span></span>
+<span data-ttu-id="ac9e7-103">เมื่อต้องการเข้าถึงบันทึกของแอปเพื่อใช้ในการแก้ไขปัญหาแอป iOS หรือ Android ที่มีการจัดการ ให้เปิด Microsoft Edge และพิมพ์ **about:intunedhelp** ในกล่องที่อยู่</span><span class="sxs-lookup"><span data-stu-id="ac9e7-103">To access app logs for use in troubleshooting your managed iOS or Android apps, open Microsoft Edge and type **about:intunehelp** in the address box.</span></span> <span data-ttu-id="ac9e7-104">Microsoft Edgeเปิดใช้งานในโหมดการแก้ไขปัญหา</span><span class="sxs-lookup"><span data-stu-id="ac9e7-104">Microsoft Edge launches in troubleshooting mode.</span></span>
 
-<span data-ttu-id="3ec31-105">สำหรับรายการของการตั้งค่าที่เก็บไว้ในบันทึกของแอปให้ดูที่[ตรวจทานบันทึกการป้องกันแอปของไคลเอ็นต์](https://docs.microsoft.com/mem/intune/apps/app-protection-policy-settings-log)</span><span class="sxs-lookup"><span data-stu-id="3ec31-105">For a list of the settings stored in the app logs, see [Review client app protection logs](https://docs.microsoft.com/mem/intune/apps/app-protection-policy-settings-log).</span></span>
+<span data-ttu-id="ac9e7-105">For a list of the settings stored in the app logs, see [Review client app protection logs](/mem/intune/apps/app-protection-policy-settings-log).</span><span class="sxs-lookup"><span data-stu-id="ac9e7-105">For a list of the settings stored in the app logs, see [Review client app protection logs](/mem/intune/apps/app-protection-policy-settings-log).</span></span>
 
-<span data-ttu-id="3ec31-106">เมื่อต้องการเรียนรู้วิธีการดูบันทึกของแอปบนอุปกรณ์ Android ให้ดูที่การ[อัปโหลดและอีเมลในบันทึก](https://docs.microsoft.com/mem/intune/user-help/send-logs-to-your-it-admin-by-email-android)</span><span class="sxs-lookup"><span data-stu-id="3ec31-106">To learn how to view app logs on Android devices, see [Upload and email logs](https://docs.microsoft.com/mem/intune/user-help/send-logs-to-your-it-admin-by-email-android).</span></span>
+<span data-ttu-id="ac9e7-106">เมื่อต้องการเรียนรู้วิธีการดูบันทึกของแอปบนอุปกรณ์ Android ให้ดูที่ Upload[และบันทึกอีเมล](/mem/intune/user-help/send-logs-to-your-it-admin-by-email-android)</span><span class="sxs-lookup"><span data-stu-id="ac9e7-106">To learn how to view app logs on Android devices, see [Upload and email logs](/mem/intune/user-help/send-logs-to-your-it-admin-by-email-android).</span></span>
