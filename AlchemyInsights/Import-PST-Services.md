@@ -14,12 +14,12 @@ ms.custom:
 - "1245"
 - "1800027"
 ms.assetid: ''
-ms.openlocfilehash: d4b72ce8d44a3f45381b1866b22172ba92dc3cc5
-ms.sourcegitcommit: 1226e9a9601dc8fc8ec427235f3c2dd88ff84ced
+ms.openlocfilehash: c043569050a849a29982f6fdc4224b4e73d3ca5d
+ms.sourcegitcommit: 94a687ebff18b0c61a9f049774a0682ba8b998e1
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 06/02/2021
-ms.locfileid: "52721655"
+ms.lasthandoff: 06/19/2021
+ms.locfileid: "53023122"
 ---
 # <a name="microsoft-365-import-service"></a>Microsoft 365 นําเข้าบริการ
 
@@ -29,9 +29,9 @@ ms.locfileid: "52721655"
 
 1. ในบานหน้าต่างด้านซ้ายของศูนย์การปฏิบัติตามนโยบาย M365 **ภายใต้ โซลูชัน** ให้เลือก **การนําเข้าข้อมูล**  >  
 
-1. บนหน้า **นําเข้า** ให้เลือก **งานนําเข้า** ใหม่
+1. บนหน้า **นําเข้า** ให้เลือก **งานนําเข้า** ใหม่ ใส่ชื่องาน **แล้วเลือก** ถัดไป
 
-1. เมื่อต้องการเสร็จสิ้นขั้นตอนในตัวช่วยสร้าง ให้ดู ใช้[การอัปโหลดเครือข่ายเพื่อนําเข้าไฟล์ PST ขององค์กรของคุณMicrosoft 365](/compliance/use-network-upload-to-import-pst-files)
+1. เลือก **Uploadข้อมูลของคุณ** เพื่อใช้ตัวเลือกการอัปโหลดเครือข่ายของ **ชนิดงานการนํา** เข้า For detailed steps, see [Use network upload to import your organization's PST files to Microsoft 365](/compliance/use-network-upload-to-import-pst-files).
 
 เมื่อต้องการเข้าถึง **หน้า** การนําเข้า ตรวจสอบให้แน่ใจว่าคุณได้รับมอบหมายสิทธิ์ที่เหมาะสม For more info, see [Using network upload to import PST files](/microsoft-365/compliance/importing-pst-files-to-office-365#using-network-upload-to-import-pst-files).
 

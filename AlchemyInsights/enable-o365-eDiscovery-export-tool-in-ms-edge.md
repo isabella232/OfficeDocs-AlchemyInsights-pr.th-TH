@@ -1,5 +1,5 @@
 ---
-title: เปิดใช้งานเครื่องมือการส่งออก eDiscovery ของ Office ๓๖๕ใน Microsoft Edge
+title: เปิดใช้งานOffice 365ส่งออก eDiscovery ในMicrosoft Edge
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,19 +13,21 @@ ms.collection: Admin_O365
 ms.custom:
 - "9003878"
 - "6930"
-ms.openlocfilehash: c3d4b45d77ffb47db458f11aeab183230d3fa9cc
-ms.sourcegitcommit: 2e4a5153e530bf15744a52e982eeb0d99757e9d2
+- "11694"
+- "9006005"
+ms.openlocfilehash: 00b64ee8999ce47cac1f36a8fc3af32783e2e1a1
+ms.sourcegitcommit: 94a687ebff18b0c61a9f049774a0682ba8b998e1
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 12/04/2020
-ms.locfileid: "49583676"
+ms.lasthandoff: 06/19/2021
+ms.locfileid: "53023194"
 ---
-# <a name="enable-office-365-ediscovery-export-tool-in-microsoft-edge"></a>เปิดใช้งานเครื่องมือการส่งออก eDiscovery ของ Office ๓๖๕ใน Microsoft Edge
+# <a name="enable-office-365-ediscovery-export-tool-in-microsoft-edge"></a>เปิดใช้งานOffice 365ส่งออก eDiscovery ในMicrosoft Edge
 
-การสนับสนุนสำหรับ ClickOnce จะไม่เปิดใช้งานอีกต่อไปใน Microsoft Edge ตามค่าเริ่มต้น เมื่อต้องการดำเนินการต่อโดยใช้เครื่องมือส่งออกของ Microsoft Office ๓๖๕ eDiscovery คุณจำเป็นต้องใช้ Microsoft Internet Explorer หรือเปิดใช้งานตัวเลือกการสนับสนุน ClickOnce ใน Microsoft Edge ที่ใช้โครเมียมดังต่อไปนี้:
+การสนับสนุนClickOnceจะไม่เปิดใช้งานMicrosoft Edgeตามค่าเริ่มต้นอีกต่อไป เมื่อต้องการใช้เครื่องมือส่งออก Microsoft Office 365 eDiscovery ต่อ คุณจะต้องใช้ Microsoft Internet Explorer หรือเปิดใช้งานตัวเลือกการสนับสนุน ClickOnce ใน Chromium ตามMicrosoft Edgeต่อไปนี้:
 
-1. ไปที่ edge://flags/#edge-คลิก-หนึ่งครั้ง
-1. สำหรับตัวเลือกการ **สนับสนุน ClickOnce** ให้เปลี่ยนค่าจาก **ค่าเริ่มต้น** หรือ **ปิด** ใช้งานเพื่อ **เปิดใช้งาน**
-1. ที่ด้านล่างของหน้าต่างเบราว์เซอร์ให้คลิก **รีสตาร์ต** การเปลี่ยนแปลงจะมีผลหลังจากที่คุณเริ่มการทำงานของ Microsoft Edge ใหม่
+1. ไปที่ edge://flags/#edge-click-once
+1. For the **ClickOnce Support** option, change the value from **Default** or **Disabled** to **Enabled**.
+1. ที่ด้านล่างของหน้าต่างเบราว์เซอร์ ให้คลิก รี **สตาร์** ต การเปลี่ยนแปลงจะมีผลหลังจากที่คุณเริ่มการMicrosoft Edgeใหม่
 
-เมื่อต้องการเรียนรู้เพิ่มเติมให้ดู[ที่ใช้เครื่องมือส่งออก eDiscovery ของ Office ๓๖๕ใน Microsoft Edge](https://go.microsoft.com/fwlink/?linkid=2111611)
+เมื่อต้องการเรียนรู้เพิ่มเติม ให้ดู[ใช้เครื่องมือส่งออก Office 365 eDiscovery Microsoft Edge](https://go.microsoft.com/fwlink/?linkid=2111611)
