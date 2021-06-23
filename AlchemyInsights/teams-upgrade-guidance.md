@@ -1,5 +1,5 @@
 ---
-title: คำแนะนำการอัปเกรดทีม
+title: Teamsแนะนําการอัปเกรด
 ms.author: heidip
 author: microsoftheidi
 ms.audience: ITPro
@@ -11,27 +11,25 @@ ms.custom:
 - "982"
 - "4000006"
 ms.assetid: 0530bbd2-255c-434f-a24a-7c6c0877bad7
-ms.openlocfilehash: 391d1253fd625004308a0cd1359cc0ccc46e1b95
-ms.sourcegitcommit: 9a39e7cff11854c54c717a2c0094bfdfefee4ffd
+ms.openlocfilehash: 477796e3a89333214ff8892f345f24b2b43c35c3
+ms.sourcegitcommit: 554d0c9b90134243078dfa363d6c729495841f6b
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 10/01/2020
-ms.locfileid: "48333947"
+ms.lasthandoff: 06/23/2021
+ms.locfileid: "53095419"
 ---
-# <a name="microsoft-teams-upgrade"></a>การอัปเกรดทีม Microsoft
+# <a name="microsoft-teams-upgrade"></a>Microsoft Teamsอัปเกรด
 
-**สิ่งสำคัญ**: ถ้าคุณได้รับการอัปเกรดจาก Skype For business Online ไปยังทีม Microsoft ในโหมดทีมเท่านั้นแต่ค้นหาว่าคุณยังไม่พร้อมแล้วเราจะช่วยแก้ไขปัญหานี้ให้คุณได้โดยใช้การวินิจฉัยการสนับสนุน ตรวจสอบให้แน่ใจว่าคุณกำลังใช้ศูนย์การจัดการใหม่โดยการเลื่อนตัวสลับที่ด้านบนขวาที่ระบุว่า **ศูนย์การจัดการใหม่**ทางด้านขวา การใช้ศูนย์การจัดการใหม่ให้คลิก **ต้องการความช่วยเหลือ** วิดเจ็ตพิมพ์ "**ทีมการอัปเกรด**" แล้วทำตามพร้อมท์เพื่อเรียกใช้การวินิจฉัย
+ไม่ว่าคุณจะเพิ่งเริ่มต้นใช้งาน Teams การใช้ Teams ควบคู่ไปกับ Skype for Business หรือพร้อมที่จะอัปเกรด เราต้องการให้แน่ใจว่าคุณมีทุกอย่างที่คุณต้องการในการนําทางในการนําทางไปยัง Teams ที่ประสบความสTeamsหรือไม่ หากต้องการข้อมูลเพิ่มเติม โปรดไปที่ลิงก์ด้านล่าง
 
-ไม่ว่าคุณจะเริ่มต้นใช้งานกับทีมแล้วโดยใช้ทีมควบคู่ไปกับ Skype for Business หรือพร้อมที่จะอัปเกรดเราต้องการให้แน่ใจว่าคุณมีทุกสิ่งที่คุณต้องการเพื่อนำทางไปยังทีมการเดินทางที่ประสบความสำเร็จ สำหรับข้อมูลเพิ่มเติมโปรดไปที่ลิงก์ด้านล่าง
+[เริ่มต้นใช้งานการอัปเกรด Microsoft Teamsของคุณ](/MicrosoftTeams/upgrade-start-here)
 
-[การเริ่มต้นใช้งานการอัปเกรดทีม Microsoft ของคุณ](https://docs.microsoft.com/MicrosoftTeams/upgrade-start-here)
+[วางแผนการอัปเกรดของคุณ](/MicrosoftTeams/upgrade-plan-journey)
 
-[วางแผนสำหรับการอัปเกรดของคุณ](https://docs.microsoft.com/MicrosoftTeams/upgrade-plan-journey)
+[เข้าใจMicrosoft TeamsและการSkype for Businessกัน](/MicrosoftTeams/teams-and-skypeforbusiness-coexistence-and-interoperability)
 
-[ทำความเข้าใจกับทีม Microsoft และ Skype for Business ที่มีอยู่](https://docs.microsoft.com/MicrosoftTeams/teams-and-skypeforbusiness-coexistence-and-interoperability)
+[การอัปเกรดจาก Skype for Business Online Teams](/MicrosoftTeams/upgrade-to-teams-execute-skypeforbusinessonline)
 
-[การดำเนินการอัปเกรดจาก Skype for Business Online เป็นทีม](https://docs.microsoft.com/MicrosoftTeams/upgrade-to-teams-execute-skypeforbusinessonline)
-
-[การดำเนินการอัปเกรดจาก Skype for Business ภายในองค์กรไปยังทีม](https://docs.microsoft.com/MicrosoftTeams/upgrade-to-teams-execute-skypeforbusinesshybridonprem)
+[การอัปเกรดจากSkype for Businessภายในองค์กรไปยังTeams](/MicrosoftTeams/upgrade-to-teams-execute-skypeforbusinesshybridonprem)
  
-[ตรวจสอบสถานะของ Skype for Business Online เพื่อให้ทีมอัปเกรดด้วย PowerShell](https://docs.microsoft.com/powershell/module/skype/get-csteamsupgradestatus?view=skype-ps)
+[ตรวจสอบสถานะของสถานะ Skype for Business Online เพื่อTeamsด้วย PowerShell](/powershell/module/skype/get-csteamsupgradestatus?view=skype-ps)
