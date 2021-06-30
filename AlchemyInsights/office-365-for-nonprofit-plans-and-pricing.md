@@ -1,5 +1,5 @@
 ---
-title: แผนและราคา Office 365 Nonprofit
+title: Microsoft 365ราคาและแผน Nonprofit
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
@@ -14,19 +14,19 @@ ms.custom:
 - "478"
 - "1500026"
 ms.assetid: e6ec87f5-98d4-444d-b1e7-dc36cd60f064
-ms.openlocfilehash: 683995071a6902276e041e914453df211cf54fd4
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 99cfc2d8504f17afb0ffa0b6611594035c1e97c0
+ms.sourcegitcommit: 00a9c41575be54dccac6c423f2de824b47a4ee9e
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51810323"
+ms.lasthandoff: 06/29/2021
+ms.locfileid: "53176612"
 ---
-# <a name="office-365-for-nonprofit-plans-and-pricing"></a>แผนและราคา Office 365 Nonprofit
+# <a name="microsoft-365-for-nonprofit-plans-and-pricing"></a>Microsoft 365ราคาและแผน Nonprofit
 
-องค์กรไม่แสวงหาผลสํานักงานที่มีคุณสมบัติเหมาะสมสามารถรับบริจาค Office 365 Nonprofit หรืออัปเกรดเป็นฟีเจอร์ขั้นสูงด้วยส่วนลดที่สําคัญ เพื่อให้มีคุณสมบัติเหมาะสมในแผน Office 365 Nonprofit[](https://go.microsoft.com/fwlink/p/?LinkID=330253)คุณต้องมีสถานะด้านการกุศลที่เป็นที่ยอมรับในประเทศของคุณ และเซ็นชื่อในนโยบายไม่เลือกปฏิบัติของ Microsoft ไมโครซอฟท์ขอสงวนสิทธิ์ในการตรวจสอบสิทธิ์เมื่อใดก็ได้ และระงับบริการให้กับองค์กรที่ไม่มีสิทธิ์
+องค์กรไม่แสวงหาผลMicrosoft 365ที่มีคุณสมบัติเหมาะสมสามารถรับการบริจาคหรืออัปเกรดเป็นฟีเจอร์ขั้นสูงในส่วนลดที่สําคัญ เพื่อให้มีคุณสมบัติเหมาะสมMicrosoft 365องค์กรไม่แสวงหาการกุศล คุณต้องมีสถานะด้าน[การกุศล](https://go.microsoft.com/fwlink/p/?LinkID=330253)ที่เป็นที่ยอมรับในประเทศของคุณ และเซ็นชื่อในนโยบายไม่เลือกปฏิบัติของ Microsoft ไมโครซอฟท์ขอสงวนสิทธิ์ในการตรวจสอบสิทธิ์เมื่อใดก็ได้ และระงับบริการให้กับองค์กรที่ไม่มีสิทธิ์
   
-ดู FAQ [เพื่อดู](https://products.office.com/nonprofit/office-365-nonprofit) ข้อถามเพิ่มเติมเกี่ยวกับข้อเสนอนี้
+ดูข้อมูลเพิ่มเติมที่ ถาม[บ่อย](https://products.office.com/nonprofit/office-365-nonprofit)
   
 - [ตรวจทานแผน Nonprofit](https://products.office.com/nonprofit/office-365-nonprofit-plans-and-pricing?tab=1)
 
-- [เปรียบเทียบการสมัครใช้งาน Microsoft 365 ทั้งหมด](https://products.office.com/business/compare-more-office-365-for-business-plans)
+- [เปรียบเทียบการสมัครใช้งานMicrosoft 365ทั้งหมด](https://products.office.com/business/compare-more-office-365-for-business-plans)
