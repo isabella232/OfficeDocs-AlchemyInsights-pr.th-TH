@@ -12,29 +12,33 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000722"
 - "4812"
-ms.openlocfilehash: 010d9e6b3a4bedb5b8649ece6eaa3d857883c729
-ms.sourcegitcommit: 67dbb2f157f6e83f41d9480071c1d35ac5565509
+ms.openlocfilehash: b6d2ff60548cfb578b30890cba069f67515e9c05
+ms.sourcegitcommit: d6b1e4c843206d1977af861542f139d7a5042de7
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 05/13/2021
-ms.locfileid: "52470222"
+ms.lasthandoff: 06/29/2021
+ms.locfileid: "53195503"
 ---
 # <a name="compliance-common-issues-and-resolutions"></a>ปัญหาและการแก้ไขปัญหาทั่วไปเกี่ยวกับการปฏิบัติตามกฎระเบียบ
 
-หากต้องการความช่วยเหลือในการดูการแจ้งเตือน [ให้ดูที่ นโยบายการแจ้งเตือนในศูนย์การรักษาความปลอดภัยและ](/microsoft-365/compliance/alert-policies.md)การปฏิบัติตามนโยบาย
+หากต้องการความช่วยเหลือในการดูการแจ้งเตือน [ให้ดูที่ นโยบายการแจ้งเตือนในศูนย์การรักษาความปลอดภัยและ](/microsoft-365/compliance/alert-policies)การปฏิบัติตามนโยบาย
 
 ต่อไปนี้เป็นหัวข้อที่ได้รับการร้องขอบ่อยบางส่วนเพื่อการปฏิบัติตามข้อบังคับ:
 
-- วิธีกําหนดค่า เก็บถาวร และข้อความจะไม่ย้ายไปยังเก็บถาวรโดยอัตโนมัติ: ต้องการเปิดใช้งานการเก็บถาวร[ตั้งค่า](/microsoft-365/compliance/enable-archive-mailboxes.md)นโยบายการเก็บถาวร และเพิ่ม[ขนาดการเก็บถาวร](/microsoft-365/compliance/enable-unlimited-archiving.md)
+- วิธีกําหนดค่า เก็บถาวร และข้อความจะไม่ย้ายไปยังเก็บถาวรโดยอัตโนมัติ: ต้องการเปิดใช้งานการเก็บถาวร[ตั้งค่า](/microsoft-365/compliance/set-up-an-archive-and-deletion-policy-for-mailboxes)นโยบายการเก็บถาวร และเพิ่ม[ขนาดการเก็บถาวร](/microsoft-365/compliance/enable-unlimited-archiving)
 
-- นโยบายการเก็บข้อมูล: ข้อสงสัยเกี่ยวกับการ[คํานวณ](/exchange/security-and-compliance/messaging-records-management/retention-age.md)อายุการ[เก็บข้อมูล](/exchange/security-and-compliance/messaging-records-management/add-or-remove-retention-tags.md)เพิ่มหรือเอาแท็ก[](/microsoft-365/compliance/retention-policies.md)การเก็บข้อมูลออก การใช้นโยบายการเก็บข้อมูลในศูนย์การรักษาความปลอดภัยและการปฏิบัติตามนโยบายเพื่อเก็บรักษาหรือลบเนื้อหา
+- นโยบายการเก็บข้อมูล: ข้อสงสัยเกี่ยวกับการ[คํานวณ](/exchange/security-and-compliance/messaging-records-management/retention-age)อายุการ[เก็บข้อมูล](/exchange/security-and-compliance/messaging-records-management/add-or-remove-retention-tags)เพิ่มหรือเอาแท็ก[](/exchange/security-and-compliance/messaging-records-management/create-a-retention-policy)การเก็บข้อมูลออก การใช้นโยบายการเก็บข้อมูลในศูนย์การรักษาความปลอดภัยและการปฏิบัติตามนโยบายเพื่อเก็บรักษาหรือลบเนื้อหา
 
-- Setup EDiscovery and Content Searches and Export: [Content Search](/microsoft-365/compliance/search-for-content.md) and [Export Search Results](/microsoft-365/compliance/export-search-results.md).
+- Set up EDiscovery and Content Searches and Export: [Content Search](/microsoft-365/compliance/content-search) and Export [Search Results](/microsoft-365/compliance/export-search-results).
 
-- การตรวจสอบใน O365:[บันทึกการตรวจสอบการค้นหาใน O365](/microsoft-365/compliance/search-the-audit-log-in-security-and-compliance.md)
+- การตรวจสอบใน O365:[บันทึกการตรวจสอบการค้นหาใน O365](/microsoft-365/compliance/search-the-audit-log-in-security-and-compliance)
 
-- การป้องกันการสูญหายของข้อมูล(DLP) : ดูข้อมูลเพิ่มเติมที่ ภาพรวมของการป้องกันการสูญหายของข้อมูล[(DLP)](/microsoft-365/compliance/data-loss-prevention-policies.md)
+- Data Loss Prevention(DLP): [ดูภาพรวมของการป้องกันการสูญหายของข้อมูล (DLP)](/microsoft-365/compliance/data-loss-prevention-policies) เพื่อดูข้อมูลเพิ่มเติม
  
-- ป้ายระดับความลับ: เมื่อต้องการเรียนรู้เพิ่มเติม ให้ดู[สร้างและกําหนดค่าป้ายระดับความลับและนโยบาย](/microsoft-365/compliance/create-sensitivity-labels.md)
+- ป้ายระดับความลับ: เมื่อต้องการเรียนรู้เพิ่มเติม ให้ดู[สร้างและกําหนดค่าป้ายระดับความลับและนโยบาย](/microsoft-365/compliance/create-sensitivity-labels)
+
+- การดูนโยบายการแจ้งเตือน:[ดู นโยบายการแจ้งเตือน ศูนย์การปฏิบัติตามข้อบังคับสําหรับ Microsoft 365](/microsoft-365/compliance/alert-policies)การแจ้งเตือน
+
+- สิทธิ์การใช้งานศูนย์ซับซ้อน:[ดูสิทธิ์ในศูนย์การปฏิบัติตามข้อบังคับสําหรับ Microsoft 365](/microsoft-365/compliance/microsoft-365-compliance-center-permissions)
 
 **หมายเหตุ**: เพื่อตอบคําตอบที่เฉพาะเจาะจงมากขึ้นเกี่ยวกับปัญหาการปฏิบัติตามกฎระเบียบ ให้แก้ไขคําถามของคุณใหม่ช่วงสั้นๆ และใส่ข้อผิดพลาดใดๆ ที่คุณพบหรือคุณลักษณะที่คุณใช้งาน
