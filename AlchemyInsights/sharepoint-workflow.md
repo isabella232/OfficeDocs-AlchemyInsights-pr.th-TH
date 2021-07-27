@@ -1,5 +1,5 @@
 ---
-title: การแก้ไขปัญหาเวิร์กโฟลว์ใน SharePoint
+title: การแก้ไขปัญหาเวิร์กโฟลว์ในSharePoint
 ms.author: pebaum
 author: pebaum
 manager: pamgreen
@@ -15,21 +15,25 @@ ms.custom:
 - "1940"
 - "1718"
 ms.assetid: 7ae05f21-eb16-4d71-9e19-4f097eb100d2
-ms.openlocfilehash: eedfb806100c479e0e20acbeefdda7c3c81f99e0
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: a0d05285539d498aa27b1f54880da9c5110acf98
+ms.sourcegitcommit: e2f1c3a8adcce7e7e545ec13d5aeae3cf2f67db7
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47800267"
+ms.lasthandoff: 07/26/2021
+ms.locfileid: "53586953"
 ---
-# <a name="troubleshoot-workflows-in-sharepoint"></a>การแก้ไขปัญหาเวิร์กโฟลว์ใน SharePoint
+# <a name="troubleshoot-workflows-in-sharepoint"></a>การแก้ไขปัญหาเวิร์กโฟลว์ในSharePoint
 
-**การแก้ไขปัญหาและการตรวจแก้จุดบกพร่องเวิร์กโฟลว์ใน SharePoint**
+**การแก้ไขปัญหาและแก้จุดบกพร่องเวิร์กโฟลว์ในSharePoint**
 
-ให้ดูที่[แก้ไขปัญหาข้อผิดพลาดการตรวจสอบเวิร์กโฟลว์ของ sharepoint](https://docs.microsoft.com/sharepoint/dev/general-development/troubleshooting-sharepoint-server-workflow-validation-errors-in-visio)และการ[แก้จุดบกพร่องเวิร์กโฟลว์ sharepoint](https://docs.microsoft.com/sharepoint/dev/general-development/debugging-sharepoint-server-workflows)
+สำหรับข้อมูลเพิ่มเติม ให้ดู:
 
-**การใช้พลังงานอัตโนมัติ**
+- [การแก้ไขปัญหาSharePointการตรวจสอบความถูกต้องของเวิร์กโฟลว์](/sharepoint/dev/general-development/troubleshooting-sharepoint-server-workflow-validation-errors-in-visio)
+- [การSharePointดีบักเวิร์กโฟลว์](/sharepoint/dev/general-development/debugging-sharepoint-server-workflows)
+- [รวบรวมข้อมูลSharePoint 2013 เวิร์กโฟลว์ด้วย ShowScopeDebugInfo](/sharepoint/troubleshoot/workflows/gather-workflow-data)
 
-ถ้าคุณเพิ่งเริ่มต้นใช้งานเวิร์กโฟลว์ให้ลองใช้ [Power อัตโนมัติ](https://docs.microsoft.com/power-automate/modern-approvals) แทนที่จะเป็นโซลูชันเวิร์กโฟลว์ SharePoint แบบคลาสสิก
+**Power Automate**
 
-สำหรับข้อมูลเพิ่มเติมให้ดูที่ [เวิร์กโฟลว์ SharePoint](https://docs.microsoft.com/alchemyinsights/sharepoint-workflows-retiring)ที่ออกมา
+ถ้าคุณเพิ่งเริ่มต้นใช้งานเวิร์กโฟลว์ ให้พิจารณาใช้เวิร์กโฟลว์แบบPower Automateแทนที่จะ[ใช้](/power-automate/modern-approvals)โซลูชันเวิร์กโฟลว์SharePointแบบคลาสสิก
+
+For more information, see [SharePoint retiring](/alchemyinsights/sharepoint-workflows-retiring).

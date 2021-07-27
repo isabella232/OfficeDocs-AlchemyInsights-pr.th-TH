@@ -1,5 +1,5 @@
 ---
-title: เพิ่มกลุ่มลงในไซต์ SharePoint
+title: เพิ่มกลุ่มลงในSharePointไซต์
 ms.author: pebaum
 author: pebaum
 manager: pamgreen
@@ -9,27 +9,28 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: ''
+ms.custom:
+- "5200004"
+- "5766"
 ms.assetid: f7d730bf-0d6e-424c-970c-6137c71cb50b
-ms.openlocfilehash: 9bec2f71465e43e1c3cba038e0e68949672ceb8a
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 396efbf9772b5398427a4fcc76e104fa95820af6
+ms.sourcegitcommit: 86c95d3f0f268e500b3732243ca85a650b2e7b8f
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47771227"
+ms.lasthandoff: 07/22/2021
+ms.locfileid: "53532238"
 ---
-# <a name="issues-when-creating-a-group-connected-site-in-sharepoint"></a>ปัญหาเมื่อสร้างไซต์ที่เชื่อมต่อกับกลุ่มใน SharePoint
+# <a name="common-issues-when-creating-a-group-connected-site-in-sharepoint"></a>ปัญหาทั่วไปเมื่อสร้างไซต์ที่เชื่อมต่อกลุ่มในSharePoint
 
-1. ปัญหาทั่วไปบางอย่างที่พบเมื่อสร้างหรือสร้างไซต์ที่เชื่อมต่อกับกลุ่มอีกครั้ง
-ถ้าคุณลบกลุ่มและไซต์ที่เชื่อมต่อและต้องการสร้างไซต์อื่นที่มี URL เดียวกันคุณจำเป็นต้องเอาไซต์ก่อนหน้าออกอย่างถาวร
+1. ถ้าคุณลบกลุ่มและไซต์ที่เชื่อมต่อและต้องการสร้างไซต์อื่นด้วย URL เดียวกัน คุณจะต้องเอาไซต์ก่อนหน้าออกอย่างถาวร
 
    - ดาวน์โหลด [SPO Management Shell](https://support.office.com/article/introduction-to-the-sharepoint-online-management-shell-c16941c3-19b4-4710-8056-34c034493429)
-   - สำหรับข้อมูลเพิ่มเติมเกี่ยวกับการเริ่มต้นใช้งาน Powershell ให้ดู[ที่การเริ่มต้นใช้งาน SharePoint Online Management Shell](https://docs.microsoft.com/powershell/module/sharepoint-online/remove-sposite)
-   - เอาไซต์ออกจากไซต์ที่ถูกลบโดยใช้ cmdlet Powershell[เอา SPODeletedSite](https://docs.microsoft.com/powershell/module/sharepoint-online/remove-sposite?view=sharepoint-ps) จำเป็นต้องใช้ Powershell เพื่อลบไซต์กลุ่มอย่างถาวร
+   - For more info on getting started with Powershell, see [Getting started with SharePoint Online Management Shell](/powershell/module/sharepoint-online/remove-sposite).
+   - เอาไซต์ออกจากไซต์ที่ถูกลบโดยใช้ [cmdlet Remove-SPODeletedSite](/powershell/module/sharepoint-online/remove-sposite?view=sharepoint-ps) Powershell Powershell is required to permanently delete group sites.
 
-1. ถ้าคุณกำลังสร้างไซต์ที่เชื่อมต่อกับกลุ่มและได้รับคำเตือน:**กลุ่มอื่นที่มีนามแฝงเดียวกันอยู่แล้ว**ให้ตรวจสอบกลุ่มที่มีอยู่จาก[ศูนย์การจัดการ Microsoft ๓๖๕](https://admin.microsoft.com/AdminPortal/Home#/groups) เมื่อต้องการแก้ไขปัญหานี้ให้ลบกลุ่มที่มีอยู่ถ้าไม่จำเป็นต้องใช้อีกต่อไปหรือสร้างไซต์ด้วยนามแฝงอื่นที่มอบหมาย
+1. ถ้าคุณสร้างไซต์ที่เชื่อมต่อกับกลุ่มและรับคําเตือน:**มี** กลุ่มอื่นที่มีนามแฝงเดียวกันอยู่แล้ว ให้ตรวจสอบกลุ่มที่มีอยู่ศูนย์การจัดการ Microsoft 365 [](https://admin.microsoft.com/AdminPortal/Home#/groups) เมื่อต้องการแก้ไขปัญหา ให้ลบกลุ่มที่มีอยู่ถ้าไม่ต้องใช้อีกต่อไปหรือสร้างไซต์ด้วยการมอบหมายนามแฝงอื่น
 
-1. มีหลายวิธีในการสร้างและใช้กลุ่มที่ทันสมัยกับ SharePoint
+1. มีหลายวิธีในการสร้างและใช้กลุ่มสมัยใหม่ด้วยSharePointหลากหลาย
 
-   - คุณสามารถเชื่อมต่อไซต์ที่มีอยู่ไปยังกลุ่ม Microsoft ๓๖๕ สำหรับข้อมูลเพิ่มเติมให้ดู[ที่เชื่อมต่อกลุ่ม Microsoft ๓๖๕โดยใช้ส่วนติดต่อผู้ใช้ของ SharePoint](https://docs.microsoft.com/sharepoint/dev/transform/modernize-connect-to-office365-group#connect-an-office-365-group-using-the-sharepoint-user-interface)
-   - เมื่อต้องการสร้างไซต์ Microsoft ๓๖๕กลุ่มที่เชื่อมต่ออยู่คุณจำเป็นต้องสร้าง[ไซต์ทีม](https://admin.microsoft.com/sharepoint)
+   - คุณสามารถเชื่อมต่อไซต์ที่มีอยู่กับMicrosoft 365อื่นได้ ดูข้อมูลเพิ่มเติมได้ที่ เชื่อมต่อ[กลุ่มMicrosoft 365โดยใช้SharePointหลัก](/sharepoint/dev/transform/modernize-connect-to-office365-group#connect-an-office-365-group-using-the-sharepoint-user-interface)
+   - เมื่อต้องการMicrosoft 365ไซต์ที่เชื่อมต่อกลุ่มคุณจะต้องสร้าง[ไซต์](https://admin.microsoft.com/sharepoint)ทีม

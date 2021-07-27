@@ -13,21 +13,22 @@ ms.collection: Adm_O365
 ms.custom:
 - "567"
 - "5200006"
+- "7996"
 ms.assetid: aa6c2aa1-6853-461c-8764-01fb96f8e981
-ms.openlocfilehash: 6087240b0615d4d0d6fcfdbbb77fdc15dbafd289
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 49b727ea5d08fff3101b3ab1d00631aaaa74f400
+ms.sourcegitcommit: 86c95d3f0f268e500b3732243ca85a650b2e7b8f
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47745842"
+ms.lasthandoff: 07/22/2021
+ms.locfileid: "53532130"
 ---
-# <a name="delete-a-sharepoint-site-that-belongs-to-a-microsoft-365-group"></a>ลบไซต์ SharePoint ที่เป็นสมาชิกของกลุ่ม Microsoft ๓๖๕
+# <a name="delete-a-sharepoint-site-that-belongs-to-a-microsoft-365-group"></a>ลบSharePointไซต์ที่เป็นของกลุ่มMicrosoft 365ออก
 
-การลบไซต์ที่เชื่อมต่อกับกลุ่มจะเป็นการลบกลุ่มและทรัพยากรทั้งหมดรวมถึงกล่องจดหมายและปฏิทินของ Outlook และแชนเนลของทีมใดก็ตาม
+การลบไซต์ที่เชื่อมต่อกับกลุ่มจะเป็นการลบกลุ่มและทรัพยากรทั้งหมด รวมถึงกล่องจดหมายและOutlookปฏิทิน และแชนเนลTeamsทั้งหมด
   
-สำคัญ
+สําคัญ:
 
-- คุณสามารถกู้คืนไซต์ที่ถูกลบสำหรับ๙๓วันได้ กลุ่มที่ถูกลบจะต้องได้รับการคืนค่าภายใน30วัน [ดูและคืนค่าไซต์ที่ถูกลบ](https://admin.microsoft.com/sharepoint?page=recyclebin&modern=true) โดยตรงจากศูนย์การจัดการ SharePoint เมื่อต้องการ[ดูและคืนค่า**กลุ่มที่ถูกลบ**](https://outlook.office.com/people/group/deleted)ให้เลือก**จัดการกลุ่ม**จากนั้นเลือก**ลบ**
-- ถ้าไซต์เป็นส่วนหนึ่งของนโยบายการเก็บข้อมูลคุณอาจไม่สามารถลบไซต์ดังกล่าวได้จนกว่าไซต์จะถูกเอาออกจาก[ศูนย์การจัดการการรักษาความปลอดภัย & การปฏิบัติตามนโยบาย](https://protection.office.com/?rfr=AdminCenter#/retention) สำหรับข้อมูลเพิ่มเติมให้ดู[ภาพรวมของนโยบายการเก็บข้อมูล](https://docs.microsoft.com/microsoft-365/compliance/retention-policies)
+- คุณสามารถกู้คืนไซต์ที่ถูกลบได้ภายใน 93 วัน กลุ่มที่ถูกลบต้องได้รับการคืนค่าภายใน 30 วัน [ดูและคืนค่าไซต์ที่ถูกลบ](https://admin.microsoft.com/sharepoint?page=recyclebin&modern=true)โดยตรงจากSharePointการจัดการ เมื่อต้องการดู [และ **คืนค่ากลุ่ม**](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/deletedgroups)ที่ถูกลบ เลือก **จัดการ** กลุ่ม **แล้วเลือก** ลบแล้ว
+- ถ้าไซต์เป็นส่วนหนึ่งของนโยบายการเก็บข้อมูล คุณอาจไม่สามารถลบออกได้จนกว่าไซต์นั้นจะถูกเอาออกจากศูนย์การจัดการการปฏิบัติตาม&[ความปลอดภัย](https://protection.office.com/?rfr=AdminCenter#/retention) For more info, see the [Overview of Retention Policies](/microsoft-365/compliance/retention-policies).
   
-สำหรับข้อมูลเพิ่มเติมให้ดู[ที่จัดการไซต์ในศูนย์การจัดการ SharePoint ใหม่](https://docs.microsoft.com/sharepoint/manage-sites-in-new-admin-center)
+For more info, see [Manage sites in the new SharePoint admin center](/sharepoint/manage-sites-in-new-admin-center).
