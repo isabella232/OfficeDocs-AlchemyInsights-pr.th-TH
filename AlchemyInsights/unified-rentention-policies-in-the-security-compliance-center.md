@@ -1,5 +1,5 @@
 ---
-title: นโยบายการเก็บข้อมูลแบบครบวงจรในศูนย์การรักษาความปลอดภัย & การปฏิบัติตามนโยบาย
+title: นโยบายการเก็บข้อมูลแบบรวมในศูนย์การรักษา&การปฏิบัติตามนโยบาย
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,24 +13,24 @@ ms.collection: Adm_O365
 ms.custom:
 - "5745"
 - "9000273"
-ms.openlocfilehash: 0dc9fb2d34e8b2538c6174e401c20a40b216efce
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: a135fae4b6fb7369fd289ecdd5af50935e0c219e
+ms.sourcegitcommit: 89d938a2d402791ae66dddadba3063e9418f48cb
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47669230"
+ms.lasthandoff: 07/28/2021
+ms.locfileid: "53630160"
 ---
-# <a name="unified-retention-policies-in-the-security--compliance-center"></a>นโยบายการเก็บข้อมูลแบบครบวงจรในศูนย์การรักษาความปลอดภัย & การปฏิบัติตามนโยบาย
+# <a name="unified-retention-policies-in-the-security--compliance-center"></a>นโยบายการเก็บข้อมูลแบบรวมในศูนย์การรักษา&การปฏิบัติตามนโยบาย
 
-นโยบายการเก็บข้อมูลช่วยให้คุณจัดการเนื้อหาขององค์กรของคุณโดยใช้การตั้งค่าการเก็บข้อมูลและการลบ คุณสามารถสร้างนโยบายการเก็บข้อมูลแบบรวมได้ในศูนย์การรักษาความปลอดภัย & การปฏิบัติตามนโยบายของ Office ๓๖๕หรือในศูนย์การปฏิบัติตามนโยบายของ Microsoft ๓๖๕ 
+นโยบายการเก็บข้อมูลช่วยให้คุณจัดการเนื้อหาขององค์กรของคุณโดยใช้การตั้งค่าการเก็บข้อมูลและการลบ คุณสามารถสร้างนโยบายการเก็บข้อมูลแบบครบวงจรในศูนย์การรักษาOffice 365การรักษา&การปฏิบัติตามข้อบังคับของไมโครซอฟท์หรือในศูนย์Microsoft 365การปฏิบัติตามข้อบังคับ 
 
-1. ใน[ศูนย์การรักษาความปลอดภัย & การปฏิบัติตามนโยบาย](https://go.microsoft.com/fwlink/p/?linkid=2077143)ให้เลือกการเก็บ**ข้อมูลการกำกับดูแลข้อมูล**  >  **Retention**  >  **+ การสร้าง** <br/>
-    ใน[ศูนย์การปฏิบัติตามนโยบายของ Microsoft ๓๖๕](https://go.microsoft.com/fwlink/p/?linkid=2077149)ให้เลือกข้อมูล**นโยบาย**  >  **> การเก็บข้อมูล > + นโยบายการเก็บข้อมูลใหม่**
-2. เพิ่ม**ชื่อ****การตั้งค่า**และ**เลือกตำแหน่งที่ตั้ง**
-3. ตรวจทานการตั้งค่าของคุณจากนั้นเลือก**สร้างนโยบายนี้**หรือ**บันทึกสำหรับในภายหลัง**  
+1. In the [Security & Compliance Center](https://go.microsoft.com/fwlink/p/?linkid=2077143), select Information **governance**  >  **Retention**  >  **+Create**. <br/>
+    ในศูนย์ [Microsoft 365การปฏิบัติตามนโยบาย](https://go.microsoft.com/fwlink/p/?linkid=2077149)ให้เลือก  >  **นโยบายการเก็บ>ข้อมูล > + นโยบายการเก็บข้อมูลใหม่**
+2. **เพิ่ม ชื่อ****การตั้งค่า****แล้วเลือกสถานที่**
+3. ตรวจทานการตั้งค่าของคุณ แล้วเลือก สร้าง **นโยบายนี้****หรือ บันทึก ไว้** ใช้ในภายหลัง  
       
-สำหรับรายละเอียดเพิ่มเติมเกี่ยวกับนโยบายการเก็บข้อมูลสำหรับเนื้อหาเช่น Exchange อีเมล, OneDrive, SharePoint และกลุ่มเนื้อหาให้ดู[ที่ภาพรวมของนโยบายการเก็บข้อมูล](https://go.microsoft.com/fwlink/?linkid=2127785)  
+For more details about retention policies for content such as Exchange email, OneDrive, SharePoint, and Teams content, see [Overview of retention policies](https://go.microsoft.com/fwlink/?linkid=2127785).  
     
-ถ้าคุณกำลังใช้นโยบายการเก็บข้อมูลแบบเคียงข้างกันในศูนย์การจัดการ Exchange และศูนย์การปฏิบัติตามกฎระเบียบ & ด้านความปลอดภัยให้ดูคำแนะนำนี้เพื่อ[ใช้นโยบายการเก็บข้อมูลแทนที่จะเป็นฟีเจอร์ที่เก่ากว่า](https://docs.microsoft.com/microsoft-365/compliance/retention-policies?view=o365-worldwide#use-a-retention-policy-instead-of-older-features)  
+ถ้าคุณใช้นโยบายการเก็บข้อมูลแบบเคียงข้างกันในศูนย์การจัดการ Exchange และศูนย์การปฏิบัติตาม&ความปลอดภัย ให้ดูข้อแนะนานี้เพื่อใช้นโยบายการเก็บข้อมูล[แทนฟีเจอร์](/microsoft-365/compliance/retention-policies#use-a-retention-policy-instead-of-older-features)เก่า  
     
-สำหรับข้อมูลเฉพาะเกี่ยวกับการเก็บข้อมูลทีมให้ดู[นโยบายการเก็บข้อมูลในทีม](https://docs.microsoft.com/microsoftteams/retention-policies)
+For specific information about Teams retention, see [Retention policies in Teams](/microsoftteams/retention-policies).

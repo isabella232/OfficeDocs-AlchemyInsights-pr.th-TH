@@ -1,5 +1,5 @@
 ---
-title: ๑๔๘๘-การดำเนินการ-eDiscovery-และ-เนื้อหา-การค้นหา
+title: 1488-perform-eDiscovery-and-content-searches
 ms.author: markjjo
 author: markjjo
 manager: lauraw
@@ -14,30 +14,30 @@ ms.custom:
 - "1488"
 - "3200003"
 ms.assetid: ''
-ms.openlocfilehash: 25fe9f6670c0108370aa5a8fc7c1c271f6c809a1
-ms.sourcegitcommit: 4a82381bdb22cbc8bc91d2e02c633897d45ade4b
+ms.openlocfilehash: 938e9f2d7ee43e3a2b8c3356afb90f8cd6507a65
+ms.sourcegitcommit: 89d938a2d402791ae66dddadba3063e9418f48cb
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 12/14/2020
-ms.locfileid: "49668533"
+ms.lasthandoff: 07/28/2021
+ms.locfileid: "53630232"
 ---
-# <a name="how-to-perform-content-searches-and-ediscovery-searches"></a>วิธีการดำเนินการค้นหาเนื้อหาและการค้นหา eDiscovery
+# <a name="how-to-perform-content-searches-and-ediscovery-searches"></a>วิธีการค้นหาเนื้อหาและการค้นหา eDiscovery
 
-**เมื่อต้องการดำเนินการค้นหาเนื้อหาให้ทำ** ดังนี้
+**เมื่อต้องการค้นหาเนื้อหา**:
 
-1. ไปที่ [ศูนย์การปฏิบัติตามกฎระเบียบ & ด้านความปลอดภัย](https://protection.office.com) และลงชื่อเข้าใช้
-2. คลิก **ค้นหา > การค้นหาเนื้อหา**
-3. คลิก **ค้นหาใหม่** เพื่อสร้างการค้นหาใหม่
-4. ใส่เงื่อนไขการค้นหาที่จำเป็นรวมถึงคำสำคัญและตำแหน่งที่ตั้งของเนื้อหา
-5. คลิก **บันทึก & เรียกใช้** เพื่อตั้งชื่อการค้นหาเริ่มต้นแล้วคลิกแสดงตัวอย่างผลลัพธ์
+1. ไปที่ศูนย์Microsoft 365การปฏิบัติตามนโยบาย และลงชื่อเข้าใช้
+2. เลือก **>การค้นหา** เนื้อหา
+3. **เลือก การค้นหา** ใหม่ เพื่อสร้างการค้นหาใหม่
+4. ใส่เงื่อนไขการค้นหาที่ต้องมี รวมถึงคําหลักและที่ตั้งเนื้อหา
+5. **เลือก &จะ** เรียกใช้เพื่อตั้งชื่อการค้นหา เริ่มการค้นหา แล้วแสดงตัวอย่างผลลัพธ์
 
 > [!NOTE]
-> ใน **ศูนย์การปฏิบัติตามกฎระเบียบของ M365** ภายใต้ **โซลูชัน** ให้เลือกขยาย **eDiscovery** แล้วเลือกเครื่องมือ eDiscovery ที่คุณต้องการ
+> ใน **Microsoft 365โซลูชัน**  >  **ศูนย์การปฏิบัติตาม** ข้อบังคับ **ให้ขยาย eDiscovery** และเลือกเครื่องมือ eDiscovery ที่คุณต้องการ
 
-สำหรับคำแนะนำโดยละเอียดเกี่ยวกับการค้นหาเนื้อหาการส่งออกผลลัพธ์และการสร้างกรณีที่ eDiscovery เพื่อเก็บข้อมูลให้ดูที่การ[ค้นหาเนื้อหา](https://docs.microsoft.com/microsoft-365/compliance/content-search)และ[กรณี ediscovery](https://docs.microsoft.com/microsoft-365/compliance/ediscovery-cases)
+For detailed instructions about content searches, exporting results, and creating eDiscovery cases to hold data, see [Content Search](/microsoft-365/compliance/content-search) and [eDiscovery cases](/microsoft-365/compliance/ediscovery-cases).
 
 **ข้อมูลเพิ่มเติม**:
 
-- สำหรับข้อมูลเพิ่มเติมเกี่ยวกับเครื่องมือ eDiscovery ใน Microsoft ๓๖๕ให้ดูที่[eDiscovery](https://docs.microsoft.com/microsoft-365/compliance/ediscovery)
-- เรียนรู้เกี่ยวกับสิทธิ์ข้อกำหนดและขีดจำกัดที่จำเป็นสำหรับการดำเนินการค้นหา eDiscovery จาก[สิทธิ์ที่จำเป็นสำหรับการค้นหา ediscovery](https://docs.microsoft.com/microsoft-365/compliance/assign-ediscovery-permissions)และ[ข้อกำหนดและขีดจำกัด](https://docs.microsoft.com/microsoft-365/compliance/limits-for-content-search)
-- ถ้าคุณกำลังแก้ไขปัญหา eDiscovery ให้ดูที่[การแก้ไขปัญหาทั่วไปของ ediscovery และการ](https://docs.microsoft.com/microsoft-365/compliance/ediscovery-troubleshooting-common-issues)ตรวจสอบรายการที่มีการทำ[ดัชนีบางส่วน](https://docs.microsoft.com/microsoft-365/compliance/investigating-partially-indexed-items-in-ediscovery)
+- For more information on eDiscovery tools in Microsoft 365, see [eDiscovery](/microsoft-365/compliance/ediscovery).
+- เรียนรู้เกี่ยวกับสิทธิ์ ความต้องการ และขีดจํากัดที่ต้องใช้ในการค้นหา eDiscovery จาก[สิทธิ์ที่ต้องใช้ในการค้นหาและข้อจํากัดของ eDiscovery](/microsoft-365/compliance/assign-ediscovery-permissions) [](/microsoft-365/compliance/limits-for-content-search)
+- ถ้าคุณแก้ไขปัญหา eDiscovery ให้ดู[eDiscovery แก้ไขปัญหา](/microsoft-365/compliance/ediscovery-troubleshooting-common-issues)ทั่วไป[และการตรวจสอบรายการที่ได้ดัชนีบางส่วน](/microsoft-365/compliance/investigating-partially-indexed-items-in-ediscovery)
