@@ -1,8 +1,9 @@
 ---
-title: วิธีการดูและจัดการแอป
+title: วิธีดูและจัดการแอป
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
+ms.reviewer: ?, ?
 ms.date: ''
 ms.audience: Admin
 ms.topic: article
@@ -11,19 +12,20 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
+- commerce_subscriptions
 - "9000561"
 - "2420"
-ms.openlocfilehash: 1ee6d1a6bacdaa95054e8a7c98f11543ccae6c41
-ms.sourcegitcommit: ad2d185aa9e08c27c4a1c4803b679cc4e6305703
+ms.openlocfilehash: 0789275d75bf611e2bda31ff16eafa730836fb54
+ms.sourcegitcommit: 540a4e2515f7cfddee65519046454fc4437cd287
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 10/16/2020
-ms.locfileid: "48489116"
+ms.lasthandoff: 08/01/2021
+ms.locfileid: "53686581"
 ---
-# <a name="how-to-view-and-manage-apps"></a>วิธีการดูและจัดการแอป
+# <a name="how-to-view-and-manage-apps"></a>วิธีดูและจัดการแอป
 
-คุณสามารถดูแอปของคุณได้ในศูนย์การจัดการ Microsoft ๓๖๕
+คุณสามารถดูแอปได้ศูนย์การจัดการ Microsoft 365แอป
 
-1. ในศูนย์การจัดการให้ไปที่หน้าการ**เรียกเก็บเงิน**  >  [ของผลิตภัณฑ์ของคุณ](https://go.microsoft.com/fwlink/p/?linkid=842054)
-2. บนแท็บ**ผลิตภัณฑ์**ให้เลื่อนลงไปที่ส่วน**แอป**
-3. เมื่อต้องการจัดการแอปให้เลือกรายการที่คุณต้องการจัดการ
+1. ในศูนย์การจัดการ ให้ไปที่หน้า  >  [การเรียกเก็บเงินผลิตภัณฑ์](https://go.microsoft.com/fwlink/p/?linkid=842054)ของคุณ
+2. **บนแท็บ** ผลิตภัณฑ์ ให้เลื่อนลงไปยัง **ส่วน** แอป
+3. เมื่อต้องการจัดการแอป ให้เลือกแอปที่คุณต้องการจัดการ

@@ -1,9 +1,9 @@
 ---
-title: การเปิดใช้งานการสมัครใช้งานสิทธิ์การใช้งาน Microsoft Volume
+title: การเปิดใช้งานการสมัครใช้งาน Microsoft Volume License
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.date: 04/21/2020
+ms.reviewer: micurn, nicholak
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -11,23 +11,25 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
+- commerce_subscriptions
 - "481"
 - "1500028"
 ms.assetid: 7a6919fc-afe4-40c7-8ada-d8ce523ad8a8
-ms.openlocfilehash: b98f8c2da22e07c6e99e04c7e7e06f4d9b1fbcc7
-ms.sourcegitcommit: 0338332a70fec9bd1e81b26e1933a5d0e3f261b6
+ms.date: 04/21/2020
+ms.openlocfilehash: f00526f507826cf4e58967531fff73183461e3b9
+ms.sourcegitcommit: 540a4e2515f7cfddee65519046454fc4437cd287
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 09/29/2020
-ms.locfileid: "48307196"
+ms.lasthandoff: 08/01/2021
+ms.locfileid: "53685825"
 ---
-# <a name="activating-a-microsoft-volume-license-subscription"></a>การเปิดใช้งานการสมัครใช้งานสิทธิ์การใช้งาน Microsoft Volume
+# <a name="activating-a-microsoft-volume-license-subscription"></a>การเปิดใช้งานการสมัครใช้งาน Microsoft Volume License
 
-1. ลงชื่อเข้าใช้ใน [พอร์ทัลศูนย์บริการ Volume Licensing (VLSC)](https://go.microsoft.com/fwlink/p/?LinkId=329762)ของคุณ
-2. นำทางไปยังการสมัครใช้งานของคุณแล้วเลือก**เปิดใช้งาน**
-3. อีเมลจะถูกส่งไปยังที่ติดต่อของบริการออนไลน์ (OLS) ของคุณ
-4. อีเมลการเปิดใช้งานมีสองตัวเลือก:**ลงทะเบียน**หรือ**ลงชื่อเข้าใช้** ถ้าคุณได้สร้างเวอร์ชันทดลองใช้ก่อนหน้านี้แล้วให้เลือก**ลงชื่อเข้าใช้** ถ้าคุณยังไม่มีผู้เช่า Microsoft ๓๖๕ให้เลือก**ลงทะเบียน**
-5. ลงชื่อเข้าใช้ศูนย์การจัดการ Microsoft ๓๖๕ ( [https://admin.microsoft.com](https://admin.microsoft.com) ) โดยใช้ข้อมูลประจำตัวของผู้ดูแลระบบที่มีอยู่ของคุณ หลังจากที่คุณลงชื่อเข้าใช้เสร็จเรียบร้อยแล้วคุณจะได้รับอีเมลอื่นที่ยืนยันการซื้อของคุณ
-6. หลังจากที่คุณลงชื่อเข้าใช้แล้วให้ไปที่หน้าการ **เรียกเก็บเงิน** \> [ของผลิตภัณฑ์ของคุณ](https://go.microsoft.com/fwlink/p/?linkid=842054) เพื่อตรวจสอบว่าการสมัครใช้งานที่ซื้อของคุณได้รับการใช้งานแล้ว 
+1. ลงชื่อเข้าใช้พอร์ทัลศูนย์บริการ [Volume Licensing (VLSC)](https://go.microsoft.com/fwlink/p/?LinkId=329762)ของคุณ
+2. นําทางไปยังการสมัครใช้งานของคุณ **แล้วเลือก** เปิดใช้งาน
+3. อีเมลจะถูกส่งไปยังที่ติดต่อบริการออนไลน์ (OLS) ของคุณ
+4. อีเมลการเปิดใช้งานจะมีสองตัวเลือกให้คุณ:**ลงทะเบียน****หรือ** ลงชื่อเข้าใช้ ถ้าคุณเคยสร้างรุ่นทดลองใช้ **ไว้ก่อนหน้านี้ ให้เลือก** ลงชื่อเข้าใช้ ถ้าคุณยังไม่มีผู้Microsoft 365เช่า **ให้เลือก** ลงทะเบียน
+5. ลงชื่อเข้าใช้โฟลเดอร์ ศูนย์การจัดการ Microsoft 365 ( ) [https://admin.microsoft.com](https://admin.microsoft.com) โดยใช้ข้อมูลรับรองความถูกต้องของผู้ดูแลระบบที่มีอยู่ของคุณ หลังจากที่คุณลงชื่อเข้าใช้เรียบร้อยแล้ว คุณจะได้รับอีเมลอีกฉบับหนึ่งที่ยืนยันการซื้อของคุณ
+6. หลังจากที่คุณลงชื่อเข้าใช้แล้ว ให้ไปที่หน้า **การเรียกเก็บเงิน** \> [ผลิตภัณฑ์ของคุณ](https://go.microsoft.com/fwlink/p/?linkid=842054) เพื่อตรวจสอบว่าการสมัครใช้งานที่คุณซื้อมีการใช้งานแล้ว 
     > [!NOTE]
-    > นอกจากนี้คุณยังสามารถเลือกแท็บการ **สมัคร** ใช้งานใน VLSC เพื่อดูรายละเอียดการตรวจสอบว่าการสมัครใช้งานของคุณถูกเปิดใช้งานแล้ว)
+    > คุณยังสามารถเลือกแท็บ **การสมัครใช้งาน** ใน VLSC เพื่อดูรายละเอียดที่ยืนยันว่าการสมัครใช้งานของคุณถูกเปิดใช้งานแล้ว)
