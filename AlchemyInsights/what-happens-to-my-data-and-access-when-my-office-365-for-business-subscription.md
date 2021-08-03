@@ -1,8 +1,9 @@
 ---
-title: จะเกิดอะไรขึ้นกับข้อมูลและการเข้าถึงของฉันเมื่อการสมัครใช้งาน Microsoft ๓๖๕สำหรับธุรกิจของฉันสิ้นสุดลง
+title: จะเกิดอะไรขึ้นกับข้อมูลและการเข้าถึงของฉันเมื่อการสมัครใช้งาน Microsoft 365 for Business สิ้นสุดลง
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
+ms.reviewer: jkinma, jmueller
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
@@ -11,22 +12,23 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
+- commerce_subscriptions
 - "484"
 - "1500030"
 ms.assetid: d2a41ce0-207f-4f50-8a6a-2ec5b56b3ed6
-ms.openlocfilehash: 5861aa9b952b571b620dca1d56adef7cc0fa420c
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 865056484b449f1dd33b595eec9f3cb740536ba0
+ms.sourcegitcommit: 540a4e2515f7cfddee65519046454fc4437cd287
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47668942"
+ms.lasthandoff: 08/01/2021
+ms.locfileid: "53688273"
 ---
-# <a name="what-happens-to-my-data-and-access-when-my-microsoft-365-for-business-subscription-ends"></a>จะเกิดอะไรขึ้นกับข้อมูลและการเข้าถึงของฉันเมื่อการสมัครใช้งาน Microsoft ๓๖๕สำหรับธุรกิจของฉันสิ้นสุดลง
+# <a name="what-happens-to-my-data-and-access-when-my-microsoft-365-for-business-subscription-ends"></a>จะเกิดอะไรขึ้นกับข้อมูลและการเข้าถึงของฉันเมื่อการสมัครใช้งาน Microsoft 365 for Business สิ้นสุดลง
 
-ถ้าการสมัครใช้งานของคุณสิ้นสุดลงเนื่องจากหมดอายุหรือเนื่องจากคุณตัดสินใจที่จะยกเลิกการเข้าถึงบริการแอปพลิเคชันและข้อมูลลูกค้าของคุณไปยังหลายรัฐก่อนที่การสมัครใช้งานจะถูกปิดหรือยกเลิกการสมัคร  *ใช้งานทั้ง*  หมด ถ้าคุณทราบเกี่ยวกับความคืบหน้านี้คุณจะได้รับการปรับปรุงให้ดียิ่งขึ้นเมื่อต้องการส่งกลับการสมัครใช้งานของคุณไปยังสถานะที่ใช้งานอยู่ก่อนที่จะสายเกินไปหรือถ้าคุณกำลังออกจาก Microsoft ให้สำรองข้อมูลของคุณก่อนที่จะถูกลบไปในท้ายที่สุด
+If your subscription ends—either because it expires, or because you decide to cancel—your access to services, applications, and customer data go through multiple states before the subscription is fully turned off, or  *deprovisioned*  . หากคุณทราบความคืบหน้านี้ คุณควรคืนการสมัครใช้งานของคุณกลับเป็นสถานะใช้งานอยู่ก่อนที่จะสายเกินไป หรือถ้าคุณจะออกจาก Microsoft ให้รวบรวมข้อมูลของคุณก่อนที่จะถูกลบในท้ายที่สุด
   
-ก่อนที่การสมัครใช้งานจะถึงวันหมดอายุของคุณคุณจะมีตัวเลือกสองสามตัวเลือกในการ **จัดการการเรียกเก็บเงินที่เป็นกิจวัตรสำหรับการสมัครใช้**งาน
+ก่อนที่การสมัครใช้งานจะถึงวันหมดอายุจริงๆ คุณจะมีตัวเลือกสองสามตัวเลือกในการจัดการการเรียกเก็บเงิน **ตามระยะเวลาที่เรียกเก็บเป็นกิจวัตรของ** การสมัครใช้งาน
   
-- ถ้าการ **เรียกเก็บเงินเป็นกิจวัตร** เปิดอยู่แล้วคุณไม่จำเป็นต้องดำเนินการใดๆ การสมัครใช้งานของคุณจะถูกเรียกเก็บเงินในวันที่การ **เรียกเก็บเงิน** ที่เป็นกิจวัตรและคุณจะถูกเรียกเก็บเงินสำหรับปีหรือเดือนเพิ่มเติมทั้งนี้ขึ้นอยู่กับความถี่ในการเรียกเก็บเงินปัจจุบันของคุณ ถ้าเหตุผลใดก็ตามที่คุณเปิดการ **เรียกเก็บเงินเป็นกิจวัตร** คุณสามารถ [เปิดการเรียกเก็บเงินที่เป็นกิจวัตร](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/renew-your-subscription#turn-recurring-billing-off-or-on)ได้ตลอดเวลา
+- ถ้า **การเรียกเก็บเงินเป็น** กิจวัตรถูกเปิดใช้งานอยู่แล้ว คุณไม่มีสิทธิ์ใดๆ การสมัครใช้งานของคุณจะถูกเรียกเก็บเงินตามวันที่ **เรียกเก็บเงินเป็นกิจวัต** ร และคุณจะได้รับการเรียกเก็บเงินรายปีหรือรายเดือนเพิ่มเติม โดยขึ้นอยู่กับความถี่ในการเรียกเก็บเงินปัจจุบันของคุณ หากคุณปิดการเรียกเก็บเงินเป็นกิจวัต **รด้วยเหตุผล** ใดก็ตาม คุณสามารถเปิดการเรียกเก็บเงิน [เป็น](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/renew-your-subscription#turn-recurring-billing-off-or-on)กิจวัตรอีกครั้งได้เสมอ
 
-- ถ้าคุณเป็นลูกค้าเปิดใช้งาน Volume Licensing ที่มีการสมัครใช้งานแบบชำระเงินล่วงหน้าหนึ่งปีให้ติดต่อคู่ค้าของคุณเพื่อซื้อคีย์ผลิตภัณฑ์ใหม่ คุณจะได้รับคำแนะนำผ่านทางอีเมลเพื่อเปิดใช้งานคีย์ของคุณใน[ศูนย์บริการ Volume Licensing](https://go.microsoft.com/fwlink/p/?LinkID=282016) เมื่อต้องการเรียนรู้วิธีการค้นหาคู่ค้าใหม่หรือคู่ค้าที่คุณทำงานด้วยในอดีตให้ดูที่[ค้นหาคู่ค้า Microsoft ๓๖๕หรือตัวแทนจำหน่ายของคุณ](https://docs.microsoft.com/microsoft-365/admin/manage/find-your-partner-or-reseller)
+- ถ้าคุณเป็นลูกค้า Open Volume Licensing ที่มีการสมัครใช้งานหนึ่งปีที่จ่ายล่วงหน้า ให้ติดต่อคู่ค้าของคุณเพื่อซื้อคีย์ผลิตภัณฑ์ใหม่ คุณจะได้รับคําแนะนําผ่านทางอีเมลเพื่อเปิดใช้งานคีย์ใน[Volume Licensing Service Center](https://go.microsoft.com/fwlink/p/?LinkID=282016) To learn how to find a new partner, or the partner you've worked with in the past, see [Find your Microsoft 365 partner or reseller](https://docs.microsoft.com/microsoft-365/admin/manage/find-your-partner-or-reseller).

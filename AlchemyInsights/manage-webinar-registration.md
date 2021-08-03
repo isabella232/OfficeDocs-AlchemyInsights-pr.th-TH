@@ -13,25 +13,33 @@ ms.collection: Adm_O365
 ms.custom:
 - "11512"
 - "9006672"
-ms.openlocfilehash: 0db6f434fa74970ac6083501ab26762cc6b7885f
-ms.sourcegitcommit: 1eee2412dfb8b1f10a3aa28dd1086a0c589cdba0
+ms.openlocfilehash: e164efdd5b1dec329179496f89f95867be7666d1
+ms.sourcegitcommit: 540a4e2515f7cfddee65519046454fc4437cd287
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 06/07/2021
-ms.locfileid: "52798663"
+ms.lasthandoff: 08/01/2021
+ms.locfileid: "53687517"
 ---
 # <a name="manage-webinar-registration"></a>จัดการการลงทะเบียนการสัมมนาผ่านเว็บ
 
-คุณสามารถจัดการผู้ที่สามารถลงทะเบียนเข้าร่วมTeamsสัมมนาผ่านเว็บโดยใช้Teamsสั่ง Powershell เมื่อต้องการTeams Powershell [Teams PowerShell](/microsoftteams/teams-powershell-install) 
+การลงทะเบียนการสัมมนาผ่านเว็บจะเปิดใช้งานตามค่าเริ่มต้น ถ้าคุณต้องการปิดการลงทะเบียนการประชุม คุณสามารถใช้ศูนย์การจัดการ Teams: 
 
-ตามค่าเริ่มต้น *WhoCanRegister* จะเปิดใช้งานและ **ตั้งค่าเป็น** ทุกคน 
+1. ไปที่[Teamsการจัดการ](https://admin.teams.microsoft.com/policies/meetings) 
 
-ถ้าคุณไม่เห็นตัวเลือกเพื่ออนุญาตการลงทะเบียนให้ทุกคนในคําเชิญเข้าร่วมประชุม ให้เรียกใช้การตั้งค่า *WhoCanRegister ใหม่* เป็น ทุกคน และรอ 24 ชั่วโมง เมื่อต้องการเรียกใช้ *WhoCanRegister ใหม่* ให้ใช้สั่ง Powershell:
+2. เลือก **ส่วนกลาง (ค่าเริ่มต้นทั่วทั้งองค์กร)** หรือนโยบายเฉพาะอื่นๆ 
 
-`Set-CsTeamsMeetingPolicy -WhoCanRegister Everyone`
+3. ภายใต้ **ทั่วไป** ให้ **ตั้งค่า อนุญาตการลงทะเบียน** เข้าร่วมประชุม **เป็น** ปิด 
 
-**หมายเหตุ**: ถ้าการเข้าร่วมแบบไม่ระบุชื่อถูกปิดใช้งานในการตั้งค่าการประชุม ผู้ใช้ที่ไม่ระบุชื่อไม่สามารถเข้าร่วมการสัมมนาผ่านเว็บได้ เมื่อต้องการเรียนรู้เพิ่มเติมและเปิดใช้งานการตั้งค่านี้[ให้ดู จัดการการตั้งค่าการประชุมใน Microsoft Teams](/microsoftteams/meeting-settings-in-teams)
+เมื่อการลงทะเบียนการประชุมถูกตั้งค่าเป็น **เปิด** คุณยังสามารถจัดการผู้ที่ลงทะเบียนTeamsการสัมมนาผ่านเว็บโดยใช้ศูนย์Teamsการประชุม: 
 
-ถ้าคุณต้องการปิดการลงทะเบียนการประชุม ให้ตั้งค่า *AllowMeetingRegistration* **เป็น** เท็จ
+1. ไปที่[Teamsการจัดการ](https://admin.teams.microsoft.com/policies/meetings) 
 
-เมื่อต้องการเรียนรู้เพิ่มเติมเกี่ยวกับการกําหนดค่าผู้ที่สามารถลงทะเบียนการสัมมนาผ่านเว็บ [ให้ดู กําหนดค่าผู้ที่สามารถลงทะเบียนการสัมมนาผ่าน](/microsoftteams/set-up-webinars?source=docs#configure-who-can-register-for-webinars)เว็บ For more information about settings for Microsoft Lists, see [Control settings for Microsoft Lists](/sharepoint/control-lists).
+2. เลือก **ส่วนกลาง (ค่าเริ่มต้นทั่วทั้งองค์กร)** หรือนโยบายเฉพาะอื่นๆ 
+
+3. **ภายใต้** ทั่วไป ให้ไปที่ใคร **สามารถ** ลงทะเบียนการตั้งค่า แล้วเลือก **ทุกคน** หรือ **ทุกคนใน** บริษัท 
+
+**หมายเหตุ**: ถ้าการเข้าร่วมแบบไม่ระบุชื่อถูกปิดใช้งานในการตั้งค่าการประชุม ผู้ใช้ที่ไม่ระบุชื่อไม่สามารถเข้าร่วมการสัมมนาผ่านเว็บได้ เมื่อต้องการเรียนรู้เพิ่มเติมเกี่ยวกับการเปิดใช้งานการตั้งค่านี้ ให้ดู [จัดการการตั้งค่าการประชุมใน Microsoft Teams](/microsoftteams/meeting-settings-in-teams) 
+
+เมื่อต้องการเรียนรู้เพิ่มเติมเกี่ยวกับการกําหนดค่าผู้ที่สามารถลงทะเบียนการสัมมนาผ่านเว็บและวิธีการจัดการนโยบายเหล่านี้โดยใช้ Teams PowerShell ให้ดู กําหนดผู้ที่ [สามารถลงทะเบียนการสัมมนาผ่าน](/microsoftteams/set-up-webinars?source=docs#configure-who-can-register-for-webinars)เว็บ For more information about settings for Microsoft Lists, see [Control settings for Microsoft Lists](/sharepoint/control-lists). 
+
+ 

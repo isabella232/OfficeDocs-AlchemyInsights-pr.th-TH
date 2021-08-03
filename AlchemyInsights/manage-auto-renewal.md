@@ -1,8 +1,9 @@
 ---
-title: การจัดการการต่ออายุอัตโนมัติ
+title: จัดการการต่ออายุอัตโนมัติ
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
+ms.reviewer: jkinma, jmueller
 ms.date: ''
 ms.audience: Admin
 ms.topic: article
@@ -11,24 +12,25 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
+- commerce_subscriptions
 - "350"
 - "1500012"
 ms.assetid: f1a3f310-a87f-4a42-a9c3-4ea894caf52e
-ms.openlocfilehash: d26d9976fa4ebcd98ee4a8a0547f706293e78f9a
-ms.sourcegitcommit: ad2d185aa9e08c27c4a1c4803b679cc4e6305703
+ms.openlocfilehash: 488a7abdaa5e1a1bf1133434b57b1009b8a80854
+ms.sourcegitcommit: 540a4e2515f7cfddee65519046454fc4437cd287
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 10/16/2020
-ms.locfileid: "48488828"
+ms.lasthandoff: 08/01/2021
+ms.locfileid: "53688057"
 ---
-# <a name="manage-recurring-billing"></a>จัดการการเรียกเก็บเงินเป็นกิจวัตร
+# <a name="manage-recurring-billing"></a>จัดการการเรียกเก็บเงินตามระยะเวลาที่ตั้งค่า
 
-คุณสามารถเปิดหรือปิดการเรียกเก็บเงินแบบเป็นกิจวัตรในศูนย์การจัดการ Microsoft ๓๖๕
+คุณสามารถเปิดหรือปิดการเรียกเก็บเงินเป็นกิจวัตรศูนย์การจัดการ Microsoft 365ได้
   
-1. ในศูนย์การจัดการให้ไปที่หน้าการ**เรียกเก็บเงิน** \> [ของผลิตภัณฑ์ของคุณ](https://go.microsoft.com/fwlink/p/?linkid=842054)
-2. บนแท็บ **ผลิตภัณฑ์** ให้เลือกการสมัครใช้งานที่คุณต้องการเปลี่ยนแปลง
-3. บนหน้ารายละเอียดการสมัครใช้งานภายใต้**การตั้งค่าการสมัครใช้งานและการชำระเงิน**ให้เลือก**แก้ไขการเรียกเก็บเงินเป็นกิจวัตร**
-4. ในบานหน้าต่าง**แก้ไขการตั้งค่าการเรียกเก็บเงินเป็นกิจวัตร**ให้เลือก**เปิด**บน**แต่ต่ออายุหนึ่งครั้ง**หรือ**ปิด**
-5. เลือก**บันทึก**
+1. ในศูนย์การจัดการ ให้ไปที่หน้า \> [การเรียกเก็บเงินผลิตภัณฑ์](https://go.microsoft.com/fwlink/p/?linkid=842054)ของคุณ
+2. **บนแท็บ** ผลิตภัณฑ์ ให้เลือกการสมัครใช้งานที่คุณต้องการเปลี่ยนแปลง
+3. บนหน้ารายละเอียดการสมัครใช้งาน ภายใต้ การตั้งค่าการสมัครใช้งาน **และการ Payment ให้เลือก****แก้ไขการเรียกเก็บเงินแบบเป็นกิจวัต** ร
+4. ในบานหน้าต่าง **แก้ไขการตั้งค่าการเรียกเก็บเงินเป็นกิจ** วัตร **ให้เลือก** เปิด เปิด **แต่ต่ออายุหนึ่งครั้ง****หรือ** ปิด
+5. เลือกบันทึก
 
-เมื่อต้องการเรียนรู้เพิ่มเติมให้ดูที่[เปิดหรือปิดการเรียกเก็บเงินที่เป็นกิจวัตร](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/renew-your-subscription#turn-recurring-billing-off-or-on)
+หากต้องการเรียนรู้เพิ่มเติม โปรดดู [ปิดหรือเปิดการเรียกเก็บเงินแบบเป็นกิจวัต](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/renew-your-subscription#turn-recurring-billing-off-or-on)ร
