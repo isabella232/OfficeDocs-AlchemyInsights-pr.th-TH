@@ -1,5 +1,5 @@
 ---
-title: การสนับสนุนการตกเป็นโครงสร้างพื้นฐานของบริการ
+title: สนับสนุนโครงสร้างพื้นฐานของบริการที่ยังไม่อยู่
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,13 +12,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "5151"
 - "9002659"
-ms.openlocfilehash: a41cd828b41d871053e2fa78a3a706b6dedf26e5
-ms.sourcegitcommit: 201c70a805ee76a13f97696e5a07ba27d0ce70a7
+ms.openlocfilehash: 9cc999a288d7e08b83cb8a54720ff77286f645758ee42db14f68057b0edc3e46
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 10/05/2020
-ms.locfileid: "48365323"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53998998"
 ---
-# <a name="support-service-infrastructure-outage"></a>การสนับสนุนการตกเป็นโครงสร้างพื้นฐานของบริการ
+# <a name="support-service-infrastructure-outage"></a>สนับสนุนโครงสร้างพื้นฐานของบริการที่ยังไม่อยู่
 
-เรากำลังประสบปัญหาในการสนับสนุนโครงสร้างพื้นฐานของบริการสนับสนุน เรากำลังดำเนินการแก้ไขปัญหาให้เร็วที่สุดเท่าที่จะเป็นไปได้แต่ในขณะเดียวกันคุณอาจเห็นความล่าช้าในการตอบกลับเมื่อพยายามติดต่อไมโครซอฟท์
+ขณะนี้เราประสบกับปัญหาการไม่อยู่ของโครงสร้างพื้นฐานของบริการสนับสนุน เราพยายามแก้ไขปัญหาโดยเร็วที่สุด แต่ในขณะเดียวกันคุณอาจเห็นความล่าช้าของเวลาตอบสนองเมื่อพยายามติดต่อ Microsoft

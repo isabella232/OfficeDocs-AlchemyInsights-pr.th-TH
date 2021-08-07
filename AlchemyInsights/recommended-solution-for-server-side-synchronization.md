@@ -1,5 +1,5 @@
 ---
-title: โซลูชันที่แนะนำสำหรับการซิงโครไนซ์ฝั่งเซิร์ฟเวอร์
+title: โซลูชันที่แนะServer-Sideการซิงโครไนซ์
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,19 +13,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "1457"
 - "6200010"
-ms.openlocfilehash: 5325296fbcd89f016b0bcec0083ef8588e2ea301
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 5eafe7798ecfaab14b61db55e76c537e1b9625726dace4eaa410b4f55f92127b
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47693106"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53923078"
 ---
-# <a name="recommended-solution-for-server-side-synchronization"></a>โซลูชันที่แนะนำสำหรับการซิงโครไนซ์ฝั่งเซิร์ฟเวอร์
+# <a name="recommended-solution-for-server-side-synchronization"></a>โซลูชันที่แนะServer-Sideการซิงโครไนซ์
 
-- [ความล้มเหลวหลังจากคลิกทดสอบ & เปิดใช้งานกล่องจดหมายใน Dynamics ๓๖๕](https://go.microsoft.com/fwlink/p/?linkid=2007026)
-- [เหตุใดข้อความอีเมลที่ฉันส่งมีสถานะ "ส่งที่ค้างอยู่"](https://go.microsoft.com/fwlink/p/?linkid=859627)
-- [การนัดหมายถูกยกเลิกหรือถูกลบโดยไม่คาดคิดเมื่อใช้การซิงโครไนซ์ฝั่งเซิร์ฟเวอร์](https://go.microsoft.com/fwlink/p/?linkid=2007027)
-- [ข้อผิดพลาด "คุณไม่สามารถส่งอีเมลเป็นผู้ใช้ที่เลือก" เกิดขึ้นเมื่อพยายามส่งอีเมลเป็นผู้ใช้อื่น](https://go.microsoft.com/fwlink/p/?linkid=2007131)
-- [การแก้ไขปัญหาการซิงโครไนซ์ฝั่งเซิร์ฟเวอร์](https://go.microsoft.com/fwlink/p/?linkid=2007132)
-- [ตั้งค่าการซิงโครไนซ์อีเมลการนัดหมายที่ติดต่อและงานของฝั่งเซิร์ฟเวอร์](https://go.microsoft.com/fwlink/p/?linkid=534983)
+- [ความล้มเหลวหลังจากคลิก ทดสอบ &เปิดใช้งานกล่องจดหมายใน Dynamics 365](https://go.microsoft.com/fwlink/p/?linkid=2007026)
+- [เหตุใดข้อความอีเมลที่ฉันส่งจึงมีสถานะ "การส่งที่ค้างอยู่"](https://go.microsoft.com/fwlink/p/?linkid=859627)
+- [การนัดหมายถูกยกเลิกหรือถูกลบโดยไม่คาดคิดเมื่อใช้การServer-Sideให้ตรงกัน](https://go.microsoft.com/fwlink/p/?linkid=2007027)
+- [เกิดข้อผิดพลาด "คุณไม่สามารถส่งอีเมลเป็นผู้ใช้ที่เลือก" เมื่อพยายามส่งอีเมลเป็นผู้ใช้อื่น](https://go.microsoft.com/fwlink/p/?linkid=2007131)
+- [การแก้ไขปัญหาServer-Sideให้ตรงกัน](https://go.microsoft.com/fwlink/p/?linkid=2007132)
+- [ตั้งค่าการซิงโครไนซ์ด้านเซิร์ฟเวอร์ของอีเมล การนัดหมาย ที่ติดต่อ และงาน](https://go.microsoft.com/fwlink/p/?linkid=534983)
 - [รวม (ซิงโครไนซ์) ระบบอีเมลของคุณ](https://go.microsoft.com/fwlink/p/?linkid=851471)

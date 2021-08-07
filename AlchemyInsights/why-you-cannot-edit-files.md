@@ -1,5 +1,5 @@
 ---
-title: ไฟล์ถูกล็อกสำหรับการแก้ไข
+title: ไฟล์ถูกล็อกเพื่อแก้ไข
 ms.author: pebaum
 author: pebaum
 manager: pamgreen
@@ -14,27 +14,27 @@ ms.custom:
 - "9000123"
 - "1622"
 - "1713"
-ms.openlocfilehash: 3020837e8e8dd3b9ff4ada33f23c6118e83c3806
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 819aada39cdb819cb7a4fe30e14e88239c6352ab451eb77ee135307d5dd1cfcd
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47664513"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53907829"
 ---
 # <a name="why-cant-i-edit-files"></a>เหตุใดฉันจึงไม่สามารถแก้ไขไฟล์ได้
 
-ดูอย่างรวดเร็วด้วยเหตุผลบางประการที่ทำให้ [คุณอาจไม่สามารถแก้ไขไฟล์](https://support.office.com/article/why-can-t-i-edit-this-file-97315f48-aa5e-49d3-a4ae-a14b73daf87b)ได้
+ดูสาเหตุบางประการที่ [คุณอาจไม่สามารถแก้ไขไฟล์](https://support.office.com/article/why-can-t-i-edit-this-file-97315f48-aa5e-49d3-a4ae-a14b73daf87b)ได้
 
-ถ้าคุณมีไลบรารีที่มีการ **เช็คเอาท์คอลัมน์ที่จำเป็น** หรือการ **ตรวจสอบความถูก** ต้องหรือ metadata หรือเมื่อมีการตั้งค่า **ความปลอดภัยของรายการแบบร่าง** เป็น **เฉพาะผู้ใช้ที่สามารถแก้ไข** หรือ **เฉพาะผู้ใช้ที่สามารถอนุมัติรายการ** ในการตั้งค่าเวอร์ชันของไลบรารีเท่านั้น:
+ถ้าคุณมีไลบรารีที่มีเช็คเอาท์ ต้องการหรือคอลัมน์การตรวจสอบความถูกต้อง หรือข้อมูลขนาดใหญ่ หรือเมื่อแบบร่าง **ความปลอดภัยของ** รายการ ถูกตั้งค่า เฉพาะผู้ใช้ที่สามารถแก้ไข หรือเฉพาะผู้ใช้ที่สามารถอนุมัติรายการในเวอร์ชัน การตั้งค่า ของไลบรารี:
 
-- สำหรับไลบรารีเอกสาร SharePoint รายการเหล่านี้จะได้รับการซิงโครไนซ์เป็นแบบอ่านอย่างเดียว
+- For SharePoint document libraries, these items will be synchronized as read-only.
 
-- สำหรับไลบรารี OneDrive OneDrive จะแสดงไอคอนล็อก (ไอคอนที่ล็อกไฟล์ OneDrive) ที่อยู่ถัดจากสถานะการซิงค์และผู้ใช้จะไม่สามารถซิงโครไนซ์ไลบรารีได้จนกว่าการตั้งค่าดังกล่าวจะถูกเอาออก 
+- for OneDrive libraries, OneDrive will show a lock icon ( OneDrive file locked icon ) next to the sync status and the user will not to synchronize the library until the mentioned settings have been removed. 
 
-สำหรับข้อมูลเพิ่มเติมเกี่ยวกับไฟล์ที่ล็อกสำหรับ Word หรือ Excel โปรดอ้างอิงบทความด้านล่างนี้
+For more information regarding locked files for Word or Excel, please reference the articles below.
 
-- [ฉันได้รับข้อผิดพลาด "การอัปโหลดล้มเหลว" หรือ "ไม่สามารถบันทึกโดยอัตโนมัติ" ได้ในขณะที่กำลังแก้ไขไฟล์ Office](https://support.office.com/article/i-got-an-upload-failed-or-couldn-t-save-automatically-error-while-editing-an-office-file-93a14d34-88e3-4a91-9eef-58cc541d31f8)
+- [ฉันได้รับข้อผิดพลาด "Uploadล้มเหลว" หรือ "ไม่สามารถบันทึกโดยอัตโนมัติได้" ขณะแก้ไขOfficeต้นฉบับ](https://support.office.com/article/i-got-an-upload-failed-or-couldn-t-save-automatically-error-while-editing-an-office-file-93a14d34-88e3-4a91-9eef-58cc541d31f8)
 
-- [ไฟล์ Excel ถูกล็อกสำหรับการแก้ไขโดยผู้ใช้อื่น](https://support.office.com/article/Excel-file-is-locked-for-editing-by-another-user-6fa93887-2c2c-45f0-abcc-31b04aed68b3)
+- [Excelไฟล์ถูกล็อกไว้เพื่อแก้ไขโดยผู้ใช้อื่น](https://support.office.com/article/Excel-file-is-locked-for-editing-by-another-user-6fa93887-2c2c-45f0-abcc-31b04aed68b3)
 
-- [ไฟล์ Word ถูกล็อกสำหรับการแก้ไขโดยผู้ใช้อื่น](https://support.microsoft.com/help/313472/the-document-is-locked-for-editing-by-another-user-error-message-when)
+- [ไฟล์ Word ถูกล็อกเพื่อแก้ไขโดยผู้ใช้อื่น](https://support.microsoft.com/help/313472/the-document-is-locked-for-editing-by-another-user-error-message-when)

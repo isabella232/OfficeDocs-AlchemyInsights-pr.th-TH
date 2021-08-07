@@ -9,33 +9,33 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 67aaea23-025c-4af6-a826-bf97cec216ef
-ms.openlocfilehash: 779db68e3018476f64da78678766b81cc0656cad
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: d5fac2ce5f480213d5d260843f59d6aa08552b60a3eccc771e5eb3f7aa814b66
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47796739"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53908369"
 ---
-# <a name="user-permissions-in-sharepoint-and-onedrive"></a>สิทธิ์ของผู้ใช้ใน SharePoint และ OneDrive
+# <a name="user-permissions-in-sharepoint-and-onedrive"></a>สิทธิ์ของผู้ใช้ในSharePoint OneDrive
 
-ถ้าผู้ใช้ในองค์กรของคุณไม่สามารถเข้าถึง SharePoint หรือ OneDrive ตรวจสอบให้แน่ใจว่าพวกเขามีสิทธิ์การใช้งานที่มี SharePoint และ OneDrive 
+ถ้าผู้ใช้ในองค์กรของคุณไม่สามารถเข้าถึง SharePointหรือOneDrive ให้ตรวจสอบให้แน่ใจว่าพวกเขามีสิทธิ์การใช้งานที่มีSharePointและOneDrive 
   
-1. ไปที่ [หน้าผู้ใช้ที่ใช้งานอยู่ในศูนย์การจัดการ Microsoft ๓๖๕](https://portal.office.com/adminportal/home#/users) แล้วเลือกผู้ใช้ 
+1. ไปที่หน้า[ผู้ใช้ที่ใช้งานอยู่ ศูนย์การจัดการ Microsoft 365](https://portal.office.com/adminportal/home#/users)แล้วเลือกผู้ใช้ 
     
-2. ตรวจสอบให้แน่ใจว่าภายใต้สิทธิ์การใช้งาน **ผลิตภัณฑ์**สิทธิ์การใช้งานจะถูกกำหนดและ **SharePoint Online** ถูกเลือกไว้ 
+2. ตรวจสอบให้แน่ใจว่าได้เลือก **ภายใต้ สิทธิ์การใช้งาน** ผลิตภัณฑ์ สิทธิ์การใช้งาน SharePoint **Online** แล้ว 
     
- เมื่อต้องการให้สิทธิ์แก่ผู้ใช้ในการเข้าถึงไซต์ SharePoint ให้ทำดังนี้ 
+ เมื่อต้องการให้สิทธิ์ผู้ใช้ในการเข้าถึงไซต์ SharePointให้ต่อไปนี้ 
   
 1. เปิดไซต์ในเว็บเบราว์เซอร์
     
-2. ถ้าไซต์เป็นสมาชิกของกลุ่ม Microsoft ๓๖๕ให้คลิกไอคอนการตั้งค่าที่มุมขวาบนแล้วคลิก**สิทธิ์สำหรับไซต์** คลิก **เชิญบุคคล**แล้วเลือกเพื่อเพิ่มสมาชิกลงในกลุ่ม Microsoft ๓๖๕หรือแชร์เฉพาะไซต์ 
+2. ถ้าไซต์นั้นเป็นของกลุ่มMicrosoft 365 ให้คลิกไอคอนการการตั้งค่าที่มุมขวาบน แล้วคลิก **สิทธิ์ของไซต์** คลิก **เชิญ** บุคคล แล้วเลือก เพิ่มสมาชิก ลงในMicrosoft 365หรือแชร์เฉพาะไซต์ 
     
-    สำหรับไซต์การติดต่อสื่อสารให้คลิก **แชร์ไซต์** ที่มุมขวาบนแล้วใส่ชื่อของบุคคลนั้นแล้วเลือกระดับสิทธิ์ (อ่านแก้ไขหรือควบคุมทั้งหมด) 
+    For a communication site, click **Share site** in the upper-right, enter the person's name, and then select the permission level (Read, Edit, or Full Control). 
     
-    สำหรับไซต์ทีมคลาสสิกให้คลิก **แชร์** ที่มุมขวาบน ใส่ชื่อของบุคคลที่คุณต้องการเชิญหรือพิมพ์ทุกคนเพื่อแชร์กับทุกคนในองค์กรของคุณ คลิก**แชร์**
+    For a classic team site, click **Share** in the upper-right. ใส่ชื่อของบุคคลที่คุณต้องการเชิญ หรือพิมพ์ ทุกคน เพื่อแชร์กับทุกคนในองค์กรของคุณ **คลิก** แชร์
     
 > [!NOTE]
-> ถ้าคุณเป็นสมาชิกของไซต์แต่ไม่ใช่เจ้าของคุณสามารถเชิญบุคคลอื่นมายังไซต์แต่การเชิญของคุณจะสร้างการร้องขอการเข้าถึงที่สามารถอนุมัติหรือปฏิเสธโดยเจ้าของไซต์ได้ 
+> ถ้าคุณเป็นสมาชิกของไซต์แต่ไม่ใช่เจ้าของ คุณสามารถเชิญบุคคลไปยังไซต์ได้ แต่คําเชิญของคุณจะสร้างคําขอการเข้าถึงที่สามารถอนุมัติหรือปฏิเสธโดยเจ้าของไซต์ได้ 
   
 [เรียนรู้วิธีการแชร์ไฟล์หรือโฟลเดอร์กับผู้ใช้](https://go.microsoft.com/fwlink/?linkid=533408)
   

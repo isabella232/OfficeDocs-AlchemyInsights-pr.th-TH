@@ -1,5 +1,5 @@
 ---
-title: ตั้งค่าเดสก์ท็อปเสมือนของ Windows
+title: ตั้งค่าWindowsเสมือน
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004219"
 - "7427"
-ms.openlocfilehash: 7b3c91745d8136d6f508c8dbd3a63a1b0a67def3
-ms.sourcegitcommit: a7952283882d341515623d5ae58eda14d0553449
+ms.openlocfilehash: 4734c05d62ca5369dee0a41ea7e361d34538481ee89335c7b47dfe4e9d2966cd
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 12/10/2020
-ms.locfileid: "49679634"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54036655"
 ---
-# <a name="set-up-windows-virtual-desktop"></a>ตั้งค่าเดสก์ท็อปเสมือนของ Windows
+# <a name="set-up-windows-virtual-desktop"></a>ตั้งค่าWindowsเสมือน
 
-เดสก์ท็อปเสมือนของ Windows เป็นบริการการจำลองเสมือนของเดสก์ท็อปและแอปที่ครอบคลุมที่ทำงานในระบบคลาวด์ เป็นโครงสร้างพื้นฐานของเดสก์ท็อปเสมือน (VDI) เท่านั้นที่มอบการจัดการแบบง่ายหลายเซสชัน Windows 10 การปรับให้เหมาะสมสำหรับแอป Microsoft ๓๖๕และการสนับสนุนสำหรับสภาพแวดล้อมบริการเดสก์ท็อประยะไกล (RDS) ปรับใช้และปรับขนาดเดสก์ท็อปและแอปของ Windows ของคุณไปยัง Azure ในนาทีและรับฟีเจอร์การรักษาความปลอดภัยและการปฏิบัติตามข้อบังคับที่มีอยู่แล้วภายใน
+Windows เดสก์ท็อปเสมือนเป็นบริการการเสมือนของเดสก์ท็อปและแอปที่ครอบคลุมซึ่งเรียกใช้ในระบบคลาวด์ It is the only virtual desktop infrastructure (VDI) that delivers simplified management, multi-session Windows 10, optimizations for Microsoft 365 Apps, and support for Remote Desktop Services (RDS) environments. ปรับใช้และปรับมาตราWindowsเดสก์ท็อปและแอปของคุณไปยัง Azure ในเวลาไม่กี่นาที และรับฟีเจอร์ความปลอดภัยและการปฏิบัติตามข้อบังคับที่มีอยู่แล้วภายใน
 
-[คู่มือการตั้งค่าเดสก์ท็อปเสมือนของ Windows](https://go.microsoft.com/fwlink/?linkid=2146236)ให้ผู้ดูแลระบบที่มีทรัพยากรการวางแผนและข้อกำหนดเบื้องต้นสำหรับการปรับใช้คำแนะนำการตั้งค่าและแหล่งข้อมูลเพิ่มเติม
+คู่มือ[Windowsเดสก์ท็อปเสมือนจะ](https://go.microsoft.com/fwlink/?linkid=2146236)มอบแหล่งข้อมูลการวางแผนและข้อแนะนําเบื้องต้นสําหรับการปรับใช้ คู่มือการตั้งค่า และทรัพยากรเพิ่มเติมแก่ผู้ดูแลระบบ

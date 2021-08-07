@@ -12,39 +12,39 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003799"
 - "6805"
-ms.openlocfilehash: 166380cff09f2a2bd9b7e8914d5db4071b6c3f12
-ms.sourcegitcommit: bec3554bf061ef28a009f460fb9d0a661b4fc008
+ms.openlocfilehash: b138c05e87e70c18bb6528819a34f8a9501446d57dcf4dbac0734f70fbc3466b
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 10/27/2020
-ms.locfileid: "48807724"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53999259"
 ---
-# <a name="unable-to-sign-in-azure-due-to-browser-issues-browser-hangs-keeps-spinning-does-not-load-etc"></a>ไม่สามารถลงชื่อเข้าใช้ Azure ได้เนื่องจากปัญหาเกี่ยวกับเบราว์เซอร์ (เบราว์เซอร์แฮงค์การหมุนไม่โหลดฯลฯ)
+# <a name="unable-to-sign-in-azure-due-to-browser-issues-browser-hangs-keeps-spinning-does-not-load-etc"></a>ไม่สามารถลงชื่อเข้าใช้ Azure ได้เนื่องจากปัญหาเกี่ยวกับเบราว์เซอร์ (เบราว์เซอร์ค้าง ไม่หมุน ไม่โหลด และอื่นๆ)
 
-คุณอาจได้รับผลกระทบจากกระแสตก โปรดตรวจสอบเพื่อดูว่ามีการตกที่ต่อเนื่อง:[สถานะสถานภาพของ Azure](https://status.azure.com/status/history/)
+คุณอาจได้รับผลกระทบจากการไม่อยู่ โปรดตรวจสอบเพื่อดูว่ามีสถานะไม่อยู่หรือไม่:[สถานะ Azure Health](https://status.azure.com/status/history/)
 
-โปรดออกจากระบบเซสชัน Azure ที่ใช้งานอยู่ทั้งหมด เริ่มโหมดแบบส่วนตัวหรือโหมดไม่ระบุตัวตนของเว็บเบราว์เซอร์ของคุณ
+โปรดออกจากระบบของเซสชัน Azure ที่ใช้งานอยู่ทั้งหมด เริ่มโหมดแบบส่วนตัวหรือไม่ระบุตัวตนของเว็บเบราว์เซอร์ของคุณ
 
-นอกจากนี้คุณยังสามารถลองรีเฟรชเบราว์เซอร์ใช้เบราว์เซอร์อื่นลบคุกกี้แคชได้ถ้าด้านบนไม่ทำงาน
+You could also try to Refresh browser, use another browser, delete cache cookies if above doesn't work.
 
-เรียนรู้เพิ่มเติม: [แก้ไขปัญหาการลงชื่อเข้าใช้](https://support.microsoft.com/help/4042961/troubleshoot-why-you-can-t-sign-in-to-manage-your-azure-subscription)
+เรียนรู้เพิ่มเติม [: แก้ไขปัญหาการลงชื่อเข้าใช้](https://support.microsoft.com/help/4042961/troubleshoot-why-you-can-t-sign-in-to-manage-your-azure-subscription)
 
-**ไม่สามารถเข้าถึงการสมัครใช้งานได้**
+**ไม่สามารถเข้าถึงการสมัครใช้งาน**
 
-ใน [พอร์ทัล azure](https://portal.azure.com/)ตรวจสอบให้แน่ใจว่าได้เลือกไดเรกทอรี azure ที่ถูกต้องจากบัญชีผู้ใช้ที่ด้านบนขวา
+ใน [พอร์ทัล Azure](https://portal.azure.com/)ตรวจสอบให้แน่ใจว่าเลือกไดเรกทอรี Azure ที่ถูกต้องจากบัญชีที่ด้านบนขวา
 
-ใน [ศูนย์บัญชี Azure](https://account.windowsazure.com/Subscriptions)ให้ตรวจสอบให้แน่ใจว่าบัญชีผู้ใช้ที่ใช้เป็นผู้ดูแลระบบบัญชีผู้ใช้หรือไม่
+ใน [ศูนย์บัญชี Azure](https://account.windowsazure.com/Subscriptions)ตรวจสอบให้แน่ใจว่าบัญชีที่ใช้คือผู้ดูแลระบบบัญชีหรือไม่
 
-เรียนรู้เพิ่มเติม:[แก้ไขปัญหาไม่พบการสมัคร](https://docs.microsoft.com/azure/billing/billing-no-subscriptions-found?WT.mc_id=Portal-Microsoft_Azure_Support)ใช้งาน
+เรียนรู้เพิ่มเติม: [ไม่พบการแก้ไขปัญหาการสมัครใช้งาน](https://docs.microsoft.com/azure/billing/billing-no-subscriptions-found?WT.mc_id=Portal-Microsoft_Azure_Support)
 
 **ไม่สามารถเข้าถึงประวัติการเรียกเก็บเงินได้**
 
-ผู้ดูแลระบบบัญชีผู้ใช้จำเป็นต้องตรวจสอบให้แน่ใจว่าผู้ใช้เข้าถึงข้อมูลการเรียกเก็บเงินจะถูกเพิ่มใน Azure Active directory เป็นผู้ใช้ที่เป็นผู้เยี่ยมชม:[เพิ่มหรือลบผู้ใช้ใหม่](https://docs.microsoft.com/azure/active-directory/fundamentals/add-users-azure-active-directory?WT.mc_id=Portal-Microsoft_Azure_Support)
+ผู้ดูแลระบบบัญชีต้องตรวจสอบให้แน่ใจว่าผู้ใช้ที่เข้าถึงข้อมูลการเรียกเก็บเงินจะถูกเพิ่มใน Azure Active Directory เป็นผู้ใช้ที่เป็นแขก: [เพิ่มหรือลบผู้ใช้](https://docs.microsoft.com/azure/active-directory/fundamentals/add-users-azure-active-directory?WT.mc_id=Portal-Microsoft_Azure_Support)ใหม่
 
-ผู้ใช้จำเป็นต้องได้รับบทบาทผู้ดูแลระบบส่วนกลาง:[กำหนดบทบาทให้กับผู้ใช้](https://docs.microsoft.com/azure/active-directory/fundamentals/active-directory-users-assign-role-azure-portal?WT.mc_id=Portal-Microsoft_Azure_Support)
+จากนั้นผู้ใช้ต้องได้รับบทบาทผู้ดูแลระบบส่วนกลาง: [กําหนดบทบาทให้กับ](https://docs.microsoft.com/azure/active-directory/fundamentals/active-directory-users-assign-role-azure-portal?WT.mc_id=Portal-Microsoft_Azure_Support)ผู้ใช้
 
-โพสต์นี้ผู้ใช้สามารถได้รับการเข้าถึงการเรียกเก็บเงินโดยใช้นโยบาย RBAC:[ให้สิทธิ์การเข้าถึงการเรียกเก็บเงิน](https://docs.microsoft.com/azure/billing/billing-manage-access?WT.mc_id=Portal-Microsoft_Azure_Support)
+โพสต์นี้ ผู้ใช้สามารถให้สิทธิ์การเข้าถึงการเรียกเก็บเงินโดยใช้นโยบาย RBAC:[ให้สิทธิ์การเข้าถึงการเรียกเก็บเงิน](https://docs.microsoft.com/azure/billing/billing-manage-access?WT.mc_id=Portal-Microsoft_Azure_Support)
 
-**เอกสารที่แนะนำ**
+**เอกสารที่แนะนา**
 
--   [ฉันไม่สามารถลงชื่อเข้าใช้เพื่อจัดการการสมัครใช้งาน Azure ของฉัน](https://docs.microsoft.com/azure/billing-cannot-login-subscription?WT.mc_id=Portal-Microsoft_Azure_Support)
+-   [ฉันไม่สามารถลงชื่อเข้าใช้เพื่อจัดการการสมัครใช้งาน Azure ได้](https://docs.microsoft.com/azure/billing-cannot-login-subscription?WT.mc_id=Portal-Microsoft_Azure_Support)

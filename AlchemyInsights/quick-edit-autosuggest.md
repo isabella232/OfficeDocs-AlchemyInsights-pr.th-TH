@@ -1,5 +1,5 @@
 ---
-title: AutoSuggest Edit ด่วน
+title: แก้ไขด่วนแก็สอัตโนมัติ
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,13 +12,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003088"
 - "7232"
-ms.openlocfilehash: 7e6781347e96a794c45ae5508282d44c958d3187
-ms.sourcegitcommit: 26e36ada9c19eb42a644a37d2cd3eb2627134f05
+ms.openlocfilehash: cdb9541c4f5a23a3c4903d0586e5eca105f473a0ab0aca68a948fdcac2363edd
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 11/19/2020
-ms.locfileid: "49447492"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53923117"
 ---
-# <a name="quick-edit-autosuggest"></a>AutoSuggest Edit ด่วน
+# <a name="quick-edit-autosuggest"></a>แก้ไขด่วนแก็สอัตโนมัติ
 
-มีสองวิธีในการแก้ไขรายการในรายการ SharePoint คุณสามารถแก้ไขรายการเดียวในมุมมองรายการได้ซึ่งเป็นวิธีการเริ่มต้น หรือทำงานได้อย่างมีประสิทธิภาพยิ่งขึ้นคุณสามารถแก้ไขหลายรายการในมุมมองการแก้ไขด่วนได้ คุณต้องมีสิทธิ์การใช้งานระดับที่ได้รับการสนับสนุนหรือสูงกว่าในการแก้ไขรายการ สำหรับข้อมูลเพิ่มเติมให้ดู[ที่แก้ไขข้อมูลในรายการใน SharePoint Online](https://support.microsoft.com/office/dac1a1c3-a80b-4082-ba57-715cf613d0f7)
+มีสองวิธีในการแก้ไขข้อมูลSharePointรายการ คุณสามารถแก้ไขรายการเดียวในมุมมองรายการ ซึ่งเป็นวิธีเริ่มต้น หรือเพื่อให้มีประสิทธิภาพมากยิ่งขึ้น คุณสามารถแก้ไขหลายรายการในมุมมองแก้ไขด่วนได้ คุณต้องมีสิทธิ์ระดับสนับสนุนหรือสูงกว่าเพื่อแก้ไขรายการ For more information, see [Edit list items items items in SharePoint Online.](https://support.microsoft.com/office/dac1a1c3-a80b-4082-ba57-715cf613d0f7)

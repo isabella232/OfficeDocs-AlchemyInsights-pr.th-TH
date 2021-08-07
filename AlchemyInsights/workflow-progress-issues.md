@@ -9,18 +9,18 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 47ceb983-f9a4-4c55-a40c-03d5c3d75dc9
-ms.openlocfilehash: 77f7f3b68ea4c99f39049b90f3feaf2f7f9b1364
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: f5fa5f8afdfacbefb071f6899b75c397b26705379d11bb1958c3d7f7be499b1f
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47664477"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53907793"
 ---
-# <a name="intermittent-delays-with-workflow-progress"></a>ความล่าช้าเป็นระยะๆพร้อมกับความคืบหน้าของเวิร์กโฟลว์
+# <a name="intermittent-delays-with-workflow-progress"></a>ความล่าช้าเป็นระยะๆ กับความคืบหน้าของเวิร์กโฟลว์
 
-ถ้าเวิร์กโฟลว์ของคุณไม่ได้เริ่มทำงานอาจมีปัญหาในการบริการชั่วคราวที่ผู้ใช้อาจพบความล่าช้าเป็นระยะๆด้วยความคืบหน้าของเวิร์กโฟลว์ ตรวจสอบ [แดชบอร์ดความสมบูรณ์ของบริการ](https://admin.microsoft.com/AdminPortal/Home#/servicehealth) เพื่อดูว่าองค์กรของคุณได้รับผลกระทบหรือไม่ 
+ถ้าเวิร์กโฟลว์ของคุณไม่เริ่มขึ้น อาจเป็นปัญหาการบริการชั่วคราวที่ผู้ใช้อาจพบความล่าช้าในความคืบหน้าของเวิร์กโฟลว์เป็นระยะๆ ตรวจสอบ [แดชบอร์ดสถานภาพ](https://admin.microsoft.com/AdminPortal/Home#/servicehealth) บริการเพื่อดูว่าองค์กรของคุณได้รับผลกระทบหรือไม่ 
 
-ถ้าคุณได้รับการส่งผ่านมากกว่า24ชั่วโมงหลังจากที่คุณเห็นปัญหานี้ครั้งแรกโปรดเข้าสู่ระบบตั๋วสนับสนุน ในหลายกรณีเรากำลังทำงานกับโซลูชันอยู่แล้ว โปรดแจ้งให้เราทราบอย่างน้อย24ชั่วโมงเพื่อให้โซลูชันเสร็จสมบูรณ์
+หากคุณเห็นปัญหานี้เกิน 24 ชั่วโมง โปรดบันทึกตั๋วการสนับสนุน ในหลายกรณี เราแก้ไขปัญหาเรียบร้อยแล้ว โปรดให้เวลาเราอย่างน้อย 24 ชั่วโมงเพื่อแก้ไขปัญหาให้เสร็จสิ้น
 
 
   

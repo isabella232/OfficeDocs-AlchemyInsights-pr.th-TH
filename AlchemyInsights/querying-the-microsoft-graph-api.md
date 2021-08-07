@@ -1,5 +1,5 @@
 ---
-title: การสอบถาม API ของ Microsoft Graph
+title: การสอบถามเกี่ยวกับ Microsoft Graph API
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,95 +12,95 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004345"
 - "7846"
-ms.openlocfilehash: 527e88c7b3cb1cc4f5535e3b0d2bc4d8d1163336
-ms.sourcegitcommit: 029c4697b77ce996d41ca74c4fa86de1bb84bd99
+ms.openlocfilehash: eda5d8d1d76d0d87312b1441aeae89d8e250abe0e8b613d4a43fcc2345a6f021
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 01/25/2021
-ms.locfileid: "49974688"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53923258"
 ---
-# <a name="querying-the-microsoft-graph-api"></a>การสอบถาม API ของ Microsoft Graph
+# <a name="querying-the-microsoft-graph-api"></a>การสอบถามเกี่ยวกับ Microsoft Graph API
 
-หัวข้อนี้ยังอาจนำไปใช้กับนักพัฒนายังคงใช้ Azure AD Graph API อย่างไรก็ตาม **ขอแนะนำให้คุณ** ใช้ Microsoft Graph สำหรับสถานการณ์สมมติของไดเรกทอรีข้อมูลประจำตัวและการจัดการการเข้าถึงทั้งหมดของคุณ
+หัวข้อนี้ยังสามารถใช้กับนักพัฒนาที่ยังคงใช้ Azure AD Graph API ได้ อย่างไรก็ตาม ขอแ **นะGraph** ให้คุณใช้ Microsoft Graphสถานการณ์การจัดการไดเรกทอรี ข้อมูลเฉพาะตัว และการเข้าถึงทั้งหมด
 
-**ปัญหาเกี่ยวกับการรับรองความถูกต้องหรือการอนุญาต**
+**ปัญหาการรับรองความถูกต้องหรือการอนุญาต**
 
-- ถ้าแอปของคุณไม่ **สามารถรับโทเค็น** การโทรถึง microsoft graph ได้ให้เลือก **ปัญหาเกี่ยวกับการรับโทเค็นการเข้าถึง (การรับรองความถูกต้อง)** ประเภท Microsoft Graph เพื่อรับความช่วยเหลือและการสนับสนุนที่เฉพาะเจาะจงมากขึ้นในหัวข้อนี้
-- ถ้าแอปของคุณได้ **รับข้อผิดพลาด** ในการอนุญาตให้ใช้งาน๔๐๑หรือ๔๐๓เมื่อโทรหา microsoft graph ให้เลือกประเภทการ **รับข้อผิดพลาดในการปฏิเสธการเข้าถึง (การอนุญาต)** Microsoft Graph API เพื่อรับความช่วยเหลือและการสนับสนุนที่เฉพาะเจาะจงมากขึ้นในหัวข้อนี้
+- ถ้าแอปของคุณ **ไม่สามารถ** รับโทเค็นเพื่อโทรหา Microsoft Graph ให้เลือก ปัญหาเกี่ยวกับการรับประเภทโทเค็นการเข้าถึง (การรับรองความถูกต้อง **)** Microsoft Graph เพื่อรับวิธีใช้และการสนับสนุนที่เฉพาะเจาะจงเพิ่มเติมเกี่ยวกับหัวข้อนี้
+- ถ้าแอปของคุณได้รับ **ข้อผิดพลาดในการอนุญาต 401 หรือ 403** ครั้งเมื่อโทรหา Microsoft Graph ให้เลือกประเภท รับการเข้าถึงถูกปฏิเสธ **(การอนุญาต)** Microsoft Graph API เพื่อรับความช่วยเหลือและการสนับสนุนที่เฉพาะเจาะจงเพิ่มเติมเกี่ยวกับหัวข้อนี้
 
-**ฉันต้องการใช้ Microsoft Graph แต่ไม่แน่ใจว่าจะเริ่มต้นที่ใด**
+**ฉันต้องการใช้ Microsoft Graph แต่ไม่แน่ใจว่าจะเริ่มที่ไหน**
 
-เมื่อต้องการเรียนรู้เพิ่มเติมเกี่ยวกับ Microsoft Graph ให้ดู:
+เมื่อต้องการเรียนรู้เพิ่มเติมเกี่ยวกับGraph Microsoft ให้ดู:
 
 - [ภาพรวมของ Microsoft Graph](https://docs.microsoft.com/graph/overview)
-- [ภาพรวมของการจัดการข้อมูลประจำตัวและการเข้าถึงใน Microsoft Graph](https://docs.microsoft.com/graph/azuread-identity-access-management-concept-overview)
-- [การเริ่มต้นใช้งานแอป Microsoft Graph](https://docs.microsoft.com/graph/)
-- **Microsoft Graph Explorer** -ทดสอบ Microsoft graph APIs ในผู้เช่าของคุณหรือผู้เช่าสาธิต
+- [ภาพรวมของการจัดการข้อมูลเฉพาะตัวและการเข้าถึงใน Microsoft Graph](https://docs.microsoft.com/graph/azuread-identity-access-management-concept-overview)
+- [เริ่มต้นใช้งานการสร้างแอป Microsoft Graph](https://docs.microsoft.com/graph/)
+- **Microsoft Graph Explorer** - ทดสอบ API ของ Microsoft Graph ในผู้เช่าของคุณหรือผู้เช่าการสาธิต
 
-**ฉันต้องการใช้ Microsoft Graph แต่สนับสนุนไดเรกทอรี v1.0 ที่ฉันจำเป็นต้องใช้**
+**ฉันต้องการใช้ Microsoft Graph แต่สนับสนุน API ไดเรกทอรี v1.0 ที่ฉันต้องใช้หรือไม่**
 
-Microsoft Graph เป็น API ที่แนะนำสำหรับไดเรกทอรีข้อมูลประจำตัวและการจัดการการเข้าถึง อย่างไรก็ตามยังมีช่องว่างไม่กี่ช่องระหว่างสิ่งที่เป็นไปได้ในกราฟโฆษณา Azure และ Microsoft Graph ตรวจทานบทความต่อไปนี้ซึ่งเน้นความแตกต่างล่าสุดสำหรับความช่วยเหลือในตัวเลือกของคุณ:
+Microsoft Graph คือ API ที่แนะนาให้ใช้ในการจัดการไดเรกทอรี ข้อมูลเฉพาะตัว และการจัดการการเข้าถึง อย่างไรก็ตาม ยังคงมีช่องว่างระหว่างสิ่งที่เป็นไปได้ใน Azure AD Graphและ Microsoft Graph ตรวจทานบทความต่อไปนี้ ซึ่งจะเน้นความแตกต่างล่าสุดเพื่อช่วยเหลือในตัวเลือกของคุณ:
 
-- [ความแตกต่างของชนิดทรัพยากรระหว่างกราฟ AD Azure และ Microsoft Graph](https://docs.microsoft.com/graph/migrate-azure-ad-graph-resource-differences)
-- [ความแตกต่างของคุณสมบัติระหว่างกราฟโฆษณา Azure และ Microsoft Graph](https://docs.microsoft.com/graph/migrate-azure-ad-graph-property-differences)
-- [ความแตกต่างของวิธีการระหว่าง Azure AD และ Microsoft Graph](https://docs.microsoft.com/graph/migrate-azure-ad-graph-method-differences)
+- [ความแตกต่างของชนิดทรัพยากรระหว่าง Azure AD Graph และ Microsoft Graph](https://docs.microsoft.com/graph/migrate-azure-ad-graph-resource-differences)
+- [ความแตกต่างของคุณสมบัติระหว่าง Azure AD Graph กับ Microsoft Graph](https://docs.microsoft.com/graph/migrate-azure-ad-graph-property-differences)
+- [ความแตกต่างระหว่าง Azure AD และ Microsoft Graph](https://docs.microsoft.com/graph/migrate-azure-ad-graph-method-differences)
 
-**เมื่อฉันสอบถามวัตถุ *ผู้ใช้* หลายคุณสมบัติจะหายไป**
+**When I query the *user* object, many of its properties are missing**
 
-`GET https://graph.microsoft.com/v1.0/users` ส่งกลับเฉพาะที่พัก11แห่งเนื่องจาก Microsoft Graph จะเลือกชุดของคุณสมบัติของ *ผู้ใช้* ที่จะส่งกลับเป็นค่าเริ่มต้น ถ้าคุณต้องการคุณสมบัติของ *ผู้ใช้* อื่นให้ใช้ $select เพื่อเลือกคุณสมบัติของแอปพลิเคชันที่คุณต้องการ ลองใช้งานใน **Microsoft Graph Explorer** ก่อน
+`GET https://graph.microsoft.com/v1.0/users`จะส่งกลับคุณสมบัติเพียง 11 Graph Microsoft จะเลือกชุดคุณสมบัติ *ผู้ใช้* เริ่มต้นเพื่อส่งกลับโดยอัตโนมัติ If you need other *user* properties, use $select to pick the properties your application needs. ลองค้นหาใน **Microsoft Graph Explorer** ก่อน
 
-**ค่าคุณสมบัติของผู้ใช้บางค่าเป็น *null* แม้ว่าฉันจะได้รับการตั้งค่า**
+**ค่าคุณสมบัติผู้ใช้บาง *ค่าเป็น* Null แม้ว่าฉันจะทราบว่าค่าเหล่านั้นถูกตั้งค่าแล้ว**
 
-คำอธิบายที่เป็นไปได้มากที่สุดคือแอปพลิเคชันที่ได้รับอนุญาตให้ *ผู้ใช้ ReadBasic* การดำเนินการนี้จะช่วยให้แอปพลิเคชันอ่านคุณสมบัติของผู้ใช้ที่จำกัดและส่งกลับค่าคุณสมบัติอื่นๆทั้งหมดเป็น null แม้ว่าจะได้รับการตั้งค่าก่อนหน้านี้แล้ว ลองให้สิทธิ์ผู้ใช้แอปพลิเคชัน *อ่านสิทธิ์ทั้งหมด* แทน
+คําอธิบายที่เป็นไปได้มากที่สุดคือแอปพลิเคชันได้รับสิทธิ์ *User.ReadBasic.All* ซึ่งช่วยให้แอปพลิเคชันสามารถอ่านชุดคุณสมบัติผู้ใช้ที่จํากัด คืนค่าคุณสมบัติอื่นๆ ทั้งหมดเป็น Null แม้ว่าคุณสมบัติเหล่านั้นจะถูกตั้งค่าไว้ก่อนหน้า ลองให้สิทธิ์ *User.Read.All* ของแอปพลิเคชันแทน
 
-สำหรับข้อมูลเพิ่มเติมให้ดูที่[สิทธิ์ของผู้ใช้ Microsoft Graph](https://docs.microsoft.com/graph/permissions-reference#user-permissions)
+For more information, see [Microsoft Graph user permissions](https://docs.microsoft.com/graph/permissions-reference#user-permissions).
 
-**ฉันมีปัญหาในการใช้พารามิเตอร์คิวรี OData เพื่อกรองข้อมูลในคำขอของฉัน**
+**ฉันมีปัญหาในการใช้พารามิเตอร์คิวรี OData เพื่อกรองข้อมูลในการร้องขอของฉัน**
 
-ในขณะที่ Microsoft Graph สนับสนุนพารามิเตอร์แบบสอบถาม OData หลายพารามิเตอร์เหล่านั้นจะไม่ได้รับการสนับสนุนอย่างสมบูรณ์โดยบริการไดเรกทอรี (แหล่งข้อมูลที่สืบทอดมาจาก *directoryObject*) ใน Microsoft Graph ข้อจำกัดเดียวกันกับที่มีอยู่ในกราฟโฆษณา Azure ได้รับการยืนยันสำหรับส่วนใหญ่ใน Microsoft Graph:
+ในขณะที่ Microsoft Graph สนับสนุนพารามิเตอร์คิวรี OData ที่หลากหลาย พารามิเตอร์เหล่านั้นมากมายไม่ได้รับการสนับสนุนอย่างสมบูรณ์โดยบริการไดเรกทอรี (ทรัพยากรที่สืบทอดจาก *directoryObject*) ใน Microsoft Graph ข้อจํากัดเดียวกันกับที่มีอยู่ในบัญชี Azure AD Graphยังคงมีอยู่ส่วนใหญ่ใน Microsoft Graph:
 
-1. **ไม่ได้รับการสนับสนุน**: $count, $search และ $filter บนค่า *null* หรือ *ไม่ใช่ค่า null*
-2. **ไม่ได้รับการสนับสนุน**: $filter บนคุณสมบัติบางอย่าง (โปรดดูที่หัวข้อทรัพยากรที่มีคุณสมบัติใดที่เอา)
-3. **ไม่ได้รับการสนับสนุน**: การแบ่งหน้าการกรองและการเรียงลำดับในเวลาเดียวกัน
-4. **ไม่ได้รับการสนับสนุน**: การกรองบนความสัมพันธ์ ตัวอย่างเช่นค้นหาสมาชิกทั้งหมดของกลุ่มวิศวกรรมที่อยู่ในสหราชอาณาจักร
-5. การ **สนับสนุนบางส่วน**: $orderby บน *ผู้ใช้*(displayName และ userPrincipalName เท่านั้น) และ *กลุ่ม*
-6. การ **สนับสนุนบางส่วน**: $filter (สนับสนุนเฉพาะ *eq*, startswith *หรือ*, *and และ* จำกัด) การสนับสนุน $expand (การขยายความสัมพันธ์ของวัตถุเดี่ยวจะส่งกลับความสัมพันธ์ทั้งหมดแต่การขยายคอลเลกชันของความสัมพันธ์ของวัตถุจะถูกจำกัด) 
+1. **ไม่สนับสนุน : $count,**$search $filter *null* หรือไม่ *มีค่า* Null
+2. **ไม่สนับสนุน:**$filterคุณสมบัติบางอย่าง (ดูหัวข้อทรัพยากรเกี่ยวกับคุณสมบัติที่สามารถกรองได้)
+3. **ไม่สนับสนุน :** การแบ่งหน้า การกรอง และการเรียงล.ก. พร้อมกัน
+4. **ไม่สนับสนุน**: การกรองความสัมพันธ์ ตัวอย่างเช่น - ค้นหาสมาชิกทั้งหมดของกลุ่มวิศวกรรมที่อยู่ในสหราชอาณาจักร
+5. **การสนับสนุนบางส่วน**: *$orderbyผู้ใช้* (displayName และ userPrincipalName เท่านั้น) และ *กลุ่ม*
+6. **การสนับสนุนบางส่วน**: $filter (สนับสนุนเฉพาะ *eq**เท่านั้น* เริ่มต้นด้วย *หรือ* และ และจํากัด ) สนับสนุน $expand (การขยายความสัมพันธ์ของวัตถุเดียวจะส่งกลับความสัมพันธ์ทั้งหมด แต่การขยายคอลเลกชันของความสัมพันธ์ของวัตถุมีจํากัด)
 
-สำหรับข้อมูลเพิ่มเติมให้ดูที่การกำหนดค่าการ [ตอบสนองด้วยพารามิเตอร์คิว](https://docs.microsoft.com/graph/query-parameters)รี
+For more information, see [Customize responses with query parameters](https://docs.microsoft.com/graph/query-parameters).
 
-**API ที่ฉันกำลังโทรไม่ทำงาน-ฉันสามารถทำการทดสอบเพิ่มเติมได้จากที่ใด**
+**API ที่ฉันโทรไม่ได้ผล ฉันจะทดสอบเพิ่มเติมได้ที่ไหน**
 
-**Microsoft Graph Explorer** -ทดสอบ Microsoft graph APIs ในผู้เช่าของคุณหรือผู้เช่าสาธิตและยังตรวจสอบ **แบบสอบถามตัวอย่าง** ใน Microsoft Graph explorer
+**Microsoft Graph Explorer** - ทดสอบ Microsoft Graph API ในผู้เช่าของคุณหรือผู้เช่าการสาธิต และตรวจสอบคิวรีตัวอย่างใน Microsoft Graph Explorer
 
-**เมื่อฉันทำแบบสอบถามสำหรับข้อมูลดูเหมือนว่าฉันได้รับชุดข้อมูลที่ไม่สมบูรณ์กลับมา**
+**เมื่อฉันคิวรีข้อมูล ดูเหมือนว่าฉันได้รับชุดข้อมูลที่ไม่สมบูรณ์**
 
-ถ้าคุณกำลังทำการสอบถามคอลเลกชัน (เช่น *ผู้ใช้*) Microsoft Graph จะใช้ขีดจำกัดของหน้าบนเซิร์ฟเวอร์เพื่อให้ผลลัพธ์จะถูกส่งกลับโดยใช้ขนาดหน้าเริ่มต้นเสมอ แอปของคุณควรคาดหวังให้หน้าผ่านคอลเลกชันที่ส่งกลับจากบริการนั้นเสมอ
+ถ้าคุณคิวรีคอลเลกชัน (เช่น *ผู้ใช้*) Microsoft Graph จะใช้ขีดจํากัดหน้าที่ฝั่งเซิร์ฟเวอร์ ดังนั้นผลลัพธ์จะถูกส่งกลับด้วยขนาดหน้าเริ่มต้นเสมอ แอปของคุณควรคาดว่าจะเปิดดูคอลเลกชันที่ส่งกลับจากบริการเสมอ
 
-สำหรับข้อมูลเพิ่มเติม ให้ดูที่
+สำหรับข้อมูลเพิ่มเติม ให้ดู:
 
-- [แนวทางปฏิบัติที่ดีที่สุดของ Microsoft Graph](https://docs.microsoft.com/graph/best-practices-concept)
-- [การแบ่งหน้าข้อมูล Microsoft Graph ในแอปของคุณ](https://docs.microsoft.com/graph/paging)
+- [แนวทางปฏิบัติGraphของ Microsoft](https://docs.microsoft.com/graph/best-practices-concept)
+- [การแบ่งหน้า Microsoft Graphข้อมูลในแอปของคุณ](https://docs.microsoft.com/graph/paging)
 
-**แอปของฉันช้าเกินไปและยังได้รับปริมาณ ฉันสามารถทำการปรับปรุงอะไรได้บ้าง**
+**แอปของฉันช้าเกินไปและถูกควบคุมปริมาณ ฉันสามารถปรับปรุงอะไรได้บ้าง**
 
-ทั้งนี้ขึ้นอยู่กับสถานการณ์ของคุณมีหลายตัวเลือกที่แตกต่างกันในการขายทิ้งของคุณเพื่อทำให้แอปพลิเคชันของคุณมีประสิทธิภาพมากขึ้นและในบางกรณีอาจมีแนวโน้มที่จะปริมาณโดยบริการ (เมื่อคุณกำลังทำการโทรมากเกินไป)
+โดยขึ้นอยู่กับสถานการณ์ของคุณ มีตัวเลือกต่างๆ มากมายเพื่อที่แอปพลิเคชันจะมีประสิทธิภาพมากขึ้น และในบางกรณีก็มีแนวโน้มที่จะถูกควบคุมปริมาณโดยบริการน้อยลง (เมื่อคุณโทรมากเกินไป)
 
-เมื่อต้องการเรียนรู้เพิ่มเติมให้ดูที่:
+เมื่อต้องการเรียนรู้เพิ่มเติม ให้ดู:
 
-- [แนวทางปฏิบัติที่ดีที่สุดของ Microsoft Graph](https://docs.microsoft.com/graph/best-practices-concept)
-- [การร้องขอ Batching](https://docs.microsoft.com/graph/json-batching)
-- [ติดตามการเปลี่ยนแปลงผ่านคิวรีของเดลต้า](https://docs.microsoft.com/graph/delta-query-overview)
-- [รับการแจ้งเตือนการเปลี่ยนแปลงผ่าน webhooks](https://docs.microsoft.com/graph/webhooks)
-- [คำแนะนำการควบคุมปริมาณ](https://docs.microsoft.com/graph/throttling)
+- [แนวทางปฏิบัติGraphของ Microsoft](https://docs.microsoft.com/graph/best-practices-concept)
+- [การร้องขอชุดการโยกย้าย](https://docs.microsoft.com/graph/json-batching)
+- [ติดตามการเปลี่ยนแปลงผ่านคิวรีแบบใช้เลือกข้อมูล](https://docs.microsoft.com/graph/delta-query-overview)
+- [รับการแจ้งเตือนเกี่ยวกับการเปลี่ยนแปลงผ่านเว็บ](https://docs.microsoft.com/graph/webhooks)
+- [แนวทางการควบคุมปริมาณ](https://docs.microsoft.com/graph/throttling)
 
 **ฉันจะค้นหาข้อมูลเพิ่มเติมเกี่ยวกับข้อผิดพลาดและปัญหาที่ทราบได้ที่ไหน**
 
-- [ข้อมูลการตอบกลับข้อผิดพลาดของ Microsoft Graph](https://docs.microsoft.com/graph/errors)
-- [ปัญหาที่ทราบแล้วเกี่ยวกับ Microsoft Graph](https://docs.microsoft.com/graph/known-issues)
+- [ข้อมูลการGraphข้อผิดพลาดของ Microsoft](https://docs.microsoft.com/graph/errors)
+- [ปัญหาที่ทราบแล้วของ Microsoft Graph](https://docs.microsoft.com/graph/known-issues)
 
-**ฉันจะตรวจสอบสถานะของบริการที่พร้อมใช้งานและการเชื่อมต่อได้ที่ใด**
+**ฉันจะตรวจสอบสถานะความพร้อมใช้งานของบริการและการเชื่อมต่อได้ที่ไหน**
 
-ความพร้อมใช้งานของบริการและการเชื่อมต่อของบริการพื้นฐานที่สามารถเข้าถึงได้ผ่านทาง Microsoft Graph จะส่งผลกระทบต่อความพร้อมใช้งานและประสิทธิภาพการทำงานโดยรวมของ Microsoft Graph
+ความพร้อมใช้งานของบริการและการเชื่อมต่อบริการที่มีอยู่ที่สามารถเข้าถึงได้ผ่านทาง Microsoft Graph อาจส่งผลต่อความพร้อมใช้งานและประสิทธิภาพโดยรวมของ Microsoft Graph
 
-- สำหรับสถานภาพบริการของ Azure Active Directory ให้ตรวจสอบสถานะของ **ความปลอดภัย + บริการข้อมูลประจำตัว** ที่แสดงรายการอยู่ใน [หน้าสถานะ Azure](https://azure.microsoft.com/status/)
-- สำหรับบริการ Office ที่เกี่ยวข้องกับ Microsoft Graph ให้ตรวจสอบสถานะของบริการที่แสดงรายการอยู่ใน[แดชบอร์ดความสมบูรณ์ของบริการ Office](https://portal.office.com/adminportal/home#/servicehealth)
+- For Azure Active Directory service health, check the status of **Security + Identity services** listed in the Azure status [page](https://azure.microsoft.com/status/).
+- For Office services that contribute to Microsoft Graph, check the status of services listed in the [Office Service Health Dashboard](https://portal.office.com/adminportal/home#/servicehealth).

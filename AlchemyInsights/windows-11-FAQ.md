@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "12068"
 - "9007192"
-ms.openlocfilehash: 5f75c9442fbf5fa59c0eb94ae8ecd28bd7772e92
-ms.sourcegitcommit: 93292c46464ac94971d11adfb808d066ab8bc406
+ms.openlocfilehash: 94412b6bff18cbc60fba3c380860d9ad208dbd600a0fa0f6d0c72a22e27de620
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 06/24/2021
-ms.locfileid: "53129953"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53907876"
 ---
 # <a name="windows-11-frequently-asked-questions-faq"></a>Windows 11 ถามที่ถามบ่อย (FAQ)
 
@@ -47,10 +47,10 @@ Windows 11 พลังงานและความปลอดภัยทั
 
 **ฉันต้องการซื้อพีซีตอนนี้ ฉันจะสามารถติดตั้งWindows 11 ในภายหลังได้หรือไม่**
 
-พีซีWindows 10ส่วนใหญ่ที่ขายได้ในปัจจุบันจะสามารถอัปเกรดเป็น Windows 11 For the PC to be able to upgrade to Windows 11, it must meet the [minimum hardware specifications and specific hardware is required for some features](https://www.microsoft.com/windows/windows-11-specifications). แผนเปิดให้ใช้งานการอัปเกรดจะยังคงเป็นขั้นสุดท้าย แต่ถูกจัดเวลาให้เริ่มล่าช้าในปี 2021 และต่อเนื่องเป็นปี 2022 การตั้งเวลาที่เฉพาะเจาะจงจะแตกต่างกันไปตามอุปกรณ์
+พีซีWindows 10ส่วนใหญ่ที่ขายได้ในปัจจุบันจะสามารถอัปเกรดเป็น Windows 11 เพื่อให้พีซีสามารถอัปเกรดเป็น Windows 11 จะต้องตรงตามสเปคของฮาร์ดแวร์ขั้นต่ และต้องใช้ฮาร์ดแวร์[ที่เฉพาะเจาะจงกับบาง](https://www.microsoft.com/windows/windows-11-specifications)ฟีเจอร์ แผนเปิดให้ใช้งานการอัปเกรดจะยังคงเป็นขั้นสุดท้าย แต่ถูกจัดเวลาให้เริ่มล่าช้าในปี 2021 และต่อเนื่องเป็นปี 2022 การตั้งเวลาที่เฉพาะเจาะจงจะแตกต่างกันไปตามอุปกรณ์
 
 
-**How do I know if a new Windows 10 PC meets the minimum requirements?**
+**ฉันจะทราบได้อย่างไรว่าพีซีเครื่องใหม่Windows 10ตรงตามความต้องการขั้นต่หรือไม่**
 
 มีสองสามวิธีในการค้นหาข้อมูล หากคุณซื้อพีซีเครื่องใหม่ให้มองหา "อัปเกรดฟรี Windows 11" บนแท็กข้อเท็จจริง คุณยังสามารถขอให้ผู้เชี่ยวชาญร้านค้าปลีกของคุณยืนยันได้
 
@@ -82,7 +82,7 @@ For minimum hardware requirements, see [Find Windows 11 specs, features, and com
 
 **มีค่าใช้จ่ายเท่าใดในการอัปเกรดจาก Windows 10 Windows 11**
 
-ฟรี แต่Windows 10เฉพาะพีซีที่ใช้เวอร์ชันล่าสุดของ Windows 10 และที่ตรงตามความต้องการของฮาร์ดแวร์ขั้นต่ <4>สามารถอัปเกรดได้ คุณสามารถตรวจสอบการอัปเดตครั้งล่าสุดWindows 10ใน  >  **การตั้งค่าWindows อัปเดต**
+ฟรี แต่Windows 10เฉพาะพีซีที่ใช้เวอร์ชันล่าสุดของ Windows 10 และที่ตรงตามความต้องการของฮาร์ดแวร์ขั้นต่สามารถอัปเกรดได้ คุณสามารถตรวจสอบการอัปเดตครั้งล่าสุดWindows 10ใน  >  **การตั้งค่าWindows อัปเดต**
 
 
 **ความแตกต่างระหว่างการอัปเกรดและการอัปเดตคืออะไร**
@@ -101,7 +101,7 @@ For minimum hardware requirements, see [Find Windows 11 specs, features, and com
 
 **11 Windowsใช้พื้นที่บนพีซีของฉันมากกว่าWindows 10หรือไม่**
 
-ไม่ใช่ Windowsที่ 11 Windows 10ต้องใช้เนื้อที่ดิสก์เท่ากับประมาณ ระหว่างขั้นตอนการอัปเกรด อย่างไรก็ตาม ต้องการพื้นที่เพิ่มเติม Windowsจะล้างข้อมูลบนดิสก์เพิ่มเติมประมาณ 10 วันหลังจากที่การอัปเกรดเสร็จสมบูรณ์
+ไม่ Windowsที่ 11 Windows 10ต้องใช้เนื้อที่ดิสก์เท่ากับประมาณ ระหว่างขั้นตอนการอัปเกรด อย่างไรก็ตาม ต้องการพื้นที่เพิ่มเติม Windowsจะล้างข้อมูลบนดิสก์เพิ่มเติมประมาณ 10 วันหลังจากที่การอัปเกรดเสร็จสมบูรณ์
 
 
 **11 Windowsแทนที่Windows 10หรือไม่**

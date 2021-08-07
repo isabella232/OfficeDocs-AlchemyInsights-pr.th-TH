@@ -1,5 +1,5 @@
 ---
-title: ที่อยู่อีเมลของฉันใน Outlook บนเว็บ
+title: ที่อยู่อีเมลของฉันคืออะไรในOutlook บนเว็บ
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -10,17 +10,17 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: ''
-ms.openlocfilehash: 235e84dc70aff078aa5413dd3e1ef38c86e17d60
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 38480c8baf9ba6f4d538c0bc3dec19035e62931544c5444699dab908f64d7f0f
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47665845"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53999727"
 ---
-# <a name="what-is-my-email-address-in-outlook-on-the-web"></a>ที่อยู่อีเมลของฉันใน Outlook บนเว็บคืออะไร
+# <a name="what-is-my-email-address-in-outlook-on-the-web"></a>ที่อยู่อีเมลของฉันใน Outlook บนเว็บ คืออะไร
 
-อีเมลแอดเดรสของคุณได้รับมอบหมายให้คุณโดยที่ทำงานหรือโรงเรียนของคุณ ดูเหมือนว่า ellen@contoso.onmicrosoft.com, ellen@contoso.edu หรือ ellen@contoso.com บัญชีผู้ใช้ที่ทำงานหรือโรงเรียนนี้คือที่อยู่อีเมลและบัญชีที่คุณใช้ในการลงชื่อเข้าใช้ Microsoft ๓๖๕สำหรับที่ทำงานหรือโรงเรียน
+อีเมลแอดเดรสของคุณจะถูกมอบหมายให้คุณโดยที่ที่โรงเรียนหรือที่โรงเรียนของคุณ ดูเหมือน ellen@contoso.onmicrosoft.com ellen@contoso.edu หรือ ellen@contoso.com บัญชีของที่โรงเรียนหรือที่โรงเรียนคือที่อยู่อีเมลและบัญชีที่คุณใช้เพื่อลงชื่อเข้าใช้Microsoft 365ที่โรงเรียนหรือที่โรงเรียน
 
-บัญชีผู้ใช้ของที่ทำงานหรือที่โรงเรียนของคุณแตกต่างจากบัญชี Microsoft ของคุณ คุณใช้บัญชี Microsoft ของคุณสำหรับบริการส่วนบุคคลเช่น Outlook.com, Xbox Live, Skype และอื่นๆ
+บัญชีที่โรงเรียนหรือที่โรงเรียนของคุณแตกต่างจากบัญชี Microsoft ของคุณ คุณใช้บัญชี Microsoft ของคุณเพื่อรับบริการส่วนบุคคล เช่น Outlook.com, Xbox Live, Skype และอื่นๆ อีกมากมาย
 
-สำหรับข้อมูลเพิ่มเติมให้ดู [ที่ ID ผู้ใช้ของฉันคืออะไรและเหตุใดฉันจึงจำเป็นต้องใช้สำหรับ Microsoft ๓๖๕สำหรับธุรกิจ](https://support.office.com/article/37da662b-5da6-4b56-a091-2731b2ecc8b4)
+ดูข้อมูลเพิ่มเติมที่[ID ผู้ใช้ของฉันคืออะไรและเหตุใดฉันจึงต้องการMICROSOFT 365ธุรกิจ](https://support.office.com/article/37da662b-5da6-4b56-a091-2731b2ecc8b4)

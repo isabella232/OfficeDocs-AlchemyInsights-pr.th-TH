@@ -12,25 +12,25 @@ ms.custom:
 - "937"
 - "2000023"
 ms.assetid: 6d728dd5-4b98-4bc3-a866-c0ec82779b6b
-description: ขั้นตอนด้านล่างนี้จะอธิบายวิธีการถอนการติดตั้ง Office จากพีซี
-ms.openlocfilehash: 1be113b2fd140dc30857de68a4ab851c0d946af7
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+description: ขั้นตอนด้านล่างนี้อธิบายวิธีการถอนการติดตั้งOfficeออกจากพีซี
+ms.openlocfilehash: 50e276e1f0bc142b39515f8ee571bb028b2e5793c990e19f72da5b88ea81c848
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47658285"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53908621"
 ---
 # <a name="uninstall-office"></a>ถอนการติดตั้ง Office
 
-ดาวน์โหลดและติดตั้งตัว[ช่วยการสนับสนุนและการกู้คืน](https://aka.ms/SARA-OfficeUninstall-Alchemy)
+ดาวน์โหลด[และติดตั้งตัวช่วยการสนับสนุนและการกู้คืน](https://aka.ms/SARA-OfficeUninstall-Alchemy)
   
-1. เมื่อเปิดจาก**ถอนการติดตั้งผลิตภัณฑ์ Office**เลือกเวอร์ชันที่คุณต้องการถอนการติดตั้งแล้วเลือก**ถัดไป**
+1. เมื่อเปิดขึ้น **จาก Officeผลิตภัณฑ์** ของคุณ ให้เลือกเวอร์ชันที่คุณต้องการถอนการติดตั้ง **แล้วเลือก** ถัดไป
 
-2. ดำเนินการต่อไปยังหน้าจอและรีสตาร์ตคอมพิวเตอร์ของคุณเมื่อได้รับพร้อมท์
+2. เริ่มหน้าจอต่อและรีสตาร์ตคอมพิวเตอร์ของคุณเมื่อได้รับพร้อมท์
 
-    หลังจากเริ่มการทำงานใหม่ผู้ช่วยการสนับสนุนและการกู้คืนจะเปิดใหม่โดยอัตโนมัติเพื่อให้กระบวนการถอนการติดตั้งเสร็จสมบูรณ์
+    หลังจากรีสตาร์ต ตัวช่วยการสนับสนุนและการกู้คืนจะเปิดขึ้นอีกครั้งโดยอัตโนมัติเพื่อเสร็จสิ้นกระบวนการถอนการติดตั้ง
 
-3. ติดตามพร้อมท์ที่เหลือและ [ติดตั้ง Office ใหม่](https://portal.office.com/OLS/MySoftware.aspx) หรือปิดตัวช่วยสร้าง
+3. ปฏิบัติตามพร้อมท์ที่เหลือ และติดตั้ง[Office](https://portal.office.com/OLS/MySoftware.aspx)หรือปิดผู้ช่วย
 
-สำหรับรายการของตัวเลือกการถอนการติดตั้งอื่นๆให้เลือก[ถอนการติดตั้ง Office จากพีซี](https://support.office.com/article/9dd49b83-264a-477a-8fcc-2fdf5dbf61d8?wt.mc_id=Alchemy_ClientDIA)
+ดูรายการตัวเลือกการถอนการติดตั้งอื่นๆ เลือก[Officeออกจาก](https://support.office.com/article/9dd49b83-264a-477a-8fcc-2fdf5dbf61d8?wt.mc_id=Alchemy_ClientDIA)พีซี
   

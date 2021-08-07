@@ -1,5 +1,5 @@
 ---
-title: อัปเดตรหัสภาษี/VAT
+title: อัปเดตรหัสภาษี/ภาษี
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -13,13 +13,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004166"
 - "7323"
-ms.openlocfilehash: 086b91c3247214d33e9b71b53ea6ba4d001936e3
-ms.sourcegitcommit: a7952283882d341515623d5ae58eda14d0553449
+ms.openlocfilehash: 378ad1434f80d31c9649cecee363a448fb6dc342d36dc06123a59bacfd9d73f0
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 12/10/2020
-ms.locfileid: "49679619"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53908477"
 ---
-# <a name="update-taxvat-id"></a>อัปเดตรหัสภาษี/VAT
+# <a name="update-taxvat-id"></a>อัปเดตรหัสภาษี/ภาษี
 
-ถ้าคุณมีปัญหาใดๆที่เกี่ยวข้องกับรหัสภาษี/VAT ของคุณให้ติดต่อคู่ค้าของ Microsoft Licensing (ที่ปรึกษาคู่ค้าหรือซอฟต์แวร์) พวกเขาจะติดต่อศูนย์การดำเนินการภูมิภาค (ROC) สำหรับคำถามเกี่ยวกับรหัสภาษี/VAT ของคุณ 
+ถ้าคุณมีปัญหาใดๆ ที่เกี่ยวข้องกับ VAT/VAT ID ของคุณ ให้ติดต่อคู่ค้าสิทธิ์การใช้งาน Microsoft ของคุณ (คู่ค้าหรือที่ปรึกษาซอฟต์แวร์) พวกเขาจะติดต่อศูนย์ปฏิบัติการระดับภูมิภาค (ROC) เพื่อสอบถามเกี่ยวกับรหัสภาษี/ภาษีของคุณ 

@@ -1,5 +1,5 @@
 ---
-title: ใช้คีย์ผลิตภัณฑ์เพื่ออัปเกรด Windows 10 Home เป็น Windows 10 Pro
+title: ใช้คีย์ผลิตภัณฑ์เพื่อWindows 10 Home Windows 10 Pro
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,28 +13,28 @@ ms.collection: Adm_O365
 ms.custom:
 - "10116"
 - "9005600"
-ms.openlocfilehash: 473cea5752dcbfcd7687b17c8e026d53bfe2022e
-ms.sourcegitcommit: e552d65aac79433a911723412bf1252d20d3f0da
+ms.openlocfilehash: e1afdf755e6b8cd8a65ba753a6a9d2f2bf064d8fb7fbb1543848f29ac499d17a
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 03/30/2021
-ms.locfileid: "51491869"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53908405"
 ---
-# <a name="use-a-product-key-to-upgrade-windows-10-home-to-windows-10-pro"></a>ใช้คีย์ผลิตภัณฑ์เพื่ออัปเกรด Windows 10 Home เป็น Windows 10 Pro
+# <a name="use-a-product-key-to-upgrade-windows-10-home-to-windows-10-pro"></a>ใช้คีย์ผลิตภัณฑ์เพื่อWindows 10 Home Windows 10 Pro
 
-อัปเกรดจาก Windows 10 Home เป็น Windows 10 Pro โดยใช้คีย์ผลิตภัณฑ์:
+อัปเกรดWindows 10 Homeเป็น Windows 10 Proโดยใช้คีย์ผลิตภัณฑ์:
 
-1. เลือก **ปุ่ม** เริ่ม จากนั้นเลือกการตั้งค่า  >  **การอัปเดต&**  >  **การเปิดใช้งาน** ความปลอดภัย
+1. เลือก **ปุ่ม** เริ่ม จากนั้นเลือกการตั้งค่า  >  **การเปิดใช้งาน&**  >  **ความปลอดภัย**
 
-1. เลือก **เปลี่ยนคีย์** ผลิตภัณฑ์ แล้วใส่คีย์ผลิตภัณฑ์ Windows 10 Pro 25 อักขระ
+1. เลือก **เปลี่ยนคีย์** ผลิตภัณฑ์ แล้วใส่หมายเลขผลิตภัณฑ์Windows 10 Pro 25 อักขระ
 
-1. เลือกถัดไป เพื่อเริ่มการอัปเกรดเป็น Windows 10 Pro
+1. เลือก **ถัดไป** เพื่อเริ่มการWindows 10 Proอัปเกรด
 
-ถ้าคุณติดตั้งและเปิดใช้งาน Windows 10 Pro บนอุปกรณ์ของคุณแล้ว คุณมีใบอนุญาตใช้งานดิจิทัลที่อนุญาตให้คุณอัปเกรดจาก Windows 10 Home เป็น Windows 10 Pro โดยไม่มีคีย์ผลิตภัณฑ์:
+ถ้าคุณติดตั้งและเปิดใช้งานWindows 10 Proบนอุปกรณ์ของคุณแล้ว คุณจะมีสิทธิ์การใช้งานดิจิทัลที่อนุญาตให้คุณอัปเกรดจาก Windows 10 Home Windows 10 Proได้โดยไม่ต้องมีคีย์ผลิตภัณฑ์:
 
-1. เมื่อต้องการอัปเกรด ให้เลือกปุ่ม **เริ่ม** จากนั้นเลือกการตั้งค่าอัปเดต **&**  >  **การเปิดใช้งาน**  >  **ความปลอดภัย**:
+1. เมื่อต้องการอัปเกรด เลือกปุ่ม **เริ่ม** จากนั้นเลือกปุ่ม **การตั้งค่า**  >  **การเปิดใช้งาน&**  >  **ความปลอดภัย:**
 
-    - หากคุณมีใบอนุญาตใช้งานดิจิทัลของ Windows 10 Pro และ Windows 10 Home ถูกเปิดใช้งานบนอุปกรณ์ของคุณแล้ว ให้เลือก ไปที่ **Microsoft Store** และคุณจะได้รับพร้อมท์ให้อัปเกรดเป็น Windows 10 Pro ฟรี
-    - หากคุณมีใบอนุญาตใช้งานดิจิทัลของ Windows 10 Pro และ Windows 10 Home ไม่ได้เปิดใช้งานบนอุปกรณ์ของคุณให้เลือก แก้ไขปัญหา แล้วปฏิบัติตามขั้นตอนเพื่ออัปเกรดเป็น Windows 10 Pro
+    - ถ้าคุณมีสิทธิ์การใช้งานดิจิทัลWindows 10 Pro และ Windows 10 Home เปิดใช้งานอยู่บนอุปกรณ์ของคุณแล้ว ให้เลือก **ไปที่ Microsoft Store** และคุณจะได้รับพร้อมท์ให้อัปเกรดเป็น Windows 10 Pro ฟรี
+    - ถ้าคุณมีสิทธิ์การใช้งานดิจิทัลWindows 10 Pro Windows 10 Home และ Windows 10 Home ไม่ได้เปิดใช้งานบนอุปกรณ์ของคุณ ให้เลือก แก้ไขปัญหา แล้วปฏิบัติตามขั้นตอนเพื่อWindows 10 Proอัปเกรด
 
-**หมายเหตุ**: หากต้องการเรียนรู้เพิ่มเติมเกี่ยวกับการเปิดใช้งานใน Windows 10 โปรดดู [การเปิดใช้งาน Windows 10](https://support.microsoft.com/windows/activate-windows-10-c39005d4-95ee-b91e-b399-2820fda32227)
+**หมายเหตุ**: เมื่อต้องการเรียนรู้เพิ่มเติมเกี่ยวกับการเปิดใช้งานWindows 10 ให้ดูที่ [เปิดใช้งานWindows 10](https://support.microsoft.com/windows/activate-windows-10-c39005d4-95ee-b91e-b399-2820fda32227)
