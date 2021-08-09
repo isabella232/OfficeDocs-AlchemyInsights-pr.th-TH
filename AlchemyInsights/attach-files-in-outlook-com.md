@@ -1,5 +1,5 @@
 ---
-title: ๘๐๐๐๐๕๒แนบไฟล์ใน Outlook.com
+title: 8000052 แนบไฟล์ ใน Outlook.com
 ms.author: daeite
 author: daeite
 manager: jackiesm
@@ -12,18 +12,18 @@ ms.custom:
 - "857"
 - "8000052"
 ms.assetid: f6d43c80-cfca-4898-9567-746177cfadc4
-ms.openlocfilehash: 798884ed8bb190044d486265c8e896c8980f2f54
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 17357abe83c410e0bcb81ac38487689aff7fd6421d9ed33d9f10576721b71d3f
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47715436"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54060155"
 ---
 # <a name="how-to-attach-files-in-outlook"></a>วิธีการแนบไฟล์ใน OUtlook 
 
 1. เขียนข้อความใหม่หรือตอบกลับข้อความ
 
-2. ที่ด้านล่างของบานหน้าต่างการเขียนให้เลือกไอคอนที่หนีบกระดาษ
+2. ที่ด้านล่างของบานหน้าต่างการเขียน ให้เลือกไอคอนที่หนีบกระดาษ
 
 เรียนรู้เพิ่มเติมเกี่ยวกับ[วิธีการแนบไฟล์ใน Outlook.com](https://go.microsoft.com/fwlink/p/?linkid=2001702&amp;clcid=0x409)
   

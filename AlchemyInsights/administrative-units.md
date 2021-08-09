@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "11254"
 - "1200008"
-ms.openlocfilehash: a2f1d74c146131893d84e21fb5e810182d44529c
-ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
+ms.openlocfilehash: decdedb68aef6203aaea415ba96b0b3c624e1244e29ee7a671ee0d06d964f837
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52564701"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53934420"
 ---
 # <a name="administrative-units"></a>หน่วยการดูแลระบบ
 

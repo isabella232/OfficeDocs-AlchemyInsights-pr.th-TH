@@ -1,5 +1,5 @@
 ---
-title: การเล่นแร่ธาตุ-ไม่สามารถลงชื่อเข้าใช้ Outlook.com ได้
+title: Alchemy - ไม่สามารถลงชื่อเข้าใช้ใน Outlook.com
 ms.author: daeite
 author: daeite
 manager: jackiesm
@@ -12,23 +12,23 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 79595b9d-ce9b-44e5-b142-8d6df9cbb427
-ms.openlocfilehash: c065bdee1ded7eaaa1851d6fc20007a3b7f20879
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: f432ec75a71f5d142780c532ed5368c44da54b3a9ac6e0244b4a4a5127b0acff
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47719000"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53934198"
 ---
-# <a name="cant-sign-in-to-outlookcom"></a>ไม่สามารถลงชื่อเข้าใช้ Outlook.com
+# <a name="cant-sign-in-to-outlookcom"></a>ไม่สามารถลงชื่อเข้าใช้ใน Outlook.com
 
-ถ้าคุณกำลังมีปัญหาในการลงชื่อเข้าใช้บัญชีผู้ใช้ของคุณให้ตรวจสอบให้แน่ใจว่าบัญชีผู้ใช้ของคุณไม่ได้ถูกปิดใช้งานเป็นเวลามากกว่า๓๖๕วัน หลังจาก๓๖๕วันที่ไม่ได้ใช้งานอีเมลของคุณจะถูกลบและไม่สามารถกู้คืนได้
+ถ้าคุณมีปัญหาในการลงชื่อเข้าใช้บัญชีของคุณ ตรวจสอบให้แน่ใจว่าบัญชีของคุณไม่ได้ใช้งานเป็นเวลามากกว่า 365 วัน หลังจากไม่ได้ใช้งาน 365 วัน อีเมลของคุณจะถูกลบและไม่สามารถกู้คืนได้
   
-บัญชีผู้ใช้ของคุณอาจถูกบล็อกชั่วคราวเนื่องจากเราสังเกตเห็นกิจกรรมการลงชื่อเข้าใช้ที่ผิดปกติ ถ้าบัญชีผู้ใช้ของคุณถูกบล็อกให้อ่านวิธีการ[ยกเลิกการบล็อกบัญชี Outlook.com ของฉัน](https://support.office.com/article/f4ad2701-d166-4d8b-8a6a-9af2a1f8a4c4.aspx) 
+บัญชีของคุณอาจถูกบล็อกชั่วคราวเนื่องจากเราสังเกตเห็นกิจกรรมการลงชื่อเข้าใช้ที่ไม่ปกติ หากบัญชีของคุณถูกบล็อก อ่านวิธี ยกเลิกการ[บล็อกบัญชี Outlook.com](https://support.office.com/article/f4ad2701-d166-4d8b-8a6a-9af2a1f8a4c4.aspx)ของฉัน 
   
-ถ้าคุณสงสัยว่าบัญชีผู้ใช้ Outlook.com ของคุณถูกแฮ็กให้ดูที่[บัญชีผู้ใช้ Outlook.com ของฉันถูกแฮ็ก](https://support.office.com/article/35993ac5-ac2f-494e-aacb-5232dda453d8.aspx)
+ถ้าคุณสงสัยว่าบัญชี Outlook.com ของคุณถูกแฮ็ก ให้ดู บัญชี[Outlook.com](https://support.office.com/article/35993ac5-ac2f-494e-aacb-5232dda453d8.aspx)ของฉันถูกแฮ็ก
   
-ถ้าคุณลืมหรือทำรหัสผ่านหายคุณสามารถ [ตั้งค่ารหัสผ่านของคุณใหม่](https://go.microsoft.com/fwlink/p/?LinkID=242804)ได้
+ถ้าคุณลืมหรือลืมรหัสผ่าน คุณสามารถ[รีเซ็ตรหัสผ่านของคุณ](https://go.microsoft.com/fwlink/p/?LinkID=242804)
   
-อ่านเพิ่มเติมเกี่ยวกับ [เมื่อคุณไม่สามารถลงชื่อเข้าใช้บัญชี Microsoft ของคุณ](https://go.microsoft.com/fwlink/p/?linkid=837479)ได้
+อ่านเพิ่มเติมเกี่ยวกับ [เมื่อคุณไม่สามารถลงชื่อเข้าใช้บัญชี Microsoft](https://go.microsoft.com/fwlink/p/?linkid=837479)ของคุณ
   
 

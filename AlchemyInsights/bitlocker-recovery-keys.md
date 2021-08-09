@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "1922"
 - "9000220"
-ms.openlocfilehash: ec90e412302c74748e253f2e5430fa4205466f0d
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: f71fae0aabda3fc48f20d5ea1e6909475f0c17ff5cdf98b58b1403bd2e291c19
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51820305"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54060083"
 ---
 # <a name="accessing-bitlocker-recovery-keys"></a>การเข้าถึงคีย์การกู้คืน Bitlocker
 
-เมื่อกําหนดการตั้งค่า Bitlocker นโยบายการป้องกันปลายทาง Intuned คุณจะสามารถกําหนดได้ว่าข้อมูลการกู้คืน Bitlocker ควรจัดเก็บไว้ใน Azure Active Directory หรือไม่
+เมื่อกําหนดการตั้งค่า Bitlocker นโยบายการป้องกันจุดสิ้นสุด Intuned คุณจะสามารถกําหนดได้ว่าข้อมูลการกู้คืน Bitlocker ควรถูกจัดเก็บAzure Active Directoryหรือไม่
 
 ถ้าการตั้งค่าดังกล่าวได้รับการกําหนดค่า ผู้ดูแลระบบ Intun1 ควรเห็นข้อมูลการกู้คืนที่เก็บไว้โดยเป็นส่วนหนึ่งของข้อมูลระเบียนอุปกรณ์ในอุปกรณ์ Intuns blade ด้วยสองวิธี:
 

@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "1556"
 - "9000080"
-ms.openlocfilehash: c7dc35a484894e147208ef7080c151c6d3af0c63
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: b8a2806a6d828b8ef7ee4e6dff05dcc496857b8ca8f76c777c39ff3155809668
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51817731"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54006405"
 ---
 # <a name="co-management"></a>การจัดการร่วม
 
@@ -29,9 +29,9 @@ ms.locfileid: "51817731"
 
 ประสบการณ์การตั้งค่าการจัดการร่วมแบบทีละขั้นตอนแบบทีละขั้นตอน[สามารถพบได้ที่นี่](https://admin.microsoft.com/AdminPortal/Home?#/modernonboarding/comanagesetupguide)
 
-**ฉันจะติดตั้งไคลเอ็นต์ Config Manager บนอุปกรณ์ที่มีการจัดการ Intun <2>**
+**ฉันจะติดตั้งไคลเอ็นต์ Config Manager บนอุปกรณ์ที่มีการจัดการ Intun**
 
-ดู[อุปกรณ์ Windows ที่มีการจัดการโดย Intun1 MDM](https://docs.microsoft.com/mem/configmgr/core/clients/deploy/deploy-clients-to-windows-computers#bkmk_mdm)
+ดู[อุปกรณ์ที่มีการจัดการด้วยการจัดการด้วย Intuned MDM Windows ต่างๆ](https://docs.microsoft.com/mem/configmgr/core/clients/deploy/deploy-clients-to-windows-computers#bkmk_mdm)
 
 **จะเกิดอะไรขึ้นถ้าฉันต้องการเปลี่ยนอํานาจ MDM**
 
