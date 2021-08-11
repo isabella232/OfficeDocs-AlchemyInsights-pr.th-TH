@@ -1,5 +1,5 @@
 ---
-title: การเล่นแร่ธาตุ-วินิจฉัยและแก้ไขปัญหาการเชื่อมต่อ Outlook
+title: Alchemy - วินิจฉัยและOutlookการเชื่อมต่อ
 ms.author: pdigia
 author: pebaum
 manager: jackiesm
@@ -14,16 +14,16 @@ ms.custom:
 - "167"
 - "1800011"
 ms.assetid: ff6d4c25-bbee-4dc3-b1d2-b72081ecdca2
-ms.openlocfilehash: b2cce7e7d87558a773e63f518e1a52192fefd92c
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: f10eb569be90ba8f5f5fafc50f70c79e15a4c693c7798f804da4206846eccecc
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47718712"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53933736"
 ---
-# <a name="diagnose-and-resolve-outlook-connectivity-issues"></a>การวินิจฉัยและแก้ไขปัญหาการเชื่อมต่อ Outlook
+# <a name="diagnose-and-resolve-outlook-connectivity-issues"></a>วินิจฉัยและOutlookการเชื่อมต่อ
 
-เมื่อต้องการวินิจฉัยและแก้ไขปัญหาการเชื่อมต่อ Outlook ของคุณคุณสามารถเรียกใช้ [เครื่องมือการเชื่อมต่อ outlook](https://aka.ms/SaRA-OutlookDisconnect-Alchemy) บนเครื่องจักรที่ได้รับผลกระทบ
+เมื่อต้องการวินิจฉัยและOutlookการเชื่อมต่อของคุณ คุณสามารถเรียกใช้เครื่องมือ[Outlookการเชื่อมต่อ](https://aka.ms/SaRA-OutlookDisconnect-Alchemy)บนคอมพิวเตอร์ที่ได้รับผลกระทบ
   
-เครื่องมือนี้จะดำเนินการตรวจสอบการวินิจฉัยและแนะนำวิธีแก้ไขปัญหาที่เป็นไปได้เพื่อให้คุณสามารถแก้ไขปัญหาเกี่ยวกับการเชื่อมต่อ Outlook ได้
+เครื่องมือนี้จะตรวจสอบการวินิจฉัยและแนะOutlookโซลูชันที่เป็นไปได้เพื่อแก้ไขปัญหาการเชื่อมต่อ
   

@@ -1,5 +1,5 @@
 ---
-title: สไลด์ PowerPoint ไม่แสดงใน Skype for Business บนอุปกรณ์ Android
+title: PowerPointสไลด์ไม่แสดงSkype for Businessบนอุปกรณ์ Android
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,15 +13,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "6017"
 - "9003195"
-ms.openlocfilehash: 180161ebea6ee9cf80c2921c022583481617b015
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 34d61b4f36bb743e56eca5856cbac3b47540d5264881feadf74fe20bf88d64b8
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47693934"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53960314"
 ---
-# <a name="powerpoint-slides-not-showing-in-skype-for-business-on-android-devices"></a>สไลด์ PowerPoint ไม่แสดงใน Skype for Business บนอุปกรณ์ Android
+# <a name="powerpoint-slides-not-showing-in-skype-for-business-on-android-devices"></a>PowerPointสไลด์ไม่แสดงSkype for Businessบนอุปกรณ์ Android
 
-ถ้าคุณพบปัญหาเกี่ยวกับสไลด์ PowerPoint ที่ไม่แสดงบนอุปกรณ์ Android อาจเกิดจากข้อผิดพลาดในเบราว์เซอร์ Chrome
+หากคุณประสบปัญหากับสไลด์PowerPointไม่แสดงบนอุปกรณ์ Android อาจเป็นเพราะข้อบกพร่องในเบราว์เซอร์ Chrome
 
-ลองปิดใช้งานแล้วถอนการติดตั้ง Chrome หลังจากที่ Chrome ถอนการติดตั้งแล้วเปิดใช้งาน Chrome ใหม่เพื่อรับเวอร์ชันของโรงงาน (74.0.3729.136) ที่ปัญหานี้ได้รับการแก้ไขแล้ว
+ลองปิดใช้งาน แล้วถอนการติดตั้ง Chrome หลังจากถอนการติดตั้ง Chrome แล้ว ให้เปิดใช้งาน Chrome อีกครั้งเพื่อรับเวอร์ชันจากโรงงาน (74.0.3729.136) ที่ปัญหาได้รับการแก้ไข

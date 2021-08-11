@@ -1,5 +1,5 @@
 ---
-title: เปิดใช้งานค่าเริ่มต้นของความปลอดภัย
+title: เปิดใช้งานค่าเริ่มต้นด้านความปลอดภัย
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,22 +12,22 @@ ms.collection: Adm_O365
 ms.custom:
 - "6006"
 - "1300007"
-ms.openlocfilehash: 78893d1ac260f9c9a2670969b4c50c8b911102c5
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 45154bceda45763a3cf9095c2df537070fa7d4774cdc248f72dc015d572da93b
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47740385"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53942962"
 ---
-# <a name="security-defaults-is-enabled"></a>เปิดใช้งานค่าเริ่มต้นของความปลอดภัย
+# <a name="security-defaults-is-enabled"></a>เปิดใช้งานค่าเริ่มต้นด้านความปลอดภัย
 
-การตั้งค่าเริ่มต้นของความปลอดภัยพร้อมท์ผู้ใช้ทั้งหมดสำหรับการรับรองความถูกต้องแบบหลายปัจจัย
+การตั้งค่า ค่าเริ่มต้นด้านความปลอดภัย จะพร้อมท์ผู้ใช้ทั้งหมดเกี่ยวกับการรับรองความถูกต้องแบบหลายปัจจัย
 
-เมื่อต้องการจัดการค่าเริ่มต้นของความปลอดภัย:
+เมื่อต้องการจัดการค่าเริ่มต้นความปลอดภัย:
 
-1. ลงชื่อเข้าใช้ [พอร์ทัล Azure](https://ms.portal.azure.com/)   ด้วยข้อมูลประจำตัวของผู้ดูแลระบบส่วนกลางของคุณ
-2. ไปยัง**คุณสมบัติ Azure active**  >  **Properties**directory
-3. ที่ด้านล่างของหน้าให้คลิก**จัดการค่าเริ่มต้นด้านความปลอดภัย**
-4. คลิก **ใช่** เพื่อเปิดใช้งานค่าเริ่มต้นของความปลอดภัยหรือ **ไม่ใช่** เพื่อปิดใช้งานค่าเริ่มต้นด้านความปลอดภัย
+1. ลงชื่อเข้าใช้พอร์ทัล [Azure ด้วยข้อมูล](https://ms.portal.azure.com/)   รับรองความถูกต้องของผู้ดูแลระบบส่วนกลางของคุณ
+2. ไปที่ **Azure Active Directory**  >  **คุณสมบัติ**
+3. ที่ด้านล่างของหน้า ให้คลิก **จัดการค่าเริ่มต้นความปลอดภัย**
+4. คลิกใช่ เพื่อเปิดใช้งานค่าเริ่มต้นความปลอดภัย **หรือ** ไม่ใช่ เพื่อปิดใช้งานค่าเริ่มต้นด้านความปลอดภัย
 
-สำหรับข้อมูลเพิ่มเติมให้ดู[ที่ค่าเริ่มต้นด้านความปลอดภัยคืออะไร](https://docs.microsoft.com/azure/active-directory/fundamentals/concept-fundamentals-security-defaults)
+หากต้องการข้อมูลเพิ่มเติม โปรดดู[ค่าเริ่มต้นด้านความปลอดภัยคืออะไร](https://docs.microsoft.com/azure/active-directory/fundamentals/concept-fundamentals-security-defaults)

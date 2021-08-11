@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002578"
 - "4996"
-ms.openlocfilehash: 78b27709f8f5aa3756826ad33c739d7e6e9e1a3c
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: a7bfc4c412a3143fda19fda84479e458a0c53cf4eee90cd84456e83eed860dd2
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51818379"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53917046"
 ---
 # <a name="change-the-default-link-type-for-a-site"></a>เปลี่ยนชนิดลิงก์เริ่มต้นของไซต์
 
-ผู้ใช้สามารถแชร์ไฟล์และโฟลเดอร์ใน SharePoint และ OneDrive ได้โดยการส่งลิงก์ They should select a link type based on the people whom they want to give permission.
+ผู้ใช้สามารถแชร์ไฟล์และโฟลเดอร์SharePointและOneDriveได้โดยส่งลิงก์ They should select a link type based on the people whom they want to give permission.
 
 - [เปลี่ยนชนิดลิงก์เริ่มต้นของไซต์](https://docs.microsoft.com/sharepoint/change-default-sharing-link)

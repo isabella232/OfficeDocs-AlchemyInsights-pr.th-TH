@@ -1,5 +1,5 @@
 ---
-title: ขลัง-ขั้นตอนการแก้ไขปัญหาของ Outlook ล้มเหลว
+title: Alchemy - Outlookขั้นตอนการแก้ไขปัญหาการหยุดเล่น
 ms.author: pdigia
 author: pebaum
 manager: jackiesm
@@ -13,22 +13,22 @@ ms.custom:
 - "1800016"
 ROBOTS: NOINDEX, NOFOLLOW
 ms.assetid: dbd710ec-cdeb-473f-aab4-bdf99de29610
-ms.openlocfilehash: 01179dde29cd07256a5f6e0ece539c5c02c25dfd
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 69c606e0987b5025a5c1e7340159ec06afe4b8e084c61615778a90114f9b4ecb
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47718676"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53933700"
 ---
-# <a name="outlook-crash-troubleshooting-steps"></a>ขั้นตอนการแก้ไขปัญหาความล้มเหลวของ Outlook
+# <a name="outlook-crash-troubleshooting-steps"></a>Outlookขั้นตอนการแก้ไขปัญหาการหยุดการหยุด
 
-ถ้าคุณกำลังมีปัญหาเกี่ยวกับการหยุดทำงานบนเดสก์ท็อปของ Outlook ให้เริ่มต้นด้วยการทำตามขั้นตอนสามขั้นตอนด้านล่างซึ่งแสดงรายละเอียดทั้งหมดในบทความนี้: [วิธีการแก้ไขปัญหาที่ทำให้ Outlook หยุดทำงานหรือหยุดการตอบสนอง](https://docs.microsoft.com/exchange/troubleshoot/outlook-crashes/crash-issues)
+ถ้าคุณประสบปัญหาการหยุดOutlookบนเดสก์ท็อป ให้เริ่มต้นโดยทําตามสามขั้นตอนด้านล่าง ซึ่งแสดงอยู่โดยละเอียด[ในบทความนี้:](https://docs.microsoft.com/exchange/troubleshoot/outlook-crashes/crash-issues)วิธีแก้ไขปัญหาที่ทําให้โปรแกรมหยุดOutlookหยุดการตอบสนอง
   
-ขั้นตอนที่ 1: ตรวจสอบปัญหาที่อาจเกิดขึ้นได้กับ add-in
+ขั้นตอนที่ 1: ตรวจสอบปัญหาที่อาจเกิดขึ้นได้กับ Add-in
   
-ขั้นตอนที่ 2: ซ่อมแซม Outlook และเรียกใช้ [เครื่องมือการสนับสนุนและการกู้คืน](https://aka.ms/SaRA-OutlookWontStart) เพื่อแก้ไขปัญหาข้อผิดพลาดการเริ่มต้นใช้งาน Outlook บนเครื่องจักรที่ได้รับผลกระทบ
+ขั้นตอนที่ 2: Outlookและเรียกใช้[ตัวช่วยการสนับสนุนและการกู้คืนเครื่องมือ](https://aka.ms/SaRA-OutlookWontStart)แก้ไขปัญหาการOutlookเริ่มต้นใหม่บนเครื่องที่ได้รับผลกระทบ
   
-ขั้นตอนที่ 3: สร้างโปรไฟล์ Outlook ใหม่หรือเรียกใช้ [เครื่องมือโปรไฟล์ outlook](https://aka.ms/SaRA-OutlookSetupProfile) บนเครื่องจักรที่ได้รับผลกระทบ
+ขั้นตอนที่ 3: สร้างOutlookโปรไฟล์ใหม่ หรือ[เรียกใช้Outlookโปรไฟล์](https://aka.ms/SaRA-OutlookSetupProfile)บนคอมพิวเตอร์ที่ได้รับผลกระทบ
   
-ถ้าปัญหาเกิดขึ้นหลังจากการอัปเดตและขั้นตอนข้างต้นไม่ทำงานคุณอาจจำเป็นต้องแปลงกลับไปเป็นรุ่นก่อนหน้า ดู[วิธีการแปลงกลับไปเป็นเวอร์ชันก่อนหน้าของ Office ๒๐๑๖ให้คลิก-ทู-รัน](https://support.microsoft.com/help/2770432)
+ถ้าเกิดปัญหานี้ขึ้นหลังจากการอัปเดตและขั้นตอนทางด้านบนไม่ได้ผล คุณอาจต้องแปลงกลับไปเป็นรุ่นก่อนหน้า ดู[วิธีการแปลงกลับเป็นเวอร์ชันก่อนหน้าของ Office 2016 คลิก-to-](https://support.microsoft.com/help/2770432)รัน
   

@@ -1,5 +1,5 @@
 ---
-title: การเปลี่ยนลักษณะที่ปรากฏของกล่องจดหมาย Outlook.com ของคุณ
+title: เปลี่ยนลักษณะกล่องจดหมาย Outlook.com ของคุณ
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -14,15 +14,15 @@ ms.custom:
 - "792"
 - "8000041"
 ms.assetid: 089589c9-6d5e-4073-8ec9-e297ee2397f4
-ms.openlocfilehash: 10f7b7e5dbee437f81a803f95b5529fcbc5e667a
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: cbd92e3aa383bd84e2808297ffc6c75cd83878b8c4cd691b601af667f2110de2
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47756698"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53916902"
 ---
-# <a name="change-the-look-of-your-outlook-mailbox"></a>การเปลี่ยนลักษณะที่ปรากฏของกล่องจดหมาย Outlook ของคุณ
+# <a name="change-the-look-of-your-outlook-mailbox"></a>เปลี่ยนลักษณะกล่องจดหมาย Outlook ของคุณ
 
-คุณสามารถเปลี่ยนลักษณะที่ปรากฏของรายการข้อความและบานหน้าต่างการอ่านได้ใน[การตั้งค่าเค้าโครง](https://outlook.live.com/mail/options/mail/layout) เลือกว่าจะแสดงอีเมลของคุณเป็นข้อความแต่ละข้อความหรือการสนทนาถ้าข้อความใหม่ควรปรากฏที่ด้านบนหรือด้านล่างของรายการข้อความและอื่นๆ
+คุณสามารถเปลี่ยนลักษณะที่ปรากฏของรายการข้อความและบานหน้าต่างการอ่าน [ได้ในการตั้งค่า](https://outlook.live.com/mail/options/mail/layout)เค้าโครง เลือกว่าอีเมลของคุณควรแสดงเป็นข้อความเดี่ยวหรือการสนทนาแต่ละรายการ ถ้าข้อความใหม่ควรปรากฏที่ด้านบนหรือด้านล่างของรายการข้อความ และอื่นๆ
   
-เมื่อต้องการเรียนรู้เพิ่มเติมให้ดูที่[เปลี่ยนลักษณะที่ปรากฏของกล่องจดหมาย Outlook.com ของคุณ](https://support.office.com/article/b41c2ecb-f23c-42b3-b7f8-659646d5e58c?wt.mc_id=Office_Outlook_com_Alchemy)
+เมื่อต้องการเรียนรู้เพิ่มเติม ให้ดู[เปลี่ยนลักษณะกล่องจดหมาย Outlook.com](https://support.office.com/article/b41c2ecb-f23c-42b3-b7f8-659646d5e58c?wt.mc_id=Office_Outlook_com_Alchemy)ของคุณ

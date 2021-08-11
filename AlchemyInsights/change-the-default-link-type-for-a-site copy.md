@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002578"
 - "4996"
-ms.openlocfilehash: faec92a04274e7105ad9adff3cdba56cc914aa9d
-ms.sourcegitcommit: 8242a824491f64be48dfe81da09766920fbd7feb
+ms.openlocfilehash: 2e8bda03ffad21e8c7bedd132dc5c18e9e553c21076a149351cc8d86d19b4d60
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 06/06/2021
-ms.locfileid: "52794217"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53917082"
 ---
 # <a name="change-the-default-link-type-for-a-site"></a>เปลี่ยนชนิดลิงก์เริ่มต้นของไซต์
 
