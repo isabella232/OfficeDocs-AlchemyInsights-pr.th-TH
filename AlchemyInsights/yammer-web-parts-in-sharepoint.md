@@ -1,5 +1,5 @@
 ---
-title: Web part ของ Yammer ใน SharePoint
+title: Yammer Web Part ใน SharePoint
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,35 +13,35 @@ ms.collection: Adm_O365
 ms.custom:
 - "5475"
 - "9002494"
-ms.openlocfilehash: d8b4043bb2889429a18c477505e7eca662943051
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: a252dab703e639c7c11fe6aead1db04aeecfe54bc6d52bcd4a28433aed4701d5
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47664369"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53970350"
 ---
-# <a name="yammer-web-parts-in-sharepoint"></a>Web part ของ Yammer ใน SharePoint
+# <a name="yammer-web-parts-in-sharepoint"></a>Yammer Web Part ใน SharePoint
 
-การสนทนา yammer และ Yammer ไฮไลต์ web part เพิ่มประสิทธิภาพการทำงานร่วมกันบนหน้า SharePoint ที่ทันสมัยและคลาสสิก สำหรับข้อมูลเพิ่มเติมให้ดูที่[การสนทนา yammer](https://support.microsoft.com/office/use-a-yammer-web-part-in-sharepoint-online-a53cfa0c-3d09-42c8-a286-1038a81c59da#conversations)และ[ไฮไลต์ของ yammer](https://support.microsoft.com/office/use-a-yammer-web-part-in-sharepoint-online-a53cfa0c-3d09-42c8-a286-1038a81c59da#highlights)    
+Yammer การสนทนาและการYammerเน้นที่ Web Part จะช่วยเพิ่มประสิทธิภาพการร่วมมือกันบนหน้าSharePointสมัยใหม่และแบบคลาสสิก ดูข้อมูลเพิ่มเติมได้ที่ การYammer[และ](https://support.microsoft.com/office/use-a-yammer-web-part-in-sharepoint-online-a53cfa0c-3d09-42c8-a286-1038a81c59da#conversations)[Yammerไฮไลต์](https://support.microsoft.com/office/use-a-yammer-web-part-in-sharepoint-online-a53cfa0c-3d09-42c8-a286-1038a81c59da#highlights)    
 
-Web part การสนทนา Yammer ที่ทันสมัยกำลังอัปเดตเป็นประสบการณ์การใช้งาน Yammer ใหม่และพร้อมใช้งานสำหรับผู้เช่าที่มีการวางเป้าหมาย GA ไวร์ได้เริ่มต้นแล้ว ฟีเจอร์ใหม่รวมถึงความสามารถในการเริ่มต้นการสนทนากับโพสต์ใดๆ (คำถาม, การสำรวจ, การสรรเสริญ) และทำเครื่องหมายคำตอบที่ดีที่สุดโดยตรงจาก SharePoint สำหรับข้อมูลเพิ่มเติมให้ดูที่[ข้อกำหนดและคำถามที่ถามบ่อยของลูกค้า Yammer ใหม่](https://docs.microsoft.com/yammer/get-started-with-yammer/newyammer-faq)
+Web part Yammer Conversations ที่ทันสมัยได้รับการอัปเดตเป็นประสบการณ์การใช้งานYammerใหม่และพร้อมใช้งานในผู้เช่าการเผยแพร่ที่เป้าหมาย เริ่มต้นการเริ่มใช้งาน GA แล้ว ฟีเจอร์ใหม่รวมถึงความสามารถในการเริ่มการสนทนากับโพสต์ต่างๆ (คําถาม โพล คําชมเชย) และเพื่อเขียนเครื่องหมายคําตอบที่ดีที่สุดโดยตรงจากSharePointของคุณ For more info, see [New Yammer customer terms and FAQ](https://docs.microsoft.com/yammer/get-started-with-yammer/newyammer-faq).
 
- เมื่อต้องการทำความเข้าใจเกี่ยวกับ web part และการกำหนดค่าที่เหมาะกับคุณให้ดูที่การ[ใช้ web part สำหรับ Yammer ใน SharePoint Online](https://support.microsoft.com/office/use-a-yammer-web-part-in-sharepoint-online-a53cfa0c-3d09-42c8-a286-1038a81c59da)  
+ เมื่อต้องการเข้าใจว่า Web Part ใดและการกําหนดค่าที่เหมาะสมให้คุณ ให้ดูที่ Yammer [Web Part SharePoint Online](https://support.microsoft.com/office/use-a-yammer-web-part-in-sharepoint-online-a53cfa0c-3d09-42c8-a286-1038a81c59da)  
 
-**การใช้ web part กับ SharePoint Server**  
+**การใช้ Web Part กับ SharePoint Server**  
 
-Web part สามารถใช้ได้ในหน้าสมัยใหม่และคลาสสิกภายในสภาพแวดล้อมภายในองค์กร
+Web Part สามารถใช้ได้ในหน้าสมัยใหม่และแบบคลาสสิกภายในสภาพแวดล้อมภายในองค์กร
 
-- สำหรับข้อมูลเพิ่มเติมเกี่ยวกับหน้าสมัยใหม่ให้ดู[ที่เพิ่มตัวดึงข้อมูล Yammer ลงในหน้าใหม่ใน SharePoint Server ๒๐๑๙](https://docs.microsoft.com/yammer/integrate-yammer-with-other-apps/embed-a-feed-into-a-sharepoint-site#add-a-yammer-feed-to-a-modern-page-in-sharepoint-server-2019) 
-- สำหรับข้อมูลเพิ่มเติมเกี่ยวกับหน้าคลาสสิกให้ดู[ที่เพิ่มตัวดึงข้อมูล Yammer ลงในหน้าคลาสสิกใน SharePoint server ๒๐๑๓, ๒๐๑๖และ๒๐๑๙](https://docs.microsoft.com/yammer/integrate-yammer-with-other-apps/embed-a-feed-into-a-sharepoint-site#add-a-yammer-feed-to-a-classic-page-in-sharepoint-servers-2013-2016-and-2019)
+- For more info about modern pages, see [Add a Yammer feed to a modern page in SharePoint Server 2019](https://docs.microsoft.com/yammer/integrate-yammer-with-other-apps/embed-a-feed-into-a-sharepoint-site#add-a-yammer-feed-to-a-modern-page-in-sharepoint-server-2019). 
+- For more info about classic pages, see [Add a Yammer feed to a classic page in SharePoint Servers 2013, 2016, and 2019](https://docs.microsoft.com/yammer/integrate-yammer-with-other-apps/embed-a-feed-into-a-sharepoint-site#add-a-yammer-feed-to-a-classic-page-in-sharepoint-servers-2013-2016-and-2019).
 
-**ฝัง Yammer**  
+**Yammer Embed**  
 
-ใช้เครื่องมือการกำหนดค่าฝังเพื่อทดสอบการใช้งานฝัง การอัปเดตในอนาคตเพื่อฝังจะเปิดใช้งานประสบการณ์การใช้งาน Yammer ใหม่ สำหรับข้อมูลเพิ่มเติมให้ดูที่ [เครื่องมือการกำหนดค่าฝัง](https://aka.ms/YammerEmbedConfigureTool)ตัวของ Yammer เมื่อต้องการทำความเข้าใจเกี่ยวกับคอมโพเนนต์ฝังตัวของ Yammer ให้ดูที่[ฝังตัวดึงข้อมูล](https://aka.ms/YammerDevDocs)
+ใช้เครื่องมือ การกําหนดค่าที่ฝัง เพื่อทดสอบ การฝังการใช้งาน การอัปเดตในอนาคตเป็น ฝัง จะเปิดใช้งานประสบการณ์Yammerใหม่ For more info, see the [Yammer Embed Configuration tool](https://aka.ms/YammerEmbedConfigureTool). เมื่อต้องการเข้าใจคอมโพเนนต์ Yammer ฝัง ดีขึ้น ให้ดูที่[ฝังตัว](https://aka.ms/YammerDevDocs)ดึงข้อมูล
 
-**ปัญหาที่ทราบและข้อจำกัด**
+**ปัญหาที่ทราบและข้อจํากัด**
 
-- รหัสกลุ่มจะไม่พร้อมใช้งานจาก Url Yammer ใหม่ซึ่งมีการเปลี่ยนแปลง สลับกลับไปยังโหมดคลาสสิกเพื่อรับ Id ของกลุ่มหรือ Id อื่นๆจาก Url
-- โดเมนแบบกำหนดเอง (โต๊ะทำงาน) ไม่ได้รับการสนับสนุน
-- Yammer ฝังตัวไม่ได้รับการปรับให้เหมาะสมสำหรับอุปกรณ์เคลื่อนที่ ใช้หน้าสมัยใหม่ที่มี web part สำหรับการสนทนา Yammer สำหรับประสบการณ์การใช้งานที่ดีที่สุด
-- ธีมแบบกำหนดเองจะมีผลต่อลักษณะที่ปรากฏและการใช้งาน web part การสนทนา Yammer เปิดกรณีสนับสนุนเพื่อรายงานปัญหา
+- ไม่มีรหัสกลุ่มจาก URL Yammerใหม่ที่มีการเปลี่ยนแปลง สลับกลับไปยังโหมดคลาสสิกเพื่อรับรหัสกลุ่มหรือรหัสอื่นๆ จาก URL
+- โดเมนแบบปรับแต่งเอง (ไม่รองรับ)
+- Yammer ฝังไม่ได้รับการปรับให้เหมาะสมกับอุปกรณ์เคลื่อนที่ ใช้หน้าสมัยใหม่ด้วย web part Yammer Conversations เพื่อประสบการณ์การใช้งานที่ดีที่สุด
+- ธีมแบบปรับแต่งเองอาจส่งผลต่อลักษณะที่ปรากฏและการYammer Web Part การสนทนา เปิดกรณีสนับสนุนเพื่อรายงานปัญหา

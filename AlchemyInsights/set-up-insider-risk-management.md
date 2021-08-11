@@ -12,22 +12,22 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002284"
 - "4405"
-ms.openlocfilehash: 8ae85afe240c7dd7af91b41c497fffe118dd615a
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 2e5f66b813d275bf6c799d54dd13f55a08a909d78aa24fac56f54caf8a0f4f58
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51835614"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54060875"
 ---
 # <a name="set-up-insider-risk-management"></a>ตั้งค่าการจัดการความเสี่ยง Insider
 
 เมื่อต้องการเข้าถึงและใช้การจัดการความเสี่ยงจาก Insider องค์กรของคุณต้องมีหนึ่งในการสมัครใช้งานต่อไปนี้:
 
-- **การสมัครใช้งาน Microsoft 365 E5**
+- **Microsoft 365 E5** การสมัครใช้งานของคุณ
 
-- **การสมัครใช้งาน Microsoft 365 E3** ที่มี Add-on การปฏิบัติตามข้อบังคับ Microsoft E5
+- **Microsoft 365 E3** การสมัครใช้งานด้วย Add-on การปฏิบัติตามนโยบายของ Microsoft E5
 
-ถ้าคุณไม่มีแผน **Microsoft 365 E5** อยู่แล้ว และต้องการลองการจัดการความเสี่ยงกับ Insider คุณสามารถเพิ่ม Microsoft 365 ลงในการสมัครใช้งานที่มีอยู่ของคุณ หรือ ลงทะเบียนเพื่อทดลองใช้ Microsoft 365 Enterprise E5
+If you don't have an existing **Microsoft 365 E5** plan and want to try insider risk management, you can add Microsoft 365 to your existing subscription or Sign up for a trial of Microsoft 365 Enterprise E5.
 
 > [! TIPS]
 - > การใช้เทมเพลต "การรั่วไหลของข้อมูล": ตรวจสอบให้แน่ใจว่าคุณได้กําหนดค่านโยบาย DLP แล้วอย่างน้อยหนึ่งนโยบาย

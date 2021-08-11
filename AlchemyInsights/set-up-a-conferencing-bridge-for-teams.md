@@ -1,5 +1,5 @@
 ---
-title: ตั้งค่าบริดจ์การประชุมของ Teams
+title: ตั้งค่าบริดจ์การประชุมTeams
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
@@ -12,13 +12,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002264"
 - "4385"
-ms.openlocfilehash: 0ab3ee85866795b655d7838884658d6f4727503f
-ms.sourcegitcommit: ef7ec42aba3c06aa8966dfac71cec18c08e7acf8
+ms.openlocfilehash: d13147da50af293e08839252617977ea731a1103e4b1732268aff645721d5f73
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 04/13/2021
-ms.locfileid: "51692841"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54060839"
 ---
-# <a name="set-up-a-conferencing-bridge-for-teams"></a>ตั้งค่าบริดจ์การประชุมของ Teams
+# <a name="set-up-a-conferencing-bridge-for-teams"></a>ตั้งค่าบริดจ์การประชุมTeams
 
-คุณเพียงต้องตั้งค่าการประชุมทางเสียงให้กับผู้ที่วางแผนจะจัดเวลาหรือการประชุมลูกค้าเป้าหมายเท่านั้น เราได้จัดเตรียมกระบวนการทีละขั้นตอนเพื่อเสร็จสิ้นการตั้งค่าระบบโทรศัพท์ โปรดตรวจสอบ [การตั้งค่า Microsoft Teams Phone ใน](https://docs.microsoft.com/MicrosoftTeams/phone-number-calling-plans/port-order-overview)องค์กรของคุณ
+คุณเพียงต้องตั้งค่าการประชุมทางเสียงให้กับผู้ที่วางแผนจะจัดเวลาหรือการประชุมลูกค้าเป้าหมายเท่านั้น เราได้จัดเตรียมกระบวนการทีละขั้นตอนเพื่อเสร็จสิ้นการตั้งค่าระบบโทรศัพท์ โปรดดู[การตั้งค่าMicrosoft Teams โทรใน](https://docs.microsoft.com/MicrosoftTeams/phone-number-calling-plans/port-order-overview)องค์กรของคุณ

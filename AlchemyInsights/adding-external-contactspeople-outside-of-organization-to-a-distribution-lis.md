@@ -1,5 +1,5 @@
 ---
-title: ๗๑๘การเพิ่มที่ติดต่อภายนอก/บุคคลที่อยู่ภายนอกองค์กรไปยังรายชื่อการแจกจ่าย
+title: 718 การเพิ่มที่ติดต่อภายนอก / บุคคลภายนอกองค์กรลงในรายชื่อการแจกจ่าย
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -13,15 +13,15 @@ ms.custom:
 - "718"
 - "3"
 ms.assetid: e6d64379-2dd9-4fda-a9bd-e9d61a5a4205
-ms.openlocfilehash: e9860a3c061b17a8b2fc87caa40ede0dd5277346
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: df0c7e8f95d0754f362d697f155438a63e7f55f1146e8f1671932c380186baf4
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47663496"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53934888"
 ---
 # <a name="add-external-email-addresses-to-a-distribution-group"></a>เพิ่มที่อยู่อีเมลภายนอกลงในกลุ่มการแจกจ่าย
 
-ก่อนอื่นคุณจำเป็นต้องสร้างที่ติดต่อในองค์กรของคุณสำหรับที่อยู่อีเมลภายนอก จากนั้นคุณสามารถเพิ่มที่ติดต่อลงในกลุ่มการแจกจ่ายได้ สำหรับข้อมูลเพิ่มเติมให้ดู[ที่การเพิ่มผู้ใช้ภายนอกลงในกลุ่มการแจกจ่ายหรือไม่](https://support.office.com/client/caa0f310-0bb7-48e3-8ad2-cb358b53bbba)
+ขั้นแรก คุณต้องสร้างที่ติดต่อในองค์กรของคุณเพื่อให้มีที่อยู่อีเมลภายนอก จากนั้น คุณสามารถเพิ่มที่ติดต่อลงในกลุ่มการแจกจ่าย For more information, see [Adding external users to a Distribution Group?](https://support.office.com/client/caa0f310-0bb7-48e3-8ad2-cb358b53bbba)
 
-ถ้าคุณต้องการให้ผู้ใช้ภายนอกสามารถส่งข้อความไปยังกลุ่มการแจกจ่ายได้ให้ตรวจสอบว่ากลุ่มได้รับการกำหนดค่าให้ยอมรับจดหมายจากผู้ส่งภายนอกหรือไม่ สำหรับข้อมูลเพิ่มเติมให้ดูที่[การจัดการการจัดส่ง](https://technet.microsoft.com/library/bb124513.aspx#deliverymanagement)
+ถ้าคุณต้องการให้ผู้ใช้ภายนอกสามารถส่งข้อความไปยังกลุ่มการแจกจ่ายได้ ให้ตรวจสอบว่ากลุ่มได้รับการกําหนดค่าให้ยอมรับจดหมายจากผู้ส่งภายนอกหรือไม่ หากต้องการข้อมูลเพิ่มเติม โปรดดู [การจัดการ](https://technet.microsoft.com/library/bb124513.aspx#deliverymanagement)การจัดส่ง

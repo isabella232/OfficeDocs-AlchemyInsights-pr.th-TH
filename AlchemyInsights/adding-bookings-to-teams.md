@@ -1,5 +1,5 @@
 ---
-title: การเพิ่ม Bookings ลงใน Teams
+title: การเพิ่ม Bookings Teams
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -14,15 +14,15 @@ ms.custom:
 - "5041"
 - "9002238"
 - "4344"
-ms.openlocfilehash: ec9501bedc4eb2f06fc306215c6898d2bde29c4c
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 73df6cdd12dc2c219bd93bed868af6dd80455c3f65b5984ad7dbc65682b54bf2
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51822186"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53934960"
 ---
-# <a name="adding-bookings-to-teams"></a>การเพิ่ม Bookings ลงใน Teams
+# <a name="adding-bookings-to-teams"></a>การเพิ่ม Bookings Teams
 
-Microsoft Bookings เป็นแอปการจัดตารางการนัดหมายที่ช่วยให้คุณติดตามการจอง พนักงานของคุณ และลูกค้าของคุณ ผู้ดูแลระบบสามารถเพิ่ม Bookings เป็นแอปลงในแถบแอป Microsoft Teams ของผู้ใช้ได้โดย[การจัดการนโยบายการตั้งค่าแอปใน Microsoft Teams](https://docs.microsoft.com/microsoftteams/teams-app-setup-policies)
+Microsoft Bookings เป็นแอปการจัดตารางการนัดหมายที่ช่วยให้คุณติดตามการจอง พนักงานของคุณ และลูกค้าของคุณ ผู้ดูแลระบบสามารถเพิ่ม Bookings เป็นแอปลงในแถบMicrosoft Teamsของผู้ใช้ได้โดยการจัดการนโยบาย[การตั้งค่าแอปใน](https://docs.microsoft.com/microsoftteams/teams-app-setup-policies)Microsoft Teams
 
 For information or troubleshooting in the Bookings app, see [Bookings articles](https://docs.microsoft.com/microsoft-365/bookings/bookings-faq).

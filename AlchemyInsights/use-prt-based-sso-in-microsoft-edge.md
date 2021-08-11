@@ -1,5 +1,5 @@
 ---
-title: ใช้ SSO ที่ใช้ PRT ใน Microsoft Edge
+title: ใช้ SSO ที่ยึดตาม PRT Microsoft Edge
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9005624"
 - "9657"
-ms.openlocfilehash: f74c80947f885214b8af48561b278c445069cdd0
-ms.sourcegitcommit: 9540ba561c98b511483d6f3264c43bbecbf9f4d5
+ms.openlocfilehash: 2980739f3a7c7200ceff5a0f2ed6e913eb06c9c1e60c8eb8b8f102f3f2760f01
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 03/29/2021
-ms.locfileid: "51420957"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54006981"
 ---
-# <a name="use-prt-based-sso-in-microsoft-edge"></a>ใช้ SSO ที่ใช้ PRT ใน Microsoft Edge
+# <a name="use-prt-based-sso-in-microsoft-edge"></a>ใช้ SSO ที่ยึดตาม PRT Microsoft Edge
 
-โทเค็น [รีเฟรชหลัก (PRT)](https://go.microsoft.com/fwlink/?linkid=2133632) เป็นคีย์ Azure Active Directory ที่ใช้เพื่อการรับรองความถูกต้องบนอุปกรณ์ Windows 10, iOS และ Android PRT เปิดใช้งาน SSO ให้กับแอปพลิเคชันทั้งหมดที่ใช้บนอุปกรณ์เหล่านั้น
+โทเค็น[รีเฟรชหลัก (PRT)](https://go.microsoft.com/fwlink/?linkid=2133632) Azure Active Directoryคีย์หลักที่ใช้Windows 10การรับรองความถูกต้องบนอุปกรณ์ iOS และ Android PRT เปิดใช้งาน SSO ให้กับแอปพลิเคชันทั้งหมดที่ใช้บนอุปกรณ์เหล่านั้น
 
-ใน Microsoft Edge การสนับสนุน SSO ที่ใช้ PRT เป็นระบบดั้งเดิมและไม่ต้องใช้ส่วนขยายเพิ่มเติม ใน Windows 10 RS3 ขึ้นไป ผู้ใช้ที่ลงชื่อเข้าใช้จะได้รับ SSO ที่มี PRT ไปยังเว็บไซต์ที่สนับสนุน SSO แบบ PRT
+In Microsoft Edge, support for PRT-based SSO is native and requires no additional extensions. ใน Windows 10 RS3 ขึ้นไป ผู้ใช้ที่ลงชื่อเข้าใช้จะได้รับ SSO ที่มี PRT ไปยังเว็บไซต์ที่สนับสนุน SSO แบบ PRT
