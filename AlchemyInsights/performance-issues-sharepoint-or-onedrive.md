@@ -1,5 +1,5 @@
 ---
-title: ปัญหาด้านประสิทธิภาพการทำงาน-SharePoint หรือ OneDrive
+title: ปัญหาเกี่ยวกับประสิทธิภาพการSharePointหรือOneDrive
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
@@ -13,22 +13,22 @@ ms.custom:
 - "2418"
 - "5200018"
 ms.assetid: 9225ec0f-771f-4d7a-8157-e188953107aa
-ms.openlocfilehash: 28867b71df5353dcee5cc3361742f10357a0efe1
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 921aae7eba8487c5600f290fd671ef2675372e6af0478b913e38354856cbaa22
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47771920"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53911861"
 ---
-# <a name="sharepoint-or-onedrive-slow-inaccessible-or-unavailable-for-multiple-users"></a>SharePoint หรือ OneDrive ช้าไม่สามารถเข้าถึงหรือไม่พร้อมใช้งานสำหรับผู้ใช้หลายคน
+# <a name="sharepoint-or-onedrive-slow-inaccessible-or-unavailable-for-multiple-users"></a>SharePointหรือOneDriveช้า ไม่สามารถเข้าถึง หรือไม่พร้อมใช้งานได้โดยผู้ใช้หลายราย
 
-SharePoint หรือ OneDrive อาจทำให้ไม่สามารถเข้าถึงหรือไม่พร้อมใช้งานหรืออาจไม่พร้อมใช้งานหรืออาจแสดงข้อผิดพลาดของบริการที่ไม่พร้อมใช้งานหรือข้อผิดพลาด๕๐๓ด้วยเหตุผลหลายประการดังนี้
+SharePointหรือOneDriveอาจช้า เข้าถึงไม่ได้ หรือไม่พร้อมใช้งาน หรืออาจแสดงบริการไม่พร้อมใช้งาน หรือข้อผิดพลาด 503 เนื่องจากสาเหตุหลายประการ ดังนี้
   
-- ถ้าไซต์ SharePoint หรือ OneDrive ของคุณช้าหรือล่าช้าสำหรับผู้ใช้หลายคนอาจมีปัญหาการบริการชั่วคราวที่ผู้ใช้ประสบปัญหาความล่าช้าหรือข้อผิดพลาดในการนำทางเมื่อเข้าถึงไซต์ SharePoint หรือเนื้อหา OneDrive ตรวจสอบ [แดชบอร์ดความสมบูรณ์ของบริการ](https://admin.microsoft.com/AdminPortal/Home#/servicehealth) เพื่อดูว่าองค์กรของคุณได้รับผลกระทบหรือไม่
+- ถ้าไซต์ SharePoint หรือ OneDrive ของคุณช้าหรือล่าช้าไปโดยผู้ใช้หลายราย อาจมีปัญหาบริการชั่วคราวที่ผู้ใช้พบความล่าช้าหรือข้อผิดพลาดในการนําทางเป็นระยะเมื่อเข้าถึงไซต์ SharePoint หรือเนื้อหา OneDrive ตรวจสอบ [แดชบอร์ดสถานภาพ](https://admin.microsoft.com/AdminPortal/Home#/servicehealth) บริการเพื่อดูว่าองค์กรของคุณได้รับผลกระทบหรือไม่
   
-- ผู้ใช้อาจได้รับข้อผิดพลาดที่ *ไม่ว่างของ๕๐๓* เมื่อพยายามนำทางไปยังไซต์ SharePoint หรือ OneDrive ข้อผิดพลาดนี้อาจมีสาเหตุมาจากการควบคุมปริมาณภายในบริการ SharePoint SharePoint Online ใช้การควบคุมปริมาณเพื่อรักษาประสิทธิภาพการทำงานที่ดีที่สุดและความน่าเชื่อถือของบริการ SharePoint Online การควบคุมปริมาณจะจำกัดจำนวนการดำเนินการของผู้ใช้หรือการโทรที่พร้อมกัน (โดยสคริปต์หรือโค้ด) เพื่อป้องกันไม่ให้มีทรัพยากรมากเกินไป สำหรับข้อมูลเพิ่มเติมเกี่ยวกับการควบคุมปริมาณให้ดูที่[หลีกเลี่ยงการปริมาณหรือการบล็อกใน SharePoint Online](https://docs.microsoft.com/sharepoint/dev/general-development/how-to-avoid-getting-throttled-or-blocked-in-sharepoint-online)
+- ผู้ใช้อาจได้รับข้อผิดพลาด *503 เซิร์ฟเวอร์ไม่ว่าง* เมื่อพยายามนําทางSharePointหรือOneDriveอื่น ข้อผิดพลาดนี้อาจเกิดจากการควบคุมปริมาณภายในSharePointบริการของคุณ SharePoint Online ใช้การควบคุมปริมาณเพื่อรักษาประสิทธิภาพและความน่าเชื่อถือที่ดีที่สุดของSharePointบริการออนไลน์ของคุณ การควบคุมจํานวนจะจํากัดจํานวนการกระทาของผู้ใช้หรือการโทรพร้อมกัน (ตามสคริปต์หรือโค้ด) เพื่อป้องกันการใช้ทรัพยากรมากเกินไป For more information on throttling see, [Avoid getting throttled or blocked in SharePoint Online](https://docs.microsoft.com/sharepoint/dev/general-development/how-to-avoid-getting-throttled-or-blocked-in-sharepoint-online).
 
-- ถ้าคุณพบประสิทธิภาพการทำงานที่ช้าลงด้วยไซต์หรือไซต์ SharePoint แบบ **คลาสสิก** หรือ **สมัยใหม่** ให้ใช้ [เครื่องมือการวินิจฉัยหน้า](https://aka.ms/perftool) เพื่อวิเคราะห์หน้า
+- ถ้าคุณพบประสิทธิภาพการช้าลงด้วย **ไซต์****หรือSharePoint** แบบคลาสสิกหรือทันสมัย ให้ใช้เครื่องมือ [การวินิจฉัย](https://aka.ms/perftool)หน้าเพื่อวิเคราะห์หน้า
   
-- ถ้าคุณยังคงพบประสิทธิภาพการทำงานที่ช้าทั่วไปโปรดตรวจทานทรัพยากรที่ด้านล่างของบทความนี้: [บทนำสู่การปรับปรุงประสิทธิภาพการทำงานสำหรับ SharePoint Online](https://go.microsoft.com/fwlink/?linkid=2024334)
+- ถ้าคุณยังคงพบประสิทธิภาพการช้าทั่วไป โปรดตรวจสอบแหล่งข้อมูลที่ด้านล่างของบทความนี้: บทนําสู่การปรับปรุงประสิทธิภาพ[การ](https://go.microsoft.com/fwlink/?linkid=2024334)SharePoint Online
   

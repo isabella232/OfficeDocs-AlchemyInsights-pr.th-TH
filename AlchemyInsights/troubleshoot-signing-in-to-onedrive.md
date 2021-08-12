@@ -13,21 +13,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "8283"
 - "9004614"
-ms.openlocfilehash: 2c9a390f38ecbba94698a352348e2e533a50ee17
-ms.sourcegitcommit: ded29f44e5019b1929218b02733b390899843680
+ms.openlocfilehash: fb944ae8dac7a8a222d2946025d8009216d6ca02efa750977bc9037bf578c8a1
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 05/24/2021
-ms.locfileid: "52626132"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53972627"
 ---
 # <a name="troubleshoot-signing-in-to-onedrive"></a>แก้ไขปัญหาการลงชื่อเข้าใช้OneDrive
 
 บทความนี้จะอธิบายสถานการณ์สมมติต่อไปนี้:
 
-- แก้ไขปัญหาเกี่ยวกับการลงชื่อเข้าใช้ไคลเอ็นต์OneDriveไคลเอ็นต์
+- แก้ไขปัญหาเกี่ยวกับการลงชื่อเข้าใช้ไคลเอ็นต์ การซิงค์สําหรับ OneDrive
 - การแก้ไขปัญหาเกี่ยวกับการลงชื่อเข้าใช้ไซต์ OneDrive for Business ของคุณ
 
-**แก้ไขปัญหาเกี่ยวกับการลงชื่อเข้าใช้ไคลเอ็นต์OneDriveไคลเอ็นต์**
+**แก้ไขปัญหาเกี่ยวกับการลงชื่อเข้าใช้ไคลเอ็นต์ การซิงค์สําหรับ OneDrive**
 
 - หากต้องการแก้ไขรหัสข้อผิดพลาด 0x004de40[ให้ดูที่ รหัสข้อผิดพลาด0x8004de40เมื่อลงชื่อเข้าใช้OneDrive](/sharepoint/troubleshoot/administration/error-0x8004de40-in-onedrive)
 - ลงชื่อเข้าใช้OneDrive SharePointไซต์ของคุณโดยไปที่ไซต์ แล้วคลิกปุ่ม ซิงค์ ที่ด้านบนของแถบเมนูบนไซต์
@@ -44,7 +44,7 @@ ms.locfileid: "52626132"
 
 **แก้ไขปัญหาการลงชื่อเข้าใช้Officeเพื่อซิงค์กับOneDrive**
 
-ถ้าคุณได้รับข้อความแสดงข้อผิดพลาด **ที่บอกว่า** อัปโหลดถูกบล็อก **ลงชื่อเข้าใช้เพื่อ** บันทึกไฟล์นี้ หรือบันทึกสําเนา คุณอาจต้องเอาสําเนาออกและเชื่อมต่อOneDrive [ใหม่Officeบริการที่เชื่อมต่อของคุณ](https://support.microsoft.com/office/how-to-resolve-upload-blocked-sign-into-save-this-file-or-save-a-copy-error-messages-32c7340c-f5fb-4ca0-a829-65d8120f81f8)
+ถ้าคุณได้รับข้อความแสดงข้อผิดพลาดที่Upload **บล็อก****ลงชื่อเข้าใช้เพื่อ** บันทึกไฟล์นี้ หรือ บันทึกสําเนาคุณอาจต้องเอาสําเนาออกและOneDriveใหม่จากOffice [ที่เชื่อมต่อของคุณ](https://support.microsoft.com/office/how-to-resolve-upload-blocked-sign-into-save-this-file-or-save-a-copy-error-messages-32c7340c-f5fb-4ca0-a829-65d8120f81f8)
 
 **เคล็ดลับการแก้ไขปัญหาอื่นๆ**
 

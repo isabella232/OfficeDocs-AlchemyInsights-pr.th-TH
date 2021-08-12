@@ -9,21 +9,21 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 4d86bf9c-8158-40e2-a26f-cffe1ed856d1
-ms.openlocfilehash: 51835611492b70627ef8f563f98b2922ee1454f3
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: b2b3068d2874df7f1884968766e6c00776d2023e5c44ef697401485b57f9fadf
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47712347"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53928532"
 ---
-# <a name="discard-a-check-out-from-a-document-library"></a>ละทิ้งการเช็คเอาท์ออกจากไลบรารีเอกสาร
+# <a name="discard-a-check-out-from-a-document-library"></a>ละทิ้งการเช็คเอาท์จากไลบรารีเอกสาร
 
-1. คลิกขวาที่ไฟล์ที่คุณต้องการละทิ้งเช็คเอาท์
+1. คลิกขวาที่ไฟล์ที่คุณต้องการละทิ้งการเช็คเอาท์
     
-2. คลิก**เพิ่มเติม**แล้วคลิก**ละทิ้งเช็คเอาท์** 
+2. **คลิก** เพิ่มเติม แล้วคลิก **ละทิ้งการเช็คเอาท์** 
     
-3. จากกล่องโต้ตอบให้คลิก **ละทิ้งเช็คเอาท์** เพื่อล้างเช็คเอาท์ 
+3. จากกล่องโต้ตอบ ให้คลิก **ละทิ้งการเช็คเอาท์** เพื่อยกเลิกการเช็คเอาท์ 
     
-สำหรับคำถามเพิ่มเติมเกี่ยวกับการเช็คอินและเช็คเอาท์ให้ดู[คำถามยอดนิยมเกี่ยวกับการเช็คเอาท์เช็คอินและเวอร์ชัน](https://go.microsoft.com/fwlink/?linkid=2018786)
+For additional questions about check in and checking out, see [Top questions about check out, check in, and versions](https://go.microsoft.com/fwlink/?linkid=2018786).
   
 

@@ -1,5 +1,5 @@
 ---
-title: ปิดใช้งานข้อคิดเห็นบนรายการ
+title: ปิดใช้งานข้อคิดเห็นในรายการ
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003821"
 - "7613"
-ms.openlocfilehash: 28a04424cdace0083ac012b7301595a7b9ca2687
-ms.sourcegitcommit: 3599c82d3274c48b039831aeafefc16b9df7565c
+ms.openlocfilehash: e797c8ea75aa9a11358cec6ccac0f51f203f93aa5e6e0a0811ec50178c914b20
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 12/16/2020
-ms.locfileid: "49706774"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53928784"
 ---
-# <a name="disable-comments-on-lists"></a>ปิดใช้งานข้อคิดเห็นบนรายการ
+# <a name="disable-comments-on-lists"></a>ปิดใช้งานข้อคิดเห็นในรายการ
 
-ผู้ดูแลระบบสามารถปิดใช้งานฟีเจอร์ที่ระดับองค์กรได้โดยการเปลี่ยนพารามิเตอร์ **CommentsOnListItemsDisabled** ใน Cmdlet PowerShell **ตั้งค่า SPOTenant**
+ผู้ดูแลระบบสามารถปิดใช้งานฟีเจอร์ที่ระดับองค์กรโดยการเปลี่ยนพารามิเตอร์ **CommentsOnListItemsDisabled** ใน **cmdlet Set-SPOTenant** PowerShell
 
-ในตอนนี้ยังไม่สามารถปิดใช้งานการแสดงข้อคิดเห็นที่ไซต์หรือระดับรายการได้ เราหวังว่าจะมีตัวควบคุมเหล่านี้ในการอัปเดตในภายหลังมีแนวโน้มในไตรมาสแรกของ๒๐๒๑
+ขณะนี้ยังไม่สามารถปิดใช้งานการแสดงข้อคิดเห็นที่ระดับไซต์หรือรายการได้ เราหวังว่าจะมีตัวควบคุมเหล่านั้นในการอัปเดตในภายหลัง ในไตรมาสแรกของปี 2021

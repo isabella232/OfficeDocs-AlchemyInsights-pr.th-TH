@@ -1,5 +1,5 @@
 ---
-title: ไม่สามารถเพิ่ม Planner ลงในแชนเนลส่วนบุคคลของ Teams ได้
+title: ไม่สามารถเพิ่ม Planner ลงในแชนTeamsเนลส่วนบุคคลได้
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,13 +12,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000727"
 - "4976"
-ms.openlocfilehash: 5e9cbe9652cd930a05b7240ca1beecffd576711e
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 4e9cf47f02d313e81eea6db576cb8bb74afaf0e4b11399ec0557bd771709491a
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51797308"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53920198"
 ---
-# <a name="unable-to-add-planner-to-a-teams-private-channel"></a>ไม่สามารถเพิ่ม Planner ลงในแชนเนลส่วนบุคคลของ Teams ได้
+# <a name="unable-to-add-planner-to-a-teams-private-channel"></a>ไม่สามารถเพิ่ม Planner ลงในแชนTeamsเนลส่วนบุคคลได้
 
-ขณะนี้แชนเนลส่วนบุคคลของ Microsoft Teams ไม่สนับสนุนการเพิ่ม Planner  เราพยายามอย่างเต็มที่ในการสนับสนุนแอปอย่างเต็มรูปแบบของแชนเนลส่วนบุคคล รวมถึงส่วนขยายการส่งข้อความและบอท ดู [แชนเนลส่วนบุคคลใน Microsoft Teams](https://docs.microsoft.com/microsoftteams/private-channels#what-you-need-to-know-about-private-channels) เพื่อดูข้อมูลเพิ่มเติม
+ในตอนนี้ Microsoft Teamsแชนเนลส่วนบุคคลไม่สนับสนุนการเพิ่ม Planner  เราพยายามอย่างเต็มที่ในการสนับสนุนแอปอย่างเต็มรูปแบบของแชนเนลส่วนบุคคล รวมถึงส่วนขยายการส่งข้อความและบอท ดู[แชนเนลMicrosoft Teams](https://docs.microsoft.com/microsoftteams/private-channels#what-you-need-to-know-about-private-channels)แชนเนลส่วนบุคคลใน Microsoft Teams เพื่อดูข้อมูลเพิ่มเติม
