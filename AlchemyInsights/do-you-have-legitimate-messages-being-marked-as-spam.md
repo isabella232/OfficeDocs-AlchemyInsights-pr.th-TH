@@ -1,5 +1,5 @@
 ---
-title: คุณมีข้อความที่ถูกทำเครื่องหมายว่าเป็นสแปมหรือไม่
+title: คุณมีข้อความที่ถูกต้องที่ถูกระบุว่าเป็นสแปมหรือไม่
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
@@ -12,22 +12,22 @@ ms.custom:
 - "666"
 - "3100019"
 ms.assetid: 2a362fcd-b67a-41ef-b97c-7ddc193244dc
-ms.openlocfilehash: d0dafe58717cdb8c59fe558e32ca118c0a8f3e2b
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: b40d4cc6524a207889bf8ec0e2459c5d3077e7911a0b173a5ac87bb330d5d2cb
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47679027"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53947930"
 ---
-# <a name="do-you-have-legitimate-messages-being-marked-as-spam"></a>คุณมีข้อความที่ถูกทำเครื่องหมายว่าเป็นสแปมหรือไม่
+# <a name="do-you-have-legitimate-messages-being-marked-as-spam"></a>คุณมีข้อความที่ถูกต้องที่ถูกระบุว่าเป็นสแปมหรือไม่
 
-ลองใช้การวินิจฉัยด้านบนหรือลองใช้[คำแนะนำทีละขั้นตอนสำหรับการแก้ไขปัญหาข้อความที่ดีที่ถูกทำเครื่องหมายเป็นสแปม](https://docs.microsoft.com/microsoft-365/security/office-365-security/anti-spam-protection)
+ลองการวินิจฉัยข้างต้นหรือลองใช้คู่มือ [ทีละขั้นตอนนี้เพื่อแก้ไขปัญหาข้อความที่ดีที่ถูกระบุว่าเป็น](https://docs.microsoft.com/microsoft-365/security/office-365-security/anti-spam-protection)สแปม
   
-วิธีที่ดีที่สุดในการรายงานปัญหาประเภทเหล่านี้คือ:
+วิธีที่ดีที่สุดที่จะรายงานปัญหาประเภทนี้คือ:
 
-1. [เปิดใช้งาน add-in การรายงาน](https://docs.microsoft.com/microsoft-365/security/office-365-security/enable-the-report-message-add-in) สำหรับผู้ใช้
+1. [เปิดใช้งาน Add-in การรายงาน](https://docs.microsoft.com/microsoft-365/security/office-365-security/enable-the-report-message-add-in) ของผู้ใช้
 
-2. ให้ผู้ใช้[รายงานข้อความว่าไม่ใช่อีเมลขยะ](https://support.office.com/article/use-the-report-message-add-in-b5caa9f1-cdf3-4443-af8c-ff724ea719d2)
+2. ให้ผู้ใช้ [รายงานข้อความว่า ไม่ใช่](https://support.office.com/article/use-the-report-message-add-in-b5caa9f1-cdf3-4443-af8c-ff724ea719d2)อีเมลขยะ
 
-ถ้าคุณต้องการเปิดบัตรสนับสนุนโปรดแนบส่วนหัวของอีเมลแบบเต็มจาก **ทั้งข้อความต้นฉบับอย่างน้อยหนึ่งข้อความ** ทางด้านล่าง
+หากคุณต้องการเปิดตั๋วการสนับสนุน โปรดแนบส่วนหัวของอีเมลแบบเต็มจากข้อความ **ต้นฉบับอย่างน้อยหนึ่งรายการ** ด้านล่าง
   

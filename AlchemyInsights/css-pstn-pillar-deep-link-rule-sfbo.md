@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "2593"
 - "9000698"
-ms.openlocfilehash: 51190e74e22208b7229a5295adbcbbf98e1c6a6a
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 055d0fc75cfda123fe3b5abfb28f530ef1f14a58ed3875fae01fc41c50e7ca84
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51815850"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53914850"
 ---
-# <a name="pstn-calling-with-skype-for-business-online"></a>การโทรผ่าน PSTN ด้วย Skype for Business Online
+# <a name="pstn-calling-with-skype-for-business-online"></a>การโทรผ่าน PSTN Skype for Business Online
 
-หากคุณต้องการโทรผ่าน PSTN ใน Microsoft 365 คุณจะต้องมีแผนการโทร [ของ Microsoft 365](https://docs.microsoft.com/microsoftteams/what-is-phone-system-in-office-365#more-about-calling-plans) หรือการเชื่อมต่อกับโครงสร้างพื้นฐานระบบโทรศัพท์ PSTN แบบภายในองค์กรของคุณ สำหรับข้อมูลเพิ่มเติม ให้ดูที่
+หากคุณต้องการโทรผ่าน PSTN ใน Microsoft 365 คุณจะต้องมีแผนการโทร Microsoft 365[หรือ](https://docs.microsoft.com/microsoftteams/what-is-phone-system-in-office-365#more-about-calling-plans)การเชื่อมต่อกับโครงสร้างพื้นฐานระบบโทรศัพท์ PSTN แบบภายในองค์กรของคุณ สำหรับข้อมูลเพิ่มเติม ให้ดู:
 
-- [ความพร้อมใช้งานของประเทศและภูมิภาคของการประชุมทางเสียงและแผนการโทรของ Microsoft Teams](https://docs.microsoft.com/microsoftteams/country-and-region-availability-for-audio-conferencing-and-calling-plans/country-and-region-availability-for-audio-conferencing-and-calling-plans)
-- [ข้อถามทั่วไปเกี่ยวกับการประชุมผ่านเสียงของ Microsoft 365](https://docs.microsoft.com/microsoftteams/audio-conferencing-common-questions)
+- [ความพร้อมใช้งานของประเทศและภูมิภาคของการประชุมทางเสียงMicrosoft Teamsการประชุมทางโทรศัพท์](https://docs.microsoft.com/microsoftteams/country-and-region-availability-for-audio-conferencing-and-calling-plans/country-and-region-availability-for-audio-conferencing-and-calling-plans)
+- [ข้อถามทั่วไปเกี่ยวกับการประชุมMicrosoft 365ทางเสียง](https://docs.microsoft.com/microsoftteams/audio-conferencing-common-questions)
 - [เพิ่มเงินและจัดการเครดิตการติดต่อสื่อสาร](https://docs.microsoft.com/microsoftteams/add-funds-and-manage-communications-credits)
-- [ผู้โทรผ่าน PSTN ไม่สามารถเข้าร่วมการโทรเข้าการประชุมทางโทรศัพท์ของ Skype for Business ได้](https://docs.microsoft.com/SkypeForBusiness/troubleshoot/online-conferencing/pstn-callers-cant-join-dial-in-call)
+- [ผู้โทรผ่าน PSTN ไม่สามารถเข้าร่วมการประชุมทางโทรศัพท์Skype for Businessโทรเข้าได้](https://docs.microsoft.com/SkypeForBusiness/troubleshoot/online-conferencing/pstn-callers-cant-join-dial-in-call)

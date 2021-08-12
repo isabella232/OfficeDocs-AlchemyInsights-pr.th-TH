@@ -13,22 +13,22 @@ ms.collection: Adm_O365
 ms.custom:
 - "9801"
 - "9005744"
-ms.openlocfilehash: 63689ea5afea7c6921c93f2ead2350f87c2defa8
-ms.sourcegitcommit: c08bed4071baa3bb5879496df3ed44fb828c8367
+ms.openlocfilehash: 09c1a831c85ec6752c1df90b78d4a12158b4c9164b0cb388abf84fff745d35b3
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 03/19/2021
-ms.locfileid: "51037828"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53939866"
 ---
 # <a name="troubleshoot-aadsts50000-error-code"></a>แก้ไขปัญหารหัสข้อผิดพลาด AADSTS50000
 
 เมื่อต้องการแก้ไขข้อผิดพลาด AADSTS50000 ให้ปฏิบัติตามขั้นตอนต่อไปนี้:
 
-**AADSTS50000**: TokenIssuanceError - มีปัญหากับบริการการลงชื่อเข้าใช้
+**AADSTS50000**: TokenIssuanceError - มีปัญหากับบริการลงชื่อเข้าใช้
 
-ถ้าการร้องขอโทเค็นการเข้าถึงถูกต้องและได้รับอนุญาต เซิร์ฟเวอร์การรับรองความถูกต้องจะออกโทเค็นการเข้าถึงและโทเค็นรีเฟรชเพิ่มเติม ถ้าการร้องขอการรับรองความถูกต้องไคลเอ็นต์ล้มเหลวหรือไม่ถูกต้อง เซิร์ฟเวอร์การรับรองความถูกต้องจะส่งกลับการตอบกลับข้อผิดพลาด
+ถ้าการร้องขอโทเค็นการเข้าถึงถูกต้องและได้รับอนุญาต เซิร์ฟเวอร์การรับรองความถูกต้องจะออกโทเค็นการเข้าถึงและโทเค็นรีเฟรชเพิ่มเติม ถ้าการร้องขอล้มเหลวในการรับรองความถูกต้องไคลเอ็นต์หรือไม่ถูกต้อง เซิร์ฟเวอร์การรับรองความถูกต้องจะส่งกลับการตอบกลับข้อผิดพลาด
 
-เซิร์ฟเวอร์การตรวจสอบจะตอบสนองกับรหัสข้อผิดพลาด **และมีพารามิเตอร์ข้อผิดพลาด** ต่อไปนี้พร้อมการตอบกลับ:
+เซิร์ฟเวอร์การอนุญาตจะตอบสนองด้วยรหัสข้อผิดพลาด **และมีพารามิเตอร์ข้อผิดพลาด** ต่อไปนี้พร้อมการตอบกลับ:
 
 `invalid_request: The request is missing a required parameter, includes an unsupported parameter value (other than grant type), repeats a parameter, includes multiple credentials, utilizes more than one mechanism for authenticating the client, or is otherwise malformed.`
 

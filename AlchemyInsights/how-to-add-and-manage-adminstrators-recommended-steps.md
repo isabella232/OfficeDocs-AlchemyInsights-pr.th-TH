@@ -1,5 +1,5 @@
 ---
-title: วิธีการเพิ่มและจัดการผู้ดูแล-ขั้นตอนที่แนะนำ
+title: วิธีการเพิ่มและจัดการผู้ดูแลระบบ - ขั้นตอนที่แนะน
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -13,71 +13,71 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004114"
 - "7194"
-ms.openlocfilehash: ed3aa5defabdd4f505ee4f74570023d990910dcb
-ms.sourcegitcommit: 04bf13605a30ad4a2218ad9e94dcffcee4cc9aa6
+ms.openlocfilehash: 5aa6f11d31ed62078fdd05090af5722289544c5ab2244a369182f4e0f9214183
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 01/05/2021
-ms.locfileid: "49755854"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53963806"
 ---
-# <a name="how-to-add-and-manage-administrators---recommended-steps"></a>วิธีการเพิ่มและจัดการผู้ดูแล-ขั้นตอนที่แนะนำ
+# <a name="how-to-add-and-manage-administrators---recommended-steps"></a>วิธีการเพิ่มและจัดการผู้ดูแลระบบ - ขั้นตอนที่แนะน
 
-เราพบวิธีแก้ไขปัญหาของคุณโดยยึดตามคำอธิบายปัญหาของคุณ ลูกค้าส่วนใหญ่สามารถแก้ไขปัญหาของตนเองได้หลังจากที่ทำตามเอกสารประกอบของเราแล้ว
+โดยยึดตามรายละเอียดปัญหาของคุณ เราพบวิธีแก้ไขปัญหาให้คุณแล้ว ลูกค้าส่วนใหญ่สามารถแก้ไขปัญหาของตนเองได้หลังจากติดตามเอกสารประกอบของเรา
 
-**แก้ไขผู้ดูแลระบบการสมัครใช้งานหรือผู้ดูแลระบบร่วม**
+**แก้ไขผู้ดูแลการสมัครใช้งานหรือผู้ดูแลระบบร่วม**
 
-- ผู้ดูแลระบบบัญชีผู้ใช้สามารถแก้ไขทั้งสองบทบาทได้ในขณะที่ผู้ดูแลระบบการสมัครใช้งานสามารถเปลี่ยนได้เฉพาะผู้ดูแลร่วมใน [พอร์ทัล Azure](https://ms.portal.azure.com/#home)เท่านั้น
-- [เพิ่มหรือเปลี่ยนแปลงผู้ดูแลการสมัครใช้งาน Azure](https://docs.microsoft.com/azure/cost-management-billing/manage/add-change-subscription-administrator)
+- ผู้ดูแลบัญชีสามารถแก้ไขทั้งสองบทบาทได้ ในขณะที่ผู้ดูแลระบบการสมัครใช้งานสามารถเปลี่ยนเฉพาะผู้ดูแลระบบร่วมใน [พอร์ทัล Azure](https://ms.portal.azure.com/#home)เท่านั้น
+- [เพิ่มหรือเปลี่ยนผู้ดูแลระบบการสมัครใช้งาน Azure](https://docs.microsoft.com/azure/cost-management-billing/manage/add-change-subscription-administrator)
 
-**อัปเดตผู้ดูแลการสมัครใช้งานหรือการสมัครใช้งาน Co-Administrator สำหรับการสมัครใช้งานภายใน (ออก)**
+**อัปเดตผู้ดูแลระบบการสมัครใช้งานหรือCo-Administratorการสมัครใช้งานภายใน (AIRS)**
 
-ผู้ดูแลระบบบริการหรือผู้ดูแลร่วมสามารถใช้งานการกระทำนี้ได้โดยใช้ขั้นตอนต่อไปนี้:
+ผู้ดูแลระบบบริการหรือผู้ดูแลระบบร่วมสามารถให้บริการการแอคชันนี้ด้วยตนเองได้ โดยใช้ขั้นตอนต่อไปนี้
 
-1. ลงชื่อเข้าใช้ใน [พอร์ทัล Azure](https://ms.portal.azure.com/#home) แล้วคลิก **การจัดการต้นทุน + การเรียกเก็บเงิน** ในใบมีดซ้าย
-2. คลิกบรรทัดรายการที่มีการสมัครใช้งานของคุณ ซึ่งจะเป็นการเปิดภาพรวมสำหรับการสมัครใช้งานของคุณ
-3. บนใบมีดการ **สมัคร** ใช้งานให้คลิก **คุณสมบัติ** 
-4. คลิกปุ่ม **ผู้ดูแลระบบบริการ**
-5. ใส่อีเมลของผู้ใช้ที่คุณต้องการตั้งค่าเป็นผู้ดูแลระบบบริการแล้วคลิก **ตกลง**
+1. เข้าสู่ระบบพอร์ทัล [Azure แล้วคลิก](https://ms.portal.azure.com/#home)**การจัดการต้นทุน + การเรียกเก็บเงิน** ใน blade ด้านซ้าย
+2. คลิกรายการสินค้าที่มีการสมัครใช้งานของคุณ การทําเช่นนี้จะเปิด ภาพรวม ของการสมัครใช้งานของคุณ
+3. บน **Blade** การสมัครใช้งาน **ให้คลิก** คุณสมบัติ 
+4. คลิกปุ่ม **ผู้ดูแล** บริการ
+5. ใส่อีเมลของผู้ใช้ที่คุณต้องการตั้งค่าเป็นผู้ดูแลบริการ **แล้วคลิก** ตกลง
 
 **เพิ่ม/เปลี่ยน/เอาผู้ดูแลร่วมออก**
 
-1. ลงชื่อเข้าใช้ [พอร์ทัล Azure](https://ms.portal.azure.com/#home) ในฐานะผู้ดูแลระบบบริการ
-2. เปิดการ [สมัคร](https://ms.portal.azure.com/#blade/Microsoft_Azure_Billing/SubscriptionsBlade) ใช้งานแล้วเลือกการสมัครใช้งาน (Adminstrators สามารถกำหนดได้เฉพาะในขอบเขตการสมัครใช้งานเท่านั้น)
-3. นำทางไปยังผู้ดูแลการ **เข้าถึงตัวควบคุม (IAM)**  >  **Classic**  >  **เพิ่ม**  >  **เพิ่มผู้ดูแล** เมื่อต้องการเปิดบานหน้าต่าง **เพิ่มการจัดการร่วม**(ถ้ามีการปิดใช้งานตัวเลือกเพิ่มการดูแลระบบ) แสดงว่าคุณไม่มีสิทธิ์)
-4. เลือกผู้ใช้ที่คุณต้องการเพิ่มแล้วคลิก **เพิ่ม**
+1. เข้าสู่ระบบพอร์ทัล [Azure](https://ms.portal.azure.com/#home) ในฐานะผู้ดูแลระบบบริการ
+2. [เปิด การสมัครใช้งาน](https://ms.portal.azure.com/#blade/Microsoft_Azure_Billing/SubscriptionsBlade)แล้วเลือกการสมัครใช้งาน (ผู้ดูแลร่วมสามารถมอบหมายงานที่ขอบเขตการสมัครใช้งานเท่านั้น)
+3. นําทางไปยังผู้ดูแลระบบแบบคลาสสิกของ Access **(IAM)** เพิ่มผู้ดูแลระบบร่วม เพื่อเปิดบานหน้าต่าง เพิ่มผู้ดูแลระบบร่วม (ถ้าตัวเลือก เพิ่มผู้ดูแลระบบร่วม ถูกปิดใช้งาน แสดงว่าคุณไม่มีสิทธิ์  >    >    >  ) 
+4. เลือกผู้ใช้ที่คุณต้องการเพิ่ม **แล้วคลิก** เพิ่ม
 
 **ศึกษาเพิ่มเติม:**
 - [เพิ่มผู้ดูแลร่วม](https://docs.microsoft.com/azure/role-based-access-control/classic-administrators)
 - [เอาผู้ดูแลร่วมออก](https://docs.microsoft.com/azure/role-based-access-control/classic-administrators)
 - [เปลี่ยนผู้ดูแลระบบบริการ](https://docs.microsoft.com/azure/role-based-access-control/classic-administrators)
-- [ดูผู้ดูแลระบบบัญชีผู้ใช้](https://docs.microsoft.com/azure/role-based-access-control/classic-administrators)
-- [จัดการการเข้าถึงโดยใช้ RBAC และพอร์ทัล Azure](https://docs.microsoft.com/azure/role-based-access-control/role-assignments-portal)
+- [ดูผู้ดูแลระบบบัญชี](https://docs.microsoft.com/azure/role-based-access-control/classic-administrators)
+- [จัดการการเข้าถึงโดยใช้พอร์ทัล RBAC และ Azure](https://docs.microsoft.com/azure/role-based-access-control/role-assignments-portal)
 
-**เพิ่ม/ลบผู้ใช้ที่ใช้ Azure Active Directory (AD)**
+**เพิ่ม/ลบผู้ใช้โดยใช้ Azure Active Directory (AD)**
 
-คุณสามารถเพิ่มผู้ใช้ใหม่หรือลบผู้ใช้ที่มีอยู่ออกจากองค์กร Azure Active Directory (Azure AD) ของคุณได้ดังนี้
+คุณสามารถเพิ่มผู้ใช้ใหม่หรือลบผู้ใช้ที่มีอยู่จากองค์กร Azure Active Directory (Azure AD) ของคุณ:
 
-1. เมื่อต้องการเพิ่มผู้ใช้ใหม่ให้เข้าสู่ระบบ [พอร์ทัล Azure](https://ms.portal.azure.com/#home) เป็นผู้ดูแลระบบผู้ใช้สำหรับองค์กร
-2. เลือก **Azure Active directory** เลือก **ผู้ใช้** แล้วคลิก **ผู้ใช้ใหม่**
-3. บนหน้า **ผู้ใช้** ให้กรอกข้อมูลที่จำเป็น คลิก **สร้าง** ผู้ใช้จะถูกสร้างขึ้นและเพิ่มลงในผู้เช่า Azure AD ของคุณ
+1. เมื่อต้องการเพิ่มผู้ใช้ใหม่ ให้เข้าสู่ระบบพอร์ทัล [Azure](https://ms.portal.azure.com/#home) เป็นผู้ดูแลระบบผู้ใช้ขององค์กร
+2. เลือก **Azure Active Directory****เลือก** ผู้ใช้ **แล้วคลิก ผู้ใช้** ใหม่
+3. บนหน้า **ผู้ใช้** ให้ใส่ข้อมูลที่ต้องมี คลิกสร้าง ผู้ใช้จะถูกสร้างและเพิ่มลงในผู้เช่า Azure AD ของคุณ
 
 **เรียนรู้เพิ่มเติม**:
 
 - [เพิ่มผู้ใช้ใหม่](https://docs.microsoft.com/azure/active-directory/fundamentals/add-users-azure-active-directory)
 - [ลบผู้ใช้](https://docs.microsoft.com/azure/active-directory/fundamentals/add-users-azure-active-directory)
-- [เพิ่มหรืออัปเดตข้อมูลโปรไฟล์ของผู้ใช้โดยใช้ Azure Active Directory](https://docs.microsoft.com/azure/active-directory/fundamentals/active-directory-users-profile-azure-portal)
+- [เพิ่มหรืออัปเดตข้อมูลโปรไฟล์ของผู้ใช้โดยใช้Azure Active Directory](https://docs.microsoft.com/azure/active-directory/fundamentals/active-directory-users-profile-azure-portal)
 
-**เอกสารที่แนะนำ**
+**เอกสารที่แนะนา**
 
 - [การควบคุมการเข้าถึงตามบทบาท (RBAC) คืออะไร](https://docs.microsoft.com/azure/role-based-access-control/overview)
-- [ทำความเข้าใจบทบาทที่แตกต่างกันใน Azure](https://docs.microsoft.com/azure/role-based-access-control/rbac-and-directory-admin-roles)
-- [สิทธิ์ของบทบาทผู้ดูแลระบบใน Azure Active Directory](https://docs.microsoft.com/azure/active-directory/roles/permissions-reference)
-- [บทช่วยสอน: ให้สิทธิ์การเข้าถึงสำหรับผู้ใช้ที่ใช้ RBAC และพอร์ทัล Azure](https://docs.microsoft.com/azure/role-based-access-control/quickstart-assign-role-user-portal)
+- [เข้าใจบทบาทต่างๆ ใน Azure](https://docs.microsoft.com/azure/role-based-access-control/rbac-and-directory-admin-roles)
+- [สิทธิ์ของบทบาทผู้ดูแลระบบในAzure Active Directory](https://docs.microsoft.com/azure/active-directory/roles/permissions-reference)
+- [บทช่วยสอน: ให้สิทธิ์การเข้าถึงแก่ผู้ใช้โดยใช้ RBAC และพอร์ทัล Azure](https://docs.microsoft.com/azure/role-based-access-control/quickstart-assign-role-user-portal)
 - [แก้ไขปัญหา RBAC ใน Azure](https://docs.microsoft.com/azure/role-based-access-control/troubleshooting)
-- [จัดระเบียบทรัพยากรของคุณด้วยกลุ่มการจัดการ Azure](https://docs.microsoft.com/azure/governance/management-groups/overview)
-- [วิธีการร้องขอสำเนาใบแจ้งหนี้ของ Azure ผ่านทางอีเมล](https://azure.microsoft.com/en-us/blog/azure-email-invoices/)
-- [วิธีการเพิ่มอัปเดตหรือเอาบัตรเครดิตหรือบัตรเดบิตออกจาก Azure](https://docs.microsoft.com/azure/cost-management-billing/manage/change-credit-card)
-- [การสมัครใช้งาน (เปิดใช้งาน/ยกเลิก/สลับ)](https://docs.microsoft.com/azure/cost-management-billing/manage/subscription-disabled)
+- [จัดระเบียบแหล่งข้อมูลของคุณด้วยกลุ่มการจัดการ Azure](https://docs.microsoft.com/azure/governance/management-groups/overview)
+- [วิธีการขอรับสําเนาของใบแจ้งหนี้ Azure ทางอีเมล](https://azure.microsoft.com/en-us/blog/azure-email-invoices/)
+- [วิธีเพิ่ม อัปเดต หรือลบบัตรเครดิตหรือบัตรเดบิตออกจาก Azure](https://docs.microsoft.com/azure/cost-management-billing/manage/change-credit-card)
+- [จัดการ (เปิดใช้งานการสมัครใช้งานใหม่/ยกเลิก/สลับ)](https://docs.microsoft.com/azure/cost-management-billing/manage/subscription-disabled)
 
 
 

@@ -1,5 +1,5 @@
 ---
-title: ปรับใช้ Microsoft Edge กับ iOS, iPadOS และ Android
+title: ปรับใช้Microsoft Edgeกับ iOS, iPadOS และ Android
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -13,32 +13,32 @@ ms.collection: Adm_O365
 ms.custom:
 - "8241"
 - "9004604"
-ms.openlocfilehash: 524e87ab57e29823361053093708c83831f19687
-ms.sourcegitcommit: 03378c78eadac5d950802dcbacc328bca3314032
+ms.openlocfilehash: 56ccfc2bff811d0a70582ace6278af76d2339cd7ddb14fe3488c15c1d4e9340b
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 02/10/2021
-ms.locfileid: "50194585"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53914166"
 ---
-# <a name="deploy-microsoft-edge-to-ios-ipados-and-android"></a>ปรับใช้ Microsoft Edge กับ iOS, iPadOS และ Android
+# <a name="deploy-microsoft-edge-to-ios-ipados-and-android"></a>ปรับใช้Microsoft Edgeกับ iOS, iPadOS และ Android
 
-สถานการณ์ชี้แนะที่สรุปไว้ด้านล่างจะช่วยให้คุณกําหนด Microsoft Edge ให้กับผู้ใช้อุปกรณ์ iOS, iPadOS และ Android
+สถานการณ์สมมติแบบแนะMicrosoft Edgeที่สรุปอยู่Microsoft Edgeมอบหมายให้กับผู้ใช้อุปกรณ์ iOS, iPadOS และ Android
 
 > [!NOTE]
-> ถ้าคุณบล็อกผู้ใช้จากการลงทะเบียนอุปกรณ์เคลื่อนที่ สถานการณ์สมมติตามแนวทางนี้จะไม่ใช้งาน และผู้ใช้จะต้องติดตั้ง Microsoft Edge ด้วยตนเอง
+> ถ้าคุณบล็อกผู้ใช้จากการลงทะเบียนอุปกรณ์เคลื่อนที่ สถานการณ์สมมติแบบแนะMicrosoft Edgeนี้จะไม่ใช้งาน และผู้ใช้จะต้องMicrosoft Edgeด้วยตนเอง
 
-สถานการณ์ที่แนะนะจะเกี่ยวข้องกับขั้นตอนต่อไปนี้
+สถานการณ์แบบแนะนามีขั้นตอนดังต่อไปนี้:
 
-1. [โปรแกรมเบื้องต้น](https://docs.microsoft.com/mem/intune/fundamentals/guided-scenarios-edge#prerequisites)
+1. [เงื่อนไขเบื้องต้น](https://docs.microsoft.com/mem/intune/fundamentals/guided-scenarios-edge#prerequisites)
 2. [บทนํา](https://docs.microsoft.com/mem/intune/fundamentals/guided-scenarios-edge#step-1---introduction)
 3. [พื้นฐาน](https://docs.microsoft.com/mem/intune/fundamentals/guided-scenarios-edge#step-2---basics)
 4. [การกําหนดค่า](https://docs.microsoft.com/mem/intune/fundamentals/guided-scenarios-edge#step-3---configuration)
 5. [งานที่มอบหมาย](https://docs.microsoft.com/mem/intune/fundamentals/guided-scenarios-edge#step-4---assignments)
 6. [รีวิวและการสร้าง](https://docs.microsoft.com/mem/intune/fundamentals/guided-scenarios-edge#step-5---review--create)
 
-หลังจากคุณปฏิบัติตามขั้นตอนในสถานการณ์ที่แนะนะแล้ว นโยบาย Microsoft Intuned จะเปิดใช้งานฟีเจอร์ต่อไปนี้ของ Microsoft Edge for Business:
+หลังจากที่คุณปฏิบัติตามขั้นตอนต่างๆ ในสถานการณ์ที่แนะMicrosoft Intuneแล้ว นโยบายเหล่านี้จะเปิดใช้งานฟีเจอร์ต่อไปนี้ของ Microsoft Edge for business:
 
 - ข้อมูลเฉพาะตัวคู่
-- การรวมกับนโยบายการป้องกันแอป Microsoft Intun1
-- การรวมกับพร็อกซีแอปพลิเคชัน Azure Active Directory
-- ทางลัดรายการโปรดและโฮมเพจที่มีการจัดการ
+- การรวมกับMicrosoft Intuneนโยบายการป้องกันแอป
+- การรวมกับAzure Active Directoryพร็อกซีแอปพลิเคชัน
+- ทางลัดของรายการโปรดและโฮมเพจที่มีการจัดการ

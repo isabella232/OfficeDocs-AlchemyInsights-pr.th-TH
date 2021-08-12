@@ -1,5 +1,5 @@
 ---
-title: แก้ไขปัญหารหัสข้อผิดพลาดการรับรองความถูกต้องของ Azure AD และการอนุญาต (AADSTS)
+title: แก้ไขปัญหารหัสข้อผิดพลาดการรับรองความถูกต้องและการอนุญาต Azure AD (AADSTS)
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -13,25 +13,25 @@ ms.collection: Adm_O365
 ms.custom:
 - "9800"
 - "9005744"
-ms.openlocfilehash: 14555dfcb1406fd3a3977012393714a713ff80dc
-ms.sourcegitcommit: c08bed4071baa3bb5879496df3ed44fb828c8367
+ms.openlocfilehash: ac25548b0110834c877ae53be097d6b6c0f13c4091040a901abd56fb2a3cbba3
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 03/19/2021
-ms.locfileid: "51037841"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53939974"
 ---
-# <a name="troubleshoot-azure-ad-authentication-and-authorization-aadsts-error-codes"></a>แก้ไขปัญหารหัสข้อผิดพลาดการรับรองความถูกต้องของ Azure AD และการอนุญาต (AADSTS)
+# <a name="troubleshoot-azure-ad-authentication-and-authorization-aadsts-error-codes"></a>แก้ไขปัญหารหัสข้อผิดพลาดการรับรองความถูกต้องและการอนุญาต Azure AD (AADSTS)
 
 เมื่อต้องการแก้ไขการรับรองความถูกต้อง AAD และรหัสข้อผิดพลาดการรับรองความถูกต้อง (AADSTS) ให้ปฏิบัติตามขั้นตอนที่แนะนาต่อไปนี้:
 
 1. **การจัดการรหัสข้อผิดพลาดในแอปพลิเคชันของคุณ**
 
-- ข้อ **กําหนด OAuth2.0** ให้แนวทางเกี่ยวกับวิธีการ https://tools.ietf.org/html/rfc6749#section-5.2 จัดการกับข้อผิดพลาดระหว่างการรับรองความถูกต้องโดยใช้ส่วนข้อผิดพลาดของการตอบกลับข้อผิดพลาด
+- ข้อ **กําหนดเฉพาะ OAuth2.0** ให้แนวทางเกี่ยวกับวิธีการ https://tools.ietf.org/html/rfc6749#section-5.2 จัดการกับข้อผิดพลาดระหว่างการรับรองความถูกต้องโดยใช้ส่วนข้อผิดพลาดของการตอบกลับข้อผิดพลาด
 
-    - **ข้อผิดพลาด**: สตริงรหัสข้อผิดพลาดที่สามารถใช้เพื่อจัดประเภทข้อผิดพลาดที่เกิดขึ้น และควรใช้เพื่อตอบสนองต่อข้อผิดพลาด
-    - เขตข้อมูล **ข้อผิดพลาด** มีค่าที่เป็นไปได้หลายค่า - ตรวจทานลิงก์คู่มือโพรโทคอลและข้อเฉพาะเจาะจง OAuth 2.0 เพื่อดูข้อมูลเพิ่มเติมเกี่ยวกับข้อผิดพลาดที่เฉพาะเจาะจงและวิธีการตอบสนองต่อข้อผิดพลาดเหล่านั้น
+    - **ข้อผิดพลาด**: สตริงรหัสข้อผิดพลาดที่สามารถใช้ในการจัดประเภทข้อผิดพลาดที่เกิดขึ้น และควรใช้เพื่อตอบสนองกับข้อผิดพลาด
+    - เขตข้อมูล **ข้อผิดพลาด** มีค่าที่เป็นไปได้หลายค่า - ตรวจทานลิงก์คู่มือโพรโทคอลและข้อเพาะของ OAuth 2.0 เพื่อดูข้อมูลเพิ่มเติมเกี่ยวกับข้อผิดพลาดที่เฉพาะเจาะจงและวิธีการตอบสนองต่อข้อผิดพลาดเหล่านั้น
 
-- นี่คือตัวอย่างการตอบสนองข้อผิดพลาด:
+- นี่คือตัวอย่างการตอบกลับข้อผิดพลาด:
 ```
 {
   "error": "invalid_scope",
@@ -46,14 +46,14 @@ valid. The scope https://example.contoso.com/activity.read is not valid.\r\nTrac
   "error_uri":"https://login.microsoftonline.com/error?code=70011"
 }
 ```
-2. **ค้นหาข้อมูลรหัสข้อผิดพลาดปัจจุบัน**
+2. **ข้อมูลรหัสข้อผิดพลาดปัจจุบันของการค้นหา**
 
-- รหัสข้อผิดพลาดและข้อความอาจเปลี่ยนแปลงได้ ดูข้อมูลล่าสุดที่หน้าเพื่อค้นหา https://login.microsoftonline.com/error รายละเอียดข้อผิดพลาด AADSTS การแก้ไข และการแก้ไขปัญหาชั่วคราวที่แนะน
-- คุณยังสามารถค้นหาและแก้ไขปัญหารหัสข้อผิดพลาด[AADSTS ที่แสดง](https://docs.microsoft.com/azure/active-directory/develop/reference-aadsts-error-codes#aadsts-error-codes)อยู่ในบทความ การรับรองความถูกต้อง[Azure AD และรหัสข้อผิดพลาดการอนุญาต](https://docs.microsoft.com/azure/active-directory/develop/reference-aadsts-error-codes#handling-error-codes-in-your-application)
+- รหัสข้อผิดพลาดและข้อความอาจมีการเปลี่ยนแปลง ดูข้อมูลล่าสุด ให้ดูหน้าเพื่อค้นหารายละเอียดข้อผิดพลาด AADSTS การแก้ไข และการแก้ไขปัญหาชั่วคราว https://login.microsoftonline.com/error ที่แนะนว
+- คุณยังสามารถค้นหาและแก้ไขปัญหารหัสข้อผิดพลาด[AADSTS ที่แสดง](https://docs.microsoft.com/azure/active-directory/develop/reference-aadsts-error-codes#aadsts-error-codes)อยู่ในบทความ รหัสข้อผิดพลาด[การรับรองความถูกต้องและการอนุญาต Azure AD](https://docs.microsoft.com/azure/active-directory/develop/reference-aadsts-error-codes#handling-error-codes-in-your-application)
 
-3. **ดูวิธีใช้**
+3. **รับความช่วยเหลือ**
 
-- [ตัวเลือกการสนับสนุนและวิธีใช้](https://docs.microsoft.com/azure/active-directory/develop/developer-support-help-options) ของนักพัฒนา - ถ้าคุณต้องการคําตอบของคําถามหรือความช่วยเหลือในการแก้ไขปัญหาที่ไม่ครอบคลุมอยู่ในเอกสารประกอบของเรา อาจถึงเวลาที่จะติดต่อผู้เชี่ยวชาญเพื่อขอความช่วยเหลือ บทความนี้มีคําแนะนเกี่ยวกับการรับคําตอบของคําถามของคุณเมื่อคุณพัฒนาแอปที่รวมเข้ากับแพลตฟอร์มข้อมูลเฉพาะตัวของ Microsoft
+- [ตัวเลือกการสนับสนุนและวิธีใช้](https://docs.microsoft.com/azure/active-directory/develop/developer-support-help-options) ของนักพัฒนา - ถ้าคุณต้องการคําตอบของคําถามหรือความช่วยเหลือในการแก้ไขปัญหาที่ไม่ได้กล่าวถึงในเอกสารของเรา อาจถึงเวลาที่จะติดต่อผู้เชี่ยวชาญเพื่อขอความช่วยเหลือ บทความนี้มีคําแนะแพลตฟอร์มข้อมูลประจําตัวของ Microsoftตอบของคําถามของคุณ
 
 
 
