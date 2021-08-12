@@ -1,5 +1,5 @@
 ---
-title: โดเมนจะหมดอายุในเร็วๆ นี้
+title: การหมดอายุของการลงทะเบียนโดเมน
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,19 +12,20 @@ localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "10933"
+- "9006437"
 - "5300030"
-ms.openlocfilehash: 277285bfd0d52f3bcdbb7b0d0702f8032f6b9dce
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 633665db4b68d84105c23dbb8140ef2222c728322d8d6dfc8e5488c603eea669
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51837545"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53965192"
 ---
-# <a name="domain-expiring-soon"></a>โดเมนจะหมดอายุในเร็วๆ นี้
+# <a name="domain-registration-expiration"></a>การหมดอายุของการลงทะเบียนโดเมน
 
-ข้อความเตือนการหมดอายุของโดเมน Office 365 อาจไม่ถูกต้อง เราแก้ไขปัญหา
+โดเมนหมดอายุ: 
 
-- เมื่อต้องการตรวจสอบวันหมดอายุของโดเมนกับบริษัทจดทะเบียนโดเมนของคุณ
+- เมื่อต้องการตรวจสอบวันหมดอายุของโดเมนของคุณ ให้ตรวจสอบกับบริษัทจดทะเบียนโดเมนของคุณ
 
 - ถ้าคุณซื้อโดเมนของคุณจาก Microsoft ให้ไปที่ การเรียกเก็บเงิน [> ผลิตภัณฑ์](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/subscriptions) ของคุณเพื่อตรวจสอบการสมัครใช้งานโดเมน
 

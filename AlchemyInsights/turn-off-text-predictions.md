@@ -1,5 +1,5 @@
 ---
-title: ปิดการคาดคะเนข้อความ
+title: ปิดการคาดเดาข้อความ
 ms.author: v-smandalika
 author: v-smandalika
 manager: v-aiyengar
@@ -13,16 +13,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "8000059"
 - "6217"
-ms.openlocfilehash: 3ee4aecabb8fc534bc45d40a7546928eee679bc8
-ms.sourcegitcommit: e69e79d7dc632ec6f1da4d303d2cdc81249852b8
+ms.openlocfilehash: df62814d3fcd843faf6c6e1a227963a5c682cb1799498433ade15ab1b9e9a6fe
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 11/20/2020
-ms.locfileid: "49447539"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53920270"
 ---
-# <a name="turn-off-text-predictions"></a>ปิดการคาดคะเนข้อความ
+# <a name="turn-off-text-predictions"></a>ปิดการคาดเดาข้อความ
 
-1. เลือก **การตั้งค่า > ดูการตั้งค่า Outlook ทั้งหมด > จดหมาย > เรียบเรียงและตอบกลับ**
-2. ภายใต้การ **คาดคะเนข้อความ** ให้ยกเลิกการเลือก **คำแนะนำคำของวลีขณะที่ฉันพิมพ์**
+1. เลือก **การตั้งค่า > ดูการตั้งค่าOutlookทั้งหมด>จดหมาย>เขียนและ** ตอบกลับ
+2. ภายใต้ **การคาดเดาข้อความ** ให้ยกเลิกการเลือก **แนะนนะการใช้วลีขณะที่ฉัน** พิมพ์
 
-สำหรับข้อมูลเพิ่มเติมให้ดูที่[ใช้เทคโนโลยีอัจฉริยะใน Outlook บนเว็บและ Outlook.com](https://support.microsoft.com/office/use-intelligent-technology-in-outlook-on-the-web-and-outlook-com-24b30683-8340-4b69-b8ac-4193ec528a70)
+ดูข้อมูลเพิ่มเติมที่[ใช้เทคโนโลยีอัจฉริยะใน Outlook บนเว็บ Outlook.com](https://support.microsoft.com/office/use-intelligent-technology-in-outlook-on-the-web-and-outlook-com-24b30683-8340-4b69-b8ac-4193ec528a70)
