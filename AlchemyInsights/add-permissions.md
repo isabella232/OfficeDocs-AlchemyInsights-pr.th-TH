@@ -13,15 +13,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004353"
 - "7783"
-ms.openlocfilehash: b749278dc8e532ca723da5e6d8e4affc9a9266c7
-ms.sourcegitcommit: 7b213fd5e8a3fdb5c602673dc194d576d372ac96
+ms.openlocfilehash: 02901b25ca9cd373d1e158cffdffb820b9ba7bb55c90a56aae57807a2e932192
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 01/18/2021
-ms.locfileid: "49901566"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53935752"
 ---
 # <a name="add-permissions"></a>เพิ่มสิทธิ์
 
-1. ใช้จุดสิ้นสุดความยินยอมของผู้ดูแลระบบเพื่อ[กำหนดค่ารายการสิทธิ์แบบคงที่ที่ร้องขอสำหรับแอปพลิเคชัน](https://docs.microsoft.com/azure/active-directory/develop/v2-permissions-and-consent#to-configure-the-list-of-statically-requested-permissions-for-an-application)
-1. มีสิทธิ์สองสิทธิ์ในการให้สิทธิ์ในการสร้างการลงทะเบียนแอปพลิเคชันแต่ละรายการที่มีลักษณะการทำงานแตกต่างกัน สำหรับข้อมูลเพิ่มเติมให้ดู[ที่สิทธิ์การลงทะเบียนแอปพลิเคชันสำหรับบทบาทแบบกำหนดเองใน Azure Active directory](https://docs.microsoft.com/azure/active-directory/roles/custom-available-permissions)
-1. [สิทธิ์ของบทบาท](https://docs.microsoft.com/azure/active-directory/roles/permissions-reference#role-permissions): ตารางที่อธิบายสิทธิ์เฉพาะใน Azure active directory ที่กำหนดให้กับแต่ละบทบาท บางบทบาทอาจมีสิทธิ์เพิ่มเติมในบริการของ Microsoft ภายนอก Azure Active Directory
+1. ใช้จุดสิ้นสุดความยินยอมของ [ผู้ดูแลระบบเพื่อกําหนดค่ารายการของสิทธิ์ที่ร้องขอแบบคงที่ของ](https://docs.microsoft.com/azure/active-directory/develop/v2-permissions-and-consent#to-configure-the-list-of-statically-requested-permissions-for-an-application)แอปพลิเคชัน
+1. มีสิทธิ์สองสิทธิ์ที่พร้อมใช้งานเพื่อให้ความสามารถในการสร้างการลงทะเบียนแอปพลิเคชัน โดยแต่ละสิทธิ์จะมีความแตกต่างกัน For more information, see [Application registration permissions for custom roles in Azure Active Directory](https://docs.microsoft.com/azure/active-directory/roles/custom-available-permissions).
+1. [สิทธิ์ของ](https://docs.microsoft.com/azure/active-directory/roles/permissions-reference#role-permissions)บทบาท : ตารางที่อธิบายสิทธิ์เฉพาะAzure Active Directoryให้กับแต่ละบทบาท บางบทบาทอาจมีสิทธิ์เพิ่มเติมในบริการของ MicrosoftภายนอกAzure Active Directoryบทบาท

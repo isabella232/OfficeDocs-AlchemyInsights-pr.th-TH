@@ -1,5 +1,5 @@
 ---
-title: เหตุการณ์ของบริการที่กำลังดำเนินการอยู่
+title: เหตุการณ์บริการอยู่ระหว่างการเกิดขึ้น
 ms.author: pebaum
 author: CrystalThomasMS
 ms.date: 04/21/2020
@@ -19,19 +19,19 @@ ms.custom:
 - "1600018"
 - "1600029"
 - "1600044"
-ms.openlocfilehash: d2f3d1f75c61100b3b3892d286db7af91a618ba2
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: ea17addde1b98b6f8b33909e126078266992a55e7eb6932443fc8f9d213c04a5
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47751406"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54061379"
 ---
-# <a name="service-incident-in-progress"></a>เหตุการณ์ของบริการที่กำลังดำเนินการอยู่
+# <a name="service-incident-in-progress"></a>เหตุการณ์บริการอยู่ระหว่างการเกิดขึ้น
 
-คุณอาจได้รับผลกระทบจากปัญหาด้านบริการหรือคำแนะนำที่ได้รับการตรวจสอบในขณะนี้ คุณสามารถตรวจสอบสถานะล่าสุดได้โดยไปที่หน้า[สถานภาพบริการ](https://admin.microsoft.com/adminportal/home#/servicehealth)
+คุณอาจได้รับผลกระทบจากเหตุการณ์บริการหรือที่ปรึกษาที่อยู่ในขณะนี้ถูกตรวจสอบ คุณสามารถตรวจสอบสถานะล่าสุดได้โดยไปที่หน้า [สถานภาพ](https://admin.microsoft.com/adminportal/home#/servicehealth) บริการ
   
-เพื่อความสะดวกของคุณคุณสามารถค้นหาข้อมูลสรุปของเหตุการณ์นี้ได้ที่ด้านล่าง:
+เพื่อความสะดวกของคุณ คุณสามารถค้นหาบทสรุปของเหตุการณ์ด้านล่างนี้:
   
 > **หมายเลขเหตุการณ์:**[{IncidentId}](https://admin.microsoft.com/adminportal/home#/servicehealth)
     
-> คำอธิบายผลกระทบ: {ImpactDescription}
+> รายละเอียดผลกระทบ: {ImpactDescription}

@@ -1,5 +1,5 @@
 ---
-title: เพิ่ม Microsoft Edge ไปยัง Microsoft Intun1
+title: เพิ่มMicrosoft EdgeไปยังMicrosoft Intune
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -13,37 +13,37 @@ ms.collection: Adm_O365
 ms.custom:
 - "8240"
 - "9004604"
-ms.openlocfilehash: d56c65910d1c2170d3e0ce9676e913663701db96
-ms.sourcegitcommit: 03378c78eadac5d950802dcbacc328bca3314032
+ms.openlocfilehash: 19e933e3029b7b809389815026faa63ea5dc36e81c1d4eb61b52b848fa1461a1
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 02/10/2021
-ms.locfileid: "50194578"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53935824"
 ---
-# <a name="add-microsoft-edge-to-microsoft-intune"></a>เพิ่ม Microsoft Edge ไปยัง Microsoft Intun1
+# <a name="add-microsoft-edge-to-microsoft-intune"></a>เพิ่มMicrosoft EdgeไปยังMicrosoft Intune
 
-เพื่อให้สามารถปรับใช้ กําหนดค่า ตรวจสอบ และปกป้อง Microsoft Edge for Windows 10 ได้ คุณต้องเพิ่ม Microsoft Intuned ก่อน
+เพื่อให้สามารถปรับใช้ กําหนดค่า ตรวจสอบ และปกป้องอุปกรณ์Microsoft Edgeการใช้งาน Windows 10 คุณจะต้องเพิ่มอุปกรณ์Microsoft Intune
 
 > [!IMPORTANT]
-- Intun1 สนับสนุน Microsoft Edge 77 และเวอร์ชันที่ใหม่กว่า
-- Intuned จะตรวจหาการติดตั้ง Microsoft Edge ที่มีอยู่ก่อน
-- ถ้า Microsoft Edge ถูกติดตั้งในบริบทของผู้ใช้ การติดตั้งระบบจะเขียนทับการติดตั้งในบริบทของผู้ใช้
-- ถ้า Microsoft Edge ได้รับการติดตั้งในบริบทของระบบ ระบบจะรายงานความสเร็จในการติดตั้ง
-- Microsoft Edge 77 และเวอร์ชันที่ใหม่กว่าที่ติดตั้งไว้ล่วงหน้าในแชนเนลทั้งหมดในบริบทของผู้ใช้จะถูกเขียนทับด้วย Microsoft Edge ที่ติดตั้งในบริบทของระบบ
+- Intuned Microsoft Edge 77 และเวอร์ชันที่ใหม่กว่า
+- Intuned จะตรวจหาการติดตั้งที่มีอยู่Microsoft Edgeโดยอัตโนมัติ
+- ถ้าคุณMicrosoft Edgeในบริบทของผู้ใช้ การติดตั้งระบบจะเขียนทับการติดตั้งในบริบทของผู้ใช้
+- ถ้าคุณMicrosoft Edgeในบริบทของระบบ ความสาเร็จในการติดตั้งจะได้รับรายงาน
+- Pre-installed Microsoft Edge 77 and later versions, for all channels in user context, will be overwritten with Microsoft Edge installed in system context.
 
-**เงื่อนไขเบื้องต้น**
+**เบื้องต้น**
 
-Windows 10 เวอร์ชัน 1709 หรือเวอร์ชันที่ใหม่กว่า
+Windows 10เวอร์ชัน 1709 หรือใหม่กว่า
 
-**ขั้นตอนในการเพิ่ม Edge ไปยัง Intuned**
+**ขั้นตอนในการเพิ่ม Microsoft Edge ลงใน Intuned**
 
-1. [กําหนดค่าแอปใน Intun>](https://docs.microsoft.com/mem/intune/apps/apps-windows-edge)
+1. [กําหนดค่าแอปใน Intun1](https://docs.microsoft.com/mem/intune/apps/apps-windows-edge)
 2. [กําหนดค่าข้อมูล](https://docs.microsoft.com/mem/intune/apps/apps-windows-edge)แอป
 3. [กําหนดค่าการตั้งค่า](https://docs.microsoft.com/mem/intune/apps/apps-windows-edge)แอป
 4. [เลือกแท็กขอบเขต (ไม่บังคับ)](https://docs.microsoft.com/mem/intune/apps/apps-windows-edge)
 5. [เพิ่ม](https://docs.microsoft.com/mem/intune/apps/apps-windows-edge)แอป
 
-หากต้องการความช่วยเหลือเพิ่มเติม [โปรดดู](https://docs.microsoft.com/mem/intune/apps/apps-windows-edge)การแก้ไขปัญหา
+หากต้องการความช่วยเหลือเพิ่มเติม [โปรดดูที่](https://docs.microsoft.com/mem/intune/apps/apps-windows-edge)การแก้ไขปัญหา
 
 
 

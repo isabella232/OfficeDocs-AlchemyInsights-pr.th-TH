@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001178"
 - "3430"
-ms.openlocfilehash: a8d58943a6278fb21bf2a0ee71284b16daf10e0f
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 3ad25cd49fb37a34afe4d65106d0f881fb051224ed0a7e2a27a1fd2f52645433
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51824202"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53970746"
 ---
 # <a name="what-version-of-android-does-your-app-support"></a>แอปของคุณสนับสนุน Android เวอร์ชันใด
 
@@ -27,7 +27,7 @@ ms.locfileid: "51824202"
 
 วิธีการ: 
 
-1. บนโทรศัพท์หรือแท็บเล็ต Android ของคุณ **ให้เปิด** การตั้งค่า **แล้วเลือก** แอป **หรือ** แอปพลิเคชัน
+1. บนโทรศัพท์หรือแท็บเล็ต Android ของคุณ **การตั้งค่า** แอป **หรือ** แอปพลิเคชัน
 
 2. ที่ด้านบนของหน้าจอ ให้แตะ เพิ่มเติม ( **ซึ่งอาจ** เป็นจุดไข่ปลา หรือจุดแนวตั้งสามจุด) **แล้วแตะ แสดง** ระบบ 
 

@@ -1,5 +1,5 @@
 ---
-title: เพิ่มปฏิทิน SharePoint
+title: เพิ่มSharePointปฏิทิน
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,22 +13,22 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000677"
 - "2585"
-ms.openlocfilehash: 6ef515bb8be7d085beb614543bc53c9e224425fc
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 0694d68be73eb7b3cf46b933a3fd263800b82f7657823703b2a6bf175eca6409
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51822366"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53935176"
 ---
-# <a name="add-a-sharepoint-calendar"></a>เพิ่มปฏิทิน SharePoint
+# <a name="add-a-sharepoint-calendar"></a>เพิ่มSharePointปฏิทิน
 
-ปฏิทิน SharePoint เป็นชนิดรายการแบบคลาสสิกซึ่งในบางครั้งจะสับสนกับปฏิทินกลุ่มของ Microsoft 365
+SharePoint ปฏิทินเป็นชนิดรายการแบบคลาสสิกซึ่งในบางครั้งจะสับสนMicrosoft 365ปฏิทินกลุ่ม
  
-เมื่อต้องการสร้างปฏิทิน SharePoint ให้ปฏิบัติตามขั้นตอนเหล่านี้:
+เมื่อต้องการสร้างปฏิทินSharePoint ให้ปฏิบัติตามขั้นตอนต่อไปนี้:
  
-1.  เลือก **ไอคอน** การตั้งค่ารูปเฟือง **จากนั้นเลือก เพิ่ม** แอป
+1.  เลือก **การตั้งค่า** รูปเฟือง **แล้วเลือก เพิ่ม** แอป
 2.  ในกล่อง **ค้นหาค้นหา** แอป ให้พิมพ์ **ปฏิทิน** แล้วกด Enter
 3.  เลือกแอปที่ **ชื่อ** ปฏิทิน แล้วใส่ชื่อปฏิทินของคุณ
 
-ดูข้อมูลเพิ่มเติมเกี่ยวกับกลุ่ม Microsoft 365[ที่ เรียนรู้เกี่ยวกับกลุ่ม Microsoft 365](https://support.office.com/article/Learn-about-Office-365-groups-b565caa1-5c40-40ef-9915-60fdb2d97fa2)
+For more information about Microsoft 365 Groups, see [Learn about Microsoft 365 Groups](https://support.office.com/article/Learn-about-Office-365-groups-b565caa1-5c40-40ef-9915-60fdb2d97fa2).
 
