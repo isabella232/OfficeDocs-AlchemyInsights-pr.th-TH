@@ -1,5 +1,5 @@
 ---
-title: แก้ไขปัญหาเกี่ยวกับ Bluetooth ใน Windows 10
+title: แก้ไขปัญหาBluetoothในWindows 10
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,33 +12,33 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001475"
 - "3506"
-ms.openlocfilehash: f20bf4a642e019c7901e988a027e0220f0f1b07b
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 784f8c4d58bb8965cec2ce0a3722d0f16e36b16f914b4a154d6f6da58af9dc28
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51812951"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53913914"
 ---
-# <a name="fix-bluetooth-problems-in-windows-10"></a>แก้ไขปัญหาเกี่ยวกับ Bluetooth ใน Windows 10
+# <a name="fix-bluetooth-problems-in-windows-10"></a>แก้ไขปัญหาBluetoothในWindows 10
 
-หากไอคอน Bluetooth หายไป หรือไม่สามารถเปิดหรือปิด Bluetooth ได้ คุณอาจต้องการเรียกใช้ตัวแก้ไขปัญหา Bluetooth [เปิดการตั้งค่า แก้ไขปัญหา](ms-settings:troubleshoot)คลิก **Bluetooth** **ภายใต้ ค้นหาและแก้ไขปัญหา** อื่นๆ **คลิก เรียกใช้ตัว** แก้ไขปัญหา
+ถ้าBluetoothเปิดหรือBluetoothหาย หรือไม่สามารถเปิดหรือปิดได้ คุณอาจต้องการเรียกใช้ตัวBluetoothแก้ไขปัญหา [เปิดการตั้งค่า การแก้ไขปัญหา](ms-settings:troubleshoot)คลิก **Bluetooth** ภายใต้ **ค้นหาและ** แก้ไขปัญหาอื่นๆ **คลิก เรียกใช้ตัว** แก้ไขปัญหา
 
-ถ้าคุณไม่เห็นไอคอน Bluetooth แต่ Bluetooth ปรากฏในตัวจัดการอุปกรณ์:
+ถ้าคุณไม่เห็นไอคอนไอคอนBluetooth แต่ไอคอน Bluetoothปรากฏในตัวจัดการอุปกรณ์:
 
-1. ใน ตัวจัดการอุปกรณ์ ให้คลิก **Bluetooth** กดค้างไว้ (หรือคลิกขวา) ที่ชื่ออะแดปเตอร์ Bluetooth **แล้วคลิก ถอนการติดตั้ง** อุปกรณ์
+1. ใน ตัวจัดการอุปกรณ์ **ให้คลิก Bluetooth** กดค้างไว้ (หรือคลิกขวา) Bluetoothอะแดปเตอร์แล้วคลิก **ถอนการติดตั้ง** อุปกรณ์
 
-2. ปิดอุปกรณ์ Windows ของคุณ รอสักครู่ แล้วเปิดเครื่องอีกครั้ง Windows จะพยายามติดตั้งโปรแกรมควบคุมอีกครั้ง
+2. ปิดเครื่องWindowsอุปกรณ์ของคุณ รอสักครู่ แล้วเปิดเครื่องอีกครั้ง Windowsพยายามติดตั้งโปรแกรมควบคุมอีกครั้ง
 
-ถ้าคุณเพิ่งติดตั้งการอัปเดต Windows 10 หรืออัปเกรดเป็น Windows 10 คุณอาจต้องการตรวจหาการอัปเดตโปรแกรมควบคุม:
+ถ้าคุณเพิ่งติดตั้งWindows 10หรืออัปเกรดเป็น Windows 10 คุณอาจต้องตรวจหาการอัปเดตโปรแกรมควบคุม:
 
-1. ใน ตัวจัดการอุปกรณ์ ให้คลิก **Bluetooth** แล้วคลิกชื่ออะแดปเตอร์ Bluetooth (ซึ่งอาจมีข้อความ "วิทยุ")
+1. ใน Device Manager **Bluetooth** แล้วคลิกชื่ออะแดปเตอร์ Bluetooth (ซึ่งอาจมีชื่อว่า "radio")
 
-2. กด (หรือคลิกขวา) อะแดปเตอร์ Bluetooth ค้างไว้ แล้วคลิก อัปเดตการค้นหา  >  **โปรแกรมควบคุมโดยอัตโนมัติเพื่อค้นหาซอฟต์แวร์โปรแกรมควบคุมที่** อัปเดตแล้ว Follow the steps, then click **Close**.
+2. กดค้าง (หรือคลิกขวา) ที่Bluetooth แล้วคลิก **อัปเดตการค้นหา**  >  **โปรแกรมควบคุมโดยอัตโนมัติเพื่อค้นหาซอฟต์แวร์โปรแกรมควบคุมที่** อัปเดตแล้ว Follow the steps, then click **Close**.
 
-      - หาก Windows ไม่พบโปรแกรมควบคุม Bluetooth ใหม่ ให้เยี่ยมชมเว็บไซต์ของผู้ผลิตพีซี และดาวน์โหลดโปรแกรมควบคุม Bluetooth ล่าสุดจากที่นั่น
+      - หากWindowsไม่พบโปรแกรมควบคุมอุปกรณ์Bluetooth โปรดเยี่ยมชมเว็บไซต์ของผู้ผลิตพีซี และดาวน์โหลดโปรแกรมควบคุมBluetoothล่าสุดจากที่นั่น
 
     - หลังจากที่คุณดาวน์โหลดแล้ว ให้คลิกอัปเดตโปรแกรมควบคุม เรียกดูซอฟต์แวร์โปรแกรมควบคุมของคอมพิวเตอร์ของฉัน เรียกดูสถานที่ที่จัดเก็บไฟล์โปรแกรมควบคุมไว้ > ตกลง ถัดไป แล้วปฏิบัติตามขั้นตอน  >    >    >  เพื่อติดตั้ง
 
 3. หลังจากติดตั้งโปรแกรมควบคุมที่อัปเดตแล้ว ให้รีสตาร์ตเครื่อง แล้วตรวจสอบว่าสามารถแก้ไขปัญหาการเชื่อมต่อหรือไม่
 
-หากต้องการรายละเอียดเพิ่มเติมเกี่ยวกับวิธีการแก้ไขปัญหาเกี่ยวกับ Bluetooth โปรดดูบทความฉบับเต็ม[ที่ชื่อ แก้ไขปัญหา Bluetooth ใน Windows 10](https://support.microsoft.com/help/14169/windows-10-fix-bluetooth-problems)
+For more details of how to troubleshoot Bluetooth problems, please see the full article, [Bluetooth problems in Windows 10](https://support.microsoft.com/help/14169/windows-10-fix-bluetooth-problems).
