@@ -1,5 +1,5 @@
 ---
-title: การเปลี่ยนโควตาที่เก็บข้อมูล OneDrive for Business
+title: เปลี่ยนโคOneDrive for Businessวตาที่เก็บข้อมูล
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,19 +12,19 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: c8f0d578-272b-41f2-8a67-af363969203c
-ms.openlocfilehash: 34dd21f8baa8e186a001d4a1e65beea68700ec04
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 59e7b484d8783a5ab710e50f7b27d48d852e4bac6ab208355005671621461ce4
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47682323"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53968728"
 ---
-# <a name="change-the-default-onedrive-storage-space-for-your-users"></a>เปลี่ยนพื้นที่จัดเก็บข้อมูล OneDrive เริ่มต้นสำหรับผู้ใช้ของคุณ
+# <a name="change-the-default-onedrive-storage-space-for-your-users"></a>เปลี่ยนค่าเริ่มต้นของOneDriveที่เก็บข้อมูลของผู้ใช้ของคุณ
 
-1. ไปที่[หน้าที่เก็บข้อมูลของศูนย์การจัดการ OneDrive](https://admin.onedrive.com/?v=StorageSettings)
+1. ไปที่หน้า[ที่เก็บข้อมูล ของOneDriveการจัดการ](https://admin.onedrive.com/?v=StorageSettings)
     
-2. ใส่จำนวนที่เก็บข้อมูลเริ่มต้น (ในหน่วย GB) ในกล่องที่**เก็บข้อมูลเริ่มต้น**แล้วคลิก**บันทึก**
+2. ใส่จํานวนที่เก็บข้อมูลเริ่มต้น (เป็น GB) **ในกล่อง** ที่เก็บข้อมูลเริ่มต้น **แล้วคลิก** บันทึก
     
-การตั้งค่าพื้นที่จัดเก็บข้อมูลนี้จะนำไปใช้กับผู้ใช้ทั้งหมดที่คุณไม่ได้ตั้งค่าขีดจำกัดที่เก็บข้อมูลที่เฉพาะเจาะจง เมื่อต้องการเปลี่ยนพื้นที่จัดเก็บข้อมูลสำหรับผู้ใช้ที่เฉพาะเจาะจงคุณจำเป็นต้องใช้ Microsoft PowerShell สำหรับข้อมูลเกี่ยวกับวิธีการทำสิ่งนี้ให้ดูที่[เปลี่ยนพื้นที่จัดเก็บข้อมูล OneDrive ของผู้ใช้โดยใช้ PowerShell](https://go.microsoft.com/fwlink/?linkid=866402)
+การตั้งค่าพื้นที่จัดเก็บนี้ใช้กับผู้ใช้ทั้งหมดที่คุณยังไม่ได้ตั้งค่าขีดจํากัดของที่เก็บข้อมูล To change the storage space for specific users, you need to use Microsoft PowerShell. For info on how to do this, see [Change users' OneDrive storage space using PowerShell](https://go.microsoft.com/fwlink/?linkid=866402).
   
 

@@ -12,23 +12,23 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 1437061a-a602-4853-b5fb-3cea7fd735ce
-ms.openlocfilehash: c72d3623dc2deaf28892513e268db4e1a8d8f228
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 30395b291818c8f193fc2147e5302e04efe9929dad8df96586be1c3e75bd35aa
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47715256"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53917730"
 ---
 # <a name="auditing-results-are-blank"></a>ผลลัพธ์การตรวจสอบว่างเปล่า
 
- **รายงานการตรวจสอบสำหรับไซต์แบบคลาสสิก**
+ **ตรวจสอบรายงานของไซต์แบบคลาสสิก**
   
-เมื่อต้องการดูรายงานการตรวจสอบสำหรับไซต์คอลเลกชัน SharePoint คุณต้องเป็นผู้ดูแลระบบสำหรับไซต์คอลเลกชัน เมื่อต้องการเพิ่มตัวคุณเองในฐานะผู้ดูแลระบบให้ดูที่เพิ่มผู้ดูแล[ไซต์คอลเลกชันเป็นผู้ดูแลระบบส่วนกลางหรือผู้ดูแลระบบ SharePoint](https://go.microsoft.com/fwlink/?linkid=869390) สำหรับข้อมูลเกี่ยวกับการทำงานกับบันทึกการตรวจสอบให้ดูที่[ดูรายงานบันทึกการตรวจสอบ](https://go.microsoft.com/fwlink/?linkid=395237) 
+เมื่อต้องการดูรายงานการตรวจสอบSharePointไซต์คอลเลกชัน คุณต้องเป็นผู้ดูแลระบบของไซต์คอลเลกชันนั้น เมื่อต้องการเพิ่มตัวคุณเองเป็นผู้ดูแลระบบ ให้ดู[เพิ่มผู้ดูแลระบบไซต์คอลเลกชันเป็นผู้ดูแลระบบส่วนกลางSharePointผู้ดูแลระบบ](https://go.microsoft.com/fwlink/?linkid=869390) For info about working with the audit log, see [View audit log reports](https://go.microsoft.com/fwlink/?linkid=395237). 
   
  **ค้นหาบันทึกการตรวจสอบ**
   
-คุณจำเป็นต้องเป็นผู้ดูแลระบบส่วนกลางเพื่อทำงานกับบันทึกการตรวจสอบใน[ &amp; ศูนย์การปฏิบัติตามนโยบายด้านความปลอดภัย](https://protection.office.com) ก่อนที่คุณจะเริ่มต้นให้เปิดใช้งานการบันทึกการตรวจสอบ จากนั้นคุณสามารถเรียกใช้การค้นหาบันทึกการตรวจสอบ 
+คุณต้องเป็นผู้ดูแลระบบส่วนกลางเพื่อใช้งานบันทึกการตรวจสอบใน ศูนย์[การปฏิบัติตาม &amp; ข้อบังคับด้านความปลอดภัย](https://protection.office.com) ก่อนที่คุณจะเริ่ม ให้เปิดบันทึกการตรวจสอบ จากนั้น คุณสามารถเรียกใช้การค้นหาบันทึกการตรวจสอบ 
   
-[เรียนรู้วิธีการค้นหาบันทึกการตรวจสอบ](https://go.microsoft.com/fwlink/?linkid=708432)
+[เรียนรู้วิธีการค้นหาบันทึก](https://go.microsoft.com/fwlink/?linkid=708432)การตรวจสอบ
   
 

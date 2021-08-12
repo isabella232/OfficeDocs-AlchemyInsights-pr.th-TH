@@ -1,5 +1,5 @@
 ---
-title: อนุญาตให้ผู้ใช้ของคุณติดต่อสื่อสารกับผู้ใช้ Skype
+title: อนุญาตให้ผู้ใช้ของคุณสื่อสารกับผู้ใช้Skypeผู้บริโภค
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
@@ -11,17 +11,17 @@ ms.custom: ''
 ms.assetid:
 - "9001733"
 - "4401"
-ms.openlocfilehash: 84ba2dcd6e83aa62223b7b62a0976aa20bd109dc
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 842a00da5eb4293c565258c82593d6e6ce76cc02e5ae475e8dd7f7613640d605
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47718280"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53933448"
 ---
-# <a name="allow-your-users-to-communicate-with-skype-consumer-users"></a>อนุญาตให้ผู้ใช้ของคุณติดต่อสื่อสารกับผู้ใช้ Skype
+# <a name="allow-your-users-to-communicate-with-skype-consumer-users"></a>อนุญาตให้ผู้ใช้ของคุณสื่อสารกับผู้ใช้Skypeผู้บริโภค
 
-เมื่อต้องการอนุญาตให้ผู้ใช้ของคุณติดต่อสื่อสารกับผู้ใช้ Skype ได้โปรดทำดังต่อไปนี้:
+เมื่อต้องการอนุญาตให้ผู้ใช้ของคุณสื่อสารกับผู้ใช้Skypeผู้บริโภคของคุณ โปรดอย่าใช้ขั้นตอนต่อไปนี้:
 
-- เปิดใช้งานการเข้าถึงภายนอกตามที่ระบุไว้[ที่นี่](https://docs.microsoft.com/microsoftteams/manage-external-access#allow-or-block-domains)
+- เปิดใช้งานการเข้าถึงภายนอกตามเท่าที่ [บันทึก](https://docs.microsoft.com/microsoftteams/manage-external-access#allow-or-block-domains)ที่นี่
 
-- เรียนรู้เกี่ยวกับทีมและการทำงานร่วมกันของผู้[บริโภค Skype](https://docs.microsoft.com/microsoftteams/teams-skype-interop)
+- เรียนรู้เกี่ยวกับ[TeamsและSkypeของผู้บริโภค](https://docs.microsoft.com/microsoftteams/teams-skype-interop)

@@ -1,5 +1,5 @@
 ---
-title: ๑๕๗๕-PowerApps และส่วนขยายของแผน Microsoft Flow
+title: 1575-PowerApps และMicrosoft Flowแผนบริการ
 ms.author: toresing
 author: tomresing
 manager: scotv
@@ -14,19 +14,19 @@ ms.custom:
 - "1575"
 - "9000087"
 ms.assetid: (guid of old soc version if any)
-ms.openlocfilehash: 2492fdc77371c21f74250fe4edb6590f0d6d1d7b
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: efd9e346211b50209c8e5baf6f64f293fafa6a27ef9b92c8b3f6fade889307a4
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47728414"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53960458"
 ---
-# <a name="powerapps-and-microsoft-flow-plan-extension"></a>ส่วนขยายของแผน PowerApps และ Microsoft Flow
+# <a name="powerapps-and-microsoft-flow-plan-extension"></a>PowerApps และ Microsoft Flowแผนบริการข้อมูล
 
-ถ้าคุณต้องการร้องขอส่วนขยายแผนสำหรับ **Microsoft Flow** หรือ **PowerApps** และผู้เช่าของคุณมีผู้ใช้ที่ใช้งานอยู่ของฟีเจอร์ใดฟีเจอร์หนึ่งต่อไปนี้ไม่จำเป็นต้องมีการร้องขอการสนับสนุน
+ถ้าคุณต้องการร้องขอส่วนขยายแผนMicrosoft Flow **PowerApps** และผู้เช่าของคุณมีฟีเจอร์อย่างใดอย่างหนึ่งต่อไปนี้อยู่แล้ว คุณจึงไม่ต้องส่งการร้องขอการสนับสนุน
 
-- การสร้างและสิ่งพิมพ์ของตัวเชื่อมต่อแบบกำหนดเองใน PowerApps และ Microsoft Flow
-- การดำเนินการแบบกำหนดเองของ HTTP ที่รวมอยู่ในการไหลภายนอก SharePoint และ OneDrive
-- การรวมข้อมูลภายในองค์กรผ่านทางเกตเวย์ข้อมูลภายในองค์กร
+- การสร้างและสิ่งพิมพ์ของตัวเชื่อมต่อแบบปรับแต่งเองใน PowerApps และMicrosoft Flow
+- การแอคชันแบบเอง HTTP ที่FlowรวมSharePointภายนอกOneDrive
+- การรวมข้อมูลภายในองค์กรผ่าน Data Gateway ภายในองค์กร
 
-ลูกค้าที่มีผู้ใช้ที่ใช้งานอยู่ของฟีเจอร์เหล่านี้จะได้รับนามสกุลอัตโนมัติจนถึง31มกราคม๒๐๒๐หรือวันหมดอายุของระยะเวลาการสมัครใช้งาน Microsoft ๓๖๕ที่มีอยู่แล้วซึ่งมีอายุการใช้งานยาวนาน
+ลูกค้าที่มีผู้ใช้ฟีเจอร์เหล่านี้ที่ใช้งานอยู่จะได้รับโปรแกรมเสริมอัตโนมัติจนถึงวันที่ 31 มกราคม 2020 หรือวันหมดอายุของMicrosoft 365ปัจจุบันของพวกเขา แล้วแต่ว่าข้อตกลงการสมัครใช้งานใดจะนานกว่านั้น
