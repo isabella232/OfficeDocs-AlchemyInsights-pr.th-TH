@@ -1,5 +1,5 @@
 ---
-title: เพิ่มที่เก็บข้อมูล OneDrive
+title: เพิ่มOneDriveเก็บข้อมูล
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,15 +13,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000354"
 - "6214"
-ms.openlocfilehash: 99bce287f2775b1d5c4621e0b0248b09edfd5d31
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 90c7a44d643e3736d6532e2df24fc7b4409632ad09228533df920325a9d75331
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47755978"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53912707"
 ---
-# <a name="increase-onedrive-storage"></a>เพิ่มที่เก็บข้อมูล OneDrive
+# <a name="increase-onedrive-storage"></a>เพิ่มOneDriveเก็บข้อมูล
 
-ในฐานะผู้ดูแลระบบส่วนกลางหรือผู้ดูแลระบบ SharePoint ใน Microsoft ๓๖๕คุณสามารถตั้งค่าพื้นที่เก็บข้อมูล OneDrive สำหรับผู้ใช้ที่เฉพาะเจาะจงได้โดยตรงจากศูนย์การจัดการของ Microsoft  
+ในฐานะผู้ดูแลระบบส่วนกลางSharePointผู้ดูแลระบบใน Microsoft 365 คุณสามารถตั้งค่าพื้นที่OneDriveเก็บข้อมูลของผู้ใช้ที่เฉพาะเจาะจงได้โดยตรงจากศูนย์การจัดการ Microsoft  
 
-สำหรับข้อมูลเพิ่มเติมให้ดู[ที่เปลี่ยนพื้นที่จัดเก็บข้อมูล OneDrive ของผู้ใช้ที่ระบุ](https://docs.microsoft.com/onedrive/change-user-storage)
+For more info, see [Change a specific user's OneDrive storage space](https://docs.microsoft.com/onedrive/change-user-storage).

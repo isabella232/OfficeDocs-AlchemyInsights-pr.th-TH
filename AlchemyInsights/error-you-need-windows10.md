@@ -1,5 +1,5 @@
 ---
-title: 'ข้อผิดพลาด: คุณต้องใช้ Windows 10 เพื่อใช้งานต่อ'
+title: 'ข้อผิดพลาด: คุณต้องการWindows 10ต่อ'
 ms.author: pebaum
 author: pebaum
 manager: dansimp
@@ -13,21 +13,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "9797"
 - "9005484"
-ms.openlocfilehash: 4cd2191c46a4724750cc297f0fa59418ef82f3e0
-ms.sourcegitcommit: c08bed4071baa3bb5879496df3ed44fb828c8367
+ms.openlocfilehash: e45c45f72d2c66fc785b99551e58122bfffffa16149c3ddcd709f0e1f3fe60a8
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 03/19/2021
-ms.locfileid: "51036846"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53946526"
 ---
-# <a name="error-you-need-windows-10-to-continue"></a>ข้อผิดพลาด: คุณต้องใช้ Windows 10 เพื่อใช้งานต่อ
+# <a name="error-you-need-windows-10-to-continue"></a>ข้อผิดพลาด: คุณต้องการWindows 10ต่อ
 
-คุณอาจต้องอัปเดตหรืออัปเกรด Windows ถ้าคุณได้รับข้อผิดพลาดต่อไปนี้:
+คุณอาจต้องอัปเดตหรืออัปเกรดWindows ถ้าคุณได้รับข้อผิดพลาดต่อไปนี้:
 
-"คุณต้องมี Windows 10 เพื่อใช้งานต่อ ผลิตภัณฑ์ Office นี้ต้องใช้ Windows 10 โปรดอัปเกรด Windows แล้วลองติดตั้ง Office อีกครั้ง"
+"คุณต้องWindows 10เพื่อต่อ ผลิตภัณฑ์นี้Officeต้องWindows 10ผลิตภัณฑ์ โปรดWindowsและลองOfficeอีกครั้ง"
 
-ให้ต่อไปนี้ โดยขึ้นอยู่กับเวอร์ชันของ Windows ที่อยู่บนพีซีของคุณและ Office เวอร์ชันที่คุณพยายามติดตั้ง:
+ให้ทต่อไปนี้โดยขึ้นอยู่กับเวอร์ชันWindowsเวอร์ชันใดอยู่บนพีซีของคุณ และเวอร์ชันOfficeเวอร์ชันที่คุณพยายามติดตั้ง:
 
-- ถ้าคุณมี Windows 10 บนพีซีของคุณ คุณสามารถติดตั้ง Microsoft 365 หรือ Office 2019, 2016 หรือ 2013 หรือชุดโปรแกรมแบบสแตนด์อโลนได้ ตรวจสอบให้แน่ใจว่าคุณได้ติดตั้งการอัปเดตล่าสุดของ Windows 10 แล้ว
+- ถ้าคุณมีแอปWindows 10บนพีซีของคุณ คุณสามารถติดตั้ง Microsoft 365 หรือ Office 2019, 2016 หรือ 2013 หรือแอปแบบสแตนด์อโลน ตรวจสอบให้แน่ใจว่าคุณได้ติดตั้งการอัปเดตWindows 10แล้ว
 
-- ถ้าคุณมี Windows 8.1, 8 หรือ 7 บนพีซีของคุณ คุณอาจได้รับข้อผิดพลาดนี้ถ้าคุณพยายามติดตั้ง Microsoft 365 หรือ Office 2019 ตรวจสอบความต้องการของระบบในเวอร์ชัน Office ของคุณ
+- ถ้าคุณมี Windows 8.1, 8 หรือ 7 บนพีซีของคุณ คุณอาจได้รับข้อผิดพลาดนี้ถ้าคุณพยายามติดตั้ง Microsoft 365หรือOffice 2019 ตรวจสอบความต้องการของระบบในเวอร์ชันOfficeของคุณ

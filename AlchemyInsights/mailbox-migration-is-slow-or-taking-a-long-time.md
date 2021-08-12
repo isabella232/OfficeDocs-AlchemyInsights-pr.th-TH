@@ -1,5 +1,5 @@
 ---
-title: การโยกย้ายกล่องจดหมายจะช้าหรือใช้เวลานาน
+title: การโยกย้ายกล่องจดหมายช้าหรือใช้เวลานาน
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,13 +13,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "6051"
 - "3500008"
-ms.openlocfilehash: a68f771a86d805a0286270f19b919ccb57214e4b
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 40246aa3138fa7df0c8a6c9df1ccfd475e56e4ebb9f1064880f79cf1098a918d
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47794497"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53912509"
 ---
-# <a name="mailbox-migration-is-slow-or-taking-a-long-time"></a>การโยกย้ายกล่องจดหมายจะช้าหรือใช้เวลานาน
+# <a name="mailbox-migration-is-slow-or-taking-a-long-time"></a>การโยกย้ายกล่องจดหมายช้าหรือใช้เวลานาน
 
-ปัจจัยหลายประการจะมีผลต่อความเร็วในการโยกย้ายกล่องจดหมาย สำหรับข้อมูลเพิ่มเติมเกี่ยวกับระยะเวลาที่การโยกย้ายสามารถทำได้และปัจจัยที่มีผลต่อความเร็วในการโยกย้ายให้ดูที่ประสิทธิภาพการทำ[งานการโยกย้ายอีเมลของ Microsoft ๓๖๕และ Office ๓๖๕และหลักปฏิบัติที่ดีที่สุด](https://docs.microsoft.com/exchange/mailbox-migration/office-365-migration-best-practices)
+ปัจจัยหลายอย่างมีผลต่อความเร็วของการโยกย้ายกล่องจดหมาย For more info about how long migrations can take, and factors that influence migration speed, see [Microsoft 365 and Office 365 email migration performance and best practices](https://docs.microsoft.com/exchange/mailbox-migration/office-365-migration-best-practices).

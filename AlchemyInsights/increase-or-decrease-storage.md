@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002330"
 - "4543"
-ms.openlocfilehash: 7dfd46d2fa2daaaafe90c3398929ef6ec64b1fcc
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: e8cb3cfe4cd2ab79cfb64adba48e3241815b027c7ec41fe6a640ba7baa34ae7e
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51830160"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53912725"
 ---
 # <a name="increase-or-decrease-storage"></a>เพิ่มหรือลดที่เก็บข้อมูล
 
-ถ้าคุณเริ่มใช้ที่เก็บข้อมูลในไซต์คอลเลกชัน SharePoint Online ของคุณหมด คุณสามารถเพิ่มที่เก็บข้อมูลลงในการสมัครใช้งานถ้าแผนของคุณมีสิทธิ์ 
+If you start to run out of storage for your SharePoint Online site collections, you can add storage to your subscription if your plan is eligible. 
 
 - [ดูที่เก็บข้อมูล](https://docs.microsoft.com/microsoft-365/commerce/add-storage-space?view=o365-worldwide#view-available-storage)ที่พร้อมใช้งาน 
 

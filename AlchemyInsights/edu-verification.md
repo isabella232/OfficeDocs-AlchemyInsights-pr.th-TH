@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "1500009"
 - "5578"
-ms.openlocfilehash: 870f175adc5ee31d32266a69af9acedb66899bc8
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 24a9cd94272f4103fe404bf86e519582138e6b37734e11715b72ebcd2de9d5cb
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51814391"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53946798"
 ---
 # <a name="edu-verification"></a>การตรวจสอบ EDU
 
@@ -25,6 +25,6 @@ ms.locfileid: "51814391"
 
 **สําคัญ** ถ้าคุณออกจากตัวช่วยสร้างการตรวจสอบก่อนที่จะใส่โดเมน คุณสามารถกลับมาที่ตัวช่วยสร้างการตรวจสอบ [การศึกษาได้ตลอดเวลาระหว่าง](https://go.microsoft.com/fwlink/p/?linkid=2135255) การทดลองใช้ฟรีของคุณ
 
-หากคุณต้องการตรวจสอบสถานะโดเมนของคุณ ให้ไปที่ ศูนย์การจัดการ[Microsoft 365](https://go.microsoft.com/fwlink/p/?linkid=2024339) บนหน้าแรก ให้เลื่อนไปที่ด้านล่างและค้นหา **บัตร** การเรียกเก็บเงิน **บัตร** การเรียกเก็บเงินจะระบุสถานะของกระบวนการตรวจสอบ (อนุมัติ รออยู่ ปฏิเสธ หรือเพิ่มโดเมนของคุณ)
+ถ้าคุณต้องการตรวจสอบสถานะโดเมนของคุณ ให้ไปที่ศูนย์การจัดการ Microsoft 365 [](https://go.microsoft.com/fwlink/p/?linkid=2024339) บนหน้าแรก ให้เลื่อนไปที่ด้านล่างและค้นหา **บัตร** การเรียกเก็บเงิน **บัตร** การเรียกเก็บเงินจะระบุสถานะของกระบวนการตรวจสอบ (อนุมัติ รออยู่ ปฏิเสธ หรือเพิ่มโดเมนของคุณ)
 
 ถ้าการร้องขอของคุณถูกปฏิเสธ [ให้ดู โรงเรียนของฉันไม่มีสิทธิ์ ฉันต้องฉันต้องอะไรบ้างในตอนนี้](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/verify-academic-eligibility#my-school-isnt-eligible-what-do-i-do-now)

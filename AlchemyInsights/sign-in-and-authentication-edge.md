@@ -1,5 +1,5 @@
 ---
-title: ฟีเจอร์การลงชื่อเข้าใช้และการรับรองความถูกต้องของ Microsoft Edge
+title: ฟีเจอร์การลงชื่อเข้าใช้และการรับรองความถูกต้องของMicrosoft Edge
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -11,13 +11,13 @@ localization_priority: Priority
 ms.custom:
 - "9129"
 - "9004625"
-ms.openlocfilehash: d9b564f8dcbc8ce5873c79656ffb77c49bb7e793
-ms.sourcegitcommit: 6bfe9cd9d0b18481e0cac6f1f5bc86ed7df31037
+ms.openlocfilehash: 9843cecfb21ab1afa0865ec5457a4ea16c6ce3494253c16c71a46464456e7c62
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 03/27/2021
-ms.locfileid: "51405643"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53910349"
 ---
-# <a name="sign-in-and-authentication-features-of-microsoft-edge"></a>ฟีเจอร์การลงชื่อเข้าใช้และการรับรองความถูกต้องของ Microsoft Edge
+# <a name="sign-in-and-authentication-features-of-microsoft-edge"></a>ฟีเจอร์การลงชื่อเข้าใช้และการรับรองความถูกต้องของMicrosoft Edge
 
-ชนิดของบัญชีที่ใช้เพื่อลงชื่อเข้าใช้จะระบุว่าฟีเจอร์การรับรองความถูก [ต้อง](https://go.microsoft.com/fwlink/?linkid=2134570) ใดพร้อมใช้งานใน Microsoft Edge
+ชนิดของบัญชีที่ใช้เพื่อลงชื่อเข้าใช้จะระบุฟีเจอร์[การรับรองความถูกต้อง](https://go.microsoft.com/fwlink/?linkid=2134570)ที่พร้อมใช้งานMicrosoft Edge
