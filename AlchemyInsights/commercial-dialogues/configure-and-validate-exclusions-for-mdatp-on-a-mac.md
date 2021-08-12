@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: 6614b017b6ef0aa71ef75887588d796d0d491279
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: e115a29ff4d0d4b2a4b5a51d009f4a9d9c2d85f1e70d22a8ed804ce40ca7b4ee
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50747972"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53916362"
 ---
 # <a name="configure-and-validate-exclusions-for-mdatp-on-a-mac"></a>กําหนดค่าและตรวจสอบข้อยกเว้นของ MDATP บน Mac
 
-คุณสามารถแยกบางไฟล์ โฟลเดอร์ กระบวนการ และประมวลผลไฟล์ที่เปิดจากการสแกน MDATP บน Mac ได้ การยกเว้นช่วยป้องกันการตรวจหาซอฟต์แวร์และไฟล์ที่ไม่ถูกต้องไม่เฉพาะหรือถูกปรับแต่งให้องค์กรของคุณ การยกเว้นยังช่วยลดปัญหาด้านประสิทธิภาพการคํานวณที่เกิดจาก MDATP อีกด้วย
+คุณสามารถยกเว้นบางไฟล์ โฟลเดอร์ กระบวนการ และไฟล์ที่เปิดตามกระบวนการจากการสแกน MDATP บน Mac การยกเว้นช่วยป้องกันไม่ให้มีการตรวจหาซอฟต์แวร์และไฟล์ที่ไม่ถูกต้อง ไม่แน่นอน หรือถูกปรับแต่งให้องค์กรของคุณ การยกเว้นยังช่วยบรรเทาปัญหาด้านประสิทธิภาพที่เกิดจาก MDATP
 
 เมื่อต้องการเรียนรู้เพิ่มเติม ให้ดู[กําหนดค่าและตรวจสอบข้อยกเว้นของ MDATP บน Mac](https://go.microsoft.com/fwlink/?linkid=2144616)
