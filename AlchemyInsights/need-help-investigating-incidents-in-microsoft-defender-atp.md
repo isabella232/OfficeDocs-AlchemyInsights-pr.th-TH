@@ -1,5 +1,5 @@
 ---
-title: ต้องการความช่วยเหลือในการตรวจสอบปัญหาใน Microsoft Defender ATP
+title: ต้องการความช่วยเหลือในการตรวจสอบเหตุการณ์ใน Microsoft Defender ATP
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,19 +13,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "6025"
 - "9001221"
-ms.openlocfilehash: 39f563e43bf1a315768d3ef198340914142cb75d
-ms.sourcegitcommit: 4caf5e6c2fee2903ccaf92cfc9006eb580faa7ba
+ms.openlocfilehash: f01075fed37d25c7455b7eaced8e77b0c07d77052a3c76159986bac4136c06d0
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 10/29/2020
-ms.locfileid: "48801282"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53974724"
 ---
-# <a name="need-help-investigating-incidents-in-microsoft-defender-atp"></a>ต้องการความช่วยเหลือในการตรวจสอบปัญหาใน Microsoft Defender ATP
+# <a name="need-help-investigating-incidents-in-microsoft-defender-atp"></a>ต้องการความช่วยเหลือในการตรวจสอบเหตุการณ์ใน Microsoft Defender ATP
 
-ถ้าคุณต้องการความช่วยเหลือในการตรวจสอบปัญหาในบริการ Microsoft Defender ATP ให้ทำตามขั้นตอนต่อไปนี้
+หากคุณต้องการความช่วยเหลือในการตรวจสอบปัญหาในบริการ Microsoft Defender ATP ให้ปฏิบัติตามขั้นตอนเหล่านี้
 
-1. เลือกเหตุการณ์และตรวจสอบการแจ้งเตือนที่จัดกลุ่มด้วยเหตุการณ์ เลือกการแจ้งเตือนแต่ละรายการเพื่อตรวจทานรายละเอียด สำหรับคำแนะนำให้ดู [ตรวจสอบการแจ้งเตือนของ Microsoft Defender สำหรับจุดสิ้น](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/investigate-alerts)สุด
-2. ตรวจทานอุปกรณ์ที่เป็นส่วนหนึ่งหรือเกี่ยวข้องกับเหตุการณ์ สำหรับคำแนะนำให้ดู[ตรวจสอบอุปกรณ์ในรายการอุปกรณ์ของ Microsoft DEFENDER ATP](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/investigate-machines)<br/>
+1. เลือกเหตุการณ์และตรวจทานการแจ้งเตือนที่จัดกลุ่มกับเหตุการณ์ เลือกการแจ้งเตือนแต่ละรายการเพื่อตรวจสอบรายละเอียด ดูคําแนะ [นําที่ ตรวจสอบ Microsoft Defender เพื่อดูการแจ้งเตือนจุด](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/investigate-alerts)สิ้นสุด
+2. ตรวจสอบอุปกรณ์ที่เป็นส่วนหนึ่งของเหตุการณ์ หรือเกี่ยวข้องกับเหตุการณ์ ดูคําแนะ[นําได้ที่ ตรวจสอบอุปกรณ์ในรายการอุปกรณ์ ATP ของ Microsoft Defender](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/investigate-machines)<br/>
  
-    แท็บการตรวจสอบจะช่วยให้คุณสามารถดูการตรวจสอบอัตโนมัติทั้งหมดที่เปิดใช้งานโดยระบบในการตอบสนองต่อการแจ้งเตือนเหตุการณ์
-3. ใช้กราฟเหตุการณ์เพื่อระบุจุดเข้าใช้งานตัวบ่งชี้ของการประนีประนอมและกิจกรรมที่น่าสงสัยอื่นๆที่สังเกตเห็นได้บนอุปกรณ์ สำหรับข้อมูลเพิ่มเติมให้ดูที่การแสดงภาพที่[เกี่ยวข้องกับภัยคุกคามทางไซเบอร์ที่เกี่ยวข้อง](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/investigate-incidents#visualizing-associated-cybersecurity-threats)  
+    แท็บการตรวจสอบช่วยให้คุณดูการตรวจสอบอัตโนมัติทั้งหมดที่เปิดใช้งานโดยระบบเพื่อตอบสนองต่อการแจ้งเตือนเหตุการณ์
+3. ใช้กราฟเหตุการณ์เพื่อระบุจุดเข้าใช้งาน ข้อบ่งชี้การตกอยู่ในอันตราย และกิจกรรมที่น่าสงสัยอื่นๆ ที่ตรวจพบบนอุปกรณ์ For more info, see the [Visualizing associated cybersecurity threats](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/investigate-incidents#visualizing-associated-cybersecurity-threats).  

@@ -1,5 +1,5 @@
 ---
-title: ควบคุมการอัปเดตอัตโนมัติสำหรับแอป Office
+title: ควบคุมการอัปเดตอัตโนมัติOfficeแอป
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,26 +13,26 @@ ms.collection: Adm_O365
 ms.custom:
 - "1743"
 - "9000140"
-ms.openlocfilehash: ab3d6e60bc1b67220adbdf7ba61599a6b7aa663a
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: f162f11f678e8673d85e52cd9e54cedd7bd6e6a3aee87fcb2731a06d2698ea6a
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47747795"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53929900"
 ---
-# <a name="control-automatic-updates-for-office-apps"></a>ควบคุมการอัปเดตอัตโนมัติสำหรับแอป Office
+# <a name="control-automatic-updates-for-office-apps"></a>ควบคุมการอัปเดตอัตโนมัติOfficeแอป
 
-ตามค่าเริ่มต้นการอัปเดตสำหรับแอป Office จะได้รับการดาวน์โหลดโดยอัตโนมัติและนำไปใช้ในพื้นหลังโดยไม่มีการขัดจังหวะของผู้ใช้ อย่างไรก็ตามผู้ดูแลระบบสามารถควบคุมวิธีการนำการอัปเดตไปใช้ได้โดยใช้การตั้งค่าการอัปเดต Office อัปเดตการตั้งค่าอนุญาตให้ผู้ดูแลระบบเปิดใช้งานหรือปิดใช้งานการอัปเดตอัตโนมัติแสดงหรือซ่อนปุ่ม **อัปเด** ตทันทีใน Office ตั้งค่ากำหนดเวลาสิ้นสุดการอัปเดตและอื่นๆ สำหรับข้อมูลโดยละเอียดให้ดูที่:
+ตามค่าเริ่มต้น การอัปเดตของแอปOfficeจะถูกดาวน์โหลดโดยอัตโนมัติและจะถูกใช้งานในเบื้องหลังโดยไม่มีการขัดจังหวะการใดๆ ของผู้ใช้ อย่างไรก็ตาม ผู้ดูแลระบบสามารถควบคุมวิธีการปรับใช้การอัปเดตโดยใช้Office การตั้งค่าการอัปเดต การตั้งค่าการอัปเดตจะอนุญาตให้ผู้ดูแลระบบเปิดใช้งานหรือปิดใช้งานการอัปเดตอัตโนมัติ แสดงหรือซ่อนปุ่ม อัปเดตเดี๋ยวนี้Office ตั้งค่าวันสิ้นสุดการอัปเดต และอื่นๆ ดูข้อมูลโดยละเอียดที่:
 
-- [การกำหนดค่าการตั้งค่าการอัปเดตสำหรับ Office](https://docs.microsoft.com/deployoffice/configure-update-settings-for-office-365-proplus)  
-- [ไม่ได้เปิดใช้งานการอัปเดตอัตโนมัติสำหรับ Office](https://support.microsoft.com/help/2753538/automatic-updating-for-office-2013-and-office-2016-click-to-run-is-not)  
-- [กำหนดวิธีที่ Office ได้รับการอัปเดตหลังจากติดตั้งแล้ว](https://docs.microsoft.com/deployoffice/configuration-options-for-the-office-2016-deployment-tool#updates-element)
+- [กําหนดค่าการตั้งค่าการอัปเดตOffice](https://docs.microsoft.com/deployoffice/configure-update-settings-for-office-365-proplus)  
+- [ไม่ได้เปิดใช้งานการอัปเดตOfficeโดยอัตโนมัติ](https://support.microsoft.com/help/2753538/automatic-updating-for-office-2013-and-office-2016-click-to-run-is-not)  
+- [กําหนดOfficeวิธีการอัปเดตหลังจากติดตั้ง](https://docs.microsoft.com/deployoffice/configuration-options-for-the-office-2016-deployment-tool#updates-element)
 
-เมื่อต้องการตรวจทานการตั้งค่าการอัปเดตที่มีอยู่กับเครื่องไคลเอ็นต์ให้ทำตามขั้นตอนต่อไปนี้:
+เมื่อต้องการตรวจสอบการตั้งค่าการอัปเดตที่มีอยู่ที่ปรับใช้กับเครื่องไคลเอ็นต์ ให้ปฏิบัติตามขั้นตอนเหล่านี้:
 
-1. เปิดตัวแก้ไขรีจิสทรีโดยไปที่**เริ่ม**  >  **เรียกใช้**  >  **regedit**
-2. สลับไปยังตำแหน่งที่ตั้งต่อไปนี้และตรวจทานการตั้งค่าการอัปเดต Office:  
-    a. HKEY_LOCAL_MACHINE \SOFTWARE\Microsoft\Office\  
+1. เปิด Registry Editor โดยไปที่ **เริ่ม**  >  **เรียกใช้**  >  **regedit**
+2. สลับไปยังสถานที่ต่อไปนี้และตรวจสอบการตั้งค่า Officeอัปเดต:  
+    a. HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Office\  
     b. ClickToRun\Configuration
 
-**หมายเหตุ:**  ถ้ามีการตั้งค่าคีย์ OfficeMgmtCOM คุณอาจเห็นข้อความ "การอัปเดตจะถูกจัดการโดยผู้ดูแลระบบของ**Office**คุณ" ใน  >  **Account**  >  การ**อัปเดต**office บัญชี office สำหรับข้อมูลเพิ่มเติมให้ดูที่ [จัดการการอัปเดตเป็นแอป microsoft ๓๖๕ด้วยตัวจัดการการกำหนดค่า microsoft จุดสิ้น](https://docs.microsoft.com/deployoffice/manage-updates-to-office-365-proplus-with-system-center-configuration-manager#method-1-use-office-deployment-tool-to-enable-office-365-clients-to-receive-updates-from-configuration-manager)สุด  
+**หมายเหตุ**  ถ้าคีย์ OfficeMgmtCOM ถูกตั้งค่าไว้ คุณอาจเห็นข้อความ "การอัปเดตได้รับการจัดการโดยผู้ดูแลระบบของคุณ" **Office**  >  **บัญชีผู้ใช้**  >  **Officeอัปเดต** ต่างๆ ดูข้อมูลเพิ่มเติมได้ที่ จัดการ[การอัปเดตMicrosoft 365 Appsด้วยMicrosoft Endpoint Configuration Manager](https://docs.microsoft.com/deployoffice/manage-updates-to-office-365-proplus-with-system-center-configuration-manager#method-1-use-office-deployment-tool-to-enable-office-365-clients-to-receive-updates-from-configuration-manager)  
