@@ -1,5 +1,5 @@
 ---
-title: กําหนดนโยบายใน Microsoft Teams
+title: กําหนดนโยบายในMicrosoft Teams
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -15,15 +15,15 @@ ms.custom:
 - "9000734"
 - "9466"
 - "10006"
-ms.openlocfilehash: 95941fec4951a0e5f01e4984b157d6760f542943
-ms.sourcegitcommit: db908b3da2c7a6508a77bf4f2c80afb294fadbd1
+ms.openlocfilehash: 478aa282735c496afbd83f0ddc128a311e078a81e8fd639648b90a815b14c79c
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 03/29/2021
-ms.locfileid: "51401818"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53950828"
 ---
-# <a name="assign-policies-in-microsoft-teams"></a>กําหนดนโยบายใน Microsoft Teams
+# <a name="assign-policies-in-microsoft-teams"></a>กําหนดนโยบายในMicrosoft Teams
 
-- เพื่อให้จัดการนโยบายในองค์กรของคุณได้อย่างง่ายดาย Teams มีหลายวิธีในการกําหนดนโยบายให้กับผู้ใช้ กําหนดนโยบายให้กับผู้ใช้โดยตรง ทั้งแบบรายบุคคลหรือตามมาตราส่วนในการมอบหมายชุดการโยกย้าย หรือกลุ่มที่ผู้ใช้เป็นสมาชิกอยู่  ขณะนี้การมอบหมายนโยบายให้กับกลุ่มโดยใช้ศูนย์การจัดการ Microsoft Teams จะพร้อมใช้งานเฉพาะกับชนิดนโยบายที่ระบุเท่านั้น 
-- ผู้ใช้มีนโยบายที่มีประสิทธิภาพหนึ่งนโยบายต่อชนิดนโยบายแต่ละชนิด เมื่อต้องการตรวจสอบลสั่งซื้อที่ใช้นโยบายใดกับผู้ใช้ ให้ [ดูว่านโยบายใดมีความเหนือกว่า](https://docs.microsoft.com/microsoftteams/assign-policies#which-policy-takes-precedence)
-- ดูข้อมูลเพิ่มเติมในการ[กําหนดนโยบายให้กับผู้ใช้ใน Microsoft Teams](https://docs.microsoft.com/microsoftteams/assign-policies)
+- เมื่อต้องการจัดการนโยบายในองค์กรของคุณอย่างง่ายดาย Teamsเสนอวิธีมากมายในการกําหนดนโยบายให้กับผู้ใช้ กําหนดนโยบายให้กับผู้ใช้โดยตรง ทั้งแบบรายบุคคลหรือที่ปรับมาตราส่วนผ่านการมอบหมายชุดการหรือไปยังกลุ่มที่ผู้ใช้เป็นสมาชิกอยู่  ปัจจุบัน การมอบหมายนโยบายให้กับกลุ่มโดยใช้Microsoft Teamsการจัดการของศูนย์การจัดการจะพร้อมใช้งานเฉพาะกับชนิดนโยบายที่ระบุเท่านั้น 
+- ผู้ใช้มีนโยบายที่มีประสิทธิภาพหนึ่งนโยบายต่อชนิดของนโยบายแต่ละชนิด เมื่อต้องการตรวจสอบล.อ. ที่นโยบายใดจะถูกปรับใช้กับผู้ใช้ [ให้ดู นโยบายใดมีความก่อน](https://docs.microsoft.com/microsoftteams/assign-policies#which-policy-takes-precedence)
+- For more information, see [Assign policies to your users in Microsoft Teams](https://docs.microsoft.com/microsoftteams/assign-policies).

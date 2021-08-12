@@ -13,13 +13,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004352"
 - "7781"
-ms.openlocfilehash: 607d2a4405f22d9b154adfe7fdf14cfa273ee8fb
-ms.sourcegitcommit: 113b802081101de70810fc73938ea92f7518d8c6
+ms.openlocfilehash: abd4d2600a29506efe74079709d6a974a6169260b74eb147a7787722c4b799c5
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 01/18/2021
-ms.locfileid: "49901497"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53951080"
 ---
 # <a name="app-registration-permissions"></a>สิทธิ์การลงทะเบียนแอป
 
-[สิทธิ์การลงทะเบียนแอปพลิเคชันสำหรับบทบาทแบบกำหนดเองใน Azure Active directory](https://docs.microsoft.com/azure/active-directory/roles/custom-available-permissions): บทความนี้ประกอบด้วยสิทธิ์การลงทะเบียนแอปที่พร้อมใช้งานในขณะนี้สำหรับข้อกำหนดบทบาทแบบกำหนดเองใน Azure active Directory (azure AD)
+[สิทธิ์การลงทะเบียนแอปพลิเคชันให้กับบทบาทแบบAzure Active Directory](https://docs.microsoft.com/azure/active-directory/roles/custom-available-permissions)เองในบทความ : บทความนี้มีสิทธิ์การลงทะเบียนแอปที่พร้อมใช้งานในปัจจุบันของข้อนิยามบทบาทแบบAzure Active Directory (Azure AD)

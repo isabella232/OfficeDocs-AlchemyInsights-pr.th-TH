@@ -1,5 +1,5 @@
 ---
-title: วิธีแก้ไขปัญหาที่แนะนำสำหรับพอร์ทัล Dynamics ๓๖๕
+title: พอร์ทัล Dynamics 365 โซลูชันที่แนะนา
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
@@ -12,27 +12,27 @@ ms.custom:
 - "1454"
 - "1456"
 - "6200009"
-ms.openlocfilehash: 2c9a60453431bb965fda0c6ac1191f1c24420d3b
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 701e7e74648ce09927f41b70945c7a2e9ba89e5d96a088343984c2054fda2343
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47693070"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53911069"
 ---
-# <a name="dynamics-365-portals-recommended-solutions"></a>วิธีแก้ไขปัญหาที่แนะนำสำหรับพอร์ทัล Dynamics ๓๖๕
+# <a name="dynamics-365-portals-recommended-solutions"></a>โซลูชันที่แนะนาของพอร์ทัล Dynamics 365
 
-* [วิธีการดูข้อผิดพลาดเซิร์ฟเวอร์รายละเอียดที่แสดงบนพอร์ทัลของฉัน](https://docs.microsoft.com/dynamics365/customer-engagement/portals/view-portal-error-log)
+* [วิธีการดูข้อผิดพลาดเซิร์ฟเวอร์โดยละเอียดที่แสดงบนพอร์ทัลของฉัน](https://docs.microsoft.com/dynamics365/customer-engagement/portals/view-portal-error-log)
 
 * [วิธีการตั้งค่าพอร์ทัลใหม่](https://docs.microsoft.com/dynamics365/customer-engagement/portals/reset-portal)
 
-* [วิธีการล้างแคชของฝั่งเซิร์ฟเวอร์สำหรับพอร์ทัล](https://docs.microsoft.com/dynamics365/customer-engagement/portals/clear-server-side-cache)
+* [วิธีการล้างแคชฝั่งเซิร์ฟเวอร์ของพอร์ทัล](https://docs.microsoft.com/dynamics365/customer-engagement/portals/clear-server-side-cache)
 
-* [วิธีการเปลี่ยนผู้ชมและชนิดของพอร์ทัล๓๖๕ Dynamics](https://support.microsoft.com//help/4091253/how-to-change-the-audience-and-type-of-a-dynamics-365-portal)
+* [วิธีเปลี่ยนผู้ชมและชนิดของพอร์ทัล Dynamics 365](https://support.microsoft.com//help/4091253/how-to-change-the-audience-and-type-of-a-dynamics-365-portal)
 
-* [วิธีการเปลี่ยน URL พื้นฐานของพอร์ทัล](https://docs.microsoft.com/dynamics365/customer-engagement/portals/change-base-url)
+* [วิธีเปลี่ยน URL พื้นฐานของพอร์ทัล](https://docs.microsoft.com/dynamics365/customer-engagement/portals/change-base-url)
 
-* [วิธีการกำหนดค่าผู้ให้บริการข้อมูลประจำตัวภายนอกกับพอร์ทัล](https://docs.microsoft.com/dynamics365/customer-engagement/portals/configure-portal-authentication)
+* [วิธีการกําหนดค่าตัวให้บริการข้อมูลเฉพาะตัวภายนอกด้วยพอร์ทัล](https://docs.microsoft.com/dynamics365/customer-engagement/portals/configure-portal-authentication)
 
 * [คำถามที่ถามบ่อย](https://support.microsoft.com/help/4456128/portal-capabilities-for-dynamics-365-faq)
 
-* [การเริ่มต้นใช้งานพอร์ทัล Dynamics ๓๖๕ของฉัน](https://docs.microsoft.com/dynamics365/customer-engagement/portals/manage-sharepoint-documents#step-2-set-up-sharepoint-integration-from-portal-admin-center)
+* [เริ่มต้นใช้งานพอร์ทัล Dynamics 365 ของฉัน](https://docs.microsoft.com/dynamics365/customer-engagement/portals/manage-sharepoint-documents#step-2-set-up-sharepoint-integration-from-portal-admin-center)

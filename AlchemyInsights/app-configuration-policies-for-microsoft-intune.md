@@ -1,5 +1,5 @@
 ---
-title: นโยบายการกําหนดค่าแอปของ Microsoft Intun1
+title: นโยบายการกําหนดค่าแอปMicrosoft Intune
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -14,20 +14,20 @@ ms.custom:
 - "1030"
 - "9003770"
 - "6709"
-ms.openlocfilehash: e37485d6fecab8c0eeb513185adf71b394064744
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: fc23546a6287300075f0dcbc120e4e09dded2b8e03899e98d8c27ff6c94b737e
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51821349"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53932008"
 ---
-# <a name="app-configuration-policies-for-microsoft-intune"></a>นโยบายการกําหนดค่าแอปของ Microsoft Intun1
+# <a name="app-configuration-policies-for-microsoft-intune"></a>นโยบายการกําหนดค่าแอปMicrosoft Intune
 
-นโยบายการกําหนดค่าแอปใน Microsoft Intun1 จะใช้เพื่อมอบการตั้งค่าการกําหนดค่าให้กับแอปพลิเคชัน iOS หรือ Android การตั้งค่าการกําหนดค่าเหล่านี้อนุญาตให้กําหนดแอปเองได้ โปรดทราบว่า มีข้อจํากัดเกี่ยวกับเวอร์ชันของระบบปฏิบัติการและแอปพลิเคชันใดที่สนับสนุนการใช้นโยบายการกําหนดค่า
+นโยบายการกําหนดค่าMicrosoft Intuneแอปจะใช้เพื่อให้การตั้งค่าการกําหนดค่าแอปพลิเคชัน iOS หรือ Android การตั้งค่าการกําหนดค่าเหล่านี้อนุญาตให้กําหนดแอปเองได้ โปรดทราบว่า มีข้อจํากัดเกี่ยวกับเวอร์ชันของระบบปฏิบัติการและแอปพลิเคชันใดที่สนับสนุนการใช้นโยบายการกําหนดค่า
 
 โปรดตรวจสอบเอกสารต่อไปนี้เพื่อดูรายละเอียด
 
-[นโยบายการกําหนดค่าแอปของ Microsoft Intun1](https://docs.microsoft.com/intune/app-configuration-policies-overview)  
+[นโยบายการกําหนดค่าแอปMicrosoft Intune](https://docs.microsoft.com/intune/app-configuration-policies-overview)  
 
 [เพิ่มนโยบายการกําหนดค่าแอปบนอุปกรณ์ iOS ที่มีการจัดการ](https://docs.microsoft.com/intune/app-configuration-policies-use-ios)  
 

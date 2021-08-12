@@ -13,17 +13,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004356"
 - "7797"
-ms.openlocfilehash: b7ef5529f4b98188a466501803b934f4935ad48c
-ms.sourcegitcommit: 113b802081101de70810fc73938ea92f7518d8c6
+ms.openlocfilehash: d2a11e38c49a28a90ce7912a805af9c09bf3c6b98d91f24f75bdb32192bcfa69
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 01/18/2021
-ms.locfileid: "49901488"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53911321"
 ---
 # <a name="problem-when-signing-in-to-my-application"></a>ปัญหาเมื่อลงชื่อเข้าใช้แอปพลิเคชันของฉัน
 
-คุณสามารถแก้ไขปัญหาการเข้าถึงพร็อกซีของแอปของคุณได้โดยใช้บทความต่อไปนี้
+คุณสามารถแก้ไขปัญหาการเข้าถึงพร็อกซีแอปของคุณโดยใช้บทความ:
 
-- [ฉันได้รับข้อผิดพลาด "ไม่สามารถเข้าถึงแอปพลิเคชันขององค์กรนี้ได้"](https://docs.microsoft.com/azure/active-directory/application-proxy-sign-in-bad-gateway-timeout-error/?WT.mc_id=UI_AAD_Enterprise_Apps_Support_L2_Overview)
-- [ฉันไม่สามารถลงชื่อเข้าใช้แอปพลิเคชันภายในองค์กรโดยใช้พร็อกซีแอปพลิเคชัน AZURE AD](https://docs.microsoft.com/azure/active-directory/application-sign-in-problem-on-premises-application-proxy/?WT.mc_id=UI_AAD_Apps_Sign_In_Support_L2_Proxy)ได้
-- [ตรวจแก้ปัญหาแอปพลิเคชันพร็อกซีของแอปพลิ](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-debug-apps)เคชัน
+- [ฉันได้รับข้อผิดพลาด "ไม่สามารถเข้าถึงแอปพลิเคชันขององค์กรได้"](https://docs.microsoft.com/azure/active-directory/application-proxy-sign-in-bad-gateway-timeout-error/?WT.mc_id=UI_AAD_Enterprise_Apps_Support_L2_Overview)
+- [ฉันไม่สามารถลงชื่อเข้าใช้แอปพลิเคชันภายในองค์กรโดยใช้พร็อกซีแอปพลิเคชัน Azure AD](https://docs.microsoft.com/azure/active-directory/application-sign-in-problem-on-premises-application-proxy/?WT.mc_id=UI_AAD_Apps_Sign_In_Support_L2_Proxy)ได้
+- [แก้จุดบกพร่องปัญหาแอปพลิเคชันพร็อกซี](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-debug-apps)แอปพลิเคชัน
