@@ -1,5 +1,5 @@
 ---
-title: ตัวแก้ไขปัญหาว่าง/ไม่ว่างของ๖๐๗
+title: ตัวแก้ไขปัญหาว่าง/ไม่ว่าง 607 ตัว
 ms.author: pdigia
 author: pebaum
 manager: jackiesm
@@ -13,15 +13,15 @@ ms.custom:
 - "607"
 - "3800005"
 ms.assetid: 69e8da45-4d29-48ea-8279-d35313367216
-ms.openlocfilehash: 69a89f4a18008024bae1d24d23933276c57f189f
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 82ffc520211180da8118fd357f12b3559ec7eb43cc0329ad4f7e58f42bd8c3eb
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47708054"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53987702"
 ---
-# <a name="troubleshooting-steps-for-calendar-availability-freebusy"></a>ขั้นตอนการแก้ไขปัญหาสำหรับปฏิทินที่พร้อมใช้งาน (ว่าง/ไม่ว่าง)
+# <a name="troubleshooting-steps-for-calendar-availability-freebusy"></a>ขั้นตอนการแก้ไขปัญหาความพร้อมใช้งานปฏิทิน (ว่าง/ไม่ว่าง)
 
-โดยทั่วไปแล้วเครื่องมือที่ดีที่สุดสำหรับการแก้ไขปัญหาสถานะว่าง/ไม่ว่างคือตัว [วิเคราะห์การเชื่อมต่อระยะไกลของ Exchange (RCA)](https://testconnectivity.microsoft.com/Default.aspx?testId=freeBusy) เพื่อดูตำแหน่งที่ล้มเหลว อาร์ซีเอจะให้บันทึกรายละเอียดของสิ่งที่ทำงานและสิ่งที่ล้มเหลวกับข้อความแสดงข้อผิดพลาดที่เฉพาะเจาะจงที่คุณสามารถค้นหาได้เพื่อค้นหาวิธีแก้ไขปัญหา นอกจากนี้ยังมีลิงก์ไปยัง[ผู้ช่วยฝ่ายสนับสนุนและการกู้คืนของไมโครซอฟท์](https://diagnostics.office.com/)
+โดยทั่วไปแล้ว เครื่องมือที่ดีที่สุดในการแก้ไขปัญหาว่าง/ไม่ว่าง คือตัววิเคราะห์Exchangeการเชื่อมต่อระยะไกล[(RCA)](https://testconnectivity.microsoft.com/Default.aspx?testId=freeBusy)เพื่อดูว่าปัญหาล้มเหลวที่ใด RCA จะให้รายละเอียดเกี่ยวกับสิ่งที่ได้ผล และสิ่งที่ล้มเหลวกับข้อความแสดงข้อผิดพลาดที่เฉพาะเจาะจง ที่คุณสามารถค้นหาวิธีแก้ไขปัญหาได้ นอกจากนี้ยังมีลิงก์ไปยัง Microsoft[ตัวช่วยการสนับสนุนและการกู้คืน](https://diagnostics.office.com/)
 
-อีกเครื่องมือที่ดีที่จะลองใช้ [เครื่องมือการตรวจสอบปฏิทินสำหรับ outlook](https://www.microsoft.com/download/details.aspx?id=28786) ถ้าผู้ใช้มี Outlook
+เครื่องมือที่ดีอีกเครื่องมือหนึ่ง[ที่ควรลองคือ เครื่องมือตรวจสอบOutlook](https://www.microsoft.com/download/details.aspx?id=28786)ปฏิทิน ถ้าผู้ใช้Outlookอยู่

@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002952"
 - "5654"
-ms.openlocfilehash: fab76114044f71d60dbaf812cd2cd0cc75c8169c
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 6d072e4be2465c7744c0862b8b3e755274f3b03d0d6058c0c9f7bf23bef8abbd
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51820485"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53979548"
 ---
 # <a name="battery-wont-charge"></a>แบตเตอรี่ไม่ชาร์จ
 
@@ -36,12 +36,12 @@ ms.locfileid: "51820485"
 5. เลือกคอมพิวเตอร์ที่ด้านบนของทุกประเภท เลือกเมนู **การปฏิบัติการ** แล้วคลิก สแกน **หาการเปลี่ยนแปลง** ฮาร์ดแวร์
 6. เสียบปลั๊ก Surface ของคุณไว้
 
-หลังจากที่คุณถอดโปรแกรมควบคุมแบตเตอรี่ออก ให้ติดตั้งการอัปเดต Surface และ Windows ดู [อัปเดตเฟิร์มแวร์ Surface และ Windows 10](https://support.microsoft.com/help/4023505) เพื่อดูรายละเอียด ตรวจสอบแบตเตอรี่ของคุณ หากยังประสบปัญหาอยู่ ให้ดู บังคับปิดเครื่อง [และรีสตาร์ต Surface](https://support.microsoft.com/help/4036280/surface-force-a-shut-down-and-restart-your-surface)ของคุณ
+หลังจากที่คุณถอดโปรแกรมควบคุมแบตเตอรี่ออก ให้ติดตั้ง Surface Windowsการปรับปรุง See [Update Surface firmware and Windows 10](https://support.microsoft.com/help/4023505) for details. ตรวจสอบแบตเตอรี่ของคุณ หากยังประสบปัญหาอยู่ ให้ดู บังคับปิดเครื่อง [และรีสตาร์ต Surface](https://support.microsoft.com/help/4036280/surface-force-a-shut-down-and-restart-your-surface)ของคุณ
 
 **ข้อมูลการแก้ไขปัญหาเพิ่มเติม**
 
 ไฟ LED ควรสว่างขึ้นเมื่อเสียบหัวต่อสายไฟเข้ากับ Surface ของคุณ หากปิดอยู่ กะพริบ หรือกะพริบสีขาว โปรดตรวจสอบ สิ่งที่ต้องตรวจสอบ [หาก](https://support.microsoft.com/help/4484763/surface-fix-issues-with-your-power-supply)อุปกรณ์จ่ายไฟหรือที่ชาร์จของ Surface ของคุณใช้งานไม่ได้ 
 
-หากคุณมีปัญหากับ Surface Book ตรวจสอบให้แน่ใจว่าต่อหน้าจอกับแป้นพิมพ์อย่างสมบูรณ์ ถ้ายังคงไม่ชาร์จ ให้ลบหน้าจอออกและล้างตัวเชื่อมต่อด้วยยางลบดินสอ คุณอาจต้องการล้างหมุดที่ชาร์จส่วนที่ยาวและแคบซึ่งคุณเสียบเข้ากับ Surface ของคุณ และตรวจสอบให้แน่ใจว่าหมุดแห้งแล้ว
+ถ้าคุณมีปัญหากับแป้นพิมพ์Surface Book ให้ตรวจสอบว่าได้ต่อหน้าจอเข้ากับแป้นพิมพ์แล้ว ถ้ายังคงไม่ชาร์จ ให้ลบหน้าจอออกและล้างตัวเชื่อมต่อด้วยยางลบดินสอ คุณอาจต้องการล้างหมุดที่ชาร์จส่วนที่ยาวและแคบซึ่งคุณเสียบเข้ากับ Surface ของคุณ และตรวจสอบให้แน่ใจว่าหมุดแห้งแล้ว
 
 เมื่อต้องการดูวิธีการเพิ่มเติมในการแก้ไขปัญหาแบตเตอรี่ โปรดตรวจสอบว่าแบตเตอรี่ Surface ไม่ชาร์จ หรือ [Surface ไม่แบตเตอรี่](https://support.microsoft.com/help/4023536/surface-surface-battery-wont-charge)หมด
