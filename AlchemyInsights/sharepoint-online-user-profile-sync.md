@@ -1,5 +1,5 @@
 ---
-title: การซิงโครไนซ์โปรไฟล์ผู้ใช้ SharePoint Online
+title: SharePoint การซิงโครไนซ์โปรไฟล์ผู้ใช้แบบออนไลน์
 ms.author: pebaum
 author: pebaum
 manager: pamgreen
@@ -13,15 +13,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003095"
 - "5848"
-ms.openlocfilehash: abb4b671091fee60fcf836acb15bc3dbdaac7b54
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: eb2c3a2c43a59882dab3f8035dd20e69579a46a7c8bde7badc80310a1ab57f6e
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47665377"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53957488"
 ---
-# <a name="sharepoint-online-user-profile-synchronization"></a>การซิงโครไนซ์โปรไฟล์ผู้ใช้ SharePoint Online
+# <a name="sharepoint-online-user-profile-synchronization"></a>SharePoint การซิงโครไนซ์โปรไฟล์ผู้ใช้แบบออนไลน์
 
-Microsoft SharePoint ใช้งานการซิงโครไนซ์ไดเรกทอรีที่ใช้งานอยู่เพื่อนำเข้าข้อมูลแอตทริบิวต์ของผู้ใช้และกลุ่มลงในแอปพลิเคชันโปรไฟล์ผู้ใช้ (UPA)สำหรับข้อมูลเพิ่มเติมโปรดดูบทความด้านล่างนี้
+Microsoft SharePointใช้งานการซิงโครไนซ์ Active Directory เพื่อนําเข้าข้อมูลแอตทริบิวต์ของผู้ใช้และกลุ่มลงในแอปพลิเคชันโปรไฟล์ผู้ใช้ (UPA)โปรดดูบทความด้านล่างเพื่อดูข้อมูลเพิ่มเติม
 
-- [การซิงโครไนซ์โปรไฟล์ผู้ใช้ SharePoint Online](https://docs.microsoft.com/sharepoint/user-profile-sync)
+- [SharePoint การซิงโครไนซ์โปรไฟล์ผู้ใช้แบบออนไลน์](https://docs.microsoft.com/sharepoint/user-profile-sync)
