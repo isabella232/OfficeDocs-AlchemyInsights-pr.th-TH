@@ -1,5 +1,5 @@
 ---
-title: ติดต่อฝ่ายสนับสนุนหรือขอความช่วยเหลือ FastTrack
+title: ติดต่อฝ่ายสนับสนุนหรือขอรับความช่วยเหลือ FastTrack
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,19 +13,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "7878"
 - "9004374"
-ms.openlocfilehash: 6b7ce78586371f159588555ba00ed7ba56751e02
-ms.sourcegitcommit: 430d247cb5dd5dc5d1f82d977456558dfd514277
+ms.openlocfilehash: 094f0d0c1002c3cba1b881d142fd16230f926505721a9071393145d5a59d63d4
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 03/29/2021
-ms.locfileid: "51421072"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53915282"
 ---
-# <a name="contact-support-or-request-fasttrack-assistance"></a>ติดต่อฝ่ายสนับสนุนหรือขอความช่วยเหลือ FastTrack
+# <a name="contact-support-or-request-fasttrack-assistance"></a>ติดต่อฝ่ายสนับสนุนหรือขอรับความช่วยเหลือ FastTrack
 
-เมื่อต้องการรับความช่วยเหลือ ให้ **ใส่คิวรี** ในกล่องอธิบายสั้นๆ เกี่ยวกับปัญหาของคุณ เลือกไอคอนชุดหูฟังที่ด้านบนของบานหน้าต่าง จากนั้นกรอก **และส่งฟอร์มติดต่อ** ฝ่ายสนับสนุน
+เมื่อต้องการรับความช่วยเหลือ ให้ใส่ **คิวรี** ในกล่อง อธิบายสั้นๆ เกี่ยวกับปัญหาของคุณ เลือกไอคอนชุดหูฟังที่ด้านบนของบานหน้าต่าง จากนั้นกรอกข้อมูลและส่ง **ฟอร์มติดต่อ** ฝ่ายสนับสนุน
 
-You can also get help from the ‎Microsoft‎ FastTrack team, which will provide you with a set of best practices, tools, and resources and, if you qualify, with engineering engagement. ดูข้อมูลเพิ่มเติมที่[ถามบ่อย](https://go.microsoft.com/fwlink/?linkid=2132666)
+คุณยังสามารถรับความช่วยเหลือจากทีม Microsoft FastTrack ซึ่งจะมอบชุดแนวทางปฏิบัติ เครื่องมือ และทรัพยากรให้คุณ และถ้าคุณมีคุณสมบัติพร้อมการมีส่วนร่วมทางวิศวกรรม For more info, see [Frequently asked questions](https://go.microsoft.com/fwlink/?linkid=2132666).
 
-‎Microsoft‎ FastTrack is here to make your onboarding experience a success. ด้วยสิทธิประโยชน์ของศูนย์ FastTrack ใน Office 365 คุณจะร่วมงานกับผู้เชี่ยวชาญด้าน FastTrack จากระยะไกล โดยไม่มีค่าใช้จ่ายเพิ่มเติม เพื่อเตรียมสภาพแวดล้อม Office 365 ของคุณให้พร้อมใช้งาน ผู้เชี่ยวชาญด้าน FastTrack สามารถช่วยคุณหลังจากที่คุณซื้อสิทธิ์การใช้งานอย่างน้อย 150 สิทธิ์
+Microsoft FastTrack พร้อมให้ประสบการณ์การออนบอร์ดของคุณประสบความสเร็จ ด้วยสิทธิประโยชน์ของศูนย์ FastTrack Office 365 คุณจะได้รับการร่วมงานกับผู้เชี่ยวชาญด้าน FastTrack จากระยะไกล โดยไม่มีค่าใช้จ่ายเพิ่มเติม เพื่อเตรียมสภาพแวดล้อม Office 365 ของคุณให้พร้อมใช้งาน ผู้เชี่ยวชาญด้าน FastTrack สามารถช่วยคุณหลังจากที่คุณซื้อสิทธิ์การใช้งานอย่างน้อย 150 สิทธิ์
 
-เมื่อต้องการเริ่มต้นใช้งาน ให้ลงชื่อเข้าใช้พอร์ทัล [FastTrack และปฏิบัติตาม](https://go.microsoft.com/fwlink/?linkid=2125443) ขั้นตอนเพื่อกรอกแบบฟอร์ม ขอความช่วยเหลือเกี่ยวกับ **Microsoft 365** ให้เสร็จสมบูรณ์
+เมื่อต้องการเริ่มต้นใช้งาน ให้ลงชื่อเข้าใช้พอร์ทัล [FastTrack และปฏิบัติตาม](https://go.microsoft.com/fwlink/?linkid=2125443)ขั้นตอนเพื่อกรอกแบบฟอร์ม ขอรับ **ความช่วยเหลือ** Microsoft 365ให้เสร็จสมบูรณ์

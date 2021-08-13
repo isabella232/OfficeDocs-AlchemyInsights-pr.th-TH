@@ -12,20 +12,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "3406"
 - "9001429"
-ms.openlocfilehash: 468d197ae1ad6a3ee13cbcc683a59f0d9f193af7
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 90fc3135dcde5073330abb7cfe0e45c799e2154d9cd27c075c2c9ac89c18a641
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51822906"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53937300"
 ---
-# <a name="fixing-the-microsoft-365-apps-your-computers-trusted-platform-module-is-not-functioning-properly-message"></a>การแก้ไขข้อความ "โมดูลแพลตฟอร์มที่เชื่อถือได้ของคอมพิวเตอร์ของคุณมีฟังก์ชันการฟังก์ชันไม่ถูกต้อง" ของแอป Microsoft 365
+# <a name="fixing-the-microsoft-365-apps-your-computers-trusted-platform-module-is-not-functioning-properly-message"></a>การแก้ไขแอปMicrosoft 365ข้อความ "โมดูลแพลตฟอร์มที่เชื่อถือได้ของคอมพิวเตอร์ของคุณไม่สามารถจัดการได้อย่างถูกต้อง"
 
 เมื่อต้องการแก้ไขข้อผิดพลาดนี้ ให้ลองวิธีต่อไปนี้:
 
-1. เปิดแอป Office [แล้วลงชื่อ](https://support.office.com/article/5a20dc11-47e9-4b6f-945d-478cb6d92071) ออกจากบัญชีผู้ใช้ใดๆ ที่มีอยู่   
-2. การใช้บัญชี **บัญชี**  >  **การตั้งค่า**  >  **Windows &อีเมล** ลบบัญชีที่งานที่มีอยู่ออก 
-3. การใช้ บัญชี **การตั้งค่า** Windows  >    >  **เข้าถึงบัญชีที่โรงเรียน** หรือที่โรงเรียน ยกเลิกการเชื่อมต่อบัญชีที่มีอยู่ 
-4. รีเซ็ตสถานะการเปิดใช้งาน Office [เรียนรู้วิธีการ](https://docs.microsoft.com/office365/troubleshoot/activation/reset-office-365-proplus-activation-state
+1. เปิดแอป Office[และ](https://support.office.com/article/5a20dc11-47e9-4b6f-945d-478cb6d92071)ลงชื่อออกจากบัญชีผู้ใช้ใดๆ ที่มีอยู่   
+2. ใช้ **Windowsการตั้งค่า**  >    >  **บัญชี&บัญชี ลบ** บัญชีที่งานที่มีอยู่ออก 
+3. การใช้ Windows **การตั้งค่า**  >    >  **การเข้าถึงบัญชีที่โรงเรียนหรือ** ที่โรงเรียน ให้ยกเลิกการเชื่อมต่อบัญชีที่มีอยู่ 
+4. ตั้งค่าOfficeสถานะการเปิดใช้งานใหม่ [เรียนรู้วิธีการ](https://docs.microsoft.com/office365/troubleshoot/activation/reset-office-365-proplus-activation-state
 )
 5. ลองกระบวนการ [กู้คืนผู้ใช้](https://docs.microsoft.com/office365/troubleshoot/administration/connection-issue-when-sign-in-office-2016#symptom-2) เพื่อแก้ไขความล้มเหลวของ Trusted Platform Module (TPM)

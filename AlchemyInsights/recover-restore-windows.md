@@ -1,5 +1,5 @@
 ---
-title: กู้คืน ติดตั้งใหม่ หรือคืนค่า Windows
+title: กู้คืน ติดตั้งใหม่ หรือคืนค่าWindows
 ms.author: pebaum
 author: pebaum
 manager: dansimp
@@ -13,14 +13,14 @@ ms.collection: Adm_O365
 ms.custom:
 - "9820"
 - "9005614"
-ms.openlocfilehash: 5ad919059780571a6e09b6a9e277ca8569ebf270
-ms.sourcegitcommit: c08bed4071baa3bb5879496df3ed44fb828c8367
+ms.openlocfilehash: eb1dae7e7cf1f14b0ca0a24ffcb90e4dfff04216db27709f1d4b537ff6dd2ef6
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 03/19/2021
-ms.locfileid: "51037190"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54062063"
 ---
-# <a name="recover-reinstall-or-restore-windows"></a>กู้คืน ติดตั้งใหม่ หรือคืนค่า Windows
+# <a name="recover-reinstall-or-restore-windows"></a>กู้คืน ติดตั้งใหม่ หรือคืนค่าWindows
 
 For more information: 
 
@@ -28,8 +28,8 @@ For more information:
 
 - เมื่อต้องการค้นหาคีย์การกู้คืน BitLocker ของคุณ [ให้ดู ค้นหาคีย์การกู้คืน BitLocker](https://support.microsoft.com/windows/find-my-bitlocker-recovery-key-fd2b3501-a4b9-61e9-f5e6-2a545ad77b3e)ของฉัน
 
-- เมื่อต้องการกู้คืนไฟล์ที่สูญหายจากการสํารองข้อมูล ให้ดู[กู้คืนไฟล์ที่สูญหายบน Windows 10](https://support.microsoft.com/windows/recover-lost-files-on-windows-10-61f5b28a-f5b8-3cc2-0f8e-a63cb4e1d4c4)
+- เมื่อต้องการกู้คืนไฟล์ที่สูญหายจากการสํารองข้อมูล ให้ดู[กู้คืนไฟล์ที่สูญหายWindows 10](https://support.microsoft.com/windows/recover-lost-files-on-windows-10-61f5b28a-f5b8-3cc2-0f8e-a63cb4e1d4c4)
 
-- เมื่อต้องการสํารองข้อมูลพีซีของคุณไปยังไดรฟ์ภายนอกหรือที่อยู่บนเครือข่าย ให้ดู[การสํารองข้อมูลและการคืนค่าใน Windows 10](https://support.microsoft.com/windows/backup-and-restore-in-windows-10-352091d2-bb9d-3ea3-ed18-52ef2b88cbef)
+- เมื่อต้องการสํารองข้อมูลพีซีของคุณไปยังไดรฟ์ภายนอกหรือบนเครือข่าย ให้ดู การ[สํารองข้อมูลและการคืนค่าใน](https://support.microsoft.com/windows/backup-and-restore-in-windows-10-352091d2-bb9d-3ea3-ed18-52ef2b88cbef)Windows 10
 
-- หากต้องการตัวเลือกการกู้คืนของ Windows 8.1 [ให้ดูวิธีการรีเฟรช รีเซ็ต หรือคืนค่า](https://support.microsoft.com/windows/how-to-refresh-reset-or-restore-your-pc-51391d9a-eb0a-84a7-69e4-c2c1fbceb8dd)พีซีของคุณ
+- For Windows 8.1 recovery options, see [How to refresh, reset, or restore your](https://support.microsoft.com/windows/how-to-refresh-reset-or-restore-your-pc-51391d9a-eb0a-84a7-69e4-c2c1fbceb8dd)PC .
