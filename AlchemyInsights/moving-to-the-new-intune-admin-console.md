@@ -1,5 +1,5 @@
 ---
-title: การย้ายไปยังคอนโซลผู้ดูแลระบบ Intune ใหม่
+title: การย้ายไปยังคอนโซลผู้ดูแลระบบ Intun1 ใหม่
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,17 +13,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "1791"
 - "9000214"
-ms.openlocfilehash: e99d107bd6d69fd16200e11cd48eacef5a10da23
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: ad1a51eae1e0b5d06067beb4a1a9e604e08b3d8e8d2d815c702c6ab05668dc9f
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47702706"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53986136"
 ---
-# <a name="moving-to-the-new-intune-admin-console"></a>การย้ายไปยังคอนโซลผู้ดูแลระบบ Intune ใหม่
+# <a name="moving-to-the-new-intune-admin-console"></a>การย้ายไปยังคอนโซลผู้ดูแลระบบ Intun1 ใหม่
 
-สำหรับข้อมูลเพิ่มเติม ให้ดูที่
+สำหรับข้อมูลเพิ่มเติม ให้ดู:
 
-- [ฟีเจอร์ Intune ของฉันไปอยู่ที่ไหนใน Azure](https://docs.microsoft.com/intune/ui-changes)
+- [ฟีเจอร์ Intuned ของฉันไปที่ใดใน Azure](https://docs.microsoft.com/intune/ui-changes)
 
-- [กลุ่มคลาสสิกของ Microsoft Intune ในพอร์ทัล Azure](https://docs.microsoft.com/intune/groups-get-started)
+- [Microsoft Intuneกลุ่มแบบคลาสสิกในพอร์ทัล Azure](https://docs.microsoft.com/intune/groups-get-started)

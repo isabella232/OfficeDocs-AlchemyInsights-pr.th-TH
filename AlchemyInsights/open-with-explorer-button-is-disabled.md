@@ -1,5 +1,5 @@
 ---
-title: ปุ่มเปิดด้วย Explorer ถูกปิดใช้งาน
+title: ปุ่ม เปิดด้วย Explorer ถูกปิดใช้งาน
 ms.author: toresing
 author: tomresing
 manager: scotv
@@ -12,18 +12,18 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: ff0f9110-10be-4c27-acaa-1615f81a53f2
-ms.openlocfilehash: 4bfb877c52bab26eb3e43c95901857ef731d0bb6
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 9ff4d8a16cbb92aa36f165f9a6525ccba7dedff49ccc1805097206dbab43ce40
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47694691"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53944618"
 ---
-# <a name="the-open-with-explorer-button-is-disabled"></a>ปุ่มเปิดด้วย Explorer ถูกปิดใช้งาน
+# <a name="the-open-with-explorer-button-is-disabled"></a>ปุ่ม เปิดด้วย Explorer ถูกปิดใช้งาน
 
-- เรียกดูตำแหน่งที่ตั้ง SharePoint หรือ OneDrive ใน Internet Explorer 10 หรือ Internet Explorer 11 ปุ่มนี้จะเข้ากันไม่ได้กับเว็บเบราว์เซอร์อื่น
+- เรียกดูตัวเลือกSharePoint OneDriveใน Internet Explorer 10หรือ Internet Explorer 11 ปุ่มนี้เข้ากันไม่ได้กับเว็บเบราว์เซอร์อื่นๆ
     
 > [!NOTE]
-> การเปิดไลบรารีใน File Explorer มีประโยชน์ในกรณีที่คุณต้องการคัดลอกหรือย้ายไฟล์และโฟลเดอร์หลายๆไฟล์แต่ถ้าคุณต้องการทำงานในไลบรารีเป็นประจำเราขอแนะนำให้ซิงค์ สำหรับความช่วยเหลือเพิ่มเติมและการแก้ไขปัญหาอื่นๆที่เปิดใน File Explorer ให้ดู[ที่เปิดใน Explorer](https://go.microsoft.com/fwlink/?linkid=871665) สำหรับข้อมูลเกี่ยวกับการตั้งค่าการซิงค์ให้ดู[ที่ซิงค์ไฟล์ SharePoint ด้วยไคลเอ็นต์การซิงค์ OneDrive ใหม่](https://go.microsoft.com/fwlink/?linkid=871666) 
+> การเปิดไลบรารีใน File Explorer มีประโยชน์ถ้าคุณต้องคัดลอกหรือย้ายไฟล์และโฟลเดอร์หลายรายการเพียงครั้งเดียว แต่ถ้าคุณต้องการใช้งานไลบรารีเป็นปกติ เราขอแนะนนะให้ซิงค์ หากต้องการความช่วยเหลือเพิ่มเติมและการแก้ไขปัญหาอื่นๆ ในการเปิดใน File Explorer [ให้ดู เปิดใน](https://go.microsoft.com/fwlink/?linkid=871665)Explorer For info about setting up sync, see [Sync SharePoint files with the new การซิงค์สําหรับ OneDrive client](https://go.microsoft.com/fwlink/?linkid=871666). 
   
 

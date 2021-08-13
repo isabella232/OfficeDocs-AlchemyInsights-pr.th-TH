@@ -1,5 +1,5 @@
 ---
-title: การติดตั้งและการอ้างอิงของทีม PS team
+title: Teams การติดตั้งและการอ้างอิงโมดูล PS
 ms.author: heidip
 author: heidip
 manager: serdards
@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "1787"
 - "9000212"
-ms.openlocfilehash: 34f2165d2914a178a5232f92c32c0dffd2f62b90
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 43eb15a49fe5f47aa524a6b3fd5cba39dfaa0bbb5e5c0643df90ae37b33dd1f4
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47735902"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53956570"
 ---
-# <a name="what-you-can-accomplish-with-microsoft-teams-powershell-module"></a>สิ่งที่คุณสามารถทำได้กับโมดูล PowerShell ของ Microsoft team
+# <a name="what-you-can-accomplish-with-microsoft-teams-powershell-module"></a>สิ่งที่คุณสามารถบรรลุได้ด้วยโมดูล Microsoft Teams PowerShell
 
-ถ้าคุณจำเป็นต้องรู้วิธีการติดตั้งโมดูลของทีม PowerShell คุณสามารถเช็คเอาท์ [บล็อกนี้](https://blogs.technet.microsoft.com/skypehybridguy/2017/11/07/microsoft-teams-powershell-support/)ได้
+ถ้าคุณต้องทราบวิธีติดตั้งโมดูล Teams PowerShell คุณสามารถดู[บล็อก](https://blogs.technet.microsoft.com/skypehybridguy/2017/11/07/microsoft-teams-powershell-support/)นี้
 
-สำหรับข้อมูลเพิ่มเติม:
+For more information:
 
-- ตรวจทาน[ภาพรวมของทีม PowerShell](https://docs.microsoft.com/MicrosoftTeams/teams-powershell-overview)เพื่อทำความเข้าใจเกี่ยวกับความ[สามารถของบทบาทผู้ดูแลระบบ](https://docs.microsoft.com/MicrosoftTeams/using-admin-roles)[สร้างและจัดการทีมผ่านทาง PowerShell](https://docs.microsoft.com/MicrosoftTeams/teams-powershell-overview#creating-and-managing-teams-via-powershell)และ[จัดการนโยบาย](https://docs.microsoft.com/MicrosoftTeams/teams-powershell-overview#managing-policies-via-powershell)หรือการ[กำหนดค่า](https://docs.microsoft.com/MicrosoftTeams/teams-powershell-overview#managing-configurations-via-powershell) 
-- ตรวจทานการ [อ้างอิงคำสั่งของ Microsoft Team PowerShell](https://docs.microsoft.com/powershell/module/teams/?view=teams-ps) สำหรับรายการคำสั่งที่พร้อมใช้งานผ่านทาง PowerShell 
+- ตรวจสอบ[Teams PowerShell](https://docs.microsoft.com/MicrosoftTeams/teams-powershell-overview)เพื่อ[เข้าใจความสามารถของบทบาท](https://docs.microsoft.com/MicrosoftTeams/using-admin-roles)ผู้ดูแลระบบ[สร้างและจัดการทีมผ่าน Powershell](https://docs.microsoft.com/MicrosoftTeams/teams-powershell-overview#creating-and-managing-teams-via-powershell)[และจัดการนโยบาย](https://docs.microsoft.com/MicrosoftTeams/teams-powershell-overview#managing-policies-via-powershell)[หรือการกําหนด](https://docs.microsoft.com/MicrosoftTeams/teams-powershell-overview#managing-configurations-via-powershell)ค่า 
+- ตรวจทานMicrosoft Teams[สั่ง PowerShell](https://docs.microsoft.com/powershell/module/teams/?view=teams-ps)ของคุณเพื่อดูรายการสั่งที่พร้อมใช้งานผ่านทาง PowerShell 

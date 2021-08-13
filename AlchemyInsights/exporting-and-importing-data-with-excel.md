@@ -1,5 +1,5 @@
 ---
-title: การส่งออกและนําเข้าข้อมูลด้วย Excel
+title: การส่งออกและนําเข้าข้อมูลด้วยExcel
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,21 +12,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000777"
 - "2718"
-ms.openlocfilehash: e06d88ce5d90e8b3eaf07c621ca62f64e0604fc2
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 6dc660d0b51a4bd104c25ee8315182eea6db3385e87034226dfc759b2f556728
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51813311"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53978036"
 ---
-# <a name="exporting-and-importing-data-with-excel"></a>การส่งออกและนําเข้าข้อมูลด้วย Excel
+# <a name="exporting-and-importing-data-with-excel"></a>การส่งออกและนําเข้าข้อมูลด้วยExcel
 
-For help with exporting data from Excel or importing data into Excel, review one or more of the following articles:
+For help with exporting data from Excel importing data into Excel, review one or more of the articles:
 
-- [ส่งออก Excel จาก SharePoint](https://support.office.com/client/bfb2ea48-6118-4fa9-abb6-cced9424e5d9)
+- [ส่งออกExcelจากSharePoint](https://support.office.com/client/bfb2ea48-6118-4fa9-abb6-cced9424e5d9)
 
-- [สร้างรายการโดยยึดตามสเปรดชีตใน SharePoint](https://support.office.com/article/Create-a-list-based-on-a-spreadsheet-380CFEB5-6E14-438E-988A-C2B9BEA574FA)
+- [สร้างรายการโดยยึดตามสเปรดชีตในSharePoint](https://support.office.com/article/Create-a-list-based-on-a-spreadsheet-380CFEB5-6E14-438E-988A-C2B9BEA574FA)
 
 - [ส่งออกข้อมูลจาก Access](https://support.office.com/client/64E974E6-AE43-4301-A53E-20463655B1A9)
 
-- [นําเข้าหรือส่งออกไฟล์ข้อความ (.txt หรือ .csv)](https://support.office.com/client/5250ac4c-663c-47ce-937b-339e391393ba)
+- [นําเข้าหรือส่งออกไฟล์ข้อความ (.txtหรือ.csv)](https://support.office.com/client/5250ac4c-663c-47ce-937b-339e391393ba)

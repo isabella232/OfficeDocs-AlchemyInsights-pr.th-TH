@@ -13,16 +13,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "7771"
 - "9004350"
-ms.openlocfilehash: 067e26184a5de81fe824c398d13659c41ed577c1
-ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
+ms.openlocfilehash: 09e5b7c40f77f6221acc7c072d3ddf6f072e8d7fafdf29be8262dfeed051dddd
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 03/10/2021
-ms.locfileid: "50708585"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53986100"
 ---
 # <a name="myapps-portal-issues"></a>ปัญหาพอร์ทัล MyApps
 
-เมื่อต้องการแก้ไขปัญหาที่คุณพบเมื่อลงชื่อเข้าใช้หรือใช้พอร์ทัล แอปของฉัน ให้ดู แก้ไขปัญหาเกี่ยวกับพอร์ทัล [แอป](https://docs.microsoft.com/azure/active-directory/user-help/my-apps-portal-end-user-troubleshoot)ของฉัน
+เมื่อต้องการแก้ไขปัญหาที่คุณพบเมื่อลงชื่อเข้าใช้หรือใช้พอร์ทัลแอปของฉัน [ให้ดู แก้ไขปัญหาเกี่ยวกับพอร์ทัลแอป](https://docs.microsoft.com/azure/active-directory/user-help/my-apps-portal-end-user-troubleshoot)ของฉัน
 
 **ฉันไม่เห็นแอปพลิเคชันที่ฉันคาดไว้บนแผงการเข้าถึงแอปพลิเคชัน**
 
@@ -40,23 +40,23 @@ ms.locfileid: "50708585"
 
 **ฉันพบปัญหาในการใช้โปรแกรมเสริมเบราว์เซอร์แผงการเข้าถึงแอปพลิเคชัน**
 
-เมื่อต้องการแก้ไขปัญหาเกี่ยวกับการใช้งานโปรแกรมเสริมเบราว์เซอร์แผงการเข้าถึงแอปพลิเคชัน ให้ดู:
+เมื่อต้องการแก้ไขปัญหาเกี่ยวกับการใช้งานส่วนขยายเบราว์เซอร์แผงการเข้าถึงแอปพลิเคชัน ให้ดู:
 
 [ฉันเห็นข้อผิดพลาดเมื่อติดตั้งส่วนขยายเบราว์เซอร์แผงการเข้าถึงแอปพลิเคชัน](https://docs.microsoft.com/azure/active-directory/application-access-panel-extension-problem-installing/)
 
 **ฉันมีปัญหากับฟีเจอร์บนแผงการเข้าถึงแอปพลิเคชัน**
 
-เมื่อต้องการแก้ไขปัญหาที่เกี่ยวข้องกับฟีเจอร์ที่ระบุบนแผงการเข้าถึงแอปพลิเคชัน ให้ดู:
+เมื่อต้องการแก้ไขปัญหาที่เกี่ยวข้องกับฟีเจอร์ที่เฉพาะเจาะจงบนแผงการเข้าถึงแอปพลิเคชัน ให้ดู:
 
-- [ฉันไม่ทราบวิธีการใช้การเข้าถึงแอปพลิเคชันแบบบริการตนเอง](https://docs.microsoft.com/azure/active-directory/manage-apps/access-panel-manage-self-service-access) 
+- [ฉันไม่ทราบวิธีการใช้การเข้าถึงแอปพลิเคชันด้วยตนเอง](https://docs.microsoft.com/azure/active-directory/manage-apps/access-panel-manage-self-service-access) 
 
-- [ฉันพบปัญหาเมื่อใช้การเข้าถึงแอปพลิเคชันแบบบริการตนเอง](https://docs.microsoft.com/azure/active-directory/manage-apps/access-panel-manage-self-service-access)
+- [ฉันพบปัญหาเมื่อใช้การเข้าถึงแอปพลิเคชันด้วยตนเอง](https://docs.microsoft.com/azure/active-directory/manage-apps/access-panel-manage-self-service-access)
     
 **ถ้าคุณพบปัญหาในการปรับใช้หรือใช้พอร์ทัลแอปของฉัน**
 
 เมื่อต้องการแก้ไขปัญหาที่คุณพบเมื่อปรับใช้หรือใช้พอร์ทัล MyApps ให้ดู:
 
-- [สร้างคอลเลกชันบนพอร์ทัลแอปของฉัน](https://docs.microsoft.com/azure/active-directory/manage-apps/access-panel-collections) 
+- [สร้างคอลเลกชันบนพอร์ทัล แอปของฉัน](https://docs.microsoft.com/azure/active-directory/manage-apps/access-panel-collections) 
     
 - [กําหนดค่าการมอบหมายแอปด้วยตนเอง](https://docs.microsoft.com/azure/active-directory/manage-apps/manage-self-service-access)
      

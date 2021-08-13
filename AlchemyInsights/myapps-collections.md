@@ -1,5 +1,5 @@
 ---
-title: คอลเลกชันแอปของฉัน
+title: คอลเลกชัน MyApps
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -13,19 +13,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "7772"
 - "9004350"
-ms.openlocfilehash: dd20838ccf49d07481c33b0c4266bdf00b6da4ef
-ms.sourcegitcommit: e378232f4c9ef4e962208100db752221e7bd2dd6
+ms.openlocfilehash: b662813b01dc1663daa525d913ece9bad06f824350e575888306d2ace222d0e7
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 01/20/2021
-ms.locfileid: "49917226"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53986172"
 ---
-# <a name="myapps-collections"></a>คอลเลกชันแอปของฉัน
+# <a name="myapps-collections"></a>คอลเลกชัน MyApps
 
-สำหรับข้อมูลเกี่ยวกับงานที่เกี่ยวข้องกับแอปของฉันคอลเลกชันให้ดูบทความต่อไปนี้:
+For information on tasks pertaining to MyApps collection, see the following articles:
 
-- [สร้างคอลเลกชันบนพอร์ทัลแอปของฉัน](https://docs.microsoft.com/azure/active-directory/manage-apps/access-panel-collections) -วิธีที่ผู้ดูแลระบบสามารถเปิดใช้งานและสร้างคอลเลกชันได้
+- [สร้างคอลเลกชันบนพอร์ทัลแอปของฉัน](https://docs.microsoft.com/azure/active-directory/manage-apps/access-panel-collections) - ผู้ดูแลระบบสามารถเปิดใช้งานและสร้างคอลเลกชันอย่างไร
 
-- [คอลเลกชันของผู้ใช้ (ตัวอย่าง) ในแอปของฉัน](https://docs.microsoft.com/azure/active-directory/user-help/my-apps-portal-user-collections) -วิธีการจัดการแอปคอลเลกชันของคุณ 
+- [คอลเลกชันของผู้ใช้ (ตัวอย่าง) ในแอป](https://docs.microsoft.com/azure/active-directory/user-help/my-apps-portal-user-collections) ของฉัน - วิธีจัดการคอลเลกชันแอปของคุณ 
 
-- [ใช้คอลเลกชันในพอร์ทัลแอปของฉัน](https://docs.microsoft.com/azure/active-directory/user-help/my-applications-portal-workspaces) -สำหรับคำแนะนำสำหรับผู้ใช้แอปของฉัน
+- [ใช้คอลเลกชันในพอร์ทัล แอปของฉัน](https://docs.microsoft.com/azure/active-directory/user-help/my-applications-portal-workspaces) - สําหรับแนวทางสําหรับผู้ใช้ MyApps

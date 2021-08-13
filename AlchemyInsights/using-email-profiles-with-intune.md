@@ -1,5 +1,5 @@
 ---
-title: การใช้โปรไฟล์อีเมลกับ Intune
+title: การใช้โปรไฟล์อีเมลด้วย Intuny
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,31 +13,31 @@ ms.collection: Adm_O365
 ms.custom:
 - "1559"
 - "9000076"
-ms.openlocfilehash: 92d91de5d369eb9d0ffde2580b75376035a6945b
-ms.sourcegitcommit: 483444ab35ab0e4d410d121562045efde47aa61a
+ms.openlocfilehash: b1653b73e7296e7eed411ae73c19342a1187b2eb7e287cff4339ea0ca32d75c1
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47653307"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53919442"
 ---
-# <a name="using-email-profiles-with-intune"></a>การใช้โปรไฟล์อีเมลกับ Intune
+# <a name="using-email-profiles-with-intune"></a>การใช้โปรไฟล์อีเมลด้วย Intuny
 
-Intune สามารถใช้ในการสร้างและปรับใช้โปรไฟล์อีเมลสำหรับไคลเอ็นต์อีเมลแบบดั้งเดิม (ภายใน) บนแพลตฟอร์มอุปกรณ์หลายเครื่อง
+Intuny สามารถใช้ในการสร้างและปรับใช้โปรไฟล์อีเมลของไคลเอ็นต์อีเมลภายใน (ที่มีอยู่แล้วภายใน) บนแพลตฟอร์มอุปกรณ์หลายแพลตฟอร์มได้
 
-สำหรับข้อมูลเกี่ยวกับข้อจำกัดบางประการที่เกี่ยวข้องกับโปรไฟล์อีเมลรวมถึงวิธีการจัดการการแสดงตนของโปรไฟล์ที่มีอยู่และวิธีการเอาโปรไฟล์อีเมลให้ดู[เพิ่มการตั้งค่าอีเมลไปยังอุปกรณ์โดยใช้ Intune](https://docs.microsoft.com/intune/email-settings-configure)
+For info about some of the restrictions associated with email profiles, including how the presence of existing profiles are handled and how to remove email profiles, see [Add email settings to devices using Intuny](https://docs.microsoft.com/intune/email-settings-configure).
 
-สำหรับข้อมูลเพิ่มเติมเกี่ยวกับวิธีการสร้างโปรไฟล์อีเมลสำหรับแต่ละแพลตฟอร์มอุปกรณ์ให้ดูที่:
+ดูข้อมูลเพิ่มเติมเกี่ยวกับวิธีการสร้างโปรไฟล์อีเมลของแต่ละแพลตฟอร์มอุปกรณ์ที่:
 
-[การตั้งค่าอุปกรณ์ Android เพื่อกำหนดค่าอีเมลการรับรองความถูกต้องและการซิงโครไนซ์ใน Intune](https://docs.microsoft.com/intune/email-settings-android)  
-[เพิ่มการตั้งค่าอีเมลสำหรับอุปกรณ์ iOS และ iPadOS ใน Microsoft Intune](https://docs.microsoft.com/intune/email-settings-ios)  
-[การตั้งค่าโปรไฟล์อีเมลใน Microsoft Intune สำหรับอุปกรณ์ที่ใช้ Windows Phone ๘.๑](https://docs.microsoft.com/intune/email-settings-windows-phone-8-1)  
-[การตั้งค่าโปรไฟล์อีเมลสำหรับอุปกรณ์ที่ใช้ Windows 10 ใน Microsoft Intune](https://docs.microsoft.com/intune/email-settings-windows-10)
+[การตั้งค่าอุปกรณ์ Android เพื่อกําหนดค่าอีเมล การรับรองความถูกต้อง และการซิงโครไนซ์ใน Intun1](https://docs.microsoft.com/intune/email-settings-android)  
+[เพิ่มการตั้งค่าอีเมลของอุปกรณ์ iOS และ iPadOS Microsoft Intune](https://docs.microsoft.com/intune/email-settings-ios)  
+[การตั้งค่าโปรไฟล์อีเมลMicrosoft Intuneอุปกรณ์ที่ใช้ Windows Phone 8.1](https://docs.microsoft.com/intune/email-settings-windows-phone-8-1)  
+[การตั้งค่าโปรไฟล์อีเมลของอุปกรณ์ที่ใช้Windows 10ในMicrosoft Intune](https://docs.microsoft.com/intune/email-settings-windows-10)
 
 **ปัญหาการซิงค์ทั่วไป**
 
-**โปรไฟล์อีเมลของ KNOX บน Android จะป้องกันไม่ให้ผู้ติดต่อของผู้ใช้ปฏิทินและงานของผู้ใช้ได้รับการซิงค์กับอุปกรณ์ของผู้ใช้**
+**KNOX บนโปรไฟล์อีเมล Android จะป้องกันไม่ให้ที่ติดต่อ ปฏิทิน และงานของผู้ใช้ซิงค์กับอุปกรณ์ของผู้ใช้ไม่ได้**
 
-โปรไฟล์อีเมล knox ของ Android ใน Android จะมีตัวเลือกในการตัดสินใจเลือกชนิดเนื้อหาที่จะซิงค์ไปยังอุปกรณ์โดยการตั้งค่าแต่ละรายการที่จะเปิดใช้งาน
+โปรไฟล์อีเมล KNOX บน Android KNOX มีตัวเลือกให้ผู้ดูแลระบบตัดสินใจว่าจะซิงค์ชนิดเนื้อหาใดกับอุปกรณ์โดยการตั้งค่าแต่ละชนิดเพื่อเปิดใช้งาน
 
-ถ้าการตั้งค่าสำหรับชนิดเนื้อหาใดๆถูกตั้งค่าเป็น **ไม่ได้กำหนดค่า** (ค่าเริ่มต้น) ชนิดเนื้อหานั้นจะไม่ถูกซิงค์โดยอัตโนมัติ ผู้ใช้อาจเปิดใช้งานชนิดเนื้อหาที่พวกเขาต้องการโดยตรงในอุปกรณ์ด้วยตนเองแต่การกำหนดค่าดังกล่าวจะถูกเขียนทับโดยการตั้งค่านโยบาย Intune และการหยุดการซิงค์สำหรับชนิดเนื้อหานั้น
+ถ้าการตั้งค่าของชนิดเนื้อหาใดๆ ถูกตั้งค่าเป็น **ไม่ได้กําหนดค่า** (ค่าเริ่มต้น) ชนิดเนื้อหานั้นจะไม่ถูกซิงค์โดยอัตโนมัติ ผู้ใช้อาจเปิดใช้งานชนิดเนื้อหาที่พวกเขาต้องการได้โดยตรงบนอุปกรณ์ด้วยตนเอง แต่การกําหนดค่าจะถูกเขียนทับโดยการตั้งค่านโยบาย Intun1 และการซิงค์จะหยุดการกําหนดค่าชนิดเนื้อหานั้น
 
