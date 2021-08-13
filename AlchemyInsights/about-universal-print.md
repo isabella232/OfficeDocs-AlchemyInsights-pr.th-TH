@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9005502"
 - "9434"
-ms.openlocfilehash: 90ecb6f7656e5f4f0a8c3da3692f0892f4829d10
-ms.sourcegitcommit: c9021d873950e378c927e39e179b5da4ff17b880
+ms.openlocfilehash: e3efbb37e28737c1cf1932abdf03b14f7b7bc295037ca0acc9602d8864b4a8ae
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 04/29/2021
-ms.locfileid: "52080000"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53955472"
 ---
 # <a name="about-universal-print"></a>เกี่ยวกับการพิมพ์ทั่วไป
 
-Universal Print มีการสมัครใช้งาน Microsoft 365 และ Windows 10 เชิงพาณิชย์และทางการศึกษา แต่ยังสามารถซื้อเป็นการสมัครใช้งานแบบสแตนด์อโลนได้
+Universal Print มีการสมัครใช้งานเชิงพาณิชย์Microsoft 365การศึกษา Windows 10 และแบบสแตนด์อโลน
 
 For more information, see [License Universal Print | เอกสาร Microsoft](https://docs.microsoft.com/universal-print/fundamentals/universal-print-license)
 

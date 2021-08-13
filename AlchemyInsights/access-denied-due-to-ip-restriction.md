@@ -1,5 +1,5 @@
 ---
-title: การเข้าถึงถูกปฏิเสธเนื่องจากข้อจำกัดของ IP
+title: การเข้าถึงถูกปฏิเสธเนื่องจากข้อจํากัด IP
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -15,14 +15,14 @@ ms.custom:
 - "6830"
 - "9000150"
 - "7303"
-ms.openlocfilehash: 4447bacc7784496f449f6f7577a13b562e51349d
-ms.sourcegitcommit: 0f42d1600b6845083f0273d14c1d9e59344e4371
+ms.openlocfilehash: fb316fad5d7550f4449312e2ed3bc418d504b405bf01cd8bf0a180bac10379d2
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 11/30/2020
-ms.locfileid: "49564893"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53955400"
 ---
-# <a name="access-denied-due-to-ip-restriction"></a>การเข้าถึงถูกปฏิเสธเนื่องจากข้อจำกัดของ IP
+# <a name="access-denied-due-to-ip-restriction"></a>การเข้าถึงถูกปฏิเสธเนื่องจากข้อจํากัด IP
 
-ในฐานะผู้ดูแลระบบ IT คุณสามารถควบคุมการเข้าถึงทรัพยากร SharePoint และ OneDrive ใน Microsoft ๓๖๕โดยยึดตามตำแหน่งที่ตั้งเครือข่ายที่กำหนดไว้ที่คุณเชื่อถือได้ ซึ่งเรียกว่านโยบายที่ยึดตามตำแหน่งที่ตั้ง สำหรับข้อมูลเพิ่มเติมให้ดู[ที่การควบคุมการเข้าถึงโดยยึดตามตำแหน่งบนเครือข่าย](https://docs.microsoft.com/sharepoint/control-access-based-on-network-location)
+ในฐานะผู้ดูแลระบบ IT คุณสามารถควบคุมการเข้าถึงแหล่งข้อมูลSharePoint OneDriveแหล่งข้อมูลMicrosoft 365ตามสถานที่ตั้งเครือข่ายที่คุณเชื่อถือ หรือเรียกอีกอย่างว่านโยบายตามสถานที่ ดูข้อมูลเพิ่มเติมที่ ควบคุม[การเข้าถึงโดยยึดตามสถานที่ตั้งเครือข่าย](https://docs.microsoft.com/sharepoint/control-access-based-on-network-location)
 

@@ -1,5 +1,5 @@
 ---
-title: การควบคุมปริมาณระหว่างการโยกย้าย SharePoint
+title: การควบคุมปริมาณระหว่างSharePointโยกย้าย
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
@@ -13,15 +13,15 @@ ms.custom:
 - "9000136"
 - "2968"
 ms.assetid: ''
-ms.openlocfilehash: 600ad6e9c8eb55d33885eed4d80afd0b4fc35099
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: eba2a11701decdfaad2460807f36fc9d5afc533329a24074dcf28b4fd6cd4ac9
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47690838"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53956174"
 ---
-# <a name="sharepoint-migration-throttling"></a>การควบคุมการโยกย้าย SharePoint
+# <a name="sharepoint-migration-throttling"></a>SharePointการควบคุมปริมาณการโยกย้าย
 
-SharePoint Online ใช้การควบคุมปริมาณเพื่อรักษาประสิทธิภาพการทำงานที่ดีที่สุดและความน่าเชื่อถือของบริการ SharePoint Online การควบคุมปริมาณจะจำกัดจำนวนการดำเนินการของผู้ใช้หรือการโทรที่พร้อมกัน (โดยสคริปต์หรือโค้ด) เพื่อป้องกันไม่ให้มีทรัพยากรมากเกินไป สำหรับข้อมูลเพิ่มเติมโปรดดู:
+SharePoint Online ใช้การควบคุมปริมาณเพื่อรักษาประสิทธิภาพและความน่าเชื่อถือที่ดีที่สุดของSharePointบริการออนไลน์ของคุณ การควบคุมจํานวนจะจํากัดจํานวนการกระทาของผู้ใช้หรือการโทรพร้อมกัน (ตามสคริปต์หรือโค้ด) เพื่อป้องกันการใช้ทรัพยากรมากเกินไป โปรดดูข้อมูลเพิ่มเติมที่:
 
-- [ฉันพบประสิทธิภาพการทำงานที่ไม่ดีหรือการควบคุมปริมาณระหว่างการโยกย้าย](https://docs.microsoft.com/sharepointmigration/sharepoint-online-and-onedrive-migration-speed#faq-and-troubleshooting)
+- [ฉันประสบปัญหาประสิทธิภาพการโยกย้ายไม่ดีหรือการควบคุมปริมาณในระหว่างการโยกย้าย](https://docs.microsoft.com/sharepointmigration/sharepoint-online-and-onedrive-migration-speed#faq-and-troubleshooting)

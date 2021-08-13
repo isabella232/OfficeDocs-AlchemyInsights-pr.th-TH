@@ -1,5 +1,5 @@
 ---
-title: Project Web App หายไปจากไซต์คอลเลกชัน SharePoint
+title: Project Web AppหายไปSharePointไซต์คอลเลกชันของคุณ
 ms.author: pebaum
 author: pebaum
 manager: pamg
@@ -13,16 +13,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "1777"
 - "9000207"
-ms.openlocfilehash: 5b699130b7896c12b757f10356072281b49766ef
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 82487c13bfc763387d3f433f31e4dc895d6ce3c04f6d8b6426e999a8b5f4b79f
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47801599"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53973104"
 ---
-# <a name="project-web-app-is-missing-from-the-sharepoint-site-collection"></a>Project Web App หายไปจากไซต์คอลเลกชัน SharePoint
+# <a name="project-web-app-is-missing-from-the-sharepoint-site-collection"></a>Project Web AppหายไปจากSharePointไซต์ของคุณ
 
-Project Web App อาจหายไปจากไซต์คอลเลกชัน SharePoint เนื่องจากสาเหตุต่อไปนี้:
+Project Web AppอาจหายไปจากSharePointไซต์ของคุณเนื่องจากสาเหตุต่อไปนี้
 
-1. องค์กรมีการให้สิทธิ์การใช้งานสิ่งจำเป็นสำหรับ Project Online เท่านั้น ผู้ดูแลระบบจะต้องเพิ่มสิทธิ์การใช้งาน Project Online และ/หรือสิทธิ์การใช้งานพิเศษ ไซต์จะออกจากแบบอ่านอย่างเดียวที่จุดนั้น สำหรับข้อมูลเพิ่มเติมให้ดูที่[เปรียบเทียบโซลูชันการจัดการโครงการ](https://products.office.com/project/compare-microsoft-project-management-software?tab=1)
-2. ผู้เช่าพบปัญหาการเตรียมใช้งานที่การเตรียมใช้งานไซต์ Project Web App ล่าช้า ถ้ามีการส่งผ่านตลอด24ชั่วโมงและคุณยังพบปัญหาอยู่โปรดเข้าสู่ระบบบัตรสนับสนุน เราเข้าใจว่า24ชั่วโมงอาจดูเหมือนเป็นเวลานาน ในหลายกรณีเรากำลังทำงานกับโซลูชันอยู่แล้ว โปรดแจ้งให้เราทราบอย่างน้อย24ชั่วโมงเพื่อให้โซลูชันเสร็จสมบูรณ์
+1. องค์กรProject Online Essentialsสิทธิ์การใช้งานของคุณเท่านั้น ผู้ดูแลระบบจะต้องเพิ่มสิทธิ์การใช้งาน Project Online Professional และ/หรือ Premium ใหม่ ไซต์จะออกจากแบบอ่านอย่างเดียวณ จุดนั้น ดูข้อมูลเพิ่มเติมได้ที่ เปรียบเทียบ[โซลูชันProjectการจัดการข้อมูล](https://products.office.com/project/compare-microsoft-project-management-software?tab=1)
+2. ผู้เช่าพบปัญหาการเตรียมใช้งานซึ่งการเตรียมใช้งานProject Web Appไซต์ของคุณมีการหน่วงเวลา หากเวลาผ่านไปมากกว่า 24 ชั่วโมงแล้วและคุณยังประสบปัญหาอยู่ โปรดบันทึกตั๋วการสนับสนุน เราเข้าใจว่าเวลา 24 ชั่วโมงอาจดูเป็นเวลานาน ในหลายกรณี เราแก้ไขปัญหาเรียบร้อยแล้ว โปรดให้เวลาเราอย่างน้อย 24 ชั่วโมงเพื่อแก้ไขปัญหาให้เสร็จสิ้น

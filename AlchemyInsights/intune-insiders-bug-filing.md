@@ -1,5 +1,5 @@
 ---
-title: การยื่นข้อบกพร่องของ Intune Insider
+title: การยื่นข้อบกพร่อง Intun1 Insider
 ms.author: mandia
 author: mandia
 manager: dougeby
@@ -13,20 +13,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "2402"
 - "9000348"
-ms.openlocfilehash: 8d3cc3121786abc891237a6807719802dc72adee
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 574a83a97a58d44f2bef66c9caaa16479b085269fc2f9dbf729a23ca8d37bba6
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47667645"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53925940"
 ---
-# <a name="intune-insider-bug-filing"></a>การยื่นข้อบกพร่องของ Intune Insider
+# <a name="intune-insider-bug-filing"></a>การยื่นข้อบกพร่อง Intun1 Insider
 
-ขอขอบคุณสำหรับความสนใจของคุณในโปรแกรมแบบ insider ของ Intune ถ้าคุณ onboarded สำหรับโปรแกรม insider ของ Intune อยู่แล้วและจำเป็นต้องส่งคำขอการสนับสนุนจากนั้นให้ทำดังนี้
+ขอบคุณที่คุณให้ความสนใจในโปรแกรม Intuns Insider ถ้าคุณออนบอร์ดอยู่แล้วในโปรแกรม Intuned Insider และต้องส่งการร้องขอการสนับสนุน ให้:
 
-1. อธิบายปัญหาของคุณในเขตข้อมูลด้านบน
-2. สร้างคำขอบริการใหม่โดยใช้ตัวเลือกด้านล่าง
+1. อธิบายปัญหาของคุณในฟิลด์ด้านบน
+2. สร้างการร้องขอบริการใหม่โดยใช้ตัวเลือกด้านล่าง
 
-วิศวกรฝ่ายสนับสนุนของ Intune จะติดต่อคุณ
+วิศวกรฝ่ายสนับสนุน Intun1 จะติดต่อคุณ
 
-ถ้าคุณไม่ได้อยู่ในโปรแกรมแบบ insider ของ Intune ขอขอบคุณสำหรับความสนใจของคุณ ขณะนี้เรายังไม่ได้รับการสรรหาผู้เข้าร่วมใหม่
+หากคุณไม่ได้อยู่ในโปรแกรม Intun1 Insider ขอบคุณที่ให้ความสนใจ ขณะนี้เราไม่ได้จัดหาพนักงานผู้เข้าร่วมใหม่

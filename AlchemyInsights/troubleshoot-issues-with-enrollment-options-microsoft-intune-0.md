@@ -1,5 +1,5 @@
 ---
-title: แก้ไขปัญหาเกี่ยวกับตัวเลือกการลงทะเบียน Microsoft Intun1
+title: แก้ไขปัญหาเกี่ยวกับตัวเลือกการลงทะเบียนMicrosoft Intune
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,14 +13,14 @@ ms.assetid: 3891bd0c-374c-49aa-9336-86caccb9639e
 ms.custom:
 - "786"
 - "6200002"
-ms.openlocfilehash: 84159de0f29782d3c2a6a92ac77322e4bec525dd
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 2328e04497102fbc471b8138bcb734f4f3e07131621ea57599330ffdf545ab1d
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51830925"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53981024"
 ---
-# <a name="troubleshoot-issues-with-enrollment-options-microsoft-intune"></a>แก้ไขปัญหาเกี่ยวกับตัวเลือกการลงทะเบียน Microsoft Intun1
+# <a name="troubleshoot-issues-with-enrollment-options-microsoft-intune"></a>แก้ไขปัญหาเกี่ยวกับตัวเลือกการลงทะเบียนMicrosoft Intune
 
 ตรวจสอบแหล่งข้อมูลที่แสดงอยู่ด้านล่างเพื่อแก้ไขปัญหาของคุณทันที
   
@@ -30,4 +30,4 @@ ms.locfileid: "51830925"
 
 - ตรวจทาน [เอกสาร](https://docs.microsoft.com/troubleshoot/mem/intune/troubleshoot-device-enrollment-in-intune) นี้เพื่อดูรายการข้อผิดพลาดทั่วไปที่ป้องกันไม่ให้ลงทะเบียนและแก้ไขปัญหาในแต่ละรายการ
 
-- [เรียนรู้เกี่ยวกับตัวเลือกการลงทะเบียนใน Microsoft Intun1](https://docs.microsoft.com/intune/enrollment-options)
+- [เรียนรู้เกี่ยวกับตัวเลือกการลงทะเบียนMicrosoft Intune](https://docs.microsoft.com/intune/enrollment-options)
