@@ -14,13 +14,13 @@ ms.custom:
 - "9000768"
 - "9002385"
 - "4645"
-ms.openlocfilehash: f2342e99544f475b24181e0571ccd0a7c6fdc8b0
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: dde5238e6185fe991a16bdbf16f5ca8ee25e813f7159103f4efbba2d2cd9d7c5
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51825030"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53940982"
 ---
-# <a name="fix-messages-that-are-stuck-in-the-outbox-with-sara"></a>แก้ไขข้อความที่ค้างอยู่ในกล่องจดหมายออกด้วย SaRA
+# <a name="fix-messages-that-are-stuck-in-the-outbox-with-sara"></a>แก้ไขข้อความที่ค้างอยู่ในกล่องจดหมายออกSaRA
 
-เราขอแนะให้เริ่มต้นโดยการเรียกใช้สถานการณ์สมมติ ["](https://aka.ms/SaRA-OutlookSendReceive) ฉันพบปัญหาในการส่ง การรับ หรือการค้นหาข้อความอีเมล" บนเครื่องที่มีผลจากเครื่องมือตัวช่วยการสนับสนุนและการกู้คืน [(SaRa)](https://diagnostics.office.com/#/) ของ Microsoft
+เราขอแนะให้คุณเริ่มต้นด้วยการเรียกใช้สถานการณ์สมมติ["](https://aka.ms/SaRA-OutlookSendReceive)ฉันพบปัญหาในการส่ง การรับ หรือการค้นหาข้อความอีเมล" บนเครื่องที่มีผลจากเครื่องมือ[Microsoft ตัวช่วยการสนับสนุนและการกู้คืน (SaRa)](https://diagnostics.office.com/#/)

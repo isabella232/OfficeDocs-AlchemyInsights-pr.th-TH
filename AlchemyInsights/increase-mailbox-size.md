@@ -13,20 +13,20 @@ ms.custom:
 - "556"
 - "3500006"
 ms.assetid: 33641df2-fc29-493f-a6c6-2777d8b4ef11
-ms.openlocfilehash: 10e069f3fcd6338705a01ab9dd15574c81f88572
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: d6fd683253dbf6c34a3cea61df2dd3387d8642a409682019aa62ef3b619e84aa
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51830232"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53913157"
 ---
 # <a name="switch-subscriptions-to-increase-mailbox-size"></a>สลับการสมัครใช้งานเพื่อเพิ่มขนาดกล่องจดหมาย
 
 ถ้าขนาดกล่องจดหมายของคุณมีขนาด 100 GB อยู่แล้ว จะไม่มีวิธีใดที่จะเพิ่มขนาด
   
-ถ้าขนาดกล่องจดหมายคือ 50 GB คุณสามารถเพิ่มเป็น 100 GB ได้โดยการสลับเป็น[Office 365 Enterprise E3](https://products.office.com/business/office-365-enterprise-e3-business-software)หรือ[Office 365 Enterprise E5](https://products.office.com/business/office-365-enterprise-e5-business-software) ต่อไปนี้เป็นขั้นตอนในการสลับไปยังการสมัครใช้งานอื่น:
+ถ้าขนาดกล่องจดหมายคือ 50 GB คุณสามารถเพิ่มเป็น 100 GB โดยการสลับOffice 365 Enterprise [E3](https://products.office.com/business/office-365-enterprise-e3-business-software)หรือ[Office 365 Enterprise E5](https://products.office.com/business/office-365-enterprise-e5-business-software) ต่อไปนี้เป็นขั้นตอนในการสลับไปยังการสมัครใช้งานอื่น:
   
-1. ในศูนย์การจัดการ Microsoft 365 ให้ไปที่ **หน้า** \> **[การเรียกเก็บเงินผลิตภัณฑ์](https://go.microsoft.com/fwlink/p/?linkid=842054)** ของคุณ
+1. ในหน้า ศูนย์การจัดการ Microsoft 365ไปที่ **หน้า** \> **[การเรียกเก็บเงินผลิตภัณฑ์](https://go.microsoft.com/fwlink/p/?linkid=842054)** ของคุณ
 
 2. เลือกการสมัครใช้งานที่คุณต้องการอัปเกรด
 

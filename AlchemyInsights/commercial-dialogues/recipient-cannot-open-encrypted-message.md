@@ -1,5 +1,5 @@
 ---
-title: แก้ไขปัญหาการดูข้อความที่ได้รับการป้องกันใน Outlook
+title: แก้ไขปัญหาการดูข้อความที่ได้รับการป้องกันในOutlook
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -13,27 +13,27 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000078"
 - "7342"
-ms.openlocfilehash: 3ed8f26a7745ab11282f4f52ad7dc5c84885227b
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 5719e86596dc8e5755e141b5dddee40511875ba78c23c6529a131e9cab118fc8
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50750071"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53967172"
 ---
-# <a name="fix-problem-of-viewing-protected-message-in-outlook"></a>แก้ไขปัญหาการดูข้อความที่ได้รับการป้องกันใน Outlook
+# <a name="fix-problem-of-viewing-protected-message-in-outlook"></a>แก้ไขปัญหาการดูข้อความที่ได้รับการป้องกันในOutlook
 
-ถ้าผู้รับมีปัญหาในการเปิดข้อความที่เข้ารหัสลับ ตรวจสอบให้แน่ใจว่าผู้รับคลิกลิงก์ในข้อความเพื่อขอรหัสผ่านแบบใช้ครั้งแรก
+ถ้าผู้รับมีปัญหาในการเปิดข้อความที่เข้ารหัสลับ ตรวจสอบให้แน่ใจว่าผู้รับคลิกลิงก์ในข้อความเพื่อขอรหัสผ่านแบบใช้เวลาเดียว
 
 เมื่อต้องการเปิดข้อความที่เข้ารหัสลับ ผู้ใช้ต้องปฏิบัติตามขั้นตอนต่อไปนี้
 
-1. ขึ้นอยู่กับไคลเอ็นต์อีเมลที่ใช้ ให้คลิก **อ่านข้อความ** หรือพร้อมท์ที่คล้ายกัน The users are redirected to a page where they can sign in and receive a single-use code.
+1. คลิก อ่านข้อความหรือพร้อมท์ที่คล้ายกัน โดย **ขึ้นอยู่กับไคลเอ็นต์** อีเมลที่ใช้ ผู้ใช้จะถูกเปลี่ยนเส้นทางไปยังหน้าที่สามารถลงชื่อเข้าใช้และรับรหัสแบบใช้ครั้งเดียวได้
 
 > [!NOTE]
-> ผู้ใช้ Gmail พวกเขาจะถูกขอให้ลงชื่อเข้าใช้ด้วย Gmail ข้อความจะเปิดขึ้นในแท็บใหม่ **หลังจากคลิก** อนุญาต
+> ผู้ใช้ Gmail จะถูกขอให้ลงชื่อเข้าใช้ด้วย Gmail ข้อความจะเปิดขึ้นในแท็บใหม่หลังจาก **คลิก** อนุญาต
 
-2. ตรวจสอบอีเมลของคุณหารหัสแบบใช้ครั้งเดียว แล้วใส่รหัสนั้นในหน้าต่างเบราว์เซอร์
+2. ตรวจสอบอีเมลของคุณหารหัสแบบใช้ครั้งเดียว แล้วป้อนรหัสนั้นในหน้าต่างเบราว์เซอร์
 
-3. คลิก **อ่าน** ข้อความต่อไป
+3. คลิก **Continue** เพื่ออ่านข้อความ
 
 For more information, see [Send, view, and reply to encrypted messages in Outlook for PC](https://support.microsoft.com/topic/send-view-and-reply-to-encrypted-messages-in-outlook-for-pc-eaa43495-9bbb-4fca-922a-df90dee51980).
 

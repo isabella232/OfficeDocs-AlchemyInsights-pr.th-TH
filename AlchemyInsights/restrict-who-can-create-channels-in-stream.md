@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002650"
 - "5102"
-ms.openlocfilehash: ae7304aaa36acf91796a9c18bce220a7ee523d36
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: fa3bf364e6303c9abcd627ee5582e88538d93b36944c2b5e5a6e1bedeee630cc
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51809278"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53958713"
 ---
 # <a name="restrict-who-can-create-channels-in-microsoft-stream"></a>จํากัดบุคคลที่สามารถสร้างแชนเนลใน Microsoft Stream
 
-ในฐานะองค์กร คุณอาจต้องการจํากัดผู้ที่สามารถอัปโหลดสร้างแชนเนลทั่วทั้งองค์กรใน Stream ได้ ตามค่าเริ่มต้น ทุกคนสามารถสร้างแชนเนลทั้งองค์กรได้ สำหรับข้อมูลเพิ่มเติม ให้ดูที่
+ในฐานะองค์กร คุณอาจต้องการจํากัดผู้ที่สามารถอัปโหลดสร้างแชนเนลทั่วทั้งองค์กรใน Stream ได้ ตามค่าเริ่มต้น ทุกคนสามารถสร้างแชนเนลทั้งองค์กรได้ สำหรับข้อมูลเพิ่มเติม ให้ดู:
 
 - [จํากัดบุคคลที่สามารถสร้างแชนเนลทั่วทั้งองค์กรใน Microsoft Stream](https://docs.microsoft.com/stream/restrict-companywide-channels)

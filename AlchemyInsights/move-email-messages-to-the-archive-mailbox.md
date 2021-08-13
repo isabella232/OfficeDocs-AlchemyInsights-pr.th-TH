@@ -13,28 +13,28 @@ ms.custom:
 - "1083"
 - "3100008"
 ms.assetid: 59cd8630-6196-4680-ad92-1ce0e479f924
-ms.openlocfilehash: 61d0b1a58fff6655b745bb9d39e8384f0a543336
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 7e72766f441e210a81fcfd6c07b1801f6c0474afb02a70edf2ad8dbb571f3d2a
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47799799"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53974976"
 ---
 # <a name="move-email-to-the-archive-mailbox"></a>ย้ายอีเมลไปยังกล่องจดหมายเก็บถาวร
 
-ถ้าคุณต้องการให้เราเรียกใช้การตรวจสอบโดยอัตโนมัติสำหรับการตั้งค่าที่ระบุไว้ด้านล่างให้เลือกปุ่มย้อนกลับ <-ที่ด้านบนสุดของหน้านี้แล้วใส่ที่อยู่อีเมลของผู้ใช้ที่มีปัญหาในการย้ายอีเมลไปยังกล่องจดหมายเก็บถาวรของพวกเขา
+ถ้าคุณต้องการให้เราเรียกใช้การตรวจสอบการตั้งค่าที่กล่าวถึงด้านล่างโดยอัตโนมัติ ให้เลือกปุ่ม ย้อนกลับ < ที่ด้านบนของหน้านี้ แล้วใส่ที่อยู่อีเมลของผู้ใช้ที่มีปัญหาในการย้ายอีเมลไปยังกล่องจดหมายเก็บถาวรของพวกเขา
 
-1. ยืนยันว่า **กล่องจดหมายเก็บถาวร** ถูกเปิดใช้งานแล้ว ถ้าไม่ใช่ให้ใช้ขั้นตอนใน [บทความนี้](https://docs.microsoft.com/microsoft-365/compliance/enable-archive-mailboxes) เพื่อเปิดใช้งานกล่องจดหมายเก็บถาวร
+1. ยืนยันว่าได้ **เปิดใช้งานกล่องจดหมาย** เก็บถาวรแล้ว ถ้าไม่ ให้ใช้ขั้นตอน [ในบทความนี้เพื่อ](https://docs.microsoft.com/microsoft-365/compliance/enable-archive-mailboxes) เปิดใช้งานกล่องจดหมายเก็บถาวร
 
-2. เมื่อต้องการเก็บถาวรข้อความโดยอัตโนมัติไปยังกล่องจดหมายเก็บถาวรแท็กการเก็บข้อมูลที่มีการดำเนินการ**ย้ายไปยังการเก็บถาวร**ต้องถูกตั้งค่าให้**นำไปใช้โดยอัตโนมัติไปยังแท็กกล่องจดหมาย (ค่าเริ่มต้น) ทั้งหมด** ใช้ขั้นตอนต่อไปนี้เพื่อสร้างแท็ก:[แท็กเริ่มต้นของการเก็บถาวร](https://docs.microsoft.com/microsoft-365/compliance/set-up-an-archive-and-deletion-policy-for-mailboxes#create-a-custom-archive-default-policy-tag)
+2. เมื่อต้องการเก็บข้อความถาวรโดยอัตโนมัติไปยังกล่องจดหมายเก็บถาวร แท็กการเก็บข้อมูลที่มีการตั้งค่าการแอคชัน ย้ายไปยังการเก็บถาวร จะต้องตั้งค่าให้ใช้กับแท็ก กล่องจดหมายทั้งหมด **(ค่าเริ่มต้น)** โดยอัตโนมัติ ใช้ขั้นตอนที่นี่เพื่อสร้างแท็ก: แท็ก [เก็บถาวร](https://docs.microsoft.com/microsoft-365/compliance/set-up-an-archive-and-deletion-policy-for-mailboxes#create-a-custom-archive-default-policy-tag)เริ่มต้น
 
-3. ถัดไปให้เพิ่มแท็ก **เก็บถาวร** ลงในนโยบายการเก็บข้อมูลของคุณ ในศูนย์การจัดการ Exchange ให้เลือก**นโยบายการเก็บข้อมูล**> เพิ่ม**แท็กย้ายไปยังการเก็บถาวร**ในนโยบาย >**บันทึก**
+3. ถัดไป ให้เพิ่ม **แท็ก** เก็บถาวร ลงในนโยบายการเก็บข้อมูล In the Exchange admin center, choose **Retention Policies** > the Move to **Archive tag** to the policy > **Save**.
 
-4. ในตอนนี้ให้ [กำหนดนโยบายการเก็บข้อมูล](https://docs.microsoft.com/exchange/security-and-compliance/messaging-records-management/apply-retention-policy) ให้กับกล่องจดหมายของผู้ใช้ที่ระบุ นโยบายเดียวกันจะถูกนำไปใช้กับทั้งกล่องจดหมาย**หลัก**และกล่องจดหมาย**เก็บถาวร**
+4. [ในตอนนี้ ให้กําหนด](https://docs.microsoft.com/exchange/security-and-compliance/messaging-records-management/apply-retention-policy)นโยบายการเก็บข้อมูลให้กับกล่องจดหมายของผู้ใช้ที่ระบุ นโยบายเดียวกันนี้จะถูกปรับใช้กับทั้ง **กล่องจดหมาย** หลักและ **กล่องจดหมาย** เก็บถาวร
 
-คุณอาจจำเป็นต้องบังคับใช้ตัวช่วยสร้างโฟลเดอร์ที่มีการจัดการ (MFA) เพื่อเรียกใช้และนำการตั้งค่าใหม่ไปใช้กับกล่องจดหมายของผู้ใช้ เรียกใช้คำสั่งต่อไปนี้ในขณะ [ที่เชื่อมต่อกับ EXO PowerShell](https://docs.microsoft.com/powershell/exchange/exchange-online/connect-to-exchange-online-powershell/connect-to-exchange-online-powershell?view=exchange-ps) เพื่อเริ่มต้นตัวช่วยสร้างโฟลเดอร์ที่มีการจัดการสำหรับกล่องจดหมายที่เฉพาะเจาะจง:
+อาจจําเป็นต้องบังคับให้ตัวช่วยโฟลเดอร์ที่มีการจัดการ (MFA) เรียกใช้และปรับใช้การตั้งค่าใหม่กับกล่องจดหมายของผู้ใช้ เรียกใช้สั่งต่อไปนี้ [ขณะเชื่อมต่อกับ EXO PowerShell](https://docs.microsoft.com/powershell/exchange/exchange-online/connect-to-exchange-online-powershell/connect-to-exchange-online-powershell?view=exchange-ps) เพื่อเริ่มตัวช่วยจัดการโฟลเดอร์ของกล่องจดหมายที่ระบุ:
   
-เริ่มต้น-ManagedFolderAssistant-ข้อมูลประจำตัว <name of the mailbox>
+Start-ManagedFolderAssistant -Identity <name of the mailbox>
 
-สำหรับข้อมูลเพิ่มเติมเกี่ยวกับการตั้งค่านโยบายการเก็บถาวรให้ดู[ที่ตั้งค่านโยบายการเก็บถาวรและการลบสำหรับกล่องจดหมาย](https://docs.microsoft.com/microsoft-365/compliance/set-up-an-archive-and-deletion-policy-for-mailboxes#step-1-enable-archive-mailboxes-for-users)
+For more information on setting up an archive policy, [see Set up an archive and deletion policy for mailboxes](https://docs.microsoft.com/microsoft-365/compliance/set-up-an-archive-and-deletion-policy-for-mailboxes#step-1-enable-archive-mailboxes-for-users).
   
