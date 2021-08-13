@@ -12,21 +12,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002354"
 - "4581"
-ms.openlocfilehash: faf454882ecc0ddff7832c10525f0c324e7c003f
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 9d14c7fa063efed6ed65061a76f3e818b675fc3d470fce0e4ecc9fb5aa247a30
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51808297"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53980268"
 ---
 # <a name="use-whiteboard-with-microsoft-365"></a>ใช้ Whiteboard กับ Microsoft 365
 
-Microsoft Whiteboard คือพื้นที่ดิจิทัลอิสระที่บุคคล เนื้อหา และความคิดมารวมกัน 
+เนื้อหาMicrosoft Whiteboardคือพื้นที่ดิจิทัลรูปแบบอิสระที่บุคคล เนื้อหา และความคิดมารวมกัน 
 
-- [เปิดใช้งาน Whiteboard](https://support.office.com/article/d236aef8-fcdf-4b5e-b5d7-7f157461e920#bkmk_07) ในฐานะผู้ดูแลระบบ Microsoft 365 
+- [เปิดใช้งาน Whiteboard](https://support.office.com/article/d236aef8-fcdf-4b5e-b5d7-7f157461e920#bkmk_07) Microsoft 365ผู้ดูแลระบบ 
 
-- ใช้[ไวท์บอร์ด กับ Microsoft Teams](https://support.microsoft.com/office/7a6e7218-e9dc-4ccc-89aa-b1a0bb9c31ee) 
+- ใช้[Whiteboard Microsoft Teams](https://support.microsoft.com/office/7a6e7218-e9dc-4ccc-89aa-b1a0bb9c31ee) 
 
 - [การ](https://support.office.com/article/d236aef8-fcdf-4b5e-b5d7-7f157461e920#bkmk_27) ร่วมมือกันกับผู้อื่นบน Whiteboard 
 
-ดูข้อมูลเพิ่มเติมได้ที่ วิธีใช้[Microsoft Whiteboard](https://support.office.com/article/d236aef8-fcdf-4b5e-b5d7-7f157461e920) 
+ดูข้อมูลเพิ่มเติมได้ที่[Microsoft Whiteboardวิธีใช้](https://support.office.com/article/d236aef8-fcdf-4b5e-b5d7-7f157461e920) 

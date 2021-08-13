@@ -13,20 +13,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "6039"
 - "9003111"
-ms.openlocfilehash: f417117acac4c3040932fc0a35e5d0b1c3709cd5
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 57e7e6328747fc05b89799d631b2c6d7e0056547253aa3d75cdecb38cea3ad7e
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47664189"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53918956"
 ---
 # <a name="about-identity-in-yammer"></a>เกี่ยวกับข้อมูลเฉพาะตัวใน Yammer
 
-ขอแนะนำว่าเครือข่ายทั้งหมดจะทำตามขั้นตอนต่อไปนี้เพื่อหลีกเลี่ยงปัญหาที่เกี่ยวข้องกับข้อมูลเฉพาะตัว:
+เราแนะนนะให้ทุกเครือข่ายปฏิบัติตามขั้นตอนต่อไปนี้เพื่อหลีกเลี่ยงปัญหาที่เกี่ยวข้องกับข้อมูลเฉพาะตัว
 
-1. บังคับใช้ข้อมูลประจำตัวของ Office ๓๖๕หลังจากการเตรียมใช้งานบัญชีผู้ใช้ Microsoft ๓๖๕สำหรับผู้ใช้ใน Azure AD เพื่อให้แน่ใจว่าผู้ใช้ทั้งหมดลงชื่อเข้าใช้โดยใช้บัญชีผู้ใช้ Microsoft ๓๖๕หลักของพวกเขา สำหรับข้อมูลเพิ่มเติมให้ดูที่[บังคับใช้ข้อมูลประจำตัวของ Office ๓๖๕สำหรับผู้ใช้ Yammer](https://docs.microsoft.com/yammer/configure-your-yammer-network/enforce-office-365-identity)
-2. รวมเครือข่าย Yammer หลายเครือข่าย การกำหนดค่า Yammer ดั้งเดิมอนุญาตให้เครือข่าย Yammer หลายเครือข่ายเชื่อมต่อกับผู้เช่าหนึ่งราย สำหรับข้อมูลเพิ่มเติมให้ดูที่การ[โยกย้ายเครือข่ายรวมเครือข่าย Yammer หลายเครือข่าย](https://docs.microsoft.com/yammer/configure-your-yammer-network/consolidate-multiple-yammer-networks)
-3. อีกวิธีหนึ่งคือบังคับให้มีสิทธิ์การใช้งานสำหรับ Yammer เพื่อบล็อกผู้ใช้จาก Yammer ถ้าพวกเขาไม่มีสิทธิ์การใช้งาน สำหรับข้อมูลเพิ่มเติมให้ดู[ที่จัดการสิทธิ์การใช้งานของผู้ใช้ Yammer ใน Office ๓๖๕](https://docs.microsoft.com/yammer/manage-yammer-users/manage-yammer-licenses-in-office-365)
-4. สุดท้ายให้ตรวจสอบรายชื่อผู้ใช้สำหรับเครือข่าย Yammer รุ่นเก่าและหยุดผู้ใช้แบบดั้งเดิม ขอแนะนำให้คุณระงับ (ปิดใช้งาน) ผู้ใช้แทนที่จะลบออกเนื่องจากการลบจะไม่สามารถย้อนกลับได้ สำหรับข้อมูลเพิ่มเติมให้ดูการ[ตรวจสอบผู้ใช้ Yammer ในเครือข่ายที่เชื่อมต่อกับ Office ๓๖๕](https://docs.microsoft.com/yammer/manage-yammer-users/audit-users-connected-to-office-365)และ[เอาผู้ใช้ออก](https://docs.microsoft.com/yammer/manage-yammer-users/add-block-or-remove-users#remove-users)
+1. บังคับใช้Office 365ของผู้ใช้หลังจากเตรียมใช้งานMicrosoft 365บัญชีหลักของผู้ใช้ใน Azure AD เพื่อให้แน่ใจว่าผู้ใช้ทั้งหมดลงชื่อเข้าใช้โดยใช้บัญชีหลักMicrosoft 365ของพวกเขา For more info, see [Enforce Office 365 identity for Yammer users](https://docs.microsoft.com/yammer/configure-your-yammer-network/enforce-office-365-identity).
+2. รวมเครือข่ายYammerหลายเครือข่าย การกําหนดYammerดั้งเดิมจะอนุญาตให้Yammerหลายเครือข่ายสามารถเชื่อมต่อกับผู้เช่าเดียวได้ For more info, see [Network migration - Consolidated multiple Yammer networks](https://docs.microsoft.com/yammer/configure-your-yammer-network/consolidate-multiple-yammer-networks).
+3. หรือ บังคับใช้การให้สิทธิ์การใช้งานYammerบล็อกผู้ใช้Yammerหรือไม่ก็ได้ ถ้าพวกเขาไม่มีสิทธิ์การใช้งาน For more info, see [Manage Yammer user licenses in Office 365](https://docs.microsoft.com/yammer/manage-yammer-users/manage-yammer-licenses-in-office-365).
+4. สุดท้าย ตรวจสอบรายชื่อผู้ใช้ของเครือข่ายเวอร์ชันYammerและระงับผู้ใช้แบบดั้งเดิม ขอแนะนให้คุณระงับ (ปิดใช้งาน) ผู้ใช้แทนการลบ เนื่องจากการลบไม่สามารถย้อนกลับได้ For more info, see [Audit Yammer users in networks connected to Office 365](https://docs.microsoft.com/yammer/manage-yammer-users/audit-users-connected-to-office-365) and Remove [users](https://docs.microsoft.com/yammer/manage-yammer-users/add-block-or-remove-users#remove-users).
 
-ด้วยการกำหนดค่า Yammer โดยใช้ขั้นตอนเหล่านี้คุณจะพร้อมที่จะกำหนดค่าเครือข่าย Yammer ของคุณสำหรับโหมด Native ของ Microsoft ๓๖๕ สำหรับข้อมูลเพิ่มเติมให้ดู[ที่การกำหนดค่าเครือข่าย Yammer ของคุณสำหรับโหมด Native สำหรับ Microsoft ๓๖๕](https://docs.microsoft.com/yammer/configure-your-yammer-network/native-mode)
+เมื่อกําหนดYammerการตั้งค่าโดยใช้ขั้นตอนเหล่านี้ คุณก็พร้อมที่จะกําหนดค่าเครือข่าย Yammer ของคุณMicrosoft 365โหมดดั้งเดิม ดูข้อมูลเพิ่มเติมได้ที่ กําหนดค่า[เครือข่าย Yammerของคุณในโหมดดั้งเดิม Microsoft 365](https://docs.microsoft.com/yammer/configure-your-yammer-network/native-mode)

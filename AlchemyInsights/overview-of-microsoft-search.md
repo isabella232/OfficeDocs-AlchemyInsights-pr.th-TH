@@ -1,5 +1,5 @@
 ---
-title: ภาพรวมของการค้นหาของ Microsoft
+title: ภาพรวมของMicrosoft Search
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,16 +12,16 @@ localization_priority: Normal
 ms.custom:
 - "6443"
 - "9003287"
-ms.openlocfilehash: 8171ec494197abf53a073cc87fce0898d23f9490
-ms.sourcegitcommit: c1e08a74f0e1e50d049847a431de0f5bf01df678
+ms.openlocfilehash: 00eb6c5fdabc56a7d81b27c48bdc1f1e562cbac9bfb6046b9ea7c2c0f4920800
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 09/16/2020
-ms.locfileid: "48194216"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53924569"
 ---
-# <a name="overview-of-microsoft-search"></a>ภาพรวมของการค้นหาของ Microsoft
+# <a name="overview-of-microsoft-search"></a>ภาพรวมของMicrosoft Search
 
-เมื่อต้องการวางแผนสำหรับ Microsoft Search ให้ดู[ภาพรวมของการค้นหาของ microsoft](https://docs.microsoft.com/microsoftsearch/overview-microsoft-search)
+เมื่อต้องการวางแผนMicrosoft Search[ให้ดู ภาพรวมของMicrosoft Search](https://docs.microsoft.com/microsoftsearch/overview-microsoft-search)
 
-- [ตั้งค่าการค้นหาของไมโครซอฟท์](https://docs.microsoft.com/microsoftsearch/setup-microsoft-search)
-- ค้นหาคำถามที่ [ถามบ่อยเกี่ยวกับ](https://docs.microsoft.com/microsoftsearch/faqs)การค้นหาของ Microsoft
+- [ตั้งค่าMicrosoft Search](https://docs.microsoft.com/microsoftsearch/setup-microsoft-search)
+- ค้นหาMicrosoft Search[ถามที่ถามบ่อย](https://docs.microsoft.com/microsoftsearch/faqs)

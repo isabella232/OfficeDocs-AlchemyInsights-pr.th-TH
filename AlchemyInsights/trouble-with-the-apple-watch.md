@@ -12,25 +12,25 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001107"
 - "3068"
-ms.openlocfilehash: f7c7c91a25a18e21c1858aba0e54a42f27bc0f58
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: bfb47bb53bbbe50258ad3f7022cd4f31b9f014a5d32c8a1b09da5e775abfcdc0
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51832293"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53940010"
 ---
 # <a name="trouble-with-the-apple-watch"></a>ปัญหากับ Apple Watch
 
-ถ้าคุณมีปัญหาในการใช้ Outlook บน Apple Watch ต่อไปนี้คือขั้นตอนการแก้ไขปัญหา: 
+ถ้าคุณมีปัญหาในการใช้แอป Outlook Apple Watch ต่อไปนี้คือขั้นตอนการแก้ไขปัญหาบางอย่าง: 
 
-1. ไปที่แอปการตรวจสอบบน iPhone
+1. ไปที่แอปการตรวจสอบiPhone
 
-2. เลื่อนไปยังแอป Outlook
+2. เลื่อนOutlookแอป
 
 3. สลับ "แสดงแอปบน Apple Watch" **เป็น ปิด** เพื่อถอนการติดตั้ง
 
 4. สลับ "แสดงแอปบน Apple Watch" **เป็น** เปิด เพื่อติดตั้งอีกครั้งบนการตรวจสอบ
 
-5. เปิดใช้แอป Outlook บน Apple Watch และรอให้ข้อมูลซิงค์เป็นเวอร์ชันล่าสุด 
+5. เปิดใช้Outlookบน Apple Watch และรอให้ข้อมูลซิงค์กับเวอร์ชันล่าสุด 
 
-ถ้าปัญหาของคุณไม่ได้รับการแก้ไข ทีมสนับสนุนยินดีให้ความช่วยเหลือ ไปที่ การตั้งค่า **>รับ&ติ>ติดต่อฝ่ายสนับสนุน** 
+ถ้าปัญหาของคุณไม่ได้รับการแก้ไข ทีมสนับสนุนยินดีให้ความช่วยเหลือ ไปที่ การตั้งค่า >**แนะ&เกี่ยวกับ>ติดต่อฝ่ายสนับสนุน** 
