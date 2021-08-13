@@ -1,5 +1,5 @@
 ---
-title: การสนับสนุน Azure เฉพาะ
+title: การสนับสนุน Azure โดยเฉพาะ
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,13 +13,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004167"
 - "7299"
-ms.openlocfilehash: c882c08dd2e87db207161dc4c2fa8e88125e6420
-ms.sourcegitcommit: 251e2e82571fb3bb1fbe3dbf7bfca30e004b3373
+ms.openlocfilehash: d165b7857703a535e8971fed71b1c83b9f753d5bf26fd5f1b76fe583a6c61578
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 03/05/2021
-ms.locfileid: "50483746"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53979260"
 ---
 # <a name="dedicated-azure-support"></a>การสนับสนุน Azure โดยเฉพาะ
 
-For help with Azure problems, check out the Get Azure support section in [billing questions, Technical support, and call us](https://go.microsoft.com/fwlink/?linkid=2081348).
+For help with Azure problems, check out the Get Azure Support section in [Billing Questions, Technical Support, and Call us](https://go.microsoft.com/fwlink/?linkid=2081348).

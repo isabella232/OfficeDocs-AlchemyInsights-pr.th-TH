@@ -1,5 +1,5 @@
 ---
-title: ใช้เทมเพลตไซต์กับไซต์ SharePoint
+title: ใช้เทมเพลตไซต์SharePointไซต์
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,19 +13,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "10184"
 - "9000094"
-ms.openlocfilehash: 502279487063b863d90390997f76d3d304fae9ae
-ms.sourcegitcommit: 430d247cb5dd5dc5d1f82d977456558dfd514277
+ms.openlocfilehash: cecbac79c72d1d4d753d8f2b20dba8776efc82c081aaeee900210104d011d53d
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 03/29/2021
-ms.locfileid: "51421048"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53969594"
 ---
-# <a name="apply-site-template-to-sharepoint-sites"></a>ใช้เทมเพลตไซต์กับไซต์ SharePoint
+# <a name="apply-site-template-to-sharepoint-sites"></a>ใช้เทมเพลตไซต์SharePointไซต์
 
-ในตอนนี้ SharePoint มีเทมเพลตไซต์หลายเทมเพลตที่มีเนื้อหา หน้า และ Web Part ที่สามารถปรับแต่งได้เองเพื่อให้เหมาะกับความต้องการขององค์กรของคุณ 
+SharePointมีเทมเพลตไซต์หลายเทมเพลตที่มีเนื้อหา หน้า และ Web Part ที่เติมไว้ล่วงหน้า ซึ่งสามารถปรับแต่งให้เหมาะกับความต้องการขององค์กรของคุณได้แล้ว 
 
-ใน SharePoint เวอร์ชันก่อนหน้า เทมเพลตไซต์เรียกว่าการออกแบบไซต์ แต่เรียกว่าเทมเพลตไซต์ที่มุ่งไปข้างหน้า 
+ในเวอร์ชันก่อนหน้าSharePointเทมเพลตไซต์เรียกว่าการออกแบบไซต์ แต่เรียกอีกอย่างว่า เทมเพลตไซต์ที่มุ่งไปข้างหน้า 
 
-คุณสามารถใช้เทมเพลตเมื่อคุณสร้างไซต์ใหม่ หรือปรับใช้เทมเพลตกับไซต์ที่มีอยู่ และปรับแต่งเทมเพลตไซต์ของคุณ For details, see [Apply and customize SharePoint site templates](https://support.microsoft.com/office/39382463-0e45-4d1b-be27-0e96aeec8398).
+คุณสามารถใช้เทมเพลตเมื่อคุณสร้างไซต์ใหม่หรือปรับใช้เทมเพลตกับไซต์ที่มีอยู่ และยังสามารถปรับแต่งเทมเพลตไซต์ของคุณ For details, see [Apply and customize SharePoint site templates.](https://support.microsoft.com/office/39382463-0e45-4d1b-be27-0e96aeec8398)
 
-For admins using custom site templates (previously known as site designs), see [SharePoint site design and site script overview](https://docs.microsoft.com/sharepoint/dev/declarative-customization/site-design-overview).
+For admins using custom site templates (previously known as site designs), [see SharePoint site design and site script overview](https://docs.microsoft.com/sharepoint/dev/declarative-customization/site-design-overview).

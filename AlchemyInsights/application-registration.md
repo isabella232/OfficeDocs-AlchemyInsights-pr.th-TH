@@ -13,14 +13,14 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004352"
 - "7780"
-ms.openlocfilehash: 75e7b57d279e508971f3a846c2ad3ede927e9c2f
-ms.sourcegitcommit: 7b213fd5e8a3fdb5c602673dc194d576d372ac96
+ms.openlocfilehash: d21f6ee8206c9bf0f02dbe147333b9d714aa43895812888e28d564e37f56dca1
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 01/18/2021
-ms.locfileid: "49901575"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53969630"
 ---
 # <a name="application-registration"></a>การลงทะเบียนแอปพลิเคชัน
 
-1. [ลงทะเบียนแอปด้วย Azure active](https://docs.microsoft.com/powerapps/developer/data-platform/walkthrough-register-app-azure-active-directory)directory: บทช่วยสอนนี้จะอธิบายวิธีการลงทะเบียนแอปพลิเคชันด้วย Azure active directory ซึ่งจะช่วยให้ผู้ใช้ที่มีบัญชีผู้ใช้ Power Apps เชื่อมต่อกับสภาพแวดล้อม Microsoft Dataverse ของพวกเขาจากแอปพลิเคชันไคลเอ็นต์ภายนอกที่ใช้การรับรองความถูกต้องของ OAuth
-1. [ลงทะเบียนแอปพลิเคชันด้วย Microsoft identity platform](https://docs.microsoft.com/azure/active-directory/develop/quickstart-register-app): ใน quickstart นี้คุณจะลงทะเบียนแอปในพอร์ทัล Azure เพื่อให้แพลตฟอร์มสำหรับข้อมูลเฉพาะตัวของ microsoft สามารถให้บริการการรับรองความถูกต้องและสิทธิ์การใช้งานสำหรับแอปพลิเคชันของคุณและผู้ใช้ของคุณได้
+1. [ลงทะเบียนแอปกับ Azure Active Directory](https://docs.microsoft.com/powerapps/developer/data-platform/walkthrough-register-app-azure-active-directory): บทช่วยสอนนี้อธิบายวิธีการลงทะเบียนแอปพลิเคชันกับ Azure Active Directory ซึ่งช่วยให้ผู้ใช้ที่มีบัญชีผู้ใช้ Power Apps สามารถเชื่อมต่อกับสภาพแวดล้อม Microsoft Dataverse ของพวกเขาจากแอปพลิเคชันไคลเอ็นต์ภายนอกโดยใช้การรับรองความถูกต้อง OAuth
+1. [ลงทะเบียนแอปพลิเคชันกับ แพลตฟอร์มข้อมูลประจําตัวของ Microsoft](https://docs.microsoft.com/azure/active-directory/develop/quickstart-register-app): ในการเริ่มต้นใช้งานด่วนนี้ คุณลงทะเบียนแอปในพอร์ทัล Azure เพื่อให้ แพลตฟอร์มข้อมูลประจําตัวของ Microsoft สามารถให้บริการการรับรองความถูกต้องและการอนุญาตแอปพลิเคชันและผู้ใช้ของคุณ

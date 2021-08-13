@@ -1,5 +1,5 @@
 ---
-title: วิธีการเตรียมใช้งานการป้องกันข้อมูลประจำตัวของ active Directory ของ Azure และปรับใช้
+title: วิธีAzure Active Directoryและการปรับใช้การป้องกันข้อมูลเฉพาะตัว
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,15 +13,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003955"
 - "7012"
-ms.openlocfilehash: d248a57e99177f4a11a5640d90bb15a0a7f5a3ee
-ms.sourcegitcommit: e56dd310cb2d4fef5ab339775a3929c85b69ed99
+ms.openlocfilehash: 4d639525fa170ef1a501d4683c49fd50dad0c9b401b3ade1635d11e783524237
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 12/17/2020
-ms.locfileid: "49714906"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53927884"
 ---
-# <a name="how-azure-active-directory-identity-protection-is-provisioned-and-deployed"></a>วิธีการเตรียมใช้งานการป้องกันข้อมูลประจำตัวของไดเรกทอรีที่ใช้งานอยู่ของ Azure และปรับใช้
+# <a name="how-azure-active-directory-identity-protection-is-provisioned-and-deployed"></a>มีวิธีAzure Active Directoryและการปรับใช้การป้องกันข้อมูลเฉพาะตัวอย่างไร
 
-ตามค่าเริ่มต้นฟีเจอร์ของการป้องกันข้อมูลเฉพาะตัวของ Azure Active Directory จะเปิดใช้งานในระดับผู้เช่าสำหรับผู้ใช้ทั้งหมดภายในผู้เช่า
+By default, the features of Azure Active Directory Identity Protection are enabled at the tenant level for all users within the tenant.
 
-เมื่อต้องการเรียนรู้เพิ่มเติมให้ดู [ที่การป้องกันข้อมูลเฉพาะตัวของ Azure Active directory คืออะไร](https://go.microsoft.com/fwlink/?linkid=2130395)
+เมื่อต้องการเรียนรู้เพิ่มเติม ให้ดู[การป้องกันAzure Active Directoryข้อมูลเฉพาะตัวคืออะไร](https://go.microsoft.com/fwlink/?linkid=2130395)

@@ -1,5 +1,5 @@
 ---
-title: ผู้ดูแลระบบไม่สามารถใช้ฟังก์ชันบางอย่างในศูนย์การจัดการ Teams
+title: ผู้ดูแลระบบไม่สามารถใช้ฟังก์ชันบางอย่างในศูนย์Teamsได้
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -16,13 +16,13 @@ ms.custom:
 - "5057"
 - "9000701"
 - "5067"
-ms.openlocfilehash: aa290469a2711ae55d9eeec8635f219fd8e96b85
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 48526a0f17a04c60f187fa21f3237741efb83a2aa6881311ae741237bed4d794
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51821826"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53952412"
 ---
-# <a name="admins-unable-to-perform-certain-functions-in-the-teams-admin-center"></a>ผู้ดูแลระบบไม่สามารถใช้ฟังก์ชันบางอย่างในศูนย์การจัดการ Teams
+# <a name="admins-unable-to-perform-certain-functions-in-the-teams-admin-center"></a>ผู้ดูแลระบบไม่สามารถใช้ฟังก์ชันบางอย่างในศูนย์Teamsได้
 
 ก่อนที่จะบันทึกการร้องขอการสนับสนุน โปรดตรวจสอบแดชบอร์ดสถานภาพบริการเพื่อเข้าใจว่ามีเหตุการณ์บริการที่ใช้งานอยู่หรือไม่ และค้นหาข้อมูลล่าสุดที่เกี่ยวข้องกับ[TM209682](https://admin.microsoft.com/AdminPortal/Home/#/servicehealth?eventid=TM209682)
