@@ -1,5 +1,5 @@
 ---
-title: เพิ่มกลุ่มลงในไซต์ SharePoint
+title: เพิ่มกลุ่มลงในSharePointไซต์
 ms.author: mikeplum
 author: MikePlumleyMSFT
 manager: scotv
@@ -12,39 +12,39 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: f7d730bf-0d6e-424c-970c-6137c71cb50b
-ms.openlocfilehash: 07850bc8c496df180d2e3c85dfbfc999231f6a54
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: e8dee2986c98b0ebf5eae6222a652fc999287b6efa3fe5a9099134c44dddf670
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47697360"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53936976"
 ---
-# <a name="add-a-group-to-a-sharepoint-site"></a>เพิ่มกลุ่มลงในไซต์ SharePoint
+# <a name="add-a-group-to-a-sharepoint-site"></a>เพิ่มกลุ่มลงในSharePointไซต์
 
-ไซต์ทีม SharePoint บางไซต์ (รวมถึงที่สร้างขึ้นในทีม Microsoft) จะได้รับการจัดการโดยเจ้าของกลุ่ม Microsoft ๓๖๕ ไซต์ SharePoint และเนื้อหายังสามารถแชร์กับกลุ่ม Microsoft ๓๖๕และกับกลุ่ม SharePoint ได้อีกด้วย กลุ่ม SharePoint คือคอลเลกชันของผู้ใช้ที่มีสิทธิ์การใช้งานไซต์และเนื้อหาเดียวกัน สำหรับไซต์คลาสสิกเราขอแนะนำให้คุณใช้กลุ่มเพื่อกำหนดระดับสิทธิ์เดียวกันให้กับผู้ใช้หลายคนในครั้งเดียวแทนที่จะกำหนดสิทธิ์ให้กับผู้ใช้หนึ่งคนในแต่ละครั้ง
+ทีมSharePointบางไซต์ (รวมถึงไซต์ที่สร้างMicrosoft Teams) จะถูกจัดการMicrosoft 365เจ้าของกลุ่ม SharePointและเนื้อหาสามารถแชร์กับMicrosoft 365กลุ่มของคุณ และSharePointกลุ่มได้ กลุ่มSharePointคือคอลเลกชันของผู้ใช้ที่ทุกคนมีสิทธิ์ชุดเดียวกันในไซต์และเนื้อหา For classic sites, we recommend that you use groups to conveniently assign the same permission level to many people at once than assigning permissions one person at time.
   
-จัดการสมาชิกของกลุ่ม Microsoft ๓๖๕:
+จัดการMicrosoft 365สมาชิกกลุ่ม:
   
-1. ไปที่[หน้ากลุ่มในศูนย์การจัดการ Microsoft ๓๖๕](https://portal.office.com/adminportal/home#/groups)
+1. ไปที่หน้า[กลุ่ม ศูนย์การจัดการ Microsoft 365](https://portal.office.com/adminportal/home#/groups)
     
-2. เลือกกลุ่มเพื่อดูเจ้าของและสมาชิก เมื่อต้องการเพิ่มหรือเอาบุคคลออกให้คลิกลิงก์**แก้ไข**ในแถว**เจ้าของ**หรือ**สมาชิก** 
+2. เลือกกลุ่มเพื่อดูเจ้าของและสมาชิก เมื่อต้องการเพิ่มหรือเอาบุคคลออก **ให้คลิกลิงก์** แก้ไข ใน **แถว** เจ้าของ **หรือ** สมาชิก 
     
-แชร์ไซต์การติดต่อสื่อสารกับกลุ่ม Microsoft ๓๖๕:
+แชร์ไซต์การติดต่อสื่อสารกับMicrosoft 365ต่อไปนี้
   
-1. ไปที่ไซต์ในเบราว์เซอร์แล้วคลิก **แชร์ไซต์** ที่มุมขวาบน 
+1. ไปที่ไซต์ในเบราว์เซอร์ แล้วคลิก **แชร์ไซต์** ที่มุมขวาบน 
     
-2. ใส่ชื่อกลุ่มแล้วเลือกระดับสิทธิ์ (อ่านแก้ไขหรือควบคุมทั้งหมด)
+2. ใส่ชื่อกลุ่ม แล้วเลือกระดับสิทธิ์ (อ่าน แก้ไข หรือควบคุมทั้งหมด)
     
-สร้างกลุ่ม SharePoint เพื่อใช้กับไซต์แบบคลาสสิก:
+สร้างกลุ่มSharePointเพื่อใช้กับไซต์แบบคลาสสิก:
   
-1. ไปที่ไซต์ในเบราว์เซอร์แล้วคลิกไอคอนการตั้งค่าที่มุมขวาบน
+1. ไปที่ไซต์ในเบราว์เซอร์ แล้วคลิกการตั้งค่าไอคอนที่มุมขวาบน
     
-2. คลิก**การตั้งค่าไซต์**จากนั้นภายใต้**ผู้ใช้และสิทธิ์**ให้คลิก**สิทธิ์สำหรับไซต์**
+2. **คลิก การตั้งค่า** ไซต์ จากนั้นภายใต้ **ผู้ใช้และสิทธิ์** ให้คลิก **สิทธิ์ของไซต์**
     
-3. บนแท็บสิทธิ์ให้คลิก**สร้างกลุ่ม**
+3. บนแท็บ สิทธิ์ ให้คลิก **สร้าง** กลุ่ม
     
-[เชื่อมต่อไซต์ทีมคลาสสิกกับกลุ่ม Microsoft ๓๖๕ใหม่](https://go.microsoft.com/fwlink/?linkid=2008654)
+[เชื่อมต่อไซต์ทีมแบบคลาสสิกไปยังกลุ่มMicrosoft 365ใหม่](https://go.microsoft.com/fwlink/?linkid=2008654)
   
-[เรียนรู้เพิ่มเติมเกี่ยวกับการทำงานกับกลุ่ม SharePoint](https://go.microsoft.com/fwlink/?linkid=874658)
+[เรียนรู้เพิ่มเติมเกี่ยวกับการSharePointกลุ่ม](https://go.microsoft.com/fwlink/?linkid=874658)
   
 

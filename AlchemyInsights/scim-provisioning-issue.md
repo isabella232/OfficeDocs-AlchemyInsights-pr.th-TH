@@ -13,18 +13,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "7854"
 - "9004348"
-ms.openlocfilehash: aa5b4cbb99cb1a5a323b39101766bea55fd49064
-ms.sourcegitcommit: 953a8567ebcd9835f8c5c49472b223107c92549b
+ms.openlocfilehash: dc2068bbfde7b633e75b3d42f597cee8e4e5f5a72fbf22ebd6c2d0b768945dc9
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 01/22/2021
-ms.locfileid: "49949950"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54061667"
 ---
 # <a name="scim-provisioning-issue"></a>ปัญหาการเตรียมใช้งาน SCIM
 
-การจัดเตรียมอัตโนมัติอ้างอิงถึงการสร้างข้อมูลเฉพาะตัวของผู้ใช้และบทบาทในแอปพลิเคชัน cloud ที่ผู้ใช้ต้องการเข้าถึง นอกเหนือจากการสร้างข้อมูลเฉพาะตัวของผู้ใช้การเตรียมใช้งานอัตโนมัติจะรวมถึงการบำรุงรักษาและการเอาข้อมูลประจำตัวของผู้ใช้ออกเป็นสถานะหรือบทบาทการเปลี่ยนแปลง ก่อนที่คุณจะเริ่มต้นการปรับใช้คุณสามารถตรวจสอบ [วิธีการเตรียมใช้งานการทำงาน](https://docs.microsoft.com/azure/active-directory/app-provisioning/how-provisioning-works) เพื่อเรียนรู้วิธีการเตรียมใช้งานการเตรียมใช้งานของ Azure active DIRECTORY (AD) และรับคำแนะนำในการกำหนดค่า
+การเตรียมใช้งานโดยอัตโนมัติ หมายถึงการสร้างข้อมูลเฉพาะตัวผู้ใช้และบทบาทในแอปพลิเคชันระบบคลาวด์ที่ผู้ใช้ต้องเข้าถึง นอกจากการสร้างข้อมูลเฉพาะตัวของผู้ใช้แล้ว การเตรียมใช้งานโดยอัตโนมัติยังมีการบํารุงรักษาและการเอาข้อมูลเฉพาะตัวของผู้ใช้ออกเป็นสถานะหรือการเปลี่ยนแปลงบทบาท ก่อนที่คุณจะเริ่มการปรับใช้ คุณสามารถตรวจทาน[วิธีการเตรียมใช้งานงาน](https://docs.microsoft.com/azure/active-directory/app-provisioning/how-provisioning-works)เพื่อเรียนรู้วิธีการเตรียมใช้งาน Azure Active Directory (AD) และรับข้อแนะนะการกําหนดค่า
 
-ในฐานะนักพัฒนาแอปพลิเคชันคุณสามารถใช้ API สำหรับการจัดการผู้ใช้ข้อมูลประจำตัวแบบข้ามโดเมน (SCIM) เพื่อเปิดใช้งานการเตรียมใช้งานอัตโนมัติของผู้ใช้และกลุ่มระหว่างแอปพลิเคชันของคุณและ Azure AD การ [สร้างจุดสิ้นสุด SCIM และกำหนดค่าการเตรียมใช้งานของผู้ใช้ด้วยบทความ AD Azure](https://docs.microsoft.com/azure/active-directory/app-provisioning/use-scim-to-provision-users-and-groups) จะอธิบายวิธีการสร้างจุดสิ้นสุด SCIM และรวมเข้ากับบริการการเตรียมใช้งาน Azure AD
+ในฐานะนักพัฒนาแอปพลิเคชัน คุณสามารถใช้ System for Cross-Domain Identity Management (SCIM) User Management API เพื่อเปิดใช้งานการเตรียมใช้งานผู้ใช้และกลุ่มโดยอัตโนมัติระหว่างแอปพลิเคชันของคุณและ Azure AD บทความ [สร้างจุดสิ้นสุด SCIM และกําหนดค่าการเตรียมใช้งาน](https://docs.microsoft.com/azure/active-directory/app-provisioning/use-scim-to-provision-users-and-groups) ผู้ใช้ด้วย Azure AD จะอธิบายวิธีการสร้างจุดสิ้นสุด SCIM และรวมกับบริการการเตรียมใช้งาน Azure AD
 
 
 

@@ -1,5 +1,5 @@
 ---
-title: ใช้โปรไฟล์แบบกำหนดเองใน Intune
+title: ใช้โปรไฟล์แบบปรับแต่งเองใน Intuny
 ms.author: mandia
 author: mandia
 manager: dougeby
@@ -13,25 +13,25 @@ ms.collection: Adm_O365
 ms.custom:
 - "1566"
 - "6700005"
-ms.openlocfilehash: c3c2233dab60d58438068c6c61a0567b8f68e022
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 5a4c4665f36c5d7158a92b6b6104942b6b169a18370dfe34d0f6da42b78cc96c
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47796595"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53971106"
 ---
-# <a name="using-custom-policy-in-intune"></a>การใช้นโยบายแบบกำหนดเองใน Intune
+# <a name="using-custom-policy-in-intune"></a>การใช้นโยบายแบบปรับแต่งเองใน Intuns
 
-Intune มีการตั้งค่าจำนวนมากที่มีอยู่แล้วภายในสำหรับอุปกรณ์ Android, iOS, macOS และ Windows นอกจากนี้คุณยังสามารถสร้างโปรไฟล์แบบกำหนดเองและปรับใช้การตั้งค่าแบบกำหนดเองเหล่านี้กับอุปกรณ์ของคุณได้โดยใช้ Intune โปรไฟล์แบบกำหนดเองได้รับการออกแบบมาเพื่อเพิ่มการตั้งค่าอุปกรณ์และฟีเจอร์ที่ไม่ได้มีอยู่แล้วใน Windows Intune
+Intuned มีหลายการตั้งค่าที่มีอยู่แล้วภายใน Android, iOS, macOS Windowsหลายเครื่อง คุณยังสามารถสร้างโปรไฟล์แบบปรับแต่งเอง แล้วปรับใช้การตั้งค่าแบบปรับแต่งเองเหล่านี้กับอุปกรณ์ของคุณโดยใช้ Intuny โปรไฟล์แบบปรับแต่งเองได้รับการออกแบบมาเพื่อเพิ่มการตั้งค่าอุปกรณ์และฟีเจอร์ที่ไม่ได้สร้างขึ้นใน Intuny
 
-[การตั้งค่าแบบกำหนดเองสำหรับอุปกรณ์ Android ใน Intune](https://docs.microsoft.com/intune/custom-settings-android)
+[การตั้งค่าแบบปรับแต่งเองบนอุปกรณ์ Android ใน Intun1](https://docs.microsoft.com/intune/custom-settings-android)
 
-[การตั้งค่าแบบกำหนดเองสำหรับอุปกรณ์ Android สำหรับองค์กรใน Intune](https://docs.microsoft.com/intune/custom-settings-android-for-work)
+[การตั้งค่าแบบปรับแต่งเองของอุปกรณ์ Android Enterprise ใน Intun1](https://docs.microsoft.com/intune/custom-settings-android-for-work)
 
-[การตั้งค่าแบบกำหนดเองสำหรับอุปกรณ์ iOS ใน Intune](https://docs.microsoft.com/intune/custom-settings-ios)
+[การตั้งค่าแบบปรับแต่งเองบนอุปกรณ์ iOS ใน Intun1](https://docs.microsoft.com/intune/custom-settings-ios)
 
-[การตั้งค่าแบบกำหนดเองสำหรับอุปกรณ์ macOS ใน Intune](https://docs.microsoft.com/intune/custom-settings-macos)
+[การตั้งค่าแบบปรับแต่งเองบนอุปกรณ์ macOS ใน Intun1](https://docs.microsoft.com/intune/custom-settings-macos)
 
-[การตั้งค่าแบบกำหนดเองสำหรับอุปกรณ์ Windows 10 ใน Intune](https://docs.microsoft.com/intune/custom-settings-windows-10)
+[การตั้งค่าแบบWindows 10อุปกรณ์ใน Intuned](https://docs.microsoft.com/intune/custom-settings-windows-10)
 
-[การตั้งค่าแบบกำหนดเองสำหรับอุปกรณ์ Windows โฮโลแกรมสำหรับธุรกิจใน Intune](https://docs.microsoft.com/intune/custom-settings-windows-holographic)
+[การตั้งค่าแบบWindows Holographic for Businessอุปกรณ์ใน Intuned](https://docs.microsoft.com/intune/custom-settings-windows-holographic)
