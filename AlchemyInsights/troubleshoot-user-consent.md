@@ -1,5 +1,5 @@
 ---
-title: การแก้ไขปัญหาความยินยอมของผู้ใช้
+title: แก้ไขปัญหาความยินยอมของผู้ใช้
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,15 +13,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004353"
 - "7785"
-ms.openlocfilehash: 7249bafe1b047c66d9351a79f1782cfcc1a936a1
-ms.sourcegitcommit: 7b213fd5e8a3fdb5c602673dc194d576d372ac96
+ms.openlocfilehash: db784c133fec554604ad09f5b27941879d97ff238f926ff6338d0f3b7c3c4105
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 01/18/2021
-ms.locfileid: "49901627"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54007917"
 ---
-# <a name="troubleshoot-user-consent"></a>การแก้ไขปัญหาความยินยอมของผู้ใช้
+# <a name="troubleshoot-user-consent"></a>แก้ไขปัญหาความยินยอมของผู้ใช้
 
-1. คุณสามารถกำหนดค่าความยินยอมของผู้ใช้ไปยังแอปพลิเคชันผ่านทางพอร์ทัล Azure หรือ PowerShell ได้ สำหรับข้อมูลเพิ่มเติมให้ดูที่[การตั้งค่าความยินยอมของผู้ใช้](https://docs.microsoft.com/azure/active-directory/manage-apps/configure-user-consent?tabs=azure-portal#user-consent-settings)
-1. ผู้ดูแลระบบยังสามารถใช้ API ของ [Microsoft Graph](https://docs.microsoft.com/azure/active-directory/manage-apps/configure-user-consent?tabs=azure-portal#user-consent-settings) เพื่อให้ความยินยอมในการมอบสิทธิ์ในนามของผู้ใช้คนเดียวได้ สำหรับข้อมูลเพิ่มเติมให้ดู[ที่รับสิทธิ์การเข้าถึงในนามของผู้ใช้](https://docs.microsoft.com/graph/auth-v2-user)
-1. [ข้อผิดพลาดในการยินยอมของผู้ใช้](https://docs.microsoft.com/azure/active-directory/manage-apps/application-sign-in-unexpected-user-consent-error): บทความนี้จะอธิบายข้อผิดพลาดที่อาจเกิดขึ้นในระหว่างกระบวนการยินยอมให้กับแอปพลิเคชัน ถ้าคุณกำลังแก้ไขปัญหาพร้อมท์การยินยอมที่ไม่คาดคิดที่ไม่มีข้อความแสดงข้อผิดพลาดให้ดูที่[สถานการณ์การรับรองความถูกต้องสำหรับ AZURE AD](https://docs.microsoft.com/azure/active-directory/manage-apps/application-sign-in-unexpected-user-consent-error)
+1. คุณสามารถกําหนดค่าวิธีการที่ผู้ใช้ยินยอมให้แอปพลิเคชันผ่านพอร์ทัล Azure หรือ PowerShell ดู [การตั้งค่าความยินยอมของผู้ใช้](https://docs.microsoft.com/azure/active-directory/manage-apps/configure-user-consent?tabs=azure-portal#user-consent-settings) เพื่อดูข้อมูลเพิ่มเติม
+1. ผู้ดูแลระบบยังสามารถใช้ Microsoft [Graph API](https://docs.microsoft.com/azure/active-directory/manage-apps/configure-user-consent?tabs=azure-portal#user-consent-settings)ในการให้ความยินยอมกับสิทธิ์ที่ได้รับมอบหมายในนามของผู้ใช้รายเดียว For more information, [see Get access on behalf of a user](https://docs.microsoft.com/graph/auth-v2-user).
+1. [ข้อผิดพลาดการยินยอม](https://docs.microsoft.com/azure/active-directory/manage-apps/application-sign-in-unexpected-user-consent-error)จากผู้ใช้: บทความนี้จะอธิบายถึงข้อผิดพลาดที่อาจเกิดขึ้นระหว่างกระบวนการยินยอมให้แอปพลิเคชัน ถ้าคุณแก้ไขปัญหาพร้อมท์การยินยอมที่ไม่คาดคิดที่ไม่มีข้อความแสดงข้อผิดพลาด ให้ดู สถานการณ์[การรับรองความถูกต้องของ Azure AD](https://docs.microsoft.com/azure/active-directory/manage-apps/application-sign-in-unexpected-user-consent-error)

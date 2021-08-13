@@ -1,5 +1,5 @@
 ---
-title: แก้ไขปัญหาการอัปโหลดไฟล์ไปยัง OneDrive หรือ SharePoint
+title: แก้ไขปัญหาการอัปโหลดไฟล์OneDriveหรือSharePoint
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,13 +12,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002296"
 - "4447"
-ms.openlocfilehash: f53002cfd8c8437cefe181e48e644cc55f76b568
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 4bf0e1c568fe3524b6b3f1d4f98a152b3f22fdbf211d6075caf594c56d3b25e0
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51808954"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54007881"
 ---
-# <a name="troubleshoot-upload-file-issues-to-onedrive-or-sharepoint"></a>แก้ไขปัญหาการอัปโหลดไฟล์ไปยัง OneDrive หรือ SharePoint
+# <a name="troubleshoot-upload-file-issues-to-onedrive-or-sharepoint"></a>แก้ไขปัญหาการอัปโหลดไฟล์OneDriveหรือSharePoint
 
-เรียนรู้วิธีการอัปโหลด[ไฟล์ของคุณไปยัง OneDrive](https://support.office.com/article/upload-and-save-files-and-folders-to-onedrive-a5710114-6aeb-4bf5-a336-dffa7cc0b77a) 
+เรียนรู้วิธีการอัปโหลด[ไฟล์ของคุณOneDrive](https://support.office.com/article/upload-and-save-files-and-folders-to-onedrive-a5710114-6aeb-4bf5-a336-dffa7cc0b77a) 

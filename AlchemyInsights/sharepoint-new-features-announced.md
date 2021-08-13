@@ -1,5 +1,5 @@
 ---
-title: ฟีเจอร์ใหม่ของ SharePoint ประกาศ
+title: SharePointฟีเจอร์ใหม่ที่ประกาศ
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
@@ -9,17 +9,17 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 3e0c8c7f-261a-41d1-9ca3-be4a1d4ebd9a
-ms.openlocfilehash: c54f2dd93d129db21a279de65096dfe9b3f17646
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 31d6370b3f9232efa282426799293a08a45c638077ef60ad00bd11140e4c3d1e
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47800555"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54093941"
 ---
-# <a name="sharepoint-new-features-announced"></a>ฟีเจอร์ใหม่ของ SharePoint ประกาศ
+# <a name="sharepoint-new-features-announced"></a>SharePointฟีเจอร์ใหม่ที่ประกาศ
 
-ที่จุด๒๐๑๘การประชุม Microsoft ประกาศนวัตกรรมการใหม่สำหรับ SharePoint รวมถึงฟีเจอร์ใหม่สำหรับพอร์ทัลสมัยใหม่ web part ใหม่การเพิ่มประสิทธิภาพการทำงานของไซต์ฮับ, ลิงก์ข่าวสารการกำหนดเป้าหมายของผู้ชม, ความพร้อมใช้งานของแอปสำหรับอุปกรณ์เคลื่อนที่ใหม่, การเชื่อมต่อกับทีมและอื่นๆ ...
+ในการประชุม Ignite 2018 ไมโครซอฟท์ได้ประกาศนวัตกรรมใหม่ๆ ของ SharePoint รวมถึงฟีเจอร์ใหม่ๆ ของพอร์ทัลสมัยใหม่, Web Part ใหม่, การปรับปรุงมากมายให้กับไซต์ฮับ, ลิงก์ข่าวสาร, การกลุ่มเป้าหมายของผู้ชม, ความพร้อมใช้งานของแอปบนอุปกรณ์เคลื่อนที่ใหม่, การเชื่อมต่อกับ Teams และอื่นๆ...
   
-สำหรับข้อมูลเพิ่มเติมเกี่ยวกับฟีเจอร์เหล่านี้ให้ดูที่บล็อกโพสต์ [นวัตกรรมใหม่ใน SharePoint &amp; Microsoft ๓๖๕ส่งมอบ power และความเรียบง่ายสำหรับการทำงานร่วมกันในเนื้อหา](https://go.microsoft.com/fwlink/?linkid=2026502)
+For more information about these features, see the blog post [New innovations in SharePoint &amp; Microsoft 365 deliver power and simplicity for content collaboration.](https://go.microsoft.com/fwlink/?linkid=2026502)
   
-องค์กรของคุณสามารถเข้าร่วมโปรแกรมการเผยแพร่ที่กำหนดเป้าหมายเพื่อให้สามารถเข้าถึงฟีเจอร์ใหม่ได้ก่อนใคร ให้ดู[ที่ตั้งค่าตัวเลือกการวางจำหน่ายมาตรฐานหรือแบบกำหนดเป้าหมายใน Microsoft ๓๖๕](https://docs.microsoft.com/microsoft-365/admin/manage/release-options-in-office-365)
+องค์กรของคุณสามารถเข้าร่วมโปรแกรมการเผยแพร่แบบเป้าหมายเพื่อเข้าถึงฟีเจอร์ใหม่ก่อน ให้ดูที่[ตั้งค่าตัวเลือกการเผยแพร่มาตรฐานหรือการเผยแพร่ที่Microsoft 365](https://docs.microsoft.com/microsoft-365/admin/manage/release-options-in-office-365)ใน

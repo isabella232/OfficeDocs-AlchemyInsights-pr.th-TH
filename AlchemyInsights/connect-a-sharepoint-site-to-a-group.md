@@ -1,5 +1,5 @@
 ---
-title: เชื่อมต่อไซต์ SharePoint กับกลุ่ม
+title: เชื่อมต่อการSharePointไซต์แบบกลุ่ม
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -14,21 +14,21 @@ ms.custom:
 - "5747"
 - "5200004"
 - "5767"
-ms.openlocfilehash: 9845a0009b62157c4735c9864441a1a597c25108
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 738d0f57b9b9dac5ed343037579a23d6d217f58b07da9730eb0bd08bc78c25e6
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51817083"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53915426"
 ---
-# <a name="connect-a-sharepoint-site-to-a-group"></a>เชื่อมต่อไซต์ SharePoint กับกลุ่ม
+# <a name="connect-a-sharepoint-site-to-a-group"></a>เชื่อมต่อการSharePointไซต์แบบกลุ่ม
 
-ใช้ตัวช่วยสร้างการเชื่อมต่อกลุ่มเพื่อเชื่อมต่อไซต์ SharePoint กับกลุ่ม Microsoft 365
+ใช้ตัวช่วยสร้างการเชื่อมต่อกลุ่มเพื่อSharePointไซต์ของคุณMicrosoft 365กลุ่ม
 
-1. จากไซต์ที่คุณต้องการเชื่อมต่อกับกลุ่ม ให้เลือก การตั้งค่า **(ไอคอนรูปเฟือง)**
-2. เลือก  **เชื่อมต่อกับกลุ่ม Microsoft 365** ใหม่
+1. จากไซต์ที่คุณต้องการเชื่อมต่อกับกลุ่ม ให้เลือก กลุ่ม การตั้งค่า **(ไอคอนรูปเฟือง)**
+2. เลือก **เชื่อมต่อเพื่อMicrosoft 365กลุ่ม** ใหม่
 3. Follow the wizard to complete the connection.
 
-**หมายเหตุ:**  ถ้า เชื่อมต่อกับกลุ่ม Microsoft 365 ใหม่ ไม่พร้อมใช้งาน ไซต์จะไม่สนับสนุนการเชื่อมต่อกลุ่ม
+**หมายเหตุ:**  If เชื่อมต่อ to new Microsoft 365 Group isn't available, the site will not support a group connection.
 
-ดูข้อมูลเพิ่มเติมได้ที่ เชื่อมต่อกับ[กลุ่ม Office 365](https://docs.microsoft.com/sharepoint/dev/transform/modernize-connect-to-office365-group)
+ดูข้อมูลเพิ่มเติมได้ที่ เชื่อมต่อ[ไปยังOffice 365ธุรกิจ](https://docs.microsoft.com/sharepoint/dev/transform/modernize-connect-to-office365-group)
