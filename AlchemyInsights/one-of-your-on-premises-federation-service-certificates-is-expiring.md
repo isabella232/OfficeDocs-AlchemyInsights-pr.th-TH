@@ -12,20 +12,20 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 172084b7-68a1-42a5-944d-2e871eaa2972
-ms.openlocfilehash: 45a679e83aa8f07d65d2e7e84d7eb2a2b5a721e8
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: d0658b05b81ac45e7ce80323ad29898599482c4d3430d886627af6e9f8d136f6
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51810071"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53985236"
 ---
 # <a name="one-of-your-on-premises-federation-service-certificates-is-expiring"></a>หนึ่งในใบรับรองการบริการการติดต่อกับภายนอกภายในองค์กรของคุณใกล้หมดอายุแล้ว
 
 เมื่อต้องการแก้ไขปัญหานี้ ให้ปฏิบัติตามขั้นตอนเหล่านี้:
   
-- ติดตั้ง Microsoft Azure Active Directory Module for Windows PowerShell บนคอมพิวเตอร์ (ถ้ายังไม่ได้ติดตั้งโมดูล) เมื่อต้องการดาวน์โหลด ให้ไปที่ [Azure Active Directory PowerShell for Graph ](https://docs.microsoft.com/powershell/azure/active-directory/install-adv2?view=azureadps-2.0)
+- ติดตั้ง Microsoft Azure Active DirectoryโมดูลWindows PowerShellบนคอมพิวเตอร์ (ถ้ายังไม่ได้ติดตั้งโมดูล) เมื่อต้องการเพิ่ม ให้ไปที่ Azure Active Directory [PowerShell Graph](https://docs.microsoft.com/powershell/azure/active-directory/install-adv2?view=azureadps-2.0)
     
-- ให้ปฏิบัติตามขั้นตอนในส่วน "สถานการณ์สมมติที่ 1: ใบรับรองแบบลงนามด้วยโทเค็นของ AD FS หมดอายุแล้ว" ของข้อผิดพลาด "มีปัญหาในการเข้าถึงไซต์" จาก AD FS เมื่อผู้ใช้ภายนอกลงชื่อเข้าใช้[Microsoft 365, Azure หรือ Intuned](https://support.microsoft.com/help/2713898/there-was-a-problem-accessing-the-site-error-from-ad-fs-when-a-federat)
+- ให้ปฏิบัติตามขั้นตอนในส่วน "สถานการณ์สมมติที่ 1: ใบรับรองแบบลงนามด้วยโทเค็นของ AD FS หมดอายุแล้ว" ของข้อผิดพลาด "มีปัญหาในการเข้าถึงไซต์" จาก AD FS เมื่อผู้ใช้ภายนอกลงชื่อเข้าใช้[ใน Microsoft 365, Azure หรือ Intuny](https://support.microsoft.com/help/2713898/there-was-a-problem-accessing-the-site-error-from-ad-fs-when-a-federat)
     
 - Follow the steps [in How to update or repair the settings of a fededrated domain in Microsoft 365, Azure, or Intuned](https://support.microsoft.com/help/2647048/how-to-update-or-repair-the-settings-of-a-federated-domain-in-office-3).
     

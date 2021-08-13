@@ -13,16 +13,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "5890"
 - "9003117"
-ms.openlocfilehash: 772f7b8d3c88c38ad8a14585af398325349dc99a
-ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
+ms.openlocfilehash: 488799d66d9587f2ceaf763ef92e85ab4f19414f6e6fe3610f0f9ff84d5ce0a1
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52544019"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53977244"
 ---
 # <a name="how-to-manage-add-ins-while-reading-a-message"></a>วิธีจัดการ Add-in ขณะอ่านข้อความ
 
-1. ใน Outlookบนเว็บ ให้เลือกข้อความ
+1. ใน Outlook บนเว็บเนื้อหา ให้เลือกข้อความ
     
 2. เลือกจุดสามจุด (การแอคชันเพิ่มเติม) ที่ด้านบนของข้อความ
 
@@ -34,4 +34,4 @@ ms.locfileid: "52544019"
     
     For paid add-ins and free trials, select **Get it** to start your purchase.
     
-For more info, see [Using add-ins in Outlook on the web](https://support.microsoft.com/office/using-add-ins-in-outlook-on-the-web-8f2ce816-5df4-44a5-958c-f7f9d6dabdce).
+For more info, see [Using add-ins in Outlook บนเว็บ](https://support.microsoft.com/office/using-add-ins-in-outlook-on-the-web-8f2ce816-5df4-44a5-958c-f7f9d6dabdce).

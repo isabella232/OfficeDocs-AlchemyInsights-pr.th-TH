@@ -1,5 +1,5 @@
 ---
-title: ใช้ตัวจัดการการกำหนดค่าเพื่อปรับใช้อัปเดตและจัดการ Microsoft Edge บน Windows
+title: ใช้ตัวจัดการการกําหนดค่าเพื่อปรับใช้ อัปเดต Microsoft EdgeบนWindows
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -13,13 +13,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004030"
 - "7100"
-ms.openlocfilehash: ee978146ff0964e9ebd9f476f9c92d1f97aa042c
-ms.sourcegitcommit: 38c87ed786dda7181562492d5d2e7ef0e18e0cab
+ms.openlocfilehash: 226878c7ce12a9cdc9c6b24a1b05cdbf39ed67ad631b3a7dc02bbe0d7d6b91a2
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 12/08/2020
-ms.locfileid: "49678957"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53919580"
 ---
-# <a name="use-configuration-manager-to-deploy-update-and-manage-microsoft-edge-on-windows"></a>ใช้ตัวจัดการการกำหนดค่าเพื่อปรับใช้อัปเดตและจัดการ Microsoft Edge บน Windows
+# <a name="use-configuration-manager-to-deploy-update-and-manage-microsoft-edge-on-windows"></a>ใช้ตัวจัดการการกําหนดค่าเพื่อปรับใช้ อัปเดต Microsoft EdgeบนWindows
 
-ในฐานะที่เป็นตัวจัดการการตั้งค่าคอนฟิกเวอร์ชัน๑๙๑๐คุณสามารถปรับใช้ Microsoft Edge (เวอร์ชัน๗๗และเวอร์ชันที่ใหม่กว่า) ผ่านสคริปต์ PowerShell ได้ สคริปต์จะปิดการอัปเดตอัตโนมัติและการดำเนินการนี้จะช่วยให้คุณสามารถจัดการการอัปเดตได้ผ่านทางตัวจัดการการกำหนดค่า เมื่อต้องการเรียนรู้เพิ่มเติมเกี่ยวกับสิ่งนี้และประโยชน์อื่นๆของการใช้ตัวจัดการการกำหนดค่าให้ดูที่[การจัดการ Microsoft Edge](https://docs.microsoft.com/mem/configmgr/apps/deploy-use/deploy-edge?)
+เนื่องจากตัวจัดการการกําหนดค่าเวอร์ชัน 1910 คุณสามารถปรับใช้Microsoft Edge (เวอร์ชัน 77 และใหม่กว่า) ผ่านทางสคริปต์ PowerShell ได้ สคริปต์จะปิดการอัปเดตอัตโนมัติ และช่วยให้คุณจัดการการอัปเดตผ่านตัวจัดการการกําหนดค่า เมื่อต้องการเรียนรู้เพิ่มเติมเกี่ยวกับสิ่งนี้และประโยชน์อื่นๆ ของการใช้ ตัวจัดการการกําหนดค่า[Microsoft Edge การจัดการ](https://docs.microsoft.com/mem/configmgr/apps/deploy-use/deploy-edge?)

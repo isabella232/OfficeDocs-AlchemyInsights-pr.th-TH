@@ -1,5 +1,5 @@
 ---
-title: ลบไซต์ใน SharePoint อย่างถาวร
+title: ลบไซต์อย่างถาวรในSharePoint
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
@@ -11,23 +11,23 @@ ms.custom: ''
 ms.assetid:
 - "5200006"
 - "4391"
-ms.openlocfilehash: bde31f9b197118467ed96d665a9c8edf6b789965
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: f461963c4a5719957258349d667731231023721ab3ee4641538c94371bf3f56d
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47771740"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53944330"
 ---
-# <a name="permanently-delete-a-site-in-sharepoint"></a>ลบไซต์ใน SharePoint อย่างถาวร
+# <a name="permanently-delete-a-site-in-sharepoint"></a>ลบไซต์อย่างถาวรในSharePoint
 
-เมื่อต้องการนำ URL มาใช้ใหม่จากไซต์ที่ถูกลบ (เมื่อต้องการสร้างไซต์ใหม่) หรือเมื่อต้องการลบไซต์อย่างถาวรเนื่องจากไม่มีการใช้งานอีกต่อไปคุณสามารถใช้การ **ลบอย่างถาวร** จากศูนย์การจัดการ SharePoint ใหม่ได้ 
+เมื่อต้องการใช้ URL จากไซต์ที่ถูกลบ (เพื่อสร้างไซต์ใหม่) หรือเมื่อต้องการลบไซต์อย่างถาวรเนื่องจากไซต์ดังกล่าวไม่ได้ใช้อยู่อีกต่อไป คุณสามารถใช้ ลบถาวร จากศูนย์การจัดการ SharePointใหม่ ได้ 
 
-1. ไปที่ [หน้าไซต์ที่ถูกลบของศูนย์การจัดการ SharePoint ใหม่](https://admin.microsoft.com/sharepoint?page=recycleBin&modern=true) แล้วลงชื่อเข้าใช้ด้วยบัญชีผู้ใช้ที่มีสิทธิ์ผู้ดูแลระบบสำหรับองค์กรของคุณ 
+1. ไปที่หน้า[ไซต์ที่ถูกลบ ของศูนย์SharePointและ](https://admin.microsoft.com/sharepoint?page=recycleBin&modern=true)ลงชื่อเข้าใช้ด้วยบัญชีที่มีสิทธิ์ผู้ดูแลระบบขององค์กรของคุณ 
 
-2. ในคอลัมน์ด้านซ้ายให้เลือกไซต์ 
+2. ในคอลัมน์ด้านซ้าย ให้เลือกไซต์ 
 
-3. คลิก**ลบอย่างถาวร** 
+3. **คลิก ลบ** ถาวร 
 
-**หมายเหตุ**: ไม่สามารถลบไซต์ที่เชื่อมต่อกับกลุ่มได้อย่างถาวรจากศูนย์การจัดการ SharePoint ใหม่ [เอาออก-SPODeletedSite](https://docs.microsoft.com/powershell/module/sharepoint-online/remove-spodeletedsite) จะต้องถูกใช้แทน  
+**หมายเหตุ**: ไซต์ที่เชื่อมต่อกับกลุ่มไม่สามารถถูกลบออกจากศูนย์การจัดการSharePointใหม่ได้อย่างถาวร [Remove-SPODeletedSite](https://docs.microsoft.com/powershell/module/sharepoint-online/remove-spodeletedsite) will need to be used instead.  
 
-สำหรับข้อมูลเพิ่มเติมให้ดู[ที่ลบไซต์อย่างถาวร](https://docs.microsoft.com/sharepoint/delete-site-collection#permanently-delete-a-site) 
+For more info, see [Permanently delete a site](https://docs.microsoft.com/sharepoint/delete-site-collection#permanently-delete-a-site). 

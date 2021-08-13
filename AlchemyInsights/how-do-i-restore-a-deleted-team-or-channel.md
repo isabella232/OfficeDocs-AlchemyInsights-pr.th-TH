@@ -13,12 +13,12 @@ ms.custom:
 - "6500002"
 - "2650"
 - "2603"
-ms.openlocfilehash: e1f858cc6d42db4c165bd406ca71fdfa6ad77199
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: d82a1f0ac2007e2c7472fc486754a7b144a8927d17ab0e6ffe0fed6fd2ddf4e4
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51811187"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53927272"
 ---
 # <a name="how-to-restore-a-deleted-team-or-channel"></a>วิธีคืนค่าทีมหรือแชนเนลที่ถูกลบ
 
@@ -29,4 +29,4 @@ ms.locfileid: "51811187"
 1. เปิดการตั้งค่าทีมโดยการเลือกจุด 3 จุดทางด้านขวาของชื่อทีม
 2. เลือก **จัดการ**  >  **แช**  >  **น** เนลทีมที่ถูกลบ **แล้วเลือก** คืนค่า ทางด้านขวา
 
-หากต้องการข้อมูลเพิ่มเติมเกี่ยวกับการคืนค่าทีม โปรดดู เก็บถาวร[หรือลบทีมใน Microsoft Teams - Microsoft Teams | เอกสาร Microsoft](https://docs.microsoft.com/microsoftteams/archive-or-delete-a-team#restore-a-deleted-team)
+For more information on restoring a Team, see [Archive or delete a team in Microsoft Teams - Microsoft Teams | เอกสาร Microsoft](https://docs.microsoft.com/microsoftteams/archive-or-delete-a-team#restore-a-deleted-team)

@@ -1,5 +1,5 @@
 ---
-title: การเพิ่มหรือเอาบทบาทแบบกำหนดเองออก
+title: เพิ่มหรือเอาบทบาทแบบมอบหมายเองออก
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,15 +13,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "6176"
 - "9003232"
-ms.openlocfilehash: 8a43f20155f3bc726395841550903167bef3a6d0
-ms.sourcegitcommit: 94036315916fbc79dca2a692c2e9bc1139dd28f6
+ms.openlocfilehash: 6e1f3867f11b11c192f9942bc90d50f68ac24e5585aeb85b930b7c264f282d07
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 12/08/2020
-ms.locfileid: "49599433"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53954356"
 ---
-# <a name="add-or-remove-a-custom-role"></a>การเพิ่มหรือเอาบทบาทแบบกำหนดเองออก
+# <a name="add-or-remove-a-custom-role"></a>เพิ่มหรือเอาบทบาทแบบมอบหมายเองออก
 
-เมื่อต้องการจัดการทรัพยากร Azure ให้ดูที่[เพิ่มหรือเอาการมอบหมายบทบาท azure ออกโดยใช้พอร์ทัล Azure](https://docs.microsoft.com/azure/role-based-access-control/role-assignments-portal)
+เมื่อต้องการจัดการแหล่งข้อมูล Azure ให้ดู[เพิ่มหรือเอาการมอบหมายบทบาท Azure ออกโดยใช้พอร์ทัล Azure](https://docs.microsoft.com/azure/role-based-access-control/role-assignments-portal)
 
-เมื่อต้องการจัดการบทบาทแบบกำหนดเองสำหรับ Azure Active Directory (Azure AD) ให้ดู[ที่บทบาทผู้ดูแลระบบแบบกำหนดเองใน Azure Active directory (ตัวอย่าง)](https://docs.microsoft.com/azure/active-directory/users-groups-roles/roles-custom-overview)
+เมื่อต้องการจัดการบทบาทแบบAzure Active Directory (Azure AD) ให้ดู บทบาท[ผู้ดูแลระบบแบบAzure Active Directoryเอง (ตัวอย่าง)](https://docs.microsoft.com/azure/active-directory/users-groups-roles/roles-custom-overview)
