@@ -1,5 +1,5 @@
 ---
-title: ๑๔๘๙-สิทธิ์-การค้นหาที่ต้องการ--ediscovery-การค้นหา
+title: 1489-permissions-required-for-ediscovery-searches
 ms.author: markjjo
 author: markjjo
 manager: lauraw
@@ -12,23 +12,23 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 1489
 ms.assetid: ''
-ms.openlocfilehash: bc384a948bab5ba93b00f9401cc42e4fda71ec3d
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 4343a43b5019877ce01601f4baa13f3290177d25e0d24d6034858205966f5f35
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47795839"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53973860"
 ---
-# <a name="permissions-required-for-ediscovery-searches"></a>สิทธิ์ที่จำเป็นสำหรับการค้นหา eDiscovery
+# <a name="permissions-required-for-ediscovery-searches"></a>สิทธิ์ที่ต้องมีในการค้นหา eDiscovery
 
-เมื่อต้องการดำเนินการค้นหาเนื้อหาในศูนย์การรักษาความปลอดภัย & การปฏิบัติตามนโยบายของผู้ใช้จะต้องเป็นสมาชิกของกลุ่มบทบาทผู้จัดการ eDiscovery ซึ่งจะช่วยให้พวกเขาสามารถดำเนินการค้นหาและวางบนกล่องจดหมายไซต์ SharePoint และตำแหน่งที่ตั้ง OneDrive ได้ นอกจากนี้สมาชิกยังสามารถสร้างและจัดการกรณีของ eDiscovery เพิ่มและเอาสมาชิกออกจากกรณีสร้างและแก้ไขการค้นหาเนื้อหาและเข้าถึงข้อมูลของตัวพิมพ์ใน eDiscovery ขั้นสูงได้อีกด้วย
+เมื่อต้องการค้นหาเนื้อหาในศูนย์การปฏิบัติตามนโยบาย & ความปลอดภัย ผู้ใช้ต้องเป็นสมาชิกของกลุ่มบทบาท eDiscovery Manager อย่างน้อย ซึ่งอนุญาตให้ผู้ใช้สามารถค้นหาและที่เก็บกล่องจดหมาย ไซต์ SharePoint และOneDrive ได้ สมาชิกยังสามารถสร้างและจัดการกรณี eDiscovery เพิ่มและเอาสมาชิกออกในกรณี สร้างและแก้ไขการค้นหาเนื้อหา และเข้าถึงข้อมูลกรณีAdvanced eDiscoveryเนื้อหา
 
-เมื่อต้องการดำเนินการค้นหา eDiscovery ในตำแหน่งที่ตั้งในศูนย์การจัดการ Exchange (EAC) ผู้ใช้จะต้องเป็นสมาชิกของกลุ่มบทบาทการจัดการการค้นหาใน Exchange Online
+เมื่อต้องการIn-Place eDiscovery ในศูนย์การจัดการ Exchange (EAC) ผู้ใช้ต้องเป็นสมาชิกของกลุ่มบทบาทการจัดการการค้นพบใน Exchange Online
 
-สำหรับข้อมูลเพิ่มเติมเกี่ยวกับสิทธิ์ eDiscovery ให้ดูที่: 
+For more information about eDiscovery permissions, see: 
 
-- [กำหนดสิทธิ์ eDiscovery ในศูนย์การรักษาความปลอดภัย & การปฏิบัติตามนโยบาย](https://docs.microsoft.com/microsoft-365/compliance/assign-ediscovery-permissions)
+- [กําหนดสิทธิ์ eDiscovery ในศูนย์&การปฏิบัติตามข้อบังคับ](https://docs.microsoft.com/microsoft-365/compliance/assign-ediscovery-permissions)
 
-- [การกำหนดสิทธิ์ eDiscovery ใน Exchange](https://docs.microsoft.com/exchange/security-and-compliance/in-place-ediscovery/assign-ediscovery-permissions)
+- [กําหนดสิทธิ์ eDiscovery Exchange](https://docs.microsoft.com/exchange/security-and-compliance/in-place-ediscovery/assign-ediscovery-permissions)
 
-**หมายเหตุ**: หลังจากกำหนดสิทธิ์ eDiscovery คุณอาจจำเป็นต้องรอสองสามนาทีเพื่อให้สิทธิ์ในการเผยแพร่
+**หมายเหตุ**: หลังจากกําหนดสิทธิ์ eDiscovery แล้ว คุณอาจต้องรอสักครู่เพื่อให้สิทธิ์เผยแพร่

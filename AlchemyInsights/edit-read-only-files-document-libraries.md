@@ -9,15 +9,15 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 7fd02fc7-4aaf-4ae6-b514-ceda456b74e2
-ms.openlocfilehash: 78f2f33c4a5aea2e3d0d3ee4949e3e1670b9e644
-ms.sourcegitcommit: a5ba4dc8c349ed79147f67b62bde544281f7c106
+ms.openlocfilehash: 2e343abc0b7ae06de34b20006059fd2c93cf47c8063ee16f0e9e1ab273e1ee4d
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 11/03/2020
-ms.locfileid: "48840558"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53947210"
 ---
 # <a name="edit-a-read-only-file"></a>แก้ไขไฟล์แบบอ่านอย่างเดียว
 
-คุณอาจพบว่าเมื่อคุณกำลังเปิดไฟล์พวกเขาเปิดเป็นแบบอ่านอย่างเดียว ในบางกรณีการทำเช่นนี้มีไว้สำหรับการรักษาความปลอดภัยที่เพิ่มขึ้นเช่นเมื่อคุณกำลังเปิดไฟล์จากอินเทอร์เน็ตและเวลาอื่นๆอาจเป็นเพราะการตั้งค่าที่สามารถเปลี่ยนแปลงได้
+คุณอาจพบว่าเมื่อคุณเปิดไฟล์ ไฟล์จะเปิดเป็นแบบอ่านอย่างเดียว ในบางกรณี ตัวเลือกนี้มีไว้เพื่อเพิ่มความปลอดภัย เช่น เมื่อคุณเปิดไฟล์จากอินเทอร์เน็ต และบางครั้งอาจเกิดจากการตั้งค่าที่สามารถเปลี่ยนแปลงได้
 
-- [ไฟล์ SharePoint เปิดเป็นแบบอ่านอย่างเดียว](https://docs.microsoft.com/sharepoint/troubleshoot/lists-and-libraries/files-open-as-read-only-and-cannot-check-in-or-out)
+- [SharePointเปิดเป็นแบบอ่านอย่างเดียว](https://docs.microsoft.com/sharepoint/troubleshoot/lists-and-libraries/files-open-as-read-only-and-cannot-check-in-or-out)

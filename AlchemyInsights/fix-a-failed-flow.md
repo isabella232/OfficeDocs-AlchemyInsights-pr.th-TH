@@ -1,5 +1,5 @@
 ---
-title: แก้ไขการไหลที่ล้มเหลว
+title: แก้ไขโฟลว์ที่ล้มเหลว
 ms.author: toresing
 author: tomresing
 manager: scotv
@@ -12,21 +12,21 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 856b15c9-2b41-4528-8195-7bfccbf78d69
-ms.openlocfilehash: 4d94055ca7cbf892d0818076c7a75fc033ebce5a
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 3deb6062b5359924e15dff61b8eedd4be1ce00afe24027cd9917271bd5bbe48d
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47730214"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53945986"
 ---
-# <a name="fix-a-flow-that-failed"></a>แก้ไขการไหลที่ล้มเหลว
+# <a name="fix-a-flow-that-failed"></a>แก้ไขโฟลว์ที่ล้มเหลว
 
-1. ไปที่ [Microsoft Flow](https://flow.microsoft.com/)แล้วคลิกไอคอนการแจ้งเตือนที่ด้านขวาบน (หรือในแอปสำหรับอุปกรณ์เคลื่อนที่ให้เลือกแท็บกิจกรรม) เลือกลำดับที่ล้มเหลวในการดูรายละเอียด
+1. ไปที่[Microsoft Flow](https://flow.microsoft.com/)การแจ้งเตือน แล้วคลิกไอคอน การแจ้งเตือน ที่มุมขวาบน (หรือในแอปมือถือ ให้เลือกแท็บ กิจกรรม) เลือกโฟลว์ที่ไม่สามารถดูรายละเอียด
     
-2. ค้นหาขั้นตอนด้วยไอคอนเครื่องหมายอัศเจรีย์สีแดงเพื่อดูข้อความแสดงข้อผิดพลาดสำหรับการไหล
+2. ค้นหาขั้นตอนที่มีไอคอนเครื่องหมายอัศเจรีย์สีแดงเพื่อดูข้อความแสดงข้อผิดพลาดของโฟลว์
     
-3. ทั้งนี้ขึ้นอยู่กับข้อความแสดงข้อผิดพลาดคุณควรจะสามารถแก้ไขการไหลและการแก้ไขได้ 
+3. คุณควรจะสามารถแก้ไขขั้นตอนและแก้ไขปัญหาได้ ทั้งนี้ขึ้นอยู่กับข้อความแสดงข้อผิดพลาด 
     
-[ความล้มเหลวในการไหลทั่วไป](https://go.microsoft.com/fwlink/?linkid=872110)
+[ความล้มเหลวในการโฟลว์ทั่วไป](https://go.microsoft.com/fwlink/?linkid=872110)
   
 

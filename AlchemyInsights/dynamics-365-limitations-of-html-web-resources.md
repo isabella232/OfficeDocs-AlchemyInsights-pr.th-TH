@@ -1,5 +1,5 @@
 ---
-title: Schema XML ของฟอร์ม๓๖๕ Dynamics
+title: Dynamics 365 Form XML Schema
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
@@ -10,17 +10,17 @@ localization_priority: Normal
 ms.custom:
 - "1473"
 - "6200020"
-ms.openlocfilehash: a8ece1151885f6905b00dbd0daf7b18fdff60b29
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 4d8d652e991c0ebaae6a79230a5fd0fcacf8ce6bbdf2622dfdcc448cc7e2353c
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47711330"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53947282"
 ---
-# <a name="webpage-html-web-resources-limitations"></a>ข้อจำกัดด้านทรัพยากรเว็บเพจ (HTML)
+# <a name="webpage-html-web-resources-limitations"></a>ข้อจํากัดทรัพยากรเว็บเว็บเพจ (HTML)
 
-* ทรัพยากรบนเว็บของ HTML ไม่สามารถมีโค้ดที่ต้องดำเนินการบนเซิร์ฟเวอร์ได้ ไม่สามารถอัปโหลดหน้า ASP.NET เป็นทรัพยากรบนเว็บของ HTML ได้
+* ทรัพยากรเว็บ HTML ไม่สามารถมีโค้ดใดๆ ที่ต้องถูกเรียกใช้บนเซิร์ฟเวอร์ ASP.NET หน้าเหล่านี้ไม่สามารถอัปโหลดเป็นทรัพยากรบนเว็บ HTML ได้
 
-* ทรัพยากรบนเว็บของ HTML สามารถยอมรับพารามิเตอร์สตริงแบบสอบถามจำนวนจำกัดเท่านั้น ข้อมูลเพิ่มเติม: [ส่งผ่านพารามิเตอร์ไปยังทรัพยากรบนเว็บของ HTML](https://docs.microsoft.com/dynamics365/customer-engagement/developer/webpage-html-web-resources#BKMK_PassingParametersToWebResources)
+* ทรัพยากรเว็บ HTML สามารถยอมรับพารามิเตอร์สตริงคิวรีได้จํานวนจํากัดเท่านั้น ข้อมูลเพิ่มเติม: [ส่งผ่านพารามิเตอร์ไปยังทรัพยากรเว็บ HTML](https://docs.microsoft.com/dynamics365/customer-engagement/developer/webpage-html-web-resources#BKMK_PassingParametersToWebResources)
 
-[ทรัพยากรบนเว็บของเว็บเพจ (HTML)](https://docs.microsoft.com/dynamics365/customer-engagement/developer/webpage-html-web-resources)
+[ทรัพยากรเว็บเว็บเพจ (HTML)](https://docs.microsoft.com/dynamics365/customer-engagement/developer/webpage-html-web-resources)

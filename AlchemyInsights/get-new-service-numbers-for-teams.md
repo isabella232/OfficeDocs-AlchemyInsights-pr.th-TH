@@ -1,5 +1,5 @@
 ---
-title: รับหมายเลขบริการใหม่ให้กับ Teams
+title: รับหมายเลขบริการใหม่Teams
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002532"
 - "5140"
-ms.openlocfilehash: 90cc994398de0b53d3501cb9d95c860ad6b397d9
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 418b90b2ae7bbb2e40770be239d8185b90abb08c4e5bbe275e80f64966e97413
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51812267"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53945833"
 ---
-# <a name="get-new-service-numbers-for-teams"></a>รับหมายเลขบริการใหม่ให้กับ Teams
+# <a name="get-new-service-numbers-for-teams"></a>รับหมายเลขบริการใหม่Teams
 
-ใช้ศูนย์การจัดการ Microsoft Teams:
+การใช้ศูนย์Microsoft Teamsให้ต่อไปนี้
 
-1. ในการนําทางด้านซ้าย ให้ไปที่ **>เสียง** แล้วคลิก **เพิ่ม**
+1. ในการนําทางด้านซ้าย ให้ไปที่ **> โทรเสียง** และ **จากนั้นคลิก** เพิ่ม
 2. ใส่ชื่อของใบสั่งซื้อ และถ้าคุณต้องการ ให้เพิ่มรายละเอียด
 3. บนหน้า สถานที่ **และปริมาณ** :
 
