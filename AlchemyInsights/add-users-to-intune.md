@@ -1,5 +1,5 @@
 ---
-title: เพิ่มผู้ใช้ไปยัง Intune
+title: เพิ่มผู้ใช้ไปยัง Intun1
 ms.author: erikje
 author: erikje
 manager: dougeby
@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000664"
 - "2535"
-ms.openlocfilehash: 6796112af0c67669ce073ac98348c9420c94730c
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: dd58fb971f6f8225c69093fff28b149b507a75ac1ee4bfb430c919fddd317b52
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47687499"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53953312"
 ---
-# <a name="add-users-to-intune"></a>เพิ่มผู้ใช้ไปยัง Intune
+# <a name="add-users-to-intune"></a>เพิ่มผู้ใช้ไปยัง Intun1
 
-คุณสามารถเพิ่มผู้ใช้ลงในการสมัครใช้งาน Intune ของคุณด้วยตนเองโดยใช้ [ศูนย์การจัดการ Microsoft ๓๖๕](https://admin.microsoft.com/)   หรือ [พอร์ทัล Intune](https://portal.azure.com/#blade/Microsoft_Intune_DeviceSettings/ExtensionLandingBlade/overview)
+คุณสามารถเพิ่มผู้ใช้ลงในการสมัครใช้งาน Intuned ของคุณด้วยตนเอง[โดยใช้ศูนย์การจัดการ Microsoft 365](https://admin.microsoft.com/)[หรือพอร์ทัล Intuned](https://portal.azure.com/#blade/Microsoft_Intune_DeviceSettings/ExtensionLandingBlade/overview)
 
-ผู้ดูแลระบบสามารถแก้ไขบัญชีผู้ใช้เพื่อกำหนดสิทธิ์การใช้งาน Intune ได้ คุณสามารถกำหนดสิทธิ์การใช้งานได้ในศูนย์การจัดการ Microsoft ๓๖๕หรือพอร์ทัล Intune
+ผู้ดูแลระบบสามารถแก้ไขบัญชีผู้ใช้เพื่อกําหนดสิทธิ์การใช้งาน Intun1 ได้ คุณสามารถกําหนดสิทธิ์การใช้งานในพอร์ทัล ศูนย์การจัดการ Microsoft 365 Intuned
 
-สำหรับข้อมูลเพิ่มเติมเกี่ยวกับการใช้ศูนย์การจัดการ Microsoft ๓๖๕ให้ดูที่ [เพิ่มผู้ใช้ทีละคนหรือเป็นกลุ่มไปยังศูนย์การจัดการ microsoft ๓๖๕](https://support.office.com/article/Add-users-individually-or-in-bulk-to-Office-365-Admin-Help-1970f7d6-03b5-442f-b385-5880b9c256ec)
+For more information on using the ศูนย์การจัดการ Microsoft 365, see [Add users individually or in bulk to the ศูนย์การจัดการ Microsoft 365](https://support.office.com/article/Add-users-individually-or-in-bulk-to-Office-365-Admin-Help-1970f7d6-03b5-442f-b385-5880b9c256ec).
 
-สำหรับข้อมูลเพิ่มเติมเกี่ยวกับการใช้พอร์ทัล Intune ให้ดู[ที่เพิ่มผู้ใช้และให้สิทธิ์ในการดูแลระบบของ intune](https://docs.microsoft.com/intune/fundamentals/users-add)
+For more information on using the Intun1 portal, see [Add users and grant administrative permissions to Intun1](https://docs.microsoft.com/intune/fundamentals/users-add).

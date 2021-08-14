@@ -1,5 +1,5 @@
 ---
-title: การกำหนดค่าขั้นสูงของไคลเอ็นต์ AIP
+title: การกําหนดค่าขั้นสูงของไคลเอ็นต์ AIP
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,39 +13,39 @@ ms.collection: Adm_O365
 ms.custom:
 - "4781"
 - "9002277"
-ms.openlocfilehash: 2ef8535c66dabe75418df0b5ae53f27ffd6caca1
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: d2b096b9b438f257a50c9ec48379009f2a3798c1812fa531cdc30e61a5460a1e
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47663280"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53951836"
 ---
-# <a name="aip-client-advanced-configuration"></a>การกำหนดค่าขั้นสูงของไคลเอ็นต์ AIP
+# <a name="aip-client-advanced-configuration"></a>การกําหนดค่าขั้นสูงของไคลเอ็นต์ AIP
 
-มีปัญหาเกิดขึ้นกับการกำหนดค่าขั้นสูงของไคลเอ็นต์ AIP หรือไม่ ถ้าเป็นเช่นนั้นให้ทำดังต่อไปนี้:
+มีปัญหากับการกําหนดค่าขั้นสูงของไคลเอ็นต์ AIP หรือไม่ ถ้าเป็นดังนั้น ให้ต่อไปนี้:
 
-1. คุณอาจกำลังใช้นโยบายลักษณะที่ไม่ได้รับการกำหนดค่าอย่างถูกต้อง สำหรับข้อมูลเพิ่มเติมให้ดู[ที่วิธีกำหนดค่านโยบายการป้องกันข้อมูลของ Azure สำหรับผู้ใช้ที่เฉพาะเจาะจงโดยใช้นโยบายลักษณะ](https://docs.microsoft.com/azure/information-protection/configure-policy-scope)
+1. คุณอาจใช้นโยบายขอบเขตที่กําหนดค่าไม่ถูกต้อง For more info, see [How to configure the Azure Information Protection policy for specific users by using scoped policies](https://docs.microsoft.com/azure/information-protection/configure-policy-scope).
 
-2. ถ้าคุณยังคงพบปัญหาให้ดูที่แหล่งข้อมูลด้านล่าง ถ้าปัญหายังคงไม่ได้รับการแก้ไขให้ถ่ายภาพหน้าจอของปัญหาและแนบไปกับตั๋วสนับสนุน
+2. ถ้าคุณยังคงพบปัญหา ให้ดูแหล่งข้อมูลด้านล่าง ถ้าปัญหายังคงยังไม่ได้แก้ไข ให้ถ่ายภาพหน้าจอของปัญหาแล้วแนบไปกับตั๋วการสนับสนุน
 
-สำหรับแหล่งข้อมูลเพิ่มเติมให้ดูที่:
+ดูข้อมูลเพิ่มเติมที่:
 
-- [วิธีการกำหนดค่าการตั้งค่านโยบายสำหรับการป้องกันข้อมูล Azure](https://docs.microsoft.com/azure/information-protection/configure-policy-settings)  
+- [วิธีกําหนดค่าการตั้งค่านโยบายของ Azure Information Protection](https://docs.microsoft.com/azure/information-protection/configure-policy-settings)  
     
-- [คู่มือสำหรับผู้ดูแลระบบ: การกำหนดค่าแบบกำหนดเองสำหรับไคลเอ็นต์การป้องกันข้อมูลของ Azure](https://docs.microsoft.com/azure/information-protection/rms-client/client-admin-guide-customizations)  
+- [คู่มือผู้ดูแลระบบ: การกําหนดค่าแบบกําหนดเองของไคลเอ็นต์ Azure Information Protection](https://docs.microsoft.com/azure/information-protection/rms-client/client-admin-guide-customizations)  
     
-- [การป้องกันข้อมูล Azure คืออะไร](https://docs.microsoft.com/azure/information-protection/what-is-information-protection)  
+- [Azure Information Protection คืออะไร](https://docs.microsoft.com/azure/information-protection/what-is-information-protection)  
     
-- [เส้นบอกแนววิธีการสำหรับสถานการณ์สมมติทั่วไปที่ใช้การป้องกันข้อมูลของ Azure](https://docs.microsoft.com/azure/information-protection/how-to-guides)  
+- [คู่มือวิธีการเกี่ยวกับสถานการณ์ทั่วไปที่ใช้ Azure Information Protection](https://docs.microsoft.com/azure/information-protection/how-to-guides)  
     
-- [การกำหนดค่านโยบายการป้องกันข้อมูลของ Azure](https://docs.microsoft.com/azure/information-protection/deploy-use/configure-policy)  
+- [การกําหนดค่านโยบาย Azure Information Protection](https://docs.microsoft.com/azure/information-protection/deploy-use/configure-policy)  
     
-- [นโยบายการป้องกันข้อมูล Azure เริ่มต้น](https://docs.microsoft.com/azure/information-protection/deploy-use/configure-policy-default)  
+- [นโยบาย Azure Information Protection เริ่มต้น](https://docs.microsoft.com/azure/information-protection/deploy-use/configure-policy-default)  
     
-- [วิธีการสร้างป้ายชื่อใหม่สำหรับการป้องกันข้อมูล Azure](https://docs.microsoft.com/azure/information-protection/deploy-use/configure-policy-new-label)  
+- [วิธีสร้างป้ายชื่อใหม่เพื่อการปกป้องข้อมูล Azure](https://docs.microsoft.com/azure/information-protection/deploy-use/configure-policy-new-label)  
     
-- [วิธีการกำหนดค่าป้ายชื่อสำหรับการป้องกันการจัดการสิทธิ์](https://docs.microsoft.com/azure/information-protection/deploy-use/configure-policy-protection)  
+- [วิธีการกําหนดค่าป้ายชื่อเพื่อการป้องกันการจัดการสิทธิ์](https://docs.microsoft.com/azure/information-protection/deploy-use/configure-policy-protection)  
     
-- [ความต้องการในการป้องกันข้อมูลของ Azure](https://docs.microsoft.com/azure/information-protection/get-started/requirements)
+- [ความต้องการของ Azure Information Protection](https://docs.microsoft.com/azure/information-protection/get-started/requirements)
 
-- [บทช่วยสอน: กำหนดค่าการตั้งค่านโยบายการป้องกันข้อมูล Azure และสร้างป้ายชื่อใหม่](https://docs.microsoft.com/azure/information-protection/get-started/infoprotect-quick-start-tutorial)
+- [บทช่วยสอน: กําหนดการตั้งค่านโยบาย Azure Information Protection และสร้างป้ายชื่อใหม่](https://docs.microsoft.com/azure/information-protection/get-started/infoprotect-quick-start-tutorial)

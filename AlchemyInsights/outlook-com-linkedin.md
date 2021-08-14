@@ -1,5 +1,5 @@
 ---
-title: ปัญหาเกี่ยวกับอีเมลขยะที่อ้างถึงมาจาก LinkedIn
+title: ปัญหาเกี่ยวกับอีเมลขยะที่อ้างว่ามาจาก LinkedIn
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -13,17 +13,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "1276"
 - "8000079"
-ms.openlocfilehash: eab7f1434160b8b2b3a754235b4ea58870dc0003
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 2cd25e36817a9c5193a483a34d9aea1f209e8e7971c180772b32a9552ee67222
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47799475"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54095993"
 ---
-# <a name="issues-with-junk-email-claiming-to-be-from-linkedin"></a>ปัญหาเกี่ยวกับอีเมลขยะที่อ้างถึงมาจาก LinkedIn
+# <a name="issues-with-junk-email-claiming-to-be-from-linkedin"></a>ปัญหาเกี่ยวกับอีเมลขยะที่อ้างว่ามาจาก LinkedIn
 
-เราทราบว่าผู้ใช้บางคนได้รับอีเมลขยะที่อ้างถึงจาก LinkedIn
+เราทราบว่าผู้ใช้บางรายได้รับอีเมลขยะที่อ้างว่ามาจาก LinkedIn
 
-เราขอแนะนำให้ใช้กฎกล่องจดหมายเข้าเพื่อกรองอีเมลเหล่านี้
+เราขอแนะนนะให้ใช้กฎกล่องจดหมายเข้าเพื่อกรองอีเมลเหล่านี้
 
-สำหรับข้อมูลเพิ่มเติมให้อ่านวิธีการ[ใช้กฎกล่องจดหมายเข้าใน Outlook.com](https://support.office.com/article/4b094371-a5d7-49bd-8b1b-4e4896a7cc5d?wt.mc_id=Office_Outlook_com_Alchemy)
+อ่านวิธีใช้กฎกล่องจดหมายเข้าใน[Outlook.com](https://support.office.com/article/4b094371-a5d7-49bd-8b1b-4e4896a7cc5d?wt.mc_id=Office_Outlook_com_Alchemy)

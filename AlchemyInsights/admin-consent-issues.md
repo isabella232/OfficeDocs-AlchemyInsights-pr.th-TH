@@ -1,5 +1,5 @@
 ---
-title: ปัญหาเกี่ยวกับความยินยอมของผู้ดูแลระบบ
+title: ปัญหาความยินยอมของผู้ดูแลระบบ
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,19 +13,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004354"
 - "7786"
-ms.openlocfilehash: 6154b4b9cce51be3271cb25132f409319d8da14b
-ms.sourcegitcommit: 113b802081101de70810fc73938ea92f7518d8c6
+ms.openlocfilehash: 08d3bfa84fd5ab31d7165090c392866d863898545ade7631e820a100eef89dea
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 01/18/2021
-ms.locfileid: "49901514"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53952592"
 ---
-# <a name="admin-consent-issues"></a>ปัญหาเกี่ยวกับความยินยอมของผู้ดูแลระบบ
+# <a name="admin-consent-issues"></a>ปัญหาความยินยอมของผู้ดูแลระบบ
 
-1. เปิดใช้ [งานเวิร์กโฟลว์ความยินยอมของผู้ดูแลระบบ](https://docs.microsoft.com/azure/active-directory/manage-apps/configure-admin-consent-workflow) เพื่ออนุญาตให้ผู้ใช้ร้องขอการอนุมัติจากผู้ดูแลระบบโดยตรงจากหน้าจอความยินยอม
+1. เปิดใช้งานเวิร์กโฟลว์ [ความยินยอมของผู้ดูแลระบบ](https://docs.microsoft.com/azure/active-directory/manage-apps/configure-admin-consent-workflow) เพื่ออนุญาตให้ผู้ใช้ร้องขอการอนุมัติจากผู้ดูแลระบบได้โดยตรงจากหน้าจอความยินยอม
 
-1. ถ้าคุณหรือผู้ใช้ของแอปพลิเคชันของคุณเห็นข้อผิดพลาดที่ไม่คาดคิดในระหว่างกระบวนการยินยอมให้ดูบทความนี้สำหรับขั้นตอนการแก้ไขปัญหา:[ข้อผิดพลาดที่ไม่คาดคิดเมื่อทำการยินยอมให้กับแอปพลิเคชัน](https://docs.microsoft.com/azure/active-directory/manage-apps/application-sign-in-unexpected-user-consent-error)
+1. ถ้าคุณหรือผู้ใช้แอปพลิเคชันของคุณพบข้อผิดพลาดที่ไม่คาดคิดในระหว่างกระบวนการยินยอม ให้ดูบทความนี้เพื่อดูขั้นตอนการแก้ไขปัญหา: ข้อผิดพลาดที่ไม่คาดคิดเมื่อได้รับความยินยอม [จาก](https://docs.microsoft.com/azure/active-directory/manage-apps/application-sign-in-unexpected-user-consent-error)แอปพลิเคชัน
 
-1. เรียนรู้เพิ่มเติมเกี่ยวกับ[ความยินยอมของผู้ดูแลระบบบนแพลตฟอร์มข้อมูลเฉพาะตัวของ Microsoft](https://docs.microsoft.com/azure/active-directory/develop/v2-admin-consent)วิธีการทำงานของ[พร้อมท์การยินยอม](https://docs.microsoft.com/azure/active-directory/develop/v2-admin-consent)และวิธีการ[ประเมินคำขอความยินยอมของผู้ดูแลระบบสำหรับผู้เช่า](https://docs.microsoft.com/azure/active-directory/manage-apps/manage-consent-requests#evaluating-a-request-for-tenant-wide-admin-consent)
+1. เรียนรู้เพิ่มเติมเกี่ยวกับ[ความยินยอมของผู้ดูแลระบบแพลตฟอร์มข้อมูลประจําตัวของ Microsoft](https://docs.microsoft.com/azure/active-directory/develop/v2-admin-consent)วิธีการงาน[พร้อมท์](https://docs.microsoft.com/azure/active-directory/develop/v2-admin-consent)การยินยอม และวิธีการประเมินการร้องขอความยินยอมของผู้ดูแลระบบ[ทั้ง](https://docs.microsoft.com/azure/active-directory/manage-apps/manage-consent-requests#evaluating-a-request-for-tenant-wide-admin-consent)ผู้เช่า
 
-1. แอปพลิเคชันที่รวมเข้ากับ Microsoft identity platform จะทำตามรูปแบบการตรวจสอบที่ทำให้ผู้ใช้และผู้ดูแลระบบสามารถควบคุมได้ว่าจะสามารถเข้าถึงข้อมูลได้อย่างไร การใช้งานของรูปแบบการตรวจสอบได้รับการอัปเดตในจุดสิ้นสุดของแพลตฟอร์มข้อมูลเฉพาะตัวของ Microsoft และจะเปลี่ยนวิธีที่แอปจะต้องโต้ตอบกับแพลตฟอร์มข้อมูลเฉพาะตัวของ Microsoft ดู [สิทธิ์และความยินยอมในจุดสิ้นสุดของ Microsoft identity platform](https://docs.microsoft.com/azure/active-directory/manage-apps/manage-consent-requests#evaluating-a-request-for-tenant-wide-admin-consent) สำหรับภาพรวมของรูปแบบการตรวจสอบนี้รวมถึงขอบเขตสิทธิ์และความยินยอม
+1. แอปพลิเคชันที่รวมแพลตฟอร์มข้อมูลประจําตัวของ Microsoftติดตามรูปแบบการอนุญาตที่ให้ผู้ใช้และผู้ดูแลระบบควบคุมวิธีเข้าถึงข้อมูล การปรับใช้รูปแบบการอนุญาตได้รับการอัปเดตบนจุดสิ้นสุด แพลตฟอร์มข้อมูลประจําตัวของ Microsoft และจะเปลี่ยนวิธีที่แอปต้องโต้ตอบกับแพลตฟอร์มข้อมูลประจําตัวของ Microsoft ดู[สิทธิ์และความยินยอมในแพลตฟอร์มข้อมูลประจําตัวของ Microsoftปลายทาง](https://docs.microsoft.com/azure/active-directory/manage-apps/manage-consent-requests#evaluating-a-request-for-tenant-wide-admin-consent)ของกลุ่มเพื่อดูภาพรวมของรูปแบบการอนุญาตนี้ รวมถึงขอบเขต สิทธิ์ และความยินยอม

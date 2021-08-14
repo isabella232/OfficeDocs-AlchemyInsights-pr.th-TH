@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002266"
 - "4541"
-ms.openlocfilehash: 5f50fc1d38618017bca61b4e9290d9893983534e
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: e3a0e5caccba87ddd8e4c786b5c8918494e709b6f4d5d60e7c31215a60b1d5d6
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51821718"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53951800"
 ---
 # <a name="aip-headers-and-footers-not-displaying-as-expected"></a>AIP: หัวกระดาษและท้ายกระดาษไม่แสดงตามที่คาดไว้
 
@@ -31,7 +31,7 @@ ms.locfileid: "51821718"
 
 **ส่งออกบันทึก Azure Information Protection**
 
-1. เปิดเอกสาร Office หรือสร้างอีเมลใหม่ใน Outlook
+1. เปิดOfficeเอกสารหรือสร้างอีเมลใหม่ในOutlookใหม่
 2. คลิก **วิธีใช้และข้อคิดเห็นเกี่ยวกับการป้องกัน/** ระดับ  >  **ความลับ**
 3. คลิก **ส่งออก** แฟ้มบันทึก
 4. บันทึกแฟ้มบันทึกไปยังตัวเลือกของสถานที่และแนบไฟล์ไปกับการร้องขอบริการนี้

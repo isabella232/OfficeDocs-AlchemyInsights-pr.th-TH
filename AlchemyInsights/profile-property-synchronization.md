@@ -9,17 +9,17 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 17e9882a-2341-459f-86d8-6ad8df3bef7e
-ms.openlocfilehash: 55d2b25747fe0f6239c1bf9feb4ca79ada49c54a
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 5c22e08676272b3db7da0d7bfab64e6f5bfc979303b2a8e74958cd24c7007443
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47768410"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54009807"
 ---
 # <a name="profile-property-synchronization"></a>การซิงโครไนซ์คุณสมบัติโปรไฟล์
 
-คุณไม่สามารถแมปคุณสมบัติเพิ่มเติมสำหรับการนำเข้าโฆษณาเพื่อซิงค์จาก Azure Active Directory ไปยังแอปพลิเคชันโปรไฟล์ผู้ใช้ได้ การนำเข้าโฆษณาถูกจำกัดไว้ที่ชุดคุณสมบัติที่กำหนดไว้ล่วงหน้าเพื่อรับประกันประสิทธิภาพการทำงานของตัวจับเวลาที่สอดคล้องกัน
+ไม่สามารถแมปคุณสมบัติเพิ่มเติมเพื่อนําเข้า AD เพื่อซิงค์จากAzure Active Directoryไปยังแอปพลิเคชันโปรไฟล์ผู้ใช้ได้ การนําเข้า AD ถูกจํากัดไว้เฉพาะชุดคุณสมบัติที่ถูกตั้งค่าไว้ล่วงหน้าเพื่อรับประกันประสิทธิภาพการทั้งหมดของงานตัวจับเวลา
   
-[เรียนรู้เพิ่มเติมเกี่ยวกับคุณสมบัติของโปรไฟล์ที่ซิงค์](https://go.microsoft.com/fwlink/?linkid=875671)
+[เรียนรู้เพิ่มเติมเกี่ยวกับคุณสมบัติโปรไฟล์ที่ซิงค์](https://go.microsoft.com/fwlink/?linkid=875671)
   
 
