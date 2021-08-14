@@ -1,5 +1,5 @@
 ---
-title: กฎ DLP สำหรับหมายเลขบัญชีธนาคารของสหรัฐอเมริกาไม่ทำงาน
+title: กฎ DLP ของหมายเลขบัญชีธนาคารของสหรัฐอเมริกาไม่ใช้งาน
 ms.author: deniseb
 author: denisebmsft
 manager: laurawi
@@ -13,38 +13,38 @@ ms.custom:
 - "1287"
 - "3200001"
 ms.assetid: 80b40145-8376-4c3a-8d22-6efb9f9cb271
-ms.openlocfilehash: eb399e4b23de32a757562833ed32d97daa6a1247
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: d19b2dcc29e23fab522159945496165338a117a47bfcfcadf0b93e4e5f14464f
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47679315"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54005037"
 ---
-# <a name="dlp-issues-with-us-bank-account-numbers"></a>ปัญหา DLP เกี่ยวกับหมายเลขบัญชีธนาคารของสหรัฐอเมริกา
+# <a name="dlp-issues-with-us-bank-account-numbers"></a>ปัญหา DLP กับหมายเลขบัญชีธนาคารของสหรัฐอเมริกา
 
-**สำคัญ**: ในช่วงเวลาที่เป็นประวัติการณ์เหล่านี้เราจะดำเนินการตามขั้นตอนเพื่อให้แน่ใจว่าบริการ sharepoint Online และ OneDrive ยังคงพร้อมใช้งานอย่างมาก–โปรดไปที่การ [ปรับปรุงฟีเจอร์ชั่วคราวของ sharepoint Online](https://aka.ms/ODSPAdjustments) สำหรับข้อมูลเพิ่มเติม
+**สิ่ง** สําคัญ: ในระหว่างช่วงเวลาที่ไม่มีประวัติใช้งานเหล่านี้ เราปฏิบัติตามขั้นตอนต่างๆ เพื่อให้แน่ใจว่าบริการ SharePoint Online และ OneDrive ยังคงพร้อมใช้งานอยู่ โปรดเยี่ยมชม SharePoint [การปรับ](https://aka.ms/ODSPAdjustments)ฟีเจอร์ชั่วคราวแบบออนไลน์ SharePoint เพื่อดูข้อมูลเพิ่มเติม
 
-**ปัญหา DLP เกี่ยวกับหมายเลขบัญชีธนาคารของสหรัฐอเมริกา**
+**ปัญหา DLP กับหมายเลขบัญชีธนาคารของสหรัฐอเมริกา**
 
-คุณมีปัญหาเกี่ยวกับการ **ป้องกันการสูญหายของข้อมูล (DLP)** ไม่ทำงานสำหรับเนื้อหาที่มี **หมายเลขบัญชีธนาคารสหรัฐอเมริกา** เมื่อใช้ชนิดข้อมูลที่ละเอียดอ่อนของ DLP ใน O365 ใช่หรือไม่ ถ้าเป็นเช่นนั้นตรวจสอบให้แน่ใจว่าเนื้อหาของคุณมีข้อมูลที่จำเป็นสำหรับสิ่งที่นโยบาย DLP กำลังค้นหาเมื่อมีการประเมิน
+คุณมีปัญหากับการป้องกันการ **สูญหายของข้อมูล (DLP)** ไม่ใช้งานกับเนื้อหาที่มีหมายเลขบัญชีธนาคารของ **สหรัฐอเมริกา** เมื่อใช้ชนิดข้อมูลที่เป็นความลับ DLP ใน O365 หรือไม่ If so, make sure your content contains the needed information for what the DLP policy is looking for when it is evaluated.
   
-ตัวอย่างเช่นสำหรับนโยบาย **หมายเลขบัญชีธนาคารสหรัฐอเมริกา** ที่กำหนดค่าด้วยระดับความเชื่อมั่นของ๘๕% ดังต่อไปนี้จะถูกประเมินและต้องถูกตรวจพบสำหรับกฎที่จะทริกเกอร์:
+ตัวอย่างเช่น ในนโยบายหมายเลขบัญชีธนาคาร **ของสหรัฐอเมริกา** ที่กําหนดค่าด้วยระดับความเชื่อมั่นที่ 85% นโยบายต่อไปนี้จะถูกประเมินและต้องถูกตรวจพบเพื่อให้กฎทริกเกอร์:
   
-- **[รูปแบบ:](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions#format-77)** ตัวเลข8-17
+- **[รูปแบบ:](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions#format-77)** 8-17 หลัก
 
-- **[ลวดลาย:](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions#pattern-77)** 8-17 ตัวเลขที่ติดต่อกัน
+- **[รูปแบบ:](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions#pattern-77)** ตัวเลขติดกัน 8-17 หลัก
 
-- **[Checksum:](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions#checksum-76)** ไม่มี Checksum
+- **[Checksum:](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions#checksum-76)** ไม่ ไม่มี Checksum
 
-- **[ข้อกำหนด:](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions)** นโยบาย DLP มีความมั่นใจ๗๕% ว่าจะตรวจพบข้อมูลที่เป็นความลับชนิดนี้ในกรณีที่มีอักขระ๓๐๐ที่อยู่ในความใกล้เคียง:
+- **[นิยาม:](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions)** นโยบาย DLP มั่นใจ 75% ว่าจะถูกตรวจพบชนิดข้อมูลที่ละเอียดอ่อนนี้ถ้าภายในความใกล้เคียง 300 อักขระ:
 
-  - นิพจน์ทั่วไป Regex_usa_bank_account_number ค้นหาเนื้อหาที่ตรงกับรูปแบบ
+  - นิพจน์ทั่วไปRegex_usa_bank_account_numberค้นหาเนื้อหาที่ตรงกับรูปแบบ
 
-  - พบคำสำคัญจาก Keyword_usa_Bank_Account
+  - จะพบKeyword_usa_Bank_Accountจากโปรแกรม
 
-    ตัวอย่างเช่นตัวอย่างต่อไปนี้จะทริกเกอร์สำหรับนโยบาย **หมายเลขบัญชีธนาคารสหรัฐอเมริกา** : การตรวจสอบบัญชีผู้ใช้๗๘๓๔๔๐๑๑
+    ตัวอย่างเช่น ตัวอย่างต่อไปนี้จะทริกเกอร์นโยบาย **หมายเลขบัญชีธนาคาร** ของสหรัฐอเมริกา: การตรวจสอบหมายเลข78344011
 
-สำหรับข้อมูลเพิ่มเติมเกี่ยวกับสิ่งที่จำเป็นสำหรับ **หมายเลขบัญชีธนาคารของสหรัฐอเมริกา** ที่จะถูกตรวจพบสำหรับเนื้อหาของคุณให้ดูส่วนต่อไปนี้ในบทความนี้: [ชนิดข้อมูลที่เป็นความลับสำหรับหมายเลขบัญชีธนาคารของสหรัฐอเมริกา](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions#us-bank-account-number)
+For more information on what is required for a **US Bank Account Number** to be detected for your content, see the following section in this article: What the Sensitive Information Types look for US Bank Account [Number](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions#us-bank-account-number)
   
-การใช้ชนิดข้อมูลที่มีความสำคัญที่มีอยู่แล้วภายในที่แตกต่างกันให้ดูบทความต่อไปนี้สำหรับข้อมูลเกี่ยวกับสิ่งที่จำเป็นสำหรับชนิดอื่นๆ: [ชนิดข้อมูลที่เป็นความลับที่มีลักษณะสำหรับ](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions)
+การใช้ชนิดข้อมูลที่เป็นความลับที่มีอยู่แล้วภายในชนิดอื่น ให้ดูบทความต่อไปนี้เพื่อดูข้อมูลเกี่ยวกับสิ่งที่ต้องใช้ในชนิดอื่นๆ ชนิดข้อมูลที่ละเอียดอ่อน [มีลักษณะอย่างไร](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions)
   

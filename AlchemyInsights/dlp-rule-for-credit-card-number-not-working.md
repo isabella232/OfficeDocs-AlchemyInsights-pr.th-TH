@@ -1,5 +1,5 @@
 ---
-title: กฎ DLP สำหรับหมายเลขบัตรเครดิตไม่ทำงาน
+title: กฎ DLP ของหมายเลขบัตรเครดิตไม่ใช้งาน
 ms.author: deniseb
 author: denisebmsft
 manager: laurawi
@@ -13,48 +13,48 @@ ms.custom:
 - "1270"
 - "3200001"
 ms.assetid: 30496c79-c8b4-4337-a46d-abed12864209
-ms.openlocfilehash: d5dd6354e7a1bcbb7f2fb917952ddbee5077e88d
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: bd4f200233d5571fc7b01576038e7b3951a07716a7d5948005418d2896291ee5
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47679460"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54005109"
 ---
-# <a name="dlp-issues-with-credit-card-numbers"></a>ปัญหา DLP ที่มีหมายเลขบัตรเครดิต
+# <a name="dlp-issues-with-credit-card-numbers"></a>ปัญหา DLP กับหมายเลขบัตรเครดิต
 
-**สำคัญ**: ในช่วงเวลาที่เป็นประวัติการณ์เหล่านี้เราจะดำเนินการตามขั้นตอนเพื่อให้แน่ใจว่าบริการ sharepoint Online และ OneDrive ยังคงพร้อมใช้งานอย่างมาก–โปรดไปที่การ [ปรับปรุงฟีเจอร์ชั่วคราวของ sharepoint Online](https://aka.ms/ODSPAdjustments) สำหรับข้อมูลเพิ่มเติม
+**สิ่ง** สําคัญ: ในระหว่างช่วงเวลาที่ไม่มีประวัติใช้งานเหล่านี้ เราปฏิบัติตามขั้นตอนต่างๆ เพื่อให้แน่ใจว่าบริการ SharePoint Online และ OneDrive ยังคงพร้อมใช้งานอยู่ โปรดเยี่ยมชม SharePoint [การปรับ](https://aka.ms/ODSPAdjustments)ฟีเจอร์ชั่วคราวแบบออนไลน์ SharePoint เพื่อดูข้อมูลเพิ่มเติม
 
-**ปัญหา DLP ที่มีหมายเลขบัตรเครดิต**
+**ปัญหา DLP กับหมายเลขบัตรเครดิต**
 
-คุณมีปัญหาเกี่ยวกับการ **ป้องกันการสูญหายของข้อมูล (DLP)** ไม่ทำงานสำหรับเนื้อหาที่มี **หมายเลขบัตรเครดิต** เมื่อใช้ชนิดข้อมูลที่ละเอียดอ่อนของ DLP ใน O365 ใช่หรือไม่ ถ้าเป็นเช่นนั้นตรวจสอบให้แน่ใจว่าเนื้อหาของคุณมีข้อมูลที่จำเป็นในการทริกเกอร์นโยบาย DLP เมื่อถูกประเมิน ตัวอย่างเช่นสำหรับ **นโยบายบัตรเครดิต** ที่กำหนดค่าด้วยระดับความเชื่อมั่นของ๘๕% รายการต่อไปนี้จะถูกประเมินและต้องถูกตรวจพบสำหรับกฎที่จะทริกเกอร์:
+คุณมีปัญหากับการป้องกันการ **สูญหายของข้อมูล (DLP)** ไม่ใช้งานกับเนื้อหาที่มีหมายเลขบัตรเครดิตเมื่อใช้ชนิดข้อมูลที่เป็นความลับ DLP ใน O365 หรือไม่ If so, make sure your content contains the needed information to trigger the DLP policy when it is evaluated. ตัวอย่างเช่น ถ้านโยบาย **บัตรเครดิตที่** กําหนดค่าด้วยระดับความเชื่อมั่นเป็น 85% เงื่อนไขต่อไปนี้จะถูกประเมินและต้องถูกตรวจพบเพื่อให้กฎทริกเกอร์
   
-- **[รูปแบบ:](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions#format-19)** ตัวเลข16หลักที่สามารถจัดรูปแบบหรือจัดรูปแบบ (dddddddddddddddd) และต้องผ่านการทดสอบ Luhn
+- **[รูปแบบ:](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions#format-19)** 16 หลักที่สามารถจัดรูปแบบหรือไม่จัดรูปแบบ (dddddddddddd) และต้องผ่านการทดสอบ Luhn
 
-- **[ลวดลาย:](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions#pattern-19)** รูปแบบที่มีความซับซ้อนและมีประสิทธิภาพมากที่ตรวจจับบัตรจากแบรนด์หลักๆทั้งหมดทั่วโลกรวมถึงวีซ่ามาสเตอร์การ์ดค้นพบบัตรซีเจซี, American Express, บัตรของขวัญและบัตร diner
+- **[รูปแบบ:](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions#pattern-19)** รูปแบบที่ซับซ้อนและมีประสิทธิภาพมากซึ่งตรวจหาบัตรจากยี่ห้อหลักๆ ทั้งหมดทั่วโลก ได้แก่ Visa, MasterCard, Discover Card, JCB, American Express, บัตรก80บาท และบัตรช๊อบเกอร์
 
 - **[Checksum:](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions#checksum-19)** ใช่ Luhn checksum
 
-- **[ข้อกำหนด:](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions#definition-19)** นโยบาย DLP มีความมั่นใจ๘๕% ว่าจะตรวจพบข้อมูลที่เป็นความลับชนิดนี้ในกรณีที่มีอักขระ๓๐๐ที่อยู่ในความใกล้เคียง:
+- **[นิยาม:](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions#definition-19)** นโยบาย DLP มั่นใจ 85% ว่าจะถูกตรวจพบชนิดข้อมูลที่ละเอียดอ่อนนี้ถ้าภายในความใกล้เคียง 300 อักขระ:
 
-  - ฟังก์ชัน Func_credit_card ค้นหาเนื้อหาที่ตรงกับรูปแบบ
+  - ฟังก์ชันFunc_credit_cardจะค้นหาเนื้อหาที่ตรงกับรูปแบบ
 
-  - อย่างใดอย่างหนึ่งต่อไปนี้เป็นจริง:
+  - ข้อใดข้อหนึ่งต่อไปนี้เป็นจริง
 
-  - พบคำสำคัญจาก Keyword_cc_verification
+  - จะพบKeyword_cc_verificationจากโปรแกรม
 
-  - พบคำสำคัญจาก Keyword_cc_name
+  - พบคีย์เวิร์ดKeyword_cc_nameการค้นหา
 
-  - ฟังก์ชัน Func_expiration_date ค้นหาวันที่ในรูปแบบวันที่ที่ถูกต้อง
+  - ฟังก์ชันFunc_expiration_dateจะค้นหาวันที่ในรูปแบบวันที่ที่ถูกต้อง
 
-  - Checksum ที่ผ่านการตรวจสอบ
+  - Checksum Pass
 
-    ตัวอย่างเช่นตัวอย่างต่อไปนี้จะทริกเกอร์สำหรับนโยบายหมายเลขบัตรเครดิต DLP:
+    ตัวอย่างเช่น ตัวอย่างต่อไปนี้จะทริกเกอร์นโยบายหมายเลขบัตรเครดิต DLP:
 
-  - วีซ่า: ๔๔๘๕๓๖๔๗๓๙๕๒๗๓๕๒
+  - Visa: 4485 3647 3952 7352
   
   - หมดอายุ: 2/2009
 
-สำหรับข้อมูลเพิ่มเติมเกี่ยวกับสิ่งที่จำเป็นสำหรับ **หมายเลขบัตรเครดิต** ที่จะถูกตรวจพบสำหรับเนื้อหาของคุณให้ดูส่วนต่อไปนี้ในบทความนี้: [ชนิดข้อมูลที่เป็นความลับของการค้นหาบัตรเครดิต #](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions#credit-card-number)
+หากต้องการข้อมูลเพิ่มเติมเกี่ยวกับสิ่งที่ต้องใช้ในการ **ตรวจพบ** หมายเลขบัตรเครดิตในเนื้อหาของคุณ ให้ดูส่วนต่อไปนี้ในบทความนี้ ชนิดข้อมูลที่ละเอียดอ่อนมีลักษณะอย่างไร [ต่อบัตรเครดิต#](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions#credit-card-number)
   
-การใช้ชนิดข้อมูลที่มีความสำคัญที่มีอยู่แล้วภายในที่แตกต่างกันให้ดูบทความต่อไปนี้สำหรับข้อมูลเกี่ยวกับสิ่งที่จำเป็นสำหรับชนิดอื่นๆ: [ชนิดข้อมูลที่เป็นความลับที่มีลักษณะสำหรับ](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions)
+การใช้ชนิดข้อมูลที่เป็นความลับที่มีอยู่แล้วภายในชนิดอื่น ให้ดูบทความต่อไปนี้เพื่อดูข้อมูลเกี่ยวกับสิ่งที่ต้องใช้ในชนิดอื่นๆ ชนิดข้อมูลที่ละเอียดอ่อน [มีลักษณะอย่างไร](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions)
   

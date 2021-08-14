@@ -1,5 +1,5 @@
 ---
-title: มีอะไรใหม่ใน Windows 10 เวอร์ชัน๑๖๐๗
+title: มีอะไรใหม่ใน Windows 10 เวอร์ชัน 1607
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003960"
 - "7016"
-ms.openlocfilehash: 369daf8dfea932746f957d19e2d58e3043cfd135
-ms.sourcegitcommit: e25893be57e1c4ced8e646d0fa3d0e8489880d7a
+ms.openlocfilehash: fc4f9cb1b04ae9bdebefe02d2f9d84216295a90f740b7ee8d0d7e92e478f3357
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 12/16/2020
-ms.locfileid: "49706834"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53997837"
 ---
-# <a name="whats-new-in-windows-10-version-1607"></a>มีอะไรใหม่ใน Windows 10 เวอร์ชัน๑๖๐๗
+# <a name="whats-new-in-windows-10-version-1607"></a>มีอะไรใหม่ใน Windows 10 เวอร์ชัน 1607
 
-ต่อไปนี้คือฟีเจอร์ใหม่และฟีเจอร์ที่ได้รับการอัปเดตใน Windows 10, เวอร์ชัน๑๖๐๗หรือที่เรียกว่าการอัปเดตประจำวันครบรอบ:
+ต่อไปนี้คือฟีเจอร์ใหม่และฟีเจอร์ที่อัปเดตบางอย่างใน Windows 10 เวอร์ชัน 1607 หรือที่เรียกว่าการอัปเดตในโอกาสวันครบรอบ:
 
-1. [ใช้](https://go.microsoft.com/fwlink/?linkid=2114462)
-2. [การอัปเดต Windows](https://go.microsoft.com/fwlink/?linkid=2114463)
+1. [การปรับใช้](https://go.microsoft.com/fwlink/?linkid=2114462)
+2. [Windowsการอัปเดต](https://go.microsoft.com/fwlink/?linkid=2114463)
 3. [การรักษาความปลอดภัย](https://go.microsoft.com/fwlink/?linkid=2114270)
-4. [จัดการ](https://go.microsoft.com/fwlink/?linkid=2114271)
+4. [การจัดการ](https://go.microsoft.com/fwlink/?linkid=2114271)

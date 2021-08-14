@@ -1,5 +1,5 @@
 ---
-title: ล้างข้อมูลขององค์กรจากแอปที่มีการจัดการด้วย Intune
+title: ลบข้อมูลองค์กรจากแอปที่มีการจัดการ Intun1
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,15 +13,15 @@ ms.collection: Adm_o365
 ms.custom:
 - "6700006"
 - "7243"
-ms.openlocfilehash: ca62ad165bbb629323727928916720c6a2eab291
-ms.sourcegitcommit: 35e2c122d8a838d98d1f0851c29b16282261580f
+ms.openlocfilehash: 59c1309f60e03eda587c7a1f7bb5849f69b12a13d4365bcd6ca4e862d0e53e2e
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 11/17/2020
-ms.locfileid: "49088998"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53997765"
 ---
-# <a name="wipe-corporate-data-from-intune-managed-apps"></a>ล้างข้อมูลขององค์กรจากแอปที่มีการจัดการด้วย Intune
+# <a name="wipe-corporate-data-from-intune-managed-apps"></a>ลบข้อมูลองค์กรจากแอปที่มีการจัดการ Intun1
 
-Intune สนับสนุนการเอาข้อมูลของบริษัทออกจากนโยบายการป้องกันแอปพลิเคชัน (แอป) ที่มีการจัดการแอปพลิเคชัน 
+Intun1 สนับสนุนการเอาข้อมูลขององค์กรออกจากแอปพลิเคชันที่มีการจัดการนโยบายการป้องกันแอปพลิเคชัน (แอป) 
 
-เมื่อต้องการเรียนรู้เพิ่มเติมเกี่ยวกับการปัดลบหรือการเอาข้อมูลขององค์กรออกจากแอปเหล่านี้ให้ดู [ที่วิธีการลบเฉพาะข้อมูลขององค์กรจากแอปที่](https://docs.microsoft.com/mem/intune/apps/apps-selective-wipe)ได้รับการจัดการด้วย Intune
+เมื่อต้องการเรียนรู้เพิ่มเติมเกี่ยวกับการลบ การลบ หรือการเอาข้อมูลของบริษัทออกจากแอปเหล่านี้ ให้ดู วิธีการล้างข้อมูล [ของบริษัทจากแอปที่มีการจัดการ Intun1](https://docs.microsoft.com/mem/intune/apps/apps-selective-wipe)เท่านั้น

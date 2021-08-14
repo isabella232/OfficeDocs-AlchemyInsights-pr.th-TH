@@ -1,5 +1,5 @@
 ---
-title: ID ร้านค้าที่ให้ไว้ไม่ใช่ ID ของรายการ
+title: รหัสร้านค้าที่ระบุไม่ใช่ ID ของรายการ
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,13 +12,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "3500007"
 - "6828"
-ms.openlocfilehash: 0834850cb7be2d2005265a54130f95c393f514fd
-ms.sourcegitcommit: d151b09064df3fb573ae07a387a08d98a9553b9b
+ms.openlocfilehash: fca2b4eb17e08232bc8a249ea275a6cbc25a3e8a29eeb159fc25f623d4f24390
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 10/28/2020
-ms.locfileid: "48807750"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53981924"
 ---
-# <a name="the-store-id-provided-isnt-an-id-of-an-item-error"></a>ข้อผิดพลาด "การจัดเก็บ ID ที่ให้ไว้ไม่ใช่ ID ของรายการ"
+# <a name="the-store-id-provided-isnt-an-id-of-an-item-error"></a>ข้อผิดพลาด "รหัสร้านค้าที่ระบุไม่ใช่ ID ของรายการ"
 
-เราทราบถึงข้อผิดพลาดนี้และเรากำลังจะออกจากการแก้ไขที่ควรแก้ไขปัญหานี้ในเร็วๆนี้
+เราทราบถึงข้อผิดพลาดนี้ และเราจะเปิดตัวการแก้ไขที่ควรแก้ไขในเร็วๆ นี้

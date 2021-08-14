@@ -1,5 +1,5 @@
 ---
-title: กฎ DLP สำหรับหมายเลขหนังสือเดินทางของสหรัฐอเมริกา/สหราชอาณาจักรไม่ทำงาน
+title: กฎ DLP ของหมายเลขหนังสือเดินทางสหรัฐอเมริกา/สหราชอาณาจักรไม่ใช้งาน
 ms.author: deniseb
 author: denisebmsft
 manager: laurawi
@@ -13,38 +13,38 @@ ms.custom:
 - "1319"
 - "3200001"
 ms.assetid: fc178b8b-943b-4346-a2bd-a75c6af6f80f
-ms.openlocfilehash: c6c7191f380f264113e2042f2869d9767922b2cc
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 85e3ed7fdc221981de13ab6e2ada8adf2a3a80b40ff163981e047cc4a02a1514
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47679243"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54004965"
 ---
-# <a name="problems-with-dlp---usuk-passport-numbers"></a>ปัญหาเกี่ยวกับ DLP-หมายเลขพาสปอร์ตของสหรัฐอเมริกา/UK
+# <a name="problems-with-dlp---usuk-passport-numbers"></a>ปัญหากับ DLP - หมายเลขหนังสือเดินทางของสหรัฐอเมริกา/สหราชอาณาจักร
 
-**สำคัญ**: ในช่วงเวลาที่เป็นประวัติการณ์เหล่านี้เราจะดำเนินการตามขั้นตอนเพื่อให้แน่ใจว่าบริการ sharepoint Online และ OneDrive ยังคงพร้อมใช้งานอย่างมาก–โปรดไปที่การ [ปรับปรุงฟีเจอร์ชั่วคราวของ sharepoint Online](https://aka.ms/ODSPAdjustments) สำหรับข้อมูลเพิ่มเติม
+**สิ่ง** สําคัญ: ในระหว่างช่วงเวลาที่ไม่มีประวัติใช้งานเหล่านี้ เราปฏิบัติตามขั้นตอนต่างๆ เพื่อให้แน่ใจว่าบริการ SharePoint Online และ OneDrive ยังคงพร้อมใช้งานอยู่ โปรดเยี่ยมชม SharePoint [การปรับ](https://aka.ms/ODSPAdjustments)ฟีเจอร์ชั่วคราวแบบออนไลน์ SharePoint เพื่อดูข้อมูลเพิ่มเติม
 
-**ปัญหา DLP กับเลขพาสปอร์ตของสหรัฐอเมริกา/UK**
+**ปัญหา DLP กับหมายเลขหนังสือเดินทางของสหรัฐอเมริกา/สหราชอาณาจักร**
 
-คุณมีปัญหาเกี่ยวกับการ **ป้องกันการสูญหายของข้อมูล (DLP)** ไม่ทำงานสำหรับเนื้อหาที่มี **หมายเลขหนังสือเดินทางของสหรัฐอเมริกา/สหราชอาณาจักร** เมื่อใช้ชนิดข้อมูลที่ละเอียดอ่อนของ DLP ใน O365 ใช่หรือไม่ ถ้าเป็นเช่นนั้นตรวจสอบให้แน่ใจว่าเนื้อหาของคุณมีข้อมูลที่จำเป็นสำหรับสิ่งที่นโยบาย DLP กำลังค้นหาเมื่อมีการประเมิน
+คุณมีปัญหากับการป้องกันการสูญหายของข้อมูล **(DLP)** ไม่ใช้งานกับเนื้อหาที่มีหมายเลขหนังสือเดินทางของ **สหรัฐอเมริกา/สหราชอาณาจักร** เมื่อใช้ชนิดข้อมูลที่เป็นความลับ DLP ใน O365 หรือไม่ If so, make sure your content contains the needed information for what the DLP policy is looking for when it is evaluated.
   
-ตัวอย่างเช่นสำหรับนโยบาย **หมายเลขหนังสือเดินทางสหรัฐอเมริกา/UK** ที่กำหนดค่าด้วยระดับความเชื่อมั่นของ๗๕% ต่อไปนี้จะถูกประเมินและต้องถูกตรวจพบสำหรับกฎที่จะทริกเกอร์
+ตัวอย่างเช่น นโยบายหมายเลขหนังสือเดินทาง **ของสหรัฐอเมริกา/สหราชอาณาจักร** ที่กําหนดค่าด้วยระดับความเชื่อมั่นที่ 75% ต่อไปนี้จะถูกประเมินและต้องถูกตรวจพบเพื่อให้กฎทริกเกอร์
   
 - **[รูปแบบ:](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions#format-77)** เก้าหลัก
 
-- **[ลวดลาย:](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions#pattern-77)** ตัวเลขที่ติดต่อกันได้9ตัว
+- **[รูปแบบ:](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions#pattern-77)** ตัวเลขติดกันเก้าหลัก
 
-- **[Checksum:](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions#checksum-76)** ไม่มี Checksum
+- **[Checksum:](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions#checksum-76)** ไม่ ไม่มี Checksum
 
-- **[ข้อกำหนด:](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions#definition-77)** นโยบาย DLP มีความมั่นใจ๗๕% ว่าจะตรวจพบข้อมูลที่เป็นความลับชนิดนี้ในกรณีที่มีอักขระ๓๐๐ที่อยู่ในความใกล้เคียง:
+- **[นิยาม:](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions#definition-77)** นโยบาย DLP มั่นใจ 75% ว่าจะถูกตรวจพบชนิดข้อมูลที่ละเอียดอ่อนนี้ถ้าภายในความใกล้เคียง 300 อักขระ:
 
-  - ฟังก์ชัน Func_usa_uk_passport ค้นหาเนื้อหาที่ตรงกับรูปแบบ
+  - ฟังก์ชันFunc_usa_uk_passportจะค้นหาเนื้อหาที่ตรงกับรูปแบบ
 
-  - พบคำสำคัญจาก Keyword_passport
+  - จะพบKeyword_passportหลักจากการค้นหา
 
-    ตัวอย่างเช่นตัวอย่างต่อไปนี้จะทริกเกอร์สำหรับนโยบาย **หมายเลขหนังสือเดินทางสหรัฐอเมริกา/UK** : หมายเลขหนังสือเดินทางของสหรัฐอเมริกา๑๒๓๔๕๖๗๘๙
+    ตัวอย่างเช่น ตัวอย่างต่อไปนี้ทริกเกอร์นโยบายหมายเลขหนังสือเดินทาง **ของสหรัฐอเมริกา/สหราชอาณาจักร** หมายเลขหนังสือเดินทาง123456789
 
-สำหรับข้อมูลเพิ่มเติมเกี่ยวกับสิ่งที่จำเป็นสำหรับหมายเลขหนังสือเดินทางของสหรัฐอเมริกา/UK ที่จะถูกตรวจพบสำหรับเนื้อหาของคุณให้ดูส่วนต่อไปนี้ในบทความนี้: [ชนิดข้อมูลที่เป็นความลับของหมายเลขหนังสือเดินทางของสหรัฐอเมริกา/สหราชอาณาจักร](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions#us--uk-passport-number)
+ดูข้อมูลเพิ่มเติมเกี่ยวกับสิ่งที่ต้องใช้ในการตรวจหาหมายเลขหนังสือเดินทางของสหรัฐอเมริกา/สหราชอาณาจักรเพื่อดูเนื้อหาของคุณ ให้ดูส่วนต่อไปนี้ในบทความนี้: ชนิดข้อมูลที่ละเอียดอ่อนมีลักษณะอย่างไรกับหมายเลขหนังสือเดินทางของ [สหรัฐอเมริกา/สหราชอาณาจักร](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions#us--uk-passport-number)
   
-การใช้ชนิดข้อมูลที่มีความสำคัญที่มีอยู่แล้วภายในที่แตกต่างกันให้ดูบทความต่อไปนี้สำหรับข้อมูลเกี่ยวกับสิ่งที่จำเป็นสำหรับชนิดอื่นๆ: [ชนิดข้อมูลที่เป็นความลับที่มีลักษณะสำหรับ](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions)
+การใช้ชนิดข้อมูลที่เป็นความลับที่มีอยู่แล้วภายในชนิดอื่น ให้ดูบทความต่อไปนี้เพื่อดูข้อมูลเกี่ยวกับสิ่งที่ต้องใช้ในชนิดอื่นๆ ชนิดข้อมูลที่ละเอียดอ่อน [มีลักษณะอย่างไร](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions)
   

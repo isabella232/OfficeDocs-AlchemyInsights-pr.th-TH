@@ -1,5 +1,5 @@
 ---
-title: เราพร้อมให้ความช่วยเหลือ
+title: เราพร้อมช่วยเหลือคุณ
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,15 +13,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "3513"
 - "9001480"
-ms.openlocfilehash: b0d37fcce2fc68add12a99f0ef87f93cfbdb9b7c
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 9e9b8b7fe8237f46bdb13e4cc1df244851e249a006a8236fac465240eb10ea3e
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47725750"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53989876"
 ---
-# <a name="were-here-to-help"></a>เราพร้อมให้ความช่วยเหลือ
+# <a name="were-here-to-help"></a>เราพร้อมช่วยเหลือคุณ
 
-โปรดคลิก **ติดต่อฝ่ายสนับสนุน** ด้านล่างเพื่อสร้างตั๋วกับเรา ตัวแทนฝ่ายสนับสนุนจะได้รับกลับมาให้คุณเร็วๆนี้เพื่อช่วยแก้ไขปัญหาของคุณ
+โปรดคลิกที่ **ติดต่อฝ่ายสนับสนุน** ที่ด้านล่างเพื่อสร้างตั๋วกับเรา เจ้าหน้าที่ฝ่ายสนับสนุนจะติดต่อคุณอีกครั้งเร็วๆ นี้เพื่อช่วยแก้ไขปัญหาของคุณ
 
-ถ้าการสมัครใช้งานของคุณถูกจัดการโดยคู่ค้าของ Microsoft โปรดทำงานร่วมกับคู่ค้าของคุณเพื่อเปิดบัตรสนับสนุน
+ถ้าการสมัครใช้งานของคุณได้รับการจัดการโดยคู่ค้าของ Microsoft โปรดร่วมงานกับคู่ค้าของคุณเพื่อเปิดตั๋วการสนับสนุน

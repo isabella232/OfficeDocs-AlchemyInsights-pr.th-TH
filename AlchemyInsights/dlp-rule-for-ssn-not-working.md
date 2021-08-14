@@ -1,5 +1,5 @@
 ---
-title: กฎ DLP สำหรับ SSN ไม่ทำงาน
+title: กฎ DLP ของ SSN ไม่ใช้งาน
 ms.author: deniseb
 author: denisebmsft
 manager: laurawi
@@ -13,44 +13,44 @@ ms.custom:
 - "1242"
 - "3200001"
 ms.assetid: ac265ee6-c946-476e-9bf0-0ea0e8adc98a
-ms.openlocfilehash: b221e66862ca01074f380fbb8433f8f9cac044cb
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 3f30998fb3bc4c5442e4e1541b87d88ecd7df6eef3a50e719fa5014eb86af39c
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47679388"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54005001"
 ---
-# <a name="dlp-issues-with-social-security-numbers"></a>ปัญหา DLP เกี่ยวกับหมายเลขประกันสังคม
+# <a name="dlp-issues-with-social-security-numbers"></a>ปัญหา DLP กับหมายเลขประกันสังคม
 
-**สำคัญ**: ในช่วงเวลาที่เป็นประวัติการณ์เหล่านี้เราจะดำเนินการตามขั้นตอนเพื่อให้แน่ใจว่าบริการ sharepoint Online และ OneDrive ยังคงพร้อมใช้งานอย่างมาก–โปรดไปที่การ [ปรับปรุงฟีเจอร์ชั่วคราวของ sharepoint Online](https://aka.ms/ODSPAdjustments) สำหรับข้อมูลเพิ่มเติม
+**สิ่ง** สําคัญ: ในระหว่างช่วงเวลาที่ไม่มีประวัติใช้งานเหล่านี้ เราปฏิบัติตามขั้นตอนต่างๆ เพื่อให้แน่ใจว่าบริการ SharePoint Online และ OneDrive ยังคงพร้อมใช้งานอยู่ โปรดเยี่ยมชม SharePoint [การปรับ](https://aka.ms/ODSPAdjustments)ฟีเจอร์ชั่วคราวแบบออนไลน์ SharePoint เพื่อดูข้อมูลเพิ่มเติม
 
-**ปัญหา DLP เกี่ยวกับ SSNs**
+**ปัญหา DLP กับ SSN**
 
-คุณมีปัญหาเกี่ยวกับการ **ป้องกันการสูญหายของข้อมูล (DLP)** ไม่ทำงานสำหรับเนื้อหาที่มี **หมายเลขประกันสังคม (SSN)** เมื่อใช้ชนิดข้อมูลที่เป็นความลับใน Microsoft ๓๖๕ใช่หรือไม่ ถ้าเป็นเช่นนั้นตรวจสอบให้แน่ใจว่าเนื้อหาของคุณมีข้อมูลที่จำเป็นสำหรับนโยบาย DLP ที่กำลังค้นหา 
+คุณมีปัญหากับการป้องกันการสูญหายของข้อมูล **(DLP)** ไม่สามารถใช้งานกับเนื้อหาที่มีหมายเลขประกันสังคม **(SSN)** เมื่อใช้ชนิดข้อมูลที่เป็นความลับในMicrosoft 365หรือไม่ If so, make sure your content contains the needed information for what the DLP policy is looking. 
   
-ตัวอย่างเช่นสำหรับนโยบาย SSN ที่กำหนดค่าด้วยระดับความเชื่อมั่นของ๘๕% ดังต่อไปนี้จะถูกประเมินและต้องถูกตรวจพบสำหรับกฎที่จะทริกเกอร์:
+ตัวอย่างเช่น เมื่อกําหนดค่านโยบาย SSN ที่กําหนดค่าด้วยระดับความเชื่อมั่น 85% นโยบายต่อไปนี้จะถูกประเมินและต้องถูกตรวจพบเพื่อให้กฎทริกเกอร์
   
-- **[รูปแบบ:](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions#format-80)** 9 หลักซึ่งอาจอยู่ในรูปแบบที่จัดรูปแบบหรือรูปแบบที่ไม่มีการจัดรูปแบบ
+- **[รูปแบบ:](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions#format-80)** 9 หลักซึ่งอาจอยู่ในรูปแบบที่มีการจัดรูปแบบหรือไม่จัดรูปแบบ
 
-- **[ลวดลาย:](https://msconnect.microsoft.com/https:/docs.microsoft.com/office365/securitycompliance/what-the-sensitive-information-types-look-for#pattern-80)** ฟังก์ชันสี่ฟังก์ชันสำหรับ SSNs ในรูปแบบที่แตกต่างกันสี่รูปแบบดังนี้
+- **[รูปแบบ:](https://msconnect.microsoft.com/https:/docs.microsoft.com/office365/securitycompliance/what-the-sensitive-information-types-look-for#pattern-80)** สี่ฟังก์ชันจะค้นหา SSN ในรูปแบบที่แตกต่างกันสี่รูปแบบ:
 
-  - Func_ssn ค้นหา SSNs ด้วยการจัดรูปแบบที่มีความแข็งแกร่งล่วงหน้า๒๐๑๑ที่จัดรูปแบบด้วยเส้นประหรือช่องว่าง (ddd-ดี dddd หรือ ddd พิ่ม dddd)
+  - Func_ssn SSN ที่มีการจัดรูปแบบ strong ก่อนปี 2554 ที่ถูกจัดรูปแบบด้วยเส้นประหรือช่องว่าง (ddd-dd-dddd OR ddd dddd)
 
-  - Func_unformatted_ssn ค้นหา SSNs ด้วยการจัดรูปแบบที่มีความแข็งแกร่งล่วงหน้า๒๐๑๑ที่ได้รับการจัดรูปแบบเป็นตัวเลขติดกัน9ตัว (ddddddddd)
+  - Func_unformatted_ssn SSN ที่มีการจัดรูปแบบอย่างรัดกุมก่อนปี 2554 ที่ไม่มีการจัดรูปแบบเป็นตัวเลข 9 หลักติดกัน (dddddddd)
 
-  - Func_randomized_formatted_ssn ค้นหา SSNs post-๒๐๑๑ที่จัดรูปแบบด้วยเส้นประหรือช่องว่าง (ddd-ดี-dddd หรือ ddd dd dddd)
+  - Func_randomized_formatted_ssnจะค้นหา SSN หลัง 2011 ที่ถูกจัดรูปแบบด้วยเส้นประหรือช่องว่าง (ddd-dddd หรือ ddd dddd OR ddddd)
 
-  - Func_randomized_unformatted_ssn ค้นหา SSNs post-๒๐๑๑ที่ได้รับการจัดรูปแบบเป็นตัวเลขที่ติดต่อกันได้9ตัว (ddddddddd)
+  - Func_randomized_unformatted_ssn SSN หลัง 2011 ที่ไม่มีการจัดรูปแบบเป็นตัวเลขติดกันเก้าหลัก (dddddddddd)
 
-- **[Checksum:](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions#checksum-79)** ไม่มี Checksum
+- **[Checksum:](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions#checksum-79)** ไม่ ไม่มี Checksum
 
-- **[ข้อกำหนด:](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions#definition-80)** นโยบาย DLP มีความมั่นใจ๘๕% ว่าจะตรวจพบข้อมูลที่เป็นความลับชนิดนี้ในกรณีที่มีอักขระ๓๐๐ที่อยู่ในความใกล้เคียง:
+- **[นิยาม:](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions#definition-80)** นโยบาย DLP มั่นใจ 85% ว่าจะถูกตรวจพบชนิดข้อมูลที่ละเอียดอ่อนนี้ถ้าภายในความใกล้เคียง 300 อักขระ:
 
-  - [ฟังก์ชัน Func_ssn](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions#pattern-80)ค้นหาเนื้อหาที่ตรงกับรูปแบบ
+  - ฟังก์ชัน [Func_ssn](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions#pattern-80) จะค้นหาเนื้อหาที่ตรงกับรูปแบบ
 
-  - พบคำสำคัญจาก[Keyword_ssn](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions#keyword_ssn) ตัวอย่างของคำสำคัญประกอบด้วย: การ*รักษาความปลอดภัยทางสังคม, ความมั่นคงทางสังคม #, Soc Sec, SSN* ตัวอย่างเช่นตัวอย่างต่อไปนี้จะทริกเกอร์สำหรับนโยบาย DLP SSN: **SSN: 489-36-8350**
+  - จะพบ [Keyword_ssn](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions#keyword_ssn) หลักจากการค้นหา ตัวอย่างของคําหลักประกอบด้วย: *Social Security, Social Security#, Soc Sec , SSN* ตัวอย่างเช่น ตัวอย่างต่อไปนี้จะทริกเกอร์นโยบาย DLP SSN: **SSN: 489-36-8350**
   
-สำหรับข้อมูลเพิ่มเติมเกี่ยวกับสิ่งที่จำเป็นสำหรับการตรวจพบ SSNs สำหรับเนื้อหาของคุณให้ดูส่วนต่อไปนี้ในบทความนี้: [ชนิดข้อมูลที่เป็นความลับที่มีลักษณะสำหรับ SSNs](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions#us-social-security-number-ssn)
+For more information on what is required for SSNs to be detected for your content, see the following section in this article: [What the Sensitive Information Types look for SSNs](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions#us-social-security-number-ssn)
   
-การใช้ชนิดข้อมูลที่มีความสำคัญที่มีอยู่แล้วภายในที่แตกต่างกันให้ดูบทความต่อไปนี้สำหรับข้อมูลเกี่ยวกับสิ่งที่จำเป็นสำหรับชนิดอื่นๆ: [ชนิดข้อมูลที่เป็นความลับที่มีลักษณะสำหรับ](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions)
+การใช้ชนิดข้อมูลที่เป็นความลับที่มีอยู่แล้วภายในชนิดอื่น ให้ดูบทความต่อไปนี้เพื่อดูข้อมูลเกี่ยวกับสิ่งที่ต้องใช้ในชนิดอื่นๆ ชนิดข้อมูลที่ละเอียดอ่อน [มีลักษณะอย่างไร](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions)
   

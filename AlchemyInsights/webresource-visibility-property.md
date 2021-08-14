@@ -13,13 +13,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "1952"
 - "9000326"
-ms.openlocfilehash: 0d5a619c1a9fdaabc9ec11b20d36431aeb235423
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: c8d3ff0002b8523cb5cecc16861e2f5504f3866d36d051ecec1592dba64fd423
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47725966"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53997873"
 ---
 # <a name="webresource-visibility-property"></a>คุณสมบัติการมองเห็น Webresource
 
-คุณต้องเลือกตัวเลือกที่ **มองเห็นได้ตามค่าเริ่มต้น** สำหรับทรัพยากรบนเว็บเพื่อให้ปรากฏบนฟอร์มและพร้อมใช้งานสำหรับผู้ใช้ สำหรับข้อมูลเพิ่มเติมให้ดูที่[คุณสมบัติของทรัพยากรบนเว็บสำหรับฟอร์มแอปที่ขับเคลื่อนด้วยแบบจำลอง](https://docs.microsoft.com/powerapps/maker/model-driven-apps/web-resource-properties-legacy)
+คุณต้องเลือกตัวเลือก **มองเห็นได้ตามค่าเริ่มต้น** เพื่อให้ทรัพยากรบนเว็บปรากฏบนฟอร์มและพร้อมใช้งานกับผู้ใช้ For more info, see [Web resource properties for model-driven app forms](https://docs.microsoft.com/powerapps/maker/model-driven-apps/web-resource-properties-legacy).
