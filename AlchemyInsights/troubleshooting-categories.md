@@ -1,5 +1,5 @@
 ---
-title: ประเภทการแก้ไขปัญหา๖๐๔
+title: ประเภทการแก้ไขปัญหา 604
 ms.author: pdigia
 author: pebaum
 manager: jackiesm
@@ -14,15 +14,15 @@ ms.custom:
 - "604"
 - "3800003"
 ms.assetid: dc8c3acf-fe72-4b92-8cdc-6a635502eeb1
-ms.openlocfilehash: 4c06a6e1ddd333fff147912ac37a339574da4c9a
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: e2ca842df04a7d4b702606d57757192ffe328cad79f3f5a07abc450f8ff92288
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47690009"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53972546"
 ---
-# <a name="outlook-categories"></a>ประเภทของ Outlook
+# <a name="outlook-categories"></a>Outlookประเภท
 
-ประเภทจะนำไปใช้กับรายการในปฏิทินของคุณเท่านั้น ถ้าคุณนำประเภทสีไปใช้กับการเรียกประชุมหรือการประชุมที่คุณได้รับจากบุคคลอื่นประเภทสีนั้นจะแสดงในปฏิทินของคุณเท่านั้น  ถ้าคุณใช้ประเภทสีบนกล่องจดหมายที่แชร์กล่องจดหมายมอบสิทธิ์กล่องจดหมายของกลุ่มกล่องจดหมายของห้องฯลฯประเภทสีจะมีผลต่อมุมมองของคุณเท่านั้น
+ประเภทจะใช้กับรายการในปฏิทินของคุณเท่านั้น ถ้าคุณใช้ประเภทสีกับการเรียกประชุมหรือการประชุมที่คุณได้รับจากบุคคลอื่น ประเภทสีนั้นจะแสดงเฉพาะในปฏิทินของคุณเท่านั้น  ถ้าคุณใช้ประเภทสีบนกล่องจดหมายที่แชร์ กล่องจดหมายของผู้รับมอบสิทธิ์ กล่องจดหมายกลุ่ม กล่องจดหมายของห้อง เป็นต้น ประเภทสีจะส่งผลต่อมุมมองของคุณเท่านั้น
 
-สำหรับข้อมูลเพิ่มเติม: [กำหนดประเภทสีให้กับการนัดหมายในปฏิทินการประชุมหรือเหตุการณ์](https://support.microsoft.com/office/750596d9-707d-4412-8c0e-7fdc0fc52527)
+For more information: [Assign a color category to a calendar appointment, meeting, or event](https://support.microsoft.com/office/750596d9-707d-4412-8c0e-7fdc0fc52527)
