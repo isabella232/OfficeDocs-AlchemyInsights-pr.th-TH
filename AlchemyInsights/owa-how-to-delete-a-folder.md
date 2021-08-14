@@ -1,5 +1,5 @@
 ---
-title: '๘๐๐๐๐๑๖: วิธีการลบโฟลเดอร์'
+title: '8000016: วิธีการลบโฟลเดอร์'
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -14,18 +14,18 @@ ms.custom:
 - "8000016"
 - "2004"
 ms.assetid: ''
-ms.openlocfilehash: 7b53932df90e66cc2cee6482342100d7c7df01b9
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 36eef08dc4706fabd068d63710e944eafd14b24a0913d9408496cffd2d0b0ca0
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47802184"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54063251"
 ---
-# <a name="how-to-delete-a-folder-in-outlook-on-the-web"></a>วิธีการลบโฟลเดอร์ใน Outlook บนเว็บ
+# <a name="how-to-delete-a-folder-in-outlook-on-the-web"></a>วิธีการลบโฟลเดอร์ในOutlook บนเว็บ
 
-1. ในบานหน้าต่างโฟลเดอร์ให้คลิกขวาที่โฟลเดอร์หรือโฟลเดอร์ย่อยที่คุณต้องการลบ
-2. เลือก**ลบโฟลเดอร์**
-3. เลือก **ตกลง** เพื่อยืนยัน
+1. ในบานหน้าต่างโฟลเดอร์ ให้คลิกขวาที่โฟลเดอร์หรือโฟลเดอร์ย่อยที่คุณต้องการลบ
+2. เลือก **ลบ** โฟลเดอร์
+3. **เลือก** ตกลง เพื่อยืนยัน
 
-เมื่อต้องการเรียนรู้เพิ่มเติมให้ดูที่การ[ทำงานกับโฟลเดอร์ข้อความใน Outlook บนเว็บ](https://support.office.com/article/ae0f10d6-54e7-4f29-acd3-78cdc3fdcb9f)
+เมื่อต้องการเรียนรู้เพิ่มเติม ให้ดู[การต้องใช้งานโฟลเดอร์ข้อความOutlook บนเว็บ](https://support.office.com/article/ae0f10d6-54e7-4f29-acd3-78cdc3fdcb9f)ข้อความ
 

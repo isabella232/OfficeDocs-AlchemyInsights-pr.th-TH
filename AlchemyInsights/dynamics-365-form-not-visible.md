@@ -1,5 +1,5 @@
 ---
-title: ฟอร์ม Dynamics ๓๖๕ไม่สามารถมองเห็นได้
+title: มองไม่เห็นฟอร์ม Dynamics 365
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
@@ -10,15 +10,15 @@ localization_priority: Normal
 ms.custom:
 - "1470"
 - "6200014"
-ms.openlocfilehash: db70e1a9aa41bbee46ddb9a50b32370b1150ad30
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 965ee010fbb979ffb75b44fd14fdf4f0f34cbdd445924aa52c0937b5b1f5cc8e
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47678199"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53947498"
 ---
-# <a name="dynamics-365-form-not-visible"></a>ฟอร์ม Dynamics ๓๖๕ไม่สามารถมองเห็นได้
+# <a name="dynamics-365-form-not-visible"></a>มองไม่เห็นฟอร์ม Dynamics 365
 
-* [ฟอร์มไม่สามารถมองเห็นได้ในตัวเลือกฟอร์ม](https://docs.microsoft.com/dynamics365/customer-engagement/customize/control-access-forms)
+* [ฟอร์มไม่ปรากฏในตัวเลือกฟอร์ม](https://docs.microsoft.com/dynamics365/customer-engagement/customize/control-access-forms)
 
-* [ทำไมฟอร์มของฉันจึงไม่สามารถมองเห็นได้ในตัวเลือกฟอร์มหล่นลงในแอปใดก็ได้](https://docs.microsoft.com/powerapps/maker/model-driven-apps/create-design-forms?branch=master#why-is-my-form-not-visible-in-the-form-selector-drop-down-in-my-app)
+* [เหตุใดฟอร์มของฉันจึงไม่ปรากฏในดรอปดาวน์ตัวเลือกฟอร์มในแอปใดๆ](https://docs.microsoft.com/powerapps/maker/model-driven-apps/create-design-forms?branch=master#why-is-my-form-not-visible-in-the-form-selector-drop-down-in-my-app)

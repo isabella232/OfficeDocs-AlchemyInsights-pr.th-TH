@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "8263"
 - "9004610"
-ms.openlocfilehash: e32bda19012969d4a6c3a0dfd9c3af912f6eb8479203f4518d55727163266086
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: a2efa52c3fcd90b255d5f1ccbb07c31f9c138e7a31dbe92f318418fb1643601d
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53926300"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57868365"
 ---
 # <a name="information-about-teams-contacts"></a>ข้อมูลเกี่ยวกับTeamsที่ติดต่อ
 
@@ -29,7 +29,7 @@ Teamsที่ติดต่อเหล่านี้:
 
 ถ้าที่ติดต่อไม่เสร็จสมบูรณ์หรือไม่ซิงค์กับผู้ใช้หนึ่งรายหรือหลายคน ให้ต่อไปนี้:
 
-- ตรวจสอบให้แน่ใจว่ากล่องจดหมายExchangeของผู้ใช้ถูกโฮสต์แบบออนไลน์ (ไม่ใช่ภายในองค์กร) หากต้องการข้อมูลเพิ่มเติม โปรดดู[วิธีExchange Microsoft Teams](/microsoftteams/exchange-teams-interact)โต้ตอบ
+- ตรวจสอบให้แน่ใจว่ากล่องจดหมายExchangeของผู้ใช้ถูกโฮสต์แบบออนไลน์ (ไม่ใช่ภายในองค์กร) หากต้องการข้อมูลเพิ่มเติม โปรดดู[วิธีExchange Microsoft Teams](https://docs.microsoft.com/microsoftteams/exchange-teams-interact)โต้ตอบ
 - ตรวจสอบให้แน่ใจว่าหมายเลขโทรศัพท์ของที่ติดต่อถูกเพิ่มลงในข้อมูลที่ติดต่อแล้ว
 - ค้นหาอีเมลของที่ติดต่อ **ในแถบ** ค้นหา ที่ติดต่อที่คุณสามารถเรียกใช้การซิงค์ไปยังรายการที่ติดต่อได้
 

@@ -1,5 +1,5 @@
 ---
-title: สถานะ Outlook.com จะแสดงเป็นพร้อมใช้งานเสมอ
+title: Outlook.com แสดงเป็นว่างเสมอ
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -15,13 +15,13 @@ ms.custom:
 - "1768"
 - "8000049"
 ms.assetid: dcddbff8-6501-45c2-8169-f18de7613d81
-ms.openlocfilehash: 444864816bef298f664df5db701965c55f6d2211
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: d6b19c87862d205fd4351a51331fd666d9c93ce98d48088629f054fe22b68c53
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47777024"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54095165"
 ---
-# <a name="my-status-always-shows-as-available"></a>สถานะของฉันจะแสดงเป็นพร้อมใช้งานเสมอ
+# <a name="my-status-always-shows-as-available"></a>สถานะของฉันจะแสดงเป็นว่างเสมอ
 
-ทุกครั้งที่คุณลงชื่อเข้าใช้ Outlook.com สถานะบัญชีผู้ใช้ของคุณจะถูกตั้งค่าใหม่เป็นพร้อมใช้งาน คุณสามารถป้องกันไม่ให้สถานะของคุณเปลี่ยนแปลงได้โดยไม่ต้องลงชื่อออกจาก Outlook.com เมื่อต้องการลงชื่อเข้าใช้เมื่อปิดเบราว์เซอร์ของคุณให้เลือกกล่อง **ให้ฉันลงชื่อ** เข้าใช้บนหน้าการลงชื่อเข้าใช้ Outlook.com
+ทุกครั้งที่คุณลงชื่อเข้าใช้ใน Outlook.com สถานะบัญชีของคุณจะถูกรีเซ็ตเป็น พร้อมใช้งาน คุณสามารถป้องกันไม่ให้สถานะของคุณเปลี่ยนแปลงได้โดยการไม่ลงชื่อออกจากOutlook.com เมื่อต้องการลงชื่อเข้าใช้ต่อไปเมื่อปิดเบราว์เซอร์ ให้เลือกกล่อง **ให้ฉันลงชื่อเข้าใช้** ต่อไป Outlook.com ในหน้าลงชื่อเข้าใช้

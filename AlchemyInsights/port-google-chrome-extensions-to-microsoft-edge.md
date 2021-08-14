@@ -1,5 +1,5 @@
 ---
-title: ส่วนขยาย Google Chrome พอร์ตไปยัง Microsoft Edge (Chromium)
+title: พอร์ตส่วนขยาย Google Chrome Microsoft Edge (Chromium)
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -15,15 +15,15 @@ ms.custom:
 - "7102"
 - "8297"
 - "9004617"
-ms.openlocfilehash: 1c71d74d01c1e38e4c7789aea2c0b43701b3a5de
-ms.sourcegitcommit: 7b2e5078dd65f11af6650e692a7ea48e91f544e0
+ms.openlocfilehash: 34ec7e71a2f27eb5b46395876a4d1c903189be1050e523796c9f2a817c20aaa0
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 04/02/2021
-ms.locfileid: "51505303"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53973716"
 ---
-# <a name="port-google-chrome-extensions-to-microsoft-edge-chromium"></a>ส่วนขยาย Google Chrome พอร์ตไปยัง Microsoft Edge (Chromium)
+# <a name="port-google-chrome-extensions-to-microsoft-edge-chromium"></a>พอร์ตส่วนขยาย Google Chrome Microsoft Edge (Chromium)
 
-เป็นเรื่องง่ายที่จะพอร์ตส่วนขยาย[Google Chrome ไปยัง Microsoft Edge (Chromium)](https://docs.microsoft.com/microsoft-edge/extensions-chromium/developer-guide/port-chrome-extension) ในกรณีส่วนใหญ่ คุณเพียงต้องเปลี่ยนแปลงน้อยที่สุดเพื่อเรียกใช้ส่วนขยายเหล่านี้บน Microsoft Edge
+เป็นเรื่องง่ายที่จะพอร์ตส่วนขยาย[Google Chrome เพื่อMicrosoft Edge (Chromium)](https://docs.microsoft.com/microsoft-edge/extensions-chromium/developer-guide/port-chrome-extension) ในกรณีส่วนใหญ่ คุณเพียงต้องเปลี่ยนแปลงน้อยที่สุดเพื่อเรียกใช้ส่วนขยายเหล่านี้Microsoft Edge
 
-API ส่วนขยายและคีย์รายการที่ได้รับการสนับสนุนโดย Google Chrome สามารถเข้ากันได้กับ Microsoft Edge อย่างไรก็ตาม Microsoft Edge ไม่สนับสนุนส่วนขยาย API chrome.gcm, chrome.identity.getAccounts, chrome.identity.getAuthToken และ chrome.instanceID
+API ส่วนขยายและคีย์รายการที่ได้รับการสนับสนุนโดย Google Chrome เข้ากันได้กับMicrosoft Edge อย่างไรก็ตาม Microsoft Edge API ส่วนขยาย chrome.gcm, chrome.identity.getAccounts, chrome.identity.getAuthToken และ chrome.instanceID

@@ -13,15 +13,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004342"
 - "7839"
-ms.openlocfilehash: 0664ec09a9633165ff0a7d4b33320b14abf7c4e7
-ms.sourcegitcommit: ba3118b7ad5e02756d0e5c2113245090f54370af
+ms.openlocfilehash: c45c8c64427fd0122ef8c91f800b830f421fd9d78e7108962d4053700a3da519
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 01/25/2021
-ms.locfileid: "49984649"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53975336"
 ---
 # <a name="migrating-applications"></a>การโยกย้ายแอปพลิเคชัน
 
-[ทรัพยากรสำหรับการโยกย้ายแอปพลิเคชันไปยัง Azure Active directory](https://docs.microsoft.com/azure/active-directory/manage-apps/migration-resources) -ทรัพยากรเพื่อช่วยให้คุณโยกย้ายการเข้าถึงแอปพลิเคชันและการรับรองความถูกต้องของ azure active Directory (azure AD)
+[ทรัพยากรของแอปพลิเคชันการโยกย้ายAzure Active Directory](https://docs.microsoft.com/azure/active-directory/manage-apps/migration-resources) - แหล่งข้อมูลที่จะช่วยคุณโยกย้ายการเข้าถึงแอปพลิเคชันและการรับรองความถูกต้องAzure Active Directory (Azure AD)
 
-[การย้ายการรับรองความถูกต้องของแอปพลิเคชันจากบริการสหพันธรัฐไดเรกทอรีที่ใช้งานอยู่ไปยัง Azure active](https://docs.microsoft.com/azure/active-directory/manage-apps/migrate-adfs-apps-to-azure) directory-คำแนะนำที่เน้นสำหรับนักพัฒนาสำหรับการโยกย้ายแอปพลิเคชันจากบริการสหพันธรัฐไดเรกทอรี active
+[การย้ายการรับรองความถูกต้องแอปพลิเคชันจาก Active Directory Federation Services Azure Active Directory](https://docs.microsoft.com/azure/active-directory/manage-apps/migrate-adfs-apps-to-azure) - แนวทางที่โฟกัสสําหรับนักพัฒนาสําหรับการโยกย้ายแอปพลิเคชันจาก Active Directory Federation Services Azure Active Directory
