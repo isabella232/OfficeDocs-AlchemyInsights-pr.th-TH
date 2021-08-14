@@ -1,13 +1,13 @@
 ---
-ชื่อเรื่อง: "แก้ไขปัญหาการแสดงตนใน Outlook" ms.author: ผู้เขียน pebaum: ตัวจัดการ pebaum: scotv ms.date: 04/8/2021 ms.audience: Admin ms.topic: article ms.service: o365-administration ROBOTS: NOINDEX, NOFOLLOW localization_priority: Priority ms.collection: Adm_O365 ms.custom: (
+ชื่อเรื่อง: "แก้ไขปัญหาการแสดงตนใน Outlook" ms.author: pebaum author: pebaum manager: scotv ms.date: 04/8/2021 ms.audience: Admin ms.topic: article ms.service: o365-administration ROBOTS: NOINDEX, NOFOLLOW localization_priority: Priority ms.collection: Adm_O365 ms.custom: (
 - 9257
 - 9003349
 ---
 
-# <a name="troubleshoot-presence-issues-in-outlook"></a>แก้ไขปัญหาการแสดงตนใน Outlook
+# <a name="troubleshoot-presence-issues-in-outlook"></a>การแก้ไขปัญหาสถานะในOutlook
 
-เมื่อต้องการวินิจฉัยและแก้ไขปัญหาสถานะการแสดงตนของผู้ใช้ใน Outlook ให้ดาวน์โหลดและเรียกใช้ตัวช่วยการสนับสนุนและการกู้คืนของ Microsoft >[สถานะ Teams](https://aka.ms/SaRA-TeamsPresenceScenario)
+เมื่อต้องการวินิจฉัยและแก้ไขปัญหาเกี่ยวกับสถานะการแสดงตนของผู้ใช้ใน Outlook ให้ดาวน์โหลดและเรียกใช้ Microsoft[ตัวช่วยการสนับสนุนและการกู้คืน > Teamsสถานะการแสดงตน](https://aka.ms/SaRA-TeamsPresenceScenario)
 
-เมื่อต้องการแก้ไขปัญหาการแสดงตนใน Outlook ด้วยตนเอง ให้ปฏิบัติตามขั้นตอนใน[ปัญหาสถานะการแสดงตนของผู้ใช้ใน Outlook](https://docs.microsoft.com/microsoftteams/troubleshoot/teams-im-presence/issues-with-presence-in-outlook)
+เมื่อต้องการแก้ไขปัญหาการแสดงตนในOutlookด้วยตนเอง ให้ปฏิบัติตามขั้นตอนใน[ปัญหาสถานะการแสดงตนของผู้ใช้ ใน](https://docs.microsoft.com/microsoftteams/troubleshoot/teams-im-presence/issues-with-presence-in-outlook)Outlook
 
-ถ้าสถานะการแสดงตนไม่ได้อัปเดตใน Teams ให้ดู[สถานะการแสดงตนจริงของคุณไม่ได้แสดงใน Teams](https://docs.microsoft.com/microsoftteams/troubleshoot/teams-im-presence/presence-not-show-actual-status)
+ถ้าสถานะการแสดงตนไม่ได้อัปเดตTeamsอยู่ ให้ดูที่[สถานะการแสดงตนจริงของคุณไม่ได้Teams](https://docs.microsoft.com/microsoftteams/troubleshoot/teams-im-presence/presence-not-show-actual-status)อยู่

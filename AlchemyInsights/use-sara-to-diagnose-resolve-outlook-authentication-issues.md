@@ -1,5 +1,5 @@
 ---
-title: ใช้ SaRA เพื่อวินิจฉัยและแก้ไขปัญหาการรับรองความถูกต้อง Outlook
+title: ใช้SaRAวินิจฉัยและแก้ไขปัญหาOutlookการรับรองความถูกต้อง
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,21 +12,21 @@ ms.collection: Adm_O365
 munlocking-an-account s.custom:
 - "9002370"
 - "4605"
-ms.openlocfilehash: 34f934e223deae9d4b5bcfe1f3eb8a07b374860f
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: aa8f4db495e702694322e2c939aa907e7c8a54a9bb160c39d8bd5f49a32bcb01
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51826038"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53980448"
 ---
-# <a name="use-sara-to-diagnose-and-resolve-outlook-authentication-issues"></a>ใช้ SaRA เพื่อวินิจฉัยและแก้ไขปัญหาการรับรองความถูกต้อง Outlook
+# <a name="use-sara-to-diagnose-and-resolve-outlook-authentication-issues"></a>ใช้SaRAวินิจฉัยและแก้ไขปัญหาOutlookการรับรองความถูกต้อง
 
-เมื่อต้องการวินิจฉัยว่า &การรับรองความถูกต้องของ Outlook หรือปัญหาพร้อมท์ข้อมูลรับรองความถูกต้องซ้ําๆ โปรดติดตั้งและเรียกใช้ตัวช่วยการสนับสนุนและการกู้คืนของ [Office 365](https://diagnostics.office.com/#/) (SaRA)
+เมื่อต้องการวินิจฉัยว่า&การรับรองความถูกOutlookหรือปัญหาพร้อมท์ข้อมูลรับรองความถูกต้องซ้ํา ๆ โปรดติดตั้งและเรียกใช้ตัวช่วยการสนับสนุนและการกู้คืนสําหรับ Office 365 [(SaRA)](https://diagnostics.office.com/#/)
 
 1. เรียกใช้ SaRA
 
-2. เลือก **Outlook** บนหน้าจอแรก **ให้คลิก** ถัดไป
+2. เลือก **Outlook** ที่ด้านล่างของหน้าจอแรก **คลิก** ถัดไป
 
-3. เลือก **Outlook ขอให้ใส่รหัสผ่านของฉัน** ต่อไป **คลิก** ถัดไป
+3. เลือก **Outlookถามรหัสผ่านของฉัน** ต่อไป **ให้คลิก** ถัดไป
 
-ตัวช่วยการสนับสนุนและการกู้คืนจะเรียกใช้การตรวจสอบการวินิจฉัยบางอย่าง และกลับมาพร้อมโซลูชันที่เป็นไปได้ให้คุณแก้ไขปัญหาการรับรองความถูกต้อง Outlook หรือพร้อมท์ข้อมูลรับรองความถูกต้อง
+จากนั้นตัวช่วยการสนับสนุนและการกู้คืนจะเรียกใช้การตรวจสอบการวินิจฉัยบางอย่าง และกลับมาพร้อมโซลูชันที่เป็นไปได้ให้คุณแก้ไขปัญหาการรับรองความถูกต้องOutlookพร้อมท์ข้อมูลรับรองความถูกต้องหรือข้อมูลรับรองความถูกต้อง

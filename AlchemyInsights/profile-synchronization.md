@@ -9,23 +9,23 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 6b695be8-eaf5-44ff-b0ae-1e0d89e7ab36
-ms.openlocfilehash: eee1080a95955332e205db3852381e39aaf5ae0e
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: b223bad66fb7cc6d1d7c0a2b3ccc7a081c061b4974060dbcafec84dfb24eb782
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47801788"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53923663"
 ---
-# <a name="when-do-my-profile-changes-sync-to-the-sharepoint-user-profile-application"></a>เมื่อใดโปรไฟล์ของฉันจะเปลี่ยนการซิงค์ไปยังแอปพลิเคชันโปรไฟล์ผู้ใช้ SharePoint
+# <a name="when-do-my-profile-changes-sync-to-the-sharepoint-user-profile-application"></a>โปรไฟล์ของฉันจะซิงค์กับแอปพลิเคชันโปรไฟล์SharePointโปรไฟล์ผู้ใช้เมื่อใด
 
-SharePoint Online ใช้งานตัวจับเวลาการนำเข้าไดเรกทอรีที่ใช้งานอยู่ (การนำเข้าโฆษณา) เพื่อนำเข้าผู้ใช้และกลุ่มลงในแอปพลิเคชันโปรไฟล์ผู้ใช้ 
+SharePoint Online ใช้งานตัวจับเวลาการนําเข้า Active Directory (การนําเข้า AD) เพื่อนําเข้าผู้ใช้และกลุ่มลงในแอปพลิเคชันโปรไฟล์ผู้ใช้ 
   
-1. การนำเข้าโฆษณาซิงโครไนซ์การเปลี่ยนแปลงจากที่เก็บไดเรกทอรี SharePoint Online ไปยังแอปพลิเคชันโปรไฟล์ผู้ใช้ การเปลี่ยนแปลงเหล่านี้จะถูกประมวลผลในชุดงาน
+1. AD Import syncs changes from the SharePoint Online Directory Store to the User Profile Application. การเปลี่ยนแปลงเหล่านี้จะถูกประมวลผลเป็นชุด
     
-2. งานตัวจับเวลาจะทำงานจนกว่าจะมีการซิงค์การเปลี่ยนแปลง
+2. งานตัวจับเวลาจะเรียกใช้จนกว่าการเปลี่ยนแปลงจะถูกซิงค์
     
 > [!NOTE]
-> เวลาที่ใช้งานจะทำงานขึ้นอยู่กับจำนวนการเปลี่ยนแปลงที่จะดำเนินการ มีการเปลี่ยนแปลงจำนวนมากใช้เวลานานขึ้น ข้อตกลงระดับบริการ (SLA) ระบุว่าการเปลี่ยนแปลงไปยังผู้ใช้ในไดเรกทอรี SharePoint Online จะปรากฏในแอปพลิเคชันโปรไฟล์ผู้ใช้ใน24ชั่วโมง 
+> เวลาที่งานจะเรียกใช้จะขึ้นอยู่กับจํานวนการเปลี่ยนแปลงที่จะถูกประมวลผล การเปลี่ยนแปลงจํานวนมากใช้เวลานานขึ้น ข้อตกลงระดับบริการ (SLA) ระบุว่าการเปลี่ยนแปลงของผู้ใช้ในไดเรกทอรี SharePoint Online จะแสดงในแอปพลิเคชันโปรไฟล์ผู้ใช้ภายใน 24 ชั่วโมง 
   
 [ข้อมูลเพิ่มเติมเกี่ยวกับการซิงค์โปรไฟล์ผู้ใช้ใน SharePoint Online](https://go.microsoft.com/fwlink/?linkid=875671)
   

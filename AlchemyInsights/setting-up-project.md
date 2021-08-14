@@ -1,5 +1,5 @@
 ---
-title: การตั้งค่าโครงการ
+title: การตั้งค่าProject
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
@@ -11,18 +11,18 @@ ms.custom:
 - "33"
 - "1600006"
 ms.assetid: e0fcdfdb-288e-43d2-a445-7b63e594afc6
-description: เป้าหมายไม่เกิน๕๐๐คำสำหรับบทความ
-ms.openlocfilehash: 4d3ca7c415227b8f299e4ae280c7e35c24a5e7db
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+description: เป้าหมายของบทความไม่เกิน 500 รายการ
+ms.openlocfilehash: 1dc306a480cdc920b9f756090f972a844b434a3ba475e40a1fbb08c89f625c51
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47798791"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53958028"
 ---
-# <a name="setting-up-project"></a>การตั้งค่าโครงการ
+# <a name="setting-up-project"></a>การตั้งค่าProject
 
- เมื่อต้องการตั้งค่า Microsoft Project ให้ทำตามขั้นตอนใน[บทความนี้](https://support.office.com/article/7059249b-d9fe-4d61-ab96-5c5bf435f281.aspx)
+ เมื่อต้องการMicrosoft Projectให้ปฏิบัติตาม[ขั้นตอน](https://support.office.com/article/7059249b-d9fe-4d61-ab96-5c5bf435f281.aspx)ในบทความนี้
 
-**การแจ้งให้ทราบสำหรับผู้ใช้ Mac:** ผลิตภัณฑ์โครงการไม่พร้อมใช้งานสำหรับ MacOS ในขณะนี้ 
+**ประกาศเกี่ยวกับผู้ใช้ Mac:** ขณะนี้Projectเปิดให้ใช้งาน MacOS แล้ว 
   
-ถ้าคุณกำลังทำงานเป็นข้อผิดพลาดในระหว่างการติดตั้งให้[ติดตั้ง Project โดยใช้ตัวช่วยการสนับสนุนและการกู้คืน](https://aka.ms/SaRA-ProjectSetupScenario)
+ถ้าคุณพบข้อผิดพลาดระหว่างการตั้งค่า[ให้Projectโดยใช้ตัวช่วยการสนับสนุนและการกู้คืน](https://aka.ms/SaRA-ProjectSetupScenario)
