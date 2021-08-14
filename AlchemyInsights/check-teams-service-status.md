@@ -1,5 +1,5 @@
 ---
-title: ตรวจสอบสถานะบริการของทีม
+title: ตรวจสอบสถานะTeamsบริการของคุณ
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,15 +13,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "4392"
 - "9001703"
-ms.openlocfilehash: 9fd1abe502948202776f4d74392e43232c1b9581
-ms.sourcegitcommit: 2eb1dd0856509b9907ccba9a5cb99d09b4f6eb4b
+ms.openlocfilehash: ffc3d65cd9f2fb0116ef14f9ab3105686cfbad34125379d6b5b9db355712a507
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 12/21/2020
-ms.locfileid: "49724209"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53930640"
 ---
-# <a name="check-teams-service-status"></a>ตรวจสอบสถานะบริการของทีม
+# <a name="check-teams-service-status"></a>ตรวจสอบสถานะTeamsบริการของคุณ
 
-เมื่อต้องการตรวจสอบสถานะปัจจุบันของบริการทีม Microsoft ให้ไปที่หน้า **สถานภาพบริการ** ใน [ศูนย์การจัดการ microsoft ๓๖๕](https://go.microsoft.com/fwlink/p/?linkid=2024339) สำหรับข้อมูลเพิ่มเติมให้ดู[ที่วิธีการตรวจสอบสถานภาพบริการของ Microsoft ๓๖๕](https://docs.microsoft.com/office365/enterprise/view-service-health)
+เมื่อต้องการตรวจสอบสถานะปัจจุบันของMicrosoft Teamsบริการ ให้ไปที่ **หน้า สถานภาพ** บริการ [ศูนย์การจัดการ Microsoft 365](https://go.microsoft.com/fwlink/p/?linkid=2024339) หากต้องการข้อมูลเพิ่มเติม โปรดดู[วิธีการตรวจสอบสถานMicrosoft 365บริการ](https://docs.microsoft.com/office365/enterprise/view-service-health)ของคุณ
 
-ถ้าปัญหาไม่เกี่ยวข้องกับบริการทีม Microsoft เราจะต้องมีข้อมูลรายละเอียดเพิ่มเติมเพื่อค้นหาแหล่งข้อมูลที่เหมาะสม Restate ปัญหาของคุณและใส่ชื่อผลิตภัณฑ์เฉพาะฟีเจอร์หรือข้อผิดพลาดและส่งคิวรีการค้นหาของคุณอีกครั้ง
+ถ้าปัญหาไม่เกี่ยวข้องกับMicrosoft Teamsบริการของคุณ เราจะต้องมีข้อมูลโดยละเอียดเพิ่มเติมเพื่อค้นหาแหล่งข้อมูลที่เหมาะสม ให้แจ้งปัญหาของคุณใหม่ และใส่ชื่อผลิตภัณฑ์ ฟีเจอร์ หรือข้อผิดพลาดเฉพาะ และส่งคิวรีการค้นหาของคุณอีกครั้ง
