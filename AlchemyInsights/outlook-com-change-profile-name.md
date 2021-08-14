@@ -14,17 +14,17 @@ ms.custom:
 - "8000036"
 - "777"
 - "806"
-ms.openlocfilehash: 7727dcb552fbbd31d4bec57bf16ac188f6783006
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: cc5d0d93091cdd4c74b6703e4295bfac18c911f8ad630b8bd7db5a17b1ffb9d0
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47802436"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53962474"
 ---
 # <a name="change-your-profile-name-in-outlookcom"></a>เปลี่ยนชื่อโปรไฟล์ของคุณใน Outlook.com
 
-1. ไปที่[ข้อมูลบัญชี Microsoft ของคุณ](https://go.microsoft.com/fwlink/p/?linkid=860841)
-2. เลือก**แก้ไขชื่อ**
-3. ใส่ชื่อและนามสกุลแล้วเลือก**บันทึก**
+1. ไปที่ [ข้อมูลบัญชี Microsoft](https://go.microsoft.com/fwlink/p/?linkid=860841)ของคุณ
+2. เลือก **แก้ไข** ชื่อ
+3. ป้อนชื่อและนามสกุล **แล้วเลือก** บันทึก
 
-โปรดอนุญาตให้มีการเปลี่ยนแปลงชื่อโปรไฟล์ของคุณได้ถึง24ชั่วโมงเพื่อให้มีผล
+โปรดรอถึง 24 ชั่วโมงเพื่อให้การเปลี่ยนแปลงชื่อโปรไฟล์ของคุณมีผล

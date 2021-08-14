@@ -1,5 +1,5 @@
 ---
-title: ข้อมูลปฏิทิน๖๐๘เกี่ยวกับการตั้งค่าแบบไฮบริด
+title: ข้อมูลปฏิทิน 608 เกี่ยวกับการตั้งค่าแบบไฮบริด
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -14,15 +14,15 @@ ms.custom:
 - "896"
 - "3800005"
 ms.assetid: e269310f-32d4-423d-a9ce-0b6fe5c8b5ed
-ms.openlocfilehash: beeaeeacffc8e56f7b25458a9978d0bdfe954af1
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: e946c6594f0244706835f13bbee1594a7e705306740e20ce599cad18d70fb79c
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47684609"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53989574"
 ---
-# <a name="calendar-freebusy-issues-in-hybrid-environments"></a>ปัญหาสถานะว่าง/ไม่ว่างของปฏิทินในสภาพแวดล้อมแบบไฮบริด
+# <a name="calendar-freebusy-issues-in-hybrid-environments"></a>ปัญหาว่าง/ไม่ว่างของปฏิทินในสภาพแวดล้อมแบบไฮบริด
 
-ถ้าผู้ใช้กำลังมีปัญหาในการดูข้อมูลว่าง/ไม่ว่างของปฏิทินในสภาพแวดล้อมแบบไฮบริดให้เรียกใช้ตัวช่วยสร้างการกำหนดค่าแบบไฮบริดอีกครั้ง สำหรับข้อมูลเพิ่มเติมเกี่ยวกับตัวช่วยสร้างการกำหนดค่าแบบไฮบริดให้ดูที่[ตัวช่วยสร้างการกำหนดค่าแบบไฮบริด](https://go.microsoft.com/fwlink/p/?linkid=528149)
+ถ้าผู้ใช้มีปัญหาในการดูข้อมูลว่าง/ไม่ว่างในปฏิทินในสภาพแวดล้อมแบบไฮบริด ให้เรียกใช้ตัวช่วยสร้างการกําหนดค่าแบบไฮบริดอีกครั้ง For more information about the Hybrid Configuration wizard, see [Hybrid Configuration wizard](https://go.microsoft.com/fwlink/p/?linkid=528149).
 
-สำหรับขั้นตอนการแก้ไขปัญหาในสภาพแวดล้อมแบบไฮบริดให้ดู[ที่การแก้ไขปัญหาการปรับใช้แบบไฮบริด](https://technet.microsoft.com/library/jj659053.aspx)
+For troubleshooting steps in hybrid environments, see [Troubleshoot a hybrid deployment](https://technet.microsoft.com/library/jj659053.aspx).

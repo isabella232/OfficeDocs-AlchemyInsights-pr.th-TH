@@ -1,5 +1,5 @@
 ---
-title: เวิร์กโฟลว์ SharePoint จะถูกเกษียณ
+title: SharePointเวิร์กโฟลว์หยุดใช้งานแล้ว
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,21 +13,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "5900"
 - "9003071"
-ms.openlocfilehash: cf85e4c45f1d88c3a643e298fac5d539cd127fdf
-ms.sourcegitcommit: 0f42d1600b6845083f0273d14c1d9e59344e4371
+ms.openlocfilehash: f5d177dead1785d278e71370113dd893c897b4616a2ca2b32cd5614133625065
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 11/30/2020
-ms.locfileid: "49477494"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54022488"
 ---
-# <a name="sharepoint-workflows-retiring"></a>เวิร์กโฟลว์ SharePoint จะถูกเกษียณ
+# <a name="sharepoint-workflows-retiring"></a>SharePointเวิร์กโฟลว์หยุดใช้งานแล้ว
 
-เวิร์กโฟลว์ SharePoint ๒๐๑๐ถูกถอนออก เราขอแนะนำให้โยกย้ายไปยัง [Power อัตโนมัติ](https://docs.microsoft.com/power-automate/getting-started) หรือโซลูชันที่ได้รับการสนับสนุนอื่น 
+SharePoint 2010 เวิร์กโฟลว์ถูกปลดระวางแล้ว เราขอแนะ[Power Automateไปยังโซลูชัน](https://docs.microsoft.com/power-automate/getting-started)ที่ได้รับการสนับสนุนอื่นๆ 
 
-วันที่สำคัญ:
+วันที่หลัก:
 
-- 1สิงหาคม๒๐๒๐เวิร์กโฟลว์ SharePoint ๒๐๑๐จะ **ปิด** ใช้งานสำหรับผู้เช่าที่สร้างขึ้นใหม่
+- 1 สิงหาคม 2020 SharePoint 2010 **จะถูกปิดใช้งาน** ของผู้เช่าที่สร้างขึ้นใหม่
 
-- 1พฤศจิกายน๒๐๒๐เวิร์กโฟลว์ SharePoint ๒๐๑๐จะถูก **เอาออก** จากผู้เช่าที่มีอยู่
+- 1 พฤศจิกายน 2020 SharePoint 2010 **เวิร์กโฟลว์บริการจะถูก** เอาออกจากผู้เช่าที่มีอยู่
 
-สำหรับข้อมูลเพิ่มเติมให้ดูที่การ[สนับสนุนเวิร์กโฟลว์ SharePoint](https://aka.ms/sp-workflows-support)
+For more info, see [SharePoint Workflows Support](https://aka.ms/sp-workflows-support).

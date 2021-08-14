@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "11514"
 - "9003046"
-ms.openlocfilehash: 85d6e723e56b01fd9914165d8c9740f3b055947d
-ms.sourcegitcommit: 1226e9a9601dc8fc8ec427235f3c2dd88ff84ced
+ms.openlocfilehash: ea9f78176bcc3208c01da5ccfaeb97af4373a5b5d1a4abc652422a0f85df7d9a
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 06/02/2021
-ms.locfileid: "52731950"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54004209"
 ---
 # <a name="drive-shipping-in-the-microsoft-365-import-service"></a>การจัดส่งไดรฟ์ในบริการMicrosoft 365นําเข้าของคุณ
 
@@ -38,7 +38,7 @@ ms.locfileid: "52731950"
 ประสิทธิภาพการคํานวณอาจได้รับผลกระทบจาก PSTs ที่มีขนาดใหญ่กว่า 20 GB
 
 - สนับสนุนเฉพาะไดรฟ์โซลิดสสเตต (SSD) ขนาด 2.5 นิ้ว หรือฮาร์ดไดรฟ์ภายในแบบ SATA II/III ขนาด 2.5 นิ้วหรือ 3.5 นิ้วเท่านั้น
-ฮาร์ดไดรฟ์ที่มีไฟล์ PST ต้องถูกเข้ารหัสลับBitLocker
+ฮาร์ดไดรฟ์ที่มีไฟล์ PST ต้องถูกเข้ารหัสลับด้วย BitLocker
 
 - ค่าใช้จ่ายในการนําเข้าไฟล์ PST ไปยังMicrosoft 365กล่องจดหมายที่ใช้การจัดส่งไดรฟ์คือ $2 USD ต่อข้อมูล 1 GB
 
