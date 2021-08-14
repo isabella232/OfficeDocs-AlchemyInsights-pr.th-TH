@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002538"
 - "5485"
-ms.openlocfilehash: a8e8b3a56b25fb7841d4f8d8f84d7d9df766386b
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 804df8439b87b7138da1c484e8208a219ea6c09bed3e858278e4334c0c6612cb
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51822042"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53953096"
 ---
 # <a name="adding-phone-numbers-to-users"></a>การเพิ่มหมายเลขโทรศัพท์ให้กับผู้ใช้
 
-ใช้ศูนย์การจัดการ Microsoft Teams:
+การใช้ศูนย์Microsoft Teamsให้ต่อไปนี้
 
-1. ในการนําทางด้านซ้าย ให้ไปที่ **>เสียง** แล้วคลิก **เพิ่ม**
+1. ในการนําทางด้านซ้าย ให้ไปที่ **> โทรเสียง** และ **จากนั้นคลิก** เพิ่ม
 2. ใส่ชื่อใบสั่งซื้อและหากคุณต้องการ เพิ่มรายละเอียด
 3. บนหน้า **สถานที่และปริมาณ** ให้ต่อไปนี้:
     - ภายใต้ ประเทศหรือภูมิภาค ให้เลือกประเทศหรือภูมิภาค

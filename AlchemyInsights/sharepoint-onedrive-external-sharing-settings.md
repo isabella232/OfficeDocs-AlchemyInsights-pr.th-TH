@@ -1,5 +1,5 @@
 ---
-title: เปิดหรือปิดการแชร์ภายนอกสำหรับ SharePoint
+title: เปิดหรือปิดการแชร์ภายนอกSharePoint
 ms.author: pebaum
 author: pebaum
 manager: pamgreen
@@ -11,26 +11,26 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: e13940be-483f-46ed-a88c-d36bbaf04ad5
-ms.openlocfilehash: 09f326274ccd6d5164bac64c81c9b2684748aaba
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 1dcba3ff83c4fa4db2e687ca9236ee8732102c431edc265b9856c94c126708d9
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47800411"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53941387"
 ---
 # <a name="warning-message-your-organizations-policies-dont-allow-you-to-share-with-these-users"></a>ข้อความเตือน: นโยบายขององค์กรของคุณไม่อนุญาตให้คุณแชร์กับผู้ใช้เหล่านี้
 
-ผู้ใช้อาจพบข้อความเตือนเมื่อพยายามแชร์กับผู้ใช้ภายนอกขององค์กรของคุณ ข้อความคือ**นโยบายขององค์กรของคุณไม่อนุญาตให้คุณแชร์กับผู้ใช้เหล่านี้ ไปที่การแชร์ภายนอกในศูนย์การจัดการ Microsoft ๓๖๕เพื่อเปิดใช้งาน** การทำเช่นนี้มักจะเกิดขึ้นในครั้งแรกที่พยายามแชร์กับผู้ใช้ภายนอกหรือเมื่อแชร์กับผู้ใช้ภายนอกใหม่
+ผู้ใช้อาจพบข้อความเตือนเมื่อพยายามแชร์กับผู้ใช้ภายนอกขององค์กรของคุณ ข้อความคือ **นโยบายขององค์กรของคุณไม่อนุญาตให้คุณแชร์กับผู้ใช้เหล่านี้ ไปที่ การแชร์ภายนอก ศูนย์การจัดการ Microsoft 365 เพื่อ** เปิดใช้งาน This often happens the first time attempting to share with external users or when sharing with new external users.
 
-ตรวจสอบ **การตั้งค่าการแชร์ภายนอกของ SharePoint และ OneDrive** สำหรับองค์กรของคุณ
+ตรวจสอบ **SharePoint OneDrive การแชร์** ภายนอก ให้กับองค์กรของคุณ
 
-1. ใน[ศูนย์การจัดการ Microsoft ๓๖๕](https://admin.microsoft.com/AdminPortal/Home#/homepage">https://admin.microsoft.com/)ของคุณให้เลือก**SharePoint**
-3. เลือกการ **แชร์** เพื่อดูการตั้งค่าการแชร์ภายนอก
+1. ใน [ศูนย์การจัดการ Microsoft 365](https://admin.microsoft.com/AdminPortal/Home#/homepage">https://admin.microsoft.com/)ของคุณ **SharePoint** เลือก
+3. เลือกการแชร์ เพื่อดูการตั้งค่า การแชร์ภายนอก
 
-ตรวจสอบ **การตั้งค่าการแชร์ภายนอก** สำหรับไซต์ที่เฉพาะเจาะจง
+ตรวจสอบ **การตั้งค่า การแชร์ภายนอก** กับไซต์ที่ระบุ
 
-1. ใน[ศูนย์การจัดการ Microsoft ๓๖๕](https://admin.microsoft.com/AdminPortal/Home#/homepage">https://admin.microsoft.com/)ของคุณให้เลือก**SharePoint**
-2. เลือก **ไซต์ที่ใช้งานอยู่** เพื่อดูไซต์ของคุณที่พร้อมใช้งาน
-3. เลือกไซต์ที่คุณต้องการตรวจสอบแล้วเลือกปุ่ม **แชร์** ที่แสดงในแถบเมนูเพื่อตรวจสอบการตั้งค่าสำหรับไซต์
+1. ใน [ศูนย์การจัดการ Microsoft 365](https://admin.microsoft.com/AdminPortal/Home#/homepage">https://admin.microsoft.com/)ของคุณ **SharePoint** เลือก
+2. เลือก **ไซต์** ที่ใช้งานอยู่ เพื่อดูไซต์ของคุณที่พร้อมใช้งาน
+3. เลือกไซต์ที่คุณต้องการตรวจสอบ **แล้วเลือกปุ่ม** การแชร์ ที่แสดงในแถบเมนูเพื่อตรวจสอบการตั้งค่าของไซต์
 
-สำหรับข้อมูลเพิ่มเติมให้ดูที่[ภาพรวมการแชร์ภายนอก](https://docs.microsoft.com/sharepoint/external-sharing-overview)
+For more information, see [External sharing overview](https://docs.microsoft.com/sharepoint/external-sharing-overview).

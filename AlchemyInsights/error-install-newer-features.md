@@ -13,18 +13,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9825"
 - "9005394"
-ms.openlocfilehash: bc1c9be0a1ea5844dfaca341e37f929d4973d824
-ms.sourcegitcommit: c08bed4071baa3bb5879496df3ed44fb828c8367
+ms.openlocfilehash: 9641abfc844b12b7fad8cf7b6919101125f8f4805ed671da6cd2949d52716eab
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 03/19/2021
-ms.locfileid: "51037621"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53978144"
 ---
 # <a name="error-your-new-install-has-newer-features-than-your-current-version-do-you-want-to-activate"></a>ข้อผิดพลาด: การติดตั้งใหม่ของคุณมีฟีเจอร์ที่ใหม่กว่าเวอร์ชันปัจจุบันของคุณ คุณต้องการเปิดใช้งาน...
 
-เมื่อต้องการแก้ไขข้อผิดพลาด Office นี้ ให้เลือกโซลูชันอัตโนมัติของ Office เวอร์ชันของคุณ:
+เมื่อต้องการแก้ไขข้อผิดพลาดOfficeนี้ ให้เลือกโซลูชันอัตโนมัติของเวอร์ชันOffice:
 
-- ใน Microsoft 365 ให้ดาวน์โหลดและ [เรียกใช้ตัวช่วยการสนับสนุนและ](https://aka.ms/SaRA-OfficeActivation-Chat)การกู้คืน ให้ปฏิบัติตามคําแนะนําและพร้อมท์เพื่อแก้ไขข้อผิดพลาดการเปิดใช้งาน Office ของคุณ
+- For Microsoft 365, download and run the[ตัวช่วยการสนับสนุนและการกู้คืน](https://aka.ms/SaRA-OfficeActivation-Chat). Follow the instructions and prompts to troubleshoot your Office activation error.
 
 - For Office 2019 or Office 2016, follow the manual steps provided in [Unlicensed Product and activation errors in Office](https://support.microsoft.com/office/0d23d3c0-c19c-4b2f-9845-5344fedc4380#bkmk_fixyourself).
 

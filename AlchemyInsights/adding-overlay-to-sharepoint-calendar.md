@@ -1,5 +1,5 @@
 ---
-title: การเพิ่มการวางซ้อนลงในปฏิทิน SharePoint
+title: การเพิ่มการวางซ้อนลงในSharePointปฏิทิน
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,17 +13,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000677"
 - "2587"
-ms.openlocfilehash: f105c2e6035f7ac49c669d1196b688ab20ce34a7
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 1ceed47bf94350b52da3633da5afbff1a70a8ca6d651576bc1d89acdbaf7af65
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51822078"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53953054"
 ---
-# <a name="adding-an-overlay-to-a-sharepoint-calendar"></a>การเพิ่มการวางซ้อนลงในปฏิทิน SharePoint
+# <a name="adding-an-overlay-to-a-sharepoint-calendar"></a>การเพิ่มการวางซ้อนลงในSharePointปฏิทิน
 
-ปฏิทิน SharePoint เป็นชนิดรายการแบบคลาสสิกซึ่งในบางครั้งจะสับสนกับปฏิทินกลุ่มของ Microsoft 365
+SharePoint ปฏิทินเป็นชนิดรายการแบบคลาสสิกซึ่งในบางครั้งจะสับสนMicrosoft 365ปฏิทินกลุ่ม
  
-ถ้าคุณใช้ปฏิทิน SharePoint บนไซต์ของคุณ คุณสามารถวางซ้อนปฏิทิน Exchange ของคุณเองเพื่อสร้างมุมมองปฏิทินที่รวมเข้าด้วยกันได้ อีกวิธีหนึ่งคือ คุณสามารถวางซ้อนปฏิทิน SharePoint อื่นได้ตราบใดที่ปฏิทิน SharePoint ทั้งสองปฏิทินอยู่ในไซต์คอลเลกชันเดียวกัน
+ถ้าคุณใช้ปฏิทินแบบSharePointบนไซต์ของคุณ คุณสามารถวางซ้อนปฏิทินExchangeซ้อนเพื่อสร้างมุมมองปฏิทินที่รวมเข้าด้วยกันได้ อีกวิธีหนึ่งคือ คุณสามารถวางซ้อนปฏิทินSharePointอื่นซ้อนได้SharePointปฏิทินทั้งสองปฏิทินอยู่ในไซต์คอลเลกชันเดียวกัน
  
-เมื่อต้องการเพิ่มการวางซ้อนลงในปฏิทิน SharePoint แบบคลาสสิก ให้ปฏิบัติตามขั้นตอน[ใน วางซ้อนปฏิทิน SharePoint กับปฏิทินจาก Exchange หรือ SharePoint](https://support.office.com/article/Overlay-a-SharePoint-calendar-with-a-calendar-from-Exchange-or-SharePoint-4CAEBE59-3994-4A94-9322-B31ABB8A5E9A)
+เมื่อต้องการเพิ่มการวางซ้อนลงในSharePointแบบคลาสสิก ให้ปฏิบัติตามขั้นตอนใน วาง[SharePointซ้อนปฏิทินที่มีปฏิทินExchangeหรือSharePoint](https://support.office.com/article/Overlay-a-SharePoint-calendar-with-a-calendar-from-Exchange-or-SharePoint-4CAEBE59-3994-4A94-9322-B31ABB8A5E9A)ปฏิทิน
