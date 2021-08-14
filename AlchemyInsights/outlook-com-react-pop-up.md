@@ -1,5 +1,5 @@
 ---
-title: ๘๐๐๐๐๙๑ Outlook.com การตอบสนองป็อปอัพ
+title: 8000091 Outlookป็อปReactขึ้นใน React.com
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -13,17 +13,17 @@ ms.custom:
 - "1412"
 - "1413"
 - "8000091"
-ms.openlocfilehash: e12b13d193a9cb381fd455ac4fc3c2170fa2f66c
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 6ab47415524be8d3a116144411d1b00a94b2a11be3d9f6cd3f4a755b235bf2c4
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47728954"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54095741"
 ---
-# <a name="outlookcom-is-ready-for-prime-time"></a>Outlook.com พร้อมใช้งานในเวลาที่สำคัญ
+# <a name="outlookcom-is-ready-for-prime-time"></a>Outlook.com พร้อมให้เวลาเฉพาะแล้ว
 
-เราทราบว่าลูกค้าบางรายอาจเห็นป็อปอัพ "Outlook.com พร้อมใช้งานสำหรับการใช้งานครั้งสำคัญ" ในแต่ละครั้งที่ลงชื่อเข้าใช้และเรากำลังดำเนินการแก้ไข
+เราทราบว่าลูกค้าบางรายอาจเห็นป็อปอัพ "Outlook.com พร้อมให้ใช้งานเฉพาะเวลา" ในแต่ละครั้งที่พวกเขาลงชื่อเข้าใช้ และเราพยายามแก้ไข
 
-ขออภัยเกี่ยวกับว่า
+ขออภัยในเรื่องนี้
 
-[เรียนรู้เพิ่มเติมเกี่ยวกับ Outlook.com ใหม่](https://support.office.com/article/40676ad0-c831-45ac-a023-5be633be798d?wt.mc_id=Office_Outlook_com_Alchemy)
+[เรียนรู้เพิ่มเติมเกี่ยวกับเวอร์ชันOutlook.com](https://support.office.com/article/40676ad0-c831-45ac-a023-5be633be798d?wt.mc_id=Office_Outlook_com_Alchemy)

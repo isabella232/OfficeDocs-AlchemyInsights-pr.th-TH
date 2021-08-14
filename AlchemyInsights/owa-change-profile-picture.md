@@ -1,5 +1,5 @@
 ---
-title: เปลี่ยนรูปภาพโปรไฟล์ของคุณใน Outlook บนเว็บ
+title: เปลี่ยนรูปภาพโปรไฟล์ของคุณOutlook บนเว็บ
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -10,20 +10,20 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: ''
-ms.openlocfilehash: 07e53a48a6846adc9f73eb5905ff6e6ee9744f53
-ms.sourcegitcommit: 1fb324fd156008e77b7e2008af4b3dc1c0d0ea3e
+ms.openlocfilehash: b57d5fc7085d38c2f844a56e6d06ea6dcae3026360a8288cb73baed5d1280a05
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 10/13/2020
-ms.locfileid: "48451995"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54095362"
 ---
-# <a name="change-your-profile-picture-in-outlook-on-the-web"></a>เปลี่ยนรูปภาพโปรไฟล์ของคุณใน Outlook บนเว็บ
+# <a name="change-your-profile-picture-in-outlook-on-the-web"></a>เปลี่ยนรูปภาพโปรไฟล์ของคุณOutlook บนเว็บ
 
-1. ที่ด้านบนสุดของหน้าให้เลือกชื่อหรือรูปภาพโปรไฟล์ของคุณ
-1. ในบานหน้าต่าง **บัญชีผู้ใช้ของฉัน** ให้เลือกรูปภาพโปรไฟล์ของคุณ
-1. ในกล่องโต้ตอบ**เปลี่ยนรูปถ่ายของคุณ**ให้เลือก**อัปโหลดรูปถ่ายใหม่**
-1. เลือกรูปภาพเพื่ออัปโหลดแล้วเลือก**นำไปใช้**
+1. ที่ด้านบนของหน้า ให้เลือกชื่อหรือรูปภาพโปรไฟล์ของคุณ
+1. ในบานหน้าต่าง **บัญชีของฉัน** ให้เลือกรูปภาพโปรไฟล์ของคุณ
+1. ในกล่องโต้ตอบ **เปลี่ยนรูปภาพ** ของคุณ **Uploadสร้างรูปถ่าย** ใหม่
+1. เลือกรูปถ่ายเพื่ออัปโหลด แล้วเลือก **ใช้**
 
-*หมายเหตุ:* รูปภาพใหม่ของคุณจะปรากฏขึ้นในครั้งถัดไปที่คุณลงชื่อเข้าใช้ Microsoft ๓๖๕
+*หมายเหตุ:* รูปถ่ายใหม่ของคุณจะปรากฏขึ้นในครั้งถัดไปที่คุณMicrosoft 365ลงชื่อเข้าใช้
 
-สำหรับข้อมูลเพิ่มเติมให้ดูที่[เปลี่ยนรูปภาพและข้อมูลบัญชีผู้ใช้ของคุณใน Outlook บนเว็บ](https://support.office.com/article/b2dbb289-851d-4bed-93c3-3e136f5659ec)
+หากต้องการข้อมูลเพิ่มเติม โปรดดู[เปลี่ยนรูปถ่ายและข้อมูลบัญชีผู้ใช้Outlook บนเว็บ](https://support.office.com/article/b2dbb289-851d-4bed-93c3-3e136f5659ec)

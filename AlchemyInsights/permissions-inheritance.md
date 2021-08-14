@@ -12,17 +12,17 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: bb5c440a-ca70-4dc6-b517-688e80551101
-ms.openlocfilehash: f086bd7312772b399146cd81261f147364d64665
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: cd3cb78ca96953403bd0acc7e36e8466face0efd230d64dabcf055185c8ab12a
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47741970"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54095309"
 ---
-# <a name="how-permissions-inheritance-works-in-sharepoint"></a>วิธีการทำงานของการสืบทอดสิทธิ์ใน SharePoint
+# <a name="how-permissions-inheritance-works-in-sharepoint"></a>การสืบทอดสิทธิ์มีการSharePoint
 
-ตามค่าเริ่มต้นสิทธิ์ใน SharePoint จะถูกสืบทอดมาจากที่สูงขึ้นในลำดับชั้น ดังนั้นไฟล์จะสืบทอดสิทธิ์จากโฟลเดอร์ซึ่งสืบทอดสิทธิ์จากไลบรารีซึ่งสืบทอดสิทธิ์จากไซต์ซึ่งสืบทอดสิทธิ์จากไซต์คอลเลกชันที่สืบทอดมาจากไซต์คอลเลกชัน
+ตามค่าเริ่มต้น สิทธิ์ในSharePointจะสืบทอดมาจากค่าที่สูงกว่าในล.ก. ดังนั้นไฟล์จะสืบทอดสิทธิ์จากโฟลเดอร์ ซึ่งสืบทอดสิทธิ์จากไลบรารี ซึ่งสืบทอดสิทธิ์จากไซต์ ซึ่งสืบทอดสิทธิ์จากไซต์คอลเลกชัน
   
-สำหรับข้อมูลเกี่ยวกับการเอาสิทธิ์ที่ไม่ซ้ำกันออกและการคืนค่าการสืบทอดให้ดูที่[แก้ไขและจัดการสิทธิ์สำหรับรายการหรือไลบรารี](https://go.microsoft.com/fwlink/?linkid=869946)
+For info about removing unique permissions and restoring inheritance, [see Edit and manage permissions for a list or library](https://go.microsoft.com/fwlink/?linkid=869946).
   
 
