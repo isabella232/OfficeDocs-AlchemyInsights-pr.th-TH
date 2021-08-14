@@ -1,5 +1,5 @@
 ---
-title: วิธีการลงชื่อออกจาก Outlook บนเว็บ
+title: วิธีลงชื่อออกจากOutlook บนเว็บ
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -13,21 +13,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "8000008"
 - "1993"
-ms.openlocfilehash: 8a6d925d3df47756fcabeb90ebcac73855d675ef
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 9341cdededd28da9b224d292149cfc648d13939f28e11104cecdec14eef7c5da
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47802148"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54063179"
 ---
-# <a name="how-to-sign-out-of-outlook-on-the-web"></a>วิธีการลงชื่อออกจาก Outlook บนเว็บ
+# <a name="how-to-sign-out-of-outlook-on-the-web"></a>วิธีลงชื่อออกจากOutlook บนเว็บ
 
-เมื่อต้องการลงชื่อออกจาก Outlook บนเว็บให้เลือกชื่อหรือรูปภาพของคุณที่มุมบนขวาแล้วเลือก**ลงชื่อออก**
+เมื่อต้องการลงชื่อออกจากOutlook บนเว็บ ให้เลือกชื่อหรือรูปภาพของคุณที่มุมขวาบน **แล้วเลือก ลงชื่อ** ออก
 
-เมื่อต้องการหยุดการลงชื่อเข้าใช้บัญชีที่ทำงานหรือที่โรงเรียนของคุณโดยอัตโนมัติให้ทำดังนี้
+เมื่อต้องการหยุดการลงชื่อเข้าใช้บัญชีที่โรงเรียนหรือที่โรงเรียนของคุณโดยอัตโนมัติ:
 
-1. เลือกชื่อหรือรูปภาพของคุณแล้วเลือก**ลงชื่อออก**
-1. ไปที่[Outlook.office.com](https://outlook.office.com/)แล้วเลือก**ใช้บัญชีผู้ใช้อื่น**
+1. เลือกชื่อหรือรูปภาพ **ของคุณ แล้วเลือก ลงชื่อ** ออก
+1. ไปที่ [Outlook.office.com](https://outlook.office.com/)แล้วเลือก **ใช้บัญชี** อื่น
 1. ลงชื่อเข้าใช้ด้วยที่อยู่อีเมลที่คุณต้องการใช้
 
-เมื่อต้องการเรียนรู้เพิ่มเติมให้ดูที่[วิธีการลงชื่อเข้าใช้หรือลงชื่อออกจาก Outlook บนเว็บ](https://support.office.com/article/763fab4d-0138-4814-b450-37fc286bcb79)
+เมื่อต้องการเรียนรู้เพิ่มเติม[ให้ดู วิธีลงชื่อเข้าใช้หรือลงชื่อออกจากOutlook บนเว็บ](https://support.office.com/article/763fab4d-0138-4814-b450-37fc286bcb79)

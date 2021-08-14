@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001212"
 - "3516"
-ms.openlocfilehash: 48b5b0a1be1bc03d45a531a1093f18a3f750c37d
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: a187fec34ef3eae485a8a880127b5f82a028edb7f0e9a276a41b5e33cad25ead
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51797740"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53942854"
 ---
 # <a name="self-service-purchase-of-powershell"></a>การซื้อ PowerShell แบบบริการตนเอง
 
-เมื่อต้องการใช้มอดูล MSCommerce PowerShell คุณต้องติดตั้งโมดูลนั้นบนอุปกรณ์ Windows 10 ที่มี TLS 1.2 (ต้องมีสิทธิ์ระดับผู้ดูแลระบบภายใน)  นําเข้าและเชื่อมต่อกับมอดูล MSCommerce  เมื่อได้รับพร้อมท์ให้เข้าสู่ระบบ คุณจะต้องใช้ข้อมูลรับรองบทบาทผู้ดูแลระบบส่วนกลางหรือการเรียกเก็บเงิน  
+เมื่อต้องการใช้มอดูล MSCommerce PowerShell คุณต้องติดตั้งโมดูลนี้บนอุปกรณ์ Windows 10 TLS 1.2 (ต้องมีสิทธิ์ระดับผู้ดูแลระบบภายใน)  นําเข้าและเชื่อมต่อกับมอดูล MSCommerce  เมื่อได้รับพร้อมท์ให้เข้าสู่ระบบ คุณจะต้องใช้ข้อมูลรับรองบทบาทผู้ดูแลระบบส่วนกลางหรือการเรียกเก็บเงิน  
 
 ถ้าคุณไม่มี TLS 1.2 คุณอาจได้รับข้อผิดพลาดต่อไปนี้เมื่อพยายามรับหรืออัปเดตนโยบาย
 
