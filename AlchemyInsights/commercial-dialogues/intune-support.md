@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "6700002"
 - "7680"
-ms.openlocfilehash: 6fc37fc2c80387f8ea991bc3b3d1ae88618057cd
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 2f1ce5af0a37cfa32a798a63a4208c512f9c651a8103ad2402ee3dd592a952eb
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50750494"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53949442"
 ---
 # <a name="intune-support"></a>การสนับสนุน Intun1
 
-กล่องโต้ตอบนี้เป็นส่วนหนึ่งของกระบวนการสนับสนุน Intun1 ถ้าคุณมีปัญหาที่เกี่ยวข้องกับ Intun1 โปรดปฏิบัติตามข้อใดข้อหนึ่งต่อไปนี้:
+กล่องโต้ตอบนี้เป็นส่วนหนึ่งของกระบวนการสนับสนุน Intun1 ถ้าคุณไม่มีปัญหาที่เกี่ยวข้องกับ Intun1 โปรดปฏิบัติตามขั้นตอนใดขั้นตอนหนึ่งต่อไปนี้:
 
 - [For Configuration Manager or Co-Management support click this link and select the relevant tile.](https://endpoint.microsoft.com/#blade/Microsoft_Intune_DeviceSettings/SupportMenu/helpSupport)
-- [ปัญหาที่ไม่ใช่ Intuny ตัวจัดการจุดสิ้นสุดจะตามลิงก์นี้แล้วคลิกปุ่มวิธีใช้ที่มุมขวาบนของพอร์ทัลผู้ดูแลระบบ](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/support/requests)
+- [หากปัญหาที่ไม่ใช่ Intuny ตัวจัดการจุดสิ้นสุดไม่ได้ติดตามลิงก์นี้ แล้วคลิกปุ่มวิธีใช้ที่มุมขวาบนของพอร์ทัลผู้ดูแลระบบ](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/support/requests)

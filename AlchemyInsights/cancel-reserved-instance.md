@@ -12,33 +12,33 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003552"
 - "6817"
-ms.openlocfilehash: 6b27344b43aa5c20d64d148ff164be805f3b5ef8
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 8d0a6a37a244e817472c3949109481a30d80328b7353806905e05c547e196ea0
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51819711"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53931252"
 ---
 # <a name="cancelling-reservation"></a>การยกเลิกการจอง
 
 - **บริการตนเอง:** คุณสามารถยกเลิกหรือเปลี่ยนอินสแตนซ์สงวนด้วยตนเองได้โดยใช้ [พอร์ทัล Azure](https://portal.azure.com/#blade/Microsoft_Azure_Reservations/ReservationsBrowseBlade) เลือกการจองและคลิกขอคืนเงินหรือเปลี่ยน โปรดทราบว่าคุณต้องมีสิทธิ์ในการเข้าถึงใน การสั่งซื้อการจอง เพื่อแลกเปลี่ยนหรือคืนเงิน Access to only reservation will not let you proceed with refund or exchange. สอบถามเจ้าของใบสั่งซื้อการจองเพื่อให้เจ้าของมีสิทธิ์เข้าถึงใบสั่งซื้อที่จองได้
-- **นโยบาย Exchange:** คุณสามารถแลกเปลี่ยนการจองการจองประเภทเดียวกันได้ - ไม่มีข้อ **ห้าม** ในการแลกเปลี่ยนการจอง ข้อผูกมัดรวมที่มีการจองใหม่ควรมากกว่าผลรวมของยอดเงินคืนของการจองที่เปลี่ยนแล้วและการจ่ายเงินรายเดือนในอนาคต (ถ้ามี)
+- **Exchangeนโยบาย:** คุณสามารถแลกเปลี่ยนการจองการจองประเภทเดียวกันได้ - ไม่มีข้อ **ห้าม** ในการแลกเปลี่ยนการจอง ข้อผูกมัดรวมที่มีการจองใหม่ควรมากกว่าผลรวมของยอดเงินคืนของการจองที่เปลี่ยนแล้วและการจ่ายเงินรายเดือนในอนาคต (ถ้ามี)
 - **นโยบายการคืนเงิน:** ผลรวมของการคืนเงินและการยอดเงินที่ยกเลิกในอนาคตจะต้องไม่เกิน $50,000 USD ในหน้าต่างเลื่อนล่วงหน้า 12 เดือน ขณะนี้ **เราไม่ได้ชาร์จค่าปรับใดๆ กับ** การคืนเงิน แต่สามารถเรียกเก็บเงินจากการคืนเงินในอนาคตได้  
-    **ข้อยกเว้น:** การแลกเปลี่ยนด้วยตนเองและการยกเลิกความสามารถยังไม่พร้อมใช้งานกับลูกค้าของหน่วยงานภาครัฐของสหรัฐอเมริกา
+    **ข้อยกเว้น:** ความสามารถในการแลกเปลี่ยนและยกเลิกด้วยตนเองไม่พร้อมใช้งานกับลูกค้าภาครัฐของสหรัฐอเมริกาEnterprise Agreement
 - **การสนับสนุน API / PS / CLI** ไม่พร้อมให้ใช้งานในการยกเลิกและการคืนเงินการแลกเปลี่ยนแบบบริการ [ตนเองและการคืนเงินของ Azure](https://docs.microsoft.com/azure/cost-management-billing/reservations/exchange-and-refund-azure-reservations?WT.mc_id=Portal-Microsoft_Azure_Support)
-- การแลกเปลี่ยนด้วยตนเองและการยกเลิกความสามารถยังไม่พร้อมใช้งานกับลูกค้าของหน่วยงานภาครัฐของสหรัฐอเมริกา ชนิดการสมัครใช้งานอื่นๆ ของภาครัฐของสหรัฐอเมริกา รวมถึง Pay-As-You-Go และ CSP ได้รับการสนับสนุน
+- การแลกเปลี่ยนด้วยตนเองและการยกเลิกความสามารถยังไม่พร้อมใช้งานEnterprise Agreementของลูกค้า ชนิดการสมัครใช้งานอื่นๆ ของภาครัฐของสหรัฐอเมริกา รวมถึง Pay-As-You-Go และ CSP ได้รับการสนับสนุน
 
 เรียนรู้เพิ่มเติม : [วิธีการประมวลผลทรานแซคชันการส่งคืนและแลกเปลี่ยน](https://docs.microsoft.com/azure/billing/billing-azure-reservations-self-service-exchange-and-refund?WT.mc_id=Portal-Microsoft_Azure_Support#how-return-and-exchange-transactions-are-processed)  
-เรียนรู้เพิ่มเติม: [นโยบายการแลกเปลี่ยนและการคืนเงิน](https://docs.microsoft.com/azure/billing/billing-azure-reservations-self-service-exchange-and-refund?WT.mc_id=Portal-Microsoft_Azure_Support#exchange-policies)  
+เรียนรู้เพิ่มเติม :[นโยบายExchangeและการขอคืนเงิน](https://docs.microsoft.com/azure/billing/billing-azure-reservations-self-service-exchange-and-refund?WT.mc_id=Portal-Microsoft_Azure_Support#exchange-policies)  
 ข้อสงสัยอื่นๆ: [เยี่ยมชมเอกสารอินสแตนซ์ที่สงวนไว้](https://docs.microsoft.com/azure/billing/billing-save-compute-costs-reservations?WT.mc_id=Portal-Microsoft_Azure_Support)
 
-**Exchange อินสแตนซ์สงวนที่มีอยู่ (บริการตนเอง)**
+**Exchangeอินสแตนซ์สงวนที่มีอยู่ (บริการตนเอง)**
 
-คุณสามารถแลกเปลี่ยนการจองเพื่อจองประเภทเดียวกันได้ คุณยังสามารถคืนเงินการจองได้ สูงสุดถึง $50,000 USD ต่อปี ถ้าคุณไม่ต้องการแล้ว การแลกเปลี่ยนด้วยตนเองและการยกเลิกความสามารถยังไม่พร้อมใช้งานกับลูกค้าของหน่วยงานภาครัฐของสหรัฐอเมริกา ชนิดการสมัครใช้งานอื่นๆ ของภาครัฐของสหรัฐอเมริกา รวมถึง Pay-As-You-Go และ CSP ได้รับการสนับสนุน คุณต้องมีสิทธิ์การเข้าถึงใน การสั่งซื้อจอง เพื่อแลกเปลี่ยนหรือคืนเงินเป็นการจองที่มีอยู่
+คุณสามารถแลกเปลี่ยนการจองเพื่อจองประเภทเดียวกันได้ คุณยังสามารถคืนเงินการจองได้ สูงสุดถึง $50,000 USD ต่อปี ถ้าคุณไม่ต้องการแล้ว การแลกเปลี่ยนด้วยตนเองและการยกเลิกความสามารถยังไม่พร้อมใช้งานEnterprise Agreementของลูกค้า ชนิดการสมัครใช้งานอื่นๆ ของภาครัฐของสหรัฐอเมริกา รวมถึง Pay-As-You-Go และ CSP ได้รับการสนับสนุน คุณต้องมีสิทธิ์การเข้าถึงใน การสั่งซื้อจอง เพื่อแลกเปลี่ยนหรือคืนเงินเป็นการจองที่มีอยู่
 
 ขั้นตอนต่อไปนี้จะเป็นแนวทางเกี่ยวกับกระบวนการในการทรานแซคชันให้เสร็จสมบูรณ์
 
-1. ลงชื่อเข้าใช้พอร์ทัล [Azure](https://portal.azure.com/#blade/Microsoft_Azure_Reservations/ReservationsBrowseBlade)ของคุณ เลือกการจองที่คุณต้องการคืนเงิน แล้วคลิก **Exchange**
+1. ลงชื่อเข้าใช้พอร์ทัล [Azure](https://portal.azure.com/#blade/Microsoft_Azure_Reservations/ReservationsBrowseBlade)ของคุณ เลือกการจองที่คุณต้องการคืนเงิน **และคลิกExchange**
 2. เลือกผลิตภัณฑ์ VM ที่คุณต้องการซื้อและพิมพ์ปริมาณ ตรวจสอบให้แน่ใจว่าผลรวมการซื้อใหม่มากกว่าผลรวมการส่งคืน [ให้ระบุขนาดที่เหมาะสมก่อนที่คุณจะซื้อ](https://docs.microsoft.com/azure/virtual-machines/windows/prepay-reserved-vm-instances?WT.mc_id=Portal-Microsoft_Azure_Support#determine-the-right-vm-size-before-you-buy)
 3. ตรวจทานและกรอกข้อมูลทรานแซคชัน
 
@@ -46,9 +46,9 @@ ms.locfileid: "51819711"
 
 เมื่อต้องการคืนเงินในการจอง ให้ไปที่ รายละเอียด **การจองห้อง** แล้วคลิก **คืนเงิน**
 
-**การคืนเงินตามการจัดอันดับโปร:**
+**Proการจัดอันดับเงินคืน:**
 
-**ตัวอย่างการขอคืนเงินและการแลกเปลี่ยนของ Pro-ration และความต้องการขั้นต่่**  
+**Pro-ration และตัวอย่างความต้องการขั้นต่สุดของการคืนเงินและการแลกเปลี่ยน**  
 ตัวอย่างการจองล่วงหน้า:
 
 - คุณซื้อ RI ระยะเวลาหนึ่งปีราคา $120 ในวันที่ 1 มกราคม
@@ -69,4 +69,4 @@ ms.locfileid: "51819711"
 **เอกสารที่แนะนา**
 
 - [วิธีการประมวลผลทรานแซคชันการส่งคืนและแลกเปลี่ยน](https://docs.microsoft.com/azure/billing/billing-azure-reservations-self-service-exchange-and-refund?WT.mc_id=Portal-Microsoft_Azure_Support#how-return-and-exchange-transactions-are-processed)
-- [นโยบายการแลกเปลี่ยนและการคืนเงิน](https://docs.microsoft.com/azure/billing/billing-azure-reservations-self-service-exchange-and-refund?WT.mc_id=Portal-Microsoft_Azure_Support#exchange-policies)
+- [Exchangeและการขอคืนเงิน](https://docs.microsoft.com/azure/billing/billing-azure-reservations-self-service-exchange-and-refund?WT.mc_id=Portal-Microsoft_Azure_Support#exchange-policies)

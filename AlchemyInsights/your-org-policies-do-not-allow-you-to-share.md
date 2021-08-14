@@ -1,5 +1,5 @@
 ---
-title: นโยบายขององค์กรไม่อนุญาตให้คุณแชร์
+title: นโยบายขององค์กรของคุณไม่อนุญาตให้คุณแชร์
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,15 +13,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000192"
 - "9411"
-ms.openlocfilehash: 5e178d51047a484b121a58de7f69a63ac49a1779
-ms.sourcegitcommit: be246651064dfeacc866b2f69c0dbe4002a73f1c
+ms.openlocfilehash: 30ee51f76701a81b72256c21049b6879cad99a17f98397cf73c8ce85d910867f
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50747107"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53997405"
 ---
-# <a name="your-organizations-policies-do-not-allow-you-to-share"></a>นโยบายขององค์กรไม่อนุญาตให้คุณแชร์
+# <a name="your-organizations-policies-do-not-allow-you-to-share"></a>นโยบายขององค์กรของคุณไม่อนุญาตให้คุณแชร์
 
-ถ้าคุณได้รับข้อผิดพลาดนี้เมื่อพยายามแชร์รายการหรือไซต์ใน SharePoint Online หรือ OneDrive for Business ให้ปฏิบัติตามแนวทางด้านล่าง:
+ถ้าคุณได้รับข้อผิดพลาดนี้เมื่อพยายามแชร์รายการหรือไซต์ใน SharePoint Online หรือOneDrive for Business ให้ปฏิบัติตามแนวทางด้านล่าง:
  
 [นโยบายขององค์กรไม่อนุญาตให้คุณแชร์กับผู้ใช้เหล่านี้](https://docs.microsoft.com/sharepoint/troubleshoot/sharing-and-permissions/organization-policies-do-not-allow-you-to-share-with-users-error)

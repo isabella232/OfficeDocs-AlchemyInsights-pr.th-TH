@@ -1,5 +1,5 @@
 ---
-title: เบลอพื้นหลังในการประชุม Teams
+title: เบลอพื้นหลังของคุณTeamsการประชุม
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,14 +12,14 @@ ms.collection: Adm_O365
 ms.custom:
 - "3815"
 - "9001720"
-ms.openlocfilehash: 4d708e4c71ca9fb18f04121056007041e49fb7e5
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 7b553d5d0342382af3cbabb8e9c42583c404f88b28f3eea33642baef2863dcd7
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51820089"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53931360"
 ---
-# <a name="blur-your-background-in-a-teams-meeting"></a>เบลอพื้นหลังในการประชุม Teams
+# <a name="blur-your-background-in-a-teams-meeting"></a>เบลอพื้นหลังของคุณTeamsการประชุม
 
 การเบลอพื้นหลังจะใช้ได้กับการประชุมที่จัดเวลาไว้เท่านั้น
 
@@ -27,4 +27,4 @@ ms.locfileid: "51820089"
 
 - เมื่อต้องการเปิดการเบลอพื้นหลังระหว่างการประชุม ให้คลิก **ตัวเลือกเพิ่มเติม >ปุ่ม ตัวเลือกเพิ่มเติม** **> เบลอพื้นหลัง** ของฉัน
 
-หากต้องการข้อมูลเพิ่มเติม โปรดดู[เบลอพื้นหลังในการประชุม Teams](https://support.office.com/article/Blur-your-background-in-a-Teams-meeting-f77a2381-443a-499d-825e-509a140f4780)
+หากต้องการข้อมูลเพิ่มเติม โปรดดู[เบลอพื้นหลังของคุณTeamsการประชุม](https://support.office.com/article/Blur-your-background-in-a-Teams-meeting-f77a2381-443a-499d-825e-509a140f4780)

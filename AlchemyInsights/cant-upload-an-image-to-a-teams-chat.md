@@ -1,5 +1,5 @@
 ---
-title: ไม่สามารถอัปโหลดรูปภาพไปยังการสนทนาของทีมได้
+title: ไม่สามารถอัปโหลดรูปภาพไปยังการสนทนาแบบTeamsได้
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003308"
 - "6212"
-ms.openlocfilehash: 1fdec1dd18d521e52f7c5879bb5b7c14c989d158
-ms.sourcegitcommit: 76dbf5aaea92a62d7957cf210583a7f2c29c1ce5
+ms.openlocfilehash: 858ab4986a269d307b50965ad9077adb425541938cd91e60dc470db27d81d954
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 01/22/2021
-ms.locfileid: "49950033"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53930820"
 ---
-# <a name="cant-upload-an-image-to-a-teams-chat"></a>ไม่สามารถอัปโหลดรูปภาพไปยังการสนทนาของทีมได้
+# <a name="cant-upload-an-image-to-a-teams-chat"></a>ไม่สามารถอัปโหลดรูปภาพไปยังการสนทนาแบบTeamsได้
 
-คำแนะนำในการแก้ไขปัญหา:
+การแก้ไขปัญหาข้อเสนอแนะ:
 
-- ถ้าคุณกำลังใช้ทีมบนเว็บให้ลองใช้เบราว์เซอร์อื่น สำหรับรายการของเบราว์เซอร์ที่ได้รับการสนับสนุนให้ดูที่ส่วน "เบราว์เซอร์" ของ[ขีดจำกัดและข้อกำหนดสำหรับทีม Microsoft](https://docs.microsoft.com/microsoftteams/limits-specifications-teams)
-- ตรวจสอบความเข้ากันได้ของฮาร์ดแวร์และระบบปฏิบัติการของคุณ สำหรับข้อมูลเพิ่มเติมให้ดูที่[ความต้องการของฮาร์ดแวร์สำหรับทีม Microsoft](https://docs.microsoft.com/microsoftteams/hardware-requirements-for-the-teams-app)
-- ตรวจสอบว่าคุณมีทีมเวอร์ชันล่าสุด สำหรับข้อมูลเพิ่มเติมให้ดูที่ [ขั้นตอนการอัปเดตของทีม](https://docs.microsoft.com/microsoftteams/teams-client-update) สำหรับรายละเอียด
+- ถ้าคุณTeamsบนเว็บ ให้ลองใช้เบราว์เซอร์อื่น ดูรายการเบราว์เซอร์ที่รองรับได้ในส่วน "เบราว์เซอร์" ของ ขีดจํากัดและข้อ[Microsoft Teams](https://docs.microsoft.com/microsoftteams/limits-specifications-teams)เบราว์เซอร์
+- ตรวจสอบความเข้ากันได้ของฮาร์ดแวร์และระบบปฏิบัติการของคุณ ดูข้อมูลเพิ่มเติมที่ ข้อ[Microsoft Teams](https://docs.microsoft.com/microsoftteams/hardware-requirements-for-the-teams-app)ฮาร์ดแวร์
+- ตรวจสอบว่าคุณมีเวอร์ชันล่าสุดTeamsหรือไม่ ดูข้อมูลเพิ่มเติมในขั้นตอนTeams[อัปเดต](https://docs.microsoft.com/microsoftteams/teams-client-update)เพื่อดูรายละเอียด

@@ -1,5 +1,5 @@
 ---
-title: ตั้งค่า Skype for Business Online
+title: ตั้งค่าSkype for Business Online
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002393"
 - "4666"
-ms.openlocfilehash: 8d555dc9f2f6d0fe26f05c1b8b2435f185182df6
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 1157800772af7ae3d4f65ffc78ce37953364db016194ac5f01aeb92295390f93
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51828567"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53921602"
 ---
-# <a name="set-up-skype-for-business-online"></a>ตั้งค่า Skype for Business Online
+# <a name="set-up-skype-for-business-online"></a>ตั้งค่าSkype for Business Online
 
-Skype for Business Online จะถูกปลดระวางในวันที่ 31 กรกฎาคม 2021 [เรียนรู้เพิ่มเติมเกี่ยวกับการเกษียณและการโยกย้ายไปยัง Microsoft Teams](https://docs.microsoft.com/microsoftteams/skype-for-business-online-retirement)
+Skype for Business ออนไลน์จะถูกปลดระวางในวันที่ 31 กรกฎาคม 2021 [เรียนรู้เพิ่มเติมเกี่ยวกับ การเกษียณและการโยกย้ายMicrosoft Teams](https://docs.microsoft.com/microsoftteams/skype-for-business-online-retirement)
 
-Skype for Business เป็นส่วนหนึ่งของชุดผลิตภัณฑ์ Microsoft 365 [เรียนรู้วิธีการติดตั้ง Skype for Business Online](https://support.office.com/article/Install-Skype-for-Business-Online-8a618bc4-3fc8-4d5f-9d62-cf93a0494800)
+Skype for Businessเป็นส่วนหนึ่งของชุดMicrosoft 365ผลิตภัณฑ์ของคุณ [เรียนรู้วิธีการติดตั้ง Skype for Business Online](https://support.office.com/article/Install-Skype-for-Business-Online-8a618bc4-3fc8-4d5f-9d62-cf93a0494800)
