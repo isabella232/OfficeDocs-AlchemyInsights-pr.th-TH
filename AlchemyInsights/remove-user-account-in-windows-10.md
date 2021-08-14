@@ -1,5 +1,5 @@
 ---
-title: เอาบัญชีผู้ใช้ใน Windows 10 ออก
+title: เอาบัญชีผู้ใช้ใน Windows 10
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "3449"
 - "9001448"
-ms.openlocfilehash: 5a6ce5805ec23a28011c5d1edc977804ef15aefc
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 7e994388f685f1f9980c10daac48ca4facb0ca542ea352e8fbd31bf451cff305
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51835794"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54094625"
 ---
-# <a name="remove-an-account-in-windows-10"></a>เอาบัญชีผู้ใช้ใน Windows 10 ออก
+# <a name="remove-an-account-in-windows-10"></a>เอาบัญชีผู้ใช้ใน Windows 10
 
-ต่อไปนี้เป็นวิธีการเอาบัญชีออกจาก Windows 10:
+ต่อไปนี้เป็นวิธีการเอาบัญชีออกจากWindows 10:
 
-1. ไปที่ **เริ่ม**  >  **การตั้งค่า**  >  **ครอบครัว**  >  **&บุคคลอื่น**(**หรือ** บุคคลอื่น ถ้าคุณใช้งาน Windows 10 Enterprise)
+1. ไปที่ **เริ่ม**  >  **การตั้งค่า**  >    >  **ครอบครัว&บัญชี ของ** บุคคลอื่น (**หรือ** บุคคลอื่น ถ้าคุณWindows 10 Enterprise บัญชี)
 2. เลือกบัญชีที่คุณต้องการลบออก **เลือก** ลบ แล้วเลือก **ลบบัญชีและข้อมูล**
  
 **หมายเหตุ:** คุณไม่สามารถลบบัญชีที่คุณลงชื่อเข้าใช้อยู่ในปัจจุบันได้  ถ้าคุณต้องแทนที่บัญชีที่คุณลงชื่อเข้าใช้:

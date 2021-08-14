@@ -1,5 +1,5 @@
 ---
-title: ไอคอนพลังงานหรือแบตเตอรี่หายไปใน Windows 10
+title: ไอคอนพลังงานหรือแบตเตอรี่หายไปในWindows 10
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,14 +12,14 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002953"
 - "5655"
-ms.openlocfilehash: 95b68cee58f88d04f02e29477b139f7f583dc0b1
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 82d41844de1eafdf7e0cc38f91416f3b71868e3d5d1b3eb8be0f10abd701ddc8
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51790567"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53973366"
 ---
-# <a name="power-or-battery-icon-missing-in-windows-10"></a>ไอคอนพลังงานหรือแบตเตอรี่หายไปใน Windows 10
+# <a name="power-or-battery-icon-missing-in-windows-10"></a>ไอคอนพลังงานหรือแบตเตอรี่หายไปในWindows 10
 
 หากอุปกรณ์ Windows 10 ของคุณมีแบตเตอรี่ (เช่น แล็ปท็อปหรือแท็บเล็ต หรือพีซีที่เชื่อมต่อผ่าน USB กับ UPS) ปกติแล้วไอคอนพลังงาน/แบตเตอรี่จะแสดงอยู่ในแถบงานใกล้กับนาฬิกา ตัวอย่างเช่น:
 
@@ -27,7 +27,7 @@ ms.locfileid: "51790567"
 
 ถ้าคุณไม่เห็นไอคอนนี้ ไอคอนอาจซ่อนอยู่:
 
-1. ไปที่ **[การตั้งค่า >การตั้งค่าส่วนบุคคล >แถบงาน](ms-settings:taskbar?activationSource=GetHelp)**
+1. ไปที่ **[การตั้งค่า >การตั้งค่า>แถบงาน](ms-settings:taskbar?activationSource=GetHelp)** ของคุณ
 
 2. ในพื้นที่ การแจ้งให้ทราบ **ให้คลิก เลือกไอคอนที่ปรากฏบน** แถบงาน
 

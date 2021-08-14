@@ -1,5 +1,5 @@
 ---
-title: คำแนะนำประสิทธิภาพการโยกย้ายของ SharePoint
+title: SharePointแนะนําเกี่ยวกับประสิทธิภาพการโยกย้าย
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
@@ -13,19 +13,19 @@ ms.custom:
 - "5300030"
 - "2700"
 - "3179"
-ms.openlocfilehash: 9a555a18566e280ff32e74892c8fa3c38b42f7fe
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 901da763a9b13a034d882d974f6c56e012c1ebc4100768d5314a2e8fa80bdb31
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47726974"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53941627"
 ---
-# <a name="sharepoint-migration-performance-guidance"></a>คำแนะนำประสิทธิภาพการโยกย้ายของ SharePoint
+# <a name="sharepoint-migration-performance-guidance"></a>SharePointแนะนําเกี่ยวกับประสิทธิภาพการโยกย้าย
 
-ประสิทธิภาพการโยกย้ายอาจได้รับผลกระทบจากโครงสร้างเครือข่ายขนาดไฟล์เวลาการโยกย้ายและการควบคุมปริมาณ
+ประสิทธิภาพการโยกย้ายอาจได้รับผลกระทบจากโครงสร้างพื้นฐานของเครือข่าย ขนาดไฟล์ เวลาการโยกย้าย และการควบคุมปริมาณ
 
-สำหรับข้อมูลเพิ่มเติมโปรดไปที่:
+หากต้องการข้อมูลเพิ่มเติม โปรดไปที่:
 
-- [คำแนะนำประสิทธิภาพการโยกย้ายทั่วไป](https://docs.microsoft.com/sharepointmigration/sharepoint-online-and-onedrive-migration-speed)
+- [แนวทางประสิทธิภาพการโยกย้ายทั่วไป](https://docs.microsoft.com/sharepointmigration/sharepoint-online-and-onedrive-migration-speed)
 
-- [หลีกเลี่ยงการปริมาณหรือบล็อกใน SharePoint Online](https://docs.microsoft.com/sharepoint/dev/general-development/how-to-avoid-getting-throttled-or-blocked-in-sharepoint-online)
+- [หลีกเลี่ยงการถูกควบคุมปริมาณหรือการบล็อกใน SharePoint Online](https://docs.microsoft.com/sharepoint/dev/general-development/how-to-avoid-getting-throttled-or-blocked-in-sharepoint-online)

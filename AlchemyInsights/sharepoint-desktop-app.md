@@ -1,5 +1,5 @@
 ---
-title: แอปเดสก์ท็อปสำหรับ SharePoint
+title: แอปบนเดสก์ท็อปSharePoint
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
@@ -8,16 +8,16 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 82dcee94-656f-4ec8-a9b2-730adb564c06
-ms.openlocfilehash: 548f1f5b834d84a41fe6f5befc4c9e9630aa9d91
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 286390817e0141cfa12f698f62b5608a96aac259e28e27d5cdf6e0b1a935d752
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47800879"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53942008"
 ---
-# <a name="desktop-app-for-sharepoint"></a>แอปเดสก์ท็อปสำหรับ SharePoint
+# <a name="desktop-app-for-sharepoint"></a>แอปบนเดสก์ท็อปSharePoint
 
-องค์กรของคุณจะถูกใส่ในโปรแกรมการแสดงตัวอย่างส่วนตัวสำหรับแอปเดสก์ท็อปสำหรับ SharePoint
+องค์กรของคุณถูกใส่ลงในโปรแกรมแสดงตัวอย่างส่วนบุคคลของแอปบนเดสก์ท็อปSharePointของคุณ
 
-ในตอนนี้ Microsoft ยังไม่สนับสนุนแอปเดสก์ท็อปสำหรับ SharePoint (การแสดงตัวอย่างส่วนตัว) โปรดใช้คู่ค้าแสดงตัวอย่างของ Microsoft แบบส่วนตัวเพื่อรับความช่วยเหลือเกี่ยวกับแอปเดสก์ท็อปสำหรับ SharePoint
+ขณะนี้ Microsoft ไม่สนับสนุนแอปเดสก์ท็อปแอปบนเดสก์ท็อปSharePoint (ตัวอย่างส่วนตัว) โปรดใช้คู่ค้า Microsoft Private Preview ที่เข้าร่วมเพื่อขอรับความช่วยเหลือเกี่ยวกับแอปบนเดสก์ท็อปSharePointธุรกิจ
 

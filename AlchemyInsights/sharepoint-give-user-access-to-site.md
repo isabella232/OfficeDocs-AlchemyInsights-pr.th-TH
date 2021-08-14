@@ -12,28 +12,28 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: cebb7a4a-33e1-474e-a5d0-dbd02a80b1e9
-ms.openlocfilehash: 4b7e0f0dfed0a96ed46b88c400bd6afaf8d3f225
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 79b2eb434a4d346843b86c2b284e5961439aea412e3828847b28927a08f17a70
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47800735"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53941972"
 ---
-# <a name="give-users-access-to-sharepoint-site"></a>การให้สิทธิ์การเข้าถึงไซต์ SharePoint แก่ผู้ใช้
+# <a name="give-users-access-to-sharepoint-site"></a>ให้สิทธิ์ผู้ใช้ในการเข้าถึงSharePointไซต์
 
-ฟีเจอร์การร้องขอการเข้าถึงช่วยให้ผู้อื่นสามารถร้องขอการเข้าถึงเนื้อหาที่พวกเขายังไม่ได้รับสิทธิ์ในการดู ในฐานะเจ้าของไซต์คุณสามารถกำหนดค่าฟีเจอร์ที่จะส่งจดหมายถึงคุณเมื่อมีใครบางคนร้องขอการเข้าถึงไซต์ สำหรับข้อมูลเพิ่มเติมโปรดเยี่ยมชม[ตั้งค่าและจัดการการร้องขอการเข้าถึง](https://support.office.com/article/set-up-and-manage-access-requests-94b26e0b-2822-49d4-929a-8455698654b3)
+ฟีเจอร์การร้องขอการเข้าถึงช่วยให้บุคคลสามารถร้องขอการเข้าถึงเนื้อหาที่พวกเขาไม่มีสิทธิ์ในการดูได้ในขณะนี้ ในฐานะเจ้าของไซต์ คุณสามารถกําหนดค่าฟีเจอร์ให้ส่งจดหมายให้คุณเมื่อมีการร้องขอการเข้าถึงไซต์ หากต้องการข้อมูลเพิ่มเติม โปรดไปที่ [ตั้งค่าและจัดการการร้องขอ](https://support.office.com/article/set-up-and-manage-access-requests-94b26e0b-2822-49d4-929a-8455698654b3)การเข้าถึง
 
-ต่อไปนี้เป็นลิงก์ทั่วไปเกี่ยวกับการร้องขอการเข้าถึง:
+ต่อไปนี้คือลิงก์ทั่วไปบางส่วนเกี่ยวกับการร้องขอการเข้าถึง:
 
-- [การเข้าถึงถูกปฏิเสธ "ไปยังรายการคำขอการเข้าถึงหรือ" ร้องขอการอนุมัติล้มเหลว "เมื่อคุณดำเนินการคำขอที่ค้างอยู่ใน SharePoint Online](https://docs.microsoft.com/sharepoint/support/sharing-and-permissions/request-approval-failed)
+- [การเข้าถึงถูกปฏิเสธ" ไปยังรายการการร้องขอการเข้าถึงหรือ "การร้องขอการอนุมัติล้มเหลว" เมื่อคุณประมวลผลการร้องขอที่ค้างอยู่ในSharePoint Online](https://docs.microsoft.com/sharepoint/support/sharing-and-permissions/request-approval-failed)
 
-- [เปลี่ยนการตั้งค่าการร้องขอการเข้าถึง](https://support.office.com/article/set-up-and-manage-access-requests-94b26e0b-2822-49d4-929a-8455698654b3#bk_enableallow)
+- [เปลี่ยนแปลงการตั้งค่าการร้องขอการเข้าถึง](https://support.office.com/article/set-up-and-manage-access-requests-94b26e0b-2822-49d4-929a-8455698654b3#bk_enableallow)
 
-- [การอนุมัติหรือปฏิเสธการร้องขอการเข้าถึงสำหรับไซต์](https://support.office.com/article/set-up-and-manage-access-requests-94b26e0b-2822-49d4-929a-8455698654b3#__toc374462558)
+- [อนุมัติหรือปฏิเสธการร้องขอการเข้าถึงของไซต์](https://support.office.com/article/set-up-and-manage-access-requests-94b26e0b-2822-49d4-929a-8455698654b3#__toc374462558)
 
-- [จัดการการเชิญไปยังผู้ใช้ภายนอก (SharePoint Online เท่านั้น)](https://support.office.com/article/set-up-and-manage-access-requests-94b26e0b-2822-49d4-929a-8455698654b3#__toc334189260)
+- [จัดการการเชิญให้ผู้ใช้ภายนอก (SharePoint Online เท่านั้น)](https://support.office.com/article/set-up-and-manage-access-requests-94b26e0b-2822-49d4-929a-8455698654b3#__toc334189260)
 
-- [ส่งการเชิญอีกครั้ง](https://support.office.com/article/set-up-and-manage-access-requests-94b26e0b-2822-49d4-929a-8455698654b3#__toc374462560)
+- [ส่งคําเชิญอีกครั้ง](https://support.office.com/article/set-up-and-manage-access-requests-94b26e0b-2822-49d4-929a-8455698654b3#__toc374462560)
 
 
 
