@@ -13,46 +13,46 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003547"
 - "6463"
-ms.openlocfilehash: 0bbf1158f7f5fa8a22cfe7242c86760057fc7bab
-ms.sourcegitcommit: 0f26f6b23b3d48c3c6cddf98bc41df484f16cb00
+ms.openlocfilehash: c3623aee9ab3592254ffb25aade7d52a2c7ddd49fde939956162cd4008d5ba19
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 12/08/2020
-ms.locfileid: "49678774"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54003588"
 ---
 # <a name="enable-cost-management"></a>เปิดใช้งานการจัดการต้นทุน
 
-**' ค่าใช้จ่าย ' ถูกปิดใช้งานสำหรับองค์กรของคุณอย่างไร**
+**'ค่าใช้จ่ายถูกปิดใช้งานในองค์กรของคุณ' หมายถึงอะไร**
 
-องค์กรที่ใช้บัญชีข้อตกลงขององค์กร (EA) หรือบัญชีผู้ใช้ข้อตกลงลูกค้าของ Microsoft (MCA) สามารถปิดใช้งานการเข้าถึงข้อมูลต้นทุนและข้อมูลการกำหนดราคาได้
+องค์กรที่ใช้บัญชี Enterprise Agreement (EA) หรือ Microsoft Customer Agreement (MCA) สามารถปิดใช้งานการเข้าถึงข้อมูลต้นทุนและข้อมูลราคาได้
 
-หลังจากที่คุณเข้าสู่ระบบไปยังพอร์ทัล Azure พวกเขาสามารถใช้ APIs การเรียกเก็บเงินเพื่อรับใบแจ้งหนี้ได้โดยทางโปรแกรม (เมื่อมีการเข้าร่วม) และรายละเอียดการใช้งาน
+หลังจากเข้าสู่ระบบพอร์ทัล Azure แล้ว พวกเขาจะสามารถใช้ API การเรียกเก็บเงินเพื่อรับใบแจ้งหนี้ (เมื่อเข้าร่วม) และรายละเอียดการใช้งานโดยทางโปรแกรมได้
 
-**วิธีการอนุญาตให้ผู้ใช้เพิ่มเติมในการเข้าถึงใบแจ้งหนี้**
+**วิธีการอนุญาตให้ผู้ใช้เพิ่มเติมเข้าถึงใบแจ้งหนี้**
 
-1. ไปที่ **ใบมีดการสมัคร** ใช้งานในพอร์ทัล Azure
-2. เลือก **ใบแจ้งหนี้** แล้ว **เข้าถึงใบแจ้งหนี้**
-3. เปิดใช้งานการเข้าถึงตามด้วยการบันทึกการเปลี่ยนแปลงเพื่ออนุญาตให้ผู้ใช้ในการสมัครใช้งาน-ลักษณะบทบาทในการดาวน์โหลดใบแจ้งหนี้
+1. ไปที่ **Blade การสมัครใช้งาน** ในพอร์ทัล Azure
+2. **เลือก ใบแจ้งหนี้****แล้วเข้าถึง** ใบแจ้งหนี้
+3. เปิดการเข้าถึงตามด้วยการบันทึกการเปลี่ยนแปลง เพื่ออนุญาตให้ผู้ใช้ที่มีบทบาทในการสมัครใช้งานสามารถดาวน์โหลดใบแจ้งหนี้ได้
 
 > [!NOTE]
-> ผู้ดูแลระบบบัญชียังสามารถกำหนดค่าให้มีใบแจ้งหนี้ที่ส่งผ่านทางอีเมล เมื่อต้องการเรียนรู้เพิ่มเติมให้ดูที่[รับใบแจ้งหนี้ของคุณในอีเมล](https://docs.microsoft.com/azure/cost-management-billing/manage/download-azure-invoice-daily-usage-date?)
+> ผู้ดูแลระบบบัญชียังสามารถกําหนดค่าให้ส่งใบแจ้งหนี้ทางอีเมลได้ เมื่อต้องการเรียนรู้เพิ่มเติม [ให้ดู รับใบแจ้งหนี้ใน](https://docs.microsoft.com/azure/cost-management-billing/manage/download-azure-invoice-daily-usage-date?)อีเมล
 
-**วิธีเพิ่มผู้ใช้ลงในบทบาทผู้อ่านการเรียกเก็บเงิน**
+**วิธีเพิ่มผู้ใช้ลงในบทบาทโปรแกรมอ่านการเรียกเก็บเงิน**
 
-1. ไปที่ **ใบมีดการสมัคร** ใช้งานในพอร์ทัล Azure
-2. เลือก **ตัวควบคุมการเข้าถึง (IAM)** แล้วคลิก **เพิ่ม**
-3. เลือกตัว **อ่านการเรียกเก็บเงิน** ในหน้า **เลือกบทบาท**
-4. พิมพ์อีเมลของผู้ใช้ที่คุณต้องการเชิญแล้วคลิก **ตกลง** เพื่อส่งคำเชิญ
-5. ทำตามคำแนะนำที่ให้ไว้ในอีเมลเชิญเพื่อเข้าสู่ระบบในฐานะผู้อ่านการเรียกเก็บเงิน สำหรับข้อมูลเพิ่มเติมให้ดู[ที่ให้สิทธิ์การเข้าถึงการเรียกเก็บเงิน](https://docs.microsoft.com/azure/cost-management-billing/manage/manage-billing-access?WT.mc_id=Portal-Microsoft_Azure_Support#opt-in)
+1. ไปที่ **Blade การสมัครใช้งาน** ในพอร์ทัล Azure
+2. เลือก **ตัวควบคุมการเข้าถึง (IAM)** **แล้วคลิก** เพิ่ม
+3. เลือก **ตัว** อ่านการเรียกเก็บเงิน **ในหน้า เลือก** บทบาท
+4. พิมพ์อีเมลของผู้ใช้ที่คุณต้องการเชิญ แล้วคลิก ตกลง **เพื่อ** ส่งคําเชิญ
+5. Follow instructions provided in the invite email to log in as a billing reader. หากต้องการข้อมูลเพิ่มเติม โปรดดู [ให้สิทธิ์การเข้าถึง](https://docs.microsoft.com/azure/cost-management-billing/manage/manage-billing-access?WT.mc_id=Portal-Microsoft_Azure_Support#opt-in)การเรียกเก็บเงิน
 
-**เอกสารที่แนะนำ**
+**เอกสารที่แนะนา**
 
-- [เปิดใช้งานมุมมอง DA และอ่าวผ่านทาง EA portal](https://docs.microsoft.com/azure/cost-management-billing/costs/assign-access-acm-data?WT.mc_id=Portal-Microsoft_Azure_Support#enable-access-to-costs-in-the-ea-portal)
-- [ค่าใช้จ่ายที่รวมอยู่ในการจัดการต้นทุน](https://docs.microsoft.com/azure/cost-management-billing/costs/understand-cost-mgt-data?WT.mc_id=Portal-Microsoft_Azure_Support#costs-included-in-cost-management)
-- [ข้อเสนอ Microsoft Azure ที่ได้รับการสนับสนุน](https://docs.microsoft.com/azure/cost-management-billing/costs/understand-cost-mgt-data?WT.mc_id=Portal-Microsoft_Azure_Support#supported-microsoft-azure-offers)
-- [ตรวจทานต้นทุนในการวิเคราะห์ต้นทุน](https://docs.microsoft.com/azure/cost-management-billing/costs/quick-acm-cost-analysis?WT.mc_id=Portal-Microsoft_Azure_Support&tabs=azure-portal#review-costs-in-cost-analysis)
-- [ให้สิทธิ์การเข้าถึงข้อมูลการเรียกเก็บเงิน](https://docs.microsoft.com/azure/cost-management-billing/manage/manage-billing-access?WT.mc_id=Portal-Microsoft_Azure_Support)
-- [ตรวจสอบการเข้าถึงข้อตกลงลูกค้าของ Microsoft](https://docs.microsoft.com/azure/cost-management-billing/manage/download-azure-invoice-daily-usage-date?WT.mc_id=Portal-Microsoft_Azure_Support#check-access-to-a-microsoft-customer-agreement)
+- [เปิดใช้งานมุมมอง DA และ EA ผ่านพอร์ทัล EA](https://docs.microsoft.com/azure/cost-management-billing/costs/assign-access-acm-data?WT.mc_id=Portal-Microsoft_Azure_Support#enable-access-to-costs-in-the-ea-portal)
+- [ต้นทุนที่รวมอยู่ในการจัดการต้นทุน](https://docs.microsoft.com/azure/cost-management-billing/costs/understand-cost-mgt-data?WT.mc_id=Portal-Microsoft_Azure_Support#costs-included-in-cost-management)
+- [ข้อเสนอ Microsoft Azure ที่สนับสนุน](https://docs.microsoft.com/azure/cost-management-billing/costs/understand-cost-mgt-data?WT.mc_id=Portal-Microsoft_Azure_Support#supported-microsoft-azure-offers)
+- [ตรวจสอบต้นทุนในการวิเคราะห์ต้นทุน](https://docs.microsoft.com/azure/cost-management-billing/costs/quick-acm-cost-analysis?WT.mc_id=Portal-Microsoft_Azure_Support&tabs=azure-portal#review-costs-in-cost-analysis)
+- [ให้การเข้าถึงข้อมูลการเรียกเก็บเงิน](https://docs.microsoft.com/azure/cost-management-billing/manage/manage-billing-access?WT.mc_id=Portal-Microsoft_Azure_Support)
+- [ตรวจสอบการเข้าถึงข้อตกลงของลูกค้า Microsoft](https://docs.microsoft.com/azure/cost-management-billing/manage/download-azure-invoice-daily-usage-date?WT.mc_id=Portal-Microsoft_Azure_Support#check-access-to-a-microsoft-customer-agreement)
 
 
 

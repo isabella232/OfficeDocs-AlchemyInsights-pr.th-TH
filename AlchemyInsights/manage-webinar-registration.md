@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "11512"
 - "9006672"
-ms.openlocfilehash: e164efdd5b1dec329179496f89f95867be7666d1
-ms.sourcegitcommit: 540a4e2515f7cfddee65519046454fc4437cd287
+ms.openlocfilehash: b3563843e3d65019b75f3bb28eb3ac49457059a0ff45a7429c8ae4c1b9dd5411
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 08/01/2021
-ms.locfileid: "53687517"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53986685"
 ---
 # <a name="manage-webinar-registration"></a>จัดการการลงทะเบียนการสัมมนาผ่านเว็บ
 
