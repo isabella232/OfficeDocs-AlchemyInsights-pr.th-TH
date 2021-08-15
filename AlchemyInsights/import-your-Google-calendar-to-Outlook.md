@@ -1,5 +1,5 @@
 ---
-title: นำเข้า Google ปฏิทินของคุณไปยัง Outlook
+title: นําเข้าปฏิทิน Google ของคุณOutlook
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,21 +13,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "3800007"
 - "7354"
-ms.openlocfilehash: 9edeac48aa78da4ccdca2ec3641d4a3f07a04e17
-ms.sourcegitcommit: a7b15357abb6e802bbc8a2f2aefc5c4867c74fa2
+ms.openlocfilehash: d4588d2734b97ced4d369d7ad434cd88ed846f5ca7962ad5362301fea7c54114
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 12/07/2020
-ms.locfileid: "49598721"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54014847"
 ---
-# <a name="import-your-google-calendar-to-outlook"></a>นำเข้า Google ปฏิทินของคุณไปยัง Outlook
+# <a name="import-your-google-calendar-to-outlook"></a>นําเข้าปฏิทิน Google ของคุณOutlook
 
-ทำซ้ำขั้นตอนนี้แต่ละปฏิทิน Google ที่คุณต้องการนำเข้าไปยัง Outlook
+ทําขั้นตอนนี้ซ้ํา Google ปฏิทินแต่ละรายการที่คุณต้องการนําเข้าOutlookปฏิทิน
 
-1. ใน Outlook บนเดสก์ท็อปของคุณ (Outlook ๒๐๑๓หรือ Outlook ๒๐๑๖) ให้ไปที่ **ปฏิทิน** ของคุณ
-1. คลิกเปิด **ไฟล์**  >  **& ส่งออก**  >  **นำเข้า/ส่ง** ออก
-1. ในตัว **ช่วยสร้างการนำเข้าและส่งออก** ให้เลือก **นำเข้าไฟล์ iCalendar (Ics) หรือ vCalendar** แล้วคลิก **ถัดไป**
-1. เรียกดูตำแหน่งที่คุณจัดเก็บไฟล์ที่แยกแล้วเลือกรายการที่ลงท้ายด้วย **gmail.com** แล้วคลิก **ตกลง**
-1. คลิก **นำเข้า**
+1. ในOutlookบนเดสก์ท็อปของคุณ (Outlook 2013 Outlook 2016) ให้ไปที่ **ปฏิทิน** ของคุณ
+1. คลิก **เปิดไฟล์**  >  **&**  >  **นําเข้า/** ส่งออก
+1. ใน **ตัวช่วยสร้างการนําเข้าและ** ส่งออก **เลือก นําเข้าไฟล์ iCalendar (.ics) หรือ vCalendar****แล้วคลิก** ถัดไป
+1. เรียกดูที่ที่คุณจัดเก็บไฟล์ที่แยกไว้ แล้วเลือกไฟล์ที่ลง gmail.com แล้วคลิกตกลง
+1. คลิก **นําเข้า**
 
-ไปที่ปฏิทิน Outlook ของคุณ ในตอนนี้คุณควรจะเห็นเหตุการณ์ Google ปฏิทินของคุณที่นั่น
+ไปที่ปฏิทินOutlookของคุณ ตอนนี้คุณควรเห็นเหตุการณ์ Google ปฏิทิน ของคุณที่นั่น

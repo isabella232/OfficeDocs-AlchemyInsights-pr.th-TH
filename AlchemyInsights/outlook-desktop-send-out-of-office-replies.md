@@ -1,5 +1,5 @@
 ---
-title: 'Outlook บนเดสก์ท็อป: ส่งการตอบกลับ ไม่อยู่ที่สํานักงาน'
+title: 'Outlook เดสก์ท็อป: ส่งการตอบกลับ ไม่อยู่ที่สํานักงาน'
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000761"
 - "3514"
-ms.openlocfilehash: 00f295a860c7ac7070b70929a675cfe114e5ed8e
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: ba593ffbb29eca7354a0a88251de30777000668ab7138e8bb2539dbf0f6431d7
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51836190"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53991950"
 ---
-# <a name="outlook-desktop-send-out-of-office-replies"></a>Outlook บนเดสก์ท็อป: ส่งการตอบกลับ ไม่อยู่ที่สํานักงาน
+# <a name="outlook-desktop-send-out-of-office-replies"></a>Outlook เดสก์ท็อป: ส่งการตอบกลับ ไม่อยู่ที่สํานักงาน
 
-**ตั้งค่าการตอบกลับอัตโนมัติใน Outlook บนเดสก์ท็อป**
+**ตั้งค่าการตอบกลับอัตโนมัติใน Outlookบนเดสก์ท็อป**
 
-1. คลิก **>การตอบกลับ** อัตโนมัติ **หมายเหตุ**: For Outlook 2007, click **Tools > out of Office Assistant**.
+1. คลิก **>การตอบกลับ** อัตโนมัติ **หมายเหตุ**: Outlook 2007 ให้คลิก **เครื่องมือ > ผู้ช่วยเมื่อOfficeไม่** อยู่
 
 2. ในกล่อง **การตอบกลับอัตโนมัติ** ให้คลิก **ส่งการตอบกลับ** อัตโนมัติ
 

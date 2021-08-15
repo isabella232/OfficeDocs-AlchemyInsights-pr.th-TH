@@ -1,5 +1,5 @@
 ---
-title: ตั้งค่า PIN การประชุมใหม่ใน Teams
+title: ตั้งค่า PIN การประชุมใหม่ Teams
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002882"
 - "5494"
-ms.openlocfilehash: 613dea3b5043ff53902bd797e3edc46afb5c7107
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 785508ef9f20a36f62029e1eaaa70e4926a298e758951773d78ceef76ba80ae7
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51828747"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54023757"
 ---
-# <a name="reset-conferencing-pin-in-teams"></a>ตั้งค่า PIN การประชุมใหม่ใน Teams
+# <a name="reset-conferencing-pin-in-teams"></a>ตั้งค่า PIN การประชุมใหม่ Teams
 
-เมื่อต้องการรีเซ็ต PIN การประชุมทางเสียงใน Teams ให้ใช้ขั้นตอนต่อไปนี้  
+เมื่อต้องการตั้งค่า PIN การประชุมทางTeamsการประชุมทางเสียงใหม่ ให้ใช้ขั้นตอนต่อไปนี้  
 
-การใช้ศูนย์การจัดการ Microsoft Teams:
+การใช้ศูนย์Microsoft Teamsให้ต่อไปนี้
 
 1. ในการนําทางด้านซ้าย **ให้คลิก** ผู้ใช้ แล้วเลือกผู้ใช้จากรายการผู้ใช้ที่พร้อมใช้งาน
 2. คลิกแก้ไข

@@ -1,5 +1,5 @@
 ---
-title: จัดการกลุ่มใน Yammer
+title: จัดการกลุ่มในYammer
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
@@ -12,20 +12,20 @@ ms.custom:
 - "720"
 - "6000003"
 ms.assetid: 254b58a6-a85d-4c1c-b19f-de61b8f9a227
-ms.openlocfilehash: 5ff325ea3d4b736b115b09bf4d8513938a61b1a2
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 3b4348ecb55a8f0dc57e1b51f913f21ccd2e2830fd62a81e4f47a77ef371a226
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47778062"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53976668"
 ---
-# <a name="manage-groups-in-yammer"></a>จัดการกลุ่มใน Yammer
+# <a name="manage-groups-in-yammer"></a>จัดการกลุ่มในYammer
 
-- **สิทธิ์การสร้างกลุ่ม** Yammer ไม่สามารถควบคุมผู้ที่สามารถสร้างกลุ่มได้ อย่างไรก็ตามคุณสามารถจัดการการสร้างกลุ่มสำหรับ Microsoft ๓๖๕กลุ่มที่เชื่อมต่อได้ ให้ดู [ที่จัดการว่าใครสามารถสร้างกลุ่ม Microsoft ๓๖๕](https://docs.microsoft.com/microsoft-365/admin/create-groups/manage-creation-of-groups) สำหรับข้อมูลเพิ่มเติมได้
+- **สิทธิ์การสร้างกลุ่ม** Yammerควบคุมบุคคลที่สามารถสร้างกลุ่มได้ อย่างไรก็ตาม คุณสามารถจัดการการสร้างกลุ่มเพื่อเชื่อมต่อMicrosoft 365กลุ่มได้ ดู[จัดการบุคคลที่สามารถสร้างMicrosoft 365กลุ่ม](https://docs.microsoft.com/microsoft-365/admin/create-groups/manage-creation-of-groups)ได้ เพื่อดูข้อมูลเพิ่มเติม
 
-- **การเป็นสมาชิกของกลุ่มแบบไดนามิก** โปรดดูที่ [สร้างกลุ่มแบบไดนามิกใน Yammer](https://docs.microsoft.com/yammer/manage-yammer-groups/create-a-dynamic-group) สำหรับข้อมูลเกี่ยวกับการสร้างการเป็นสมาชิกแบบไดนามิกสำหรับกลุ่ม Microsoft ๓๖๕ที่เชื่อมต่อกับ Yammer
+- **การเป็นสมาชิกกลุ่มแบบไดนามิก** โปรดดูที่ สร้าง[กลุ่มแบบไดนามิกใน Yammer](https://docs.microsoft.com/yammer/manage-yammer-groups/create-a-dynamic-group)เพื่อดูข้อมูลเกี่ยวกับการสร้างความเป็นสมาชิกแบบไดนามิกYammerกลุ่มMicrosoft 365เชื่อมต่อ
 
-- **การคืนค่ากลุ่มที่ถูกลบ** การคืนค่ากลุ่ม Yammer สามารถทำได้โดย [คืนค่ากลุ่มที่](https://docs.microsoft.com/microsoft-365/admin/create-groups/restore-deleted-group) ไม่ได้เชื่อมต่อของ Microsoft ๓๖๕ไม่สามารถคืนค่าได้หลังจากลบ
+- **การคืนค่ากลุ่มที่ถูกลบ** การคืนค่าYammerที่คืนค่ากลุ่มที่Microsoft 365[ไม่สามารถ](https://docs.microsoft.com/microsoft-365/admin/create-groups/restore-deleted-group)คืนค่าได้หลังจากลบ
 
-สำหรับข้อมูลเพิ่มเติมเกี่ยวกับการจัดการกลุ่มให้ดู[ที่จัดการกลุ่มใน Yammer](https://support.office.com/article/Manage-a-group-in-Yammer-6e05c6d6-5548-4c88-89cd-e6757a514ef2) สำหรับข้อมูลเกี่ยวกับ Microsoft ๓๖๕กลุ่มที่เชื่อมต่อให้ดูที่[กลุ่ม Yammer และ microsoft ๓๖๕](https://docs.microsoft.com/yammer/manage-yammer-groups/yammer-and-office-365-groups)
+For more information about managing a group, see [Manage a group in Yammer](https://support.office.com/article/Manage-a-group-in-Yammer-6e05c6d6-5548-4c88-89cd-e6757a514ef2). For information about connected Microsoft 365 Groups, see [Yammer and Microsoft 365 Groups](https://docs.microsoft.com/yammer/manage-yammer-groups/yammer-and-office-365-groups).
   
