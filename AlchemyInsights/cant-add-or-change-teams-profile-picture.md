@@ -1,5 +1,5 @@
 ---
-title: ไม่สามารถเพิ่มหรือเปลี่ยนรูปภาพโพรไฟล์ของทีมได้
+title: ไม่สามารถเพิ่มหรือเปลี่ยนรูปภาพTeamsโปรไฟล์ได้
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,19 +13,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003303"
 - "6208"
-ms.openlocfilehash: a97be76575c8c69593a12c4365e674771cd58e16
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: be7e09770e68684063e4925cdca471ccb766f4c94d9ac20c92852fd0a2f0a00b
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47805626"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53995785"
 ---
-# <a name="cant-add-or-change-teams-profile-picture"></a>ไม่สามารถเพิ่มหรือเปลี่ยนรูปภาพโพรไฟล์ของทีมได้
+# <a name="cant-add-or-change-teams-profile-picture"></a>ไม่สามารถเพิ่มหรือเปลี่ยนรูปภาพTeamsโปรไฟล์ได้
 
-เมื่อต้องการเพิ่มหรือเปลี่ยนรูปภาพโปรไฟล์ผู้ใช้จะต้องเปิดใช้งานทั้งหมดด้วยสิ่งต่อไปนี้:
+เมื่อต้องการเพิ่มหรือเปลี่ยนรูปภาพโปรไฟล์ ผู้ใช้ต้องเปิดใช้งานทั้งหมดด้วยสิ่งต่อไปนี้:
 
 - Exchange Online
 - SharePoint Online
-- ความสามารถในการสร้างกลุ่ม Microsoft ๓๖๕
+- ความสามารถในการสร้างกลุ่มMicrosoft 365กลุ่ม
 
-ดูผู้ดูแลระบบทีมของคุณเกี่ยวกับการรับสิทธิ์ที่จำเป็น สำหรับคำแนะนำให้ดู[ที่เปลี่ยนรูปภาพของคุณในทีม](https://support.microsoft.com/office/change-your-picture-in-teams-7a711943-9248-420e-b814-c071aa8d9b9c)
+ดูTeamsผู้ดูแลระบบของคุณเกี่ยวกับการรับสิทธิ์ที่จําเป็น หากต้องการคําแนะ[นํา ให้ดู เปลี่ยนรูปภาพTeams](https://support.microsoft.com/office/change-your-picture-in-teams-7a711943-9248-420e-b814-c071aa8d9b9c)ของคุณ

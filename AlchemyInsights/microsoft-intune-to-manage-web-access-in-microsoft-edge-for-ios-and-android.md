@@ -1,5 +1,5 @@
 ---
-title: ใช้ Microsoft Intuned เพื่อจัดการการเข้าถึงเว็บใน Microsoft Edge for iOS และ Android
+title: ใช้Microsoft Intuneจัดการการเข้าถึงเว็บใน Microsoft Edge for iOS และ Android
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -14,26 +14,26 @@ ms.custom:
 - "6895"
 - "9006502"
 - "11144"
-ms.openlocfilehash: a6c6f9563933b7cf6b71c4758c29ffd94617c4be
-ms.sourcegitcommit: 7a406a3d4680662e81f0056454f7e25fb2f52504
+ms.openlocfilehash: 798b28fa20291c7ef5e94d555b9ae72c3b193d343b892affd22b6a23e780d523
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 06/17/2021
-ms.locfileid: "52989724"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53975876"
 ---
-# <a name="use-microsoft-intune-to-manage-web-access-in-microsoft-edge-for-ios-and-android"></a>ใช้ Microsoft Intuned เพื่อจัดการการเข้าถึงเว็บใน Microsoft Edge for iOS และ Android
+# <a name="use-microsoft-intune-to-manage-web-access-in-microsoft-edge-for-ios-and-android"></a>ใช้Microsoft Intuneจัดการการเข้าถึงเว็บใน Microsoft Edge for iOS และ Android
 
-Microsoft Edge for iOS และ Android ช่วยให้ผู้ใช้สามารถเรียกดูเว็บจากหลายโปรไฟล์แยกกันโดยสิ้นเชิง
+Microsoft Edge iOS และ Android ช่วยให้ผู้ใช้เรียกดูเว็บจากหลายโปรไฟล์แยกกันโดยสิ้นเชิง
 
-ความสามารถในการป้องกันที่กว้างที่สุดของข้อมูล Microsoft 365 จะพร้อมใช้งานเมื่อคุณสมัครใช้งานชุดโปรแกรม Enterprise Mobility + Security ซึ่งรวมถึง Microsoft Intunes และฟีเจอร์ Azure Active Directory Premium เช่น การเข้าถึงตามเงื่อนไข อย่างน้อยที่สุด คุณจะต้องการปรับใช้นโยบายการเข้าถึงตามเงื่อนไขที่ (1) ช่วยให้ผู้ใช้เชื่อมต่อจากอุปกรณ์เคลื่อนที่ไปยัง Microsoft Edge for iOS และ Android และนโยบายดังกล่าว (2) ใช้นโยบายการป้องกันแอปของ Microsoft Intuned ที่ให้ประสบการณ์การเรียกดูที่ได้รับการป้องกัน
+ความสามารถด้านการป้องกันที่กว้างที่สุดMicrosoft 365ข้อมูลล่าสุดจะพร้อมใช้งานเมื่อคุณสมัครใช้งานชุดโปรแกรม Enterprise Mobility + Security ซึ่งรวมถึงฟีเจอร์Microsoft Intune Azure Active Directory Premiumต่างๆ เช่น การเข้าถึงตามเงื่อนไข อย่างน้อยที่สุด คุณจะต้องการปรับใช้นโยบายการเข้าถึงตามเงื่อนไขที่ (1) ให้ผู้ใช้เชื่อมต่อจากอุปกรณ์เคลื่อนที่ไปยัง Microsoft Edge for iOS และ Android และ (2) ปรับใช้นโยบายการป้องกันแอปของ Microsoft Intune ที่ให้ประสบการณ์การเรียกดูที่ได้รับการป้องกัน
 
 เมื่อต้องการเข้าใจว่าคุณสามารถใช้การเข้าถึงและนโยบายตามเงื่อนไขอย่างไร ให้ดูที่
 
-[ปรับใช้นโยบายการเข้าถึงตามเงื่อนไขของ Azure Active Directory](https://go.microsoft.com/fwlink/?linkid=2132481)
+[ปรับใช้Azure Active Directoryการเข้าถึงตามเงื่อนไข](https://go.microsoft.com/fwlink/?linkid=2132481)
 
-[สร้างนโยบายการป้องกันแอป Microsoft Intun1](https://go.microsoft.com/fwlink/?linkid=2132651)
+[สร้างMicrosoft Intuneนโยบายการป้องกันแอป](https://go.microsoft.com/fwlink/?linkid=2132651)
 
-[ใช้การลงชื่อเข้าระบบครั้งเดียวในแอป Azure Active Directory บนเว็บที่เชื่อมต่อในเบราว์เซอร์ที่มีการป้องกันนโยบาย](https://go.microsoft.com/fwlink/?linkid=2132482)
+[ใช้การลงชื่อเข้าระบบครั้งเดียวAzure Active Directoryแอปที่เชื่อมต่อในเบราว์เซอร์ที่มีการป้องกันนโยบาย](https://go.microsoft.com/fwlink/?linkid=2132482)
 
 [ใช้การกําหนดค่าแอปเพื่อจัดการประสบการณ์การเรียกดู](https://go.microsoft.com/fwlink/?linkid=2132483)
 
@@ -43,6 +43,6 @@ Microsoft Edge for iOS และ Android ช่วยให้ผู้ใช้
 
 [ปรับใช้นโยบายการกําหนดค่าแอปเพื่อการป้องกันข้อมูล](https://go.microsoft.com/fwlink/?linkid=2132654)
 
-[ใช้ตัวจัดการจุดสิ้นสุดของ Microsoft เพื่อปรับใช้นโยบายการกําหนดค่าแอป](https://go.microsoft.com/fwlink/?linkid=2132707)
+[ใช้Microsoft Endpoint Managerปรับใช้นโยบายการกําหนดค่าแอป](https://go.microsoft.com/fwlink/?linkid=2132707)
 
-เมื่อต้องการเรียนรู้วิธีการเข้าถึงบันทึกแอปที่มีการจัดการ ให้ดู [ใช้ Microsoft Edge for iOS และ Android เพื่อเข้าถึงบันทึกแอปที่มี](https://go.microsoft.com/fwlink/?linkid=2132578)การจัดการ
+เมื่อต้องการเรียนรู้วิธีการเข้าถึงบันทึกแอปที่มีการจัดการ ให้ดูที่ ใช้[Microsoft Edge iOS และ Android เพื่อเข้าถึงบันทึกแอปที่มี](https://go.microsoft.com/fwlink/?linkid=2132578)การจัดการ

@@ -10,31 +10,31 @@ localization_priority: Normal
 ms.custom:
 - "4539"
 - "9002266"
-ms.openlocfilehash: bef170d8e38dcc91094b95604aeb1968d5c57fca
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: d24696b63663c69b22c783072141af62ecf124dba7b49bca827381f39f88640e
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47732194"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54032001"
 ---
 # <a name="creating-aip-label-policies"></a>การสร้างนโยบายป้ายชื่อ AIP
 
-ป้ายชื่อการป้องกันข้อมูลของ Azure (AIP) สามารถใช้กับข้อมูลทั้งหมดที่องค์กรจะสร้างและจัดเก็บจากการจัดประเภทของข้อมูลส่วนบุคคลที่ต่ำที่สุดไปจนถึงการจัดประเภทของข้อมูลที่เป็นความลับสูงสุด นโยบายการป้องกันข้อมูลของ azure จะนำไปใช้กับไคลเอ็นต์การป้องกันข้อมูล Azure (AIP) และไม่ใช่[ไคลเอ็นต์การติดฉลาก Aip Unified](https://docs.microsoft.com/azure/information-protection/rms-client/unifiedlabelingclient-version-release-history) คุณสามารถกำหนดค่าองค์ประกอบหลายองค์ประกอบในนโยบาย AIP รวมถึงตัวเลือกต่างๆเช่น:
+ป้ายชื่อ Azure Information Protection(AIP) สามารถใช้กับข้อมูลช่วงข้อมูลทั้งหมดที่โดยปกติแล้วองค์กรจะสร้างและจัดเก็บ จากการจัดประเภทข้อมูลส่วนบุคคลต่สุด ไปยังการจัดประเภทสูงสุดของข้อมูลที่เป็นความลับสูง นโยบายการปกป้องข้อมูล Azure จะมีผลบังคับใช้กับไคลเอ็นต์แบบคลาสสิกของ Azure Information Protection(AIP) และไม่ใช่ไคลเอ็นต์[ป้ายผนึกแบบรวมของ AIP](https://docs.microsoft.com/azure/information-protection/rms-client/unifiedlabelingclient-version-release-history) คุณสามารถกําหนดค่าหลายองค์ประกอบในนโยบาย AIP ได้ รวมถึงตัวเลือกต่างๆ เช่น:
 
-- ตัวเลือกสำหรับป้ายชื่อใดที่จะช่วยให้ผู้ดูแลระบบหรือการจัดประเภทผู้ใช้และการป้องกัน (ไม่จำเป็น) เอกสารและอีเมล
+- ตัวเลือกป้ายชื่อที่จะให้ผู้ดูแลระบบหรือผู้ใช้จัดประเภทและป้องกัน(ไม่บังคับ) เอกสารและอีเมล
 - ตัวเลือกในการบังคับใช้การจัดประเภทเมื่อผู้ใช้บันทึกเอกสารและส่งอีเมล
-- ตัวเลือกในการป้ายชื่อข้อความอีเมลโดยยึดตามสิ่งที่แนบมาโดยอัตโนมัติ
-- ตัวเลือกในการควบคุมว่าจะแสดงแถบการป้องกันข้อมูลในแอปพลิเคชัน Office หรือไม่
+- ตัวเลือกในการใส่ป้ายชื่อข้อความอีเมลโดยอัตโนมัติโดยยึดตามสิ่งที่แนบมาของข้อความอีเมลนั้น
+- ตัวเลือกในการควบคุมว่าแถบการป้องกันข้อมูลจะแสดงในOfficeหรือไม่
 
-สำหรับตัวเลือกเพิ่มเติมและข้อมูลเกี่ยวกับนโยบายการป้องกันข้อมูลของ Azure ให้ดูที่:[ภาพรวมของนโยบายการป้องกันข้อมูลของ azure](https://docs.microsoft.com/azure/information-protection/overview-policy)  
+For additional options and information on Azure Information Protection policies, see: [Overview of the Azure Information Protection policy](https://docs.microsoft.com/azure/information-protection/overview-policy).  
 
-สำหรับแหล่งข้อมูลอื่นๆที่มีประโยชน์เกี่ยวกับนโยบายของ AIP ให้ดูที่:
+ดูแหล่งข้อมูลที่เป็นประโยชน์อื่นๆ เกี่ยวกับนโยบาย AIP ที่:
 
-- [บทช่วยสอน: กำหนดค่าการตั้งค่านโยบายการป้องกันข้อมูล Azure และสร้างป้ายชื่อใหม่](https://docs.microsoft.com/azure/information-protection/infoprotect-quick-start-tutorial)  
-- [การกำหนดค่านโยบายการป้องกันข้อมูลของ Azure](https://docs.microsoft.com/azure/information-protection/configure-policy)  
-- [การสร้างและกำหนดค่าป้ายชื่อความลับและนโยบายของพวกเขา](https://docs.microsoft.com/microsoft-365/compliance/create-sensitivity-labels)  
-- [เส้นบอกแนววิธีการสำหรับสถานการณ์สมมติทั่วไปที่ใช้การป้องกันข้อมูลของ Azure](https://docs.microsoft.com/azure/information-protection/how-to-guides)  
-- [ตรวจทานเอกสารประกอบการป้องกันข้อมูลของ Azure](https://docs.microsoft.com/azure/information-protection/what-is-information-protection)  
-- [ข้อกำหนดสำหรับการป้องกันข้อมูล Azure](https://docs.microsoft.com/azure/information-protection/get-started/requirements)  
-- [บทช่วยสอนเริ่มต้นใช้งานด่วนสำหรับการป้องกันข้อมูล Azure](https://docs.microsoft.com/azure/information-protection/get-started/infoprotect-quick-start-tutorial)  
-- [ดาวน์โหลดไคลเอ็นต์การป้องกันข้อมูล Azure](https://www.microsoft.com/download/details.aspx?id=53018)
+- [บทช่วยสอน: กําหนดการตั้งค่านโยบาย Azure Information Protection และสร้างป้ายชื่อใหม่](https://docs.microsoft.com/azure/information-protection/infoprotect-quick-start-tutorial)  
+- [การกําหนดค่านโยบาย Azure Information Protection](https://docs.microsoft.com/azure/information-protection/configure-policy)  
+- [สร้างและกําหนดค่าป้ายระดับความลับและนโยบายของป้ายก่านั้น](https://docs.microsoft.com/microsoft-365/compliance/create-sensitivity-labels)  
+- [คู่มือวิธีการเกี่ยวกับสถานการณ์ทั่วไปที่ใช้ Azure Information Protection](https://docs.microsoft.com/azure/information-protection/how-to-guides)  
+- [ตรวจทานเอกสาร Azure Information Protection](https://docs.microsoft.com/azure/information-protection/what-is-information-protection)  
+- [ความต้องการของ Azure Information Protection](https://docs.microsoft.com/azure/information-protection/get-started/requirements)  
+- [บทช่วยสอนเริ่มต้นใช้งานด่วนของ Azure Information Protection](https://docs.microsoft.com/azure/information-protection/get-started/infoprotect-quick-start-tutorial)  
+- [ดาวน์โหลดไคลเอ็นต์ Azure Information Protection](https://www.microsoft.com/download/details.aspx?id=53018)
