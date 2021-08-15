@@ -1,5 +1,5 @@
 ---
-title: ช่วงเวลาผ่อนผันของ Microsoft 365 รุ่นทดลองใช้ฟรี
+title: ช่วงเวลาผ่อนผันMicrosoft 365ทดลองใช้ฟรี
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "1400006"
 - "5479"
-ms.openlocfilehash: d4cfecf90fbc255bbd7ce396accdf8698f17b12f
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: d10fc7cb850811628b7440778edf874e7544f2e64c08ec8171ab99642ab0fa6f
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51811835"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53964022"
 ---
-# <a name="grace-period-for-microsoft-365-free-trial"></a>ช่วงเวลาผ่อนผันของ Microsoft 365 รุ่นทดลองใช้ฟรี
+# <a name="grace-period-for-microsoft-365-free-trial"></a>ช่วงเวลาผ่อนผันMicrosoft 365ทดลองใช้ฟรี
 
-หลังจากเวอร์ชันทดลองใช้ฟรี 30 วันบัญชีของคุณจะถูกย้ายไปยังสถานะช่วงเวลาผ่อนผันเป็นเวลา **30** วันเพิ่มเติมในประเทศและภูมิภาคส่วนใหญ่ ในระหว่างช่วงเวลาผ่อนผันนี้ คุณสามารถซื้อ Microsoft 365 ได้ ถ้าคุณตัดสินใจที่จะไม่ซื้อ Microsoft 365 คุณสามารถยกเลิกเวอร์ชันทดลองใช้[](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription?view=o365-worldwide)ของคุณหรือปล่อยให้ช่วงเวลาผ่อนผันหมดอายุ และข้อมูลบัญชีเวอร์ชันทดลองใช้ของคุณและข้อมูลจะถูกลบ
+หลังจากเวอร์ชันทดลองใช้ฟรี 30 วันบัญชีของคุณจะถูกย้ายไปยังสถานะช่วงเวลาผ่อนผันเป็นเวลา **30** วันเพิ่มเติมในประเทศและภูมิภาคส่วนใหญ่ ระหว่างช่วงเวลาผ่อนผันนี้ คุณสามารถซื้อMicrosoft 365ได้ ถ้าคุณตัดสินใจที่จะไม่ซื้อ Microsoft 365 รุ่นทดลองใช้ของคุณ หรือปล่อยให้ช่วงเวลาผ่อน[](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription?view=o365-worldwide)ผันหมดอายุ และข้อมูลบัญชีผู้ใช้เวอร์ชันทดลองใช้ของคุณและข้อมูลจะถูกลบ
 
 คุณสามารถเลือกที่จะ [ขยายระยะเวลาทดลองใช้](https://docs.microsoft.com/microsoft-365/commerce/extend-your-trial) อีก 30 วันถ้าคุณยังไม่ได้ขยาย
 

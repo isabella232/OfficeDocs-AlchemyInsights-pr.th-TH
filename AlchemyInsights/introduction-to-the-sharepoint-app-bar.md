@@ -1,5 +1,5 @@
 ---
-title: บทนําสู่แถบแอป SharePoint
+title: บทนําSharePointแถบแอป
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004628"
 - "8343"
-ms.openlocfilehash: 660bbd53820a5c70709af85bbaa82446c7bf1cd3
-ms.sourcegitcommit: 969219d6dff18d86d679d4d8741d1e39e4ce9539
+ms.openlocfilehash: 673d8189eb5121b55468985822c487562f74d05f5dfdbbf892b2ac8ab40d3e84
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 03/03/2021
-ms.locfileid: "50427987"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54001455"
 ---
-# <a name="introduction-to-the-sharepoint-app-bar"></a>บทนําสู่แถบแอป SharePoint
+# <a name="introduction-to-the-sharepoint-app-bar"></a>บทนําSharePointแถบแอป
 
-แถบแอปได้รับการออกแบบมาเพื่อปรับปรุงประสบการณ์การค้นหาแบบสากลในขณะที่แสดงเนื้อหาที่ปรับให้เป็นแบบส่วนตัวแบบไดนามิก แถบแอปจะเปิดใช้งานตามค่าเริ่มต้นและสามารถปิดใช้งานชั่วคราว **(Set-SPOTemporarilyDisableAppBar $true)** โดยใช้ PowerShell เวอร์ชันล่าสุด แถบแอปสามารถปิดใช้งานได้จนถึงสิ้นเดือนตุลาคม ซึ่งในตอนนี้แถบแอปจะถูกเปิดใช้งานอีกครั้งโดยอัตโนมัติ
+แถบแอปได้รับการออกแบบมาเพื่อปรับปรุงวิธีการค้นหาประสบการณ์การใช้งานในระดับโลกพร้อมกับแสดงเนื้อหาที่ปรับให้เป็นแบบส่วนตัวแบบไดนามิก แถบแอปจะเป็น เปิด **ตามค่าเริ่มต้น และสามารถ** ปิดใช้งานชั่วคราว (**Set-SPOTemporarilyDisableAppBar $true**) โดยใช้ PowerShell เวอร์ชันล่าสุด สามารถปิดใช้งานแถบแอปได้จนถึงสิ้นเดือนตุลาคม ซึ่งในจุดนี้จะเปิดใช้งานอีกครั้งโดยอัตโนมัติ
 
-สำหรับข้อมูลเพิ่มเติม ให้ดูที่
+สำหรับข้อมูลเพิ่มเติม ให้ดู:
 
-- [บทนําสู่แถบแอป SharePoint](https://docs.microsoft.com/SharePoint/sharepoint-app-bar)
-- [ตั้งค่าไซต์หน้าแรกขององค์กรของคุณ](https://docs.microsoft.com/sharepoint/home-site)
-- [ใช้แถบแอป SharePoint](https://support.microsoft.com/office/use-the-sharepoint-app-bar-b2ab82d5-9af7-445e-ad24-236c5a86b5f8)
+- [บทนําSharePointแถบแอป](https://docs.microsoft.com/SharePoint/sharepoint-app-bar)
+- [ตั้งค่าไซต์เริ่มต้นให้กับองค์กรของคุณ](https://docs.microsoft.com/sharepoint/home-site)
+- [ใช้SharePointแถบแอป](https://support.microsoft.com/office/use-the-sharepoint-app-bar-b2ab82d5-9af7-445e-ad24-236c5a86b5f8)

@@ -1,5 +1,5 @@
 ---
-title: ๑๘๒๙-ediscovery-ปัญหา
+title: ปัญหา 1829-ediscovery
 ms.author: markjjo
 author: markjjo
 manager: lauraw
@@ -12,27 +12,27 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 1829
 ms.assetid: ''
-ms.openlocfilehash: fe980d8ba54b710deca3bce9d8eca422d6c74da7
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: c2a949afa39da637e32c6a254b7343df0eac402b3579e511d3b41e13b2b00bf7
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47710970"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54030444"
 ---
 # <a name="ediscovery-issues"></a>ปัญหา eDiscovery
 
-กำลังมองหาตัวเลือก eDiscovery ใช่หรือไม่ ด้วยการนำทางที่ได้รับการออกแบบใหม่ในศูนย์การรักษาความปลอดภัย & การปฏิบัติตามนโยบายตัวเลือก eDiscovery ของคุณอาจถูกย้ายไปแล้ว  คุณสามารถค้นหาตัวเลือก eDiscovery ได้ในตำแหน่งที่ตั้งต่อไปนี้ในศูนย์การรักษาความปลอดภัย & การปฏิบัติตามนโยบายตามสิ่งที่คุณกำลังพยายามทำ:
+ค้นหาตัวเลือก eDiscovery ใช่หรือไม่ ด้วยการนําทางที่ได้รับการออกแบบใหม่ในศูนย์การรักษา&การปฏิบัติตามข้อบังคับ ตัวเลือก eDiscovery ของคุณอาจย้ายอยู่แล้ว  คุณสามารถค้นหาตัวเลือก eDiscovery ในที่ต่อไปนี้ใน ศูนย์การรักษา&การปฏิบัติตามข้อบังคับ โดยยึดตามสิ่งที่คุณพยายามจะ:
 
-- ใช้การค้นหาเนื้อหาเพื่อค้นหาเนื้อหาของคุณในอีเมลเอกสารการสนทนา Skype for Business จากนั้นส่งออกข้อมูลไปที่การค้น **หา > การค้นหาเนื้อหา**
+- ใช้การค้นหาเนื้อหาเพื่อค้นหาเนื้อหาในอีเมล เอกสาร Skype for Businessการสนทนาของคุณ แล้วส่งออกข้อมูล - ไปที่ **ค้นหา>การค้นหาเนื้อหา**
 
-- สร้างกรณี eDiscovery เพื่อค้นหาเนื้อหาและสถานที่เก็บเนื้อหาที่อยู่บนการระงับไปยัง ediscovery **> ediscovery**
+- สร้างกรณี eDiscovery เพื่อค้นหาเนื้อหาและระงับที่ตั้งเนื้อหา - ไปที่ **eDiscovery > eDiscovery**
 
-- ใช้โซลูชัน eDiscovery ขั้นสูงสำหรับการสิ้นสุดขั้นสูงเพื่อระบุและติดต่อสื่อสารกับดูแลการเก็บรักษาข้อมูลที่เกี่ยวข้องกับกรณีที่เก็บรวบรวมข้อมูลและเพิ่มข้อมูลลงในชุดการรีวิวและลดระดับเสียงของข้อมูลโดยการใช้ analytics เพื่อ cull ข้อมูลที่ไม่จำเป็นและเน้นสิ่งที่เกี่ยวข้องกับกรณีที่เกี่ยวข้องกับกรณีที่เกี่ยวข้องกับ **>** กรณีที่เกี่ยวข้องกับ
+- ใช้โซลูชัน Advanced eDiscovery แบบใหม่ทุกด้านเพื่อระบุและติดต่อสื่อสารกับนักอนุรักษ์เมือง รักษาข้อมูลชั่วคราวที่เกี่ยวข้องกับกรณีดังกล่าว รวบรวมข้อมูลและเพิ่มไปยังชุดการรีวิว และลดปริมาณข้อมูลโดยใช้การวิเคราะห์เพื่อรวบรวมข้อมูลที่ไม่จําเป็นและเน้นไปที่สิ่งที่เกี่ยวข้องกับกรณีมากที่สุด - ไปที่ **eDiscovery > Advanced eDiscovery**
 
-สำหรับข้อมูลเพิ่มเติม ให้ดูที่
+สำหรับข้อมูลเพิ่มเติม ให้ดู:
 
 - [การค้นหาเนื้อหา](https://docs.microsoft.com/microsoft-365/compliance/content-search)
 
-- [กรณี eDiscovery ในศูนย์การรักษาความปลอดภัย & การปฏิบัติตามนโยบาย](https://docs.microsoft.com/microsoft-365/compliance/ediscovery-cases)
+- [กรณี eDiscovery ในศูนย์&การปฏิบัติตามข้อบังคับ](https://docs.microsoft.com/microsoft-365/compliance/ediscovery-cases)
 
-- [โซลูชัน eDiscovery ขั้นสูงใน Microsoft ๓๖๕](https://docs.microsoft.com/microsoft-365/compliance/overview-ediscovery-20)
+- [Advanced eDiscoveryโซลูชันใน Microsoft 365](https://docs.microsoft.com/microsoft-365/compliance/overview-ediscovery-20)
