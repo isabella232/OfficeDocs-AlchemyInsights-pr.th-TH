@@ -8,27 +8,27 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: cd7196af-3ed9-42e6-b594-f51ad265fd63
-ms.openlocfilehash: f243a68b5eb7f23f096183a923a32c1eb7b9508e
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 55460bbf1f676b20836c0518de3f13bfab16ee8c26cc461c1569ae4f750080ae
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47694801"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54011463"
 ---
 # <a name="sync-a-users-profile-picture"></a>ซิงค์รูปภาพโปรไฟล์ของผู้ใช้
 
-คุณสามารถเพิ่มหรือเปลี่ยนรูปถ่ายโปรไฟล์ของคุณใน Microsoft ๓๖๕จาก [Office.com](https://www.office.com)หรือขณะที่ใช้แอปพลิเคชันของ Microsoft บนคอมพิวเตอร์ของคุณหรือในเบราว์เซอร์บนโทรศัพท์ของคุณ รูปภาพของคุณจะปรากฏขึ้นทุกที่ที่มีวงกลมรูปโปรไฟล์ใน Microsoft ๓๖๕
+คุณสามารถเพิ่มหรือเปลี่ยนรูปภาพโปรไฟล์Microsoft 365ได้จาก[Office.com](https://www.office.com)หรือขณะที่ใช้แอปพลิเคชัน Microsoft บนคอมพิวเตอร์ของคุณหรือในเบราว์เซอร์บนโทรศัพท์ของคุณ รูปภาพของคุณจะปรากฏขึ้นทุกที่ที่มีวงกลมรูปภาพโปรไฟล์ในMicrosoft 365ของคุณ
 
-เมื่อต้องการเพิ่มรูปภาพโปรไฟล์ของคุณไปยัง Microsoft ๓๖๕สำหรับธุรกิจ
+เมื่อต้องการเพิ่มรูปภาพโปรไฟล์Microsoft 365ธุรกิจ
 
-- ค้นหารูปถ่ายที่คุณต้องการใช้และจัดเก็บไว้บนคอมพิวเตอร์, OneDrive หรือตำแหน่งที่ตั้งอื่นที่คุณสามารถเข้าถึงได้
+- ค้นหารูปถ่ายที่คุณต้องการใช้และจัดเก็บลงในคอมพิวเตอร์ของคุณ OneDrive หรือที่อื่นๆ ที่คุณสามารถไปยัง
 
-- ลงชื่อเข้าใช้ Microsoft ๓๖๕ด้วยบัญชีที่ทำงานหรือโรงเรียนของคุณที่[office.com](https://www.office.com)
+- ลงชื่อเข้าใช้Microsoft 365ด้วยบัญชีที่โรงเรียน[หรือที่](https://www.office.com)office.com
 
 - เลือกวงกลมที่มุมขวาบนของหน้าที่แสดงชื่อย่อของคุณหรือไอคอนของบุคคล
 
-- ในบานหน้าต่างบัญชีผู้ใช้ของฉันให้เลือกวงกลมที่แสดงชื่อย่อของคุณหรือไอคอนของบุคคล เปลี่ยนรูปถ่ายของคุณในป็อปอัพที่ปรากฏขึ้น
+- ในบานหน้าต่าง บัญชีของฉัน ให้เลือกวงกลมที่แสดงชื่อย่อของคุณหรือไอคอนของบุคคล เปลี่ยนรูปถ่ายในป็อปอัพที่ปรากฏขึ้น
 
-หมายเหตุ: ถ้าคุณได้อัปโหลดรูปภาพแล้วคุณอาจต้องการลองคลิกไทล์ SharePoint หรือ OneDrive เพื่อซิงค์รูปภาพนั้นอีกครั้ง
+หมายเหตุ: ถ้าคุณอัปโหลดรูปภาพแล้ว คุณอาจต้องการลองคลิกSharePointหรือOneDriveไทล์เพื่อซิงค์รูปภาพนั้นอีกครั้ง
 
-สำหรับข้อมูลเพิ่มเติมโปรดดู[ข้อมูลเกี่ยวกับการซิงโครไนซ์รูปภาพโปรไฟล์ใน Microsoft ๓๖๕](https://support.office.com/article/information-about-profile-picture-synchronization-in-office-365-20594d76-d054-4af4-a660-401133e3d48a)
+For more information, please visit [Information about profile picture synchronization in Microsoft 365](https://support.office.com/article/information-about-profile-picture-synchronization-in-office-365-20594d76-d054-4af4-a660-401133e3d48a).

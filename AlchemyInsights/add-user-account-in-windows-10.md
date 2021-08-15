@@ -1,5 +1,5 @@
 ---
-title: เพิ่มบัญชีผู้ใช้ใน Windows 10
+title: เพิ่มบัญชีผู้ใช้ในWindows 10
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "3448"
 - "9001447"
-ms.openlocfilehash: 74182d6b2b287b614624baabd20ce3abecb5a191
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 3f8275cc8197015e9146377bd8af979d79b32494f674b8bcab8df310d69e4a14
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51822330"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53953672"
 ---
-# <a name="add-a-user-account-in-windows-10"></a>เพิ่มบัญชีผู้ใช้ใน Windows 10
+# <a name="add-a-user-account-in-windows-10"></a>เพิ่มบัญชีผู้ใช้ในWindows 10
 
-ต่อไปนี้เป็นวิธีเพิ่มบัญชีใน Windows 10:
+ต่อไปนี้เป็นวิธีเพิ่มบัญชีในWindows 10:
 
-1. ไปที่ **เริ่ม** การตั้งค่า บัญชี &บุคคลอื่น (หรือ บุคคลอื่น ถ้าคุณใช้งาน  >    >    >  Windows 10 Enterprise) >**เพิ่มบุคคลอื่นลงในพีซี** เครื่องนี้
+1. ไปที่ **เริ่ม** การตั้งค่า ครอบครัว&บุคคลอื่น (หรือ บุคคลอื่น ถ้าคุณ  >    >    >  Windows 10 Enterprise) >**เพิ่มบุคคลอื่นในพีซี** นี้
 2. ให้ปฏิบัติตามคําแนะนําเพื่อเพิ่มบัญชี Microsoft หรือบัญชีภายในเครื่อง
 
 [เรียนรู้เพิ่มเติมเกี่ยวกับการตั้งค่าบัญชีผู้ใช้](https://support.microsoft.com/help/17197/)
