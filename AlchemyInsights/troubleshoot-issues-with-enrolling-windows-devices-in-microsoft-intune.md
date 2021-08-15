@@ -1,5 +1,5 @@
 ---
-title: แก้ไขปัญหาเกี่ยวกับการลงทะเบียนอุปกรณ์ Windows ใน Microsoft Intun1
+title: แก้ไขปัญหาเกี่ยวกับการลงทะเบียนWindowsในMicrosoft Intune
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,14 +12,14 @@ ms.assetid: 20e9bd42-2db0-4dd7-b480-966571494dd9
 ms.custom:
 - "784"
 - "6200002"
-ms.openlocfilehash: a456cc8f2336e6b902de0b7873cb233f4b846140
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: a2abb4d0ef5504c496afefe62a80f3fa21c7ec85536e822e402be33b3617b59e
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51808990"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53981060"
 ---
-# <a name="troubleshoot-issues-with-enrolling-windows-devices-in-microsoft-intune"></a>แก้ไขปัญหาเกี่ยวกับการลงทะเบียนอุปกรณ์ Windows ใน Microsoft Intun1
+# <a name="troubleshoot-issues-with-enrolling-windows-devices-in-microsoft-intune"></a>แก้ไขปัญหาเกี่ยวกับการลงทะเบียนWindowsในMicrosoft Intune
 
 ตรวจสอบแหล่งข้อมูลที่แสดงอยู่ด้านล่างเพื่อแก้ไขปัญหาของคุณทันที
   
@@ -35,7 +35,7 @@ ms.locfileid: "51808990"
 
 -  อุปกรณ์ได้รับการลงทะเบียนโดยผู้ใช้อื่นแล้ว ถ้าเป็นกรณีนี้ ให้เอาอุปกรณ์ออกจากคอนโซล Azure Intuned หรือยกเลิกการลงทะเบียนอุปกรณ์ด้วยตนเองก่อนลองอีกครั้ง
 
--  อุปกรณ์คือ Windows 10 Home เฉพาะ Windows 10 Pro, Education และ Enterprise SKUs เท่านั้นที่สามารถเข้าร่วม Azure Active Directory ได้
+-  อุปกรณ์ดังกล่าวWindows 10 Homeอยู่ เฉพาะWindows 10 Pro การศึกษา และ Enterprise SKUs เท่านั้นที่สามารถAzure Active Directoryได้
 
 แหล่งข้อมูลเพิ่มเติมเพื่อช่วยแก้ไขปัญหาของคุณ:
   
@@ -43,4 +43,4 @@ ms.locfileid: "51808990"
 
 -  ตรวจทานเอกสารเหล่านี้เพื่อดูรายการข้อผิดพลาดทั่วไปที่ป้องกันไม่ให้การลงทะเบียนและการแก้ไขปัญหาแต่ละรายการ:[คู่มือการแก้ไขปัญหา](https://support.microsoft.com/help/4089533/troubleshooting-windows-device-enrollment-problems-in-microsoft-intune)[และ การแก้ไขปัญหาเอกสาร](https://docs.microsoft.com/troubleshoot/mem/intune/troubleshoot-device-enrollment-in-intune)
 
-[เรียนรู้วิธีการลงทะเบียนอุปกรณ์ Windows ใน Microsoft Intun1](https://docs.microsoft.com/intune/windows-enroll)
+[เรียนรู้วิธีการลงทะเบียนWindowsใน Microsoft Intune](https://docs.microsoft.com/intune/windows-enroll)

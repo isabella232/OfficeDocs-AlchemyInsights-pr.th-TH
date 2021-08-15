@@ -13,14 +13,14 @@ ms.custom:
 - "406"
 - "4000004"
 ms.assetid: 028e76e7-9701-4450-9fc9-f40232e8e68e
-ms.openlocfilehash: d5720214e1d067fc9a2c2e6227955e715e2356f3
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 7e972ef37c0b7d2aa2c4771d5d7c95c1df8e24ccd6f16fbe020900d10ea42de0
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51831429"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54010023"
 ---
 # <a name="problems-signing-in-to-microsoft-skype-for-business"></a>ปัญหาในการลงชื่อเข้าใช้ Microsoft Skype for Business
 
-ดาวน์โหลดและใช้ ตัวช่วย[การสนับสนุนและการกู้คืน (SaRA)](https://aka.ms/SaRA-SkypeForBusinessSignIn)
-เครื่องมือนี้จะช่วยให้คุณวินิจฉัยและแก้ไขปัญหาที่ทราบต่างๆ เกี่ยวกับการลงชื่อเข้าใช้ Skype for Business โดยอัตโนมัติ
+ดาวน์โหลดและใช้ตัวช่วยการสนับสนุนและการกู้คืน[(SaRA)](https://aka.ms/SaRA-SkypeForBusinessSignIn)
+เครื่องมือนี้สามารถช่วยให้คุณวินิจฉัยและแก้ไขปัญหาที่ทราบต่างๆ เกี่ยวกับการลงชื่อเข้าใช้ในSkype for Businessโดยอัตโนมัติ
