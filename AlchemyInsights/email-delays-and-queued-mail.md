@@ -1,5 +1,5 @@
 ---
-title: คุณเห็นอีเมลที่ล่าช้าหรือคิวอีเมลหรือไม่
+title: คุณพบความล่าช้าของอีเมลหรือจดหมายเข้าคิวหรือไม่
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -11,13 +11,13 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 1937
 ms.assetid: ''
-ms.openlocfilehash: c2e6aa3de2ea86b70c8fb68503aa02027505326a
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 47f2d4f61571c8ef1fd871a568909d7dab37fe7ecfca5a8e02728e12b759ae40
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47710250"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54030183"
 ---
-# <a name="are-you-seeing-email-delays-or-queued-mail"></a>คุณเห็นอีเมลที่ล่าช้าหรือคิวอีเมลหรือไม่
+# <a name="are-you-seeing-email-delays-or-queued-mail"></a>คุณพบความล่าช้าของอีเมลหรือจดหมายเข้าคิวหรือไม่
 
-เราเพิ่งเริ่มต้นจุดสิ้นสุดของ SMTP deprecating เก่า ค่าปลายทางเหล่านี้จะพร้อมใช้งานในระเบียน MX และโฮสต์สมาร์ทก่อนที่จะ๒๐๑๒ ถ้าคุณยังคงใช้ค่าที่เก่ากว่าใดค่าหนึ่งต่อไปนี้คุณจะต้องอัปเดตจุดสิ้นสุดเป็นค่าที่ได้รับการสนับสนุน สำหรับข้อมูลเพิ่มเติมให้ดูที่การ[สนับสนุนนี้กิโลไบต์](https://support.microsoft.com/help/4057301/attr35-response-code-when-mail-is-sent-to-eop-exo)
+เราเพิ่งเริ่มใช้จุดสิ้นสุด SMTP แบบเก่า ค่าปลายทางเหล่านี้พร้อมใช้งานในระเบียน MX และสมาร์ทโฮสต์ก่อนปี 2012 ถ้าคุณยังคงใช้หนึ่งในค่าเก่าเหล่านี้ คุณจะต้องอัปเดตจุดสิ้นสุดเป็นค่าที่สนับสนุน For more information, see this [support KB](https://support.microsoft.com/help/4057301/attr35-response-code-when-mail-is-sent-to-eop-exo).

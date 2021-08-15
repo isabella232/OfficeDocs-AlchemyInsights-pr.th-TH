@@ -1,5 +1,5 @@
 ---
-title: ไม่สามารถอัปโหลดหรือเปิดวิดีโอบน Yammer ได้
+title: ไม่สามารถอัปโหลดหรือเปิดวิดีโอบนYammer
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,17 +13,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "5999"
 - "9003112"
-ms.openlocfilehash: 5d7e74c322d51d6beac1ba7f920b900719a64ca9
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 8ca05e1ab33f507117c14290e688b5a6dde6f126f95640cae9df2f27cf5e768c
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47735182"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53991230"
 ---
-# <a name="unable-to-upload-or-open-video-on-yammer"></a>ไม่สามารถอัปโหลดหรือเปิดวิดีโอบน Yammer ได้
+# <a name="unable-to-upload-or-open-video-on-yammer"></a>ไม่สามารถอัปโหลดหรือเปิดวิดีโอบนYammer
 
-การอัปโหลดวิดีโอทำงานที่แตกต่างจากชนิดไฟล์อื่นๆ สิ่งที่แนบมาในวิดีโอต้องอัปโหลดแล้วเข้ารหัสก่อนที่ผู้ใช้จะสามารถเล่นไฟล์เหล่านั้นได้ ความละเอียดที่สูงขึ้นและวิดีโอที่ยาวขึ้นจะใช้เวลาในการเข้ารหัสอีกต่อไป สำหรับข้อมูลเพิ่มเติมให้ดู [ที่โพสต์วิดีโอใน Yammer อัปโหลดและเข้ารหัสแยกจาก](https://support.microsoft.com/office/video-posts-in-yammer-upload-and-encode-separately-5b3a348e-3a0a-4c4b-95b1-eabdf245ba25)กัน   
+การอัปโหลดวิดีโอจะแตกต่างจากไฟล์ชนิดอื่นๆ Video attachments must be uploaded and then encoded before users can play them. วิดีโอความละเอียดสูงและใช้เวลานานขึ้นในการเข้ารหัส For more info, see [Video posts in Yammer upload and encode separately](https://support.microsoft.com/office/video-posts-in-yammer-upload-and-encode-separately-5b3a348e-3a0a-4c4b-95b1-eabdf245ba25).   
 
-Yammer สนับสนุนหลายชนิดและขนาดของวิดีโอ สำหรับข้อมูลเพิ่มเติมให้ดู[ที่แนบไฟล์หรือรูปภาพไปยังข้อความ Yammer](https://support.microsoft.com/office/attach-a-file-or-image-to-a-yammer-message-f576d4d1-ad66-4ce4-9c43-46cf75978dbf)   
+Yammerสนับสนุนวิดีโอหลายชนิดและหลายขนาด หากต้องการข้อมูลเพิ่มเติม โปรดดู[แนบไฟล์หรือรูปYammerข้อความ](https://support.microsoft.com/office/attach-a-file-or-image-to-a-yammer-message-f576d4d1-ad66-4ce4-9c43-46cf75978dbf)   
 
-ถ้าคุณประสบปัญหาในการอัปโหลดวิดีโอคุณอาจปรับปรุงประสิทธิภาพการเข้ารหัสได้โดยการปรับวิดีโอให้เหมาะสมก่อนที่คุณจะอัปโหลด พิจารณาใช้ [Microsoft Stream](https://docs.microsoft.com/stream/overview) เพื่ออัปโหลดไฟล์วิดีโอที่มีขนาดใหญ่หรือเป็นมืออาชีพที่คุณต้องการใช้ในหลายสถานที่
+ถ้าคุณพบปัญหาในการอัปโหลดวิดีโอ คุณอาจปรับปรุงประสิทธิภาพการเข้ารหัสโดยการปรับให้เหมาะสมกับวิดีโอก่อนที่คุณจะอัปโหลด พิจารณาใช้ [Microsoft Stream](https://docs.microsoft.com/stream/overview) เพื่ออัปโหลดไฟล์วิดีโอขนาดใหญ่หรือผลิตอย่างมืออาชีพที่คุณต้องการใช้ในหลายสถานที่
