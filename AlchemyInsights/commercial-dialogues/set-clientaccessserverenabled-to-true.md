@@ -13,24 +13,24 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000078"
 - "7342"
-ms.openlocfilehash: 2adf35662797e9e9e354ddd0c513f5ce2463d07c
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: b134c952e3cc5305d8f3e6f44031e7f33d7938b67ff122c46cb74bbd33cbf59e
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50749974"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53994884"
 ---
 # <a name="set-clientaccessserverenabled-to-true"></a>ตั้งค่า ClientAccessServerEnabled เป็น True
 
 ถ้าคุณไม่สามารถเปิดข้อความอีเมลที่เข้ารหัสลับ และดูสิ่งที่แนบมา **แบบ rpmsg** แทน ให้ปฏิบัติตามขั้นตอนต่อไปนี้
 
-1. เชื่อมต่อกับ Exchange Online PowerShell
+1. เชื่อมต่อ Exchange Online PowerShell
 
 > [!NOTE]
-> เมื่อต้องการเชื่อมต่อกับ Exchange Online PowerShell คุณต้องลงชื่อเข้าใช้โดยใช้ผู้ดูแลระบบส่วนกลางหรือบัญชีผู้ดูแลระบบ Exchange
+> เมื่อต้องการเชื่อมต่อกับ Exchange Online PowerShell คุณต้องลงชื่อเข้าใช้โดยใช้ผู้ดูแลระบบส่วนกลางหรือExchangeผู้ดูแลระบบของคุณ
 
-   a. เปิด Windows PowerShell แล้วเรียกใช้การสั่งต่อไปนี้: `$UserCredential = Get-Credential`
-b. ในกล่องโต้ตอบการร้องขอ **ข้อมูลรับรองความถูกต้องของ Windows PowerShell** ให้ใส่บัญชีและรหัสผ่านของที่โรงเรียนหรือที่โรงเรียนของคุณ คลิก **OK** 
+   a. เปิด Windows PowerShell แล้วเรียกใช้การสั่งต่อไปนี้:`$UserCredential = Get-Credential`
+b. ในกล่องโต้ตอบ **Windows PowerShellการร้องขอข้อมูลของฉัน** ให้ใส่บัญชีและรหัสผ่านของที่โรงเรียนหรือที่โรงเรียนของคุณ คลิก **OK** 
 
 2. เรียกใช้การสั่งต่อไปนี้เพื่อสร้างเซสชันใหม่:
 

@@ -1,5 +1,5 @@
 ---
-title: เปลี่ยนแปลงหน่วยงาน MDM
+title: เปลี่ยนผู้ออกอํานาจ MDM
 ms.author: sirkkuw
 author: Sirkkuw
 ms.date: 04/21/2020
@@ -9,27 +9,27 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 08c51aa6-cffc-456b-91fb-185f0d636afb
-ms.openlocfilehash: f336ef2b84dcc7a44c6b603e2fbdb1aa08bd367d
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 84c377ef77e299671c0ee91838d3faa4a189d720c20a804d56d3323823b701c2
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47793849"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54018087"
 ---
-# <a name="change-intune-mdm-authority"></a>การเปลี่ยนแปลงสิทธิ์การ MDM ของ Intune
+# <a name="change-intune-mdm-authority"></a>เปลี่ยนผู้ให้บริการ MDM ใน Intuny
 
-คุณสามารถเปลี่ยนสิทธิ์การใช้งาน MDM ของคุณได้โดยไม่ต้องเปิดกรณีสนับสนุน ดูเอกสารต่อไปนี้สำหรับคำแนะนำ:
+คุณสามารถเปลี่ยนอํานาจควบคุม MDM ของคุณได้โดยไม่ต้องเปิดกรณีสนับสนุน ดูเอกสารต่อไปนี้เพื่อดูคําแนะนํา:
   
-- [เปลี่ยนสิทธิ์ MDM ของคุณจากตัวจัดการการกำหนดค่าไปยัง Intune แบบสแตนด์อโลน](https://docs.microsoft.com/configmgr/mdm/deploy-use/migrate-change-mdm-authority)
+- [เปลี่ยนผู้ให้บริการ MDM ของคุณจากตัวจัดการการกําหนดค่าเป็น Intuny แบบสแตนด์อโลน](https://docs.microsoft.com/configmgr/mdm/deploy-use/migrate-change-mdm-authority)
     
-- [เปลี่ยนสิทธิ์ MDM ของคุณจาก Intune แบบสแตนด์อโลนไปยังตัวจัดการการกำหนดค่า](https://docs.microsoft.com/configmgr/mdm/deploy-use/change-mdm-authority)
+- [เปลี่ยนผู้ให้บริการ MDM ของคุณจาก Intuny แบบสแตนด์อโลนเป็นตัวจัดการการกําหนดค่า](https://docs.microsoft.com/configmgr/mdm/deploy-use/change-mdm-authority)
     
- **การมีสิทธิ์ร่วมกันของ MDM**
+ **การมีอยู่ร่วมของ MDM Authority**
   
-- คุณสามารถมีทั้งเจ้าหน้าที่ MDM ที่ใช้งานอยู่พร้อมกันถ้าคุณมี Office ๓๖๕ MDM เปิดใช้งานแล้วแต่คุณต้องการลองใช้ Intune MDM
+- คุณสามารถเปิดใช้งานทั้งผู้ให้บริการออก MDM ได้พร้อมกัน ถ้าคุณเปิดใช้งาน Office 365 MDM ไว้อยู่แล้ว แต่คุณต้องการลองใช้ Intuns MDM
     
-- ผู้ดูแลระบบที่มี O365 MDM ใช้งานอยู่แล้วก็สามารถทำเครื่องหมายได้ด้วยการใช้งานด้วยตัวเองของ Intune ที่ใช้งานอยู่จากพอร์ทัล Azure
+- ผู้ดูแลระบบที่มี O365 MDM ที่ใช้งานอยู่อยู่แล้วสามารถมาร์ก Intuned MDM เป็นใช้งานอยู่ได้จากพอร์ทัล Azure
     
-- ถ้าคุณมี Intune MDM แต่ต้องการใช้ Office ๓๖๕ MDM: โปรดเปิดบัตรที่ด้านล่างและตัวแทนฝ่ายสนับสนุนจะช่วยให้คุณสามารถทำสิ่งนี้ได้
+- ถ้าคุณมี Intuned MDM แต่ต้องการใช้ Office 365 MDM: โปรดเปิดตั๋วด้านล่าง และเจ้าหน้าที่ฝ่ายสนับสนุนจะช่วยเปิดใช้งานสิ่งนี้ให้คุณ
     
 

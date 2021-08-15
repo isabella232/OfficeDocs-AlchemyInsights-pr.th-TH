@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "10966"
 - "1500016"
-ms.openlocfilehash: 7216e212a66b6f645cee5e7be14f1f038cc50bf3
-ms.sourcegitcommit: 974bf19f4262841ab2bfd81c10a243eab05484c4
+ms.openlocfilehash: f9004610be23347c64343a3a5343b38f44424e0fe61ff50a0818acff24966786
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 04/16/2021
-ms.locfileid: "51895900"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54018123"
 ---
 # <a name="change-from-invoice-payments-to-credit-card-or-bank-account"></a>เปลี่ยนจากการจ่ายเงินตามใบแจ้งหนี้เป็นบัตรเครดิตหรือบัญชีธนาคาร
 

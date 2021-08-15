@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001112"
 - "3073"
-ms.openlocfilehash: 87738a913841908e3d0075fb9aa2aacea1db0d70
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: defba7a3408ad86d4a74892124380f1a689cb88248e3443a6ba45e040bbe11a8
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51818991"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54018051"
 ---
 # <a name="change-my-language"></a>เปลี่ยนภาษาของฉัน
 
-แอป Outlook จะแปลเป็นภาษาที่อุปกรณ์ของคุณตั้งค่าไว้โดยอัตโนมัติ 
+แอป Outlook แอปจะแปลเป็นภาษาที่ตั้งค่าไว้บนอุปกรณ์ของคุณโดยอัตโนมัติ 
 
 (ดู[รายการภาษาที่ได้รับการสนับสนุนใน Outlook)](https://acompli.helpshift.com/a/outlook/?s=general-questions&f=in-which-languages-is-your-app-translated) 
 
@@ -29,8 +29,8 @@ ms.locfileid: "51818991"
 
 **บน Android**: 
 
-- การตั้งค่าอุปกรณ์>ภาษาและการป้อนค่า 
+- ภาษาการตั้งค่า >อุปกรณ์และการป้อนค่า 
 
 **บน iOS**: 
 
-- การตั้งค่าอุปกรณ์>ภูมิภาค>ภาษา&ทั่วไป 
+- ภูมิภาคการตั้งค่า >ทั่วไป>อุปกรณ์&ภูมิภาค 

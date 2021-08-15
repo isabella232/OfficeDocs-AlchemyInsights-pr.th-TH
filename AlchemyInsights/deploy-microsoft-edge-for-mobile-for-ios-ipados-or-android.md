@@ -1,5 +1,5 @@
 ---
-title: ปรับใช้ Microsoft Edge สำหรับอุปกรณ์เคลื่อนที่สำหรับ iOS/iPadOS หรือ Android
+title: ปรับใช้Microsoft Edgeบนอุปกรณ์เคลื่อนที่ for iOS/iPadOS หรือ Android
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,30 +12,30 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003919"
 - "6974"
-ms.openlocfilehash: 98ab637b6ca0f2b3cfa98ae897d6ed1d9f36c3cd
-ms.sourcegitcommit: 097a8cabe0d2280af489159789988a0ab532dabb
+ms.openlocfilehash: 2ad8d00d192c1c845aef7a362fa1d9ab91bce152468ff6a1e7bf6ad9250eb5c1
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 12/11/2020
-ms.locfileid: "49679946"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54005469"
 ---
-# <a name="deploy-microsoft-edge-for-mobile-for-iosipados-or-android"></a>ปรับใช้ Microsoft Edge สำหรับอุปกรณ์เคลื่อนที่สำหรับ iOS/iPadOS หรือ Android
+# <a name="deploy-microsoft-edge-for-mobile-for-iosipados-or-android"></a>ปรับใช้Microsoft Edgeบนอุปกรณ์เคลื่อนที่ for iOS/iPadOS หรือ Android
 
-สถานการณ์สมมติที่แนะนำด้านล่างนี้จะช่วยให้คุณสามารถกำหนด Microsoft Edge ให้กับผู้ใช้อุปกรณ์ iOS, iPadOS และ Android หลังจากที่คุณทำตามขั้นตอนเหล่านี้แล้วนโยบาย Microsoft Intune จะเปิดใช้งานฟีเจอร์ต่อไปนี้ของ Microsoft Edge for business:
+สถานการณ์สมมติแบบแนะMicrosoft Edgeที่สรุปอยู่Microsoft Edgeมอบหมายให้กับผู้ใช้อุปกรณ์ iOS, iPadOS และ Android หลังจากคุณเสร็จสิ้นขั้นตอนเหล่านี้ Microsoft Intuneนโยบายเหล่านี้จะเปิดใช้งานฟีเจอร์ต่อไปนี้Microsoft Edge for business:
 
-- เอกลักษณ์คู่
-- การรวมเข้ากับนโยบายการป้องกันแอป Microsoft Intune
-- การรวมกับพร็อกซีแอปพลิเคชัน active Directory ของ Azure
-- รายการโปรดที่มีการจัดการและทางลัดโฮมเพจ
+- ข้อมูลเฉพาะตัวคู่
+- การรวมกับMicrosoft Intuneนโยบายการป้องกันแอป
+- การรวมกับAzure Active Directoryพร็อกซีแอปพลิเคชัน
+- ทางลัดของรายการโปรดและโฮมเพจที่มีการจัดการ
 
 > [!NOTE]
-> ถ้าคุณบล็อกผู้ใช้จากการลงทะเบียนอุปกรณ์เคลื่อนที่สถานการณ์สมมติที่แนะนำนี้จะไม่ทำงานและผู้ใช้จะต้องติดตั้ง Microsoft Edge ด้วยตนเอง
+> ถ้าคุณบล็อกผู้ใช้จากการลงทะเบียนอุปกรณ์เคลื่อนที่ สถานการณ์สมมติแบบแนะMicrosoft Edgeแนะนจะไม่ใช้งาน และผู้ใช้จะต้องMicrosoft Edgeด้วยตนเอง
 
-เมื่อต้องการปรับใช้ Microsoft Edge สำหรับอุปกรณ์เคลื่อนที่สำหรับ iOS/iPadOS หรือ Android ให้ดูที่:
+เมื่อต้องการปรับใช้Microsoft Edge Mobile for iOS/iPadOS หรือ Android ให้ดูที่:
 
-1. [เบื้อง](https://go.microsoft.com/fwlink/?linkid=2133027)
-2. [บทนำสู่](https://go.microsoft.com/fwlink/?linkid=2133520)
+1. [เงื่อนไขเบื้องต้น](https://go.microsoft.com/fwlink/?linkid=2133027)
+2. [บทนํา](https://go.microsoft.com/fwlink/?linkid=2133520)
 3. [พื้นฐาน](https://go.microsoft.com/fwlink/?linkid=2133421)
-4. [กำหนดค่า](https://go.microsoft.com/fwlink/?linkid=2133521)
-5. [กำหนด](https://go.microsoft.com/fwlink/?linkid=2132869)
+4. [การกําหนดค่า](https://go.microsoft.com/fwlink/?linkid=2133521)
+5. [งานที่มอบหมาย](https://go.microsoft.com/fwlink/?linkid=2132869)
 6. [รีวิวและการสร้าง](https://go.microsoft.com/fwlink/?linkid=2133522)

@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002295"
 - "4445"
-ms.openlocfilehash: e0045b5ed586ac9a6931c17a0eee8ab47c1ce027
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 750b694e6979a80da394c4ca0a6d2e96dd4bf8221918e5f421ea01b0b588157e
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51799648"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53982428"
 ---
 # <a name="refunds-and-cancellations"></a>การคืนเงินและการยกเลิก
 
-หากคุณซื้อผลิตภัณฑ์จาก Microsoft หรือ Microsoft Store คุณสามารถร้องขอการส่งคืนสินค้าได้ คุณสามารถตรวจสอบประวัติ [การสั่งซื้อ](https://account.microsoft.com/billing/orders/) ของคุณเพื่อตรวจสอบว่าคุณได้สั่งซื้ออะไรจาก Microsoft 
+หากคุณซื้อผลิตภัณฑ์จาก Microsoft หรือMicrosoft Store คุณสามารถร้องขอส่งคืนได้ คุณสามารถตรวจสอบประวัติ [การสั่งซื้อ](https://account.microsoft.com/billing/orders/) ของคุณเพื่อตรวจสอบว่าคุณได้สั่งซื้ออะไรจาก Microsoft 
 
 - For refunds, see [Returning items you bought from Microsoft for exchange or refund](https://support.microsoft.com/help/10558).
 

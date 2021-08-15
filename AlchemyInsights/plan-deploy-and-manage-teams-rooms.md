@@ -1,5 +1,5 @@
 ---
-title: วางแผนปรับใช้และจัดการห้องทีม
+title: วางแผน ปรับใช้ และจัดการTeams Rooms
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
@@ -11,17 +11,17 @@ ms.assetid: ''
 ms.custom:
 - "9002255"
 - "4366"
-ms.openlocfilehash: 8b3c887540062fffc0badb2c1bcba24ad8ad2df6
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: d7433e42b879c21664b3ec681b2c74bd1016906c953cb7b5c60f8b4d57eb9540
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47728666"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53982464"
 ---
-# <a name="plan-deploy-and-manage-teams-rooms"></a>วางแผนปรับใช้และจัดการห้องทีม
+# <a name="plan-deploy-and-manage-teams-rooms"></a>วางแผน ปรับใช้ และจัดการTeams Rooms
 
-- [วางแผน](https://docs.microsoft.com/MicrosoftTeams/rooms/rooms-plan)  สำหรับห้องทีมของ Microsoft ซึ่งรวมถึงการ[อัปเดตที่มีสิทธิ์](https://docs.microsoft.com/MicrosoftTeams/rooms/rooms-licensing)การใช้งาน [ความต้องการของฮาร์ดแวร์และระบบ Microsoft team Room](https://docs.microsoft.com/MicrosoftTeams/rooms/requirements#hardware-requirements)ที่ได้รับการสนับสนุน
-- [กำหนดค่าบัญชี](https://docs.microsoft.com/MicrosoftTeams/rooms/rooms-configure-accounts)  ผู้ใช้สำหรับห้องทีมของ Microsoft
-- [จัดการอุปกรณ์](https://docs.microsoft.com/microsoftteams/rooms/rooms-manage)  โดยใช้ศูนย์การจัดการทีม (คุณจำเป็นต้องมีผู้ดูแลระบบบริการทีมหรือบทบาทผู้ดูแลระบบส่วนกลาง) และตรวจสอบ [รายการปัญหาที่ทราบ](https://docs.microsoft.com/microsoftteams/rooms/known-issues)แล้ว
+- [แผน](https://docs.microsoft.com/MicrosoftTeams/rooms/rooms-plan)Microsoft Teamsห้องของคุณ ซึ่งรวมถึง[การอัปเดตสิทธิ์การใช้งาน ความต้องการของ](https://docs.microsoft.com/MicrosoftTeams/rooms/rooms-licensing)[ฮาร์ดแวร์ และการสนับสนุนMicrosoft Teamsห้องของคุณ](https://docs.microsoft.com/MicrosoftTeams/rooms/requirements#hardware-requirements)
+- [กําหนดค่า](https://docs.microsoft.com/MicrosoftTeams/rooms/rooms-configure-accounts)บัญชีผู้ใช้Microsoft Teamsห้องของคุณ
+- [จัดการอุปกรณ์](https://docs.microsoft.com/microsoftteams/rooms/rooms-manage)โดยใช้Teamsผู้ดูแลระบบ (คุณต้องมีผู้ดูแลระบบTeamsผู้ดูแลระบบส่วนกลางหรือบทบาทผู้ดูแลระบบส่วนกลาง) และตรวจสอบรายการของ[ปัญหาที่](https://docs.microsoft.com/microsoftteams/rooms/known-issues)ทราบแล้ว
 
-สำหรับข้อมูลเพิ่มเติมเกี่ยวกับการวางแผนการปรับใช้และการจัดการห้องทีมของ Microsoft ให้ดูที่[ห้องทีมของไมโครซอฟท์](https://docs.microsoft.com/microsoftteams/rooms/)
+For more information on planning, deploying and managing Microsoft Teams Room, see [Microsoft Teams Room](https://docs.microsoft.com/microsoftteams/rooms/).
