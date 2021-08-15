@@ -13,20 +13,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "10023"
 - "9003951"
-ms.openlocfilehash: f6cc65325b789178bd39fb0dd1896c3d5f0412f1
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 94b51c24ec183bf99b2556c7b89df3e2059026d71352c3eec67ff2cfc0cf31fb
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51837569"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53965732"
 ---
 # <a name="create-custom-microsoft-surface-operating-system-images"></a>สร้างรูปภาพระบบปฏิบัติการ Microsoft Surface แบบปรับแต่งเอง
 
 ใช้ Microsoft Surface Deployment Accelerator (SDA) เพื่อลดความซับซ้อนและการปรับใช้ระบบปฏิบัติการใหม่ (OS) ที่ปรับให้เหมาะกับองค์กรของคุณโดยอัตโนมัติ และตรงตามข้อแนะนาของ Microsoft
 
-1. ใน GitHub ให้ไปที่ SurfaceDeploymentAccelerator
+1. ในGitHub ให้ไปที่ SurfaceDeploymentAccelerator
 
-1. เลือก **รหัส** แล้วเลือก เปิด **ด้วย GitHub บนเดสก์ท็อป** หรือ **ดาวน์โหลด** ZIP
+1. เลือกรหัส แล้วเลือก เปิด **ด้วยGitHubเดสก์ท็อป****หรือดาวน์โหลด** รหัสไปรษณีย์
 
 1. ตรวจสอบ **README.md** ไฟล์เพื่อเรียนรู้วิธีการที่สคริปต์ใช้
 

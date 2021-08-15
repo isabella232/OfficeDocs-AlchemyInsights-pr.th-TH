@@ -13,23 +13,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003256"
 - "7297"
-ms.openlocfilehash: aa1525c6d221dbcfe91da7abd3d094ae1c228ece
-ms.sourcegitcommit: 0f42d1600b6845083f0273d14c1d9e59344e4371
+ms.openlocfilehash: 7377f77b7295e8134673c9a46fa7606842d4df949f535878d13986c6d39d0b5e
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 11/30/2020
-ms.locfileid: "49564878"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53993912"
 ---
 # <a name="delete-tenant"></a>ลบผู้เช่า
 
-เมื่อต้องการลบโฆษณา Azure ให้ตรวจสอบให้แน่ใจว่า:
-- คุณเป็นผู้ดูแลระบบส่วนกลางบนไดเรกทอรี
-- คุณไม่ได้ลงชื่อเข้าใช้ด้วยบัญชีผู้ใช้ที่มีไดเรกทอรีเริ่มต้นเช่น contoso.onmicrosoft.com ในบัญชีผู้ใช้ที่ลงชื่อเข้าใช้เช่น admin@contoso.onmicrosoft.com
-- เอาแอปพลิเคชันที่ใช้งานอยู่ในไดเรกทอรีออกก่อนการลบ เมื่อต้องการเอาแอปพลิเคชันที่ใช้งานอยู่ออกให้นำทางไปยังการลงทะเบียนแอปและเอาแอปพลิเคชัน
-- ไม่มีการสมัครใช้งานที่ใช้งานอยู่สำหรับบริการ Microsoft Online ใดๆเช่น Microsoft Azure, Office ๓๖๕หรือ Azure AD Premium ที่เกี่ยวข้องกับไดเรกทอรี โอนการสมัครใช้งานของคุณหรือยกเลิกการสมัครใช้งานที่ใช้งานได้ผ่านทางการสนับสนุนและการเรียกเก็บเงินของ Azure เรียนรู้เพิ่มเติมเกี่ยวกับวิธีการยกเลิกการสมัครใช้งาน Office ๓๖๕และ Azure สำหรับคำแนะนำเกี่ยวกับการเชื่อมโยงหรือการเพิ่มการสมัครใช้งานที่มีอยู่ให้กับผู้เช่าให้ดูที่[เชื่อมโยงหรือเพิ่มการสมัครใช้งาน azure ไปยังผู้เช่า AZURE AD ของคุณ](https://docs.microsoft.com/azure/active-directory/fundamentals/active-directory-how-subscriptions-associated-directory)
-- ไม่มีสิทธิ์การใช้งานที่ใช้งานอยู่ เมื่อต้องการเอาสิทธิ์การใช้งานออกให้ดู[วิธีการเอาการสมัครใช้งานออกเพื่อเอาสิทธิ์การใช้งานออก](https://docs.microsoft.com/azure/active-directory/enterprise-users/directory-delete-howto#delete-a-subscription)
-- ไม่มีผู้ใช้ที่ใช้งานอยู่อื่นในไดเรกทอรีนอกเหนือจากตัวคุณเองเป็นผู้ดูแลระบบส่วนกลางเมื่อพยายามลบโฆษณา Azure เอาผู้ใช้ที่ใช้งานอยู่และการอ้างอิงใดๆบนชื่อโดเมนแบบกำหนดเองในผู้เช่าจะต้องถูกเอาออกเช่นผู้ใช้ที่สร้างด้วย admin@contoso.com
+เมื่อต้องการลบ Azure AD ตรวจสอบให้แน่ใจว่า:
+- คุณเป็นผู้ดูแลระบบส่วนกลางในไดเรกทอรี
+- คุณไม่ได้ลงชื่อเข้าใช้ด้วยบัญชีที่มีไดเรกทอรีเริ่มต้น เช่น contoso.onmicrosoft.com บัญชีที่ลงชื่อเข้าใช้ เช่น บัญชี admin@contoso.onmicrosoft.com
+- เอาแอปพลิเคชันที่ใช้งานอยู่ใดๆ ในไดเรกทอรีออกก่อนที่จะลบ เมื่อต้องการนําแอปพลิเคชันที่ใช้งานอยู่ออก ให้นําทางไปยัง การลงทะเบียนแอป แล้วนําแอปพลิเคชันที่มีอยู่ออก
+- ไม่มีการสมัครใช้งานที่ใช้งานอยู่ของ Microsoft Online Services เช่น Microsoft Azure, Office 365 หรือ Azure AD Premium ที่เชื่อมโยงกับไดเรกทอรี ถ่ายโอนการสมัครใช้งานของคุณหรือการยกเลิกการสมัครใช้งานที่ใช้งานแบบเร่งรีบผ่านการสนับสนุนและการเรียกเก็บเงินของ Azure เรียนรู้เพิ่มเติมเกี่ยวกับ วิธีการยกเลิกOffice 365การสมัครใช้งาน Azure สําหรับแนวทางเกี่ยวกับการเชื่อมโยงหรือการเพิ่มการสมัครใช้งานที่มีอยู่ไปยังผู้เช่า ให้ดู เชื่อมโยง [หรือเพิ่มการสมัครใช้งาน Azure ไปยังผู้เช่า Azure AD](https://docs.microsoft.com/azure/active-directory/fundamentals/active-directory-how-subscriptions-associated-directory)ของคุณ
+- ไม่มีสิทธิ์การใช้งานที่ใช้งานอยู่ To remove licenses, see [How to remove Subscription to Remove license](https://docs.microsoft.com/azure/active-directory/enterprise-users/directory-delete-howto#delete-a-subscription).
+- ไม่มีผู้ใช้ที่ใช้งานอยู่รายอื่นๆ ในไดเรกทอรีนอกเหนือจากตัวคุณเองในฐานะผู้ดูแลระบบส่วนกลางเมื่อพยายามลบ Azure AD เอาผู้ใช้อื่นที่ใช้งานอยู่ออก และการขึ้นต่อกันใดๆ บนชื่อโดเมนแบบ admin@contoso.com ในผู้เช่า
 
-สำหรับขั้นตอนรายละเอียดเพิ่มเติมเกี่ยวกับวิธีการ:
-- ลบ "Azure Active Directory" หรือ "การสมัครใช้งาน" ให้ดู[ลบไดเรกทอรีที่ใช้งานอยู่ของ azure](https://docs.microsoft.com/azure/active-directory/users-groups-roles/directory-delete-howto)
-- การเอาแอปพลิเคชันในไดเรกทอรีออกให้ดูที่การ [เอาแอปพลิเคชัน](https://docs.microsoft.com/azure/active-directory/develop/quickstart-remove-app)ออก 
+ดูขั้นตอนโดยละเอียดเพิ่มเติมเกี่ยวกับวิธีการ:
+- ลบ "Azure Active Directory" หรือ "การสมัครใช้งาน"[ให้ดู Azure Active Directory](https://docs.microsoft.com/azure/active-directory/users-groups-roles/directory-delete-howto)
+- การเอาแอปพลิเคชันในไดเรกทอรีออก [ให้ดู การเอาแอปพลิเคชัน](https://docs.microsoft.com/azure/active-directory/develop/quickstart-remove-app)ออก 
