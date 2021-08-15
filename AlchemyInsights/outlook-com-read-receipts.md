@@ -15,15 +15,15 @@ ms.custom:
 - "1396"
 - "1397"
 - "8000034"
-ms.openlocfilehash: 1aae4246168f76c1c9f263d99359c223a55a7bfc
-ms.sourcegitcommit: 1fb324fd156008e77b7e2008af4b3dc1c0d0ea3e
+ms.openlocfilehash: e83f74c7d362578dff21b7fb1f6474d13911d006a8f32f85ae30bce73bf8fd52
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 10/13/2020
-ms.locfileid: "48452103"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53983436"
 ---
 # <a name="read-receipts"></a>ใบตอบรับการอ่าน
 
-คุณไม่สามารถร้องขอใบตอบรับการอ่านใน Outlook.com ได้แต่คุณสามารถร้องขอใบตอบรับการอ่านสำหรับข้อความ Outlook.com ที่ส่งโดยใช้ Outlook สำหรับ Windows เมื่อต้องการเรียนรู้วิธีการให้ดูที่[เพิ่มและร้องขอใบตอบรับการอ่านและการแจ้งเตือนการนำส่ง](https://support.office.com/article/a34bf70a-4c2c-4461-b2a1-12e4a7a92141?wt.mc_id=Office_Outlook_com_Alchemy)
+คุณไม่สามารถร้องขอใบตอบรับการอ่านใน Outlook.com ได้ แต่คุณสามารถร้องขอใบตอบรับการอ่านOutlook.com ที่ส่งโดยใช้Outlookส่งWindowsได้ เมื่อต้องการเรียนรู้วิธีการ ให้ดู เพิ่ม[และร้องขอการแจ้งเมื่อผู้รับเปิดอ่านและการแจ้งเตือนการจัดส่ง](https://support.office.com/article/a34bf70a-4c2c-4461-b2a1-12e4a7a92141?wt.mc_id=Office_Outlook_com_Alchemy)
   
-เมื่อต้องการเลือกวิธีที่ Outlook.com ตอบสนองต่อการร้องขอใบตอบรับการอ่านให้ไปที่การ[ตั้งค่าการอ่านใบตอบรับ](https://outlook.live.com/mail/options/mail/handling/readReceipts)
+เมื่อต้องการเลือกวิธีOutlook.com ต่อการร้องขอใบตอบรับเมื่อผู้รับเปิดอ่าน ให้ไปที่[การตั้งค่า ใบตอบรับการอ่าน](https://outlook.live.com/mail/options/mail/handling/readReceipts)

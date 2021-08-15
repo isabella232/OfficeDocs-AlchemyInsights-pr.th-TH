@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 2a3489fe-c2a8-4e43-96c2-be4b3c5e978c
-ms.openlocfilehash: 2b1ba772459091ce1a796884997fe2516d0407eb
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: fc163fae4d348d7c7cf117bd457f999b42f96bec7c1eb9aa1435e346131d06de
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51782170"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54038131"
 ---
 # <a name="upn-sync-disabled"></a>การซิงค์ UPN ถูกปิดใช้งาน
 
@@ -27,6 +27,6 @@ ms.locfileid: "51782170"
   
 การจับคู่แบบ UPN จะเปิดใช้งานโดยอัตโนมัติในองค์กรที่เริ่มการซิงค์กับ Azure AD ในหรือหลังวันที่ 30 มีนาคม 2016
   
-เมื่อต้องการเรียนรู้เพิ่มเติมเกี่ยวกับการเปิดใช้งานการจับคู่แบบ Soft บน UPN และฟีเจอร์การซิงค์อื่นๆ โปรดดู ฟีเจอร์บริการ[การซิงค์ Azure AD Connect](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnectsyncservice-features)
+เมื่อต้องการเรียนรู้เพิ่มเติมเกี่ยวกับการเปิดใช้งานการจับคู่แบบ soft บน UPN และฟีเจอร์การซิงค์อื่นๆ โปรดดู ฟีเจอร์[บริการการซิงค์ของ Azure AD เชื่อมต่อ](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnectsyncservice-features)
   
 

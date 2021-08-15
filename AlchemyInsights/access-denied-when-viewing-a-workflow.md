@@ -9,24 +9,24 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 47ceb983-f9a4-4c55-a40c-03d5c3d75dc9
-ms.openlocfilehash: 710775e8b2dee98969df7a4c8410a3e61181aaf6
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 2b076ec5dca070555ce51b88631fb6bd619ed9269e59ccc799b23b8b95547c16
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47688821"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53955220"
 ---
 # <a name="access-denied-when-viewing-a-workflow"></a>การเข้าถึงถูกปฏิเสธเมื่อดูเวิร์กโฟลว์
 
-เวิร์กโฟลว์ SharePoint ๒๐๑๓ที่พยายามส่งอีเมลไปยังกลุ่ม SharePoint สามารถล้มเหลวโดยมีข้อความแสดงข้อผิดพลาด "การเข้าถึงถูกปฏิเสธ" ถ้าการเป็นสมาชิกของกลุ่ม SharePoint ไม่ได้ถูกตั้งค่าให้ทุกคน
+SharePoint 2013 เวิร์กโฟลว์ที่พยายามส่งอีเมลไปยังกลุ่ม SharePoint อาจล้มเหลวด้วยข้อความแสดงข้อผิดพลาด "การเข้าถึงถูกปฏิเสธ" ถ้าไม่ได้ตั้งค่าการเป็นสมาชิกของกลุ่ม SharePoint เป็น ทุกคน
   
- **เมื่อต้องการแก้ไขปัญหานี้ให้ทำตามขั้นตอนต่อไปนี้:**
+ **เมื่อต้องการแก้ไขปัญหานี้ ให้ปฏิบัติตามขั้นตอนเหล่านี้:**
   
- 1. อนุญาตให้ทุกคนเห็นสมาชิกของกลุ่ม SharePoint
+ 1. อนุญาตให้ทุกคนเห็นสมาชิกSharePointกลุ่ม
   
- 2. เอากลุ่ม SharePoint ออกจากบรรทัดถึงหรือสำเนาถึงของอีเมล
+ 2. เอากลุ่มSharePointออกจากบรรทัด ถึง หรือ ส.ค. ของอีเมล
   
- 3. เพิ่มผู้ใช้ลงในบรรทัดถึงหรือสำเนาถึงอย่างชัดเจนถ้าการมองเห็นเป็นสมาชิกไม่สามารถเปลี่ยนแปลงได้สำหรับกลุ่ม SharePoint
+ 3. เพิ่มผู้ใช้ลงในบรรทัด ถึง หรือ ส.ค. ถ้าไม่สามารถเปลี่ยนแปลงการมองเห็นการเป็นสมาชิกSharePointกลุ่มได้
   
-เมื่อต้องการดูรายละเอียดเพิ่มเติมโปรดดูที่[HTTP ที่ไม่ได้รับอนุญาตให้เข้าถึง/_vti_bin/client.svc/sp.utilities.utility.sendemail](https://go.microsoft.com/fwlink/?linkid=2044694&amp;clcid=0x409)
+หากต้องการดูรายละเอียดเพิ่มเติม โปรดดูที่ HTTP ไม่ได้รับอนุญาตเป็น[/_vti_bin/client.svc/sp.utilities.utility.SendAmail](https://go.microsoft.com/fwlink/?linkid=2044694&amp;clcid=0x409)
   

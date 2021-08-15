@@ -1,5 +1,5 @@
 ---
-title: กำหนดค่าบริการโดเมน
+title: การกําหนดค่าบริการโดเมน
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -13,27 +13,27 @@ ms.collection: Adm_O365
 ms.custom:
 - "7931"
 - "9004400"
-ms.openlocfilehash: 51e0bd78240627876721cbce654188afac1ee365
-ms.sourcegitcommit: a61a29dbd0382370fea0be5fa4a61c9a1a9354c7
+ms.openlocfilehash: cf8ea7d73adf36f71ae92abad48ef9b664eb0c96094a38750c86cf42958b5323
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 01/18/2021
-ms.locfileid: "49885685"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53994788"
 ---
-# <a name="unable-to-enable-aad-ds-or-deployment-is-failing"></a>ไม่สามารถเปิดใช้งาน AAD DS หรือการปรับใช้ที่ล้มเหลว
+# <a name="unable-to-enable-aad-ds-or-deployment-is-failing"></a>ไม่สามารถเปิดใช้งาน AAD-DS หรือการปรับใช้ล้มเหลว
 
-เมื่อต้องการแก้ไขปัญหาของบริการ Azure AD domain (AAD DS) ไม่ได้ถูกเปิดใช้งานหรือไม่สามารถปรับใช้ได้ให้ทำตามขั้นตอนต่อไปนี้:
+เมื่อต้องการแก้ไขปัญหาของบริการโดเมน Azure AD (AAD-DS) ที่ไม่ได้เปิดใช้งานหรือไม่สามารถปรับใช้ ให้ปฏิบัติตามขั้นตอนต่อไปนี้:
 
-1. ถ้าคุณกำลังใช้เครือข่ายเสมือนที่มีอยู่แล้วให้ตรวจสอบ NSG ของคุณสำหรับกฎที่บล็อกพอร์ตที่จำเป็นในการซิงโครไนซ์ใน AAD DS https://aka.ms/aadds-networking ในพอร์ทัล
-2. ตรวจสอบเพื่อดูว่าข้อความแสดงข้อผิดพลาดของคุณได้รับคำตอบในคู่มือการแก้ไขปัญหานี้ที่พร้อมใช้งาน  https://aka.ms/aadds-troubleshoot-enable หรือไม่
-3. ลองปรับใช้บริการ Domain AD Azure ในเครือข่ายเสมือนใหม่
-4. ทำตามคู่มือการเริ่มต้นใช้งานในการปรับใช้ AAD DS:[สร้างและกำหนดค่าบริการ Domain Domain](https://docs.microsoft.com/azure/active-directory-domain-services/tutorial-create-instance)
-5. ถ้าคุณกำลังมีปัญหาเกี่ยวกับการปรับใช้บริการ Domain AD Azure ให้ดูที่การ [แก้ไขปัญหาของบริการ DOMAIN Ad azure](https://docs.microsoft.com/azure/active-directory-domain-services/troubleshoot) เพื่อแก้ไขข้อผิดพลาดทั่วไปเพื่อช่วยให้คุณทำสิ่งต่างๆได้อีกครั้ง 
+1. ถ้าคุณใช้เครือข่ายเสมือนที่มีอยู่แล้ว ให้ตรวจสอบ NSG ของคุณดูกฎที่บล็อกพอร์ตที่ต้องใช้ในการซิงโครไนซ์ใน AAD-DS ใน https://aka.ms/aadds-networking พอร์ทัล
+2. ตรวจสอบเพื่อดูว่าข้อความแสดงข้อผิดพลาดของคุณได้รับคําตอบในคู่มือการแก้ไขปัญหานี้ที่พร้อมใช้งานใน  https://aka.ms/aadds-troubleshoot-enable หรือไม่
+3. ลองปรับใช้ Azure AD Domain Services ในเครือข่ายเสมือนใหม่
+4. ปฏิบัติตามคู่มือการเริ่มต้นใช้งานเกี่ยวกับวิธีการปรับใช้ AAD-DS:[สร้างและกําหนดค่าบริการโดเมน AAD](https://docs.microsoft.com/azure/active-directory-domain-services/tutorial-create-instance)
+5. ถ้าคุณพบปัญหาเกี่ยวกับการปรับใช้บริการโดเมน Azure AD ให้ดู [แก้ไขปัญหาบริการโดเมน Azure AD](https://docs.microsoft.com/azure/active-directory-domain-services/troubleshoot) เพื่อแก้ไขข้อผิดพลาดทั่วไปเพื่อช่วยให้คุณแก้ไขปัญหาต่างๆ ที่ใช้งานได้อีกครั้ง 
 
-**ไม่สามารถปิดใช้งาน AAD DS ได้**
+**ไม่สามารถปิดใช้งาน AAD-DS ได้**
 
-AAD-DS ไม่สามารถหยุดชั่วคราวได้ ถ้าคุณต้องการหยุดการใช้โดเมนที่มีการจัดการของคุณจะต้องถูกลบออก
-เมื่อต้องการลบโดเมนที่มีการจัดการของคุณให้ดู[ลบบริการโดเมน AAD](https://docs.microsoft.com/azure/active-directory-domain-services/delete-aadds)
+AAD-DS ไม่สามารถหยุดชั่วคราวได้ ถ้าคุณต้องการหยุดใช้โดเมนที่มีการจัดการของคุณ โดเมนนั้นต้องถูกลบ
+เมื่อต้องการลบโดเมนที่มีการจัดการ ให้ดูที่[ลบบริการโดเมน AAD](https://docs.microsoft.com/azure/active-directory-domain-services/delete-aadds)
 
 
 

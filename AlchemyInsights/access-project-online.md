@@ -1,5 +1,5 @@
 ---
-title: เข้าถึง Project Online
+title: Access Project Online
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,22 +12,22 @@ ms.collection: Adm_O365
 ms.custom:
 - "2700001"
 - "5723"
-ms.openlocfilehash: 36f9480cb4bf6e52f0f4cffaca6e5f328ed46cb7
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 803c72aac296c1610702cf6bd31cc8b3fa50d0ffa5321a8637186992bd51de3f
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51823410"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53955148"
 ---
-# <a name="access-project-online"></a>เข้าถึง Project Online
+# <a name="access-project-online"></a>Access Project Online
 
-- เมื่อต้องการเข้าถึง Project Online ก่อนอื่นคุณต้อง[สมัครใช้งาน Project Online](https://docs.microsoft.com/ProjectOnline/get-started-with-project-online)โดยเพิ่มลงใน Office 365[แล้วตรวจสอบให้แน่ใจว่าคุณได้มอบหมายสิทธิ์การใช้งาน](https://docs.microsoft.com/ProjectOnline/step-1-sign-up-for-project-online#next-make-sure-you-can-get-in)
-- Follow [these steps](https://docs.microsoft.com/ProjectOnline/step-2-add-people-to-project-online) to add users to project Online and share Project [Online](https://docs.microsoft.com/ProjectOnline/step-2-add-people-to-project-online#4-finally-share-project-online-with-the-people-you-added) with them.
+- ในการเข้าถึงProject Online คุณจะต้องสมัครใช้งาน[Project Onlineก่อนโดย](https://docs.microsoft.com/ProjectOnline/get-started-with-project-online)การเพิ่มOffice 365ลงในบัญชี จากนั้นตรวจสอบ[ให้แน่ใจว่าคุณได้มอบหมายสิทธิ์การใช้งาน](https://docs.microsoft.com/ProjectOnline/step-1-sign-up-for-project-online#next-make-sure-you-can-get-in)
+- Follow [these steps](https://docs.microsoft.com/ProjectOnline/step-2-add-people-to-project-online) to add users to project Online and share [Project Online](https://docs.microsoft.com/ProjectOnline/step-2-add-people-to-project-online#4-finally-share-project-online-with-the-people-you-added) with them.
 
-เมื่อต้องการให้สิทธิ์การเข้าถึงไซต์ Project Web App แก่ผู้ใช้โดยใช้โหมดสิทธิ์ของ SharePoint ให้ต่อไปนี้
+เมื่อต้องการให้ผู้ใช้สามารถเข้าถึงไซต์Project Web Appโดยใช้SharePointสิทธิ์ของคุณ:
 
-1. เข้าสู่ระบบ Project Online ในฐานะผู้ดูแลระบบ
-2. บนโฮมเพจ Project Web App ให้คลิก **แชร์** ที่มุมขวาบน
-3. ในกล่องโต้ตอบ **แชร์ Project Web App** ให้พิมพ์ชื่อผู้ใช้ของบุคคลที่คุณต้องการให้สิทธิ์การเข้าถึง **ในกล่อง เชิญ** บุคคล
-4. คลิก **แสดง** ตัวเลือก และในเมนู **เลือกระดับ** สิทธิ์ ให้เลือก **ผู้จัดการโครงการของ Project Web** App
+1. เข้าสู่ระบบProject Onlineในฐานะผู้ดูแลระบบ
+2. บนแท็บ Project Web App หน้าแรก ให้คลิก **แชร์** ที่มุมขวาบน
+3. ในกล่องโต้ตอบ **Project Web App** แชร์ ให้พิมพ์ชื่อผู้ใช้ของบุคคลที่คุณต้องการให้สิทธิ์การเข้าถึงในกล่อง **เชิญ** บุคคล
+4. คลิก **แสดง** ตัวเลือก และ **ในเมนู เลือกระดับ** สิทธิ์ ให้เลือก **Projectผู้จัดการของProject Web App**
 5. **คลิก** แชร์

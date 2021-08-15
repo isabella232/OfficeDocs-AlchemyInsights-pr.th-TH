@@ -1,5 +1,5 @@
 ---
-title: การเข้าถึงแบบมีเงื่อนไขด้วย Azure Active Directory
+title: การเข้าถึงตามเงื่อนไขด้วยAzure Active Directory
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
@@ -12,21 +12,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001672"
 - "3739"
-ms.openlocfilehash: 19f32103379aa8c22d0c45ef84b114dadf8f3046
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: ff850d7bb87506c585f0c7a837a31d3b4ff3d76c6d67a4d6788c2b27c9f0a6c8
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47812242"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53994842"
 ---
-# <a name="conditional-access-with-azure-active-directory"></a>การเข้าถึงแบบมีเงื่อนไขด้วย Azure Active Directory
+# <a name="conditional-access-with-azure-active-directory"></a>การเข้าถึงตามเงื่อนไขด้วยAzure Active Directory
 
-ใช้การตัดสินใจควบคุมการเข้าถึงโดยใช้การ[เข้าถึงตามเงื่อนไขโดย Azure Active directory](https://docs.microsoft.com/azure/active-directory/conditional-access/overview)
+ใช้การตัดสินใจควบคุมการเข้าถึงโดยใช้[การเข้าถึงตามเงื่อนไข Azure Active Directory](https://docs.microsoft.com/azure/active-directory/conditional-access/overview)
 
-- วางแผนการ[ปรับใช้การเข้าถึงตามเงื่อนไข](https://docs.microsoft.com/azure/active-directory/conditional-access/plan-conditional-access) 
+- วางแผน [การปรับใช้การเข้าถึง](https://docs.microsoft.com/azure/active-directory/conditional-access/plan-conditional-access)ตามเงื่อนไข 
 
-- ตรวจทานและดำเนิน[นโยบายการเข้าถึงตามเงื่อนไขทั่วไป](https://docs.microsoft.com/azure/active-directory/conditional-access/concept-conditional-access-policy-common)
+- ตรวจทานและใช้ [นโยบายการเข้าถึงตามเงื่อนไข](https://docs.microsoft.com/azure/active-directory/conditional-access/concept-conditional-access-policy-common)ทั่วไป
 
-- ตรวจทาน [แนวทางปฏิบัติที่ดีที่สุดสำหรับการเข้าถึง](https://docs.microsoft.com/azure/active-directory/conditional-access/best-practices)แบบมีเงื่อนไข
+- ตรวจสอบ[หลักปฏิบัติที่ดีที่สุดเกี่ยวกับการเข้าถึงตามเงื่อนไข](https://docs.microsoft.com/azure/active-directory/conditional-access/best-practices)
 
-สำหรับข้อมูลเพิ่มเติมให้ดูที่[คู่มือการเข้าถึงแบบมีเงื่อนไขของ AZURE AD](https://docs.microsoft.com/azure/active-directory/conditional-access/)
+ดูข้อมูลเพิ่มเติมได้ที่ คู่มือ[การเข้าถึงตามเงื่อนไขของ Azure AD](https://docs.microsoft.com/azure/active-directory/conditional-access/)
