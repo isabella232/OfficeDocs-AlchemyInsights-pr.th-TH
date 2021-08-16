@@ -1,5 +1,5 @@
 ---
-title: ไฟล์ PST ๙๐๐๐๑๙๙ใน Outlook.com
+title: 9000199ไฟล์ PST ใน Outlook.com
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -14,15 +14,15 @@ ms.custom:
 - "1761"
 - "1771"
 - "9000199"
-ms.openlocfilehash: 66196cc99e4475f53d02dfb291ce44e3e2b71b87
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 87c54cc1e313dd33e10e94fda9f22cb705ed82b7d29484b723faafb64de89840
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47777045"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54024441"
 ---
 # <a name="pst-data-files-in-outlookcom"></a>ไฟล์ข้อมูล PST ใน Outlook.com
 
-ไม่สามารถนำเข้า Outlook ได้ ไฟล์ข้อมูล PST ไปยังบัญชี Outlook.com ของคุณโดยใช้เบราว์เซอร์
+ไม่สามารถนําเข้าOutlook ไฟล์ข้อมูล PST ไปยังOutlook.com ของคุณโดยใช้เบราว์เซอร์
 
-เมื่อต้องการนำเข้า ไฟล์ข้อมูล PST คุณต้องใช้แอป Outlook บนเดสก์ท็อป เมื่อต้องการเรียนรู้เพิ่มเติมให้อ่านการ [นำเข้าอีเมลที่ติดต่อและปฏิทินจาก Outlook .pst](https://support.office.com/article/431a8e9a-f99f-4d5f-ae48-ded54b3440ac?wt.mc_id=Office_Outlook_com_Alchemy)
+เมื่อต้องการนําเข้า ไฟล์ข้อมูล PST คุณต้องใช้แอปOutlookบนเดสก์ท็อปของคุณ เมื่อต้องการเรียนรู้เพิ่มเติม ให้[อ่าน นําเข้าอีเมล ที่ติดต่อ และปฏิทินจากOutlook .pst](https://support.office.com/article/431a8e9a-f99f-4d5f-ae48-ded54b3440ac?wt.mc_id=Office_Outlook_com_Alchemy)

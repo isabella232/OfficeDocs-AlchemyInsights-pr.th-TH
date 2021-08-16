@@ -1,5 +1,5 @@
 ---
-title: 'ข้อผิดพลาด: ฟีเจอร์ส่วนใหญ่ถูกปิดใช้งานเนื่องจากผลิตภัณฑ์นี้ต้องมีการอัปเดต'
+title: 'ข้อผิดพลาด: ฟีเจอร์ส่วนใหญ่ถูกปิดใช้งานเนื่องจากผลิตภัณฑ์นี้ต้องการการอัปเดต'
 ms.author: pebaum
 author: pebaum
 manager: dansimp
@@ -13,18 +13,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9826"
 - "9005394"
-ms.openlocfilehash: 4469a0b6a34cf2f634d1c715a7ba952f3221f272
-ms.sourcegitcommit: c08bed4071baa3bb5879496df3ed44fb828c8367
+ms.openlocfilehash: efa38413c3081f4a8ad94d5ec56a951dc967028e096c5f7978251ddf33bfe13c
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 03/19/2021
-ms.locfileid: "51037652"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54043783"
 ---
-# <a name="error-most-of-the-features-have-been-disabled-because-this-product-requires-an-update"></a>ข้อผิดพลาด: ฟีเจอร์ส่วนใหญ่ถูกปิดใช้งานเนื่องจากผลิตภัณฑ์นี้ต้องมีการอัปเดต
+# <a name="error-most-of-the-features-have-been-disabled-because-this-product-requires-an-update"></a>ข้อผิดพลาด: ฟีเจอร์ส่วนใหญ่ถูกปิดใช้งานเนื่องจากผลิตภัณฑ์นี้ต้องการการอัปเดต
 
-เมื่อต้องการแก้ไขข้อผิดพลาด Office นี้ ให้เลือกโซลูชันอัตโนมัติของ Office เวอร์ชันของคุณ:
+เมื่อต้องการแก้ไขข้อผิดพลาดOfficeนี้ ให้เลือกโซลูชันอัตโนมัติของเวอร์ชันOffice:
 
-- ใน Microsoft 365 ให้ดาวน์โหลดและ [เรียกใช้ตัวช่วยการสนับสนุนและ](https://aka.ms/SaRA-OfficeActivation-Chat)การกู้คืน ให้ปฏิบัติตามคําแนะนําและพร้อมท์เพื่อแก้ไขข้อผิดพลาดการเปิดใช้งาน Office ของคุณ
+- For Microsoft 365, download and run the[ตัวช่วยการสนับสนุนและการกู้คืน](https://aka.ms/SaRA-OfficeActivation-Chat). Follow the instructions and prompts to troubleshoot your Office activation error.
 
 - For Office 2019 or Office 2016, follow the manual steps provided in [Unlicensed Product and activation errors in Office](https://support.microsoft.com/office/0d23d3c0-c19c-4b2f-9845-5344fedc4380#bkmk_fixyourself).
 

@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001683"
 - "5064"
-ms.openlocfilehash: ec500ac54c3bd610bf83d1f1e237a5e5f2d3c557
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: ea8abeaf734089f41f4a4d6ff3f284dba8bba4f547431d87445c249983dccb55
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51828855"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54023829"
 ---
 # <a name="remove-a-partner-from-a-subscription"></a>เอาคู่ค้าออกจากการสมัครใช้งาน
 
-คู่ค้าสามารถถูกลบจากการสมัครใช้งานในศูนย์ **การจัดการ Microsoft 365** คุณไม่สามารถ **เอาความสัมพันธ์ตัวแทน** ขายออกได้ด้วยตนเอง You will have to ask your reseller partner to follow the instructions to [Remove a reseller relationship with partner](https://docs.microsoft.com/partner-center/remove-a-relationship).
+คู่ค้าสามารถถูกลบจากการสมัครใช้งานใน **การจัดการ Microsoft 365 Center** คุณไม่สามารถ **เอาความสัมพันธ์ตัวแทน** ขายออกได้ด้วยตนเอง You will have to ask your reseller partner to follow the instructions to [Remove a reseller relationship with partner](https://docs.microsoft.com/partner-center/remove-a-relationship).
 
 **ลบคู่ค้าออกจากการสมัครใช้งาน**
 

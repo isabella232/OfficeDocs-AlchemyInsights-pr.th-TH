@@ -1,5 +1,5 @@
 ---
-title: คู่มือการตั้งค่าการทำงานระยะไกล
+title: คู่มือการตั้งค่าการงานระยะไกล
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -12,15 +12,15 @@ localization_priority: Normal
 ms.custom:
 - "9004181"
 - "7355"
-ms.openlocfilehash: a1e26fdeeac6dae00e9ad3d1308b253ca6b114de
-ms.sourcegitcommit: c069f1b53567ad14711c423740f120439a312a60
+ms.openlocfilehash: 03bf96aa1d50e7a43342030496ad652dc77999c0174e2bfd3c82049a60560762
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 12/04/2020
-ms.locfileid: "49573898"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54024009"
 ---
-# <a name="remote-work-setup-guide"></a>คู่มือการตั้งค่าการทำงานระยะไกล
+# <a name="remote-work-setup-guide"></a>คู่มือการตั้งค่าการงานระยะไกล
 
-ทำงานได้มากขึ้นและทำงานได้มากขึ้นจากระยะไกล องค์กรของคุณจำเป็นต้องมีการติดตั้งเพื่อจัดการความต้องการที่เพิ่มขึ้นของการทำงานระยะไกล
+การงานต่างๆ ที่มากขึ้นคือการเสร็จสิ้นจากระยะไกล Your org needs to be equipped to manage the increased demand of remote work.
 
-ใช้ [คู่มือการตั้งค่าการทำงานระยะไกล](https://go.microsoft.com/fwlink/?linkid=2142062) เพื่อเปิดใช้งานฟีเจอร์ความปลอดภัยที่จำเป็นและตรวจสอบคำแนะนำด้านความปลอดภัยเพิ่มเติม คุณจะได้รับคำแนะนำในการลดความเครียดบนโครงสร้างพื้นฐาน VPN ของคุณและเลือกตั้งค่าการเข้าถึงระยะไกลสำหรับเดสก์ท็อปและแอป จากนั้นคุณจะตรวจทานตัวเลือกของคุณสำหรับการปรับใช้ Microsoft team และแอป Office
+ใช้คู่มือ [การตั้งค่าการงานระยะไกลเพื่อ](https://go.microsoft.com/fwlink/?linkid=2142062) เปิดใช้งานฟีเจอร์ความปลอดภัยที่ต้องใช้และตรวจสอบข้อแนะนเกี่ยวกับความปลอดภัยเพิ่มเติม คุณจะได้รับแนวทางเพื่อลดภาระของโครงสร้างพื้นฐาน VPN ของคุณ และเลือกที่จะตั้งค่าการเข้าถึงระยะไกลสําหรับเดสก์ท็อปและแอป จากนั้นคุณจะเห็นตัวเลือกของคุณMicrosoft Teams Officeแอป

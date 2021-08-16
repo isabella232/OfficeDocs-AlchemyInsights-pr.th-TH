@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002357"
 - "4583"
-ms.openlocfilehash: af95627d07d41add54f03c9254562b9be4e05d9b
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: a518d70f03f3034a60f0c9ded40ee6ab5140a5163021337c3a2aee7f18575c3d
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51817299"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54033729"
 ---
 # <a name="conditional-access-policies"></a>นโยบายการเข้าถึงตามเงื่อนไข
 
@@ -31,7 +31,7 @@ ms.locfileid: "51817299"
 
 1. ลงชื่อเข้าใช้ศูนย์การจัดการ [ด้วยข้อมูล](https://go.microsoft.com/fwlink/p/?linkid=834822) รับรองความถูกต้องของผู้ดูแลระบบส่วนกลางของคุณ
 
-2. ไปที่[คุณสมบัติ Azure Active Directory](https://portal.azure.com/#blade/Microsoft_AAD_IAM/ActiveDirectoryMenuBlade/Properties)
+2. ไปที่[Azure Active Directoryคุณสมบัติ](https://portal.azure.com/#blade/Microsoft_AAD_IAM/ActiveDirectoryMenuBlade/Properties)
 
 3. ที่ด้านล่างของหน้า ให้คลิก **จัดการค่าเริ่มต้นความปลอดภัย**
 

@@ -1,5 +1,5 @@
 ---
-title: ทีม Microsoft-การเข้าถึงของผู้เยี่ยมชม
+title: Microsoft Teams - การเข้าถึงของแขก
 ms.author: heidip
 author: microsoftheidi
 ms.audience: ITPro
@@ -11,23 +11,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "311"
 - "6500001"
-ms.openlocfilehash: ee38dcb5f40ea16cea1b84b9b16e86b0f52f2d89
-ms.sourcegitcommit: 1fb324fd156008e77b7e2008af4b3dc1c0d0ea3e
+ms.openlocfilehash: 2c78fec14d43c5cbf6aebbc889d606eb2f6c4c64af85997f523d06872c911a0a
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 10/13/2020
-ms.locfileid: "48452247"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54012327"
 ---
-# <a name="microsoft-teams---guest-access"></a>ทีม Microsoft-การเข้าถึงของผู้เยี่ยมชม
+# <a name="microsoft-teams---guest-access"></a>Microsoft Teams - การเข้าถึงของแขก
 
-ถ้าคุณต้องการความช่วยเหลือในการติดต่อสื่อสารกับผู้ใช้ภายนอกองค์กรของคุณในทีมคุณจำเป็นต้องตัดสินใจว่าจะใช้การ [เข้าถึงของผู้เยี่ยมชมหรือการเข้าถึงภายนอก (สหพันธรัฐ)](https://docs.microsoft.com/microsoftteams/manage-external-access#external-access-vs-guest-access)หรือคุณสามารถใช้ทั้งสองอย่างได้
+ถ้าคุณต้องการความช่วยเหลือในการติดต่อสื่อสารกับผู้ใช้ภายนอกองค์กรของคุณใน Teams คุณ need to decider to use [Guest Access or External Access (Federation)](https://docs.microsoft.com/microsoftteams/manage-external-access#external-access-vs-guest-access), or you can use both.
 
-ตรวจสอบให้แน่ใจว่าได้ตรวจสอบความ [แตกต่าง](https://docs.microsoft.com/microsoftteams/manage-external-access#external-access-vs-guest-access) เพื่อทำความเข้าใจเกี่ยวกับฟีเจอร์ที่พร้อมใช้งานสำหรับแต่ละรายการ  ตัวอย่างเช่นการเข้าถึงภายนอก (สหพันธรัฐ) อนุญาตให้มีการติดต่อสื่อสาร1:1 เช่นการแชทและการแสดงตน  ผู้ใช้ที่ติดต่อกับภายนอกไม่สามารถเข้าร่วมการทำงานร่วมกันของทีมได้  ถ้าคุณต้องการให้ผู้ใช้ภายนอกเข้าร่วมและเข้าร่วมในการสนทนาทางแชนแนลของทีมหรือแชร์ไฟล์คุณจะต้องเปิดใช้งานการเข้าถึงของผู้เยี่ยมชม
+อย่าลืมตรวจสอบ [ความแตกต่างเพื่อเข้าใจ](https://docs.microsoft.com/microsoftteams/manage-external-access#external-access-vs-guest-access) ฟีเจอร์ที่พร้อมใช้งานในแต่ละฟีเจอร์  ตัวอย่างเช่น การเข้าถึงจากภายนอก (การติดต่อกับภายนอก) อนุญาตการสื่อสารแบบ 1:1 เช่น การสนทนาและการแสดงตน  ผู้ใช้ภายนอกไม่สามารถเข้าร่วมในการTeamsร่วมกันได้อย่างไรก็ตาม  ถ้าคุณต้องการให้ผู้ใช้ภายนอกเข้าร่วมและเข้าร่วมในการสนทนาแชนTeamsเนลของคุณ หรือ แชร์ไฟล์ คุณจะต้องเปิด การเข้าถึงแบบ Guest
 
-**ตัวเลือกที่ 1: เปิดใช้งานการเข้าถึงของผู้เยี่ยมชม** ในศูนย์การจัดการทีมให้ไปที่การ [ตั้งค่าความกว้างขององค์กร > การเข้าถึงของผู้เยี่ยมชม](https://admin.teams.microsoft.com/company-wide-settings/guest-configuration) และเปิด "อนุญาตการเข้าถึงของผู้เยี่ยมชมในทีม"  สำหรับผู้เช่าที่มีการตั้งค่าเริ่มต้นอื่นๆทั้งหมดนี้ควรเป็นสิ่งที่คุณต้องทำ  เมื่อต้องการกำหนดค่าการกำหนดค่า Access ของคุณเองให้ตรวจสอบให้แน่ใจว่าคุณทำตามขั้นตอนทั้งหมดใน[รายการตรวจสอบการเข้าถึงของผู้เยี่ยมชม](https://docs.microsoft.com/microsoftteams/guest-access-checklist) เมื่อคุณทำเสร็จเรียบร้อยแล้วคุณจำเป็นต้อง [รอถึง24ชั่วโมง](https://docs.microsoft.com/microsoftteams/manage-guests#guest-access-latencies) เพื่อให้การตั้งค่ามีผลใช้งาน
+**ตัวเลือกที่ 1: เปิดใช้งานการเข้าถึงของแขก** ในศูนย์Teamsการจัดการ ให้ไปที่ [Org Wide การตั้งค่า > Guest Access](https://admin.teams.microsoft.com/company-wide-settings/guest-configuration)และเปิด "อนุญาตการเข้าถึงของแขกTeams"  For a tenant with all other default settings, this should be all you need to do.  เมื่อต้องการกําหนดค่าการเข้าถึงของ Guest เอง ตรวจสอบให้แน่ใจว่าคุณได้ปฏิบัติตามขั้นตอนทั้งหมดใน [รายการตรวจสอบการเข้าถึงของ](https://docs.microsoft.com/microsoftteams/guest-access-checklist)แขก เมื่อเสร็จสิ้นสมบูรณ์แล้ว คุณจะต้องรอ [ถึง 24](https://docs.microsoft.com/microsoftteams/manage-guests#guest-access-latencies) ชั่วโมงเพื่อให้การตั้งค่ามีผล
 
-ถ้าคุณมั่นใจว่าคุณได้ทำตามขั้นตอนทั้งหมดในรายการตรวจสอบแล้วและได้รับมากกว่า24ชั่วโมงให้ไปข้างหน้าและพยายาม[เพิ่มผู้เยี่ยมชมลงในทีมของคุณ](https://support.office.com/article/add-guests-to-a-team-in-teams-fccb4fa6-f864-4508-bdde-256e7384a14f#ID0EAABAAA=Desktop)
+ถ้าคุณมั่นใจว่าคุณได้เสร็จสิ้นขั้นตอนทั้งหมดในรายการตรวจสอบและมากกว่า 24 ชั่วโมงแล้ว ให้เดินหน้าและลองเพิ่ม ผู้ใช้รับเชิญ [ในทีม](https://support.office.com/article/add-guests-to-a-team-in-teams-fccb4fa6-f864-4508-bdde-256e7384a14f#ID0EAABAAA=Desktop)ของคุณ
 
-สำหรับข้อมูลเพิ่มเติมรวมถึงวิดีโอวิธีการให้ดูที่การ[เข้าถึงของผู้เยี่ยมชมในทีม Microsoft](https://docs.microsoft.com/microsoftteams/guest-access)
+หากต้องการข้อมูลเพิ่มเติม รวมถึงวิดีโอวิธีใช้ ให้ดูที่ การเข้าถึง[จากผู้ใช้Microsoft Teams](https://docs.microsoft.com/microsoftteams/guest-access)ใน
 
-**ตัวเลือกที่ 2: เปิดใช้งานการเข้าถึงภายนอก (สหพันธรัฐ)** ถ้าคุณต้องการเปิดใช้งานการเข้าถึงภายนอก (สหพันธรัฐ) ในศูนย์การจัดการทีมให้ไปที่การ[ตั้งค่าขององค์กรที่ > การเข้าถึงภายนอก](https://admin.teams.microsoft.com/company-wide-settings/external-communications)และเปิด "ผู้ใช้สามารถติดต่อสื่อสารกับผู้ใช้ Skype for Business และทีมได้" แล้วทำตามขั้นตอนทั้งหมดในการ[อนุญาตให้ทีมของคุณสนทนาและติดต่อสื่อสารกับผู้ใช้ในองค์กรอื่น](https://docs.microsoft.com/microsoftteams/manage-external-access#let-your-teams-users-chat-and-communicate-with-users-in-another-organization)
+**ตัวเลือกที่ 2: เปิดใช้งานการเข้าถึงภายนอก (การติดต่อกับภายนอก)** ถ้าคุณต้องการเปิดการเข้าถึงภายนอก (การติดต่อกับภายนอก) ในศูนย์การจัดการ Teams ให้ไปที่การเข้าถึงภายนอก [ของ การตั้งค่า >](https://admin.teams.microsoft.com/company-wide-settings/external-communications)ทั่วทั้งองค์กร และเปิด "ผู้ใช้สามารถสื่อสารกับผู้ใช้ Skype for Business และ Teams ได้" แล้วปฏิบัติตามขั้นตอนทั้งหมดใน อนุญาตให้ผู้ใช้ [Teams](https://docs.microsoft.com/microsoftteams/manage-external-access#let-your-teams-users-chat-and-communicate-with-users-in-another-organization)ของคุณแชทและสื่อสารกับผู้ใช้ในองค์กรอื่น

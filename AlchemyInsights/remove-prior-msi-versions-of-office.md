@@ -1,5 +1,5 @@
 ---
-title: เอา Office เวอร์ชันก่อนหน้านี้ออกจาก MSI
+title: เอา MSI เวอร์ชันก่อนหน้าของ Office
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,16 +13,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003886"
 - "6940"
-ms.openlocfilehash: 26ab610cb204149536bd23c830a1b8558892a7c0
-ms.sourcegitcommit: c033720921cb9a06b9560eedef4f1935e69a846b
+ms.openlocfilehash: 45e3cac521bc1c2a90dc7d3ddd4958233c3cf7bbd2ea007e581f343bca7b5631
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 12/15/2020
-ms.locfileid: "49680778"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54023793"
 ---
-# <a name="remove-prior-msi-versions-of-office"></a>เอา Office เวอร์ชันก่อนหน้านี้ออกจาก MSI
+# <a name="remove-prior-msi-versions-of-office"></a>เอา MSI เวอร์ชันก่อนหน้าของ Office
 
-ฉันขอแนะนำให้เอา Office Installer (MSI) เวอร์ชันก่อนหน้าก่อนที่จะติดตั้ง Office ๓๖๕ ProPlus ต่อไปนี้เป็นวิธีการทำสิ่งต่อไปนี้
+ฉันแนะWindowsเวอร์ชันก่อนหน้าของตัวติดตั้ง (MSI) Officeก่อนที่จะOffice 365 ProPlusการติดตั้ง วิธีการมีดังนี้
 
-1. ถ้าคุณใช้ MSI ในการติดตั้ง Office คุณสามารถใช้เครื่องมือการปรับใช้ Office (ODT) เพื่อถอนการติดตั้ง Office ได้ คุณสามารถใช้องค์ประกอบ RemoveMSI ในไฟล์ **configuration.xml** ของคุณได้
-1. ทำตามคำแนะนำในบทความนี้: [ศูนย์การรักษาความปลอดภัย & Office ๓๖๕](https://go.microsoft.com/fwlink/p/?linkid=2077143)
+1. ถ้าคุณใช้ MSI เพื่อติดตั้งเวอร์ชันOffice คุณสามารถใช้เครื่องมือการปรับใช้การOffice (ODT) เพื่อOfficeการติดตั้ง คุณสามารถใช้องค์ประกอบ RemoveMSI ในไฟล์ **configuration.xml** ของคุณ
+1. Follow the instruction in this article: [Office 365 Security & Compliance Center.](https://go.microsoft.com/fwlink/p/?linkid=2077143)
