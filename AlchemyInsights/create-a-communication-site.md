@@ -1,5 +1,5 @@
 ---
-title: การสร้างไซต์การติดต่อสื่อสาร
+title: สร้างไซต์การติดต่อสื่อสาร
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
@@ -9,23 +9,23 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 03a23778-ded1-4131-ba9c-59ecba15ff05
-ms.openlocfilehash: 0c4f1e7cf54950190d60b35bc3ea320de9b49e7e
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: d11227a7fd58bd6320c2eafa4c204840c5a63a1e66ef1734dd781a3c1c0d3131
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47747390"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54069587"
 ---
-# <a name="create-a-communication-site"></a>การสร้างไซต์การติดต่อสื่อสาร
+# <a name="create-a-communication-site"></a>สร้างไซต์การติดต่อสื่อสาร
 
-เมื่อต้องการสร้างไซต์การติดต่อสื่อสารใน SharePoint Online ให้ทำตามขั้นตอนต่อไปนี้: 
+เมื่อต้องการสร้างไซต์การติดต่อสื่อสารใน SharePoint Online ให้เสร็จสิ้นขั้นตอนต่อไปนี้: 
   
-1. ที่มุมบนซ้ายของหน้าให้คลิกตัวเปิดใช้แอปแล้วเลือกไทล์ SharePoint ถ้าคุณไม่เห็นไทล์ SharePoint ให้คลิก **ไซต์** หรือ **แอปทั้งหมด** ถ้า SharePoint ไม่สามารถมองเห็นได้ 
+1. ที่มุมบนซ้ายของหน้า ให้คลิกตัวเปิดใช้แอป SharePointไทล์ ถ้าคุณไม่เห็นไทล์ไทล์SharePoint ให้คลิก **ไซต์****หรือ แอปทั้งหมด** SharePointไม่ปรากฏ 
     
-2. ที่ด้านบนของหน้า SharePoint ให้คลิก**สร้างไซต์**แล้วเลือก**ไซต์การติดต่อสื่อสาร** ทำตามขั้นตอนในตัวช่วยสร้างการสร้างไซต์ 
+2. ที่ด้านบนของหน้า SharePoint ให้คลิก **สร้าง** ไซต์ แล้วเลือก **ไซต์** การติดต่อสื่อสาร ให้ปฏิบัติตามขั้นตอนในตัวช่วยสร้างการสร้างไซต์ 
     
- **หมายเหตุ**: ถ้าคุณไม่เห็นตัวเลือกสำหรับ **การสร้างไซต์**การสร้างไซต์แบบบริการตนเองอาจถูกปิดใช้งาน ติดต่อบุคคลที่จัดการ Microsoft ๓๖๕ในองค์กรของคุณเพื่อสร้างไซต์ทีม ถ้าคุณเป็นผู้ดูแลผู้เช่าให้ดูที่ [จัดการการสร้างไซต์ใน SharePoint Online เพื่อเปิดใช้งานการสร้างไซต์แบบบริการตนเองสำหรับองค์กรของคุณ](https://go.microsoft.com/fwlink/?linkid=2018780)
+ **หมายเหตุ**: ถ้าคุณไม่เห็นตัวเลือกการสร้าง **ไซต์ การสร้าง** ไซต์ด้วยตนเองอาจถูกปิดใช้งาน ติดต่อผู้ที่ดูแลMicrosoft 365ในองค์กรของคุณเพื่อสร้างไซต์ทีม ถ้าคุณเป็นผู้ดูแลระบบผู้เช่า ให้ดูที่ จัดการ[การสร้างไซต์ใน SharePoint Online เพื่อเปิดใช้งานการสร้างไซต์แบบบริการตนเองให้กับองค์กรของคุณ](https://go.microsoft.com/fwlink/?linkid=2018780)
   
- **หมายเหตุ:** ถ้าคุณกำลังพยายามสร้างไซต์การติดต่อสื่อสารและ URL จะถูกผนวกเข้ากับตัวเลขสุ่มมีแนวโน้มว่าไซต์ที่มี URL เดียวกันนั้นมีอยู่แล้วในสภาพแวดล้อมของ SharePoint หรือถูกลบและยังคงอยู่ในไซต์ที่ถูกลบ (ถังรีไซเคิล) ใช้ [https://aka.ms/Get-SPODeletedSite](https://aka.ms/Get-SPODeletedSite) เพื่อประเมินถังรีไซเคิลและ [https://aka.ms/Remove-SPODeletedSite](https://aka.ms/Remove-SPODeletedSite) เอาไซต์ออกจากถังรีไซเคิล 
+ **หมายเหตุ:** ถ้าคุณพยายามสร้างไซต์การติดต่อสื่อสารและ URL นั้นถูกผนวกเข้ากับตัวเลขสุ่ม อาจดูเหมือนว่าไซต์ที่มี URL เดียวกันนี้มีอยู่แล้วในสภาพแวดล้อม SharePoint หรือถูกลบและยังคงมีอยู่ในไซต์ที่ถูกลบ (ถังรีไซเคิล) [https://aka.ms/Get-SPODeletedSite](https://aka.ms/Get-SPODeletedSite)ใช้ประเมินถังรีไซเคิล [https://aka.ms/Remove-SPODeletedSite](https://aka.ms/Remove-SPODeletedSite) และเพื่อเอาไซต์ออกจากถังรีไซเคิล 
   
 
