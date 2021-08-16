@@ -1,5 +1,5 @@
 ---
-title: Office Customization Tool
+title: Office เครื่องมือการปรับแต่ง
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,20 +13,20 @@ ms.collection: Adm_O364
 ms.custom:
 - "9003533"
 - "10881"
-ms.openlocfilehash: 66b9e9542330d0b7faf2cda85790a10fb8716275
-ms.sourcegitcommit: 326c10f16cf15e823cc97cb4c6a7153343f88f93
+ms.openlocfilehash: 18a48f0f342d16d7efea1e03f25486761eb3b4818a6082412f24309af983d6fe
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 04/06/2021
-ms.locfileid: "51612861"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54096785"
 ---
-# <a name="office-customization-tool"></a>Office Customization Tool
+# <a name="office-customization-tool"></a>Office เครื่องมือการปรับแต่ง
 
-Office Customization Tool (OCT) จะสร้างไฟล์การกําหนดค่าที่ใช้ปรับใช้ Office ในองค์กรขนาดใหญ่ ไฟล์การกําหนดค่าเหล่านี้ช่วยให้คุณควบคุมการติดตั้ง Office ได้มากกว่า: คุณสามารถกําหนดแอปพลิเคชันและภาษาที่ติดตั้ง วิธีการที่แอปพลิเคชันเหล่านั้นควรได้รับการอัปเดต และการกําหนดลักษณะของแอปพลิเคชัน 
+The Office Customization Tool (OCT) creates the configuration files used to deploy Office in large organizations. ไฟล์การกําหนดค่าเหล่านี้ช่วยให้คุณควบคุมการติดตั้ง Officeได้มากกว่า: คุณสามารถกําหนดแอปพลิเคชันและภาษาที่จะติดตั้ง วิธีการที่แอปพลิเคชันเหล่านั้นควรได้รับการอัปเดต และการกําหนดลักษณะของแอปพลิเคชัน 
 
-หลังจากสร้างไฟล์การกําหนดค่า คุณสามารถใช้กับเครื่องมือการปรับใช้ Office (ODT) เพื่อปรับใช้ Office เวอร์ชันที่กําหนดเองได้ 
+หลังจากสร้างไฟล์การกําหนดค่า คุณสามารถใช้ไฟล์เหล่านั้นด้วยเครื่องมือการปรับใช้ Office (ODT) เพื่อปรับใช้เวอร์ชันที่กําหนดOfficeได้ 
 
-สำหรับข้อมูลเพิ่มเติม ให้ดูที่
+สำหรับข้อมูลเพิ่มเติม ให้ดู:
 
-[ภาพรวมของเครื่องมือการปรับแต่งของ Office](https://docs.microsoft.com/deployoffice/overview-of-the-office-customization-tool-for-click-to-run) 
- [ภาพรวมของเครื่องมือการปรับใช้ Office](https://docs.microsoft.com/deployoffice/overview-office-deployment-tool)
+[ภาพรวมของเครื่องมือการOfficeเอง](https://docs.microsoft.com/deployoffice/overview-of-the-office-customization-tool-for-click-to-run) 
+ [ภาพรวมของเครื่องมือOfficeผลิตภัณฑ์](https://docs.microsoft.com/deployoffice/overview-office-deployment-tool)

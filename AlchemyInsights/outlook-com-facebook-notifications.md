@@ -1,5 +1,5 @@
 ---
-title: การแจ้งเตือนของ Outlook.com Facebook
+title: Outlookการแจ้งเตือน Facebook ของ Facebook
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -13,20 +13,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "1968"
 - "9000339"
-ms.openlocfilehash: f9d5b94abda70c7383221a0d04c01a6f43f16100
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 3b1276c7639fae8c5d3885f532995ea458abcca102288e82a9324a2f5d4bcfee
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47672147"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54010995"
 ---
 # <a name="facebook-notifications-using-outlookcom"></a>การแจ้งเตือน Facebook โดยใช้ Outlook.com
 
-ถ้าคุณไม่ต้องการรับการแจ้งเตือนจาก Facebook คุณสามารถเปลี่ยน [การตั้งค่า Facebook](https://aka.ms/facebook-notifications-settings) ของคุณหรือตั้งค่ากฎกล่องจดหมายเข้าได้
+ถ้าคุณไม่ต้องการรับการแจ้งเตือนจาก Facebook คุณสามารถเปลี่ยนการตั้งค่า [Facebook ของคุณหรือ](https://aka.ms/facebook-notifications-settings) ตั้งค่ากฎกล่องจดหมายเข้าได้
 
-1. ไปที่[การตั้งค่ากฎ](https://outlook.live.com/mail/options/mail/rules/inboxRules)
-1. เลือก**เพิ่มกฎใหม่**
+1. ไปที่ [การตั้งค่า](https://outlook.live.com/mail/options/mail/rules/inboxRules)กฎ
+1. เลือก **เพิ่มกฎ** ใหม่
 1. ตั้งชื่อกฎของคุณ "Facebook"
-1. เพิ่มเงื่อนไข "จาก" แล้วใส่ "notification@facebookmail.com"
-1. เพิ่มการกระทำของ "ลบ" การเลือกลบหมายความว่าข้อความจะยังคงอยู่ในรายการที่ถูกลบของคุณและสามารถกู้คืนได้ ถ้าคุณเลือก "ทำเครื่องหมายเป็นอีเมลขยะ" ข้อความจะถูกลบโดยอัตโนมัติและไม่สามารถกู้คืนได้
-1. เลือก**บันทึก**
+1. เพิ่มเงื่อนไขของ "จาก" และใส่ "notification@facebookmail.com"
+1. เพิ่มการแอคชันของ "ลบ" การเลือก ลบ หมายความว่าข้อความจะยังคงอยู่ใน รายการที่ถูกลบ ของคุณ และสามารถกู้คืนได้ ถ้าคุณเลือก "ตั้งเป็นอีเมลขยะ" ข้อความจะถูกลบโดยอัตโนมัติและกู้คืนไม่ได้
+1. เลือกบันทึก
