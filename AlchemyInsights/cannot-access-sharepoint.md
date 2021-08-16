@@ -1,5 +1,5 @@
 ---
-title: ไม่สามารถเข้าถึง SharePoint
+title: ไม่สามารถเข้าถึงSharePoint
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
@@ -13,15 +13,15 @@ ms.assetid: ''
 ms.custom:
 - "9000158"
 - "1676"
-ms.openlocfilehash: 9026c42eceebfab4be741b988ba1f053a611fc5b
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 1d3d44cc5625c6fedd9f5d3c3d87693770c45b22a2e9046dfb60d0bda056f065
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47757283"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54035755"
 ---
-# <a name="cannot-access-sharepoint"></a>ไม่สามารถเข้าถึง SharePoint
+# <a name="cannot-access-sharepoint"></a>ไม่สามารถเข้าถึงSharePoint
 
-มีหลายสาเหตุว่าทำไม SharePoint หรือ OneDrive จึงอาจไม่สามารถเข้าถึงได้ ถ้าคุณไม่สามารถเข้าถึง SharePoint หรือ OneDrive ให้ใช้คำแนะนำต่อไปนี้เพื่อแก้ไขปัญหานี้
+มีหลายสาเหตุที่อาจSharePointหรือOneDriveไม่สามารถเข้าถึงได้ ถ้าคุณไม่สามารถเข้าถึงแอปSharePoint OneDrive ให้ใช้คู่มือต่อไปนี้เพื่อแก้ไขปัญหานี้
 
-- [ไม่สามารถเข้าถึง SharePoint หรือ OneDrive](https://docs.microsoft.com/sharepoint/troubleshoot/sharing-and-permissions/sharepoint-online-inaccessible)
+- [ไม่สามารถเข้าถึงโฟลเดอร์SharePoint OneDrive](https://docs.microsoft.com/sharepoint/troubleshoot/sharing-and-permissions/sharepoint-online-inaccessible)

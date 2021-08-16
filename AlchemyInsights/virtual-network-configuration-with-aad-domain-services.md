@@ -1,5 +1,5 @@
 ---
-title: การกำหนดค่าเสมือนกับบริการโดเมน AAD
+title: การกําหนดค่าเสมือนด้วยบริการโดเมน AAD
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -13,21 +13,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "7927"
 - "9004397"
-ms.openlocfilehash: 7c56e467679f9b9a48cfd7a6f70f7ee148ded3e8
-ms.sourcegitcommit: a61a29dbd0382370fea0be5fa4a61c9a1a9354c7
+ms.openlocfilehash: 03a6ec63ba8e2779b0fe3f0381606af2c0748f8b848baaa7cd88b61317bd7a5e
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 01/18/2021
-ms.locfileid: "49885652"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54072863"
 ---
-# <a name="virtual-configuration-with-aad-domain-services"></a>การกำหนดค่าเสมือนกับบริการโดเมน AAD
+# <a name="virtual-configuration-with-aad-domain-services"></a>การกําหนดค่าเสมือนด้วยบริการโดเมน AAD
 
-การกำหนดค่าเสมือนกับบริการโดเมน AAD มีขั้นตอนต่อไปนี้: 
+การกําหนดค่าเสมือนกับบริการโดเมน AAD เกี่ยวข้องกับขั้นตอนต่อไปนี้: 
 
 1. การตรวจสอบสถานภาพโดเมนของคุณบนพอร์ทัล Azure https://aka.ms/aadds-health
-2. การตรวจสอบการ NSG ของคุณสำหรับกฎที่บล็อกพอร์ตที่จำเป็นในการซิงโครไนซ์ในบริการโดเมน AD Azure บนพอร์ทัล https://aka.ms/aadds-networking
-3. ตรวจสอบให้แน่ใจว่าเครือข่ายเสมือนของคุณได้รับการปรับใช้ในภูมิภาค Azure เดียวกันกับโดเมนที่มีการจัดการบริการ Domain AD Azure ของคุณ
-4. ตรวจสอบให้แน่ใจว่าคุณไม่มีโดเมนที่มีอยู่ที่มีชื่อโดเมนเดียวกันกับที่มีอยู่บนเครือข่ายเสมือน
+2. การตรวจสอบกฎ NSG ของคุณที่บล็อกพอร์ตที่ต้องใช้ในการซิงโครไนซ์ใน Azure AD Domain Services บนพอร์ทัล https://aka.ms/aadds-networking
+3. ตรวจสอบว่าเครือข่ายเสมือนของคุณถูกปรับใช้ในภูมิภาค Azure เดียวกันกับโดเมน Azure AD Domain Services ที่มีการจัดการ
+4. ตรวจสอบว่าคุณไม่มีโดเมนที่มีอยู่แล้วที่มีชื่อโดเมนเดียวกันที่พร้อมใช้งานบนเครือข่ายเสมือน
 
-สำหรับรายละเอียดเพิ่มเติมเกี่ยวกับการพิจารณาการออกแบบบนเครือข่ายเสมือนของ Azure เพื่อสนับสนุนบริการ domain domain ให้ดูที่การ[พิจารณาเครือข่ายเสมือน](https://docs.microsoft.com/azure/active-directory-domain-services/network-considerations)
+For more details on design consideration on Azure Virtual Network to support AAD domain services, see [Virtual Network Consideration](https://docs.microsoft.com/azure/active-directory-domain-services/network-considerations).
 

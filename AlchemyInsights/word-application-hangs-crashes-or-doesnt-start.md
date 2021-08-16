@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000584"
 - "2686"
-ms.openlocfilehash: 6eb8f22931c8ca0518a6f5e6219904eea01f0328
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: c77271b1ee5ea871ddd921ccb4c47c699564c052ea0d19ccb5aabec2cfb5edc3
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51825894"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54072575"
 ---
 # <a name="word-crashes-or-doesnt-respond"></a>Word หยุดการตอบสนองหรือไม่ตอบสนอง
 
@@ -29,11 +29,11 @@ ms.locfileid: "51825894"
 
 ถ้า Word ไม่เริ่มขึ้น ให้ลองวิธีต่อไปนี้:
 
-1.   บนเดสก์ท็อป Windows ให้ปิด Outlook แล้วกด CTRL+ALT+DEL เพื่อเปิดตัวจัดการงาน 
+1.   บนแท็บ Windows ให้ปิดOutlook CTRL+ALT+DEL เพื่อเปิดตัวจัดการงาน 
 2. บนแท็บ **กระบวนการ** ถ้ากระบวนการ Word เรียกใช้อยู่ ให้เลือกกระบวนการเหล่านั้นแล้วเลือก **สิ้นสุด** งาน และขอแนะนนะให้ เริ่มต้นระบบใหม่ เพื่อล้างทุกอย่างออกจากหน่วยความจํา
 
-    ถ้า Word หยุดการหยุดหรือค้างในระหว่างการเปิดใช้ ให้ดู [เปิดแอป Microsoft 365 ในเซฟโหมดบนพีซี Windows](https://support.office.com/article/Open-Office-apps-in-safe-mode-on-a-Windows-PC-dedf944a-5f4b-4afb-a453-528af4f7ac72) เพื่อเปิดใช้งานในเซฟโหมด
+    ถ้า Word หยุดการหยุดหรือค้างระหว่างการMicrosoft 365 ให้ดูที่ เปิดแอป Microsoft 365 ใน[เซฟโหมดบนพีซีWindowsเพื่อ](https://support.office.com/article/Open-Office-apps-in-safe-mode-on-a-Windows-PC-dedf944a-5f4b-4afb-a453-528af4f7ac72)เปิดใช้งานตู้เซฟของคุณ
 
 ถ้าคุณยังคงพบปัญหา ให้ดูบทความต่อไปนี้: 
-- [ฉันได้รับข้อผิดพลาด "หยุดการใช้งานได้" เมื่อฉันเริ่มใช้งานแอปพลิเคชัน Office บนพีซีของฉัน](https://support.office.com/article/52bd7985-4e99-4a35-84c8-2d9b8301a2fa)
-- [การแก้ปัญหาหรือวิธีแก้ปัญหาชั่วคราวล่าสุดใน Word for Windows](https://support.office.com/article/bf6bf17c-2807-4871-83ce-e337ae8f0b86)
+- [ฉันได้รับข้อผิดพลาด “หยุดทำงาน” เมื่อฉันเริ่มใช้งานแอปพลิเคชัน Office บนพีซีของฉัน](https://support.office.com/article/52bd7985-4e99-4a35-84c8-2d9b8301a2fa)
+- [การแก้ปัญหาหรือวิธีแก้ปัญหาชั่วคราวล่าสุดใน Word Windows](https://support.office.com/article/bf6bf17c-2807-4871-83ce-e337ae8f0b86)

@@ -1,5 +1,5 @@
 ---
-title: การปรับใช้ทีมเป็นแบบสแตนด์อโลนหรือการติดตั้ง Office ใหม่หรือที่มีอยู่
+title: การปรับใช้Teamsแบบสแตนด์อโลนหรือแบบใหม่หรือที่มีOfficeการติดตั้ง
 ms.author: danbrown
 author: DHB-MSFT
 manager: laurawi
@@ -13,29 +13,29 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000660"
 - "2509"
-ms.openlocfilehash: c3ca4365abc41509ccf602c5b9046655706840fc
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: e8baefafc1c2f9583345779c5ae7a9d3d0e05c4b3b7e1b3a74a9a22f7ceed02a
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47806778"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54102221"
 ---
-# <a name="deploying-teams-as-standalone-or-with-new-or-existing-office-installations"></a>การปรับใช้ทีมเป็นแบบสแตนด์อโลนหรือการติดตั้ง Office ใหม่หรือที่มีอยู่
+# <a name="deploying-teams-as-standalone-or-with-new-or-existing-office-installations"></a>การปรับใช้Teamsแบบสแตนด์อโลนหรือแบบใหม่หรือที่มีOfficeการติดตั้ง
 
-ในตอนนี้ทีม microsoft จะรวมเป็นส่วนหนึ่งของการ ***ติดตั้ง*** แอป microsoft ๓๖๕สำหรับ Enterprise, แอป microsoft ๓๖๕สำหรับธุรกิจและ Office for Mac สำหรับข้อมูลเพิ่มเติมให้ดู [เวลาที่ทีม Microsoft จะเริ่มรวมเข้ากับการติดตั้ง Office ใหม่ใช่หรือไม่](https://docs.microsoft.com/deployoffice/teams-install#when-will-microsoft-teams-start-being-included-with-new-installations-of-microsoft-365-apps)
+Microsoft Teamsจะรวมเป็นส่วนหนึ่งของการติดตั้ง ***แบบใหม่Microsoft 365 Apps for enterprise*** Microsoft 365 Apps for business และOffice for Macใหม่ For more information, see [When will Microsoft Teams being included with new installations of Office?](https://docs.microsoft.com/deployoffice/teams-install#when-will-microsoft-teams-start-being-included-with-new-installations-of-microsoft-365-apps)
 
-นอกจากนี้การเริ่มต้นด้วยเวอร์ชัน๑๙๐๖ในแชนเนลปัจจุบันทีมจะถูก ***เพิ่มไปยังการติดตั้ง*** แอป microsoft ๓๖๕สำหรับองค์กร (และแอป microsoft ๓๖๕สำหรับธุรกิจ) บนอุปกรณ์ที่ใช้ Windows เมื่อคุณอัปเดตการติดตั้งที่มีอยู่ของคุณเป็นเวอร์ชันล่าสุด สำหรับข้อมูลเพิ่มเติมให้ดู [ที่อะไรเกี่ยวกับการติดตั้ง Office ที่มีอยู่](https://docs.microsoft.com/deployoffice/teams-install#what-about-existing-installations-of-microsoft-365-apps)
-
-> [!NOTE]
-> ถ้าคุณไม่ต้องการรอสำหรับกำหนดการไวร์นี้คุณสามารถปรับใช้ทีมเป็นแบบสแตนด์อโลนสำหรับผู้ใช้ของคุณได้โดยทำตาม[คำแนะนำเหล่านี้](https://docs.microsoft.com/MicrosoftTeams/msi-deployment)   หรือคุณสามารถทำให้ผู้ใช้ของคุณติดตั้งทีมสำหรับตัวเอง  [https://teams.microsoft.com/downloads](https://teams.microsoft.com/downloads) ได้
-
-ถ้าองค์กรของคุณไม่พร้อมที่จะปรับใช้ทีมเรามีขั้นตอนที่คุณสามารถดำเนินการเพื่อ***แยกทีม***ออกจากการติดตั้ง[ใหม่](https://docs.microsoft.com/deployoffice/teams-install#how-to-exclude-microsoft-teams-from-new-installations-of-microsoft-365-apps)หรือการติดตั้ง Office[ที่มีอยู่](https://docs.microsoft.com/deployoffice/teams-install#use-group-policy-to-control-the-installation-of-microsoft-teams) ถ้าคุณต้องการติดตั้งทีมแต่ไม่ต้องการให้ทีมเริ่มต้นโดยอัตโนมัติสำหรับผู้ใช้หลังจากที่ติดตั้งอยู่ให้ดูที่[ป้องกันไม่ให้ทีม Microsoft เริ่มต้นโดยอัตโนมัติหลังจากการติดตั้ง](https://docs.microsoft.com/deployoffice/teams-install#use-group-policy-to-prevent-microsoft-teams-from-starting-automatically-after-installation)
-
-เมื่อต้อง***การถอนการติดตั้งทีม***จากอุปกรณ์ที่ใช้ Windows ให้ดูที่[ถอนการติดตั้งทีม Microsoft](https://support.office.com/article/3b159754-3c26-4952-abe7-57d27f5f4c81) เมื่อต้องการล้างข้อมูลทีม Microsoft จากเครื่องจักรเป้าหมายหลายเครื่องหรือผู้ใช้ให้ดูที่การล้างข้อมูลการ [ปรับใช้ Microsoft](https://docs.microsoft.com/microsoftteams/scripts/powershell-script-teams-deployment-clean-up)team
-
-ถ้าคุณกำลังใช้คอมพิวเตอร์ที่ใช้ร่วมกันบริการเดสก์ท็อประยะไกล (RDS) หรือโครงสร้างพื้นฐานเดสก์ท็อปเสมือน (VDI) ให้ดู[ที่สภาพแวดล้อมของคอมพิวเตอร์ที่แชร์และ VDI กับทีม Microsoft](https://docs.microsoft.com/deployoffice/teams-install#shared-computer-and-vdi-environments-with-microsoft-teams)
-
-ถ้าคุณกำลังใช้ Office for Mac ให้ดูที่[การติดตั้ง Microsoft team บน Mac](https://docs.microsoft.com/deployoffice/teams-install#microsoft-teams-installations-on-a-mac)
+นอกจากนี้ ตั้งแต่เวอร์ชัน 1906 ในแชนเนลปัจจุบัน Teams จะถูกเพิ่มลงในการติดตั้ง Microsoft 365 Apps for enterprise (และ Microsoft 365 Apps for business) ที่มีอยู่บนอุปกรณ์ที่ใช้ Windows เมื่อคุณอัปเดตการติดตั้งที่มีอยู่เป็นเวอร์ชันล่าสุด For more information, see [What about existing installations of Office?](https://docs.microsoft.com/deployoffice/teams-install#what-about-existing-installations-of-microsoft-365-apps)
 
 > [!NOTE]
-> หลังจากติดตั้งทีมแล้วจะมีการ [อัปเดตโดยอัตโนมัติ](https://docs.microsoft.com/deployoffice/teams-install#feature-and-quality-updates-for-microsoft-teams) ทุกสองสัปดาห์ด้วยฟีเจอร์และการอัปเดตที่มีคุณภาพใหม่ 
+> ถ้าคุณไม่ต้องการรอตามเวลาเปิดให้ใช้งานนี้ คุณสามารถปรับใช้ Teams แบบสแตนด์อโลนให้กับผู้ใช้ของคุณ โดยการปฏิบัติตามคํา[](https://docs.microsoft.com/MicrosoftTeams/msi-deployment)แนะนําเหล่านี้ หรือคุณสามารถให้ผู้ใช้ของคุณติดตั้ง Teams ด้วยตนเอง [https://teams.microsoft.com/downloads](https://teams.microsoft.com/downloads) จาก
+
+ถ้าองค์กรของคุณยังไม่พร้อมที่จะปรับใช้Teams เรามีขั้นตอนที่คุณสามารถปฏิบัติตามเพื่อแยกขั้นตอน ***Teamsการติดตั้งใหม่***[หรือการติดตั้ง](https://docs.microsoft.com/deployoffice/teams-install#use-group-policy-to-control-the-installation-of-microsoft-teams)Officeที่มีอยู่ [](https://docs.microsoft.com/deployoffice/teams-install#how-to-exclude-microsoft-teams-from-new-installations-of-microsoft-365-apps) ถ้าคุณต้องการTeams ติดตั้งใหม่ แต่ไม่ต้องการให้ Teams เริ่มโดยอัตโนมัติให้ผู้ใช้หลังจากติดตั้ง ให้ดูที่ ป้องกันไม่ให้[Microsoft Teams เริ่มโดยอัตโนมัติหลังจาก](https://docs.microsoft.com/deployoffice/teams-install#use-group-policy-to-prevent-microsoft-teams-from-starting-automatically-after-installation)การติดตั้ง
+
+เมื่อต้องการ ***Teams*** ออกจากอุปกรณ์Windowsแอป ให้ดู [ถอนการติดตั้ง Microsoft Teams](https://support.office.com/article/3b159754-3c26-4952-abe7-57d27f5f4c81) To cleanup Microsoft Teams from multiple target machines or users, see [Microsoft Teams deployment clean up](https://docs.microsoft.com/microsoftteams/scripts/powershell-script-teams-deployment-clean-up).
+
+ถ้าคุณใช้งานคอมพิวเตอร์ที่แชร์ Remote Desktop Services (RDS) หรือ Virtual Desktop Infrastructure (VDI) ให้ดูที่ คอมพิวเตอร์ที่แชร์และสภาพแวดล้อม[VDI Microsoft Teams](https://docs.microsoft.com/deployoffice/teams-install#shared-computer-and-vdi-environments-with-microsoft-teams)
+
+หากคุณใช้งาน Office for Mac โปรดดู[Microsoft Teamsบน Mac](https://docs.microsoft.com/deployoffice/teams-install#microsoft-teams-installations-on-a-mac)
+
+> [!NOTE]
+> หลังจากTeamsแล้ว จะได้รับ[การอัปเดตโดยอัตโนมัติทุกๆ](https://docs.microsoft.com/deployoffice/teams-install#feature-and-quality-updates-for-microsoft-teams)สองสัปดาห์ด้วยฟีเจอร์ใหม่และการอัปเดตคุณภาพ 
