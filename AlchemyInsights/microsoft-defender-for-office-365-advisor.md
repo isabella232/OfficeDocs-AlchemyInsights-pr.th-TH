@@ -1,5 +1,5 @@
 ---
-title: โปรแกรมช่วยแนะนำของ Microsoft Defender สำหรับ Office ๓๖๕
+title: ที่ปรึกษาด้านOffice 365 Microsoft Defender Office 365
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,13 +12,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004191"
 - "7372"
-ms.openlocfilehash: cb916a79ddd4b882ea5b892cfc4c2133c924df5d
-ms.sourcegitcommit: 3c6e777d6679a24108171e9aa3f9379a8d44e001
+ms.openlocfilehash: e8071de43932bc4f5ca6691a48b92768df18fab47ef6e6112ecc8604678b6408
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 12/09/2020
-ms.locfileid: "49679322"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54098147"
 ---
-# <a name="microsoft-defender-for-office-365-advisor"></a>โปรแกรมช่วยแนะนำของ Microsoft Defender สำหรับ Office ๓๖๕
+# <a name="microsoft-defender-for-office-365-advisor"></a>ที่ปรึกษาด้านOffice 365 Microsoft Defender Office 365
 
-[โปรแกรมช่วยแนะนำของ Microsoft Defender สำหรับ Office ๓๖๕](https://go.microsoft.com/fwlink/?linkid=2146614)จะป้องกันองค์กรของคุณจากภัยคุกคามที่เป็นอันตรายที่สภาพแวดล้อมของคุณอาจพบผ่านข้อความอีเมลลิงก์และเครื่องมือการทำงานร่วมกันของบริษัทอื่น คำแนะนำนี้จะช่วยให้คุณมีทรัพยากรและข้อมูลที่จะช่วยให้คุณจัดเตรียมและระบุแผน Microsoft Defender ให้เหมาะสมกับความต้องการขององค์กรของคุณ
+ที่ปรึกษา[ด้านOffice 365ของ Microsoft Defender](https://go.microsoft.com/fwlink/?linkid=2146614)ปกป้ององค์กรของคุณจากภัยคุกคามที่เป็นอันตรายที่สภาพแวดล้อมของคุณอาจพบผ่านข้อความอีเมล ลิงก์ และเครื่องมือการร่วมมือกันของบริษัทอื่น คู่มือนี้ให้แหล่งข้อมูลและข้อมูลเพื่อช่วยให้คุณเตรียมพร้อมและระบุแผน Microsoft Defender เพื่อให้เหมาะกับความต้องการขององค์กรของคุณ

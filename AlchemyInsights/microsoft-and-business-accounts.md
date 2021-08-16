@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002448"
 - "4747"
-ms.openlocfilehash: 1501b66c12e06aaa2aa91e3dc1b78c959a42a144
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 3785b8b56647945884ee25b0b96c21009c9b68117557ce6dd0d049b9d2eeb9eb
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51794311"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54098225"
 ---
 # <a name="microsoft-and-business-accounts"></a>บัญชี Microsoft และบัญชีธุรกิจ
 
-บัญชี Microsoft ของคุณแตกต่างจากบัญชี Microsoft 365 หรือ Office 365 ของคุณ
+บัญชี Microsoft ของคุณแตกต่างจากบัญชี Microsoft 365หรือOffice 365ของคุณ
 
-- **MSA (บัญชี Microsoft)** คือบัญชีส่วนบุคคลที่มักจะใช้ที่อยู่อีเมล outlook.com, Hotmail.com หรือ live.com เพื่อเข้าถึงอุปกรณ์และบริการต่างๆ ของ Microsoft เช่น เพื่อลงชื่อเข้าใช้พีซี Windows, Skype, Outlook.com, Windows Phone และ Xbox LIVE
-- **บัญชี Microsoft 365 หรือ Office 365** เป็นบัญชีธุรกิจหรือโรงเรียนที่คุณมักจะใช้เพื่อเข้าสู่ระบบพอร์ทัล Office 365 (portal.office.com) บัญชีนี้ที่เชื่อมโยงกับการสมัครใช้งาน Microsoft 365 หรือ Office 365 ของคุณ
+- **MSA (บัญชี Microsoft)** คือบัญชีส่วนบุคคลที่มักจะใช้ที่อยู่อีเมล outlook.com, Hotmail.com หรือ live.com เพื่อเข้าถึงอุปกรณ์และบริการต่างๆ ของ Microsoft เช่น เพื่อลงชื่อเข้าใช้ในพีซี Windows, Skype, Outlook.com, Windows Phone และ Xbox LIVE
+- **Microsoft 365หรือOffice 365ของคุณ** คือบัญชีธุรกิจหรือโรงเรียนที่คุณมักจะใช้เพื่อเข้าสู่ระบบพอร์ทัล Office 365 (portal.office.com) บัญชีนี้ที่เชื่อมโยงกับMicrosoft 365 Office 365การสมัครใช้งานของคุณ
 
 ข้อมูลเพิ่มเติม:
 

@@ -1,5 +1,5 @@
 ---
-title: ตัวเลือกการชำระเงินของการจองของ Microsoft
+title: ตัวเลือกการจ่ายเงิน Microsoft Bookings
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,13 +13,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "6052"
 - "9002883"
-ms.openlocfilehash: ce6b90ac62a4e0620546198a62fbeab92d3e067f
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 982162391ba2ed9b17624012f55387156d58c26b210f2747b1d4c7c1e3be8c43
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47725174"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54098153"
 ---
-# <a name="microsoft-bookings-payment-options"></a>ตัวเลือกการชำระเงินของการจองของ Microsoft
+# <a name="microsoft-bookings-payment-options"></a>ตัวเลือกการจ่ายเงิน Microsoft Bookings
 
-ตัวเลือกการชำระเงินของการจองของ Microsoft ได้รับการถอนตัวในเดือนมีนาคม๒๐๒๐ ในตอนนี้องค์กรจะใช้โซลูชันของบริษัทอื่นในการเพิ่มตัวเลือกการชำระเงินให้กับการจอง
+ตัวเลือกการจ่ายเงิน Microsoft Bookings ถูกปลดระวางแล้ว ในเดือนมีนาคม 2020 ขณะนี้องค์กรใช้โซลูชันของบริษัทอื่นเพื่อเพิ่มตัวเลือกการเงินไปยัง Bookings
