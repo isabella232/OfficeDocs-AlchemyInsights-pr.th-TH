@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003797"
 - "6786"
-ms.openlocfilehash: 83fab49ccafd23352fe28569289a709a198fd402
-ms.sourcegitcommit: 80a36e6447953b3f65e45c05607dbfc585fbf8b0
+ms.openlocfilehash: b6a9a18287f548f4782f83ce8aaf3274c1b090f12ad723e81b72b40aec47d812
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 04/21/2021
-ms.locfileid: "51936173"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54071387"
 ---
 # <a name="cancel-subscription"></a>ยกเลิกการสมัครใช้งาน
 
@@ -37,7 +37,7 @@ ms.locfileid: "51936173"
 
 **ยกเลิกการสมัครใช้งาน Azure**
 
-- [ใครสามารถยกเลิกการสมัครใช้งานได้บ้าง](https://docs.microsoft.com/azure/billing/billing-how-to-cancel-azure-subscription?WT.mc_id=Portal-Microsoft_Azure_Support#who-can-cancel-a-subscription)
+- [ใครยกเลิกการสมัครใช้งานได้หรือไม่](https://docs.microsoft.com/azure/billing/billing-how-to-cancel-azure-subscription?WT.mc_id=Portal-Microsoft_Azure_Support#who-can-cancel-a-subscription)
 - [จะเกิดอะไรขึ้นหลังจากการสมัครใช้งาน](https://docs.microsoft.com/azure/billing/billing-how-to-cancel-azure-subscription?WT.mc_id=Portal-Microsoft_Azure_Support#what-happens-after-i-cancel-my-subscription)
 
 **เอกสารที่แนะนา**

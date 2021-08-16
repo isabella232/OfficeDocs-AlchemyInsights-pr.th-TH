@@ -1,5 +1,5 @@
 ---
-title: ๘๐๐๐๐๗๗ไม่สามารถลงชื่อเข้าใช้ Hotmail หรือ Outlook.com ได้ใช่หรือไม่
+title: 8000077ลงชื่อเข้าใช้ Hotmail หรือ Outlook.com ไม่ได้ใช่ไหม
 ms.author: daeite
 author: daeite
 manager: jackiesm
@@ -13,16 +13,16 @@ ms.custom:
 - "1198"
 - "8000077"
 ms.assetid: 51addffd-7c85-49ef-8ef5-dfa2605605dc
-ms.openlocfilehash: 851694cd42cf8ab0bcdf1d343c5fc268128779b6
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: de094f65a216d6d3548d3a222511e0b750e578071c506319f838550a69e02d29
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47683853"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54071783"
 ---
-# <a name="cant-sign-in-to-hotmail-or-outlookcom"></a>ไม่สามารถลงชื่อเข้าใช้ Hotmail หรือ Outlook.com ได้ใช่หรือไม่
+# <a name="cant-sign-in-to-hotmail-or-outlookcom"></a>ไม่สามารถลงชื่อเข้าใช้ Hotmail หรือ Outlook.com ใช่ไหม
 
-เมื่อต้องการเก็บบัญชี Outlook.com ของคุณให้ใช้งานอยู่คุณต้องลงชื่อเข้าใช้บัญชีผู้ใช้อย่างน้อยหนึ่งครั้งทุกๆ๓๖๕วัน หลังจาก๓๖๕วันที่ไม่ได้ใช้งานอีเมลของคุณจะถูกลบและไม่สามารถกู้คืนได้
+เมื่อต้องการให้Outlook.com ของคุณใช้งานได้ต่อไป คุณต้องลงชื่อเข้าใช้บัญชีอย่างน้อยหนึ่งครั้งทุก 365 วัน หลังจากไม่ได้ใช้งาน 365 วัน อีเมลของคุณจะถูกลบและไม่สามารถกู้คืนได้
   
-ถ้าคุณได้ลงชื่อเข้าใช้ภายใน๓๖๕วันแล้วแต่ยังไม่สามารถเข้าถึงบัญชีผู้ใช้ Hotmail หรือ Outlook.com ของคุณได้ให้อ่าน[วิธีการลงชื่อเข้าใช้หรือลงชื่อออกจาก Outlook.com](https://support.office.com/article/e08eb8ac-ac27-49f4-a400-a47311e1ee7e?wt.mc_id=Office_Outlook_com_Alchemy)
+ถ้าคุณได้ลงชื่อเข้าใช้ภายใน 365 วัน แต่ยังไม่สามารถเข้าถึงบัญชี Hotmail หรือ Outlook.com ของคุณ อ่าน วิธีลงชื่อเข้าใช้หรือลงชื่อออกจาก[Outlook.com](https://support.office.com/article/e08eb8ac-ac27-49f4-a400-a47311e1ee7e?wt.mc_id=Office_Outlook_com_Alchemy)
   
