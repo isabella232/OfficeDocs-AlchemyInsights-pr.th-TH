@@ -1,5 +1,5 @@
 ---
-title: ๑๘๐๐๐๒๑วิธีการสร้างกฎใน Outlook for Mac
+title: 1800021วิธีการสร้างกฎในOutlook for Mac
 ms.author: supravee
 author: supravee
 ms.audience: ITPro
@@ -11,22 +11,22 @@ ms.custom:
 - "923"
 - "1800021"
 ms.assetid: e3b275ac-09b6-47de-94d2-cf3e29cef446
-ms.openlocfilehash: dbfb47da690244b34e1879c3d8d879fcc5631f75
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: e83453ed21348cc723b25bbf071709363d1eeaf2efda5e630c6431f62d348037
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47704364"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54015747"
 ---
-# <a name="how-to-create-a-rule-in-outlook-for-mac"></a>วิธีการสร้างกฎใน Outlook for Mac
+# <a name="how-to-create-a-rule-in-outlook-for-mac"></a>วิธีสร้างกฎOutlook for Mac
 
-1. เมื่อต้องการสร้างโฟลเดอร์เพื่อเก็บข้อความอีเมลที่ส่งโดยกฎให้เลือกกล่องจดหมายรากบนแท็บ **จัดระเบียบ** ให้คลิก **โฟลเดอร์ใหม่**แล้วพิมพ์ชื่อของโฟลเดอร์แล้วกด Enter
+1. เมื่อต้องการสร้างโฟลเดอร์เพื่อเก็บข้อความอีเมลที่ถูกส่งโดยกฎ ให้เลือกกล่องจดหมายราก บนแท็บ จัดระเบียบ **คลิก** โฟลเดอร์ใหม่ พิมพ์ชื่อของโฟลเดอร์ แล้วกด Enter
 
-2. ในรายการข้อความให้คลิกข้อความอีเมลที่คุณต้องการ o สร้างกฎ
+2. ในรายการข้อความ ให้คลิกข้อความอีเมลที่คุณต้องการสร้างกฎ
 
-3. บนแท็บ**หน้าแรก**ให้คลิก**กฎ**แล้วคลิก**สร้างกฎ**
+3. **บนแท็บ** หน้าแรก **ให้คลิก** กฎ จากนั้นคลิก **สร้าง** กฎ
 
-4. ภายใต้ **เมื่อข้อความใหม่มา** ถึงแก้ไขเกณฑ์ให้เหมาะสมกับความต้องการของคุณ 
+4. **ภายใต้ เมื่อข้อความใหม่มาถึง** ให้แก้ไขเกณฑ์ให้เหมาะกับความต้องการของคุณ 
 
-สำหรับคำแนะนำโดยละเอียดเกี่ยวกับการสร้างกฎแบบกำหนดเองให้ดู [ที่สร้างกฎใน Outlook For Mac](https://aka.ms/AA1uy0v)
+For detailed instructions on creating custom rules, see [Create a rule in Outlook for Mac](https://aka.ms/AA1uy0v)
   

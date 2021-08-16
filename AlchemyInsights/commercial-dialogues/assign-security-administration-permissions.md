@@ -1,5 +1,5 @@
 ---
-title: กําหนดสิทธิ์ของการดูแลความปลอดภัย
+title: กําหนดสิทธิ์การดูแลความปลอดภัย
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -13,18 +13,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "7363"
 - "9000722"
-ms.openlocfilehash: 697471a691bf8981733d01b05fbc6406a2879ce1
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 8f2f55564e88f5163cefdbfc0291fffb13a0ab8fbe12d4eda9a885158445d44c
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50748154"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53989034"
 ---
-# <a name="assign-the-security-administration-permissions"></a>กําหนดสิทธิ์ของการดูแลความปลอดภัย
+# <a name="assign-the-security-administration-permissions"></a>กําหนดสิทธิ์การดูแลความปลอดภัย
 
-1. In the Office 365 security & Compliance Center, select **permissions > security administrator**.
-2. ในบานหน้าต่าง **ผู้ดูแลระบบ** ความปลอดภัย ถัดจาก **สมาชิก****ให้คลิก** แก้ไข
-3. ในบานหน้าต่าง **การแก้ไขเลือก** สมาชิก **คลิกเลือก** สมาชิก
+1. ในOffice 365ศูนย์&การปฏิบัติตามนโยบาย ให้เลือก **สิทธิ์ > ผู้ดูแลระบบ** ความปลอดภัย
+2. ในบานหน้าต่าง **ผู้ดูแลระบบ** ความปลอดภัย **ถัดจาก** สมาชิก **ให้คลิก** แก้ไข
+3. ในบานหน้าต่าง **การแก้ไขเลือก** สมาชิก ให้คลิก **เลือก** สมาชิก
 4. ในบานหน้าต่าง **เลือก** สมาชิก ให้คลิก **+** เพิ่ม แล้วเลือกชื่อผู้ใช้
-5. เลือก **>เสร็จสิ้น >บันทึก**
+5. เลือก **>เสร็จสิ้น > บันทึก**
 

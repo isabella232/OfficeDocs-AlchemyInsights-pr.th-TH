@@ -1,5 +1,5 @@
 ---
-title: การแก้ไขสมุดบันทึก OneNote ใน Teams
+title: การแก้ไขOneNoteสมุดบันทึกในTeams
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002316"
 - "4498"
-ms.openlocfilehash: 0cf56cea64cb1d70b5d227edadd29dfd43823c55
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 5ff658bd23a22de68dce99eb641db07196f84f080403287a6f06b4d8ff69c7d9
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51814427"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54057481"
 ---
-# <a name="editing-onenote-notebooks-in-teams"></a>การแก้ไขสมุดบันทึก OneNote ใน Teams
+# <a name="editing-onenote-notebooks-in-teams"></a>การแก้ไขOneNoteสมุดบันทึกในTeams
 
-**สิ่ง** สําคัญ: คุณอาจเห็นข้อความ "เราประสบกับข้อจํากัดกับ OneNote ใน Microsoft Teams โปรดใช้ OneNote บนเว็บเพื่อแก้ไขสมุดบันทึกนี้"  
+**สิ่ง** สําคัญ: คุณอาจเห็นข้อความ "เราประสบกับข้อจํากัดOneNoteในMicrosoft Teamsเหล่านี้ โปรดOneNote สําหรับเว็บเพื่อแก้ไขสมุดบันทึกนี้"  
 
-ดู ID [ศูนย์ข้อความ: 207439](https://admin.microsoft.com/Adminportal/Home?source=applauncher#MessageCenter?id=MC207439) เพื่อดูข้อมูลเพิ่มเติม
+ดู [ID ศูนย์ข้อความ: 207439](https://admin.microsoft.com/Adminportal/Home?source=applauncher#MessageCenter?id=MC207439) ข้อมูลเพิ่มเติม:
 
-OneNote ใน Teams จะเป็นแบบอ่านอย่างเดียวในผู้เช่าเชิงพาณิชย์และการศึกษา เมื่อต้องการแก้ไข โปรดใช้ OneNote บนเว็บหรือแอป OneNote บนเดสก์ท็อป
+OneNoteใน Teamsจะเป็นแบบอ่านอย่างเดียวในผู้เช่าเชิงพาณิชย์และการศึกษา เมื่อต้องการแก้ไข โปรดOneNote สําหรับเว็บหรือOneNoteบนเดสก์ท็อปของคุณ

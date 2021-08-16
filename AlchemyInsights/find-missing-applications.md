@@ -1,5 +1,5 @@
 ---
-title: ค้นหาแอปพลิเคชันที่ขาดหายไป
+title: ค้นหาแอปพลิเคชันที่หายไป
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004327"
 - "7828"
-ms.openlocfilehash: 5ebcc89448885df105c49f64af8a9f9598e16544
-ms.sourcegitcommit: 605a73b159d30634b064c1b63b0e734ceb3fdec8
+ms.openlocfilehash: 32e51d1b7eddf8ebc2ec8545e52396bac48f7c3ddc0ecfc7e85aea50ed5c452a
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 01/25/2021
-ms.locfileid: "49974972"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54068939"
 ---
-# <a name="find-missing-applications"></a>ค้นหาแอปพลิเคชันที่ขาดหายไป
+# <a name="find-missing-applications"></a>ค้นหาแอปพลิเคชันที่หายไป
 
-- [Quickstart: ดูรายการของแอปพลิเคชันที่ใช้ผู้เช่า Azure Active directory ของคุณ (AZURE AD) สำหรับการจัดการข้อมูลประจำตัว](https://docs.microsoft.com/azure/active-directory/manage-apps/view-applications-portal) แสดงวิธีการดูแอปพลิเคชันหรือที่เรียกว่าแอปพลิเคชันที่ถูกตั้งค่าให้ใช้ผู้เช่า AD Azure ของคุณเป็นผู้ให้บริการข้อมูลประจำตัว (IdP)
-- เมื่อต้องการค้นหาแอปพลิเคชันเฉพาะให้ไปที่เมนู **ชนิดของแอปพลิเคชัน** เลือก **แอปพลิเคชันทั้งหมด** แล้วเลือก **นำไปใช้**
-  - ใส่ชื่อของแอปพลิเคชันที่คุณต้องการค้นหา ถ้าแอปพลิเคชันได้ถูกเพิ่มลงในผู้เช่า Azure AD ของคุณแล้วจะปรากฏในผลลัพธ์การค้นหา คุณยังสามารถใส่ตัวอักษรสองสามตัวแรกของชื่อแอปพลิเคชันได้อีกด้วย
-- [แก้ไขปัญหาทั่วไปเกี่ยวกับการเพิ่มหรือการเอาแอปพลิเคชันออกจาก Azure active](https://docs.microsoft.com/azure/active-directory/manage-apps/troubleshoot-adding-apps) directory ช่วยให้คุณเข้าใจปัญหาทั่วไปที่หน้าคนดูแอปใน Azure active directory
+- คู่มือเริ่มต้นใช้งานด่วน: ดูรายการแอปพลิเคชันที่ใช้ผู้เช่า[Azure Active Directory (Azure AD)](https://docs.microsoft.com/azure/active-directory/manage-apps/view-applications-portal)ของคุณเพื่อดูการจัดการข้อมูลเฉพาะตัวแสดงวิธีการดูแอปพลิเคชัน หรือที่เรียกว่าแอปที่ตั้งค่าให้ใช้ผู้เช่า Azure AD เป็นผู้ให้บริการข้อมูลเฉพาะตัว (IdP) อยู่แล้ว
+- เมื่อต้องการค้นหาแอปพลิเคชันเฉพาะ ให้ไปที่เมนู **ชนิดของ** แอปพลิเคชัน เลือก **แอปพลิเคชันทั้งหมด** แล้วเลือก **ใช้**
+  - ใส่ชื่อของแอปพลิเคชันที่คุณต้องการค้นหา ถ้าแอปพลิเคชันถูกเพิ่มลงในผู้เช่า Azure AD ของคุณ แอปพลิเคชันจะปรากฏในผลลัพธ์การค้นหา คุณยังสามารถใส่ตัวอักษรสองสามตัวแรกของชื่อแอปพลิเคชันได้
+- [แก้ไขปัญหาทั่วไปในการเพิ่มหรือเอาแอปพลิเคชันออกAzure Active Directory](https://docs.microsoft.com/azure/active-directory/manage-apps/troubleshoot-adding-apps)ช่วยให้คุณเข้าใจปัญหาทั่วไปที่ผู้คนดูแอปAzure Active Directoryแอป

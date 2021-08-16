@@ -13,17 +13,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "7363"
 - "9000722"
-ms.openlocfilehash: 473053e31ac591490a8f5d11b295c71c3e2821d4
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: f432876c6c927c3e098cc4e872fad66bb44c603c2bc4bcec7570d128ed3523fe
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50748147"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53988926"
 ---
 # <a name="assign-supervisory-review-permissions"></a>มอบหมายสิทธิ์การตรวจทานโดยผู้ควบคุม
 
-1. In the [Office 365 security & Compliance Center,](https://sip.protection.office.com/homepage)select **permissions > Supervisory Review**.
+1. ใน Office 365 [ศูนย์&การปฏิบัติตามนโยบาย](https://sip.protection.office.com/homepage)ให้เลือก **สิทธิ์ >การตรวจทานโดยผู้ควบคุม**
 2. ในบานหน้าต่าง **การตรวจทานโดย** ผู้ควบคุม **ถัดจาก** สมาชิก **ให้คลิก** แก้ไข
-3. ในบานหน้าต่าง **การแก้ไขเลือก** สมาชิก **คลิกเลือก** สมาชิก
+3. ในบานหน้าต่าง **การแก้ไขเลือก** สมาชิก ให้คลิก **เลือก** สมาชิก
 4. ในบานหน้าต่าง **เลือก** สมาชิก ให้คลิก **+** เพิ่ม แล้วเลือกชื่อผู้ใช้
-5. เลือก **>เสร็จสิ้น >บันทึก**
+5. เลือก **>เสร็จสิ้น > บันทึก**
