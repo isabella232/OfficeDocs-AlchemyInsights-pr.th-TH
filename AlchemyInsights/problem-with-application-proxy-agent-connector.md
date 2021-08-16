@@ -1,5 +1,5 @@
 ---
-title: ฉันพบปัญหาเกี่ยวกับตัวเชื่อมต่อตัวแทนพร็อกซีของแอปพลิเคชัน
+title: ฉันมีปัญหากับตัวเชื่อมต่อตัวแทนพร็อกซีแอปพลิเคชัน
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,15 +13,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004356"
 - "7802"
-ms.openlocfilehash: d4b4f1c3a309d2bfec4734fe7edad742dff0204e
-ms.sourcegitcommit: 3f1426f3cec23997f65a3e83376a9b348cc205ba
+ms.openlocfilehash: 26c2823a980b7c5112355b33499489f3d2fad9f4033c4a665a0e423a80ef85c6
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 01/14/2021
-ms.locfileid: "49885270"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54039733"
 ---
-# <a name="im-having-a-problem-with-the-application-proxy-agent-connector"></a>ฉันพบปัญหาเกี่ยวกับตัวเชื่อมต่อตัวแทนพร็อกซีของแอปพลิเคชัน
+# <a name="im-having-a-problem-with-the-application-proxy-agent-connector"></a>ฉันมีปัญหากับตัวเชื่อมต่อตัวแทนพร็อกซีแอปพลิเคชัน
 
-1. ตัวเชื่อมต่อพร็อกซีแอปพลิเคชันของ Microsoft Azure Active directory คือคอมโพเนนต์โดเมนภายในที่ใช้การเชื่อมต่อขาออกเพื่อสร้างการเชื่อมต่อจากจุดสิ้นสุดของ cloud ที่พร้อมใช้งานไปยังโดเมนภายใน
-1. ถ้าคุณกำลังมีปัญหาในการติดตั้งตัวเชื่อมต่อตัวแทนพร็อกซีของแอปพลิเคชันให้ทำตาม [ขั้นตอนต่อไปนี้](https://docs.microsoft.com/azure/active-directory/application-proxy-connector-installation-problem/?WT.mc_id=UI_AAD_Enterprise_Apps_Support_L2_Overview) เพื่อแก้ไขปัญหา
-1. ถ้าคุณกำลังใช้บริการพร็อกซีของแอปพลิเคชันสำหรับการเข้าถึงระยะไกลไปยังแอปพลิเคชันบนเว็บภายในองค์กรแต่คุณกำลังมีปัญหาในการเชื่อมต่อกับแอปพลิเคชันให้ใช้ [บทความนี้](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-debug-connectors) เพื่อช่วยให้คุณแก้ไขปัญหาเกี่ยวกับการเชื่อมต่อพร็อกซีของแอปพลิเคชัน Azure active Directory (azure AD)
+1. Microsoft Azure Active Directory ตัวเชื่อมต่อพร็อกซีแอปพลิเคชันเป็นคอมโพเนนต์โดเมนภายในที่ใช้การเชื่อมต่อขาออกเพื่อสร้างการเชื่อมต่อจากจุดสิ้นสุดที่พร้อมใช้งานในระบบ Cloud ไปยังโดเมนภายใน
+1. ถ้าคุณมีปัญหาในการติดตั้งตัวเชื่อมต่อตัวแทนพร็อกซีแอปพลิเคชัน ให้ปฏิบัติตาม [ขั้นตอน](https://docs.microsoft.com/azure/active-directory/application-proxy-connector-installation-problem/?WT.mc_id=UI_AAD_Enterprise_Apps_Support_L2_Overview) เหล่านี้เพื่อแก้ไขปัญหา
+1. ถ้าคุณใช้บริการพร็อกซีแอปพลิเคชันเพื่อเข้าถึงแอปพลิเคชันบนเว็บภายในองค์กรจากระยะไกล แต่คุณมีปัญหาในการเชื่อมต่อกับแอปพลิเคชัน ให้ใช้บทความนี้เพื่อช่วยให้คุณแก้ไขปัญหาเกี่ยวกับตัวเชื่อมต่อพร็อกซีแอปพลิเคชัน Azure Active Directory (Azure AD) [](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-debug-connectors)

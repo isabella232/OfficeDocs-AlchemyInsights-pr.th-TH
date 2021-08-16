@@ -1,5 +1,5 @@
 ---
-title: ปัญหาและการแก้ไขปัญหาทั่วไปของโครงการ
+title: Projectและการแก้ไขปัญหาทั่วไป
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,23 +12,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001502"
 - "3559"
-ms.openlocfilehash: 969cf2812a60f4b9a03aad46c96c1eb7a0458816
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 36d504120b5d81b06294afbfb1be4c6e73f0f696c4ea7118c6867e56ccb46b70
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51830853"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54039697"
 ---
-# <a name="project-common-issues-and-resolutions"></a>ปัญหาและการแก้ไขปัญหาทั่วไปของโครงการ
+# <a name="project-common-issues-and-resolutions"></a>Projectและการแก้ไขปัญหาทั่วไป
 
-ต่อไปนี้เป็นหัวข้อที่มีการร้องขอบ่อยกับ Project:
+ต่อไปนี้เป็นหัวข้อที่มีการร้องขอบ่อยเกี่ยวกับProject:
 
-1. **เริ่มต้นใช้งาน Project Online:**  [เริ่มต้นใช้งาน Project Online](https://docs.microsoft.com/ProjectOnline/get-started-with-project-online) และเรียนรู้วิธีวางแผน ปรับใช้ [และดูแลรักษา Project Online](https://docs.microsoft.com/projectonline/project-online) ในสภาพแวดล้อมของคุณ ตรวจสอบ [ขีดจํากัดและขอบเขตซอฟต์แวร์ Project Online](https://docs.microsoft.com/ProjectOnline/project-online-software-boundaries-and-limits) เพื่อตรวจสอบข้อจํากัดที่สําคัญ
+1. **เริ่มต้นใช้งานกับ Project Online:**[เริ่มต้นใช้งาน Project Online](https://docs.microsoft.com/ProjectOnline/get-started-with-project-online)และเรียนรู้วิธีวางแผน ปรับใช้ และ [ดูแลรักษา](https://docs.microsoft.com/projectonline/project-online)Project Onlineในสภาพแวดล้อมของคุณ   ตรวจสอบ[Project Onlineและขอบเขตซอฟต์แวร์เพื่อ](https://docs.microsoft.com/ProjectOnline/project-online-software-boundaries-and-limits)ตรวจทานข้อจํากัดที่สําคัญ
 
-2. **ให้สิทธิ์การเข้าถึง Project Online แก่ผู้ใช้:** เพิ่ม [บุคคล กลุ่ม ทรัพยากร และแชร์ Project Online](https://docs.microsoft.com/projectonline/step-2-add-people-to-project-online) เพื่อร่วมมือกับผู้อื่น 
+2. **ให้สิทธิ์การเข้าถึงแก่ผู้ใช้Project Online:** เพิ่ม [บุคคล กลุ่ม ทรัพยากร และแชร์Project Online](https://docs.microsoft.com/projectonline/step-2-add-people-to-project-online)เพื่อร่วมกับผู้อื่น 
 
-3. **ปรับแต่งประสิทธิภาพ Project Web App (PWA) ใน Project Online:** รีวิว [ผลกระทบด้านประสิทธิภาพและการซื้อขาย](https://docs.microsoft.com/projectonline/tune-project-online-performance) การตั้งค่า Project Web App ที่ใช้กันทั่วไปบางส่วน
+3. **ปรับProject Web App (PWA) ในProject Online:** ตรวจสอบ [ผลกระทบด้านประสิทธิภาพและการซื้อขาย](https://docs.microsoft.com/projectonline/tune-project-online-performance)ของการตั้งค่าProject Web Appทั่วไปบางส่วน
 
-4. **เชื่อมต่อกับ Project Online ด้วยไคลเอ็นต์ Project บนเดสก์ท็อป:** ใช้ไคลเอ็นต์ [Project Online Desktop](https://docs.microsoft.com/projectonline/connect-to-project-online-with-the-project-online-desktop-client) เพื่อเชื่อมต่อกับ Project Online ในสภาพแวดล้อม Microsoft 365 ของคุณ 
+4. **เชื่อมต่อProject Onlineไคลเอ็นต์เดสก์ท็อปแบบ Project:** ใช้ [Project Onlineเดสก์ท็อป](https://docs.microsoft.com/projectonline/connect-to-project-online-with-the-project-online-desktop-client)เดสก์ท็อปเพื่อProject Onlineในสภาพแวดล้อมMicrosoft 365ของคุณ 
 
-5. **ติดตั้ง Project Professional:** ติดตั้งและใช้ [Project Professional](https://support.office.com/article/install-project-7059249b-d9fe-4d61-ab96-5c5bf435f281) ที่มี Project Online เวอร์ชันการสมัครใช้งาน และ Project 2019, 2016 หรือ 2013 เวอร์ชันที่ไม่มีการสมัครใช้งาน
+5. **ติดตั้งProject Professional:** ติดตั้ง [และใช้ Project Professional](https://support.office.com/article/install-project-7059249b-d9fe-4d61-ab96-5c5bf435f281)กับ Project Online เวอร์ชันการสมัครใช้งาน และเวอร์ชันที่ไม่มีการสมัครใช้งานของ Project 2019, 2016 หรือ 2013
