@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003558"
 - "6657"
-ms.openlocfilehash: 4c10ffa16b30cccb7552bbaf896b5085bfb29ac3
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 70f0ab311358c88b4817a810956942bf88d9444fa850a5216736eb657189d5a5
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51819495"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53996109"
 ---
 # <a name="cant-add-guests-to-a-team"></a>ไม่สามารถเพิ่มผู้ใช้อื่นลงในทีมได้
 
 เมื่อต้องการเพิ่มผู้ใช้อื่นลงในทีม สิ่งต่อไปนี้ต้องเป็นจริง:  
 
-- ผู้ดูแลระบบของคุณเปิดใช้งานการเข้าถึงของแขกใน Teams
+- ผู้ดูแลระบบของคุณเปิดใช้งานการเข้าถึงของแขกในTeamsของคุณ
 - คุณเป็นเจ้าของทีม
 - บุคคลที่คุณต้องการเพิ่มอยู่ภายนอกองค์กรของคุณ เช่น คู่ค้าหรือที่ปรึกษา
 

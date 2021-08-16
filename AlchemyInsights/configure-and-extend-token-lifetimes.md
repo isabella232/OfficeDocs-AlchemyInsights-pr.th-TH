@@ -1,5 +1,5 @@
 ---
-title: กำหนดค่าและขยายระยะเวลาของโทเค็น
+title: กําหนดค่าและขยายอายุการใช้งานโทเค็น
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -13,29 +13,29 @@ ms.collection: Adm_O365
 ms.custom:
 - "7778"
 - "9004351"
-ms.openlocfilehash: 505e79ae9a163b89a6df2a7085480728bb0f1051
-ms.sourcegitcommit: e378232f4c9ef4e962208100db752221e7bd2dd6
+ms.openlocfilehash: 97e89feda45439dae59acca5817fdf359623d647997d08a5cbe4a6314fa6db3a
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 01/20/2021
-ms.locfileid: "49917197"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54044935"
 ---
-# <a name="configure-and-extend-token-lifetimes"></a>กำหนดค่าและขยายระยะเวลาของโทเค็น
+# <a name="configure-and-extend-token-lifetimes"></a>กําหนดค่าและขยายอายุการใช้งานโทเค็น
 
-คุณสามารถระบุอายุการใช้งานของโทเค็นการเข้าถึง SAML หรือ ID ที่ออกโดย Microsoft identity platform คุณสามารถตั้งค่าการหมดอายุของโทเค็นสำหรับแอปทั้งหมดในองค์กรของคุณสำหรับแอปพลิเคชันแบบหลายผู้เช่า (หลายองค์กร) หรือสำหรับบริการหลักที่เฉพาะเจาะจงในองค์กรของคุณ สำหรับข้อมูลเพิ่มเติมให้อ่านช่วงเวลาของ [โทเค็น](https://docs.microsoft.com/azure/active-directory/develop/active-directory-configurable-token-lifetimes)ที่กำหนดค่าไว้
+คุณสามารถระบุอายุการใช้งานของโทเค็นการเข้าถึง, SAML หรือ ID ที่ออกให้แพลตฟอร์มข้อมูลประจําตัวของ Microsoftได้ คุณสามารถตั้งค่าอายุการใช้งานโทเค็นของแอปทั้งหมดในองค์กรของคุณ, แอปพลิเคชันแบบหลายผู้เช่า (หลายองค์กร) หรือแอปพลิเคชันหลักบริการเฉพาะในองค์กรของคุณได้ For more info, read [configurable token lifetimes](https://docs.microsoft.com/azure/active-directory/develop/active-directory-configurable-token-lifetimes).
 
-ตัวอย่างเช่นอ่าน[ตัวอย่างของวิธีการกำหนดค่าการหมดอายุของโทเค็น](https://docs.microsoft.com/azure/active-directory/develop/configure-token-lifetimes)
+ตัวอย่างเช่น อ่าน [ตัวอย่างของวิธีการกําหนดค่าอายุการใช้งาน](https://docs.microsoft.com/azure/active-directory/develop/configure-token-lifetimes)โทเค็น
 
-เมื่อต้องการเรียนรู้วิธีการกำหนดค่าอายุการใช้งานและความเข้ากันได้ของโทเค็นใน Azure Active Directory B2C (Azure AD B2C) ให้ดู [ที่การกำหนดค่าโทเค็นใน B2C Azure active](https://docs.microsoft.com/azure/active-directory-b2c/configure-tokens?pivots=b2c-user-flow)directory
+เมื่อต้องการเรียนรู้วิธีการกําหนดค่าอายุการใช้งานและความเข้ากันได้ของโทเค็นใน Azure Active Directory B2C (Azure AD B2C) ให้ดู กําหนดค่าโทเค็นใน[Azure Active Directory B2C](https://docs.microsoft.com/azure/active-directory-b2c/configure-tokens?pivots=b2c-user-flow)
 
-บทความการ [กำหนดค่าลักษณะการทำงานของเซสชันใน B2C Azure active](https://docs.microsoft.com/azure/active-directory-b2c/session-behavior?pivots=b2c-user-flow) directory จะอธิบายวิธีการลงชื่อเข้าระบบครั้งเดียว (SSO) ที่ใช้ใน B2C AD Azure และช่วยให้คุณเลือกวิธีที่เหมาะสมที่สุดของ SSO เมื่อกำหนดค่านโยบายของคุณ
+บทความ การกําหนดค่าลักษณะการออนไลน์ของเซสชันใน[Azure Active Directory B2C](https://docs.microsoft.com/azure/active-directory-b2c/session-behavior?pivots=b2c-user-flow)จะอธิบายวิธีการลงชื่อเข้าระบบครั้งเดียว (SSO) ที่ใช้ใน Azure AD B2C และช่วยให้คุณเลือกวิธีการ SSO ที่เหมาะสมที่สุดเมื่อกําหนดค่านโยบายของคุณ
 
-**โทเค็นจะมีระยะเวลานานแค่ไหน พวกเขาจะใช้งานได้นานแค่ไหน**
+**โทเค็นจะอยู่นานเท่าใด ระยะเวลาที่ใช้ได้**
 
-อายุการใช้งานของโทเค็นคือ1ชั่วโมงและอายุการใช้งานของเซสชันคือ24ชั่วโมง ซึ่งหมายความว่าถ้าไม่มีการร้องขอใน24ชั่วโมงคุณจำเป็นต้องเข้าสู่ระบบอีกครั้งก่อนที่จะร้องขอโทเค็นใหม่
+อายุการใช้งานโทเค็นคือ 1 ชั่วโมง และอายุการใช้งานเซสชันคือ 24 ชั่วโมง ซึ่งหมายความว่าถ้าไม่มีการร้องขอใดเกิดขึ้นภายใน 24 ชั่วโมง คุณจะต้องเข้าสู่ระบบอีกครั้งก่อนที่จะร้องขอโทเค็นใหม่
 
 > [!NOTE]
-> หลังจาก30พฤษภาคม๒๐๒๐ไม่มีผู้เช่าใหม่จะสามารถใช้นโยบายอายุการใช้งานโทเค็นที่กำหนดค่าเพื่อกำหนดค่าเซสชันและการรีเฟรชโทเค็น แผนจะเกิดขึ้นภายในหลายเดือนหลังจากนั้นซึ่งหมายความว่าเราจะหยุดการ honoring เซสชันที่มีอยู่และการรีเฟรช คุณยังสามารถกำหนดค่าความหมดอายุของโทเค็นการเข้าถึงหลังจากแผนได้
+> หลังจากวันที่ 30 พฤษภาคม 2020 ไม่มีผู้เช่าใหม่ที่สามารถใช้นโยบายอายุการใช้งานโทเค็นที่กําหนดค่าได้เพื่อกําหนดค่าเซสชันและโทเค็นรีเฟรช การเลิกใช้จะเกิดขึ้นภายในหลายเดือนหลังจากนั้น ซึ่งหมายความว่าเราจะหยุดเคารพเซสชันที่มีอยู่และรีเฟรชโทเค็นตวจ คุณยังสามารถกําหนดค่าอายุการใช้งานโทเค็นการเข้าถึงได้หลังจากการเลิกใช้
 
 
 

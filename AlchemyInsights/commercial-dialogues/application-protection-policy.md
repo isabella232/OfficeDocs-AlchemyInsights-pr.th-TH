@@ -1,5 +1,5 @@
 ---
-title: ข้อต้องของนโยบายการป้องกันแอปพลิเคชัน
+title: ข้อต้องนโยบายการป้องกันแอปพลิเคชัน
 ms.author: v-jmathew
 author: v-jmathew
 manager: dansimp
@@ -12,20 +12,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "6700002"
 - "7680"
-ms.openlocfilehash: b76754a696608939403498dcd996c04ff5338b68
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: d07a9500b9f17e05b4982f1219f8b94cb8c8be4b5484d334108c9131b42b5659
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50749558"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53995418"
 ---
-# <a name="application-protection-policy-requirements"></a>ข้อต้องของนโยบายการป้องกันแอปพลิเคชัน
+# <a name="application-protection-policy-requirements"></a>ข้อต้องนโยบายการป้องกันแอปพลิเคชัน
 
 ข้อต้องการนโยบายการป้องกันแอปพลิเคชัน:
 
 - ผู้ใช้มีสิทธิ์การใช้งาน Intun1 หรือ EMS
-- ผู้ใช้คือกลุ่มที่เป้าหมายโดยนโยบายการป้องกันแอปพลิเคชัน
+- ผู้ใช้อยู่ในกลุ่มที่เป้าหมายโดยนโยบายการป้องกันแอปพลิเคชัน
 - ผู้ใช้ขององค์กรเท่านั้นที่ลงชื่อเข้าใช้แอปที่ได้รับการป้องกันบนอุปกรณ์
-- [แอปพลิเคชันได้ปรับใช้ Intun1 SDK ดูรายการแอปที่รองรับ SDK ที่แอปที่มีการป้องกันของ Microsoft Intun>ได้](https://docs.microsoft.com/mem/intune/apps/apps-supported-intune-apps)
+- [แอปพลิเคชันได้ดําเนินการ Intuned SDK For a list of apps that support the SDK, see Microsoft Intune protected apps.](https://docs.microsoft.com/mem/intune/apps/apps-supported-intune-apps)
 
 [อ่านเพิ่มเติม...](https://docs.microsoft.com/mem/intune/apps/app-protection-policy)
