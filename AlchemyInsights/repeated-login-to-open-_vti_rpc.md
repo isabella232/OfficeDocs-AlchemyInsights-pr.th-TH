@@ -1,5 +1,5 @@
 ---
-title: การเข้าสู่ระบบที่ซ้ำกันเพื่อเปิด _vti_rpc
+title: เข้าสู่ระบบซ้ําๆ _vti_rpc
 ms.author: pebaum
 author: pebaum
 manager: jecon
@@ -15,14 +15,14 @@ ms.custom:
 - "280"
 - "2200009"
 ms.assetid: 1fb88cca-5dd4-4167-8783-13646082cfa0
-ms.openlocfilehash: 1ef60f663a04045e4cd00463e59dcbf1f2f92122
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 019fb0675a4a8b38e4d9a4012b8398291150940b34fcc81a2bbf96942d3fa9ec
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47662488"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54053053"
 ---
-# <a name="repeated-login-to-open-_vti_rpc"></a>การเข้าสู่ระบบที่ซ้ำกันเพื่อเปิด _vti_rpc
+# <a name="repeated-login-to-open-_vti_rpc"></a>เข้าสู่ระบบซ้ําๆ _vti_rpc
 
-เมื่อทำงานกับไฟล์ OneDrive โดยใช้ Office ๒๐๑๖คุณอาจเห็นข้อความ: "บอกเราว่าคุณต้องการใช้บัญชีที่คุณต้องการใช้เพื่อเปิด _vti_rpc" ปัญหานี้ได้รับการแก้ไขแล้วในเวอร์ชัน๑๗๐๘ (16.0.8431.2094) เมื่อต้องการแก้ไขปัญหานี้ให้อัปเดตเป็น Office เวอร์ชันล่าสุด เลือก**File** \> อัปเดตตัวเลือกการอัปเด**ตบัญชีผู้ใช้**ไฟล์ใน \> **Update Options** \> **ตอนนี้**
+เมื่อต้องOneDriveไฟล์Office 2016 คุณอาจเห็นข้อความ: "บอกให้เราทราบบัญชีที่คุณต้องการใช้เพื่อเปิด_vti_rpc" ปัญหานี้ได้รับการแก้ไขแล้วในเวอร์ชัน 1708 (16.0.8431.2094) เมื่อต้องการแก้ไขปัญหานี้ ให้อัปเดตเป็นเวอร์ชันล่าสุดOffice เลือก **ตัวเลือก** \>  \> **การอัปเดตบัญชี** \> **ไฟล์ อัปเดต** เดี๋ยวนี้
   

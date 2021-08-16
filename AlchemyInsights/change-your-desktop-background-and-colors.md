@@ -12,21 +12,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001451"
 - "3475"
-ms.openlocfilehash: fbc231f9f0e980286346aed0ed78d928cb405cec
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 8dce08c019e3f49fb6254dbd98d792c107e4c96dbd36a0cf11aff70e171e7649
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51818163"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54045773"
 ---
 # <a name="change-your-desktop-background-and-colors"></a>เปลี่ยนพื้นหลังและสีของเดสก์ท็อป
 
-เมื่อต้องการเปลี่ยนการตั้งค่าสีของคุณ ให้ไปที่ **เริ่ม**  >  **การตั้งค่า**  >  **สีส่วนบุคคล** แล้วเลือกสีของคุณเอง หรือ  >  ให้ Windows ดึงโทนสีจากพื้นหลังของคุณ
+เมื่อต้องการเปลี่ยนการตั้งค่าสีของคุณ **ให้ไปที่**  >  **เริ่ม การตั้งค่า**  >  **สีการตั้งค่า** ส่วนบุคคล แล้วเลือกสีของคุณเอง หรือ  >  ให้ Windows ดึงโทนสีจากพื้นหลังของคุณ
 
-![ปรับแต่งสีใน Windows](media/windows-personalization-colors.png)
+![ปรับแต่งสีในแบบWindowsของคุณ](media/windows-personalization-colors.png)
 
-เมื่อต้องการเปลี่ยนพื้นหลังของเดสก์ท็อป ให้ไปที่ **เริ่ม**  >  **การตั้งค่า**  >  **พื้นหลังส่วนบุคคล**  >  แล้วเลือกรูปภาพ สีทึบ หรือสร้างการสไลด์รูปภาพ 
+เมื่อต้องการเปลี่ยนพื้นหลังของเดสก์ท็อป **ให้ไปที่**  >  **เริ่ม การตั้งค่า**  >  **พื้นหลังการตั้งค่า** ส่วนบุคคล แล้วเลือกรูปภาพ สี  >  ทึบ หรือสร้างการสไลด์รูปภาพ 
 
-![เปลี่ยนพื้นหลังเดสก์ท็อป Windows ของคุณ](media/windows-desktop-background.png)
+![เปลี่ยนพื้นหลังWindowsพื้นหลังของเดสก์ท็อป](media/windows-desktop-background.png)
 
-ต้องการพื้นหลังและสีของเดสก์ท็อปเพิ่มเติมใช่ไหม เยี่ยมชม [Microsoft Store](https://www.microsoft.com/store/collections/windowsthemes) เพื่อเลือกชุดรูปแบบฟรีมากมาย
+ต้องการพื้นหลังและสีของเดสก์ท็อปเพิ่มเติมใช่ไหม เยี่ยมชม[Microsoft Store](https://www.microsoft.com/store/collections/windowsthemes)ธีมฟรีมากมายให้เลือกใช้
