@@ -12,23 +12,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000730"
 - "9439"
-ms.openlocfilehash: 5cd58303b0629e55b0ed67157f9fcf01668fda1e
-ms.sourcegitcommit: 13d96a612b67e01c725d5c2a5a0212d824031f6e
+ms.openlocfilehash: 5481d1d63e6cf1f2fdbe1c17420dd041e5fe8b4f5be17a891b9e0bf871d27baf
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 03/09/2021
-ms.locfileid: "50696315"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54002103"
 ---
 # <a name="how-to-manage-an-app"></a>วิธีจัดการแอป
 
 เมื่อต้องการจัดการแอป:
 
-- เริ่มต้นด้วย [การจัดการแอป](https://admin.teams.microsoft.com/policies/manage-apps) ในศูนย์การจัดการ Microsoft Teams เพื่อเพิ่มแอปให้องค์กรของคุณ
-- คุณสามารถใช้นโยบาย [สิทธิ์ของแอป](https://admin.teams.microsoft.com/policies/app-permission) ในศูนย์การจัดการ Microsoft Teams เพื่ออนุญาตหรือบล็อกแอป และกําหนดให้กับผู้ใช้
-- เมื่อต้องการเปลี่ยนลนําเสนอแอปให้ผู้ใช้หรือปักหมุดแอป ให้ใช้นโยบาย [การตั้งค่า](https://admin.teams.microsoft.com/policies/app-setup) แอปในศูนย์การจัดการ Microsoft Teams
+- เริ่มต้นด้วย[จัดการแอป](https://admin.teams.microsoft.com/policies/manage-apps)ในศูนย์Microsoft Teamsผู้ดูแลระบบเพื่อเพิ่มแอปให้กับองค์กรของคุณ
+- คุณสามารถใช้นโยบาย[สิทธิ์ของแอป](https://admin.teams.microsoft.com/policies/app-permission)ในศูนย์Microsoft Teamsผู้ดูแลระบบเพื่ออนุญาตหรือบล็อกแอป และกําหนดให้กับผู้ใช้
+- เมื่อต้องการเปลี่ยนลนําเสนอแอปให้ผู้ใช้หรือปักหมุดแอป ให้ใช้นโยบาย[การตั้งค่าแอป](https://admin.teams.microsoft.com/policies/app-setup)ในศูนย์Microsoft Teamsการจัดการแอป
 
-ดูข้อมูลเพิ่มเติมเกี่ยวกับการสร้างนโยบายแอปขององค์กรของคุณที่:
+For more information on creating app policies for your organization, see:
 
-- [จัดการแอปในศูนย์การจัดการ Microsoft Teams](https://docs.microsoft.com/MicrosoftTeams/manage-apps)
+- [จัดการแอปในศูนย์Microsoft Teamsธุรกิจ](https://docs.microsoft.com/MicrosoftTeams/manage-apps)
 - [จัดการนโยบายสิทธิ์ของแอปใน Microsoft Teams](https://docs.microsoft.com/microsoftteams/teams-app-permission-policies)
-- [จัดการนโยบายการตั้งค่าแอปใน Microsoft Teams](https://docs.microsoft.com/microsoftteams/teams-app-setup-policies)
+- [จัดการนโยบายการตั้งค่าแอปในMicrosoft Teams](https://docs.microsoft.com/microsoftteams/teams-app-setup-policies)

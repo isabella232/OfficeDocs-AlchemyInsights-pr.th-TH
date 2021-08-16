@@ -1,5 +1,5 @@
 ---
-title: รหัส Facebook ของ Outlook.com
+title: Outlook.com Facebook codes
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -13,18 +13,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "1967"
 - "9000338"
-ms.openlocfilehash: aca8bcd07567116639d42254138513db573c8115
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: f4e17b68de85fa3b7d446523380e0a2780802bfe01d4c3df133f4b7231a0d16c
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47672075"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54063971"
 ---
-# <a name="not-receiving-facebook-codes-using-outlookcom"></a>ไม่ได้รับรหัส Facebook โดยใช้ Outlook.com
+# <a name="not-receiving-facebook-codes-using-outlookcom"></a>ไม่ได้รับโค้ด Facebook โดยใช้ Outlook.com
 
-ถ้าคุณร้องขอรหัสผ่านใหม่จาก Facebook แต่ยังไม่ได้รับอีเมลการตั้งค่ารหัสผ่านของคุณใหม่:
+ถ้าคุณร้องขอรหัสผ่านใหม่จาก Facebook แต่ไม่ได้รับอีเมลรีเซ็ตรหัสผ่านของคุณ ให้:
 
-- ตรวจสอบ [โฟลเดอร์จดหมายขยะหรืออีเมลขยะ](https://outlook.live.com/mail/junkemail)ของคุณ
-- ลอง [ตั้งค่ารหัสผ่าน Facebook ของคุณอีกครั้ง](https://aka.ms/facebook-password-reset)
+- ตรวจสอบ [โฟลเดอร์สแปมหรืออีเมลขยะ](https://outlook.live.com/mail/junkemail)ของคุณ
+- ลอง [รีเซ็ตรหัสผ่าน Facebook ของคุณ](https://aka.ms/facebook-password-reset)อีกครั้ง
 
-ถ้าคุณไม่สามารถตั้งค่ารหัสผ่านของคุณใหม่ได้เนื่องจากคุณไม่สามารถเข้าถึงอีเมลหรือหมายเลขโทรศัพท์มือถือบนบัญชีผู้ใช้ของคุณได้ให้ลองใช้ [เคล็ดลับการตั้งค่ารหัสผ่านของ Facebook](https://aka.ms/facebook-password-help)ใหม่
+ถ้าคุณไม่สามารถตั้งค่ารหัสผ่านของคุณใหม่เนื่องจากคุณไม่สามารถเข้าถึงอีเมลหรือหมายเลขโทรศัพท์มือถือบนบัญชีผู้ใช้ของคุณ ให้ลองตั้งค่ารหัสผ่านของ[Facebook](https://aka.ms/facebook-password-help)ใหม่เคล็ดลับ

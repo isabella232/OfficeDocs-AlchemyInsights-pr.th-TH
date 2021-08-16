@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002278"
 - "5114"
-ms.openlocfilehash: 12f5f5c46edd7918618c55a8a1905f3b28643092
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 378c3f58f77db8b23682432c942cd4f9c3a392651ca6564528a635724ad66a25
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51825390"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54000385"
 ---
 # <a name="migration-from-aip-to-mipunified-labeling-in-the-compliance-center"></a>การโยกย้ายจาก AIP ไปยังป้ายชื่อ MIP/Unified ในศูนย์การปฏิบัติตามข้อบังคับ
 
@@ -25,11 +25,11 @@ ms.locfileid: "51825390"
 
 **เปิดใช้งานการป้องกันจากพอร์ทัล Azure**
 
-1. ถ้าคุณยังไม่ได้เปิด ให้เปิดหน้าต่างเบราว์เซอร์ใหม่และ[ลงชื่อเข้าใช้พอร์ทัล Azure](https://docs.microsoft.com/azure/information-protection/deploy-use/configure-policy#signing-in-to-the-azure-portal) นําทางไปยัง **เบลด Azure Information Protection** ตัวอย่างเช่น บนเมนูฮับ ให้คลิก **บริการทั้งหมด** แล้วเริ่ม **พิมพ์** ข้อมูล ในกล่อง ตัวกรอง เลือก **Azure Information Protection** ถ้าคุณไม่เคยเข้าถึงเบลด Azure Information Protection มาก่อน ให้ดูขั้นตอนเพิ่มเติมแบบใช้ [เวลา](https://docs.microsoft.com/azure/information-protection/deploy-use/configure-policy#to-access-the-azure-information-protection-blade-for-the-first-time) เดียวเพื่อเพิ่มเบลดนี้ลงในพอร์ทัล เมื่อต้องการเปิดเบลด Azure Information Protection คุณต้องมีแผน [Azure Information Protection Premium](https://www.microsoft.com/cloud-platform/azure-information-protection-pricing) หรือแผน Office 365 ที่มีการจัดการสิทธิ์ ถ้าคุณมีหนึ่งในการสมัครใช้งานเหล่านี้ แต่เห็นข้อความว่าไม่พบการสมัครใช้งานที่ถูกต้อง ติดต่อฝ่ายสนับสนุนของ [Microsoft หรือใช้](https://docs.microsoft.com/azure/information-protection/get-started/information-support#to-contact-microsoft-support) แชนเนลการสนับสนุนมาตรฐานของคุณ
+1. ถ้าคุณยังไม่ได้เปิด ให้เปิดหน้าต่างเบราว์เซอร์ใหม่และ[ลงชื่อเข้าใช้พอร์ทัล Azure](https://docs.microsoft.com/azure/information-protection/deploy-use/configure-policy#signing-in-to-the-azure-portal) นําทางไปยัง **เบลด Azure Information Protection** ตัวอย่างเช่น บนเมนูฮับ ให้คลิก **บริการทั้งหมด** แล้วเริ่ม **พิมพ์** ข้อมูล ในกล่อง ตัวกรอง เลือก **Azure Information Protection** ถ้าคุณไม่เคยเข้าถึงเบลด Azure Information Protection มาก่อน ให้ดูขั้นตอนเพิ่มเติมแบบใช้ [เวลา](https://docs.microsoft.com/azure/information-protection/deploy-use/configure-policy#to-access-the-azure-information-protection-blade-for-the-first-time) เดียวเพื่อเพิ่มเบลดนี้ลงในพอร์ทัล เมื่อต้องการเปิดเบลด Azure Information Protection คุณต้องมีแผน[Azure Information Protection Premium](https://www.microsoft.com/cloud-platform/azure-information-protection-pricing)หรือแผนการจัดการOffice 365ที่มีการจัดการสิทธิ์ ถ้าคุณมีหนึ่งในการสมัครใช้งานเหล่านี้ แต่เห็นข้อความว่าไม่พบการสมัครใช้งานที่ถูกต้อง ติดต่อฝ่ายสนับสนุนของ [Microsoft หรือใช้](https://docs.microsoft.com/azure/information-protection/get-started/information-support#to-contact-microsoft-support) แชนเนลการสนับสนุนมาตรฐานของคุณ
 
 2. ค้นหา **ตัวเลือก** เมนู จัดการ แล้วเลือก **การเปิดใช้งาน** การป้องกัน คลิก **เปิดใช้งาน** แล้วยืนยันการทํางานของคุณ เมื่อเปิดใช้งานเสร็จสมบูรณ์ แถบข้อมูลจะแสดง การเปิดใช้งาน **เสร็จสมบูรณ์**
 
-**โยกย้ายป้ายชื่อ Azure Information Protection ไปยังศูนย์การรักษา& Office 365**
+**โยกย้ายป้ายชื่อ Azure Information Protection ไปยังศูนย์Office 365การรักษา&นโยบาย**
 
 1. ตรวจสอบให้แน่ใจว่าคุณเข้าสู่ระบบในฐานะผู้ใช้ที่มีสิทธิ์ผู้ดูแลระบบส่วนกลาง
 
