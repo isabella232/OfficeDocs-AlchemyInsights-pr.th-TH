@@ -1,5 +1,5 @@
 ---
-title: รายการ Microsoft
+title: Microsoft Lists
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,23 +13,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "5677"
 - "9002964"
-ms.openlocfilehash: a773279a47a6e5462e9c06837513e75ce3d4f318
-ms.sourcegitcommit: 2e4a5153e530bf15744a52e982eeb0d99757e9d2
+ms.openlocfilehash: c1e2e6edaa3df301da0a7f5acb4197a5221bc5058e5c8158001e1f97692bcba4
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 12/04/2020
-ms.locfileid: "49576252"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54098045"
 ---
-# <a name="microsoft-lists"></a>รายการ Microsoft
+# <a name="microsoft-lists"></a>Microsoft Lists
 
-ไมโครซอฟท์จะเปิดตัวขั้นตอนแรกของรายการ Microsoft, แอป Microsoft ๓๖๕ รายการ Microsoft คือตำแหน่งที่เป็นศูนย์กลางเพื่อดูและจัดการรายการทั้งหมดของคุณ  
+Microsoft จะเปิดใช้งานขั้นตอนแรกของMicrosoft Listsแอป Microsoft 365ของคุณ Microsoft Listsคือศูนย์กลางในการดูและจัดการรายการทั้งหมด  
   
-ฟีเจอร์คือตอนนี้๑๐๐% พร้อมใช้งานสำหรับผู้ใช้ใดๆที่มีสิทธิ์การใช้งาน SharePoint และไอคอนรายการจะสามารถเข้าถึงได้จากตัวเปิดใช้แอป
+ฟีเจอร์พร้อมใช้งานแล้ว 100% ให้กับผู้ใช้ที่มีSharePointและไอคอนรายการสามารถเข้าถึงได้จากตัวเปิดใช้แอป
 
-ในฐานะผู้ดูแลระบบส่วนกลางหรือผู้ดูแลระบบ SharePoint ใน Microsoft ๓๖๕คุณสามารถควบคุมการตั้งค่าสำหรับรายการ Microsoft ได้ คุณสามารถ:
+ในฐานะผู้ดูแลระบบส่วนกลางSharePointผู้ดูแลระบบMicrosoft 365คุณสามารถควบคุมการตั้งค่าMicrosoft Listsได้ คุณสามารถ:
 
-- ปิดใช้งานการสร้างรายการส่วนบุคคล (ป้องกันไม่ให้ผู้ใช้บันทึกรายการใหม่ไปยัง "รายการของฉัน")
+- ปิดใช้งานการสร้างรายการส่วนบุคคล (ป้องกันไม่ให้ผู้ใช้บันทึกรายการใหม่เป็น "รายการของฉัน")
 - ปิดใช้งานเทมเพลตรายการที่มีอยู่แล้วภายในที่ไม่เกี่ยวข้องกับองค์กรของคุณ
 ดู [รายการตัวควบคุม](https://docs.microsoft.com/sharepoint/control-lists)
 
-สำหรับข้อมูลเพิ่มเติมให้ดูที่[รายการ Microsoft](https://aka.ms/microsoftlists)
+ดูข้อมูลเพิ่มเติมได้ที่[Microsoft Lists](https://aka.ms/microsoftlists)
