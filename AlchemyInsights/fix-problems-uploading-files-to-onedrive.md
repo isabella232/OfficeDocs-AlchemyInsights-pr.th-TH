@@ -1,5 +1,5 @@
 ---
-title: แก้ไขปัญหาการอัปโหลดไฟล์ไปยัง OneDrive
+title: แก้ไขปัญหาการอัปโหลดไฟล์OneDrive
 ms.author: matteva
 author: pebaum
 ms.date: 04/21/2020
@@ -9,20 +9,20 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 467477cc-9d4f-47f1-a602-dbf334a42be5
-ms.openlocfilehash: ccc5e5b871cb014a1edf6457cf26b35cdfad706f
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: ef5de5d8c002f30d553d5c290a43d8e83f5d3c256612833e1f90ca65b6508e09
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47677659"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54068537"
 ---
-# <a name="fix-problems-uploading-files-to-onedrive"></a>แก้ไขปัญหาการอัปโหลดไฟล์ไปยัง OneDrive
+# <a name="fix-problems-uploading-files-to-onedrive"></a>แก้ไขปัญหาการอัปโหลดไฟล์OneDrive
 
-ลองใช้วิธีนี้ถ้าไฟล์ไม่อัปโหลด:
+ให้ลองวิธีนี้ถ้าไฟล์ไม่อัปโหลด:
   
-- เปลี่ยนชื่อไฟล์แล้วลองอีกครั้ง ชื่อไฟล์และอักขระบางชื่อในชื่อไฟล์ไม่ได้รับอนุญาต 
+- เปลี่ยนชื่อไฟล์แล้วลองอีกครั้ง ชื่อไฟล์และอักขระบางตัวในชื่อไฟล์ไม่ได้รับอนุญาตให้ใช้ 
     
-- ถ้าคุณกำลังซิงค์ไฟล์ให้ย้ายไฟล์ออกจากโฟลเดอร์ OneDrive ของคุณ (ตัวอย่างเช่นย้ายไปยังเดสก์ท็อปของคุณ) และเมื่อสถานะการซิงค์ OneDrive ของคุณปรากฏเป็น "อัปเดตอยู่เสมอ" ให้ย้ายกลับไป 
+- ถ้าคุณซิงค์ไฟล์ ให้ย้ายไฟล์ออกจากโฟลเดอร์ OneDrive ของคุณ (ตัวอย่างเช่น ย้ายไฟล์ไปยังเดสก์ท็อปของคุณ) และเมื่อสถานะ การซิงค์สําหรับ OneDrive ของคุณปรากฏเป็น "ทันสมัย" ให้ย้ายไฟล์กลับ 
     
 [เคล็ดลับการแก้ไขปัญหาเพิ่มเติม](https://go.microsoft.com/fwlink/?linkid=873155)
   
