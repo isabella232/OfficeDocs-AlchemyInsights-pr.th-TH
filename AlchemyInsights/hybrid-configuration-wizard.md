@@ -1,5 +1,5 @@
 ---
-title: ตัวช่วยสร้างการกำหนดค่าแบบไฮบริด
+title: ตัวช่วยสร้างการกําหนดค่าแบบไฮบริด
 ms.author: dstrome
 author: dstrome
 manager: dansimp
@@ -13,19 +13,19 @@ ms.custom:
 - "603"
 - "3500010"
 ms.assetid: 94bdd043-be92-435e-8e0f-7ce453368919
-ms.openlocfilehash: 13361962fe2a3ee88a820c44c0839611c2b9b4e2
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: afb38121fdfbd244da39377a19f6756a5f0370f6707fade98eaf53def6981696
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47743782"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54015063"
 ---
-# <a name="hybrid-configuration-wizard"></a>ตัวช่วยสร้างการกำหนดค่าแบบไฮบริด
+# <a name="hybrid-configuration-wizard"></a>ตัวช่วยสร้างการกําหนดค่าแบบไฮบริด
 
-ตัวช่วยสร้างการกำหนดค่าแบบไฮบริดเป็นแอปที่ช่วยให้คุณตั้งค่าการปรับใช้แบบไฮบริตใหม่ระหว่างองค์กร Exchange ภายในองค์กรของคุณและ Microsoft ๓๖๕ ถ้าคุณมีการตั้งค่าการปรับใช้แบบไฮบริดของคุณแล้วตัวช่วยสร้างจะช่วยคุณอัปเดตการตั้งค่าการปรับใช้แบบไฮบริดของคุณ สำหรับข้อมูลเพิ่มเติมให้ดูที่:
+ตัวช่วยสร้างการกําหนดค่าแบบไฮบริดเป็นแอปที่จะช่วยคุณตั้งค่าการปรับใช้แบบไฮบริดใหม่ระหว่างการกําหนดค่าภายในExchangeองค์กรของคุณMicrosoft 365แบบ ถ้าคุณมีการตั้งค่าการปรับใช้แบบไฮบริดอยู่แล้ว ตัวช่วยสร้างจะช่วยคุณอัปเดตการตั้งค่าการปรับใช้แบบไฮบริดของคุณ ดูข้อมูลเพิ่มเติมที่:
   
-- [เรียกใช้ตัวช่วยสร้างการกำหนดค่าแบบไฮบริด](https://technet.microsoft.com/library/mt595788%28v=exchg.150%29.aspx)
+- [เรียกใช้ตัวช่วยสร้างการกําหนดค่าแบบไฮบริด](https://technet.microsoft.com/library/mt595788%28v=exchg.150%29.aspx)
 
-- [ตัวช่วยสร้างการกำหนดค่าแบบไฮบริด](https://technet.microsoft.com/library/hh529921%28v=exchg.150%29.aspx)
+- [ตัวช่วยสร้างการกําหนดค่าแบบไฮบริด](https://technet.microsoft.com/library/hh529921%28v=exchg.150%29.aspx)
 
-- [ตัวช่วยสร้างการกำหนดค่าแบบไฮบริด](https://technet.microsoft.com/library/mt488940%28v=exchg.150%29.aspx)
+- [ถามบ่อยเกี่ยวกับตัวช่วยสร้างการกําหนดค่าแบบไฮบริด](https://technet.microsoft.com/library/mt488940%28v=exchg.150%29.aspx)

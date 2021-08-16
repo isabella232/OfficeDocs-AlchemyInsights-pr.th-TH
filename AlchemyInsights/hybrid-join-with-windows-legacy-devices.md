@@ -1,5 +1,5 @@
 ---
-title: การรวมแบบไฮบริดกับอุปกรณ์แบบดั้งเดิมของ Windows
+title: เข้าร่วมแบบไฮบริดด้วยWindowsดั้งเดิม
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,13 +13,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "6137"
 - "9003244"
-ms.openlocfilehash: 03cc7753d1cfd93c2d87d7f2ab52ca2a2653ea84
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: b4b5fdf79fc7eb4cc9124ef740a68d3425f2c9b023b792f3d2538a29dd1ad7c2
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47743736"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54015027"
 ---
-# <a name="hybrid-join-with-windows-legacy-devices"></a>การรวมแบบไฮบริดกับอุปกรณ์แบบดั้งเดิมของ Windows
+# <a name="hybrid-join-with-windows-legacy-devices"></a>เข้าร่วมแบบไฮบริดด้วยWindowsดั้งเดิม
 
-สำหรับคำแนะนำเกี่ยวกับวิธีการแก้ไขปัญหาที่อาจเกิดขึ้นกับอุปกรณ์แบบไฮบริดของ Azure Active directory (Azure AD) ให้ดูที่[การแก้ไขปัญหาของไดเรกทอรีที่ใช้งานอยู่ของ azure แบบไฮบริดเข้าร่วมอุปกรณ์ระดับล่าง](https://docs.microsoft.com/azure/active-directory/devices/troubleshoot-hybrid-join-windows-legacy) 
+สําหรับแนวทางเกี่ยวกับวิธีแก้ไขปัญหาที่อาจเกิดขึ้นกับ Azure Active Directoryไฮบริด (Azure AD) Windowsแบบดั้งเดิม ให้ดู การแก้ไขปัญหาAzure Active Directoryแบบไฮบริดที่[รวมอุปกรณ์ในระดับ](https://docs.microsoft.com/azure/active-directory/devices/troubleshoot-hybrid-join-windows-legacy)เดียวกัน 

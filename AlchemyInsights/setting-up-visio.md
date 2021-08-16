@@ -1,5 +1,5 @@
 ---
-title: การตั้งค่า Visio
+title: การตั้งค่าVisio
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
@@ -9,19 +9,19 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 0162885a-13d5-4400-9972-935c9186c608
-ms.openlocfilehash: b5c77fe13124722afecd6b733fc4785878e53299
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: ae6af789d4de4d99b7ca0699e012bcbb2d715651765a17fcb7f16b91084acb04
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47798719"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54051685"
 ---
-# <a name="setting-up-visio"></a>การตั้งค่า Visio
+# <a name="setting-up-visio"></a>การตั้งค่าVisio
 
-ดูเหมือนว่าคุณต้องการความช่วยเหลือในการตั้งค่า Visio กับการสมัครใช้งาน Microsoft ๓๖๕ของคุณ
+ดูเหมือนว่าคุณต้องการความช่วยเหลือในการตั้งค่าVisioการสมัครใช้งาน Microsoft 365 ของคุณ
   
-การแจ้งให้ทราบสำหรับผู้ใช้ Mac: ผลิตภัณฑ์ Visio ไม่พร้อมใช้งานสำหรับ MacOS ในขณะนี้ ถ้าคุณมีพีซีคุณควรจะสามารถติดตั้งซอฟต์แวร์ได้โดยใช้ขั้นตอนด้านล่างนี้
+ประกาศเกี่ยวกับผู้ใช้ Mac: Visio MacOS ไม่พร้อมใช้งานกับผลิตภัณฑ์เหล่านี้ หากคุณมีพีซี คุณควรสามารถติดตั้งซอฟต์แวร์โดยใช้ขั้นตอนด้านล่าง
   
-คุณสามารถทำตามขั้นตอนใน [บทความนี้](https://support.office.com/article/f98f21e3-aa02-4827-9167-ddab5b025710.aspx) เพื่อทำการตั้งค่าของคุณให้เสร็จสมบูรณ์ได้ 
+คุณสามารถปฏิบัติตามขั้นตอน [ในบทความนี้เพื่อให้](https://support.office.com/article/f98f21e3-aa02-4827-9167-ddab5b025710.aspx) การตั้งค่าของคุณเสร็จสมบูรณ์ 
   
 
