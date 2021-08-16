@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "3800014"
 - "898"
-ms.openlocfilehash: 016b915a9e8f7e32d5d393bc47347991866647c7
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: bd193dea999efc7720ece1d4614be090f733bfb24d8fa518c61ee23cca0063dc
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51816291"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54032289"
 ---
 # <a name="create-a-sharing-policy-to-allow-your-users-to-share-their-calendar-with-people-outside-your-organization"></a>สร้างนโยบายการแชร์เพื่ออนุญาตให้ผู้ใช้ของคุณแชร์ปฏิทินของพวกเขากับบุคคลภายนอกองค์กรของคุณ
 
-1. จากแดชบอร์ดศูนย์การจัดการ Microsoft 365 ให้ไปที่ **Admin**  >  **Exchange**
+1. จากศูนย์การจัดการ Microsoft 365การตั้งค่า ให้ไปที่ **การตั้งค่า**  >  **Exchange** ผู้ดูแลระบบ
 2. ไปที่ **การแชร์**  >  **องค์กร**
 3. ในมุมมองรายการ ภายใต้ **การแชร์แต่ละรายการ****ให้คลิก** ใหม่
 4. ใน **นโยบายการแชร์** ใหม่ ให้พิมพ์ชื่อที่ที่เป็นมิตรเกี่ยวกับนโยบายการแชร์ในกล่อง **ชื่อ** นโยบาย
@@ -40,6 +40,6 @@ ms.locfileid: "51816291"
 
 **เพื่อความเข้าใจในหัวข้อนี้อย่างเต็มรูปแบบ โปรดอ่าน:**
 
-- [สร้างนโยบายการแชร์ใน Exchange Online](https://docs.microsoft.com/exchange/sharing/sharing-policies/create-a-sharing-policy)
-- [ปรับใช้นโยบายการแชร์กับกล่องจดหมายใน Exchange Online](https://docs.microsoft.com/exchange/sharing/sharing-policies/apply-a-sharing-policy)
-- [ปรับเปลี่ยน ปิดใช้งาน หรือเอานโยบายการแชร์ใน Exchange Online ออก](https://docs.microsoft.com/exchange/sharing/sharing-policies/modify-a-sharing-policy)
+- [สร้างนโยบายการแชร์ในExchange Online](https://docs.microsoft.com/exchange/sharing/sharing-policies/create-a-sharing-policy)
+- [ใช้นโยบายการแชร์กับกล่องจดหมายในExchange Online](https://docs.microsoft.com/exchange/sharing/sharing-policies/apply-a-sharing-policy)
+- [ปรับเปลี่ยน ปิดใช้งาน หรือเอานโยบายการแชร์Exchange Online](https://docs.microsoft.com/exchange/sharing/sharing-policies/modify-a-sharing-policy)

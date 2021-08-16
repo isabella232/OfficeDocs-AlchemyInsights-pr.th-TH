@@ -1,5 +1,5 @@
 ---
-title: ไม่มีผลลัพธ์ที่ส่งกลับระหว่างการค้นหาเนื้อหา/ส่งออก
+title: ไม่มีผลลัพธ์ที่ส่งกลับระหว่างการค้นหา/ส่งออกเนื้อหา
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,29 +12,29 @@ ms.collection: Adm_O365
 ms.custom:
 - "3200003"
 - "7463"
-ms.openlocfilehash: 8786f11f170edb151879235e19caa38b50f3f06e
-ms.sourcegitcommit: 3d662e1a1440ba74b5347896347d03bb8c8f3af5
+ms.openlocfilehash: 5c04364f98dccbcad0f011df866f137d79c166ad3839b408d6be447d50a87ac3
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 12/22/2020
-ms.locfileid: "49727242"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54101285"
 ---
-# <a name="no-results-returned-during-content-searchexport"></a>ไม่มีผลลัพธ์ที่ส่งกลับระหว่างการค้นหาเนื้อหา/ส่งออก
+# <a name="no-results-returned-during-content-searchexport"></a>ไม่มีผลลัพธ์ที่ส่งกลับระหว่างการค้นหา/ส่งออกเนื้อหา
 
-ถ้าคุณพบปัญหาเกี่ยวกับสถานการณ์สมมติ eDiscovery ดังต่อไปนี้
+ถ้าคุณพบปัญหาเกี่ยวกับสถานการณ์ eDiscovery ต่อไปนี้:
 
-- การค้นหาเนื้อหา/ส่งออกส่งกลับไม่มีข้อมูลหรือข้อมูลที่ไม่คาดคิด
-- การค้นหา eDiscovery หรือการส่งออกล้มเหลว
+- การค้นหา/ส่งออกเนื้อหาไม่ส่งกลับข้อมูลหรือข้อมูลที่ไม่คาดคิด
+- การค้นหาหรือการส่งออก eDiscovery ล้มเหลว
 
-การดำเนินการนี้อาจเกิดจากตัวกรองความปลอดภัยการปฏิบัติตามกฎระเบียบที่ตั้งค่าโดยผู้ดูแลระบบที่เฉพาะเจาะจงและไม่มีการสื่อสารกับผู้ดูแลระบบทั้งหมด
+ซึ่งอาจเกิดจากตัวกรองความปลอดภัยการปฏิบัติตามกฎระเบียบบางอย่างที่ได้รับการตั้งค่าโดยผู้ดูแลระบบที่ระบุและไม่ได้สื่อสารกับผู้ดูแลระบบทั้งหมด
 
-เมื่อต้องการแก้ไขปัญหานี้ให้ตรวจสอบว่ามีตัวกรองความปลอดภัยการปฏิบัติตามกฎระเบียบใดที่อาจทำให้เกิดปัญหาเหล่านี้:
+เมื่อต้องการแก้ไขปัญหานี้ ให้ตรวจสอบว่ามีตัวกรองความปลอดภัยการปฏิบัติตามนโยบายที่อาจทําให้เกิดปัญหาเหล่านี้:
 
-1. เชื่อมต่อกับการรักษาความปลอดภัยและการปฏิบัติตามนโยบายศูนย์ Powershell
-2. เรียกใช้ commandlet ต่อไปนี้:
+1. เชื่อมต่อ Powershell ของศูนย์การรักษาความปลอดภัยและการปฏิบัติตามนโยบาย
+2. เรียกใช้ commandlets ต่อไปนี้:
 
     `$org = “yourdomain.com”`
 
     `Get-ComplianceSecurityFilter -Organization $org`
 
-สำหรับข้อมูลเพิ่มเติมเกี่ยวกับตัวกรองความปลอดภัยการปฏิบัติตามกฎระเบียบให้ดูที่ [การกรองสิทธิ์สำหรับการค้นหาเนื้อหา](https://docs.microsoft.com/microsoft-365/compliance/permissions-filtering-for-content-search)
+For additional information on Compliance Security Filters, see [Permissions Filtering for Content Search](https://docs.microsoft.com/microsoft-365/compliance/permissions-filtering-for-content-search)

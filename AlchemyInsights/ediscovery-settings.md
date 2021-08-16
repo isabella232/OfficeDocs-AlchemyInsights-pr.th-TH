@@ -14,19 +14,19 @@ ms.assetid: ''
 ms.custom:
 - "2006"
 - "3200003"
-ms.openlocfilehash: 0c8f764fec63c7ad1ad690a9f9aef59d3652033c
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: bdf3707880d9b30ff6452a769bc0d2725be877373136a994a108e92d56d7b577
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47711006"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54101249"
 ---
 # <a name="ediscovery-settings"></a>การตั้งค่า Ediscovery
 
-การค้นหา eDiscovery/Content ช่วยให้คุณสามารถค้นหาการระงับและส่งออกเนื้อหาจากกล่องจดหมาย Exchange Online, SharePoint Online และ OneDrive for Business, Skype for business การสนทนา, ทีม Microsoft และ Microsoft ๓๖๕กลุ่ม
+การค้นหา eDiscovery/เนื้อหาจะช่วยให้คุณสามารถค้นหา พักสาย และส่งออกเนื้อหาจากกล่องจดหมาย Exchange Online, ไซต์ SharePoint Online และ OneDrive for Business, การสนทนา Skype for Business, กลุ่ม Microsoft Teams และ Microsoft 365 ได้
 
-- ถ้าคุณกำลังมองหาตัวเลือกของเมนูการค้นหา eDiscovery หรือเนื้อหาให้ดูที่[ปัญหา eDiscovery](https://docs.microsoft.com/alchemyinsights/ediscovery-issues)
-- เรียนรู้เกี่ยวกับสิทธิ์ที่จำเป็นสำหรับการดำเนินการค้นหา eDiscovery จาก[สิทธิ์ที่จำเป็นสำหรับการค้นหา ediscovery](https://docs.microsoft.com/alchemyinsights/permissions-required-for-ediscovery-searches)
-- ถ้าการค้นหาของคุณไม่ส่งกลับผลลัพธ์ที่คาดไว้ให้ดูที่การ[ค้นหาไม่ส่งกลับผลลัพธ์ที่คาดไว้](https://docs.microsoft.com/alchemyinsights/search-not-returning-expected-results)
+- ถ้าคุณมองหา eDiscovery หรือตัวเลือกเมนูการค้นหาเนื้อหา ให้ดู ปัญหา[eDiscovery](https://docs.microsoft.com/alchemyinsights/ediscovery-issues)
+- เรียนรู้เกี่ยวกับสิทธิ์ที่ต้องใช้ในการค้นหา eDiscovery จาก[สิทธิ์ที่ต้องใช้ในการค้นหา eDiscovery](https://docs.microsoft.com/alchemyinsights/permissions-required-for-ediscovery-searches)
+- ถ้าการค้นหาของคุณไม่ส่งกลับผลลัพธ์ที่คาดไว้ ให้ดู การค้นหา [ไม่ส่งกลับผลลัพธ์](https://docs.microsoft.com/alchemyinsights/search-not-returning-expected-results)ที่คาดไว้
 
-สำหรับข้อมูลเพิ่มเติมเกี่ยวกับ ediscovery ให้ดูที่[ediscovery](https://docs.microsoft.com/microsoft-365/compliance/ediscovery)
+For more information on ediscovery, see [Ediscovery](https://docs.microsoft.com/microsoft-365/compliance/ediscovery).

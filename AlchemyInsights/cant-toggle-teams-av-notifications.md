@@ -1,5 +1,5 @@
 ---
-title: ไม่สามารถเปิดหรือปิดการแจ้งให้ทราบของทีมเสียงและการแจ้งเตือนแบบเห็นได้
+title: ไม่สามารถเปิดหรือปิดTeamsการแจ้งเตือนด้วยเสียงและภาพ
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,17 +13,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003573"
 - "6652"
-ms.openlocfilehash: 8dd623a66a062c56f5beea7bdac450e365fc94ed
-ms.sourcegitcommit: 9a39e7cff11854c54c717a2c0094bfdfefee4ffd
+ms.openlocfilehash: 3aeb90cd37902651151531074010b5832ff444db939cc516935e780eda6c9510
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 10/01/2020
-ms.locfileid: "48365066"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54071099"
 ---
-# <a name="cant-turn-teams-sound-and-visual-notifications-on-or-off"></a>ไม่สามารถเปิดหรือปิดการแจ้งให้ทราบของทีมเสียงและการแจ้งเตือนแบบเห็นได้
+# <a name="cant-turn-teams-sound-and-visual-notifications-on-or-off"></a>ไม่สามารถเปิดหรือปิดTeamsการแจ้งเตือนด้วยเสียงและภาพ
 
-1. เลือกรูปภาพโปรไฟล์ของคุณที่มุมบนขวาของทีม
-2. เลือก**การ**  >  **แจ้งเตือน**การตั้งค่า
+1. เลือกรูปภาพโปรไฟล์ของคุณที่มุมTeamsด้านบน
+2. เลือก **การตั้งค่า**  >  **การแจ้งเตือน** ของคุณ
 3. ตั้งค่าตัวเลือกการแจ้งเตือนของคุณ
 
-สำหรับรายละเอียดเกี่ยวกับตัวเลือกเหล่านี้และข้อมูลเกี่ยวกับการตั้งค่าการแจ้งเตือนสำหรับแชนเนลและการสนทนาที่เฉพาะเจาะจงให้ดูที่[จัดการการแจ้งเตือนในทีม](https://support.microsoft.com/office/manage-notifications-in-teams-1cc31834-5fe5-412b-8edb-43fecc78413d)
+For details on these options and info about setting notifications for specific channels and conversations, see [Manage notifications in Teams](https://support.microsoft.com/office/manage-notifications-in-teams-1cc31834-5fe5-412b-8edb-43fecc78413d).
