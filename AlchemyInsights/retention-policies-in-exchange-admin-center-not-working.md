@@ -1,5 +1,5 @@
 ---
-title: นโยบายการเก็บข้อมูลในศูนย์การจัดการ Exchange ไม่ใช้งาน
+title: นโยบายการเก็บข้อมูลใน Exchangeศูนย์การจัดการไม่ใช้งานได้
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -13,18 +13,18 @@ ms.custom:
 - "308"
 - "3100007"
 ms.assetid: a48fd5fd-4af7-4d5f-b617-b0f9334ccaa7
-ms.openlocfilehash: bb2ce7ce2405be575dfdb79d304fef690e863a4e
-ms.sourcegitcommit: e9206b7bb1bf2efd2471edbf4c60c00c3607bc41
+ms.openlocfilehash: 6652ad5fc1691e1d5a4293d81f3a649f23ec38f18c8ed9fe06665628a901d13e
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 04/22/2021
-ms.locfileid: "51952247"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54074951"
 ---
-# <a name="retention-policies-in-exchange-admin-center"></a>นโยบายการเก็บข้อมูลในศูนย์การจัดการ Exchange
+# <a name="retention-policies-in-exchange-admin-center"></a>นโยบายการเก็บข้อมูลในExchangeการจัดการ
 
 ถ้าคุณต้องการให้เราเรียกใช้การตรวจสอบการตั้งค่าที่กล่าวถึงด้านล่างโดยอัตโนมัติ ให้เลือกปุ่ม ย้อนกลับ < ที่ด้านบนของหน้านี้ จากนั้นใส่ที่อยู่อีเมลของผู้ใช้ที่มีปัญหากับนโยบายการเก็บข้อมูล
 
-ถ้าคุณมีปัญหากับนโยบายการเก็บข้อมูลในศูนย์การจัดการ Exchange จะไม่ใช้กับกล่องจดหมายหรือรายการที่ไม่ได้ย้ายไปยังกล่องจดหมายเก็บถาวร ให้ตรวจสอบดังต่อไปนี้:
+ถ้าคุณมีปัญหากับนโยบายการเก็บข้อมูลในศูนย์Exchangeกล่องจดหมายหรือรายการที่ไม่ได้ย้ายไปยังกล่องจดหมายเก็บถาวร ให้ตรวจสอบดังต่อไปนี้:
 
 **สาเหตุหลัก:**
 
@@ -38,7 +38,7 @@ ms.locfileid: "51952247"
  
 **หมายเหตุ:** ถ้ากล่องจดหมายมีขนาดเล็กกว่า 10 MB ตัวช่วยจัดการโฟลเดอร์จะไม่ประมวลผลกล่องจดหมายโดยอัตโนมัติ
  
-ดูข้อมูลเพิ่มเติมเกี่ยวกับนโยบายการเก็บข้อมูลในศูนย์การจัดการ Exchange ที่:
+For more info on retention policies in the Exchange Admin Center, see:
 
 - [แท็กการเก็บข้อมูลและนโยบายการเก็บข้อมูล](https://docs.microsoft.com/exchange/security-and-compliance/messaging-records-management/retention-tags-and-policies)
 

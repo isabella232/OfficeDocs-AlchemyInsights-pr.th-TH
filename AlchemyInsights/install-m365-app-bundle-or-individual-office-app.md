@@ -1,5 +1,5 @@
 ---
-title: ติดตั้งแอป Microsoft ๓๖๕หรือแอป Office แต่ละแอป
+title: ติดตั้งชุดMicrosoft 365แอปหรือชุดแอปแอป Office
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,21 +13,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003892"
 - "6946"
-ms.openlocfilehash: f8098b094a38ed1bffc1fd1e914d8e4ae07c310f
-ms.sourcegitcommit: 4fbe6ac3b7c94303ab0f85807d6f49e70cf7721f
+ms.openlocfilehash: 796c73262e44e8f3e74f951f9409a9c6996367edeef53572f8caf6bbb56adf47
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 12/15/2020
-ms.locfileid: "49680387"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54067427"
 ---
-# <a name="install-the-microsoft-365-app-bundle-or-an-individual-office-app"></a>ติดตั้งแอป Microsoft ๓๖๕หรือแอป Office แต่ละแอป
+# <a name="install-the-microsoft-365-app-bundle-or-an-individual-office-app"></a>ติดตั้งชุดMicrosoft 365แอปหรือชุดแอปแอป Office
 
-กลุ่มแอป Microsoft ๓๖๕รวมถึง Word, Excel และ PowerPoint Bundle พร้อมใช้งานสำหรับ iPhone และจะพร้อมใช้งานสำหรับ iPad ในอนาคต แต่ละแอปจะพร้อมใช้งานสำหรับ iPhone เช่นเดียวกับ iPad
+ชุดMicrosoft 365แอปประกอบด้วย Word, Excel และ PowerPoint ชุดโปรแกรมจะพร้อมใช้งานiPhone และจะพร้อมใช้งานiPadในอนาคต แอปแต่ละรายการจะพร้อมใช้งานiPhoneแอปiPadแอป
 
-1. [การติดตั้งแอป bundle](https://go.microsoft.com/fwlink/?linkid=2136762)
+1. [ติดตั้งชุดแอป](https://go.microsoft.com/fwlink/?linkid=2136762)
 1. [ติดตั้ง Word](https://go.microsoft.com/fwlink/?linkid=2136974)
-1. [ติดตั้ง Excel](https://go.microsoft.com/fwlink/?linkid=2136975)
-1. [ติดตั้ง PowerPoint](https://go.microsoft.com/fwlink/?linkid=2136882)
-1. [ติดตั้ง OneNote](https://go.microsoft.com/fwlink/?linkid=2136883)
+1. [ติดตั้งExcel](https://go.microsoft.com/fwlink/?linkid=2136975)
+1. [ติดตั้งPowerPoint](https://go.microsoft.com/fwlink/?linkid=2136882)
+1. [ติดตั้งOneNote](https://go.microsoft.com/fwlink/?linkid=2136883)
 
-เมื่อต้องการเรียนรู้เพิ่มเติมให้ดู[ติดตั้งและตั้งค่า Office บน iPhone หรือ iPad](https://go.microsoft.com/fwlink/?linkid=2135560)
+เมื่อต้องการเรียนรู้เพิ่มเติม[ให้ดู ติดตั้งและOfficeบนiPhone หรือ iPad](https://go.microsoft.com/fwlink/?linkid=2135560)
