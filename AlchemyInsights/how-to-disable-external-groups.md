@@ -12,24 +12,24 @@ ms.custom:
 - "966"
 - "6000006"
 ms.assetid: 4e429507-039b-410e-a994-54b443d4e91e
-ms.openlocfilehash: f7a1bbda3a54d2662bdfe21cda961c32456edb82
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 9c513da49dc953b4ae76bb06854e33232ec40e11151f11ade33c3080092aa598
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47704147"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54015639"
 ---
 # <a name="how-to-disable-external-groups"></a>วิธีการปิดใช้งานกลุ่มภายนอก
 
-การส่งข้อความภายนอกของ Yammer ใช้กฎการขนส่ง Exchange (Etr) ชุดของตัวควบคุมเชิงรุกเพื่อป้องกันไม่ให้มีการแชร์ข้อมูลของบริษัท เมื่อต้องการจำกัดผู้ใช้จากการสร้างกลุ่มภายนอกคุณจำเป็นต้องกำหนดค่ากฎการขนส่ง Exchange (ETR) แล้วกำหนดค่า Yammer ให้ใช้กฎการขนส่ง Exchange เพื่อบล็อกการส่งข้อความภายนอก
+Yammerการส่งข้อความภายนอกExchangeกฎการส่งผ่าน (ETR) ชุดตัวควบคุมในเชิงรุกเพื่อป้องกันไม่ให้แชร์ข้อมูลบริษัท เมื่อต้องการจํากัดผู้ใช้จากการสร้างกลุ่มภายนอก คุณต้องกําหนดค่ากฎการส่งผ่านของ Exchange (ETR) แล้วกําหนดค่า Yammer ให้ใช้กฎ Exchange Transport เพื่อบล็อกการส่งข้อความภายนอก
   
-เมื่อคุณสร้างกฎในศูนย์การจัดการ Exchange Online แล้วให้ทำตามขั้นตอนต่อไปนี้เพื่อตั้งค่า ETR เพื่อนำไปใช้ใน Yammer:
+เมื่อคุณสร้างกฎในศูนย์การจัดการ Exchange Online ให้ปฏิบัติตามขั้นตอนเหล่านี้เพื่อตั้งค่าให้ ETR ใช้กับYammer:
   
-- เข้าสู่ระบบ Yammer เป็นผู้ดูแลระบบที่ผ่านการตรวจสอบและใน**ศูนย์การจัดการ Yammer**ให้ไปที่การ** \> ตั้งค่าการรักษาความปลอดภัยของเนื้อหาและการรักษาความปลอดภัย**ของ C
+- เข้าสู่ระบบYammerในฐานะผู้ดูแลระบบที่ผ่านการตรวจสอบ และใน ศูนย์ **Yammerการจัดการ** ให้ไปที่ เนื้อหา **C \>** และการรักษาความปลอดภัย การตั้งค่า
 
-- ภายใต้การ **ส่งข้อความภายนอก**ให้เลือก **บังคับใช้กฎการขนส่ง exchange Online exchange ของคุณ (Etr) ใน Yammer**
+- ภายใต้ **การส่งข้อความภายนอก** ให้เลือก **บังคับใช้กฎExchange Online Exchange Transport (ETR) Yammerของคุณ**
 
-- เลือก**บันทึก**
+- เลือกบันทึก
 
-สำหรับข้อมูลเพิ่มเติมให้ดู[ที่ปิดใช้งานการส่งข้อความภายนอกในเครือข่าย Yammer](https://docs.microsoft.com/yammer/work-with-external-users/disable-external-messaging)
+For more information, see [Disable external messaging in a Yammer network](https://docs.microsoft.com/yammer/work-with-external-users/disable-external-messaging).
   

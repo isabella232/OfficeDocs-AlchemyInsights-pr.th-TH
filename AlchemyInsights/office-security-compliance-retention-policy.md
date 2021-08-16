@@ -14,43 +14,43 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000048"
 - "1983"
-ms.openlocfilehash: 06d7ef59d8ce31e0b22635e68638219bc491ff98
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: d3d4443d0b82c3dc3b89b25f119f32dccdda9ef82e674cba97a945af9019ad00
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47673697"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53985668"
 ---
 # <a name="more-info-about-retention-policies"></a>ข้อมูลเพิ่มเติมเกี่ยวกับนโยบายการเก็บข้อมูล
 
-สำหรับองค์กรส่วนใหญ่แล้วระดับเสียงและความซับซ้อนของข้อมูลของพวกเขาจะเพิ่มขึ้นทุกวันอีเมลเอกสารข้อความโต้ตอบแบบทันทีและอื่นๆ การจัดการอย่างมีประสิทธิภาพหรือควบคุมข้อมูลนี้เป็นสิ่งสำคัญและนโยบายการเก็บข้อมูลจะช่วยให้คุณบรรลุเป้าหมายเหล่านี้ได้อย่างมีประสิทธิภาพ สำหรับข้อมูลเพิ่มเติมเกี่ยวกับนโยบายการเก็บข้อมูลโปรดไปที่ลิงก์เหล่านี้:
+For most organizations, the volume and complexity of their data is increasing daily - email, documents, instant messages, and more. การจัดการหรือการควบคุมข้อมูลนี้อย่างมีประสิทธิภาพนั้นสําคัญ และนโยบายการเก็บข้อมูลสามารถช่วยให้คุณบรรลุเป้าหมายเหล่านี้ได้ หากต้องการข้อมูลเพิ่มเติมเกี่ยวกับนโยบายการเก็บข้อมูล โปรดไปที่ลิงก์เหล่านี้:
 
 ## <a name="a-from-security-and-compliance-center"></a>A) จากศูนย์การรักษาความปลอดภัยและการปฏิบัติตามนโยบาย
 
-- ไปที่การรักษาความปลอดภัยและการปฏิบัติตามข้อบังคับ > การเก็บข้อมูล > การกำกับดูแลข้อมูล
-  - ดูบทความ[นี้](https://docs.microsoft.com/microsoft-365/compliance/retention-policies)
+- ไปที่ การรักษาความปลอดภัยและการปฏิบัติตาม>กํากับดูแล>เก็บข้อมูล
+  - ดู[บทความนี้](https://docs.microsoft.com/microsoft-365/compliance/retention-policies)
 
-- ไปที่การรักษาความปลอดภัยและการปฏิบัติตามข้อบังคับ > eDiscovery> eDiscovery ขั้นสูง 
-  - ดูบทความ[นี้](https://docs.microsoft.com/microsoft-365/compliance/ediscovery-cases)
+- ไปที่ความปลอดภัยและการปฏิบัติตาม> eDiscovery> Advanced eDiscovery 
+  - ดู[บทความนี้](https://docs.microsoft.com/microsoft-365/compliance/ediscovery-cases)
 
-- ไปที่การจัดประเภทการรักษาความปลอดภัยและการปฏิบัติตามข้อบังคับ > > การเก็บข้อมูล
+- ไปที่การรักษาความปลอดภัยและการปฏิบัติตาม>การจัดหมวดหมู่>ข้อมูล
   - ดูบทความเหล่านี้
-    - [ป้ายชื่อความลับ](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels)
-    - [ภาพรวมป้ายชื่อ](https://docs.microsoft.com/microsoft-365/compliance/labels)
+    - [ป้ายระดับความลับ](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels)
+    - [ภาพรวมป้ายผนึก](https://docs.microsoft.com/microsoft-365/compliance/labels)
 
-## <a name="b-legacy-ediscovery-policies"></a>ข) นโยบาย eDiscovery แบบดั้งเดิม
+## <a name="b-legacy-ediscovery-policies"></a>B) นโยบาย eDiscovery ดั้งเดิม
 
-- ดูบทความ[นี้](https://support.office.com/article/Set-up-an-eDiscovery-Center-in-SharePoint-Online-A18F8975-AA7F-43B4-A7D6-001D14744D8E)
+- ดู[บทความนี้](https://support.office.com/article/Set-up-an-eDiscovery-Center-in-SharePoint-Online-A18F8975-AA7F-43B4-A7D6-001D14744D8E)
 
-## <a name="c-site-closure-and-deletion-policies"></a>ค) นโยบายการปิดและการลบไซต์
+## <a name="c-site-closure-and-deletion-policies"></a>C) นโยบายการปิดและการลบไซต์
 
-- ดูบทความ[นี้](https://support.office.com/article/Use-policies-for-site-closure-and-deletion-A8280D82-27FD-48C5-9ADF-8A5431208BA5)  
+- ดู[บทความนี้](https://support.office.com/article/Use-policies-for-site-closure-and-deletion-A8280D82-27FD-48C5-9ADF-8A5431208BA5)  
 
-## <a name="d-information-rights-management-irm"></a>ง) การจัดการสิทธิ์ในข้อมูล (IRM)
+## <a name="d-information-rights-management-irm"></a>D) การจัดการสิทธิ์ในข้อมูล (IRM)
 
 - ดูบทความเหล่านี้
   - [IRM บนรายการ/ไลบรารี](https://support.office.com/article/apply-information-rights-management-to-a-list-or-library-3bdb5c4e-94fc-4741-b02f-4e7cc3c54aa1)
-  - [ภาพรวมของ IRM](https://support.office.com/article/create-and-apply-information-management-policies-eb501fe9-2ef6-4150-945a-65a6451ee9e9)
+  - [ภาพรวม IRM](https://support.office.com/article/create-and-apply-information-management-policies-eb501fe9-2ef6-4150-945a-65a6451ee9e9)
 
 > [!Note]
-> เราขอแนะนำให้คุณย้ายไปยังนโยบายความปลอดภัยและการปฏิบัติตามกฎระเบียบถ้าคุณยังคงใช้ eDiscovery หรือ IRM แบบดั้งเดิมหรือนโยบายการปิดและการลบไซต์
+> เราขอแนะให้ย้ายไปยังนโยบายการรักษาความปลอดภัยและการปฏิบัติตามข้อบังคับถ้าคุณยังคงใช้นโยบาย eDiscovery หรือ IRM หรือนโยบายการปิดไซต์และการลบแบบดั้งเดิม

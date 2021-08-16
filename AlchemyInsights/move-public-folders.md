@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "3500007"
 - "7983"
-ms.openlocfilehash: 5edcff180bb8599b882630b09f3bbff7c4a07c06
-ms.sourcegitcommit: c1c6047ec467853dc823a17b02c461a6a476406d
+ms.openlocfilehash: fc2a7de297b0c85046490b8e9147ea739f3c9a7f259a723d1c5ab95d57006fbb
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 01/27/2021
-ms.locfileid: "50036087"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53986244"
 ---
 # <a name="move-public-folders-between-public-folder-mailboxes"></a>ย้ายโฟลเดอร์สาธารณะระหว่างกล่องจดหมายโฟลเดอร์สาธารณะ
 
-คุณสามารถย้ายโฟลเดอร์สาธารณะใน Exchange Online ได้ระหว่างกล่องจดหมายโฟลเดอร์สาธารณะโดยใช้ Outlook for Windows Desktop Client
+คุณสามารถย้ายโฟลเดอร์สาธารณะExchangeออนไลน์ระหว่างกล่องจดหมายโฟลเดอร์สาธารณะโดยใช้Outlook โฟลเดอร์สาธารณะในไคลเอ็นต์เดสก์ท็อป Windows ได้
 
-ถ้าคุณพยายามย้ายโฟลเดอร์สาธารณะจาก Exchange ภายในองค์กรไปยัง Exchange Online ให้ดูบทความต่อไปนี้:
+ถ้าคุณพยายามย้ายโฟลเดอร์สาธารณะจากExchangeภายในองค์กรไปยังExchangeแบบออนไลน์ ให้อ่านบทความต่อไปนี้:
 
-[โยกย้ายโฟลเดอร์สาธารณะของ Exchange Server 2013,2016,2019 ไปยัง Exchange Online](https://aka.ms/ModernPFToEXO)
+[โยกย้ายExchange Serverสาธารณะ 2013,2016,2019 Exchangeแบบออนไลน์](https://aka.ms/ModernPFToEXO)
 
-[โยกย้ายโฟลเดอร์สาธารณะ Exchange Server 2010 ไปยัง Exchange Online](https://aka.ms/LegacyPFToEXO)
+[โยกย้ายExchange Serverสาธารณะ 2010 Exchange Online](https://aka.ms/LegacyPFToEXO)
