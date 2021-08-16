@@ -10,27 +10,27 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 85f24284-af6f-4624-b6be-901a4a9206eb
-ms.openlocfilehash: 447fee84edc65861dc04038cfe6424249e94f843
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 28ebe2b1375b142ca63dc686c7afbbe88abfd539a93780cff3861f80de40b411
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51823626"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54021867"
 ---
 # <a name="solutions-for-issues-around-installing-office-on-a-terminal-server"></a>วิธีแก้ไขปัญหาเกี่ยวกับการติดตั้ง Office บนเซิร์ฟเวอร์เทอร์มินัล
 
-เมื่อต้องการใช้การเปิดใช้งานคอมพิวเตอร์ที่แชร์ คุณต้องมีการสมัครใช้งานที่มีแอป Microsoft 365 For Enterprise
+เมื่อต้องการใช้การเปิดใช้งานคอมพิวเตอร์ที่แชร์ คุณต้องมีการสมัครใช้งานที่มีMicrosoft 365 Apps for enterpriseนี้
   
 - ตรวจสอบว่าเปิดใช้งานคอมพิวเตอร์ที่แชร์อยู่
 - ตรวจสอบว่าการเปิดใช้งานสเร็จแล้ว
 - ตรวจทานข้อความแสดงข้อผิดพลาดเพื่อเปิดใช้งานคอมพิวเตอร์ที่แชร์ ดังนี้
-- "ผลิตภัณฑ์ที่เราพบในบัญชีผู้ใช้ของคุณไม่สามารถใช้เพื่อเปิดใช้งาน Office ในสถานการณ์คอมพิวเตอร์ที่แชร์ได้"
+- "ผลิตภัณฑ์ที่เราพบในบัญชีผู้ใช้ของคุณไม่สามารถใช้เพื่อเปิดใช้งานOfficeในสถานการณ์คอมพิวเตอร์ที่แชร์ได้"
   
-ข้อผิดพลาดนี้หมายความว่าคุณไม่มีการสมัครใช้งานที่รวมแอป Microsoft 365 For Enterprise
+ข้อผิดพลาดนี้หมายความว่าคุณไม่มีการสมัครใช้งานที่รวมMicrosoft 365 Apps for enterpriseการสมัครใช้งาน
 
 "ผลิตภัณฑ์ที่ไม่มีใบอนุญาต"
 
-- ตรวจสอบว่าผู้ใช้ได้รับมอบหมายสิทธิ์การใช้งานแอป Microsoft 365 For Enterprise
+- ตรวจสอบว่าผู้ใช้ได้รับมอบหมายสิทธิ์การใช้งานMicrosoft 365 Apps for enterpriseหรือไม่
 - ตรวจสอบว่าผู้ใช้ลงชื่อเข้าใช้ด้วยบัญชีผู้ใช้ของตน
 - ตรวจสอบว่ามีการเชื่อมต่อระหว่างคอมพิวเตอร์ที่แชร์และอินเทอร์เน็ตอยู่
 
