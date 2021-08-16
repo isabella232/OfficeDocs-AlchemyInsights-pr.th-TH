@@ -1,5 +1,5 @@
 ---
-title: วิธีดาวน์โหลดและติดตั้ง Microsoft To Do
+title: วิธีดาวน์โหลดและติดตั้งMicrosoft To Do
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003043"
 - "6109"
-ms.openlocfilehash: ce4bdde013156b382b13e5e001f7b7ea2a234501
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 40f4107d51fc090f00311ecf49c0dea0c224c1f6bf10f9aca0a0e04931e91e11
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51814680"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54057841"
 ---
-# <a name="how-to-download-and-install-microsoft-to-do"></a>วิธีดาวน์โหลดและติดตั้ง Microsoft To Do
+# <a name="how-to-download-and-install-microsoft-to-do"></a>วิธีดาวน์โหลดและติดตั้งMicrosoft To Do
 
-แอป Microsoft To Do for Win32, iOS, Android และ Mac สามารถดาวน์โหลดได้จาก Store ที่เหมาะสม
+Microsoft To Doแอป Win32, iOS, Android และ Mac สามารถดาวน์โหลดได้จาก Store ที่เหมาะสม
 
 ถ้าคุณห้ามการเข้าถึงจาก Store ให้กับผู้เช่าของคุณ โปรดดูที่ [https://docs.microsoft.com/microsoft-store/distribute-offline-apps](https://docs.microsoft.com/microsoft-store/distribute-offline-apps) ตัวติดตั้งแบบออฟไลน์
 
