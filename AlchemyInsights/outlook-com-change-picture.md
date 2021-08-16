@@ -13,19 +13,19 @@ ms.assetid: 81ce6c8b-6f73-4489-9539-f14680168a8e
 ms.custom:
 - "8000036"
 - "793"
-ms.openlocfilehash: 9b3f884bc30f2d61bab47cacbf0188f05e00c343
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: a9cec3fd3c2902c8dfd6742c63d02f0a5591838cd253054e18052cf67648ec1b
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47802472"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54064007"
 ---
 # <a name="change-your-microsoft-account-picture"></a>เปลี่ยนรูปภาพบัญชี Microsoft ของคุณ
 
-1. ไปที่[ข้อมูลบัญชี Microsoft ของคุณ](https://go.microsoft.com/fwlink/p/?linkid=860841)
-2. เลือก**เปลี่ยนรูปภาพ**
-3. เลือก**รูปภาพใหม่**
-4. เลือกรูปภาพที่คุณต้องการใช้แล้วเลือก**เปิด**
-5. ลากหรือปรับขนาดกล่องรูปภาพแล้วเลือก**บันทึก**
+1. ไปที่ [ข้อมูลบัญชี Microsoft](https://go.microsoft.com/fwlink/p/?linkid=860841)ของคุณ
+2. เลือก **เปลี่ยน** รูปภาพ
+3. เลือก **รูปภาพ** ใหม่
+4. เลือกรูปภาพที่คุณต้องการใช้ **และเลือก** เปิด
+5. ลากหรือปรับขนาดกล่องรูปภาพ **แล้วเลือก** บันทึก
 
-โปรดอนุญาตให้มีการเปลี่ยนแปลงรูปถ่ายโปรไฟล์ของคุณได้ถึง24ชั่วโมงเพื่อให้มีผล
+โปรดให้เวลาไม่เกิน 24 ชั่วโมงเพื่อให้การเปลี่ยนแปลงรูปภาพโปรไฟล์ของคุณมีผล

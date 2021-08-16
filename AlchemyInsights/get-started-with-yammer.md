@@ -1,5 +1,5 @@
 ---
-title: เริ่มต้นใช้งาน Yammer
+title: เริ่มต้นใช้งานYammer
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -13,15 +13,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004222"
 - "7430"
-ms.openlocfilehash: ba3cff52a4907a0c11fb1cef165fe805ae369cc0
-ms.sourcegitcommit: 3c6e777d6679a24108171e9aa3f9379a8d44e001
+ms.openlocfilehash: a4bd4a24484596b8d14202d9490be297f5633b6b9ccd1a4958673b49752f77c7
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 12/09/2020
-ms.locfileid: "49679307"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54002313"
 ---
-# <a name="get-started-with-yammer"></a>เริ่มต้นใช้งาน Yammer
+# <a name="get-started-with-yammer"></a>เริ่มต้นใช้งานYammer
 
-Yammer เป็นเครือข่ายสังคมระดับองค์กรที่ดีที่สุดในระดับที่ปลอดภัยและเป็นส่วนตัว Yammer ให้ประสบการณ์การใช้งานที่น่าสนใจและใช้งานง่ายบนเว็บและในแอป Yammer สำหรับอุปกรณ์ Android และ iOS Yammer สามารถรวมเข้ากับทีม Microsoft และ Outlook ได้ Yammer ยังมีประสบการณ์การรวมที่ได้รับการปรับปรุงใน SharePoint Online
+Yammerเป็นเครือข่ายสังคมระดับองค์กรที่ปลอดภัยและเป็นส่วนตัวที่สุด Yammerมอบประสบการณ์การใช้งานที่น่าสนใจและใช้งานง่ายบนเว็บและในแอป Yammer for Android และ iOS Yammerสามารถรวมเข้ากับMicrosoft Teams Outlookได้ Yammerยังให้ประสบการณ์การรวมที่อัปเดตแล้วSharePoint Online อีกด้วย
 
-ใช้โปรแกรมช่วยแนะนำการปรับใช้ Yammer เพื่อเตรียมเครือข่าย Yammer ของคุณโดยการเพิ่มโดเมนการกำหนดผู้ดูแลและการรวมเครือข่าย Yammer ปรับใช้ Yammer และกำหนดลักษณะที่กำหนดเองให้กำหนดค่าความปลอดภัยและการปฏิบัติตามกฎระเบียบและปรับแต่งการตั้งค่า
+ใช้โปรแกรมYammerช่วยช่วยYammerการปรับใช้เพื่อเตรียมเครือข่ายของคุณโดยการเพิ่มโดเมน การYammerผู้ดูแลระบบ ปรับใช้Yammerกําหนดลักษณะ กําหนดค่าความปลอดภัยและการปฏิบัติตามนโยบายเอง และปรับปรุงการตั้งค่า
