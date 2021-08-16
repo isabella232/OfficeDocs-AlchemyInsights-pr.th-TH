@@ -1,5 +1,5 @@
 ---
-title: การเปลี่ยนแปลงเนื้อหาของบล็อก SMIME
+title: การเปลี่ยนแปลงเนื้อหาการบล็อก SMIME
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -12,15 +12,15 @@ localization_priority: Normal
 ms.custom:
 - "1275"
 - "1800028"
-ms.openlocfilehash: f337e48f12e3900bcf5ed37a1905835c096ecb33
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 0cca0219e7963b5a74b71a9f5eb4d1f5796299bfaa97c9d8265dcbf3f641b172
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47770282"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54022083"
 ---
-# <a name="outlook-will-now-default-block-external-content-in-smime"></a>Outlook จะเริ่มต้นการบล็อกเนื้อหาภายนอกใน S/MIME ในขณะนี้
+# <a name="outlook-will-now-default-block-external-content-in-smime"></a>Outlookบล็อกเนื้อหาภายนอกใน S/MIME ตามค่าเริ่มต้น
 
-เราจะแนะนำมาตรการด้านความปลอดภัยที่เพิ่มเข้ามาใน Outlook สำหรับ Windows ด้วยการบล็อกเนื้อหาภายนอกในการเข้ารหัสลับ S/MIME และข้อความที่เซ็นชื่อตามค่าเริ่มต้นและการป้องกันการแทนที่ในแต่ละข้อความ
+เราขอแนะนํามาตรการด้านความปลอดภัยเพิ่มเติมใน Outlook for Windows โดยการบล็อกเนื้อหาภายนอกในข้อความที่เข้ารหัสและเซ็นชื่อ S/MIME ตามค่าเริ่มต้น และป้องกันการแทนที่ตามข้อความ
 
-สำหรับรายละเอียดทั้งหมดโปรดดู[ที่ Outlook สำหรับ Windows บล็อกเนื้อหาภายนอกในข้อความ S/MIME](https://support.office.com/article/2d3a4af1-fe41-475f-a888-fc7b997d112e)
+For full details please see [Outlook for Windows blocks external content in S/MIME messages](https://support.office.com/article/2d3a4af1-fe41-475f-a888-fc7b997d112e).

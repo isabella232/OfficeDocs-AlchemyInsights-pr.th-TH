@@ -9,15 +9,15 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: a8343f03-1b8c-4c29-be84-72b025e51d72
-ms.openlocfilehash: eb5d13b60f7a8e23638a27f6be42422d0ceb0a95
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 69d039e67a29dd11c1f9a3a8388420836808c447b4670768abd3dae36d80f8a2
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47738908"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54022119"
 ---
 # <a name="site-is-not-available"></a>ไซต์ไม่พร้อมใช้งาน
 
-ถ้าไซต์ SharePoint หรือ OneDrive ของคุณไม่พร้อมใช้งานสำหรับผู้ใช้หลายคนอาจมีปัญหาในการบริการชั่วคราว ตรวจสอบ [แดชบอร์ดความสมบูรณ์ของบริการ](https://admin.microsoft.com/AdminPortal/Home#/servicehealth) เพื่อดูว่าผู้เช่าของคุณได้รับผลกระทบหรือไม่ 
+ถ้าSharePoint OneDriveไซต์ของคุณไม่สามารถใช้งานได้กับผู้ใช้หลายราย อาจมีปัญหาชั่วคราวเกี่ยวกับบริการ ตรวจสอบ [แดชบอร์ดสถานภาพ](https://admin.microsoft.com/AdminPortal/Home#/servicehealth) บริการเพื่อดูว่าผู้เช่าของคุณได้รับผลกระทบหรือไม่ 
   
 
