@@ -1,5 +1,5 @@
 ---
-title: ไฟล์ OneDrive และ .pst
+title: OneDriveไฟล์และ .pst
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "6002"
 - "9003081"
-ms.openlocfilehash: 16dfc5b39be7967a6de7967edee28bc7f08d216b
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: de6de2c7483280143b8bed51d0af1048d39137a5c72a22c09131d32326b8e447
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47673264"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53984876"
 ---
-# <a name="onedrive-and-pst-files"></a>ไฟล์ OneDrive และ .pst 
+# <a name="onedrive-and-pst-files"></a>OneDriveไฟล์และ .pst 
 
-OneDrive สนับสนุนไฟล์ .pst ของ Outlook อย่างไรก็ตามพวกเขากำลังซิงค์น้อยกว่าเมื่อเทียบกับชนิดไฟล์อื่นๆเพื่อลดปริมาณการใช้งานเครือข่าย เมื่อต้องการป้องกันไม่ให้แอป OneDrive sync อัปโหลดไฟล์ .pst ให้ดูที่การ[บล็อกการซิงค์ชนิดไฟล์ที่เฉพาะเจาะจง](https://docs.microsoft.com/onedrive/block-file-types) 
+OneDriveสนับสนุนOutlook .pst ของคุณ อย่างไรก็ตาม ไฟล์จะถูกซิงค์น้อยลงเมื่อเทียบกับไฟล์ชนิดอื่นๆ เพื่อลดปริมาณการใช้เครือข่าย เมื่อต้องการป้องกันไม่ให้การซิงค์สําหรับ OneDriveอัปโหลดไฟล์ .pst ให้ดู[บล็อกการซิงค์ของชนิดไฟล์](https://docs.microsoft.com/onedrive/block-file-types)ที่ระบุ 
 
-เมื่อต้องการย้ายไฟล์ .pst ออกจาก OneDrive ให้ดู[วิธีการเอาไฟล์ข้อมูล .pst ของ Outlook ออกจาก onedrive](https://support.microsoft.com/office/how-to-remove-an-outlook-pst-data-file-from-onedrive-b6b9e522-59bd-40f7-949f-168d0aa9b38e) 
+เมื่อต้องการย้ายไฟล์ .pst ออกจากOneDrive ให้ดูที่[วิธีลบไฟล์Outlook .pst ออกจาก](https://support.microsoft.com/office/how-to-remove-an-outlook-pst-data-file-from-onedrive-b6b9e522-59bd-40f7-949f-168d0aa9b38e)OneDrive 
 
-ถ้าผู้ใช้เปิดใช้งานการสำรองข้อมูลโฟลเดอร์พีซีด้วยตนเองโดยไม่มีนโยบายกลุ่มข้อผิดพลาดจะเกิดขึ้นถ้ามีไฟล์ .pst ในหนึ่งในโฟลเดอร์ที่รู้จัก
+ถ้าผู้ใช้เปิดใช้งานการสํารองข้อมูลโฟลเดอร์พีซีด้วยตนเองโดยไม่มีนโยบายกลุ่ม ข้อผิดพลาดจะเกิดขึ้นถ้าพวกเขามีไฟล์ .pst ในโฟลเดอร์ที่รู้จักโฟลเดอร์ใดโฟลเดอร์หนึ่ง
 
-ถ้าคุณใช้ OneDrive for work หรือโรงเรียนชนิดไฟล์บางชนิดอาจถูกบล็อกโดยผู้ดูแลระบบไซต์ SharePoint ขององค์กร
+ถ้าคุณใช้โฟลเดอร์ OneDriveหรือโรงเรียน ไฟล์บางชนิดอาจถูกบล็อกโดยผู้ดูแลระบบSharePointไซต์ของคุณ

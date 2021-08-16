@@ -1,5 +1,5 @@
 ---
-title: คํานวณที่เก็บข้อมูล SharePoint
+title: คํานวณที่SharePointเก็บข้อมูล
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000355"
 - "10010"
-ms.openlocfilehash: aaabcc52b4811c1eea9cd3f0c65e2bf81644354b
-ms.sourcegitcommit: 9540ba561c98b511483d6f3264c43bbecbf9f4d5
+ms.openlocfilehash: 7feac3177052b8647ff571f875f6978e84b046e06283bc8ac5ba48cc148f14a6
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 03/29/2021
-ms.locfileid: "51420933"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54046447"
 ---
-# <a name="calculate-sharepoint-storage"></a>คํานวณที่เก็บข้อมูล SharePoint
+# <a name="calculate-sharepoint-storage"></a>คํานวณที่SharePointเก็บข้อมูล
 
-**สูตรที่เก็บข้อมูล:** 1 TB บวก 10 GB ต่อสิทธิ์การใช้งานของแผนที่มีสิทธิ์ที่ซื้อและ Add-on **[ของ Office 365 Extra File Storage](https://docs.microsoft.com/microsoft-365/commerce/add-storage-space)** ใดๆ ที่ซื้อ [](https://docs.microsoft.com/microsoft-365/commerce/add-storage-space)
+**สูตรที่เก็บข้อมูล:** 1 TB บวก 10 GB ต่อสิทธิ์การใช้งานของแผนที่มีสิทธิ์ซึ่งOffice 365 Extra File Storage **[Add-on](https://docs.microsoft.com/microsoft-365/commerce/add-storage-space)** ที่ซื้อ [](https://docs.microsoft.com/microsoft-365/commerce/add-storage-space)
 
-For more information see, [SharePoint storage limits by plan](https://docs.microsoft.com/office365/servicedescriptions/sharepoint-online-service-description/sharepoint-online-limits).
+ดูข้อมูลเพิ่ม โปรดดู SharePoint[จํากัดพื้นที่จัดเก็บข้อมูลตาม](https://docs.microsoft.com/office365/servicedescriptions/sharepoint-online-service-description/sharepoint-online-limits)แผน

@@ -1,5 +1,5 @@
 ---
-title: ไม่ได้ตั้งค่าสิทธิ์ MDM ของคุณ
+title: ไม่ได้ตั้งค่าผู้มีสิทธิ์ออก MDM ของคุณ
 ms.author: erikje
 author: erikje
 manager: dougeby
@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000662"
 - "2636"
-ms.openlocfilehash: 435c8f50c336f6c7c34ff04cf0a3dda20f693cc3
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 6cd7f1f663bf61290acca29251043898a3d4a4bfecab2b3c56eeb3207e8ccf9d
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47796307"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54046699"
 ---
-# <a name="your-mdm-authority-is-not-set"></a>ไม่ได้ตั้งค่าสิทธิ์ MDM ของคุณ
+# <a name="your-mdm-authority-is-not-set"></a>ไม่ได้ตั้งค่าผู้มีสิทธิ์ออก MDM ของคุณ
 
-ไม่ได้ตั้งค่าสิทธิ์การใช้งานการจัดการอุปกรณ์เคลื่อนที่ (MDM) ของผู้เช่ารายนี้ คุณต้องตั้งค่าสิทธิ์การใช้งาน MDM ก่อนที่จะลงทะเบียนและจัดการอุปกรณ์ผ่าน Intune MDM โดยไม่ต้องตั้งค่าหน่วยงาน MDM ที่คุณจะไม่สามารถใช้ฟีเจอร์ MDM ของ Intune ได้ การตั้งค่าสิทธิ์การใช้งาน MDM จะกำหนดวิธีที่คุณจัดการอุปกรณ์ของคุณ
+ไม่ได้ตั้งค่าผู้ให้บริการจัดการอุปกรณ์เคลื่อนที่ (MDM) ของผู้เช่านี้ คุณต้องตั้งค่าผู้ให้บริการออก MDM ก่อนลงทะเบียนและจัดการอุปกรณ์ผ่าน Intuny MDM เมื่อไม่ได้ตั้งค่าสิทธิ์ MDM คุณจะไม่สามารถใช้ฟีเจอร์ MDM ของ Intuny ได้ การตั้งค่าผู้ให้บริการออก MDM จะระบุวิธีที่คุณจัดการอุปกรณ์ของคุณ
 
-ขั้นตอนที่แนะนำ:
-1. นำทางไปยังใบมีดภาพรวมการลงทะเบียน Intune เพื่อตั้งค่าสิทธิ์การใช้งาน MDM
-2. เลือกสิทธิ์การใช้งานที่เหมาะสมโดยยึดตามความต้องการในการดูแลของคุณ สำหรับข้อมูลเพิ่มเติมให้ดู[ที่ตั้งค่าบทความสิทธิ์การใช้งานการจัดการอุปกรณ์เคลื่อนที่](https://docs.microsoft.com/intune/mdm-authority-set)
+ขั้นตอนที่แนะนา:
+1. นําทางไปยัง Blade ภาพรวมการลงทะเบียน Intuny เพื่อตั้งค่าผู้ให้บริการออก MDM
+2. เลือกหน่วยงานที่เหมาะสมตามความต้องการด้านการจัดการของคุณ For more information, see [Set the mobile device management authority article](https://docs.microsoft.com/intune/mdm-authority-set).

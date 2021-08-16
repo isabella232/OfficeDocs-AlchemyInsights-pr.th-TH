@@ -1,5 +1,5 @@
 ---
-title: ความพร้อมใช้งาน Microsoft Viva Connections
+title: Microsoft Viva Connections ความพร้อมใช้งาน
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004616"
 - "8336"
-ms.openlocfilehash: b8bdb514949750f6041019bcbb725934b76e68f4
-ms.sourcegitcommit: 0fc6005bbe351a861be1805a2e15b52438c914c9
+ms.openlocfilehash: aca273a73ba1ae750e1467857ad777bbbfbc90e98b8ff4912e7acef498010221
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 02/18/2021
-ms.locfileid: "50315468"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54000483"
 ---
-# <a name="microsoft-viva-connections-availability"></a>ความพร้อมใช้งาน Microsoft Viva Connections
+# <a name="microsoft-viva-connections-availability"></a>Microsoft Viva Connections ความพร้อมใช้งาน
 
-Microsoft Viva Connections จะพร้อมใช้งานกับเดสก์ท็อปในครึ่งปีแรกของปี 2021 และมือถือในฤดูร้อนปี 2021 ฟีเจอร์เพิ่มเติมจะทยลให้คนดูเมื่อปี 2022
+Microsoft Viva Connectionsจะมีให้ใช้งานบนเดสก์ท็อปในครึ่งปีแรกของปี 2021 และมือถือในช่วงฤดูร้อนของปี 2021 ฟีเจอร์เพิ่มเติมจะทยให้ฟีเจอร์นั้นเริ่มทยบขึ้นเมื่อปี 2022
 
-ดูข้อมูลเพิ่มเติมว่า Microsoft [Viva Connections ช่วยให้ทุกคนมีส่วนร่วมและมีข้อมูล](https://techcommunity.microsoft.com/t5/microsoft-viva-blog/microsoft-viva-connections-helps-everyone-to-stay-engaged-and/ba-p/2107009)อยู่อย่างไร
+ดูข้อมูลเพิ่ม โปรดดูวิธีที่[Microsoft Viva Connectionsช่วยให้ทุกคนมีส่วนร่วมและมีข้อมูล](https://techcommunity.microsoft.com/t5/microsoft-viva-blog/microsoft-viva-connections-helps-everyone-to-stay-engaged-and/ba-p/2107009)

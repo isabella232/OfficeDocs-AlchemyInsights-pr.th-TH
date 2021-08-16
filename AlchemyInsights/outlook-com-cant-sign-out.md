@@ -1,5 +1,5 @@
 ---
-title: Outlook.com ไม่สามารถลงชื่อออกได้
+title: Outlook.com ลงชื่อออกไม่ได้
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -12,17 +12,17 @@ ms.custom:
 - "8000008"
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.openlocfilehash: 1a319509369e4832fa27ca4b35155c33a03d5245
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 78d3a570eedac8cb341d66b63d53048a7ba57a502bff63dfaa2148e087390289
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47752774"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53984660"
 ---
-# <a name="unable-to-sign-out-of-outlookcom"></a>ไม่สามารถลงชื่อออกจาก Outlook.com ได้
+# <a name="unable-to-sign-out-of-outlookcom"></a>ไม่สามารถลงชื่อออกจาก Outlook.com
 
-เมื่อต้องการลงชื่อออกจาก Outlook.com ให้เลือกชื่อหรือรูปภาพของคุณที่มุมบนขวาของหน้าจอจากนั้นเลือก**ลงชื่อออก**
+เมื่อต้องการลงชื่อออกจาก Outlook.com ให้เลือกชื่อหรือรูปภาพของคุณที่มุมขวาบนของหน้าจอ **จากนั้นเลือก ลงชื่อ** ออก
 
-ถ้าคุณไม่เห็นรูปภาพของคุณที่ด้านบนของหน้าจอให้ตรวจดูว่าการบล็อกโฆษณาเปิดใช้งานอยู่หรือไม่ ในบางครั้งการทำเช่นนี้จะป้องกันไม่ให้รูปภาพแสดง
+ถ้าคุณไม่เห็นรูปภาพของคุณที่ด้านบนของหน้าจอ ให้ตรวจสอบว่าการบล็อกโฆษณาเปิดอยู่หรือไม่ บางครั้งตัวเลือกนี้จะป้องกันไม่ให้รูปภาพแสดง
 
-ถ้าคุณยังไม่สามารถลงชื่อออกจาก Outlook.com ให้คลิกปิดหน้าต่าง  [https://login.live.com/logout.srf](https://login.live.com/logout.srf) เบราว์เซอร์ทั้งหมด
+ถ้าคุณยังไม่สามารถลงชื่อออกจาก Outlook.com ได้ [https://login.live.com/logout.srf](https://login.live.com/logout.srf) ให้คลิก จากนั้นคลิก ปิดหน้าต่างเบราว์เซอร์ทั้งหมด

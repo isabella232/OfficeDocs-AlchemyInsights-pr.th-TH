@@ -1,5 +1,5 @@
 ---
-title: ไม่สามารถเข้าสู่ระบบทีมได้เนื่องจากข้อผิดพลาด autologon.microsoftazuread-sso.com:443
+title: ไม่สามารถเข้าสู่ระบบTeamsเนื่องจาก autologon.microsoftazuread-sso.com:443
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
@@ -12,26 +12,26 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001686"
 - "3750"
-ms.openlocfilehash: 649124db135805d8101b43dbead63860d36853ed
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 6671a63d97f24fadc9b34907d75600a3c0ad1c9990a4a8f8d32034c11e8a952e
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47799979"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54038419"
 ---
-# <a name="unable-to-log-into-teams-due-to-error-autologonmicrosoftazuread-sso-dot-com443"></a>ไม่สามารถเข้าสู่ระบบทีมได้เนื่องจากข้อผิดพลาด autologon microsoftazuread-sso dot com: 443
+# <a name="unable-to-log-into-teams-due-to-error-autologonmicrosoftazuread-sso-dot-com443"></a>ไม่สามารถเข้าสู่ระบบในTeamsเนื่องจากข้อผิดพลาด autologon.microsoftazuread-sso dot com:443
 
-ถ้ามีการเปิดใช้งาน SSO อย่างราบรื่นเป็นการรับรองความถูกต้องของ O365 URL "autologon.microsoftazuread-sso.com" อาจจำเป็นต้องเพิ่มลงในอินทราเน็ตไซต์  ถ้ามีการเพิ่มไปยังไซต์ที่เชื่อถือได้ก่อนหน้านี้และ SSO ที่ราบรื่นถูกใช้งานอยู่จะถูกเอาออกจากไซต์ที่เชื่อถือได้
+ถ้าเปิดใช้งาน SSO อย่างราบรื่นเป็นการรับรองความถูกต้อง O365 URL "autologon.microsoftazuread-sso.com" อาจจะถูกเพิ่มลงในไซต์อินทราเน็ต  ถ้าก่อนหน้านี้ถูกเพิ่มลงในไซต์ที่เชื่อถือได้และใช้ SSO อย่างราบรื่น อยู่ ควรเอา SSO ออกจากไซต์ที่เชื่อถือได้
 
-โปรดตรวจทาน[รายการตรวจสอบการแก้ไขปัญหาของ SSO ที่ราบรื่น](https://docs.microsoft.com/azure/active-directory/hybrid/tshoot-connect-sso#troubleshooting-checklist)
+โปรดตรวจทานรายการ [ตรวจสอบการแก้ไขปัญหา SSO](https://docs.microsoft.com/azure/active-directory/hybrid/tshoot-connect-sso#troubleshooting-checklist)อย่างราบรื่น
 
-ทำตามขั้นตอนต่อไปนี้เพื่อเพิ่ม URL ลงในรายการไซต์อินทราเน็ต:
+ให้ปฏิบัติตามขั้นตอนเหล่านี้เพื่อเพิ่ม URL ลงในรายการไซต์อินทราเน็ต
 
-1. เปิด Internet Explorer ด้วยการคลิกปุ่ม**เริ่ม** ในกล่องค้นหาให้พิมพ์ Internet Explorer จากนั้นในรายการผลลัพธ์ให้คลิก**Internet Explorer**
-2. คลิก**เครื่องมือ**แล้วคลิก**ตัวเลือกอินเทอร์เน็ต**
-3. คลิกแท็บ**ความปลอดภัย**
-4. ในตอนนี้ให้คลิกที่**ไซต์อินทราเน็ตเฉพาะ**ที่จากนั้นคลิกที่ปุ่ม**ไซต์**แล้วกดปุ่ม**ขั้นสูง**
-5. ใส่ URL ของเว็บไซต์แล้วคลิก**เพิ่ม**
-6. เมื่อคุณดำเนินการเสร็จสิ้นแล้วให้คลิก**ปิด**
+1. เปิด Internet Explorer **โดยการคลิกปุ่ม** เริ่ม ในกล่องค้นหา ให้พิมพ์ Internet Explorer จากนั้นในรายการผลลัพธ์ ให้คลิก **Internet Explorer**
+2. **คลิก** เครื่องมือ แล้วคลิก **ตัวเลือก** อินเทอร์เน็ต
+3. **คลิกแท็บ** ความปลอดภัย
+4. ในตอนนี้ **ให้คลิกที่ ไซต์อินทราเน็ต** เฉพาะที่ จากนั้นคลิก **ปุ่ม** ไซต์ **จากนั้นคลิกปุ่ม** ขั้นสูง
+5. ใส่ URL ของเว็บไซต์ **แล้วคลิก** เพิ่ม
+6. เมื่อเสร็จแล้ว **ให้คลิก** ปิด
 
-สำหรับข้อมูลเพิ่มเติมให้ดูที่ [เอกสารประกอบสำหรับการปรับใช้ SSO อย่างราบรื่นสำหรับ O365](https://docs.microsoft.com/azure/active-directory/hybrid/how-to-connect-sso-quick-start) (รวมถึงกระบวนการที่ใช้นโยบายเพื่อเพิ่ม URL ลงในไซต์อินทราเน็ตในขั้นตอนที่ 3)
+For more information, see [Documentation for deploying Seamless SSO for O365](https://docs.microsoft.com/azure/active-directory/hybrid/how-to-connect-sso-quick-start) (includes policy-based process to add a URL to Intranet Sites in step 3).
