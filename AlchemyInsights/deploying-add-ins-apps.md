@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "11107"
 - "9005477"
-ms.openlocfilehash: a878a35ba9b530ce22ca7c263d20bd942d6896a8
-ms.sourcegitcommit: 6c6b0c3885f33b08db929fe0b6496508d31fa2d6
+ms.openlocfilehash: 3aacc3c6675f4102a5b34a435c862215dbfd0479b75549d608ed3c91021ed3d7
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 05/06/2021
-ms.locfileid: "52233553"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54031425"
 ---
 # <a name="deploying-add-ins-for-microsoft-365-apps"></a>การปรับใช้ Add-in Microsoft 365 Apps
 
@@ -27,7 +27,7 @@ ms.locfileid: "52233553"
 **หมายเหตุ:** เมื่อต้องการติดตั้ง Add-in Officeเป็นผู้ใช้แต่ละราย [ให้ดู ดู จัดการ และติดตั้ง Add-in](https://support.microsoft.com/topic/view-manage-and-install-add-ins-in-office-programs-16278816-1948-4028-91e5-76dca5380f8d)Officeต่างๆ นอกจากนี้ ตรวจสอบให้แน่ใจว่าได้เปิดใช้งานการรับ add-in Office Store แต่ละรายการแล้ว For details, see [Prevent add-in downloads by off the Office Store across all clients (Except Outlook)](https://docs.microsoft.com/microsoft-365/admin/manage/manage-addins-in-the-admin-center?view=o365-worldwide#prevent-add-in-downloads-by-turning-off-the-office-store-across-all-clients-except-outlook).
 
 1. ตรวจสอบให้แน่ใจว่าสภาพแวดล้อมของคุณตรงตามความต้องการในการปรับใช้ Add-in โดยใช้การปรับใช้แบบรวมศูนย์ โปรดดูรายละเอียดที่[ข้อกฎหมาย](https://docs.microsoft.com/microsoft-365/admin/manage/centralized-deployment-of-add-ins?#requirements)
-2. ไปที่ **การตั้งค่า**  >  **แอปที่**  >  **รวมรับ** แอปในศูนย์Microsoft 365การจัดการเพื่อปรับใช้ Add-in 
+2. ไปที่ **การตั้งค่า**  >  **แอปที่**  >  **รวมรับ** แอปในศูนย์การจัดการ Microsoft 365เพื่อปรับใช้ Add-in 
 
 หมายเหตุ: 
 
@@ -46,6 +46,6 @@ ms.locfileid: "52233553"
 [ปรับใช้ Add-in ในศูนย์การจัดการ](https://docs.microsoft.com/microsoft-365/admin/manage/manage-deployment-of-add-ins) 
  [จัดการ Add-in ในศูนย์การจัดการ](https://docs.microsoft.com/microsoft-365/admin/manage/manage-addins-in-the-admin-center) 
  [ใช้ cmdlet PowerShell ของการปรับใช้แบบรวมศูนย์เพื่อจัดการ Add-in](https://docs.microsoft.com/microsoft-365/enterprise/use-the-centralized-deployment-powershell-cmdlets-to-manage-add-ins) 
- [เผยแพร่Office Add-in โดยใช้การปรับใช้จากส่วนกลางผ่านทางMicrosoft 365การจัดการ](https://docs.microsoft.com/office/dev/add-ins/publish/centralized-deployment#publish-an-office-add-in-via-centralized-deployment) 
+ [เผยแพร่Office Add-in โดยใช้การปรับใช้แบบรวมศูนย์ผ่านทางศูนย์การจัดการ Microsoft 365](https://docs.microsoft.com/office/dev/add-ins/publish/centralized-deployment#publish-an-office-add-in-via-centralized-deployment) 
  [การแก้ไขปัญหา: ผู้ใช้ไม่เห็น Add-in](https://docs.microsoft.com/office365/troubleshoot/access-management/user-not-seeing-add-ins) 
  [การแก้ไขปัญหาข้อผิดพลาดผู้ใช้ที่มีOffice Add-in](https://docs.microsoft.com/office/dev/add-ins/testing/testing-and-troubleshooting)

@@ -13,16 +13,16 @@ ms.custom:
 - "745"
 - "1200010"
 ms.assetid: b20356eb-857f-4b79-a49a-f1a915e7e921
-ms.openlocfilehash: b1de72c37e53ed91000b2c7fc95fc27c5b9a8942
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 2c41c5b3992b9e162a1946354e3b16a72c0ff4a062e56733758f5a888231b866
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51815454"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54031533"
 ---
 # <a name="deleting-users"></a>การลบผู้ใช้
 
-ถ้าคุณต้องการบล็อกการเข้าถึงของผู้ใช้และต้องการเก็บข้อมูลของพวกเขาในทันที โปรดดู บล็อกการเข้าถึงข้อมูล [Microsoft 365 ของพนักงาน](https://docs.microsoft.com/microsoft-365/admin/add-users/remove-former-employee#block-a-former-employees-access-to-microsoft-365-data)เก่า
+ถ้าคุณต้องการบล็อกการเข้าถึงของผู้ใช้ทันทีและต้องการเก็บข้อมูลของพวกเขา โปรดดู บล็อกการเข้าถึงของพนักงานเก่าMicrosoft 365[ข้อมูล](https://docs.microsoft.com/microsoft-365/admin/add-users/remove-former-employee#block-a-former-employees-access-to-microsoft-365-data)ของพวกเขา
   
 If you simply want to delete the user and are not concerned with any of their data, please see [Delete a user from your organization](https://docs.microsoft.com/microsoft-365/admin/add-users/delete-a-user). ซึ่งจะเพิ่มสิทธิ์การใช้งานของพวกเขาทันที
   

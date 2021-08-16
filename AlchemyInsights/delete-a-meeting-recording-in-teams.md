@@ -1,5 +1,5 @@
 ---
-title: ลบการบันทึกการประชุมในทีม
+title: ลบการบันทึกการประชุมในTeams
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
@@ -8,26 +8,26 @@ ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.openlocfilehash: c8e6c1bc9a64cca6bf84c13e71387629326f62f4
-ms.sourcegitcommit: dd4054a97ac9c317cb559994846a9695543ddc2c
+ms.openlocfilehash: b58ca3d72eb7e937fbc33beb87a5f47e4b6280ca845224f973189e689c33c03c
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 11/18/2020
-ms.locfileid: "49447472"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54031569"
 ---
-# <a name="delete-a-meeting-recording-in-teams"></a>ลบการบันทึกการประชุมในทีม
+# <a name="delete-a-meeting-recording-in-teams"></a>ลบการบันทึกการประชุมในTeams
 
-การบันทึกเจ้าของ (บุคคลที่เริ่มการบันทึกหรือเจ้าของเพิ่มเติมที่ชื่อโดยบุคคลนั้น) เป็นบุคคลเดียวที่สามารถลบการบันทึกได้  
+เจ้าของการบันทึก (บุคคลที่เริ่มการบันทึก หรือเจ้าของเพิ่มเติมที่มีชื่อโดยบุคคลนั้น) เป็นเพียงบุคคลที่สามารถลบการบันทึกได้เท่านั้น  
 
-เมื่อต้องการเรียนรู้เกี่ยวกับการลบการบันทึกการประชุมใน OneDrive (สำหรับการประชุมที่ไม่ใช่แชนเนล) ให้[ไปที่นี่](https://support.microsoft.com/office/21fe345a-e488-4fa7-932b-f053c1bebe8a)  
+เมื่อต้องการเรียนรู้เกี่ยวกับการลบการบันทึกการประชุมในOneDriveการประชุม (ในการประชุมที่ไม่ใช่แชนเนล[) ให้ไป](https://support.microsoft.com/office/21fe345a-e488-4fa7-932b-f053c1bebe8a)ที่นี่  
 
-เมื่อต้องการเรียนรู้เกี่ยวกับการลบการบันทึกการประชุมใน SharePoint (สำหรับการประชุมทางแชนเนล) ให้[ไปที่นี่](https://support.microsoft.com/office/71f3c90a-0d24-4d80-8b66-f88234b79a52)  
+เมื่อต้องการเรียนรู้เกี่ยวกับการลบการบันทึกการประชุมในSharePointการประชุม (for channel [meetings) ให้ไปที่](https://support.microsoft.com/office/71f3c90a-0d24-4d80-8b66-f88234b79a52)นี่  
 
-**สำคัญ**
+**สําคัญ:**
 
-- ในไตรมาสที่1ของ๒๐๒๑ **ทีมการบันทึกการประชุมจะไม่ถูกบันทึกไปยัง [สตรีมของ Microsoft](https://stream.microsoft.com/)อีกต่อไป** การย้ายไปข้างหน้าการบันทึกการประชุมทั้งหมดจะถูกบันทึกไปยัง OneDrive และ SharePoint บางองค์กรกำลังเลือกที่จะทำการเปลี่ยนแปลงนี้อยู่แล้ว สำหรับผู้ใช้เหล่านั้นการโยกย้ายไปยัง  [OneDrive และ SharePoint](https://docs.microsoft.com/MicrosoftTeams/tmr-meeting-recording-change)  จะเริ่มต้นในเดือนตุลาคม๒๐๒๐
+- ใน Q1 of 2021 **Teamsการบันทึกการประชุมจะไม่ถูกบันทึกไปยัง [Microsoft Stream](https://stream.microsoft.com/)** อีกต่อไป มุ่งไปข้างหน้า การบันทึกการประชุมทั้งหมดจะถูกบันทึกOneDriveและSharePointการประชุม บางองค์กรได้เลือกเปลี่ยนแปลงแล้ว For those users, migration to [OneDrive and SharePoint](https://docs.microsoft.com/MicrosoftTeams/tmr-meeting-recording-change) will begin in October 2020.
 
-**ถ้าองค์กรของคุณยังคงใช้สตรีม** โปรดทำตามคำแนะนำต่อไปนี้:
+**หากองค์กรของคุณยังคงใช้ Stream โปรดปฏิบัติตาม** คําแนะนําเหล่านี้:
 
-- ในทีมให้ไปที่การบันทึกในประวัติการแชทแล้วคลิกตัวเลือกเพิ่มเติม *** > เปิดใน Microsoft Stream
-- บนพอร์ทัล Microsoft Stream ให้คลิก *** > ลบ
+- ในTeamsไปที่การบันทึกในประวัติการแชท แล้วคลิก ตัวเลือกเพิ่มเติม ******* > เปิดใน Microsoft Stream
+- บนพอร์ทัล Microsoft Stream ให้คลิก ******* > Delete

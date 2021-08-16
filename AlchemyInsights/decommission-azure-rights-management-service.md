@@ -1,5 +1,5 @@
 ---
-title: บริการการจัดการสิทธิ์ของ Azure ยกเลิก (RMS)
+title: ยกเลิกบริการ Azure Rights Management (RMS)
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,27 +13,27 @@ ms.collection: Adm_O365
 ms.custom:
 - "5070"
 - "9002278"
-ms.openlocfilehash: 6bacfd0e383c1a7c02b50e60f9626a733ee68cbc
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 9347eb827c5225042b4c84a4a324c8dcba2b5403bf033b86b498047ba696bfce
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47745806"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54031831"
 ---
-# <a name="decommission-azure-rights-management-service-rms"></a>บริการการจัดการสิทธิ์ของ Azure ยกเลิก (RMS)
+# <a name="decommission-azure-rights-management-service-rms"></a>ยกเลิกบริการ Azure Rights Management (RMS)
 
-ตรวจสอบให้แน่ใจว่าคุณมีสำเนาของคีย์ผู้เช่าการป้องกันข้อมูล Azure ของคุณและโดเมนการประกาศที่เชื่อถือได้ที่เหมาะสม (TPD) ก่อนที่คุณจะปิดใช้งานบริการการจัดการสิทธิ์ของ Azure
+ตรวจสอบให้แน่ใจว่าคุณมีสําเนาของคีย์ผู้เช่า Azure Information Protection และโดเมนการเผยแพร่ที่เชื่อถือได้ (TPD) ที่เหมาะสมก่อนที่คุณจะปิดใช้งานบริการ Azure Rights Management
 
-สำหรับแหล่งข้อมูลเพิ่มเติมเกี่ยวกับการรื้อถอนและปิดการป้องกันการป้องกันข้อมูล Azure ให้ดูที่:
+For additional resources about decommissioning and deactivating protection for Azure Information Protection, see:
 
-- [บทช่วยสอน: กำหนดค่าการตั้งค่านโยบายการป้องกันข้อมูล Azure และสร้างป้ายชื่อใหม่](https://docs.microsoft.com/azure/information-protection/get-started/infoprotect-quick-start-tutorial)
-- [การป้องกันข้อมูล Azure คืออะไร](https://docs.microsoft.com/azure/information-protection/what-is-information-protection)
-- [เส้นบอกแนววิธีการสำหรับสถานการณ์สมมติทั่วไปที่ใช้การป้องกันข้อมูลของ Azure](https://docs.microsoft.com/azure/information-protection/how-to-guides)  
+- [บทช่วยสอน: กําหนดการตั้งค่านโยบาย Azure Information Protection และสร้างป้ายชื่อใหม่](https://docs.microsoft.com/azure/information-protection/get-started/infoprotect-quick-start-tutorial)
+- [Azure Information Protection คืออะไร](https://docs.microsoft.com/azure/information-protection/what-is-information-protection)
+- [คู่มือวิธีการเกี่ยวกับสถานการณ์ทั่วไปที่ใช้ Azure Information Protection](https://docs.microsoft.com/azure/information-protection/how-to-guides)  
     
-- [วิธีการโยกย้ายป้ายชื่อการป้องกันข้อมูลของ Azure ไปยังป้ายชื่อความลับแบบครบวงจร](https://docs.microsoft.com/azure/information-protection/configure-policy-migrate-labels)  
+- [วิธีการโยกย้ายป้ายชื่อ Azure Information Protection ไปยังป้ายระดับความลับแบบครบวงจร](https://docs.microsoft.com/azure/information-protection/configure-policy-migrate-labels)  
     
-- [การกำหนดราคาการป้องกันข้อมูลของ Azure](https://azure.microsoft.com/pricing/details/information-protection)  
+- [ราคา Azure Information Protection](https://azure.microsoft.com/pricing/details/information-protection)  
     
-- [ความต้องการในการป้องกันข้อมูลของ Azure](https://docs.microsoft.com/azure/information-protection/get-started/requirements)  
+- [ความต้องการของ Azure Information Protection](https://docs.microsoft.com/azure/information-protection/get-started/requirements)  
     
 - [วิธีการเปิดใช้งานบริการการป้องกันการจัดการสิทธิ์จากพอร์ทัล Azure](https://docs.microsoft.com/azure/information-protection/deploy-use/activate-azure)

@@ -1,5 +1,5 @@
 ---
-title: ตัวช่วยสร้างการปรับใช้ Office กับผู้ใช้ระยะไกล
+title: ปรับใช้Officeตัวช่วยสร้างผู้ใช้ระยะไกล
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004224"
 - "7433"
-ms.openlocfilehash: bef318409ffc54ec25d97eca5120374f277a684c
-ms.sourcegitcommit: a7952283882d341515623d5ae58eda14d0553449
+ms.openlocfilehash: 0f3234d26cece5bcff586b7b654635a3fc71de98ed11653e3d52699e1bc965de
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 12/10/2020
-ms.locfileid: "49679571"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54031461"
 ---
-# <a name="deploy-office-to-remote-users-wizard"></a>ตัวช่วยสร้างการปรับใช้ Office กับผู้ใช้ระยะไกล
+# <a name="deploy-office-to-remote-users-wizard"></a>ปรับใช้Officeตัวช่วยสร้างผู้ใช้ระยะไกล
 
-ในตอนนี้การทำงานจากระยะไกลคือบรรทัดฐานผู้ใช้จำเป็นต้องได้รับการตั้งค่า Office ขององค์กรของคุณเมื่อพวกเขาไม่ได้เชื่อมต่อกับเครือข่ายภายในของคุณหรือเมื่อใช้อุปกรณ์ของตัวเอง
+ตอนนี้การใช้งานได้จากระยะไกลเป็นบรรทัดฐาน ผู้ใช้ต้องได้รับการตั้งค่า Office ขององค์กรของคุณเมื่อไม่ได้เชื่อมต่อกับเครือข่ายภายในของคุณหรือเมื่อใช้อุปกรณ์ของตนเอง
 
-ใช้ตัวช่วยสร้างการ [ปรับใช้ office กับผู้ใช้ระยะไกล](https://go.microsoft.com/fwlink/?linkid=2149564) เพื่อสร้างการติดตั้ง office แบบกำหนดเองแล้วส่งผู้ใช้สคริปต์ PowerShell ที่สร้างขึ้นซึ่งจะติดตั้ง Office ด้วยการกำหนดค่าของคุณอย่างราบรื่น
+ใช้[ตัวช่วยสร้างการปรับใช้Officeผู้ใช้ระยะไกล](https://go.microsoft.com/fwlink/?linkid=2149564)เพื่อสร้างการติดตั้งแบบกําหนดเอง Office แล้วส่งสคริปต์ PowerShell ที่สร้างขึ้นให้กับผู้ใช้ที่จะติดตั้งกับOfficeที่คุณกําหนดค่าได้อย่างราบรื่น
