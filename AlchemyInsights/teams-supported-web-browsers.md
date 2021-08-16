@@ -1,5 +1,5 @@
 ---
-title: เว็บเบราว์เซอร์ที่สนับสนุน Teams
+title: Teamsเว็บเบราว์เซอร์ที่สนับสนุนภาษา
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,13 +12,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001490"
 - "3540"
-ms.openlocfilehash: 26701aa868930784e7bf968b7799175fa0f3f80b
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 05b765d53a0e432993f405fc5ea7ab86597d1e7c830251a77f4167a536d2b7dc
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51824706"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53981250"
 ---
-# <a name="teams-supported-web-browsers"></a>เว็บเบราว์เซอร์ที่สนับสนุน Teams
+# <a name="teams-supported-web-browsers"></a>Teamsเว็บเบราว์เซอร์ที่สนับสนุนภาษา
 
-Teams รองรับเบราว์เซอร์อินเทอร์เน็ตตามที่ระบุไว้ในบทความ ขีดจํากัดและข้อจํากัดของ [Microsoft Teams](https://docs.microsoft.com/microsoftteams/limits-specifications-teams#browsers)โดยมีข้อยกเว้นที่ระบุไว้เกี่ยวกับการโทรและการประชุม
+Teamsสนับสนุนเบราว์เซอร์อินเทอร์เน็ตที่แสดงอยู่ในบทความ ขีดจํากัดและข้อจํากัดของ[Microsoft Teams](https://docs.microsoft.com/microsoftteams/limits-specifications-teams#browsers)โดยมีข้อยกเว้นที่ระบุไว้เกี่ยวกับการโทรและการประชุม
