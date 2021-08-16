@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002883"
 - "5499"
-ms.openlocfilehash: 05ee4c8a9e5c3f7b0827d50e2469915f4c1e86a0
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: e6d4a6bb9cfd92a06a771a117eef6efb8e7f5c8ea80cc5afd9daa619f4bd3079
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51814067"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54002823"
 ---
 # <a name="enable-or-disable-microsoft-bookings"></a>เปิดใช้งานหรือปิดใช้งาน Microsoft Bookings
 
-เปิดหรือปิดใช้งาน Microsoft Bookings ใน **ศูนย์การจัดการ Microsoft 365**
+เปิดหรือปิดใช้งาน Microsoft Bookings **ศูนย์การจัดการ Microsoft 365**
 
-1. ไปที่ **การตั้งค่า >[](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/Settings/Services)** การตั้งค่า แล้วคลิก **Bookings**
+1. ไปที่ **การตั้งค่า >[การตั้งค่า](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/Settings/Services)** **Bookings**
 2. คลิกกล่องกาเครื่องหมาย **ของ อนุญาตให้องค์กรของคุณใช้ Bookings** เพื่อเปิดใช้งานหรือปิดใช้งานการจองขององค์กรของคุณ
 3. คลิก **บันทึก** การเปลี่ยนแปลง
 

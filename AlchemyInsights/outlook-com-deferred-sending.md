@@ -1,5 +1,5 @@
 ---
-title: การส่งที่เลื่อนออกไปใน Outlook.com
+title: การส่งที่ถูกเลื่อนOutlook.com
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -13,19 +13,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "2380"
 - "9000544"
-ms.openlocfilehash: deb5394cc0b88f061ae908c40e127d9aa087d077
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 028768348fd81b4fecc622b94b140107b58e04110127166cab8e92ce3ab33b36
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47752090"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54041425"
 ---
-# <a name="delay-or-schedule-sending-email-messages"></a>การหน่วงเวลาหรือจัดกำหนดการส่งข้อความอีเมล
+# <a name="delay-or-schedule-sending-email-messages"></a>หน่วงเวลาหรือจัดเวลาการส่งข้อความอีเมล
 
-ขออภัยคุณไม่สามารถเลื่อนหรือจัดกำหนดการส่งข้อความอีเมลในแอปสำหรับอุปกรณ์เคลื่อนที่หรือเว็บเบราว์เซอร์ได้ เมื่อต้องการทำเช่นนี้ให้ใช้[outlook สำหรับ Windows หรือ outlook For Mac](https://products.office.com/outlook/email-and-calendar-software-microsoft-outlook)
+ขออภัย คุณไม่สามารถเลื่อนหรือจัดเวลาการส่งข้อความอีเมลในแอปบนมือถือหรือเว็บเบราว์เซอร์ได้ เมื่อต้องการOutlook[ให้ใช้ Windows หรือ Outlook for Mac](https://products.office.com/outlook/email-and-calendar-software-microsoft-outlook)
 
-**เลิกทำการส่ง**
+**เลิกทําการส่ง**
 
-คุณสามารถเปลี่ยนการตั้งค่า Outlook.com ของคุณเพื่อให้การส่งข้อความล่าช้าได้ถึง10วินาที คุณสามารถยกเลิกการส่งข้อความในระหว่างช่วงเวลานี้ได้ เมื่อต้องการเปิดใช้งานฟีเจอร์นี้ให้เปิดการตั้งค่าการ [เลิกทำการส่ง](https://outlook.live.com/mail/options/mail/messageContent/undoSend) ของคุณ
+คุณสามารถเปลี่ยนการตั้งค่า Outlook.com เพื่อหน่วงเวลาการส่งข้อความได้สูงสุดถึง 10 วินาที คุณสามารถยกเลิกการส่งข้อความระหว่างช่วงเวลานี้ เมื่อต้องการเปิดฟีเจอร์นี้ ให้เปิดการตั้งค่า ยกเลิกการ[ส่ง](https://outlook.live.com/mail/options/mail/messageContent/undoSend)
 
-เรียนรู้เพิ่มเติมเกี่ยวกับการเรียก[นึกอีเมลใน Outlook.com](https://support.office.com/article/c069ddde-5282-4085-8f4c-d7b133324f8a?wt.mc_id=Office_Outlook_com_Alchemy)
+เรียนรู้เพิ่มเติมเกี่ยวกับ[การเรียกคืนอีเมลใน Outlook.com](https://support.office.com/article/c069ddde-5282-4085-8f4c-d7b133324f8a?wt.mc_id=Office_Outlook_com_Alchemy)

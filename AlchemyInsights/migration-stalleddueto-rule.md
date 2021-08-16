@@ -1,5 +1,5 @@
 ---
-title: ๙๗๓การโยกย้าย StalledDueTo * กฎ
+title: กฎการโยกย้าย 973 StalledDusTo*
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -13,13 +13,13 @@ ms.custom:
 - "973"
 - "3500008"
 ms.assetid: e8448771-3828-43d0-b17d-0c2c87377bf2
-ms.openlocfilehash: 5c1127878dfe2c4a2c79712eceaa9181e95c794a
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 41852cb864ee3c6e9919039f9228eb5f12bbdaa7aa2ed86d2c1b654bd84c65c9
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47674165"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53992346"
 ---
-# <a name="stalleddueto-errors-during-migration"></a>StalledDueTo ข้อผิดพลาดในระหว่างการโยกย้าย
+# <a name="stalleddueto-errors-during-migration"></a>ข้อผิดพลาด StalledDusTo ระหว่างการโยกย้าย
 
-คุณอาจเห็นข้อผิดพลาดที่หลากหลายที่เริ่มต้นด้วย "StalledDueTo" ระหว่างการโยกย้ายของคุณไปยัง Exchange Online ข้อผิดพลาดเหล่านี้หลายข้อผิดพลาดเป็นปกติอย่างสมบูรณ์ สำหรับข้อมูลเพิ่มเติมให้ดูที่การควบคุมปริมาณและการจัดลำดับความสำคัญของ[ทรัพยากรในการโยกย้าย Exchange Online](https://techcommunity.microsoft.com/t5/exchange-team-blog/resource-based-throttling-and-prioritization-in-exchange-online/ba-p/608020)
+คุณอาจเห็นข้อผิดพลาดที่หลากหลายที่ขึ้นต้นด้วย "StalledDusTo..." ระหว่างการโยกย้ายExchange Online ข้อผิดพลาดหลายอย่างเหล่านี้เป็นเรื่องปกติอย่างสมบูรณ์แบบ For more information, see [Resource Based Throttling and Prioritization in Exchange Online Migrations](https://techcommunity.microsoft.com/t5/exchange-team-blog/resource-based-throttling-and-prioritization-in-exchange-online/ba-p/608020).

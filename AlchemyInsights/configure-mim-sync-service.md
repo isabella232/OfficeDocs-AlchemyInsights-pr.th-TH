@@ -1,5 +1,5 @@
 ---
-title: การกําหนดค่าบริการการซิงค์ MIM
+title: การกําหนดMIMบริการการซิงค์
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -13,24 +13,24 @@ ms.collection: Adm_O365
 ms.custom:
 - "8472"
 - "9004688"
-ms.openlocfilehash: 48e9a0e8c26088b690092bfaedfba641841739f6
-ms.sourcegitcommit: 379e132c4d21ecf703d5506484ec96a767fdda39
+ms.openlocfilehash: f834bead0b6f22dcadc808d45dcefe7f6571ef62c74b7fd97355157ca49542af
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 03/04/2021
-ms.locfileid: "50482895"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53978504"
 ---
-# <a name="configure-mim-sync-service"></a>การกําหนดค่าบริการการซิงค์ MIM
+# <a name="configure-mim-sync-service"></a>การกําหนดMIMบริการการซิงค์
 
-บริการการซิงโครไนซ์ Microsoft Identity Manager (MIM) เป็นคอมโพเนนต์ของ MIM It is a centralized on-premises service that stores and integrates information for organizations that have multiple on-premises directories and databases. คุณอาจสามารถแก้ไขปัญหาของคุณด้วยการซิงค์ MIM ถ้าปัญหาได้รับการแก้ไขในการอัปเดตล่าสุดเป็น MIM หรือเป็นหนึ่งในปัญหาอื่นๆ ที่กล่าวถึงในส่วนด้านล่าง
+Microsoft Identity Managerการซิงโครไนซ์MIM (MIM) เป็นคอมโพเนนต์ของMIM It is a centralized on-premises service that stores and integrates information for organizations that have multiple on-premises directories and databases. คุณอาจสามารถแก้ไขปัญหาของคุณเกี่ยวกับ MIM ซิงค์ ถ้าปัญหาได้รับการแก้ไขในการอัปเดตล่าสุดของ MIM หรือเป็นหนึ่งในปัญหาอื่นๆ ที่กล่าวถึงในส่วนด้านล่าง
 
 **ขั้นตอนที่แนะนา**
 
-1. ตรวจสอบให้แน่ใจว่าคุณได้ใช้การอัปเดตล่าสุดของการซิงค์ MIM และตรวจสอบบันทึกย่อการเปิดตัวการซิงค์ [MIM](https://docs.microsoft.com/microsoft-identity-manager/reference/version-history) เพื่อตรวจสอบว่าปัญหาได้รับการแก้ไขในการอัปเดตหรือไม่
-2. ถ้าปัญหาอยู่กับทั่วไป LDAP, Generic SQL, Lotus Domino หรือตัวเชื่อมต่อบริการเว็บ ตรวจสอบให้แน่ใจว่าคุณใช้การอัปเดตล่าสุดของ [ตัวเชื่อมต่อ](https://docs.microsoft.com/microsoft-identity-manager/reference/microsoft-identity-manager-2016-connector-version-history)ทั่วไป
-3. ถ้าการซิงค์ MIM หยุดที่มีข้อผิดพลาด ให้ดูตารางรหัสข้อผิดพลาด [การเรียกใช้](https://docs.microsoft.com/microsoft-identity-manager/reference/maerrorcodes) เพื่อระบุสาเหตุที่อาจเกิดขึ้น
-4. ถ้าการเรียกใช้หยุดโดยมีข้อยกเว้นส่วนขยาย **dll** ให้คลิกที่ข้อความเหล่านั้นเพื่อเปิดหน้าต่างคุณสมบัติวัตถุ Space **Connector** แล้วคลิกที่ **Stack Trace...** เพื่อดูข้อมูลเพิ่มเติมเกี่ยวกับสาเหตุพื้นฐาน ตามที่อธิบายไว้ในข้อยกเว้นส่วนขยาย [-DLL](https://social.technet.microsoft.com/wiki/contents/articles/7515.fim-troubleshooting-extension-dll-exception.aspx)
-5. ถ้าคอมโพเนนต์ของบริการการแจ้งให้ทราบการเปลี่ยนแปลงรหัสผ่าน (PCNS) รายงานข้อผิดพลาด **6025** ในบันทึกเหตุการณ์ระหว่างการซิงโครไนซ์รหัสผ่าน ให้ตรวจสอบคู่มือการแก้ไขปัญหาข้อผิดพลาดการรายงาน [PCNS 6025](https://social.technet.microsoft.com/wiki/contents/articles/4159.pcns-troubleshooting-event-id-6025.aspx)
-6. ถ้าการซิงโครไนซ์กับตัวแทนการจัดการบริการ FIM ช้า ให้ตรวจสอบการตั้งค่าเพิ่มโดยอัตโนมัติของ TempDB ตามที่อธิบายไว้ใน การแก้ไขปัญหาช้าหรือหยุดการตอบสนอง[การซิงโครไนซ์](https://social.technet.microsoft.com/wiki/contents/articles/14713.troubleshooting-fim-performance-slow-or-hanging-full-synchronization.aspx)ทั้งหมด
-7. ถ้าคุณพบข้อผิดพลาดของเซิร์ฟเวอร์ที่หยุดเมื่อเกิดข้อผิดพลาดในการสร้างผ่านบริการเว็บโดยใช้ตัวแทนการจัดการบริการ FIM ให้ดูข้อมูลสนับสนุน: การสร้างล้มเหลวผ่าน [บริการ](https://docs.microsoft.com/archive/blogs/iamsupport/support-info-fimma-failed-creation-via-web-services) เว็บเพื่อดูภาพรวมของสาเหตุ
+1. ตรวจสอบให้แน่ใจว่าคุณใช้การอัปเดตล่าสุดของ MIM ซิงค์ และตรวจสอบบันทึกย่อMIMรุ่นซิงค์[](https://docs.microsoft.com/microsoft-identity-manager/reference/version-history)เพื่อตรวจสอบว่าปัญหาได้รับการแก้ไขในการอัปเดตหรือไม่
+2. ถ้าปัญหาอยู่กับตัวเชื่อมต่อ LDAP ทั่วไป, generic SQL, Lotus Domino หรือ Web Services ตรวจสอบให้แน่ใจว่าคุณใช้การอัปเดตล่าสุดของ[ตัวเชื่อมต่อ](https://docs.microsoft.com/microsoft-identity-manager/reference/microsoft-identity-manager-2016-connector-version-history)ทั่วไป
+3. ถ้ามีMIM หยุดการซิงคโดยมีข้อผิดพลาด ให้ดูตารางรหัสข้อผิดพลาด[การเรียกใช้](https://docs.microsoft.com/microsoft-identity-manager/reference/maerrorcodes)เพื่อระบุสาเหตุที่อาจเกิดขึ้น
+4. ถ้าการเรียกใช้หยุดโดยมีข้อยกเว้นส่วนขยาย **-dll** แล้วคลิกที่ข้อความเหล่านั้นเพื่อเปิดหน้าต่างคุณสมบัติ วัตถุช่องว่างตัวเชื่อมต่อ แล้วคลิกที่ **Stack Trace...** เพื่อดูข้อมูลเพิ่มเติมเกี่ยวกับสาเหตุพื้นฐาน ตามที่อธิบายไว้ใน [ข้อยกเว้นของส่วนขยาย DLL](https://social.technet.microsoft.com/wiki/contents/articles/7515.fim-troubleshooting-extension-dll-exception.aspx)
+5. ถ้าคอมโพเนนต์ Password Change Notification Service (PCNS) รายงานข้อผิดพลาด **6025** ในบันทึกเหตุการณ์ระหว่างการซิงโครไนซ์รหัสผ่าน ให้ตรวจสอบคู่มือการแก้ไขปัญหาข้อผิดพลาดการรายงาน [PCNS 6025](https://social.technet.microsoft.com/wiki/contents/articles/4159.pcns-troubleshooting-event-id-6025.aspx)
+6. ถ้าการซิงโครไนซ์กับตัวแทนการจัดการบริการ FIM ช้า ให้ตรวจสอบการตั้งค่าขยายอัตโนมัติของ TempDB ตามที่อธิบายไว้ใน การแก้ไขปัญหาการซิงโครไนซ์แบบช้า[หรือแบบลอย](https://social.technet.microsoft.com/wiki/contents/articles/14713.troubleshooting-fim-performance-slow-or-hanging-full-synchronization.aspx)
+7. ถ้าคุณพบข้อผิดพลาดของเซิร์ฟเวอร์ที่หยุดใช้งานด้วย failed-creation-via-web-services โดยใช้ตัวแทนการจัดการบริการ FIM ให้ดู ฝ่ายสนับสนุน [-ข้อมูล: failed-creation-via-web-services](https://docs.microsoft.com/archive/blogs/iamsupport/support-info-fimma-failed-creation-via-web-services) เพื่อดูภาพรวมของสาเหตุ
 
