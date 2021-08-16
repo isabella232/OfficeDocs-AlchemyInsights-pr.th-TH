@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001509"
 - "6449"
-ms.openlocfilehash: f7239abd554e36b4d209687dae98f27fb72f41f5
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: d1196b0a9737da577833c90a7b5202fde264973c8fe9b196ec55d595315d2a20
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51791755"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54097397"
 ---
 # <a name="microsoft-stream"></a>Microsoft Stream
 
-Microsoft Stream คือบริการวิดีโอระดับองค์กรที่บุคคลในองค์กรของคุณสามารถอัปโหลด ดู และแชร์วิดีโออย่างปลอดภัย คุณสามารถแชร์การบันทึกของชั้นเรียน การประชุม งานนําเสนอ เซสชันการฝึกอบรม หรือวิดีโออื่นๆ ที่ช่วยการร่วมมือกันของทีมของคุณ  
+Microsoft Stream เป็นบริการวิดีโอระดับองค์กรที่ผู้คนในองค์กรสามารถอัปโหลด ดู และแชร์วิดีโอได้อย่างปลอดภัย คุณสามารถแชร์การบันทึกของชั้นเรียน การประชุม งานนําเสนอ เซสชันการฝึกอบรม หรือวิดีโออื่นๆ ที่ช่วยในการทํางานร่วมกันของทีมได้  
 
 - [Microsoft Stream ใหม่](https://docs.microsoft.com/stream/new-stream)
 - [Microsoft Stream (คลาสสิก)](https://docs.microsoft.com/stream/overview)
