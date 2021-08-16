@@ -1,5 +1,5 @@
 ---
-title: ปรับใช้ Microsoft ๓๖๕
+title: ปรับใช้Microsoft 365
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004194"
 - "7374"
-ms.openlocfilehash: 6d5c7042d2d8b2a113a8f2047b6d776d9247dd99
-ms.sourcegitcommit: 097a8cabe0d2280af489159789988a0ab532dabb
+ms.openlocfilehash: 16bdbfaf95ee3744027ce03d591518db86cad0c9b86a227244a908245501eb6d
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 12/11/2020
-ms.locfileid: "49679898"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54027402"
 ---
-# <a name="deploy-microsoft-365"></a>ปรับใช้ Microsoft ๓๖๕
+# <a name="deploy-microsoft-365"></a>ปรับใช้Microsoft 365
 
-[โปรแกรมช่วยแนะนำการปรับใช้ Microsoft ๓๖๕](https://go.microsoft.com/fwlink/?linkid=2072646)มีลูกค้าเชิงพาณิชย์ที่มีคำแนะนำเมื่อตั้งค่าเครื่องมือประสิทธิภาพนโยบายความปลอดภัยและความสามารถในการจัดการอุปกรณ์ ด้วย Microsoft ๓๖๕ Business Premium หรือ Microsoft ๓๖๕สำหรับการสมัครใช้งานขององค์กรคุณสามารถใช้ที่ปรึกษานี้เพื่อตั้งค่าและกำหนดค่าอุปกรณ์ขององค์กรของคุณ
+โปรแกรม[Microsoft 365แนะ](https://go.microsoft.com/fwlink/?linkid=2072646)นําการปรับใช้งานจะแนะนําลูกค้าเชิงพาณิชย์เมื่อตั้งค่าเครื่องมือการเพิ่มประสิทธิภาพการรักษาความปลอดภัย และความสามารถในการจัดการอุปกรณ์ ด้วยMicrosoft 365 Business PremiumหรือMicrosoft 365การสมัครใช้งานระดับองค์กร คุณสามารถใช้ที่ปรึกษานี้เพื่อตั้งค่าและกําหนดค่าอุปกรณ์ขององค์กรของคุณ
 
-คุณจะได้รับคำแนะนำและการเข้าถึงแหล่งข้อมูลเพื่อเปิดใช้งานบริการ cloud ของคุณอัปเดอุปกรณ์ให้เป็นเวอร์ชันที่สนับสนุนเวอร์ชันล่าสุดของ Windows 10 และเข้าร่วมอุปกรณ์ไปยัง Azure Active Directory (Azure AD) ทั้งหมดในตำแหน่งที่ตั้งศูนย์กลางเดียว
+คุณจะได้รับแนวทางและการเข้าถึงแหล่งข้อมูลเพื่อเปิดใช้งานบริการระบบคลาวด์ อัปเดตอุปกรณ์เป็น Windows 10 เวอร์ชันล่าสุดที่สนับสนุน และเข้าร่วมอุปกรณ์ไปยัง Azure Active Directory (Azure AD) ซึ่งทั้งหมดนี้อยู่ในศูนย์กลางเดียว

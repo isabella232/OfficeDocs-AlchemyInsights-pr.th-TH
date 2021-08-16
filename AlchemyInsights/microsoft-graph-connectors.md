@@ -1,5 +1,5 @@
 ---
-title: ตัวเชื่อมต่อ Microsoft Graph
+title: ตัวเชื่อมต่อGraph Microsoft
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -13,18 +13,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "5910"
 - "9003123"
-ms.openlocfilehash: c2abbc23236ce4a4c232a5e96b36d9322c0e255d
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 923ee836685f838aa128fd62c32b35b169f11517e16f010621e96a88a3b00afd
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47724922"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54027321"
 ---
-# <a name="microsoft-graph-connectors"></a>ตัวเชื่อมต่อ Microsoft Graph
+# <a name="microsoft-graph-connectors"></a>ตัวเชื่อมต่อGraph Microsoft
 
-ด้วยตัวเชื่อมต่อ Microsoft Graph องค์กรของคุณสามารถทำดัชนีข้อมูลของบริษัทอื่นให้ปรากฏในผลลัพธ์การค้นหาของ Microsoft
+ด้วยตัวเชื่อมต่อGraph Microsoft องค์กรของคุณสามารถดัชนีข้อมูลของบริษัทอื่นเพื่อให้ปรากฏในMicrosoft Searchได้
 
 - [ตัวเชื่อมต่อโดย Microsoft](https://docs.microsoft.com/microsoftsearch/connectors-gallery#Microsoft)
-- [การเชื่อมต่อโดยคู่ค้าของเรา](https://docs.microsoft.com/microsoftsearch/connectors-gallery#Partners)
+- [ตัวเชื่อมต่อโดยคู่ค้าของเรา](https://docs.microsoft.com/microsoftsearch/connectors-gallery#Partners)
 
-สำหรับข้อมูลเพิ่มเติมให้ดู[ที่ภาพรวมของตัวเชื่อมต่อ Microsoft Graph](https://docs.microsoft.com/microsoftsearch/connectors-overview)
+ดูข้อมูลเพิ่มเติมได้ที่ ภาพรวมของ[ตัวเชื่อมต่อ Microsoft Graph](https://docs.microsoft.com/microsoftsearch/connectors-overview)

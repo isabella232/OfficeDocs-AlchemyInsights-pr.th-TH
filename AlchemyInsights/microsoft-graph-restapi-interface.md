@@ -1,5 +1,5 @@
 ---
-title: ส่วนติดต่อ API ส่วนที่เหลือของ Microsoft Graph
+title: ส่วนติดต่อ MICROSOFT Graph REST API
 ms.author: pebaum
 author: pebaum
 manager: mnirke
@@ -13,20 +13,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "7071"
 - "9004013"
-ms.openlocfilehash: 3c9bf956624775c394534ab150d39193e5e10144
-ms.sourcegitcommit: 35e2c122d8a838d98d1f0851c29b16282261580f
+ms.openlocfilehash: d8ef9f22e495feba26ecc1d3e21b996b199cbe16c6d3fdbf8e2e50893fe15942
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 11/17/2020
-ms.locfileid: "49089005"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54027213"
 ---
-# <a name="microsoft-graph-rest-api-interface"></a>ส่วนติดต่อ API ส่วนที่เหลือของ Microsoft Graph
+# <a name="microsoft-graph-rest-api-interface"></a>ส่วนติดต่อ MICROSOFT Graph REST API
 
-การตั้งค่ากราฟ API บนจุดสิ้นสุดของ v 1.0 อยู่ในสถานะความพร้อมใช้งานทั่วไป (GA) และได้ผ่านขั้นตอนการตรวจทานและคำติชมที่เข้มงวดกับลูกค้าเพื่อตอบสนองความต้องการในการปฏิบัติการผลิต
+ชุดGraph API บนจุดสิ้นสุด v1.0 อยู่ในสถานะความพร้อมใช้งานทั่วไป (GA) และผ่านกระบวนการตรวจทานและข้อเสนอแนะที่เข้มงวดกับลูกค้าเพื่อให้ตรงกับความต้องการในการผลิตที่ใช้งานได้จริง
 
-- สำหรับข้อมูลเพิ่มเติมเกี่ยวกับกราฟ API v1.0 ให้ดูที่การ [อ้างอิงของ Microsoft GRAPH REST API](https://docs.microsoft.com/graph/api/overview?toc=.%2Fref%2Ftoc.json&view=graph-rest-1.0)v1.0 
-- สำหรับข้อมูลเพิ่มเติมเกี่ยวกับเวอร์ชันของกราฟ API รุ่นเบต้าให้ดูที่การ[อ้างอิงจุดสิ้นสุดของ Microsoft Graph beta](https://docs.microsoft.com/graph/api/overview?toc=.%2Fref%2Ftoc.json&view=graph-rest-beta)
+- For more information on Graph API v1.0, see [Microsoft Graph REST API v1.0 reference](https://docs.microsoft.com/graph/api/overview?toc=.%2Fref%2Ftoc.json&view=graph-rest-1.0). 
+- For more information on Graph API beta version, see [Microsoft Graph beta endpoint reference](https://docs.microsoft.com/graph/api/overview?toc=.%2Fref%2Ftoc.json&view=graph-rest-beta).
 
-สำหรับข้อมูลเพิ่มเติมเกี่ยวกับ Microsoft Graph ให้ดูที่[เอกสารประกอบของ Microsoft graph](https://docs.microsoft.com/graph/)
+For more information on Microsoft Graph, see [Microsoft Graph documentation](https://docs.microsoft.com/graph/).
 
 

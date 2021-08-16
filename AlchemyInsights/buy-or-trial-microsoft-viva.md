@@ -1,5 +1,5 @@
 ---
-title: ซื้อหรือทดลองใช้ Microsoft Viva
+title: ซื้อหรือรุ่นทดลองใช้Microsoft Viva
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004616"
 - "8335"
-ms.openlocfilehash: 0150279cf03a5e4bb25c7a950cbc107abc65cd94
-ms.sourcegitcommit: 45e32fe7fdba358925df0d26daaead2675e2408f
+ms.openlocfilehash: 3052727ce6462984ab56e1d84096fd18a4fb71a0a9242668768793e2d0416ab5
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 02/17/2021
-ms.locfileid: "50294408"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53996551"
 ---
-# <a name="buy-or-trial-microsoft-viva"></a>ซื้อหรือทดลองใช้ Microsoft Viva
+# <a name="buy-or-trial-microsoft-viva"></a>ซื้อหรือรุ่นทดลองใช้Microsoft Viva
 
-หัวข้อ Microsoft Viva พร้อมให้ซื้อหรือ[ทดลองใช้ที่นี่](https://aka.ms/BuyVivaTopics)
+Microsoft Viva หัวข้อต่างๆ พร้อมให้ใช้งานใน ซื้อ หรือ[รุ่นทดลองใช้](https://aka.ms/BuyVivaTopics)ที่นี่
 
 องค์กรของคุณจะต้องใช้หนึ่งในการสมัครใช้งานต่อไปนี้:
 
-สิทธิ์การใช้งาน Microsoft 365 F1, F3, E3, A3, E5, A5, Office 365 F3, E1, A1, E3, A3, E5, A5, Microsoft 365 Business Basic, Business Standard, Business Premium หรือ SharePoint K, Plan 1 หรือ Plan 2 มีสิทธิ์รับสิทธิ์ในหัวข้อ Microsoft Viva
+Microsoft 365 F1, F3, E3, A3, E5, A5, Office 365 F3, E1, A1, E3, A3, E5, A5, Microsoft 365 Business Basic, Business Standard, Business Premium หรือ SharePoint K, Plan 1 หรือ Plan 2 มีสิทธิ์เข้าร่วมในหัวข้อ Microsoft Viva

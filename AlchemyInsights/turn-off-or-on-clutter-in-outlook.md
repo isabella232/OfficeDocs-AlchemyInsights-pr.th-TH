@@ -1,5 +1,5 @@
 ---
-title: ปิดหรือเปิดใช้งาน กองข้อความ ใน Outlook
+title: เปิดหรือปิด กองข้อความ ใน Outlook
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,14 +12,14 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002504"
 - "4853"
-ms.openlocfilehash: b945b76052b601dfead92ce098a78442f9989139
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: e455aab9c1165d53285fa9ccb8c735aa37c214c00633f3b5640a2583dee53226
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51834606"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54038644"
 ---
-# <a name="turn-off-or-on-clutter-in-outlook"></a>ปิดหรือเปิดใช้งาน กองข้อความ ใน Outlook
+# <a name="turn-off-or-on-clutter-in-outlook"></a>เปิดหรือปิด กองข้อความ ใน Outlook
 
 - คลิกขวาที่โฟลเดอร์ **กองข้อความ** แล้วคลิก **จัดการกอง** ข้อความ 
 

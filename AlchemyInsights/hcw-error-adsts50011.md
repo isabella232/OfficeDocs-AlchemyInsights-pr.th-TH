@@ -1,5 +1,5 @@
 ---
-title: ข้อผิดพลาดของตัวช่วยสร้างการกำหนดค่าแบบไฮบริด (HCW) ACSTS50011
+title: ข้อผิดพลาด ACSTS50011 ของตัวช่วยสร้างการกําหนดค่าแบบไฮบริด (HCW)
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -13,16 +13,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000136"
 - "5696"
-ms.openlocfilehash: 2b08a0f532d948c4417c6ddc67251ec9cb0bcc8b
-ms.sourcegitcommit: 2ffdf6096de5608b117c6677d3cd7dd4c23ea024
+ms.openlocfilehash: f075c95dc831a46d313d6534e078cb298fa2212fd7cffed75a2953e7e80603a9
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 12/18/2020
-ms.locfileid: "49722070"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54055969"
 ---
-# <a name="hybrid-configuration-wizard-hcw-error-acsts50011"></a>ข้อผิดพลาดของตัวช่วยสร้างการกำหนดค่าแบบไฮบริด (HCW) ACSTS50011
+# <a name="hybrid-configuration-wizard-hcw-error-acsts50011"></a>ข้อผิดพลาด ACSTS50011 ของตัวช่วยสร้างการกําหนดค่าแบบไฮบริด (HCW)
 
-ถ้าคุณกำลังเรียกใช้ตัวช่วยสร้างการกำหนดค่าแบบไฮบริด (HCW) และได้รับข้อผิดพลาด **ADSTS50011: URL ตอบกลับที่ระบุในการร้องขอไม่ตรงกับ url ตอบกลับที่กำหนดค่าสำหรับแอปพลิเคชัน: ' a0c73c16-a7e3-4564-9a95-2bdf47383716**, อัปเกรดเป็นเวอร์ชันล่าสุดของ https://aka.ms/hybridwizard HCW ที่
+ถ้าคุณเรียกใช้ตัวช่วยสร้างการกําหนดค่าแบบไฮบริด (HCW) และได้รับข้อผิดพลาด ADSTS50011: URL ตอบกลับที่ระบุในการร้องขอไม่ตรงกับ URL การตอบกลับที่กําหนดค่าไว้ให้กับแอปพลิเคชัน **: 'a0c73c16-a7a3-4564-9a95-2bdf47383716** ให้อัปเกรดเป็น HCW https://aka.ms/hybridwizard เวอร์ชันล่าสุดที่
 
 
 

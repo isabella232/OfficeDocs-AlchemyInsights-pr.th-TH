@@ -1,5 +1,5 @@
 ---
-title: การลบผู้ใช้จำนวนมาก
+title: ลบผู้ใช้เป็นกลุ่ม
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,13 +13,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "6112"
 - "9003231"
-ms.openlocfilehash: 8bec7239aa2ce31e843763ac4a2a2be955de58fb
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 3f78bc03fde1984ecfd813449e034a9deaf6e4ca4ed1257c89137590e5e55f3c
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47685221"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53996721"
 ---
-# <a name="bulk-delete-user"></a>การลบผู้ใช้จำนวนมาก
+# <a name="bulk-delete-user"></a>ลบผู้ใช้เป็นกลุ่ม
 
-คุณสามารถเอาผู้ใช้จำนวนมากออกจากกลุ่มได้โดยใช้ไฟล์ค่าที่คั่นด้วยเครื่องหมายจุลภาค (CSV) เพื่อลบผู้ใช้เป็นกลุ่ม เมื่อต้องการลบผู้ใช้จำนวนมากที่ใช้พอร์ทัล AD Azure ให้ดูที่การ[ลบผู้ใช้จำนวนมากใน Azure Active directory](https://docs.microsoft.com/azure/active-directory/users-groups-roles/users-bulk-delete)
+คุณสามารถเอาผู้ใช้จํานวนมากออกจากกลุ่มได้โดยใช้ไฟล์ที่ใช้จุลภาคคั่นระหว่างค่า (CSV) เพื่อลบผู้ใช้จํานวนมาก เมื่อต้องการลบผู้ใช้เป็นกลุ่มโดยใช้พอร์ทัล Azure AD ให้ดู[ลบผู้ใช้เป็นกลุ่มใน Azure Active Directory](https://docs.microsoft.com/azure/active-directory/users-groups-roles/users-bulk-delete)

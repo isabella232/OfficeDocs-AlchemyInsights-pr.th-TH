@@ -1,5 +1,5 @@
 ---
-title: ซื้อชื่อโดเมนใน Microsoft ๓๖๕
+title: ซื้อชื่อโดเมนในMicrosoft 365
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
@@ -11,23 +11,23 @@ ms.custom:
 - "9002245"
 - "4349"
 ms.assetid: ''
-ms.openlocfilehash: 342c700d40a119a0103893a6e51cfa61ece41ff9
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: b6c7e3717ceb9690db6dc7dacbe7469a698d2ed128deb5843291687814ba302e
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47685041"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53996757"
 ---
-# <a name="buy-a-domain-name-in-microsoft-365"></a>ซื้อชื่อโดเมนใน Microsoft ๓๖๕
+# <a name="buy-a-domain-name-in-microsoft-365"></a>ซื้อชื่อโดเมนในMicrosoft 365
 
-คุณสามารถซื้อชื่อโดเมนจากไมโครซอฟท์ในศูนย์การจัดการได้ที่นี่-[รับโดเมน](https://admin.microsoft.com/Domains/Buy)
+คุณสามารถซื้อชื่อโดเมนจาก Microsoft ในศูนย์การจัดการที่นี่ - [รับ](https://admin.microsoft.com/Domains/Buy)โดเมน
 
-- โดเมนจะถูกเพิ่มและกำหนดค่าโดยอัตโนมัติในบัญชีผู้ใช้ของคุณโดยใช้ระเบียน DNS ที่จัดการโดย Microsoft (ระเบียน NS ไม่สามารถเปลี่ยนแปลงได้)
+- โดเมนจะถูกเพิ่มและกําหนดค่าในบัญชีผู้ใช้ของคุณโดยอัตโนมัติด้วยระเบียน DNS ที่จัดการโดย Microsoft (ระเบียน NS ไม่สามารถเปลี่ยนแปลงได้)
 
-- ระเบียน DNS เพิ่มเติมสามารถเพิ่มเพื่อสนับสนุนเว็บไซต์ของคุณได้  จาก[โดเมน](https://admin.microsoft.com/AdminPortal/Home#/Domains)ให้คลิกโดเมนของคุณแล้วคลิก**การจัดการ DNS**
+- สามารถเพิ่มระเบียน DNS เพิ่มเติมเพื่อสนับสนุนเว็บไซต์ของคุณได้  [จาก โดเมน](https://admin.microsoft.com/AdminPortal/Home#/Domains)ให้คลิกโดเมนของคุณ แล้วคลิก **การจัดการ** DNS
 
-- ถ้าจำเป็นการโอนย้ายโดเมนไปยังบริษัทจดทะเบียนอื่นจะได้รับอนุญาตให้๖๐วันหลังจากการซื้อโดเมน
+- หากมีความเป็นที่ต้องการ การโอนโดเมนไปยังบริษัทจดทะเบียนอื่นจะได้รับอนุญาตภายใน 60 วันหลังจากการซื้อโดเมน
 
-สำหรับข้อมูลเพิ่มเติมให้ดู[ที่ซื้อชื่อโดเมนใน Microsoft ๓๖๕](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/buy-a-domain-name?view=o365-worldwide)
+หากต้องการข้อมูลเพิ่มเติม โปรดดู[ซื้อชื่อโดเมนใน Microsoft 365](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/buy-a-domain-name?view=o365-worldwide)
 
-นอกจากนี้ให้ดู[อัปเดตระเบียน DNS เพื่อเก็บเว็บไซต์ของคุณไว้กับผู้ให้บริการโฮสต์ปัจจุบันของคุณ](https://docs.microsoft.com/alchemyinsights/update-dns-records-to-keep-your-website-with-your-current-hosting-provider-0)
+นอกจากนี้ [ให้ดูที่ อัปเดตระเบียน DNS เพื่อเก็บเว็บไซต์ของคุณกับผู้ให้บริการโฮสต์ปัจจุบัน](https://docs.microsoft.com/alchemyinsights/update-dns-records-to-keep-your-website-with-your-current-hosting-provider-0)ของคุณ
