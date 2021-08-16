@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "3100019"
 - "7522"
-ms.openlocfilehash: df341ed0c7aacaf84d3a33f223b7df44be5a78d9
-ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
+ms.openlocfilehash: bb6aa5a3cd8976cb590b4da18bc35b3ee782eca60ed1a48083cca8e7ef17e51e
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52539807"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54034377"
 ---
 # <a name="learn-about-microsoft-defender-for-office-365"></a>เรียนรู้เกี่ยวกับ Microsoft Defender Office 365
 
@@ -30,7 +30,7 @@ Microsoft Defender Office 365เป็นบริการการกรอง
 
 **ฉันจะเปิดใช้งาน Microsoft Defender for Office 365 ได้อย่างไร**
 
-สิ่งที่แนบมาที่ปลอดภัย ลิงก์ที่ปลอดภัย และการป้องกันการฟิชชิ่งเป็นส่วนหนึ่งของฟีเจอร์ Microsoft Defender Office 365ที่ปลอดภัย Enterprise E5, Education A5 และ Microsoft 365 Businessมี Microsoft Defender ในตัวOffice 365คุณลักษณะบางอย่าง แผนอื่นๆ ทั้งหมดต้องการ Add-on Microsoft Defender Office 365การสมัครใช้งานของคุณ คุณต้องกําหนดสิทธิ์การใช้งานที่เหมาะสมให้กับผู้ใช้ของคุณเพื่อให้ได้รับการป้องกันโดย Microsoft Defender Office 365ของคุณ คุณต้องมีสิทธิ์ผู้ดูแลระบบส่วนกลางหรือผู้ดูแลระบบความปลอดภัยเพื่อเข้าถึงฟีเจอร์นี้ เมื่อต้องการเรียนรู้เพิ่มเติมเกี่ยวกับวิธีการใช้สิทธิ์การใช้งานแบบเป็นกลุ่มกับผู้ใช้ปลายทางของคุณ ให้ดู[มอบหมายสิทธิ์การใช้งานให้ผู้ใช้](https://go.microsoft.com/fwlink/?linkid=2093435)ใน Office 365 for business
+ตู้เซฟ สิ่งที่แนบมา ตู้เซฟลิงก์ และการป้องกันการฟิชชิ่งเป็นส่วนหนึ่งของฟีเจอร์ Microsoft Defender Office 365ของคุณ Enterprise E5, Education A5 และ Microsoft 365 Business มี Microsoft Defender ในตัวOffice 365คุณลักษณะบางอย่าง แผนอื่นๆ ทั้งหมดต้องการ Add-on Microsoft Defender Office 365การสมัครใช้งานของคุณ คุณต้องกําหนดสิทธิ์การใช้งานที่เหมาะสมให้กับผู้ใช้ของคุณเพื่อให้ได้รับการป้องกันโดย Microsoft Defender Office 365ของคุณ คุณต้องมีสิทธิ์ผู้ดูแลระบบส่วนกลางหรือผู้ดูแลระบบความปลอดภัยเพื่อเข้าถึงฟีเจอร์นี้ เมื่อต้องการเรียนรู้เพิ่มเติมเกี่ยวกับวิธีการใช้สิทธิ์การใช้งานแบบเป็นกลุ่มกับผู้ใช้ปลายทางของคุณ ให้ดู[มอบหมายสิทธิ์การใช้งานให้ผู้ใช้](https://go.microsoft.com/fwlink/?linkid=2093435)ใน Office 365 for business
 
 **ฉันจะจัดการ Microsoft Defender for Office 365หรือเรียนรู้เพิ่มเติมเกี่ยวกับเรื่องนี้ได้อย่างไร**
 

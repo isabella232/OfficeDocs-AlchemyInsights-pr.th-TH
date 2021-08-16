@@ -1,5 +1,5 @@
 ---
-title: Device Writeback
+title: Writeback ของอุปกรณ์
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,23 +12,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003257"
 - "8279"
-ms.openlocfilehash: f1a8dba19d220e1154549507801c813f56fe5cdd
-ms.sourcegitcommit: 0470a728d184ceb89d1419f7ed57166e07bb778b
+ms.openlocfilehash: 78af4dc8cfe38586dcec8d01b72170b56d98fa27860489bf2ca9544f32210c37
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 02/15/2021
-ms.locfileid: "50256971"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54101979"
 ---
-# <a name="device-writeback"></a>Device Writeback
+# <a name="device-writeback"></a>Writeback ของอุปกรณ์
 
 ใช้ Device Writeback ในสถานการณ์ต่อไปนี้:
 
-- เปิดใช้งาน [Windows Hello for Business โดยใช้การปรับใช้ใบรับรองความเชื่อถือแบบไฮบริด](https://docs.microsoft.com/windows/security/identity-protection/hello-for-business/hello-hybrid-cert-trust-prereqs#device-registration)
-- เปิดใช้งานการเข้าถึงตามเงื่อนไขโดยยึดตามอุปกรณ์ไปยังแอปพลิเคชันที่ได้รับการป้องกัน ADFS (2012 R2 หรือสูงกว่า) (ใช้ความน่าเชื่อถือของบริษัท)
+- เปิดใช้งาน[Windows Hello for Business โดยใช้การปรับใช้ใบรับรองความเชื่อถือแบบไฮบริด](https://docs.microsoft.com/windows/security/identity-protection/hello-for-business/hello-hybrid-cert-trust-prereqs#device-registration)
+- เปิดใช้งานการเข้าถึงตามเงื่อนไขตามอุปกรณ์ไปยังแอปพลิเคชันที่ได้รับการป้องกัน ADFS (2012 R2 หรือสูงกว่า) (ขึ้นอยู่กับความเชื่อถือของบริษัท)
 
     > [!NOTE]
-    > การสมัครใช้งาน Azure AD Premium จะต้องใช้ในการเขียนข้อมูลอุปกรณ์
+    > A subscription to Azure AD Premium is required for device writeback.
 
 This provides additional security and assurance that access to applications is granted only to trusted devices. For more information on Conditional Access, see [Managing Risk with Conditional Access](https://docs.microsoft.com/azure/active-directory/conditional-access/overview) and Setting up [On-premises Conditional Access using Azure Active Directory Device Registration](https://docs.microsoft.com/azure/active-directory/devices/overview).
 
-For more information on Enableing Device Writeback for Devices, see [Enable Device Writeback](https://docs.microsoft.com/azure/active-directory/hybrid/how-to-connect-device-writeback).
+For more information on Enabling Device Writeback for Devices, see [Enable Device Writeback](https://docs.microsoft.com/azure/active-directory/hybrid/how-to-connect-device-writeback).

@@ -1,5 +1,5 @@
 ---
-title: กำหนดว่าเหตุใดไฟล์ Microsoft Word จึงไม่เปิดบนอุปกรณ์เคลื่อนที่
+title: ระบุสาเหตุที่Microsoft Wordเปิดไม่ได้บนอุปกรณ์เคลื่อนที่
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,13 +12,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003959"
 - "7015"
-ms.openlocfilehash: 5113a847fea0b839d78b25eaec481e4d5a7fc713
-ms.sourcegitcommit: 728800af2fe596756bcd2280f85451926a3e987c
+ms.openlocfilehash: 356816ce8b6197023742e33280d7cf883f79492d071935c3024ea0d136e2b790
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 12/18/2020
-ms.locfileid: "49721999"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54102041"
 ---
-# <a name="determine-why-a-microsoft-word-file-doesnt-open-on-a-mobile-device"></a>กำหนดว่าเหตุใดไฟล์ Microsoft Word จึงไม่เปิดบนอุปกรณ์เคลื่อนที่
+# <a name="determine-why-a-microsoft-word-file-doesnt-open-on-a-mobile-device"></a>ระบุสาเหตุที่Microsoft Wordเปิดไม่ได้บนอุปกรณ์เคลื่อนที่
 
-อาจเป็นไปได้ว่า Microsoft Word ไม่สนับสนุนรูปแบบไฟล์นี้บนอุปกรณ์ของคุณ สำหรับรายละเอียดให้ดูที่ [เหตุใดฉันจึงไม่สามารถเปิดไฟล์ของฉันใน Word บนอุปกรณ์เคลื่อนที่ได้](https://go.microsoft.com/fwlink/?linkid=2135663)
+อาจเป็นไปได้ว่า Microsoft Wordไม่สนับสนุนรูปแบบไฟล์นี้บนอุปกรณ์ของคุณ ดูรายละเอียดที่ [เหตุใดฉันจึงไม่สามารถเปิดไฟล์ของฉันใน Word บนอุปกรณ์เคลื่อนที่](https://go.microsoft.com/fwlink/?linkid=2135663)
