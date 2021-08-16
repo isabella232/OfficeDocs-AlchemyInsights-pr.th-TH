@@ -1,5 +1,5 @@
 ---
-title: Intune และ Jamf
+title: Intun1 และ Jamf
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,17 +13,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "1561"
 - "9000085"
-ms.openlocfilehash: c6274560c475a5c4d6cb29e189b4f816d597456b
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 7435945975c34014f07c459dc2cdb45d45de777f2567b02769ee02783bea9b50
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47794461"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54014199"
 ---
-# <a name="intune-and-jamf"></a>Intune และ Jamf
+# <a name="intune-and-jamf"></a>Intun1 และ Jamf
 
-สำหรับข้อมูลเพิ่มเติม ให้ดูที่ 
+สำหรับข้อมูลเพิ่มเติม ให้ดู: 
 
-- [รวม Jamf Pro กับ Intune สำหรับการปฏิบัติตามข้อบังคับ](https://docs.microsoft.com/intune/conditional-access-integrate-jamf)
+- [ผสานรวมกระบวนการProกับ Intuned เพื่อการปฏิบัติตามข้อบังคับ](https://docs.microsoft.com/intune/conditional-access-integrate-jamf)
 
-- [บังคับใช้การปฏิบัติตามข้อบังคับบน Mac ที่มีการจัดการกับ Jamf Pro](https://docs.microsoft.com/intune/conditional-access-assign-jamf)
+- [บังคับใช้การปฏิบัติตามข้อบังคับบน Mac ที่จัดการด้วยคุณสมบัติ Jamf Pro](https://docs.microsoft.com/intune/conditional-access-assign-jamf)

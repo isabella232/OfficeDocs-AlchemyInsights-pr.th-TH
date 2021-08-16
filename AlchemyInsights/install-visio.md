@@ -1,5 +1,5 @@
 ---
-title: ติดตั้ง Visio
+title: ติดตั้งVisio
 ms.author: janellem
 author: janellemcintosh-msft
 manager: eliree
@@ -13,26 +13,26 @@ ms.collection: Adm_O365
 ms.custom:
 - "1764"
 - "9000201"
-ms.openlocfilehash: e11c356e5a49667d26906989038215fe65f609f8
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 9b42e8299484feb84fdbd80e26508ff110daea0191e33043d55ac9880f12919d
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47811630"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54014307"
 ---
-# <a name="install-visio"></a>ติดตั้ง Visio
+# <a name="install-visio"></a>ติดตั้งVisio
 
-Visio จะขายเป็นแอปพลิเคชันแบบสแตนด์อโลนดังนั้นถ้าคุณยังไม่มีให้[ซื้อหรือลองใช้ visio](https://products.office.com/visio) 
+Visioวางขายเป็นแอปพลิเคชันแบบสแตนด์อโลน ดังนั้นถ้าคุณยังไม่มี[ให้ซื้อหรือVisio](https://products.office.com/visio)ของคุณ 
 
-**หมายเหตุ**: Visio Online Plan 1 ไม่มี visio เวอร์ชันบนเดสก์ท็อปดังนั้นจึงไม่สามารถติดตั้งได้
+**หมายเหตุ**: Visio Online Plan 1 ไม่มีเวอร์ชันเดสก์ท็อปVisio คุณจึงไม่สามารถติดตั้งได้
 
-ถ้าคุณมีการสมัครใช้งาน Visio Online Plan 2 คุณต้อง[มอบหมายสิทธิ์](https://docs.microsoft.com/microsoft-365/admin/add-users/add-users)การใช้งานให้กับผู้ใช้หรือพวกเขาจะไม่มีตัวเลือกในการติดตั้ง Visio จากการ**ติดตั้งของฉัน**ใน[พอร์ทัลบัญชีผู้ใช้ของฉัน](https://portal.office.com/account#installs) 
+ถ้าคุณมีการสมัครใช้งาน Visio Online Plan 2 คุณต้องกําหนดสิทธิ์การใช้งานให้กับผู้ใช้ [](https://docs.microsoft.com/microsoft-365/admin/add-users/add-users)หรือพวกเขาไม่มีตัวเลือกให้ติดตั้ง Visio **จาก** การติดตั้งของฉัน ในพอร์ทัล [บัญชี](https://portal.office.com/account#installs)ของฉัน 
 
-เวอร์ชันของสิทธิ์การใช้งานที่ไม่ใช่ระดับเสียงของ Visio Standard หรือ Visio Professional จะเชื่อมโยงกับบัญชี Microsoft และไม่สามารถจัดการได้ในศูนย์การจัดการ เมื่อต้องการติดตั้งเวอร์ชันเหล่านี้ผู้ใช้จะต้องลงชื่อเข้าใช้ [account.microsoft.com](https://account.microsoft.com) ด้วยบัญชี microsoft ที่เชื่อมโยงกับ Visio เวอร์ชันนี้
+เวอร์ชันที่ไม่ใช่ Volume License ของ Visio Standard Visio Professionalจะเชื่อมโยงกับบัญชี Microsoft และไม่สามารถจัดการในศูนย์การจัดการได้ เมื่อต้องการติดตั้งเวอร์ชันเหล่านี้ ผู้ใช้ต้องลงชื่อเข้าใช้[account.microsoft.com](https://account.microsoft.com)ด้วยบัญชี Microsoft ที่เชื่อมโยงกับบัญชีVisioนี้
 
-สำหรับวิธีใช้โดยละเอียดเพิ่มเติมให้ดู [ติดตั้ง visio](https://support.office.com/article/f98f21e3-aa02-4827-9167-ddab5b025710?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1764) แล้วทำตามขั้นตอนสำหรับ Visio เวอร์ชันของคุณ
+ดูวิธีใช้โดยละเอียดเพิ่มเติม[ที่ Visio](https://support.office.com/article/f98f21e3-aa02-4827-9167-ddab5b025710?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1764)ติดตั้งและปฏิบัติตามขั้นตอนต่างๆ ของเวอร์ชันVisioของคุณ
 
-สำหรับข้อมูลเพิ่มเติมให้ดูที่:<br>
-[คู่มือการปรับใช้สำหรับ Visio](https://docs.microsoft.com/deployoffice/deployment-guide-for-visio)<br>
-[สถานการณ์ที่ได้รับการสนับสนุนสำหรับการติดตั้ง Office, Project และ Visio ที่แตกต่างกันบนคอมพิวเตอร์เครื่องเดียวกัน](https://docs.microsoft.com/deployoffice/install-different-office-visio-and-project-versions-on-the-same-computer)<br>
-[การให้สิทธิ์การใช้งาน Visio](https://products.office.com/visio/microsoft-visio-volume-licensing-visio-for-multiple-users)
+ดูข้อมูลเพิ่มเติมที่:<br>
+[คู่มือการปรับใช้งานVisio](https://docs.microsoft.com/deployoffice/deployment-guide-for-visio)<br>
+[สถานการณ์ที่ได้รับการสนับสนุนของการติดตั้งเวอร์ชันOffice Project Visio เวอร์ชันต่างๆ บนคอมพิวเตอร์เครื่องเดียวกัน](https://docs.microsoft.com/deployoffice/install-different-office-visio-and-project-versions-on-the-same-computer)<br>
+[Visio การให้สิทธิ์การใช้งาน](https://products.office.com/visio/microsoft-visio-volume-licensing-visio-for-multiple-users)

@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003042"
 - "11071"
-ms.openlocfilehash: 05aa75f5c8c5e9b877dd54ca0c69b0b373a90262
-ms.sourcegitcommit: d33ab8c73d8af51da782094fb8f8abf7626f4df3
+ms.openlocfilehash: 320d803c6242ac35c168d946001b3ad171fd63fe693778af72fb50fe305dc572
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 04/28/2021
-ms.locfileid: "52125523"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54032181"
 ---
 # <a name="create-a-block-download-policy-for-unmanaged-devices"></a>สร้างนโยบายการดาวน์โหลดบล็อกบนอุปกรณ์ที่ไม่มีการจัดการ
 
