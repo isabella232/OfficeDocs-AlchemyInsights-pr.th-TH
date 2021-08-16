@@ -15,12 +15,12 @@ ms.custom:
 - "10979"
 - "9004625"
 - "9006450"
-ms.openlocfilehash: beaa5dcc7f2e07ca3b2339fe43a759acf3a342b0
-ms.sourcegitcommit: 7a406a3d4680662e81f0056454f7e25fb2f52504
+ms.openlocfilehash: c97aa5dca553791b13297963a7953570bc5aa031a43ddf5234d5352f09c7eec6
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 06/17/2021
-ms.locfileid: "52989880"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54037627"
 ---
 # <a name="use-tracking-prevention-in-microsoft-edge-chromium"></a>ใช้การป้องกันการติดตามใน Microsoft Edge (Chromium)
 

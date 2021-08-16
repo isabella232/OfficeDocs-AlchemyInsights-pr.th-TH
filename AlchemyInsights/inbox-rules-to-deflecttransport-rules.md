@@ -1,5 +1,5 @@
 ---
-title: กฎของกล่องจดหมายเข้าของ๙๒๙ deflectTransport
+title: 929 กฎกล่องจดหมายเข้าเพื่อยกเลิกการเลือกกฎทรานสพอร์ต
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -13,21 +13,21 @@ ms.custom:
 - "929"
 - "1800021"
 ms.assetid: 9733ef4e-db8d-4345-a072-c251480875a1
-ms.openlocfilehash: abb729c40fb87bcca8cc03c95aa4677597d20c08
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: a143d36d1656e205311cde4aaff3c0c21815182ee82c60039b2219addac218cb
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47778710"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54028671"
 ---
-# <a name="mail-flow-rules-also-known-as-transport-rules"></a>กฎของโฟลว์จดหมาย (หรือที่เรียกว่ากฎการส่งผ่าน)
+# <a name="mail-flow-rules-also-known-as-transport-rules"></a>กฎล.ก.ล.ต. จดหมาย (หรือที่เรียกว่ากฎการส่งผ่าน)
 
-- ภาพรวมทั่วไปของกฎโฟลว์จดหมาย: [กฎของโฟลว์จดหมาย (กฎการขนส่ง) ใน Exchange Online](https://technet.microsoft.com/library/jj919238.aspx)
+- ภาพรวมทั่วไปของกฎล.ก.ล.ต. จดหมาย[(กฎการส่งผ่าน) Exchange Online](https://technet.microsoft.com/library/jj919238.aspx)
 
-- การตั้งค่ากฎโฟลว์จดหมาย: [กระบวนงานกฎโฟลว์จดหมายใน Exchange Online](https://technet.microsoft.com/library/dn600436.aspx)
+- ตั้งค่ากฎล.ก.[ล.ต. จดหมาย ขั้นตอนกฎล](https://technet.microsoft.com/library/dn600436.aspx)Exchange Online
 
-- สร้างปรับเปลี่ยนและลบกฎโฟลว์จดหมาย: [จัดการกฎของลำดับจดหมาย](https://technet.microsoft.com/library/jj657505.aspx)
+- สร้าง ปรับเปลี่ยน และลบกฎของล.ก.ล.จดหมาย: [จัดการกฎของลโฟลว์จดหมาย](https://technet.microsoft.com/library/jj657505.aspx)
 
-นอกจากนี้คุณยังสามารถจัดการกฎโฟลว์จดหมายใน Exchange Online PowerShell ได้อีกด้วย สำหรับข้อมูลเพิ่มเติมให้ดูที่ [TransportRule](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance/get-transportrule) (มุมมอง), [TransportRule ใหม่](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance/new-transportrule) (สร้าง), [เอาออก TransportRule](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance/remove-transportrule) (ลบ), [ตั้งค่า TransportRule](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance/set-transportrule) (การปรับเปลี่ยนที่มีอยู่), ปิดใช้งาน [-TransportRule](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance/disable-transportrule) (ปิดใช้งานที่มีอยู่แล้ว) และ [เปิดใช้งาน-TransportRule](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance/enable-transportrule) (เปิดใช้งานที่มีอยู่แล้ว)
+คุณยังสามารถจัดการกฎของลExchange Onlineจดหมายใน PowerShell For more information, see [Get-TransportRule](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance/get-transportrule) (view), [New-TransportRule](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance/new-transportrule) (create), [Remove-TransportRule](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance/remove-transportrule) (delete), [Set-TransportRule](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance/set-transportrule) (modify existing), [Disable-TransportRule](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance/disable-transportrule) (disable existing), and [Enable-TransportRule](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance/enable-transportrule) (enable existing).
 
-Cmdlet ของกฎโฟลว์จดหมายเพิ่มเติม: [TransportRuleAction](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance/get-transportruleaction) (รายการการดำเนินการที่พร้อมใช้งาน), [TransportRulePredicate](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance/get-transportrulepredicate) (รายการเงื่อนไขและข้อยกเว้นที่พร้อมใช้งาน), [ส่งออก TransportRuleCollection](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance/export-transportrulecollection) (กฎการส่งออก) และ [นำเข้า-TransportRuleCollection](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance/import-transportrulecollection) (กฎการนำเข้า)
+cmdlet กฎลนําเข้าจดหมายเพิ่มเติม: [Get-TransportRuleAction](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance/get-transportruleaction) (รายการการแอคชันที่พร้อมใช้งาน), [Get-TransportRulePredicate](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance/get-transportrulepredicate) (รายการเงื่อนไขและข้อยกเว้นที่พร้อมใช้งาน), [Export-TransportRuleCollection](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance/export-transportrulecollection) (กฎการส่งออก) และ [Import-TransportRuleCollection](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance/import-transportrulecollection) (กฎการนําเข้า)

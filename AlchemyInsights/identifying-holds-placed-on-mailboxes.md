@@ -1,5 +1,5 @@
 ---
-title: การระบุที่วางอยู่บนกล่องจดหมาย
+title: การระบุการหยุดในกล่องจดหมาย
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -13,29 +13,29 @@ ms.custom:
 - "1202"
 - "3100023"
 ms.assetid: 3378775d-67a2-47aa-a7ed-fbc6d0b4d561
-ms.openlocfilehash: 192613ce56ef7e30b5d5be9301b573748d0332d4
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 1a5eeaab92ed7e687d05c212794a7adcadac6375c6e4b9ba4578835d9a9b9ef5
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47668113"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53987594"
 ---
-# <a name="identify-holds-placed-on-mailboxes"></a>ระบุที่วางไว้บนกล่องจดหมาย
+# <a name="identify-holds-placed-on-mailboxes"></a>ระบุการหยุดในกล่องจดหมาย
 
-คุณมีเนื้อหา Microsoft ๓๖๕ที่ถูก **เก็บ** ไว้ด้วยการ **ระงับ** ที่คุณไม่สามารถระบุได้หรือไม่ ต้องการ **ค้นหา** ตำแหน่งที่ตั้งที่ค้างอยู่บน **กล่องจดหมาย** หรือไม่ ถือว่า (*ฟีเจอร์การเก็บข้อมูล*) สามารถนำไปใช้ได้โดยวิธีใดวิธีหนึ่งต่อไปนี้:
+คุณมีเนื้อหาMicrosoft 365ที่ **หยุด****ไว้ซึ่งคุณไม่สามารถ** ระบุได้หรือไม่ Need to **find out** where the hold is located on the **mailbox** ? Hold (*ฟีเจอร์การเก็บข้อมูล*) สามารถถูกใช้งานโดยหนึ่งในวิธีต่อไปนี้:
   
-- การระงับการดำเนินคดี
+- Litigation Hold
 
-- การระงับ eDiscovery
+- eDiscovery hold
 
-- การระงับในสถานที่
+- In-Placeพักสาย
 
-- นโยบายการเก็บข้อมูลของ Microsoft ๓๖๕ 
+- Microsoft 365การเก็บข้อมูล 
 
-  - นโยบายการเก็บข้อมูลตำแหน่งที่ตั้งที่เฉพาะเจาะจง
+  - นโยบายการเก็บข้อมูลที่ตั้งที่ระบุ
 
   - นโยบายการเก็บข้อมูลทั่วทั้งองค์กร
 
-- ป้ายชื่อของ Microsoft ๓๖๕
+- Microsoft 365ป้ายผนึก
 
-เมื่อต้องการระบุชนิดของการระงับที่ถูกนำไปใช้กับกล่องจดหมายของผู้ใช้ให้ดู[วิธีการระบุชนิดของการระงับที่วางบนกล่องจดหมาย Exchange Online](https://docs.microsoft.com/microsoft-365/compliance/identify-a-hold-on-an-exchange-online-mailbox)
+เมื่อต้องการระบุชนิดของการหยุดที่ใช้กับกล่องจดหมายของผู้ใช้[ให้ดู วิธีระบุชนิดของ](https://docs.microsoft.com/microsoft-365/compliance/identify-a-hold-on-an-exchange-online-mailbox)การหยุดที่Exchange Onlineกล่องจดหมาย

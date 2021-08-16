@@ -1,5 +1,5 @@
 ---
-title: ๑๒๒๑-การนำเข้า-ส่งออก-outlook-อีเมล-ที่ติดต่อ-ปฏิทิน
+title: 1221-นําเข้า-ส่งออก-outlook-email-contacts-calendar
 ms.author: markjjo
 author: markjjo
 manager: lauraw
@@ -14,21 +14,21 @@ ms.custom:
 - "1221"
 - "1800027"
 ms.assetid: ''
-ms.openlocfilehash: 6aec4ba38e90ef120542e1b30855a232a59db6ac
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: fb9bf34c5f185848a3cf4de7e5035c09ec6a24d0b5b84e065fcc9cd16e7e276d
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47778962"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53987378"
 ---
-# <a name="import-and-export-outlook-email-contacts-and-calendar-items"></a>นำเข้าและส่งออกอีเมล Outlook ที่ติดต่อและรายการปฏิทิน
+# <a name="import-and-export-outlook-email-contacts-and-calendar-items"></a>นําเข้าOutlookรายการอีเมล ที่ติดต่อ และปฏิทิน
 
-1. ใน Outlook ให้คลิก**ไฟล์**
+1. ใน Outlook **ให้คลิก** ไฟล์
 
-2. คลิก**เปิด & ส่งออก**แล้วคลิก**นำเข้า/ส่งออก**
+2. คลิก **&ส่งออก** แล้วคลิก นํา **เข้า/** ส่งออก
 
-    ซึ่งจะเป็นการเริ่มตัวช่วยสร้างการนำเข้าและส่งออก
+    ซึ่งจะเริ่มตัวช่วยสร้างการนําเข้าและส่งออก
 
-สำหรับชุดคำแนะนำการนำเข้าและส่งออกที่สมบูรณ์สำหรับ Outlook ให้ดู[บทความนี้](https://support.office.com/article/import-and-export-outlook-email-contacts-and-calendar-92577192-3881-4502-b79d-c3bbada6c8ef)
+ดูคําแนะนําในการนําเข้าและOutlookทั้งหมด[และดูบทความนี้](https://support.office.com/article/import-and-export-outlook-email-contacts-and-calendar-92577192-3881-4502-b79d-c3bbada6c8ef)
 
-ถ้าคุณเป็นผู้ดูแลระบบและต้องการนำเข้าไฟล์ PST จำนวนมากไปยังกล่องจดหมาย Microsoft ๓๖๕ให้ดู[บทความนี้](https://docs.microsoft.com/microsoft-365/security/office-365-security/use-dkim-to-validate-outbound-email)
+ถ้าคุณเป็นผู้ดูแลระบบ และต้องการนําเข้าไฟล์ PST หลายไฟล์เป็นกลุ่มMicrosoft 365กล่องจดหมายของคุณ[ให้ดู](https://docs.microsoft.com/microsoft-365/security/office-365-security/use-dkim-to-validate-outbound-email)บทความนี้

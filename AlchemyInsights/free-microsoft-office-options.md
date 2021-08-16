@@ -1,5 +1,5 @@
 ---
-title: ตัวเลือก Microsoft Office ฟรี
+title: ตัวเลือกMicrosoft Officeการค้นหาฟรี
 ms.author: pebaum
 author: pebaum
 manager: dansimp
@@ -13,21 +13,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "9827"
 - "9005684"
-ms.openlocfilehash: 5dca3e02dfdb72c6232658c32f0b269f602d8903
-ms.sourcegitcommit: c08bed4071baa3bb5879496df3ed44fb828c8367
+ms.openlocfilehash: bc671614b7679b6e4cfe0c9f62920bb2d210b67d3543b08f7248d887802ec996
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 03/19/2021
-ms.locfileid: "51037916"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53987630"
 ---
-# <a name="free-microsoft-office-options"></a>ตัวเลือก Microsoft Office ฟรี
+# <a name="free-microsoft-office-options"></a>ตัวเลือกMicrosoft Officeการค้นหาฟรี
 
-คุณสามารถสร้าง แชร์ และร่วมกันได้ฟรีด้วย Microsoft Word, PowerPoint, Excel และ OneNote เวอร์ชันออนไลน์
+คุณสามารถสร้าง แชร์ และร่วมมือกันฟรีด้วยเวอร์ชันMicrosoft Word PowerPoint Excel OneNote ฟรี
 
 ตัวเลือกฟรีอื่นๆ ที่คุณสามารถใช้ได้ ได้แก่:
 
-- [แอป Microsoft Office บนมือถือ](https://products.office.com/mobile/office?wt.mc_id=Cons_Office_Chatbot) ใช้แอป Office บนอุปกรณ์เคลื่อนที่ (iPhone, iPad, โทรศัพท์ Android และแท็บเล็ต Android) ที่มีหน้าจอขนาดเล็กกว่า 10.1 นิ้ว
+- [Microsoft Officeแอปบนมือถือ](https://products.office.com/mobile/office?wt.mc_id=Cons_Office_Chatbot) ใช้Officeแอปบนอุปกรณ์เคลื่อนที่ (iPhone, iPad, โทรศัพท์ Android และแท็บเล็ต Android) ที่มีหน้าจอขนาดเล็กกว่า 10.1 นิ้ว
 
-- นักเรียนที่สถาบันการศึกษาที่มีสิทธิ์ [สามารถลงทะเบียน Microsoft 365 Education](https://www.microsoft.com/education/products/office?wt.mc_id=Cons_Office_Chatbot)ได้ฟรี
+- นักเรียนที่สถาบันการศึกษาที่[มีสิทธิ์สามารถลงทะเบียนMicrosoft 365 Educationได้ฟรี](https://www.microsoft.com/education/products/office?wt.mc_id=Cons_Office_Chatbot)
 
-- คอมพิวเตอร์เครื่องใหม่บางเครื่องจะมี Office ฟรีหนึ่งปี เมื่อต้องการเรียนรู้เพิ่มเติม ให้ดู [เปิดใช้งานการซื้อ Office หรือข้อเสนอฟรีบนพีซีเครื่อง](https://support.office.com/article/89881633-0b26-4ca8-816b-93f347bd92c0?wt.mc_id=Cons_Office_Chatbot)ใหม่
+- คอมพิวเตอร์เครื่องใหม่บางเครื่องจะมีคอมพิวเตอร์ฟรีOfficeปี เมื่อต้องการเรียนรู้เพิ่มเติม[ให้ดู เปิดใช้งานOfficeการซื้อหรือข้อเสนอฟรีบนพีซีเครื่อง](https://support.office.com/article/89881633-0b26-4ca8-816b-93f347bd92c0?wt.mc_id=Cons_Office_Chatbot)ใหม่
