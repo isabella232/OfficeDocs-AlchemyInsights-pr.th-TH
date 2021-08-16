@@ -1,5 +1,5 @@
 ---
-title: ปิด ปิดใช้งาน หรือถอนการติดตั้ง OneDrive
+title: ปิดใช้งาน ปิดใช้งาน หรือถอนการติดตั้งOneDrive
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -13,13 +13,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "1788"
 - "9000213"
-ms.openlocfilehash: 9a966d49c491919025df1897a7f02fb3bed2c02c
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 2d4e089a8e0f2b37813ce7a520edced6e0ebf971a2c09d189fb0266b9cf1ffef
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50749740"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54058093"
 ---
-# <a name="turn-off-disable-or-uninstall-onedrive"></a>ปิด ปิดใช้งาน หรือถอนการติดตั้ง OneDrive
+# <a name="turn-off-disable-or-uninstall-onedrive"></a>ปิดใช้งาน ปิดใช้งาน หรือถอนการติดตั้งOneDrive
 
-อาจมีบางครั้งที่องค์กรของคุณต้องปิดการซิงค์ OneDrive For more information, see [Turn off, disable, or uninstall OneDrive](https://support.microsoft.com/office/turn-off-disable-or-uninstall-onedrive-f32a17ce-3336-40fe-9c38-6efb09f944b0).
+อาจมีบางครั้งที่องค์กรของคุณต้องการซิงค์สําหรับ OneDriveปิด ดูข้อมูลเพิ่มเติมใน[การปิดใช้งาน ปิดใช้งาน หรือถอนการติดตั้งOneDrive](https://support.microsoft.com/office/turn-off-disable-or-uninstall-onedrive-f32a17ce-3336-40fe-9c38-6efb09f944b0)

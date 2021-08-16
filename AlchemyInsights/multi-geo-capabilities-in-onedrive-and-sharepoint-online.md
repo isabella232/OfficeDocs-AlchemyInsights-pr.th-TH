@@ -1,5 +1,5 @@
 ---
-title: ความสามารถของ Multi-Geo ใน OneDrive และ SharePoint Online
+title: ความสามารถของ Multi-Geo ใน OneDriveและSharePoint Online
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,14 +12,14 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001088"
 - "5694"
-ms.openlocfilehash: 75ead5cfd37813d48ed86c23dbf5f6a1f42d95cd
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 9b8bee5912846b0e4c3f8076572ca1f5059e63f0443461892d4e2d3041913288
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51829719"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54011967"
 ---
-# <a name="multi-geo-capabilities-in-onedrive-and-sharepoint-online"></a>ความสามารถของ Multi-Geo ใน OneDrive และ SharePoint Online
+# <a name="multi-geo-capabilities-in-onedrive-and-sharepoint-online"></a>ความสามารถของ Multi-Geo ใน OneDriveและSharePoint Online
 
-ความสามารถของ Multi-Geo ใน OneDrive และ SharePoint Online ช่วยให้สามารถควบคุมประเทศหรือภูมิภาคที่แหล่งข้อมูลที่แชร์ เช่น ไซต์ทีม SharePoint และกล่องจดหมายของกลุ่ม Microsoft 365 จะถูกเก็บไว้ที่ส่วนที่เหลือ
-- [ความสามารถของ Multi-Geo ใน OneDrive และ SharePoint Online](https://docs.microsoft.com/office365/enterprise/multi-geo-capabilities-in-onedrive-and-sharepoint-online-in-office-365)
+ความสามารถของ Multi-Geo ใน OneDrive และ SharePoint Online จะช่วยให้คุณสามารถควบคุมประเทศหรือภูมิภาคที่ทรัพยากรที่แชร์ เช่น SharePoint ไซต์ทีมและMicrosoft 365 Group Mailboxs จะถูกจัดเก็บไว้ที่อื่น
+- [Multi-Geo Capabilities ใน OneDrive SharePoint Online](https://docs.microsoft.com/office365/enterprise/multi-geo-capabilities-in-onedrive-and-sharepoint-online-in-office-365)

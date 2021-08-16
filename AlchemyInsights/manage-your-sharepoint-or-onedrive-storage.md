@@ -1,5 +1,5 @@
 ---
-title: จัดการที่เก็บข้อมูล SharePoint หรือ OneDrive ของคุณ
+title: จัดการพื้นที่SharePointหรือOneDriveของคุณ
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,29 +12,29 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 8b0e6b9b-67c9-4716-8602-ebb58b364ef9
-ms.openlocfilehash: d1f34740e93a666d72b691d0d16ca2a40a28c5a9
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 9653f61da65f6aeb77ba33cb7eaf7f508ec7da8d38c3b32c2c30ea519d31ada6
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47662920"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54077813"
 ---
-# <a name="manage-your-sharepoint-or-onedrive-storage"></a>จัดการที่เก็บข้อมูล SharePoint หรือ OneDrive ของคุณ
+# <a name="manage-your-sharepoint-or-onedrive-storage"></a>จัดการพื้นที่SharePointหรือOneDriveของคุณ
 
  **SharePoint Online**
   
-สำหรับองค์กรส่วนใหญ่ที่เก็บข้อมูล SharePoint จะได้รับการจัดการโดยอัตโนมัติดังนั้นคุณจึงไม่จำเป็นต้องตั้งค่าขีดจำกัดต่อไซต์คอลเลกชัน เมื่อต้องการตรวจสอบปริมาณที่เก็บข้อมูล SharePoint ที่คุณมี:
+For most organizations, SharePoint storage is managed automatically so you don't need to set limits per site collection. เมื่อต้องการตรวจสอบขนาดSharePointเก็บข้อมูลที่คุณมี:
   
-- ในศูนย์การจัดการ SharePoint ใหม่ที่ด้านบนขวาของหน้าไซต์ให้มองหาที่เก็บข้อมูลที่พร้อมใช้งานและที่เก็บข้อมูลทั้งหมดของคุณ
+- ในศูนย์SharePointใหม่ ที่มุมบนขวาของหน้าไซต์ ให้ค้นหาพื้นที่เก็บข้อมูลที่พร้อมใช้งานและที่เก็บข้อมูลทั้งหมด
     
-สำหรับข้อมูลเกี่ยวกับวิธีการคำนวณวงเงินของคุณให้ดูที่[ขีดจำกัดของ SharePoint Online](https://go.microsoft.com/fwlink/p/?LinkID=856113) เมื่อต้องการซื้อที่เก็บข้อมูลเพิ่มเติมให้ดูที่[เปลี่ยนพื้นที่เก็บข้อมูลสำหรับการสมัครใช้งานของคุณ](https://go.microsoft.com/fwlink/?linkid=866428)
+For info about how your limit is calculated, see [SharePoint Online Limits](https://go.microsoft.com/fwlink/p/?LinkID=856113). เมื่อต้องการซื้อที่เก็บข้อมูลเพิ่มเติม ให้ดู [เปลี่ยนพื้นที่เก็บข้อมูลของการสมัครใช้งาน](https://go.microsoft.com/fwlink/?linkid=866428)ของคุณ
   
  **OneDrive**
   
-เมื่อต้องการเปลี่ยนที่เก็บข้อมูลเริ่มต้นสำหรับผู้ใช้ OneDrive ใหม่และผู้ใช้ที่มีอยู่:
+เมื่อต้องการเปลี่ยนที่เก็บข้อมูลเริ่มต้นให้กับผู้ใช้ใหม่และผู้ใช้OneDriveเดิม ให้OneDriveดังนี้
   
-- ไปที่ [หน้าที่เก็บข้อมูลของศูนย์การจัดการ OneDrive](https://admin.onedrive.com/?v=StorageSettings)แล้วใส่จำนวนเงินใหม่ในหน่วยกิกะไบต์
+- ไปที่หน้า[ที่เก็บข้อมูล ของศูนย์OneDriveการจัดการ](https://admin.onedrive.com/?v=StorageSettings)ของคุณ แล้วใส่จํานวนเงินใหม่เป็น GB
     
-เมื่อต้องการตรวจสอบปริมาณที่เก็บข้อมูลที่คุณใช้ใน OneDrive ของคุณเองให้ดูที่ [จัดการที่เก็บข้อมูล OneDrive For Business ของ](https://go.microsoft.com/fwlink/?linkid=866429)คุณ สำหรับข้อมูลเกี่ยวกับที่เก็บข้อมูลที่มาพร้อมกับแต่ละแผนให้ดูที่[คำอธิบายบริการ OneDrive For Business](https://go.microsoft.com/fwlink/p/?LinkID=826071)
+เมื่อต้องการตรวจสอบพื้นที่เก็บข้อมูลที่คุณใช้อยู่ในพื้นที่เก็บข้อมูลOneDrive ให้ดู จัดการ[พื้นที่OneDrive for Businessของคุณ](https://go.microsoft.com/fwlink/?linkid=866429) For info about the storage that comes with each plan, see [OneDrive for Business service description](https://go.microsoft.com/fwlink/p/?LinkID=826071).
   
 
