@@ -13,37 +13,37 @@ ms.collection: Adm_O365
 ms.custom:
 - "1834"
 - "9000247"
-ms.openlocfilehash: 05fb43133bc68b71ccdbab44d28679a1f659e762
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 5866d182cb2e97e37bc6df87e05fb6ef55bfed1d36f9daa95b7b8993a509e2dd
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47724634"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54011931"
 ---
 # <a name="multiple-objects-have-the-same-email-address-as-identity"></a>วัตถุหลายวัตถุมีที่อยู่อีเมลเดียวกันกับข้อมูลเฉพาะตัว
 
 **วัตถุหลายวัตถุ**
 
-หนึ่งในสาเหตุทั่วไปของข้อผิดพลาดนี้ไม่สามารถกำหนดเส้นทางการร้องขอการเข้าถึงเว็บ Outlook อย่างถูกต้องในการแสดงตนของวัตถุหลายวัตถุที่มีที่อยู่อีเมลเดียวกันกับข้อมูลเฉพาะตัว เมื่อต้องการค้นหาวัตถุเหล่านี้ให้เรียกใช้คำสั่งต่อไปนี้:
+สาเหตุทั่วไปของข้อผิดพลาดนี้ไม่สามารถระบุเส้นทางการร้องขอ Outlook Web Access ได้อย่างถูกต้องเมื่อมีวัตถุหลายวัตถุที่มีที่อยู่อีเมลเดียวกันกับข้อมูลเฉพาะตัว เมื่อต้องการค้นหาวัตถุเหล่านี้ ให้เรียกใช้สั่งต่อไปนี้:
 
-· รับผู้รับ <email address>
+· Get-Recipient <email address>
 
-· รับผู้ใช้ <email address>
+· Get-User <email address>
 
-· รับผู้ใช้ <email address> -SoftDeletedUser
+· Get-User <email address> -SoftDeletedUser
 
-· รับที่ติดต่อ <email address>
+· Get-Contact <email address>
 
-· รับ-กล่องจดหมาย <email address> -PublicFolder
+· Get-Mailbox <email address> -โฟลเดอร์สาธารณะ
 
-· รับ-กล่องจดหมาย <email address> -IncludeSoftDeletedMailbox
+· Get-Mailbox <email address> -IncludeSoftDeletedMailbox
 
-· รับ-กล่องจดหมาย <email address> -InactiveMailboxOnly
+· Get-Mailbox <email address> -InactiveMailboxOnly
 
-เมื่อต้องการแก้ไขปัญหานี้ให้เอาวัตถุออกหลายวัตถุด้วยข้อมูลเฉพาะตัวอีเมลเดียวกันและตรวจสอบให้แน่ใจว่ามีวัตถุเดียวที่มีข้อมูลเฉพาะตัวของอีเมลที่ระบุและชนิดของผู้รับเป็น UserMailbox
+เมื่อต้องการแก้ไขปัญหา ให้เอาวัตถุหลายรายการที่มีข้อมูลเฉพาะตัวอีเมลเดียวกันออก และตรวจสอบให้แน่ใจว่ามีวัตถุเดี่ยวที่มีข้อมูลเฉพาะตัวเฉพาะของอีเมล และชนิดผู้รับคือ UserMailbox
 
-**ใช้ที่อยู่เดียวกันสำหรับกล่องจดหมายธุรกิจและผู้บริโภค**
+**ที่อยู่เดียวกันจะถูกใช้กับกล่องจดหมายธุรกิจและผู้บริโภค**
 
-สาเหตุอีกประการหนึ่งคือเมื่อใช้ที่อยู่เดียวกันสำหรับกล่องจดหมายธุรกิจและผู้บริโภค ในกรณีนี้ผู้ใช้ต้องเปลี่ยนนามแฝงผู้ใช้หลักของพวกเขาจนกว่า Cafe จะสนับสนุนสถานการณ์นี้ นี่เป็นข้อผิดพลาดถาวรที่ไม่หายไปโดยไม่มีการแทรกแซง
+อีกสาเหตุหนึ่งคือ เมื่อใช้ที่อยู่เดียวกันนี้กับกล่องจดหมายทางธุรกิจและผู้บริโภค ในกรณีนี้ ผู้ใช้ต้องเปลี่ยนนามแฝงผู้บริโภคหลักของตนจนกว่า Cafe จะสนับสนุนสถานการณ์นี้ นี่คือข้อผิดพลาดถาวรที่ไม่หายไปโดยไม่มีการขัดจังหวะ
 
-สำหรับรายละเอียดให้ดู[ที่เปลี่ยนที่อยู่อีเมลหรือหมายเลขโทรศัพท์สำหรับบัญชี Microsoft ของคุณ](https://support.microsoft.com/help/11545/microsoft-account-rename-your-personal-account)
+หากต้องการรายละเอียด [โปรดดูที่ เปลี่ยนอีเมลแอดเดรสหรือหมายเลขโทรศัพท์ของบัญชี Microsoft](https://support.microsoft.com/help/11545/microsoft-account-rename-your-personal-account)ของคุณ

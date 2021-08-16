@@ -13,22 +13,22 @@ ms.collection: Adm_O365
 ms.custom:
 - "1800009"
 - "7350"
-ms.openlocfilehash: 2732c9c1f644e3ba30db9716a7a0ab53e51c2d29d4cfeabc485133ed99531a05
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: d18a5e56c758119bec0cbed9e60fb015ff17855b
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53987414"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58295926"
 ---
-# <a name="import-a-pst-file-from-outlook-for-windows-to-outlook-for-mac"></a>นําเข้าไฟล์ .pst Outlook for Windows Outlook for Mac 
+# <a name="import-a-pst-file-from-outlook-for-windows-to-outlook-for-mac"></a>นําเข้าไฟล์ .pst Outlookไฟล์Windows Outlook for Mac 
 
-เมื่อต้องการถ่ายโอนข้อความและรายการอื่นๆ จากคอมพิวเตอร์ที่ใช้ Windows ไปยัง Mac Outlook for Mac จะสามารถนําเข้าไฟล์ข้อมูล Outlook (.pst) ที่สร้างขึ้นใน Outlook Windowsได้
+เมื่อต้องการถ่ายโอนข้อความและรายการอื่นๆ จากคอมพิวเตอร์ที่ใช้ Windows ไปยัง Mac Outlook for Mac สามารถนําเข้าไฟล์ข้อมูล Outlook (.pst) ที่สร้างขึ้นใน Outlook Windowsได้
 
 **ในเวอร์ชันที่ใหม่กว่า - นําเข้าไฟล์ .pst Windowsไปยัง Mac**
 
 1. จากเมนู Outlook for Mac **ไฟล์** ให้เลือก **นํา** เข้า
 
-2. เลือก **Outlook ไฟล์Windowsเก็บถาวร (.pst)****แล้วคลิก** Continue
+2. เลือก **Outlook ไฟล์Windowsเก็บถาวร (.pst)** แล้วคลิก **Continue**
 
 3. ค้นหาไฟล์ข้อมูลบนคอมพิวเตอร์ของคุณ แล้วคลิก **นําเข้า**
 
@@ -43,7 +43,7 @@ ms.locfileid: "53987414"
 
 2. จากเมนู Outlook for Mac **ไฟล์** ให้คลิก **นํา** เข้า
 
-3. คลิก **Outlook ไฟล์** ข้อมูล แล้วคลิกลูกศรขวา
+3. คลิก **Outlookไฟล์** ข้อมูล แล้วคลิกที่ลูกศรขวา
 
 4. เลือก **Outlook Windowsไฟล์** ข้อมูล แล้วคลิกที่ลูกศรขวา
 
@@ -53,16 +53,15 @@ ms.locfileid: "53987414"
 
    รายการที่นําเข้าจะปรากฏในบานหน้าต่างนําทาง ภายใต้ **บนคอมพิวเตอร์** ของฉัน
 
-> [!NOTE]
-> Outlook for Macนําเข้าไฟล์ .pst ที่ใช้ Unicode ได้เท่านั้น ซึ่งเป็นรูปแบบมาตรฐานของไฟล์ โฟลเดอร์ส่วนบุคคล Outlook (Windows) 2003 และเวอร์ชันที่ใหม่กว่า ไฟล์.pst ที่จัดรูปแบบ ANSI หรือที่เรียกว่า ไฟล์โฟลเดอร์ส่วนบุคคล Outlook 97-2002 คือ รูปแบบโฟลเดอร์ส่วนบุคคลมาตรฐานที่ใช้บันทึกข้อมูลใน Outlook Windows ในเวอร์ชัน 97-2002 รูปแบบไฟล์นี้ไม่สามารถนําเข้าไปยังOutlook for Macได้ ถ้าคุณมีไฟล์ .pst ที่จัดรูปแบบ ANSI เวอร์ชันเก่ากว่า จะไม่มีกระบวนการอัตโนมัติในการแปลงไฟล์ดังกล่าวเป็นรูปแบบไฟล์ที่ใหม่กว่า อย่างไรก็ตาม คุณสามารถสร้างไฟล์ข้อมูล Outlook (.pst) ใหม่ใน Microsoft Outlook for Windows 2003 หรือเวอร์ชันที่ใหม่กว่า แล้วนําเข้ารายการจากไฟล์เก่าลงในไฟล์ใหม่ จากนั้น คุณสามารถนําเข้าไฟล์ .pst ใหม่Outlook for Macไฟล์ For more information about how to create .pst files and importing items, see **Help** for your version of Outlook for Windows.
+**หมายเหตุ**: Outlook for Macนําเข้าได้เฉพาะไฟล์ .pst ที่ใช้ Unicode ซึ่งเป็นรูปแบบมาตรฐานของไฟล์โฟลเดอร์ส่วนบุคคลOutlook (Windows) 2003 และเวอร์ชันที่ใหม่กว่า ไฟล์.pst ที่จัดรูปแบบ ANSI หรือที่เรียกว่า ไฟล์โฟลเดอร์ส่วนบุคคล Outlook 97-2002 คือ รูปแบบโฟลเดอร์ส่วนบุคคลมาตรฐานที่บันทึกข้อมูลใน Outlook Windows ในเวอร์ชัน 97-2002 รูปแบบไฟล์นี้ไม่สามารถนําเข้าไปยังOutlook for Macได้ ถ้าคุณมีไฟล์ .pst ที่มีรูปแบบ ANSI เวอร์ชันเก่ากว่า จะไม่มีกระบวนการอัตโนมัติในการแปลงไฟล์ดังกล่าวเป็นรูปแบบไฟล์ที่ใหม่กว่า อย่างไรก็ตาม คุณสามารถสร้างไฟล์ข้อมูล Outlook (.pst) ใหม่ใน Microsoft Outlook for Windows 2003 หรือเวอร์ชันที่ใหม่กว่า แล้วนําเข้ารายการจากไฟล์เก่าลงในไฟล์ใหม่ จากนั้น คุณสามารถนําเข้าไฟล์ .pst ใหม่Outlook for Macไฟล์ For more information about how to create .pst files and importing items, see **Help** for your version of Outlook for Windows.
 
-**เปิดไฟล์ข้อมูลOutlook (.pst หรือ .olm)**
+**เปิดไฟล์Outlook (.pst หรือ .olm)**
 
 คุณสามารถนําเข้าไฟล์Outlookไฟล์Windowsข้อมูล (.pst) หรือไฟล์Outlook for Mac (.olm) ได้ ไฟล์ข้อมูลเหล่านี้สามารถมีข้อมูลของชนิดรายการหลายชนิดจํานวนมากได้ Outlook ไฟล์ข้อมูลมักจะใช้เป็นที่เก็บถาวรหรือถ่ายโอนข้อมูลระหว่างคอมพิวเตอร์
 
 1. บนเมนู Outlook for Mac ไฟล์ ให้คลิก **นํา** เข้า
 
-2. คลิก **Outlook ไฟล์** ข้อมูล แล้วคลิกลูกศรขวา
+2. คลิก **Outlookไฟล์** ข้อมูล แล้วคลิกที่ลูกศรขวา
 
 3. เลือกชนิดไฟล์ข้อมูล แล้วคลิกลูกศรขวา
 
@@ -72,8 +71,7 @@ ms.locfileid: "53987414"
 
 รายการที่นําเข้าจะปรากฏในบานหน้าต่างนําทาง ภายใต้ **บนคอมพิวเตอร์** ของฉัน
 
-> [!NOTE]
-> Outlook for Macนําเข้าได้เฉพาะไฟล์ .pst ที่ใช้ Unicode ซึ่งเป็นรูปแบบมาตรฐานของไฟล์โฟลเดอร์ส่วนบุคคลOutlook (Windows) 2003 และเวอร์ชันที่ใหม่กว่า ไฟล์.pst ที่จัดรูปแบบเป็น ANSI หรือที่เรียกว่า ไฟล์โฟลเดอร์ส่วนบุคคล Outlook 97-2002 ไม่สามารถนําเข้าลงในOutlook for Macของคุณ ถ้าคุณมีไฟล์ .pst ที่จัดรูปแบบ ANSI เวอร์ชันเก่ากว่า จะไม่มีกระบวนการอัตโนมัติในการแปลงไฟล์ดังกล่าวเป็นรูปแบบไฟล์ที่ใหม่กว่า อย่างไรก็ตาม คุณสามารถสร้างไฟล์ข้อมูล Outlook (.pst) ใหม่ใน Microsoft Outlook for Windows 2003 หรือใหม่กว่า แล้วนําเข้ารายการจากไฟล์เก่าลงในไฟล์ใหม่ จากนั้น คุณสามารถนําเข้าไฟล์ .pst ใหม่Outlook for Macไฟล์ For more information about how to create .pst files and importing items, see Help for your version of Outlook for Windows. 
+**หมายเหตุ**: Outlook for Macนําเข้าได้เฉพาะไฟล์ .pst ที่ใช้ Unicode ซึ่งเป็นรูปแบบมาตรฐานของไฟล์โฟลเดอร์ส่วนบุคคลOutlook (Windows) 2003 และเวอร์ชันที่ใหม่กว่า ไฟล์.pst ที่จัดรูปแบบเป็น ANSI หรือที่เรียกว่า ไฟล์โฟลเดอร์ส่วนบุคคล Outlook 97-2002 ไม่สามารถนําเข้าลงในOutlook for Macของคุณ ถ้าคุณมีไฟล์ .pst ที่มีรูปแบบ ANSI เวอร์ชันเก่ากว่า จะไม่มีกระบวนการอัตโนมัติในการแปลงไฟล์ดังกล่าวเป็นรูปแบบไฟล์ที่ใหม่กว่า อย่างไรก็ตาม คุณสามารถสร้างไฟล์ข้อมูล Outlook (.pst) ใหม่ใน Microsoft Outlook for Windows 2003 หรือใหม่กว่า จากนั้นนําเข้ารายการจากไฟล์เก่าลงในไฟล์ใหม่ จากนั้น คุณสามารถนําเข้าไฟล์ .pst ใหม่Outlook for Macไฟล์ For more information about how to create .pst files and importing items, see Help for your version of Outlook for Windows. 
 
 **เปิดรายการ Entourage จากการเก็บถาวรหรือเวอร์ชันก่อนหน้า**
 
@@ -83,14 +81,14 @@ ms.locfileid: "53987414"
 
 2. คลิก **ข้อมูล Entourage จากการเก็บถาวรหรือเวอร์ชันก่อนหน้า** คลิกลูกศรขวา แล้วปฏิบัติตามคําแนะนํา
 
-> [!NOTE]
-- ถ้าคุณใช้บัญชี Microsoft Exchange กับ Entourage รายการทั้งหมดในบัญชี Exchange จะถูกดาวน์โหลดจากเซิร์ฟเวอร์ Exchange หลังจากขั้นตอนการนําเข้าเสร็จสมบูรณ์ กฎหรือการจัดเวลาใดๆ ที่เกี่ยวข้องกับExchangeบัญชีที่คุณตั้งค่าไว้จะต้องถูกOutlookใหม่
+**หมายเหตุ**:
+- ถ้าคุณใช้บัญชี Microsoft Exchange กับ Entourage รายการทั้งหมดในบัญชี Exchange จะถูกดาวน์โหลดจากเซิร์ฟเวอร์ Exchange หลังจากกระบวนการนําเข้าเสร็จสมบูรณ์ กฎหรือตารางเวลาใดๆ ที่เกี่ยวข้องกับExchangeบัญชีจะต้องถูกOutlookใหม่
 
-- ถ้าคุณนําเข้ารายการจาก Entourage 2004 หรือ Entourage 2008 ข้อมูลประเภทของรายการในบัญชี Exchange ของคุณจะไม่นําเข้าOutlook อย่างไรก็ตาม ด้วย Entourage 2008, Web Services Edition ข้อมูลประเภทจะถูกดาวน์โหลดExchangeจากเซิร์ฟเวอร์
+- ถ้าคุณนําเข้ารายการจาก Entourage 2004 หรือ Entourage 2008 ข้อมูลประเภทของรายการในบัญชี Exchange จะไม่นําเข้าOutlook อย่างไรก็ตาม ด้วย Entourage 2008, Web Services Edition ข้อมูลประเภทจะถูกดาวน์โหลดExchangeบนเซิร์ฟเวอร์
 
-- Outlookไม่รวมศูนย์Projectของคุณ ถ้าคุณใช้ศูนย์รวมProjectใน Entourage แล้วนําเข้าข้อมูล Entourage ของคุณOutlook Project Center จะถูกแปลงเป็นประเภท ตัวอย่างเช่น ถ้าคุณเพิ่มรายการลงในโครงการที่มีชื่อเรื่องว่า "บทความวิจัย" ใน Entourage รายการเหล่านี้จะถูกมอบหมายเป็นประเภทที่ชื่อว่า "บทความวิจัย" ในOutlook
+- Outlookไม่รวมศูนย์Projectของคุณ ถ้าคุณใช้ศูนย์รวมProjectใน Entourage แล้วนําเข้าข้อมูล Entourage ของคุณลงใน Outlook Project Center จะถูกแปลงเป็นประเภท ตัวอย่างเช่น ถ้าคุณเพิ่มรายการลงในโครงการที่มีชื่อเรื่องว่า "บทความวิจัย" ใน Entourage รายการเหล่านี้จะถูกมอบหมายเป็นประเภทที่ชื่อว่า "บทความวิจัย" Outlook
 
-- มุมมองแบบปรับแต่งเอง การตั้งค่าการค้นหา และข้อมูลเวลาการเดินทางของเหตุการณ์จาก Entourage จะไม่นําเข้าOutlook Outlookกิจกรรมใด ๆ ไม่รวมข้อมูลเวลาการเดินทาง
+- มุมมองแบบเอง การตั้งค่าการค้นหา และข้อมูลเวลาการเดินทางของเหตุการณ์จาก Entourage จะไม่นําเข้าOutlook Outlookกิจกรรมใด ๆ ไม่รวมข้อมูลเวลาการเดินทาง
 
 **ย้ายรายการจากโฟลเดอร์เก็บถาวรไปยังโฟลเดอร์อื่นOutlook**
 
@@ -100,14 +98,13 @@ ms.locfileid: "53987414"
 
 3. ในกล่องค้นหา ให้ใส่ชื่อโฟลเดอร์ที่คุณต้องการย้าย **แล้วคลิก** ย้าย
 
-> [!TIP]
-> เมื่อต้องการคัดลอกรายการจากโฟลเดอร์เก็บถาวรไปยังโฟลเดอร์Outlookโฟลเดอร์อื่นใน Outlook เพียงลากรายการไปยังโฟลเดอร์ที่คุณต้องการวางสําเนา
+   **เคล็ดลับ**: เมื่อต้องการคัดลอกรายการจากโฟลเดอร์เก็บถาวรไปยังโฟลเดอร์Outlookโฟลเดอร์อื่นใน Outlook ให้ลากรายการไปยังโฟลเดอร์ที่คุณต้องการวางสําเนา
 
 **ดูเพิ่มเติม**
 
 - [นําเข้าข้อมูลลงในOutlook] (https://support.microsoft.com/office/import-a-pst-file-into-outlook-for-mac-from-outlook-for-windows-b4a6a1d6-94bb-4c85-a4fc-a83dc690e18c
 
-- [นําเข้า iCal หรือรายการของสมุดรายชื่อลงในOutlook](https://support.microsoft.com/office/import-ical-or-address-book-items-into-outlook-for-mac-0450a248-6a40-4f84-ba9c-6c545bc11639)
+- [นําเข้า iCal หรือรายการของสมุดรายชื่อOutlook](https://support.microsoft.com/office/import-ical-or-address-book-items-into-outlook-for-mac-0450a248-6a40-4f84-ba9c-6c545bc11639)
 
 
 - [ส่งออกหรือเก็บถาวรรายการOutlookด้วยตนเอง](https://support.microsoft.com/office/export-items-to-an-archive-file-in-outlook-for-mac-281a62bf-cc42-46b1-9ad5-6bda80ca3106)

@@ -1,5 +1,5 @@
 ---
-title: Outlook.com การบล็อกผู้ส่ง-ภาษาฝรั่งเศส
+title: Outlook.com บล็อกผู้ส่ง - ฝรั่งเศส
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -13,19 +13,19 @@ ms.custom:
 - "1156"
 - "1157"
 - "8000076"
-ms.openlocfilehash: c3a8cb3bb8ab550d9270135d2abf89fe32210ea1
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 860854242574a0d8235d09c4b409b1f3e5e8dc7dc80c5e392f5fdc3521e3431c
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47753530"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54011247"
 ---
 # <a name="bloquer-ou-dbloquer-expditeurs-dans-outlookcom"></a>Bloquer ou débloquer expéditeurs dans Outlook.com
 
-Si vous recevez du courrier indésirable, vous pouvez bloquer les adresses de messagerie et des domaines que vous voulez recevoir pas ข้อความ Ajouter une adresse de messagerie ou un โด votre liste expéditeurs des bloqués déplacer เท directement ในงาน ces vers votre dossier courrier indésirable
+Si vous recevez du courrier indésirable, vous pouvez bloquer les adresses de messagerie et des domaines que vous ne voulez pas recevoir des messages. Ajouter une adresss de messagerie ou un domains à votre listses expéditeurs bloqués pour déplacer ces messages directement vers votre dossier courrier indésirable.
 
-1. Accédez **Paramètres**  >  **Afficher tous les Paramètres d'Outlook**  >  **Courrier indésirable**
-1. Sous **Domaines et expéditeurs bloqués** sélectionnez **Ajouter**
-1. Entrez l'adresse de messagerie et sélectionnez **Enregistrer**
+1. Accédez à **Paramètres**  >  **Afficher tous les paramètres d'Outlook**  >  **Courrier indésirable**.
+1. Sous **Domaines et expéditeurs bloqués** sélectionnez **Ajouter**.
+1. Entrez l'adresss de messagerie et sélectionnez **Enregistrer**.
 
-เทพลัส d'informations, lisez [Bloquer ou débloquer expéditeurs dans Outlook.com](https://support.office.com/fr-fr/article/afba1c94-77bb-4f50-8b85-057cf52f4d5e?wt.mc_id=Office_Outlook_com_Alchemy)
+Pour plus d'informations, lisez [Bloquer ou débloquer expéditeurs dans Outlook.com](https://support.office.com/fr-fr/article/afba1c94-77bb-4f50-8b85-057cf52f4d5e?wt.mc_id=Office_Outlook_com_Alchemy).
