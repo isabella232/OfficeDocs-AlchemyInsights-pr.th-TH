@@ -13,17 +13,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004241"
 - "7600"
-ms.openlocfilehash: b467320d6c9dd0f9613752560b056028e864ee5b
-ms.sourcegitcommit: 7b2e5078dd65f11af6650e692a7ea48e91f544e0
+ms.openlocfilehash: 610357684f0086b4de5813c2246acf00be36f5cb873a0fd1162b00fd0e57eb42
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 04/02/2021
-ms.locfileid: "51505411"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54066095"
 ---
-# <a name="microsoft-threat-experts"></a>Microsoft Threat Experts
+# <a name="microsoft-threat-experts"></a>ผู้เชี่ยวชาญด้านภัยคุกคามจาก Microsoft
 
-Microsoft Threat Experts เป็นบริการการคุกคามที่มีการจัดการใน Microsoft Defender for Endpoint  เราร่วมมือกับศูนย์ปฏิบัติการด้านความปลอดภัยของคุณเพื่อตรวจสอบ วิเคราะห์ และสนับสนุนเพื่อระบุและตอบสนองต่อภัยคุกคามที่ร้ายแรงในสภาพแวดล้อมที่ไม่เหมือนใครของคุณ
+ผู้เชี่ยวชาญด้านภัยคุกคามจาก Microsoftบริการการคุกคามที่มีการจัดการใน Microsoft Defender for Endpoint  เราร่วมมือกับศูนย์ปฏิบัติการด้านการรักษาความปลอดภัยของคุณ เพื่อตรวจสอบ วิเคราะห์ และสนับสนุนเพื่อระบุและตอบสนองต่อภัยคุกคามร้ายแรงในสภาพแวดล้อมที่ไม่เหมือนใครของคุณ
 
-บริการค้นหาภัยคุกคามที่มีการจัดการนี้ให้ข้อมูลเชิงลึกและข้อมูลที่เชี่ยวชาญผ่านสองความสามารถนี้: การแจ้งเตือนการโจมตีที่มุ่งเป้าหมายและการเข้าถึงไปยังผู้เชี่ยวชาญได้ตามต้องการ For Microsoft Defender for Endpoint details, see [Microsoft Threat Experts]( https://docs.microsoft.com/microsoft-365/security/defender-endpoint/microsoft-threat-experts).
+บริการการล่าภัยคุกคามที่มีการจัดการนี้ให้ข้อมูลเชิงลึกและข้อมูลที่ผู้เชี่ยวชาญขับเคลื่อนผ่านสองความสามารถนี้: การแจ้งเตือนการโจมตีที่เป้าหมายและการเข้าถึงไปยังผู้เชี่ยวชาญตามความต้องการ ดูที่ รายละเอียดจุดสิ้นสุด ของ Microsoft Defender[ผู้เชี่ยวชาญด้านภัยคุกคามจาก Microsoft]( https://docs.microsoft.com/microsoft-365/security/defender-endpoint/microsoft-threat-experts)
 
-For details about the managed threat threat service in the context of protecting your organization endpoints, email, and identities, see [Microsoft Threat Experts in Microsoft 365 overview](https://docs.microsoft.com/microsoft-365/security/mtp/microsoft-threat-experts?view=o365-worldwide).
+For details about the managed threat hunting service in the context of protecting your organization endpoints, email, and identities, [see ผู้เชี่ยวชาญด้านภัยคุกคามจาก Microsoft in Microsoft 365 overview](https://docs.microsoft.com/microsoft-365/security/mtp/microsoft-threat-experts?view=o365-worldwide).
