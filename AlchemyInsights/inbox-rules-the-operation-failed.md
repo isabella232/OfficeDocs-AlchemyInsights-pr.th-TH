@@ -1,5 +1,5 @@
 ---
-title: 'กฎกล่องจดหมายเข้า: การดำเนินการล้มเหลว'
+title: 'กฎกล่องจดหมายเข้า: การดําเนินการล้มเหลว'
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -12,19 +12,19 @@ localization_priority: Normal
 ms.custom:
 - "1544"
 - "1800021"
-ms.openlocfilehash: d0c95acd2587460d281474ebdba87683d336036d
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: af465979d881e98cbffaaa9fa20729dc6d0cd0d607c0d075311b19c8960b2f33
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47778746"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54099701"
 ---
-# <a name="rules-and-alerts-error-the-operation-failed"></a>ข้อผิดพลาดกฎและการแจ้งเตือน: "การดำเนินการล้มเหลว"
+# <a name="rules-and-alerts-error-the-operation-failed"></a>ข้อผิดพลาดกฎและการแจ้งเตือน: "การดําเนินการล้มเหลว"
 
-คุณอาจเห็นข้อผิดพลาดกฎกล่องจดหมายเข้าหลังจากติดตั้งการอัปเดตต่อไปนี้:
+คุณอาจเห็นข้อผิดพลาดของกฎกล่องจดหมายเข้าหลังจากติดตั้งการอัปเดตต่อไปนี้:
 
-- [Outlook ๒๐๑๖: การปรับปรุงความปลอดภัยประจำเดือนพฤศจิกายน KB](https://support.microsoft.com/help/4461506)
-- [Outlook ๒๐๑๓: การปรับปรุงความปลอดภัยประจำเดือนพฤศจิกายน KB](https://support.microsoft.com/help/4461486)
-- [Outlook ๒๐๑๐: การปรับปรุงความปลอดภัยประจำเดือนพฤศจิกายน KB](https://support.microsoft.com/help/4461585)
+- [Outlook 2016: KB การอัปเดตความปลอดภัยเดือนพฤศจิกายน](https://support.microsoft.com/help/4461506)
+- [Outlook 2013: KB การอัปเดตความปลอดภัยเดือนพฤศจิกายน](https://support.microsoft.com/help/4461486)
+- [Outlook 2010: KB การอัปเดตความปลอดภัยเดือนพฤศจิกายน](https://support.microsoft.com/help/4461585)
 
-คุณสามารถดูสถานะล่าสุดของปัญหาที่ทราบนี้ได้โดย[การไปที่ข้อผิดพลาดใน Outlook: "การดำเนินการล้มเหลว ..." เมื่อเลือกจัดการกฎ & การแจ้งเตือน](https://support.office.com/article/Outlook-Error-The-operation-failed-when-selecting-Manage-Rules-Alerts-64b6ff77-98c2-4564-9cbf-25bd8e17fb8b%20)
+คุณสามารถดูสถานะล่าสุดของปัญหาที่ทราบนี้โดยไปที่ ข้อผิดพลาด[Outlook: "การดําเนินการล้มเหลว..." เมื่อเลือก จัดการกฎ&การแจ้งเตือน](https://support.office.com/article/Outlook-Error-The-operation-failed-when-selecting-Manage-Rules-Alerts-64b6ff77-98c2-4564-9cbf-25bd8e17fb8b%20)

@@ -1,5 +1,5 @@
 ---
-title: โปรไฟล์ของ Intune สำหรับ wi-fi
+title: โปรไฟล์Wi-Fi Intun
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,43 +13,43 @@ ms.collection: Adm_O365
 ms.custom:
 - "1548"
 - "9000076"
-ms.openlocfilehash: afc8142a635b8a9d715eb4325b570be20ad26645
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 5e5258806c8a38965467a8878bc8ac922c2668f21abe3602f479dcdaff8c9b5b
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47696280"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54028249"
 ---
-# <a name="intune-wi-fi-profiles"></a>โปรไฟล์ของ Intune สำหรับ wi-fi
+# <a name="intune-wi-fi-profiles"></a>โปรไฟล์Wi-Fi Intun
 
-การดำเนินการการเชื่อมต่อ Wi-fi ที่ประสบความสำเร็จสำหรับไคลเอ็นต์ MDM จะขึ้นอยู่กับโปรไฟล์ที่มีการปรับใช้อย่างถูกต้องซึ่งแสดงถึงความต้องการของโครงสร้างพื้นฐาน Wi-fi ขององค์กร เมื่อต้องการตรวจสอบการตั้งค่าที่เหมาะสมสำหรับแพลตฟอร์มไคลเอ็นต์ที่คุณกำลังตรวจสอบให้ดูที่: 
+การปรับใช้การเชื่อมต่อWi-Fiของ MDM ที่ประสบความสําเร็จขึ้นอยู่กับโปรไฟล์ที่ปรับใช้ได้อย่างถูกต้อง ซึ่งสะท้อนถึงความต้องการของWi-Fiโครงสร้างพื้นฐานขององค์กร เมื่อต้องการตรวจสอบการตั้งค่าที่เหมาะสมของแพลตฟอร์มไคลเอ็นต์ที่คุณตรวจสอบ ให้ดู: 
 
-[เพิ่มการตั้งค่า Wi-fi สำหรับอุปกรณ์ที่ใช้ Android ใน Microsoft Intune](https://docs.microsoft.com/intune/wi-fi-settings-android)
+[เพิ่มWi-Fiอุปกรณ์ที่ใช้ Android ใน Microsoft Intune](https://docs.microsoft.com/intune/wi-fi-settings-android)
 
-[เพิ่มการตั้งค่า Wi-fi สำหรับอุปกรณ์ Android ที่เฉพาะเจาะจงและมีการจัดการทั้งหมดใน Microsoft Intune](https://docs.microsoft.com/intune/wi-fi-settings-android-enterprise)
+[เพิ่มWi-Fiการตั้งค่าเฉพาะของ Android Enterprise ที่มีการจัดการอย่างเต็มรูปแบบMicrosoft Intune](https://docs.microsoft.com/intune/wi-fi-settings-android-enterprise)
 
-[เพิ่มการตั้งค่า Wi-fi สำหรับอุปกรณ์ iOS และ iPadOS ใน Microsoft Intune](https://docs.microsoft.com/intune/wi-fi-settings-ios)
+[เพิ่มWi-Fiอุปกรณ์ iOS และ iPadOS ใน Microsoft Intune](https://docs.microsoft.com/intune/wi-fi-settings-ios)
 
-[เพิ่มการตั้งค่า Wi-fi สำหรับ Windows 10 และอุปกรณ์รุ่นที่ใหม่กว่าใน Intune](https://docs.microsoft.com/intune/wi-fi-settings-windows)
+[เพิ่มWi-Fiการตั้งค่าของคุณWindows 10และอุปกรณ์ที่ใหม่กว่าใน Intuned](https://docs.microsoft.com/intune/wi-fi-settings-windows)
 
-[นำเข้าการตั้งค่า wi-fi สำหรับอุปกรณ์ Windows ใน Intune](https://docs.microsoft.com/intune/wi-fi-settings-import-windows-8-1)
+[นําเข้าWi-Fiการตั้งค่าการนําWindowsอุปกรณ์ใน Intuned](https://docs.microsoft.com/intune/wi-fi-settings-import-windows-8-1)
 
 **ปัญหาทั่วไป**
 
-**ฉันกำลังปรับใช้โปรไฟล์ Wi-fi ที่ขึ้นอยู่กับใบรับรองที่มีการปรับใช้ที่ระบุไว้ในโปรไฟล์ Wi-Fi อย่างไรก็ตามโปรไฟล์การกำหนดค่าจะแสดงสถานะข้อผิดพลาด**
+**ฉันปรับใช้โปรไฟล์Wi-Fiที่ขึ้นอยู่กับใบรับรองที่ปรับใช้ที่ระบุไว้ในWi-Fiโปรไฟล์ของคุณ อย่างไรก็ตาม โปรไฟล์การกําหนดค่าจะแสดงสถานะข้อผิดพลาด**
 
-ตรวจสอบว่าอุปกรณ์ของคุณได้รับใบรับรองแล้วหรือไม่
+ตรวจสอบว่าอุปกรณ์ของคุณได้รับใบรับรองแล้ว
 
-1. ใน Intune ให้ไปที่**อุปกรณ์ทั้งหมด**แล้วเลือกอุปกรณ์ >**การกำหนดค่าอุปกรณ์**
+1. ใน Intuned ให้ไปที่ **อุปกรณ์ทั้งหมด** แล้วเลือกอุปกรณ์> **การกําหนดค่า** อุปกรณ์
 
-2. ตรวจสอบว่าโปรไฟล์ที่คาดไว้ทั้งหมดอยู่ในรายการและสถานะที่เสร็จสมบูรณ์แล้ว
+2. ตรวจสอบว่าโปรไฟล์ที่คาดไว้ทั้งหมดอยู่ในรายการและอยู่ในสถานะประสบความสเร็จ
 
-3. สำหรับโปรไฟล์ Android ถ้าคุณมีใบรับรองระดับกลางในสายใบรับรองของคุณให้ตรวจสอบให้แน่ใจว่าพวกเขาได้รับการปรับใช้กับอุปกรณ์ Android
+3. For an Android profile, if you have intermediate certificates in your certificate chain, make sure they are deployed to Android devices.
 
-    เมื่อต้องการตรวจสอบสถานะใบรับรองให้ไปที่โปรไฟล์**การกำหนดค่าอุปกรณ์**  >  **Profiles**  >  **Android คุณสมบัติ CA กลาง**  >  **Properties**  >  ที่**เชื่อถือได้ใบรับรองที่เชื่อถือ**ได้
+    เมื่อต้องการตรวจสอบสถานะใบรับรอง ให้ไปที่ โปรไฟล์การ **กําหนดค่า**  >  **อุปกรณ์**  >  **คุณสมบัติ CA**  >  **ระดับกลางของ** Android  >  **ใบรับรองที่เชื่อถือได้**
 
-ถ้าคุณยังคงเห็นข้อผิดพลาดให้ตรวจทานขั้นตอนและการแก้ไขปัญหาส่วน สำหรับข้อมูลเพิ่มเติมให้ดูที่[ภาพรวมสำหรับการแก้ไขปัญหาส่วนกำหนดค่า SCEP ที่มี Microsoft Intune](https://support.microsoft.com/help/4457481/troubleshooting-scep-certificate-profile-deployment-in-intune)
+ถ้าคุณยังคงเห็นข้อผิดพลาด อยู่ ให้ตรวจทานขั้นตอนและส่วนการแก้ไขปัญหา For more info, see [Overview for troubleshooting SCEP certificate profiles with Microsoft Intune](https://support.microsoft.com/help/4457481/troubleshooting-scep-certificate-profile-deployment-in-intune).
 
-**ฉันจัดวางโปรไฟล์ Wi-fi ไปยังอุปกรณ์ Intune จะแสดงว่าเสร็จเรียบร้อยแล้วแต่อุปกรณ์ไม่ได้เชื่อมต่อกับ Wi-fi**
+**ฉันปรับใช้Wi-Fiโปรไฟล์กับอุปกรณ์ Intun1 แสดงว่าประสบความสเร็จ แต่อุปกรณ์ไม่ได้เชื่อมต่อกับ Wi-Fi**
 
-สถานะที่เสร็จสมบูรณ์หมายความว่า Intune ได้ปรับใช้โปรไฟล์ตามที่ได้รับการกำหนดค่าเรียบร้อยแล้ว อย่างไรก็ตามการกำหนดค่าเหล่านี้อาจไม่ตรงกับความต้องการของเครือข่ายและ/หรือการรับรองความถูกต้องของคุณ สำหรับรายละเอียดเพิ่มเติมเกี่ยวกับการเชื่อมต่อที่พยายามตรวจสอบบันทึกในบริการโครงสร้างพื้นฐานและการรับรองความถูกต้อง (บนเซิร์ฟเวอร์ตัวควบคุมจุดเข้าใช้งาน Wi-fi และ NPS/Radius) คุณอาจต้องทำงานกับทีมโครงสร้างพื้นฐานเครือข่ายของคุณหรือผู้จำหน่าย wi-fi ของบริษัทอื่นเพื่อรวบรวมและตรวจทานบันทึก
+สถานะประสบความสเร็จหมายความว่า Intuned ได้ปรับใช้โปรไฟล์ตามที่กําหนดค่าแล้ว อย่างไรก็ตาม การกําหนดค่าเหล่านี้อาจไม่ตรงกับข้อกําหนดเครือข่ายและ/หรือการรับรองความถูกต้องของคุณ For more details about the attempted connection, review logs in the infrastructure and authentication service (on the Wi-Fi Access point controller and NPS/Radius server). คุณอาจต้องร่วมงานกับทีมโครงสร้างพื้นฐานเครือข่ายของคุณ หรือผู้จัดWi-Fiอื่น เพื่อรวบรวมและตรวจทานบันทึก

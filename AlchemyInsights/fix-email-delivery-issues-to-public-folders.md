@@ -1,5 +1,5 @@
 ---
-title: แก้ไขปัญหาการนำส่งอีเมลไปยังโฟลเดอร์สาธารณะที่เปิดใช้งานจดหมาย
+title: แก้ไขปัญหาการส่งอีเมลไปยังโฟลเดอร์สาธารณะที่เปิดใช้งานจดหมาย
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -12,25 +12,25 @@ localization_priority: Normal
 ms.custom:
 - "1956"
 - "3500007"
-ms.openlocfilehash: 74a26306766ed7952a3bbbcb06f1f0113a113024
-ms.sourcegitcommit: 9fd002ce49ad9a7e58c3eb997a8063e2e1feab55
+ms.openlocfilehash: ff1400f694ae037a8658356af068b4c20b8fa9d9908dafedb90db7bb6859530f
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 10/06/2020
-ms.locfileid: "48366483"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54068831"
 ---
-# <a name="fix-email-delivery-issues-to-mail-enabled-public-folders"></a>แก้ไขปัญหาการนำส่งอีเมลไปยังโฟลเดอร์สาธารณะที่เปิดใช้งานจดหมาย
+# <a name="fix-email-delivery-issues-to-mail-enabled-public-folders"></a>แก้ไขปัญหาการส่งอีเมลไปยังโฟลเดอร์สาธารณะที่เปิดใช้งานจดหมาย
 
-ถ้าผู้ส่งภายนอกไม่สามารถส่งข้อความไปยังโฟลเดอร์สาธารณะที่เปิดใช้งานจดหมายของคุณได้และผู้ส่งได้รับข้อผิดพลาด: ไม่ **พบ (๕๕๐ 5.4.1)** ตรวจสอบโดเมนอีเมลสำหรับโฟลเดอร์สาธารณะที่ได้รับการกำหนดค่าเป็นโดเมน relay ภายในแทนที่จะเป็นโดเมนที่มีสิทธิ์:
+ถ้าผู้ส่งภายนอกไม่สามารถส่งข้อความไปยังโฟลเดอร์สาธารณะที่เปิดใช้งานจดหมายของคุณ และผู้ส่งได้รับข้อผิดพลาด: ไม่พบ **(550 5.4.1)** ให้ยืนยันโดเมนอีเมลของโฟลเดอร์สาธารณะที่ถูกกําหนดค่าเป็น โดเมนรีเลย์ภายใน แทนที่จะเป็นโดเมนที่ใช้ทางการ
 
-1. เปิด[ศูนย์การจัดการ Exchange (EAC)](https://docs.microsoft.com/Exchange/exchange-admin-center)
+1. เปิด ศูนย์[Exchangeระบบ (EAC)](https://docs.microsoft.com/Exchange/exchange-admin-center)
 
-2. ไปที่**Mail flow** \> **โดเมนที่ยอมรับ**จดหมายเวียนให้เลือกโดเมนที่ยอมรับแล้วคลิก**แก้ไข**
+2. ไปที่ **ลโฟล** \> **ว์จดหมายโดเมน** ที่ยอมรับ เลือกโดเมนที่ยอมรับ **แล้วคลิก** แก้ไข
 
-3. ในหน้าคุณสมบัติที่เปิดขึ้นถ้ามีการตั้งค่าชนิดโดเมนเป็น**สิทธิ์**ให้เปลี่ยนค่าเป็น**รีเลย์ภายใน**แล้วคลิก**บันทึก**
+3. ในหน้าคุณสมบัติที่เปิดขึ้น ถ้าชนิดของโดเมนถูกตั้งค่าเป็น ใช้ทางการ ให้เปลี่ยนค่าเป็น **รีเลย์** ภายใน **แล้วคลิก** บันทึก
 
-ถ้าผู้ส่งภายนอกได้รับข้อผิดพลาดที่ **คุณไม่มีสิทธิ์ (๕๕๐ 5.7.13)** ให้เรียกใช้คำสั่งต่อไปนี้ใน [PowerShell Online Exchange](https://docs.microsoft.com/powershell/exchange/exchange-online/connect-to-exchange-online-powershell/connect-to-exchange-online-powershell) เพื่อดูสิทธิ์สำหรับผู้ใช้ที่ไม่ระบุชื่อในโฟลเดอร์สาธารณะ:
+ถ้าผู้ส่งภายนอกได้รับข้อผิดพลาดที่คุณไม่มีสิทธิ์ **(550 5.7.13)** ให้เรียกใช้สั่งต่อไปนี้ใน Exchange Online [PowerShell](https://docs.microsoft.com/powershell/exchange/exchange-online/connect-to-exchange-online-powershell/connect-to-exchange-online-powershell)เพื่อดูสิทธิ์ของผู้ใช้ที่ไม่ระบุชื่อในโฟลเดอร์สาธารณะ:
 
-`Get-PublicFolderClientPermission -Identity "<PublicFolderIdentity>" -User Anonymous` ตัว `Get-PublicFolderClientPermission -Identity "\Customer Discussion" -User Anonymous` อย่างเช่น
+`Get-PublicFolderClientPermission -Identity "<PublicFolderIdentity>" -User Anonymous`ตัวอย่างเช่น `Get-PublicFolderClientPermission -Identity "\Customer Discussion" -User Anonymous`
 
-เมื่อต้องการอนุญาตให้ผู้ใช้ภายนอกส่งอีเมลไปยังโฟลเดอร์สาธารณะนี้ให้เพิ่มการเข้าถึง CreateItems ขวาไปยังผู้ใช้ที่ไม่ระบุชื่อ ตัว `Add-PublicFolderClientPermission -Identity "\Customer Discussion" -User Anonymous -AccessRights CreateItems` อย่างเช่น
+To allow external users to send email to this public folder, add the CreateItems access right to the user Anonymous. ตัวอย่างเช่น `Add-PublicFolderClientPermission -Identity "\Customer Discussion" -User Anonymous -AccessRights CreateItems`
