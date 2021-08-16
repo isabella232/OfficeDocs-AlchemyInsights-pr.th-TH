@@ -1,5 +1,5 @@
 ---
-title: การแก้ไขแอป Microsoft 365 บัญชีของคุณอยู่ในข้อความสถานะที่ไม่ดี
+title: การแก้ไขMicrosoft 365ของคุณ บัญชีของคุณอยู่ในข้อความสถานะที่ไม่ดี
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,14 +12,14 @@ ms.collection: Adm_O365
 ms.custom:
 - "2558"
 - "9000571"
-ms.openlocfilehash: 4654b49289a455c1e6641f47fae573d2fcebc717
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 68c4dfcc0500761f8ce5090fddb9f2ad58af77bc411c9e714b14c383fef177de
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51812555"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54068255"
 ---
-# <a name="fixing-the-microsoft-365-apps-your-account-is-in-a-bad-state-error"></a>แก้ไขข้อผิดพลาด "บัญชีของคุณอยู่ในสถานะที่ไม่ดี" ของแอป Microsoft 365
+# <a name="fixing-the-microsoft-365-apps-your-account-is-in-a-bad-state-error"></a>การแก้ไขปัญหาแอปMicrosoft 365 "บัญชีของคุณอยู่ในสถานะที่ไม่ดี"
 
 ในการแก้ไขข้อผิดพลาดนี้ ให้ลองใช้ตัวเลือกต่อไปนี้กับคอมพิวเตอร์ที่ได้รับผลกระทบ:
 

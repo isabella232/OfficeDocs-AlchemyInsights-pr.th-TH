@@ -1,5 +1,5 @@
 ---
-title: การตั้งค่าการสมัครใช้งาน O365 Business Premium ของคุณ
+title: การตั้งค่าการสมัครใช้งาน O365 Business Premiumของคุณ
 ms.author: pebaum
 author: CrystalThomasMS
 ms.audience: ITPro
@@ -11,14 +11,14 @@ ms.assetid: a9192d32-8a5a-459d-808a-d18ce0e397da
 ms.custom:
 - "31"
 - "1600002"
-ms.openlocfilehash: 3b7728796c941e1190bb7447a6d4279ecd1b44a0
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: d0253198b20f32497f1316284017a6d337c3d88c64fba9a3c8e05c0057b655d7
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47739772"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54023505"
 ---
-# <a name="setting-up-your-o365-business-premium-subscription"></a>การตั้งค่าการสมัครใช้งาน O365 Business Premium ของคุณ
+# <a name="setting-up-your-o365-business-premium-subscription"></a>การตั้งค่าการสมัครใช้งาน O365 Business Premiumของคุณ
 
-ถ้าคุณต้องการความช่วยเหลือในการตั้งค่าการสมัครใช้งาน Microsoft ๓๖๕ของคุณให้ทำตามขั้นตอนใน [บทความนี้](https://docs.microsoft.com/microsoft-365/admin/setup/setup?view=o365-worldwide&tabs=BusPremium) เพื่อรับการตั้งค่าของคุณให้เสร็จสมบูรณ์
+ถ้าคุณต้องการความช่วยเหลือในการตั้งค่าการสมัครใช้งาน Microsoft 365 ทําตามขั้นตอน[ในบทความนี้](https://docs.microsoft.com/microsoft-365/admin/setup/setup?view=o365-worldwide&tabs=BusPremium)เพื่อให้การตั้งค่าของคุณเสร็จสมบูรณ์
   

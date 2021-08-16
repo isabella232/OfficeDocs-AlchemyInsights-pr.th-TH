@@ -1,5 +1,5 @@
 ---
-title: ความล่าช้าของจดหมายเมื่อส่งไปยัง Office ๓๖๕
+title: ความล่าช้าของจดหมายเมื่อส่งไปยังOffice 365
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004158"
 - "7249"
-ms.openlocfilehash: 0f33b4987e11680e5e853b7b747b93767094b8ac
-ms.sourcegitcommit: 26e36ada9c19eb42a644a37d2cd3eb2627134f05
+ms.openlocfilehash: 06ee2c529795b165b3ace6bf0aac993410ed0776902155b511f920a09d133d84
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 11/19/2020
-ms.locfileid: "49447499"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54099197"
 ---
-# <a name="mail-delays-when-sending-to-office-365"></a>ความล่าช้าของจดหมายเมื่อส่งไปยัง Office ๓๖๕
+# <a name="mail-delays-when-sending-to-office-365"></a>ความล่าช้าของจดหมายเมื่อส่งไปยังOffice 365
 
-ถ้าคุณกำลังกำหนดเส้นทางจดหมายผ่าน ProofPoint หรือระบบการส่งข้อความ SendMail อื่นๆและประสบความล่าช้าในการส่งจดหมายไปยัง Exchange Online โปรดดูบทความนี้:[ตั้งค่าคอนฟิกการป้องกันอีเม ProofPoint กับ Exchange online](https://docs.microsoft.com/exchange/troubleshoot/email-delivery/configure-proofpoint-with-exchange)
+ถ้าคุณกําหนดเส้นทางจดหมายผ่าน ProofPoint หรือระบบการส่งข้อความ SendMail อื่นๆ และพบความล่าช้าในการส่งอีเมลไปยัง Exchange Online โปรดดูบทความนี้: กําหนดค่าการป้องกันอีเมล[Proofpoint](https://docs.microsoft.com/exchange/troubleshoot/email-delivery/configure-proofpoint-with-exchange)Exchange Online
 
-ใช้วิธีนี้เพื่อช่วยกำหนดค่าการเปลี่ยนแปลงเพื่อช่วยแก้ไขปัญหาการหน่วงเวลาของจดหมาย
+ใช้เพื่อช่วยกําหนดค่าการเปลี่ยนแปลงเพื่อช่วยแก้ไขปัญหาการหน่วงเวลาของจดหมาย

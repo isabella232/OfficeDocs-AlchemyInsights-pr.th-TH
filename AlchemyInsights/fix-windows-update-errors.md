@@ -1,5 +1,5 @@
 ---
-title: แก้ไขข้อผิดพลาดของ Windows Update
+title: แก้ไขข้อผิดพลาดWindowsอัปเดตข้อมูล
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001515"
 - "3573"
-ms.openlocfilehash: 07a5b67270d4eb17b129452e2eee28389f79313b
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: d6e90c0ba8a8cbe79838e1f49cd7049bf3e24e985d371ee1462d50e47834cdac
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51812663"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54068291"
 ---
-# <a name="fix-windows-update-errors"></a>แก้ไขข้อผิดพลาดของ Windows Update
+# <a name="fix-windows-update-errors"></a>แก้ไขข้อผิดพลาดWindowsอัปเดตข้อมูล
 
-หากคุณได้รับรหัสข้อผิดพลาดขณะดาวน์โหลดและติดตั้งการอัปเดต Windows ตัว **แก้ไขปัญหาการอัปเดต** สามารถช่วยแก้ไขปัญหาได้
+ถ้าคุณได้รับรหัสข้อผิดพลาดขณะดาวน์โหลดและติดตั้งการอัปเดตWindows ตัว **แก้ไขปัญหาการอัปเดต** สามารถช่วยแก้ไขปัญหาได้
 
-- [ดาวน์โหลดตัวแก้ไขปัญหาการอัปเดตของ Windows 10](https://support.microsoft.com/help/4027322/windows-update-troubleshooter)
-- เรียกใช้ตัวแก้ไขปัญหา เมื่อเสร็จสิ้น การรีสตาร์ตอุปกรณ์ของคุณเป็นแนวทางปฏิบัติที่ดีที่สุด จากนั้นตรวจหาการอัปเดตใหม่ โดยไปที่ เริ่ม >[การตั้งค่า >การอัปเดต&ความปลอดภัย > Windows Update](ms-settings:windowsupdate)
+- [ดาวน์โหลดตัวแก้ไขปัญหาการอัปเดตWindows 10](https://support.microsoft.com/help/4027322/windows-update-troubleshooter)
+- เรียกใช้ตัวแก้ไขปัญหา เมื่อเสร็จสิ้น การรีสตาร์ตอุปกรณ์ของคุณเป็นแนวทางปฏิบัติที่ดีที่สุด จากนั้นตรวจหาการอัปเดตใหม่ โดยไปที่[เริ่ม > การตั้งค่า >การอัปเดต&การรักษา> Windows อัปเดต](ms-settings:windowsupdate)
 
-หากผู้ที่ยังใช้ไม่ได้ โปรดตรวจสอบ Windows [Update: FAQ](https://support.microsoft.com/help/12373/windows-update-faq) เพื่อดูข้อมูลเพิ่มเติม
+หากผู้ที่ยังใช้ไม่ได้ โปรดตรวจสอบที่ อัปเดต[Windows: ถาม](https://support.microsoft.com/help/12373/windows-update-faq)บ่อย เพื่อดูข้อมูลเพิ่มเติม

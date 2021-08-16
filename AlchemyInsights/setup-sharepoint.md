@@ -1,5 +1,5 @@
 ---
-title: ตั้งค่า SharePoint
+title: ตั้งค่าSharePoint
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,15 +13,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000292"
 - "7407"
-ms.openlocfilehash: 66b29abcbce3d5cc538969d480ec9a89ae3c6095
-ms.sourcegitcommit: 2e4a5153e530bf15744a52e982eeb0d99757e9d2
+ms.openlocfilehash: eed91d538589a3eda49d19ae60cf772b7c20cbfc12c2b47aec0bb313ebd73e00
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 12/04/2020
-ms.locfileid: "49584003"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54023469"
 ---
-# <a name="set-up-sharepoint"></a>ตั้งค่า SharePoint
+# <a name="set-up-sharepoint"></a>ตั้งค่าSharePoint
 
-[คู่มือการตั้งค่า sharepoint](https://go.microsoft.com/fwlink/?linkid=2071425)จะช่วยคุณตั้งค่าการจัดเก็บเอกสาร sharepoint และการจัดการเนื้อหาของคุณสร้างไซต์กำหนดค่าการแชร์ภายนอกโยกย้ายข้อมูลและกำหนดค่าการตั้งค่าขั้นสูงและการมีส่วนร่วมของผู้ใช้และการติดต่อสื่อสารภายในองค์กรของคุณ
+คู่มือ[การตั้งค่า SharePoint จะช่วยคุณ](https://go.microsoft.com/fwlink/?linkid=2071425)ตั้งค่าที่เก็บข้อมูลและการจัดการเนื้อหาเอกสาร SharePoint ของคุณ สร้างไซต์ กําหนดค่าการแชร์ภายนอก โยกย้ายข้อมูล และกําหนดค่าการตั้งค่าขั้นสูง และผลักดันการมีส่วนร่วมและการติดต่อสื่อสารของผู้ใช้ภายในองค์กรของคุณ
 
-คุณจะต้องทำตามขั้นตอนในการกำหนดค่านโยบายสิทธิ์การแชร์เนื้อหาของคุณให้เลือกเครื่องมือการซิงค์การโยกย้ายของคุณรวมถึงการเปิดใช้งานการตั้งค่าความปลอดภัยสำหรับสภาพแวดล้อม SharePoint ของคุณ
+คุณจะปฏิบัติตามขั้นตอนต่างๆ ในการกําหนดค่านโยบายสิทธิ์การแชร์เนื้อหาของคุณ เลือกเครื่องมือการซิงค์การโยกย้ายของคุณ และเปิดใช้งานการตั้งค่าความปลอดภัยSharePointสภาพแวดล้อมของคุณ
