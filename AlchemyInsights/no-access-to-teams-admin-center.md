@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001721"
 - "4341"
-ms.openlocfilehash: 308ab6028962564f10f44e60654ac1dbfeac766a
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 8487e50c89edc2130419d722b7588f8ee5d239b44a17ae55456ee2fc3442181e
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51791395"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54077057"
 ---
-# <a name="no-access-to-teams-admin-center"></a>ไม่สามารถเข้าถึงศูนย์การจัดการ Teams
+# <a name="no-access-to-teams-admin-center"></a>ไม่สามารถเข้าถึงศูนย์Teamsของคุณ
 
-เรียนรู้เพิ่มเติมเกี่ยวกับการจัดการการตั้งค่า Microsoft Teams ในองค์กรของคุณด้วย[ศูนย์การจัดการ Teams](https://docs.microsoft.com/microsoftteams/enable-features-office-365)
+เรียนรู้เพิ่มเติมเกี่ยวกับการจัดการMicrosoft Teamsการตั้งค่าองค์กรของคุณด้วยศูนย์[Teamsการจัดการ](https://docs.microsoft.com/microsoftteams/enable-features-office-365)
 
-คุณไม่สามารถเข้าถึงศูนย์การจัดการ [Teams](https://docs.microsoft.com/microsoftteams/enable-features-office-365)ได้หรือไม่ เหตุการณ์บริการที่ใช้งานอยู่อาจเกิดขึ้นและทําให้คุณไม่สามารถเข้าถึงศูนย์การจัดการ Teams โปรดตรวจสอบรายละเอียดใน [แดชบอร์ดสถาน](https://status.office365.com/) ภาพบริการของคุณ
+คุณไม่สามารถเข้าถึงศูนย์การจัดการTeams[ใช่หรือไม่](https://docs.microsoft.com/microsoftteams/enable-features-office-365) เหตุการณ์บริการที่ใช้งานอยู่อาจเกิดขึ้นและทําให้คุณไม่สามารถเข้าถึงศูนย์การจัดการ Teams โปรดตรวจสอบแดชบอร์ด[สถานภาพบริการ](https://status.office365.com/)ของคุณ เพื่อดูรายละเอียด
 
-ดูขั้นตอนการแก้ไขปัญหาโดยละเอียดเกี่ยวกับข้อผิดพลาด FAILED_TO_AUTO_DISCOVER_DOMAINข้อผิดพลาด[FAILED_TO_AUTO_DISCOVER_DOMAINในศูนย์การจัดการ Microsoft Teams](https://docs.microsoft.com/microsoftteams/troubleshoot/teams-administration/failed-to-auto-discover-domain-error-teams-admin-center)
+ดูขั้นตอนการแก้ไขปัญหาโดยละเอียดเกี่ยวกับFAILED_TO_AUTO_DISCOVER_DOMAIN ข้อผิดพลาด[FAILED_TO_AUTO_DISCOVER_DOMAINใน Microsoft Teamsการจัดการ](https://docs.microsoft.com/microsoftteams/troubleshoot/teams-administration/failed-to-auto-discover-domain-error-teams-admin-center)

@@ -1,5 +1,5 @@
 ---
-title: การแก้ไขปัญหาการซิงโครไนซ์รหัสผ่าน
+title: แก้ไขปัญหาการซิงโครไนซ์รหัสผ่าน
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -14,31 +14,31 @@ ms.custom:
 - "579"
 - "1300006"
 ms.assetid: 1cba32c4-37ce-4ec1-9e58-8d3440b53d57
-ms.openlocfilehash: 96f63f2ae8e5de246bce7fc15a9b2c3d604f2eb8
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: cb782c0d1dc396ee7a9f016afb9629a2cdee93d52f5408b7a73e576e783ebc0a
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47664945"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54105797"
 ---
-# <a name="troubleshoot-password-synchronization"></a>การแก้ไขปัญหาการซิงโครไนซ์รหัสผ่าน
+# <a name="troubleshoot-password-synchronization"></a>แก้ไขปัญหาการซิงโครไนซ์รหัสผ่าน
 
-เมื่อต้องการแก้ไขปัญหาการซิงโครไนซ์รหัสผ่านให้เริ่มต้นโดยใช้การแก้ไขปัญหา AAD เชื่อมต่อนี้เพื่อกำหนดว่าทำไมรหัสผ่านจึงไม่ได้รับการซิงค์ เมื่อต้องการเริ่มต้นให้ไปที่[จัดการการซิงค์โดยตรง](https://admin.microsoft.com/AdminPortal/Home#/dirsyncmanagement)  
+เมื่อต้องการแก้ไขปัญหาการซิงโครไนซ์รหัสผ่าน ให้เริ่มโดยใช้ AAD เชื่อมต่องานการแก้ไขปัญหาเพื่อระบุสาเหตุที่รหัสผ่านไม่ซิงค์ เมื่อต้องการเริ่ม ให้ไปที่ [จัดการการซิงค์](https://admin.microsoft.com/AdminPortal/Home#/dirsyncmanagement)โดยตรง  
 
-1. เปิดเซสชัน Windows PowerShell ใหม่บนเซิร์ฟเวอร์ Azure AD Connect ของคุณแล้วเลือกตัวเลือก**เรียกใช้ในฐานะผู้ดูแลระบบ**
+1. เปิดเซสชันWindows PowerShellใหม่บนเซิร์ฟเวอร์ Azure AD เชื่อมต่อ และ **เลือกตัวเลือก เรียกใช้** ในฐานะผู้ดูแลระบบ
 
-2. เรียกใช้การตั้งค่า-ExecutionPolicy RemoteSigned หรือตั้งค่า ExecutionPolicy ไม่จำกัด
+2. เรียกใช้ Set-ExecutionPolicy RemoteSigned หรือ Set-ExecutionPolicy Unrestricted
 
-3. เริ่มตัวช่วยสร้างการเชื่อมต่อ AD Azure
+3. เริ่มตัวช่วยสร้างการเชื่อมต่อ Azure AD
 
-4. ไปที่หน้างานเพิ่มเติม >**แก้ไขปัญหา**  >  **ถัดไป**
+4. ไปที่หน้า งานเพิ่มเติม >  >  **แก้ไขปัญหา** ถัดไป
 
-5. เลือก **เปิด** ใช้เพื่อเปิดเมนูการแก้ไขปัญหา PowerShell
+5. เลือกเปิดใช้ เพื่อเปิดเมนู การแก้ไขปัญหา PowerShell
 
-6. เลือก**แก้ไขปัญหาการซิงโครไนซ์รหัสผ่าน**
+6. เลือก **แก้ไขปัญหาการซิงโครไนซ์** รหัสผ่าน
 
-    ปัญหานี้มักจะเป็นการซิงโครไนซ์รหัสผ่านสำหรับบัญชีผู้ใช้ที่เฉพาะเจาะจง
+    ปัญหามักจะเป็นรหัสผ่านที่ไม่ได้ซิงโครไนซ์กับบัญชีผู้ใช้ที่ระบุ
 
-    **บันทึกย่อ** การซิงโครไนซ์รหัสผ่านล้มเหลวถ้าการซิงค์รหัสผ่านที่เสร็จสมบูรณ์ล่าสุดเป็นเวลาที่แล้ว
+    **หมายเหตุ** การซิงโครไนซ์รหัสผ่านล้มเหลวถ้าช่วงเวลาที่ผ่านมาการซิงค์รหัสผ่านประสบความสาเร็จล่าสุด
 
-สำหรับความช่วยเหลือเพิ่มเติมในการแก้ไขปัญหาการซิงโครไนซ์รหัสผ่านให้ดู[แก้ไขปัญหาการซิงโครไนซ์แฮชของรหัสผ่านด้วย AZURE AD Connect sync](https://docs.microsoft.com/azure/active-directory/hybrid/tshoot-connect-password-hash-synchronization)
+For more help troubleshooting password synchronization, see [Troubleshoot password hash synchronization with Azure AD เชื่อมต่อ sync](https://docs.microsoft.com/azure/active-directory/hybrid/tshoot-connect-password-hash-synchronization).

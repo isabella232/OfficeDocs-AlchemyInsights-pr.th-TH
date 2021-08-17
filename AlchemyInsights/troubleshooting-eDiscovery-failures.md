@@ -1,5 +1,5 @@
 ---
-title: ๑๔๙๐-การแก้ไขปัญหา-eDiscovery-ความล้มเหลว
+title: 1490-troubleshooting-eDiscovery-failures
 ms.author: markjjo
 author: markjjo
 manager: lauraw
@@ -14,27 +14,27 @@ ms.custom:
 - "1490"
 - "3200003"
 ms.assetid: ''
-ms.openlocfilehash: ff28f96d64ec14980e9a47b630246b394faf4610
-ms.sourcegitcommit: fbe6925797cab0b38172386f1b059dc122e452a4
+ms.openlocfilehash: 7b819b9bb18b5c0a635e708eccc0f23271267874707e5f3a7d41b633a05f2822
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 09/25/2020
-ms.locfileid: "48277834"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54105587"
 ---
-# <a name="troubleshoot-content-search-errors"></a>การแก้ไขปัญหาข้อผิดพลาดในการค้นหาเนื้อหา
+# <a name="troubleshoot-content-search-errors"></a>การแก้ไขปัญหาข้อผิดพลาดการค้นหาเนื้อหา
 
-คุณพบปัญหาเกี่ยวกับการค้นหาเนื้อหาหรือความล้มเหลวเมื่อคุณส่งออกผลลัพธ์การค้นหาหรือไม่
+คุณประสบปัญหาในการค้นหาเนื้อหาหรือล้มเหลวเมื่อคุณส่งออกผลลัพธ์การค้นหาหรือไม่
 
-ตัวอย่างเช่นคุณจะได้รับสิ่งต่อไปนี้เมื่อเรียกใช้การค้นหา
+ตัวอย่างเช่น คุณจะได้รับสิ่งต่อไปนี้เมื่อเรียกใช้การค้นหาหรือไม่
 
 - ข้อผิดพลาด CS008 หรือ CS012
 
-- ข้อผิดพลาดของเซิร์ฟเวอร์ไม่ว่าง/หมดเวลา
+- ข้อผิดพลาดเซิร์ฟเวอร์ไม่ว่าง/หมดเวลา
 
-- เกิดข้อผิดพลาดของแอปพลิเคชัน
+- มีข้อผิดพลาดของแอปพลิเคชันเกิดขึ้น
 
-หรือเมื่อการค้นหาหรือส่งออกผลลัพธ์จากกล่องจดหมายจำนวนมาก (มากกว่ากล่องจดหมาย๑๐๐,๐๐๐) คุณจะได้รับข้อผิดพลาดในการส่งออกหรือไม่
+หรือเมื่อค้นหาหรือส่งออกผลลัพธ์จากกล่องจดหมายจํานวนมาก (กล่องจดหมายมากกว่า 100,000 กล่อง) คุณได้รับข้อผิดพลาดการส่งออกหรือไม่
 
-สำหรับข้อผิดพลาดชนิดเหล่านี้ให้ลองค้นหาตำแหน่งที่ตั้งเนื้อหาที่ล้มเหลว ดู  [บทความนี้](https://docs.microsoft.com/microsoft-365/compliance/retry-failed-content-search) สำหรับข้อมูลเพิ่มเติม
+For these types of errors, retry the search for the content locations that have failed. [ดู](https://docs.microsoft.com/microsoft-365/compliance/retry-failed-content-search)บทความนี้เพื่อดูข้อมูลเพิ่มเติม
 
-ถ้าคุณกำลังส่งออกกล่องจดหมายมากกว่า100K คุณจะต้องใช้ Powershell ต่อไปนี้เพื่อดาวน์โหลดผลลัพธ์การส่งออก:[ส่งออกผลลัพธ์จากกล่องจดหมายมากกว่า 100k](https://docs.microsoft.com/microsoft-365/compliance/export-search-results?view=o365-worldwide%23exporting-results-from-more-than-100000-mailboxes)
+ถ้าคุณส่งออกกล่องจดหมายมากกว่า 100K คุณจะต้องใช้ Powershell ต่อไปนี้เพื่อดาวน์โหลดผลลัพธ์การส่งออก: การส่งออกผลลัพธ์จากกล่องจดหมายมากกว่า[100K](https://docs.microsoft.com/microsoft-365/compliance/export-search-results?view=o365-worldwide%23exporting-results-from-more-than-100000-mailboxes)

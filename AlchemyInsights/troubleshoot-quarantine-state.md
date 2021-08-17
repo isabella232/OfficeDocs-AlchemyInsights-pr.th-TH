@@ -1,5 +1,5 @@
 ---
-title: การแก้ไขปัญหาสถานะการตรวจสอบสินค้า
+title: แก้ไขปัญหาสถานะการกักกัน
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -13,15 +13,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "7853"
 - "9004348"
-ms.openlocfilehash: 3ee932b7788f4aff3c8bc762c5c917124edfe065
-ms.sourcegitcommit: 953a8567ebcd9835f8c5c49472b223107c92549b
+ms.openlocfilehash: f68ae572f9236a296d84636ece2277f5bac2648c60ad1a79839a9163e200080b
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 01/22/2021
-ms.locfileid: "49949924"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54105731"
 ---
-# <a name="troubleshoot-quarantine-state"></a>การแก้ไขปัญหาสถานะการตรวจสอบสินค้า
+# <a name="troubleshoot-quarantine-state"></a>แก้ไขปัญหาสถานะการกักกัน
 
-บริการการเตรียมใช้งาน Azure Active Directory (AD) ตรวจสอบสถานภาพของการกำหนดค่าของคุณ นอกจากนี้ยังวางแอปที่ไม่แข็งแรงในสถานะการตรวจสอบ **สินค้า** ถ้าส่วนใหญ่หรือทั้งหมดของการโทรที่ทำกับระบบเป้าหมายล้มเหลวอย่างต่อเนื่องแล้วงานการเตรียมใช้งานจะถูกทำเครื่องหมายเป็นในการตรวจสอบ **สินค้า** ตัวอย่างของความล้มเหลวเป็น **ข้อผิดพลาดที่ได้รับเนื่องจากข้อมูลประจำตัวของผู้ดูแลระบบที่ไม่ถูกต้อง** สำหรับข้อมูลเพิ่มเติมให้ดู [ที่การเตรียมใช้งานแอปพลิเคชันในสถานะ](https://docs.microsoft.com/azure/active-directory/app-provisioning/application-provisioning-quarantine-status)การตรวจสอบสินค้า
+บริการAzure Active Directoryการเตรียมใช้งาน Azure Active Directory (AD) จะตรวจสอบสถานภาพการกําหนดค่าของคุณ นอกจากนี้ยังวางแอปที่ไม่ร้อนใน **สถานะการกัก** กัน ถ้าการโทรส่วนใหญ่หรือทั้งหมดกับระบบเป้าหมายล้มเหลวอย่างสอดคล้องกัน งานการเตรียมใช้งานจะถูกระบุว่า **อยู่ในการกัก** กัน ตัวอย่างความล้มเหลวได้รับข้อผิดพลาด **เนื่องจากข้อมูลรับรองความถูกต้องของผู้ดูแลระบบ** ที่ไม่ถูกต้อง หากต้องการข้อมูลเพิ่มเติม โปรดดู [การเตรียมใช้งานแอปพลิเคชันในการกัก](https://docs.microsoft.com/azure/active-directory/app-provisioning/application-provisioning-quarantine-status)กันสถานะ
 
-เมื่อต้องการแก้ไขปัญหาการซิงค์ cloud ให้ดูที่การเตรียมใช้งานปัญหาที่ถูก[กักกัน](https://docs.microsoft.com/azure/active-directory/cloud-sync/how-to-troubleshoot#provisioning-quarantined-problems) 
+เมื่อต้องการแก้ไขปัญหาการซิงค์ระบบคลาวด์[ให้ดู การเตรียมใช้งานปัญหาการกักกัน](https://docs.microsoft.com/azure/active-directory/cloud-sync/how-to-troubleshoot#provisioning-quarantined-problems) 

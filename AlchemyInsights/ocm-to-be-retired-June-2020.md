@@ -12,22 +12,22 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001492"
 - "3544"
-ms.openlocfilehash: 045ba28f29fcd37b7cbf7d5566bd4ae5c7210fe6
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 5d4c1507c810f2368d9cc52909d9d9b67e036e9d199603b46a4e992a41df898e
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51833562"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54077093"
 ---
 # <a name="ocm-to-be-retired-june-2020"></a>OCM จะเลิกใช้แล้วในเดือนมิถุนายน 2020
 
 
-มีผล **เมื่อ 30 มิถุนายน 2020** Add-in ตัวจัดการลูกค้าใน Outlook และแอปบนอุปกรณ์เคลื่อนที่จะถูกปลดระวาง คุณสามารถ  **ส่งออกข้อมูล**  ได้  **ก่อนวันที่** นี้  
+มีผล **เมื่อ 30 มิถุนายน 2020**# Outlook Add-in ตัวจัดการลูกค้าและแอปบนอุปกรณ์เคลื่อนที่จะถูกปลดระวาง คุณสามารถ  **ส่งออกข้อมูล**  ได้  **ก่อนวันที่** นี้  
 
-คุณสามารถตรวจสอบว่าใครในองค์กรของคุณมีแผนการสมัครใช้งาน Microsoft 365 Business Standard (ก่อนหน้านี้เรียกว่า Office 365 Business Premium) หรือ Microsoft 365 Business Premium (ก่อนหน้านี้เรียกว่า Microsoft 365 Business) ที่มีสิทธิ์ใน Outlook Customer Manager ด้วยการคลิก[ที่นี่](https://admin.microsoft.com/AdminPortal/Home?ref=/users)
+คุณสามารถตรวจสอบได้ว่าใครในองค์กรของคุณมีแผนการสมัครใช้งาน Microsoft 365 Business Standard (ก่อนหน้านี้เรียกว่า Office 365 Business Premium) หรือ Microsoft 365 Business Premium (ก่อนหน้านี้เรียกว่า Microsoft 365 Business) ที่มีสิทธิ์ใน Outlook Customer Manager[โดยคลิกที่นี่](https://admin.microsoft.com/AdminPortal/Home?ref=/users)
 
-สำหรับข้อมูลเพิ่มเติม ให้ดูที่
+สำหรับข้อมูลเพิ่มเติม ให้ดู:
 
-- [ส่งออกหรือลบข้อมูล Outlook Customer Manager ของคุณ](https://support.office.com/article/1a421cb4-e8de-4b44-bfb8-710b92820439)
+- [ส่งออกหรือลบข้อมูลOutlook Customer Manager ของคุณ](https://support.office.com/article/1a421cb4-e8de-4b44-bfb8-710b92820439)
 
-- [ถามที่ถามบ่อยเกี่ยวกับตัวจัดการลูกค้าใน Outlook](https://techcommunity.microsoft.com/t5/outlook-customer-manager/faq-frequently-asked-questions-about-outlook-customer-manager/m-p/29680)
+- [Outlook ถามที่ถามบ่อยเกี่ยวกับตัวจัดการลูกค้า](https://techcommunity.microsoft.com/t5/outlook-customer-manager/faq-frequently-asked-questions-about-outlook-customer-manager/m-p/29680)
