@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "6814"
 - "9003552"
-ms.openlocfilehash: 9d71554d2089a6d9e5d4850149d113959f3d43c0
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 00565470de388165e64c45879c22fd5064b4adc695151edaf58878f38a481ff2
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51820341"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54104039"
 ---
 # <a name="billing-for-reserved-instance-purchase"></a>การเรียกเก็บเงินกรณีการเหมาจ่ายล่วงหน้า
 
@@ -29,32 +29,32 @@ ms.locfileid: "51820341"
 **การยกเลิกการจอง**
 
 - **บริการตนเอง:** คุณสามารถยกเลิกหรือเปลี่ยนอินสแตนซ์สงวนด้วยตนเองได้โดยใช้ [พอร์ทัล Azure](https://portal.azure.com/#blade/Microsoft_Azure_Reservations/ReservationsBrowseBlade) เลือกการจองและคลิกขอคืนเงินหรือเปลี่ยน โปรดทราบว่าคุณต้องมีสิทธิ์ในการเข้าถึงใน การสั่งซื้อการจอง เพื่อแลกเปลี่ยนหรือคืนเงิน Access to only reservation will not let you proceed with refund or exchange. สอบถามเจ้าของใบสั่งซื้อการจองเพื่อให้เจ้าของมีสิทธิ์เข้าถึงใบสั่งซื้อที่จองได้
-- **นโยบาย Exchange:** คุณสามารถแลกเปลี่ยนการจองการจองประเภทเดียวกันได้ - ไม่มีข้อ **ห้าม** ในการแลกเปลี่ยนการจอง ข้อผูกมัดรวมที่มีการจองใหม่ควรมากกว่าผลรวมของยอดเงินคืนของการจองที่เปลี่ยนแล้วและการจ่ายเงินรายเดือนในอนาคต (ถ้ามี)
+- **Exchangeนโยบาย:** คุณสามารถแลกเปลี่ยนการจองการจองประเภทเดียวกันได้ - ไม่มีข้อ **ห้าม** ในการแลกเปลี่ยนการจอง ข้อผูกมัดรวมที่มีการจองใหม่ควรมากกว่าผลรวมของยอดเงินคืนของการจองที่เปลี่ยนแล้วและการจ่ายเงินรายเดือนในอนาคต (ถ้ามี)
 - **นโยบายการคืนเงิน:** ผลรวมของการคืนเงินและการยอดเงินที่ยกเลิกในอนาคตจะต้องไม่เกิน $50,000 USD ในหน้าต่างเลื่อนล่วงหน้า 12 เดือน ขณะนี้ **เราไม่ได้ชาร์จค่าปรับใดๆ กับ** การคืนเงิน แต่สามารถเรียกเก็บเงินจากการคืนเงินในอนาคตได้
 
-**ข้อยกเว้น:** การแลกเปลี่ยนด้วยตนเองและการยกเลิกความสามารถยังไม่พร้อมใช้งานกับลูกค้าของหน่วยงานภาครัฐของสหรัฐอเมริกา
+**ข้อยกเว้น:** ความสามารถในการแลกเปลี่ยนและยกเลิกด้วยตนเองไม่พร้อมใช้งานกับลูกค้าภาครัฐของสหรัฐอเมริกาEnterprise Agreement
 
 - **การสนับสนุน API / PS / CLI** ไม่พร้อมให้ใช้งานในการยกเลิกและการคืนเงินการแลกเปลี่ยนแบบบริการ [ตนเองและการคืนเงินของ Azure](https://docs.microsoft.com/azure/cost-management-billing/reservations/exchange-and-refund-azure-reservations?WT.mc_id=Portal-Microsoft_Azure_Support)
-- การแลกเปลี่ยนด้วยตนเองและการยกเลิกความสามารถยังไม่พร้อมใช้งานกับลูกค้าของหน่วยงานภาครัฐของสหรัฐอเมริกา ชนิดการสมัครใช้งานอื่นๆ ของภาครัฐของสหรัฐอเมริกา รวมถึง Pay-As-You-Go และ CSP ได้รับการสนับสนุน
+- การแลกเปลี่ยนด้วยตนเองและการยกเลิกความสามารถยังไม่พร้อมใช้งานEnterprise Agreementของลูกค้า ชนิดการสมัครใช้งานอื่นๆ ของภาครัฐของสหรัฐอเมริกา รวมถึง Pay-As-You-Go และ CSP ได้รับการสนับสนุน
 
-เรียนรู้เพิ่มเติม: [วิธีการประมวลผลการส่งคืนและแลกเปลี่ยนธุรกรรม](https://docs.microsoft.com/azure/billing/billing-azure-reservations-self-service-exchange-and-refund?WT.mc_id=Portal-Microsoft_Azure_Support#how-return-and-exchange-transactions-are-processed) เรียนรู้เพิ่มเติม : นโยบาย [Exchange และการคืนเงิน ข้อ](https://docs.microsoft.com/azure/billing/billing-azure-reservations-self-service-exchange-and-refund?WT.mc_id=Portal-Microsoft_Azure_Support#exchange-policies) ถามอื่นๆ: [เอกสารอินสแตนซ์ที่สงวนไว้](https://docs.microsoft.com/azure/billing/billing-save-compute-costs-reservations?WT.mc_id=Portal-Microsoft_Azure_Support)
+เรียนรู้เพิ่มเติม:[วิธีการประมวลผลการส่งคืนและแลกเปลี่ยนธุรกรรม](https://docs.microsoft.com/azure/billing/billing-azure-reservations-self-service-exchange-and-refund?WT.mc_id=Portal-Microsoft_Azure_Support#how-return-and-exchange-transactions-are-processed)เรียนรู้เพิ่มเติม : Exchange[นโยบายการคืนเงิน](https://docs.microsoft.com/azure/billing/billing-azure-reservations-self-service-exchange-and-refund?WT.mc_id=Portal-Microsoft_Azure_Support#exchange-policies)และข้อถามอื่นๆ:[ไปที่เอกสารอินสแตนซ์ที่สงวนไว้](https://docs.microsoft.com/azure/billing/billing-save-compute-costs-reservations?WT.mc_id=Portal-Microsoft_Azure_Support)
 
-**Exchange อินสแตนซ์สงวนที่มีอยู่ (บริการตนเอง)**
+**Exchangeอินสแตนซ์สงวนที่มีอยู่ (บริการตนเอง)**
 
-คุณสามารถแลกเปลี่ยนการจองเพื่อจองประเภทเดียวกันได้ คุณยังสามารถคืนเงินการจองได้ สูงสุดถึง $50,000 USD ต่อปี ถ้าคุณไม่ต้องการแล้ว การแลกเปลี่ยนด้วยตนเองและการยกเลิกความสามารถยังไม่พร้อมใช้งานกับลูกค้าของหน่วยงานภาครัฐของสหรัฐอเมริกา ชนิดการสมัครใช้งานอื่นๆ ของภาครัฐของสหรัฐอเมริกา รวมถึง Pay-As-You-Go และ CSP ได้รับการสนับสนุน คุณต้องมีสิทธิ์การเข้าถึงใน การสั่งซื้อจอง เพื่อแลกเปลี่ยนหรือคืนเงินเป็นการจองที่มีอยู่
+คุณสามารถแลกเปลี่ยนการจองเพื่อจองประเภทเดียวกันได้ คุณยังสามารถคืนเงินการจองได้ สูงสุดถึง $50,000 USD ต่อปี ถ้าคุณไม่ต้องการแล้ว การแลกเปลี่ยนด้วยตนเองและการยกเลิกความสามารถยังไม่พร้อมใช้งานEnterprise Agreementของลูกค้า ชนิดการสมัครใช้งานอื่นๆ ของภาครัฐของสหรัฐอเมริกา รวมถึง Pay-As-You-Go และ CSP ได้รับการสนับสนุน คุณต้องมีสิทธิ์การเข้าถึงใน การสั่งซื้อจอง เพื่อแลกเปลี่ยนหรือคืนเงินเป็นการจองที่มีอยู่
 
 ขั้นตอนต่อไปนี้จะเป็นแนวทางเกี่ยวกับกระบวนการในการทรานแซคชันให้เสร็จสมบูรณ์
 
-1.เข้าสู่ระบบพอร์ทัล [Azure](https://portal.azure.com/#blade/Microsoft_Azure_Reservations/ReservationsBrowseBlade)ของคุณ เลือกการจองที่คุณต้องการคืนเงิน แล้วคลิก **Exchange** 2 เลือกผลิตภัณฑ์ VM ที่คุณต้องการซื้อและพิมพ์ปริมาณ ตรวจสอบให้แน่ใจว่าผลรวมการซื้อใหม่มากกว่าผลรวมการส่งคืน [ให้ระบุขนาดที่เหมาะสมก่อนที่คุณจะ](https://docs.microsoft.com/azure/virtual-machines/windows/prepay-reserved-vm-instances?WT.mc_id=Portal-Microsoft_Azure_Support#determine-the-right-vm-size-before-you-buy)ซื้อ
+1.เข้าสู่ระบบพอร์ทัล [Azure](https://portal.azure.com/#blade/Microsoft_Azure_Reservations/ReservationsBrowseBlade)ของคุณ เลือกการจองที่คุณต้องการคืนเงิน และคลิก Exchange **2.** เลือกผลิตภัณฑ์ VM ที่คุณต้องการซื้อและพิมพ์ปริมาณ ตรวจสอบให้แน่ใจว่าผลรวมการซื้อใหม่มากกว่าผลรวมการส่งคืน [ให้ระบุขนาดที่เหมาะสมก่อนที่คุณจะ](https://docs.microsoft.com/azure/virtual-machines/windows/prepay-reserved-vm-instances?WT.mc_id=Portal-Microsoft_Azure_Support#determine-the-right-vm-size-before-you-buy)ซื้อ
 3.ตรวจทานและเสร็จสิ้นการทรานแซคชัน
 
 **การขอคืนเงินกรณีสงวน**
 
 เมื่อต้องการคืนเงินในการจอง ให้ไปที่ รายละเอียด **การจองห้อง** แล้วคลิก **คืนเงิน**
 
-**การคืนเงินตามการจัดอันดับโปร:**
+**Proการจัดอันดับเงินคืน:**
 
-**ตัวอย่างการขอคืนเงินและการแลกเปลี่ยนของ Pro-ration** และความต้องการขั้นต่่ ตัวอย่างการจองล่วงหน้า:
+**Pro-ration และตัวอย่างความต้องการขั้นต่สุดของการคืนเงินและการแลกเปลี่ยน** ตัวอย่างการจองล่วงหน้า:
 
 - คุณซื้อ RI ระยะเวลาหนึ่งปีราคา $120 ในวันที่ 1 มกราคม
 - ในวันที่ 7 เมษายนที่คุณต้องการคืนเงินหรือเปลี่ยนการจองนี้
@@ -86,7 +86,7 @@ ms.locfileid: "51820341"
 - **เลือกใบแจ้งหนี้**
 - คลิก **ดาวน์โหลดใบแจ้งหนี้** เพื่อดูสําเนาใบแจ้งหนี้ PDF ของคุณ หากระบุว่า **ไม่พร้อมใช้งาน** ให้ดู [เหตุใดฉันจึงไม่เห็นใบแจ้งหนี้ในช่วงการเรียกเก็บเงินครั้งล่าสุด](https://docs.microsoft.com/azure/billing/billing-download-azure-invoice-daily-usage-date?WT.mc_id=Portal-Microsoft_Azure_Support#noinvoice)
 
-**รับใบแจ้งหนี้ในอีเมล (.pdf)**
+**รับใบแจ้งหนี้ของคุณทางอีเมล (.pdf)**
 
 - เลือกการสมัครใช้งานของคุณ [จากหน้า](https://portal.azure.com/#blade/Microsoft_Azure_Billing/SubscriptionsBlade) การสมัครใช้งาน คลิก **ใบแจ้งหนี้ แล้วเลือก** ส่งอีเมลใบแจ้งหนี้ของฉัน
 - คลิก **เลือก** รับ และยอมรับข้อใดข้อหนึ่ง คุณจะต้องเลือกรับการสมัครใช้งานแต่ละรายการที่คุณเป็นเจ้าของ
@@ -111,5 +111,5 @@ ms.locfileid: "51820341"
 - [เข้าใจวิธีการใช้ส่วนลดอินสแตนซ์แบบเหมาจ่าย](https://docs.microsoft.com/azure/billing/billing-understand-vm-reservation-charges/?WT.mc_id=Portal-Microsoft_Azure_Support)
 - [ทําความเข้าใจการใช้งานอินสแตนซ์แบบเหมาจ่ายล่วงหน้าของการสมัครใช้งาน Pay-As-You-Go](https://docs.microsoft.com/azure/billing/billing-understand-reserved-instance-usage/?WT.mc_id=Portal-Microsoft_Azure_Support)
 - [การเข้าใจการใช้งานอินสแตนซ์การสงวนสิทธิ์ในการลงทะเบียนองค์กรของคุณ](https://docs.microsoft.com/azure/billing/billing-understand-reserved-instance-usage-ea/?WT.mc_id=Portal-Microsoft_Azure_Support)
-- [ต้นทุนซอฟต์แวร์ Windows ไม่รวมอยู่ในอินสแตนซ์สงวน](https://docs.microsoft.com/azure/billing/billing-reserved-instance-windows-software-costs/?WT.mc_id=Portal-Microsoft_Azure_Support)
-- [อินสแตนซ์สงวนในโปรแกรม Partner Central Cloud Solution Provider (CSP)](https://docs.microsoft.com/partner-center/azure-reservations/?WT.mc_id=Portal-Microsoft_Azure_Support)
+- [Windowsซอฟต์แวร์ที่ไม่รวมอยู่ในอินสแตนซ์สงวน](https://docs.microsoft.com/azure/billing/billing-reserved-instance-windows-software-costs/?WT.mc_id=Portal-Microsoft_Azure_Support)
+- [อินสแตนซ์สงวนในโปรแกรมศูนย์การจัดการCloud Solution Providerคู่ค้า (CSP)](https://docs.microsoft.com/partner-center/azure-reservations/?WT.mc_id=Portal-Microsoft_Azure_Support)

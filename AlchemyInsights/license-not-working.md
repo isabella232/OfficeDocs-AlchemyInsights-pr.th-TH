@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002459"
 - "4764"
-ms.openlocfilehash: 2e915860046dd66c7d7642c0b031717c2113681f
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: ea2d30c1d42f6701c4f5e3cc451bbb34ae77ae7781e9f5382502eeb9782ea023
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51836514"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54042433"
 ---
 # <a name="license-not-working"></a>สิทธิ์การใช้งานไม่ใช้งานได้
 
 ต่อไปนี้คือการตรวจสอบความถูกต้องสองสามรายการที่คุณสามารถลองได้:
 
-- ถ้าคุณมอบหมายสิทธิ์การใช้งาน Office 365 และแอปที่เกี่ยวข้องไม่ใช้งาน โปรดให้เวลาอย่างน้อย 24 ชั่วโมงเพื่อให้กระบวนการซิงค์ทั้งหมดเสร็จสมบูรณ์ 
+- ถ้าคุณมอบหมายสิทธิ์การใช้งานOffice 365แอปที่เกี่ยวข้องไม่ใช้งาน โปรดให้เวลาอย่างน้อย 24 ชั่วโมงเพื่อให้กระบวนการซิงค์ทั้งหมดเสร็จสมบูรณ์ 
 
 - ลองสลับปิดและเปิดสิทธิ์การใช้งานผลิตภัณฑ์ แล้วดูว่าสามารถแก้ไขปัญหาหรือไม่ 
 
@@ -31,6 +31,6 @@ ms.locfileid: "51836514"
 
 - ตรวจสอบว่าการสมัครใช้งานของคุณหมดอายุและต่ออายุหรือไม่ถ้าต้องใช้ ดู [เปิดใช้งานการสมัครใช้งาน](https://docs.microsoft.com/alchemyinsights/reactivate-your-subscription)ของคุณใหม่ 
 
-- If you purchased licenses from a reseller or partner, they might not have activated them. โปรดติดต่อพวกเขาโดยตรง: [ค้นหาคู่ค้าหรือผู้ค้าปลีก Office 365](https://docs.microsoft.com//microsoft-365/admin/manage/find-your-partner-or-reseller)ของคุณ
+- If you purchased licenses from a reseller or partner, they might not have activated them. Please contact them directly: [Find your Office 365 partner or reseller](https://docs.microsoft.com//microsoft-365/admin/manage/find-your-partner-or-reseller).
 
 - หากมีปัญหาใดๆ ขณะเปิดใช้งานการสมัครใช้งาน ของคุณ ให้ลองทํา [ตามขั้นตอนการลงทะเบียน](https://go.microsoft.com/fwlink/?linkid=2126800)ต่อไป

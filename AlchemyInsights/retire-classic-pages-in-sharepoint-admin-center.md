@@ -1,5 +1,5 @@
 ---
-title: ถอนหน้าคลาสสิกในศูนย์การจัดการ SharePoint
+title: เลิกใช้หน้าคลาสสิกในSharePointการจัดการ
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,29 +13,29 @@ ms.collection: Adm_O365
 ms.custom:
 - "6165"
 - "9001459"
-ms.openlocfilehash: 936987cc12be44521c7560496961ee2373209c0c
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: f36165ac0967d7c0627583830d82be64f94af9fe28311e86ed78f321031f9ac3
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47774478"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54074735"
 ---
-# <a name="retire-classic-pages-in-sharepoint-admin-center"></a>ถอนหน้าคลาสสิกในศูนย์การจัดการ SharePoint
+# <a name="retire-classic-pages-in-sharepoint-admin-center"></a>เลิกใช้หน้าคลาสสิกในSharePointการจัดการ
 
-หน้าต่อไปนี้ในศูนย์การจัดการ SharePoint แบบคลาสสิกได้ถูกแทนที่ด้วยหน้าในศูนย์การจัดการ SharePoint ใหม่และจะถูกเอาออก/ถอนการติดตั้ง: 
+หน้าต่อไปนี้ในศูนย์การจัดการ SharePointแบบคลาสสิกจะถูกแทนที่ด้วยหน้าในศูนย์การจัดการ SharePoint ใหม่ และจะถูกเอาออก/เลิกใช้: 
 
 - ไซต์คอลเลกชัน 
-- แชร์
-- การควบคุมการเข้าถึง
-- ตำแหน่งที่ตั้งทางภูมิศาสตร์
+- การแชร์
+- ตัวควบคุม Access
+- ที่ตั้งทางภูมิศาสตร์
 
-คุณไม่สามารถเลือกที่จะเลิกทำการเปลี่ยนแปลงนี้และรักษาหน้าเหล่านี้ได้
+คุณไม่สามารถปฏิเสธการเปลี่ยนแปลงนี้และรักษาหน้าเหล่านี้ไว้ได้
 
-ผู้ดูแลระบบจะเห็นแบนเนอร์บนหน้าคลาสสิกสี่หน้าเหล่านี้ แบนเนอร์จะแสดงวันที่ที่หน้าจะถูกยกเลิกพร้อมกับลิงก์ไปยังเอกสารที่อธิบายว่าจะค้นหาฟีเจอร์ทั้งหมดในศูนย์การจัดการใหม่ได้อย่างไร หลังจากวันที่เกษียณหน้าคลาสสิกเหล่านี้จะถูกแทนที่ด้วยหน้าการเปลี่ยนเส้นทางไปยังศูนย์การจัดการ SharePoint ใหม่เพื่อให้บุ๊กมาร์กทำงานต่อไป
+ผู้ดูแลระบบจะเห็นแบนเนอร์บนหน้าคลาสสิกทั้งสี่นี้ แบนเนอร์แสดงวันที่ที่หน้าจะถูกปลดระวางพร้อมกับลิงก์ไปยังเอกสารประกอบที่อธิบายตําแหน่งที่จะค้นหาฟีเจอร์ทั้งหมดในศูนย์การจัดการใหม่ หลังจากวันที่ปลดเกษียณ หน้าแบบคลาสสิกเหล่านี้จะถูกแทนที่ด้วยหน้าเปลี่ยนเส้นทางไปยังศูนย์SharePointใหม่เพื่อให้บุ๊กมาร์กใดๆ ยังคงใช้งานได้
   
-สำหรับข้อมูลเพิ่มเติม:
+For more information:
 
-- [ค้นหาฟีเจอร์ของไซต์คอลเลกชันในศูนย์การจัดการ SharePoint ใหม่](https://docs.microsoft.com/sharepoint/site-collections-page)
-- [ค้นหาฟีเจอร์การควบคุมการเข้าถึงในศูนย์การจัดการ SharePoint ใหม่](https://docs.microsoft.com/sharepoint/control-access)
-- [ค้นหาการตั้งค่าการแชร์ในศูนย์การจัดการ SharePoint ใหม่](https://docs.microsoft.com/sharepoint/sharing-settings)
-- [ค้นหาฟีเจอร์ตำแหน่งที่ตั้งทางภูมิศาสตร์ในศูนย์การจัดการ SharePoint ใหม่](https://docs.microsoft.com/sharepoint/manage-geo-locations)
+- [ค้นหาฟีเจอร์ไซต์คอลเลกชันในศูนย์การจัดการSharePointใหม่](https://docs.microsoft.com/sharepoint/site-collections-page)
+- [ค้นหาฟีเจอร์การควบคุมการเข้าถึงในศูนย์การจัดการSharePointใหม่](https://docs.microsoft.com/sharepoint/control-access)
+- [ค้นหาการตั้งค่าการแชร์ในศูนย์SharePointใหม่](https://docs.microsoft.com/sharepoint/sharing-settings)
+- [ค้นหาฟีเจอร์ที่ตั้งทางภูมิศาสตร์ในศูนย์SharePointใหม่](https://docs.microsoft.com/sharepoint/manage-geo-locations)

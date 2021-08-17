@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000731"
 - "2665"
-ms.openlocfilehash: f905aedc95f5791c51bcff52a2a7a725c159732f
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 119496a2a13b4b07bf954702eed95e29984358f03114ed42d44c26a422292836
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51819855"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54103931"
 ---
-# <a name="call-queues-in-microsoft-teams-and-skype-for-business"></a>คิวการโทรใน Microsoft Teams และ Skype for Business 
+# <a name="call-queues-in-microsoft-teams-and-skype-for-business"></a>คิวการโทรในMicrosoft Teams Skype for Business 
 
 เมื่อต้องการเริ่มต้นใช้งานคิวการโทร ให้ดูลิงก์ต่อไปนี้
 
 - [สร้างคิวการโทรบน Cloud](https://docs.microsoft.com/microsoftteams/create-a-phone-system-call-queue)
-- [รับการเข้าร่วมอัตโนมัติและโทรเข้าคิวได้โดยตรงจาก Teams](https://docs.microsoft.com/microsoftteams/answer-auto-attendant-and-call-queue-calls)
+- [รับการเข้าร่วมอัตโนมัติและโทรเข้าคิวการโทรโดยตรงจากTeams](https://docs.microsoft.com/microsoftteams/answer-auto-attendant-and-call-queue-calls)

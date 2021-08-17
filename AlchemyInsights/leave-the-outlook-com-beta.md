@@ -1,5 +1,5 @@
 ---
-title: ๘๐๐๐๐๓๕ออกจากรุ่นเบต้าของ Outlook.com
+title: 8000035 ออกจากOutlook.com รุ่นเบต้า
 ms.author: daeite
 author: daeite
 manager: jackiesm
@@ -19,18 +19,18 @@ ms.custom:
 - "1422"
 - "8000035"
 ms.assetid: 039b6814-0af4-4385-9fdf-bbc53ab2e161
-ms.openlocfilehash: 1ff3fb4bd0397682aac7825383c53e02f94b7e2d
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 9b481f343a0a25e740a09b387fcdf685fc4f719e9d08d0af2c885f7441ff1b23
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47676361"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54042865"
 ---
-# <a name="the-new-outlookcom"></a>Outlook.com ใหม่
+# <a name="the-new-outlookcom"></a>เวอร์ชันOutlook.com
 
-คุณไม่สามารถออกจากเวอร์ชันเบต้าของ Outlook.com และย้อนกลับไปยัง Outlook.com เวอร์ชันคลาสสิกได้อีกต่อไป
+ไม่สามารถออกจากเวอร์ชันเบต้า Outlook.com แล้วย้อนกลับไปยังเวอร์ชันคลาสสิกของ Outlook.com
   
-ถ้าคุณต้องการให้คำติชมเกี่ยวกับ Outlook.com ใหม่ให้ไปที่[ฟอรั่ม UserVoice](https://go.microsoft.com/fwlink/p/?linkid=851599) คุณสามารถลงคะแนนเสียงในแนวคิดหรือปัญหาที่คุณต้องการเห็นได้และเราจะตอบกลับข้อคิดเห็นและคำแนะนำด้านบนโดยตรง
+ถ้าคุณต้องการให้ข้อเสนอแนะเกี่ยวกับOutlook.com ให้ไปที่[ฟอรัม UserVoice](https://go.microsoft.com/fwlink/p/?linkid=851599) คุณสามารถลงคะแนนให้กับแนวคิดหรือปัญหาที่คุณต้องการดูที่อยู่ และเราจะตอบกลับข้อคิดเห็นและข้อเสนอแนะยอดนิยมโดยตรง
   
-[เรียนรู้เพิ่มเติมเกี่ยวกับ Outlook.com ใหม่](https://go.microsoft.com/fwlink/p/?linkid=874356)
+[เรียนรู้เพิ่มเติมเกี่ยวกับเวอร์ชันOutlook.com](https://go.microsoft.com/fwlink/p/?linkid=874356)
   

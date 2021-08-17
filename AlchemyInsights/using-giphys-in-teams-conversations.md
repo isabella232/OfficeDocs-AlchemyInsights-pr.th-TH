@@ -1,5 +1,5 @@
 ---
-title: การใช้ Giphys ในการสนทนาของทีม
+title: การใช้ Giphys Teamsการสนทนา
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,26 +12,26 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003825"
 - "6850"
-ms.openlocfilehash: 2fc29974bff9484c226c9651b9b000a89cad14dc
-ms.sourcegitcommit: 534e9217d99336eb471166ff83231c7e408fb1d9
+ms.openlocfilehash: 0244b68ffa2ebd3d70bae66a24ac299004848557b63b17c2ea74fafaff22bb8c
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 11/09/2020
-ms.locfileid: "48982575"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54104327"
 ---
-# <a name="using-giphys-in-teams-conversations"></a>การใช้ Giphys ในการสนทนาของทีม
+# <a name="using-giphys-in-teams-conversations"></a>การใช้ Giphys Teamsการสนทนา
 
-การเข้าถึง Giphys ในทีมการสนทนาจะถูกเปิดใช้งานตามค่าเริ่มต้น **ใน** ฐานะผู้ดูแลระบบคุณสามารถควบคุมได้ว่า Giphys จะพร้อมใช้งานสำหรับผู้ใช้โดย [การตั้งค่านโยบายการส่งข้อความ](https://docs.microsoft.com/microsoftteams/messaging-policies-in-teams#messaging-policy-settings)และตรวจสอบให้แน่ใจว่า **ใช้ Giphys ในการสนทนา**
+การเข้าถึง Giphys Teamsการแชทของคุณจะถูกเปิดใช้งานตามค่าเริ่มต้น ในฐานะผู้ดูแลระบบ คุณสามารถควบคุมได้ถ้า Giphys พร้อมใช้งานกับผู้ใช้โดยการตั้งค่า [นโยบาย](https://docs.microsoft.com/microsoftteams/messaging-policies-in-teams#messaging-policy-settings) การส่งข้อความ และตรวจสอบว่า **ใช้ Giphys ใน** การสนทนา **เป็น** เปิด
 
-ถ้า GIFs ไม่ทำงานตามที่คาดไว้ในการสนทนาของทีมให้ตรวจสอบดังนี้
+หาก GIF ไม่ใช้งานได้ตามที่คาดไว้ในTeams ให้ตรวจสอบว่า:
 
-[นโยบายการส่งข้อ](https://docs.microsoft.com/microsoftteams/messaging-policies-in-teams)ความจำเป็นต้องมีการอนุญาตให้ Giphys เมื่อต้องการตรวจสอบโดยใช้ cmdlet ของ PowerShell ให้ใช้วิธีต่อไปนี้
+นโยบาย [การส่งข้อความ](https://docs.microsoft.com/microsoftteams/messaging-policies-in-teams) ต้องอนุญาต Giphys เมื่อต้องการตรวจสอบโดยใช้ PowerShell cmdlets:
 
-- ตรวจสอบว่าคุณสามารถ [จัดการทีมด้วย PowerShell](https://docs.microsoft.com/microsoftteams/teams-powershell-overview?view=o365-worldwide#manage-teams-with-powershell)ได้
-- เรียกใช้คำสั่ง PowerShell [ได้รับ-CsTeamsMessagingPolicy-ข้อมูลประจำตัว-ส่วนกลาง](https://docs.microsoft.com/powershell/module/skype/get-csteamsmessagingpolicy?view=skype-ps)และตรวจสอบว่า **AllowGiphy** ถูกตั้งค่าเป็น **TRUE**
-- ถ้า **AllowGiphy** ถูกตั้งค่าเป็น **FALSE** ให้เรียกใช้คำสั่ง PowerShell ชุดต่อไปนี้ [-CsTeamsMessagingPolicy-ข้อมูลประจำตัว AllowGiphy $True](https://docs.microsoft.com/powershell/module/skype/set-csteamsmessagingpolicy?view=skype-ps)
+- ตรวจสอบว่าคุณสามารถ จัดการ[Teams ด้วย PowerShell](https://docs.microsoft.com/microsoftteams/teams-powershell-overview?view=o365-worldwide#manage-teams-with-powershell)
+- เรียกใช้สั่ง PowerShell [Get-CsTeamsMessagingPolicy -Identity Global](https://docs.microsoft.com/powershell/module/skype/get-csteamsmessagingpolicy?view=skype-ps)และตรวจสอบว่า **AllowGiphy** ถูกตั้งค่า **เป็น TRUE**
+- ถ้า **AllowGiphy** ถูกตั้งค่าเป็น **FALSE** ให้เรียกใช้การสั่ง PowerShell ต่อไปนี้ [Set-CsTeamsMessagingPolicy -Identity Global -AllowGiphy $True](https://docs.microsoft.com/powershell/module/skype/set-csteamsmessagingpolicy?view=skype-ps)
 
-จำเป็นต้องเปิดใช้งานการ[เชื่อมต่อ](https://docs.microsoft.com/deployoffice/privacy/optional-connected-experiences)ที่ไม่จำเป็นต้องเปิดใช้งานเพื่ออนุญาตการเข้าถึง URL Giphy
+[ประสบการณ์การเชื่อมต่อเสริม](https://docs.microsoft.com/deployoffice/privacy/optional-connected-experiences) ต้องเปิดใช้งานเพื่ออนุญาตให้เข้าถึง URL Giphy
 
 > [!NOTE]
-> ถ้าคุณมีนโยบายการส่งข้อความหลายทีมที่กำหนดค่าสำหรับผู้เช่าของคุณคุณสามารถกำหนดข้อมูลเฉพาะตัวของนโยบายที่กำหนดให้กับผู้ใช้ที่ได้รับผลกระทบที่มีคำสั่ง PowerShell ที่ [ได้รับการ CsOnlineUser-ข้อมูลประจำตัว](https://docs.microsoft.com/powershell/module/skype/get-csonlineuser?view=skype-ps) <user@domain.com> เลือก TeamsMessagingPolicy
+> If you have multiple Teams Messaging policies configured for your tenant, you can determine the identity of the policy assigned to the impacted user with the PowerShell command [Get-CsOnlineUser -Identity](https://docs.microsoft.com/powershell/module/skype/get-csonlineuser?view=skype-ps) <user@domain.com> | เลือก TeamsMessagingPolicy

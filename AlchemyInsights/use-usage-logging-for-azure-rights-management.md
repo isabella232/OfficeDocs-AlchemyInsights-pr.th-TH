@@ -1,5 +1,5 @@
 ---
-title: ใช้การบันทึกการใช้งานสำหรับการจัดการสิทธิ์ Azure
+title: ใช้การบันทึกการใช้งานในการจัดการสิทธิ์ของ Azure
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,31 +13,31 @@ ms.collection: Adm_O365
 ms.custom:
 - "5506"
 - "9002281"
-ms.openlocfilehash: f1483e177ec6fcdd39d0aae481d3b329b11577d4
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 083617154231d2315c78ed970ef8b5aa4f0276d14ff254a8f89eac1d53059b42
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47796811"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54104291"
 ---
-# <a name="use-usage-logging-for-azure-rights-management"></a>ใช้การบันทึกการใช้งานสำหรับการจัดการสิทธิ์ Azure
+# <a name="use-usage-logging-for-azure-rights-management"></a>ใช้การบันทึกการใช้งานในการจัดการสิทธิ์ของ Azure
 
-ตามค่าเริ่มต้นการบันทึกการใช้งานการป้องกันจะถูกเปิดใช้งานสำหรับลูกค้าทั้งหมด บันทึกจะถูกเขียนเป็นชุดของ blobs ในที่เก็บข้อมูล Azure สำหรับผู้เช่าของคุณ หลังจากการดำเนินการป้องกันอาจใช้เวลาถึง15นาทีเพื่อให้การบันทึกมากที่สุดปรากฏขึ้น
+ตามค่าเริ่มต้น การบันทึกการใช้งานการป้องกันจะถูกเปิดใช้งานกับลูกค้าทั้งหมด บันทึกจะถูกเขียนเป็นชุดของ blob ในที่เก็บข้อมูล Azure ของผู้เช่าของคุณ หลังจากการป้องกันอาจต้องใช้เวลาถึง 15 นาทีเพื่อให้แฟ้มบันทึกส่วนใหญ่ปรากฏขึ้น
 
 คุณสามารถใช้บันทึกการใช้งานการป้องกันเพื่อ:
 
-- วิเคราะห์ข้อมูลเชิงลึกของธุรกิจ
+- วิเคราะห์ข้อมูลเชิงลึกทางธุรกิจ
 
-- ตรวจสอบสำหรับการใช้งานที่ไม่เหมาะสม
+- ตรวจสอบการใช้งานในทางที่ผิด
 
-- ดำเนินการวิเคราะห์ทางนิติวิทยาศาสตร์
+- วิเคราะห์สิทธิ์
 
-สำหรับข้อมูลเพิ่มเติมให้ดู[ที่การบันทึกและการวิเคราะห์การใช้งานการป้องกันจากการป้องกันข้อมูล Azure](https://docs.microsoft.com/azure/information-protection/log-analyze-usage)
+ดูข้อมูลเพิ่มเติมที่[การบันทึกและการวิเคราะห์การใช้งานการป้องกันจาก Azure Information Protection](https://docs.microsoft.com/azure/information-protection/log-analyze-usage)
 
-สำหรับข้อมูลเกี่ยวกับการบันทึกการใช้งานไคลเอ็นต์ให้ดูที่[คู่มือสำหรับผู้ดูแลระบบ: ไฟล์ไคลเอ็นต์การป้องกันข้อมูล Azure และการบันทึกการใช้งานไคลเอ็นต์](https://docs.microsoft.com/azure/information-protection/rms-client/client-admin-guide-files-and-logging)
+For information about client usage logging, see [Admin Guide: Azure Information Protection client files and client usage logging](https://docs.microsoft.com/azure/information-protection/rms-client/client-admin-guide-files-and-logging).
 
-สำหรับข้อมูลเพิ่มเติมให้ดูที่:
+โปรดดูข้อมูลเพิ่มเติมที่:
 
-- [ความต้องการในการป้องกันข้อมูลของ Azure](https://docs.microsoft.com/azure/information-protection/get-started/requirements)
+- [ความต้องการของ Azure Information Protection](https://docs.microsoft.com/azure/information-protection/get-started/requirements)
     
-- [บทช่วยสอน: กำหนดค่าการตั้งค่านโยบายการป้องกันข้อมูล Azure และสร้างป้ายชื่อใหม่](https://docs.microsoft.com/azure/information-protection/get-started/infoprotect-quick-start-tutorial)
+- [บทช่วยสอน: กําหนดการตั้งค่านโยบาย Azure Information Protection และสร้างป้ายชื่อ](https://docs.microsoft.com/azure/information-protection/get-started/infoprotect-quick-start-tutorial)ใหม่
