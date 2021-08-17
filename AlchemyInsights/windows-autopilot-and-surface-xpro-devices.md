@@ -1,5 +1,5 @@
 ---
-title: อุปกรณ์ Windows Autopilot และ Surface X Pro
+title: Windows Autopilot และ Surface X Proอื่นๆ
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,17 +13,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003909"
 - "6964"
-ms.openlocfilehash: 4124d16aa16a8a4bd24e3ae0af6a1d6237a497fe
-ms.sourcegitcommit: ec88047d550006a1df4b6f10a3f513218113b9a5
+ms.openlocfilehash: 7f6825d99fcfee0ca4cc60cced2be9e4f0f9e75381e9595501072eb7dfad1698
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 12/15/2020
-ms.locfileid: "49692206"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54047419"
 ---
-# <a name="windows-autopilot-and-surface-x-pro-devices"></a>อุปกรณ์ Windows Autopilot และ Surface X Pro
+# <a name="windows-autopilot-and-surface-x-pro-devices"></a>Windows Autopilot และ Surface X Proอื่นๆ
 
-Windows Autopilot คือเทคโนโลยีการปรับใช้บนระบบคลาวด์ใน Windows 10 คุณสามารถใช้ Windows Autopilot เพื่อปรับใช้และกำหนดค่าอุปกรณ์จากระยะไกลได้โดยตรงจากกล่อง อุปกรณ์ที่ลงทะเบียน Windows Autopilot จะถูกระบุบนอินเทอร์เน็ตเมื่อเริ่มต้นใช้งานครั้งแรกผ่านลายเซ็นของอุปกรณ์ที่ไม่ซ้ำกันที่เรียกว่าแฮชของฮาร์ดแวร์ พวกเขากำลังกำหนดค่าโดยใช้โซลูชันการจัดการสมัยใหม่เช่น Azure Active Directory (Azure AD) และ Microsoft Intune
+Windows Autopilot คือเทคโนโลยีการปรับใช้บนระบบคลาวด์ในWindows 10ของคุณ คุณสามารถใช้การตั้งค่าWindows Autopilot เพื่อปรับใช้และกําหนดค่าอุปกรณ์จากระยะไกลจากกล่อง Windows อุปกรณ์ที่ลงทะเบียนโดย Autopilot จะถูกระบุผ่านทางอินเทอร์เน็ตเมื่อเริ่มต้นระบบครั้งแรกผ่านลายเซ็นอุปกรณ์เฉพาะที่เรียกว่าแฮชฮาร์ดแวร์ โดยจะถูกกําหนดค่าโดยใช้โซลูชันการจัดการที่ทันสมัย เช่น Azure Active Directory (Azure AD) Microsoft Intune
 
-อุปกรณ์สามารถจัดส่งโดยตรงไปยังผู้ใช้ของคุณ กระบวนการนี้จะกำจัด reimaging ในระหว่างการปรับใช้ซึ่งจะช่วยให้คุณสามารถใช้วิธีการการจัดการอุปกรณ์และการแจกจ่ายอุปกรณ์ใหม่ได้
+คุณสามารถจัดส่งอุปกรณ์ไปยังผู้ใช้ของคุณได้โดยตรง กระบวนการนี้จะขจัดการประมาณค่าใหม่ระหว่างการปรับใช้ ซึ่งช่วยให้คุณใช้วิธีใหม่ในการจัดการและการแจกจ่ายอุปกรณ์แบบ Agile
 
-เมื่อต้องการเรียนรู้เพิ่มเติมให้ดูที่[Windows Autopilot และอุปกรณ์ Surface](https://go.microsoft.com/fwlink/?linkid=2135712)
+เมื่อต้องการเรียนรู้เพิ่มเติม ให้ดู[Windows Autopilot และอุปกรณ์ Surface](https://go.microsoft.com/fwlink/?linkid=2135712)

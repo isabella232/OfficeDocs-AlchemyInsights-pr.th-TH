@@ -1,5 +1,5 @@
 ---
-title: ติดตั้งและกำหนดค่า OneDrive
+title: ติดตั้งและกําหนดค่าOneDrive
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -14,21 +14,21 @@ ms.custom:
 - "845"
 - "5800002"
 ms.assetid: 242bf619-d235-49de-88a3-9f6173c542d1
-ms.openlocfilehash: c36cc3e32d158198f233aeb791e145d961b9af5b
-ms.sourcegitcommit: 3c6e777d6679a24108171e9aa3f9379a8d44e001
+ms.openlocfilehash: e69ea8b7f99db8dcabb13aca2c9e1c69cb9f3758839a3fa28f0b0b9a5b6a534c
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 12/09/2020
-ms.locfileid: "49609530"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54078137"
 ---
-# <a name="install-and-configure-onedrive"></a>ติดตั้งและกำหนดค่า OneDrive
+# <a name="install-and-configure-onedrive"></a>ติดตั้งและกําหนดค่าOneDrive
 
-ไคลเอ็นต์การซิงค์ OneDrive ติดตั้งไว้ล่วงหน้าด้วย Windows 10 เมื่อต้องการติดตั้ง OneDrive สำหรับ Windows 7 หรือ Mac หรือเมื่อต้องการรับแอปสำหรับอุปกรณ์เคลื่อนที่สำหรับโทรศัพท์หรือแท็บเล็ตของคุณให้ [https://onedrive.com/download](https://onedrive.com/download) ไปที่
+ไคลเอ็นต์การซิงค์สําหรับ OneDriveถูกติดตั้งไว้ล่วงหน้ากับWindows 10ของคุณ เมื่อต้องการOneDriveแอปWindows 7 หรือ Mac หรือเมื่อต้องการรับแอปบนอุปกรณ์เคลื่อนที่ของโทรศัพท์หรือแท็บเล็ตของคุณ ให้ไปที่ [https://onedrive.com/download](https://onedrive.com/download)
   
-เมื่อต้องการตั้งค่าไคลเอ็นต์การซิงค์ OneDrive ใน Windows ให้ดูที่:
+เมื่อต้องการตั้งค่าไคลเอ็นต์ การซิงค์สําหรับ OneDriveใน Windows ให้ดูที่
   
-- [คำแนะนำในการตั้งค่า onedrive](https://admin.microsoft.com/adminportal/home#/modernonboarding/onedrivequickstartguide) เพื่อเริ่มต้นใช้งานการจัดเก็บไฟล์ของ onedrive การแชร์การทำงานร่วมกันและความสามารถในการซิงค์
+- [OneDriveคู่มือ](https://admin.microsoft.com/adminportal/home#/modernonboarding/onedrivequickstartguide)เพื่อเริ่มต้นใช้งานที่OneDriveการจัดเก็บไฟล์ การแชร์ การร่วมมือกัน และความสามารถในการซิงค์
 
-- [ตั้งค่าคอมพิวเตอร์ของคุณเพื่อซิงค์ไฟล์ OneDrive for Business ของคุณ](https://go.microsoft.com/fwlink/?linkid=533375)
+- [ตั้งค่าคอมพิวเตอร์เพื่อซิงค์ไฟล์OneDrive for Businessของคุณ](https://go.microsoft.com/fwlink/?linkid=533375)
 
-- [ซิงค์ไฟล์ SharePoint กับไคลเอ็นต์การซิงค์ OneDrive ใหม่](https://go.microsoft.com/fwlink/?linkid=871666)
+- [ซิงค์SharePointไฟล์ด้วยไคลเอ็นต์การซิงค์สําหรับ OneDriveใหม่](https://go.microsoft.com/fwlink/?linkid=871666)

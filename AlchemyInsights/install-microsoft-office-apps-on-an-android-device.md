@@ -1,5 +1,5 @@
 ---
-title: ติดตั้งแอป Microsoft Office บนอุปกรณ์ Android
+title: ติดตั้งMicrosoft Officeแอปบนอุปกรณ์ Android
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,22 +12,22 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003905"
 - "6960"
-ms.openlocfilehash: d88916ec9b81d078de837827eab1af95022c4ce3
-ms.sourcegitcommit: 87c8d0a1e6668211b9dd5427f98984ccdcadb02d
+ms.openlocfilehash: 169f9ad8da8e196d28d47595e23fce9d54ad82388b1b8e173971663b3d83d3f4
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 12/17/2020
-ms.locfileid: "49714946"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54078075"
 ---
-# <a name="install-microsoft-office-apps-on-an-android-device"></a>ติดตั้งแอป Microsoft Office บนอุปกรณ์ Android
+# <a name="install-microsoft-office-apps-on-an-android-device"></a>ติดตั้งMicrosoft Officeแอปบนอุปกรณ์ Android
 
-บน Chromebook หรือโทรศัพท์หรือแท็บเล็ต Android ของคุณคุณสามารถติดตั้งแอป Microsoft Office เป็นแอปที่แยกต่างหากหรือเป็นกลุ่ม
+บน Chromebook หรือโทรศัพท์หรือแท็บเล็ต Android ของคุณ คุณสามารถติดตั้งแอป Microsoft Office เป็นแอปแยกต่างหากหรือแบบรวมได้
 
-- [ติดตั้งแอป Office (bundle) จาก Google Play store](https://go.microsoft.com/fwlink/?linkid=2137009)
-- [ติดตั้งแอป Office (bundle) จาก Chrome เว็บสโตร์](https://go.microsoft.com/fwlink/?linkid=2137212)
-- [ติดตั้ง Microsoft Word จาก Google Play store](https://go.microsoft.com/fwlink/?linkid=2136994)
-- [ติดตั้ง Microsoft Excel จาก Google Play store](https://go.microsoft.com/fwlink/?linkid=2137120)
-- [ติดตั้ง Microsoft PowerPoint จาก Google Play store](https://go.microsoft.com/fwlink/?linkid=2137121)
-- [ติดตั้ง Microsoft OneNote จาก Google Play store](https://go.microsoft.com/fwlink/?linkid=2137211)
+- [ติดตั้งแอปแอป Office (ชุดรวม) จาก Google Play Store](https://go.microsoft.com/fwlink/?linkid=2137009)
+- [ติดตั้ง แอป Office (ชุดรวม) Chrome เว็บสโตร์](https://go.microsoft.com/fwlink/?linkid=2137212)
+- [ติดตั้งMicrosoft Wordจาก Google Play Store](https://go.microsoft.com/fwlink/?linkid=2136994)
+- [ติดตั้งMicrosoft Excelจาก Google Play Store](https://go.microsoft.com/fwlink/?linkid=2137120)
+- [ติดตั้ง Microsoft PowerPointจาก Google Play Store](https://go.microsoft.com/fwlink/?linkid=2137121)
+- [ติดตั้งMicrosoft OneNoteจาก Google Play Store](https://go.microsoft.com/fwlink/?linkid=2137211)
 
-เมื่อต้องการเรียนรู้เพิ่มเติมให้ดู[ติดตั้งและตั้งค่า Office บน Android](https://go.microsoft.com/fwlink/?linkid=2135287)
+เมื่อต้องการเรียนรู้เพิ่มเติม[ให้ดู ติดตั้งและOfficeบน Android](https://go.microsoft.com/fwlink/?linkid=2135287)
