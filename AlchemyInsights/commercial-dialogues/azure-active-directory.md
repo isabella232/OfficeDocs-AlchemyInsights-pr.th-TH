@@ -13,17 +13,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004167"
 - "7299"
-ms.openlocfilehash: 0a82646b18b51cf198c287990e5ce447619aac20
-ms.sourcegitcommit: 251e2e82571fb3bb1fbe3dbf7bfca30e004b3373
+ms.openlocfilehash: be92d2397c7088020cc8bea5101acf6717af4db82a785f71d55ec5aff9061b1b
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 03/05/2021
-ms.locfileid: "50483392"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54059209"
 ---
 # <a name="azure-active-directory"></a>Azure Active Directory
 
 Microsoft Azure Active Directory (Azure AD) เป็นบริการการจัดการข้อมูลเฉพาะตัวและการเข้าถึงบนระบบคลาวด์ที่ช่วยให้พนักงานลงชื่อเข้าใช้และเข้าถึงทรัพยากรทั้งภายในและภายนอก เมื่อต้องการเรียนรู้เพิ่มเติม ให้ดูแหล่งข้อมูลต่อไปนี้:
 
-- [Azure Active Directory คืออะไร](https://go.microsoft.com/fwlink/?linkid=2081145)
-- [การรวม Azure กับ Office 365](https://go.microsoft.com/fwlink/?linkid=2081218)
-- [ทดลองใช้ฟรี Azure Active Directory](https://go.microsoft.com/fwlink/?linkid=2081144)
+- [What is Azure Active Directory?](https://go.microsoft.com/fwlink/?linkid=2081145)
+- [การรวม Azure กับOffice 365](https://go.microsoft.com/fwlink/?linkid=2081218)
+- [Azure Active Directoryทดลองใช้ฟรี](https://go.microsoft.com/fwlink/?linkid=2081144)

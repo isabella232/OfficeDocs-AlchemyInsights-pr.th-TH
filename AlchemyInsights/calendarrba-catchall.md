@@ -1,5 +1,5 @@
 ---
-title: ๑๐๘๑ปฏิทิน-RBA CatchAll
+title: 1081 ปฏิทิน - RBA CatchAll
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -13,15 +13,15 @@ ms.custom:
 - "1081"
 - "3800012"
 ms.assetid: cac06cc1-fcf0-4223-b431-22a3b8ae9fe0
-ms.openlocfilehash: 3c7dff50fba4bd667d1432bd295edf404b459309
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: bcc2fbcc73e0c03b09d55de3eadb00273e83379476dfff4af8e2c758c91230d5
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47734390"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54059396"
 ---
 # <a name="create-and-manage-room-mailboxes"></a>สร้างและจัดการกล่องจดหมายของห้อง
 
-เมื่อต้องการสร้างและปรับเปลี่ยนกล่องจดหมายของห้องในศูนย์การจัดการ Exchange ให้ดูที่[สร้างและจัดการกล่องจดหมายของห้อง](https://docs.microsoft.com/Exchange/recipients/room-mailboxes)
+เมื่อต้องการสร้างและปรับเปลี่ยนกล่องจดหมายห้องExchangeศูนย์การจัดการ[ห้อง ให้ดู สร้างและจัดการกล่องจดหมายของ](https://docs.microsoft.com/Exchange/recipients/room-mailboxes)ห้อง
 
-เมื่อต้องการเรียนรู้เพิ่มเติมเกี่ยวกับกล่องจดหมายของห้องและอุปกรณ์ (หรือที่เรียกว่ากล่องจดหมายของทรัพยากร) ให้ดูที่[กล่องจดหมายห้องและอุปกรณ์](https://docs.microsoft.com/microsoft-365/admin/manage/room-and-equipment-mailboxes)
+เมื่อต้องการเรียนรู้เพิ่มเติมเกี่ยวกับกล่องจดหมายห้องและอุปกรณ์ (หรือที่เรียกว่ากล่องจดหมายทรัพยากร) [ให้ดู กล่องจดหมายห้อง](https://docs.microsoft.com/microsoft-365/admin/manage/room-and-equipment-mailboxes)และอุปกรณ์

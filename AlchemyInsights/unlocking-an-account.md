@@ -12,20 +12,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002449"
 - "4748"
-ms.openlocfilehash: a154856693a8a87ccf9f832d33ee46df7414af23f03aa043b38e6a6c64d5ebaa
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: a356b9907bb1b76ea753aac29eb176005bb45e22d8e1279dffd09af2cda9642b
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53972294"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57899263"
 ---
 # <a name="unlocking-an-account"></a>การปลดล็อกบัญชี
 
-ผู้ใช้อาจล็อกไม่เข้าMicrosoft 365เนื่องจากพยายามใส่รหัสผ่านไม่ดีหรือถูกโจมตีอื่นๆ เมื่อต้องการช่วยให้ผู้ใช้ลงชื่อเข้าใช้Microsoft 365 **คุณสามารถลองขั้นตอนต่อไปนี้ก่อนที่จะเปิด การร้องขอ** การสนับสนุน 
+ผู้ใช้อาจล็อกไม่เข้าMicrosoft 365เนื่องจากพยายามใส่รหัสผ่านไม่ถูกต้องหรือถูกโจมตีอื่นๆ เมื่อต้องการช่วยให้ผู้ใช้ลงชื่อเข้าใช้Microsoft 365 **คุณสามารถลองขั้นตอนต่อไปนี้ก่อนที่จะเปิด การร้องขอ** การสนับสนุน 
 
 **อีเมลที่ถูกห้าม**
 
-ในฐานะผู้ดูแลระบบ ถ้าผู้ใช้รายใดรายหนึ่งของคุณถูกห้ามการส่งอีเมล คุณสามารถ [ยกเลิกการบล็อกบัญชีได้](/microsoft-365/security/office-365-security/removing-user-from-restricted-users-portal-after-spam)ด้วยตนเอง ผู้ใช้จะสามารถส่งอีเมลภายในหนึ่งชั่วโมงหลังจากเอาข้อจํากัดออก
+ในฐานะผู้ดูแลระบบ ถ้าหนึ่งในผู้ใช้ของคุณถูกห้ามไม่ส่งอีเมล คุณสามารถ [ยกเลิกการบล็อกบัญชีได้](https://docs.microsoft.com/microsoft-365/security/office-365-security/removing-user-from-restricted-users-portal-after-spam)ด้วยตนเอง ผู้ใช้จะสามารถส่งอีเมลภายในหนึ่งชั่วโมงหลังจากเอาข้อจํากัดออก
 
 **ตั้งค่ารหัสผ่านผู้ใช้ใหม่**
 
@@ -39,6 +39,6 @@ ms.locfileid: "53972294"
 
 2. เลือกผู้ใช้ แล้วคลิกจุดสามจุด (การแอคชันเพิ่มเติม) แล้วคลิก **แก้ไขสถานะการเข้าสู่ระบบ**
 
-For more password reset scenarios, including Self-Service Password Reset, [see Reset Microsoft 365 for multiple-attempts-to-charge-online-payment-instrumentsbusiness passwords](/microsoft-365/admin/add-users/reset-passwords).
+For more password reset scenarios, including Self-Service Password Reset, [see Reset Microsoft 365 for multiple-attempts-to-charge-online-payment-instrumentsbusiness passwords](https://docs.microsoft.com/microsoft-365/admin/add-users/reset-passwords).
 
-บริการนี้จะป้องกันไม่ให้ผู้ใช้ส่งอีเมลหลังจากตรวจพบหลักฐานของบัญชีที่ถูกละเมิด และ/หรือสแปมขาออก เพื่อความปลอดภัย ให้ปฏิบัติตามขั้นตอนใน[การตอบกลับบัญชีผู้ใช้อีเมลที่ถูก](/microsoft-365/security/office-365-security/responding-to-a-compromised-email-account)ละเมิด Microsoft 365บัญชีผู้ใช้นั้น
+บริการนี้จะป้องกันไม่ให้ผู้ใช้ส่งอีเมลหลังจากตรวจพบหลักฐานของบัญชีที่ถูกละเมิด และ/หรือสแปมขาออก เพื่อความปลอดภัย ให้ปฏิบัติตามขั้นตอนใน[การตอบกลับบัญชีอีเมลที่ถูก](https://docs.microsoft.com/microsoft-365/security/office-365-security/responding-to-a-compromised-email-account)ละเมิด Microsoft 365อีเมลของผู้ใช้

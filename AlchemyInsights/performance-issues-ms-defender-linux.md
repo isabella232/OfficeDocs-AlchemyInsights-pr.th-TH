@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "11491"
 - "9001464"
-ms.openlocfilehash: 268f44640d3b2d8764133560d0cbf500eb4afd22
-ms.sourcegitcommit: 8242a824491f64be48dfe81da09766920fbd7feb
+ms.openlocfilehash: b1200f0dd206e27cccf96778beb0326c846e7504e51be283193b2630edfb4509
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 06/06/2021
-ms.locfileid: "52794224"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54086759"
 ---
 # <a name="performance-issues-for-microsoft-defender-for-endpoint-on-linux"></a>ปัญหาด้านประสิทธิภาพการ Microsoft Defender for Endpoint บน Linux
 

@@ -1,5 +1,5 @@
 ---
-title: แก้ไข PowerPoint ไม่แสดงหรือค้าง
+title: แก้ไขปัญหาการPowerPointค้างหรือค้าง
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,14 +12,14 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001698"
 - "5474"
-ms.openlocfilehash: 60e320ec204735fdf9ce4dc29c3e291695840215
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 04922be009d5ddc1eb5084f4f6e4cd56024fa987d2da6ddbf9115aecfa5fd9e0
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51826722"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54110411"
 ---
-# <a name="resolve-powerpoint-hangs-or-freezes"></a>แก้ไข PowerPoint ไม่แสดงหรือค้าง
+# <a name="resolve-powerpoint-hangs-or-freezes"></a>แก้ไขปัญหาการPowerPointค้างหรือค้าง
 
-- [ฉันได้รับข้อผิดพลาด "หยุดการใช้งานได้" เมื่อฉันเริ่มใช้งานแอปพลิเคชัน Office บนพีซี](https://support.office.com/article/i-get-a-stopped-working-error-when-i-start-office-applications-on-my-pc-52bd7985-4e99-4a35-84c8-2d9b8301a2fa)ของฉัน
-- Follow the steps in [PowerPoint isn't responding, hangs or freezes](https://support.office.com/article/PowerPoint-isn-t-responding-hangs-or-freezes-652ede6e-e3d2-449a-a07f-8c800dfb948d) for more troubleshooting information and solutions.
+- [ฉันได้รับข้อผิดพลาด "หยุดการใช้งานได้" เมื่อฉันเริ่มOfficeบนพีซีของฉัน](https://support.office.com/article/i-get-a-stopped-working-error-when-i-start-office-applications-on-my-pc-52bd7985-4e99-4a35-84c8-2d9b8301a2fa)
+- ให้ปฏิบัติตามขั้นตอน[PowerPointไม่ตอบสนอง ไม่ตอบสนอง หรือค้างอยู่ เพื่อดู](https://support.office.com/article/PowerPoint-isn-t-responding-hangs-or-freezes-652ede6e-e3d2-449a-a07f-8c800dfb948d)ข้อมูลและวิธีแก้ไขปัญหาเพิ่มเติม

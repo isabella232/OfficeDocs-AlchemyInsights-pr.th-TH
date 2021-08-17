@@ -13,23 +13,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "11084"
 - "9003537"
-ms.openlocfilehash: 4943287fe010aacc456670105761b0e8e6b4269ce24086bc5000c9ccc916c8f8
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: cefebe63e45caab176ba84a35280378ace7e6b3115c48694ed043a39b4d93c1e
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53994236"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57890073"
 ---
 # <a name="defender-endpoint-check-sensor-status"></a>สถานะเซนเซอร์การตรวจสอบจุดสิ้นสุดของ Defender
 
-ไทล์ **ปัญหาเซนเซอร์** อยู่บนแดชบอร์ดการดําเนินการรักษาความปลอดภัย ไทล์นี้จะให้ข้อมูลเกี่ยวกับความสามารถของอุปกรณ์แต่ละเครื่องในการให้ข้อมูลเซ็นเซอร์และสื่อสารกับ Defender เพื่อบริการจุดสิ้นสุด รายงานว่าอุปกรณ์ต่างๆ ต้องการการให้ความสนใจกี่เครื่องและช่วยให้คุณระบุอุปกรณ์ที่มีปัญหาและเริ่มแก้ไขปัญหาที่ทราบแล้ว
+ไทล์ **ปัญหาเซนเซอร์** อยู่บนแดชบอร์ดการดําเนินการรักษาความปลอดภัย ไทล์นี้จะให้ข้อมูลเกี่ยวกับความสามารถของอุปกรณ์แต่ละเครื่องในการให้ข้อมูลเซ็นเซอร์และสื่อสารกับบริการจุดสิ้นสุดของ Defender รายงานว่าอุปกรณ์หลายเครื่องต้องให้ความสนใจและช่วยให้คุณระบุอุปกรณ์ที่มีปัญหาและเริ่มแก้ไขปัญหาที่ทราบแล้ว
 
 ตัวบ่งชี้สถานะสองตัวบนไทล์จะให้ข้อมูลเกี่ยวกับจํานวนอุปกรณ์ที่ไม่ได้รายงานไปยังบริการอย่างถูกต้อง ดังนี้
 
 - **ถูกปรับแต่งผิด** อุปกรณ์ที่อาจรายงานข้อมูลเซ็นเซอร์บางส่วนไปยัง Defender เป็นบริการจุดสิ้นสุด และอาจมีข้อผิดพลาดในการกําหนดค่าที่ต้องมีการแก้ไข
 - **ไม่ได้ใช้งาน** อุปกรณ์ที่หยุดการรายงานไปยังบริการ Defender for Endpoint เป็นเวลามากกว่าเจ็ดวันในเดือนที่แล้ว
 
-การคลิกที่กลุ่มใดกลุ่มหนึ่งจะเลือกคุณไปยังรายการ อุปกรณ์ ที่ถูกกรองตามตัวเลือกของคุณ ในรายการ อุปกรณ์ คุณสามารถกรองรายการสถานะความสมบูรณ์ตามสถานะต่อไปนี้:
+การคลิกที่กลุ่มใดกลุ่มหนึ่งจะตรงไปยังรายการ อุปกรณ์ ที่ถูกกรองตามตัวเลือกของคุณ ในรายการ อุปกรณ์ คุณสามารถกรองรายการสถานะความสมบูรณ์ตามสถานะต่อไปนี้:
 
 - **ใช้งานอยู่** อุปกรณ์ที่รายงานไปยัง Defender อย่างแข็งขันเกี่ยวกับบริการจุดสิ้นสุด
 - **ถูกปรับแต่งผิด** อุปกรณ์ที่อาจรายงานข้อมูลเซ็นเซอร์บางส่วนไปยัง Defender เป็นบริการจุดสิ้นสุด แต่มีข้อผิดพลาดการกําหนดค่าที่ต้องมีการแก้ไข อุปกรณ์ที่ตั้งค่าผิดสามารถมีปัญหาอย่างใดอย่างหนึ่งหรือปัญหาต่อไปนี้รวมกัน:
@@ -40,6 +40,6 @@ ms.locfileid: "53994236"
 
 คุณสามารถดาวน์โหลดรายการทั้งหมดในรูปแบบ CSV โดยใช้ฟีเจอร์ส่งออก
 
-ดูข้อมูลเพิ่มเติมที่ ตรวจสอบสถานะ[สถานภาพเซ็นเซอร์ใน Microsoft Defender for Endpoint](/microsoft-365/security/defender-endpoint/check-sensor-status)
+ดูข้อมูลเพิ่มเติมที่ ตรวจสอบสถานะ[สถานภาพเซ็นเซอร์ใน Microsoft Defender for Endpoint](https://docs.microsoft.com/microsoft-365/security/defender-endpoint/check-sensor-status)
 
-For more information about what caused a device to be inactive or misconfigured, [see Fix unhealthy sensors in Microsoft Defender for Endpoint](/microsoft-365/security/defender-endpoint/fix-unhealthy-sensors).
+For more information about what caused a device to be inactive or misconfigured, [see Fix unhealthy sensors in Microsoft Defender for Endpoint](https://docs.microsoft.com/microsoft-365/security/defender-endpoint/fix-unhealthy-sensors).

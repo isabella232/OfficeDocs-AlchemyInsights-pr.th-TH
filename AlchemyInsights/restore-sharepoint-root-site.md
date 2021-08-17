@@ -1,5 +1,5 @@
 ---
-title: คืนค่าไซต์รากของ SharePoint
+title: คืนค่าไซต์SharePointราก
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003017"
 - "5730"
-ms.openlocfilehash: fd0d3858cd073ab6f5dbfdd8b1f24adde37f8146
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 7793e28fbf17efbfa72da9bcb0a06f094b90b041f65aa500b9ab85010c234a02
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51835722"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54109619"
 ---
-# <a name="restore-the-sharepoint-root-site"></a>คืนค่าไซต์รากของ SharePoint
+# <a name="restore-the-sharepoint-root-site"></a>คืนค่าไซต์SharePointราก
 
-คืนค่าไซต์รากที่ถูกลบจากศูนย์การจัดการ SharePoint ใหม่ เมื่อคืนค่าแล้ว ให้แทนที่ไซต์แทน
+คืนค่าไซต์รากที่ถูกลบจากศูนย์SharePointใหม่ เมื่อคืนค่าแล้ว ให้แทนที่ไซต์แทน
 
 1. ไปที่ [หน้าไซต์](https://admin.microsoft.com/sharepoint?page=recycleBin&modern=true) ที่ถูกลบ 
 2. เลือกไซต์รากเพื่อคืนค่า
