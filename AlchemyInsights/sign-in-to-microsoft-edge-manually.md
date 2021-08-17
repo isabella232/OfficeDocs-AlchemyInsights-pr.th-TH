@@ -1,5 +1,5 @@
 ---
-title: ลงชื่อเข้าใช้ Microsoft Edge ด้วยตนเอง
+title: ลงชื่อเข้าใช้Microsoft Edgeด้วยตนเอง
 ms.author: v-smandalika
 author: v-smandalika
 ms.date: 12/03/2020
@@ -15,18 +15,18 @@ ms.custom:
 - "6893"
 - "8332"
 - "9004625"
-ms.openlocfilehash: f380d09dc14788205638cdee6aebe0b084ecab2f
-ms.sourcegitcommit: 6bfe9cd9d0b18481e0cac6f1f5bc86ed7df31037
+ms.openlocfilehash: f9aa27a585d805360e1fadecfd0db3b11d15a3594ed5bd5dc6c68cec37a4d6a2
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 03/27/2021
-ms.locfileid: "51398676"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54050785"
 ---
-# <a name="sign-in-to-microsoft-edge-manually"></a>ลงชื่อเข้าใช้ Microsoft Edge ด้วยตนเอง
+# <a name="sign-in-to-microsoft-edge-manually"></a>ลงชื่อเข้าใช้Microsoft Edgeด้วยตนเอง
 
-ถ้าผู้ใช้ไม่ได้ลงชื่อเข้าใช้โดยอัตโนมัติในระหว่างประสบการณ์การใช้งานครั้งแรก ผู้ใช้สามารถลงชื่อเข้าใช้ด้วยตนเองผ่านการตั้งค่าของเบราว์เซอร์หรือแถบเลื่อนข้อมูลเฉพาะตัวได้ เมื่อต้องการจัดการการลงชื่อเข้าใช้ ให้ใช้นโยบายต่อไปนี้
+ถ้าผู้ใช้ไม่ลงชื่อเข้าใช้โดยอัตโนมัติระหว่างประสบการณ์การใช้งานครั้งแรก ผู้ใช้สามารถลงชื่อเข้าใช้ผ่านการตั้งค่าของเบราว์เซอร์หรือแถบเลื่อนข้อมูลเฉพาะตัวได้ด้วยตนเอง เมื่อต้องการจัดการการลงชื่อเข้าใช้ ให้ใช้นโยบายต่อไปนี้
 
-1. [NonRemovableProfileEnabled](https://docs.microsoft.com/deployedge/microsoft-edge-policies#nonremovableprofileenabled) - เพื่อให้แน่ใจว่าผู้ใช้จะมีโปรไฟล์งานใน Microsoft Edge เสมอ
-2. [RestrictSigninToPattern](https://docs.microsoft.com/deployedge/microsoft-edge-policies#restrictsignintopattern) - เมื่อต้องการจํากัดการลงชื่อเข้าใช้ไปยังชุดของบัญชีผู้ใช้ที่เชื่อถือได้
+1. [NonRemovableProfileEnabled](https://docs.microsoft.com/deployedge/microsoft-edge-policies#nonremovableprofileenabled) - เมื่อต้องการตรวจสอบให้แน่ใจว่าผู้ใช้มีโปรไฟล์งานในMicrosoft Edgeเสมอ
+2. [RestrictSigninToPattern](https://docs.microsoft.com/deployedge/microsoft-edge-policies#restrictsignintopattern) - เมื่อต้องการจํากัดการลงชื่อเข้าใช้ชุดบัญชีที่เชื่อถือได้
 3. [BrowserSignin](https://docs.microsoft.com/deployedge/microsoft-edge-policies#browsersignin) - เมื่อต้องการปิดใช้งานการลงชื่อเข้าใช้หรือบังคับให้ผู้ใช้ลงชื่อเข้าใช้
 

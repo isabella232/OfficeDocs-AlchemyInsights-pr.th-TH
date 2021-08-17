@@ -1,5 +1,5 @@
 ---
-title: เครื่องมือการโยกย้าย SharePoint เวอร์ชันที่ได้รับการสนับสนุน
+title: เวอร์ชันที่สนับสนุนของเครื่องมือSharePointการโยกย้าย
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
@@ -9,19 +9,19 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: a1c1c035-87ad-4d7a-a347-98522429c7aa
-ms.openlocfilehash: c89d9326bae649c3cf9384b1c47842a36399816a
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 3276d166d44798c2ffffad6f9504b73dfd81751e02cf3ba106ff6f89a9fc30b1
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47773398"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54107108"
 ---
-# <a name="supported-version-of-the-sharepoint-migration-tool"></a>เครื่องมือการโยกย้าย SharePoint เวอร์ชันที่ได้รับการสนับสนุน
+# <a name="supported-version-of-the-sharepoint-migration-tool"></a>เวอร์ชันที่สนับสนุนของเครื่องมือSharePointการโยกย้าย
 
 
 
-ในปัจจุบันเครื่องมือการโยกย้าย SharePoint จะสนับสนุนการโยกย้ายจาก SharePoint ๒๐๑๓เท่านั้น เวอร์ชัน๒๐๑๐และ๒๐๑๖ไม่ได้รับการสนับสนุนในขณะนี้
+ขณะนี้เครื่องมือSharePointการโยกย้ายสนับสนุนเฉพาะการโยกย้ายSharePoint 2013 เท่านั้น เวอร์ชัน 2010 และ 2016 ไม่ได้รับการสนับสนุนในนี้
   
-สำหรับข้อมูลเพิ่มเติมให้ดู[ที่การแนะนำเครื่องมือการโยกย้ายของ SharePoint](https://go.microsoft.com/fwlink/?linkid=2044765&amp;clcid=0x409)
+For more information, see [Introducing the SharePoint Migration Tool](https://go.microsoft.com/fwlink/?linkid=2044765&amp;clcid=0x409).
   
 

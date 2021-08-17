@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002635"
 - "5154"
-ms.openlocfilehash: dfd77bc83b4b278e3630858f54fdfb109ade2a14
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: e1f8227047daede71d0fa3b3557db0d95a379b99b76ab0c2fe1d6ed8cc213d4a
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51813887"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54079469"
 ---
 # <a name="encryption-with-transport-rules"></a>การเข้ารหัสลับด้วยกฎการส่งผ่าน
 
-ใน [Exchange Admin Center](https://go.microsoft.com/fwlink/p/?linkid=834822) (EAC) คุณสามารถใช้ความสามารถของ Office Message Encryption(OME) ในกฎลําออกจดหมายเพื่อทริกเกอร์การเข้ารหัสลับข้อความได้ เลือกตัวเลือก ใช้ **การเข้ารหัสลับข้อความและการป้องกันสิทธิ์ของ Office 365** บนเงื่อนไขกฎการส่งผ่าน
+ใน[ศูนย์Exchangeการจัดการ](https://go.microsoft.com/fwlink/p/?linkid=834822)จดหมาย (EAC) คุณสามารถใช้ความสามารถของ Office Message Encryption(OME) ในกฎการโฟลว์จดหมายของคุณเพื่อให้การเข้ารหัสลับข้อความทริกเกอร์ได้ เลือกตัวเลือก การ **การเข้ารหัสลับข้อความของ Office 365และการป้องกัน** สิทธิ์ บนเงื่อนไขกฎการส่งผ่าน
 
 - For more information, see [Define Mail flow rule to encrypt](https://docs.microsoft.com/microsoft-365/compliance/define-mail-flow-rules-to-encrypt-email).
 

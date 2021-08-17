@@ -1,5 +1,5 @@
 ---
-title: การร้องขอยกเลิกการบล็อกโดเมน Godaddy
+title: ยกเลิกการบล็อกการร้องขอโดเมนของ Godaddy
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -13,13 +13,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "7682"
 - "9"
-ms.openlocfilehash: 6273a97f264a40c30c27e58ece7d305d1421aceb
-ms.sourcegitcommit: 6d02eb533fd74199af6b20f714b3720991da2c4a
+ms.openlocfilehash: a3f2b77c15e1f55a9cacf755bd53c3b84ce0c5943629fd5af53b675aa4c4bbaf
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 01/18/2021
-ms.locfileid: "49901244"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54079289"
 ---
-# <a name="godaddy-domain-unblock-request"></a>การร้องขอยกเลิกการบล็อกโดเมน Godaddy
+# <a name="godaddy-domain-unblock-request"></a>ยกเลิกการบล็อกการร้องขอโดเมนของ Godaddy
 
-ส่งตั๋วสนับสนุนสำหรับคำขอยกเลิกการบล็อกโดเมนของคุณ
+ส่งตั๋วการสนับสนุนของโดเมนของคุณยกเลิกการบล็อกการร้องขอ
