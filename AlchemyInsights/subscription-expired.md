@@ -15,12 +15,12 @@ ms.custom:
 - "9002437"
 - "4741"
 - "4739"
-ms.openlocfilehash: 9925c220897337cdc6956674448b31c818dfc42635459076ca29806f565b3050
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 9571bcdadb5e408bf66c2b9da18296e48eb1de7a484e1524dd1751008eb5fe5a
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54009195"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57891918"
 ---
 # <a name="subscription-expired"></a>การสมัครใช้งานหมดอายุแล้ว
 
@@ -35,7 +35,7 @@ ms.locfileid: "54009195"
 3. ในบานหน้าต่าง **เปิดใช้งานการสมัครใช้งานนี้ใหม่** ให้เลือกวิธีการเงินจากรายการดรอปดาวน์ หรือเลือก **เพิ่มวิธีการเงิน**
 4. เลือกบันทึก
 
-ดูข้อมูลเพิ่มเติมได้ที่ [เปิดใช้งานการสมัครใช้งาน](/microsoft-365/commerce/subscriptions/reactivate-your-subscription)ของคุณอีกครั้ง
+ดูข้อมูลเพิ่มเติมได้ที่ [เปิดใช้งานการสมัครใช้งาน](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/reactivate-your-subscription)ของคุณอีกครั้ง
 
 **จัดการการต่ออายุการสมัครใช้งาน**
 
@@ -47,4 +47,4 @@ ms.locfileid: "54009195"
 4. ในบานหน้าต่าง **แก้ไขการตั้งค่าการเรียกเก็บเงินเป็นกิจ** วัตร **ให้เลือก** เปิด เปิด **แต่ต่ออายุหนึ่งครั้ง****หรือ** ปิด
 5. เลือกบันทึก
 
-ดูข้อมูลเพิ่มเติมได้ที่ ปิด [หรือเปิดการเรียกเก็บเงินแบบเป็นกิจวัต](/microsoft-365/commerce/subscriptions/renew-your-subscription#turn-recurring-billing-off-or-on)ร
+ดูข้อมูลเพิ่มเติมได้ที่ ปิด [หรือเปิดการเรียกเก็บเงินแบบเป็นกิจวัต](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/renew-your-subscription#turn-recurring-billing-off-or-on)ร

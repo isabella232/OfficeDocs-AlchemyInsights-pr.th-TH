@@ -14,28 +14,28 @@ ms.custom:
 - "1245"
 - "1800027"
 ms.assetid: ''
-ms.openlocfilehash: 73fb170bec3692c0631a6c2df3e9a77b4b1e2f820ddcde3ed46cfe283ef3ba74
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 71d2eb88c6ef79952084ff74e63506f097562f7b181248cf9a83ddc56dbffb2a
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53918450"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57891774"
 ---
 # <a name="microsoft-365-import-service"></a>Microsoft 365 นําเข้าบริการ
 
-เมื่อต้องการเข้าถึงบริการนําเข้าและเริ่มกระบวนการนําเข้า:
+เมื่อต้องการเข้าถึงบริการการนําเข้าและเริ่มกระบวนการนําเข้า:
 
 1. ไปที่ ศูนย์ [การปฏิบัติตามข้อบังคับ M365](https://compliance.microsoft.com/)แล้วลงชื่อเข้าใช้โดยใช้ข้อมูลรับรองของบัญชีผู้ดูแลระบบในองค์กรของคุณ
 
-1. ในบานหน้าต่างด้านซ้ายของศูนย์การปฏิบัติตามนโยบาย M365 **ภายใต้ โซลูชัน** ให้เลือก **การนําเข้าข้อมูล**  >  
+1. ในบานหน้าต่างด้านซ้ายของศูนย์การปฏิบัติตามนโยบาย M365 ภายใต้ **โซลูชัน** ให้เลือก **การนําเข้าข้อมูล**  >  
 
 1. บนหน้า **นําเข้า** ให้เลือก **งานนําเข้า** ใหม่ ใส่ชื่องาน **แล้วเลือก** ถัดไป
 
-1. เลือก **Uploadข้อมูลของคุณ** เพื่อใช้ตัวเลือกการอัปโหลดเครือข่ายของ **ชนิดงานการนํา** เข้า For detailed steps, see [Use network upload to import your organization's PST files to Microsoft 365](/compliance/use-network-upload-to-import-pst-files).
+1. Select **Upload your data** to use the network upload option for the Import Job **Type**. For detailed steps, see [Use network upload to import your organization's PST files to Microsoft 365](https://docs.microsoft.com/compliance/use-network-upload-to-import-pst-files).
 
-เมื่อต้องการเข้าถึง **หน้า** การนําเข้า ตรวจสอบให้แน่ใจว่าคุณได้รับมอบหมายสิทธิ์ที่เหมาะสม For more info, see [Using network upload to import PST files](/microsoft-365/compliance/importing-pst-files-to-office-365#using-network-upload-to-import-pst-files).
+เมื่อต้องการเข้าถึง **หน้า** นําเข้า ตรวจสอบให้แน่ใจว่าคุณได้รับมอบหมายสิทธิ์ที่เหมาะสม For more info, see [Using network upload to import PST files](https://docs.microsoft.com/microsoft-365/compliance/importing-pst-files-to-office-365#using-network-upload-to-import-pst-files).
 
-ถ้าคุณต้องการนําเข้า PST ไปยังกล่องจดหมายของคุณ ให้ดู นํา[เข้าอีเมล ที่ติดต่อ และปฏิทินจากOutlook .pst](https://support.office.com/article/import-email-contacts-and-calendar-from-an-outlook-pst-file-431a8e9a-f99f-4d5f-ae48-ded54b3440ac)
+ถ้าคุณต้องการนําเข้า PST ไปยังกล่องจดหมายของคุณ ให้ดู[นําเข้าอีเมล ที่ติดต่อ และปฏิทินจากOutlook .pst](https://support.office.com/article/import-email-contacts-and-calendar-from-an-outlook-pst-file-431a8e9a-f99f-4d5f-ae48-ded54b3440ac)
 
-ถ้าคุณมีปัญหากับการนําเข้า ให้ดู ปัญหาที่[ส่งผลต่องานนําเข้า PST](/office365/troubleshoot/pst-import-service/issues-with-pst-import-job)
+ถ้าคุณมีปัญหากับการนําเข้า ให้ดูที่ ปัญหาที่[ส่งผลต่องานนําเข้า PST](https://docs.microsoft.com/office365/troubleshoot/pst-import-service/issues-with-pst-import-job)
 

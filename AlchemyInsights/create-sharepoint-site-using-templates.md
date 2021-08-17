@@ -1,5 +1,5 @@
 ---
-title: การสร้างไซต์ใน SharePoint Online
+title: สร้างไซต์ใน SharePoint Online
 ms.author: pebaum
 author: pebaum
 manager: pamgreen
@@ -11,39 +11,39 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 84f2b70e-2b23-4039-8305-85783798feed
-ms.openlocfilehash: b554bfa4ccccbd68d0c3df27cf17397f860735c2
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: eaf09aebad5568aab3a716ce28c8ce3357c9f43175e1b1458bfcd43fd95a71fa
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47732262"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54057985"
 ---
-# <a name="create-sharepoint-sites-using-templates"></a>การสร้างไซต์ SharePoint โดยใช้เทมเพลต
+# <a name="create-sharepoint-sites-using-templates"></a>การสร้างSharePointไซต์โดยใช้เทมเพลต
 
-ความสามารถในการบันทึกไซต์เป็นเทมเพลตจะไม่ได้รับการสนับสนุนด้วยการติดต่อสื่อสารหรือไซต์ทีมที่ทันสมัย สำหรับข้อมูลเพิ่มเติมเกี่ยวกับการใช้เทมเพลตให้ดูที่[บันทึกดาวน์โหลดและอัปโหลดไซต์ SharePoint เป็นเทมเพลต](https://docs.microsoft.com/sharepoint/dev/general-development/save-download-and-upload-a-sharepoint-site-as-a-template)
+ความสามารถในการบันทึกไซต์เป็นเทมเพลตไม่ได้รับการสนับสนุนกับการติดต่อสื่อสารหรือไซต์ทีมที่ทันสมัย For more information about using templates see [Save, download and upload a SharePoint a site as a template](https://docs.microsoft.com/sharepoint/dev/general-development/save-download-and-upload-a-sharepoint-site-as-a-template).
 
-ต่อไปนี้เป็นปัญหาทั่วไป/วิธีแก้ไขปัญหาทั่วไปเกี่ยวกับการบันทึกไซต์หรือรายการเป็นเทมเพลตใน Sharepoint Online 
+ต่อไปนี้คือปัญหา/วิธีแก้ไขปัญหาทั่วไปเกี่ยวกับการบันทึกไซต์หรือรายการเป็นเทมเพลตใน Sharepoint Online 
 
-**ปุ่มบันทึกเทมเพลตไซต์/รายการไม่พร้อมใช้งานหรือหายไป**
+**ปุ่ม บันทึกเทมเพลตไซต์/รายการ ไม่พร้อมใช้งานหรือขาดหายไป**
 
-ผู้ดูแลระบบจะต้องเปิดใช้งานสคริปต์แบบกำหนดเองเพื่อเปิดใช้งานฟีเจอร์เทมเพลต สำหรับขั้นตอนโดยละเอียดตัวอย่างและข้อควรพิจารณา 
+ผู้ดูแลระบบจะต้อง อนุญาตสคริปต์แบบปรับแต่งเอง เพื่อเปิดใช้งานฟีเจอร์เทมเพลต ดูขั้นตอนโดยละเอียด ตัวอย่างและข้อควรพิจารณา 
 
-- [อนุญาตหรือป้องกันสคริปต์แบบกำหนดเอง](https://docs.microsoft.com/sharepoint/allow-or-prevent-custom-script)
+- [อนุญาตหรือป้องกันสคริปต์แบบปรับแต่งเอง](https://docs.microsoft.com/sharepoint/allow-or-prevent-custom-script)
 
-- คำสั่งบันทึกไซต์เป็นเทมเพลตจะไม่ได้รับการสนับสนุนและอาจทำให้เกิดปัญหาบนไซต์ที่ใช้โครงสร้างพื้นฐานของการประกาศของ SharePoint Server
+- ไม่สนับสนุนการสั่ง บันทึกไซต์เป็นเทมเพลต และอาจทําให้เกิดปัญหาบนไซต์ที่ใช้โครงสร้างพื้นฐาน SharePoint Server Publishing ได้
 
-**ไม่สามารถสร้างเทมเพลตของไซต์หรือทำงานได้อย่างถูกต้อง**
+**ไม่สามารถสร้างเทมเพลตไซต์ได้ หรือไม่สามารถใช้งานได้อย่างถูกต้อง**
 
-เทมเพลตนี้อาจไม่มี [ฟีเจอร์](https://social.technet.microsoft.com/wiki/contents/articles/14423.sharepoint-2013-existing-features-guid.aspx) และไม่สามารถเปิดใช้งานได้ ถ้าฟีเจอร์ไม่พร้อมใช้งานเมื่อต้องการเปิดใช้งานในไซต์คอลเลกชันปัจจุบันคุณจะไม่สามารถใช้เทมเพลตของไซต์เพื่อสร้างไซต์ได้
+เทมเพลตอาจไม่มี [ฟีเจอร์](https://social.technet.microsoft.com/wiki/contents/articles/14423.sharepoint-2013-existing-features-guid.aspx) และจะไม่เปิดใช้งาน ถ้าฟีเจอร์นี้ไม่สามารถเปิดใช้งานในไซต์คอลเลกชันปัจจุบันได้ คุณจะไม่สามารถใช้เทมเพลตไซต์เพื่อสร้างไซต์ได้
 
-- ตรวจสอบดูว่ารายการหรือไลบรารีใดที่เกินขีด [จำกัดของมุมมองรายการ](https://support.office.com/article/Manage-large-lists-and-libraries-in-SharePoint-B8588DAE-9387-48C2-9248-C24122F07C59) ของรายการ๕๐๐๐เนื่องจากการทำเช่นนี้สามารถบล็อกการสร้างเทมเพลตของไซต์ได้
+- ตรวจสอบเพื่อดูว่ามีรายการหรือไลบรารีใดๆ [เกินค่าเกณฑ์](https://support.office.com/article/Manage-large-lists-and-libraries-in-SharePoint-B8588DAE-9387-48C2-9248-C24122F07C59) ขีดจํากัดของมุมมองรายการ 5000 รายการหรือไม่ เนื่องจากสามารถบล็อกการสร้างเทมเพลตไซต์ได้
 
-- ไซต์อาจใช้แหล่งข้อมูลมากเกินไปและดังนั้นแม่แบบไซต์เกินขีดจำกัด๕๐ MB
+- ไซต์อาจใช้ทรัพยากรมากเกินไป ดังนั้น เทมเพลตไซต์จึงเกินขีดจํากัด 50 MB
 
 
-- มีปัญหาเกิดขึ้นในการแสดงข้อมูลจากรายการที่ใช้คอลัมน์การค้นหา สำหรับข้อมูลเพิ่มเติมให้ดูที่[รายการที่สร้างขึ้นโดยใช้เทมเพลตไม่แสดงข้อมูลจากรายการการค้นหาที่ถูกต้องใน SharePoint Online](https://docs.microsoft.com/sharepoint/support/lists-and-libraries/template-generated-list-incorrect-data)
+- มีปัญหาในการแสดงข้อมูลจากรายการที่ใช้คอลัมน์ค้นหา For more information, see [Template-generated list doesn't display data from the correct lookup list in SharePoint Online](https://docs.microsoft.com/sharepoint/support/lists-and-libraries/template-generated-list-incorrect-data).
 
-สำหรับข้อมูลเพิ่มเติมเกี่ยวกับปัญหาทั่วไปและการแก้ไขปัญหาโปรดตรวจสอบการ[สร้างและใช้เทมเพลตของไซต์](https://support.office.com/article/Create-and-use-site-templates-60371B0F-00E0-4C49-A844-34759EBDD989)
+For more detailed information on common problems and solutions, please check [Create and use site templates](https://support.office.com/article/Create-and-use-site-templates-60371B0F-00E0-4C49-A844-34759EBDD989).
 
 
 

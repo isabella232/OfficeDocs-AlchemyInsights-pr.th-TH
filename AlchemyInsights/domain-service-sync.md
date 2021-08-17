@@ -14,15 +14,15 @@ ms.custom:
 - "9003245"
 - "7922"
 - "7921"
-ms.openlocfilehash: b35d3a402bc08a27a818209385c5666b901fa524
-ms.sourcegitcommit: 83fe2a8d060794fdf58445b469b30a3294b7a9b6
+ms.openlocfilehash: 95b5c3b768caf4b5d80a088a17a33facb39805fc766e4888586ae052d91681e3
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 01/15/2021
-ms.locfileid: "49885561"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54057877"
 ---
 # <a name="domain-service-synchronization"></a>การซิงโครไนซ์บริการโดเมน
 
-วัตถุและข้อมูลประจำตัวในโดเมน Azure Active Directory Services (Azure AD DS) สามารถถูกสร้างขึ้นภายในโดเมนหรือซิงโครไนซ์จากผู้เช่า Azure Active directory (Azure ad) ได้อย่างใดอย่างหนึ่ง เมื่อคุณปรับใช้ Azure AD DS เป็นครั้งแรกการซิงโครไนซ์แบบครั้งเดียวโดยอัตโนมัติถูกกำหนดค่าและเริ่มต้นการทำซ้ำวัตถุจาก Azure AD การซิงโครไนซ์ครั้งเดียวนี้จะยังคงทำงานในพื้นหลังเพื่อเก็บ Azure AD DS ที่มีการจัดการโดเมนที่มีการเปลี่ยนแปลงที่มีการเปลี่ยนแปลงใดๆจาก Azure AD ไม่มีการซิงโครไนซ์เกิดขึ้นจาก Azure AD DS กลับไปยัง Azure AD
+วัตถุและข้อมูลภายในโดเมน Azure Active Directory โดเมนบริการ (Azure AD DS) ที่จัดการโดเมนสามารถสร้างภายในโดเมน หรือซิงโครไนซ์จากผู้เช่า Azure Active Directory (Azure AD) ได้ เมื่อคุณปรับใช้ Azure AD DS เป็นครั้งแรก การซิงโครไนซ์ทางเดียวโดยอัตโนมัติจะถูกกําหนดค่าและเริ่มเพื่อคัดลอกวัตถุจาก Azure AD การซิงโครไนซ์แบบทางเดียวนี้ยังคงสามารถเรียกใช้ในเบื้องหลังเพื่อให้โดเมน Azure AD DS ที่มีการจัดการเป็นปัจจุบันอยู่เสมอด้วยการเปลี่ยนแปลงใดๆ จาก Azure AD ไม่มีการซิงโครไนซ์จาก Azure AD DS กลับไปยัง Azure AD
 
-สำหรับรายละเอียดเพิ่มเติมเกี่ยวกับการซิงโครไนซ์บริการโดเมนของ Active Directory ของ Azure ให้ดูที่การ[ซิงโครไนซ์บริการโดเมน](https://docs.microsoft.com/azure/active-directory-domain-services/synchronization) 
+For more details on Azure Active Directory domain service synchronization, see [Domain Service Synchronization](https://docs.microsoft.com/azure/active-directory-domain-services/synchronization). 

@@ -13,16 +13,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "11446"
 - "9003537"
-ms.openlocfilehash: 752d08ce7583580ac9896bd4390152df493d7148c8e8d4a1f39d86fc87785a7f
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: c06fbd377159e55cf34c79ef0aa1e34f0412a908e8d4e3dec5ad088c9b8b818a
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54069559"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57898219"
 ---
 # <a name="create-and-manage-device-tags-or-groups"></a>สร้างและจัดการแท็กหรือกลุ่มอุปกรณ์
 
-เพิ่มแท็กบนอุปกรณ์เพื่อสร้างสังกัดกลุ่มแบบตรรกะ แท็กอุปกรณ์สนับสนุนการแมปเครือข่ายที่เหมาะสม ซึ่งช่วยให้คุณสามารถแนบแท็กต่างๆ เพื่อจัดเก็บบริบทและเพื่อเปิดใช้งานการสร้างรายการแบบไดนามิกเป็นส่วนหนึ่งของเหตุการณ์ แท็กสามารถใช้เป็นตัวกรองในมุมมองรายการอุปกรณ์ หรือเพื่อจัดกลุ่มอุปกรณ์ได้ For more information on device grouping, see [Create and manage device tags](/microsoft-365/security/defender-endpoint/machine-tags).
+เพิ่มแท็กบนอุปกรณ์เพื่อสร้างสังกัดกลุ่มแบบตรรกะ แท็กอุปกรณ์สนับสนุนการแมปเครือข่ายที่เหมาะสม ซึ่งช่วยให้คุณสามารถแนบแท็กต่างๆ เพื่อจัดเก็บบริบทและเปิดใช้งานการสร้างรายการแบบไดนามิกเป็นส่วนหนึ่งของเหตุการณ์ แท็กสามารถใช้เป็นตัวกรองในมุมมองรายการอุปกรณ์ หรือเพื่อจัดกลุ่มอุปกรณ์ได้ For more information on device grouping, see [Create and manage device tags](https://docs.microsoft.com/microsoft-365/security/defender-endpoint/machine-tags).
 
 คุณสามารถเพิ่มแท็กบนอุปกรณ์ได้โดย:
 
@@ -32,7 +32,7 @@ ms.locfileid: "54069559"
  
 **หมายเหตุ:** อาจมีเวลาแฝงระหว่างเวลาที่แท็กถูกเพิ่มลงในอุปกรณ์และความพร้อมใช้งานในรายการอุปกรณ์และหน้าอุปกรณ์
 
-เมื่อต้องการเพิ่มแท็กอุปกรณ์โดยใช้ API ให้ดู[เพิ่มหรือเอาแท็กอุปกรณ์ออก API](/microsoft-365/security/defender-endpoint/add-or-remove-machine-tags)
+เมื่อต้องการเพิ่มแท็กอุปกรณ์โดยใช้ API ให้ดู[เพิ่มหรือเอาแท็กอุปกรณ์ออก API](https://docs.microsoft.com/microsoft-365/security/defender-endpoint/add-or-remove-machine-tags)
 
 ## <a name="add-and-manage-device-tags-using-the-portal"></a>เพิ่มและจัดการแท็กอุปกรณ์โดยใช้พอร์ทัล
 
@@ -51,4 +51,4 @@ ms.locfileid: "54069559"
 
 แท็กจะถูกเพิ่มลงในมุมมองอุปกรณ์ และจะปรากฏในมุมมองรายการอุปกรณ์ จากนั้นคุณสามารถใช้ตัวกรอง แท็ก เพื่อดูรายการของอุปกรณ์ที่เกี่ยวข้องได้
 
-ดูข้อมูลเพิ่มเติมที่ [สร้างและจัดการแท็ก](/microsoft-365/security/defender-endpoint/machine-tags)อุปกรณ์
+ดูข้อมูลเพิ่มเติมที่ [สร้างและจัดการแท็ก](https://docs.microsoft.com/microsoft-365/security/defender-endpoint/machine-tags)อุปกรณ์
