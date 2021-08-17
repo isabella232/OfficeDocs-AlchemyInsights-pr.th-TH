@@ -13,23 +13,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002347"
 - "7563"
-ms.openlocfilehash: 26eb22054d246a6ca5a2491c68a5d9e4ed90d45b
-ms.sourcegitcommit: 523098560e54a50184a99c974809dfbfffadacb5
+ms.openlocfilehash: 4d70e92a7c1bf8f3cc62d4a310aa140ee2dfdef4c798ae17faa961736d9db500
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 12/09/2020
-ms.locfileid: "49679163"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54055573"
 ---
 # <a name="how-to-enable-hosted-voicemail"></a>วิธีการเปิดใช้งานข้อความเสียงที่โฮสต์
 
-เมื่อต้องการเปิดใช้งานข้อความเสียง **HostedVoicemail** ต้องถูกตั้งค่าเป็น $true
+เมื่อต้องการเปิดใช้งานข้อความเสียง **HostedVoicemail** ต้องตั้งค่า$trueข้อความ
 
-คุณสมบัติ **HostedVoicemail** บนผู้ใช้ที่ใช้ PowerShell ระยะไกล (RPS)
+คุณสมบัติ **HostedVoicemail** บนผู้ใช้ที่ใช้ Remote PowerShell (RPS)
 
-สำหรับข้อมูลเพิ่มเติมเกี่ยวกับการเชื่อมต่อกับ RPS ให้ดูที่ [ภาพรวมของ Microsoft Team PowerShell](https://docs.microsoft.com/microsoftteams/teams-powershell-overview) สำหรับข้อมูลเพิ่มเติมเกี่ยวกับการเชื่อมต่อกับ RPS
+For more information on connecting to RPS, see [Microsoft Teams PowerShell Overview](https://docs.microsoft.com/microsoftteams/teams-powershell-overview) for more information on connecting to RPS.
 
-1. ผู้ดูแลระบบทีมควรเข้าสู่ระบบ PowerShell ระยะไกลสำหรับทีม
-1. จาก PowerShell พร้อมท์ผู้ดูแลระบบทีมสามารถเรียกใช้การ **ตั้งค่า-csuser user@contoso.com-HostedVoiceMail $true** ที่ uri sip คือของผู้ใช้ที่มีคำถาม
+1. ผู้ดูแลระบบTeamsควรเข้าสู่ระบบ PowerShell ระยะไกล Teamsของคุณ
+1. From PowerShell prompt the Teams admin can run **set-csuser user@contoso.com -HostedVoiceMail $true** where the sip uri is of the user in question.
 
 > [!NOTE]
-> การเปลี่ยนแปลงที่เกิดขึ้นกับนโยบายอาจใช้เวลาถึง24ชั่วโมงในการทำซ้ำ
+> การเปลี่ยนแปลงนโยบายอาจใช้เวลาถึง 24 ชั่วโมงในการสลองได้

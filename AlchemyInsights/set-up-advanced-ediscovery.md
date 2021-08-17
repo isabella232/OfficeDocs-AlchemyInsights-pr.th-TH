@@ -13,22 +13,22 @@ ms.collection: Adm_O365
 ms.custom:
 - "3200003"
 - "3835"
-ms.openlocfilehash: 928eac7dc5455a96d8f49f60a368f098f8e322bb
-ms.sourcegitcommit: 29019d042be8283d24048f96f1a16ec865c74ca6
+ms.openlocfilehash: 5eaf53633be10a10df9c040bc2852152f51daa6b248f3773997e203cbb6b86f7
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 06/10/2021
-ms.locfileid: "52882708"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54108611"
 ---
 # <a name="set-up-advanced-ediscovery"></a>ตั้งค่า eDiscovery ขั้นสูง
 
 ด้วยAdvanced eDiscoveryคุณสามารถปรับใช้การวิเคราะห์ข้อความ การเรียนรู้ด้วยเครื่อง และการเขียนโค้ดความเกี่ยวข้อง/การคาดเดา ฟีเจอร์Advanced eDiscoveryต้องมีหนึ่งในรายการต่อไปนี้:
 
-- Microsoft 365 E5หรือOffice 365 E5
+- Microsoft 365 E5หรือOffice 365 E5การสมัครใช้งาน
 
 - Microsoft 365 E3การสมัครใช้งานด้วย Add-on การปฏิบัติตามข้อบังคับ E5
 
-- Office 365 การสมัครใช้งาน E3 ที่มี Add-on การปฏิบัติตามข้อบังคับขั้นสูง
+- Office 365 E3การสมัครใช้งานด้วย Add-on การปฏิบัติตามข้อบังคับขั้นสูง
 
 ด้านล่างนี้คือภาพรวมระดับสูงของขั้นตอนในการตั้งค่าและจัดการAdvanced eDiscovery:
 

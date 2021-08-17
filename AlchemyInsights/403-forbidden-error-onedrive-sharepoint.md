@@ -13,13 +13,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "12575"
 - "9007066"
-ms.openlocfilehash: bf6699857f1b8d1796526560ec1aeeb8bce324ef21e87ba0cefa6c3da57e32d3
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 5a7c6ab4e4ae0cbaad08b3e199edd303d3c789eb0d4e012fc0a24ad76750c880
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "57812616"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57890917"
 ---
 # <a name="403-forbidden-error-on-onedrive-or-sharepoint"></a>ข้อผิดพลาด 403 Forbidden OneDriveหรือSharePoint
 
-For more information about the reasons the "403 Forbidden" occurs, see ["403 Forbidden" error on OneDrive or SharePoint](/sharepoint/troubleshoot/sharing-and-permissions/error-403-forbidden).
+For more information about the reasons the "403 Forbidden" occurs, see ["403 Forbidden" error on OneDrive or SharePoint](https://docs.microsoft.com/sharepoint/troubleshoot/sharing-and-permissions/error-403-forbidden).

@@ -1,5 +1,5 @@
 ---
-title: วิธีใช้หน้า SPFx และ Web Part
+title: ความช่วยเหลือเกี่ยวกับSPFxหน้าและWeb Part
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,20 +12,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003014"
 - "5806"
-ms.openlocfilehash: 168cf7c9fbe2d1ce6c0463092770719cdc63d45c
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 59e0160dc3c206aa675841d391b4f45e953cda100b991992fe4668d697c9e069
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51811547"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54055717"
 ---
-# <a name="help-with-spfx-pages-and-web-parts"></a>วิธีใช้หน้า SPFx และ Web Part
+# <a name="help-with-spfx-pages-and-web-parts"></a>ความช่วยเหลือเกี่ยวกับSPFxหน้าและWeb Part
 
-SPFx ได้รับการสนับสนุนผ่านฝ่ายสนับสนุนของนักพัฒนา Microsoft เท่านั้น ทีมผลิตภัณฑ์ SharePoint ตอบสนองต่อชุมชนนักพัฒนาในหลายแชนเนล
+SPFxการสนับสนุนนักพัฒนาของ Microsoft เท่านั้น ทีมSharePointตอบโต้กับชุมชนนักพัฒนาในหลายช่องทาง
 
-- [สามารถส่งถาม](https://docs.microsoft.com/sharepoint/dev/support-feedback#programming-questions)  เกี่ยวกับการเขียนโปรแกรมไปยัง  **GitHub sp-dev-docs**  หรือ  **Stack Overflow** ได้
-- [สามารถส่ง](https://docs.microsoft.com/sharepoint/dev/support-feedback#documentation-bugs)  บักเอกสารไปยัง **GitHub** ได้
-- [ตัวอย่างบัก](https://docs.microsoft.com/sharepoint/dev/support-feedback#sample-application-bugs)ของแอปพลิเคชันสามารถส่งไปยัง **GitHub**
+- [สามารถส่งถาม](https://docs.microsoft.com/sharepoint/dev/support-feedback#programming-questions)เกี่ยวกับการเขียนโปรแกรมไปยังGitHub **sp-dev-docs** หรือ Stack **Overflow** ได้
+- [สามารถส่ง](https://docs.microsoft.com/sharepoint/dev/support-feedback#documentation-bugs)บักเอกสาร **ไปยังGitHubได้**
+- [ตัวอย่างบัก](https://docs.microsoft.com/sharepoint/dev/support-feedback#sample-application-bugs)ของแอปพลิเคชันสามารถส่งไปยัง **GitHub** ได้
 - [สามารถส่ง](https://docs.microsoft.com/sharepoint/dev/support-feedback#feature-requests)  การร้องขอฟีเจอร์ไปยัง UserVoice ได้
 
 ดูแหล่งข้อมูลนักพัฒนาเพิ่มเติมที่ ฝ่ายสนับสนุน  [และ&ติชม](https://docs.microsoft.com/sharepoint/dev/support-feedback)

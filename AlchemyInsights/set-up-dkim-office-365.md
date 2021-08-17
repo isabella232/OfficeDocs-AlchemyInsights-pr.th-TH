@@ -10,43 +10,43 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 1388
 ms.assetid: ''
-ms.openlocfilehash: b34bfdafcab6229a4dd2e9d9f23103fa13556482
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 5dc90965516cc4d360b9be56c7737c6d134123ea8ac263b092559dd1416faff4
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47808726"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54108575"
 ---
 # <a name="setup-dkim"></a>ตั้งค่า DKIM
 
-คำแนะนำที่สมบูรณ์สำหรับการกำหนดค่า DKIM สำหรับโดเมนแบบกำหนดเองใน Microsoft ๓๖๕อยู่[ที่นี่](https://docs.microsoft.com/microsoft-365/security/office-365-security/use-dkim-to-validate-outbound-email#steps-you-need-to-do-to-manually-set-up-dkim)
+คําแนะนําที่สมบูรณ์ในการกําหนดค่า DKIM Microsoft 365โดเมนแบบกําหนด[เองใน จะ](https://docs.microsoft.com/microsoft-365/security/office-365-security/use-dkim-to-validate-outbound-email#steps-you-need-to-do-to-manually-set-up-dkim)อยู่ที่นี่
 
-1. สำหรับ **แต่ละ** โดเมนแบบกำหนดเองคุณจะต้องสร้างระเบียน CNAME ของ DKIM **สอง** ระเบียนที่บริการโฮสต์ DNS ของโดเมนของคุณ (โดยทั่วไปคือบริษัทจดทะเบียนโดเมน) ตัวอย่างเช่น contoso.com และ fourthcoffee.com จำเป็นต้องมีระเบียน CNAME ของ DKIM สี่ระเบียน: สองสำหรับ contoso.com และสองสำหรับ fourthcoffee.com
+1. For **each** custom domain, you need to create **two** DKIM CNAME records at your domain's hosting service (typically, the domain registrar). ตัวอย่างเช่น contoso.com fourthcoffee.com DKIM CNAME สี่ระเบียน: สองระเบียน contoso.com และสอง fourthcoffee.com สองระเบียน
 
-   ระเบียน CNAME ของ DKIM สำหรับ **แต่ละ** โดเมนแบบกำหนดเองจะใช้รูปแบบต่อไปนี้:
+   ระเบียน DKIM CNAME ของแต่ละ **โดเมน** แบบปรับแต่งเองจะใช้รูปแบบต่อไปนี้:
 
    - **ชื่อโฮสต์**: `selector1._domainkey.<CustomDomain>`
 
-     **ชี้ไปยังที่อยู่หรือค่า**: `selector1-<DomainGUID>._domainkey.<InitialDomain>`
+     **ที่อยู่หรือค่าชี้ไปยัง**: `selector1-<DomainGUID>._domainkey.<InitialDomain>`
 
-     **TTL**: ๓๖๐๐
+     **TTL**: 3600
 
    - **ชื่อโฮสต์**: `selector2._domainkey.<CustomDomain>`
 
-     **ชี้ไปยังที่อยู่หรือค่า**: `selector2-<DomainGUID>._domainkey.<InitialDomain>`
+     **ที่อยู่หรือค่าชี้ไปยัง**: `selector2-<DomainGUID>._domainkey.<InitialDomain>`
 
-     **TTL**: ๓๖๐๐
+     **TTL**: 3600
 
-   \<DomainGUID\> เป็นข้อความทางด้านซ้ายของ `.mail.protection.outlook.com` ระเบียน MX ที่กำหนดเองสำหรับโดเมนแบบกำหนดเอง (ตัวอย่างเช่น `contoso-com` สำหรับโดเมน contoso.com) \<InitialDomain\> โดเมนที่คุณใช้เมื่อคุณลงชื่อเข้าใช้ Microsoft ๓๖๕ (ตัวอย่างเช่น contoso.onmicrosoft.com)
+   \<DomainGUID\> คือข้อความที่อยู่ทางด้านซ้ายของ `.mail.protection.outlook.com` ในระเบียน MX ที่ปรับแต่งเองของโดเมนแบบ contoso.com `contoso-com` โดเมน) \<InitialDomain\>คือโดเมนที่คุณใช้เมื่อคุณลงทะเบียนMicrosoft 365โดเมนของคุณ (ตัวอย่างเช่น contoso.onmicrosoft.com)
 
-2. หลังจากที่คุณได้สร้างระเบียน CNAME สำหรับโดเมนแบบกำหนดเองของคุณแล้วให้ทำตามคำแนะนำต่อไปนี้:
+2. หลังจากที่คุณสร้างระเบียน CNAME ของคุณแล้ว ให้ปฏิบัติตามคําแนะนําต่อไปนี้:
 
-   a. [ลงชื่อเข้าใช้ Microsoft ๓๖๕](https://support.office.microsoft.com/article/e9eb7d51-5430-4929-91ab-6157c5a050b4) ด้วยบัญชีผู้ใช้ของที่ทำงานหรือที่โรงเรียนของคุณ
+   a. [ลงชื่อเข้าใช้บัญชีMicrosoft 365](https://support.office.microsoft.com/article/e9eb7d51-5430-4929-91ab-6157c5a050b4)หรือโรงเรียนของคุณ
 
-   b. เลือกไอคอนตัวเปิดใช้งานแอปที่มุมบนซ้ายแล้วเลือก**ผู้ดูแลระบบ**
+   b. เลือกไอคอนตัวเปิดใช้แอป ที่มุมบนซ้าย **แล้วเลือก** ผู้ดูแลระบบ
 
-   c. ในการนำทางด้านซ้ายล่างให้ขยาย**ผู้ดูแลระบบ**แล้วเลือก**Exchange**
+   c. ในการนําทางด้านล่างซ้าย **ให้ขยาย** ผู้ดูแลระบบ แล้วเลือก **Exchange**
 
-   d. ไปที่การ**ป้องกัน**  >  **DKIM**
+   d. ไปที่ **Protection**  >  **DKIM**
 
-   e. เลือกโดเมนแล้วเลือก**เปิดใช้งาน**สำหรับการ**เซ็นชื่อข้อความสำหรับโดเมนนี้กับลายเซ็น DKIM** ทำซ้ำขั้นตอนนี้สำหรับแต่ละโดเมนแบบกำหนดเอง
+   e. เลือกโดเมน แล้วเลือก **เปิดใช้งาน** เพื่อเซ็นชื่อ **ข้อความโดเมนนี้ด้วยลายเซ็น DKIM** ทําซ้ําขั้นตอนนี้กับโดเมนแบบปรับแต่งเองแต่ละโดเมน
