@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002502"
 - "4868"
-ms.openlocfilehash: c0f823b827980e4ff1a888a121213eabcabb14a9
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: f0412f2cc310d5c2ee033f9dfca0eafa19ff815d691778bd7ba6030e6c494bdd
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51824490"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54105041"
 ---
 # <a name="unable-to-change-site-logo"></a>ไม่สามารถเปลี่ยนโลโก้ของไซต์ได้
 
-เมื่อพยายามเปลี่ยนโลโก้ไซต์บนไซต์ SharePoint ของกลุ่ม Office 365 คุณจะเห็นหนึ่งในข้อผิดพลาดต่อไปนี้:
+เมื่อพยายามเปลี่ยนโลโก้ไซต์Office 365ไซต์กลุ่มSharePoint ไซต์ของคุณ คุณจะเห็นหนึ่งในข้อผิดพลาดต่อไปนี้:
 
 - มีข้อผิดพลาดเกิดขึ้นขณะประมวลผลการร้องขอนี้
 

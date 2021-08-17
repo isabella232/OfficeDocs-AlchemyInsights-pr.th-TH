@@ -1,5 +1,5 @@
 ---
-title: การเตรียมใช้งานไซต์ OneDrive
+title: OneDriveการเตรียมใช้งานไซต์
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
@@ -8,17 +8,17 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: bd7d87d5-abf3-4c72-941d-ac88dab48795
-ms.openlocfilehash: ea4968de39f6a620a7e9ba2cbf6e41ac17522003
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 1285968f3d0a53aebf88e91aefdc0b0b6b5e2020f8959aa42e85151a800c68ed
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47754394"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54075923"
 ---
-# <a name="onedrive-site-provisioning"></a>การเตรียมใช้งานไซต์ OneDrive
+# <a name="onedrive-site-provisioning"></a>OneDriveการเตรียมใช้งานไซต์
 
-สำหรับบัญชีผู้ใช้ที่สร้างขึ้นใหม่ผู้ใช้จำเป็นต้องลงชื่อเข้าใช้ศูนย์การจัดการ Microsoft ๓๖๕ด้วยบัญชีผู้ใช้ของตนเองแล้วคลิกไอคอน OneDrive เพื่อเริ่มต้นการจัดเตรียมของไซต์ OneDrive ด้วยตนเอง
-ทำตาม [คำแนะนำการแก้ไขปัญหา](https://docs.microsoft.com/sharepoint/support/sites/troubleshooting-guide-for-sites-stopped-at-provisioning) นี้เพื่อขอความช่วยเหลือ
+For newly created accounts, users need to sign in to the ศูนย์การจัดการ Microsoft 365 with their own account and click the OneDrive icon to manually start the provision of the OneDrive site.
+ปฏิบัติตามคู่มือ [การแก้ไขปัญหานี้](https://docs.microsoft.com/sharepoint/support/sites/troubleshooting-guide-for-sites-stopped-at-provisioning) เพื่อขอความช่วยเหลือ
 
-อย่างไรก็ตามถ้าผู้ใช้ได้คลิกไอคอน OneDrive และไซต์ส่วนบุคคลของเขาไม่ได้เตรียมใช้งานภายใน24ชั่วโมงโปรดเข้าสู่ระบบตั๋วสนับสนุนสำหรับความช่วยเหลือเพิ่มเติม
+อย่างไรก็ตาม ถ้าผู้ใช้คลิกไอคอน OneDrive และไซต์ส่วนบุคคลของเขายังไม่ได้เตรียมใช้งานภายใน 24 ชั่วโมง โปรดบันทึกตั๋วการสนับสนุนเพื่อขอรับความช่วยเหลือเพิ่มเติม
 

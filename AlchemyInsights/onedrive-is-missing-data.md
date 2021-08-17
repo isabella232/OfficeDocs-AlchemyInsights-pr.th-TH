@@ -1,5 +1,5 @@
 ---
-title: OneDrive ไม่มีข้อมูล
+title: OneDriveข้อมูลขาดหายไป
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002302"
 - "4464"
-ms.openlocfilehash: 0f33f959143b38c35e951f61f7b0cd47a340410e
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: be95ee335940c9b27bd0788563267394f4503a08e687858bd7fb0800730f4de2
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51801970"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54076112"
 ---
-# <a name="onedrive-is-missing-data"></a>OneDrive ไม่มีข้อมูล
+# <a name="onedrive-is-missing-data"></a>OneDriveข้อมูลขาดหายไป
 
-ถ้ามีไฟล์ OneDrive ของคุณถูกลบ เขียนทับ เสียหาย หรือติดมัลแวร์ เราจะมอบตัวเลือกต่างๆ แก่ผู้ใช้เพื่อช่วยในกระบวนการกู้คืน
+ถ้าไฟล์ OneDrive ของคุณถูกลบ เขียนทับ เสียหาย หรือติดมัลแวร์ เราจะให้ตัวเลือกมากมายแก่ผู้ใช้เพื่อช่วยในขั้นตอนการกู้คืน
 
-- [ค้นหาไฟล์ที่สูญหายหรือขาดหายไปใน OneDrive](https://go.microsoft.com/fwlink/?linkid=2125166)
+- [ค้นหาไฟล์ที่สูญหายหรือขาดหายไปในOneDrive](https://go.microsoft.com/fwlink/?linkid=2125166)
