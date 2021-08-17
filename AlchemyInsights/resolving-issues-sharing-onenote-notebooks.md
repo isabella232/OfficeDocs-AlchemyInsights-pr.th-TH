@@ -1,5 +1,5 @@
 ---
-title: การแก้ไขปัญหาการแชร์สมุดบันทึก OneNote
+title: การแก้ไขปัญหาการแชร์OneNoteสมุดบันทึก
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,18 +13,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "6048"
 - "9000755"
-ms.openlocfilehash: aa0cf8136c3fed80a871480d89349f188bf3d742
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: e8f1b0ef242d1599ff119c213d72eaed87aba58d96e97309abf18269eddd00e7
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47797819"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54110051"
 ---
-# <a name="resolving-issues-sharing-onenote-notebooks"></a>การแก้ไขปัญหาการแชร์สมุดบันทึก OneNote
+# <a name="resolving-issues-sharing-onenote-notebooks"></a>การแก้ไขปัญหาการแชร์OneNoteสมุดบันทึก
 
-ปุ่มแชร์จะอยู่ที่มุมบนขวาของ OneNote
+ปุ่ม แชร์ อยู่ที่มุมบนขวาของOneNoteแชร์
 
-- พิมพ์อีเมลแอดเดรสหนึ่งเพื่อแชร์สมุดบันทึก
-- คลิก**แชร์**
+- พิมพ์ที่อยู่อีเมลหนึ่งที่อยู่เพื่อแชร์สมุดบันทึก
+- **คลิก** แชร์
 
-ปิดและเปิดสมุดบันทึกใน OneNote อีกครั้งเพื่อเริ่มการแชร์อีกครั้ง
+ปิดแล้วเปิดสมุดบันทึกอีกครั้งOneNoteเพื่อเริ่มการแชร์อีกครั้ง

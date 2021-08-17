@@ -1,5 +1,5 @@
 ---
-title: การแก้ไขปัญหาเกี่ยวกับผู้ใช้ที่ไม่รู้จักในการสนทนาทีม
+title: การแก้ไขปัญหากับผู้ใช้ที่ไม่รู้จักในTeamsแชท
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,20 +12,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003807"
 - "6809"
-ms.openlocfilehash: 523c11cb9d5c4696703c67c2a6b3184f5d12f8e7
-ms.sourcegitcommit: d151b09064df3fb573ae07a387a08d98a9553b9b
+ms.openlocfilehash: 276a073a7213bca4a66dc6b9f27b6c9270a2845c9f2b3aaee791ce28f17e9a75
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 10/28/2020
-ms.locfileid: "48807776"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54109943"
 ---
-# <a name="resolving-issue-with-unknown-user-in-teams-chat"></a>การแก้ไขปัญหาเกี่ยวกับ "ผู้ใช้ที่ไม่รู้จัก" ในทีมการแชท
+# <a name="resolving-issue-with-unknown-user-in-teams-chat"></a>การแก้ไขปัญหาเกี่ยวกับ "ผู้ใช้ที่ไม่รู้จัก" ในการTeamsแชท
 
-ในบางครั้งผู้ใช้ที่ถูกนำออกจะปรากฏเป็น "ผู้ใช้ที่ไม่รู้จัก" นี่เป็น [ปัญหาที่ทราบ](https://docs.microsoft.com/microsoftteams/troubleshoot/known-issues/removed-user-appears-as-unknown)แล้ว
+ในบางครั้ง ผู้ใช้ที่ถูกเอาออกจะปรากฏเป็น "ผู้ใช้ที่ไม่รู้จัก" นี่เป็น [ปัญหาที่ทราบ](https://docs.microsoft.com/microsoftteams/troubleshoot/known-issues/removed-user-appears-as-unknown)แล้ว
 
-ถ้าคุณเห็นผู้ใช้ที่แสดงเป็น "ผู้ใช้ที่ไม่รู้จัก" ในการสนทนาทีมให้ลองและล้างแคช:
+ถ้าคุณเห็นผู้ใช้แสดงเป็น "ผู้ใช้ที่ไม่รู้จัก" ในการสนทนาTeamsอยู่ ให้ลองล้างแคช:
 
-1.  คลิกขวาที่ไอคอนทีมในแถบงาน คลิก **ออก**
-2.  เรียกดูโฟลเดอร์%appdata%\Microsoft\teams\ บนคอมพิวเตอร์ของคุณและลบไฟล์ทั้งหมดในไดเรกทอรีนั้น
+1.  คลิกขวาที่ไอคอนTeamsในแถบงาน คลิกออกจาก
+2.  เรียกดูโฟลเดอร์ %appdata%\Microsoft\teams\ บนคอมพิวเตอร์ของคุณ แล้วลบไฟล์ทั้งหมดในไดเรกทอรีนั้น
 
-คุณสามารถป้องกันไม่ให้ผู้ใช้ที่ไม่ระบุชื่อเข้าร่วมการประชุมได้โดยการตรวจสอบให้แน่ใจว่าพวกเขารออยู่ที่ล็อบบี้ สำหรับข้อมูลเพิ่มเติมให้ดู[ที่เปลี่ยนการตั้งค่าผู้เข้าร่วมสำหรับการประชุมทีม](https://support.microsoft.com/office/change-participant-settings-for-a-teams-meeting-53261366-dbd5-45f9-aae9-a70e6354f88e)
+You can prevent anonymous users from joining meetings by ensuring that they wait in the lobby. For more information, see [Change participant settings for a Teams meeting](https://support.microsoft.com/office/change-participant-settings-for-a-teams-meeting-53261366-dbd5-45f9-aae9-a70e6354f88e).

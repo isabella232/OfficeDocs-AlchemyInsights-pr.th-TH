@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002531"
 - "5679"
-ms.openlocfilehash: f094d5fec9c85a7db0a3757177c3866f25e7b2227b05a41bcd554b1dda092517
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: bc10199fe98460f55519e56dbacd7d49f09df89be6d677c4fe2b6b95f529e26d
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54077417"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57889745"
 ---
 # <a name="need-help-with-email-quarantine"></a>ต้องการความช่วยเหลือในการกักกันอีเมลหรือไม่
 
-- เมื่อต้องการดู **และปล่อยข้อความอีเมลจากการกักกัน** ให้ไปที่หน้า [การกักกัน Office 365ศูนย์&การปฏิบัติตาม](https://protection.office.com/quarantine)นโยบาย คําแนะนํา [โดยละเอียด](https://docs.microsoft.com/microsoft-365/security/office-365-security/find-and-release-quarantined-messages-as-a-user?view=o365-worldwide#view-your-quarantined-messages)อยู่ที่นี่
-- ถ้าข้อความถูกกักกันแบบผิด (ผลลัพธ์ที่ผิด **)** ให้คลิก "รายงานข้อความไปยังไมโครซอฟท์เพื่อวิเคราะห์" หลังจากค้นหาข้อความถูกเลือกในหน้า การกักกัน 
-- ค้นหาสาเหตุที่ **ข้อความถูกกักกันภายใต้** เขตข้อมูล "เหตุผลการกักกัน"
-- **อีเมลหายไปในการกักกันใช่หรือไม่** ผู้ใช้ไม่สามารถเผยแพร่อีเมลที่ถูกกักกันบางรายการได้ ข้อความเหล่านี้เป็นข้อความที่จัดประเภทเป็นอีเมลฟิชชิ่ง มัลแวร์ หรือโดยการส่งผ่านที่มีความเชื่อมั่นสูง ผู้ดูแลระบบสามารถดู [เผยแพร่ หรือลบข้อความ](https://docs.microsoft.com/microsoft-365/security/office-365-security/manage-quarantined-messages-and-files?view=o365-worldwide)เหล่านี้ได้ 
+- เมื่อต้องการดู **และปล่อยข้อความอีเมลจากการกักกันเป็น** ผู้ใช้ ให้ไปที่หน้า การกักกันในพอร์ทัล Microsoft 365 Defenderที่ **ตรวจทาน** \> **การ** กักกัน หรือ <https://security.microsoft.com/quarantine> ที่ ดูคําแนะนํา [โดยละเอียดที่ ดูข้อความถูกกักกัน](https://docs.microsoft.com/microsoft-365/security/office-365-security/find-and-release-quarantined-messages-as-a-user#view-your-quarantined-messages)ของคุณ
+- ถ้าข้อความถูก **กักกันแบบผิด (ผลลัพธ์ที่ผิด)** ให้เลือกข้อความจากรายการ แล้วคลิก รายงานข้อความไปยัง Microsoft **เพื่อ** วิเคราะห์
+- ค้นหา **สาเหตุที่ข้อความถูกกักกันภายใต้****เขตข้อมูลเหตุผล** การกักกัน
+- **ข้อความอีเมลหายไปในการกักกันใช่หรือไม่** ผู้ใช้ภายนอกไม่สามารถดูหรือเผยแพร่อีเมลที่ถูกกักกันบางรายการได้ ข้อความเหล่านี้มีแนวโน้มที่จะถูกจัดประเภทเป็นฟิชชิ่ง มัลแวร์ หรือตามกฎของล.ก.ล.ต. (หรือที่เรียกว่ากฎการส่งผ่าน) ผู้ดูแลระบบสามารถดู เผยแพร่ หรือลบข้อความเหล่านี้ได้ For more information, [manage quarantined messages and files as an admin in EOP](https://docs.microsoft.com/microsoft-365/security/office-365-security/manage-quarantined-messages-and-files).
