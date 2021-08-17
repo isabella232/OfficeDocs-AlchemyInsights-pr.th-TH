@@ -1,5 +1,5 @@
 ---
-title: แก้ไขข้อผิดพลาด0x8004de40ในOneDrive
+title: แก้ไขข้อผิดพลาด 0x8004de40 ใน OneDrive
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
@@ -8,15 +8,15 @@ ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.openlocfilehash: f30b2f7d237158ae58d6a76676ca4c40d95ef3b3
-ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
+ms.openlocfilehash: 05fb353dd7bda97b88d4ccfdf2ae708b4401ab862a8e8f4e4d0246b75011cad0
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52544561"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57894294"
 ---
-# <a name="fix-0x8004de40-error-in-onedrive"></a>แก้ไขข้อผิดพลาด0x8004de40ในOneDrive
+# <a name="fix-0x8004de40-error-in-onedrive"></a>แก้ไขข้อผิดพลาด 0x8004de40 ใน OneDrive
 
 รหัสข้อผิดพลาด0x8004de40อาจOneDriveพบปัญหาในการเชื่อมต่อกับระบบคลาวด์ 
 
-For more information, see [Error Code: 0x8004de40 when signing in to OneDrive](/sharepoint/troubleshoot/administration/error-0x8004de40-in-onedrive)
+For more information, see [Error Code: 0x8004de40 when signing in to OneDrive](https://docs.microsoft.com/sharepoint/troubleshoot/administration/error-0x8004de40-in-onedrive)

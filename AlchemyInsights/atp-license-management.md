@@ -15,12 +15,12 @@ ms.custom:
 - commerce_licensing
 - "9003019"
 - "5782"
-ms.openlocfilehash: bddf98044dd29345e0d59703713d76f02642f448bdc62cc25bb356933d524f21
-ms.sourcegitcommit: d71b18e1403859fbfc45ddd9a57c8ab68f4d9f96
+ms.openlocfilehash: 3ade6182d814f99625978c7e14678e67e6b57260
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54501151"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58313907"
 ---
 # <a name="microsoft-defender-for-office-365-license-management"></a>Microsoft Defender for Office 365การจัดการสิทธิการใช้งาน
 
@@ -29,6 +29,6 @@ Microsoft Defender Office 365การจัดการสิทธิการ
 - เมื่อต้องการซื้อ Microsoft Defender Office 365:
     1. ไปที่ **บริการ**  >  [การซื้อการเรียกเก็บเงิน](https://go.microsoft.com/fwlink/p/?linkid=868433)
     2. ที่ด้านล่างของหน้า ให้เลือก **Add-on**
-    3. ในหน้า **ซื้อบริการ** ให้เลือกแผน Microsoft Defender Office 365แผนที่คุณต้องการซื้อ ป้อนจํานวนผู้ใช้ที่ต้องการสิทธิ์การใช้งาน จากนั้นเลือก **เช็คเอาท์** ทันที หากต้องการข้อมูลเพิ่มเติม โปรดดู[ซื้อ Add-on](/microsoft-365/commerce/buy-or-edit-an-add-on)
-- เมื่อต้องการกําหนดให้ Microsoft Defender Office 365สิทธิ์การใช้งานของคุณ ให้ไปที่  >  **สิทธิการใช้งานการเรียกเก็บเงิน** For more information, see [Assign licenses to users](/microsoft-365/admin/manage/assign-licenses-to-users).
-- หากต้องการเพิ่มหรือลบสิทธิการใช้งานจาก Microsoft Defender Office 365ไปที่  >  **การเรียกเก็บเงิน ผลิตภัณฑ์** ของคุณ เลือกการสมัครใช้งานที่คุณต้องการอัปเดต แล้วเลือก ซื้อ **สิทธิ์การใช้งาน หรือ****เอาสิทธิ์การใช้งาน** ออก For more information, see [Buy or remove subscription licenses](/microsoft-365/commerce/licenses/buy-licenses).
+    3. ในหน้า **ซื้อบริการ** ให้เลือกแผน Microsoft Defender Office 365แผนที่คุณต้องการซื้อ ป้อนจํานวนผู้ใช้ที่ต้องการสิทธิ์การใช้งาน **จากนั้นเลือก เช็คเอาท์** ทันที หากต้องการข้อมูลเพิ่มเติม โปรดดู[ซื้อ Add-on](https://docs.microsoft.com/microsoft-365/commerce/buy-or-edit-an-add-on)
+- เมื่อต้องการกําหนด Microsoft Defender Office 365สิทธิ์การใช้งานของคุณ **ให้ไปที่**  >  **สิทธิการใช้งานการเรียกเก็บเงิน** For more information, see [Assign licenses to users](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users).
+- หากต้องการเพิ่มหรือลบสิทธิการใช้งานจาก Microsoft Defender Office 365ไปที่ การเรียกเก็บเงิน  >  **ผลิตภัณฑ์** ของคุณ เลือกการสมัครใช้งานที่คุณต้องการอัปเดต แล้วเลือก ซื้อ **สิทธิ์การใช้งาน หรือ****เอาสิทธิ์การใช้งาน** ออก For more information, see [Buy or remove subscription licenses](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses).

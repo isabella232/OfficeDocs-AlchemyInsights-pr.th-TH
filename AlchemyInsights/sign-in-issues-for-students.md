@@ -13,22 +13,22 @@ ms.custom:
 - "9000744"
 - "3813"
 - "3818"
-ms.openlocfilehash: bd9ed8ff0f01842d906cb5385f000213e5917f87
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 55e50cce3a6d15fea45340d94ca9b62e19cfed65347cb4c7c3e30570d837260d
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51787120"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54084698"
 ---
 # <a name="sign-in-issues-for-students"></a>ปัญหาการลงชื่อเข้าใช้ของนักเรียน
 
-เมื่อนักเรียนมีปัญหาในการเข้าสู่ระบบ เหตุผลทั่วไปคือ Teams ไม่ได้เปิดใช้งานในบทบาทของนักเรียน เมื่อต้องการแก้ไขปัญหานี้ คุณต้องเปิดใช้งาน Microsoft Teams ด้วยตนเอง:
+เมื่อนักเรียนมีปัญหาในการเข้าสู่ระบบ เหตุผลทั่วไปคือ Teamsบทบาทนักเรียนจะไม่เปิดใช้งาน เมื่อต้องการแก้ไขปัญหานี้ คุณต้องเปิดใช้งานMicrosoft Teamsด้วยตนเอง:
 
-1. ไปที่ ศูนย์การจัดการ Microsoft 365 **การตั้งค่า> การตั้งค่า > Microsoft Teams** 
+1. ไปยังศูนย์การจัดการ Microsoft 365 **การตั้งค่า> การตั้งค่า > Microsoft Teams** 
 
-2. หากคุณไม่เห็น Microsoft Teams ในรายการ บริการ ให้ปิด ลองใช้ศูนย์การจัดการใหม่เพื่อค้นหา การตั้งค่า > Services และ **add-ins > Microsoft Teams** 
+2. ถ้าคุณไม่เห็นรายการMicrosoft Teamsบริการ ให้ปิด ลองใช้ศูนย์การจัดการใหม่เพื่อค้นหา บริการ **การตั้งค่า >** **และ Add-in > Microsoft Teams** 
 
-ดูข้อมูลเพิ่มเติมที่ [เปิดใช้งาน Microsoft Teams ในโรงเรียน](https://docs.microsoft.com/microsoft-365/education/intune-edu-trial/enable-microsoft-teams#enable-microsoft-teams-for-your-school-1)ของคุณ 
+หากต้องการข้อมูลเพิ่มเติม ให้ดูที่[เปิดใช้งานMicrosoft Teamsโรงเรียน](https://docs.microsoft.com/microsoft-365/education/intune-edu-trial/enable-microsoft-teams#enable-microsoft-teams-for-your-school-1)ของคุณ 
 
 **สิ่ง** สําคัญ: คุณอาจต้องรอถึง 24 ชั่วโมงเพื่อให้การเปลี่ยนแปลงของคุณมีผล
 

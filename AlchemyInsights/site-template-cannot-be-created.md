@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000094"
 - "5708"
-ms.openlocfilehash: 0e371289cc1cf531909058ce2189cb3a5436d6fd
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: c928d2fef83f2ae93aa764078739def8e1ec9f9d5cf3d9f11e22cd20702d4ddd
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51786904"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54084770"
 ---
 # <a name="site-template-cannot-be-created"></a>ไม่สามารถสร้างเทมเพลตไซต์ได้
 
@@ -27,6 +27,6 @@ ms.locfileid: "51786904"
 
 - ไซต์อาจใช้ทรัพยากรมากเกินไป ดังนั้น เทมเพลตไซต์จึงเกินขีดจํากัด 50 MB
 
-- มีปัญหาในการแสดงข้อมูลจากรายการที่ใช้คอลัมน์ค้นหา For more information, see [Template-generated list doesn't display data from the correct lookup list in SharePoint Online.](https://docs.microsoft.com/sharepoint/support/lists-and-libraries/template-generated-list-incorrect-data)
+- มีปัญหาในการแสดงข้อมูลจากรายการที่ใช้คอลัมน์ค้นหา For more information, see [Template-generated list doesn't display data from the correct lookup list in SharePoint Online](https://docs.microsoft.com/sharepoint/support/lists-and-libraries/template-generated-list-incorrect-data).
 
 For more detailed information on common problems and solutions, please see [Create and use site templates](https://support.office.com/article/Create-and-use-site-templates-60371B0F-00E0-4C49-A844-34759EBDD989).

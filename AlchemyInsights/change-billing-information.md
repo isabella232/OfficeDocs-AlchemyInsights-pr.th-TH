@@ -15,18 +15,18 @@ ms.custom:
 - commerce_billing
 - "9002555"
 - "4942"
-ms.openlocfilehash: 841a1ffef8b6bcc381cddb82993fa0fc391b33aa7429b52b73cd0c0da3b879f7
-ms.sourcegitcommit: d71b18e1403859fbfc45ddd9a57c8ab68f4d9f96
+ms.openlocfilehash: 562cf9c433b076509788d26c0bf9ad20e7d8938b
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54498919"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58313825"
 ---
 # <a name="change-billing-information"></a>เปลี่ยนแปลงข้อมูลการเรียกเก็บเงิน
 
 คุณสามารถเปลี่ยนข้อมูลการเรียกเก็บเงินของคุณศูนย์การจัดการ Microsoft 365ได้ 
 
-- เปลี่ยน [ที่อยู่การเรียกเก็บเงิน](/microsoft-365/commerce/billing-and-payments/change-your-billing-addresses)ของคุณ
-- เปลี่ยนวิธีการ [ซื้อและ](/microsoft-365/commerce/billing-and-payments/manage-payment-methods) วิธี [ที่คุณจ่ายค่าสมัคร](/microsoft-365/commerce/billing-and-payments/pay-for-your-subscription)ใช้งาน
-- เปลี่ยน [ความถี่ใน](/microsoft-365/commerce/billing-and-payments/change-payment-frequency) การเรียกเก็บเงินเป็นรายเดือนหรือรายปี
-- จัดการ [โปรไฟล์การเรียกเก็บเงิน](/microsoft-365/commerce/billing-and-payments/manage-billing-profiles)ของคุณ
+- เปลี่ยน [ที่อยู่การเรียกเก็บเงิน](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/change-your-billing-addresses)ของคุณ
+- เปลี่ยนวิธีการ [ซื้อ](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods) และวิธี [ที่คุณจ่ายค่าสมัคร](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/pay-for-your-subscription)ใช้งาน
+- เปลี่ยน [ความถี่ใน](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/change-payment-frequency) การเรียกเก็บเงินเป็นรายเดือนหรือรายปี
+- จัดการ [โปรไฟล์การเรียกเก็บเงิน](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-billing-profiles)ของคุณ

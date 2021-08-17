@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002635"
 - "5153"
-ms.openlocfilehash: e512b36b34c5fc4931fb0f796790ee4b01c6443c
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: ebc0fb718eb0572e849c5d780977deaee480a00c2825c18a12e4d2212342f17a
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51827235"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54084113"
 ---
 # <a name="using-dlp-in-transport-rules"></a>การใช้ DLP ในกฎการส่งผ่าน
 
@@ -29,6 +29,6 @@ ms.locfileid: "51827235"
 
 คุณยังสามารถทดสอบกฎที่มีหรือไม่ทดสอบนโยบายโดยใช้ โหมดการทดสอบ บนกฎได้  คุณควรรอ 30 นาทีหลังจากสร้างกฎก่อนการทดสอบ
 
-- ดู [ทดสอบกฎของลโฟลว์/การส่งผ่านจดหมาย](https://docs.microsoft.com/exchange/security-and-compliance/mail-flow-rules/test-mail-flow-rules)
+- ดู[ทดสอบกฎการFlow/การส่งผ่านจดหมาย](https://docs.microsoft.com/exchange/security-and-compliance/mail-flow-rules/test-mail-flow-rules)
 
 **หมายเหตุ**: ถ้าคุณพยายามปรับใช้นโยบาย DLP ใหม่กับกฎการส่งผ่านใน EAC ให้ใช้ [นโยบาย DLP ในศูนย์การรักษาความปลอดภัยและการปฏิบัติตามนโยบาย](https://docs.microsoft.com/microsoft-365/compliance/data-loss-prevention-policies?view=o365-worldwide) แทน

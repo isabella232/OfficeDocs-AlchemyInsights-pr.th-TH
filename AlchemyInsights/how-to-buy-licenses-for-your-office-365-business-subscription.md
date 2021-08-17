@@ -1,5 +1,5 @@
 ---
-title: วิธีซื้อสิทธิ์การใช้งานของการสมัครใช้งาน Microsoft 365 Apps for business ของคุณ
+title: วิธีซื้อสิทธิ์การใช้งานMicrosoft 365 Apps for businessการสมัครใช้งาน
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
@@ -14,14 +14,14 @@ ms.custom:
 - commerce_licensing
 - "652"
 - "2000017"
-ms.openlocfilehash: 51c3e5ed3398b8d341bc2e84b8ae56bfd36a07f4de167042891a9ed606a94669
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: aa7eb7f5d3136e158c13ee2948979a4545cae5a5
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57892558"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58313130"
 ---
-# <a name="how-to-buy-licenses-for-your-microsoft-365-apps-for-business-subscription"></a>วิธีซื้อสิทธิ์การใช้งานของการสมัครใช้งาน Microsoft 365 Apps for business ของคุณ
+# <a name="how-to-buy-licenses-for-your-microsoft-365-apps-for-business-subscription"></a>วิธีซื้อสิทธิ์การใช้งานMicrosoft 365 Apps for businessการสมัครใช้งาน
 
 When assigning licenses to your users, you may find that you need to buy additional licenses.
 
