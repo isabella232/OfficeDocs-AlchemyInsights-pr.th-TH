@@ -1,5 +1,5 @@
 ---
-title: การสร้างหรือการเพิ่มโดเมนที่ติดต่อกับภายนอก
+title: การสร้างหรือการเพิ่มโดเมนภายนอก
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,13 +13,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "6160"
 - "9003238"
-ms.openlocfilehash: adaf30f1426d73dd843fbc9bb1c571599f5ef394
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 8d2b317921303a62c83969d811ddbd0d8254a28185773778cd0432e7d5ce7eb4
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47746814"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54103283"
 ---
-# <a name="creating-or-adding-a-federated-domain"></a>การสร้างหรือการเพิ่มโดเมนที่ติดต่อกับภายนอก
+# <a name="creating-or-adding-a-federated-domain"></a>การสร้างหรือการเพิ่มโดเมนภายนอก
 
-สำหรับคำแนะนำในการสร้างหรือเพิ่มโดเมนที่ติดต่อกับภายนอกให้ดู[ที่เพิ่มโดเมนที่ติดต่อกับภายนอก](https://docs.microsoft.com/azure/active-directory/hybrid/how-to-connect-fed-management#addfeddomain)
+หากต้องการคําแนะนําในการสร้างหรือเพิ่มโดเมนภายนอก ให้ดู[เพิ่มโดเมนภายนอก](https://docs.microsoft.com/azure/active-directory/hybrid/how-to-connect-fed-management#addfeddomain)

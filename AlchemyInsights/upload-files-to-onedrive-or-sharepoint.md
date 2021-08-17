@@ -1,5 +1,5 @@
 ---
-title: อัปโหลดไฟล์ไปยัง OneDrive หรือ SharePoint
+title: Uploadไฟล์OneDriveหรือSharePoint
 ms.author: matteva
 author: pebaum
 manager: scotv
@@ -12,24 +12,24 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: a016fa63-4d87-4f3d-99eb-ee134cb27dc0
-ms.openlocfilehash: 03e2962a12fca12850441d03b43d6cfde9e60bad
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 90767dbcbac08f109b33bfed474cf53829f1e553e5973477796b951acf5c8d28
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47805950"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54073295"
 ---
-# <a name="upload-files-to-onedrive-or-sharepoint"></a>อัปโหลดไฟล์ไปยัง OneDrive หรือ SharePoint
+# <a name="upload-files-to-onedrive-or-sharepoint"></a>Uploadไฟล์OneDriveหรือSharePoint
 
-1. ในเว็บเบราว์เซอร์ของคุณให้ไปที่ตำแหน่งที่ตั้งที่คุณต้องการอัปโหลดไฟล์
+1. ในเว็บเบราว์เซอร์ของคุณ ให้ไปที่ที่ตั้งที่คุณต้องการอัปโหลดไฟล์
     
-2. เปิด File Explorer แล้วเรียกดูไฟล์ที่คุณต้องการอัปโหลด
+2. เปิด File Explorer และเรียกดูไฟล์ที่คุณต้องการอัปโหลด
     
-3. เลือกไฟล์แล้วลากไปยังตำแหน่งที่ตั้งใน OneDrive หรือ SharePoint หมายเหตุ: ถ้าคุณใช้ Microsoft Edge, Mozilla FireFox หรือ Google Chrome คุณยังสามารถอัปโหลดโฟลเดอร์และไฟล์ทั้งหมดในไฟล์นั้นได้ด้วย
+3. เลือกไฟล์แล้วลากไปยังOneDriveหรือSharePoint หมายเหตุ: ถ้าคุณใช้ Microsoft Edge, Mozilla FireFox หรือ Google Chrome คุณยังสามารถอัปโหลดโฟลเดอร์และไฟล์ทั้งหมดในโฟลเดอร์นั้น
     
-**บันทึกย่อ**
-- คุณสามารถอัปโหลดไฟล์ที่มีขนาดสูงสุดได้ถึง 15 GB 
-- เส้นทางแบบเต็มสำหรับไฟล์ (รวมถึงชื่อไฟล์) จะต้องมีความยาวมากกว่า๔๐๐อักขระ 
-- ถ้าคุณต้องการอัปโหลดไฟล์มากกว่า๑๐๐ให้[ใช้ไคลเอ็นต์การซิงค์ OneDrive](https://go.microsoft.com/fwlink/?linkid=866427) 
+**หมายเหตุ:**
+- คุณสามารถอัปโหลดไฟล์ขนาดสูงสุด 15 GB 
+- เส้นทางแบบเต็มของไฟล์ (รวมถึงชื่อไฟล์) ต้องมีความยาวของไฟล์ไม่เกิน 400 อักขระ 
+- ถ้าคุณต้องการอัปโหลดไฟล์มากกว่า 100[ไฟล์ ให้ใช้การซิงค์สําหรับ OneDriveไคลเอ็นต์](https://go.microsoft.com/fwlink/?linkid=866427) 
   
 

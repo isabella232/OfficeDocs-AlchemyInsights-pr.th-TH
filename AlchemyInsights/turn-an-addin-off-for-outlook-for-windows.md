@@ -1,5 +1,5 @@
 ---
-title: ปิด add-in สำหรับ Outlook สำหรับ Windows หรือไม่
+title: ปิดใช้งาน Add-in Outlook for Windows หรือไม่
 ms.author: pebaum
 author: CrystalThomasMS
 ms.date: 04/21/2020
@@ -12,21 +12,21 @@ ms.assetid: 01e4349d-4c16-4d93-9cbd-c5739d1c5762
 ms.custom:
 - "9003117"
 - "5896"
-ms.openlocfilehash: aa768a0c4b5672088ef68feedc803b4775e9dc2e
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: c5f76ce38552c9b305acec4a8ddfea1ee7ae5a0016bf8c67aed1d7e7c2c3449b
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47803900"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54038752"
 ---
-# <a name="turn-an-add-in-off-for-outlook-for-windows"></a>เปิด add-in สำหรับ Outlook สำหรับ Windows
+# <a name="turn-an-add-in-off-for-outlook-for-windows"></a>ปิดใช้งาน Add-in Outlook Windows
 
-ถ้าคุณไม่ต้องการใช้ add-in ใน Outlook ๒๐๑๓หรือ Outlook ๒๐๑๖สำหรับ Windows คุณสามารถปิดใช้งานได้เพื่อไม่ให้แสดงในข้อความของคุณ  
+ถ้าคุณไม่ต้องการใช้ Add-in ใน Outlook 2013 หรือ Outlook 2016 Windows คุณสามารถปิดใช้งาน Add-in นั้น เพื่อที่จะได้ไม่แสดงในข้อความของคุณ  
 
-1. ใน Outlook ให้คลิก**ไฟล์ > จัดการ add-in**
-2. คลิก  **จัดการ add-in**
-3. เคล็ดลับ: ซึ่งจะเป็นการเปิด Outlook บนเว็บ
-4. ภายใต้จัดการ add-in ในคอลัมน์เปิดอยู่ให้ **ยกเลิกการเลือกกล่องของ add-in**  ที่คุณต้องการปิดใช้งาน
-5. เปิดหรือปิด add-in
+1. ใน Outlook **ให้คลิก ไฟล์ > จัดการ Add-in**
+2. คลิก  **จัดการ Add-in**
+3. เคล็ดลับ: การกระOutlook บนเว็บจะเปิดขึ้น
+4. ภายใต้ จัดการ Add-in ในคอลัมน์ เปิด **ให้ยกเลิกการเลือกกล่องของ Add-in**  ที่คุณต้องการปิดใช้งาน
+5. การเปิดหรือปิด Add-in
 
-เคล็ดลับ: เมื่อต้องการเปิดใช้งาน add-in อีกครั้งให้เลือกกล่องเดียวกัน
+เคล็ดลับ: เมื่อต้องการเปิด Add-in อีกครั้ง ให้เลือกกล่องเดียวกัน

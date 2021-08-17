@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "10024"
 - "9003951"
-ms.openlocfilehash: e1fda7763502a4a816874e1ab44d6f8215a21be9
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 7c90dd73c4c552b1e83f494daee0838639ee4e61abf97d5d576f88ded9a4c631
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51837647"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54038905"
 ---
 # <a name="troubleshoot-surface"></a>แก้ไขปัญหา Surface
 

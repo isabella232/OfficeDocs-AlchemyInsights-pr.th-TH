@@ -1,5 +1,5 @@
 ---
-title: ใช้ Microsoft Edge เพื่อล้างข้อมูลการเรียกดูที่จัดเก็บโดย Internet Explorer
+title: ใช้Microsoft Edgeเพื่อล้างข้อมูลการเรียกดูที่จัดเก็บโดย Internet Explorer
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,21 +13,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "9426"
 - "9005491"
-ms.openlocfilehash: 3e6198a8321e1b726758ffaee33da4a5efd32f43
-ms.sourcegitcommit: bef118c00aa397cd6d8941d403fe9cfa49dd8c73
+ms.openlocfilehash: 739018e54a3ff9c426891b392cac3a64064e9bad1b2753a5b003a383a7d73077
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 03/30/2021
-ms.locfileid: "51492132"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54073223"
 ---
-# <a name="use-microsoft-edge-to-clear-the-browsing-data-stored-by-internet-explorer"></a>ใช้ Microsoft Edge เพื่อล้างข้อมูลการเรียกดูที่จัดเก็บโดย Internet Explorer
+# <a name="use-microsoft-edge-to-clear-the-browsing-data-stored-by-internet-explorer"></a>ใช้Microsoft Edgeเพื่อล้างข้อมูลการเรียกดูที่จัดเก็บโดย Internet Explorer
 
-ฟีเจอร์นี้จะพร้อมใช้งานถ้าองค์กรของคุณเปิดใช้งานโหมด Internet Explorer (IE) เท่านั้น โปรดทราบว่าการล้างข้อมูลการเรียกดู IE ของคุณจะไม่ส่งผลต่อข้อมูลการเรียกดู Microsoft Edge ของคุณ
+ฟีเจอร์นี้จะพร้อมใช้งานเฉพาะเมื่อองค์กรของคุณเปิดใช้งานโหมด Internet Explorer (IE) โปรดทราบว่าการล้างข้อมูลการเรียกดู IE ของคุณจะไม่มีผลต่อข้อมูลMicrosoft Edgeการเรียกดูของคุณ
 *
-1. ใน Microsoft Edge **ให้เลือกการตั้งค่าและอื่นๆ ...**  >  **การตั้งค่า**  >  **ความเป็นส่วนตัว** และบริการ
+1. ในMicrosoft Edge ให้เลือก **การตั้งค่าและอื่นๆ ...**  >  **การตั้งค่า**  >  **ความเป็นส่วนตัว** และบริการ
 
 1. ภายใต้ **ล้างข้อมูลการเรียกดูของ Internet Explorer** ให้เลือก **เลือกสิ่งที่ต้องการ** ล้าง
 
 1. เลือกชนิดของข้อมูลที่คุณต้องการล้าง
 
-1. เลือก **ล้าง** เดี๋ยวนี้
+1. เลือก **ล้าง** ทันที

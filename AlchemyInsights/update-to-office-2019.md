@@ -1,5 +1,5 @@
 ---
-title: อัปเดตเป็น Office ๒๐๑๙
+title: อัปเดตเป็น Office 2019
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,20 +13,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "1746"
 - "9000140"
-ms.openlocfilehash: 718a5233c6600c90edd39d537a6ade7360859ba4
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: cda150cfc77b337dfe3727ac57714cdcfd047508efffb5e5ceecfc0ebe4c8a27
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47805914"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54073655"
 ---
-# <a name="update-to-office-2019"></a>อัปเดตเป็น Office ๒๐๑๙
+# <a name="update-to-office-2019"></a>อัปเดตเป็น Office 2019
 
-Office ๒๐๑๙จะแยกออกจากแอป Office ที่พร้อมใช้งานผ่านแผน Office ๓๖๕ ถ้าคุณมีแอป Office ที่เป็นส่วนหนึ่งของการสมัครใช้งาน Office ๓๖๕ของคุณคุณมี Office เวอร์ชันล่าสุดอยู่แล้วและไม่จำเป็นต้องมี Office ๒๐๑๙ ตัวอย่างเช่นถ้าคุณปรับใช้แอป Microsoft ๓๖๕สำหรับองค์กรให้กับผู้ใช้ในองค์กรของคุณแล้วคุณมีฟีเจอร์ที่อัปเดตแล้วทั้งหมดและอื่นๆอีกมากมายที่รวมอยู่ใน Office ๒๐๑๙
+Office 2019 จะแยกออกจากOfficeแอปที่พร้อมใช้งานผ่านOffice 365แต่ละแผน ถ้าคุณมีแอป Office เป็นส่วนหนึ่งของการสมัครใช้งาน Office 365 ของคุณ คุณมีเวอร์ชันล่าสุดของ Office และไม่ต้องการOffice 2019 ตัวอย่างเช่น ถ้าคุณได้ปรับใช้ Microsoft 365 Apps for enterpriseผู้ใช้ในองค์กรของคุณ คุณมีฟีเจอร์ที่อัปเดตทั้งหมดอยู่แล้ว และอื่นๆ อีกมากมาย ที่รวมอยู่ใน Office 2019
 
-Office ๒๐๑๙จะพร้อมใช้งานในรูปแบบการซื้อครั้งเดียวจากร้านค้าปลีกหรือผ่านข้อตกลง volume licensing สำหรับข้อมูลเพิ่มเติมเกี่ยวกับการปรับใช้ Office ๒๐๑๙ให้ดูที่:  
+Office 2019 มีให้บริการแบบซื้อแบบซื้อจากร้านค้าปลีกหรือผ่านข้อตกลง Volume Licensing ดูข้อมูลเพิ่มเติมเกี่ยวกับการปรับใช้ Office 2019:  
 
-- [ภาพรวมของ Office ๒๐๑๙ (สำหรับผู้เชี่ยวชาญด้าน IT)](https://docs.microsoft.com/deployoffice/office2019/overview)  
-- [คำถามที่ถามบ่อยเกี่ยวกับ Office ๒๐๑๙สำหรับ Windows และ Mac](https://support.microsoft.com/help/4133312)  
-- [สิ่งที่อยู่ใน Office ๒๐๑๙มีอะไรบ้าง](https://docs.microsoft.com/deployoffice/office2019/overview#whats-stayed-the-same-in-office-2019)  
-- [การกำหนดปีในแอปของไคลเอ็นต์ Office ๒๐๑๖และ Microsoft ๓๖๕จะถูกเอาออกจากรายการเมนูเริ่ม](https://support.office.com/article/8fe5e052-76d2-49de-af30-2e84ed3da907?wt.mc_id=Alchemy_ClientDIA)
+- [ภาพรวมของการOfficeปี 2019 (for IT Pros)](https://docs.microsoft.com/deployoffice/office2019/overview)  
+- [Office 2019 for Windows และ Mac FAQ](https://support.microsoft.com/help/4133312)  
+- [สิ่งที่เหมือนกันใน Office 2019](https://docs.microsoft.com/deployoffice/office2019/overview#whats-stayed-the-same-in-office-2019)  
+- [การดีไซน์ปีOffice 2016 และMicrosoft 365แอปไคลเอ็นต์รุ่นปี 2016 จะถูกเมนูเริ่มต้นออกจากรายการ](https://support.office.com/article/8fe5e052-76d2-49de-af30-2e84ed3da907?wt.mc_id=Alchemy_ClientDIA)
