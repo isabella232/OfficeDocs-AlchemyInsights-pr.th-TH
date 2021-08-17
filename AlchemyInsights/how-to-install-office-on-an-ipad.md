@@ -1,5 +1,5 @@
 ---
-title: วิธีการติดตั้ง Office บน iPad
+title: วิธีติดตั้งOfficeบนiPad
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,15 +13,15 @@ ms.assetid: f4c24caf-cdbc-42ff-a18f-3c5cd37302e3
 ms.custom:
 - "649"
 - "2000016"
-ms.openlocfilehash: 917c4354ccabe48a1e7a32855dd5bc7e21630a4e
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 8762321c9cd758b96ee6d2dce62d1c31cacc45c71a43cdc5f454ea04fe6a24f2
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51829310"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54078857"
 ---
-# <a name="how-to-install-office-on-an-ipad"></a>วิธีการติดตั้ง Office บน iPad
+# <a name="how-to-install-office-on-an-ipad"></a>วิธีติดตั้งOfficeบนiPad
 
-- ให้ผู้ใช้แตะที่ [ลิงก์ดาวน์โหลดจาก](https://support.office.com/article/9df6d10c-7281-4671-8666-6ca8e339b628?wt.mc_id=Alchemy_ClientDIA) อุปกรณ์เคลื่อนที่ของพวกเขา เพื่อดาวน์โหลด Word, Excel, PowerPoint และ OneNote
+- ให้ผู้ใช้แตะที่[ลิงก์ดาวน์โหลดจากอุปกรณ์เคลื่อน](https://support.office.com/article/9df6d10c-7281-4671-8666-6ca8e339b628?wt.mc_id=Alchemy_ClientDIA)ที่ของพวกเขา, for Word, Excel, PowerPoint OneNote
 
 - ให้ผู้ใช้เริ่มแอป แตะ ลงชื่อเข้าใช้ **และใส่ข้อมูล** รับรองของที่โรงเรียนหรือที่โรงเรียนของพวกเขา

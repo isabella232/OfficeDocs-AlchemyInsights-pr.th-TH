@@ -1,5 +1,5 @@
 ---
-title: การลบหมายเลข Dial-in conferencing ของ Teams
+title: Teamsการเอาหมายเลข Dial-in Conferencing ออก
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,14 +12,14 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002248"
 - "4352"
-ms.openlocfilehash: 00ae4b82fd7ac266a7d590de8ae82702fd53905f
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 38112d08915fffdeeb35bc09419cd632cb24c28dfa1ce75963f0217fc274d67e
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51823554"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54106820"
 ---
-# <a name="teams-dial-in-conferencing-number-removal"></a>การลบหมายเลข Dial-in conferencing ของ Teams
+# <a name="teams-dial-in-conferencing-number-removal"></a>Teamsการเอาหมายเลข Dial-in Conferencing ออก
 
 คุณต้องการความช่วยเหลือในการเอาหมายเลข Dial-in Conferencing ออกจากบริดจ์การประชุมของคุณหรือไม่ ตัวเลขที่คุณพยายามเอาตัวเลขเริ่มต้นออกในปัจจุบันหรือไม่ ถ้าเป็น so, you will first need to change the default number of the conferencing bridge.
 

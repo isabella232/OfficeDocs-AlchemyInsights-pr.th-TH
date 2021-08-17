@@ -1,5 +1,5 @@
 ---
-title: อนุญาตหรือป้องกันไม่ให้ผู้ใช้ที่ไม่ระบุชื่อเข้าร่วมการประชุม Teams
+title: อนุญาตหรือป้องกันไม่ให้ผู้ใช้ที่ไม่ระบุชื่อเข้าร่วมTeamsการประชุม
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003005"
 - "5759"
-ms.openlocfilehash: 04813fc092ef58a533164a4e22f4ed9ee959cf9d
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: a867d9b8da34b3c78add5bad6f30c45653adc965a061ed235429a7d7447cffd6
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51824778"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54106964"
 ---
-# <a name="allow-or-prevent-anonymous-users-from-joining-teams-meetings"></a>อนุญาตหรือป้องกันไม่ให้ผู้ใช้ที่ไม่ระบุชื่อเข้าร่วมการประชุม Teams
+# <a name="allow-or-prevent-anonymous-users-from-joining-teams-meetings"></a>อนุญาตหรือป้องกันไม่ให้ผู้ใช้ที่ไม่ระบุชื่อเข้าร่วมTeamsการประชุม
 
-คุณสามารถควบคุมการตั้งค่าการเข้าร่วมการประชุมแบบไม่ระบุชื่อในศูนย์การจัดการ Teams ได้
+คุณสามารถควบคุมการตั้งค่าการเข้าร่วมการประชุมแบบไม่ระบุชื่อในTeamsการจัดการได้
 
 **อาจต้องใช้เวลาถึง 24 ชั่วโมงเพื่อให้การเปลี่ยนแปลงนี้มีผล**
 
-1.  ไปที่ศูนย์ [การจัดการ Teams](https://admin.teams.microsoft.com)
+1.  ไปที่ศูนย์[Teamsการจัดการ](https://admin.teams.microsoft.com)
 2.  ในการนําทางด้านซ้าย ให้ไปที่ **การตั้งค่า**   >   **การประชุม**
 3.  ภายใต้  **ผู้เข้าร่วม** ให้เปิด  **ผู้ใช้ที่ไม่ระบุชื่อสามารถเข้าร่วม** การประชุมได้

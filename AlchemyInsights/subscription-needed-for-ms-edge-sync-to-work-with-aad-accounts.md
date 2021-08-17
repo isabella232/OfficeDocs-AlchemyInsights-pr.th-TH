@@ -1,5 +1,5 @@
 ---
-title: การสมัครใช้งานที่จำเป็นสำหรับ Microsoft Edge sync เพื่อทำงานกับบัญชีผู้ใช้ active Directory ของ Azure
+title: การสมัครใช้งานที่Microsoft Edgeซิงค์เพื่อใช้งานAzure Active Directoryบัญชี
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,24 +13,24 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004022"
 - "7088"
-ms.openlocfilehash: ee2369c02896b67eb7c7f448a38fa862de545c73
-ms.sourcegitcommit: c069f1b53567ad14711c423740f120439a312a60
+ms.openlocfilehash: 21e4db366f2650bdd4902b2877ace3c1b3a09be8be215c0c27a4faaf4deef8d4
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 12/04/2020
-ms.locfileid: "49573875"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54049624"
 ---
-# <a name="subscription-needed-for-microsoft-edge-sync-to-work-with-azure-active-directory-accounts"></a>การสมัครใช้งานที่จำเป็นสำหรับ Microsoft Edge sync เพื่อทำงานกับบัญชีผู้ใช้ active Directory ของ Azure
+# <a name="subscription-needed-for-microsoft-edge-sync-to-work-with-azure-active-directory-accounts"></a>การสมัครใช้งานที่Microsoft Edgeซิงค์เพื่อใช้งานAzure Active Directoryบัญชี
 
-การซิงค์จะทำงานกับหนึ่งในการสมัครใช้งานต่อไปนี้:
+การซิงค์จะได้ผลกับหนึ่งในการสมัครใช้งานต่อไปนี้:
 
 1. Azure Active Directory Premium (P1 และ P2)
-1. Microsoft ๓๖๕ Business Premium
-1. Office ๓๖๕ E3 และสูงกว่า
-1. การป้องกันข้อมูล Azure (P1 และ P2)
-1. การสมัครใช้งาน Office ๓๖๕ Education ทั้งหมด:
-    - แอป Microsoft สำหรับนักเรียนหรือคณาจารย์
-    - Exchange Online สำหรับนักเรียนหรือคณาจารย์
-    - Office ๓๖๕ A1 หรือสูงกว่า
-    - Microsoft ๓๖๕ A1 หรือสูงกว่า
-    - การป้องกันข้อมูล Azure P1 หรือ P2 สำหรับนักเรียนหรือคณะ
+1. Microsoft 365 Business Premium
+1. Office 365 E3ขึ้นไป
+1. Azure Information Protection (P1 และ P2)
+1. การสมัครใช้งานOffice 365 Educationทั้งหมดที่:
+    - แอป Microsoft ให้นักเรียนหรือคณะ
+    - Exchange Onlineการศึกษาหรือคณะ
+    - Office 365 A1หรือสูงกว่า
+    - Microsoft 365 A1หรือสูงกว่า
+    - Azure Information Protection P1 or P2, for Students or Faculty

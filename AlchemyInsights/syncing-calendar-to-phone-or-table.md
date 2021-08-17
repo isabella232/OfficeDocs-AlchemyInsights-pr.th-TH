@@ -1,5 +1,5 @@
 ---
-title: ๑๖๐๐๐๓๖การซิงค์ปฏิทินไปยังโทรศัพท์หรือตาราง
+title: 1600036การซิงค์ปฏิทินกับโทรศัพท์หรือตาราง
 ms.author: daeite
 author: daeite
 manager: jackiesm
@@ -11,15 +11,15 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: ef3b7fc8-f8c0-43b0-8d78-3f8287872ebd
 ms.custom: 1600036
-ms.openlocfilehash: 83f3be839ea6f2f23911860ecc4fbde46485ff02
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: f97661468310a1241fbe0616657ccebac7677401a235561ca27020be6e27cbbb
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47700366"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54106928"
 ---
-# <a name="issues-synchronizing-your-outlook-calendar-to-devices"></a>ปัญหาในการซิงโครไนซ์ปฏิทิน Outlook ของคุณไปยังอุปกรณ์
+# <a name="issues-synchronizing-your-outlook-calendar-to-devices"></a>ปัญหาในการซิงโครไนซ์Outlookปฏิทินของคุณไปยังอุปกรณ์
 
-เมื่อต้องการแก้ไขปัญหาการซิงโครไนซ์ปฏิทินของคุณกับอุปกรณ์ให้ดูที่ [ไม่สามารถซิงค์ปฏิทินและที่ติดต่อกับโทรศัพท์หรือแท็บเล็ตของฉัน](https://support.office.com/article/8479d764-b9f5-4fff-ba88-edd7c265df9f.aspx)ได้
+เมื่อต้องการแก้ไขปัญหาการซิงโครไนซ์ปฏิทินของคุณไปยังอุปกรณ์ ให้ดู [ไม่สามารถซิงค์ปฏิทินและที่ติดต่อกับโทรศัพท์หรือแท็บเล็ต](https://support.office.com/article/8479d764-b9f5-4fff-ba88-edd7c265df9f.aspx)ของฉัน
   
 
