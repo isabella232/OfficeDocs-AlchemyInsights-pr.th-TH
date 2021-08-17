@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002579"
 - "4995"
-ms.openlocfilehash: 6128f1f68f33b0d6070ffd6f867a65ff4a5716c7
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: a0cce8fdac7c200b0e538d0980e6d91bf9e99af0a6f4e99e7f5b790298437510
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51805813"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54047815"
 ---
 # <a name="why-dont-i-get-new-message-notifications"></a>เหตุใดฉันจึงไม่ได้รับการแจ้งเตือนข้อความใหม่
 
@@ -29,4 +29,4 @@ ms.locfileid: "51805813"
 
 3. เปลี่ยน การแจ้งเตือนจดหมายต่อบัญชี **เป็น ทั้งหมด** เฉพาะ **กล่องจดหมายเข้าที่โฟกัส** เท่านั้น **หรือ** ไม่มี
 
-คุณอาจยังต้องเปลี่ยนการตั้งค่าของคุณในระบบ Android For Notifications การตั้งค่านี้จะแตกต่างกันในแต่ละอุปกรณ์ แต่โปรดตรวจสอบว่าการตั้งค่าระบบของคุณอนุญาตให้ Outlook รับการแจ้งเตือน
+คุณอาจยังต้องเปลี่ยนการตั้งค่าของคุณในระบบ Android For Notifications การตั้งค่านี้แตกต่างกันไปตามแต่ละอุปกรณ์ แต่โปรดตรวจสอบว่าการตั้งค่าระบบของคุณอนุญาตให้Outlookรับการแจ้งเตือนได้

@@ -1,5 +1,5 @@
 ---
-title: การเลื่อนทีม
+title: Teams กะ
 ms.author: heidip
 author: heidip
 manager: dansimp
@@ -13,21 +13,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "6251"
 - "9000161"
-ms.openlocfilehash: cf8ada741fd93283513d868869b0e216373f6b7d
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: cf4227da85656ee0200ca8a1e4ced10229d7dce6ab91cdbc62f63a41c899c80d
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47750722"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54106523"
 ---
-# <a name="using-teams-shifts"></a>การใช้การเลื่อนทีม
+# <a name="using-teams-shifts"></a>การใช้ Teams Shifts
 
-สำหรับข้อมูลเพิ่มเติมเกี่ยวกับการจัดการแอปกะรวมถึงวิธีการตั้งค่ากะให้เปิดใช้งานกะสำหรับผู้ใช้และจัดการแอปกะให้ดูที่:
+For information about managing the Shifts app, including how to set up shifts, enable Shifts for users, and manage the Shifts app, see:
  
-- [จัดการแอปกะสำหรับองค์กรของคุณในทีม Microsoft](https://docs.microsoft.com/microsoftteams/expand-teams-across-your-org/shifts/manage-the-shifts-app-for-your-organization-in-teams#set-up-shifts)
-- [เปิดใช้งานหรือปิดใช้งานกะสำหรับผู้ใช้ที่ระบุในองค์กรของคุณ](https://docs.microsoft.com/microsoftteams/expand-teams-across-your-org/shifts/manage-the-shifts-app-for-your-organization-in-teams#enable-or-disable-shifts-for-specific-users-in-your-organization)
+- [จัดการแอป Shifts ขององค์กรของคุณใน Microsoft Teams](https://docs.microsoft.com/microsoftteams/expand-teams-across-your-org/shifts/manage-the-shifts-app-for-your-organization-in-teams#set-up-shifts)
+- [เปิดใช้งานหรือปิดใช้งาน Shifts ของผู้ใช้ที่ระบุใน](https://docs.microsoft.com/microsoftteams/expand-teams-across-your-org/shifts/manage-the-shifts-app-for-your-organization-in-teams#enable-or-disable-shifts-for-specific-users-in-your-organization)องค์กรของคุณ
 
-เมื่อต้องการเรียนรู้เพิ่มเติมเกี่ยวกับกะสำหรับทีมรวมถึงการจัดการกำหนดการกะให้ดูที่[กะสำหรับทีม](https://docs.microsoft.com/microsoftteams/expand-teams-across-your-org/shifts-for-teams-landing-page)
+เมื่อต้องการเรียนรู้เพิ่มเติมเกี่ยวกับ Shifts for Teams รวมถึงการจัดการตาราง Shifts ให้ดู[Shifts for Teams](https://docs.microsoft.com/microsoftteams/expand-teams-across-your-org/shifts-for-teams-landing-page)
 
-**มีผลบังคับใช้30มิถุนายน๒๐๒๐**, Microsoft Staffhub ได้รับการถอนการลงแล้ว สำหรับข้อมูลเพิ่มเติมให้ดูที่ [Microsoft StaffHub ได้รับการถอน](https://docs.microsoft.com/MicrosoftTeams/expand-teams-across-your-org/shifts/microsoft-staffhub-to-be-retired)การลง
+**Effective June 30, 2020**, Microsoft Staffhub has been retired. ดูข้อมูลเพิ่มเติมได้ที่ Microsoft [StaffHub ถูกปลดระวาง](https://docs.microsoft.com/MicrosoftTeams/expand-teams-across-your-org/shifts/microsoft-staffhub-to-be-retired)แล้ว
 
