@@ -15,20 +15,20 @@ ms.custom:
 - commerce_licensing
 - "9003019"
 - "5782"
-ms.openlocfilehash: 3ade6182d814f99625978c7e14678e67e6b57260
-ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
+ms.openlocfilehash: 515263d56b147f0f0e0f47b779394f5bec50df89ab1ea93fc1042384270a2ba3
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58313907"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57894614"
 ---
 # <a name="microsoft-defender-for-office-365-license-management"></a>Microsoft Defender for Office 365การจัดการสิทธิการใช้งาน
 
-Microsoft Defender Office 365การจัดการสิทธิการใช้งานของ Microsoft Defender สามารถศูนย์การจัดการ Microsoft 365ได้
+Microsoft Defender Office 365การจัดการสิทธิ์การใช้งานของ Microsoft Defender สามารถศูนย์การจัดการ Microsoft 365ได้
 
 - เมื่อต้องการซื้อ Microsoft Defender Office 365:
     1. ไปที่ **บริการ**  >  [การซื้อการเรียกเก็บเงิน](https://go.microsoft.com/fwlink/p/?linkid=868433)
     2. ที่ด้านล่างของหน้า ให้เลือก **Add-on**
     3. ในหน้า **ซื้อบริการ** ให้เลือกแผน Microsoft Defender Office 365แผนที่คุณต้องการซื้อ ป้อนจํานวนผู้ใช้ที่ต้องการสิทธิ์การใช้งาน **จากนั้นเลือก เช็คเอาท์** ทันที หากต้องการข้อมูลเพิ่มเติม โปรดดู[ซื้อ Add-on](https://docs.microsoft.com/microsoft-365/commerce/buy-or-edit-an-add-on)
 - เมื่อต้องการกําหนด Microsoft Defender Office 365สิทธิ์การใช้งานของคุณ **ให้ไปที่**  >  **สิทธิการใช้งานการเรียกเก็บเงิน** For more information, see [Assign licenses to users](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users).
-- หากต้องการเพิ่มหรือลบสิทธิการใช้งานจาก Microsoft Defender Office 365ไปที่ การเรียกเก็บเงิน  >  **ผลิตภัณฑ์** ของคุณ เลือกการสมัครใช้งานที่คุณต้องการอัปเดต แล้วเลือก ซื้อ **สิทธิ์การใช้งาน หรือ****เอาสิทธิ์การใช้งาน** ออก For more information, see [Buy or remove subscription licenses](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses).
+- เมื่อต้องการเพิ่มหรือลบสิทธิ์การใช้งานจาก Microsoft Defender Office 365ไปที่ **การเรียกเก็บเงิน**  >  **ผลิตภัณฑ์** ของคุณ เลือกการสมัครใช้งานที่คุณต้องการอัปเดต แล้วเลือก ซื้อ **สิทธิ์การใช้งาน หรือ****เอาสิทธิ์การใช้งาน** ออก For more information, see [Buy or remove subscription licenses](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses).

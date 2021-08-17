@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9406"
 - "9004341"
-ms.openlocfilehash: 290e740ccd7f3beac5b77e63c32c5b18c295070e6002dcdde44ce4a93f4330f6
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: fb043122edf5f99325f0403810eb0dc119d254e0
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54105695"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58314439"
 ---
 # <a name="troubleshoot-saml-signing-certificate-issues"></a>แก้ไขปัญหาใบรับรองการเซ็นชื่อ SAML
 
@@ -31,13 +31,11 @@ ms.locfileid: "54105695"
 
 3. ถ้าใบรับรองนี้หมดอายุ ให้สร้างใบรับรองใหม่ อัปเดตใบรับรองนั้นไปยังผู้ขายแอปพลิเคชัน แล้วเปิดใช้งานบนด้าน Azure For more information, see [Renew a certificate that will soon expire](https://docs.microsoft.com/azure/active-directory/manage-apps/manage-certificates-for-federated-single-sign-on#renew-a-certificate-that-will-soon-expire).
 
-> [!NOTE]
-> ถ้าใบรับรองหมดอายุ ผู้ใช้จะไม่ถูกบล็อก
+**หมายเหตุ**: ถ้าใบรับรองหมดอายุ ผู้ใช้จะไม่ถูกบล็อก
 
 4. [เพิ่มที่อยู่อีเมลเพื่อให้ได้รับ](https://docs.microsoft.com/azure/active-directory/manage-apps/manage-certificates-for-federated-single-sign-on#add-email-notification-addresses-for-certificate-expiration) การแจ้งเตือนก่อนที่ใบรับรองปัจจุบันจะหมดอายุ
 
-> [!NOTE]
-> ขั้นตอนที่ 4 เป็นตัวเลือกหนึ่งรายการ
+**หมายเหตุ**: ขั้นตอนที่ 4 เป็นตัวเลือกเพิ่มเติม
 
 5. เปลี่ยนตัวเลือกการเซ็นชื่อใบรับรอง SAML ของแอปพลิเคชันและอัลกอริทึมการเซ็นชื่อใบรับรอง For more information, see [Change certificate signing options and signing algorithm](https://docs.microsoft.com/azure/active-directory/manage-apps/certificate-signing-options).
 

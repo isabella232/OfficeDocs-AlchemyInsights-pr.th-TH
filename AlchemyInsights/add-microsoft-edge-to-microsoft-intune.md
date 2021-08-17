@@ -1,5 +1,5 @@
 ---
-title: เพิ่มMicrosoft EdgeไปยังMicrosoft Intune
+title: เพิ่มMicrosoft Edge Microsoft Intune
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -13,23 +13,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "8240"
 - "9004604"
-ms.openlocfilehash: 19e933e3029b7b809389815026faa63ea5dc36e81c1d4eb61b52b848fa1461a1
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 7cfc2279acf18a7cb6fab89befc8ef1ccc7a4be7
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53935824"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58315143"
 ---
-# <a name="add-microsoft-edge-to-microsoft-intune"></a>เพิ่มMicrosoft EdgeไปยังMicrosoft Intune
+# <a name="add-microsoft-edge-to-microsoft-intune"></a>เพิ่มMicrosoft Edge Microsoft Intune
 
-เพื่อให้สามารถปรับใช้ กําหนดค่า ตรวจสอบ และปกป้องอุปกรณ์Microsoft Edgeการใช้งาน Windows 10 คุณจะต้องเพิ่มอุปกรณ์Microsoft Intune
+เพื่อให้สามารถปรับใช้ กําหนดค่า ตรวจสอบ และปกป้องอุปกรณ์Microsoft Edgeการใช้งานWindows 10ได้ คุณจะต้องเพิ่มอุปกรณ์Microsoft Intune
 
-> [!IMPORTANT]
-- Intuned Microsoft Edge 77 และเวอร์ชันที่ใหม่กว่า
-- Intuned จะตรวจหาการติดตั้งที่มีอยู่Microsoft Edgeโดยอัตโนมัติ
+> **สําคัญ**:
+- Intun1 Microsoft Edge 77 และเวอร์ชันที่ใหม่กว่า
+- Intuned จะตรวจหาการติดตั้งที่มีอยู่Microsoft Edgeไฟล์
 - ถ้าคุณMicrosoft Edgeในบริบทของผู้ใช้ การติดตั้งระบบจะเขียนทับการติดตั้งในบริบทของผู้ใช้
 - ถ้าคุณMicrosoft Edgeในบริบทของระบบ ความสาเร็จในการติดตั้งจะได้รับรายงาน
-- Pre-installed Microsoft Edge 77 and later versions, for all channels in user context, will be overwritten with Microsoft Edge installed in system context.
+- การติดตั้งไว้ล่วงหน้าMicrosoft Edge 77 และเวอร์ชันที่ใหม่กว่า แชนเนลทั้งหมดในบริบทของผู้ใช้ จะถูกเขียนทับMicrosoft Edgeในบริบทของระบบ
 
 **เบื้องต้น**
 
@@ -37,7 +37,7 @@ Windows 10เวอร์ชัน 1709 หรือใหม่กว่า
 
 **ขั้นตอนในการเพิ่ม Microsoft Edge ลงใน Intuned**
 
-1. [กําหนดค่าแอปใน Intun1](https://docs.microsoft.com/mem/intune/apps/apps-windows-edge)
+1. [กําหนดค่าแอปใน Intuns](https://docs.microsoft.com/mem/intune/apps/apps-windows-edge)
 2. [กําหนดค่าข้อมูล](https://docs.microsoft.com/mem/intune/apps/apps-windows-edge)แอป
 3. [กําหนดค่าการตั้งค่า](https://docs.microsoft.com/mem/intune/apps/apps-windows-edge)แอป
 4. [เลือกแท็กขอบเขต (ไม่บังคับ)](https://docs.microsoft.com/mem/intune/apps/apps-windows-edge)

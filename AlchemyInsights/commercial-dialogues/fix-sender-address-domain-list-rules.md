@@ -12,19 +12,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: bf2a36853f53c723ca620487dd1c656ecb188cba9c80def68c793e3d5fbf5f87
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: db8b921fc84f42b6cef1138dca9ad433e648e0a2f10e80927bd5b0222bfeae3b
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53930044"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57896130"
 ---
 # <a name="fix-sender-addressdomain-list-rules"></a>แก้ไขกฎรายการ ที่อยู่ผู้ส่ง/โดเมน
 
-นโยบายการป้องกันสแปมในผู้เช่าของคุณมีผลต่อข้อความนี้ พบผู้ส่งข้อความในรายการ อนุญาต หรือ บล็อก เมื่อต้องการตรวจทานนโยบาย ให้ทต่อไปนี้:
+นโยบายป้องกันสแปมนโยบายใดนโยบายหนึ่งของคุณที่ได้รับผลกระทบจากข้อความนี้ พบผู้ส่งข้อความในรายการ อนุญาต หรือ บล็อก เมื่อต้องการตรวจสอบนโยบาย ให้ปฏิบัติตามขั้นตอนต่อไปนี้
 
-1. ไปที่ศูนย์ [Office 365การรักษา&การปฏิบัติตาม](https://go.microsoft.com/fwlink/p/?linkid=2077143)นโยบายของคุณ แล้วไปที่ **นโยบาย** การจัดการภัยคุกคาม  >    >  [](https://go.microsoft.com/fwlink/?linkid=2101518)
-2. บนแท็บ **มาตรฐาน** ถ้าเปิดใช้งาน **การตั้งค่า** มาตรฐาน ให้กาเครื่องหมาย **ที่รายการ อนุญาต****และ รายการบล็อก**
-3. บนแท็บ **แบบ** ปรับแต่งเอง ถ้า **การตั้งค่า แบบปรับแต่ง** เอง ถูกเปิดใช้งาน ให้ตรวจทาน **นโยบายโดยการเลือก** แก้ไขนโยบาย แล้วตรวจสอบ **รายการ อนุญาต****และ รายการบล็อก**
+1. ในMicrosoft 365 Defenderอีเมลที่ <https://security.microsoft.com/> ให้ไปที่ นโยบาย&การ& \> **นโยบาย** \> **ภัยคุกคาม** ทางอีเมล \> **ในส่วน** นโยบาย
 
-For more information on configuring spam filter policies, see [Configure your spam filter policies](https://go.microsoft.com/fwlink/?linkid=2101431).
+   เมื่อต้องการไปที่หน้า **นโยบายป้องกันสแปม** <https://security.microsoft.com/antispam> โดยตรง ให้ใช้
+
+2. บนหน้า **นโยบายป้องกันสแปม** ให้เลือกนโยบายโดยการคลิกที่ชื่อของนโยบาย (ชนิดคือนโยบายการป้องกัน **สแปม** แบบเองหรือ ชื่อ คือ นโยบายขาเข้าของการป้องกันสแปม **(ค่าเริ่มต้น)**)
+3. ในรายละเอียดที่ปรากฏขึ้น ให้เลือก แก้ไข **ผู้ส่งและ** โดเมนที่บล็อกแล้ว ในส่วน ผู้ส่งและโดเมนที่ **อนุญาตและ** ที่ถูกบล็อก
+4. ในส่วน **อนุญาต** ให้ตรวจทานผู้ส่งและโดเมนโดยคลิก **\<nn\> จัดการผู้ส่ง****หรือ อนุญาต** โดเมน
+
+For more information, see [Configure anti-spam policies in EOP.](https://docs.microsoft.com/microsoft-365/security/office-365-security/configure-your-spam-filter-policies)

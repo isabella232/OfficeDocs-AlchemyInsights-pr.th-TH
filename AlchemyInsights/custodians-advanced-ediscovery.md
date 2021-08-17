@@ -1,5 +1,5 @@
 ---
-title: นักสงงานAdvanced eDiscovery
+title: นักสเนกนาในAdvanced eDiscovery
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,16 +13,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "3200003"
 - "12580"
-ms.openlocfilehash: e7b971619744503cfe09f2ee1ae96ce89929f00943164ff1e0b26e15e74ab8b9
-ms.sourcegitcommit: d71b18e1403859fbfc45ddd9a57c8ab68f4d9f96
+ms.openlocfilehash: 7999b2e7c4ab6523f9084d406484f2c58a3560a533a3137698f07a18c58d46f4
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "57814128"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57894982"
 ---
-# <a name="custodians-in-advanced-ediscovery"></a>นักสงงานAdvanced eDiscovery
+# <a name="custodians-in-advanced-ediscovery"></a>นักสเนกนาในAdvanced eDiscovery
 
-นักชั่วคราวเป็นผู้ที่รับผิดชอบหรืออยู่ในเอกสารหรือไฟล์อิเล็กทรอนิกส์ ในMicrosoft 365 Advanced eDiscoveryคุณสามารถจัดการข้อมูลที่ปฏิเสธไม่ได้และไม่ได้แสดงออกได้ เพิ่ม/กลุ่มนักพยาบาทให้กับกรณี และดูกิจกรรมชมทิวทัศน์
+ผู้ชั่วคราวเป็นผู้ที่รับผิดชอบหรืออยู่ในเอกสารหรือไฟล์อิเล็กทรอนิกส์ in Microsoft 365 Advanced eDiscovery, you can manage audial and non-non-แสดงออกข้อมูล, add/bulk add-bulk addสพเนนเชียน to a case, and view bulk activity.
 
 เมื่อต้องการจัดการนักการเมืองในกรณีAdvanced eDiscovery:
 
@@ -30,8 +30,8 @@ ms.locfileid: "57814128"
 
 1. เลือก **แท็บ** แหล่งข้อมูล เลือกข้อมูลส่วนบุคคลจากรายการ แล้วเลือก **จัดการ** บนหน้าแถบฟลายเอาท์
 
-ดูข้อมูลเพิ่มเติมเกี่ยวกับการจัดการและดูกิจกรรมนักสงAdvanced eDiscoveryดู:
+ดูข้อมูลเพิ่มเติมเกี่ยวกับการจัดการและการดูนักสํรวAdvanced eDiscoveryดู:
 
-- [การร่วมงานกับนักการเมืองและแหล่งข้อมูลที่ไม่ใช่ที่ขึ้นต่อกันในAdvanced eDiscovery](/microsoft-365/compliance/managing-custodians)
+- [การร่วมงานกับนักการเมืองและแหล่งข้อมูลที่ไม่ใช่ที่ขึ้นต่อกันในAdvanced eDiscovery](https://docs.microsoft.com/microsoft-365/compliance/managing-custodians)
 
-- [ดูกิจกรรมการตรวจสอบของนักดนตรี](/microsoft-365/compliance/view-custodian-activity)
+- [ดูกิจกรรมการตรวจสอบของนักดนตรี](https://docs.microsoft.com/microsoft-365/compliance/view-custodian-activity)

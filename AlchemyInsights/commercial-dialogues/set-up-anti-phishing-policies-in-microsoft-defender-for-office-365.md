@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: 97ff250f5b2b3f970a71b3a5f31faad7c65cd60b
-ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
+ms.openlocfilehash: bf7b6763111c92ab9b01d991a8c9598890fb973e04e66a24b1f21863e11e2d91
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58313446"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57895102"
 ---
 # <a name="set-up-anti-phishing-policies-in-microsoft-defender-for-office-365"></a>ตั้งค่านโยบายต่อต้านการฟิชชิ่งใน Microsoft Defender Office 365
 
-1. ในMicrosoft 365 Defenderที่ <https://security.microsoft.com/> ให้ไปที่ นโยบาย **&การ&** \> **นโยบาย** \> **ภัยคุกคาม** ทางอีเมล \> **ในส่วน** นโยบาย
+1. ในMicrosoft 365 Defenderอีเมลที่ <https://security.microsoft.com/> ให้ไปที่ นโยบาย&การ& \> **นโยบาย** \> **ภัยคุกคาม** ทางอีเมล \> **ในส่วน** นโยบาย
 
    เมื่อต้องการไปที่หน้า **การป้องกัน** ฟิชชิ่ง <https://security.microsoft.com/antiphishing> โดยตรง ให้ใช้
 
@@ -31,4 +31,4 @@ ms.locfileid: "58313446"
 
 3. หลังจากที่คุณตรวจสอบการตั้งค่าของคุณแล้ว ให้เลือก **ส่ง** (ใหม่) หรือ **บันทึก** (แก้ไข)
 
-ดูข้อมูลเพิ่มเติมในการ[กําหนดค่านโยบายป้องกันฟิชชิ่งใน Microsoft Defender Office 365](https://docs.microsoft.com/microsoft-365/security/office-365-security/configure-mdo-anti-phishing-policies)
+ดูข้อมูลเพิ่มเติมที่[กําหนดค่านโยบายการป้องกันฟิชชิ่งใน Microsoft Defender Office 365](https://docs.microsoft.com/microsoft-365/security/office-365-security/configure-mdo-anti-phishing-policies)
