@@ -15,16 +15,16 @@ ms.custom:
 - commerce_licensing
 - "9003019"
 - "5778"
-ms.openlocfilehash: 517edd98ff30977b50a9634fbc274c77fe36c52eff4dc5c27b24e1d57dc7cc8e
-ms.sourcegitcommit: d71b18e1403859fbfc45ddd9a57c8ab68f4d9f96
+ms.openlocfilehash: e50b9f1c388758bfe91652be734661170d36660fc8f30a3bd2d77e189e8bd813
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54501763"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57888909"
 ---
 # <a name="assign-microsoft-defender-for-office-365-licenses"></a>กําหนด Microsoft Defender Office 365สิทธิ์การใช้งาน
 
-คุณสามารถมอบหมายOffice 365 Microsoft Defender for การจัดการ Microsoft 365 Center ให้กับผู้ใช้ได้
+คุณสามารถมอบหมายOffice 365 Microsoft Defender for การจัดการ Microsoft 365 Center ได้
 
 1. ไปที่  >  [สิทธิ์การใช้งานการเรียกเก็บเงิน](https://go.microsoft.com/fwlink/p/?linkid=842264)
 2. เลือกผลิตภัณฑ์ที่คุณต้องการกําหนดสิทธิ์การใช้งาน
@@ -33,4 +33,4 @@ ms.locfileid: "54501763"
 5. คลิก **เปิดหรือปิดแอปและบริการเพื่อ**  กําหนดหรือเอาออก
 6. คลิกกําหนด **แล้ว** ปิด
 
-เมื่อต้องการซื้อสิทธิ์การใช้งานเพิ่มเติมหรือเอาสิทธิ์การใช้งานออก [ให้ดู ซื้อหรือเอาสิทธิ์การใช้งาน](/microsoft-365/commerce/licenses/buy-licenses#buy-or-remove-licenses-for-your-business-subscription)ออก
+เมื่อต้องการซื้อเพิ่มเติม หรือเอาสิทธิ์การใช้งานออก [ให้ดู ซื้อหรือเอาสิทธิ์การใช้งาน](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses#buy-or-remove-licenses-for-your-business-subscription)ออก

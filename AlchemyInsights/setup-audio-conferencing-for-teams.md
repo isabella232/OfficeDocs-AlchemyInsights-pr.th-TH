@@ -1,5 +1,5 @@
 ---
-title: ตั้งค่าการประชุมทางเสียงให้กับ Teams
+title: ตั้งค่าการประชุมทางเสียงTeams
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000766"
 - "3183"
-ms.openlocfilehash: d773d371759b857044fc61f2b8f133d88f32e9aa
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 2aba4611863c8d3617fa682219c298ed00949739f5425ccd2b8f6bba18b28a1a
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51828495"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54108359"
 ---
-# <a name="setup-audio-conferencing-for-teams"></a>ตั้งค่าการประชุมทางเสียงให้กับ Teams
+# <a name="setup-audio-conferencing-for-teams"></a>ตั้งค่าการประชุมทางเสียงTeams
 
 **Microsoft Teams – การประชุมผ่านเสียง**
 
-ต้องการความช่วยเหลือในการเปิดหรือตั้งค่าการประชุมทางเสียงใน Microsoft Teams หรือไม่
+ต้องการความช่วยเหลือในการเปิดหรือตั้งค่าการประชุมทางเสียงMicrosoft Teamsใช่ไหม
 
 ผู้ใช้รายนี้ถูกสร้างขึ้นเมื่อเร็วๆ นี้แล้วใช่หรือไม่  หากเป็นดังนั้น คุณจะต้องรอ 2-24 ชม. เพื่อให้การตั้งค่ามีผล
 
@@ -33,14 +33,14 @@ ms.locfileid: "51828495"
 
 2. ขึ้นอยู่กับเวอร์ชันของศูนย์การจัดการ **เลือก สิทธิ์การใช้งานและแอป****หรือคลิก****แก้ไขบนสิทธิ์การใช้งาน** ผลิตภัณฑ์
 
-3. ยืนยันว่าผู้ใช้มีสิทธิ์การใช้งานที่เลือกไว้ใน การประชุมทางเสียง **, Microsoft Teams** และ **Skype for Business Online (Plan 2)**
+3. ยืนยันว่าผู้ใช้มีสิทธิ์การใช้งานที่เลือกไว้Microsoft Teamsการประชุมทาง **เสียง** Skype for Business **Online (Plan 2)**
 
-4. ศูนย์ **การจัดการผู้ใช้****คลิก แสดง** ทั้งหมด **จากนั้นเลือก** Teams
+4. ศูนย์ **การจัดการผู้ใช้****คลิก แสดง** ทั้งหมด **Teams** ผู้ดูแลระบบ
 
-5. ใน **ศูนย์การจัดการ Microsoft Teams** ให้คลิก **พอร์ทัล** ดั้งเดิม
+5. ใน **Microsoft Teamsการจัดการ** ให้คลิก **พอร์ทัล** ดั้งเดิม
 
-6. ใน **ศูนย์การจัดการ Skype for Business** ให้คลิก **การประชุม** ทางเสียง **จากนั้น** ผู้ใช้
+6. ใน **Skype for Businessการจัดการ** ให้คลิก **การประชุม** ทางเสียง **จากนั้น** ผู้ใช้
 
 7. เลือกผู้ใช้ในคําถาม และตรวจสอบว่าผู้ใช้มี **หมายเลขที่โทรเริ่มต้น**
 
-ดูข้อมูลเพิ่มเติมใน แผนการโทร [ของ Microsoft Teams for Microsoft 365](https://docs.microsoft.com/microsoftteams/calling-plans-for-office-365) หรือติดต่อทีมการเรียกเก็บเงินของ Microsoft Commerce เพื่อขอความช่วยเหลือเกี่ยวกับข้อสงสัยเกี่ยวกับการให้สิทธิ์การใช้งาน
+โปรดดูข้อมูลเพิ่มเติมที่ แผนMicrosoft Teams[การโทรMicrosoft 365](https://docs.microsoft.com/microsoftteams/calling-plans-for-office-365)หรือติดต่อทีมการเรียกเก็บเงินของ Microsoft Commerce เพื่อขอความช่วยเหลือเกี่ยวกับข้อสงสัยเกี่ยวกับสิทธิ์การใช้งานที่เกี่ยวข้อง

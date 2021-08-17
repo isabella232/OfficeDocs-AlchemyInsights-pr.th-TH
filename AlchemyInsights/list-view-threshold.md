@@ -1,5 +1,5 @@
 ---
-title: ตั้งค่าบริดจ์การประชุมสำหรับทีม
+title: ตั้งค่าบริดจ์การประชุมTeams
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "5300011"
 - "2670"
-ms.openlocfilehash: a92bb161142f79a4288aa8f3b456b5223a90bc51
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 19f4456a4cc8b835e46fc82b6112e0829f561d6a8f4be80091b7f328c5f29ee8
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47675641"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54054107"
 ---
-# <a name="list-view-threshold"></a>เกณฑ์ของมุมมองรายการ
+# <a name="list-view-threshold"></a>ค่าเกณฑ์ของมุมมองรายการ
 
-ค่าเกณฑ์ของมุมมองรายการมีไว้เพื่อรักษาประสิทธิภาพการทำงานของบริการ เกณฑ์ที่ไม่สามารถเปลี่ยนแปลงได้ใน SharePoint Online เมื่อต้องการหลีกเลี่ยงการตีค่าเกณฑ์นี้ให้ดูที่[จัดการรายการและไลบรารีขนาดใหญ่ใน SharePoint](https://support.office.com/article/manage-large-lists-and-libraries-in-sharepoint-b8588dae-9387-48c2-9248-c24122f07c59)
+ค่าเกณฑ์ของมุมมองรายการจะคงประสิทธิภาพของบริการ ค่าเกณฑ์ไม่สามารถเปลี่ยนแปลงใน SharePoint Online ได้ เพื่อหลีกเลี่ยงการกดปุ่มค่าเกณฑ์นี้[ให้ดู จัดการรายการและไลบรารีSharePoint](https://support.office.com/article/manage-large-lists-and-libraries-in-sharepoint-b8588dae-9387-48c2-9248-c24122f07c59)ขนาดใหญ่
 
-นอกจากนี้คุณอาจได้รับข้อผิดพลาดนี้เมื่อพยายามแชร์หรือตัดการสืบทอดของโฟลเดอร์ ดู[ข้อผิดพลาดในการแชร์/หยุดการสืบทอด](https://docs.microsoft.com/SharePoint/troubleshoot/lists-and-libraries/error-share-break-inheritance)
+คุณอาจได้รับข้อผิดพลาดนี้เมื่อพยายามแชร์หรือตัดการสืบทอดของโฟลเดอร์ ดู[แชร์/ตัดการสืบทอดข้อผิดพลาด](https://docs.microsoft.com/SharePoint/troubleshoot/lists-and-libraries/error-share-break-inheritance)

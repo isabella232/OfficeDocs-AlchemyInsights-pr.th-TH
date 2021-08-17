@@ -12,24 +12,24 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001421"
 - "3495"
-ms.openlocfilehash: b32cb8956c66a61090531c137532a2e93819b10b1dee3aa94a429e4d94844451
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 7bcf7ec2d65097a9adf6ec0049d68ee2af12b8434859131004a7c62106925e05
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53937696"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57889273"
 ---
 # <a name="activating-microsoft-365-apps"></a>การเปิดใช้งานMicrosoft 365แอป
 
 **หมายเหตุ**: ถ้าคุณใช้งานเวอร์ชันที่เก่ากว่าWindows (ตัวอย่างเช่น Windows 7) ตรวจสอบให้แน่ใจว่าเปิดใช้งาน TLS 1.2 เป็นค่าเริ่มต้น For more information, see [Update to enable TLS 1.1 and TLS 1.2 as default secure protocols in WinHTTP in Windows](https://support.microsoft.com/topic/update-to-enable-tls-1-1-and-tls-1-2-as-default-secure-protocols-in-winhttp-in-windows-c4bd73d2-31d7-761e-0178-11268bb10392).
 
-เมื่อต้องการเปิดใช้งานOffice ให้ดู:
+เมื่อต้องการเปิดใช้งานOffice ให้ดูที่:
 
 - [เปิดใช้งานOfficeบนพีซี](https://support.office.com/article/activate-office-5bd38f38-db92-448b-a982-ad170b1e187e) 
 
-- [เปิดใช้งานOffice บน Mac](https://support.office.com/article/activate-office-for-mac-7f6646b1-bb14-422a-9ad4-a53410fcefb2)
+- [เปิดใช้งานOfficeบน Mac](https://support.office.com/article/activate-office-for-mac-7f6646b1-bb14-422a-9ad4-a53410fcefb2)
 
-**หมายเหตุ:**  ตรวจสอบให้แน่ใจว่าคุณมีOffice 365 Microsoft 365การสมัครใช้งาน [ที่มีOfficeแอปไคลเอ็นต์](https://support.office.com/article/28cbc8cf-1332-4f04-9123-9b660abb629e)Microsoft 365 Business Standard Microsoft 365 Apps for business หรือ Microsoft 365 Apps for enterprise นอกจากนี้ ตรวจสอบให้แน่ใจว่าบัญชีผู้ใช้ที่คุณใช้เพื่อลงชื่อเข้าใช้Officeแอปได้รับการ[มอบหมาย](/microsoft-365/admin/manage/assign-licenses-to-users)สิทธิ์การใช้งาน
+**หมายเหตุ:**  ตรวจสอบให้แน่ใจว่าคุณมีOffice 365 Microsoft 365การสมัครใช้งาน [ที่มีOfficeแอปไคลเอ็นต์](https://support.office.com/article/28cbc8cf-1332-4f04-9123-9b660abb629e)Microsoft 365 Business Standard Microsoft 365 Apps for business หรือ Microsoft 365 Apps for enterprise นอกจากนี้ ตรวจสอบให้แน่ใจว่าบัญชีผู้ใช้ที่คุณใช้เพื่อลงชื่อเข้าใช้ในOfficeแอปได้รับการ[มอบหมาย](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users)สิทธิ์การใช้งาน
 
 เมื่อต้องการOfficeการเปิดใช้งาน ให้ดู:
 
@@ -38,16 +38,16 @@ ms.locfileid: "53937696"
 
 - [สิ่งที่คุณสามารถลองได้ถ้าคุณไม่สามารถติดตั้งหรือเปิดใช้งานOffice for Mac](https://support.office.com/article/what-to-try-if-you-can-t-install-or-activate-office-for-mac-5efba2b4-b1e6-4e5f-bf3c-6ab945d03dea)
 
-**เคล็ดลับ** บนคอมพิวเตอร์Windows เราจะสามารถวินิจฉัยและแก้ไขปัญหาการOfficeลงชื่อเข้าใช้ทั่วไปต่างๆ ให้คุณโดยอัตโนมัติ ดาวน์โหลดและเรียกใช้ **[Microsoft ตัวช่วยการสนับสนุนและการกู้คืน](https://aka.ms/SaRA-OfficeSignInScenario)** เพื่อใช้เครื่องมืออัตโนมัติของเรา
+**เคล็ดลับ** บนคอมพิวเตอร์Windows เราสามารถวินิจฉัยและแก้ไขปัญหาการลงชื่อเข้าใช้Officeทั่วไปต่างๆ ให้คุณโดยอัตโนมัติ ดาวน์โหลดและเรียกใช้ **[Microsoft ตัวช่วยการสนับสนุนและการกู้คืน](https://aka.ms/SaRA-OfficeSignInScenario)** เพื่อใช้เครื่องมืออัตโนมัติของเรา
 
-ถ้าคุณไม่สามารถลงชื่อเข้าใช้แอป Microsoft 365ให้ปฏิบัติตามขั้นตอนด้านล่าง:
+ถ้าคุณไม่สามารถลงชื่อเข้าใช้แอปMicrosoft 365 ให้ปฏิบัติตามขั้นตอนด้านล่าง:
 
 1. เปิดแอป Office[และ ลงชื่อ](https://go.microsoft.com/fwlink/?linkid=2114082)ออกจากบัญชีผู้ใช้ใดๆ ที่มีอยู่
 
-2. ใช้ **Windowsการตั้งค่า >บัญชี>อีเมล& ลบ** บัญชีที่งานเก่าหรือไม่ได้ใช้ออก
+2. การใช้ **Windowsการตั้งค่า >บัญชี>บัญชีอีเมล& ลบ** บัญชีที่งานเก่าหรือไม่ได้ใช้ออก
 
-3. การใช้ **Windowsการตั้งค่า >ที่>หรือโรงเรียน** ของ Access ยกเลิกการเชื่อมต่อบัญชีที่งานเก่าหรือไม่ได้ใช้
+3. การใช้ **Windowsการตั้งค่า >กับบัญชี >หรือโรงเรียน** ของ Access ยกเลิกการเชื่อมต่อบัญชีที่งานเก่าหรือไม่ได้ใช้
 
-4. [รีเซ็ตOfficeสถานะการเปิดใช้งาน](/office365/troubleshoot/activation/reset-office-365-proplus-activation-state)[ใหม่ แล้วลงชื่อเข้าใช้Office](https://support.office.com/article/sign-in-to-office-b9582171-fd1f-4284-9846-bdd72bb28426)แอปของคุณโดยใช้บัญชีใหม่
+4. [รีเซ็ตOfficeสถานะ](https://docs.microsoft.com/office365/troubleshoot/activation/reset-office-365-proplus-activation-state)การเปิดใช้งาน[ใหม่ แล้วลงชื่อเข้าใช้Office](https://support.office.com/article/sign-in-to-office-b9582171-fd1f-4284-9846-bdd72bb28426)แอปของคุณโดยใช้บัญชีใหม่
 
 For additional troubleshooting actions, see [A subscription notice appears when I open an Office 365 application](https://support.office.com/article/a-subscription-notice-appears-when-i-open-an-office-365-application-4cabe32c-f594-4c0e-9191-3d3ade10cceb).

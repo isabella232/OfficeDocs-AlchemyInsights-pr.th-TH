@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002495"
 - "4834"
-ms.openlocfilehash: 6c51e3a53f89489ffd25a2c222055be1eff5f23c
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 646fcb992ce43666bdf89c5de09924b736a2a8e19eab1771fb6b320b22310eb6
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51816075"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54080405"
 ---
 # <a name="create-and-run-live-events-in-yammer"></a>สร้างและเรียกใช้เหตุการณ์สดใน Yammer
 
-**เกี่ยวกับเหตุการณ์สดใน Yammer**
+**เกี่ยวกับเหตุการณ์สดYammer**
 
-ผู้ดูแลระบบกลุ่ม Yammer สามารถ [โฮสต์เหตุการณ์วิดีโอสดรวมถึงการสนทนา Yammer](https://docs.microsoft.com/yammer/manage-yammer-groups/yammer-live-events) ทั้งก่อน ระหว่าง และหลังเหตุการณ์ สามารถจัดเวลาเหตุการณ์สดได้โดยผู้ดูแลระบบของกลุ่มของกลุ่มที่เชื่อมต่อใน Yammer เหตุการณ์เหล่านี้สามารถผลิตได้โดยใช้ Microsoft Teams จากคอมพิวเตอร์ หรือตัวเข้ารหัสภายนอกหากใช้การตั้งค่า A/V แบบมืออาชีพ
+Yammerสามารถ[โฮสต์เหตุการณ์ทางวิดีโอสดรวมถึงYammerการสนทนา](https://docs.microsoft.com/yammer/manage-yammer-groups/yammer-live-events)ทั้งก่อน ระหว่าง และหลังกิจกรรม สามารถจัดเวลาเหตุการณ์สดได้โดยผู้ดูแลระบบของกลุ่มของกลุ่มที่เชื่อมต่อYammer เหตุการณ์เหล่านี้สามารถผลิตได้โดยใช้ Microsoft Teams จากคอมพิวเตอร์ หรือตัวเข้ารหัสภายนอก ถ้าใช้การตั้งค่า A/V แบบมืออาชีพ
 
 **รับความช่วยเหลือพิเศษเพื่อเตรียมพร้อมเหตุการณ์ที่จะเกิดขึ้น**
 
@@ -32,7 +32,7 @@ ms.locfileid: "51816075"
 **บทความและทรัพยากรเพิ่มเติม**
 
 - [ถามที่ถามบ่อยเกี่ยวกับเหตุการณ์สด](https://support.office.com/article/43bbd59d-a734-4c8f-923d-6a239d137d34)
-- [ผลักดันการมีส่วนร่วมในเหตุการณ์สดของ Yammer](https://support.office.com/article/drive-engagement-in-a-yammer-live-event-c0244ad8-6dcb-419c-add9-2e4a00543412?ui=en-US&rs=en-US&ad=US)
-- [Yammer และกลุ่ม Office 365](https://docs.microsoft.com/yammer/manage-yammer-groups/yammer-and-office-365-groups) (ข้อเบื้องต้นที่สําคัญในเหตุการณ์สดใน Yammer)
-- [วิธีการโฮสต์เหตุการณ์สดใน Playbook ของ Yammer](https://aka.ms/LiveEventsinYammerplaybook)
+- [ผลักดันการมีส่วนร่วมในYammerสด](https://support.office.com/article/drive-engagement-in-a-yammer-live-event-c0244ad8-6dcb-419c-add9-2e4a00543412?ui=en-US&rs=en-US&ad=US)
+- [YammerและOffice 365แบบกลุ่ม](https://docs.microsoft.com/yammer/manage-yammer-groups/yammer-and-office-365-groups)(ข้อเบื้องต้นที่สําคัญของเหตุการณ์สดใน Yammer)
+- [วิธีการโฮสต์กิจกรรมสดใน Yammerหนังสือเล่น](https://aka.ms/LiveEventsinYammerplaybook)
 - [แหล่งข้อมูลและเทมเพลตของเหตุการณ์สดของคุณ](https://aka.ms/LiveEventYammerTemplates)
