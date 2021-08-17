@@ -1,5 +1,5 @@
 ---
-title: การแชร์หน้าจอไม่ทำงานในทีม
+title: การแชร์หน้าจอไม่Teams
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,21 +13,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003304"
 - "6207"
-ms.openlocfilehash: 6412791dbd2c9a4c604c114574a00c9b80dfd332
-ms.sourcegitcommit: fbe6925797cab0b38172386f1b059dc122e452a4
+ms.openlocfilehash: bee7d313ccb56aad7ccdd5d20a55a843f069cdaa01c23e763a253c54a2ad55ce
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 09/25/2020
-ms.locfileid: "48277868"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54109115"
 ---
-# <a name="screen-sharing-not-working-in-teams"></a>การแชร์หน้าจอไม่ทำงานในทีม
+# <a name="screen-sharing-not-working-in-teams"></a>การแชร์หน้าจอไม่Teams
 
-การแชร์หน้าจอไม่ทำงานในสถานการณ์เหล่านี้:
+การแชร์หน้าจอไม่ใช้งานในสถานการณ์เหล่านี้:
 
-- ผู้ใช้อยู่ในทีมบนเว็บ ผู้ใช้ควรสลับไปยังทีมเวอร์ชันที่ติดตั้งไว้
-- การแชร์หน้าจอถูกปิดใช้งานบนอุปกรณ์ Mac เมื่อต้องการเปิดใช้งานให้ดูที่[แชร์เนื้อหาบน Mac](https://support.microsoft.com/office/fcc2bf59-aecd-4481-8f99-ce55dd836ce8#bkmk_sharecontentonmac)
-- การแชร์หน้าจอของผู้ดูแลระบบทีมที่ถูกบล็อก ดูผู้ดูแลระบบทีมของคุณถ้ากรณีนี้อาจเป็นกรณีนี้  
+- ผู้ใช้Teamsอยู่ในเว็บ ผู้ใช้ควรสลับไปยังเวอร์ชันTeamsติดตั้ง
+- การแชร์หน้าจอถูกปิดใช้งานบนอุปกรณ์ Mac เมื่อต้องการเปิดใช้งาน ให้ดู[แชร์เนื้อหาบน Mac](https://support.microsoft.com/office/fcc2bf59-aecd-4481-8f99-ce55dd836ce8#bkmk_sharecontentonmac)
+- Teamsการแชร์หน้าจอที่ถูกบล็อกโดยผู้ดูแลระบบ ดูTeamsผู้ดูแลระบบของคุณ ถ้าเป็นกรณีนี้  
 
-เมื่อต้องการแชร์เสียงกับผู้เข้าร่วมประชุมให้เลือก  **รวมเสียงคอมพิวเตอร์**  ในตัวควบคุมการแชร์ใกล้กับด้านบนของหน้าต่าง
+เมื่อต้องการแชร์เสียงกับผู้เข้าร่วมประชุม ให้เลือก  **รวมเสียง**  คอมพิวเตอร์ ในตัวควบคุมการแชร์ใกล้กับด้านบนของหน้าต่าง
 
-สำหรับข้อมูลเพิ่มเติมให้ดูที่[แชร์เนื้อหาในการประชุมในทีม](https://support.microsoft.com/office/fcc2bf59-aecd-4481-8f99-ce55dd836ce8)
+For more information, see [Share content in a meeting in Teams](https://support.microsoft.com/office/fcc2bf59-aecd-4481-8f99-ce55dd836ce8).

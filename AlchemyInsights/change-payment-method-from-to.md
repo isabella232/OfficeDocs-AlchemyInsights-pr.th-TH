@@ -14,18 +14,18 @@ ms.custom:
 - commerce_billing
 - "9002612"
 - "5073"
-ms.openlocfilehash: c793ed6b7281a558a7a4ce0aa1a3fa432ba4863c7c473e3ec47d980d67c28b7b
-ms.sourcegitcommit: d71b18e1403859fbfc45ddd9a57c8ab68f4d9f96
+ms.openlocfilehash: 0a160b0caba0098ce678872ae54df7b6ad69e78cba4eac85ac15567f2e75a8c7
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54503959"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57891550"
 ---
 # <a name="change-payment-method-fromto"></a>เปลี่ยนวิธีการเงินจาก/เป็น
 
 1. **เปลี่ยนจากใบแจ้งหนี้เป็นบัตรเครดิตหรือบัญชีธนาคาร**
 
-    - คุณไม่สามารถเปลี่ยนจากการจ่ายเงินตามใบแจ้งหนี้เป็นการจ่ายด้วยวิธีการเงินแบบอื่นได้โดยอัตโนมัติ แต่คุณต้อง[ซื้อการสมัครใช้งานอื่น](/microsoft-365/commerce/try-or-buy-microsoft-365#buy-a-different-subscription)ที่ชําระเงินด้วยบัตรเครดิตหรือบัตรเดบิตหรือบัญชีธนาคาร ย้ายผู้ใช้ทั้งหมดไปยังการสมัครใช้งาน[](/microsoft-365/commerce/subscriptions/move-users-different-subscription)ใหม่[แล้วยกเลิกการสมัครใช้งาน](/microsoft-365/commerce/subscriptions/cancel-your-subscription)เก่า
+    - คุณไม่สามารถเปลี่ยนจากการจ่ายเงินตามใบแจ้งหนี้เป็นการจ่ายด้วยวิธีการเงินแบบอื่นได้โดยอัตโนมัติ แต่คุณต้อง[ซื้อการสมัครใช้งานอื่น](https://docs.microsoft.com/microsoft-365/commerce/try-or-buy-microsoft-365#buy-a-different-subscription)ที่ชําระเงินด้วยบัตรเครดิตหรือบัตรเดบิตหรือบัญชีธนาคาร ย้ายผู้ใช้ทั้งหมดไปยังการสมัครใช้งาน[](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/move-users-different-subscription)ใหม่[แล้วยกเลิกการสมัครใช้งาน](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription)เก่า
 
 2. **เปลี่ยนจากบัตรเครดิตหรือบัญชีธนาคารเป็นใบแจ้งหนี้**
 
@@ -35,4 +35,4 @@ ms.locfileid: "54503959"
 
     - Follow the steps in [How do I change from credit card payments to invoice?](how-do-i-change-from-credit-card-payments-to-invoice.md) to complete the manual change.
 
-หากต้องการข้อมูลเพิ่มเติม โปรดดู [วิธีการซื้อการสมัครใช้งาน](/microsoft-365/commerce/billing-and-payments/pay-for-your-subscription)ของคุณ
+หากต้องการข้อมูลเพิ่มเติม โปรดดู [วิธีการซื้อการสมัครใช้งาน](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/pay-for-your-subscription)ของคุณ
