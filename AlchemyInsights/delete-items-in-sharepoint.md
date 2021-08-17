@@ -1,5 +1,5 @@
 ---
-title: ลบรายการใน SharePoint
+title: ลบรายการในSharePoint
 ms.author: pebaum
 author: bentoncity
 manager: scotv
@@ -12,22 +12,22 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: af5691d7-a55f-4ece-90c8-d6aaece66b1c
-ms.openlocfilehash: 5899ba06d0da6141502c09fee1ce0d9c7aad38d9
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 8318327bd9bea5de4e9e90709ce0f6ce9b060d6f88692f6e25921d863931c2e7
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47745986"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54102662"
 ---
-# <a name="delete-items-in-sharepoint"></a>ลบรายการใน SharePoint
+# <a name="delete-items-in-sharepoint"></a>ลบรายการในSharePoint
 
 [ลบรายการ](https://go.microsoft.com/fwlink/?linkid=869393)
   
 [ลบไลบรารีเอกสาร](https://go.microsoft.com/fwlink/?linkid=869392)
   
-[การลบรายการออกจากรายการ](https://go.microsoft.com/fwlink/?linkid=869397)
+[ลบข้อมูลออกจากรายการ](https://go.microsoft.com/fwlink/?linkid=869397)
   
-[ลบรายการจากไลบรารีเอกสาร](https://go.microsoft.com/fwlink/?linkid=869399)
+[ลบรายการออกจากไลบรารีเอกสาร](https://go.microsoft.com/fwlink/?linkid=869399)
   
 [ลบคอลัมน์บนหน้า](https://go.microsoft.com/fwlink/?linkid=869394)
   

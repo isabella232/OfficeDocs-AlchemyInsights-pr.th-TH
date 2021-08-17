@@ -1,5 +1,5 @@
 ---
-title: ดูรายงานเกี่ยวกับกิจกรรมและการใช้งาน OneDrive
+title: ดูรายงานเกี่ยวกับOneDriveการใช้งานและกิจกรรม
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "5300020"
 - "7972"
-ms.openlocfilehash: 7f37a4061b9d958c68157281ea65035112bdf618
-ms.sourcegitcommit: 029c4697b77ce996d41ca74c4fa86de1bb84bd99
+ms.openlocfilehash: b835fb60c57c51b57b59d6d4bd0d1879f20c2b949d16619a5dcb924d4d66e194
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 01/25/2021
-ms.locfileid: "49974924"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54037339"
 ---
-# <a name="view-reports-on-onedrive-activity-and-usage"></a>ดูรายงานเกี่ยวกับกิจกรรมและการใช้งาน OneDrive
+# <a name="view-reports-on-onedrive-activity-and-usage"></a>ดูรายงานเกี่ยวกับOneDriveการใช้งานและกิจกรรม
 
-ไปที่[หน้ารายงานการใช้งานในศูนย์การจัดการ Microsoft ๓๖๕](https://admin.microsoft.com/AdminPortal/Home) ภายใต้ **เลือกรายงาน** ให้เลือกกิจกรรม OneDrive หรือรายงานการใช้งาน
+ไปที่หน้า[รายงานการใช้งาน ศูนย์การจัดการ Microsoft 365](https://admin.microsoft.com/AdminPortal/Home) ภายใต้ **เลือกรายงาน** ให้เลือกOneDriveกิจกรรมหรือรายงานการใช้งาน
 
-สำหรับข้อมูลเพิ่มเติมให้ดูที่[เกี่ยวกับรายงานของ OneDrive](https://go.microsoft.com/fwlink/?linkid=875239)
+ดูข้อมูลเพิ่มเติมในรายงาน[OneDrive](https://go.microsoft.com/fwlink/?linkid=875239)รายงาน

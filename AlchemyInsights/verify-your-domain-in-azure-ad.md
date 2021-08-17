@@ -1,5 +1,5 @@
 ---
-title: ยืนยันโดเมนของคุณใน Azure AD
+title: ยืนยันโดเมนใน Azure AD
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,13 +13,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "6113"
 - "9003233"
-ms.openlocfilehash: d8934aa3cc077a17acd7a0c0fc93a69492de89e5
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 68815f4623d10b3b3eb187d2adaa9cb43d8af0a14f03c78e88ef6ebb52ed586d
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47796559"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54072899"
 ---
-# <a name="verify-your-domain-in-azure-ad"></a>ยืนยันโดเมนของคุณใน Azure AD
+# <a name="verify-your-domain-in-azure-ad"></a>ยืนยันโดเมนใน Azure AD
 
-เมื่อต้องการตรวจสอบชื่อโดเมนของคุณหลังจากที่คุณลงทะเบียนใน Azure AD ให้ดูที่[ตรวจสอบชื่อโดเมนแบบกำหนดเองของคุณ](https://docs.microsoft.com/azure/active-directory/fundamentals/add-custom-domain#verify-your-custom-domain-name)
+เมื่อต้องการยืนยันชื่อโดเมนของคุณหลังจากที่คุณลงทะเบียนใน Azure AD ให้ดู [ยืนยันชื่อโดเมนแบบปรับแต่ง](https://docs.microsoft.com/azure/active-directory/fundamentals/add-custom-domain#verify-your-custom-domain-name)เองของคุณ
