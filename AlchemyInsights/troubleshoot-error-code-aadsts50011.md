@@ -1,5 +1,5 @@
 ---
-title: การแก้ไขปัญหารหัสข้อผิดพลาด AADSTS50011
+title: แก้ไขปัญหารหัสข้อผิดพลาด AADSTS50011
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -13,17 +13,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9802"
 - "9005744"
-ms.openlocfilehash: 6acf0ce3615669babd1a912ffd782b3750b93500
-ms.sourcegitcommit: 1d73771d147325cfd8578e6816becd8331913890
+ms.openlocfilehash: f808422833b5bcd5b7179d4427af26a634e19e02b6c7116027a2d10eb474bb91
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 03/19/2021
-ms.locfileid: "51038061"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54048535"
 ---
-# <a name="troubleshoot-error-code-aadsts50011"></a>การแก้ไขปัญหารหัสข้อผิดพลาด AADSTS50011
+# <a name="troubleshoot-error-code-aadsts50011"></a>แก้ไขปัญหารหัสข้อผิดพลาด AADSTS50011
 
-เมื่อต้องการแก้ไขข้อผิดพลาด AADSTS50011 ให้ปฏิบัติตามขั้นตอนที่แนะนาตามที่อธิบายไว้ด้านล่าง
+เมื่อต้องการแก้ไขข้อผิดพลาด AADSTS50011 ให้ปฏิบัติตามขั้นตอนที่แนะนาที่อธิบายไว้ด้านล่าง
 
-**AADSTS50011**: InvalidReplyTo - ที่อยู่ตอบกลับหายไป ถูกกําหนดค่าไม่ถูกต้อง หรือไม่ตรงกับที่อยู่ตอบกลับที่กําหนดค่าไว้ของแอป
+**AADSTS50011**: InvalidReplyTo - ที่อยู่ตอบกลับหายไป กําหนดค่าไม่ถูกต้อง หรือไม่ตรงกับที่อยู่ตอบกลับที่กําหนดค่าไว้ของแอป
 
-ในฐานะที่เป็นวิธีการตรวจสอบให้แน่ใจในการเพิ่มที่อยู่ตอบกลับที่หายไปนี้ไปยังแอป Azure Active Directory (AD) หรือให้ผู้ที่มีสิทธิ์ในการจัดการแอปพลิเคชันใน AD สามารถจัดการให้คุณ For more information, see the troubleshooting article for error [AADSTS50011](https://docs.microsoft.com/troubleshoot/azure/active-directory/error-code-aadsts50011-reply-url-mismatch).
+เพื่อให้แน่ใจได้เพิ่มที่อยู่ตอบกลับที่หายไปนี้ไปยังแอป Azure Active Directory (AD) หรือมีผู้ที่มีสิทธิ์ในการจัดการแอปพลิเคชันใน AD สามารถจัดการให้คุณ For more information, see the troubleshooting article for error [AADSTS50011](https://docs.microsoft.com/troubleshoot/azure/active-directory/error-code-aadsts50011-reply-url-mismatch).

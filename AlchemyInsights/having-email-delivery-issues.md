@@ -1,5 +1,5 @@
 ---
-title: มีปัญหาในการส่งอีเมลหรือไม่
+title: พบปัญหาการส่งอีเมลหรือไม่
 ms.author: pebaum
 author: CrystalThomasMS
 ms.date: 04/21/2020
@@ -9,21 +9,21 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: 6a7bc2f3-7d03-4c6f-b15f-cc7e89d92102
-ms.openlocfilehash: d38fc6b79092e82ec0e4d5bec87ab1ad477d5903
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 38fafde0a892fbdd9e657a395d933e806beac08d328a7cf86b006e53975e7a52
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47705750"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54078677"
 ---
-# <a name="having-email-delivery-issues"></a>มีปัญหาในการส่งอีเมลหรือไม่
+# <a name="having-email-delivery-issues"></a>พบปัญหาการส่งอีเมลหรือไม่
 
-เราตรวจพบว่าผู้ใช้ของคุณไม่สามารถรับอีเมลที่ส่งไปยังโดเมนต่อไปนี้:
+เราตรวจพบว่าผู้ใช้ของคุณไม่สามารถรับอีเมลที่ส่งไปยังโดเมนต่อไปนี้ได้:
   
 {HealthCheckString}
   
-ระเบียน NS หรือ MX ของการตั้งค่าโดเมน (DNS) ไม่ได้รับการกำหนดค่าอย่างถูกต้องสำหรับการส่งอีเมลไปยัง Microsoft คุณสามารถอ้างอิงไปยัง [สร้างระเบียน dns ที่ผู้ให้บริการโฮสต์ dns ใดก็](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider) ได้สำหรับคำแนะนำโดยละเอียด 
+ระเบียน NS หรือ MX ของการตั้งค่าโดเมน (DNS) ไม่ได้ถูกกําหนดค่าไว้อย่างถูกต้องเพื่อให้ส่งอีเมลไปยังไมโครซอฟท์ คุณสามารถดูสร้างระเบียน [DNS ที่ผู้ให้บริการโฮสต์ DNS ใดๆ เพื่อดู](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider) คําแนะนําโดยละเอียด 
   
-เมื่อต้องการแก้ไขปัญหาโปรดไปที่หน้า [โดเมน](https://admin.microsoft.com/adminportal/home#/Domains) ในศูนย์การจัดการ Microsoft ๓๖๕และเราจะช่วยคุณได้ 
+เมื่อต้องการแก้ไข โปรดไปที่[หน้า โดเมน](https://admin.microsoft.com/adminportal/home#/Domains)ศูนย์การจัดการ Microsoft 365โดเมน และเราจะช่วยคุณแก้ไขปัญหา 
 
 

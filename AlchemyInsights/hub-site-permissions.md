@@ -13,16 +13,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "6871"
 - "5300012"
-ms.openlocfilehash: 7c59df81f99084d0388e1683afef17781966090d
-ms.sourcegitcommit: f8b41ecda6db0b8f64fe0c51f1e8e6619f504d61
+ms.openlocfilehash: 281d4b4d878e5c128e27ef2f586521d7d81744e5a43c88ceef52c6aceeabf0a0
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 10/28/2020
-ms.locfileid: "48808420"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54078317"
 ---
 # <a name="hub-site-permissions"></a>สิทธิ์ของไซต์ฮับ
 
-การจัดการสิทธิ์ของไซต์ฮับจะขึ้นอยู่กับชนิดของไซต์ที่อยู่ภายใต้ ถ้าไซต์เป็นไซต์ทีมที่เชื่อมต่อกับกลุ่มแล้วคุณควรจัดการสิทธิ์ผ่านกลุ่ม Microsoft ๓๖๕ ถ้าเป็นไซต์การติดต่อสื่อสารคุณควรจัดการสิทธิ์ผ่านกลุ่ม SharePoint
+การจัดการสิทธิ์ของไซต์ฮับจะขึ้นอยู่กับชนิดไซต์ที่มีอยู่ ถ้าไซต์เป็นไซต์ทีมที่เชื่อมต่อกับกลุ่ม คุณควรจัดการสิทธิ์Microsoft 365กลุ่ม ถ้าเป็นไซต์การติดต่อสื่อสาร คุณควรจัดการสิทธิ์ผ่านSharePointกลุ่ม
 
 - [สิทธิ์ของไซต์ฮับ](https://docs.microsoft.com/sharepoint/modern-experience-sharing-permissions#hub-site-permissions)  
-- [ไซต์ฮับการวางแผน](https://docs.microsoft.com/sharepoint/planning-hub-sites)
+- [การวางแผนไซต์ฮับ](https://docs.microsoft.com/sharepoint/planning-hub-sites)
