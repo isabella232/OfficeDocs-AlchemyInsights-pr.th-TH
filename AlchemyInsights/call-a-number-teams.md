@@ -1,5 +1,5 @@
 ---
-title: โทรหาหมายเลขโทรศัพท์ในทีม
+title: โทรหาหมายเลขโทรศัพท์ในTeams
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,17 +12,17 @@ localization_priority: Normal
 ms.custom:
 - "6661"
 - "9003561"
-ms.openlocfilehash: 2ee43145f8ff5e23a02167a3d758b24153878374
-ms.sourcegitcommit: 9a39e7cff11854c54c717a2c0094bfdfefee4ffd
+ms.openlocfilehash: 75b5d22db01020281697f38d0b7f021f8a280c3389a9e61e1b69d9b002cb8d6e
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 10/01/2020
-ms.locfileid: "48365103"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54046051"
 ---
-# <a name="call-a-phone-number-in-teams"></a>โทรหาหมายเลขโทรศัพท์ในทีม
+# <a name="call-a-phone-number-in-teams"></a>โทรหาหมายเลขโทรศัพท์ในTeams
 
-ไปที่การ  **โทร**ให้เลือก  **โทรหมายเลข**แล้วใช้แป้นกดหมายเลขเพื่อใส่ตัวเลข จากนั้นคลิก**โทร**
+ไปที่  **การโทร** เลือก  **เรียกเลขหมาย** และใช้แป้นกดหมายเลขเพื่อใส่หมายเลข **จากนั้นคลิก** โทร
 
-ถ้าคุณไม่เห็นตัวเลือกในการโทรไปยังหมายเลของค์กรของคุณอาจไม่ได้ซื้อแผนการโทร แต่คุณยังสามารถโทรไปยังบุคคลอื่นในทีมได้  
+ถ้าคุณไม่เห็นตัวเลือกให้เรียกเลขหมาย แผนผังของคุณอาจไม่ได้ซื้อแผนการโทร แต่คุณยังคงสามารถโทรออกไปยังบุคคลอื่นในTeamsได้  
 
-สำหรับข้อมูลเพิ่มเติมให้ดู[ที่โทรหาหมายเลขโทรศัพท์จากทีม](https://support.microsoft.com/office/20d24ace-2851-4c29-8441-30dd2a5cf078)
+หากต้องการข้อมูลเพิ่มเติม โปรดดู[โทรหาหมายเลขโทรศัพท์Teams](https://support.microsoft.com/office/20d24ace-2851-4c29-8441-30dd2a5cf078)หมายเลขโทรศัพท์
