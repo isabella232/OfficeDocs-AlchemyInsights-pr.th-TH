@@ -1,5 +1,5 @@
 ---
-title: ใช้ Microsoft Intune เพื่อปรับใช้ Microsoft Edge ไปยังอุปกรณ์ macOS
+title: ใช้Microsoft Intuneเพื่อMicrosoft Edgeกับอุปกรณ์ macOS
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,15 +13,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003874"
 - "6927"
-ms.openlocfilehash: 4f367df110168260b0607e7747853767437adc37
-ms.sourcegitcommit: 2e4a5153e530bf15744a52e982eeb0d99757e9d2
+ms.openlocfilehash: 5a1ddaf841111f4be79ee0e2235c54ced4b0d49efad0110cc609441db5b20800
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 12/04/2020
-ms.locfileid: "49584051"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54104399"
 ---
-# <a name="use-microsoft-intune-to-deploy-microsoft-edge-to-a-macos-device"></a>ใช้ Microsoft Intune เพื่อปรับใช้ Microsoft Edge ไปยังอุปกรณ์ macOS
+# <a name="use-microsoft-intune-to-deploy-microsoft-edge-to-a-macos-device"></a>ใช้Microsoft Intuneเพื่อMicrosoft Edgeกับอุปกรณ์ macOS
 
-เมื่อต้องการปรับใช้การกำหนดค่าการตรวจสอบและป้องกันแอปบนอุปกรณ์ macOS คุณต้องเพิ่มแอปไปยัง Microsoft Intune แอปจะต้องเป็นชนิดที่ได้รับการสนับสนุนโดย Intune และตัวเลือกการจัดการที่พร้อมใช้งานใน Intune จะขึ้นอยู่กับชนิดของแอป การใช้ Intune ยังหมายความว่าคุณไม่จำเป็นต้องใช้เครื่องมือการตัดแอป macOS
+เมื่อต้องการปรับใช้ กําหนดค่า ตรวจสอบ และป้องกันแอปบนอุปกรณ์ macOS คุณต้องเพิ่มแอปMicrosoft Intuneแอป แอปต้องเป็นชนิดที่ได้รับการสนับสนุนโดย Intuned และตัวเลือกการจัดการที่พร้อมใช้งานใน Intuned จะขึ้นอยู่กับชนิดของแอป การใช้ Intun1 หมายความว่าคุณไม่ต้องใช้เครื่องมือการตัดแอปของ macOS
 
-Intune สนับสนุน Microsoft Edge เมื่อต้องการเรียนรู้เพิ่มเติมให้ดูที่[เพิ่ม Microsoft Edge ลงในอุปกรณ์ macOS โดยใช้ Microsoft Intune](https://go.microsoft.com/fwlink/?linkid=2134949)
+Intun Microsoft Edgeการสนับสนุน เมื่อต้องการเรียนรู้เพิ่มเติม ให้ดู[เพิ่มMicrosoft Edgeไปยังอุปกรณ์ macOS โดยใช้Microsoft Intune](https://go.microsoft.com/fwlink/?linkid=2134949)

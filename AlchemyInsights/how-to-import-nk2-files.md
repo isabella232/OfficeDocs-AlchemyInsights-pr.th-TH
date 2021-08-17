@@ -1,5 +1,5 @@
 ---
-title: วิธีการนำเข้า-nk2-ไฟล์
+title: how-to-import-nk2-files
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -14,28 +14,28 @@ ms.custom:
 - "1800027"
 - "1267"
 ms.assetid: ''
-ms.openlocfilehash: 6a823f6e0c4c46de64dd7b70fb40c76255d78ec1
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: f2b034926ec165b819119b5c4e060f10022d6017ec5dba8794d18ee3e96c709a
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47780078"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54043225"
 ---
-# <a name="how-to-import-nk2-files"></a>วิธีการนำเข้าไฟล์ nk2 
+# <a name="how-to-import-nk2-files"></a>วิธีการนําเข้าไฟล์ .nk2 
 
-เมื่อคุณเริ่ม Microsoft Outlook ๒๐๑๓, Outlook ๒๐๑๖, Outlook ๒๐๑๙หรือ Outlook for Microsoft ๓๖๕เป็นครั้งแรกแคชชื่อเล่นของคุณ (ที่เก็บไว้ในไฟล์ *profilename*) จะถูกนำเข้าไปยังข้อความที่ซ่อนอยู่ในที่เก็บข้อความเริ่มต้นของคุณ
+เมื่อคุณเริ่ม Microsoft Outlook 2013, Outlook 2016, Outlook 2019 หรือ Outlook for Microsoft 365 เป็นครั้งแรก แคชชื่อเล่นของคุณ (ที่เก็บไว้ในไฟล์ *profilename*.nk2) จะถูกนําเข้าลงในข้อความที่ซ่อนไว้ในที่เก็บข้อความเริ่มต้นของคุณ
 
-เมื่อต้องการนำเข้าไฟล์ nk2 ไปยัง Outlook ๒๐๑๓, Outlook ๒๐๑๖, Outlook ๒๐๑๙หรือ Outlook for Microsoft ๓๖๕ตรวจสอบให้แน่ใจว่าไฟล์ nk2 อยู่ในโฟลเดอร์ต่อไปนี้:%appdata%\Microsoft\Outlook
+เมื่อต้องการนําเข้าไฟล์ .nk2 ลงใน Outlook 2013, Outlook 2016, Outlook 2019 หรือ Outlook for Microsoft 365 ให้ตรวจสอบให้แน่ใจว่าไฟล์ .nk2 อยู่ในโฟลเดอร์ต่อไปนี้: %appdata%\Microsoft\Outlook
 
-**หมายเหตุ**: ไฟล์ nk2 ต้องมีชื่อเดียวกันกับโปรไฟล์ outlook ๒๐๑๓หรือ outlook ๒๐๑๖ปัจจุบันของคุณ ตามค่าเริ่มต้นชื่อโปรไฟล์คือ "Outlook" เมื่อต้องการตรวจสอบชื่อโปรไฟล์ให้ทำตามขั้นตอนต่อไปนี้: 
-1. คลิก**เริ่ม**แล้วคลิก**แผงควบคุม**
-2. คลิกสองครั้งที่**จดหมาย**
-3. ในกล่องโต้ตอบการตั้งค่าจดหมายให้เลือก**แสดงโปรไฟล์**
-4. เลือก**เริ่มต้น**  >  **เรียกใช้**
-5. ในกล่อง**เปิด**ให้พิมพ์*outlook.exe/Importnk2*แล้วเลือก**ตกลง** 
+**หมายเหตุ**: ไฟล์ .nk2 ต้องมีชื่อเดียวกันกับชื่อปัจจุบันOutlook 2013 หรือOutlook 2016ปัจจุบัน ตามค่าเริ่มต้น ชื่อโปรไฟล์คือ "Outlook" เมื่อต้องการตรวจสอบชื่อโปรไฟล์ ให้ปฏิบัติตามขั้นตอนเหล่านี้: 
+1. **คลิก** เริ่ม **แล้วคลิก** แผงควบคุม
+2. ดับเบิลคลิกที่ **จดหมาย**
+3. ในกล่องโต้ตอบ การตั้งค่าจดหมาย ให้เลือก **แสดง** โปรไฟล์
+4. เลือก  >  **เริ่ม** เรียกใช้
+5. ในกล่อง **เปิด** ให้พิมพ์outlook.exe */importnk2***แล้วเลือก** ตกลง 
 
-หลังจากที่คุณนำเข้าไฟล์ nk2 เนื้อหาของไฟล์จะถูกผสานเข้าไปในแคชชื่อเล่นที่มีอยู่แล้วในกล่องจดหมายของคุณ
+หลังจากที่คุณนําเข้าไฟล์ .nk2 เนื้อหาของไฟล์จะถูกผสานเข้ากับแคชชื่อเล่นที่มีอยู่ในกล่องจดหมายของคุณ
 
-**หมายเหตุ**: ไฟล์ nk2 ถูกเปลี่ยนชื่อด้วยนามสกุลของชื่อไฟล์ .old ในครั้งถัดไปที่คุณเริ่ม outlook ๒๐๑๓, outlook ๒๐๑๖, outlook ๒๐๑๙หรือ Outlook for Microsoft ๓๖๕ ถ้าต้องการนำเข้าไฟล์ nk2 อีกครั้งให้เอานามสกุลของชื่อไฟล์ .old ออกก่อน
+**หมายเหตุ**: ไฟล์ .nk2 จะถูกเปลี่ยนชื่อด้วยนามสกุลไฟล์ .old ในครั้งถัดไปที่คุณเริ่มOutlook 2013, Outlook 2016, Outlook 2019 หรือ Outlook for Microsoft 365 ถ้าคุณต้องการนําเข้าไฟล์ .nk2 อีกครั้ง ให้นํานามสกุลไฟล์ .old ออกก่อน
 
-สำหรับข้อมูลเพิ่มเติมให้ดู[ที่นำเข้าหรือคัดลอกรายการการทำให้สมบูรณ์อัตโนมัติไปยังคอมพิวเตอร์เครื่องอื่น](https://support.microsoft.com/help/2806550/how-to-import-nk2-files-into-outlook%)
+For more information, see [Import or copy the Auto-Complete List to another computer](https://support.microsoft.com/help/2806550/how-to-import-nk2-files-into-outlook%).

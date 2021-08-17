@@ -12,23 +12,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003554"
 - "6680"
-ms.openlocfilehash: 50a420bd938519c81a1f7fd234f8cdbb10f5855e6d7d69dd27e261ebc7e0c091
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 48c62896b4821ef45d47b582ed723a38403853c8
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53919688"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58304352"
 ---
 # <a name="understand-billing-amount"></a>เข้าใจจํานวนการเรียกเก็บเงิน
 
 **Customer Led (WD):**
 
 - เพื่อช่วยตรวจสอบและเข้าใจใบเรียกเก็บเงินของคุณ โปรดดู: บทช่วย [สอน: ตรวจทานใบเรียกเก็บเงิน Azure แต่ละรายการของคุณ](https://docs.microsoft.com/azure/cost-management-billing/understand/review-individual-bill?WT.mc_id=Portal-Microsoft_Azure_Support)
-- เข้าใจข้อเงื่อนไขในใบแจ้งหนี้ของคุณ: [อธิบายเงื่อนไขใบแจ้งหนี้ของ Azure](https://docs.microsoft.com/azure/cost-management-billing/understand/understand-invoice?WT.mc_id=Portal-Microsoft_Azure_Support)
+- เข้าใจข้อกนบนใบแจ้งหนี้ของคุณ: [อธิบายเงื่อนไขใบแจ้งหนี้ของ Azure](https://docs.microsoft.com/azure/cost-management-billing/understand/understand-invoice?WT.mc_id=Portal-Microsoft_Azure_Support)
 - เข้าใจข้อควรทราบเกี่ยวกับค่าธรรมเนียมการใช้งาน Azure: [อธิบายข้อตามเงื่อนไขการใช้งาน](https://docs.microsoft.com/azure/cost-management-billing/understand/understand-usage?WT.mc_id=Portal-Microsoft_Azure_Support)
 - เมื่อต้องการขอรับ PDF ของใบแจ้งหนี้ของคุณและสําเนาของไฟล์การใช้งานรายวันโดยละเอียดของคุณ (.CSV): [รับข้อมูลใบแจ้งหนี้และการใช้งาน](https://docs.microsoft.com/azure/billing/billing-download-azure-invoice-daily-usage-date?WT.mc_id=Portal-Microsoft_Azure_Support)
 
-**หมายเหตุ**: ถ้าคุณยกเลิกการสมัครใช้งาน/ทรัพยากรของคุณในช่วงกลางของรอบการเรียกเก็บเงิน คุณอาจยังคงเห็นค่าบริการที่ใช้ได้ในเดือนก่อนหน้า ตัวอย่างเช่น ถ้ารอบการเรียกเก็บเงินของคุณมาจากวันที่ 26 ของทุกเดือนจนถึงวันที่ 25 ของเดือนถัดไป & คุณได้ระงับการสมัครใช้งานในวันที่ 23 ซึ่งเป็น 28 วันในรอบการเรียกเก็บเงินของเดือนมิถุนายน คุณอาจเห็นค่าธรรมเนียมการใช้งาน 28 วัน ถ้าคุณเห็นค่าใช้จ่ายแม้ว่าจะมีการยกเลิกการสมัครใช้งาน โปรดตรวจสอบให้แน่ใจว่าคุณไม่มีแผนการสนับสนุนอื่นๆ ที่ทําให้เรียกเก็บเงิน หากเลือกแล้ว โปรดยกเลิกแผน
+**หมายเหตุ**: ถ้าคุณยกเลิกการสมัครใช้งาน/ทรัพยากรของคุณในช่วงกลางของรอบการเรียกเก็บเงิน คุณอาจยังคงเห็นค่าบริการที่ใช้ได้ในเดือนก่อนหน้า ตัวอย่างเช่น ถ้ารอบการเรียกเก็บเงินของคุณตั้งแต่วันที่ 26 ของทุกเดือนถึงวันที่ 25 ของเดือนถัดไป & คุณระงับการสมัครใช้งานในช่วง 23 ซึ่งเป็น 28 วันในรอบการเรียกเก็บเงินของเดือนมิถุนายน คุณอาจเห็นการเรียกเก็บเงินตามระยะเวลาการใช้งาน 28 วัน ถ้าคุณเห็นค่าใช้จ่ายแม้ว่าจะมีการยกเลิกการสมัครใช้งาน โปรดตรวจสอบให้แน่ใจว่าคุณไม่มีแผนการสนับสนุนอื่นๆ ที่ทําให้เรียกเก็บเงิน หากเลือกแล้ว โปรดยกเลิกแผน
 
 **ข้อตกลงของลูกค้า Microsoft (MCA):**
 
@@ -36,7 +36,7 @@ ms.locfileid: "53919688"
 
 - เพื่อช่วยตรวจสอบและเข้าใจใบเรียกเก็บเงินของคุณ โปรดดู: บทช่วยสอน [: ตรวจทานใบแจ้งหนี้ข้อตกลงของลูกค้า Microsoft ของคุณ](https://docs.microsoft.com/azure/cost-management-billing/understand/review-customer-agreement-bill?WT.mc_id=Portal-Microsoft_Azure_Support)
 - เข้าใจเงื่อนไขในใบแจ้งหนี้ของคุณ: อธิบาย [เงื่อนไขใบแจ้งหนี้ของข้อตกลงของลูกค้า Microsoft](https://docs.microsoft.com/azure/cost-management-billing/understand/mca-understand-your-invoice?WT.mc_id=Portal-Microsoft_Azure_Support)
-- เข้าใจข้อตกลงเกี่ยวกับค่าธรรมเนียมการใช้งาน Azure: [อธิบายข้อตกลงการใช้งานของลูกค้า Microsoft](https://docs.microsoft.com/azure/cost-management-billing/understand/mca-understand-your-usage?WT.mc_id=Portal-Microsoft_Azure_Support)
+- เข้าใจข้อตกลงเกี่ยวกับค่าธรรมเนียมการใช้งาน [Azure: อธิบายข้อตกลงการใช้งานของลูกค้า Microsoft](https://docs.microsoft.com/azure/cost-management-billing/understand/mca-understand-your-usage?WT.mc_id=Portal-Microsoft_Azure_Support)
 - หากคุณมี ข้อตกลงของลูกค้า[Microsoft คุณสามารถ](https://docs.microsoft.com/azure/cost-management-billing/manage/download-azure-invoice-daily-usage-date?WT.mc_id=Portal-Microsoft_Azure_Support#check-access-to-a-microsoft-customer-agreement)ดาวน์โหลดการใช้งานในพอร์ทัล[Azure](https://portal.azure.com/)
 
 **ข้อตกลงคู่ค้าของ Microsoft (MPA):**
@@ -46,7 +46,7 @@ ms.locfileid: "53919688"
 
 **Enterprise Agreement (EA)**
 
-- เพื่อช่วยตรวจสอบและเข้าใจใบเรียกเก็บเงินของคุณ โปรดดู:[เข้าใจใบเรียกเก็บเงิน Azure Enterprise Agreementของคุณ](https://docs.microsoft.com/azure/cost-management-billing/understand/review-enterprise-agreement-bill?WT.mc_id=Portal-Microsoft_Azure_Support)
+- เพื่อช่วยตรวจสอบและเข้าใจใบเรียกเก็บเงินของคุณ โปรดดู: เข้าใจใบ[เรียกเก็บเงิน Azure Enterprise Agreementของคุณ](https://docs.microsoft.com/azure/cost-management-billing/understand/review-enterprise-agreement-bill?WT.mc_id=Portal-Microsoft_Azure_Support)
 - ถ้าคุณเป็นลูกค้า Azure ที่มีบัญชี Enterprise Agreement (ลูกค้า EA) คุณไม่สามารถดาวน์โหลดใบแจ้งหนี้ขององค์กรของคุณได้ ใบแจ้งหนี้จะถูกส่งไปยังใครก็ตามที่ถูกตั้งค่าให้รับใบแจ้งหนี้ในการลงทะเบียน คุณสามารถดาวน์โหลดการใช้งานใน[พอร์ทัล Azure](https://portal.azure.com/)
 
 ตรวจสอบใบแจ้งหนี้ค่าบริการที่เกินจากบริการ:
@@ -54,7 +54,7 @@ ms.locfileid: "53919688"
 - ลงชื่อเข้าใช้ **พอร์ทัล** องค์กร **เลือก รายงาน**
 - ที่มุมขวาบนของแท็บ ให้สลับมุมมองจาก **M** เป็น **C** และจับคู่ช่วงเวลาบนใบแจ้งหนี้
 - จํานวนการใช้งาน **รวม** ควรตรงกับยอดเงิน **รวมที่ขยาย** เวลาในใบแจ้งหนี้ค่าบริการเกินจํานวนของคุณ
-- ไปที่ **ดาวน์โหลด> ดาวน์โหลด** รายงานขั้นสูง เพื่อรับข้อมูลเพิ่มเติมเกี่ยวกับค่าธรรมเนียม **ของคุณ หมายเหตุ**: รายงานนี้ไม่รวมภาษี ค่าธรรมเนียมในการจอง หรือค่าธรรมเนียม Marketplace
+- ไปที่ **ดาวน์โหลด>ดาวน์โหลด** รายงานขั้นสูง เพื่อรับข้อมูลเพิ่มเติมเกี่ยวกับค่าธรรมเนียมของคุณ **หมายเหตุ**: รายงานนี้ไม่รวมภาษี ค่าธรรมเนียมในการจอง หรือค่าธรรมเนียม Marketplace
 
 **Azure Marketplace**
 
@@ -67,11 +67,13 @@ ms.locfileid: "53919688"
 - ลงชื่อเข้าใช้ **พอร์ทัล** องค์กร **เลือก รายงาน**
 - ที่มุมขวาบนของแท็บ ให้สลับมุมมองจาก **M** เป็น **C** และจับคู่ช่วงเวลาบนใบแจ้งหนี้
 - ผลรวม **Azure Marketplace** ควรตรงกับ **ยอดขายรวม** บนใบแจ้งหนี้ Marketplace ของคุณ
-- ไปที่ **ดาวน์โหลด** การใช้งาน เพื่อรับข้อมูลเพิ่มเติมเกี่ยวกับค่าใช้จ่ายตามการใช้งาน ภายใต้ **ค่าบริการ Marketplace** ให้เลือก **ดาวน์โหลด****หมายเหตุ**: รายงานนี้ไม่มีภาษีหรือแสดงการซื้อแบบซื้อครั้งแรก
+- ไปที่ **ดาวน์โหลด** การใช้งาน เพื่อรับข้อมูลเพิ่มเติมเกี่ยวกับค่าใช้จ่ายตามการใช้งาน ภายใต้ **ค่าบริการ Marketplace** ให้เลือก **ดาวน์โหลด** 
+
+**หมายเหตุ**: รายงานนี้ไม่รวมภาษีหรือแสดงแบบซื้อเลย
 
 **Cloud Solution Provider (CSP)**
 
-- เรียนรู้เพิ่มเติมเกี่ยวกับวิธีการการเรียกเก็บงานในโปรแกรม Azure Cloud Solution Provider (Azure CSP):[การเรียกเก็บเงิน Azure CSP](https://docs.microsoft.com/azure/cloud-solution-provider/billing/azure-csp-billing-overview?WT.mc_id=Portal-Microsoft_Azure_Support)
+- เรียนรู้เพิ่มเติมเกี่ยวกับวิธีการใช้การเรียกเก็บเงินในโปรแกรม Azure Cloud Solution Provider (Azure CSP): การเรียกเก็บเงิน[Azure CSP](https://docs.microsoft.com/azure/cloud-solution-provider/billing/azure-csp-billing-overview?WT.mc_id=Portal-Microsoft_Azure_Support)
 - เรียนรู้เกี่ยวกับการอ่านและความเข้าใจใบเรียกเก็บเงิน CSP ของคุณ: [ใบแจ้งหนี้ Azure CSP](https://docs.microsoft.com/azure/cloud-solution-provider/billing/azure-csp-invoice?WT.mc_id=Portal-Microsoft_Azure_Support)
 
 **เอกสารที่แนะนา**

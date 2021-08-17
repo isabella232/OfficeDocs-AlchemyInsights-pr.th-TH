@@ -1,5 +1,5 @@
 ---
-title: ที่เก็บข้อมูล OneDrive
+title: OneDriveเก็บข้อมูล
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -15,17 +15,17 @@ ms.custom:
 - "2398"
 - "9000354"
 ms.assetid: 71fc8106-d11f-46e7-9af0-81708546c437
-ms.openlocfilehash: a47d53ea985ca3809396bcd741d20cb8ed639b26
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 9ef5fe2dfa6f223b3b87ba5018ece36e9f673566b840bb8b7a0ed700f7bc94a5
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47754106"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54075773"
 ---
-# <a name="manage-your-onedrive-storage"></a>จัดการที่เก็บข้อมูล OneDrive ของคุณ
+# <a name="manage-your-onedrive-storage"></a>จัดการพื้นที่จัดเก็บข้อมูลOneDriveของคุณ
 
-คุณสามารถจัดการ OneDrive for Business ของคุณเพื่อดูว่าคุณกำลังใช้พื้นที่เท่าใดและเพิ่มพื้นที่ว่าง  สำหรับข้อมูลเพิ่มเติมให้ไปที่ลิงก์ด้านล่าง
+คุณสามารถจัดการOneDrive for Businessของคุณเพื่อดูเนื้อที่ที่คุณใช้และเพิ่มเนื้อที่ว่าง  ดูข้อมูลเพิ่มเติมที่ลิงก์ด้านล่าง
 
-- [จัดการที่เก็บข้อมูล OneDrive for Business ของคุณ](https://support.microsoft.com/office/31519161-059c-4764-b6f8-f5cd29f7fe68)
-- [เปลี่ยนพื้นที่จัดเก็บข้อมูล OneDrive ของผู้ใช้ที่เฉพาะเจาะจง](https://docs.microsoft.com/onedrive/change-user-storage)
-- [ตั้งค่าพื้นที่จัดเก็บเริ่มต้นสำหรับผู้ใช้ OneDrive](https://docs.microsoft.com/onedrive/set-default-storage-space)
+- [จัดการพื้นที่จัดเก็บข้อมูลOneDrive for Businessของคุณ](https://support.microsoft.com/office/31519161-059c-4764-b6f8-f5cd29f7fe68)
+- [เปลี่ยนพื้นที่จัดเก็บข้อมูลของผู้ใช้OneDriveที่ระบุ](https://docs.microsoft.com/onedrive/change-user-storage)
+- [ตั้งค่าพื้นที่จัดเก็บเริ่มต้นให้กับผู้ใช้ OneDriveราย](https://docs.microsoft.com/onedrive/set-default-storage-space)
