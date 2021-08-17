@@ -1,5 +1,5 @@
 ---
-title: การติดตั้งแฮงค์หรือติดอยู่
+title: การติดตั้งค้างหรือค้าง
 ms.author: janellem
 author: janellem
 ms.date: 04/21/2020
@@ -12,28 +12,28 @@ ms.custom:
 - "851"
 - "2000020"
 ms.assetid: b54d4f87-e366-47e5-b3d8-42477f72f6a3
-ms.openlocfilehash: 613b1f9ec8462d88804dd93f1ad73f649216c39a
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 75a6fb29e8aaf925bd44ffe820d879dbb84bfe07e4667f07808b610b5ab162fb
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47794389"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54055501"
 ---
-# <a name="office-installation-hangs-or-gets-stuck"></a>การติดตั้ง Office แฮงค์หรือค้าง
+# <a name="office-installation-hangs-or-gets-stuck"></a>Officeค้างหรือค้าง
 
-คุณอาจเห็นลักษณะการทำงานนี้เนื่องจากการเชื่อมต่อเครือข่ายซอฟต์แวร์ป้องกันไวรัสหรือการตั้งค่า Windows Update บนคอมพิวเตอร์ของคุณ ต่อไปนี้คือบางสิ่งที่คุณสามารถลองทำเพื่อแก้ไขปัญหาได้
+คุณอาจเห็นลักษณะการเหล่านี้เนื่องจากการเชื่อมต่อเครือข่าย ซอฟต์แวร์ป้องกันไวรัส Windowsการตั้งค่าการอัปเดตบนคอมพิวเตอร์ของคุณ คุณสามารถลองแก้ไขปัญหาได้ตามวิธีต่อไปนี้
   
-- รีสตาร์ตคอมพิวเตอร์ของคุณและตรวจสอบว่า Office ติดตั้งอยู่หรือไม่
+- รีสตาร์ตคอมพิวเตอร์ของคุณ และตรวจสอบว่าOfficeติดตั้งอยู่
 
-- ใช้การเชื่อมต่อแบบมีสาย
+- ใช้การเชื่อมต่อแบบใช้สาย
 
-- ถ้าคุณกำลังใช้การเชื่อมต่ออินเทอร์เน็ตที่ช้าให้ติดตั้ง Office [โดยใช้ตัวติดตั้ง office แบบออฟไลน์](https://support.office.com/article/f0a85fe7-118f-41cb-a791-d59cef96ad1c?wt.mc_id=Alchemy_ClientDIA)
+- ถ้าคุณใช้การเชื่อมต่ออินเทอร์เน็ตที่ช้า ให้ติดตั้งOffice[ตัวOfficeแบบออฟไลน์](https://support.office.com/article/f0a85fe7-118f-41cb-a791-d59cef96ad1c?wt.mc_id=Alchemy_ClientDIA)
 
 - ปิดซอฟต์แวร์ป้องกันไวรัสชั่วคราว
 
 - เรียกใช้การซ่อมแซมแบบออนไลน์จากแผงควบคุม
 
-- เอา Office ออกแล้วติดตั้งใหม่
+- ลบและติดตั้งOffice
 
-[Office ใช้เวลานานในการติดตั้ง](https://support.office.com/article/0f09f357-3fef-42a6-b8aa-cef4c6c44bdf?wt.mc_id=Alchemy_ClientDIA)
+[Officeใช้เวลานานในการติดตั้ง](https://support.office.com/article/0f09f357-3fef-42a6-b8aa-cef4c6c44bdf?wt.mc_id=Alchemy_ClientDIA)
   

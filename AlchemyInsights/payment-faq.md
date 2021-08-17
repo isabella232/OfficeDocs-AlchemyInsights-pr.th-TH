@@ -14,18 +14,18 @@ ms.custom:
 - commerce_billing
 - "9001669"
 - "5128"
-ms.openlocfilehash: 07db1df6bf3caec12b39ba7cdb012e02a389d9dd
-ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
+ms.openlocfilehash: 62f97141af5be683ab2727add01364aa44c5193e493a681f32acd208f7197825
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58310950"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57895726"
 ---
 # <a name="payment-faq"></a>ถามที่ถามบ่อยเกี่ยวกับการการจ่ายเงิน
 
-จัดการการ **การศูนย์การจัดการ Microsoft 365เงิน**
+จัดการการ **ศูนย์การจัดการ Microsoft 365เงิน**
 
-- ไปที่ หน้า **การเรียกเก็บเงิน > [ของคุณ เพื่อ](https://go.microsoft.com/fwlink/p/?linkid=842054)** กําหนดหรือเปลี่ยนแปลงวิธีการเงินการสมัครใช้งาน
+- ไปที่หน้า **การเรียกเก็บเงิน> [ผลิตภัณฑ์ของคุณเพื่อ](https://go.microsoft.com/fwlink/p/?linkid=842054)** กําหนดหรือเปลี่ยนแปลงวิธีการจ่ายเงินของการสมัครใช้งาน
 - ไปที่ **วิธี> [การเรียกเก็บเงิน](https://go.microsoft.com/fwlink/p/?linkid=2018806)** เพื่อเพิ่ม อัปเดต แทนที่ หรือลบวิธีการเงิน
 
 - **วิธีการการ** ช้เงิน - ถ้าการจ่ายด้วยบัตรเครดิตหรือบัญชีธนาคาร วิธีการเงินที่เชื่อมโยงกับการสมัครใช้งานของคุณจะถูกเรียกเก็บเงินภายในสองสามวันหลังจากสร้างใบเรียกเก็บเงิน ถ้าการจ่ายเงินล้มเหลว ให้อัปเดตวิธีการเงินของคุณ ดูข้อมูลเพิ่มเติมที่[จัดการวิธีการเงิน](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods)

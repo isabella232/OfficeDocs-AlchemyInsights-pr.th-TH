@@ -1,5 +1,5 @@
 ---
-title: ๗๒๖การบล็อกการส่งต่ออีเมล
+title: 726 การบล็อกการส่งต่ออีเมล
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -14,19 +14,19 @@ ms.custom:
 - "726"
 - "1200004"
 ms.assetid: 8865c68e-7e8a-4135-a254-d7f69f1ded30
-ms.openlocfilehash: 610013c4f46e999f1a8715aea14dd557ed8b0e2a
-ms.sourcegitcommit: 88f24bb6ced16842de165af416e3f21feae13063
+ms.openlocfilehash: 0bff7ede02809e133dc6616452ec840f552bd4fa6c45b7987d6455b2a9ba49bf
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 10/15/2020
-ms.locfileid: "48478325"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54059651"
 ---
-# <a name="blocking-or-unblocking-email-forwarding"></a>การบล็อกหรือการยกเลิกการบล็อกการส่งต่ออีเมล
+# <a name="blocking-or-unblocking-email-forwarding"></a>การบล็อกหรือยกเลิกการบล็อกการส่งต่ออีเมล
 
-เมื่อต้องการเปิดหรือปิดใช้งานการส่งต่ออีเมลสำหรับกล่องจดหมายที่เฉพาะเจาะจงให้ดูที่[กำหนดค่าการส่งต่ออีเมล](https://docs.microsoft.com/microsoft-365/admin/email/configure-email-forwarding)
+เมื่อต้องการเปิดใช้งานหรือปิดใช้งานการส่งต่ออีเมลของกล่องจดหมายที่ระบุ ให้ดู [กําหนดค่าการส่งต่อ](https://docs.microsoft.com/microsoft-365/admin/email/configure-email-forwarding)อีเมล
 
-ในระดับผู้เช่าการควบคุมการส่งต่อภายนอกจะเสร็จสมบูรณ์โดยใช้นโยบายสแปมขาออก คุณสามารถตรวจสอบนโยบายตัวกรองสแปมขาออกจากศูนย์การรักษาความปลอดภัยและการปฏิบัติตามนโยบายได้[ที่นี่](https://protection.office.com/antispam)หรือโดยใช้[คำสั่ง HostedOutboundSpamFilterPolicy](https://docs.microsoft.com/powershell/module/exchange/get-hostedoutboundspamfilterpolicy)
+ในระดับผู้เช่า การควบคุมการส่งต่อภายนอกจะเสร็จสิ้นโดยใช้นโยบายสแปมขาออก คุณสามารถตรวจสอบนโยบายตัวกรองสแปมขาออกจากศูนย์การรักษาความปลอดภัยและการปฏิบัติตามนโยบาย[ได้ที่นี่](https://protection.office.com/antispam)หรือโดยใช้สั่ง[Get-HostedOutboundSpamFilterPolicy](https://docs.microsoft.com/powershell/module/exchange/get-hostedoutboundspamfilterpolicy)
 
-ถ้าคุณได้รับข้อผิดพลาดต่อไปนี้: **"๕๕๐ 5.7.520 Access ถูกปฏิเสธองค์กรของคุณไม่อนุญาตให้มีการส่งต่อภายนอก"** โปรดตรวจสอบให้แน่ใจว่านโยบายถูกกำหนดค่าให้เปิดใช้งานการส่งต่อภายนอกโดยอัตโนมัติ
+ถ้าคุณได้รับข้อผิดพลาดต่อไปนี้: "การเข้าถึง **550 5.7.520** ถูกปฏิเสธ องค์กรของคุณไม่อนุญาตให้ส่งต่อภายนอก" โปรดตรวจสอบให้แน่ใจว่าได้กําหนดค่านโยบายให้เปิดใช้งานการส่งต่อภายนอกโดยอัตโนมัติ
 
-**หมายเหตุ:** ขอแนะนำให้ทำการปิดใช้งาน Autoforward ภายนอกในนโยบายตัวกรองสแปมขาออกเริ่มต้นของคุณและเปิดใช้งานเฉพาะสำหรับผู้ใช้ที่ต้องการการส่งต่อภายนอกโดยการสร้างนโยบายแบบกำหนดเองสำหรับผู้ใช้เหล่านั้น คุณสามารถอ่านเพิ่มเติมได้ในการ[กำหนดค่าการส่งต่ออีเมลภายนอกใน Office ๓๖๕](https://docs.microsoft.com/microsoft-365/security/office-365-security/external-email-forwarding)
+**หมายเหตุ:** It is recommended to keep the External Autoforward disabled on your default outbound spam filter policy and enable it only for the users who need external forwarding by creating a custom policy for those users. คุณสามารถอ่านเพิ่มเติมใน การ[กําหนดค่าการส่งต่ออีเมลภายนอกOffice 365](https://docs.microsoft.com/microsoft-365/security/office-365-security/external-email-forwarding)

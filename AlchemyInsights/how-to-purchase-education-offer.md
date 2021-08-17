@@ -16,16 +16,16 @@ ms.custom:
 - "328"
 - "369"
 - "1500009"
-ms.openlocfilehash: 028ae1b86a98c8dab1940b715c266f3d481c71ef1ec84e932e9c74817bccdef5
-ms.sourcegitcommit: d71b18e1403859fbfc45ddd9a57c8ab68f4d9f96
+ms.openlocfilehash: 22b82d6b251a70133dd57bc41161032e3944a735533c82792756434325aefe5a
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54503275"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57895846"
 ---
 # <a name="how-to-purchase-an-education-offer"></a>วิธีการสั่งซื้อข้อเสนอการศึกษา
 
-คุณได้รับการอนุมัติให้Office 365 Education เมื่อต้องการซื้อ:
+คุณได้รับการอนุมัติOffice 365 Education เมื่อต้องการซื้อ:
   
 1. ในศูนย์การจัดการ ให้ไปที่หน้า \> [การเรียกเก็บเงินผลิตภัณฑ์](https://go.microsoft.com/fwlink/p/?linkid=842054)ของคุณ
 2. บนแท็บ **ผลิตภัณฑ์** ให้เลือก รุ่นทดลองใช้ **ของนักเรียนหรือ** คณะ
@@ -34,4 +34,4 @@ ms.locfileid: "54503275"
 
 ถ้าคุณต้องการซื้อการสมัครใช้งานที่ต่างจากการสมัครใช้งานเวอร์ชันทดลองใช้ ให้ไปที่หน้า **บริการ** \> [สั่งซื้อ](https://go.microsoft.com/fwlink/p/?linkid=868433) การเรียกเก็บเงิน ภายใต้ **แผน** การศึกษา ให้เลือกแผนที่คุณต้องการ
 
-เมื่อต้องการเรียนรู้เพิ่มเติม [ให้ดู ซื้อการสมัครใช้งานจากเวอร์ชันทดลองใช้ฟรี](/microsoft-365/commerce/try-or-buy-microsoft-365#buy-a-subscription-from-your-free-trial)ของคุณ
+เมื่อต้องการเรียนรู้เพิ่มเติม [ให้ดู ซื้อการสมัครใช้งานจากเวอร์ชันทดลองใช้ฟรี](https://docs.microsoft.com/microsoft-365/commerce/try-or-buy-microsoft-365#buy-a-subscription-from-your-free-trial)ของคุณ

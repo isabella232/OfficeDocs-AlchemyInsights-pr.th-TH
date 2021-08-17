@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002531"
 - "7375"
-ms.openlocfilehash: b9daff7b03f34fbadc50c023aad2e7636274cb1a
-ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
+ms.openlocfilehash: d1ca4a95a9f08255eb631af0996d274395d122bc76ca369944cc029f7f4314f5
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58296070"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57895998"
 ---
 # <a name="release-quarantined-messages"></a>ปล่อยข้อความที่ถูกกักกัน
 
 คุณสามารถปล่อยข้อความที่ถูกกักกัน (หรือชุดของข้อความ) ให้กับผู้รับทั้งหมด หรือปล่อยเฉพาะข้อความไปยังบุคคลที่คุณเลือกจากรายการของผู้รับทั้งหมด โดยมีวิธีการดังต่อไปนี้:
 
-1. ในMicrosoft 365 Defenderที่ <https://security.microsoft.com> ให้ไปที่ ส่งอีเมล& \> **การกัก** \> **กันการร่วมกัน**
+1. ในMicrosoft 365 Defenderที่ <https://security.microsoft.com> ให้ไปที่ ส่งอีเมล&**การกัก** \>  \> **กันการร่วมกัน**
 
    เมื่อต้องการไปที่หน้า **การ** กักกัน <https://security.microsoft.com/quarantine> โดยตรง ให้ใช้
 

@@ -14,12 +14,12 @@ ms.custom:
 - commerce_subscriptions
 - "9002453"
 - "4763"
-ms.openlocfilehash: a6ffa3a8bbed64194620ae82edf149be91efc42b0e34ed6a05f7ca03478a8697
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: ea911e83d9b4cb21ae72187a69f89e491b7131a87eafb37dbc53e31e0ab9ee10
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53909701"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57890417"
 ---
 # <a name="subscription-no-longer-active"></a>การสมัครใช้งานไม่สามารถใช้งานได้อีกต่อไป
 
@@ -32,4 +32,4 @@ ms.locfileid: "53909701"
 3. ในบานหน้าต่าง **เปิดใช้งานการสมัครใช้งานนี้ใหม่** ให้เลือกวิธีการเงินจากรายการดรอปดาวน์ หรือเลือก **เพิ่มวิธีการเงิน**
 4. เลือกบันทึก
 
-เมื่อต้องการเรียนรู้เพิ่มเติม [ให้ดู เปิดใช้งานการสมัครใช้งาน](/microsoft-365/commerce/subscriptions/reactivate-your-subscription)ของคุณอีกครั้ง
+เมื่อต้องการเรียนรู้เพิ่มเติม [ให้ดู เปิดใช้งานการสมัครใช้งาน](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/reactivate-your-subscription)ของคุณอีกครั้ง
