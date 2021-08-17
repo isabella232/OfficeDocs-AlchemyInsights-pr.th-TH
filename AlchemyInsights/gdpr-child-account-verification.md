@@ -1,5 +1,5 @@
 ---
-title: ๘๐๐๐๐๓๘ GDPR การตรวจสอบบัญชีผู้ใช้ของเด็ก
+title: 8000038การตรวจสอบบัญชีของเด็กใน GDPR
 ms.author: daeite
 author: daeite
 manager: jackiesm
@@ -14,16 +14,16 @@ ms.custom:
 - "788"
 - "8000038"
 ms.assetid: 9039e40c-62d4-4658-ab5b-2649ba738c40
-ms.openlocfilehash: 6ad5de2c3595c775d7b5080c2ac116dd002e6777
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 844679cba6b109a2c552c38e1884040cd545cd260930eb7aabed6ed0911c8a50
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47707982"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54057013"
 ---
-# <a name="date-of-birth-displayed-in-your-microsoft-account-is-incorrect"></a>วันเดือนปีเกิดที่แสดงในบัญชี Microsoft ของคุณไม่ถูกต้อง
+# <a name="date-of-birth-displayed-in-your-microsoft-account-is-incorrect"></a>วันเกิดที่แสดงในบัญชี Microsoft ของคุณไม่ถูกต้อง
 
-ไมโครซอฟท์จะรักษาความปลอดภัยของบัญชีผู้ใช้อย่างจริงจัง คุณอาจได้รับพร้อมท์ให้ให้ความยินยอมจากผู้ปกครองสำหรับบัญชี Microsoft ของบุตรหลาน ถ้าคุณต้องการความช่วยเหลือในการให้ความยินยอมจากผู้ปกครองหรือการอัปเดตวันเกิดในบัญชี Microsoft ให้ดูที่การ [ตรวจสอบอายุสำหรับความยินยอม](https://go.microsoft.com/fwlink/p/?linkid=874364)ของผู้ปกครอง
+Microsoft รักษาความปลอดภัยของบัญชีเป็นอย่างมาก คุณอาจได้รับพร้อมท์เมื่อเร็วๆ นี้ให้มอบความยินยอมจากผู้ปกครองให้บัญชี Microsoft ของเด็ก หากคุณต้องการความช่วยเหลือในการให้ความยินยอมจากผู้ปกครองหรืออัปเดตวันเกิดในบัญชี Microsoft โปรดดู การตรวจสอบอายุเพื่อ [ความยินยอมจาก](https://go.microsoft.com/fwlink/p/?linkid=874364)ผู้ปกครอง
   
-เรียนรู้เพิ่มเติมเกี่ยวกับ[ความยินยอมจากผู้ปกครองและบัญชีรองของ Microsoft](https://go.microsoft.com/fwlink/p/?linkid=874365)
+เรียนรู้เพิ่มเติมเกี่ยวกับความยินยอม [จากผู้ปกครองและบัญชีของเด็กของ](https://go.microsoft.com/fwlink/p/?linkid=874365)Microsoft
   

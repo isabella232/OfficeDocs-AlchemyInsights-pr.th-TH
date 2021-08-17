@@ -1,5 +1,5 @@
 ---
-title: คำแนะนำประสิทธิภาพการโยกย้ายทั่วไป
+title: แนวทางประสิทธิภาพการโยกย้ายทั่วไป
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
@@ -12,26 +12,26 @@ ms.collection: Adm_O365
 ms.custom:
 - "5300030"
 - "3179"
-ms.openlocfilehash: 6bdde15307d45bce7906659798713b16fa088119
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 91ad4d5457040fe6f705fab212acfd0f610f1c41eea9c01d9cab80439607292c
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47707838"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54057049"
 ---
-# <a name="general-migration-performance-guidance"></a>คำแนะนำประสิทธิภาพการโยกย้ายทั่วไป
+# <a name="general-migration-performance-guidance"></a>แนวทางประสิทธิภาพการโยกย้ายทั่วไป
 
 
-**สำคัญ**: ในช่วงเวลาที่เป็นประวัติการณ์เหล่านี้เราจะดำเนินการตามขั้นตอนเพื่อให้แน่ใจว่าบริการ sharepoint Online และ OneDrive ยังคงพร้อมใช้งานอย่างมาก–โปรดไปที่การ [ปรับปรุงฟีเจอร์ชั่วคราวของ sharepoint Online](https://aka.ms/ODSPAdjustments) สำหรับข้อมูลเพิ่มเติม
+**สิ่ง** สําคัญ: ในระหว่างช่วงเวลาที่ไม่มีประวัติใช้งานเหล่านี้ เราปฏิบัติตามขั้นตอนต่างๆ เพื่อให้แน่ใจว่าบริการ SharePoint Online และ OneDrive ยังคงพร้อมใช้งานอยู่ โปรดเยี่ยมชม SharePoint [การปรับ](https://aka.ms/ODSPAdjustments)ฟีเจอร์ชั่วคราวแบบออนไลน์ SharePoint เพื่อดูข้อมูลเพิ่มเติม
 
 **ตัวเลือกการโยกย้าย**
 
-มีตัวเลือกต่างๆที่พร้อมใช้งานในการโยกย้ายเนื้อหาไปยัง SharePoint Online โดยขึ้นอยู่กับขนาดและปริมาณของไฟล์ที่คุณต้องการย้ายโปรดดูรายการของตัวเลือก[ที่อยู่ที่นี่](https://docs.microsoft.com/sharepointmigration/migrate-to-sharepoint-online)
+มีตัวเลือกต่างๆ ที่พร้อมใช้งานเพื่อโยกย้ายเนื้อหาSharePoint Online ขึ้นอยู่กับขนาดและปริมาณไฟล์ที่คุณต้องการย้าย โปรดดูรายการ[ตัวเลือกที่อยู่ที่นี่](https://docs.microsoft.com/sharepointmigration/migrate-to-sharepoint-online)
 
-สำหรับข้อมูลเพิ่มเติมเกี่ยวกับการโยกย้ายเนื้อหาโปรดไปที่ลิงก์ด้านล่าง
+หากต้องการข้อมูลเพิ่มเติมเกี่ยวกับการโยกย้ายเนื้อหา โปรดไปที่ลิงก์ด้านล่าง
 
 - [เครื่องมือการโยกย้าย Sharepoint](https://docs.microsoft.com/sharepointmigration/introducing-the-sharepoint-migration-tool)
 
 - [เริ่มต้นใช้งานตัวจัดการการโยกย้าย](https://docs.microsoft.com/sharepointmigration/mm-get-started)
 
-- [Mover](https://mover.io/)
+- [ผู้ย้าย](https://mover.io/)
