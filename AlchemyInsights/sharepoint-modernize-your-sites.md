@@ -1,5 +1,5 @@
 ---
-title: ทันสมัยไซต์ SharePoint ของคุณ
+title: ปรับไซต์SharePointของคุณให้ทันสมัย
 ms.author: v-miegge
 author: v-miegge
 ms.audience: Admin
@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000153"
 - "1692"
-ms.openlocfilehash: 42b36e13af59c2323ab0db6107174f4b9d652e28
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 3f0fdc6988ea693f6c0e012af719cdaca2f6fa13c888a5fb39e35387e1a820e7
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47800591"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54107855"
 ---
-# <a name="modernize-your-sharepoint-sites"></a>ทันสมัยไซต์ SharePoint ของคุณ
+# <a name="modernize-your-sharepoint-sites"></a>ปรับไซต์SharePointของคุณให้ทันสมัย
 
-สำหรับภาพรวมทีละขั้นตอนของทันไซต์ SharePoint แบบคลาสสิกของคุณไปยังประสบการณ์การใช้งานที่ทันสมัยให้ดูที่[ไซต์ sharepoint แบบคลาสสิกของคุณ](https://docs.microsoft.com/sharepoint/dev/transform/modernize-classic-sites)
+ดู ภาพรวมทีละขั้นตอน ของการเพิ่มความทันสมัยของไซต์ SharePoint คลาสสิกให้เป็นประสบการณ์การใช้งานที่ทันสมัย ให้ดู ปรับไซต์ไซต์[แบบคลาสสิกSharePointให้](https://docs.microsoft.com/sharepoint/dev/transform/modernize-classic-sites)ทันสมัย
 
-* เมื่อต้องการเพิ่มประสิทธิภาพการใช้งานส่วนติดต่อผู้ใช้ที่ทันสมัยสำหรับหน้าของไซต์และรายการและไลบรารีของคุณให้ดู [ที่ส่วนติดต่อผู้ใช้ที่](https://docs.microsoft.com/sharepoint/dev/transform/modernize-userinterface)ทันสมัย
-* เมื่อต้องการเรียนรู้เพิ่มเติมเกี่ยวกับวิธีการยกเลิกการบล็อกรายการและไลบรารีของคุณเมื่อใช้ส่วนติดต่อผู้ใช้สมัยใหม่ให้ดู [ที่การใช้รายการและไลบรารีที่ทัน](https://docs.microsoft.com/sharepoint/dev/transform/modernize-userinterface-lists-and-libraries)สมัยมากที่สุด
-* สำหรับข้อมูลเพิ่มเติมเกี่ยวกับการเชื่อมต่อกับกลุ่ม Microsoft ๓๖๕และการดำเนินการกับกลุ่มการเชื่อมต่อให้ดูที่[เชื่อมต่อกับกลุ่ม Microsoft ๓๖๕](https://docs.microsoft.com/sharepoint/dev/transform/modernize-connect-to-office365-group)
+* เมื่อต้องการเพิ่มการใช้ส่วนติดต่อผู้ใช้ที่ทันสมัยให้กับหน้าไซต์และหน้ารายการและไลบรารีของคุณมากที่สุด [ให้ดู ปรับส่วนติดต่อผู้ใช้ให้](https://docs.microsoft.com/sharepoint/dev/transform/modernize-userinterface)ทันสมัย
+* เมื่อต้องการเรียนรู้เพิ่มเติมเกี่ยวกับวิธีการยกเลิกการบล็อกรายการและไลบรารีของคุณเมื่อใช้ส่วนติดต่อผู้ใช้ที่ทันสมัย ให้ดู ใช้รายการและไลบรารีสมัยใหม่[ให้มากที่สุด](https://docs.microsoft.com/sharepoint/dev/transform/modernize-userinterface-lists-and-libraries)
+* ดูข้อมูลเพิ่มเติมเกี่ยวกับการเชื่อมต่อกับMicrosoft 365และการเชื่อมต่อแบบกลุ่ม ให้ดูที่ เชื่อมต่อ[ในกลุ่ม](https://docs.microsoft.com/sharepoint/dev/transform/modernize-connect-to-office365-group)Microsoft 365
 
-**สิ่งสำคัญ**: ถ้าคุณรู้สึกว่าหน้าของคุณควรจะแสดงอยู่ในมุมมองสมัยใหม่และไม่ใช่โปรดเรียกดูหน้านี้ในคำถามคัดลอก url และใส่ url เป็นส่วนหนึ่งของรายละเอียดของบัตรการสนับสนุนของคุณ
+**สิ่ง** สําคัญ : ถ้าคุณรู้สึกว่าหน้าของคุณควรจะแสดงในมุมมองที่ทันสมัยและไม่ใช่อยู่แล้ว โปรดเรียกดูหน้าในคําถาม คัดลอก URL และใส่ URL เป็นส่วนหนึ่งของรายละเอียดของตั๋วการสนับสนุนของคุณ
