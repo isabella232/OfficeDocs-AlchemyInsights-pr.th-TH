@@ -1,5 +1,5 @@
 ---
-title: ๑๘๒โปรดเรียกใช้ SaRA เพื่อวินิจฉัยและแก้ไขปัญหาเกี่ยวกับการรับรองความถูกต้องของ Outlook
+title: 182 โปรดSaRAวินิจฉัยและแก้ไขปัญหาOutlookการรับรองความถูกต้อง
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -13,15 +13,15 @@ ms.custom:
 - "182"
 - "1800012"
 ms.assetid: a3a5ea91-6989-4616-9290-c7b24484e8c8
-ms.openlocfilehash: aa1e831eac829f3bd35f34e2fbe34923c5af0d3a
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 461424e2c5726deb3a63e6588d1043278d4835e4b2d891e9a5413d54bc445a72
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47802040"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54040738"
 ---
-# <a name="use-sara-to-diagnose-and-resolve-outlook-authentication-issues"></a>ใช้ SaRA เพื่อวินิจฉัยและแก้ไขปัญหาการรับรองความถูกต้องของ Outlook
+# <a name="use-sara-to-diagnose-and-resolve-outlook-authentication-issues"></a>ใช้SaRAวินิจฉัยและแก้ไขปัญหาOutlookการรับรองความถูกต้อง
 
-**หมายเหตุ**: โปรดตรวจสอบเพื่อดูว่ามีการเปิดใช้งาน [ค่าเริ่มต้นด้านความปลอดภัย](https://aka.ms/securitydefaults) สำหรับองค์กรของคุณหรือไม่ ถ้าผู้เช่าของคุณถูกสร้างขึ้นหลังจากวันที่21ตุลาคม๒๐๑๙และ Outlook ของคุณจะขอรหัสผ่านของคุณซ้ำๆคุณอาจมี **ค่าเริ่มต้นของความปลอดภัย** ที่เปิดใช้งานในผู้เช่าของคุณ
+**หมายเหตุ**: โปรดตรวจสอบเพื่อดูว่ามี [การเปิดใช้งานค่าเริ่มต้น](https://aka.ms/securitydefaults) ด้านความปลอดภัยให้กับองค์กรของคุณหรือไม่ ถ้าผู้เช่าของคุณถูกสร้างขึ้นหลังจากวันที่ 21 ตุลาคม 2019 และ Outlook ของคุณถามรหัสผ่านซ้ําๆ คุณอาจเปิดใช้งานค่าเริ่มต้นด้านความปลอดภัยในผู้เช่าของคุณ
 
-เราขอแนะนำให้คุณใช้ Outlook เพื่อขอการวินิจฉัย [รหัสผ่านของฉัน](https://aka.ms/SaRA-OutlookPwdPrompt-Alchemy) บนเครื่องจักรที่ได้รับผลกระทบเพื่อแก้ไขปัญหาที่ Outlook แสดงพร้อมท์สำหรับรหัสผ่านอย่างต่อเนื่อง การ [วินิจฉัยนี้](https://diagnostics.office.com/#/) เป็นการตรวจสอบโดยอัตโนมัติและส่งกลับโซลูชันที่เป็นไปได้เพื่อให้คุณสามารถใช้เพื่อแก้ไขปัญหาการตรวจพบใดๆ
+เราขอแนะOutlook[ให้ใช้](https://aka.ms/SaRA-OutlookPwdPrompt-Alchemy)เครื่องมือการวินิจฉัยรหัสผ่านของฉันในเครื่องที่ได้รับผลกระทบอย่างต่อเนื่องเพื่อแก้ไขปัญหาOutlookพร้อมท์รหัสผ่านอย่างต่อเนื่อง การวินิจฉัย[SaRA](https://diagnostics.office.com/#/)จะตรวจสอบอัตโนมัติและส่งกลับโซลูชันที่เป็นไปได้ที่คุณสามารถใช้เพื่อแก้ไขปัญหาใดๆ ที่ตรวจพบ

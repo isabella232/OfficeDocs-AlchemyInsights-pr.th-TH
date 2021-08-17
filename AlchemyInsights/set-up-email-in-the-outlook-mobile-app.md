@@ -1,5 +1,5 @@
 ---
-title: ๑๘๐๐๐๑๔ตั้งค่าอีเมลในแอป Outlook สำหรับอุปกรณ์เคลื่อนที่
+title: 1800014ตั้งค่าอีเมลในแอปOutlookบนอุปกรณ์เคลื่อนที่
 ms.author: anahitab
 author: anahitab
 manager: dansimp
@@ -16,31 +16,31 @@ ms.custom:
 - "1800014"
 - "1800018"
 ms.assetid: d2b46122-b59a-4b94-9cae-5e42be819022
-ms.openlocfilehash: 218c50e1fb7cccb27001f20682785bab84fbfeb5
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 6bc0d854d7033657bba8f0b72a379f82411dabc1c77d58007b8b93f8179daf5a
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47801059"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54073942"
 ---
-# <a name="set-up-email-in-the-outlook-mobile-app"></a>ตั้งค่าอีเมลในแอป Outlook สำหรับอุปกรณ์เคลื่อนที่
+# <a name="set-up-email-in-the-outlook-mobile-app"></a>ตั้งค่าอีเมลในแอปOutlookบนอุปกรณ์เคลื่อนที่
 
-1. เลือก **เริ่มต้น** ใช้งานถ้าเป็นครั้งแรกของคุณในการตั้งค่าอีเมลในแอปสำหรับอุปกรณ์เคลื่อนที่ มิฉะนั้นให้แตะ**เมนู**แล้วแตะ**การตั้งค่า**เพิ่มบัญชีผู้ใช้เพิ่มบัญชีผู้ใช้ \> **Add Account** \> **อีเมล**
+1. เลือก **เริ่มต้นใช้งาน** ถ้านี่เป็นครั้งแรกที่คุณตั้งค่าอีเมลในแอปบนอุปกรณ์เคลื่อนที่ มิฉะนั้น ให้แตะ **เมนู** แล้วแตะการตั้งค่า \> **เพิ่ม** \> **บัญชีอีเมล**
 
-2. ใส่ที่อยู่อีเมลแบบเต็มของคุณแล้วแตะ**ดำเนินการต่อ**หรือ**เพิ่มบัญชีผู้ใช้**
+2. ใส่ที่อยู่อีเมลเต็มของคุณ แล้วแตะ **ที่ Continue** หรือ **Add Account**
 
-3. ใส่รหัสผ่านบัญชีผู้ใช้อีเมลของคุณแล้วแตะ**ลงชื่อเข้าใช้**หรือ**ถัดไป**
+3. ใส่รหัสผ่านบัญชีอีเมลของคุณ แล้วแตะ **ลงชื่อเข้าใช้****หรือ** ถัดไป
 
-4. ถ้ามีการเปิดใช้งานการ [รับรองความถูกต้องแบบหลายปัจจัย](https://docs.microsoft.com/microsoft-365/admin/security-and-compliance/set-up-multi-factor-authentication) ให้ตรวจสอบโดยใช้วิธีที่คุณตั้งค่า (รหัส6หลักโทรศัพท์หรือแอป Microsoft Authenticator)
+4. ถ้า[เปิดใช้งานการรับรองความถูกต้อง](https://docs.microsoft.com/microsoft-365/admin/security-and-compliance/set-up-multi-factor-authentication)โดยใช้หลายปัจจัย ให้ตรวจสอบว่าใช้วิธีการที่คุณตั้งค่า (รหัส 6 หลัก โทรศัพท์ หรือแอปMicrosoft Authenticator)
 
-5. ถ้านโยบายผู้ดูแลระบบ IT เพิ่มเติมอยู่ในตำแหน่งให้แตะ **เปิดใช้** งานเพื่อเปิดใช้งาน
+5. ถ้ามีนโยบายการดูแลระบบ IT เพิ่มเติมให้แตะ **เปิดใช้งาน** เพื่อเปิดใช้งาน
 
-6. Outlook อาจร้องขอสิทธิ์ในการเข้าถึงปฏิทินที่ติดต่อและข้อมูลอื่นๆของคุณ เลือก**ใช่**หรือ**อนุญาต**
+6. Outlookอาจขอสิทธิ์ในการเข้าถึงปฏิทิน ที่ติดต่อ และข้อมูลอื่นๆ ของคุณ เลือกใช่ **หรือ** อนุญาต
 
-รับคำแนะนำในการตั้งค่ารายละเอียดสำหรับ [outlook สำหรับ Android](https://support.office.com/article/886db551-8dfa-4fd5-b835-f8e532091872.aspx) หรือ [Outlook สำหรับ iOS](https://support.office.com/article/b2de2161-cc1d-49ef-9ef9-81acd1c8e234.aspx) ที่นี่
+รับคําแนะนําในการตั้งค่าโดยละเอียด[Outlookแอป for Android](https://support.office.com/article/886db551-8dfa-4fd5-b835-f8e532091872.aspx) Outlook for [iOS](https://support.office.com/article/b2de2161-cc1d-49ef-9ef9-81acd1c8e234.aspx)ได้ที่นี่
   
  **ต้องการความช่วยเหลือหรือไม่**
   
 - [แก้ไขปัญหาการตั้งค่าอีเมลบนอุปกรณ์เคลื่อนที่](https://support.office.com/article/a264ef01-9c88-48fb-9285-7017e4f31f02.aspx)
 
-- [รับวิธีใช้ในแอปสำหรับ Outlook สำหรับ iOS และ Android](https://support.office.com/article/218a22d1-9fa5-4889-b689-de1c63493243.aspx#ID0EAABAAA=Contact_Support)
+- [รับวิธีใช้ภายในแอปOutlookแอป for iOS และ Android](https://support.office.com/article/218a22d1-9fa5-4889-b689-de1c63493243.aspx#ID0EAABAAA=Contact_Support)

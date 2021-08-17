@@ -13,20 +13,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "7980"
 - "9004340"
-ms.openlocfilehash: 4a97abfcc1c86710ae3862c7aafe08afc45afddc
-ms.sourcegitcommit: 029c4697b77ce996d41ca74c4fa86de1bb84bd99
+ms.openlocfilehash: 4dc5470cea46b74f366fa4d6c2351c6927a227aeefe8a481eb1ca4e78808760b
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 01/25/2021
-ms.locfileid: "49974717"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54074123"
 ---
 # <a name="service-principal-key"></a>คีย์หลักของบริการ
 
-สำหรับคำแนะนำเกี่ยวกับการจัดการข้อมูลประจำตัวที่สำคัญสำหรับบริการหลักให้ดูบทความต่อไปนี้:
+สําหรับแนวทางการจัดการข้อมูลรับรองหลักสําหรับหลักของบริการ ให้ดูบทความต่อไปนี้
 
-- [AzureADServicePrincipalKeyCredential](https://docs.microsoft.com/powershell/module/azuread/get-azureadserviceprincipalkeycredential) -รับข้อมูลประจำตัวที่สำคัญสำหรับบริการหลักที่ใช้ PowerShell
+- [Get-AzureADServicePrincipalKeyCredential](https://docs.microsoft.com/powershell/module/azuread/get-azureadserviceprincipalkeycredential) - เมื่อต้องการรับข้อมูลรับรองหลักบริการโดยใช้ PowerShell
 
-- [ใหม่-AzureADServicePrincipalKeyCredential](https://docs.microsoft.com/powershell/module/azuread/new-azureadserviceprincipalkeycredential) -เมื่อต้องการสร้างข้อมูลประจำตัวคีย์ใหม่สำหรับบริการหลักที่ใช้ PowerShell
+- [New-AzureADServicePrincipalKeyCredential](https://docs.microsoft.com/powershell/module/azuread/new-azureadserviceprincipalkeycredential) - เมื่อต้องการสร้างข้อมูลรับรองคีย์ใหม่ของบริการหลักโดยใช้ PowerShell
 
-- [เอาออก-AzureADServicePrincipalKeyCredential](https://docs.microsoft.com/powershell/module/azuread/remove-azureadserviceprincipalkeycredential) -เมื่อต้องการเอาข้อมูลประจำตัวที่สำคัญออกจากบริการหลักที่ใช้ PowerShell
+- [Remove-AzureADServicePrincipalKeyCredential](https://docs.microsoft.com/powershell/module/azuread/remove-azureadserviceprincipalkeycredential) - เมื่อต้องการเอาข้อมูลรับรองคีย์ออกจากหลักของบริการโดยใช้ PowerShell
 

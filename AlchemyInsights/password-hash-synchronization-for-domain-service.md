@@ -1,5 +1,5 @@
 ---
-title: การซิงโครไนซ์แฮชของรหัสผ่านกับบริการโดเมน
+title: การซิงโครไนซ์แฮชของรหัสผ่านของบริการโดเมน
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -15,25 +15,25 @@ ms.custom:
 - "9004400"
 - "8249"
 - "9003245"
-ms.openlocfilehash: 7f138837b720926c5b687285a105eb0417ca5b39
-ms.sourcegitcommit: 22eaf0a151ab95414476f596db8d318b6540ff31
+ms.openlocfilehash: 3c00105a67f70ae9ce11cd8bb922c4d84a320010d021414b9159948f7dc87dbc
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 02/09/2021
-ms.locfileid: "50177619"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54040885"
 ---
-# <a name="password-hash-synchronization-for-domain-service"></a>การซิงโครไนซ์แฮชของรหัสผ่านกับบริการโดเมน
+# <a name="password-hash-synchronization-for-domain-service"></a>การซิงโครไนซ์แฮชของรหัสผ่านของบริการโดเมน
 
 **ถ้าอินสแตนซ์ Azure AD DS ของคุณพร้อมท์ให้คุณเปิดใช้งานการซิงโครไนซ์แฮชของรหัสผ่าน**
 
-คุณพบกับสถานการณ์สมมติที่คุณเรียกใช้สภาพแวดล้อมแบบไฮบริดกับผู้ใช้ที่ซิงโครไนซ์จากสภาพแวดล้อม Azure Active Directory Domain Services (AD DS) ภายในองค์กร สถานการณ์นี้จะพบแม้คุณจะมีการซิงโครไนซ์แฮชรหัสผ่านจาก AD DS ภายในองค์กรไปยังผู้เช่า Azure AD ของคุณ
+คุณพบกับสถานการณ์สมมติที่คุณเรียกใช้สภาพแวดล้อมแบบไฮบริดกับผู้ใช้ซิงโครไนซ์จากสภาพแวดล้อม Domain Services (AD DS) Azure Active Directoryภายในองค์กร สถานการณ์นี้จะถูกพบแม้คุณจะมีการซิงโครไนซ์แฮชรหัสผ่านจาก AD DS ภายในองค์กรไปยังผู้เช่า Azure AD ของคุณ
 
 **สาเหตุ**
 
-ปัญหานี้เกิดขึ้นเนื่องจาก Azure AD Connect ตามค่าเริ่มต้นจะไม่ซิงโครไนซ์ Hashes ของ Technology LAN แบบดั้งเดิม (NTLM) และ Kerberos Password Hashes ที่ต้องใช้ใน Azure AD DS
+ปัญหานี้เกิดขึ้นเนื่องจากการตั้งค่า Azure AD เชื่อมต่อจะไม่ซิงโครไนซ์ตัวจัดการ LAN ทางเทคโนโลยีใหม่ (NTLM) และ Hashes รหัสผ่าน Kerberos ที่ต้องใช้กับ Azure AD DS
 
 **วิธีแก้ไขปัญหาชั่วคราว** 
 
-คุณจะต้องกําหนดค่า Azure AD Connect เพื่อซิงโครไนซ์ Hashes รหัสผ่านที่ต้องใช้ในการรับรองความถูกต้องของ NTLM และ Kerberos
+คุณจะต้องกําหนดค่ารหัสผ่าน Azure AD เชื่อมต่อซิงโครไนซ์รหัสผ่านที่ต้องใช้ในการรับรองความถูกต้องของ NTLM และ Kerberos
 
-หลังจากกําหนดค่า Azure AD Connect แล้ว การสร้างบัญชีภายในองค์กรหรือเหตุการณ์การเปลี่ยนรหัสผ่านจะซิงโครไนซ์ Hashe ของรหัสผ่านดั้งเดิมกับ Azure AD ด้วย โปรดดู [ที่นี่](https://docs.microsoft.com/azure/active-directory-domain-services/tutorial-configure-password-hash-sync) สําหรับข้อมูลเพิ่มเติมเกี่ยวกับสิ่งนี้และสําหรับแนวทางเกี่ยวกับวิธีการเปิดใช้งานการซิงโครไนซ์รหัสผ่านในสภาพแวดล้อมแบบไฮบริดของ Azure AD DS
+หลังจากกําหนดเชื่อมต่อ Azure AD แล้ว การสร้างบัญชีภายในองค์กรหรือเหตุการณ์การเปลี่ยนรหัสผ่านจะซิงโครไนซ์ Hashe รหัสผ่านเดิมกับ Azure AD ด้วย โปรดดูที่นี่ [สําหรับ](https://docs.microsoft.com/azure/active-directory-domain-services/tutorial-configure-password-hash-sync) ข้อมูลเพิ่มเติมเกี่ยวกับสิ่งนี้และสําหรับแนวทางเกี่ยวกับวิธีการเปิดใช้งานการซิงโครไนซ์รหัสผ่านในสภาพแวดล้อมไฮบริดของ Azure AD DS
