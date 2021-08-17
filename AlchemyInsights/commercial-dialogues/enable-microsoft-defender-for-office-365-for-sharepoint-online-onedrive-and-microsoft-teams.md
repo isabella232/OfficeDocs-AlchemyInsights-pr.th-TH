@@ -1,5 +1,5 @@
 ---
-title: เปิดใช้งาน Microsoft Defender Office 365 for SharePoint Online, OneDrive และ Microsoft Teams
+title: เปิดใช้งานตู้เซฟแนบSharePointออนไลน์ OneDriveและMicrosoft Teams
 ms.author: v-jmathew
 author: v-jmathew
 manager: dansimp
@@ -12,21 +12,27 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: db79c1d79ddb9bc92f0601ac156e5e41a8ab83cd603556f191d5491cdd5ae2a3
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 7357f53ef7827aea9cbb0d222c338a5edf429ffd201bfbb6d7307b3d446fdae2
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54058885"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57894482"
 ---
-# <a name="enable-microsoft-defender-for-office-365-for-sharepoint-online-onedrive-and-microsoft-teams"></a>เปิดใช้งาน Microsoft Defender Office 365 for SharePoint Online, OneDrive และ Microsoft Teams
+# <a name="enable-safe-attachments-for-sharepoint-online-onedrive-and-microsoft-teams"></a>เปิดใช้งานตู้เซฟแนบSharePointออนไลน์ OneDriveและMicrosoft Teams
 
-1. ใช้ข้อมูลรับรองความถูกต้องของผู้ดูแลระบบส่วนกลางหรือผู้ดูแลระบบความปลอดภัย ของคุณ เข้าสู่ระบบ Office 365[ศูนย์การรักษาความปลอดภัยและการปฏิบัติตาม](https://protection.office.com/)นโยบาย
-2. เลือก **การจัดการ** ภัยคุกคาม ในบานหน้าต่างด้านซ้าย จากนั้นเลือก นโยบาย **ตู้เซฟ**  >  [สิ่งที่แนบมา](https://protection.office.com/safeattachment)
-3. **เลือก เปิด Microsoft Defender Office 365 SharePoint OneDrive Microsoft Teams** จากนั้นเลือก บันทึก
+1. ใช้ข้อมูลพื้นฐานของผู้ดูแลระบบส่วนกลางหรือผู้ดูแลระบบความปลอดภัย ของคุณ เปิดพอร์ทัล Microsoft 365 Defender ที่ แล้วไปที่ นโยบาย <https://security.microsoft.com> **&** \> **นโยบายภัยคุกคาม** \> **ตู้เซฟ สิ่งที่แนบมา****ในส่วน** นโยบาย
+
+   เมื่อต้องการไปยังหน้า **ตู้เซฟสิ่งที่แนบมา** <https://security.microsoft.com/safeattachmentv2> โดยตรง ให้ใช้
+
+2. บนหน้า **ตู้เซฟสิ่งที่แนบมา** ให้คลิก **การตั้งค่า** ส่วนกลาง
+3. บนเมนูOffice 365ที่ปรากฏขึ้น ให้เลือก เปิด **Microsoft Defender Office 365 SharePoint OneDrive Microsoft Teams** แล้วเลือก บันทึก
+
     > [!TIP]
     >
-    > - ในฐานะผู้ดูแลระบบส่วนกลางหรือผู้ดูแลระบบ SharePoint Online ให้เรียกใช้ cmdlet PowerShell ต่อไปนี้กับ **พารามิเตอร์ DisallowInfectedFileDownload** ที่ตั้งค่า *เป็น true*: [Set-SPOTenant](https://go.microsoft.com/fwlink/?linkid=2092301)
-    > - [ตั้งค่าการแจ้งเตือนไฟล์ที่ถูกตรวจพบ](https://go.microsoft.com/fwlink/?linkid=2092110)
+    > ให้ปฏิบัติตามขั้นตอนต่อไปนี้เพื่อป้องกันสิ่งที่แนบมาตู้เซฟสิ่งที่แนบมาSharePoint OneDrive และMicrosoft Teams:
+    >
+    > - เมื่อต้องการป้องกันไม่ให้ผู้ใช้ดาวน์โหลดไฟล์ที่เป็นอันตราย ให้ใช้ค่าพารามิเตอร์ `$true` *DisallowInfectedFileDownload* บน cmdlet **[Set-SPOTenant](https://docs.microsoft.com/powershell/module/sharepoint-online/Set-SPOTenant)** SharePoint PowerShell Online For more information see [Use SharePoint Online PowerShell to prevent users from downloading malicious files](https://docs.microsoft.com/microsoft-365/security/office-365-security/turn-on-mdo-for-spo-odb-and-teams#step-2-recommended-use-sharepoint-online-powershell-to-prevent-users-from-downloading-malicious-files).
+    > - [สร้างนโยบายการแจ้งเตือนของไฟล์ที่ตรวจพบ](https://docs.microsoft.com/microsoft-365/security/office-365-security/turn-on-mdo-for-spo-odb-and-teams#step-3-recommended-use-the-microsoft-365-defender-portal-to-create-an-alert-policy-for-detected-files)
 
-ดูข้อมูลเพิ่มเติมใน Microsoft [Defender for Office 365 for SharePoint, OneDrive และ Microsoft Teams](https://go.microsoft.com/fwlink/?linkid=2092041)
+For more information, see[ตู้เซฟ Attachments for Office 365 for SharePoint, OneDrive, and Microsoft Teams](https://go.microsoft.com/fwlink/?linkid=2092041).
