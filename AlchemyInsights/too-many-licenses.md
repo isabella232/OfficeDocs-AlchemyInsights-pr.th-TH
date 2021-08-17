@@ -15,12 +15,12 @@ ms.custom:
 - commerce_licensing
 - "540"
 - "1500027"
-ms.openlocfilehash: 1623ea2269e18a0333b0bfddef7c5797ce3db57bb74ee4646a3aa94b8e821fa1
-ms.sourcegitcommit: d71b18e1403859fbfc45ddd9a57c8ab68f4d9f96
+ms.openlocfilehash: 86acc3a8568d5e30a46abc0d1bd6496530e586138b548e59f5c212bc0006c783
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54499567"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57886310"
 ---
 # <a name="too-many-licenses"></a>มีสิทธิ์การใช้งานมากเกินไปใช่หรือไม่
 
@@ -36,4 +36,4 @@ ms.locfileid: "54499567"
 4. ในบานหน้าต่าง **เอาสิทธิ์การใช้งาน** ออก ภายใต้ **จํานวน** ใหม่ **ในกล่อง** สิทธิ์การใช้งานทั้งหมด ให้ใส่จํานวนสิทธิ์การใช้งานทั้งหมดที่คุณต้องการในการสมัครใช้งานนี้ ตัวอย่างเช่น ถ้าคุณมีสิทธิ์การใช้งาน 100 สิทธิ์ และคุณต้องการเอาสิทธิ์การใช้งานออก 25 สิทธิ์ ให้ใส่ 75
 5. เลือกบันทึก
 
-เมื่อต้องการเรียนรู้เพิ่มเติม [ให้ดู ซื้อหรือเอาสิทธิ์การใช้งาน](/microsoft-365/commerce/licenses/buy-licenses)ออก
+เมื่อต้องการเรียนรู้เพิ่มเติม [ให้ดู ซื้อหรือเอาสิทธิ์การใช้งาน](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses)ออก

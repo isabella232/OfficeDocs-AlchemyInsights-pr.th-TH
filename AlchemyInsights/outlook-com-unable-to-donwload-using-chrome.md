@@ -1,5 +1,5 @@
 ---
-title: '๘๐๐๐๐๘๕: Outlook.com: ไม่สามารถดาวน์โหลดไฟล์ใน Chrome'
+title: '8000085: Outlook.com: ไม่สามารถดาวน์โหลดไฟล์ใน Chrome ได้'
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -14,17 +14,17 @@ ms.custom:
 - "8000085"
 - "1352"
 ms.assetid: ''
-ms.openlocfilehash: 1a4f5029322682dee3ab2799998b8c02dfd1a3da
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 08eb26cb64d1ea7d544bd1e1531afc4d57124ff17bd2afb471686d066098ce8a
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47666196"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54053557"
 ---
-# <a name="cant-download-files-in-chrome"></a>ไม่สามารถดาวน์โหลดไฟล์ใน Chrome
+# <a name="cant-download-files-in-chrome"></a>ไม่สามารถดาวน์โหลดไฟล์ใน Chrome ได้
 
-**ปัญหา** เราทราบถึงปัญหาที่ทำให้ลูกค้าไม่สามารถดาวน์โหลดไฟล์ได้เมื่อใช้เบราว์เซอร์ Google Chrome 
+**ปัญหา** เราทราบถึงปัญหาที่ป้องกันไม่ให้ลูกค้าบางรายสามารถดาวน์โหลดไฟล์เมื่อใช้เบราว์เซอร์ Google Chrome ได้ 
 
-**วิธีแก้ไขปัญหาชั่ว** คราว ใช้ [Microsoft Edge](https://www.microsoft.com/windows/microsoft-edge) หรือเว็บเบราว์เซอร์อื่น
-เรียนรู้เพิ่มเติมเกี่ยวกับวิธีการ[ดาวน์โหลดไฟล์และสิ่งที่แนบมา Outlook.com](https://support.office.com/article/8d7c1ea7-4e5f-44ce-bb6e-c5fcc92ba9ab?wt.mc_id=Office_Outlook_com_Alchemy)
+**วิธีแก้ไขปัญหาชั่วคราว** ใช้ [Microsoft Edge](https://www.microsoft.com/windows/microsoft-edge)หรือเว็บเบราว์เซอร์อื่น
+เรียนรู้เพิ่มเติมเกี่ยวกับ วิธีการ[ดาวน์โหลดไฟล์และOutlook.com](https://support.office.com/article/8d7c1ea7-4e5f-44ce-bb6e-c5fcc92ba9ab?wt.mc_id=Office_Outlook_com_Alchemy)
 

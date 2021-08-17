@@ -1,5 +1,5 @@
 ---
-title: ความล่าช้าในการรับการแจ้งเตือนของ SharePoint และ OneDrive
+title: ความล่าช้าในการรับการแจ้งเตือนSharePointและการOneDriveล่าช้า
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,19 +13,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000118"
 - "2642"
-ms.openlocfilehash: fd00bd90de382e325a9b8c4ce5b21d535e630730
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 7111a26e54a909cd8541d8c351d4f9db0338138d76de1ad14402b1c86932b79c
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51831249"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54107927"
 ---
-# <a name="delays-in-receiving-sharepoint-and-onedrive-alerts"></a>ความล่าช้าในการรับการแจ้งเตือนของ SharePoint และ OneDrive
+# <a name="delays-in-receiving-sharepoint-and-onedrive-alerts"></a>ความล่าช้าในการรับการแจ้งเตือนSharePointและการOneDriveล่าช้า
 
-- ถ้า **การแจ้งเตือนทั้งหมดจากไฟล์หรือ** ไลบรารีหลายรายการล่าช้า ให้ไปที่แดชบอร์ดสถานภาพบริการ [](https://portal.office.com/adminportal/home?ref=/servicehealth)เพื่อตรวจสอบที่ปรึกษา/เหตุการณ์ใดๆ ที่อาจเกิดขึ้นกับ SharePoint หรือ Exchange
-- **ถ้าการแจ้งเตือนแต่ละรายการจากไฟล์หรือไลบรารีที่ระบุไม่ได้ถูกส่ง** มา พยายามลบและสร้างใหม่ ให้ดูที่ [จัดการ ดู หรือลบการแจ้งเตือนของ SharePoint](https://support.microsoft.com/office/99dfb19c-9a90-4a8c-aba1-aa8c8afb0de2) เพื่อสร้างการแจ้งเตือนใหม่
+- ถ้า **การแจ้งเตือนทั้งหมดจากไฟล์หรือ** ไลบรารีหลายรายการล่าช้า ให้ไปที่แดชบอร์ดสถานภาพบริการ [](https://portal.office.com/adminportal/home?ref=/servicehealth)เพื่อตรวจสอบโปรแกรมช่วยแนะSharePoint/เหตุการณ์ที่อาจSharePointหรือExchangeเกิดขึ้น
+- **ถ้าการแจ้งเตือนแต่ละรายการจากไฟล์หรือไลบรารีที่ระบุไม่ได้ถูกส่ง** มา พยายามลบและสร้างใหม่ [ให้ดูที่ จัดการ ดู หรือลบSharePoint](https://support.microsoft.com/office/99dfb19c-9a90-4a8c-aba1-aa8c8afb0de2)การแจ้งเตือน เพื่อสร้างการแจ้งเตือนใหม่
 - ตรวจสอบโฟลเดอร์อีเมลขยะหรือสแปมในอีเมลของคุณ
 
 > [!NOTE]
 > - ไม่สามารถส่งการแจ้งเตือนไปยังกลุ่มการแจกจ่ายได้ สนับสนุนเฉพาะกลุ่มความปลอดภัยและ O365 เท่านั้น
-> - คุณไม่สามารถปรับแต่งเทมเพลตอีเมลแจ้งเตือนได้ คุณต้องใช้เวิร์กโฟลว์ Microsoft Flow หรือ SharePoint Designer เพื่อให้บรรลุเป้าหมายเหล่านั้นได้
+> - คุณไม่สามารถปรับแต่งเทมเพลตอีเมลแจ้งเตือนได้ คุณต้องใช้เวิร์กโฟลว์ตัวMicrosoft FlowหรือSharePoint Designer เพื่อให้เวิร์กโฟลว์เหล่านั้นประสบความสSharePointได้

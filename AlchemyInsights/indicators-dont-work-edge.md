@@ -13,16 +13,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "11230"
 - "9005470"
-ms.openlocfilehash: 4094371ee0a3b3ec8d29454fd66f3e9e7c3f35a91b9ea05f308325bc447ce11c
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: ff7a2ee4c97c579422c7679c461f6fb288a9235ff9056be1c56e80b1d6379723
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53926336"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57887459"
 ---
 # <a name="indicators-dont-work-using-edge-browser"></a>ตัวบ่งชี้ไม่ใช้งานโดยใช้เบราว์เซอร์ Microsoft Edge
 
-หลังจากที่คุณสร้างตัวบ่งชี้ Edge (SmartScreen) จะไม่แสดงขึ้น For more information, see [Create indicators for IPs and URLs/domains](/microsoft-365/security/defender-endpoint/indicator-ip-domain).
+หลังจากที่คุณสร้างตัวบ่งชี้ Edge (SmartScreen) จะไม่แสดงขึ้น For more information, see [Create indicators for IPs and URLs/domains](https://docs.microsoft.com/microsoft-365/security/defender-endpoint/indicator-ip-domain).
 
 ## <a name="step-1-ensure-the-following"></a>ขั้นตอนที่ 1: ตรวจสอบให้แน่ใจว่า
 
@@ -34,7 +34,7 @@ ms.locfileid: "53926336"
 
 ## <a name="step-2-troubleshoot-the-potential-issue"></a>ขั้นตอนที่ 2: แก้ไขปัญหาที่อาจเกิดขึ้น
 
-- ตรวจสอบให้แน่ใจว่าไคลเอ็นต์ตรงตามความต้องการ For details, see [Create indicators for IPs and URLs/domains](/microsoft-365/security/defender-endpoint/indicator-ip-domain).
+- ตรวจสอบให้แน่ใจว่าไคลเอ็นต์ตรงตามความต้องการ For details, see [Create indicators for IPs and URLs/domains](https://docs.microsoft.com/microsoft-365/security/defender-endpoint/indicator-ip-domain).
 - ตรวจสอบให้แน่ใจว่าคุณใช้เบราว์เซอร์ Microsoft Edge เวอร์ชันล่าสุด เมื่อต้องการค้นหาเวอร์ชันล่าสุด ให้ดู[ค้นหาเวอร์ชันMicrosoft Edgeเวอร์ชัน](https://support.microsoft.com/microsoft-edge/find-out-which-version-of-microsoft-edge-you-have-c726bee8-c42e-e472-e954-4cf5123497eb)ที่คุณมี
 - รีสตาร์ตเบราว์เซอร์ Microsoft Edge
 - นําทางไปยังไซต์ที่คุณได้ตั้งค่าตัวบ่งชี้ไว้ ถ้าไซต์ไม่ปรากฏตามที่คาดไว้ ให้ไปยังขั้นตอนที่ 3 
