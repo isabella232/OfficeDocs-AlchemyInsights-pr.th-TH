@@ -1,5 +1,5 @@
 ---
-title: แก้ไขนโยบายผู้เช่า (การแทนที่การแอคชัน)
+title: แก้ไขนโยบายผู้เช่า (การแทนที่การปฏิบัติการ)
 ms.author: v-jmathew
 author: v-jmathew
 manager: dansimp
@@ -12,20 +12,30 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: bc7ad8acd86c9d5b2f99ffdc6fe8a8b53e1fcb8b
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 157baa1f1e3f48b47ba07b8c6d446f8e081a4ad24b7d48f50c4fc5af5518cdd6
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50748986"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57896094"
 ---
-# <a name="fix-tenant-policy-action-override"></a>แก้ไขนโยบายผู้เช่า (การแทนที่การแอคชัน)
+# <a name="fix-tenant-policy-action-override"></a>แก้ไขนโยบายผู้เช่า (การแทนที่การปฏิบัติการ)
 
-นโยบายการป้องกันสแปมในผู้เช่าของคุณมีผลต่อข้อความนี้ เมื่อต้องการตรวจทานนโยบาย ให้ทต่อไปนี้:
+นโยบายป้องกันสแปมนโยบายใดนโยบายหนึ่งของคุณที่ได้รับผลกระทบจากข้อความนี้ เมื่อต้องการตรวจสอบนโยบาย ให้ปฏิบัติตามขั้นตอนต่อไปนี้
 
-1. ไปที่ศูนย์การรักษา [ความปลอดภัยของ office 365 &การปฏิบัติตาม](https://go.microsoft.com/fwlink/p/?linkid=2077143)นโยบาย จากนั้นไปที่ **การป้องกัน**  >    >  [สแปมนโยบายการจัดการ](https://go.microsoft.com/fwlink/?linkid=2101518)ภัยคุกคาม
-2. ตรวจสอบเพื่อดูว่าแหล่งนโยบาย **ระบุถึง** สิ่งต่อไปนี้หรือไม่:  **ข้อความ Add-Xheader/ModifySubject/Redirect/Delete/No action/ ข้อความ BCC**
+1. ในMicrosoft 365 Defenderอีเมลที่ <https://security.microsoft.com/> ไปที่ นโยบาย&การ& \> **ร่วมกัน** \> **ทางอีเมล** \> หรือ นโยบายภัยคุกคาม ในส่วน นโยบาย
 
-    ถ้าเป็นดังนั้น **บนแท็บ แบบ** ปรับแต่งเอง ให้ตรวจสอบการตั้งค่าของนโยบายที่ได้รับผลกระทบจากข้อความ อาจเป็นไปได้ว่าการตั้งค่ามาตรฐาน **ที่ปรับใช้** กับลูกค้า Exchange Online Protection ทั้งหมดที่ได้รับผลกระทบจากข้อความ
+   เมื่อต้องการไปที่หน้า **นโยบายป้องกันสแปม** <https://security.microsoft.com/antispam> โดยตรง ให้ใช้
 
-For more information on configuring spam filter policies, see [Configure your spam filter policies](https://go.microsoft.com/fwlink/?linkid=2101431).
+2. บนหน้า **นโยบายป้องกันสแปม** ให้เลือกนโยบายโดยการคลิกที่ชื่อของนโยบาย (ชนิดคือนโยบายการป้องกัน **สแปม** แบบเองหรือ ชื่อ คือ นโยบายขาเข้าของการป้องกันสแปม **(ค่าเริ่มต้น)**)
+3. ในเส้นปลิวรายละเอียดที่ปรากฏขึ้น ให้เลือก **แก้ไขการแอคชัน** ในส่วน **การแอคชัน**
+4. ในส่วน **การแอคชัน** ของข้อความ ให้ตรวจทานผลของสแปมความเชื่อมั่นสูง สแปม ฟิชชิ่ง และฟิชชิ่งที่มีความเชื่อมั่นสูง เพื่อดูว่าได้เลือกค่าใดๆ ต่อไปนี้ไว้
+   - **เพิ่มส่วนหัว X**
+   - **บรรทัดเรื่องที่ขึ้นหน้าด้วยข้อความ**
+   - **เปลี่ยนเส้นทางข้อความไปยังที่อยู่อีเมล**
+   - **ลบข้อความ**
+   - **ไม่มีการแอคชัน**
+
+   อาจเป็นไปได้ว่าการตั้งค่ามาตรฐาน **ที่ปรับใช้** กับExchange Online Protectionทั้งหมดที่ลูกค้าที่ได้รับผลกระทบกับข้อความ
+
+For more information, see [Configure anti-spam policies in EOP.](https://docs.microsoft.com/microsoft-365/security/office-365-security/configure-your-spam-filter-policies)

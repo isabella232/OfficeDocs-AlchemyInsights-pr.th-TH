@@ -12,16 +12,24 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002531"
 - "7375"
-ms.openlocfilehash: 100ce1685d95dc5e38a6b03b2ef2cf8c1c7a092157f4d30866b3dd36375ae2f0
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: e457f07a8180788dd612e0e905190276bd459856
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54045151"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58311418"
 ---
 # <a name="view-all-quarantined-messages"></a>ดูข้อความที่ถูกกักกันทั้งหมด
 
-1. ในศูนย์การจัดการ ให้ไปที่ศูนย์การรักษา [&การปฏิบัติตามนโยบาย](https://go.microsoft.com/fwlink/p/?linkid=2077143)
-2. ไปที่ ตรวจสอบ **การ**  >    >  **กักกันของการจัดการ** ภัยคุกคาม
+1. ในMicrosoft 365 Defenderที่ <https://security.microsoft.com> ให้ไปที่ ส่งอีเมล& \> **การกัก** \> **กันการร่วมกัน**
+
+   เมื่อต้องการไปที่หน้า **การ** กักกัน <https://security.microsoft.com/quarantine> โดยตรง ให้ใช้
+
+2. บนหน้า **การ** กักกัน ให้ **ตรวจสอบว่าเลือก** แท็บอีเมลแล้ว
 3. ตามค่าเริ่มต้น ข้อความจะถูกจัดเรียงจากใหม่ที่สุดไปเก่าที่สุดโดยยึดตามวันที่ที่ได้รับข้อความ คุณสามารถจัดเรียงเขตข้อมูลได้ด้วยการคลิกส่วนหัว
-4. คุณสามารถดําเนินการเป็นกลุ่มกับรายการได้มากถึง 100 รายการเท่านั้น ดังนั้น การกรองจึงยังสามารถช่วยลดชุดผลลัพธ์ถ้าคุณมีรายการมากกว่า 100 รายการ
+4. คุณสามารถดําเนินการแบบเป็นกลุ่มกับรายการได้มากถึง 100 รายการเท่านั้น ดังนั้น การกรองจึงยังสามารถช่วยลดชุดผลลัพธ์ถ้าคุณมีรายการมากกว่า 100 รายการ
+
+สำหรับข้อมูลเพิ่มเติม ให้ดูบทความต่อไปนี้:
+
+- [ค้นหาและปล่อยข้อความที่ถูกกักกันเป็นผู้ใช้](https://docs.microsoft.com/microsoft-365/security/office-365-security/find-and-release-quarantined-messages-as-a-user)
+- [จัดการข้อความและไฟล์ที่ถูกกักกันในฐานะผู้ดูแลระบบ](https://docs.microsoft.com/microsoft-365/security/office-365-security/manage-quarantined-messages-and-files)
