@@ -1,5 +1,5 @@
 ---
-title: การใช้คีย์ผลิตภัณฑ์ Office
+title: การใช้Officeผลิตภัณฑ์ของคุณ
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,25 +13,25 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001421"
 - "3550"
-ms.openlocfilehash: 16a86343f1c05a5094dc0dd5595c1299c9e44a26
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: c09363a2c8d3e610eb50f42b4cbaa4e69827927f9f66c56d4c88b7ede3d85126
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51808081"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54083933"
 ---
-# <a name="using-office-product-keys"></a>การใช้คีย์ผลิตภัณฑ์ Office
+# <a name="using-office-product-keys"></a>การใช้Officeผลิตภัณฑ์ของคุณ
 
-**คีย์ผลิตภัณฑ์ Office**
+**Office คีย์ผลิตภัณฑ์**
 
-ใช้บัญชี Microsoft ในการติดตั้งและเปิดใช้งาน Office และสั่งซื้อแอป Microsoft 365 แต่ละรายการ เช่น Project, Visio, Word, Excel และ Outlook For more information, see [Office prompting me for a product key](https://support.office.com/article/12a5763a-d45c-4685-8c95-a44500213759?ui=en-US&rs=en-US&ad=US#bkmk_promptforpkey)
+ใช้บัญชี Microsoft ในการติดตั้งและเปิดใช้งาน Office และแอป Microsoft 365 ที่ซื้อแต่ละรายการ เช่น Project, Visio, Word, Excel และ Outlook ดูข้อมูลเพิ่มเติมที่ Office[พร้อมท์ฉันเกี่ยวกับคีย์ผลิตภัณฑ์](https://support.office.com/article/12a5763a-d45c-4685-8c95-a44500213759?ui=en-US&rs=en-US&ad=US#bkmk_promptforpkey)
 
-- ถ้าการซื้อ Office ของคุณมาพร้อมกับคีย์ผลิตภัณฑ์ ให้ดู[จะใส่คีย์ผลิตภัณฑ์ Office ของคุณที่ไหน](https://support.office.com/article/Where-to-enter-your-Office-product-key-0a82e5ae-739e-4b92-a6f4-2ec780c185db)
+- ถ้าการซื้อ Officeมาพร้อมกับคีย์ผลิตภัณฑ์ ให้ดู จะ[ใส่คีย์ผลิตภัณฑ์Officeใด](https://support.office.com/article/Where-to-enter-your-Office-product-key-0a82e5ae-739e-4b92-a6f4-2ec780c185db)
 
-- หากต้องการความช่วยเหลือเกี่ยวกับคีย์ผลิตภัณฑ์ Office 365 Home หรือ Personal[ให้ดู การใช้คีย์ผลิตภัณฑ์กับ Office](https://support.office.com/article/using-product-keys-with-office-12a5763a-d45c-4685-8c95-a44500213759)
+- หากต้องการความช่วยเหลือเกี่ยวกับOffice 365ผลิตภัณฑ์ที่บ้านหรือส่วนบุคคล โปรดดู[การใช้คีย์ผลิตภัณฑ์Office](https://support.office.com/article/using-product-keys-with-office-12a5763a-d45c-4685-8c95-a44500213759)ผลิตภัณฑ์
 
-**การเปิดใช้งานการสมัครใช้งาน Office** 
+**การเปิดใช้งานOfficeการสมัครใช้งาน** 
 
-- ถ้าคุณซื้อการสมัครใช้งาน Microsoft 365 จากร้านค้าปลีก ให้ดู ใส่ [คีย์ผลิตภัณฑ์ของคุณที่แอป Microsoft 365 for](https://docs.microsoft.com/microsoft-365/commerce/enter-your-product-key)business
+- ถ้าคุณซื้อการสมัครใช้งาน Microsoft 365จากร้านค้าปลีก ให้ดู ใส่[คีย์ผลิตภัณฑ์ของคุณMicrosoft 365 Apps for business](https://docs.microsoft.com/microsoft-365/commerce/enter-your-product-key)
 
-- ถ้ามีข้อความแสดงข้อผิดพลาดเมื่อคุณพยายามแลกใช้คีย์ผลิตภัณฑ์ ให้ดู ปัญหาเกี่ยวกับคีย์ผลิตภัณฑ์ Microsoft [365 for business ของคุณ](https://docs.microsoft.com/microsoft-365/commerce/product-key-errors-and-solutions)
+- ถ้ามีข้อความแสดงข้อผิดพลาดเมื่อคุณพยายามแลกใช้คีย์ผลิตภัณฑ์ ให้ดู ปัญหา[กับคีย์ผลิตภัณฑ์ Microsoft 365ของคุณใช่ไหม](https://docs.microsoft.com/microsoft-365/commerce/product-key-errors-and-solutions)

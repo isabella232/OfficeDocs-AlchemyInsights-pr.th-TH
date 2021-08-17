@@ -13,20 +13,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "11228"
 - "9005470"
-ms.openlocfilehash: 0f2e3d2d2cfa205f95a5d5dc84f7293fbee165a2976248de75a96379becd6925
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 1eb0d949693916d1192fb75132207cd6a52e75840899e57c089a5f5aaca3ca88
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54072215"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57893154"
 ---
 # <a name="attack-surface-reduction-rules"></a>กฎการลดพื้นหน้าของการโจมตี
 
 การยกเว้นไฟล์หรือโฟลเดอร์อาจลดการป้องกันอย่างร้ายแรงจากกฎการลดพื้นหน้าของการโจมตีได้ ไฟล์ที่ถูกบล็อกโดยกฎจะได้รับอนุญาตให้เรียกใช้ และจะไม่มีบันทึกรายงานหรือเหตุการณ์ การยกเว้นจะใช้กับกฎทั้งหมดที่อนุญาตให้ยกเว้นได้
 
-การยกเว้น ASR จะใช้ไวยากรณ์เดียวกับโปรแกรมป้องกันไวรัสของ Microsoft Defenderแยกออก For details, see [Configure and validate exclusions for โปรแกรมป้องกันไวรัสของ Microsoft Defender scans](/microsoft-365/security/defender-endpoint/configure-exclusions-microsoft-defender-antivirus). เพื่อหลีกเลี่ยงปัญหา ให้ตรวจดู[ข้อผิดพลาดทั่วไปเพื่อหลีกเลี่ยงเมื่อระบุข้อยกเว้น](/microsoft-365/security/defender-endpoint/common-exclusion-mistakes-microsoft-defender-antivirus)
+การยกเว้น ASR จะใช้ไวยากรณ์เดียวกับโปรแกรมป้องกันไวรัสของ Microsoft Defenderแยกออก For details, see [Configure and validate exclusions for โปรแกรมป้องกันไวรัสของ Microsoft Defender scans](https://docs.microsoft.com/microsoft-365/security/defender-endpoint/configure-exclusions-microsoft-defender-antivirus). เพื่อหลีกเลี่ยงปัญหา ให้ตรวจดู[ข้อผิดพลาดทั่วไปเพื่อหลีกเลี่ยงเมื่อระบุข้อยกเว้น](https://docs.microsoft.com/microsoft-365/security/defender-endpoint/common-exclusion-mistakes-microsoft-defender-antivirus)
 
-กฎ ASR บางรายการไม่สนับสนุนข้อยกเว้น เมื่อต้องการตรวจสอบว่ากฎของคุณสนับสนุนข้อยกเว้นหรือไม่ ให้ดูตาราง กฎ [การลดพื้นหน้าของ](/microsoft-365/security/defender-endpoint/attack-surface-reduction#attack-surface-reduction-rules)การโจมตี
+กฎ ASR บางรายการไม่สนับสนุนข้อยกเว้น เมื่อต้องการตรวจสอบว่ากฎของคุณสนับสนุนข้อยกเว้นหรือไม่ ให้ดูตาราง กฎ [การลดพื้นหน้าของ](https://docs.microsoft.com/microsoft-365/security/defender-endpoint/attack-surface-reduction#attack-surface-reduction-rules)การโจมตี
 
 ## <a name="attack-surface-reduction-rules"></a>กฎการลดพื้นหน้าของการโจมตี
 
@@ -34,11 +34,11 @@ ms.locfileid: "54072215"
 
 สำหรับข้อมูลเพิ่มเติม ให้ดู:
 
-- [แมป GUID ของกฎ ASR กับชื่อ](/microsoft-365/security/defender-endpoint/attack-surface-reduction#attack-surface-reduction-rules)
+- [แมป GUID ของกฎ ASR กับชื่อ](https://docs.microsoft.com/microsoft-365/security/defender-endpoint/attack-surface-reduction#attack-surface-reduction-rules)
 - ความต้องการของกฎ ASR:
-    - [Windows 10 Pro เวอร์ชัน 1709 หรือใหม่กว่า](/windows/whats-new/whats-new-windows-10-version-1709)
-    - [Windows 10 Enterprise เวอร์ชัน 1709 หรือใหม่กว่า](/windows/whats-new/whats-new-windows-10-version-1709)
-    - [Windows เซิร์ฟเวอร์ เวอร์ชัน 1803 (แชนเนลรายครึ่งปี) หรือใหม่กว่า](/windows-server/get-started/whats-new-in-windows-server-1803)
+    - [Windows 10 Pro เวอร์ชัน 1709 หรือใหม่กว่า](https://docs.microsoft.com/windows/whats-new/whats-new-windows-10-version-1709)
+    - [Windows 10 Enterprise เวอร์ชัน 1709 หรือใหม่กว่า](https://docs.microsoft.com/windows/whats-new/whats-new-windows-10-version-1709)
+    - [Windows เซิร์ฟเวอร์ เวอร์ชัน 1803 (แชนเนลรายครึ่งปี) หรือใหม่กว่า](https://docs.microsoft.com/windows-server/get-started/whats-new-in-windows-server-1803)
 
 ## <a name="identify-the-correct-exclusion-to-apply"></a>ระบุการยกเว้นที่ถูกต้องที่จะปรับใช้
 
@@ -50,15 +50,15 @@ ms.locfileid: "54072215"
     - ให้ข้อยกเว้นเคร่งครัดที่สุดเท่าที่จะเป็นไปได้
     - ใช้อักขระตัวแทนที่ต้องการ (ตัวอย่างเช่น แทนที่ตัวแปรผู้ใช้)
 
-1. ปรับใช้ข้อยกเว้นตามความต้องการในการปรับใช้ของคุณ โปรดดูรายละเอียดที่ ปรับแต่ง [กฎการลดพื้นหน้าของ](/microsoft-365/security/defender-endpoint/customize-attack-surface-reduction)การโจมตี
+1. ปรับใช้ข้อยกเว้นตามความต้องการในการปรับใช้ของคุณ ดูรายละเอียดที่ ปรับแต่ง [กฎการลดพื้นหน้าของ](https://docs.microsoft.com/microsoft-365/security/defender-endpoint/customize-attack-surface-reduction)การโจมตี
 
 ## <a name="exclusion-is-not-honored"></a>ไม่รับการยกเว้น
 
-1. ระบุว่ากฎสนับสนุนข้อยกเว้นหรือไม่ ดูรายละเอียดที่ [กฎการลดพื้นหน้าของ](/microsoft-365/security/defender-endpoint/attack-surface-reduction#attack-surface-reduction-rules)การโจมตี
+1. ระบุว่ากฎสนับสนุนข้อยกเว้นหรือไม่ ดูรายละเอียดที่ [กฎการลดพื้นหน้าของ](https://docs.microsoft.com/microsoft-365/security/defender-endpoint/attack-surface-reduction#attack-surface-reduction-rules)การโจมตี
 
-1. ตรวจทานข้อยกเว้นที่ปรับใช้และตรวจสอบด้วยข้อมูลเหตุการณ์ของอักขระตัวแทนที่พิมพ์ผิดหรือมีแปลผิด หากต้องการข้อมูลเพิ่มเติม โปรดดูประเภท [การยกเว้นที่ได้รับการสนับสนุน](/microsoft-365/security/defender-endpoint/mac-exclusions#supported-exclusion-types)
+1. ตรวจทานข้อยกเว้นที่ปรับใช้และตรวจสอบด้วยข้อมูลเหตุการณ์ของอักขระตัวแทนที่พิมพ์ผิดหรือมีแปลผิด หากต้องการข้อมูลเพิ่มเติม โปรดดูประเภท [การยกเว้นที่ได้รับการสนับสนุน](https://docs.microsoft.com/microsoft-365/security/defender-endpoint/mac-exclusions#supported-exclusion-types)
 
-1. ถ้าผลกระทบของกฎสูงเกินไป ให้พิจารณาย้ายกฎ (ย้อนกลับ) ไปยังโหมดตรวจสอบเพื่อการตรวจสอบความถูกต้องเพิ่มเติม ดูรายละเอียดที่ [ทดสอบวิธีที่คุณลักษณะของ Microsoft Defender for Endpoint สามารถใช้งานในโหมด](/microsoft-365/security/defender-endpoint/audit-windows-defender)ตรวจสอบ
+1. ถ้าผลกระทบของกฎสูงเกินไป ให้พิจารณาย้ายกฎ (ย้อนกลับ) ไปยังโหมดตรวจสอบเพื่อการตรวจสอบความถูกต้องเพิ่มเติม ดูรายละเอียดที่ [ทดสอบวิธีที่คุณลักษณะของ Microsoft Defender for Endpoint สามารถใช้งานในโหมด](https://docs.microsoft.com/microsoft-365/security/defender-endpoint/audit-windows-defender)ตรวจสอบ
 
 1. รวบรวมข้อมูลการสนับสนุนเพื่อเปิดกรณีสนับสนุนโดยใช้การสั่งนี้:
     

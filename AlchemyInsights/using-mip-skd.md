@@ -12,21 +12,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002266"
 - "5631"
-ms.openlocfilehash: 79da600622cc02a3c959a32c84a413bb262bdc4b
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 3b5216f9ab67f50d0adffeac9154ef4ce2b28a8178e5857c64fbbd78884d77b6
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51770974"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54084005"
 ---
 # <a name="using-mip-skd"></a>การใช้ MIP SKD
 
-เมื่อต้องการใช้ MIP SDK มีหลายขั้นตอนที่ต้องใช้ในการตั้งค่าและกําหนดค่าการสมัครใช้งาน Office 365 และเวิร์กสเตชันไคลเอ็นต์ของคุณ ขั้นตอนเหล่านี้ ได้แก่
+เมื่อต้องการใช้ MIP SDK มีหลายขั้นตอนที่ต้องใช้ในการตั้งค่าและกําหนดค่าการสมัครใช้งาน Office 365 และเวิร์กสเตชันไคลเอ็นต์ ขั้นตอนเหล่านี้ ได้แก่
 
-- ลงทะเบียนสมัครใช้งาน Office 365
+- ลงทะเบียนรับOffice 365การสมัครใช้งาน
 - กําหนดค่าป้ายระดับความลับ
 - กําหนดค่าเวิร์กสเตชันไคลเอ็นต์ของคุณ
-- ลงทะเบียนแอปพลิเคชันไคลเอ็นต์กับ Azure Active Directory
+- ลงทะเบียนแอปพลิเคชันไคลเอ็นต์กับAzure Active Directoryของคุณ
 - ขอรับข้อตกลงการรวมการป้องกันข้อมูล (IPIA)
 - ตรวจสอบให้แน่ใจว่าแอปของคุณมีรันไทม์ที่ต้องมี
 
@@ -34,8 +34,8 @@ ms.locfileid: "51770974"
 
 ดูข้อมูลเพิ่มเติมที่:
 
-- [Microsoft Information Protection SDK Documentation](https://docs.microsoft.com/information-protection/develop/)
+- [การป้องกันข้อมูลของ Microsoft เอกสารประกอบ SDK](https://docs.microsoft.com/information-protection/develop/)
 - [คู่มือของนักพัฒนา Azure Information Protection](https://docs.microsoft.com/azure/information-protection/develop/developers-guide)
-- [ดาวน์โหลด Microsoft Information Protection Software Development Kit](https://www.microsoft.com/download/details.aspx?id=57392)
-- [การตั้งค่าและการกําหนดค่า SDK ของ Microsoft Information Protection (MIP)](https://docs.microsoft.com/information-protection/develop/setup-configure-mip)
+- [ดาวน์โหลดการป้องกันข้อมูลของ Microsoftพัฒนาซอฟต์แวร์](https://www.microsoft.com/download/details.aspx?id=57392)
+- [การป้องกันข้อมูลของ Microsoftและการกําหนดค่า SDK (MIP)](https://docs.microsoft.com/information-protection/develop/setup-configure-mip)
 - [Azure Code Samples for MIP SDK](https://azure.microsoft.com/resources/samples/?sort=0&term=mipsdk)

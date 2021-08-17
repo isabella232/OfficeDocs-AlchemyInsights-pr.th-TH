@@ -12,13 +12,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003219"
 - "9667"
-ms.openlocfilehash: eb7db65b163bec39a5186bc3e2339ff8a2960deb
-ms.sourcegitcommit: a6ab402f59e5ee1492bcf5ab7f18714fc251717d
+ms.openlocfilehash: 8329b94e6496b8ae408ec157446333b486e25496d4c83abaf62bd22b9f8a1f3c
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 03/22/2021
-ms.locfileid: "51038158"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54109331"
 ---
 # <a name="restrict-posting-to-all-company"></a>จํากัดการโพสต์ไปยังบริษัททั้งหมด
 
-สามารถจํากัดโพสต์ [ทั้งหมดของบริษัทใน Yammer](https://support.microsoft.com/office/restrict-all-company-posts-in-yammer-3219d2ae-db15-4c9f-9dd2-28559ae39a97) ได้โดยใช้การตั้งค่าที่ผู้ดูแลระบบสามารถใช้งานได้ ผู้ใช้จะยังคงสามารถตอบกลับเธรดที่เริ่มต้นโดยผู้ดูแลระบบ เว้นแต่ว่าผู้ดูแลระบบจะปิด [การสนทนา](https://support.microsoft.com/office/pin-close-and-report-conversations-in-yammer-62a5fbc2-ff1b-4418-9334-d2b4b17062cb)อย่างชัดเจน ไม่สามารถจํากัดการโพสต์ในชุมชน Yammer อื่นๆ ได้ในเวลานี้
+สามารถจํากัด[โพสต์ของบริษัททั้งหมดในYammer](https://support.microsoft.com/office/restrict-all-company-posts-in-yammer-3219d2ae-db15-4c9f-9dd2-28559ae39a97)ได้โดยใช้การตั้งค่าที่มีให้ผู้ดูแลระบบ ผู้ใช้จะยังคงสามารถตอบกลับเธรดที่เริ่มต้นโดยผู้ดูแลระบบ เว้นแต่ว่าผู้ดูแลระบบปิด [การสนทนา](https://support.microsoft.com/office/pin-close-and-report-conversations-in-yammer-62a5fbc2-ff1b-4418-9334-d2b4b17062cb)อย่างชัดเจน ยังไม่สามารถจํากัดการโพสต์ในYammerชุมชนอื่นได้ในเวลานี้

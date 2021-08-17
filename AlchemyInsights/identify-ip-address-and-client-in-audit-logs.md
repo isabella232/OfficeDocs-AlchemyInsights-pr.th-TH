@@ -13,18 +13,18 @@ ms.custom:
 - "1367"
 - "3100005"
 ms.assetid: ''
-ms.openlocfilehash: 080b3df3934781ebf0d0cd5243787bf6975fc5f123b5b1593c0b6d9ada4eae5d
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: 57a1756787f8297a2a1ab3012b95aaa2f33e6045
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57887519"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58313038"
 ---
 # <a name="identify-ip-address-and-client-in-audit-logs"></a>ระบุที่อยู่ IP และไคลเอ็นต์ในบันทึกการตรวจสอบ
 
 ที่อยู่ IP ที่สอดคล้องกับกิจกรรมโดยผู้ใช้Microsoft 365ผู้ดูแลระบบจะแสดงในบันทึกการตรวจสอบ ข้อมูลไคลเอ็นต์จะได้รับการบันทึกด้วย ต่อไปนี้เป็นขั้นตอนในการระบุข้อมูลดังกล่าว
 
-1. เข้าสู่ระบบศูนย์การปฏิบัติตาม[Microsoft 365การปฏิบัติตาม](https://protection.office.com/)นโยบาย
+1. เข้าสู่ระบบศูนย์การปฏิบัติตาม[Microsoft 365มาตรฐาน](https://protection.office.com/)ผลิตภัณฑ์
 
 2. ไปที่หน้า  >  **ค้นหาบันทึกการตรวจสอบ** การค้นหา
 

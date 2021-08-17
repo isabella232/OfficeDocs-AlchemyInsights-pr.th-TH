@@ -13,16 +13,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "12064"
 - "9006408"
-ms.openlocfilehash: 31924446f76ae8354773c8608968dca4ff3e24cf389f95ad02713e601fb7ff47
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: eeaf233d46fee73649c25d501abe161d28fc31d5b37011b862876f6fd34f0140
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53986946"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57893258"
 ---
 # <a name="issues-related-to-office-scripts"></a>ปัญหาที่เกี่ยวข้องกับOfficeสคริปต์
 
-เมื่อต้องการOfficeสคริปต์ของผู้ใช้ ในองค์กรของคุณต้องมีสิทธิ์การใช้งานที่ถูกต้องของแผน Microsoft 365 หรือ Office 365 เชิงพาณิชย์หรือ EDU ที่มีสิทธิ์เข้าถึงOfficeแอปบนเดสก์ท็อป:
+เมื่อต้องการOfficeสคริปต์ผู้ใช้ในองค์กรของคุณต้องมีสิทธิ์การใช้งานที่ถูกต้องในแผน Microsoft 365 หรือ Office 365 เชิงพาณิชย์หรือ EDU ที่มีสิทธิ์เข้าถึงOfficeแอปบนเดสก์ท็อป:
 
 - Microsoft 365 Business Standard
 - Microsoft 365 Apps for business
@@ -32,13 +32,13 @@ ms.locfileid: "53986946"
 - Office 365 A3
 - Office 365 A5
 
-อาจต้องใช้เวลาถึง 48 ชั่วโมงเพื่อให้การเปลี่ยนแปลงOfficeการตั้งค่าสคริปต์ของคุณมีผล ดูรายละเอียดที่[จัดการOfficeสคริปต์](/microsoft-365/admin/manage/manage-office-scripts-settings)
+อาจต้องใช้เวลาถึง 48 ชั่วโมงเพื่อให้การเปลี่ยนแปลงOfficeการตั้งค่าสคริปต์ของคุณมีผล โปรดดูรายละเอียดที่[จัดการOfficeสคริปต์](https://docs.microsoft.com/microsoft-365/admin/manage/manage-office-scripts-settings)
 
-เนื่องจากOfficeการใช้งานกับ Power Automate เราขอแนะOfficeนโยบายการป้องกันการสูญหายของข้อมูล (DLP) ที่มีอยู่ของคุณเพื่อให้แน่ใจว่าข้อมูลองค์กรของคุณจะยังคงได้รับการป้องกันในขณะที่ผู้ใช้Officeสคริปต์ For more information, see [Data loss prevention (DLP) policies](/power-automate/prevent-data-loss).
+เนื่องจากOfficeการใช้งานสคริปต์Power Automate เราขอแนะOfficeนโยบายการป้องกันข้อมูลสูญหาย (DLP) ที่มีอยู่ของคุณเพื่อให้แน่ใจว่าข้อมูลองค์กรของคุณจะยังคงได้รับการป้องกันในขณะที่ผู้ใช้Officeสคริปต์ For more information, see [Data loss prevention (DLP) policies](https://docs.microsoft.com/power-automate/prevent-data-loss).
 
 สำหรับข้อมูลเพิ่มเติม ให้ดู:
 
-[Office เอกสารประกอบสคริปต์](/office/dev/scripts/)<br/>
+[Office เอกสารประกอบสคริปต์](https://docs.microsoft.com/office/dev/scripts/)<br/>
 [บทนําOfficeสคริปต์ในExcel](https://support.microsoft.com/office/introduction-to-office-scripts-in-excel-9fbe283d-adb8-4f13-a75b-a81c6baf163a)<br/>
-[การแชร์Officeสคริปต์Excelสคริปต์ใน Excel For The Web](https://support.microsoft.com/office/sharing-office-scripts-in-excel-for-the-web-226eddbc-3a44-4540-acfe-fccda3d1122b)<br/>
-[บันทึก แก้ไข และสร้างสคริปต์OfficeในExcel บนเว็บ](/office/dev/scripts/tutorials/excel-tutorial)
+[การแชร์Officeสคริปต์ใน Excel For The Web](https://support.microsoft.com/office/sharing-office-scripts-in-excel-for-the-web-226eddbc-3a44-4540-acfe-fccda3d1122b)<br/>
+[บันทึก แก้ไข และสร้างสคริปต์OfficeในExcel บนเว็บ](https://docs.microsoft.com/office/dev/scripts/tutorials/excel-tutorial)

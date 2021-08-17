@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001667"
 - "3734"
-ms.openlocfilehash: 8c13ad21019ffa00067ea6be0af7f05210e264a8
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 2e6c2bec070bb2fc2d583479604c95e0f0e7d729601dc1b0e8b7edd04995dfe6
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51818127"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54082323"
 ---
 # <a name="change-your-lock-screen-background"></a>เปลี่ยนพื้นหลังหน้าจอเมื่อล็อก
 
-- ไปที่ **การตั้งค่า**  >  **ส่วนบุคคล**  >  **หน้าจอเมื่อ** ล็อก หรือคลิกหรือ [แตะ](ms-settings:lockscreen?activationSource=GetHelp)ที่นี่
+- ไปที่ **การตั้งค่า**  >  **ล็อก**  >  **การตั้งค่า** ส่วนบุคคล หรือคลิกหรือ [แตะ](ms-settings:lockscreen?activationSource=GetHelp)ที่นี่
 
 - เมื่อต้องการตั้งค่ารูปภาพพื้นหลังแบบ **ปรับแต่งเอง** ให้เลือก รูปภาพ **จากรายการ** ดรอปดาวน์ พื้นหลัง แล้วเลือก **หรือ** เรียกดูรูปภาพ
 
