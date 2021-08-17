@@ -1,5 +1,5 @@
 ---
-title: การใช้เครื่องมือการปรับใช้ Office
+title: การใช้เครื่องมือOfficeเครื่องมือการปรับใช้
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
@@ -12,31 +12,31 @@ ms.custom:
 - "918"
 - "2000022"
 ms.assetid: 7ff7cc06-76d0-468f-bd66-3f2760750d04
-ms.openlocfilehash: f3a5dbfc6b64ccd4f0b19a5f86236336e78838d4
-ms.sourcegitcommit: 35e2c122d8a838d98d1f0851c29b16282261580f
+ms.openlocfilehash: 39a011d4b121492d222ff620e70d9860231b7bcfe0d7fd2ecfd93de1ef502f5f
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 11/17/2020
-ms.locfileid: "49085851"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54083789"
 ---
-# <a name="using-the-office-deployment-tool-odt"></a>การใช้เครื่องมือการปรับใช้ Office (ODT)
+# <a name="using-the-office-deployment-tool-odt"></a>การใช้เครื่องมือOfficeการปรับใช้ (ODT)
 
-คุณใช้เครื่องมือการปรับใช้ Office (ODT) เพื่อปรับใช้ office ๓๖๕เวอร์ชันของ Office เครื่องมือการปรับใช้ Office (setupodt.exe) ถูกเรียกใช้จากบรรทัดคำสั่งและใช้ไฟล์ XML การกำหนดค่าเพื่อกำหนดว่าการตั้งค่าใดที่จะนำไปใช้เมื่อปรับใช้ Office
+คุณใช้เครื่องมือOfficeการปรับใช้ (ODT) ในการปรับใช้Office 365เวอร์ชันOffice The Office Deployment Tool (setup.exe) is run from the command line and uses a configuration XML file to determine what settings to apply when deploying Office.
   
-1. ดาวน์โหลดเครื่องมือการปรับใช้ Office เวอร์ชันล่าสุดจาก[ศูนย์ดาวน์โหลดของไมโครซอฟท์](https://go.microsoft.com/fwlink/p/?LinkID=626065)
+1. ดาวน์โหลดเครื่องมือการปรับใช้งานOfficeเวอร์ชันล่าสุดจาก[ศูนย์ดาวน์โหลด Microsoft](https://go.microsoft.com/fwlink/p/?LinkID=626065)
 
-2. ใช้ [เครื่องมือกำหนดเองของ Office (OCT)](https://config.office.com) เพื่อเลือกการกำหนดลักษณะการใช้งานของคุณและสร้างไฟล์การกำหนดค่า XML ส่งออกไฟล์การกำหนดค่าและวางภายในโฟลเดอร์เดียวกันกับที่ setupodt.exe อยู่
+2. Use the [Office Customization Tool (OCT)](https://config.office.com) to select your deployment preferences and create the configuration XML file. ส่งออกไฟล์การกําหนดค่าและวางไว้ในโฟลเดอร์เดียวกันsetup.exeอยู่
 
-    **หมายเหตุ:** ปัญหาการติดตั้ง Office มักเกิดขึ้นเนื่องจาก misconfigured หรือไฟล์การกำหนดค่า malformatted เมื่อต้องการหลีกเลี่ยงปัญหาดังกล่าวเราขอแนะนำให้คุณใช้เครื่องมือกำหนดเองของ Office เพื่อสร้างไฟล์การกำหนดค่า นอกจากนี้คุณยังสามารถนำเข้าไฟล์การกำหนดค่าที่มีอยู่ลงในเครื่องมือกำหนดเองของ Office ได้อีกด้วย
+    **หมายเหตุ:** Officeการติดตั้งใหม่มักเกิดขึ้นเนื่องจากไฟล์การกําหนดค่าที่ผิดพลาดหรือรูปแบบผิดปกติ เมื่อต้องการหลีกเลี่ยงปัญหาดังกล่าว เราขอแนะOfficeเครื่องมือการกําหนดค่าเพื่อสร้างไฟล์การกําหนดค่า คุณยังสามารถนําเข้าไฟล์การกําหนดค่าที่มีอยู่ลงในเครื่องมือการกําหนดOfficeเองได้
 
-3. จากพร้อมท์คำสั่งยกระดับให้สลับไปยังตำแหน่งที่ตั้งที่ setupodt.exe อยู่และเรียกใช้เครื่องมือการปรับใช้ Office ในโหมดดาวน์โหลดและระบุไฟล์การกำหนดค่าที่คุณเพิ่งบันทึก ในตัวอย่างนี้ไฟล์การกำหนดค่าจะถูกตั้งชื่อ Configuration.xml:
+3. จากพร้อมท์ของสั่งด้วยสิทธิ์ผู้ดูแล ให้สลับไปยังsetup.exeที่ตั้งที่คุณอยู่ และเรียกใช้เครื่องมือการปรับใช้ Office ในโหมดดาวน์โหลด และระบุไฟล์การกําหนดค่าที่คุณเพิ่งบันทึก ในตัวอย่างนี้ ไฟล์การกําหนดค่าจะถูกตั้งชื่อConfiguration.xml:
 
-```setupodt.exe /download Configuration.xml```
+```setup.exe /download Configuration.xml```
 
-4. เรียกใช้เครื่องมือการปรับใช้ Office ในโหมดกำหนดค่าและระบุไฟล์การกำหนดค่า
+4.เรียกใช้เครื่องมือOfficeการปรับใช้งานในโหมดกําหนดค่าและระบุไฟล์การกําหนดค่า
 
-```setupodt.exe /configure Configuration.xml```
+```setup.exe /configure Configuration.xml```
 
-**หมายเหตุ:** คุณต้องเรียกใช้ขั้นตอนนี้จากคอมพิวเตอร์ไคลเอ็นต์ที่คุณต้องการติดตั้ง Office และคุณต้องมีสิทธิ์ของผู้ดูแลระบบภายในบนคอมพิวเตอร์เครื่องนั้น
+**หมายเหตุ:** คุณต้องเรียกใช้ขั้นตอนนี้จากคอมพิวเตอร์ไคลเอ็นต์ที่คุณต้องการติดตั้งไคลเอ็นต์และOfficeสิทธิ์ระดับผู้ดูแลระบบภายในเครื่องบนคอมพิวเตอร์เครื่องนั้น
 
-เมื่อต้องการเรียนรู้เพิ่มเติมเกี่ยวกับการใช้เครื่องมือการปรับใช้ Office สำหรับสถานการณ์การปรับใช้ Microsoft ๓๖๕สำหรับองค์กรของคุณให้ดู[ที่ภาพรวมของเครื่องมือการปรับใช้ office](https://docs.microsoft.com/deployoffice/overview-office-deployment-tool) สำหรับรายละเอียดเพิ่มเติมเกี่ยวกับวิธีใช้เครื่องมือกำหนดเองของ Office ให้ดูที่[ภาพรวมของเครื่องมือกำหนดเองของ office](https://docs.microsoft.com/DeployOffice/overview-of-the-office-customization-tool-for-click-to-run)
+เมื่อต้องการเรียนรู้เพิ่มเติมเกี่ยวกับการใช้ Officeเครื่องมือการปรับใช้งานMicrosoft 365 Apps for enterpriseสถานการณ์การปรับใช้ ให้ดูที่[ภาพรวมของเครื่องมือOfficeการปรับใช้](https://docs.microsoft.com/deployoffice/overview-office-deployment-tool) For more details on how to use the Office Customization Tool, see [Overview of the Office Customization Tool](https://docs.microsoft.com/DeployOffice/overview-of-the-office-customization-tool-for-click-to-run).

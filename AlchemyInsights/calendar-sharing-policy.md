@@ -1,5 +1,5 @@
 ---
-title: นโยบายการแชร์ปฏิทินของ๖๑๘
+title: 618 นโยบายการแชร์ปฏิทิน
 ms.author: chrisda
 author: chrisda
 manager: scotv
@@ -15,27 +15,27 @@ ms.custom:
 - "899"
 - "3800014"
 ms.assetid: bc3db17b-87f8-4e50-b3ee-8b105b70d67a
-ms.openlocfilehash: d2511183d068330cdcfb4e08b08df4f18625c822
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 1f1bfb0273301c05f5fe5f8af5fb9039328390d16305e33897680dce1c1977e8
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47684249"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54091628"
 ---
 # <a name="policy-error-when-sharing-a-calendar"></a>ข้อผิดพลาดของนโยบายเมื่อแชร์ปฏิทิน
 
-1. ให้เลือกทำอย่างใดอย่างหนึ่งต่อไปนี้ตามความเหมาะสมกับสถานการณ์ของคุณ:
-    - เชื่อมต่อกับ Exchange Online โดยใช้ PowerShell ระยะไกล สำหรับข้อมูลเพิ่มเติมให้ดู[ที่เชื่อมต่อกับ Exchange Online โดยใช้ PowerShell ระยะไกล](https://technet.microsoft.com/library/jj984289%28v=exchg.160%29.aspx)
-    - บนเซิร์ฟเวอร์ภายในองค์กรให้เปิดเชลล์การจัดการ Exchange
-2. กำหนดนโยบายการแชร์ที่มอบหมายให้กับผู้ใช้ เมื่อต้องการทำเช่นนี้ให้เรียกใช้คำสั่งต่อไปนี้และบันทึกนโยบายที่ส่งกลับ:
+1. เลือกอย่างใดอย่างหนึ่งต่อไปนี้ตามความเหมาะสมกับสถานการณ์ของคุณ
+    - เชื่อมต่อ Exchange Online โดยใช้ PowerShell ระยะไกล For more information, see[เชื่อมต่อ Exchange Online using Remote PowerShell](https://technet.microsoft.com/library/jj984289%28v=exchg.160%29.aspx).
+    - บนเซิร์ฟเวอร์ภายในองค์กร ให้เปิด Exchange Management Shell
+2. ระบุนโยบายการแชร์ที่มอบหมายให้กับผู้ใช้ เมื่อต้องการเรียกใช้การสั่งต่อไปนี้ และโปรดสังเกตว่านโยบายถูกส่งกลับ:
 
     `
     Get-Mailbox User1 | fl *sharing*
     `
 
-3. อัปเดตกโยบายการแชร์สำหรับผู้ใช้ เมื่อต้องการทำเช่นนี้ให้ทำตามขั้นตอนต่อไปนี้:
-    - เปิดศูนย์การจัดการ Exchange
-    - คลิก**องค์กร**แล้วดับเบิลคลิกที่นโยบายที่กำหนดให้กับผู้ใช้ภายใต้การ**แชร์แต่ละรายการ** นี่คือนโยบายที่ส่งกลับในขั้นตอนที่2
-    - บนหน้ากฎการแชร์ให้เลือกระดับการแชร์ปฏิทินที่คุณต้องการอนุญาตภายใต้**ระบุข้อมูลที่คุณต้องการแชร์** คลิก**บันทึก**
+3. อัปเดตนโยบายการแชร์ของผู้ใช้ เมื่อต้องการให้ปฏิบัติตามขั้นตอนเหล่านี้:
+    - เปิด Exchangeการจัดการระบบ
+    - **คลิก** องค์กร แล้วดับเบิลคลิกนโยบายที่มอบหมายให้กับผู้ใช้ภายใต้ **การแชร์แต่ละรายการ** นี่คือนโยบายที่ถูกส่งกลับในขั้นตอนที่ 2
+    - บนหน้า กฎการแชร์ ให้เลือกระดับการแชร์ปฏิทินที่คุณต้องการอนุญาต **ภายใต้ ระบุข้อมูลที่คุณต้องการแชร์** **คลิก** บันทึก
 
-สำหรับข้อมูลเพิ่มเติมให้ดู[ที่: "นโยบายไม่อนุญาตให้สิทธิ์ในระดับนี้ไปยังข้อผิดพลาดของผู้รับอย่างน้อยหนึ่งข้อผิดพลาด" เมื่อผู้ใช้พยายามแชร์ปฏิทิน](https://docs.microsoft.com/exchange/troubleshoot/calendar-sharing/policy-permissions-issue)
+For more information see: ["Policy does not allowing permissions at this level to one or more of the recipient(s)" error when user tries to share calendar](https://docs.microsoft.com/exchange/troubleshoot/calendar-sharing/policy-permissions-issue).

@@ -1,5 +1,5 @@
 ---
-title: การใช้เว็บไซต์ Wix กับ Microsoft ซื้อหรือโดเมนที่มีการจัดการ
+title: การใช้เว็บไซต์ Wix กับโดเมนที่ซื้อหรือที่มีการจัดการของ Microsoft
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,21 +13,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "5855"
 - "9003096"
-ms.openlocfilehash: bef0943c8621043218088abf0deebddf6c19ef50
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: dd0f8beb8f1871c2c43ac14a7f6d1cce79386fcc353bb2a690ba184904ca5857
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47664765"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54083753"
 ---
-# <a name="using-a-wix-website-with-microsoft-purchased-or-managed-domains"></a>การใช้เว็บไซต์ Wix กับ Microsoft ซื้อหรือโดเมนที่มีการจัดการ
+# <a name="using-a-wix-website-with-microsoft-purchased-or-managed-domains"></a>การใช้เว็บไซต์ Wix กับโดเมนที่ซื้อหรือที่มีการจัดการของ Microsoft
 
-สำหรับข้อมูลเกี่ยวกับวิธีการใช้เว็บไซต์ Wix กับโดเมน Microsoft ที่ซื้อหรือที่มีการจัดการให้ดู[อัปเดตระเบียน DNS เพื่อเก็บเว็บไซต์ของคุณไว้กับผู้ให้บริการโฮสต์ปัจจุบันของคุณ](https://docs.microsoft.com/microsoft-365/admin/dns/update-dns-records-to-retain-current-hosting-provider)
+For information about how to use a Wix website with a Microsoft purchased or managed domain, see [Update DNS records to keep your website with your current hosting provider](https://docs.microsoft.com/microsoft-365/admin/dns/update-dns-records-to-retain-current-hosting-provider).
 
-สำหรับรายละเอียดให้ดูที่: 
+ดูรายละเอียดที่: 
 
-- บทความ Wix "การเชื่อมต่อโดเมนกับ Wix โดยใช้วิธีการชี้" ให้คำแนะนำในการเพิ่มระเบียน DNS ตาม outlined ในลิงก์ด้านบนแทนการเปลี่ยนชื่อเซิร์ฟเวอร์เมื่อคุณกำลังใช้ Microsoft ๓๖๕
+- บทความ Wix "การเชื่อมต่อโดเมนกับ Wix โดยใช้วิธีการชี้" ขอแนะMicrosoft 365 DNS ที่อธิบายไว้ในลิงก์ด้านบน
 
-- ถ้าคุณเลือกที่จะเปลี่ยนชื่อเซิร์ฟเวอร์เป็น Wix คุณจะต้องสร้างระเบียน DNS ที่ Wix สำหรับ Microsoft สำหรับข้อมูลเพิ่มเติมให้ดู[ที่สร้างระเบียน DNS ที่ Wix สำหรับ Microsoft](https://docs.microsoft.com/microsoft-365/admin/dns/create-dns-records-at-wix)
+- ถ้าคุณเลือกที่จะเปลี่ยนเซิร์ฟเวอร์ชื่อเป็น Wix คุณต้องสร้างระเบียน DNS ที่ Wix for Microsoft For more info, see [Create DNS records at Wix for Microsoft](https://docs.microsoft.com/microsoft-365/admin/dns/create-dns-records-at-wix).
 
-- ถ้าโดเมนของคุณถูกซื้อจาก Microsoft ชื่อเซิร์ฟเวอร์ไม่สามารถเปลี่ยนแปลงได้ ถ้าคุณต้องเปลี่ยนชื่อเซิร์ฟเวอร์โดเมนที่ซื้อของ Microsoft จะต้องถูกโอนไปยังผู้ให้บริการโฮสต์อื่นหลังจาก๖๐วัน สำหรับข้อมูลเพิ่มเติมให้ดู[ที่การโอนย้ายโดเมนจาก Microsoft ไปยังโฮสต์อื่น](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/transfer-a-domain-from-microsoft-to-another-host)
+- ถ้าโดเมนของคุณถูกซื้อจาก Microsoft เซิร์ฟเวอร์ชื่อไม่สามารถเปลี่ยนแปลงได้ ถ้าคุณต้องเปลี่ยนเซิร์ฟเวอร์ชื่อ โดเมนที่ซื้อโดย Microsoft ต้องถูกถ่ายโอนไปยังผู้ให้บริการโฮสต์อื่นหลังจาก 60 วัน ดูข้อมูลเพิ่มเติมได้ที่ โอนย้าย [โดเมนจาก Microsoft ไปยังโฮสต์](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/transfer-a-domain-from-microsoft-to-another-host)อื่น

@@ -14,12 +14,12 @@ ms.custom:
 - commerce_subscriptions
 - "87"
 - "1400001"
-ms.openlocfilehash: 23f136bdadcb892356c6faf8fd8ae8481aa8ff83
-ms.sourcegitcommit: 540a4e2515f7cfddee65519046454fc4437cd287
+ms.openlocfilehash: 132ae114cac8c2ae1af7495c960b962fadd547522c03b9887f9bde481fff4bba
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 08/01/2021
-ms.locfileid: "53686941"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57893974"
 ---
 # <a name="canceling-your-microsoft-365-subscription"></a>ยกเลิกการสมัครใช้งาน Microsoft 365 ใช่หรือไม่
 
@@ -33,4 +33,4 @@ ms.locfileid: "53686941"
 
 **การคืนเงิน:** เครดิตตามส่วนใดๆ จะถูกส่งกลับถึงคุณภายในรอบการเรียกเก็บเงินถัดไป
 
-เมื่อต้องการเรียนรู้เพิ่มเติม [ให้ดู ยกเลิกการสมัครใช้งาน](/microsoft-365/commerce/subscriptions/cancel-your-subscription)ของคุณ
+เมื่อต้องการเรียนรู้เพิ่มเติม [ให้ดู ยกเลิกการสมัครใช้งาน](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription)ของคุณ
