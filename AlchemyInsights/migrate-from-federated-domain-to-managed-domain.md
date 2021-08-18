@@ -1,5 +1,5 @@
 ---
-title: โยกย้ายจากโดเมนที่ติดต่อกับภายนอกกับโดเมนที่มีการจัดการ
+title: โยกย้ายจากโดเมนภายนอกไปยังโดเมนที่มีการจัดการ
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,13 +13,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "6117"
 - "9003238"
-ms.openlocfilehash: c7126d0f8aae4835e151a371c1a50f9b48346efa
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 0d986436b0ac10cf8e8f4dd78d1f70662dd8c0e9ce2b1c109191851fe9dd18e9
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47754826"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54113615"
 ---
-# <a name="migrate-from-federated-domain-to-managed-domain"></a>โยกย้ายจากโดเมนที่ติดต่อกับภายนอกกับโดเมนที่มีการจัดการ
+# <a name="migrate-from-federated-domain-to-managed-domain"></a>โยกย้ายจากโดเมนภายนอกไปยังโดเมนที่มีการจัดการ
 
-เมื่อต้องการแปลงหรือโยกย้ายโดเมนที่ติดต่อกับภายนอกของคุณไปยังโดเมนที่มีการจัดการให้ดูแนวทางในการ[โยกย้ายจากสหพันธรัฐไปยังการซิงโครไนซ์แฮชของรหัสผ่านสำหรับ Azure Active directory](https://docs.microsoft.com/azure/active-directory/hybrid/plan-migrate-adfs-password-hash-sync)
+เมื่อต้องการแปลงหรือโยกย้ายโดเมนภายนอกของคุณไปยังโดเมนที่มีการจัดการ ให้ดูแนวทางใน โยกย้ายจากการติดต่อกับภายนอก ไปยัง[การซิงโครไนซ์แฮชรหัสผ่าน](https://docs.microsoft.com/azure/active-directory/hybrid/plan-migrate-adfs-password-hash-sync)Azure Active Directory

@@ -14,18 +14,18 @@ ms.custom:
 - "726"
 - "1200004"
 ms.assetid: 8865c68e-7e8a-4135-a254-d7f69f1ded30
-ms.openlocfilehash: 6c4ddd53ab794ffad3179dd86a8f81785567cfe34240dff2aa0a1df11094883d
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: fe9e52023b809b38c43332a10a1184d114798cfe
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57897487"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58315893"
 ---
 # <a name="block-or-unblock-eternal-automatic-email-forwarding"></a>บล็อกหรือยกเลิกการบล็อกการส่งต่ออีเมลอัตโนมัติ
 
 เมื่อต้องการเปิดใช้งานหรือปิดใช้งานการส่งต่ออีเมลของกล่องจดหมายที่ระบุ ให้ดู [กําหนดค่าการส่งต่อ](https://docs.microsoft.com/microsoft-365/admin/email/configure-email-forwarding)อีเมล
 
-ผู้ดูแลระบบสามารถควบคุมการส่งต่อภายนอกขององค์กรได้โดยใช้ [นโยบายสแปม](https://docs.microsoft.com/microsoft-365/security/office-365-security/configure-the-outbound-spam-policy)ขาออก คุณจัดการนโยบายสแปมขาออกในพอร์ทัล Microsoft 365 Defender ที่หรือโดยใช้ <https://security.microsoft.com/antispam> cmdlet [Get-HostedOutboundSpamFilterPolicy](https://docs.microsoft.com/powershell/module/exchange/get-hostedoutboundspamfilterpolicy)ใน Exchange Online PowerShell
+ผู้ดูแลระบบสามารถควบคุมการส่งต่อภายนอกขององค์กรได้โดยใช้ [นโยบายสแปม](https://docs.microsoft.com/microsoft-365/security/office-365-security/configure-the-outbound-spam-policy)ขาออก คุณจัดการนโยบายสแปมขาออกในพอร์ทัล Microsoft 365 Defender ที่หรือโดยใช้ <https://security.microsoft.com/antispam> cmdlet [Get-HostedOutboundSpamFilterPolicy](https://docs.microsoft.com/powershell/module/exchange/get-hostedoutboundspamfilterpolicy) Exchange Online PowerShell
 
 ถ้าคุณได้รับข้อผิดพลาดต่อไปนี้: **"550 5.7.520 Access** ถูกปฏิเสธ องค์กรของคุณไม่อนุญาตให้ส่งต่อภายนอก" ตรวจสอบให้แน่ใจว่า นโยบายถูกกําหนดค่าเพื่อเปิดใช้งานข้อความส่งต่ออัตโนมัติภายนอก
 

@@ -1,5 +1,5 @@
 ---
-title: ความช่วยเหลือเกี่ยวกับการแสดงตนใน Microsoft Teams
+title: ความช่วยเหลือเกี่ยวกับการแสดงตนMicrosoft Teams
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,19 +13,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "6253"
 - "9003349"
-ms.openlocfilehash: 1385d015052ccc9c056cdb9e6a45e86177031c9b
-ms.sourcegitcommit: 3c708a4a349b60b59bc623c44fb78674c685f3c2
+ms.openlocfilehash: 4588b9a967dc51098be39906d0909e2a729e186a9943ee79e71d6ab50a666107
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 02/18/2021
-ms.locfileid: "50291739"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54088733"
 ---
-# <a name="help-with-presence-in-microsoft-teams"></a>ความช่วยเหลือเกี่ยวกับการแสดงตนใน Microsoft Teams
+# <a name="help-with-presence-in-microsoft-teams"></a>ความช่วยเหลือเกี่ยวกับการแสดงตนMicrosoft Teams
 
-การแสดงตนเป็นส่วนหนึ่งของโปรไฟล์ผู้ใช้ใน Microsoft Teams (และทั่วทั้ง Microsoft 365 หรือ Office 365) 
+การแสดงตนเป็นส่วนหนึ่งของโปรไฟล์ของผู้ใช้ในMicrosoft Teams (และMicrosoft 365หรือOffice 365) 
 
-สถานะการแสดงตนปัจจุบันของคุณ  **เปลี่ยนเป็น**  ไม่อยู่ เมื่อคุณล็อกคอมพิวเตอร์ของคุณ หรือเมื่อเข้าสู่โหมดไม่ได้ใช้งานหรือโหมดสลีป บนอุปกรณ์เคลื่อนที่ สถานะการแสดงตนของคุณ **จะเปลี่ยนเป็น**  ไม่อยู่ เมื่อใดก็ตามที่แอป Teams อยู่ในพื้นหลัง หากสถานะการแสดงตนไม่แสดงใน Teams หลังจากที่คุณประวัติย่อจากสถานะไม่ได้ใช้งาน โปรดตรวจสอบให้แน่ใจว่าคุณมี Teams เวอร์ชันล่าสุดและรอ 3 นาทีเพื่อให้สถานะอัปเดต ดูข้อมูลเพิ่มเติมใน Teams[สถานะการแสดงตนจริงของคุณไม่ได้แสดงใน Teams](https://docs.microsoft.com/microsoftteams/troubleshoot/teams-im-presence/presence-not-show-actual-status)
+สถานะการแสดงตนปัจจุบันของคุณ  **จะเปลี่ยนเป็น**  ไม่อยู่ เมื่อคุณล็อกคอมพิวเตอร์ของคุณ หรือเมื่อเข้าสู่โหมดไม่ได้ใช้งานหรือโหมดสลีป บนอุปกรณ์เคลื่อนที่ สถานะการแสดงตนของคุณ **จะเปลี่ยน** เป็น ไม่อยู่ เมื่อใดก็ตามที่Teamsอยู่ในพื้นหลัง ถ้าสถานะการแสดงตนไม่แสดงใน Teams หลังจากที่คุณประวัติย่อจากสถานะไม่ได้ใช้งาน แล้ว ตรวจสอบให้แน่ใจว่าคุณมี Teams เวอร์ชันล่าสุด และรอ 3 นาทีเพื่อให้สถานะอัปเดต For more information, see [Your actual presence status isn't reflected in Teams](https://docs.microsoft.com/microsoftteams/troubleshoot/teams-im-presence/presence-not-show-actual-status).
 
-ถ้าสถานะที่ติดต่อแสดงเป็นไม่รู้จัก ให้ปฏิบัติตาม https://docs.microsoft.com/microsoftteams/troubleshoot/teams-im-presence/contact-presence-status-unknown ขั้นตอนในการแก้ไขปัญหา
-ดูข้อมูลเพิ่มเติมเกี่ยวกับสถานะการแสดงตน[ใน Teams](https://docs.microsoft.com/microsoftteams/presence-admins)
+ถ้าสถานะที่ติดต่อแสดงเป็นไม่รู้จัก ให้ปฏิบัติตาม https://docs.microsoft.com/microsoftteams/troubleshoot/teams-im-presence/contact-presence-status-unknown ขั้นตอนในเพื่อแก้ไขปัญหา
+For more information on presence states, see [User presence in Teams](https://docs.microsoft.com/microsoftteams/presence-admins).
 

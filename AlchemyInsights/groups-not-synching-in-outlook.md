@@ -13,15 +13,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "11250"
 - "9000037"
-ms.openlocfilehash: 0b6d482cb0b5d625e80f3bb98779c76d2e6091bdce249724f9a36bf6192672b1
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: f6fb1eb94d42133e6d39fbd1dc0ea4161a956a66d8fa41b63fd72bf6e1dadce3
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57891366"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54088723"
 ---
 # <a name="microsoft-365-groups-not-synching-in-outlook"></a>Microsoft 365 กลุ่มไม่ synching ใน Outlook
 
-เมื่อต้องการMicrosoft 365การจัดกลุ่มอีเมล คุณต้องเปิดใช้งาน OAuth (การรับรองความถูกต้องสมัยใหม่) 
+เมื่อต้องการMicrosoft 365การจัดกลุ่มอีเมล คุณจึงต้องเปิดใช้งาน OAuth (การรับรองความถูกต้องสมัยใหม่) 
 
-For the steps to enable OAuth, see [Enable or disable modern authentication for Outlook in Exchange Online](https://docs.microsoft.com/exchange/clients-and-mobile-in-exchange-online/enable-or-disable-modern-authentication-in-exchange-online).
+For the steps to enable OAuth, see [Enable or disable modern authentication for Outlook in Exchange Online](/exchange/clients-and-mobile-in-exchange-online/enable-or-disable-modern-authentication-in-exchange-online).
