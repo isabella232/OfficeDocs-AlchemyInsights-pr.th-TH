@@ -13,18 +13,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002486"
 - "7524"
-ms.openlocfilehash: 38700b516887dd4789e826a02672b5cc5d8354b1cd0ff743ba321724903413ba
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: 777e09288347861fdb3356a54762ca63b08fcd85
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57895026"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58316949"
 ---
 # <a name="unblock-an-account-by-using-threat-management"></a>ยกเลิกการบล็อกบัญชีโดยใช้การจัดการภัยคุกคาม
 
 วิธีการมีดังนี้
 
-1. ไปที่พอร์ทัลMicrosoft 365 Defenderที่ <https://security.microsoft.com> \> **ตรวจสอบการ&** \> **ร่วมกันของผู้ใช้** \> **ที่ถูกห้ามการตรวจทานอีเมล**
+1. ไปที่พอร์ทัลMicrosoft 365 Defenderที่ <https://security.microsoft.com> \> **การตรวจทานการ&** \> **ร่วมกันของผู้ใช้** \> **ที่ถูกห้ามการตรวจทานอีเมล**
 
    เมื่อต้องการไปที่หน้า **ผู้ใช้ที่ถูก** ห้าม <https://security.microsoft.com/restrictedusers> โดยตรง ให้ใช้
 

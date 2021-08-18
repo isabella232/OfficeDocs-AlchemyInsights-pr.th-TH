@@ -1,5 +1,5 @@
 ---
-title: ปัญหาเกี่ยวกับการสมัครใช้งานสิทธิ์การใช้งานและบัญชีผู้ใช้
+title: ปัญหาเกี่ยวกับการสมัครใช้งาน สิทธิ์การใช้งาน และบัญชี
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,17 +13,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004324"
 - "7732"
-ms.openlocfilehash: a2476d5c3bd804577cf37dce98050050a55eaa52
-ms.sourcegitcommit: 3f1426f3cec23997f65a3e83376a9b348cc205ba
+ms.openlocfilehash: a54102577dcd2c9fc2c679615798aa646c4367886b6599cfc630f4a7f8484a2f
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 01/14/2021
-ms.locfileid: "49885277"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54087983"
 ---
-# <a name="issues-with-subscriptions-licenses-and-accounts"></a>ปัญหาเกี่ยวกับการสมัครใช้งานสิทธิ์การใช้งานและบัญชีผู้ใช้
+# <a name="issues-with-subscriptions-licenses-and-accounts"></a>ปัญหาเกี่ยวกับการสมัครใช้งาน สิทธิ์การใช้งาน และบัญชี
 
-1. ผู้ใช้ทั้งหมดใน Azure AD ฟรีสามารถใช้การรับรองความถูกต้องแบบหลายปัจจัยของ Azure โดยใช้[ค่าเริ่มต้นของการรักษาความปลอดภัย](https://docs.microsoft.com/azure/active-directory/fundamentals/concept-fundamentals-security-defaults)
-1. ทำ[ความเข้าใจเกี่ยวกับฟีเจอร์และสิทธิ์การใช้งานสำหรับการรับรองความถูกต้องแบบหลายปัจจัยของ AZURE AD](https://docs.microsoft.com/azure/active-directory/authentication/concept-mfa-licensing)
-1. เรียนรู้วิธีการ[เชื่อมโยงหรือเพิ่มการสมัครใช้งาน azure ไปยังผู้เช่า Azure active directory ของคุณ](https://docs.microsoft.com/azure/active-directory/fundamentals/active-directory-how-subscriptions-associated-directory)
-1. ทำตามขั้นตอนเหล่านี้เพื่อ[โอนการสมัครใช้งาน azure ไปยังไดเรกทอรี AD azure อื่น](https://docs.microsoft.com/azure/role-based-access-control/transfer-subscription)
-1. ให้ดูที่ [มอบหมายหรือเอาสิทธิ์การใช้งานออกในพอร์ทัล Active directory ของ Azure](https://docs.microsoft.com/azure/active-directory/fundamentals/license-users-groups) สำหรับคำแนะนำเกี่ยวกับวิธีการกำหนดหรือเอาสิทธิ์การใช้งานออกจากผู้ใช้
+1. ผู้ใช้ทั้งหมดในผู้เช่า Azure AD Free สามารถใช้การรับรองความถูกต้องโดยใช้หลายปัจจัยของ Azure[โดยใช้ค่าเริ่มต้นด้านความปลอดภัย](https://docs.microsoft.com/azure/active-directory/fundamentals/concept-fundamentals-security-defaults)
+1. เข้าใจ [ฟีเจอร์และสิทธิ์การใช้งานของ Azure AD การรับรองความถูกต้องโดยใช้หลาย](https://docs.microsoft.com/azure/active-directory/authentication/concept-mfa-licensing)ปัจจัย
+1. เรียนรู้วิธีการเชื่อมโยง[หรือเพิ่มการสมัครใช้งาน Azure ไปยังผู้Azure Active Directoryของคุณ](https://docs.microsoft.com/azure/active-directory/fundamentals/active-directory-how-subscriptions-associated-directory)
+1. ทําตามขั้นตอน [เหล่านี้เพื่อถ่ายโอนการสมัครใช้งาน Azure ไปยังไดเรกทอรี Azure AD](https://docs.microsoft.com/azure/role-based-access-control/transfer-subscription)อื่น
+1. ดู[มอบหมายหรือเอาสิทธิ์การใช้งานออกในพอร์ทัลAzure Active Directoryสําหรับ](https://docs.microsoft.com/azure/active-directory/fundamentals/license-users-groups)แนวทางเกี่ยวกับวิธีการกําหนดหรือลบสิทธิ์การใช้งานออกจากผู้ใช้

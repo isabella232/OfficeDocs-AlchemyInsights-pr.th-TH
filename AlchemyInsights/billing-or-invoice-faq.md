@@ -16,21 +16,21 @@ ms.custom:
 - "5525"
 - "1500005"
 - "5523"
-ms.openlocfilehash: d50f4c7a3ac7a8de8ab280c87f4b815479788bc04aef792dcc3e503bed5b2f03
-ms.sourcegitcommit: d71b18e1403859fbfc45ddd9a57c8ab68f4d9f96
+ms.openlocfilehash: a04d6c23caecc8766d91bd8aa17ca9df870de03c221b8bc162dfe4a98d961f48
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54501691"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57899595"
 ---
 # <a name="billing-or-invoice-faq"></a>ถามบ่อยเกี่ยวกับการเรียกเก็บเงินหรือใบแจ้งหนี้
 
-- การเรียกเก็บเงิน **สามารถถูกปฏิเสธ** เนื่องจากหลายสาเหตุ รวมถึงเมื่อบัตรเครดิตหมดอายุ เมื่อต้องการแก้ไข ให้ดู[อัปเดตรายละเอียดวิธีการเงิน](/microsoft-365/commerce/billing-and-payments/manage-payment-methods#update-payment-method-details)
-- ถ้าเลยกําหนด **การกําหนด** ใบเรียกเก็บเงินของคุณแล้ว ให้ใช้ฟีเจอร์ **กําหนดยอดดุล** ในใบเรียกเก็บเงินของคุณอีกครั้ง เมื่อต้องการแก้ไข ให้ดู [จะเกิดอะไรขึ้นถ้าฉันมียอดคงค้าง](/microsoft-365/commerce/billing-and-payments/pay-for-your-subscription#what-if-i-have-an-outstanding-balance)
-- คุณจะยังคงถูกเรียกเก็บเงินจากสิทธิ์การใช้งานที่ไม่ได้มอบหมายให้กับผู้ใช้ เมื่อต้องการป้องกันค่าธรรมเนียมที่ไม่เสียค่าใช้จ่าย ให้ลบสิทธิ์การใช้งานที่ไม่ได้ใช้ออกเพื่อลดการนับสิทธิ์การใช้งาน [ดู ซื้อหรือเอาสิทธิ์การใช้งาน](/microsoft-365/commerce/licenses/buy-licenses)ออกจากการสมัครใช้งาน
-- ถ้าคุณต้องการเปลี่ยน **ความถี่ในการเรียกเก็บเงินเป็น** รายเดือนหรือรายปี ให้ดู เปลี่ยน [ความถี่ในการเรียกเก็บเงิน](/microsoft-365/commerce/billing-and-payments/change-payment-frequency)ของคุณ
-- ถ้าคุณต้องการความช่วยเหลือเกี่ยวกับใบเรียกเก็บเงินของคุณ ให้ดู [เข้าใจใบแจ้งหนี้](/microsoft-365/commerce/billing-and-payments/understand-your-invoice2)ของคุณ
-- ถ้าคุณต้องการความช่วยเหลือในการ **ดู** ใบเรียกเก็บเงินของคุณ [ให้ดู ดูใบเรียกเก็บเงินหรือใบแจ้งหนี้](/microsoft-365/commerce/billing-and-payments/view-your-bill-or-invoice)ของคุณ
-- ถ้าคุณต้องการเปลี่ยนแปลงข้อมูลการเรียกเก็บเงิน ให้ดู เข้าใจ[โปรไฟล์การเรียกเก็บเงินหรือ](/microsoft-365/commerce/billing-and-payments/manage-billing-profiles)[เปลี่ยนที่อยู่การเรียกเก็บเงิน](/microsoft-365/commerce/billing-and-payments/change-your-billing-addresses)
+- การเรียกเก็บเงิน **สามารถถูกปฏิเสธ** เนื่องจากหลายสาเหตุ รวมถึงเมื่อบัตรเครดิตหมดอายุ เมื่อต้องการแก้ไข ให้ดู[อัปเดตรายละเอียดวิธีการเงิน](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods#update-payment-method-details)
+- ถ้าเลยกําหนด **การกําหนด** ใบเรียกเก็บเงินของคุณแล้ว ให้ใช้ฟีเจอร์ **ยอดคงเหลือใน** ใบเรียกเก็บเงินอีกครั้ง ในใบเรียกเก็บเงินของคุณ เมื่อต้องการแก้ไข ให้ดู [จะเกิดอะไรขึ้นถ้าฉันมียอดคงค้าง](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/pay-for-your-subscription#what-if-i-have-an-outstanding-balance)
+- คุณจะยังคงถูกเรียกเก็บเงินจากสิทธิ์การใช้งานที่ไม่ได้มอบหมายให้กับผู้ใช้ เมื่อต้องการป้องกันค่าธรรมเนียมที่ไม่เสียค่าใช้จ่าย ให้ลบสิทธิ์การใช้งานที่ไม่ได้ใช้ออกเพื่อลดสิทธิ์การใช้งาน [ดู ซื้อหรือเอาสิทธิ์การใช้งาน](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses)ออกจากการสมัครใช้งาน
+- ถ้าคุณต้องการเปลี่ยน **ความถี่ในการเรียกเก็บเงินเป็น** รายเดือนหรือรายปี ให้ดู เปลี่ยน [ความถี่ในการเรียกเก็บเงิน](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/change-payment-frequency)ของคุณ
+- ถ้าคุณต้องการความช่วยเหลือเกี่ยวกับใบเรียกเก็บเงินของคุณ ให้ดู [เข้าใจใบแจ้งหนี้](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/understand-your-invoice2)ของคุณ
+- ถ้าคุณต้องการความช่วยเหลือในการ **ดู** ใบเรียกเก็บเงินของคุณ [ให้ดู ดูใบเรียกเก็บเงินหรือใบแจ้งหนี้](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/view-your-bill-or-invoice)ของคุณ
+- ถ้าคุณต้องการเปลี่ยนแปลงข้อมูลการเรียกเก็บเงิน ให้ดู เข้าใจ[โปรไฟล์การเรียกเก็บเงิน](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-billing-profiles)หรือ[เปลี่ยนที่อยู่การเรียกเก็บเงิน](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/change-your-billing-addresses)
 
-ดูข้อมูลเพิ่มเติมได้ที่ เข้าใจ [ใบแจ้งหนี้](/microsoft-365/commerce/billing-and-payments/understand-your-invoice2)ของคุณ
+ดูข้อมูลเพิ่มเติมได้ที่ เข้าใจ [ใบแจ้งหนี้](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/understand-your-invoice2)ของคุณ

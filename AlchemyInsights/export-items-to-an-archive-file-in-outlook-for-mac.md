@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.custom:
 - "1800009"
 - "7350"
-ms.openlocfilehash: 374d03b97240c50ed8a3f20f36dce7bb5db2ede39cbe25711ed615efdbe1ac93
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 76c89da561655e44777dad55541a984e11f190a1
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54100421"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58316659"
 ---
 # <a name="export-items-to-an-archive-file-in-outlook-for-mac"></a>ส่งออกรายการไปยังไฟล์เก็บถาวรในOutlook for Mac
 
@@ -24,8 +24,7 @@ ms.locfileid: "54100421"
 
 1. **บนแท็บ** เครื่องมือ **ให้คลิก** ส่งออก
 
-> [!NOTE]
-> ไม่เห็นปุ่ม **ส่งออก** ใช่ไหม ตรวจสอบให้แน่ใจว่าคุณมีOutlookเวอร์ชันล่าสุด บนเมนู Outlook **วิธีใช้****ให้คลิก ตรวจหา** การอัปเดต ถ้ามีOutlookการอัปเดตทั้งหมดและคุณยังไม่เห็นปุ่ม **ส่งออก****ให้ค้นหา** ส่งออก บนเมนู Outlook **ไฟล์**
+    **หมายเหตุ**: ไม่เห็นปุ่ม **ส่งออก** ใช่หรือไม่ ตรวจสอบให้แน่ใจว่าคุณมีOutlookเวอร์ชันล่าสุด บนเมนู **Outlookวิธีใช้****ให้คลิก ตรวจหา** การอัปเดต ถ้าOutlookทั้งหมดถูกใช้งานและคุณยังไม่เห็นปุ่ม **ส่งออก****ให้ค้นหา** ส่งออก Outlook **เมนู** ไฟล์
 
 2. ในกล่อง **ส่งออกไปยังไฟล์เก็บถาวร (.olm)** ให้เลือกรายการที่คุณต้องการส่งออก แล้วคลิก **Continue**
 
@@ -37,10 +36,10 @@ For information on how to access the data that you've saved in an Outlook for Ma
 
 **ฉันต้องการส่งออกไปยัง iCloud หรือเป็นไฟล์เก็บถาวรชนิดอื่น**
 
-ตัวเลือกการส่งออกเดียวที่พร้อมใช้งานในนี้เป็นไฟล์เก็บถาวร .olm เมื่อต้องการร้องขอตัวเลือกการส่งออกเพิ่มเติม โปรดไปที่กล่อง[OutlookแนะOutlookเพื่อให้](https://outlook.uservoice.com/)ข้อเสนอแนะของคุณ ทีมOutlookจะตรวจสอบฟอรั่มนี้
+ตัวเลือกการส่งออกเดียวที่พร้อมใช้งานในนี้เป็นไฟล์เก็บถาวร .olm เมื่อต้องการร้องขอตัวเลือกการส่งออกเพิ่มเติม โปรดไปที่ กล่องOutlook[แนะOutlookให้](https://outlook.uservoice.com/)ข้อคิดเห็นของคุณ ทีมOutlookจะตรวจสอบฟอรั่มนี้
 
 **ดูเพิ่มเติม**
 
-- [นําเข้าไฟล์ .pst Outlook 2016 for MacจากOutlookไฟล์Windows](https://support.microsoft.com/office/import-a-pst-file-into-outlook-for-mac-from-outlook-for-windows-b4a6a1d6-94bb-4c85-a4fc-a83dc690e18c)
+- [นําเข้าไฟล์ .pst Outlook 2016 for MacจากOutlook for Windows](https://support.microsoft.com/office/import-a-pst-file-into-outlook-for-mac-from-outlook-for-windows-b4a6a1d6-94bb-4c85-a4fc-a83dc690e18c)
 
 - [ใช้ Time Machine เพื่อเก็บถาวรหรือย้อนกลับรายการโดยอัตโนมัติในOutlook 2016 for Mac](https://support.microsoft.com/office/automatically-archive-or-back-up-outlook-for-mac-items-441fcce5-2262-4b64-ac8c-fa949df989f5)

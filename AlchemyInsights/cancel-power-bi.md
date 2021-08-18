@@ -15,12 +15,12 @@ ms.custom:
 - commerce_subscriptions
 - "9002564"
 - "5092"
-ms.openlocfilehash: 9587793d60f9394721e192f5eb32e7cc9ecd1d43c77e970207a817cb30b5d799
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: efd4667d038d53412b3b0e5f9ef4d75d1555be2bfead6ec3316bb2dac4e2e26a
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54045937"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57899559"
 ---
 # <a name="cancel-power-bi"></a>ยกเลิก Power BI
 
@@ -31,9 +31,9 @@ ms.locfileid: "54045937"
 3. ในบานหน้าต่าง **ยกเลิก** การสมัครใช้งาน ให้เลือกเหตุผลว่าเหตุใดคุณจึงยกเลิก อีกทางหนึ่งคือ ให้ข้อเสนอแนะใดๆ
 4. เลือกบันทึก
 
-**การคืนเงิน: เครดิตตามส่วนจะถูกส่งกลับให้คุณภายในรอบการเรียกเก็บเงินถัดไป**
+**การคืนเงิน: เครดิตตามส่วนจะถูกส่งกลับถึงคุณภายในรอบการเรียกเก็บเงินถัดไป**
 
 > [!NOTE]
 > ถ้าคุณไม่เห็นตัวเลือกในการยกเลิก ให้เลือกการสมัครใช้งานเพื่อดูรายละเอียดหน้า ในส่วน **การตั้งค่าการสมัครใช้งานและการชเงิน** ให้เลือก **ยกเลิก** การสมัครใช้งาน
 
-เมื่อต้องการเรียนรู้เพิ่มเติม [ให้ดู ยกเลิกการสมัครใช้งาน](/microsoft-365/commerce/subscriptions/cancel-your-subscription)ของคุณ
+เมื่อต้องการเรียนรู้เพิ่มเติม [ให้ดู ยกเลิกการสมัครใช้งาน](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription)ของคุณ

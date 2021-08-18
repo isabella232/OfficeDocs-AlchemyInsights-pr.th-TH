@@ -13,13 +13,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "6739"
 - "9003778"
-ms.openlocfilehash: 828287ddf818920e86220a8a2a5d0997e04eda27
-ms.sourcegitcommit: 9fd002ce49ad9a7e58c3eb997a8063e2e1feab55
+ms.openlocfilehash: 468a7ff6cb65fb0027f4937dfe9f99fca381c76789ae1772d0054c8a02d68db9
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 10/06/2020
-ms.locfileid: "48462002"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54088199"
 ---
 # <a name="hybrid-mdm"></a>MDM แบบไฮบริด
 
-Microsoft ยกเลิกบริการ MDM แบบไฮบริดที่นำเสนอในวันที่1กันยายน๒๐๑๙ อุปกรณ์ MDM แบบไฮบริดที่เหลืออยู่จะไม่ได้รับนโยบายแอปหรือการอัปเดตความปลอดภัย สำหรับข้อมูลเพิ่มเติมให้ตรวจสอบ [ว่าเกิดอะไรขึ้นกับ MDM แบบไฮบริด](https://docs.microsoft.com/configmgr/mdm/understand/what-happened-to-hybrid)
+Microsoft ได้ถอนข้อเสนอบริการ MDM แบบไฮบริดในวันที่ 1 กันยายน 2019 อุปกรณ์ MDM แบบไฮบริดที่เหลืออยู่จะไม่ได้รับนโยบาย แอป หรือการอัปเดตความปลอดภัย หากต้องการข้อมูลเพิ่มเติม ให้ตรวจดู [จะเกิดอะไรขึ้นกับ MDM แบบไฮบริด](https://docs.microsoft.com/configmgr/mdm/understand/what-happened-to-hybrid)

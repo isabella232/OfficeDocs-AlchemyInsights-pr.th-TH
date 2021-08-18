@@ -13,15 +13,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "11224"
 - "9006572"
-ms.openlocfilehash: abb7b01c8ffd60b43555ee054f8de5d05f19ebea5588d1de9ed7f35532cb56ee
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: dc49d1f538d39711e65ba4e9e9297268dc8b8f2ba228aebc6a7154658c688deb
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54002571"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57899523"
 ---
 # <a name="error-546-or-5414-related-to-hop-count-exceeded"></a>ข้อผิดพลาด 5.4.6 หรือ 5.4.14 ที่เกี่ยวข้องกับการนับฮ็อพเกินขีด
 
-ถ้าคุณได้รับรหัสข้อผิดพลาด 5.4.6 หรือ 5.4.14 ที่เกี่ยวข้องกับการนับฮ็อพเกินอาจเกิดจากปัญหาการวนรอบของจดหมายใน Exchange Online
+ถ้าคุณได้รับรหัสข้อผิดพลาด 5.4.6 หรือ 5.4.14 ที่เกี่ยวข้องกับการนับฮ็อพเกินขีดอาจเกิดจากปัญหาการวนรอบของจดหมายใน Exchange Online
 
-เมื่อต้องการทําความเข้าใจเกี่ยวกับสาเหตุที่เป็นไปได้และโซลูชัน ให้ดู[การนับฮ็อพ](/exchange/mail-flow-best-practices/non-delivery-reports-in-exchange-online/fix-error-code-5-4-6-through-5-4-20-in-exchange-online)
+เมื่อต้องการทําความเข้าใจเกี่ยวกับสาเหตุที่เป็นไปได้และโซลูชัน ให้ดู[การนับฮ็อพ](https://docs.microsoft.com/exchange/mail-flow-best-practices/non-delivery-reports-in-exchange-online/fix-error-code-5-4-6-through-5-4-20-in-exchange-online)
