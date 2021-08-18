@@ -1,5 +1,5 @@
 ---
-title: ดาวน์โหลดรายงานการเข้าร่วมประชุมในTeams
+title: ดาวน์โหลดรายงานการเข้าร่วมประชุมใน Teams
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,17 +12,26 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002973"
 - "5687"
-ms.openlocfilehash: 99bbdff705fa0314c59d8750ecbd421e58dda739b11a0ac6298e15aa03fd8e47
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 7792f50c4949a21a2b31fb29b2af709be1febe1f
+ms.sourcegitcommit: 46e24d65cffd37b6988447c6738b3315303bbe13
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54004383"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58339087"
 ---
-# <a name="download-attendance-reports-in-teams"></a>ดาวน์โหลดรายงานการเข้าร่วมประชุมในTeams
+# <a name="download-attendance-reports-in-teams"></a>ดาวน์โหลดรายงานการเข้าร่วมประชุมใน Teams
 
-ผู้จัดการประชุมสามารถดาวน์โหลดรายงานการเข้าร่วมประชุมในระหว่างการประชุมได้ ในฐานะผู้ดูแลระบบ คุณสามารถควบคุมว่าจะให้ผู้จัดประชุมสามารถดาวน์โหลดรายงานการเข้าร่วมประชุมโดยการตั้งค่าTeamsการประชุมของคุณ ตามค่าเริ่มต้น ความสามารถในการดาวน์โหลดรายงานจะถูกปิดใช้งาน For steps on how to turn on this feature, see  [Meeting policy settings - Meeting attendance report](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams#meeting-policy-settings---meeting-attendance-report).
+ผู้จัดการประชุมสามารถดาวน์โหลดรายงานการเข้าร่วมประชุมในระหว่างการประชุมได้ ในฐานะผู้ดูแลระบบ คุณสามารถควบคุมว่าจะให้ผู้จัดประชุมสามารถดาวน์โหลดรายงานการเข้าร่วมประชุมโดยการตั้งค่าTeamsการประชุมของคุณ 
 
-เมื่อเปิดใช้งานตัวเลือกนี้ระหว่างการประชุม ผู้จัดการประชุมจะสามารถเลือก **แสดงผู้เข้าร่วม** แล้วเลือก **ดาวน์โหลดรายชื่อผู้เข้าร่วม** หากต้องการข้อมูลเพิ่มเติม โปรดดู ดาวน์โหลด[รายงานการเข้าร่วมประชุมในTeams Microsoft Teams](https://support.office.com/article/download-attendance-reports-in-teams-ae7cf170-530c-47d3-84c1-3aedac74d310)[การประชุมของคุณ](https://docs.microsoft.com/microsoftteams/teams-analytics-and-reports/meeting-attendance-report)
+ตามค่าเริ่มต้น ความสามารถในการดาวน์โหลดรายงานจะถูกปิดใช้งาน 
 
-**สิ่ง** สําคัญ: คุณจะสามารถดาวน์โหลดรายงานการเข้าร่วมประชุมได้ในขณะที่การประชุมอยู่ระหว่างการเข้าร่วมประชุมและผู้เข้าร่วมจะยังคงอยู่
+เมื่อต้องการเปิดใช้งานรายงานการเข้าร่วมประชุม: 
+1.  ไปที่[Teamsการจัดการ](https://admin.teams.microsoft.com/policies/meetings)
+1.  เลือก **ส่วนกลาง (ค่าเริ่มต้นทั่วทั้งองค์กร)** หรือนโยบายเฉพาะอื่นๆ
+1.  **ภายใต้** ทั่วไป ให้ไปที่ **การตั้งค่า อนุญาต** รายงานการมีส่วนร่วม **แล้วเลือก** เปิดใช้งาน
+
+หากต้องการข้อมูลเพิ่มเติมเกี่ยวกับรายงานการเข้าร่วมประชุม โปรดดู:
+
+- [การตั้งค่านโยบายการประชุม - รายงานการเข้าร่วมประชุม](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams#meeting-policy-settings---meeting-attendance-report)
+- [ดาวน์โหลดรายงานการเข้าร่วมประชุมใน Teams](https://support.office.com/article/download-attendance-reports-in-teams-ae7cf170-530c-47d3-84c1-3aedac74d310) 
+- [Microsoft Teamsรายงานการเข้าร่วมประชุม](https://docs.microsoft.com/microsoftteams/teams-analytics-and-reports/meeting-attendance-report)
