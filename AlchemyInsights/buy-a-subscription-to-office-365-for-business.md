@@ -16,16 +16,16 @@ ms.custom:
 - "257"
 - "1400007"
 ms.assetid: ed072510-d4b6-44ad-b24a-f99b9892eaa8
-ms.openlocfilehash: fc052672ecb4363204f3756080c7031fde44738ec9b9955aa7ffbe9b57d2603a
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: ca5e927ad200d6cbf47e2ff58a9c74b17fe70532
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57899039"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58325786"
 ---
-# <a name="buy-a-subscription-to-microsoft-365-from-your-free-trial"></a>ซื้อการสมัครใช้งานเพื่อMicrosoft 365เวอร์ชันทดลองใช้ฟรีของคุณ
+# <a name="buy-a-subscription-to-microsoft-365-from-your-free-trial"></a>ซื้อการสมัครใช้งานเพื่อMicrosoft 365จากเวอร์ชันทดลองใช้ฟรีของคุณ
 
-คุณได้ลองMicrosoft 365ผลิตภัณฑ์ของคุณแล้ว และตอนนี้คุณก็พร้อมที่จะซื้อ คุณมีสองตัวเลือกเมื่อซื้อMicrosoft 365เวอร์ชันทดลองใช้ของคุณ:
+คุณได้ลองMicrosoft 365ของคุณแล้ว และตอนนี้คุณก็พร้อมที่จะซื้อ คุณมีสองตัวเลือกเมื่อซื้อMicrosoft 365เวอร์ชันทดลองใช้ของคุณ:
   
  **ซื้อแผนเดียวกับเวอร์ชันทดลองใช้**
   
@@ -42,4 +42,4 @@ ms.locfileid: "57899039"
 
 **การแก้ไขปัญหา**
 
-หากคุณประสบปัญหากับการโหลดหน้า ให้ลองเปิดเว็บเพจในเบราว์เซอร์อื่น หรือลองเปิดหน้าต่างเบราว์เซอร์ส่วนตัวของหน้า เช่น หน้าต่าง InPrivate ในหน้าต่าง Microsoft Edge หรือหน้าต่างไม่ระบุตัวตนใน Google Chrome
+หากคุณประสบปัญหาในการโหลดหน้า ให้ลองเปิดเว็บเพจในเบราว์เซอร์อื่น หรือลองเปิดหน้าต่างเบราว์เซอร์ส่วนตัวของหน้า เช่น หน้าต่าง InPrivate ในหน้าต่าง Microsoft Edge หรือหน้าต่างไม่ระบุตัวตนใน Google Chrome

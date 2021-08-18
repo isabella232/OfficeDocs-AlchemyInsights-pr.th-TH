@@ -12,16 +12,16 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: commerce_purchasing
 ms.assetid: d2a9331d-12e3-4c35-b216-4bdddf6c92c3
-ms.openlocfilehash: ae9e8990e826a0cc0f6505dc6c0f2083599cd4866c7f4338d4a1c67568083616
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: 9a58e263201ae272f51e75bdb0a3826ae236f59e
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57895466"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58326244"
 ---
 # <a name="looking-to-buy-a-new-subscription"></a>ต้องการซื้อการสมัครใช้งานใหม่ใช่หรือไม่
 
-ถ้าคุณมีการสมัครใช้งาน Microsoft 365 for business อยู่แล้ว และต้องการซื้อการสมัครใช้งานอื่นให้กับองค์กรของคุณ ให้ไปที่หน้า บริการการสั่งซื้อการเรียกเก็บเงินเพื่อดูรายการการสมัครใช้งานที่ \> [](https://go.microsoft.com/fwlink/p/?linkid=868433)องค์กรของคุณสามารถใช้งานได้
+ถ้าคุณมีการสมัครใช้งาน Microsoft 365 for business อยู่แล้ว และต้องการซื้อการสมัครใช้งานอื่นให้องค์กรของคุณ ให้ไปที่หน้า บริการการสั่งซื้อการเรียกเก็บเงินเพื่อดูรายการการสมัครใช้งาน \> [](https://go.microsoft.com/fwlink/p/?linkid=868433)ที่องค์กรของคุณสามารถใช้งานได้
  
 1. เลือกการสมัครใช้งานที่คุณต้องการ **แล้วเลือก** ซื้อ
 

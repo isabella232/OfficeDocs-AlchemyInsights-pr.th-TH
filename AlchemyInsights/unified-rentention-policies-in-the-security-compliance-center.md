@@ -13,19 +13,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "5745"
 - "9000273"
-ms.openlocfilehash: 8d8cc53589c6643ececca29d86c53c1cb002b20f58b5b45789101c517cc1f703
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: 5c71106ed819aacd95e1b9ecf25f177f3596d44a
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57900527"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58327234"
 ---
 # <a name="unified-retention-policies-in-the-security--compliance-center"></a>นโยบายการเก็บข้อมูลแบบรวมในศูนย์การรักษา&การปฏิบัติตามนโยบาย
 
-นโยบายการเก็บข้อมูลช่วยให้คุณจัดการเนื้อหาขององค์กรของคุณโดยใช้การตั้งค่าการเก็บข้อมูลและการลบ คุณสามารถสร้างนโยบายการเก็บข้อมูลแบบรวมศูนย์การรักษาOffice 365การรักษา&การปฏิบัติตามนโยบายหรือในศูนย์Microsoft 365การปฏิบัติตามข้อบังคับ 
+นโยบายการเก็บข้อมูลช่วยให้คุณจัดการเนื้อหาขององค์กรของคุณโดยใช้การตั้งค่าการเก็บข้อมูลและการลบ คุณสามารถสร้างนโยบายการเก็บข้อมูลแบบรวมศูนย์การรักษาOffice 365การรักษา&การปฏิบัติตามข้อบังคับของไมโครซอฟท์ หรือในศูนย์การปฏิบัติตามMicrosoft 365นโยบาย 
 
 1. In the [Security & Compliance Center](https://go.microsoft.com/fwlink/p/?linkid=2077143), select Information **governance**  >  **Retention**  >  **+Create**. <br/>
-    ในศูนย์ [Microsoft 365การปฏิบัติตามนโยบาย](https://go.microsoft.com/fwlink/p/?linkid=2077149)ให้เลือก  >  **นโยบายการเก็บ>ข้อมูล > + นโยบายการเก็บข้อมูลใหม่**
+    ในศูนย์ [Microsoft 365การปฏิบัติตามนโยบาย](https://go.microsoft.com/fwlink/p/?linkid=2077149)ให้เลือก  >  **นโยบาย>การเก็บข้อมูล> + นโยบายการเก็บข้อมูลใหม่**
 2. **เพิ่ม ชื่อ****การตั้งค่า****แล้วเลือกสถานที่**
 3. ตรวจทานการตั้งค่าของคุณ แล้วเลือก สร้าง **นโยบายนี้****หรือ บันทึก ไว้** ใช้ในภายหลัง  
       

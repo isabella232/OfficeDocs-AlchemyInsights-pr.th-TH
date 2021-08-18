@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: 157baa1f1e3f48b47ba07b8c6d446f8e081a4ad24b7d48f50c4fc5af5518cdd6
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: ee45e86a143719914f7a7917730d7e840e90625f
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57896094"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58326816"
 ---
 # <a name="fix-tenant-policy-action-override"></a>แก้ไขนโยบายผู้เช่า (การแทนที่การปฏิบัติการ)
 
 นโยบายป้องกันสแปมนโยบายใดนโยบายหนึ่งของคุณที่ได้รับผลกระทบจากข้อความนี้ เมื่อต้องการตรวจสอบนโยบาย ให้ปฏิบัติตามขั้นตอนต่อไปนี้
 
-1. ในMicrosoft 365 Defenderอีเมลที่ <https://security.microsoft.com/> ไปที่ นโยบาย&การ& \> **ร่วมกัน** \> **ทางอีเมล** \> หรือ นโยบายภัยคุกคาม ในส่วน นโยบาย
+1. ในMicrosoft 365 Defenderที่ <https://security.microsoft.com/> ให้ไปที่ นโยบาย **&การ**& \> **นโยบาย** \> **ภัยคุกคาม** ทางอีเมล \> **ในส่วน** นโยบาย
 
    เมื่อต้องการไปที่หน้า **นโยบายป้องกันสแปม** <https://security.microsoft.com/antispam> โดยตรง ให้ใช้
 
@@ -36,6 +36,6 @@ ms.locfileid: "57896094"
    - **ลบข้อความ**
    - **ไม่มีการแอคชัน**
 
-   อาจเป็นไปได้ว่าการตั้งค่ามาตรฐาน **ที่ปรับใช้** กับExchange Online Protectionทั้งหมดที่ลูกค้าที่ได้รับผลกระทบกับข้อความ
+   อาจเป็นไปได้ว่าการตั้งค่ามาตรฐาน **ที่ปรับใช้** กับExchange Online Protectionทั้งหมดมีผลต่อข้อความ
 
 For more information, see [Configure anti-spam policies in EOP.](https://docs.microsoft.com/microsoft-365/security/office-365-security/configure-your-spam-filter-policies)
