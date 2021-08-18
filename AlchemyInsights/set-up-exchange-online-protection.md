@@ -13,15 +13,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004218"
 - "7419"
-ms.openlocfilehash: 05d2bad8a5bdd34b04e9b2c5d0bd3ffd8356e98acbb622e859e2464f09e6222b
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 3c5c27aee261d75ed41518e18617db96ce910ba13c32c8ac541a5ee81522ebea
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54085895"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57897815"
 ---
 # <a name="set-up-exchange-online-protection"></a>ตั้งค่าExchange Online Protection
 
-Microsoft Exchange Online Protection (EOP) คือบริการการกรองอีเมลบนระบบคลาวด์เพื่อป้องกันสแปมและมัลแวร์ ด้วยฟีเจอร์เพื่อป้องกันองค์กรของคุณจากการละเมิดนโยบายการส่งข้อความ
+Microsoft Exchange Online Protection (EOP) เป็นบริการการกรองอีเมลบนระบบคลาวด์เพื่อป้องกันสแปม มัลแวร์ และการปลอมแปลง ด้วยฟีเจอร์เพื่อป้องกันองค์กรของคุณจากการละเมิดนโยบายการส่งข้อความ
 
-ใช้คู่มือการตั้งค่า[Exchange Online Protection](https://go.microsoft.com/fwlink/?linkid=2071067)เพื่อตั้งค่า EOP โดยการเลือกระหว่างสถานการณ์การปรับใช้สามสถานการณ์ ได้แก่ กล่องจดหมายภายในองค์กร, กล่องจดหมายแบบไฮบริด (ผสมภายในองค์กรและระบบคลาวด์) หรือกล่องจดหมายระบบคลาวด์ทั้งหมดที่เหมาะกับองค์กรของคุณ คู่มือนี้จะให้ข้อมูลและทรัพยากรในการตั้งค่า EOP และตรวจสอบสิทธิ์การใช้งานของผู้ใช้กําหนดสิทธิ์ใน ศูนย์การจัดการ Microsoft 365 และกําหนดค่านโยบายป้องกันมัลแวร์และสแปมขององค์กรของคุณในศูนย์การปฏิบัติตามข้อบังคับของ & ความปลอดภัย
+ใช้[Exchange Online Protectionแนะ](https://admin.microsoft.com/adminportal/home?#/modernonboarding/setupexchangeonlineprotection)Exchange Online Protectionการตั้งค่า EOP โดยการเลือกสถานการณ์การปรับใช้สามสถานการณ์ที่เหมาะสมกับองค์กรของคุณที่สุด ดังนี้
+
+- กล่องจดหมายภายในองค์กรทั้งหมด
+- ไฮบริด (ผสมกล่องจดหมายภายในองค์กรและกล่องจดหมายระบบคลาวด์
+- กล่องจดหมายระบบคลาวด์ทั้งหมดที่เหมาะกับองค์กรของคุณ
+
+คู่มือนี้จะให้ข้อมูลและทรัพยากรในการตั้งค่า EOP และตรวจสอบสิทธิ์การใช้งานของผู้ใช้กําหนดสิทธิ์ใน ศูนย์การจัดการ Microsoft 365 และกําหนดค่านโยบายความปลอดภัยขององค์กรของคุณ

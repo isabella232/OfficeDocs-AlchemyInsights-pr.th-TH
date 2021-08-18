@@ -13,25 +13,25 @@ ms.collection: Adm_O365
 ms.custom:
 - "6028"
 - "9001222"
-ms.openlocfilehash: 6646ca4792ac4d9fb8bfb7433d53ecf4aeba8da0aca797225c16c02b28499889
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: ae17caa4be7809b591be9f9c042186f67828aa3c36a3d17332806e4d92545dc6
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54013263"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57898627"
 ---
 # <a name="issues-installing-microsoft-defender-on-mac-or-linux"></a>ปัญหาในการติดตั้ง Microsoft Defender บน Mac หรือ Linux
 
 **Mac**
 
-- ตรวจสอบให้แน่ใจว่าเป็นไปตามความต้องการของระบบก่อนที่จะติดตั้ง Microsoft Defender ATP for Mac ดูข้อมูลเพิ่มเติมได้ที่ วิธีการติดตั้ง[Microsoft Defender ATP for Mac](/windows/security/threat-protection/microsoft-defender-atp/microsoft-defender-atp-mac#how-to-install-microsoft-defender-atp-for-mac)  
+- ตรวจสอบให้แน่ใจว่าเป็นไปตามความต้องการของระบบก่อนที่จะติดตั้ง Microsoft Defender ATP for Mac ดูข้อมูลเพิ่มเติมได้ที่ วิธีการติดตั้ง[Microsoft Defender ATP for Mac](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/microsoft-defender-atp-mac#how-to-install-microsoft-defender-atp-for-mac)  
 - ตรวจทานข้อมูลในไฟล์: "/Library/Logs/Microsoft/mdatp/install.log"
 
 **Linux**
 
-- ตรวจสอบให้แน่ใจว่าเป็นไปตามความต้องการของระบบก่อนที่จะติดตั้ง Microsoft Defender ATP for Linux For more info, see [How to install MDATP for Linux](/windows/security/threat-protection/microsoft-defender-atp/microsoft-defender-atp-linux#system-requirements). 
-- เมื่อต้องการตรวจสอบว่าบริการ MDATP ใช้งานอยู่ ให้ดู [การติดตั้ง](/windows/security/threat-protection/microsoft-defender-atp/linux-support-install#installation-failed)ล้มเหลว  
-    เมื่อต้องการแก้ไขปัญหาถ้าบริการไม่ได้เรียกใช้อยู่ ให้ดู [ขั้นตอนการแก้ไขปัญหาถ้าบริการ mdatp ไม่ได้](/windows/security/threat-protection/microsoft-defender-atp/linux-support-install#steps-to-troubleshoot-if-mdatp-service-isnt-running)เรียกใช้อยู่
-- For steps to check the client configuration, which verifies the health of the product, and to run a detection test on the EICAR text file, see [Client configuration](/windows/security/threat-protection/microsoft-defender-atp/linux-install-manually#client-configuration).  
+- ตรวจสอบให้แน่ใจว่าเป็นไปตามความต้องการของระบบก่อนที่จะติดตั้ง Microsoft Defender ATP for Linux For more info, see [How to install MDATP for Linux](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/microsoft-defender-atp-linux#system-requirements). 
+- เมื่อต้องการตรวจสอบว่าบริการ MDATP ใช้งานอยู่ ให้ดู [การติดตั้ง](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/linux-support-install#installation-failed)ล้มเหลว  
+    เมื่อต้องการแก้ไขปัญหาถ้าบริการไม่ได้เรียกใช้อยู่ ให้ดู [ขั้นตอนการแก้ไขปัญหาถ้าบริการ mdatp ไม่ได้](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/linux-support-install#steps-to-troubleshoot-if-mdatp-service-isnt-running)เรียกใช้อยู่
+- For steps to check the client configuration, which verifies the health of the product, and to run a detection test on the EICAR text file, see [Client configuration](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/linux-install-manually#client-configuration).  
 
-    **หมายเหตุ** For a list of supported file systems for on-access activity, see [Microsoft Defender ATP for Linux](/windows/security/threat-protection/microsoft-defender-atp/microsoft-defender-atp-linux#system-requirements).
+    **หมายเหตุ** For a list of supported file systems for on-access activity, see [Microsoft Defender ATP for Linux](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/microsoft-defender-atp-linux#system-requirements).

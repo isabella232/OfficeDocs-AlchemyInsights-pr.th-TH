@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001720"
 - "7948"
-ms.openlocfilehash: ab9c11342b0499a08abbe8b66acf5d9b6ac7ce1302b0481b9ece4f440d4c9886
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 340b197f21f48122ba1fdc60e1ce7cfb0f75f432
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54082385"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58315857"
 ---
 # <a name="change-your-background-for-a-teams-meeting"></a>เปลี่ยนพื้นหลังของคุณTeamsการประชุม
 
@@ -25,5 +25,4 @@ ms.locfileid: "54082385"
 
 เมื่อต้องการเรียนรู้เพิ่มเติมเกี่ยวกับวิธีการเปลี่ยนพื้นหลังของคุณ ไม่ว่าจะก่อนหรือระหว่างการประชุม ให้ดูที่[เปลี่ยนพื้นหลังของคุณTeamsการประชุม](https://support.microsoft.com/office/change-your-background-for-a-teams-meeting-f77a2381-443a-499d-825e-509a140f4780)
 
-> [!NOTE]
-> ขณะนี้ผู้ใช้ Linux ไม่สามารถใช้ฟีเจอร์นี้ เอฟเฟ็กต์พื้นหลังยังไม่พร้อมใช้งานถ้าคุณใช้งานผ่านโครงสร้างพื้นฐานเดสก์ท็อปเสมือน (VDI) Teamsที่ปรับให้เหมาะสม
+**หมายเหตุ**: ขณะนี้ผู้ใช้ Linux จะยังใช้ฟีเจอร์นี้ไม่ได้ เอฟเฟ็กต์พื้นหลังยังไม่พร้อมใช้งานถ้าคุณใช้งานผ่านโครงสร้างพื้นฐานเดสก์ท็อปเสมือน (VDI) Teamsที่ปรับให้เหมาะสม

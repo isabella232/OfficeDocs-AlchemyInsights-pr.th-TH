@@ -13,16 +13,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "12470"
 - "9000192"
-ms.openlocfilehash: ccd345a75bac141ce541d3494ac8bbb7241b790f88045575ce1fb676320150f4
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: e5ce8600a32fa0f3993a652b219a4426808cfe1cdd0d2f6ed53ef27cb88006e4
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "57813024"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57897883"
 ---
 # <a name="remove-users-from-sharepoint"></a>เอาผู้ใช้ออกจากSharePoint
 
-เมื่อต้องการเรียนรู้เพิ่มเติมเกี่ยวกับการเอาผู้ใช้ที่ใช้งานอยู่หรือผู้ใช้ที่ถูกลบออกเพื่อให้ผู้ใช้เหล่านั้นไม่ปรากฏใน SharePoint ให้ดูที่[วิธีเอาผู้ใช้ที่ถูกลบออกจาก](/sharepoint/remove-users)SharePoint
+เมื่อต้องการเรียนรู้เพิ่มเติมเกี่ยวกับการเอาผู้ใช้ที่ใช้งานอยู่หรือผู้ใช้ที่ถูกลบออกเพื่อให้ผู้ใช้เหล่านั้นไม่ปรากฏใน SharePoint ให้ดูที่[วิธีเอาผู้ใช้ที่ถูกลบออกจาก](https://docs.microsoft.com/sharepoint/remove-users)SharePoint
 
 
 

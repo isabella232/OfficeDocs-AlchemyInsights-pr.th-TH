@@ -13,28 +13,28 @@ ms.collection: Adm_O365
 ms.custom:
 - "11491"
 - "9001464"
-ms.openlocfilehash: b1200f0dd206e27cccf96778beb0326c846e7504e51be283193b2630edfb4509
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 26ad9631111c250fd8b9ec32d4a6122f37f82513b7542231e402317aea4949dd
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54086759"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57899419"
 ---
 # <a name="performance-issues-for-microsoft-defender-for-endpoint-on-linux"></a>ปัญหาด้านประสิทธิภาพการ Microsoft Defender for Endpoint บน Linux
 
 บทความนี้จะแนะแนวคุณผ่านขั้นตอนในการระบุปัญหาด้านประสิทธิภาพการแต่ละอย่างของ Microsoft Defender for Endpoint บน Linux
 
-สิ่งสําคัญคือต้องตรวจสอบก่อนว่าปัญหาที่คุณพบได้รับการแก้ไขด้วย[เวอร์ชันล่าสุด](/microsoft-365/security/defender-endpoint/linux-whatsnew) 
+สิ่งสําคัญคือต้องตรวจสอบก่อนว่าปัญหาที่คุณพบได้รับการแก้ไขด้วย[เวอร์ชันล่าสุด](https://docs.microsoft.com/microsoft-365/security/defender-endpoint/linux-whatsnew) 
 
-เมื่อต้องการเริ่มการตรวจสอบ ให้ดู แก้ไขปัญหา[ประสิทธิภาพการโยกย้าย Microsoft Defender for Endpoint บน Linux](/microsoft-365/security/defender-endpoint/linux-support-perf)
+เมื่อต้องการเริ่มการตรวจสอบ ให้ดู แก้ไขปัญหา[ประสิทธิภาพการโยกย้าย Microsoft Defender for Endpoint บน Linux](https://docs.microsoft.com/microsoft-365/security/defender-endpoint/linux-support-perf)
 
 ## <a name="exclusions"></a>การยกเว้น
 
 การยกเว้นสามารถช่วยบรรเทาปัญหาด้านประสิทธิภาพการช่วยได้ ตรวจสอบข้อยกเว้นของคุณก่อนที่คุณจะเริ่มต้น เพื่อให้ทราบและทราบความเสี่ยงเพิ่มเติม
 
-For more information, see [Configure and validate exclusions for Microsoft Defender for Endpoint on Linux](/microsoft-365/security/defender-endpoint/linux-exclusions).
+For more information, see [Configure and validate exclusions for Microsoft Defender for Endpoint on Linux](https://docs.microsoft.com/microsoft-365/security/defender-endpoint/linux-exclusions).
 
-เมื่อคุณมีหลายไฟล์&โฟลเดอร์ที่ไม่ต้องการและทั้งหมดอยู่ในที่ยึดเดียวกัน การยกเว้นที่ยึดอาจง่ายกว่า เริ่มต้นด้วยรุ่นเดือนกุมภาพันธ์ 101.22.80 คุณไม่สามารถยกเว้นจุดยึดทั้งหมดได้
+เมื่อคุณมีหลายไฟล์&โฟลเดอร์ที่ไม่ต้องการและทั้งหมดอยู่ในที่ยึดเดียวกัน อาจง่ายกว่าหากไม่รวมที่ยึด เริ่มต้นด้วยรุ่นเดือนกุมภาพันธ์ 101.22.80 คุณไม่สามารถยกเว้นจุดยึดทั้งหมดได้
 
 ตัวอย่างเช่น ถ้า /mnt/backup เป็น mountpoint คุณสามารถเพิ่ม /mnt/backup ลงในรายการแยกโดยการเรียกใช้การสั่งนี้:
 

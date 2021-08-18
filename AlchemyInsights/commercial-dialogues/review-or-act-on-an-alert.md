@@ -13,22 +13,22 @@ ms.collection: Adm_O365
 ms.custom:
 - "3200002"
 - "7670"
-ms.openlocfilehash: d6d8f87c9c1ba76c6d0c83a7cac6f259028771e3b1f8d8755729381f79f5b342
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: e18aaa8abe7fd7cf501b612ecb08b9fca7d9c36e0e6552f75742beb770063e93
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54016467"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57897062"
 ---
 # <a name="review-or-act-on-an-alert"></a>รีวิวหรือกระทบการแจ้งเตือน
 
 ให้ปฏิบัติตามขั้นตอนต่อไปนี้
 
-1. ไปที่ ศูนย์ [การรักษา&การปฏิบัติตาม](https://go.microsoft.com/fwlink/p/?linkid=2077143)นโยบาย
-1. คลิก  >  **[การแจ้งเตือน ดู](https://go.microsoft.com/fwlink/?linkid=2103301)** การแจ้งเตือน
-1. คลิกการแจ้งเตือน ในบานหน้าต่างรายละเอียด ดูสิ่งที่ทริกเกอร์การแจ้งเตือน
-1. คลิกลิงก์ที่มีให้ใกล้กับรายละเอียด ถ้าคุณต้องการใช้การแจ้งเตือน
-1. **คลิก** แก้ไข ถ้าคุณต้องการปิดการแจ้งเตือน
+1. เลือกเลือกอย่างใดอย่างหนึ่งต่อไปนี้
+   - ในศูนย์การปฏิบัติตามข้อบังคับสําหรับ Microsoft 365 <https://compliance.microsoft.com> ที่ **ให้ไปที่** การแจ้งเตือน หรือเปิดหน้าโดยตรง <https://compliance.microsoft.com/compliancealerts> ที่
+   - ในMicrosoft 365 Defenderของ <https://security.microsoft.com> ที่ **ให้ไปที่** การแจ้งเตือน หรือเปิดหน้าโดยตรง <https://security.microsoft.com/alerts> ที่
+2. เลือกการแจ้งเตือน ในรายละเอียดที่ปรากฏขึ้น ให้ดูรายละเอียดที่ทริกเกอร์การแจ้งเตือนนั้น
+3. คลิกลิงก์ที่ให้ไว้ถ้าคุณต้องการใช้การแจ้งเตือน
+4. **คลิก** แก้ไข ถ้าคุณต้องการปิดการแจ้งเตือน
 
-เมื่อต้องการเรียนรู้เพิ่มเติมเกี่ยวกับการจัดการการแจ้งเตือน ให้ดูที่ [นโยบายการแจ้งเตือนในศูนย์การรักษาความปลอดภัยและการปฏิบัติตาม](https://go.microsoft.com/fwlink/?linkid=2103211)นโยบาย
-
+เมื่อต้องการเรียนรู้เพิ่มเติมเกี่ยวกับการจัดการการแจ้งเตือน ให้ดูที่[นโยบายการแจ้งเตือนใน Microsoft 365](https://docs.microsoft.com/microsoft-365/compliance/alert-policies)

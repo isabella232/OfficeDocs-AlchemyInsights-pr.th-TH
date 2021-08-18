@@ -17,12 +17,12 @@ ms.custom:
 - "9001497"
 - "4736"
 - "3551"
-ms.openlocfilehash: 0dcb9eae3241ae76850e9c5149b4c813b6967c70a431c3bea38fba1843967a95
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: d9e65533910eae15c58eb6b0881bdc60ebf1f5bbfaf0880da90811cb95c820a9
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53959516"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57897331"
 ---
 # <a name="reactivate-your-subscription"></a>เปิดใช้งานการสมัครใช้งานของคุณอีกครั้ง
 
@@ -33,11 +33,11 @@ ms.locfileid: "53959516"
 3. ในบานหน้าต่าง **เปิดใช้งานการสมัครใช้งานนี้ใหม่** ให้เลือกวิธีการเงินจากรายการดรอปดาวน์ หรือเลือก **เพิ่มวิธีการเงิน**
 4. เลือกบันทึก
 
-เมื่อต้องการเรียนรู้เพิ่มเติม [ให้ดู เปิดใช้งานการสมัครใช้งาน](/microsoft-365/commerce/subscriptions/reactivate-your-subscription)ของคุณอีกครั้ง
+เมื่อต้องการเรียนรู้เพิ่มเติม [ให้ดู เปิดใช้งานการสมัครใช้งาน](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/reactivate-your-subscription)ของคุณอีกครั้ง
 
 **จัดการการต่ออายุการสมัครใช้งาน**
 
-เมื่อต้องการจัดการการเรียกเก็บเงินรายเดือนหรือรายปี คุณสามารถสลับ **เปิดหรือปิด** การเรียกเก็บเงินเป็นกิจวัตรได้
+เมื่อต้องการจัดการการเรียกเก็บเงินรายเดือนหรือรายปี คุณสามารถ **สลับเปิดหรือปิดการเรียกเก็บเงิน** เป็นกิจวัตรได้
 
 1. ในศูนย์การจัดการ ให้ไปที่หน้า  >  [การเรียกเก็บเงินผลิตภัณฑ์](https://go.microsoft.com/fwlink/p/?linkid=842054)ของคุณ
 2. **บนแท็บ** ผลิตภัณฑ์ ให้เลือกการสมัครใช้งานที่คุณต้องการเปลี่ยนแปลง
@@ -45,4 +45,4 @@ ms.locfileid: "53959516"
 4. ในบานหน้าต่าง **แก้ไขการตั้งค่าการเรียกเก็บเงินเป็นกิจ** วัตร **ให้เลือก** เปิด เปิด **แต่ต่ออายุหนึ่งครั้ง****หรือ** ปิด
 5. เลือกบันทึก
 
-ดูข้อมูลเพิ่มเติมได้ที่ ปิด [หรือเปิดการเรียกเก็บเงินแบบเป็นกิจวัต](/microsoft-365/commerce/subscriptions/renew-your-subscription#turn-recurring-billing-off-or-on)ร
+ดูข้อมูลเพิ่มเติมได้ที่ ปิด [หรือเปิดการเรียกเก็บเงินแบบเป็นกิจวัต](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/renew-your-subscription#turn-recurring-billing-off-or-on)ร
