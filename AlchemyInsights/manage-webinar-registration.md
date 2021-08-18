@@ -13,18 +13,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "11512"
 - "9006672"
-ms.openlocfilehash: ed05eb30df4a4d8b6616d2b57ebe493f33e187144b9d5180dc508d7517326c8a
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: 8970a7510d803025757d27a71daf5670906d20ed
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57901095"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58318271"
 ---
 # <a name="manage-webinar-registration"></a>จัดการการลงทะเบียนการสัมมนาผ่านเว็บ
 
-การลงทะเบียนการสัมมนาผ่านเว็บจะเปิดใช้งานตามค่าเริ่มต้น ถ้าคุณต้องการปิดการลงทะเบียนการประชุม คุณสามารถใช้ศูนย์การจัดการ Teams: 
+การลงทะเบียนการสัมมนาผ่านเว็บจะเปิดใช้งานตามค่าเริ่มต้น ถ้าคุณต้องการปิดการลงทะเบียนการประชุม คุณสามารถใช้ศูนย์การจัดการ Teams ได้ดังนี้ 
 
-1. ไปที่ Teams[การจัดการ](https://admin.teams.microsoft.com/policies/meetings) 
+1. ไปที่[Teamsการจัดการ](https://admin.teams.microsoft.com/policies/meetings) 
 
 2. เลือก **ส่วนกลาง (ค่าเริ่มต้นทั่วทั้งองค์กร)** หรือนโยบายเฉพาะอื่นๆ 
 
@@ -32,7 +32,7 @@ ms.locfileid: "57901095"
 
 เมื่อการลงทะเบียนการประชุมถูกตั้งค่าเป็น **เปิด** คุณยังสามารถจัดการผู้ที่ลงทะเบียนTeamsการสัมมนาผ่านเว็บโดยใช้ศูนย์Teams: 
 
-1. ไปที่ Teams[การจัดการ](https://admin.teams.microsoft.com/policies/meetings) 
+1. ไปที่[Teamsการจัดการ](https://admin.teams.microsoft.com/policies/meetings) 
 
 2. เลือก **ส่วนกลาง (ค่าเริ่มต้นทั่วทั้งองค์กร)** หรือนโยบายเฉพาะอื่นๆ 
 

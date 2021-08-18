@@ -1,5 +1,5 @@
 ---
-title: การลงทะเบียนอุปกรณ์ Android ลงใน Intune
+title: การลงทะเบียนอุปกรณ์ Android ลงใน Intuns
 ms.author: erikje
 author: erikje
 manager: dougeby
@@ -12,26 +12,26 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000652"
 - "2494"
-ms.openlocfilehash: c39fec48f791d5cc4a97688cc7b5cd93010403a2
-ms.sourcegitcommit: f8b41ecda6db0b8f64fe0c51f1e8e6619f504d61
+ms.openlocfilehash: 97b83d0982f9556fd28a62cc12e3b89259686270c684a46721f0ef3d683e5ae6
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 10/28/2020
-ms.locfileid: "48791277"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54090174"
 ---
-# <a name="enrolling-android-devices-into-intune"></a>การลงทะเบียนอุปกรณ์ Android ลงใน Intune
+# <a name="enrolling-android-devices-into-intune"></a>การลงทะเบียนอุปกรณ์ Android ลงใน Intuns
 
-ถ้าคุณกำลังมองหาการโยกย้ายผู้ใช้จากการลงทะเบียนผู้ดูแลระบบอุปกรณ์ Android ไปยัง Android Enterprise โปรดตรวจทาน:[ย้ายอุปกรณ์ Android จากผู้ดูแลระบบอุปกรณ์ไปยังการจัดการโปรไฟล์การทำงาน](https://docs.microsoft.com/mem/intune/enrollment/android-move-device-admin-work-profile)
+ถ้าคุณต้องการโยกย้ายผู้ใช้จากการลงทะเบียนผู้ดูแลระบบอุปกรณ์ Android ไปยัง Android Enterprise โปรดตรวจทาน: ย้ายอุปกรณ์ [Android จากผู้ดูแลระบบอุปกรณ์ไปยังการจัดการโปรไฟล์](https://docs.microsoft.com/mem/intune/enrollment/android-move-device-admin-work-profile)งาน
 
-Intune สนับสนุนการลงทะเบียนอุปกรณ์ Android ต่อไปนี้:  
+Intun1 สนับสนุนการลงทะเบียนอุปกรณ์ Android ต่อไปนี้:  
 
-- [ซัมซุง Knox, ม้าลาย, ผู้ดูแลระบบอุปกรณ์](https://docs.microsoft.com/mem/intune/enrollment/android-enroll-device-administrator)
-- [โปรไฟล์การทำงานขององค์กร Android](https://docs.microsoft.com/mem/intune/enrollment/android-enterprise-overview)
-- [Android Enterprise ที่ทุ่มเท](https://docs.microsoft.com/mem/intune/enrollment/android-dedicated-devices-fully-managed-enroll)
-- [Android Enterprise ที่มีการจัดการทั้งหมด](https://docs.microsoft.com/mem/intune/enrollment/android-fully-managed-enroll)
+- [Samsung Knox, Zebra, ผู้ดูแลอุปกรณ์](https://docs.microsoft.com/mem/intune/enrollment/android-enroll-device-administrator)
+- [โปรไฟล์งาน Android Enterprise](https://docs.microsoft.com/mem/intune/enrollment/android-enterprise-overview)
+- [เฉพาะ Android Enterprise](https://docs.microsoft.com/mem/intune/enrollment/android-dedicated-devices-fully-managed-enroll)
+- [Android Enterprise ที่มีการจัดการอย่างเต็มรูปแบบ](https://docs.microsoft.com/mem/intune/enrollment/android-fully-managed-enroll)
 
-ก่อนที่จะตั้งค่าการลงทะเบียนสำหรับอุปกรณ์ Android ให้[ตรวจทานก่อน requisites](https://docs.microsoft.com/intune/enrollment/android-enroll)  
+ก่อนที่จะตั้งค่าการลงทะเบียนอุปกรณ์ Android[ให้ตรวจดูไซต์ก่อน](https://docs.microsoft.com/intune/enrollment/android-enroll)  
 
-สำหรับข้อมูลเกี่ยวกับการแก้ไขปัญหาการลงทะเบียนอุปกรณ์ในทั่วไปและข้อผิดพลาดการลงทะเบียน Android บางรายการให้ดูที่การ[แก้ไขปัญหาการลงทะเบียนอุปกรณ์ใน Microsoft Intune](https://docs.microsoft.com/mem/intune/enrollment/troubleshoot-android-enrollment)
+For information on troubleshooting device enrollment in general and some Android enrollment errors, see [Troubleshoot device enrollment in Microsoft Intune](https://docs.microsoft.com/mem/intune/enrollment/troubleshoot-android-enrollment).
 
-นอกจากนี้คุณยังสามารถใช้เนื้อหาที่อธิบายถึงใบมีดการแก้ไขปัญหาของ Intune เพื่อช่วยระบุว่าปัญหาการลงทะเบียนผู้ใช้ของคุณประสบปัญหาอะไรบ้าง
+คุณยังสามารถใช้เนื้อหาที่อธิบายการแก้ไขปัญหา Intun1 blade เพื่อช่วยระบุปัญหาการช่วยระบุว่าผู้ใช้ของคุณประสบกับปัญหาใด

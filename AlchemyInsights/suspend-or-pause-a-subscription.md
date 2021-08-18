@@ -14,16 +14,16 @@ ms.custom:
 - commerce_subscriptions
 - "9002927"
 - "5603"
-ms.openlocfilehash: 8fe79ddda20443b75e3c315b6bd90a60c9cebfa5
-ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
+ms.openlocfilehash: 8f15c401ffd6142ca5910c23760b169d7b1657c711ec19094ac7a2940e40a629
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58317363"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57900819"
 ---
 # <a name="suspend-or-pause-a-subscription"></a>ระงับหรือหยุดการสมัครใช้งานชั่วคราว
 
-เมื่อต้องการระงับหรือหยุดการสมัครใช้งานชั่วคราวชั่วคราว คุณสามารถยกเลิกการสมัครใช้งานศูนย์การจัดการ Microsoft 365ชั่วคราว
+เมื่อต้องการระงับหรือหยุดการสมัครใช้งานชั่วคราวชั่วคราว คุณสามารถยกเลิกการสมัครใช้งานศูนย์การจัดการ Microsoft 365ได้
 
 1. ในศูนย์การจัดการ ให้ไปที่หน้า  >  **[การเรียกเก็บเงินผลิตภัณฑ์](https://go.microsoft.com/fwlink/p/?linkid=842054)** ของคุณ
 2. **บนแท็บ** ผลิตภัณฑ์ ให้ค้นหาการสมัครใช้งานที่คุณต้องการยกเลิก เลือกจุดสามจุด (การทําเพิ่มเติม) **จากนั้นเลือก ยกเลิก** การสมัครใช้งาน

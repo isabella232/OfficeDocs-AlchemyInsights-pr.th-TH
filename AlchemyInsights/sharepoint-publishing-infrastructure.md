@@ -11,17 +11,16 @@ ms.assetid: de63d2e1-f053-40ed-ac1a-041ddafefba0
 ms-custom:
 - "1846"
 - "9000253"
-ms.openlocfilehash: 2ce3d5467d8582aa3a3216b0efbc73ead5570248c4da57e175e0d4decc326f1c
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 341a77e9a6738cd96a8b4587e52e633be0176010
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54051109"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58318107"
 ---
 # <a name="sharepoint-publishing-infrastructure"></a>SharePoint โครงสร้างพื้นฐานของการประกาศ
 
-> [!IMPORTANT]
-> ไซต์การติดต่อสื่อสารที่ทันสมัยไม่สนับสนุนฟีเจอร์การประกาศแบบคลาสสิกที่เรียกว่า โครงสร้างพื้นฐานSharePoint Server Publishing เมื่อพยายามเปิดใช้งานฟีเจอร์ของไซต์การติดต่อสื่อสารที่ทันสมัย คุณจะได้รับข้อผิดพลาด ไซต์การติดต่อสื่อสารที่ทันสมัยให้ทางเลือกที่ใหม่กว่าตามค่าเริ่มต้น
+**สิ่ง** สําคัญ: ไซต์การติดต่อสื่อสารที่ทันสมัยไม่สนับสนุนฟีเจอร์การเผยแพร่แบบคลาสสิกที่เรียกว่า SharePointโครงสร้างพื้นฐานการเผยแพร่เซิร์ฟเวอร์ เมื่อพยายามเปิดใช้งานฟีเจอร์ของไซต์การติดต่อสื่อสารที่ทันสมัย คุณจะได้รับข้อผิดพลาด ไซต์การติดต่อสื่อสารที่ทันสมัยให้ทางเลือกที่ใหม่กว่าตามค่าเริ่มต้น
 
 For classic sites, SharePoint includes a classic set of features that enable you to author and publish rich webpages for your intranet. เปิดใช้งานSharePointโครงสร้างพื้นฐานของการประกาศที่ระดับไซต์คอลเลกชันเพื่อเปิดใช้งาน
 

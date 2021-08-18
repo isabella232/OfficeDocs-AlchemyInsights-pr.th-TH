@@ -12,13 +12,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002873"
 - "5565"
-ms.openlocfilehash: 98a656fc75c82783b6ce525124743c289c34d088
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 48df372f7bd6a5289f1b14191e8ba221b4c68fb23c1f500e0191e2ddda3c4114
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51813347"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54089999"
 ---
 # <a name="f3-trail-license"></a>สิทธิการใช้งานการติดตาม F3
 
-คุณสามารถลงทะเบียนสมัครใช้งาน F3 รุ่นทดลองใช้ได้ฟรีและทดลองใช้ฟรีเป็นเวลา 30 วัน ดู[ทดลองใช้ฟรีด้วย Office 365 F3](https://go.microsoft.com/fwlink/p/?LinkID=848845&clcid=0x409&culture=en-us&country=US)
+คุณสามารถลงทะเบียนสมัครใช้งาน F3 รุ่นทดลองใช้ได้ฟรีและทดลองใช้ฟรีเป็นเวลา 30 วัน ดู[รุ่นทดลองใช้ฟรีOffice 365 F3](https://go.microsoft.com/fwlink/p/?LinkID=848845&clcid=0x409&culture=en-us&country=US)

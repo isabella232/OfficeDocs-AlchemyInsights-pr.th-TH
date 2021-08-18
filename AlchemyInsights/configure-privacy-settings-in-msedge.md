@@ -1,5 +1,5 @@
 ---
-title: กําหนดค่าการตั้งค่าความเป็นส่วนตัวใน Microsoft Edge
+title: กําหนดค่าการตั้งค่าความเป็นส่วนตัวในMicrosoft Edge
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,19 +13,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004632"
 - "8367"
-ms.openlocfilehash: 2367a7a55d1837fa7c7095fd0ac10ff1cf7ae72d
-ms.sourcegitcommit: db908b3da2c7a6508a77bf4f2c80afb294fadbd1
+ms.openlocfilehash: 991f323249e15abd137c3e69b400e40503ed30dec6507cc5071a0b1af7f72bb3
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 03/29/2021
-ms.locfileid: "51405730"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54090323"
 ---
-# <a name="configure-privacy-settings-in-microsoft-edge"></a>กําหนดค่าการตั้งค่าความเป็นส่วนตัวใน Microsoft Edge
+# <a name="configure-privacy-settings-in-microsoft-edge"></a>กําหนดค่าการตั้งค่าความเป็นส่วนตัวในMicrosoft Edge
 
-ตามค่าเริ่มต้น ถ้า Microsoft Edge ถูกปรับใช้บนแพลตฟอร์มที่ไม่ใช่ Windows ข้อมูลการวินิจฉัยและข้อมูลไซต์จะไม่ส่งไปยังไมโครซอฟท์ อย่างไรก็ตาม หากมีการปรับใช้ Microsoft Edge บน Windows 10 ข้อมูลการวินิจฉัยและข้อมูลไซต์จะถูกส่งตามการตั้งค่าข้อมูล [การวินิจฉัย Windows](https://go.microsoft.com/fwlink/?linkid=2132472)ของผู้ใช้
+ตามค่าเริ่มต้น ถ้ามีการปรับใช้Microsoft Edgeบนแพลตฟอร์มที่ไม่ใช่แพลตฟอร์ม Windows ข้อมูลการวินิจฉัยและข้อมูลไซต์จะไม่ส่งไปยังไมโครซอฟท์ อย่างไรก็ตาม หากมีการปรับใช้Microsoft Edgeใน Windows 10 ข้อมูลการวินิจฉัยและข้อมูลไซต์จะถูกส่งตามการตั้งค่าข้อมูลWindows[การวินิจฉัย](https://go.microsoft.com/fwlink/?linkid=2132472)ของผู้ใช้
 
-เมื่อต้องการกําหนดวิธีที่ Microsoft Edge จัดการการเก็บรวบรวมข้อมูลให้องค์กรของคุณ ให้ใช้นโยบายกลุ่มต่อไปนี้:
-- [MetricsReportingEnabled](https://go.microsoft.com/fwlink/?linkid=2132470) จะเปิดการรายงานข้อมูลที่เกี่ยวข้องกับการใช้งานและการหยุดล้มเหลว
-- [SendSiteInfoToImproveServices](https://go.microsoft.com/fwlink/?linkid=2132470) ส่งข้อมูลไซต์ที่ใช้เพื่อปรับปรุงบริการของไมโครซอฟท์
+เมื่อต้องการกําหนดMicrosoft Edgeจัดการการเก็บรวบรวมข้อมูลให้กับองค์กรของคุณ ให้ใช้นโยบายกลุ่มต่อไปนี้
+- [MetricsReportingEnabled](https://go.microsoft.com/fwlink/?linkid=2132470) จะเปิดการรายงานการใช้งานและข้อมูลที่เกี่ยวข้องกับการหยุดการหยุด
+- [SendSiteInfoToImproveServices](https://go.microsoft.com/fwlink/?linkid=2132470)ส่งข้อมูลไซต์ที่ใช้เพื่อปรับปรุงบริการของ Microsoftของคุณ
 
-เมื่อต้องการเรียนรู้เพิ่มเติม ให้ดู [การกําหนดค่าการตั้งค่า](https://go.microsoft.com/fwlink/?linkid=2132577)นโยบาย
+เมื่อต้องการเรียนรู้เพิ่มเติม ให้ดู [กําหนดค่าการตั้งค่า](https://go.microsoft.com/fwlink/?linkid=2132577)นโยบาย

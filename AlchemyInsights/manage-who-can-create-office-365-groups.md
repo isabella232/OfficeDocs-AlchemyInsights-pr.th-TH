@@ -1,5 +1,5 @@
 ---
-title: จัดการบุคคลที่สามารถสร้างกลุ่ม Microsoft 365
+title: จัดการบุคคลที่สามารถสร้างกลุ่มMicrosoft 365บุคคล
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,14 +12,14 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: f68aada0-7700-4e61-b822-6ce203afd145
-ms.openlocfilehash: 0e0730388da7b2688da254fa48e37f473b86b354
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: f7f573532990987f9065c076aeaf630791be8774f304ecaefa90cdee8b08b280
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51827055"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54114797"
 ---
-# <a name="manage-who-can-create-microsoft-365-groups"></a>จัดการบุคคลที่สามารถสร้างกลุ่ม Microsoft 365
+# <a name="manage-who-can-create-microsoft-365-groups"></a>จัดการบุคคลที่สามารถสร้างกลุ่มMicrosoft 365บุคคล
 
 ตามค่าเริ่มต้น ทุกคนในองค์กรของคุณสามารถสร้างกลุ่ม O365 ได้
   

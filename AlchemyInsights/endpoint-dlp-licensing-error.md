@@ -1,5 +1,5 @@
 ---
-title: ข้อผิดพลาดการให้สิทธิ์การใช้งาน DLP
+title: ข้อผิดพลาดการให้สิทธิ์การใช้งาน DLP จุดสิ้นสุด
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,29 +13,29 @@ ms.collection: Adm_O365
 ms.custom:
 - "3200001"
 - "7176"
-ms.openlocfilehash: d17c51177898d62c7c477460c8c26b4753bae65f
-ms.sourcegitcommit: 0f42d1600b6845083f0273d14c1d9e59344e4371
+ms.openlocfilehash: 1e242abe18717e5ef64d6f067ab3ec6fa8833cb672dd21c85e577ce640240ba0
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 11/30/2020
-ms.locfileid: "49564871"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54090177"
 ---
-# <a name="endpoint-dlp-licensing-error"></a>ข้อผิดพลาดการให้สิทธิ์การใช้งาน DLP
+# <a name="endpoint-dlp-licensing-error"></a>ข้อผิดพลาดการให้สิทธิ์การใช้งาน DLP จุดสิ้นสุด
 
 เมื่อพยายามตั้งค่าจุดสิ้นสุด DLP ถ้าคุณได้รับข้อผิดพลาดต่อไปนี้:
 
 `Your organization is missing the licenses required to manage these devices`.
 
-ตรวจสอบให้แน่ใจว่าคุณมีหนึ่งในการสมัครใช้งานหรือ add-on ต่อไปนี้:
+ตรวจสอบให้แน่ใจว่าคุณมีหนึ่งในการสมัครใช้งานหรือ Add-on ต่อไปนี้:
 
-- Microsoft ๓๖๕ E5
-- Microsoft ๓๖๕ A5 (EDU)
-- การปฏิบัติตามกฎระเบียบของ Microsoft ๓๖๕ E5
-- การปฏิบัติตามข้อกำหนดของ Microsoft ๓๖๕ A5
-- Microsoft ๓๖๕ E5 การป้องกันและการกำกับดูแลข้อมูล
-- Microsoft ๓๖๕ A5 protection และการกำกับดูแลข้อมูล
+- Microsoft 365 E5
+- Microsoft 365 A5 (EDU)
+- Microsoft 365 E5การปฏิบัติตามข้อบังคับ
+- Microsoft 365 A5การปฏิบัติตามนโยบาย
+- Microsoft 365 E5และบรรษัทภิบาล
+- Microsoft 365 A5การปกป้องข้อมูลและการกํากับดูแลข้อมูล
 
 > [!NOTE]
-> การดำเนินการนี้จะไม่ทำงานสำหรับการรวมสิทธิ์การใช้งานเช่น: Win + O365 E5 + EMS E5 คุณต้องมีสิทธิ์การใช้งาน M365 E5 ที่แท้จริงในการตั้งค่าฟีเจอร์นี้
+> ซึ่งจะไม่ใช้งานกับการรวมสิทธิการใช้งานเช่น: Win E5 + O365 E5 + EMS E5 คุณต้องมีสิทธิ์การใช้งาน M365 E5 เท่านั้นในการตั้งค่าฟีเจอร์นี้
 
-สำหรับข้อมูลสิทธิ์การใช้งาน DLP ข้อมูลเพิ่มเติมให้ดู [ที่สิทธิ์การใช้งาน dlp ของจุดสิ้นสุด](https://docs.microsoft.com/microsoft-365/compliance/endpoint-dlp-getting-started#onboarding-devices-into-device-management)
+For more Endpoint DLP licensing information, see [Endpoint DLP Licensing.](https://docs.microsoft.com/microsoft-365/compliance/endpoint-dlp-getting-started#onboarding-devices-into-device-management)
