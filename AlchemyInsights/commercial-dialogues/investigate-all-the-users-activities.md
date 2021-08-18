@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002486"
 - "7524"
-ms.openlocfilehash: d05c8f02efc3bb92865880ea4a2338abaf7d70254f0b4bbfb566423e62b391dd
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: 016f4b1caa05cb26d1e6795551b64737d4cb64a5
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57898815"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58332362"
 ---
 # <a name="investigate-all-the-users-activities"></a>ตรวจสอบกิจกรรมของผู้ใช้ทั้งหมด
 
@@ -26,10 +26,9 @@ ms.locfileid: "57898815"
 
 1. เลือกเลือกอย่างใดอย่างหนึ่งต่อไปนี้
    - ในศูนย์การปฏิบัติตามข้อบังคับสําหรับ Microsoft 365 ที่ ให้ไปที่ <https://compliance.microsoft.com>  \> **ตรวจสอบโซลูชัน** หรือ เมื่อต้องการไปยัง **หน้า ตรวจสอบ** <https://compliance.microsoft.com/auditlogsearch> โดยตรง ให้ใช้
-   - ในMicrosoft 365 Defenderที่ <https://security.microsoft.com> **ให้ไปที่** ตรวจสอบ หรือ เมื่อต้องการไปยัง **หน้า ตรวจสอบ** <https://security.microsoft.com/auditlogsearch> โดยตรง ให้ใช้
+   - ในMicrosoft 365 Defenderของ <https://security.microsoft.com> ที่ **ให้ไปที่** ตรวจสอบ หรือ เมื่อต้องการไปยัง **หน้า ตรวจสอบ** <https://security.microsoft.com/auditlogsearch> โดยตรง ให้ใช้
 
-    > [!NOTE]
-    > ถ้าคุณเห็นการแจ้งเตือนว่าคุณต้องเปิดฟีเจอร์นี้ ให้เปิดใช้งานทันที ถ้าฟีเจอร์ไม่ได้เปิดใช้งาน ผลลัพธ์การค้นหาจะไม่สามารถดึงข้อมูลจากวันที่ก่อนหน้าได้
+    **หมายเหตุ**: ถ้าคุณเห็นการแจ้งเตือนว่าคุณต้องเปิดฟีเจอร์นี้ ให้เปิดใช้งานทันที ถ้าฟีเจอร์ไม่ได้เปิดใช้งาน ผลลัพธ์การค้นหาจะไม่สามารถดึงข้อมูลจากวันที่ก่อนหน้าได้
 
 2. บนแท็บ **ค้นหา** ของหน้า **ตรวจสอบ** ให้กําหนดค่าการตั้งค่าต่อไปนี้
    - **ช่วงวันที่และเวลา**: เลือกช่วงวันที่/เวลา **ในกล่อง** เริ่มต้น **และ** สิ้นสุด

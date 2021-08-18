@@ -13,20 +13,20 @@ ms.custom:
 - "1369"
 - "3100005"
 ms.assetid: ''
-ms.openlocfilehash: 2af731bc9a1e28e2db7c6662041b930e1b05be4c3bf8340784d9ab87101c44af
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: 48634fad8f573e3a7c38cac299bb95ec90814f5c
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57899903"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58331178"
 ---
 # <a name="identify-when-external-email-forwarding-is-configured-on-mailboxes"></a>ระบุเมื่อการส่งต่ออีเมลภายนอกถูกกําหนดค่าบนกล่องจดหมาย
 
-When a Microsoft 365 configures external email forwarding on a mailbox, the activity is audited as part of the **Set-Mailbox** cmdlet. คุณสามารถดูกิจกรรมได้โดยใช้การค้นหาบันทึกการตรวจสอบ วิธีการ:
+When a Microsoft 365 user configures external email forwarding on a mailbox, the activity is audited as part of the **Set-Mailbox** cmdlet. คุณสามารถดูกิจกรรมได้โดยใช้การค้นหาบันทึกการตรวจสอบ วิธีการ:
 
 1. ให้เลือกปฏิบัติตามขั้นตอนใดขั้นตอนหนึ่งต่อไปนี้
    - ในศูนย์การปฏิบัติตามข้อบังคับสําหรับ Microsoft 365 ที่ ให้ไปที่ <https://compliance.microsoft.com>  \> **ตรวจสอบโซลูชัน** หรือ เมื่อต้องการไปยัง **หน้า ตรวจสอบ** <https://compliance.microsoft.com/auditlogsearch> โดยตรง ให้ใช้
-   - ในMicrosoft 365 Defenderที่ <https://security.microsoft.com> **ให้ไปที่** ตรวจสอบ หรือ เมื่อต้องการไปยัง **หน้า ตรวจสอบ** <https://sip.security.microsoft.com/auditlogsearch> โดยตรง ให้ใช้
+   - ในMicrosoft 365 Defenderของ <https://security.microsoft.com> ที่ **ให้ไปที่** ตรวจสอบ หรือ เมื่อต้องการไปยัง **หน้า ตรวจสอบ** <https://sip.security.microsoft.com/auditlogsearch> โดยตรง ให้ใช้
 
 2. บนหน้า **ตรวจสอบ** ให้ตรวจสอบว่าเลือก **แท็บ** ค้นหา แล้วกําหนดค่าการตั้งค่าต่อไปนี้:
    - เลือกช่วงวันที่/เวลา **ในกล่อง** เริ่มต้น **และ** สิ้นสุด

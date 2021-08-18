@@ -14,19 +14,19 @@ ms.custom:
 - commerce_subsriptions
 - "1400001"
 - "4721"
-ms.openlocfilehash: 090cb87251755ac06f109faea194ba120bbe7650ddaac1b1d0cdea19a0f0a7a6
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: 78955e6331048e9861785cac76cebcece4973996
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57895646"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58331478"
 ---
 # <a name="cancel-visio-subscription"></a>ยกเลิกVisioการสมัครใช้งาน
 
 ผู้ดูแลระบบสามารถยกเลิกVisioการสมัครใช้งานขององค์กรของพวกเขาในศูนย์การจัดการ Microsoft 365ได้
 
 1. ไปที่หน้า \> [การเรียกเก็บเงิน ผลิตภัณฑ์](https://go.microsoft.com/fwlink/p/?linkid=842054)ของคุณ
-2. บนแท็บ **ผลิตภัณฑ์** ให้Visioการสมัครใช้งานที่คุณต้องการยกเลิก เลือกจุดสามจุด (การทําเพิ่มเติม) **จากนั้นเลือก ยกเลิก** การสมัครใช้งาน
+2. **บนแท็บ** ผลิตภัณฑ์ ให้Visioการสมัครใช้งานที่คุณต้องการยกเลิก เลือกจุดสามจุด (การทําเพิ่มเติม) **จากนั้นเลือก ยกเลิก** การสมัครใช้งาน
 3. ในบานหน้าต่าง **ยกเลิก** การสมัครใช้งาน ให้เลือกเหตุผลว่าเหตุใดคุณจึงยกเลิก อีกทางหนึ่งคือ ให้ข้อเสนอแนะใดๆ
 4. เลือกบันทึก
 

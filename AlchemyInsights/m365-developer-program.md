@@ -13,15 +13,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "12320"
 - "9001669"
-ms.openlocfilehash: a6f36ebff88efee00c0fc9256250cf570a04e614af936b8f907d564e0e82398f
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: d9cce98713e1a0a29402821a358afa5aac548a38
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57887407"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58332050"
 ---
 # <a name="microsoft-365-developer-program"></a>Microsoft 365 โปรแกรมนักพัฒนา
 
-โปรแกรมMicrosoft 365นักพัฒนาแอปจะมีการสมัครใช้งานMicrosoft 365 E5นักพัฒนาซอฟต์แวร์ที่คุณสามารถใช้เพื่อสร้าง Sandbox ของคุณเองและพัฒนาโซลูชันที่เป็นอิสระจากสภาพแวดล้อมการผลิตของคุณ For more information and FAQ about the Microsoft 365 Developer Program and Visual Studio subscriptions, [see Microsoft 365 Developer Program.](https://docs.microsoft.com/office/developer-program/microsoft-365-developer-program)
+โปรแกรมMicrosoft 365นักพัฒนาจะรวมการสมัครใช้งานMicrosoft 365 E5นักพัฒนาซอฟต์แวร์ที่คุณสามารถใช้เพื่อสร้าง Sandbox และพัฒนาโซลูชันที่เป็นอิสระต่อสภาพแวดล้อมการผลิตของคุณ For more information and FAQ about the Microsoft 365 Developer Program and Visual Studio subscriptions, [see Microsoft 365 Developer Program](https://docs.microsoft.com/office/developer-program/microsoft-365-developer-program).
 
-เพื่อขอรับความช่วยเหลือเกี่ยวกับMicrosoft 365นักพัฒนาหรือVisual Studioการสมัครใช้งานของคุณ ให้ส่งการร้องขอการสนับสนุนในVisual Studio[การสมัครใช้งาน](https://visualstudio.microsoft.com/subscriptions/support/)ของคุณ
+หากต้องการความช่วยเหลือเกี่ยวกับMicrosoft 365นักพัฒนาโปรแกรมหรือVisual Studioการสมัครใช้งานของคุณ ให้ส่งการร้องขอการสนับสนุนในVisual Studio[การสมัครใช้งาน](https://visualstudio.microsoft.com/subscriptions/support/)ของคุณ

@@ -13,17 +13,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003257"
 - "9890"
-ms.openlocfilehash: 9e08d6c2a4553e395b5206816f29471118bb3b286e669c0b2d07a740e2a3c749
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: 6a772d7bad7f00940ee45a2a2e6860321cefe331
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57894570"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58331514"
 ---
 # <a name="azure-active-directory-join"></a>Azure Active Directoryเข้าร่วม
 
-1. ถ้าคุณตั้งค่าการลงทะเบียนอุปกรณ์เป็นครั้งแรก ตรวจสอบให้แน่ใจว่าคุณได้ตรวจทาน บทนําสู่การจัดการอุปกรณ์ใน[Azure Active Directory](https://docs.microsoft.com/azure/active-directory/devices/overview)ที่จะแนะนําวิธีรับอุปกรณ์ภายใต้การควบคุมไปยัง Azure AD 
-1. หากคุณลงทะเบียนอุปกรณ์ลงใน Azure AD โดยตรง และลงทะเบียนอุปกรณ์ลงใน Intuned คุณจะต้องตรวจสอบให้แน่ใจว่าคุณได้กําหนดค่า[Intuned](https://docs.microsoft.com/mem/intune/enrollment/device-enrollment)[และได้](https://docs.microsoft.com/mem/intune/fundamentals/licenses-assign)ให้สิทธิ์การใช้งานก่อน
+1. ถ้าคุณตั้งค่าการลงทะเบียนอุปกรณ์เป็นครั้งแรก ตรวจสอบให้แน่ใจว่าคุณได้ตรวจทาน บทนําสู่การจัดการอุปกรณ์ใน[Azure Active Directory](https://docs.microsoft.com/azure/active-directory/devices/overview)ที่จะแนะนําวิธีรับอุปกรณ์ภายใต้การควบคุมของ Azure AD 
+1. หากคุณลงทะเบียนอุปกรณ์ลงใน Azure AD โดยตรง และลงทะเบียนอุปกรณ์เหล่านั้นใน Intuned คุณจะต้องตรวจสอบให้แน่ใจว่า คุณได้กําหนดค่า[Intuned](https://docs.microsoft.com/mem/intune/enrollment/device-enrollment)[และได้](https://docs.microsoft.com/mem/intune/fundamentals/licenses-assign)ให้สิทธิ์การใช้งานก่อน
 1. ตรวจสอบให้แน่ใจว่าคุณได้รับอนุญาตให้ดําเนินการใน Azure AD เฉพาะผู้ดูแลระบบส่วนกลางใน Azure AD เท่านั้นที่สามารถจัดการการตั้งค่าการลงทะเบียนอุปกรณ์ได้
 1. เมื่อต้องการใช้งานการเข้าร่วม Azure AD ให้ดู[วางแผนการเข้าร่วม Azure AD](https://docs.microsoft.com/azure/active-directory/devices/azureadjoin-plan)
 

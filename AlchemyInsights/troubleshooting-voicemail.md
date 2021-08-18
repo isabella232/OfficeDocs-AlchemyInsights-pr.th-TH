@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002347"
 - "7564"
-ms.openlocfilehash: e639d74cd8dbbb03ffb5b253451c99c8fe639f024a46e173845a0f4d322e43ca
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 36ba65c1ee67631a8b3c24c3407f46e3304541c5
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53972402"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58330763"
 ---
 # <a name="troubleshooting-voicemail"></a>การแก้ไขปัญหาข้อความเสียง
 
@@ -26,12 +26,12 @@ ms.locfileid: "53972402"
 
 ถ้าไม่ต้องใช้ฟีเจอร์นี้กับผู้ใช้นี้ ให้ต่อไปนี้
 
-1. ไปที่[ศูนย์การจัดการ Teams](https://admin.teams.microsoft.com/policies/calling)
+1. ไปที่[Teamsการจัดการ](https://admin.teams.microsoft.com/policies/calling)
 1. บนรางด้านซ้าย นํา **ทาง**  >  **นโยบายการโทร**  >  **ด้วยเสียง จัดการ** นโยบาย บน **นโยบาย** การโทร
 1. เลือก **จัดการ** ผู้ใช้
 1. Search for user and change the Calling Policy to one that has **Busy on Busy is available when in a call** to **Off**.
 1. คลิก **ใช้**
-> [!NOTE]
-> การเปลี่ยนแปลงนโยบายอาจใช้เวลาถึง 24 ชั่วโมงในการสลองได้
+
+**หมายเหตุ**: การเปลี่ยนแปลงนโยบายอาจใช้เวลาถึง 24 ชั่วโมงในการสลองได้
 
 For more information on this feature refer to: [Busy on Busy is available while a call](https://docs.microsoft.com/microsoftteams/teams-calling-policy#busy-on-busy-is-available-while-in-a-call).

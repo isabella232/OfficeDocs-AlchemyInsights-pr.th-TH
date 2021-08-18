@@ -13,16 +13,16 @@ ms.custom:
 - "1368"
 - "3100005"
 ms.assetid: ''
-ms.openlocfilehash: 2bddd267abacabcd04b54271ade8ecf7b69fab914bcb8c103c806c31a388d2f5
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: 1f252836d624b4550e1f3c87cf4fd7309dec6e91
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57891314"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58331142"
 ---
 # <a name="identify-inbox-rule-activity-in-audit-logs"></a>ระบุกิจกรรมกฎกล่องจดหมายเข้าในบันทึกการตรวจสอบ
 
-คุณสามารถใช้การค้นหาบันทึกการตรวจสอบในมุมมองศูนย์การปฏิบัติตามข้อบังคับสําหรับ Microsoft 365เหตุการณ์กฎกล่องจดหมายเข้า (การสร้าง การปรับเปลี่ยน และลบกฎกล่องจดหมายเข้า)
+คุณสามารถใช้การค้นหาบันทึกการตรวจสอบในมุมมองศูนย์การปฏิบัติตามข้อบังคับสําหรับ Microsoft 365เหตุการณ์กฎกล่องจดหมายเข้า (การสร้าง การปรับเปลี่ยน และการลบกฎกล่องจดหมายเข้า)
 
 1. ให้เลือกปฏิบัติตามขั้นตอนใดขั้นตอนหนึ่งต่อไปนี้
    - ในศูนย์การปฏิบัติตามข้อบังคับสําหรับ Microsoft 365 ที่ ให้ไปที่ <https://compliance.microsoft.com>  \> **ตรวจสอบโซลูชัน** หรือ เมื่อต้องการไปยัง **หน้า ตรวจสอบ** <https://compliance.microsoft.com/auditlogsearch> โดยตรง ให้ใช้

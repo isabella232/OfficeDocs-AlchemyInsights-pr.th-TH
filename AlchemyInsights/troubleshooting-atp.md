@@ -11,16 +11,16 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 1039
 ms.assetid: ''
-ms.openlocfilehash: ea05d60d1cdb4079d52e0a317331f7e98845b82bd74429dc8fa63377c2527a74
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: 5614deae44c08b2a5f9786b26bdbdcfa4daed15d
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57900671"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58330835"
 ---
 # <a name="troubleshooting-microsoft-defender-for-office-365"></a>การแก้ไขปัญหา Microsoft Defender Office 365
 
-- **คุณสังเกตเห็นความล่าช้าในการส่งข้อความหรือไม่** ใช้ตัวเลือก[การจัดส่งแบบไดนามิก](https://docs.microsoft.com/microsoft-365/security/office-365-security/dynamic-delivery-and-previewing)ใน Microsoft Defender Office 365 ตู้เซฟนโยบายสิ่งที่แนบมาของคุณ ซึ่งจะช่วยหลีกเลี่ยงความล่าช้าของข้อความในขณะที่ป้องกันผู้รับจากไฟล์ที่เป็นอันตราย
+- **คุณสังเกตเห็นความล่าช้าในการส่งข้อความหรือไม่** ใช้ตัวเลือก[การจัดส่งแบบไดนามิก](https://docs.microsoft.com/microsoft-365/security/office-365-security/dynamic-delivery-and-previewing)ใน Microsoft Defender ของคุณOffice 365 ตู้เซฟนโยบายสิ่งที่แนบมาของคุณ ซึ่งจะช่วยหลีกเลี่ยงความล่าช้าของข้อความในขณะที่ป้องกันผู้รับจากไฟล์ที่เป็นอันตราย
 
 - **คุณต้องการรายงานผลลัพธ์ที่ผิดหรือเป็นลบที่ผิดไปยัง Microsoft หรือไม่** ใช้[Submissions Explorer](https://protection.office.com/reportsubmission)
 

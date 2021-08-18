@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004114"
 - "7194"
-ms.openlocfilehash: 5aa6f11d31ed62078fdd05090af5722289544c5ab2244a369182f4e0f9214183
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 48a06fde215e007b6b81b32ab751ca8e4bba522d
+ms.sourcegitcommit: 46e24d65cffd37b6988447c6738b3315303bbe13
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53963806"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58339051"
 ---
 # <a name="how-to-add-and-manage-administrators---recommended-steps"></a>วิธีการเพิ่มและจัดการผู้ดูแลระบบ - ขั้นตอนที่แนะน
 
@@ -29,9 +29,9 @@ ms.locfileid: "53963806"
 - ผู้ดูแลบัญชีสามารถแก้ไขทั้งสองบทบาทได้ ในขณะที่ผู้ดูแลระบบการสมัครใช้งานสามารถเปลี่ยนเฉพาะผู้ดูแลระบบร่วมใน [พอร์ทัล Azure](https://ms.portal.azure.com/#home)เท่านั้น
 - [เพิ่มหรือเปลี่ยนผู้ดูแลระบบการสมัครใช้งาน Azure](https://docs.microsoft.com/azure/cost-management-billing/manage/add-change-subscription-administrator)
 
-**อัปเดตผู้ดูแลระบบการสมัครใช้งานหรือCo-Administratorการสมัครใช้งานภายใน (AIRS)**
+**อัปเดตผู้ดูแลระบบการสมัครใช้งานหรือการสมัครใช้งาน Co-Administratorภายใน (AIRS)**
 
-ผู้ดูแลระบบบริการหรือผู้ดูแลระบบร่วมสามารถให้บริการการแอคชันนี้ด้วยตนเองได้ โดยใช้ขั้นตอนต่อไปนี้
+ผู้ดูแลระบบบริการหรือผู้ดูแลระบบร่วมสามารถใช้งานการแอคชันนี้ด้วยตนเองได้ โดยใช้ขั้นตอนต่อไปนี้
 
 1. เข้าสู่ระบบพอร์ทัล [Azure แล้วคลิก](https://ms.portal.azure.com/#home)**การจัดการต้นทุน + การเรียกเก็บเงิน** ใน blade ด้านซ้าย
 2. คลิกรายการสินค้าที่มีการสมัครใช้งานของคุณ การทําเช่นนี้จะเปิด ภาพรวม ของการสมัครใช้งานของคุณ
@@ -55,27 +55,27 @@ ms.locfileid: "53963806"
 
 **เพิ่ม/ลบผู้ใช้โดยใช้ Azure Active Directory (AD)**
 
-คุณสามารถเพิ่มผู้ใช้ใหม่หรือลบผู้ใช้ที่มีอยู่จากองค์กร Azure Active Directory (Azure AD) ของคุณ:
+คุณสามารถเพิ่มผู้ใช้ใหม่หรือลบผู้ใช้ที่มีอยู่จากองค์กร Azure Active Directory (Azure AD):
 
 1. เมื่อต้องการเพิ่มผู้ใช้ใหม่ ให้เข้าสู่ระบบพอร์ทัล [Azure](https://ms.portal.azure.com/#home) เป็นผู้ดูแลระบบผู้ใช้ขององค์กร
-2. เลือก **Azure Active Directory****เลือก** ผู้ใช้ **แล้วคลิก ผู้ใช้** ใหม่
+2. เลือก **Azure Active Directory****ผู้ใช้** เลือก ผู้ใช้ แล้วคลิก **ผู้ใช้** ใหม่
 3. บนหน้า **ผู้ใช้** ให้ใส่ข้อมูลที่ต้องมี คลิกสร้าง ผู้ใช้จะถูกสร้างและเพิ่มลงในผู้เช่า Azure AD ของคุณ
 
 **เรียนรู้เพิ่มเติม**:
 
 - [เพิ่มผู้ใช้ใหม่](https://docs.microsoft.com/azure/active-directory/fundamentals/add-users-azure-active-directory)
 - [ลบผู้ใช้](https://docs.microsoft.com/azure/active-directory/fundamentals/add-users-azure-active-directory)
-- [เพิ่มหรืออัปเดตข้อมูลโปรไฟล์ของผู้ใช้โดยใช้Azure Active Directory](https://docs.microsoft.com/azure/active-directory/fundamentals/active-directory-users-profile-azure-portal)
+- [เพิ่มหรืออัปเดตข้อมูลโปรไฟล์ของผู้ใช้Azure Active Directory](https://docs.microsoft.com/azure/active-directory/fundamentals/active-directory-users-profile-azure-portal)
 
 **เอกสารที่แนะนา**
 
 - [การควบคุมการเข้าถึงตามบทบาท (RBAC) คืออะไร](https://docs.microsoft.com/azure/role-based-access-control/overview)
 - [เข้าใจบทบาทต่างๆ ใน Azure](https://docs.microsoft.com/azure/role-based-access-control/rbac-and-directory-admin-roles)
-- [สิทธิ์ของบทบาทผู้ดูแลระบบในAzure Active Directory](https://docs.microsoft.com/azure/active-directory/roles/permissions-reference)
+- [สิทธิ์ของบทบาทผู้ดูแลระบบใน Azure Active Directory](https://docs.microsoft.com/azure/active-directory/roles/permissions-reference)
 - [บทช่วยสอน: ให้สิทธิ์การเข้าถึงแก่ผู้ใช้โดยใช้ RBAC และพอร์ทัล Azure](https://docs.microsoft.com/azure/role-based-access-control/quickstart-assign-role-user-portal)
 - [แก้ไขปัญหา RBAC ใน Azure](https://docs.microsoft.com/azure/role-based-access-control/troubleshooting)
 - [จัดระเบียบแหล่งข้อมูลของคุณด้วยกลุ่มการจัดการ Azure](https://docs.microsoft.com/azure/governance/management-groups/overview)
-- [วิธีการขอรับสําเนาของใบแจ้งหนี้ Azure ทางอีเมล](https://azure.microsoft.com/en-us/blog/azure-email-invoices/)
+- [วิธีการขอรับสําเนาของใบแจ้งหนี้ Azure ทางอีเมล](https://azure.microsoft.com/blog/azure-email-invoices/)
 - [วิธีเพิ่ม อัปเดต หรือลบบัตรเครดิตหรือบัตรเดบิตออกจาก Azure](https://docs.microsoft.com/azure/cost-management-billing/manage/change-credit-card)
 - [จัดการ (เปิดใช้งานการสมัครใช้งานใหม่/ยกเลิก/สลับ)](https://docs.microsoft.com/azure/cost-management-billing/manage/subscription-disabled)
 

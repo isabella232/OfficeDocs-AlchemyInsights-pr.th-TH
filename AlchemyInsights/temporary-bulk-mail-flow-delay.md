@@ -14,12 +14,12 @@ ms.custom:
 - "12673"
 - "12731"
 - "9007646"
-ms.openlocfilehash: 1ad09c906060e0ce117995839a2d83c4f97859634b906f99f0b6c0d72a4efa9e
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 883bdfb4801a9beb8eacf17dd9b675b3353084ab
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "57812472"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58331642"
 ---
 # <a name="temporary-mail-flow-delay-for-bulk-emails"></a>ความล่าช้าของโฟลว์จดหมายชั่วคราวของอีเมลเป็นกลุ่ม
 
