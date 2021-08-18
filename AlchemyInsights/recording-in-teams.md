@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002530"
 - "5037"
-ms.openlocfilehash: bf17bb3ed8bab2379b4435d23e5cc0e2491580a6128780b1e6166513e54c6abd
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: d9f6d700ad3fe35c10bcee198ee46cc7892c09eb
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57901311"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58329569"
 ---
 # <a name="recording-in-teams"></a>การบันทึกใน Teams
 
@@ -25,11 +25,11 @@ ms.locfileid: "57901311"
 
 Microsoft Teamsบันทึกการประชุมสามารถจัดเก็บในOneDrive Sharepoint ได้แล้ว การย้ายที่เก็บข้อมูลOneDrive SharePointแก้ไขปัญหาการบันทึกการประชุมไม่สามารถใช้งานได้เนื่องจาก Stream ไม่พร้อมใช้งานในภูมิภาคของคุณ ดูข้อมูลเพิ่มเติมที่ ถามบ่อย[เกี่ยวกับ Microsoft Stream](https://docs.microsoft.com/stream/faq#which-regions-does-microsoft-stream-host-my-data-in)
 
-For more about saving meeting recordings, see the Message Center post: [(Updated) Microsoft Teams: meeting recordings saved to OneDrive and Sharepoint.](https://portal.microsoft.com/Adminportal/Home?ref=MessageCenter&id=MC222640)
+For more about saving meeting recordings, see the Message Center post: [(Updated) Microsoft Teams: meeting recordings saved to OneDrive and Sharepoint](https://portal.microsoft.com/Adminportal/Home?ref=MessageCenter&id=MC222640).
 
-เมื่อต้องการเรียนรู้วิธีการเปิดใช้งานและกําหนดค่าฟีเจอร์การบันทึกใน Teams for องค์กรของคุณ รวมถึงตัวควบคุมการเปิดหรือปิดใช้งานการบันทึกการประชุมของผู้ใช้ที่ระบุ ให้ดูที่ Teams [การบันทึกการประชุมบน](https://docs.microsoft.com/microsoftteams/cloud-recording)Cloud 
+เมื่อต้องการเรียนรู้วิธีการเปิดใช้งานและกําหนดค่าฟีเจอร์การบันทึกใน Teams for องค์กรของคุณ รวมถึงตัวควบคุมการเปิดหรือปิดใช้งานการบันทึกการประชุมของผู้ใช้ที่ระบุ ให้ดูที่ Teams [การบันทึกการประชุมบน](https://docs.microsoft.com/microsoftteams/cloud-recording)ระบบคลาวด์ 
 
-ถ้าคุณยังไม่สามารถบันทึกใน Teamsหรือต้องเข้าใจวิธีบันทึกในTeams ให้ดูที่ 
+ถ้าคุณยังไม่สามารถบันทึกในระเบียนที่Teamsต้องเข้าใจวิธีบันทึกในTeams ให้ดูที่ 
 
 [ฟีเจอร์ที่อัปเดต: การบันทึกระบบคลาวด์ของ Microsoft Stream การควบคุมที่เก็บข้อมูลระดับภูมิภาค](https://admin.microsoft.com/AdminPortal/Home#/MessageCenter?id=MC214327)
 

@@ -16,16 +16,16 @@ ms.custom:
 - "437"
 - "1500005"
 ms.assetid: 464d32fd-2487-4885-af0f-d4096b694861
-ms.openlocfilehash: 80b709c3474594858b3bc0e7104fdeb00343bee7cb2a5bdd414b791a1cb49564
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: 1cbd1e84557fcba3b5192ed06cd4b1162ba4e4ce
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57899999"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58330605"
 ---
 # <a name="view-my-bill-or-invoice"></a>ดูใบเรียกเก็บเงินหรือใบแจ้งหนี้ของฉัน
 
-1. ในหน้า ศูนย์การจัดการ Microsoft 365การเรียกเก็บเงิน หรือ **ใบ** เรียกเก็บเงิน \> [&การชเงิน](https://go.microsoft.com/fwlink/p/?linkid=848039)
+1. ในศูนย์การจัดการ Microsoft 365 ไปที่หน้า **ใบ** \> [เรียกเก็บเงิน&การจ่าย](https://go.microsoft.com/fwlink/p/?linkid=848039)เงิน
 
 2. เลือกช่วงวันที่จากรายการดรอปดาวน์ แล้วเลือกลอปดาวน์ที่คุณต้องการดู
 

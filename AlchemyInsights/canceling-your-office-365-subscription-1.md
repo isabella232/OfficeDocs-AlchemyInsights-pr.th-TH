@@ -15,12 +15,12 @@ ms.custom:
 - commerce_subscriptions
 - "53"
 - "1400001"
-ms.openlocfilehash: 90399a54ad9d77bb94f8c067f255274e4d2591823095b391f53ddf7514d338a6
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: 03ee652d21cb87d9534f2d5d4b1918d815788c22
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57890777"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58330227"
 ---
 # <a name="canceling-your-microsoft-365-subscription"></a>ยกเลิกการสมัครใช้งาน Microsoft 365 ใช่หรือไม่
 
@@ -33,4 +33,4 @@ ms.locfileid: "57890777"
 
 เมื่อต้องการเรียนรู้เพิ่มเติมเกี่ยวกับการยกเลิกการสมัครใช้งาน หรือตัวเลือก ให้ดู [ยกเลิกการสมัครใช้งาน](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription)ของคุณ
 
-ถ้าคุณต้องการใช้การสมัครใช้งานของคุณต่อไปในช่วงเวลาทดลองใช้ คุณสามารถปิดการเรียกเก็บเงินตามระยะเวลาที่การสมัครใช้งานได้ เมื่อต้องการเรียนรู้วิธีการ ให้ดู[ต่ออายุMicrosoft 365ธุรกิจ](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/renew-your-subscription)
+ถ้าคุณต้องการใช้การสมัครใช้งานของคุณต่อไปในช่วงเวลาทดลองใช้ คุณสามารถปิดการเรียกเก็บเงินตามระยะเวลาที่การสมัครใช้งานได้ เมื่อต้องการเรียนรู้วิธีการ ให้ดู[ต่ออายุMicrosoft 365 for](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/renew-your-subscription)business

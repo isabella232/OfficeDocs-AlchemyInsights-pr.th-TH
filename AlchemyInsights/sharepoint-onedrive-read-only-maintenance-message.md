@@ -13,16 +13,16 @@ ms.custom:
 - "127"
 - "128"
 ms.assetid: de7b6877-f3f9-4402-8072-c73783aaccaa
-ms.openlocfilehash: edcdea2f5c0647b92c230dd1d86549173e72997fc885195cde688b3b17710a2c
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 376b653b18857103586e25edd0ad6801a7bbe0a1
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53910565"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58329467"
 ---
 # <a name="read-only-for-maintenance-message-when-attempting-to-use-sharepoint-or-onedrive"></a>Read-Onlyข้อความการบํารุงรักษาเมื่อพยายามSharePointหรือOneDrive
 
-ผู้ใช้อาจได้รับข้อความ **แบบอ่านอย่างเดียวเพื่อบ** ํารุงรักษาเมื่อพยายามSharePointหรือOneDriveเหตุการณ์หนึ่งในสถานการณ์ต่อไปนี้ 
+ผู้ใช้อาจได้รับข้อความ **อ่านอย่างเดียวเพื่อบํา** รุงรักษาเมื่อพยายามSharePointหรือOneDriveเหตุการณ์หนึ่งในสถานการณ์ต่อไปนี้ 
 
 -   กิจกรรมการบํารุงรักษาที่วางแผนไว้หรือใช้งานอยู่  ตรวจสอบได้โดยนําทาง [ไปยัง ศูนย์](https://portal.office.com/adminportal/home#/messagecenter)ข้อความ
 -   เหตุการณ์บริการที่มีล้ดับความร้ายแรงสูงและใช้งานอยู่ที่อาจเกิดขึ้น ตรวจสอบโปรแกรมแนะนํา/เหตุการณ์ได้โดยการนําทางไปยัง [สถานภาพ](https://portal.office.com/adminportal/home#/servicehealth)บริการ
@@ -34,12 +34,10 @@ ms.locfileid: "53910565"
 
 โปรดพยายามล้างแคชของเบราว์เซอร์ก่อนที่จะนําทางไปยังไซต์
 
-1. ในMicrosoft Edgeของคุณ **การตั้งค่า** เบราว์เซอร์ แล้วเลือก **ความเป็นส่วนตัว** และความปลอดภัย
+1. ในMicrosoft Edgeของคุณ **ให้เลือก การตั้งค่า** แล้วเลือก **ความเป็นส่วนตัว** และความปลอดภัย
 2. ภายใต้ **ล้างการเรียกดู** ให้เลือก **เลือกสิ่งที่ต้องการ** ล้าง
 3. เลือก **คุกกี้และข้อมูลเว็บไซต์** ที่บันทึกไว้ **แล้วเลือก** ล้าง
 
->[!Note] 
-> ขั้นตอนเหล่านี้อาจแตกต่างกันเมื่อใช้เบราว์เซอร์อื่น เช่น Mozilla Firefox หรือ Google Chrome
+**หมายเหตุ**: ขั้นตอนเหล่านี้อาจแตกต่างกันเมื่อใช้เบราว์เซอร์อื่น เช่น Mozilla Firefox หรือ Google Chrome
 
->[!Note] 
-> อีกตัวเลือกหนึ่งคือการเปิดSharePointหรือOneDriveในหน้าต่าง InPrivate ใหม่
+**หมายเหตุ**: อีกตัวเลือกหนึ่งคือให้SharePointไซต์ของคุณOneDriveอยู่ในหน้าต่าง InPrivate ใหม่

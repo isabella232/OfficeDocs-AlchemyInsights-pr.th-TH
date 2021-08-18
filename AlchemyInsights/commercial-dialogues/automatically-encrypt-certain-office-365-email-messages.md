@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000078"
 - "7342"
-ms.openlocfilehash: 8ae1c6853f41790efc3b24a9dc696bccf8385967d8c9219a1200e287e6ce32a1
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: b15a72ced4921b3df1b7105837592781188a2a25
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53949586"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58327993"
 ---
 # <a name="automatically-encrypt-certain-office-365-email-messages"></a>เข้ารหัสลับบางรายการOffice 365โดยอัตโนมัติ
 
@@ -32,11 +32,10 @@ ms.locfileid: "53949586"
 6. เมื่อคุณเพิ่มผู้ใช้เสร็จแล้ว **ให้คลิก** ตกลง
 7. ถัดจากเขตข้อมูล **Do the following** ให้คลิก **Select one** 
 8. ในเมนูดรอปดาวน์เทมเพลต **RMS** **ให้เลือก** เข้ารหัสลับ **แล้วคลิก** ตกลง (ถ้าคุณไม่เห็นตัวเลือกนี้ หมายความว่าแผนของคุณไม่มีการเข้ารหัสลับอัตโนมัติ แต่คุณสามารถเพิ่มได้!)
-9. เลือกตัวเลือกเพิ่มเติมใดก็ได้ (จากรายการตัวเลือกเพิ่มเติมที่คุณสามารถเลือกได้ณจุดนี้ โดยสามารถเลือกได้หลายอย่างที่มีการตั้งค่าเริ่มต้นเพื่อความเรียบง่าย)
+9. เลือกตัวเลือกเพิ่มเติมใดก็ได้ (จากรายการตัวเลือกเพิ่มเติมที่คุณสามารถเลือกได้ณจุดนี้ ซึ่งหลายตัวเลือกสามารถเหลือไว้พร้อมกับการตั้งค่าเริ่มต้นเพื่อความเรียบง่าย)
 10. คลิก **บันทึก**
 
-> [!IMPORTANT]
-> คุณสามารถกลับมาและแก้ไขกฎนี้ในภายหลังได้เสมอ
+**สิ่ง** สําคัญ: คุณสามารถกลับมาและแก้ไขกฎนี้ในภายหลังได้เสมอ
 
 For more information about creating rules for encryption, see [Define mail flow rules to encrypt email messages in Office 365](https://docs.microsoft.com/microsoft-365/compliance/define-mail-flow-rules-to-encrypt-email).
 

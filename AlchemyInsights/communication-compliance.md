@@ -12,22 +12,22 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000549"
 - "3208"
-ms.openlocfilehash: 267b8985154df802df7359eb22f795612da1275d6c5509b1748828f3c42051b7
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: b20452adaa25c7ecb648cd05b1524ee6a39ca77e
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54090755"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58329937"
 ---
 # <a name="communication-compliance-in-microsoft-365"></a>การปฏิบัติตามข้อบังคับด้านการสื่อสารใน Microsoft 365
 
-การปฏิบัติตามข้อบังคับด้านการสื่อสารเป็นโซลูชันการปฏิบัติตามMicrosoft 365มาตรฐานใหม่ที่ช่วยให้องค์กรปฏิบัติตามข้อกฎหมายที่ควบคุม และลดความเสี่ยงในการสื่อสารให้เหลือมากที่สุด โดยยึดตามฟีเจอร์การดูแลและประกอบด้วยการปรับปรุงใหม่ รวมถึง:
+การปฏิบัติตามข้อบังคับด้านการสื่อสารเป็นโซลูชันการปฏิบัติตามMicrosoft 365มาตรฐานใหม่ที่ช่วยให้องค์กรปฏิบัติตามข้อบังคับและลดความเสี่ยงในการสื่อสาร โดยยึดตามฟีเจอร์การดูแลและประกอบด้วยการปรับปรุงใหม่ รวมถึง:
 
 - เทมเพลตที่ปรับแต่งได้อัจฉริยะ
 - เวิร์กโฟลว์ในการแก้ไขที่ยืดหยุ่น
 - ข้อมูลเชิงลึกที่สามารถปฏิบัติได้
 
-หากปัจจุบันคุณใช้นโยบาย [การควบคุม เราขอ](https://docs.microsoft.com/microsoft-365/compliance/supervision-policies)แนะนําให้คุณใช้การปฏิบัติตามข้อบังคับด้านการสื่อสารใหม่เพื่อแก้ไขปัญหาความต้องการตามกฎหมาย
+ถ้าคุณใช้นโยบายการดูแล [ในปัจจุบัน เราขอ](https://docs.microsoft.com/microsoft-365/compliance/supervision-policies)แนะนนะให้คุณใช้การปฏิบัติตามข้อบังคับด้านการสื่อสารใหม่เพื่อแก้ไขปัญหาความต้องการตามกฎหมาย
 
 เมื่อต้องการตั้งค่าการปฏิบัติตามข้อบังคับด้านการสื่อสาร [ให้ดู กําหนดค่าการปฏิบัติตาม](https://docs.microsoft.com/microsoft-365/compliance/communication-compliance-configure)นโยบายการสื่อสาร
 
@@ -43,5 +43,4 @@ For an overview of the communication compliance feature, see [Communication comp
 
 If you don't have any of the above and want to try communication compliance, **[Sign up for a trial of Office 365 Enterprise E5](https://go.microsoft.com/fwlink/p/?LinkID=698279)**.
 
-> [!NOTE]
-> อาจใช้เวลาถึง 24 ชั่วโมงในการประมวลผลข้อความอีเมลในนโยบายอย่างสมบูรณ์ การติดต่อสื่อสารใน Microsoft Teams Yammer และแพลตฟอร์มของบริษัทอื่นอาจใช้เวลาถึง 48 ชั่วโมงในการประมวลผลอย่างเต็มรูปแบบในนโยบาย
+**หมายเหตุ**: อาจใช้เวลาถึง 24 ชั่วโมงในการประมวลผลข้อความอีเมลในนโยบายอย่างสมบูรณ์ การติดต่อสื่อสารใน Microsoft Teams Yammer และแพลตฟอร์มของบริษัทอื่นอาจใช้เวลาถึง 48 ชั่วโมงในการประมวลผลนโยบายอย่างสมบูรณ์

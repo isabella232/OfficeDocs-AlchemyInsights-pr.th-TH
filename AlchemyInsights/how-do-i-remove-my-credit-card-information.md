@@ -16,23 +16,22 @@ ms.custom:
 - "431"
 - "1500001"
 ms.assetid: 9d465c0b-d262-4c84-a0ee-76d0f18a24dc
-ms.openlocfilehash: 0c3a16236ece1de61e94d9e22835c0acbdc4ecc1acf915c3c1ad26aa0174dc37
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: 681537d17f0df1e2b97a67a2b2fe8bbc60a74865
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57901675"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58327773"
 ---
 # <a name="how-do-i-remove-my-credit-card-information"></a>ฉันจะเอาข้อมูลบัตรเครดิตของฉันออกได้อย่างไร
 
-1. ในศูนย์การจัดการ Microsoft 365ไปที่หน้า **วิธีการ** \> [การเรียกเก็บเงิน](https://go.microsoft.com/fwlink/p/?linkid=2018806)
+1. ในศูนย์การจัดการ Microsoft 365 ไปที่หน้า **วิธีการ** \> [การเรียกเก็บเงิน](https://go.microsoft.com/fwlink/p/?linkid=2018806)
 
 2. บนหน้า **วิธีการ** การ Payment ให้เลือกบัตรเครดิตหรือบัญชีธนาคารเพื่อลบ
 
 3. เมื่อต้องการเอาบัตรเครดิตหรือบัญชีธนาคารออก ให้เลือก **ลบวิธีการเงิน**
 
-> [!NOTE]
-> คุณจะไม่สามารถลบบัตรเครดิตหรือบัญชีธนาคารออกได้ถ้าบัตรนี้ถูกใช้เพื่อซื้อการสมัครใช้งานอยู่ในขณะนี้
+    **หมายเหตุ**: คุณจะไม่สามารถลบบัตรเครดิตหรือบัญชีธนาคารออกได้ ถ้าบัตรใบนั้นถูกใช้ในการจ่ายค่าสมัครใช้งานในปัจจุบัน
 
 4. ในบานหน้าต่าง **ลบวิธีการจ่ายเงิน****ให้เลือก** ลบ
 

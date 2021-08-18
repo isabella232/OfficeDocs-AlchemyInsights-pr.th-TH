@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: 9104615baa5bf6dc91468912168e42ece6727eadd5330f1eb34e2a9170568b26
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: c5043bcd3d40dccc76b348f436001408e42ee7f9
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57898263"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58330079"
 ---
 # <a name="fix-common-problems-with-microsoft-defender-for-office-365"></a>แก้ไขปัญหาทั่วไปเกี่ยวกับ Microsoft Defender Office 365
 
-ต่อไปนี้เป็นวิธีแก้ไขปัญหาทั่วไปบางอย่างกับ Microsoft Defender for Office 365:
+ต่อไปนี้เป็นวิธีแก้ไขปัญหาทั่วไปบางอย่างของ Microsoft Defender Office 365:
 
 - **การหน่วงเวลาข้อความ**:
 
@@ -33,7 +33,7 @@ ms.locfileid: "57898263"
 
 - **เปิดใช้งานการป้องกันตู้เซฟลิงก์:**
 
-  1. ในพอร์ทัลMicrosoft 365 Defender ให้ไปที่ <https://security.microsoft.com/> นโยบาย&**การ**& \> **ร่วมกันทางอีเมล ตู้เซฟ** \>  \> **นโยบายภัยคุกคาม** ในส่วน นโยบาย
+  1. ในMicrosoft 365 Defenderที่ <https://security.microsoft.com/> ให้ไปที่ นโยบาย **&การ&** \> **ร่วมกันทางอีเมล ตู้เซฟ** \>  \> **นโยบายภัยคุกคาม** ในส่วน นโยบาย
 
      เมื่อต้องการไปยังหน้า **ตู้เซฟลิงก์** ของคุณ <https://security.microsoft.com/safelinksv2> โดยตรง ให้ใช้
 
@@ -45,4 +45,4 @@ ms.locfileid: "57898263"
      - เปิด **เลือกการแอคชันของ URL ที่อาจเป็นอันตรายที่ไม่รู้จักใน** ข้อความ
      - เลือก **ใช้ลิงก์ที่ปลอดภัยกับข้อความที่ส่งภายใน** องค์กร
 
-  ดูข้อมูลเพิ่มเติมที่[ตั้งค่านโยบายตู้เซฟลิงก์ใน Microsoft Defender Office 365](https://docs.microsoft.com/microsoft-365/security/office-365-security/set-up-safe-links-policies)
+  ดูข้อมูลเพิ่มเติมที่ ตั้งค่า[นโยบายตู้เซฟลิงก์ใน Microsoft Defender Office 365](https://docs.microsoft.com/microsoft-365/security/office-365-security/set-up-safe-links-policies)

@@ -14,12 +14,12 @@ ms.custom:
 - "6462"
 - "9003546"
 ms.assetid: 5ad2f1f2-9650-4eb0-b4fa-2f52a09f535a
-ms.openlocfilehash: a4a05e20833869941e3f7ff699ccd5b3f0bac6d6160baabd8f5d2924b6923edc
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 7c9b50abf89edca6cfded4e8f47bd3f4db9ec538
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53981816"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58329391"
 ---
 # <a name="troubleshoot-open-with-explorer-issues-in-sharepoint-online"></a>แก้ไขปัญหา "เปิดด้วย Explorer" ใน SharePoint Online
 
@@ -29,10 +29,10 @@ ms.locfileid: "53981816"
 
 - [คัดลอกหรือย้ายไฟล์ไลบรารีโดยใช้ เปิดด้วย Explorer](https://support.microsoft.com/office/copy-or-move-library-files-by-using-open-with-explorer-aaee7bfb-e2a1-42ee-8fc0-bcc0754f04d2?ui=en-us&rs=en-us&ad=us)
 
-> [!NOTE]
-- เราขอ[แนะSharePointซิงค์](https://support.microsoft.com/office/sync-sharepoint-and-teams-files-with-your-computer-6de9ede8-5b6e-4503-80b2-6190f3354a88?ui=en-us&rs=en-us&ad=us)ไฟล์กับไคลเอ็นต์ การซิงค์สําหรับ OneDrive ใหม่ที่มี[การเข้าถึงไฟล์](https://support.microsoft.com/office/save-disk-space-with-onedrive-files-on-demand-for-windows-10-0e6860d3-d9f3-4971-b321-7092438fb38e?ui=en-us&rs=en-us&ad=us)ได้ตามต้องการเนื่องจากการซิงโครไนซ์จะมอบการเข้าถึงไฟล์ของคุณภายในเครื่องและเสนอประสิทธิภาพที่ดีที่สุด
+**หมายเหตุ**:
+- เราขอแ[นะSharePointซิงค์ไฟล์](https://support.microsoft.com/office/sync-sharepoint-and-teams-files-with-your-computer-6de9ede8-5b6e-4503-80b2-6190f3354a88?ui=en-us&rs=en-us&ad=us)กับไคลเอ็นต์ การซิงค์สําหรับ OneDrive ใหม่ที่มี[การเข้าถึง](https://support.microsoft.com/office/save-disk-space-with-onedrive-files-on-demand-for-windows-10-0e6860d3-d9f3-4971-b321-7092438fb38e?ui=en-us&rs=en-us&ad=us)ไฟล์ได้ตามต้องการเนื่องจากการซิงโครไนซ์ให้สิทธิ์การเข้าถึงไฟล์ภายในเครื่องและเสนอประสิทธิภาพที่ดีที่สุด
 
-- **เปิดด้วย Explorer** ได้รับการสนับสนุนใน Internet Explorer 11 เท่านั้น For more information, see [end of support for IE11 with Microsoft 365 Apps](https://docs.microsoft.com/lifecycle/announcements/m365-ie11-microsoft-edge-legacy)). **เปิดด้วย Explorer** ไม่ใช้งานWindowsด้วย Microsoft Edge, Google Chrome, Mozilla Firefox หรือบนแพลตฟอร์ม Mac ด้วยเหตุนี้ ตัวเลือกมุมมอง **Explorer** จึงอาจเป็นสีเทา 
+- **เปิดด้วย Explorer** ได้รับการสนับสนุนใน Internet Explorer 11 เท่านั้น For more information, see [end of support for IE11 with Microsoft 365 Apps](https://docs.microsoft.com/lifecycle/announcements/m365-ie11-microsoft-edge-legacy)). **เปิดด้วย Explorer** ไม่ใช้งานWindowsกับ Microsoft Edge, Google Chrome, Mozilla Firefox หรือบนแพลตฟอร์ม Mac ด้วยเหตุนี้ ตัวเลือกมุมมอง **Explorer** จึงอาจเป็นสีเทา 
 
 - ปุ่ม **เปิดด้วย** Explorer จะไม่ปรากฏในประสบการณ์การใช้งานไลบรารีใหม่ เลือก **ดร** อปดาวน์ มุมมอง ที่มุมขวาบน (ชื่อของการเปลี่ยนแปลงดรอปดาวน์ขึ้นอยู่กับมุมมองปัจจุบันของคุณ)**แล้วเลือก ดูใน File Explorer**
 

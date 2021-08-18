@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002333"
 - "4537"
-ms.openlocfilehash: 3368f31c312de15acbfc46a16ef5a989b20cdce9
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 66de4338fd0ddd21bf6cd7d0a5bcb60374ad70adb3b27bdd021dbec8a7f163a6
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51820593"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54120059"
 ---
 # <a name="backing-up-email-in-exchange-online"></a>การย้อนกลับอีเมลใน Exchange Online
 
-เมื่อต้องการอ่านเกี่ยวกับวิธีสํารองข้อมูลอีเมลใน Exchange Online[โปรดดู สํารองข้อมูลอีเมลใน Exchange Online](https://docs.microsoft.com/exchange/back-up-email)
+เมื่อต้องการอ่านเกี่ยวกับวิธีสํารองข้อมูลExchange Onlineอีเมลใน Exchange Online[โปรดดูที่ การสํารองข้อมูลอีเมลใน](https://docs.microsoft.com/exchange/back-up-email)Exchange Online
 
-โปรดทราบว่าข้อมูลใน Exchange Online จะได้รับการป้องกันโดยการมีสเนาที่ซ [้](https://docs.microsoft.com/office365/servicedescriptions/exchange-online-service-description/high-availability-and-business-continuity)่ากันหลายชุด ดังนั้น อาจไม่ต้องใช้โซลูชันการสํารองข้อมูลแบบดั้งเดิม ทั้งนี้ขึ้นอยู่กับความต้องการของคุณ
+โปรดทราบว่าข้อมูลใน Exchange Online[ได้รับการป้องกันโดยการ](https://docs.microsoft.com/office365/servicedescriptions/exchange-online-service-description/high-availability-and-business-continuity)มีสเนาซ้หลายชุด ดังนั้น อาจไม่ต้องใช้โซลูชันการสํารองข้อมูลแบบดั้งเดิมทั้งนี้ขึ้นอยู่กับความต้องการของคุณ
