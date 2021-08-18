@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: db8b921fc84f42b6cef1138dca9ad433e648e0a2f10e80927bd5b0222bfeae3b
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: 7e3c729e9bf630fa798c746f25f046606a1459a1
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57896130"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58320508"
 ---
 # <a name="fix-sender-addressdomain-list-rules"></a>แก้ไขกฎรายการ ที่อยู่ผู้ส่ง/โดเมน
 
 นโยบายป้องกันสแปมนโยบายใดนโยบายหนึ่งของคุณที่ได้รับผลกระทบจากข้อความนี้ พบผู้ส่งข้อความในรายการ อนุญาต หรือ บล็อก เมื่อต้องการตรวจสอบนโยบาย ให้ปฏิบัติตามขั้นตอนต่อไปนี้
 
-1. ในMicrosoft 365 Defenderอีเมลที่ <https://security.microsoft.com/> ให้ไปที่ นโยบาย&การ& \> **นโยบาย** \> **ภัยคุกคาม** ทางอีเมล \> **ในส่วน** นโยบาย
+1. ในพอร์ทัล Microsoft 365 Defender ไปที่ <https://security.microsoft.com/> นโยบาย **การ&ร่วมกัน** \> **ทางอีเมล &นโยบาย** \> **ภัยคุกคาม** \> ในส่วน นโยบาย
 
    เมื่อต้องการไปที่หน้า **นโยบายป้องกันสแปม** <https://security.microsoft.com/antispam> โดยตรง ให้ใช้
 

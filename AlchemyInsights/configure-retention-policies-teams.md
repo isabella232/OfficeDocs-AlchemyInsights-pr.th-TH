@@ -1,5 +1,5 @@
 ---
-title: การกําหนดค่านโยบายการเก็บข้อมูลTeamsที่ตั้งอื่น
+title: การกําหนดค่านโยบายการเก็บข้อมูลTeamsที่ตั้ง
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,14 +13,14 @@ ms.collection: Adm_O365
 ms.custom:
 - "12063"
 - "9000273"
-ms.openlocfilehash: 21b06a9b5e836fa83f4d37617857eabb6289c30771d69225de662415d513d720
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: 4f7c7ad539a90204256911017bfd68a1f77b0072
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57890165"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58321212"
 ---
-# <a name="configure-retention-policies-for-teams-locations"></a>การกําหนดค่านโยบายการเก็บข้อมูลTeamsที่ตั้งอื่น
+# <a name="configure-retention-policies-for-teams-locations"></a>การกําหนดค่านโยบายการเก็บข้อมูลTeamsที่ตั้ง
 
 เมื่อต้องการกําหนดค่านโยบายการเก็บข้อมูลTeams:
 
@@ -28,7 +28,7 @@ ms.locfileid: "57890165"
 
 1. ภายใต้ **นโยบายการเก็บ** ข้อมูล **ให้เลือก นโยบายการเก็บข้อมูล** ใหม่ ตั้งชื่อนโยบายของคุณ **แล้วเลือก** ถัดไป
 
-1. เลือกตัวเลือกที่ต้องการ: การแชทTeams **หรือTeams****ใน** แชนเนล หรือทั้งสองอย่าง **จากนั้นเลือก** ถัดไป
+1. เลือกตัวเลือกที่ต้องการ: Teams **หรือTeams****ใน** แชนเนล หรือทั้งสองตัวเลือก **จากนั้นเลือก** ถัดไป
 
 1. กําหนดการตั้งค่าการเก็บข้อมูลของคุณ 
 

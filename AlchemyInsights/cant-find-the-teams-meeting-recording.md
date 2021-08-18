@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002530"
 - "7963"
-ms.openlocfilehash: f5b524fa0731d499bdea831b7f5363996b2f165f58e40717c3ca8a22dc264397
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: 5dcc66617eff38aa340019ac01fc8ccde933324a
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57890725"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58321492"
 ---
 # <a name="cant-find-the-teams-meeting-recording"></a>ไม่พบการบันทึกการประชุมTeamsค้นหา
 
-ถ้าคุณไม่พบหรือไม่พบการบันทึกการประชุม Teams เรียกใช้การวินิจฉัยการบันทึกการประชุมหายไปโดยการพิมพ์ **Diag: การบันทึก** ที่หายไป ในกล่องด้านบน 
+ถ้าคุณหาไม่พบหรือไม่พบการบันทึกTeams ให้เรียกใช้การวินิจฉัยการบันทึกการประชุมที่หายไปโดยการพิมพ์ **Diag: การบันทึก** ที่หายไป ในกล่องด้านบน 
 
 การบันทึกจะพบใน Stream, OneDrive หรือ SharePoint ขึ้นอยู่กับวิธีการกําหนดค่าผู้เช่าของคุณ และการบันทึกมีไว้เพื่อการประชุมแชนเนลหรือไม่ ดูคําแนะนําเกี่ยวกับวิธีการค้นหาการบันทึกการประชุมด้วยตนเองที่: 
 
