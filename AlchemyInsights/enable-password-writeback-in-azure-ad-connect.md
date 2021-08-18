@@ -1,5 +1,5 @@
 ---
-title: เปิดใช้งานการเขียนกลับของรหัสผ่านในบัญชีผู้ใช้ Azure AD เชื่อมต่อ
+title: เปิดใช้งานการเขียนกลับรหัสผ่านในบัญชีผู้ใช้ Azure AD เชื่อมต่อ
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002933"
 - "5615"
-ms.openlocfilehash: 63304667cce67c48fd8bbeee52ff6d61d033ea38fd8d4c4d96c240847dab2cab
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 607e27c883f83b4b29347e764b8f2273cf0f117e
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54118223"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58325406"
 ---
-# <a name="enable-password-writeback-in-azure-ad-connect"></a>เปิดใช้งานการเขียนกลับของรหัสผ่านในบัญชีผู้ใช้ Azure AD เชื่อมต่อ
+# <a name="enable-password-writeback-in-azure-ad-connect"></a>เปิดใช้งานการเขียนกลับรหัสผ่านในบัญชีผู้ใช้ Azure AD เชื่อมต่อ
 
-เมื่อต้องการเปิดใช้งาน Writeback รีเซ็ตรหัสผ่านด้วยตนเอง ก่อนอื่น ให้เปิดใช้งานตัวเลือกการเขียนกลับในบัญชีผู้ใช้ Azure AD เชื่อมต่อ จากเซิร์ฟเวอร์ Azure AD เชื่อมต่อ ให้เสร็จสิ้นขั้นตอนต่อไปนี้:
+เมื่อต้องการเปิดใช้งาน Writeback รีเซ็ตรหัสผ่านแบบบริการตนเอง ก่อนอื่น ให้เปิดใช้งานตัวเลือก writeback ใน Azure AD เชื่อมต่อ จากเซิร์ฟเวอร์ Azure AD เชื่อมต่อ ให้เสร็จสิ้นขั้นตอนต่อไปนี้:
 
-1. ลงชื่อเข้าใช้เซิร์ฟเวอร์ Azure AD เชื่อมต่อและเริ่มตัวช่วยสร้างการกําหนด **ค่า Azure AD เชื่อมต่อ**
+1. ลงชื่อเข้าใช้เซิร์ฟเวอร์ Azure AD เชื่อมต่อและเริ่มตัวช่วยสร้างการกําหนดค่า **Azure AD เชื่อมต่อ**
 2. บนหน้า **ยินดีต้อนรับ** ให้คลิก **กําหนด** ค่า
 3. บนหน้า **งานเพิ่มเติม** ให้เลือก **ปรับแต่งตัวเลือก** การซิงโครไนซ์ **แล้วคลิก** ถัดไป
 4. บนหน้า **เชื่อมต่อไปยัง Azure AD** ให้ใส่ข้อมูลรับรองผู้ดูแลระบบส่วนกลางของผู้เช่า Azure **ของคุณ แล้วคลิก** ถัดไป
@@ -42,5 +42,4 @@ ms.locfileid: "54118223"
 
 For more information, see [Enable Azure Active Directory self-service reset writeback to an on-premises environment](https://docs.microsoft.com/azure/active-directory/authentication/tutorial-enable-sspr-writeback).
 
-> [!NOTE]
->  เมื่อผู้ดูแลระบบรีเซ็ตรหัสผ่านของผู้ใช้ในพอร์ทัล Azure ถ้าผู้ใช้รายนั้นติดต่อกับภายนอกหรือแฮชรหัสผ่านซิงโครไนซ์ รหัสผ่านจะถูกเขียนกลับไปยังภายในองค์กร ฟังก์ชันการฟังก์ชันนี้Premiumสิทธิการใช้งาน Azure (P1 หรือ P2) และขณะนี้ไม่ได้รับการสนับสนุนในOffice Admin ของคุณ
+**หมายเหตุ**: เมื่อผู้ดูแลระบบรีเซ็ตรหัสผ่านของผู้ใช้ในพอร์ทัล Azure ถ้าผู้ใช้รายนั้นติดต่อกับภายนอกหรือมีการซิงโครไนซ์แฮชรหัสผ่าน รหัสผ่านจะถูกเขียนกลับไปยังภายในองค์กร ฟังก์ชันการฟังก์ชันนี้Premiumสิทธิการใช้งาน Azure (P1 หรือ P2) และขณะนี้ไม่ได้รับการสนับสนุนในOffice Admin ของคุณในขณะนี้

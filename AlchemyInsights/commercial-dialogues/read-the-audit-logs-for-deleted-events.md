@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "3100005"
 - "7327"
-ms.openlocfilehash: ef4cbb0b778b22fba83d22d5056449c2281c5a2947ecb41ce8f808a4d1132426
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: ec8f845f599e397814bc9077c3fe59edb5324192
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57896034"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58324752"
 ---
 # <a name="read-the-audit-logs-for-deleted-events"></a>อ่านบันทึกการตรวจสอบของเหตุการณ์ที่ถูกลบ
 
@@ -28,8 +28,7 @@ ms.locfileid: "57896034"
    - ในศูนย์การปฏิบัติตามข้อบังคับสําหรับ Microsoft 365 ที่ ให้ไปที่ <https://compliance.microsoft.com>  \> **ตรวจสอบโซลูชัน** หรือ เมื่อต้องการไปยัง **หน้า ตรวจสอบ** <https://compliance.microsoft.com/auditlogsearch> โดยตรง ให้ใช้
    - ในMicrosoft 365 Defenderที่ <https://security.microsoft.com> **ให้ไปที่** ตรวจสอบ หรือ เมื่อต้องการไปยัง **หน้า ตรวจสอบ** <https://security.microsoft.com/auditlogsearch> โดยตรง ให้ใช้
 
-    > [!NOTE]
-    > ถ้าคุณเห็นการแจ้งเตือนว่าคุณต้องเปิดฟีเจอร์นี้ ให้เปิดใช้งานทันที ถ้าฟีเจอร์ไม่ได้เปิดใช้งาน ผลลัพธ์การค้นหาจะไม่สามารถดึงข้อมูลจากวันที่ก่อนหน้าได้
+    **หมายเหตุ**: ถ้าคุณเห็นการแจ้งเตือนว่าคุณต้องเปิดฟีเจอร์นี้ ให้เปิดใช้งานทันที ถ้าฟีเจอร์ไม่ได้เปิดใช้งาน ผลลัพธ์การค้นหาจะไม่สามารถดึงข้อมูลจากวันที่ก่อนหน้าได้
 
 2. บนแท็บ **ค้นหา** ของหน้า **ตรวจสอบ** ให้กําหนดค่าการตั้งค่าต่อไปนี้
    - **ช่วงวันที่และเวลา**: เลือกช่วงวันที่/เวลา **ในกล่อง** เริ่มต้น **และ** สิ้นสุด
@@ -45,7 +44,6 @@ ms.locfileid: "57896034"
 
 4. เลือกกิจกรรมในผลลัพธ์เพื่อเปิดเมนูปลิวรายละเอียด ข้อมูลเพิ่มเติมเกี่ยวกับรายการที่ถูกลบ เช่น บรรทัดเรื่องและที่ตั้งของรายการเมื่อรายการถูกลบ จะแสดงอยู่ใน **เขตข้อมูล AffectedItems**
 
-   > [!NOTE]
-   > คุณไม่สามารถคืนค่ารายการที่ถูกลบโดยใช้ฟีเจอร์บันทึกการตรวจสอบได้ เมื่อต้องการคืนค่ารายการที่ถูกลบ[ให้ดู กู้คืนข้อความอีเมลที่ถูกลบใน Outlook บนเว็บ](https://support.microsoft.com/office/recover-deleted-email-messages-in-outlook-on-the-web-a8ca78ac-4721-4066-95dd-571842e9fb11)
+   **หมายเหตุ**: คุณไม่สามารถคืนค่ารายการที่ถูกลบโดยใช้ฟีเจอร์บันทึกการตรวจสอบได้ เมื่อต้องการคืนค่ารายการที่ถูกลบ[ให้ดู กู้คืนข้อความอีเมลที่ถูกลบในOutlook บนเว็บ](https://support.microsoft.com/office/recover-deleted-email-messages-in-outlook-on-the-web-a8ca78ac-4721-4066-95dd-571842e9fb11)
 
 For more information, see [Search the audit log to investigate common support issues](https://docs.microsoft.com/microsoft-365/compliance/auditing-troubleshooting-scenarios).

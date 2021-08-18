@@ -16,18 +16,18 @@ ms.custom:
 - "445"
 - "1500018"
 ms.assetid: 29635602-3521-4663-9d85-d111f85b3a19
-ms.openlocfilehash: d65e2d4404ec6bfceb653c4f04deb7529c056cc746e9fefb113cdc1fd16261b1
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: bd0697f9dc6d2f2e46c6b903827d26739a2137e8
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57889781"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58325176"
 ---
 # <a name="past-due-account"></a>บัญชีที่เลยกําหนดใช่หรือไม่
 
 การจ่ายเงินสามารถถูกปฏิเสธจากหลายสาเหตุ รวมถึงถ้าบัตรเครดิตหมดอายุ คุณสามารถใช้ฟีเจอร์ **การตั้งค่า** ยอดดุล เมื่อใดก็ได้เพื่อเปลี่ยนแปลงข้อมูลบัตรเครดิตของคุณ แล้วส่งการจ่ายเงินอีกครั้งทันที
 
-1. ในศูนย์การจัดการ ให้ไปที่ การเรียกเก็บเงิน **>[บริการ&ของคุณ](https://go.microsoft.com/fwlink/p/?linkid=842054)**
+1. ในศูนย์การจัดการ ให้ไปที่ การเรียกเก็บเงิน **> [ผลิตภัณฑ์&บริการ](https://go.microsoft.com/fwlink/p/?linkid=842054)** ของคุณ
 ค้นหาการสมัครใช้งานที่มียอดคงค้างอยู่ ในส่วน **การเรียกเก็บเงิน** ถัดจาก การสมัครใช้งาน มีการเลย **กําหนดการครบกําหนดให้คลิก** ยอดคงเหลือ **เพื่อจ่าย** ยอดคงเหลือทั้งหมด
 2. ถ้าคุณเป็นเจ้าของบัตรเครดิต คุณสามารถเปลี่ยนวันหมดอายุ เลือกบัตรใบอื่น[หรือเพิ่มบัตรใหม่](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods)
 3. ถ้าคุณไม่มีบัตรเครดิต คุณสามารถเลือกบัตรเครดิตใบอื่นหรือ[เพิ่มบัตรใหม่](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods)

@@ -14,16 +14,16 @@ ms.custom:
 - commerce_billing
 - "1639"
 - "9000134"
-ms.openlocfilehash: aedfec0491365ff23ec518768b160e7285702aeec418277a89e8079fb2ac6896
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: ee601c667a0d2aefb8ced7444fd5e2319924dc13
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57895682"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58324417"
 ---
-# <a name="payment-options-for-microsoft-365-for-business-subscriptions"></a>ตัวเลือกการ payment for Microsoft 365 for business subscriptions
+# <a name="payment-options-for-microsoft-365-for-business-subscriptions"></a>ตัวเลือกการการMicrosoft 365เงินของการสมัครใช้งานทางธุรกิจ
   
-บัตรเครดิต บัตรเดบิต บัญชีธนาคาร (บริการหักบัญชีเงินฝากอัตโนมัติ) และใบแจ้งหนี้ (จ่ายด้วยเช็คหรือการโอนเงินผ่านระบบอิเล็กทรอนิกส์ (EFT)) คือตัวเลือกการMicrosoft 365ทั้งหมดที่ทํากับการสมัครใช้งานทางธุรกิจ
+บัตรเครดิต บัตรเดบิต บัญชีธนาคาร (บริการหักบัญชีเงินฝากอัตโนมัติ) และใบแจ้งหนี้ (การหักเงินด้วยเช็คหรือการโอนเงินผ่านระบบอิเล็กทรอนิกส์ (EFT)) คือตัวเลือกการMicrosoft 365ทั้งหมดที่เกี่ยวกับการสมัครใช้งานทางธุรกิจ
   
 **จ่ายด้วยบัตรเครดิตหรือบัตรเดบิตหรือบัญชีธนาคาร**
   
@@ -39,4 +39,4 @@ ms.locfileid: "57895682"
   
 **ข้อมูลเพิ่มเติม**
   
-[วิธีการซื้อการสมัครใช้งาน Microsoft 365 for business](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/pay-for-your-subscription)
+[วิธีการซื้อการสมัครใช้งาน Microsoft 365 business](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/pay-for-your-subscription)

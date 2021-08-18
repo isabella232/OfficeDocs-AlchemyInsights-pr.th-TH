@@ -1,5 +1,5 @@
 ---
-title: คัดลอกไฟล์ใน SharePoint OneDrive
+title: คัดลอกไฟล์ใน SharePointและOneDrive
 ms.author: toresing
 author: tomresing
 manager: scotv
@@ -14,18 +14,17 @@ ms.custom:
 - "452"
 - "5300013"
 ms.assetid: 94b46e45-0a79-4dc3-9c2b-94fb021a7f4a
-ms.openlocfilehash: 7b7d0972c5ffa8d5b58abcd2aaf0e9fe994a668f5a61289024c98f0cc0242547
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: f65b7934be0a6cc8b0e8daf5ad46c7232f25c715
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54081089"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58325740"
 ---
-# <a name="copy-files-in-sharepoint-and-onedrive"></a>คัดลอกไฟล์ใน SharePoint OneDrive
+# <a name="copy-files-in-sharepoint-and-onedrive"></a>คัดลอกไฟล์ใน SharePointและOneDrive
 
 คุณสามารถคัดลอกไฟล์จากเว็บเบราว์เซอร์ไปยังหลายSharePointและOneDriveอื่น
 
 ดูข้อมูลเพิ่มเติมที่ [ย้ายหรือคัดลอก](https://support.microsoft.com/office/00e2f483-4df3-46be-a861-1f5f0c1a87bc)
 
-> [!NOTE]
-> **คัดลอก** ไปยัง จะไม่พร้อมใช้งานถ้าคุณใช้ประสบการณ์การใช้งานแบบคลาสสิกของ SharePoint Online
+**หมายเหตุ**:**ส** ําเนาไปยัง จะไม่พร้อมใช้งานถ้าคุณใช้ประสบการณ์การใช้งานแบบคลาสสิกของ SharePoint Online

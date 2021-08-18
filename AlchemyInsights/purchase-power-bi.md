@@ -15,12 +15,12 @@ ms.custom:
 - commerce_purchase
 - "9002564"
 - "4961"
-ms.openlocfilehash: 15642c07f686504ea7bf129c53a4d9ae453d2dffb6a9e666f1312ed35acf9c16
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: fc5e731ee05722c7cd707239af5ad4c07a6d85b9
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57900975"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58323657"
 ---
 # <a name="purchase-power-bi"></a>ซื้อ Power BI
 
@@ -35,4 +35,4 @@ ms.locfileid: "57900975"
 
 เมื่อต้องการกําหนดสิทธิ์การใช้งานให้กับผู้ใช้ ให้ดู [กําหนดสิทธิ์การใช้งานให้กับ](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users)ผู้ใช้
 
-เมื่อต้องการซื้อสิทธิ์การใช้งานเพิ่มเติมหรือเอาสิทธิ์การใช้งานออก [ให้ดู ซื้อหรือเอาสิทธิ์การใช้งานออกของการสมัครใช้งานทางธุรกิจ](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses)ของคุณ
+เมื่อต้องการซื้อสิทธิ์การใช้งานเพิ่มเติม หรือเอาสิทธิ์การใช้งาน [ออก ให้ดู ซื้อหรือเอาสิทธิ์การใช้งานออกของการสมัครใช้งานทางธุรกิจ](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses)ของคุณ

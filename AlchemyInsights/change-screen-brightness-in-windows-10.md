@@ -1,5 +1,5 @@
 ---
-title: เปลี่ยนความสว่างของหน้าจอใน Windows 10
+title: เปลี่ยนความสว่างของหน้าจอในWindows 10
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,20 +12,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002940"
 - "5633"
-ms.openlocfilehash: 6d858183e8a539c024b2228be71283043017819b
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: f8a310fd0259e2343fdb32c5af558fa205925faca5dc2ab7a637e0de1a5fbd20
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51818595"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54119786"
 ---
-# <a name="change-screen-brightness-in-windows-10"></a>เปลี่ยนความสว่างของหน้าจอใน Windows 10
+# <a name="change-screen-brightness-in-windows-10"></a>เปลี่ยนความสว่างของหน้าจอในWindows 10
 
-หาก Windows 10 ของคุณใหม่กว่าเวอร์ชัน 1903 จะมี **แถบเลื่อน** ความสว่าง ในศูนย์ปฏิบัติการ เมื่อต้องการเปิดศูนย์ปฏิบัติการ ให้คลิกปุ่ม **การแจ้งเตือน** ที่ด้านขวาสุดของแถบงาน หรือกด **หน้าแรกของ Windows + A** บนแป้นพิมพ์ของคุณ
+หากWindows 10เวอร์ชันที่ใหม่กว่าเวอร์ชัน 1903 **จะมีแถบเลื่อน** ความสว่าง ในศูนย์ปฏิบัติการ เมื่อต้องการเปิดศูนย์ปฏิบัติการ ให้คลิกปุ่ม **การแจ้งเตือน** ที่ด้านขวาสุดของแถบงาน หรือกด **Windows home + A** บนคีย์บอร์ดของคุณ
 
 ![แถบเลื่อนความสว่าง](media/brightness-slider.png)
 
-หาก Windows 10 เป็นเวอร์ชันก่อนหน้า คุณสามารถค้นหาแถบเลื่อนความสว่างได้โดยไปที่ การตั้งค่า >**[การตั้งค่า > จอแสดงผล](ms-settings:display?activationSource=GetHelp)**
+ถ้าWindows 10เป็นเวอร์ชันก่อนหน้า คุณสามารถค้นหาแถบเลื่อนความสว่างโดยไปที่ การตั้งค่า >**[ที่แสดง>](ms-settings:display?activationSource=GetHelp)** หน้าจอ
 
 **หมายเหตุ**:
 

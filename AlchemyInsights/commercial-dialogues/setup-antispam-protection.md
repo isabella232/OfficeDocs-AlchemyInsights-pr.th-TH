@@ -13,16 +13,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000682"
 - "7679"
-ms.openlocfilehash: a5eec054a8459453be9f3b9de79596030a34049a5ce75fbce31240d8e413d5b9
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: be7fde5892c5e5dee09ece2ff4fdce07e6b5b9ba
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57874594"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58324590"
 ---
 # <a name="set-up-an-anti-spam-protection"></a>ตั้งค่าการป้องกันสแปม
 
-1. ในMicrosoft 365 Defenderอีเมลที่ <https://security.microsoft.com/> ไปที่ นโยบาย&การ& \> **ร่วมกัน** \> **ทางอีเมล** \> หรือ นโยบายภัยคุกคาม ในส่วน นโยบาย
+1. ในพอร์ทัล Microsoft 365 Defender ไปที่ <https://security.microsoft.com/> นโยบาย **การ&ร่วมกัน** \> **ทางอีเมล &นโยบาย** \> **ภัยคุกคาม** \> ในส่วน นโยบาย
 
    เมื่อต้องการไปที่หน้า **นโยบายป้องกันสแปม** <https://security.microsoft.com/antispam> โดยตรง ให้ใช้
 

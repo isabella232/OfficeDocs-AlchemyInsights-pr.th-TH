@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002449"
 - "4748"
-ms.openlocfilehash: a356b9907bb1b76ea753aac29eb176005bb45e22d8e1279dffd09af2cda9642b
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: 031e1e8368ffc55c38c6053b0f17ef618b3d6833
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57899263"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58324906"
 ---
 # <a name="unlocking-an-account"></a>การปลดล็อกบัญชี
 
@@ -41,4 +41,4 @@ ms.locfileid: "57899263"
 
 For more password reset scenarios, including Self-Service Password Reset, [see Reset Microsoft 365 for multiple-attempts-to-charge-online-payment-instrumentsbusiness passwords](https://docs.microsoft.com/microsoft-365/admin/add-users/reset-passwords).
 
-บริการนี้จะป้องกันไม่ให้ผู้ใช้ส่งอีเมลหลังจากตรวจพบหลักฐานของบัญชีที่ถูกละเมิด และ/หรือสแปมขาออก เพื่อความปลอดภัย ให้ปฏิบัติตามขั้นตอนใน[การตอบกลับบัญชีอีเมลที่ถูก](https://docs.microsoft.com/microsoft-365/security/office-365-security/responding-to-a-compromised-email-account)ละเมิด Microsoft 365อีเมลของผู้ใช้
+บริการนี้จะป้องกันไม่ให้ผู้ใช้ส่งอีเมลหลังจากตรวจพบหลักฐานของบัญชีที่ถูกละเมิด และ/หรือสแปมขาออก เพื่อความปลอดภัย ให้ปฏิบัติตามขั้นตอนใน[การตอบกลับบัญชีผู้ใช้อีเมลที่ถูก](https://docs.microsoft.com/microsoft-365/security/office-365-security/responding-to-a-compromised-email-account)ละเมิด Microsoft 365บัญชีผู้ใช้นั้น

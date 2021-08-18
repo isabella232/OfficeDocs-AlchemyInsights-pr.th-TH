@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003547"
 - "6463"
-ms.openlocfilehash: c3623aee9ab3592254ffb25aade7d52a2c7ddd49fde939956162cd4008d5ba19
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 62f3cfb161c4f8da735bd288a2d6e22971b4aada
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54003588"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58325482"
 ---
 # <a name="enable-cost-management"></a>เปิดใช้งานการจัดการต้นทุน
 
@@ -34,8 +34,7 @@ ms.locfileid: "54003588"
 2. **เลือก ใบแจ้งหนี้****แล้วเข้าถึง** ใบแจ้งหนี้
 3. เปิดการเข้าถึงตามด้วยการบันทึกการเปลี่ยนแปลง เพื่ออนุญาตให้ผู้ใช้ที่มีบทบาทในการสมัครใช้งานสามารถดาวน์โหลดใบแจ้งหนี้ได้
 
-> [!NOTE]
-> ผู้ดูแลระบบบัญชียังสามารถกําหนดค่าให้ส่งใบแจ้งหนี้ทางอีเมลได้ เมื่อต้องการเรียนรู้เพิ่มเติม [ให้ดู รับใบแจ้งหนี้ใน](https://docs.microsoft.com/azure/cost-management-billing/manage/download-azure-invoice-daily-usage-date?)อีเมล
+**หมายเหตุ**: ผู้ดูแลระบบบัญชียังสามารถกําหนดค่าให้ส่งใบแจ้งหนี้ทางอีเมลได้ เมื่อต้องการเรียนรู้เพิ่มเติม [ให้ดู รับใบแจ้งหนี้ใน](https://docs.microsoft.com/azure/cost-management-billing/manage/download-azure-invoice-daily-usage-date?)อีเมล
 
 **วิธีเพิ่มผู้ใช้ลงในบทบาทโปรแกรมอ่านการเรียกเก็บเงิน**
 

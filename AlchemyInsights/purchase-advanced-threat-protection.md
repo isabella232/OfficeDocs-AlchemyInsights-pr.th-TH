@@ -15,19 +15,19 @@ ms.custom:
 - commerce_purchase
 - "9003019"
 - "5758"
-ms.openlocfilehash: 46a734244b2eedc6da69738dc19e51513d165c2cb1afc3ab99e91a856e20f674
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: 20d241947c356b3d2b9f050f88de8af1d370d799
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57901043"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58323723"
 ---
 # <a name="purchase-microsoft-defender-for-office-365"></a>ซื้อ Microsoft Defender Office 365
 
-Microsoft Defender Office 365จะรวมอยู่ในการสมัครใช้งานบางรายการ เช่น Microsoft 365 E5, Office 365 E5, Office 365 A5 และ Microsoft 365 Business Premium หากการสมัครใช้งานของคุณไม่มี Microsoft Defender for Office 365 คุณสามารถซื้อ[Microsoft Defender Office 365](https://docs.microsoft.com/microsoft-365/security/office-365-security/office-365-atp)เป็น Add-on ของการสมัครใช้งานบางรายการได้ เมื่อต้องการซื้อในศูนย์การจัดการ Microsoft 365:
+Microsoft Defender Office 365จะรวมอยู่ในการสมัครใช้งานบางอย่าง เช่น Microsoft 365 E5, Office 365 E5, Office 365 A5 และ Microsoft 365 Business Premium หากการสมัครใช้งานของคุณไม่มี Microsoft Defender for Office 365 คุณสามารถซื้อ Microsoft [Defender Office 365](https://docs.microsoft.com/microsoft-365/security/office-365-security/office-365-atp)เป็น Add-on ของการสมัครใช้งานบางรายการได้ เมื่อต้องการซื้อในศูนย์การจัดการ Microsoft 365:
 
 1. ในศูนย์การจัดการ ให้ไปที่หน้า **บริการ**  >  [การซื้อ](https://go.microsoft.com/fwlink/p/?linkid=868433)การเรียกเก็บเงิน
-2. ที่ด้านล่างของหน้า ซื้อ **บริการ** ในส่วน **Add-on ให้ค้นหา Add-on** ของ Microsoft Defender Office 365 Add-on **แล้วเลือก** รายละเอียด
+2. ที่ด้านล่างของหน้า ซื้อบริการ **ในส่วน** **Add-on ให้ค้นหา Add-on** ของ Microsoft Defender Office 365 Add-on **แล้วเลือก** รายละเอียด
 3. บนหน้ารายละเอียดผลิตภัณฑ์ **ให้เลือก** ซื้อ
 4. หากต้องป้อนข้อมูลการสั่งซื้ออื่นๆ ให้ครบถ้วน ข้อมูลนี้อาจรวมถึงการเลือกการสมัครใช้งานที่มี Add-on และจํานวนผู้ใช้ที่จะใช้ เมื่อคุณเสร็จสิ้น เลือก **เช็คเอาท์** ทันที
 5. หากต้องตรวจสอบข้อมูลการสั่งซื้อและราคา **จากนั้นเลือก** ถัดไป

@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: 3015b0cb3b972bc1b096e6f791b7976f78f0c15639fb15403d9b0c134a09e1cf
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: fd2330f9ecfd30505d0508314fea85ede2dfb536
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57894414"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58323973"
 ---
 # <a name="investigate-phishing-spam-or-incorrectly-filtered-email"></a>ตรวจสอบฟิชชิ่ง สแปม หรืออีเมลที่กรองไม่ถูกต้อง
 
 ใช้ Submit Explorer เพื่อส่งข้อความไปยัง Microsoft คุณจะได้รับข้อเสนอแนะในทันทีเกี่ยวกับการกรองข้อความและสาเหตุที่เกิดปัญหา ต่อไปนี้เป็นข้อมูลสรุปของขั้นตอนต่างๆ:
 
-1. ในMicrosoft 365 Defenderที่ <https://security.microsoft.com> ให้ไปที่ การส่งการ&**ร่วมกัน** \> **ทางอีเมล**
+1. ในMicrosoft 365 Defenderที่ <https://security.microsoft.com> ให้ไปที่ การส่งการ **&ร่วมกัน** \> **ทางอีเมล**
 
    เมื่อต้องการไปยัง **หน้า การส่ง** <https://security.microsoft.com/reportsubmission> โดยตรง ให้ใช้
 

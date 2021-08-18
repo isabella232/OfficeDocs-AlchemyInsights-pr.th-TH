@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: cd5ca46d24c079b4b86a487bd70ffc63a6b4c1b08cfdb931769db8d16db3c3fd
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: d55dae30c875022b8c38c14ba72eafbc674efcae
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57874558"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58324544"
 ---
 # <a name="submit-an-email-message-using-message-trace"></a>ส่งข้อความอีเมลโดยใช้การติดตามข้อความ
 
-1. ไปที่ ศูนย์การจัดการExchange (EAC) ที่ <https://admin.exchange.microsoft.com> \> **การติดตาม** \> **ข้อความของลExchangeเมล**
+1. ไปที่ศูนย์Exchangeการจัดการ (EAC) ที่ <https://admin.exchange.microsoft.com> \> **การติดตาม** \> **ข้อความลเมล**
 
    เมื่อต้องการไปยังหน้า **การติดตาม** ข้อความ <https://admin.exchange.microsoft.com/#/messagetrace> โดยตรง ให้ใช้
 
