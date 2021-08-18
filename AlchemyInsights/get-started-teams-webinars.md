@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9006672"
 - "11357"
-ms.openlocfilehash: 82c6524011f996de07025e4401604101f50a326b37e38b890524626325a01aaf
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: a82695d81db634cfd12971a9b6521ae1de56360a
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57888261"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58317669"
 ---
 # <a name="getting-started-with-teams-webinars"></a>การเริ่มต้นใช้งานการสัมมนาผ่านTeamsออนไลน์
 
@@ -25,6 +25,6 @@ ms.locfileid: "57888261"
 
 หลังจากตั้งค่าการสัมมนาผ่านเว็บในองค์กรของคุณ ผู้ใช้สามารถจัดตารางการสัมมนาผ่านเว็บ และเปิดการลงทะเบียนให้กับผู้เข้าร่วมประชุมได้ การสัมมนาผ่านเว็บต่างจากการประชุมแบบดั้งเดิมที่มีการอภิปรายและการมอบหมายงานมากมาย การสัมมนาผ่านเว็บมีไว้เพื่องานนําเสนอแบบโต้ตอบและมีเครื่องมือในการวิเคราะห์ผู้เข้าร่วม
 
-**หมายเหตุ**: ฟังก์ชันการการใช้งานการสัมมนาผ่านเว็บจะยังอยู่ในกระบวนการของMicrosoft 365ผู้เช่า 
+**หมายเหตุ**: ฟังก์ชันการการใช้งานการสัมมนาผ่านเว็บจะยังอยู่ในระหว่างMicrosoft 365ผู้เช่า 
 
 For more information on how to set up and configure Teams Webinars, [see Set up for webinars in Microsoft Teams](https://docs.microsoft.com/microsoftteams/set-up-webinars).

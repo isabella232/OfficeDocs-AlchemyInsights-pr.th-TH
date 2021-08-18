@@ -14,19 +14,19 @@ ms.custom:
 - commerce_subscriptions
 - "9002927"
 - "5603"
-ms.openlocfilehash: 565578622249269604c8dcb1ec10b1f1036e17673e26bd0eb15a38d323aa28bd
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 8fe79ddda20443b75e3c315b6bd90a60c9cebfa5
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54107036"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58317363"
 ---
 # <a name="suspend-or-pause-a-subscription"></a>ระงับหรือหยุดการสมัครใช้งานชั่วคราว
 
-เมื่อต้องการระงับหรือหยุดการสมัครใช้งานชั่วคราวชั่วคราว คุณสามารถยกเลิกการสมัครใช้งานศูนย์การจัดการ Microsoft 365ได้
+เมื่อต้องการระงับหรือหยุดการสมัครใช้งานชั่วคราวชั่วคราว คุณสามารถยกเลิกการสมัครใช้งานศูนย์การจัดการ Microsoft 365ชั่วคราว
 
 1. ในศูนย์การจัดการ ให้ไปที่หน้า  >  **[การเรียกเก็บเงินผลิตภัณฑ์](https://go.microsoft.com/fwlink/p/?linkid=842054)** ของคุณ
 2. **บนแท็บ** ผลิตภัณฑ์ ให้ค้นหาการสมัครใช้งานที่คุณต้องการยกเลิก เลือกจุดสามจุด (การทําเพิ่มเติม) **จากนั้นเลือก ยกเลิก** การสมัครใช้งาน
-3. สถานะการสมัครใช้งานจะแสดง **เป็น** ปิดใช้งาน และแสดงวันที่ที่การสมัครใช้งานถูกยกเลิก การสมัครใช้งานจะยังคงอยู่ในสถานะถูกปิดใช้งานเป็นเวลา 90 วัน และมีการลดฟังก์ชันการใช้งานจนกว่าจะถูกลบ [หรือเปิดใช้งาน](/microsoft-365/commerce/subscriptions/reactivate-your-subscription)ใหม่
+3. สถานะการสมัครใช้งานจะแสดง **เป็น** ปิดใช้งาน และแสดงวันที่ที่การสมัครใช้งานถูกยกเลิก การสมัครใช้งานจะยังคงอยู่ในสถานะถูกปิดใช้งานเป็นเวลา 90 วัน และมีการลดฟังก์ชันการใช้งานจนกว่าจะถูกลบ [หรือเปิดใช้งาน](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/reactivate-your-subscription)ใหม่
 
-ดูข้อมูลเพิ่มเติมได้ที่[จะเกิดอะไรขึ้นเมื่อคุณยกเลิกการสมัครใช้งาน](/microsoft-365/commerce/subscriptions/cancel-your-subscription#what-happens-when-you-cancel-a-subscription)[และ บันทึกข้อมูล](/microsoft-365/commerce/subscriptions/cancel-your-subscription#save-your-data)ของคุณ
+ดูข้อมูลเพิ่มเติมได้ที่[จะเกิดอะไรขึ้นเมื่อคุณยกเลิกการสมัครใช้งาน](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription#what-happens-when-you-cancel-a-subscription)[และ บันทึกข้อมูล](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription#save-your-data)ของคุณ

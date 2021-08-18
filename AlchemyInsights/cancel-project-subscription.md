@@ -14,22 +14,22 @@ ms.custom:
 - commerce_subscriptions
 - "1400001"
 - "4722"
-ms.openlocfilehash: 94a07f68003c8e77149499dbb95e1e96313e14b953e1b8bbf7e0efed24ea145d
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 9a336cb0c13751044cdca7017803d9ba4dabcb1e5f6e49d3ac4fd7d35d027c95
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54071423"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57900447"
 ---
 # <a name="cancel-project-subscription"></a>ยกเลิกProjectการสมัครใช้งาน
 
 ผู้ดูแลระบบสามารถยกเลิกProjectการสมัครใช้งานขององค์กรของพวกเขาในศูนย์การจัดการ Microsoft 365ได้
 
 1. ไปที่หน้า \> [การเรียกเก็บเงิน ผลิตภัณฑ์](https://go.microsoft.com/fwlink/p/?linkid=842054)ของคุณ
-2. บนแท็บ **ผลิตภัณฑ์** ให้Projectการสมัครใช้งานที่คุณต้องการยกเลิก เลือกจุดสามจุด (การทําเพิ่มเติม) **จากนั้นเลือก ยกเลิก** การสมัครใช้งาน
+2. **บนแท็บ** ผลิตภัณฑ์ ให้Projectการสมัครใช้งานที่คุณต้องการยกเลิก เลือกจุดสามจุด (การทําเพิ่มเติม) **จากนั้นเลือก ยกเลิก** การสมัครใช้งาน
 3. ในบานหน้าต่าง **ยกเลิก** การสมัครใช้งาน ให้เลือกเหตุผลว่าเหตุใดคุณจึงยกเลิก อีกทางหนึ่งคือ ให้ข้อเสนอแนะใดๆ
 4. เลือกบันทึก
 
 **การคืนเงิน:** เครดิตตามส่วนใดๆ จะถูกส่งกลับถึงคุณภายในรอบการเรียกเก็บเงินถัดไป
 
-เมื่อต้องการเรียนรู้เพิ่มเติม [ให้ดู ยกเลิกการสมัครใช้งาน](/microsoft-365/commerce/subscriptions/cancel-your-subscription)ของคุณ
+เมื่อต้องการเรียนรู้เพิ่มเติม [ให้ดู ยกเลิกการสมัครใช้งาน](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription)ของคุณ

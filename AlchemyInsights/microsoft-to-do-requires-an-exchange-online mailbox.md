@@ -1,5 +1,5 @@
 ---
-title: Microsoft ต้องทำกล่องจดหมาย Exchange Online
+title: Microsoft To Doต้องมีExchange Onlineกล่องจดหมาย
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,15 +13,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "5751"
 - "9003043"
-ms.openlocfilehash: 3f31263e938df7019753ab44231c3f7fedea8a4a
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 10ea96671133724dea312ef6b51a4a0ceb974050d8bd0dbdd9e89b895e76e671
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47777803"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54113975"
 ---
-# <a name="microsoft-to-do-requires-an-exchange-online-mailbox"></a>Microsoft ต้องทำกล่องจดหมาย Exchange Online
+# <a name="microsoft-to-do-requires-an-exchange-online-mailbox"></a>Microsoft To Doต้องมีExchange Onlineกล่องจดหมาย
 
-Microsoft จะต้องมีกล่องจดหมาย Exchange Online ในการจัดเก็บและซิงค์รายการที่ต้องทำของคุณในขณะนี้ เนื่องจาก Microsoft ต้องดำเนินการ Exchange คุณไม่สามารถใช้แอปที่ต้องทำได้จนกว่าคุณจะมีกล่องจดหมาย Exchange Online แผนที่ได้รับการสนับสนุนในขณะนี้รวมถึง: สิ่งจำเป็นสำหรับ Exchange, Exchange Online คีออสค์, Exchange Online Plan 1, Exchange Online (Plan 1), Exchange Online (Plan 2), Exchange Online (P1) และ Exchange Online POP
+Microsoft To Doต้องใช้กล่องจดหมายExchange Onlineเพื่อจัดเก็บและซิงค์รายการสิ่งที่ต้องซื้อของคุณ เนื่องจากMicrosoft To DoแอปExchangeคุณจึงไม่สามารถใช้งานแอป To Do ได้จนกว่าคุณจะExchange Onlineกล่องจดหมายของคุณ แผนที่ได้รับการสนับสนุนในปัจจุบัน ได้แก่ Exchange Essentials, Exchange Online Kiosk, Exchange Online Plan 1, Exchange Online (Plan 1), Exchange Online (Plan 2), Exchange Online (P1) Exchange Online POP
 
-ด้วยเหตุนี้ยังไม่สนับสนุนบัญชีผู้ใช้ Exchange ภายในองค์กรนอกจากคุณยังมีกล่องจดหมายในระบบคลาวด์ด้วย เรากำลังทำงานเพื่อสนับสนุนชนิดบัญชีผู้ใช้เพิ่มเติมในอนาคตแต่ในระหว่างนี้ให้ติดต่อผู้ดูแลระบบ IT ของคุณเพื่อช่วยให้คุณสามารถเข้าถึงได้
+ดังนั้น บัญชีTo Doจะยังไม่รองรับบัญชีExchangeภายในองค์กรเว้นแต่คุณจะมีกล่องจดหมายในระบบคลาวด์ด้วย เราพยายามสนับสนุนชนิดบัญชีอื่นๆ ในอนาคต แต่ในระหว่างนี้ ให้ติดต่อผู้ดูแลระบบ IT ของคุณเพื่อช่วยคุณในการเข้าถึง

@@ -13,16 +13,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "8002"
 - "5300030"
-ms.openlocfilehash: b0774b3ce59c98f83ea9fb1efaef409eb9e0d622
-ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
+ms.openlocfilehash: 5d08ee7a04cb5107c2d380fe3844f1acaea0a9c4b76f2ad4e4b36f469e44e9fc
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58311202"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57900231"
 ---
 # <a name="migrate-files-from-dropbox"></a>โยกย้ายไฟล์จากDropbox
 
-ร่วมกันทั้งหมดในที่เดียวโดยการโยกย้ายเอกสาร Dropbox ข้อมูล และผู้ใช้ของคุณไปยังOneDrive SharePoint และTeamsในMicrosoft 365ของคุณ
+ร่วมกันทั้งหมดในที่เดียวโดยการโยกย้ายเอกสาร Dropbox ข้อมูล และผู้ใช้ของคุณไปยังOneDrive SharePoint และTeamsในMicrosoft 365ใหม่
 
-หากต้องการข้อมูลเพิ่มเติม โปรดดู โยกย้าย[Dropbox Microsoft 365ด้วยตัวจัดการการ](https://docs.microsoft.com/sharepointmigration/mm-dropbox-overview)โยกย้าย
+ดูข้อมูลเพิ่มเติมที่ โยกย้าย[Dropbox Microsoft 365ด้วยตัวจัดการการ](https://docs.microsoft.com/sharepointmigration/mm-dropbox-overview)โยกย้าย
 

@@ -1,5 +1,5 @@
 ---
-title: Microsoft Edge กำหนดค่าการตั้งค่าความเป็นส่วนตัว
+title: Microsoft Edgeกําหนดค่าการตั้งค่าความเป็นส่วนตัว
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -13,19 +13,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003843"
 - "6892"
-ms.openlocfilehash: dcd1d91dcde1f585caf0e1e3af30946513a0f26c
-ms.sourcegitcommit: 94036315916fbc79dca2a692c2e9bc1139dd28f6
+ms.openlocfilehash: 24721325aefd4a8c0dbeb7864ce6da637c4df932694d4b6fff80cab5bb5b4319
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 12/08/2020
-ms.locfileid: "49678862"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54114191"
 ---
-# <a name="microsoft-edge-configure-privacy-settings"></a>Microsoft Edge กำหนดค่าการตั้งค่าความเป็นส่วนตัว
+# <a name="microsoft-edge-configure-privacy-settings"></a>Microsoft Edgeกําหนดค่าการตั้งค่าความเป็นส่วนตัว
 
-ตามค่าเริ่มต้นถ้ามีการปรับใช้ Microsoft Edge บนแพลตฟอร์มที่ไม่ใช่ Windows ข้อมูลการวินิจฉัยและข้อมูลของไซต์จะไม่ถูกส่งไปยัง Microsoft อย่างไรก็ตามถ้า Microsoft Edge ถูกปรับใช้บน Windows 10 ข้อมูลการวินิจฉัยและข้อมูลไซต์จะถูกส่งตามการ [ตั้งค่าข้อมูลการวินิจฉัยของ Windows](https://docs.microsoft.com/windows/privacy/configure-windows-diagnostic-data-in-your-organization)ของผู้ใช้
+ตามค่าเริ่มต้น ถ้ามีการปรับใช้Microsoft Edgeบนแพลตฟอร์มที่ไม่ใช่แพลตฟอร์ม Windows ข้อมูลการวินิจฉัยและข้อมูลไซต์จะไม่ถูกส่งไปยัง Microsoft อย่างไรก็ตาม หากมีการปรับใช้Microsoft Edgeใน Windows 10 ข้อมูลการวินิจฉัยและข้อมูลไซต์จะถูกส่งตามการตั้งค่าข้อมูลWindows[การวินิจฉัย](https://docs.microsoft.com/windows/privacy/configure-windows-diagnostic-data-in-your-organization)ของผู้ใช้
 
-เมื่อต้องการกำหนดค่าวิธีที่ Microsoft Edge จัดการการเก็บรวบรวมข้อมูลสำหรับองค์กรของคุณให้ใช้นโยบายกลุ่มต่อไปนี้:
-- [MetricsReportingEnabled](https://docs.microsoft.com/DeployEdge/microsoft-edge-policies#metricsreportingenabled): นโยบายนี้จะเปิดใช้งานการรายงานการใช้งานและข้อมูลที่เกี่ยวข้องกับข้อผิดพลาด
-- [SendSiteInfoToImproveServices](https://docs.microsoft.com/DeployEdge/microsoft-edge-policies#sendsiteinfotoimproveservices): นโยบายนี้ส่งข้อมูลไซต์ที่ใช้ในการปรับปรุงบริการของไมโครซอฟท์
+เมื่อต้องการกําหนดMicrosoft Edgeจัดการการเก็บรวบรวมข้อมูลให้กับองค์กรของคุณ ให้ใช้นโยบายกลุ่มต่อไปนี้
+- [MetricsReportingEnabled](https://docs.microsoft.com/DeployEdge/microsoft-edge-policies#metricsreportingenabled): นโยบายนี้จะเปิดใช้งานการรายงานการใช้และข้อมูลที่เกี่ยวข้องกับการหยุดการหยุด
+- [SendSiteInfoToImproveServices](https://docs.microsoft.com/DeployEdge/microsoft-edge-policies#sendsiteinfotoimproveservices): นโยบายนี้จะส่งข้อมูลไซต์ที่ใช้เพื่อปรับปรุงการบริการของ Microsoftของคุณ
 
-เมื่อต้องการเรียนรู้เพิ่มเติมให้ดูที่[กำหนดค่าการตั้งค่านโยบาย](https://docs.microsoft.com/deployedge/microsoft-edge-enterprise-privacy-settings#configure-policy-settings)
+เมื่อต้องการเรียนรู้เพิ่มเติม ให้ดู [กําหนดค่าการตั้งค่า](https://docs.microsoft.com/deployedge/microsoft-edge-enterprise-privacy-settings#configure-policy-settings)นโยบาย

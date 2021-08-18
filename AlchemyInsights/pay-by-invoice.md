@@ -14,16 +14,16 @@ ms.custom:
 - commerce_billing
 - "492"
 - "1500024"
-ms.openlocfilehash: e726ce79f95028a0fe13e36030fd12cd25f7b1551011d21228231817ffc3d07f
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: 4773604b6779c2995e055be18e616552dcdf54ea
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57891978"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58317531"
 ---
 # <a name="pay-by-invoice"></a>การจ่ายตามใบแจ้งหนี้
 
-If your Microsoft 365 subscription costs over a certain amount of money (this amount varies by service location), you'll have the option to pay by invoice by using a check or EFT. อาจต้องใช้การตรวจสอบเครดิตเพื่อใบแจ้งหนี้ที่มากขึ้น If a credit check is required, you'reified when you buy your subscription. ถ้าคุณตกลงที่จะติดต่อ คุณจะได้รับอีเมลที่มีข้อมูลเพิ่มเติมเกี่ยวกับการขออนุมัติเครดิต โดยปกติแล้วการตรวจสอบเครดิตจะเสร็จสมบูรณ์ภายใน 2 วันธุรกิจ
+ถ้าMicrosoft 365การสมัครใช้งานของคุณเกินวงเงินจํานวนหนึ่ง (จํานวนจะแตกต่างกันไปตามสถานที่ตั้งบริการ) คุณจะมีตัวเลือกในการจ่ายตามใบแจ้งหนี้โดยใช้เช็คหรือ EFT อาจต้องใช้การตรวจสอบเครดิตเพื่อใบแจ้งหนี้ที่มากขึ้น If a credit check is required, you'reified when you buy your subscription. ถ้าคุณตกลงที่จะติดต่อ คุณจะได้รับอีเมลที่มีข้อมูลเพิ่มเติมเกี่ยวกับการขออนุมัติเครดิต โดยปกติแล้วการตรวจสอบเครดิตจะเสร็จสมบูรณ์ภายใน 2 วันธุรกิจ
 
 ถ้าคุณจ่ายตามใบแจ้งหนี้ของการสมัครใช้งาน คุณจะได้รับอีเมลเมื่อใบแจ้งยอดการเรียกเก็บเงินของคุณพร้อมดูแล้ว อีเมลนี้ไม่มีสําเนาใบแจ้งยอดบัญชีของคุณ อย่างไรก็ตาม คุณสามารถเลือกที่จะรับ[สําเนาของใบแจ้งยอดการเรียกเก็บเงินในอีเมล](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/view-your-bill-or-invoice.md#receive-a-copy-of-your-billing-statement-in-email) ใบแจ้งยอดการเรียกเก็บเงินของคุณรวมรายละเอียดเกี่ยวกับตัวเลือกของคุณในการจ่ายเงินและที่ที่จะส่ง ถ้าคุณใส่หมายเลขใบสั่งซื้อ (PO) เมื่อคุณซื้อการสมัครใช้งาน หมายเลขจะแสดงบนใบแจ้งยอดเรียกเก็บเงินของคุณ For information about accessing billing statements, see [View your bill or invoice](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/view-your-bill-or-invoice).
 

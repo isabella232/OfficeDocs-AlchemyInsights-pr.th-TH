@@ -1,5 +1,5 @@
 ---
-title: ๑๒๗ได้รับข้อผิดพลาด TenantAccessBlockedException เมื่อเข้าถึงอีเมล
+title: 127 ได้รับข้อผิดพลาด TenantAccessBlockedException เมื่อเข้าถึงอีเมลหรือไม่
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -14,19 +14,19 @@ ms.custom:
 - "127"
 - "128"
 ms.assetid: de7b6877-f3f9-4402-8072-c73783aaccaa
-ms.openlocfilehash: 1e9799c056077e5f61f3fa39faf2551207e35e76
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 024638f3c9379e6b804331c2cfa4cd8ba5fa48dcf892d4c418db0ff9a0206b3b
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47706650"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54089459"
 ---
-# <a name="getting-a-tenantaccessblockedexception-error-when-accessing-email"></a>ได้รับข้อผิดพลาด TenantAccessBlockedException เมื่อเข้าถึงอีเมล
+# <a name="getting-a-tenantaccessblockedexception-error-when-accessing-email"></a>ได้รับข้อผิดพลาด TenantAccessBlockedException เมื่อเข้าถึงอีเมลใช่ไหม
 
-มีเหตุผลที่แตกต่างกันสองสามประการที่ทำให้คุณอาจได้รับข้อผิดพลาดนี้ ตัวอย่างเช่น:
+มีหลายเหตุผลที่คุณอาจได้รับข้อผิดพลาดนี้ ตัวอย่างเช่น:
 
-- ตรวจสอบว่าการสมัครใช้งานของคุณถูกต้องบนหน้าการ **เรียกเก็บเงิน**บน \> **[หน้าผลิตภัณฑ์ของคุณ](https://portal.office.com/adminportal/home#/subscriptions)** ในศูนย์การจัดการ Microsoft ๓๖๕
+- ตรวจสอบว่าการสมัครใช้งานของคุณใช้งานได้บนหน้า การเรียกเก็บเงิน \> **[ผลิตภัณฑ์ของคุณ](https://portal.office.com/adminportal/home#/subscriptions)** ศูนย์การจัดการ Microsoft 365หรือไม่
 
-- ตรวจสอบการแจ้งเตือนที่เลยกำหนดใดๆที่เลยกำหนดบนหน้าการชำระเงินในใบ **เรียกเก็บ**เงิน \> **[& การชำระ](https://portal.office.com/adminportal/home#/billoverview)** เงินในศูนย์การจัดการ Microsoft ๓๖๕
+- ตรวจสอบการแจ้งเตือนที่เลยกําหนด **บนใบ** เรียกเก็บเงิน \> **[&หน้าการเรียกเก็บเงินและการเรียกเก็บเงิน](https://portal.office.com/adminportal/home#/billoverview)** ในศูนย์การจัดการ Microsoft 365การเรียกเก็บเงิน
 
-- ถ้าการเรียกเก็บเงินและการสมัครใช้งานของบัญชีผู้ใช้ของคุณได้รับการอัปเดตเมื่อเร็วๆนี้อาจใช้เวลาสำหรับการเปลี่ยนแปลงที่จะเผยแพร่ ลองอีกครั้งในไม่กี่นาทีและถ้าปัญหายังคงอยู่โปรดติดต่อเรา
+- ถ้าการเรียกเก็บเงินและการสมัครใช้งานของบัญชีของคุณได้รับการอัปเดตล่าสุด อาจใช้เวลาในการเผยแพร่การเปลี่ยนแปลง ลองอีกครั้งในอีกสักครู่ และถ้าปัญหายังคงอยู่ ให้ติดต่อเรา
