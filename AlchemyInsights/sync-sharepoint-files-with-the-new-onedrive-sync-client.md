@@ -12,12 +12,12 @@ localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 5ad2f1f2-9650-4eb0-b4fa-2f52a09f535a
-ms.openlocfilehash: 7966933cd7474dd640ac8397ce560c9fb1c57fb4e99d02f8976d5dcfe7cf5a82
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: d83dd6f96b0d8788ebd11d7f89fa07bf204604b6
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53909233"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58322584"
 ---
 # <a name="sync-sharepoint-files-with-the-new-onedrive-sync-client"></a>ซิงค์SharePointไฟล์ด้วยไคลเอ็นต์การซิงค์สําหรับ OneDriveใหม่
 
@@ -27,11 +27,10 @@ ms.locfileid: "53909233"
     
 3. หากต้องการ "ไคลเอ็นต์การซิงค์SharePointการซิงค์"**ให้เลือก เริ่มไคลเอ็นต์** ใหม่
     
-    > [!NOTE]
-    > ถ้าตัวเลือกนี้ไม่ปรากฏขึ้น องค์กรของคุณได้รับการตั้งค่าให้ใช้ไคลเอ็นต์ไคลเอ็นต์การซิงค์สําหรับ OneDriveใหม่เพื่อSharePointไฟล์ 
+    **หมายเหตุ**: ถ้าตัวเลือกนี้ไม่ปรากฏขึ้น องค์กรของคุณได้รับการตั้งค่าให้ใช้ไคลเอ็นต์ไคลเอ็นต์การซิงค์สําหรับ OneDriveใหม่เพื่อSharePointไฟล์ของคุณ 
   
 4. คลิก **OK**
     
-For more info, see [Enable users to sync SharePoint files with the new การซิงค์สําหรับ OneDrive client](https://go.microsoft.com/fwlink/?linkid=866433). หากต้องการคําแนะนําในการมอบให้กับผู้ใช้[ของคุณ SharePointซิงค์ไฟล์ด้วยไคลเอ็นต์การซิงค์สําหรับ OneDriveใหม่](https://go.microsoft.com/fwlink/?linkid=866427)
+For more info, see [Enable users to sync SharePoint files with the new การซิงค์สําหรับ OneDrive client](https://go.microsoft.com/fwlink/?linkid=866433). หากต้องการคําแนะนําในการมอบให้กับผู้ใช้[ของคุณ ให้ดูSharePointไฟล์ต่างๆ ด้วยไคลเอ็นต์ การซิงค์สําหรับ OneDriveใหม่](https://go.microsoft.com/fwlink/?linkid=866427)
   
 

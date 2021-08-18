@@ -1,5 +1,5 @@
 ---
-title: ลบไซต์ SharePoint
+title: ลบSharePointไซต์
 ms.author: pebaum
 author: bentoncity
 manager: scotv
@@ -12,43 +12,43 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 4a71f3cd-000a-4a1a-b42a-15b70a8fb6f8
-ms.openlocfilehash: 06406794f24821836cebb1bb5ade56f9ca7e49a2
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: c8dff84e8b4a4a1a78db98736c23f8a0b0d235d9b09f15bd9ff770785badb4f2
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47731222"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54118547"
 ---
-# <a name="delete-sites-that-belong-to-a-microsoft-365-group"></a>ลบไซต์ที่เป็นสมาชิกของกลุ่ม Microsoft ๓๖๕
+# <a name="delete-sites-that-belong-to-a-microsoft-365-group"></a>ลบไซต์ที่เป็นของกลุ่มMicrosoft 365ออก
 
-เมื่อผู้ใช้สร้างไซต์ทีมใหม่จาก SharePoint Home หรือคุณสร้างไซต์ทีมใหม่จากศูนย์การจัดการ SharePoint ใหม่กลุ่ม Microsoft ๓๖๕ที่สอดคล้องกันจะถูกสร้างขึ้นโดยอัตโนมัติ ไซต์ทีมที่เชื่อมต่อของ microsoft ๓๖๕จะถูกสร้างขึ้นเมื่อคุณสร้างกลุ่ม Microsoft ๓๖๕หรือทีมในทีม Microsoft เมื่อต้องการลบไซต์ SharePoint ที่เป็นสมาชิกของกลุ่ม Microsoft ๓๖๕คุณจำเป็นต้องลบกลุ่ม Microsoft ๓๖๕เอง 
+เมื่อผู้ใช้สร้างไซต์ทีมใหม่จาก SharePoint Home หรือคุณสร้างไซต์ทีมใหม่จากศูนย์การจัดการ SharePoint ใหม่ กลุ่มทีมMicrosoft 365ที่สอดคล้องกันจะถูกสร้างขึ้นโดยอัตโนมัติ Microsoft 365ทีมไซต์ที่เชื่อมต่อกับกลุ่มจะถูกสร้างขึ้นเมื่อคุณสร้างMicrosoft 365กลุ่มหรือทีมในMicrosoft Teamsทีม เมื่อต้องการSharePointไซต์Microsoft 365ที่เป็นของกลุ่มคุณ คุณMicrosoft 365กลุ่มเอง 
   
-1. ไปที่[หน้ากลุ่มของศูนย์การจัดการ Microsoft ๓๖๕](https://portal.office.com/adminportal/home#/groups)
+1. ไปที่หน้า[กลุ่ม ของศูนย์การจัดการ Microsoft 365](https://portal.office.com/adminportal/home#/groups)
     
 2. เลือกกล่องกาเครื่องหมายที่อยู่ถัดจากกลุ่ม
     
-3. เลือก**ลบ**
+3. เลือกลบ
     
-หมายเหตุ: เมื่อคุณลบกลุ่มอาจมีการหน่วงเวลาก่อนที่ไซต์จะถูกเอาออกจาก SharePoint
+หมายเหตุ: เมื่อคุณลบกลุ่ม อาจมีการหน่วงเวลาก่อนที่ไซต์จะถูกเอาออกจากSharePoint
   
 **ลบไซต์การติดต่อสื่อสารหรือไซต์แบบคลาสสิก:**
 
 1. ไปที่ไซต์
   
-2. คลิกไอคอน **การตั้งค่า** ที่มุมขวาบน 
+2. คลิก **การตั้งค่า** ที่มุมขวาบน 
   
-3. คลิก**การตั้งค่าไซต์** ภายใต้ข้อ**มูลไซต์**หรือ**การกระ**ทำในไซต์ให้คลิก**ลบไซต์นี้**แล้วคลิก**ลบ**
+3. คลิก **การตั้งค่า** ไซต์ **ภายใต้ ข้อมูลไซต์****หรือการแอคชัน****ในไซต์ ให้คลิก ลบ** ไซต์นี้ **แล้วคลิก** ลบ
   
-**ลบไซต์คอลเลกชัน SharePoint:**
+**ลบSharePointไซต์คอลเลกชันดังนี้**
 
-เมื่อต้องการลบไซต์ให้ใช้วิธีต่อไปนี้
+เมื่อต้องการลบไซต์:
   
-1. ในศูนย์การจัดการ SharePoint ใหม่บนหน้าไซต์ให้คลิ **กกล่องกาเครื่องหมาย** ที่อยู่ถัดจากไซต์ที่คุณต้องการลบ 
+1. ในกล่องโต้ตอบ SharePointศูนย์การจัดการ บนหน้า ไซต์ **ให้คลิกกล่อง** กาเครื่องหมายที่อยู่ถัดจากไซต์ที่คุณต้องการลบ 
     
-2. บนแถบเครื่องมือ ribbon ให้คลิก **ลบ**
+2. บนแถบเครื่องมือ Ribbon ให้คลิก **ลบ**
     
 **ลบไซต์โดยบังเอิญหรือไม่**
 
-ให้ดู[ที่คืนค่าไซต์คอลเลกชันที่ถูกลบ](https://go.microsoft.com/fwlink/?linkid=867660)
+[ดู คืนค่าไซต์คอลเลกชันที่ถูกลบ](https://go.microsoft.com/fwlink/?linkid=867660)
   
 

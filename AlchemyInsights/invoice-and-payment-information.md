@@ -16,12 +16,12 @@ ms.custom:
 - commerce_billing
 - "485"
 - "1500018"
-ms.openlocfilehash: c21ac83a5108c79268631877cf325fe05bf67c716124b0b4896665395c03178b
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: 8790752b10012d891b6b23078986ef589cf4d650
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57892146"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58321982"
 ---
 # <a name="invoice-and-payment-information"></a>ข้อมูลใบแจ้งหนี้และการจ่ายเงิน
 
@@ -31,7 +31,7 @@ ms.locfileid: "57892146"
 
 **ใบแจ้งหนี้/ใบเรียกเก็บเงิน**
 
-คุณสามารถค้นหาและดาวน์โหลดใบแจ้งหนี้ของคุณบนหน้า ใบเรียกเก็บเงิน **&**  >  [เงิน](https://go.microsoft.com/fwlink/p/?linkid=848039)  
+คุณสามารถค้นหาและดาวน์โหลดใบแจ้งหนี้ของคุณบนหน้า การเรียกเก็บเงิน &  >  [เงิน](https://go.microsoft.com/fwlink/p/?linkid=848039)  
 
 **หมายเหตุ**: ถ้าไม่มีใบแจ้งหนี้ที่สามารถมองเห็นได้ คุณอาจต้องปรับตัวกรองช่วงวันที่  ตามค่าเริ่มต้น จะแสดงใบแจ้งหนี้ 3 เดือนล่าสุด
 

@@ -1,5 +1,5 @@
 ---
-title: ใช้ตัวเลือกบรรทัดสั่งเพื่อกําหนดค่าการตั้งค่าพร็อกซีใน Microsoft Edge
+title: ใช้ตัวเลือกบรรทัดสั่งเพื่อกําหนดค่าการตั้งค่าพร็อกซีMicrosoft Edge
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -14,17 +14,17 @@ ms.custom:
 - "9004632"
 - "7561"
 - "8363"
-ms.openlocfilehash: e8702c6ef6d4f723e314ad5b82ddcf554988b36f
-ms.sourcegitcommit: db908b3da2c7a6508a77bf4f2c80afb294fadbd1
+ms.openlocfilehash: 09d29d48f7829e606afce7909d8a986b63dd8dc3484ca0ea6c07af60bc8f1a23
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 03/29/2021
-ms.locfileid: "51403438"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54118439"
 ---
-# <a name="use-command-line-options-to-configure-proxy-settings-in-microsoft-edge"></a>ใช้ตัวเลือกบรรทัดสั่งเพื่อกําหนดค่าการตั้งค่าพร็อกซีใน Microsoft Edge
+# <a name="use-command-line-options-to-configure-proxy-settings-in-microsoft-edge"></a>ใช้ตัวเลือกบรรทัดสั่งเพื่อกําหนดค่าการตั้งค่าพร็อกซีMicrosoft Edge
 
-ใน Microsoft Edge เวอร์ชัน 77 และเวอร์ชันที่ใหม่กว่า กองซ้อนเครือข่ายจะใช้การตั้งค่าเครือข่ายของระบบตามค่าเริ่มต้น ในสถานการณ์แบบไฮบริดที่ผู้ใช้ร้องขอทางเลือก Microsoft Edge สนับสนุนตัวเลือกบรรทัดสั่งในการกําหนดค่าการตั้งค่าพร็อกซีแบบกําหนดเอง โปรดดูรายละเอียดที่:
+ใน Microsoft Edgeเวอร์ชัน 77 ขึ้นไป สแตกเครือข่ายจะใช้การตั้งค่าเครือข่ายของระบบตามค่าเริ่มต้น ในสถานการณ์แบบไฮบริดที่ผู้ใช้ร้องขอทางเลือก ทางเลือกMicrosoft Edgeตัวเลือกบรรทัดสั่งการกําหนดค่าการตั้งค่าพร็อกซีแบบกําหนดเอง ดูรายละเอียดที่:
 
 1. [การตั้งค่าเครือข่ายระบบ](https://go.microsoft.com/fwlink/?linkid=2133962)
-2. [ตัวเลือกบรรทัดสั่งของการตั้งค่าพร็อกซี](https://go.microsoft.com/fwlink/?linkid=2134292)
+2. [ตัวเลือกบรรทัดสั่งต่างๆ ของการตั้งค่าพร็อกซี](https://go.microsoft.com/fwlink/?linkid=2134292)
 3. [การตั้งค่าการกําหนดค่าขั้นสูงและตัวเลือกอื่นๆ](https://go.microsoft.com/fwlink/?linkid=2134293)

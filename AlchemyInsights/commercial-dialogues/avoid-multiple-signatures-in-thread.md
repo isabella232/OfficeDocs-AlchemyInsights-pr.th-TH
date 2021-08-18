@@ -13,17 +13,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "1200009"
 - "7310"
-ms.openlocfilehash: fe460e94307043b8d271111bed83e7b1c35b9b47
-ms.sourcegitcommit: 251e2e82571fb3bb1fbe3dbf7bfca30e004b3373
+ms.openlocfilehash: 2a9d6acab661470f71adf9f757e6847c367d26979fa210dd8f35e0ffaaa8dc45
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 03/05/2021
-ms.locfileid: "50483955"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54119339"
 ---
 # <a name="avoid-multiple-signatures-from-being-added-in-an-email-conversation"></a>หลีกเลี่ยงการเพิ่มลายเซ็นหลายลายเซ็นในการสนทนาทางอีเมล
 
-เมื่อต้องการรับข้อสงวนสิทธิ์หรือลายเซ็นที่เพิ่มเพียงหนึ่งครั้งต่อเธรดอีเมล คุณจะต้องเปลี่ยนการตั้งค่าในศูนย์การจัดการ Exchange
+เมื่อต้องการรับข้อสงวนสิทธิ์หรือลายเซ็นที่เพิ่มเพียงครั้งเดียวต่อเธรดอีเมล คุณจะต้องเปลี่ยนการตั้งค่าในศูนย์Exchangeผู้ดูแลระบบ
 
-1. ไปที่ศูนย์ [การจัดการ Exchange](https://go.microsoft.com/fwlink/p/?linkid=2059104)
-2. เลือกตัวเลือก **เพิ่มเติม** เพื่อเพิ่มข้อยกเว้นที่จะค้นหาข้อความเฉพาะในข้อความปฏิเสธความรับผิดชอบของคุณ This ensures that the disclaimer is added only to the original message.
+1. ไปที่ศูนย์[Exchangeการจัดการ](https://go.microsoft.com/fwlink/p/?linkid=2059104)
+2. เลือก **ตัวเลือกเพิ่มเติม** เพื่อเพิ่มข้อยกเว้นที่จะค้นหาข้อความเฉพาะในข้อความปฏิเสธความรับผิดชอบของคุณ วิธีนี้ช่วยให้แน่ใจได้ว่าข้อความปฏิเสธความรับผิดชอบจะถูกเพิ่มลงในข้อความต้นฉบับเท่านั้น
 

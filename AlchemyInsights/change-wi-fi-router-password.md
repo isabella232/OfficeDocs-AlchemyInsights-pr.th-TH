@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "3486"
 - "9001467"
-ms.openlocfilehash: 61de1cd3e1cab28c01aa0a2fddcd41a13a92d361
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: a216d0e06a3e6865ca0ed157d976e5623ddbd9b02624e387a2f9755315f913bd
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51818226"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54119627"
 ---
 # <a name="change-your-wi-fi-router-password"></a>เปลี่ยนรหัสผ่านเราเตอร์Wi-Fiของคุณ
 
 เมื่อต้องการเปลี่ยนรหัสผ่านของWi-Fiเราเตอร์ ให้ปฏิบัติตามขั้นตอนเหล่านี้:
 
-1. เลือก **เริ่ม**  >  **การตั้งค่า**  >  **เครือข่าย& และ**  >  **ศูนย์เครือข่ายและการใช้ร่วมกัน**
+1. เลือก **เริ่ม**  >  **การตั้งค่า**  >  **Network & Internet** Network and Sharing  >  **Center**
 
 2. **ภายใต้ ดูเครือข่ายที่ใช้งานอยู่** ของคุณ ให้ค้นหาเครือข่ายที่คุณเชื่อมต่ออยู่ เลือกลิงก์สีน้เงิน **ที่อยู่ถัดจาก** การเชื่อมต่อ<br>
 

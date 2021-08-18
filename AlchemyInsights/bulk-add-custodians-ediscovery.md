@@ -13,16 +13,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "3200003"
 - "12623"
-ms.openlocfilehash: da394ca319a6adaaf0e4c450008cee66ff59da3721dcde2df515a6140095b61a
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: f95b4506078256d1752b0b5f3451a75354fc0115
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57892998"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58322456"
 ---
 # <a name="bulk-add-custodians-in-advanced-ediscovery"></a>เพิ่มนักการเมืองเป็นกลุ่มในAdvanced eDiscovery
 
- เมื่อต้องการเพิ่มนักพกAdvanced eDiscoveryใหญ่ใน Advanced eDiscovery ให้นําเข้านักการเมืองหลายๆ คนในคราวเดียวโดยใช้ไฟล์ CSV ที่มีข้อมูลที่จําเป็นในการเพิ่มนักการเมืองไปยังกรณีหนึ่ง ให้ปฏิบัติตามขั้นตอนต่อไปนี้
+ เมื่อต้องการเพิ่มนักAdvanced eDiscoveryนําเข้านักการเมืองหลายๆ คนในคราวเดียวโดยใช้ไฟล์ CSV ที่มีข้อมูลที่จําเป็นในการเพิ่มนักการเมืองไปยังกรณีหนึ่ง ให้ปฏิบัติตามขั้นตอนต่อไปนี้
 
 1. ไปที่ [ศูนย์การปฏิบัติตามข้อบังคับสําหรับ Microsoft 365](https://compliance.microsoft.com/)  >  **eDiscovery**  >  **Advanced eDiscovery** แล้วเลือกกรณี eDiscovery ของคุณ
 
