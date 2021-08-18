@@ -10,24 +10,24 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 52484e19-9328-42f4-b675-7e0be9338a8b
-ms.openlocfilehash: 08579c3cf887de649480480856ba42478d488a0a
-ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
+ms.openlocfilehash: dd508bcd2b09ccb0bcdd99c37c3c5ecfbc26ec42f00ddce520ef8e73e3aef436
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 03/10/2021
-ms.locfileid: "50709341"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54115451"
 ---
 # <a name="about-litigation-holds-and-in-place-holds"></a>About litigation holds and in-place holds
 
-- เมื่อต้องการใช้การระงับการฟ้องคดีหรือการหยุดในสถานที่ลงในกล่องจดหมาย ต้องระบุสิทธิ์การใช้งาน[Exchange Online Plan 2](https://docs.microsoft.com/office365/servicedescriptions/office-365-platform-service-description/office-365-plan-options) ถ้าคุณมีแผนอื่น ให้กําหนดสิทธิ์การใช้งาน [การเก็บถาวร Exchange Online](https://docs.microsoft.com/office365/servicedescriptions/exchange-online-archiving-service-description/exchange-online-archiving-service-description) ที่แยกต่างหากให้กับบัญชีผู้ใช้นั้น 
+- เมื่อต้องการใช้การหยุดเพื่อการฟ้องคดีหรือที่ค้างอยู่ในกล่องจดหมาย Exchange Onlineต้องระบุสิทธิ์การใช้งาน[Plan 2](https://docs.microsoft.com/office365/servicedescriptions/office-365-platform-service-description/office-365-plan-options) ถ้าคุณมีแผนอื่น ให้กําหนด[สิทธิ์การใช้งานExchange Online Archivingแยกต่างหาก](https://docs.microsoft.com/office365/servicedescriptions/exchange-online-archiving-service-description/exchange-online-archiving-service-description)ให้กับบัญชี 
     
-- **เมื่อต้องการเปิดใช้งานการระงับการฟ้อง** ร้องของผู้ใช้รายเดียว ให้ปฏิบัติตามขั้นตอนที่ [อธิบายไว้](https://docs.microsoft.com/microsoft-365/compliance/create-a-litigation-hold?view=o365-worldwide#place-a-mailbox-on-litigation-hold)ที่นี่ เมื่อเปิดใช้งานการระงับการฟ้องร้อง เนื้อหาทั้งหมดในกล่องจดหมายจะถูกระงับ
+- **เมื่อต้องการเปิดใช้งานการระงับคดี** ให้กับผู้ใช้รายเดียว ให้ปฏิบัติตามขั้นตอนที่ [อธิบายไว้ที่นี่](https://docs.microsoft.com/microsoft-365/compliance/create-a-litigation-hold?view=o365-worldwide#place-a-mailbox-on-litigation-hold) เมื่อเปิดใช้งานการระงับการฟ้องร้อง เนื้อหาทั้งหมดในกล่องจดหมายจะถูกระงับ
     
-- เมื่อต้องการใช้ **การหยุดในสถานที่กับ** ผู้ใช้รายเดียวหรือการหยุดกับกล่องจดหมายทั้งหมดในทั้งองค์กร คุณสามารถใช้นโยบายการเก็บข้อมูลในศูนย์การรักษาความปลอดภัยและการปฏิบัติตามข้อบังคับของ Microsoft 365 โดยปฏิบัติตามขั้นตอนที่อธิบายไว้ที่นี่ [](https://docs.microsoft.com/microsoft-365/compliance/retention-policies)
+- เมื่อต้องการใช้ **การหยุดที่ค้างไว้โดยผู้ใช้ราย** เดียวหรือการหยุดลงในกล่องจดหมายทั้งหมดในทั้งองค์กร คุณสามารถใช้ นโยบายการเก็บข้อมูล ในศูนย์การรักษาความปลอดภัยและการปฏิบัติตามMicrosoft 365ที่จัดเค้าร่างไว้ที่นี่ [](https://docs.microsoft.com/microsoft-365/compliance/retention-policies)
     
     > [!NOTE]
     > For Org-wide retention policies, new users will be automatically added to the hold. 
   
-- เมื่อต้องการดูหรือค้นพบเนื้อหาของกล่องจดหมายที่หยุดไว้ ให้ใช้การค้นหาและ **ส่งออก eDiscovery** For information on using **eDiscovery Search and Export,** follow the steps outlined [here](https://docs.microsoft.com/microsoft-365/compliance/export-search-results).
+- เมื่อต้องการดูหรือค้นหาเนื้อหากล่องจดหมายที่ถูกระงับ ให้ใช้การค้นหาและส่งออก **eDiscovery** For information on using **eDiscovery Search and Export**, follow the steps outlined [here](https://docs.microsoft.com/microsoft-365/compliance/export-search-results).
     
 

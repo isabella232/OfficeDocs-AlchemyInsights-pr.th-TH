@@ -15,16 +15,16 @@ ms.custom:
 - commerce_purchase
 - "531"
 - "1400007"
-ms.openlocfilehash: 5af852de7126dd36598339250a3b8b445d88ad1d57f8621e90c8818e8959f12b
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: 3eb518dbdd71985fe06044925dd52bfbca98defc
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57896950"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58318581"
 ---
 # <a name="how-to-make-a-microsoft-365-purchase"></a>วิธีการซื้อMicrosoft 365
 
-คุณสามารถซื้อการสมัครใช้งานMicrosoft 365ในศูนย์การจัดการได้
+คุณสามารถซื้อการสมัครใช้งาน Microsoft 365 ในศูนย์การจัดการได้
   
 - หากต้องการซื้อแผน ให้ไปที่หน้า **บริการ** \> **[การซื้อ](https://go.microsoft.com/fwlink/p/?linkid=868433)** การเรียกเก็บเงิน
 - เมื่อต้องการซื้อสิทธิ์การใช้งานเพิ่มเติม ให้ไปที่ **หน้า** \> **[การเรียกเก็บเงินผลิตภัณฑ์](https://go.microsoft.com/fwlink/p/?linkid=842054)** ของคุณ เลือกการสมัครใช้งานที่คุณต้องการเปลี่ยนแปลง แล้วเลือก **ซื้อสิทธิ์การใช้งาน**\\
@@ -34,7 +34,7 @@ ms.locfileid: "57896950"
 
 **การแก้ไขปัญหา**
 
-หากคุณประสบปัญหากับการโหลดหน้า ให้ลองเปิดเว็บเพจในเบราว์เซอร์อื่น หรือลองเปิดหน้าต่างเบราว์เซอร์ส่วนตัวของหน้า เช่น หน้าต่าง InPrivate ในหน้าต่าง Microsoft Edge หรือหน้าต่างไม่ระบุตัวตนใน Google Chrome
+หากคุณประสบปัญหาในการโหลดหน้า ให้ลองเปิดเว็บเพจในเบราว์เซอร์อื่น หรือลองเปิดหน้าต่างเบราว์เซอร์ส่วนตัวของหน้า เช่น หน้าต่าง InPrivate ในหน้าต่าง Microsoft Edge หรือหน้าต่างไม่ระบุตัวตนใน Google Chrome
 
 **แหล่งข้อมูลเพิ่มเติม**
   

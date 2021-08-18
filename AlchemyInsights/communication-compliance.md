@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000549"
 - "3208"
-ms.openlocfilehash: fe834e12f35550cef669c5a60a2f3e460648dbd0
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 267b8985154df802df7359eb22f795612da1275d6c5509b1748828f3c42051b7
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51817515"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54090755"
 ---
 # <a name="communication-compliance-in-microsoft-365"></a>การปฏิบัติตามข้อบังคับด้านการสื่อสารใน Microsoft 365
 
-การปฏิบัติตามข้อบังคับด้านการสื่อสารเป็นโซลูชันการปฏิบัติตามข้อบังคับแบบใหม่ของ Microsoft 365 ที่ช่วยให้องค์กรปฏิบัติตามข้อบังคับและลดความเสี่ยงในการสื่อสาร โดยยึดตามฟีเจอร์การดูแลและประกอบด้วยการปรับปรุงใหม่ รวมถึง:
+การปฏิบัติตามข้อบังคับด้านการสื่อสารเป็นโซลูชันการปฏิบัติตามMicrosoft 365มาตรฐานใหม่ที่ช่วยให้องค์กรปฏิบัติตามข้อกฎหมายที่ควบคุม และลดความเสี่ยงในการสื่อสารให้เหลือมากที่สุด โดยยึดตามฟีเจอร์การดูแลและประกอบด้วยการปรับปรุงใหม่ รวมถึง:
 
 - เทมเพลตที่ปรับแต่งได้อัจฉริยะ
 - เวิร์กโฟลว์ในการแก้ไขที่ยืดหยุ่น
@@ -37,11 +37,11 @@ For an overview of the communication compliance feature, see [Communication comp
 
 ข้อต้องมีสิทธิ์การใช้งาน: ผู้ใช้ที่ตรวจสอบโดยนโยบายการติดต่อสื่อสารต้องมีอย่างใดอย่างหนึ่งต่อไปนี้:
 
-- สิทธิ์การใช้งาน Microsoft 365 E5 Compliance
-- สิทธิ์การใช้งาน Office 365 Enterprise E3 ที่มี Add-on การปฏิบัติตามข้อบังคับขั้นสูง
-- การสมัครใช้งาน Office 365 Enterprise E5
+- Microsoft 365 E5 Complianceสิทธิ์การใช้งาน
+- Office 365 Enterprise สิทธิ์การใช้งาน E3 ที่มี Add-on การปฏิบัติตามข้อบังคับขั้นสูง
+- Office 365 Enterprise การสมัครใช้งาน E5
 
-ถ้าคุณไม่มีข้อใดข้อหนึ่งข้างต้น และต้องการลองใช้การปฏิบัติตามข้อบังคับด้านการสื่อสาร ให้ ลงทะเบียนทดลองใช้ **[Office 365 Enterprise E5](https://go.microsoft.com/fwlink/p/?LinkID=698279)**
+If you don't have any of the above and want to try communication compliance, **[Sign up for a trial of Office 365 Enterprise E5](https://go.microsoft.com/fwlink/p/?LinkID=698279)**.
 
 > [!NOTE]
-> อาจใช้เวลาถึง 24 ชั่วโมงในการประมวลผลข้อความอีเมลในนโยบายอย่างสมบูรณ์ การติดต่อสื่อสารใน Microsoft Teams, Yammer และแพลตฟอร์มของบริษัทภายนอกอาจใช้เวลาถึง 48 ชั่วโมงในการประมวลผลอย่างเต็มรูปแบบในนโยบาย
+> อาจใช้เวลาถึง 24 ชั่วโมงในการประมวลผลข้อความอีเมลในนโยบายอย่างสมบูรณ์ การติดต่อสื่อสารใน Microsoft Teams Yammer และแพลตฟอร์มของบริษัทอื่นอาจใช้เวลาถึง 48 ชั่วโมงในการประมวลผลอย่างเต็มรูปแบบในนโยบาย

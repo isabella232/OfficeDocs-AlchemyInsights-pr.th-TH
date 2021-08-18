@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "11228"
 - "9005470"
-ms.openlocfilehash: 1eb0d949693916d1192fb75132207cd6a52e75840899e57c089a5f5aaca3ca88
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: f7811c15af21d8e7790e6686bb8ba9e5de3659d9
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57893154"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58319015"
 ---
 # <a name="attack-surface-reduction-rules"></a>กฎการลดพื้นหน้าของการโจมตี
 
@@ -37,7 +37,7 @@ ms.locfileid: "57893154"
 - [แมป GUID ของกฎ ASR กับชื่อ](https://docs.microsoft.com/microsoft-365/security/defender-endpoint/attack-surface-reduction#attack-surface-reduction-rules)
 - ความต้องการของกฎ ASR:
     - [Windows 10 Pro เวอร์ชัน 1709 หรือใหม่กว่า](https://docs.microsoft.com/windows/whats-new/whats-new-windows-10-version-1709)
-    - [Windows 10 Enterprise เวอร์ชัน 1709 หรือใหม่กว่า](https://docs.microsoft.com/windows/whats-new/whats-new-windows-10-version-1709)
+    - [Windows 10 Enterpriseเวอร์ชัน 1709 หรือใหม่กว่า](https://docs.microsoft.com/windows/whats-new/whats-new-windows-10-version-1709)
     - [Windows เซิร์ฟเวอร์ เวอร์ชัน 1803 (แชนเนลรายครึ่งปี) หรือใหม่กว่า](https://docs.microsoft.com/windows-server/get-started/whats-new-in-windows-server-1803)
 
 ## <a name="identify-the-correct-exclusion-to-apply"></a>ระบุการยกเว้นที่ถูกต้องที่จะปรับใช้

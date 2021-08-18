@@ -1,5 +1,5 @@
 ---
-title: ข้อมูล๖๐๙เกี่ยวกับการนำเข้าและการส่งออกปฏิทิน
+title: 609 ข้อมูลเกี่ยวกับการนําเข้าและส่งออกปฏิทิน
 ms.author: pdigia
 author: pebaum
 manager: jackiesm
@@ -14,19 +14,19 @@ ms.custom:
 - "609"
 - "3800007"
 ms.assetid: 916ccbdb-439b-4cf8-a0d2-258c8c8b1130
-ms.openlocfilehash: 9630d13564d7fc97fb72f4778930f7b92b91529c
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: c85b27eb4484ba02a3d3d39c7a0b5d39304674181c4e68c1fb8a54e9e8d6560e
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47755679"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54115487"
 ---
-# <a name="importing-and-exporting-calendars"></a>การนำเข้าและการส่งออกปฏิทิน
+# <a name="importing-and-exporting-calendars"></a>การนําเข้าและส่งออกปฏิทิน
 
-สำหรับข้อมูลเพิ่มเติมให้ดูหัวข้อต่อไปนี้:
+ดูข้อมูลเพิ่มเติมที่หัวข้อเหล่านี้:
   
-- [นำเข้าและส่งออกอีเมลที่ติดต่อและปฏิทินของ Outlook](https://support.office.com/article/92577192-3881-4502-b79d-c3bbada6c8ef)
+- [นําเข้าและOutlookอีเมล ที่ติดต่อ และปฏิทิน](https://support.office.com/article/92577192-3881-4502-b79d-c3bbada6c8ef)
 
-- [นำเข้าหรือสมัครใช้งานปฏิทินใน Outlook.com](https://support.office.com/article/cff1429c-5af6-41ec-a5b4-74f2c278e98c)
+- [นําเข้าหรือสมัครใช้งานปฏิทินใน Outlook.com](https://support.office.com/article/cff1429c-5af6-41ec-a5b4-74f2c278e98c)
 
-- [นำเข้าอีเมลที่ติดต่อและปฏิทินจากไฟล์ .pst ของ Outlook](https://support.office.com/article/431a8e9a-f99f-4d5f-ae48-ded54b3440ac)
+- [นําเข้าอีเมล ที่ติดต่อ และปฏิทินจากOutlook .pst](https://support.office.com/article/431a8e9a-f99f-4d5f-ae48-ded54b3440ac)

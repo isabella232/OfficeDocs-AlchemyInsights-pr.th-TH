@@ -1,5 +1,5 @@
 ---
-title: Application Guard for Office for admins
+title: Application Guard Office ผู้ดูแลระบบ
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,19 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004584"
 - "8187"
-ms.openlocfilehash: 6d0fc347172257be489313e0874f064620d93e8cd24ccc74520954e7427bcd95
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 0e67fd327eeb6c802180be2cc5baa422ff69ebd5
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53970134"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58319081"
 ---
-# <a name="application-guard-for-office-for-admins"></a>Application Guard for Office for admins
+# <a name="application-guard-for-office-for-admins"></a>Application Guard Office ผู้ดูแลระบบ
 
-Application Guard for Office จะพร้อมใช้งานกับองค์กรที่มีสิทธิ์การใช้งาน Microsoft 365 E5 หรือ Microsoft 365 E5 Mobility + Security ผู้ใช้ในองค์กรเหล่านั้นต้องใช้แอปMicrosoft 365ระดับองค์กรบนแชนเนลปัจจุบันหรือแชนเนลรายเดือนระดับองค์กร
+Application Guard Office องค์กรของคุณที่มีสิทธิ์การใช้งาน Microsoft 365 E5 หรือ Microsoft 365 E5 Mobility + Security เท่านั้น ผู้ใช้ในองค์กรเหล่านั้นต้องใช้แอปMicrosoft 365ระดับองค์กรบนแชนเนลปัจจุบันหรือแชนเนลรายเดือนระดับองค์กร
 
-> [!NOTE]
-> Application Guard Officeต้องเปิดใช้งานMicrosoft Defender Application Guard (MDAG) บนอุปกรณ์ก่อน For deploying MDAG to multiple devices, see [Prepare to install Microsoft Defender Application Guard](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-application-guard/install-md-app-guard).
+**หมายเหตุ**: Application Guard Officeต้องเปิดใช้งานMicrosoft Defender Application Guard (MDAG) บนอุปกรณ์ก่อน For deploying MDAG to multiple devices, see [Prepare to install Microsoft Defender Application Guard](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-application-guard/install-md-app-guard).
 
 ดูข้อมูลโดยละเอียดเกี่ยวกับข้อจํากัดเบื้องต้น การตั้งค่า ข้อจํากัด และการแก้ไขปัญหา Application Guard Officeแอปพลิเคชัน โปรดดู:
 
