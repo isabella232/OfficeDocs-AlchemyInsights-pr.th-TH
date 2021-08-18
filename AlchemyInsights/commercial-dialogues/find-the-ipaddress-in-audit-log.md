@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "3100005"
 - "7327"
-ms.openlocfilehash: 258e92368b8a33e8ea807f0cb9af90132c86ed5b
-ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
+ms.openlocfilehash: c3b1cac5379f4f3da93152fa20086068f7df562cd98b2980ce1b4280e0aa6d5f
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58303596"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57902279"
 ---
 # <a name="find-the-ip-address-in-audit-log"></a>ค้นหาที่อยู่ IP ในบันทึกการตรวจสอบ
 
@@ -28,7 +28,8 @@ ms.locfileid: "58303596"
    - ในศูนย์การปฏิบัติตามข้อบังคับสําหรับ Microsoft 365 ที่ ให้ไปที่ <https://compliance.microsoft.com>  \> **ตรวจสอบโซลูชัน** หรือ เมื่อต้องการไปยัง **หน้า ตรวจสอบ** <https://compliance.microsoft.com/auditlogsearch> โดยตรง ให้ใช้
    - ในMicrosoft 365 Defenderที่ <https://security.microsoft.com> **ให้ไปที่** ตรวจสอบ หรือ เมื่อต้องการไปยัง **หน้า ตรวจสอบ** <https://security.microsoft.com/auditlogsearch> โดยตรง ให้ใช้
 
-    **หมายเหตุ**: ถ้าคุณเห็นการแจ้งเตือนว่าคุณต้องเปิดการตรวจสอบ ให้เดินหน้าแล้วเปิดในตอนนี้ ถ้าไม่ได้เปิดใช้งานฟีเจอร์นี้ ผลลัพธ์การค้นหาจะไม่สามารถดึงข้อมูลจากวันที่ก่อนหน้าได้
+    > [!NOTE]
+    > ถ้าคุณเห็นการแจ้งเตือนว่าคุณต้องเปิดการตรวจสอบ ให้เดินหน้าแล้วเปิดในตอนนี้ ถ้าไม่ได้เปิดใช้งานฟีเจอร์นี้ ผลลัพธ์การค้นหาจะไม่สามารถดึงข้อมูลจากวันที่ก่อนหน้าได้
 
 2. บนหน้า **ตรวจสอบ** ให้ตรวจสอบว่าเลือก **แท็บ** ค้นหา แล้วกําหนดค่าการตั้งค่าต่อไปนี้:
    - **ช่วงวันที่และเวลา**: เลือกช่วงวันที่/เวลา **ในกล่อง** เริ่มต้น **และ** สิ้นสุด

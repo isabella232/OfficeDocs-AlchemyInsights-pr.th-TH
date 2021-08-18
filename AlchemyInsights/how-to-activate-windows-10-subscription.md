@@ -1,5 +1,5 @@
 ---
-title: วิธีการเปิดใช้งานการสมัครใช้งาน Windows 10
+title: วิธีเปิดใช้งานการสมัครใช้งาน Windows 10
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,13 +12,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "3470"
 - "9001461"
-ms.openlocfilehash: 8efc365cbbbe36f036899d1fcb28ce917c7053f6
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 5718008132a47db113411856de4c4b75d7ac2ed97e5a06c796c5be06c535b932
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51810899"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54116171"
 ---
-# <a name="activating-windows-10-subscriptions"></a>การเปิดใช้งานการสมัครใช้งาน Windows 10
+# <a name="activating-windows-10-subscriptions"></a>การเปิดใช้งานWindows 10การสมัครใช้งาน
 
-Microsoft 365 Business Premium, Office 365 Education, Microsoft 365 และ Enterprise ให้สิทธิ์การใช้งานดิจิทัลของ Windows 10 เป็นส่วนหนึ่งของการสมัครใช้งาน เมื่อต้องการเปิดใช้งานการสมัครใช้งาน อุปกรณ์ของคุณต้องเปิดใช้งาน Windows 10 Pro (1703 หรือใหม่กว่า) เมื่อต้องการดูรายการทั้งหมดของข้อต้องการในการเปิดใช้งานการสมัครใช้งาน Windows 10 ให้ดู ข้อต้องการการเปิดใช้งานการสมัครใช้งาน[Windows 10](https://docs.microsoft.com/windows/deployment/windows-10-subscription-activation#requirements)
+Microsoft 365 Business Premium Office 365 Education Microsoft 365 Enterprise ให้สิทธิ์การใช้งานWindows 10แบบดิจิทัลเพื่อเป็นส่วนหนึ่งของการสมัครใช้งาน เมื่อต้องการเปิดใช้งานการสมัครใช้งาน อุปกรณ์ของคุณต้องเปิดใช้งานแล้วWindows 10 Pro (1703 หรือใหม่กว่า) เมื่อต้องการดูรายการทั้งหมดของข้อความต้องการของการเปิดใช้งานการสมัครใช้งาน Windows 10 ข้อWindows 10[ข้อWindows 10การสมัครใช้งาน](https://docs.microsoft.com/windows/deployment/windows-10-subscription-activation#requirements)

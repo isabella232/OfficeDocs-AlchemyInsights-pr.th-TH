@@ -15,17 +15,16 @@ ms.custom:
 - "664"
 - "1500034"
 ms.assetid: ec278e2b-cc7a-43be-8af5-f381a50d7471
-ms.openlocfilehash: 797666be608e4f426cb6077dbf40e81e0adef7a6bf01f66b74722274a01c42c7
-ms.sourcegitcommit: d71b18e1403859fbfc45ddd9a57c8ab68f4d9f96
+ms.openlocfilehash: e1b25562e75926ce71ad1b854a0bad0af7a4687f
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54502195"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58319519"
 ---
 # <a name="how-to-add-or-edit-a-vatid"></a>วิธีเพิ่มหรือแก้ไข VatID
 
-> [!NOTE]
-> ถ้าคุณอยู่ในประเทศที่ใช้ภาษีมูลค่าเพิ่ม (VAT) เช่น สหราชอาณาจักร Microsoft Invoicing จะคํานวณ VAT ให้คุณ และใช้จํานวนดังกล่าวกับใบแจ้งหนี้ของคุณ ดูข้อมูลเพิ่มเติมได้ที่ ข้อสงวน [สิทธิ์ VIES](https://go.microsoft.com/fwlink/p/?LinkID=841741) ที่เผยแพร่โดยคณะกรรมาธิการยุโรป
+**หมายเหตุ**: ถ้าคุณอยู่ในประเทศที่ใช้ภาษีมูลค่าเพิ่ม (VAT) เช่น สหราชอาณาจักร Microsoft Invoicing จะคํานวณ VAT ให้คุณ และใช้จํานวนดังกล่าวกับใบแจ้งหนี้ของคุณ ดูข้อมูลเพิ่มเติมได้ที่ ข้อสงวน [สิทธิ์ VIES](https://go.microsoft.com/fwlink/p/?LinkID=841741) ที่เผยแพร่โดยคณะกรรมาธิการยุโรป
 
 **การเพิ่มหรือแก้ไข VatID**
 
@@ -34,4 +33,4 @@ ms.locfileid: "54502195"
 3. บนหน้า รายละเอียดการสมัครใช้งาน ในส่วน **ที่อยู่การใช้บริการ** ให้เลือก **แก้ไขที่อยู่การใช้บริการ**
 4. ในบานหน้าต่าง **แก้ไขที่อยู่การใช้บริการ** ของคุณ ให้พิมพ์ VAT ID ของคุณในกล่อง **หมายเลข VAT** **แล้วเลือก** บันทึก หลังจากคุณแก้ไขแล้ว จะไม่เรียกเก็บ VAT ในใบเรียกเก็บเงินถัดไปของคุณ
 
-หากต้องการเรียนรู้เพิ่มเติม[โปรดดู ฉันจะถูกเรียกเก็บภาษีอะไรบ้างMicrosoft 365ภาษี](/microsoft-365/commerce/billing-and-payments/tax-information#what-tax-will-i-be-charged)
+หากต้องการเรียนรู้เพิ่มเติม โปรดดู[ฉันจะถูกเรียกเก็บภาษีอะไรบ้างMicrosoft 365ภาษี](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/tax-information#what-tax-will-i-be-charged)

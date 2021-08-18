@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000549"
 - "7456"
-ms.openlocfilehash: 6f2067a2dcae5841aecf9acd061e4e03cf91fbac3637467e82aee2fbc9340f9a
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: fcf35457ed886581e37aa8e58df46898775d6651
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57895234"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58319799"
 ---
 # <a name="enable-the-audit-log"></a>เปิดใช้งานบันทึกการตรวจสอบ
 

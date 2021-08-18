@@ -1,5 +1,5 @@
 ---
-title: ๖๑๕ชนิดของการแชร์และวิธีการตั้งค่า
+title: ชนิดของการแชร์ 615 ชนิดและวิธีตั้งค่า
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -15,14 +15,14 @@ ms.custom:
 - "878"
 - "3500012"
 ms.assetid: 361f5405-ac43-46f6-b1b9-5d91f61617ec
-ms.openlocfilehash: 4becc3d62a98c730f66696d66e69ba77b55eb9b4
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 9ebb2e96962f70cb862d61e045c181efc20e6d927edea7c269a93ffa6a15ebbc
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47800087"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54092345"
 ---
-# <a name="different-types-of-shared-outlook-calendars-and-how-to-set-them-up"></a>ปฏิทิน Outlook ที่แชร์และวิธีการตั้งค่าชนิดต่างๆ
+# <a name="different-types-of-shared-outlook-calendars-and-how-to-set-them-up"></a>ชนิดต่างๆ ของOutlookปฏิทินและวิธีการตั้งค่า
 
 - [สร้างกล่องจดหมายที่แชร์](https://docs.microsoft.com/microsoft-365/admin/email/create-a-shared-mailbox)
 
@@ -30,6 +30,6 @@ ms.locfileid: "47800087"
 
 - [สร้างกลุ่มปฏิทิน](https://support.office.com/article/8385667b-d758-4489-a53f-f542dd01e6ff)
 
-- [แชร์ปฏิทิน Outlook กับบุคคลอื่น](https://support.office.com/article/353ed2c1-3ec5-449d-8c73-6931a0adab88)
+- [แชร์Outlookปฏิทินกับบุคคลอื่น](https://support.office.com/article/353ed2c1-3ec5-449d-8c73-6931a0adab88)
 
-ถ้าคุณไม่เห็นข้อมูลว่าง/ไม่ว่างของปฏิทินในปฏิทินอื่นหรือถ้าบุคคลอื่นไม่สามารถดูข้อมูลว่าง/ไม่ว่างในปฏิทินของคุณได้ให้ใช้ตัว[ช่วยการสนับสนุนและการกู้คืนของ Microsoft สำหรับ Office ๓๖๕](https://diagnostics.office.com/)
+ถ้าคุณไม่เห็นข้อมูลว่าง/ไม่ว่างในปฏิทินในปฏิทินอื่น หรือถ้าบุคคลอื่นไม่สามารถดูข้อมูลว่าง/ไม่ว่างในปฏิทินของคุณ ให้ใช้ Microsoft[ตัวช่วยการสนับสนุนและการกู้คืน Office 365](https://diagnostics.office.com/)

@@ -1,5 +1,5 @@
 ---
-title: เริ่มต้นใช้งานเครื่องมือสำหรับนักพัฒนาใน Microsoft Edge (โครเมียม)
+title: เริ่มต้นใช้งานเครื่องมือนักพัฒนาใน Microsoft Edge (Chromium)
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,17 +13,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004029"
 - "7099"
-ms.openlocfilehash: ba44365906b3ccaf763c3e64a7ffd7d1b34b9ac0
-ms.sourcegitcommit: 2e4a5153e530bf15744a52e982eeb0d99757e9d2
+ms.openlocfilehash: d1238ac3f3af4857aebe3c51b900e755ff86814fa425ec47be1e83cd5f9faa20
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 12/04/2020
-ms.locfileid: "49583728"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54116387"
 ---
-# <a name="get-started-with-the-developer-tools-in-microsoft-edge-chromium"></a>เริ่มต้นใช้งานเครื่องมือสำหรับนักพัฒนาใน Microsoft Edge (โครเมียม)
+# <a name="get-started-with-the-developer-tools-in-microsoft-edge-chromium"></a>เริ่มต้นใช้งานเครื่องมือนักพัฒนาใน Microsoft Edge (Chromium)
 
-Microsoft Edge ได้นำโครงการต้นฉบับของโครเมี่ยมมาใช้ซึ่งมีจุดมุ่งหมายที่จะทำให้เว็บมีขนาดเล็กลงและใช้งานเว็บแพลตฟอร์มสำหรับการเข้ากันได้มากขึ้น การเปลี่ยนแปลงนี้จะช่วยให้คุณสามารถใช้ Microsoft Edge ในการสร้างและทดสอบเว็บไซต์ของคุณที่ทำงานบนเบราว์เซอร์อื่นๆที่ใช้โครเมียม
+Microsoft Edgeได้นําโครงการโอเพนChromiumโอเพนซอร์สมาใช้ ซึ่งมีเป้าหมายที่จะลดการกระจายตัวของเว็บและแพลตฟอร์มเว็บให้เข้ากันได้มากขึ้น การเปลี่ยนแปลงนี้จะเพิ่มประสิทธิภาพให้คุณMicrosoft Edgeในการสร้างและทดสอบเว็บไซต์ที่Chromiumบนเบราว์เซอร์อื่น
 
-Microsoft Edge (โครเมียม) ยังมี [เครื่องมือสำหรับนักพัฒนาที่ดีที่สุดในชั้นเรียน](https://go.microsoft.com/fwlink/?linkid=2134941) ที่ควรจะคุ้นเคยกับคุณและเข้ากันได้กับเครื่องมือที่คุณใช้งานอยู่แล้ว
+Microsoft Edge (Chromium) ยังมี[เครื่องมือ](https://go.microsoft.com/fwlink/?linkid=2134941)นักพัฒนาชั้นดีที่สุดที่คุณควรคุ้นเคยและเข้ากันได้กับเครื่องมือที่คุณใช้อยู่แล้ว
 
-เมื่อต้องการเรียนรู้เพิ่มเติมให้ดู[ที่มีอะไรใหม่ใน DevTools Microsoft Edge (โครเมียม)](https://go.microsoft.com/fwlink/?linkid=2135020)
+เมื่อต้องการเรียนรู้เพิ่มเติม[ให้ดู มีอะไรใหม่ใน DevTools Microsoft Edge (Chromium) DevTools](https://go.microsoft.com/fwlink/?linkid=2135020)

@@ -16,12 +16,12 @@ ms.custom:
 - "349"
 - "1500012"
 ms.assetid: 6bec74c6-c7a6-4fa7-b5fc-c246c6ec5269
-ms.openlocfilehash: 5d5a82afa849b7de7750ec997da007cd89763696
-ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
+ms.openlocfilehash: 7e8965db163c659a80c8515b133302ec64aa0fdf6e742bbbe56b0d7dc25d7656
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58318495"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54116027"
 ---
 # <a name="how-to-reactivate-a-subscription-and-manage-recurring-billing"></a>วิธีเปิดใช้งานการสมัครใช้งานใหม่และจัดการการเรียกเก็บเงินแบบเป็นกิจวัตร
 
@@ -32,9 +32,9 @@ ms.locfileid: "58318495"
 3. ในบานหน้าต่าง **เปิดใช้งานการสมัครใช้งานนี้ใหม่** ให้เลือกวิธีการเงินจากรายการดรอปดาวน์ หรือเลือก **เพิ่มวิธีการเงิน**
 4. เลือกบันทึก
 
-เมื่อต้องการเรียนรู้เพิ่มเติม [ให้ดู เปิดใช้งานการสมัครใช้งาน](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/reactivate-your-subscription)ของคุณอีกครั้ง
+เมื่อต้องการเรียนรู้เพิ่มเติม [ให้ดู เปิดใช้งานการสมัครใช้งาน](/microsoft-365/commerce/subscriptions/reactivate-your-subscription)ของคุณอีกครั้ง
 
-เมื่อต้องการจัดการการเรียกเก็บเงินรายเดือนหรือรายปี คุณสามารถสลับเปิดหรือปิดการเรียกเก็บเงิน **เป็น** กิจวัตรได้
+เมื่อต้องการจัดการการเรียกเก็บเงินรายเดือนหรือรายปี คุณสามารถสลับ **เปิดหรือปิด** การเรียกเก็บเงินเป็นกิจวัตรได้
   
 1. ในศูนย์การจัดการ ให้ไปที่หน้า  >  [การเรียกเก็บเงินผลิตภัณฑ์](https://go.microsoft.com/fwlink/p/?linkid=842054)ของคุณ
 2. **บนแท็บ** ผลิตภัณฑ์ ให้เลือกการสมัครใช้งานที่คุณต้องการเปลี่ยนแปลง
@@ -42,4 +42,4 @@ ms.locfileid: "58318495"
 4. ในบานหน้าต่าง **แก้ไขการตั้งค่าการเรียกเก็บเงินเป็นกิจ** วัตร **ให้เลือก** เปิด เปิด **แต่ต่ออายุหนึ่งครั้ง****หรือ** ปิด
 5. เลือกบันทึก
 
-หากต้องการเรียนรู้เพิ่มเติม โปรดดู [ปิดหรือเปิดการเรียกเก็บเงินแบบเป็นกิจวัต](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/renew-your-subscription#turn-recurring-billing-off-or-on)ร
+หากต้องการเรียนรู้เพิ่มเติม โปรดดู [ปิดหรือเปิดการเรียกเก็บเงินแบบเป็นกิจวัต](/microsoft-365/commerce/subscriptions/renew-your-subscription#turn-recurring-billing-off-or-on)ร

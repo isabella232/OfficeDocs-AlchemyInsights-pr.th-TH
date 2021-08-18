@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000722"
 - "4812"
-ms.openlocfilehash: 5231fca8c0a3cd919dd9fb79e7cbcf5a4f2c67fdd52a0f136b87e9331a3d6c44
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: 5d328c1d494a978b424a4f9932ec9145637b766c
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57893542"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58319647"
 ---
 # <a name="compliance-common-issues-and-resolutions"></a>ปัญหาและการแก้ไขปัญหาทั่วไปเกี่ยวกับการปฏิบัติตามกฎระเบียบ
 
@@ -39,6 +39,6 @@ ms.locfileid: "57893542"
 
 - การดูนโยบายการแจ้งเตือน:[ดู นโยบายการแจ้งเตือน ศูนย์การปฏิบัติตามข้อบังคับสําหรับ Microsoft 365](https://docs.microsoft.com/microsoft-365/compliance/alert-policies)การแจ้งเตือน
 
-- สิทธิ์การใช้งานศูนย์ซับซ้อน:[ดูสิทธิ์ใน ศูนย์การปฏิบัติตามข้อบังคับสําหรับ Microsoft 365](https://docs.microsoft.com/microsoft-365/compliance/microsoft-365-compliance-center-permissions)
+- สิทธิ์การใช้งานศูนย์ซับซ้อน:[ดูสิทธิ์ในศูนย์การปฏิบัติตามข้อบังคับสําหรับ Microsoft 365](https://docs.microsoft.com/microsoft-365/compliance/microsoft-365-compliance-center-permissions)
 
 **หมายเหตุ**: เพื่อตอบคําตอบที่เฉพาะเจาะจงมากขึ้นเกี่ยวกับปัญหาการปฏิบัติตามกฎระเบียบ ให้แก้ไขคําถามของคุณใหม่ช่วงสั้นๆ และใส่ข้อผิดพลาดใดๆ ที่คุณพบหรือคุณลักษณะที่คุณใช้งาน

@@ -13,19 +13,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004166"
 - "7325"
-ms.openlocfilehash: d5473f73f280a61eefb36fed6d528ef1b0999d7f9898570e9e8eb24105a1cfa6
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 5c0f4e7e92081a60be1f6930100ed08ce91ad545
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54001527"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58320049"
 ---
 # <a name="update-sold-to-and-bill-to-address-associated-to-your-mca---recommended-steps"></a>อัปเดตที่อยู่ที่ขายให้กับและใบเรียกเก็บเงินที่เชื่อมโยงกับ MCA ของคุณ - ขั้นตอนที่แนะนา
 
 คุณสามารถอัปเดตที่อยู่ของขายให้กับและใบเรียกเก็บเงินที่เชื่อมโยงกับข้อตกลงของลูกค้า Microsoft (MCA) ของคุณ 
 
-> [!NOTE]
-> เฉพาะผู้ดูแลระบบผู้ใช้เท่านั้นที่สามารถเปลี่ยนแปลงข้อมูลAzure Active Directoryโปรไฟล์ผู้ใช้ของคุณ ถ้าคุณไม่ได้ได้รับมอบหมายบทบาทผู้ดูแลระบบผู้ใช้ ให้ติดต่อผู้ดูแลระบบของผู้ใช้ของคุณ For more information about changing a user's profile, see [Add or update a user's profile information using Azure Active Directory](https://docs.microsoft.com/azure/active-directory/fundamentals/active-directory-users-profile-azure-portal).
+**หมายเหตุ**: เฉพาะผู้ดูแลระบบผู้ใช้เท่านั้นที่สามารถเปลี่ยนแปลงข้อมูลAzure Active Directoryโปรไฟล์ผู้ใช้ได้ ถ้าคุณไม่ได้ได้รับมอบหมายบทบาทผู้ดูแลระบบผู้ใช้ ให้ติดต่อผู้ดูแลระบบของผู้ใช้ของคุณ For more information about changing a user's profile, see [Add or update a user's profile information using Azure Active Directory](https://docs.microsoft.com/azure/active-directory/fundamentals/active-directory-users-profile-azure-portal).
 
 **ที่อยู่ของขาย** ให้กับ - ที่อยู่ของขายให้กับ คือที่อยู่และข้อมูลที่ติดต่อขององค์กรหรือบุคคลผู้ที่รับผิดชอบบัญชีการเรียกเก็บเงิน ใบแจ้งหนี้ทั้งหมดที่สร้างขึ้นจากบัญชีการเรียกเก็บเงินจะแสดงในใบแจ้งหนี้
 
