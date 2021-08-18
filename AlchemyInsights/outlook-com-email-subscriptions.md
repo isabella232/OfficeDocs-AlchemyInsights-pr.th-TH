@@ -1,5 +1,5 @@
 ---
-title: การสมัครใช้งานอีเม Outlook.com
+title: Outlookการสมัครใช้งานอีเมลของ Outlook.com
 ms.author: pebaum
 author: pebaum
 manager: joallard
@@ -13,23 +13,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "3151"
 - "9001191"
-ms.openlocfilehash: cc65c04f0f77936fdc5d7919729aeeafba502c92
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 99846eb93c3bc4c46120a6650d4cfe0910a358b1b0c43147f5723d3e09b91fa4
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47672435"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54111923"
 ---
 # <a name="email-subscriptions"></a>การสมัครใช้งานอีเมล
 
 เหตุใดฉันจึงเห็นอีเมลในรายการการสมัครใช้งานของฉัน
 
-Outlook.com ตรวจพบว่าข้อความอีเมลที่มีข้อมูลการสมัครใช้งานรวมถึง "ยกเลิกการสมัครใช้งาน" ในข้อความ Outlook.com ยังไม่ได้สมัครใช้งานจดหมายข่าวของคุณโดยอัตโนมัติ
+Outlook.com ได้ตรวจพบว่าข้อความอีเมลมีข้อมูลการสมัครใช้งาน รวมถึง "ยกเลิกการสมัครใช้งาน" ในข้อความ Outlook.com ไม่ได้สมัครรับจดหมายข่าวของคุณโดยอัตโนมัติ
 
-ถ้าคุณต้องการหยุดรับจดหมายข่าวหรือโปรโมชั่นมีสองวิธีที่คุณสามารถยกเลิกการสมัครใช้งาน Outlook.com:
-1. ในกล่องขาเข้าของคุณให้เลือกจดหมายข่าวหรือส่งเสริมการขาย ที่ด้านบนของบานหน้าต่างการอ่านให้เลือก **ยกเลิก**การสมัครใช้งาน
-2. เปิดการตั้งค่าการสมัครใช้งาน Outlook.com ของคุณแล้วเลือก**ยกเลิก**การ[สมัคร](https://go.microsoft.com/fwlink/?linkid=2110887)ใช้งาน
+ถ้าคุณต้องการหยุดรับจดหมายข่าวหรือโปรโมชัน คุณสามารถยกเลิกการสมัครสมาชิกโดยใช้ Outlook.com สองวิธี:
+1. ในกล่องจดหมายเข้าของคุณ ให้เลือกจดหมายข่าวหรืออีเมลส่งเสริมการขาย ที่ด้านบนของบานหน้าต่างการอ่าน ให้เลือก **ยกเลิก** การสมัครใช้งาน
+2. เปิด [การตั้งค่าOutlook.com](https://go.microsoft.com/fwlink/?linkid=2110887)การสมัครใช้งาน **แล้วเลือก ยกเลิก** การสมัครใช้งาน
 
-หมายเหตุ: คุณจะเห็นเฉพาะฟีเจอร์นี้ถ้าคุณได้รับอีเมลจากบริษัทที่ส่งอีเมลที่สมัครใช้งานแล้วเท่านั้น
-ถ้าแบบสอบถามของคุณเกี่ยวกับ Microsoft ๓๖๕การสมัครใช้งานที่ชำระเงินแล้วให้ไปที่ [https://account.microsoft.com/services](https://go.microsoft.com/fwlink/?linkid=2110888)   หรือ[เรียนรู้เพิ่มเติมเกี่ยวกับ microsoft ๓๖๕](https://products.office.com/compare-all-microsoft-office-products?tab=1&WT.mc_id=PROD_OL-Web_Support_O365NewValue_Upgrade)
+หมายเหตุ: คุณจะเห็นฟีเจอร์นี้ถ้าคุณได้รับอีเมลจากบริษัทที่ส่งอีเมลที่สมัครใช้งานเท่านั้น
+ถ้าคิวรีของคุณMicrosoft 365การสมัครใช้งานแบบชําระเงิน [https://account.microsoft.com/services](https://go.microsoft.com/fwlink/?linkid=2110888) [ให้ไปที่หรือเรียนรู้เพิ่มเติมเกี่ยวกับMicrosoft 365](https://products.office.com/compare-all-microsoft-office-products?tab=1&WT.mc_id=PROD_OL-Web_Support_O365NewValue_Upgrade)
   

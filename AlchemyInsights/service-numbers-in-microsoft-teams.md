@@ -1,5 +1,5 @@
 ---
-title: หมายเลขบริการในทีม
+title: หมายเลขบริการในTeams
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
@@ -11,19 +11,19 @@ ms.custom:
 - "9002256"
 - "4359"
 ms.assetid: ''
-ms.openlocfilehash: 6bf7cca2d17b4e31a0f10ef41a2b77dcf0cf7efa
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: bc7c98cc50bf136f32583512ea6c78d483f39984fb1ab889dda19d1c1391e90f
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47799043"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54086039"
 ---
-# <a name="service-numbers-in-teams"></a>หมายเลขบริการในทีม
+# <a name="service-numbers-in-teams"></a>หมายเลขบริการในTeams
 
-หมายเลขโทรศัพท์บริการมีกำลังการโทรที่พร้อมใช้งานสูงกว่าที่ผู้ใช้หรือหมายเลขโทรศัพท์ของผู้สมัครใช้งาน 
+หมายเลขโทรศัพท์บริการมีความจุการโทรพร้อมกันสูงกว่าหมายเลขโทรศัพท์ของผู้ใช้หรือผู้สมัครใช้งาน 
 
-- [ตรวจทานวิธีต่างๆในการรับหมายเลขบริการ](https://docs.microsoft.com/microsoftteams/getting-service-phone-numbers) 
+- [ตรวจสอบวิธีต่างๆ ในรับหมายเลข](https://docs.microsoft.com/microsoftteams/getting-service-phone-numbers)บริการ 
 
-- [ตรวจทานวิธีการแปลงหมายเลขผู้ใช้เป็นหมายเลขบริการ](https://docs.microsoft.com/microsoftteams/manage-phone-numbers-for-your-organization/phone-number-management-for-the-u-s)
+- [ตรวจสอบวิธีการแปลงหมายเลขผู้ใช้เป็นหมายเลข](https://docs.microsoft.com/microsoftteams/manage-phone-numbers-for-your-organization/phone-number-management-for-the-u-s)บริการ
 
-สำหรับข้อมูลเพิ่มเติมให้ดูที่[จัดการหมายเลขโทรศัพท์สำหรับองค์กรของคุณ](https://docs.microsoft.com/microsoftteams/manage-phone-numbers-for-your-organization/manage-phone-numbers-for-your-organization)
+ดูข้อมูลเพิ่มเติมได้ที่ [จัดการหมายเลขโทรศัพท์ของ](https://docs.microsoft.com/microsoftteams/manage-phone-numbers-for-your-organization/manage-phone-numbers-for-your-organization)องค์กรของคุณ

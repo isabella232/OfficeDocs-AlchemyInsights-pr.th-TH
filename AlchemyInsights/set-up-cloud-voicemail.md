@@ -1,5 +1,5 @@
 ---
-title: ตั้งค่าหรือแก้ไขปัญหาข้อความเสียงบน Cloud
+title: ตั้งค่าหรือแก้ไขปัญหาข้อความเสียงในคลาวด์
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002347"
 - "4567"
-ms.openlocfilehash: 207713f9d3b9a18cd8d240fed06355bda14652d8
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 3122fad95953cc0d75e5440dff415cc20ec496d45e94d13d6102d6f5659b332c
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51787264"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54086075"
 ---
-# <a name="set-up-or-troubleshoot-cloud-voicemail"></a>ตั้งค่าหรือแก้ไขปัญหาข้อความเสียงบน Cloud
+# <a name="set-up-or-troubleshoot-cloud-voicemail"></a>ตั้งค่าหรือแก้ไขปัญหาข้อความเสียงในคลาวด์
 
-- [ตั้งค่าข้อความเสียงระบบคลาวด์](https://docs.microsoft.com/microsoftteams/set-up-phone-system-voicemail) 
-- [การให้สิทธิ์การใช้งาน Add-on ของ Microsoft Teams](https://docs.microsoft.com/microsoftteams/teams-add-on-licensing/microsoft-teams-add-on-licensing) 
-- Microsoft Teams Phone กับสภาพแวดล้อมภายในองค์กร: [กําหนดค่าบริการข้อความเสียงระบบคลาวด์ให้กับผู้ใช้ภายในองค์กร](https://docs.microsoft.com/skypeforbusiness/hybrid/configure-cloud-voicemail) 
-- [แผน Microsoft Teams Calling for Microsoft 365](https://docs.microsoft.com//microsoftteams/calling-plans-for-office-365) 
+- [ตั้งค่าข้อความเสียงในคลาวด์](https://docs.microsoft.com/microsoftteams/set-up-phone-system-voicemail) 
+- [Microsoft Teamsสิทธิ์การใช้งาน Add-on](https://docs.microsoft.com/microsoftteams/teams-add-on-licensing/microsoft-teams-add-on-licensing) 
+- Microsoft Teams โทรกับสภาพแวดล้อมภายในองค์กร:[กําหนดข้อความเสียงในคลาวด์บริการแบบกําหนดค่าของผู้ใช้ภายในองค์กร](https://docs.microsoft.com/skypeforbusiness/hybrid/configure-cloud-voicemail) 
+- [Microsoft Teams แผนการโทรMicrosoft 365](https://docs.microsoft.com//microsoftteams/calling-plans-for-office-365) 
 
-หากข้อความเสียงไม่ถูกส่ง ให้ดู ข้อความ[เสียงไม่ถูกส่งในไคลเอ็นต์ Teams หรือ Skype for Business](https://docs.microsoft.com/SkypeForBusiness/troubleshoot/hybrid-phone-system/voicemails-not-delivered)
+ถ้าข้อความเสียงไม่ถูกส่ง ให้ดู ข้อความ[เสียงจะไม่ส่งในTeams หรือSkype for Businessของคุณ](https://docs.microsoft.com/SkypeForBusiness/troubleshoot/hybrid-phone-system/voicemails-not-delivered)

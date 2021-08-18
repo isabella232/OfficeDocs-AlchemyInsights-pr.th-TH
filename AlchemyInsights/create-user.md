@@ -13,19 +13,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003231"
 - "9403"
-ms.openlocfilehash: afba00ffc6ba082606e0071b41e2917b11e6a39d61cd0df7e468f0238f2ed8e8
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: d86b2dd6d7915f0698cf950cd57f1065cde22219284edbbc0e64f3a5e69ff252
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54118763"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57896734"
 ---
 # <a name="create-user"></a>สร้างผู้ใช้
 
 **ประกาศ:**
 
-- [การเลิกใช้การสนับสนุนการลงชื่อเข้าใช้ WebView จาก Google ตั้งแต่วันที่ 4 มกราคม 2021](/azure/active-directory/external-identities/google-federation#deprecation-of-webview-sign-in-support) ทดสอบว่าแอปของคุณอาจได้รับผลกระทบจากแนวทาง [ของ Google เกี่ยวกับ](https://go.microsoft.com/fwlink/?linkid=2157323) การทดสอบความเข้ากันได้หรือไม่
-- ตรวจสอบให้แน่ใจว่าคุณใช้มุมมองเว็บของระบบหรือเบราว์เซอร์ระบบเมื่อลงชื่อเข้าใช้ผู้ใช้ของคุณด้วยบัญชี Google ของลูกค้า For more information, [see Issues signing in to application(s) using Chrome browser only](/office365/troubleshoot/miscellaneous/chrome-behavior-affects-applications).
+- [การเลิกใช้การสนับสนุนการลงชื่อเข้าใช้ WebView จาก Google ตั้งแต่วันที่ 4 มกราคม 2021](https://docs.microsoft.com/azure/active-directory/external-identities/google-federation#deprecation-of-webview-sign-in-support) ทดสอบว่าแอปของคุณอาจได้รับผลกระทบจากแนวทาง [ของ Google เกี่ยวกับ](https://go.microsoft.com/fwlink/?linkid=2157323) การทดสอบความเข้ากันได้หรือไม่
+- ตรวจสอบให้แน่ใจว่าคุณใช้มุมมองเว็บของระบบหรือเบราว์เซอร์ระบบเมื่อลงชื่อเข้าใช้ผู้ใช้ของคุณด้วยบัญชี Google ของลูกค้า For more information, [see Issues signing in to application(s) using Chrome browser only](https://docs.microsoft.com/office365/troubleshoot/miscellaneous/chrome-behavior-affects-applications).
 
 **ฉันไม่สามารถสร้างผู้ใช้ใหม่ในไดเรกทอรี Azure AD ของฉัน**
 
@@ -35,7 +35,7 @@ ms.locfileid: "54118763"
 1. ตรวจสอบให้แน่ใจว่าไม่มีผู้ใช้หรือที่ติดต่ออื่นมีชื่อผู้ใช้ที่คุณต้องการกําหนดให้กับผู้ใช้ใหม่แล้ว ชื่อผู้ใช้ต้องไม่ซ.ก. ใน Azure AD
 1. ดู [บทบาทและผู้ดูแลระบบ Azure AD](https://portal.azure.com/#blade/Microsoft_AAD_IAM/ActiveDirectoryMenuBlade/RolesAndAdministrators) ของ Azure AD
 1. ดู [ชื่อโดเมนของ](https://portal.azure.com/#blade/Microsoft_AAD_IAM/ActiveDirectoryMenuBlade/RolesAndAdministrators) Azure AD ของคุณ
-1. ตรวจทาน [บันทึก](https://portal.azure.com/#blade/Microsoft_AAD_IAM/ActiveDirectoryMenuBlade/RolesAndAdministrators) การตรวจสอบเพื่อดูข้อมูลโดยละเอียดเพิ่มเติมเกี่ยวกับผู้ใช้ที่สร้างหรือผู้ใช้ที่ถูกลบเมื่อเร็วๆ นี้ เช่น ผู้ที่เป็นผู้ปฏิบัติการและเมื่อใด
-1. For more information on adding new users, see [Use the Azure portal to create a new user in your Azure AD](/azure/active-directory/active-directory-users-create-azure-portal).
-1. [บทบาทผู้ดูแลระบบ Azure AD](/azure/active-directory/active-directory-assign-admin-roles): สิทธิ์บทบาทผู้ดูแลระบบในAzure Active Directory
-1. You can also [use Azure AD PowerShell to create a new user](/powershell/module/azuread/new-azureaduser?view=azureadps-2.0).
+1. ตรวจทาน [บันทึก](https://portal.azure.com/#blade/Microsoft_AAD_IAM/ActiveDirectoryMenuBlade/RolesAndAdministrators) การตรวจสอบเพื่อดูข้อมูลโดยละเอียดเพิ่มเติมเกี่ยวกับผู้ใช้ที่สร้างหรือลบเมื่อเร็วๆ นี้ เช่น ผู้ที่เริ่มการแอคชันและเมื่อใด
+1. For more information on adding new users, see [Use the Azure portal to create a new user in your Azure AD](https://docs.microsoft.com/azure/active-directory/active-directory-users-create-azure-portal).
+1. [บทบาทผู้ดูแลระบบ Azure AD](https://docs.microsoft.com/azure/active-directory/active-directory-assign-admin-roles): สิทธิ์บทบาทผู้ดูแลระบบในAzure Active Directory
+1. You can also [use Azure AD PowerShell to create a new user](https://docs.microsoft.com/powershell/module/azuread/new-azureaduser?view=azureadps-2.0).

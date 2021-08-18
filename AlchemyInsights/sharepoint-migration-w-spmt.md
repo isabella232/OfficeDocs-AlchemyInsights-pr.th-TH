@@ -1,5 +1,5 @@
 ---
-title: การโยกย้าย SharePoint ด้วย SPMT
+title: SharePoint การโยกย้ายด้วย SPMT
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,17 +13,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "5300030"
 - "2594"
-ms.openlocfilehash: 34b7611967a7228bfe8611f9784e5049c9bc307a
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 04716e85da6432703f25bf37f253d7d4553ecc4c68123a21b46fbb4501bccf2d
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51828327"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54085787"
 ---
-# <a name="sharepoint-migration-with-spmt"></a>การโยกย้าย SharePoint ด้วย SPMT
+# <a name="sharepoint-migration-with-spmt"></a>SharePoint การโยกย้ายด้วย SPMT
 
-ได้รับการออกแบบมาเพื่อใช้ในการโยกย้ายตั้งแต่ชุดไฟล์ที่เล็กที่สุดไปจนถึงการโยกย้ายองค์กรขนาดใหญ่ เครื่องมือการโยกย้าย SharePoint จะช่วยให้คุณสามารถถ่ายโอนข้อมูลของคุณไปยังระบบคลาวด์ และใช้ประโยชน์จากการร่วมมือ กัน ข่าวกรอง และโซลูชันความปลอดภัยใหม่ล่าสุดด้วย Microsoft 365
+ได้รับการออกแบบมาเพื่อใช้การโยกย้ายตั้งแต่ชุดไฟล์ที่เล็กที่สุดไปจนถึงการโยกย้ายองค์กรขนาดใหญ่ เครื่องมือการโยกย้าย SharePoint จะช่วยให้คุณสามารถถ่ายโอนข้อมูลของคุณไปยังระบบคลาวด์ และใช้ประโยชน์จากการร่วมมือ ข่าวกรอง และโซลูชันความปลอดภัยใหม่ล่าสุดด้วย Microsoft 365
 
-- [ดาวน์โหลดและติดตั้งเครื่องมือการโยกย้าย SharePoint](https://docs.microsoft.com/sharepointmigration/introducing-the-sharepoint-migration-tool)
+- [ดาวน์โหลดและติดตั้งเครื่องมือSharePointการโยกย้าย](https://docs.microsoft.com/sharepointmigration/introducing-the-sharepoint-migration-tool)
 - [การแก้ไขปัญหาและข้อผิดพลาด SPMT ทั่วไป](https://docs.microsoft.com/sharepointmigration/troubleshooting-common-spmt-issues)
 - [การแก้ไขปัญหาการติดตั้ง SPMT](https://docs.microsoft.com/sharepointmigration/spmt-install-issues#troubleshooting-spmt-installation-issues)

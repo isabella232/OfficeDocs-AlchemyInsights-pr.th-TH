@@ -17,12 +17,12 @@ ms.custom:
 - "651"
 - "1500008"
 ms.assetid: 7fd08e48-6f3c-4259-88da-4d06288f2b7d
-ms.openlocfilehash: 987eb106a7d8858cba04151b9f8953d847aafec92b4f05281c2bbde4edaf91e6
-ms.sourcegitcommit: d71b18e1403859fbfc45ddd9a57c8ab68f4d9f96
+ms.openlocfilehash: 72c730ef9e63e29f452580e4d0b8d0c605f621e540c1f2807f284c47aeaa37f5
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54503707"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57896994"
 ---
 # <a name="assign-or-unassign-licenses-to-users"></a>กําหนดหรือยกเลิกการกําหนดสิทธิ์การใช้งานให้กับผู้ใช้
 
@@ -31,6 +31,6 @@ ms.locfileid: "54503707"
 1. ในศูนย์การจัดการ ให้ไปที่ **ผู้ใช้** \> [ที่ใช้งานอยู่](https://go.microsoft.com/fwlink/p/?linkid=834822)
 2. เลือกแถวของผู้ใช้ที่คุณต้องการกําหนดสิทธิ์การใช้งานให้
 3. ในบานหน้าต่างด้านขวา ให้เลือก **สิทธิ์การใช้งานและ** แอป
-4. ขยาย **ส่วน** สิทธิ์การใช้งาน เลือกหรือล้างกล่องของสิทธิ์การใช้งานที่คุณต้องการกําหนดหรือยกเลิกการกําหนด แล้วเลือก **บันทึก** การเปลี่ยนแปลง
+4. ขยาย **ส่วน** สิทธิ์การใช้งาน เลือกหรือล้างกล่องสิทธิ์การใช้งานที่คุณต้องการกําหนดหรือยกเลิกการกําหนด แล้วเลือก **บันทึก** การเปลี่ยนแปลง
 
-For more information, see [Assign licenses to users](/microsoft-365/admin/manage/assign-licenses-to-users), and [Unassign licenses from users](/microsoft-365/admin/manage/remove-licenses-from-users).
+For more information, see [Assign licenses to users](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users), and [Unassign licenses from users](https://docs.microsoft.com/microsoft-365/admin/manage/remove-licenses-from-users).

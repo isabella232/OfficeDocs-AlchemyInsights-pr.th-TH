@@ -11,12 +11,12 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 1037
 ms.assetid: ''
-ms.openlocfilehash: 0d0fff3e699d46af2a19a8ad60696b824bafa109
-ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
+ms.openlocfilehash: c42786559d527a5ef9a0a8cfad1476f4d122b6d5570ca5b9ea138b21a153ae96
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58314981"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57896354"
 ---
 # <a name="microsoft-defender-for-office-365-for-sharepoint-onedrive-and-microsoft-teams"></a>Microsoft Defender Office 365 for SharePoint, OneDrive และ Microsoft Teams
 
@@ -30,6 +30,6 @@ ms.locfileid: "58314981"
 
 4. [สร้างนโยบายการแจ้งเตือนกิจกรรม](https://docs.microsoft.com/microsoft-365/compliance/create-activity-alerts) เพื่อรับการแจ้งเตือนเมื่อเราตรวจพบไฟล์ที่เป็นอันตราย
 
-ดูคําแนะ[นําทั้งหมดตู้เซฟ สิ่งที่แนบมาSharePoint OneDrive และ Microsoft Teams](https://docs.microsoft.com/microsoft-365/security/office-365-security/turn-on-atp-for-spo-odb-and-teams)
+ดูคําแนะ[นําทั้งหมดตู้เซฟ สิ่งที่แนบมา](https://docs.microsoft.com/microsoft-365/security/office-365-security/turn-on-atp-for-spo-odb-and-teams)SharePoint OneDrive และ Microsoft Teams
 
-**หมายเหตุ**: ตามการออกแบบ Microsoft Defender for Office 365จะไม่สแกนทุกไฟล์ใน SharePoint Online, OneDrive for Business หรือ Microsoft Teams ไฟล์จะถูกสแกนแบบอะซิงโครนัสโดยกระบวนการที่ใช้กิจกรรมการแชร์ กิจกรรมของแขก และสัญญาณภัยคุกคามเพื่อระบุไฟล์ที่เป็นอันตราย For more information, see[ตู้เซฟ Attachments for SharePoint, OneDrive, and Microsoft Teams](https://docs.microsoft.com/microsoft-365/security/office-365-security/atp-for-spo-odb-and-teams).
+**หมายเหตุ**: ตามการออกแบบ Microsoft Defender for Office 365จะไม่สแกนทุกไฟล์ใน SharePoint Online, OneDrive for Business หรือ Microsoft Teams ไฟล์จะถูกสแกนแบบอะซิงโครนัสโดยกระบวนการที่ใช้กิจกรรมการแชร์ กิจกรรมของแขก และสัญญาณภัยคุกคามเพื่อระบุไฟล์ที่เป็นอันตราย ดูข้อมูลตู้เซฟ[สิ่งที่แนบมาSharePoint OneDrive Microsoft Teams](https://docs.microsoft.com/microsoft-365/security/office-365-security/atp-for-spo-odb-and-teams)

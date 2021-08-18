@@ -1,5 +1,5 @@
 ---
-title: วิธีการสั่งซื้อMicrosoft 365คุณ
+title: วิธีการซื้อMicrosoft 365
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
@@ -15,14 +15,14 @@ ms.custom:
 - commerce_purchase
 - "531"
 - "1400007"
-ms.openlocfilehash: 772eeb20defdaa190b000cdcbbd3abe150dff4de971b5cd9d676f261880776a9
-ms.sourcegitcommit: d71b18e1403859fbfc45ddd9a57c8ab68f4d9f96
+ms.openlocfilehash: 5af852de7126dd36598339250a3b8b445d88ad1d57f8621e90c8818e8959f12b
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54499063"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57896950"
 ---
-# <a name="how-to-make-a-microsoft-365-purchase"></a>วิธีการสั่งซื้อMicrosoft 365คุณ
+# <a name="how-to-make-a-microsoft-365-purchase"></a>วิธีการซื้อMicrosoft 365
 
 คุณสามารถซื้อการสมัครใช้งานMicrosoft 365ในศูนย์การจัดการได้
   
@@ -30,13 +30,13 @@ ms.locfileid: "54499063"
 - เมื่อต้องการซื้อสิทธิ์การใช้งานเพิ่มเติม ให้ไปที่ **หน้า** \> **[การเรียกเก็บเงินผลิตภัณฑ์](https://go.microsoft.com/fwlink/p/?linkid=842054)** ของคุณ เลือกการสมัครใช้งานที่คุณต้องการเปลี่ยนแปลง แล้วเลือก **ซื้อสิทธิ์การใช้งาน**\\
 **ดูวิดีโอแสดง** วิธีการ: ซื้อ [สิทธิ์การใช้งานใหม่](https://go.microsoft.com/fwlink/p/?linkid=2154857)
   
-เมื่อต้องการเรียนรู้เพิ่มเติม [ให้ดู ซื้อหรือเอาสิทธิ์การใช้งาน](/microsoft-365/commerce/licenses/buy-licenses)ออก
+เมื่อต้องการเรียนรู้เพิ่มเติม [ให้ดู ซื้อหรือเอาสิทธิ์การใช้งาน](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses)ออก
 
 **การแก้ไขปัญหา**
 
-หากคุณประสบปัญหาในการโหลดหน้า ให้ลองเปิดเว็บเพจในเบราว์เซอร์อื่น หรือลองเปิดหน้าหน้าต่างเบราว์เซอร์ส่วนตัว เช่น หน้าต่าง InPrivate ในหน้าต่าง Microsoft Edge หรือหน้าต่างไม่ระบุตัวตนใน Google Chrome
+หากคุณประสบปัญหากับการโหลดหน้า ให้ลองเปิดเว็บเพจในเบราว์เซอร์อื่น หรือลองเปิดหน้าต่างเบราว์เซอร์ส่วนตัวของหน้า เช่น หน้าต่าง InPrivate ในหน้าต่าง Microsoft Edge หรือหน้าต่างไม่ระบุตัวตนใน Google Chrome
 
 **แหล่งข้อมูลเพิ่มเติม**
   
-- [มอบหมายสิทธิ์การใช้งานให้ผู้ใช้ใน Microsoft 365 for business](/microsoft-365/admin/add-users/add-users)
-- [ยกเลิกMicrosoft 365 for Business](/microsoft-365/commerce/subscriptions/cancel-your-subscription)
+- [มอบหมายสิทธิ์การใช้งานให้ผู้ใช้ใน Microsoft 365 for business](https://docs.microsoft.com/microsoft-365/admin/add-users/add-users)
+- [ยกเลิกMicrosoft 365 for Business](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription)
