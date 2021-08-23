@@ -3,8 +3,7 @@ title: บัตรเติมเงินแบบขายปลีก
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.date: ''
-ms.reviewer: commerce_purchase
+ms.reviewer: jkinma, jmueller
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -15,18 +14,18 @@ ms.custom:
 - commerce_purchase
 - "9001519"
 - "3576"
-ms.openlocfilehash: f9c84853d30ca327cd12f06d2b802286b7ce1beb
-ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
+ms.openlocfilehash: 56bd131a3bbbd42bd6cd4ccf53f18d63ea2408b2
+ms.sourcegitcommit: 1b4ecaba74cfcff155528dc9e1002011afe0f110
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58321008"
+ms.lasthandoff: 08/21/2021
+ms.locfileid: "58451941"
 ---
 # <a name="retail-prepaid-card"></a>บัตรเติมเงินแบบขายปลีก
 
-ถ้าคุณซื้อจากMicrosoft 365 Business Standardร้านค้าปลีก ให้ใช้ขั้นตอนต่อไปนี้เพื่อขยายวันหมดอายุหรือเพิ่มสิทธิ์การใช้งานไปยังการสมัครใช้งานที่มีอยู่
+ถ้าคุณซื้อMicrosoft 365 Business Standardออกจากร้านค้าปลีก ให้ใช้ขั้นตอนต่อไปนี้เพื่อขยายวันหมดอายุหรือเพิ่มสิทธิ์การใช้งานไปยังการสมัครใช้งานที่มีอยู่
 
-**หมายเหตุ**: เมื่อต้องการใช้คีย์ผลิตภัณฑ์เพื่อขยายวันหมดอายุ หรือเพิ่มสิทธิ์การใช้งานในการสมัครใช้งาน Microsoft 365 Business Standard ที่มีอยู่ ของคุณ คุณต้องมีคีย์ใหม่ที่ยังไม่ได้ใช้ในการสมัครใช้งาน Microsoft 365 เดียวกัน การใส่Microsoft 365ต้นฉบับของคุณจะไม่สามารถใช้งานได้ เนื่องจากคีย์ที่แลกใช้แล้วไม่สามารถใช้อีกครั้งได้
+**หมายเหตุ**: เมื่อต้องการใช้คีย์ผลิตภัณฑ์เพื่อขยายวันหมดอายุ หรือเพิ่มสิทธิ์การใช้งานในการสมัครใช้งาน Microsoft 365 Business Standard ที่มีอยู่ ของคุณ คุณจึงต้องมีคีย์ใหม่ที่ยังไม่ได้ใช้Microsoft 365การสมัครใช้งานเดียวกัน การใส่Microsoft 365ต้นฉบับของคุณจะไม่สามารถใช้งานได้ เนื่องจากคีย์ที่แลกใช้แล้วไม่สามารถใช้อีกครั้งได้
 
 1. ในศูนย์การจัดการ ให้ไปที่หน้า  >  **[การเรียกเก็บเงินผลิตภัณฑ์](https://go.microsoft.com/fwlink/p/?linkid=842054)** ของคุณ
 2. ค้นหาการสมัครใช้งานที่คุณต้องการขยายหรือเพิ่มสิทธิ์การใช้งาน เลือก[ขยายวันที่สิ้นสุด](https://go.microsoft.com/fwlink/p/?linkid=842054)[หรือเพิ่มสิทธิ์การใช้งาน](https://go.microsoft.com/fwlink/p/?linkid=842054)เพิ่มเติม

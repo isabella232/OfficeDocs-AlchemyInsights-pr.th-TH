@@ -1,8 +1,9 @@
 ---
 title: เข้าใจใบเรียกเก็บเงินของคุณ
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
+ms.reviewer: jkinma, jmueller
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -10,21 +11,22 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
+- commerce_billing
 - "1500005"
 - "4728"
 - "4727"
-ms.openlocfilehash: 652c9e5b51253b5ce3964b822be28f198ba289deb552984a3d124166484fa84d
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 41fef2ca1d65b46e49b602b5cd03e19a4ab708fc
+ms.sourcegitcommit: 1b4ecaba74cfcff155528dc9e1002011afe0f110
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53908657"
+ms.lasthandoff: 08/21/2021
+ms.locfileid: "58451833"
 ---
 # <a name="understand-your-bill"></a>เข้าใจใบเรียกเก็บเงินของคุณ
 
 **ดูใบเรียกเก็บเงินของคุณ**
 
-1. ในหน้า ศูนย์การจัดการ Microsoft 365การเรียกเก็บเงิน ไปที่ **หน้าการเรียกเก็บเงิน>[การเรียกเก็บเงิน&การเรียกเก็บเงิน](https://go.microsoft.com/fwlink/p/?linkid=848039)**
+1. ในหน้า ศูนย์การจัดการ Microsoft 365การเรียกเก็บเงิน หรือการเรียกเก็บเงิน > **&[การเรียกเก็บเงิน](https://go.microsoft.com/fwlink/p/?linkid=848039)**
 
 2. เลือกช่วงวันที่จากรายการดรอปดาวน์ แล้วเลือกการสั่งซื้อที่คุณต้องการตรวจทานหรือคลิกลิงก์ ดาวน์โหลด **pdf** ใบแจ้งหนี้ เพื่อดูสําเนาของใบเรียกเก็บเงิน
 
