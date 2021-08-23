@@ -8,19 +8,52 @@ ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.custom: 975
-ms.assetid: ''
-ms.openlocfilehash: f393c111aebed6d5813528a5c11bf8a6f18b68e5
-ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
+ms.custom:
+- "975"
+- "666"
+- "3100019"
+ms.openlocfilehash: d3897f24ce9a967b08a3fd15a2fdedbb3fe2a22d
+ms.sourcegitcommit: f05d4caa0e657ee74d6b6e9abc88488f17d740fe
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58328549"
+ms.lasthandoff: 08/19/2021
+ms.locfileid: "58396634"
 ---
-# <a name="would-you-like-to-report-a-spam-false-positive-to-microsoft"></a>คุณต้องการรายงานสแปมที่ผิดพลาดไปยัง Microsoft หรือไม่
+# <a name="do-you-have-legitimate-messages-being-marked-as-spam"></a>คุณมีข้อความที่ถูกต้องที่ถูกระบุว่าเป็นสแปมหรือไม่
 
-ในฐานะผู้ดูแลระบบ วิธีที่ดีที่สุดในการระบุว่าเหตุใดจึงส่งข้อความฟิชชิ่งหรือสแปมคือ การส่งตัวอย่างไปยังไมโครซอฟท์[ใน Submissions Explorer](https://protection.office.com/reportsubmission) เพื่อให้ง่ายขึ้น คุณสามารถอนุญาตให้ผู้ใช้ของคุณรายงานไปยัง Microsoft ได้โดยตรงผ่าน[Add-in รายงานข้อความ](https://appsource.microsoft.com/product/office/WA104381180?src=office&tab=Overview)
+อาจสร้างความยุ่งยากเมื่ออีเมลที่ถูกต้องตามกฎหมายไปอยู่ในโฟลเดอร์ อีเมลขยะ หรือในการกักกัน พิจารณาเหตุผลทั่วไปเหล่านี้เกี่ยวกับผลลัพธ์ที่ผิด:
 
-เราขอแนะMicrosoft 365[ควรถ้าคุณตัดสินใจที่จะMicrosoft 365ตัวกรอง](https://docs.microsoft.com/exchange/troubleshoot/antispam/cautions-against-bypassing-spam-filters)สแปม
+**การแทนที่ผู้เช่า (ใช้กันทั่วไป)** นี่อยู่ในการควบคุมของคุณอย่างเต็มที่เพื่อแก้ไข
 
-**คุณทราบหรือไม่**: ขณะนี้คุณสามารถส่งตัวอย่างได้โดยตรงจากการติดตาม [ข้อความ](https://protection.office.com/messagetrace)และ E5/Microsoft Defender Office 365 Plan 2 สามารถส่งตัวอย่างได้จาก [Threat Explorer](https://docs.microsoft.com/microsoft-365/security/office-365-security/threat-explorer)
+ส่งข้อความบน Microsoft 365 Defenderเพื่อวิเคราะห์นโยบายและกฎที่ส่งผล สามารถดูรายละเอียดอีกครั้งได้ภายในไม่กี่นาที
+ตรวจทานหรือปรับเปลี่ยนนโยบายหรือกฎที่เกี่ยวข้อง 
+
+**การแทนที่โดยผู้ใช้ (ทั่วไป)** นี่อยู่ในการควบคุมของคุณอย่างเต็มที่เพื่อแก้ไข 
+
+ส่งข้อความบน Microsoft 365 Defenderเพื่อวิเคราะห์นโยบายและกฎที่ส่งผล สามารถดูรายละเอียดอีกครั้งได้ภายในไม่กี่นาที 
+
+ถ้าข้อความถูกบล็อกเนื่องจากข้อความถูกส่งจากที่อยู่ในรายชื่อผู้ส่งที่ถูกบล็อกของผู้ใช้ ส่วนหัวจะมีตัวกรองสแปมที่ชื่อ "SFV:BLK"
+
+**การรับรองความถูกต้องอีเมลของผู้ส่ง** ส่วนนี้จะอยู่ภายในการควบคุมของคุณบางส่วนเพื่อแก้ไข
+
+ส่งข้อความเพื่อวิเคราะห์ความล้มเหลวในการรับรองความถูกต้องอีเมลของผู้ส่งในเวลาที่จัดส่ง ผลลัพธ์จะพร้อมใช้งานภายในหนึ่งวัน 
+
+ถ้าคุณเป็นเจ้าของโครงสร้างพื้นฐานของการส่ง ให้ตรวจสอบวิธีการจัดแนวโครงสร้างพื้นฐานของการส่งด้วย SPF, DKIM และ DMARC เพื่อให้แน่ใจว่าระบบอีเมลปลายทางเชื่อถือข้อความที่ส่งจากโดเมนของคุณ หรือติดต่อผู้ส่งเพื่อจัดการการกําหนดค่า DNS ของพวกเขา
+
+**Microsoft filtering verdicts** ส่วนนี้จะอยู่ภายในการควบคุมของคุณบางส่วนเพื่อแก้ไข
+
+ส่งข้อความและรายงานข้อความว่าปลอดภัย rescan results are available within a day. ใช้รายการ อนุญาต/บล็อกของผู้เช่า เมื่อคุณไม่เห็นด้วยกับการกรองข้อขัดแย้งในบางสถานการณ์ อย่างไรก็ตาม คุณไม่ควรข้ามผลการกรองของ Microsoft อย่างถาวร 
+
+สำหรับข้อมูลเพิ่มเติม ให้ดู:
+
+- เปิดใช้งานผู้ใช้ของคุณเพื่อส่งข้อความไปยัง Microsoft ไมโครซอฟท์ใช้การส่งเหล่านี้เพื่อปรับปรุงประสิทธิภาพของเทคโนโลยีการป้องกันอีเมล และปรากฎในรายงานการส่งให้คุณใช้เป็นข้อบ่งชี้ในการอัปเดตนโยบาย 
+
+- เมื่อต้องการดูวิดีโอสั้นๆ เกี่ยวกับการส่งข้อความเพื่อวิเคราะห์ [ให้ดูที่ การส่งข้อความเพื่อ](https://go.microsoft.com/fwlink/?linkid=2166435)การวิเคราะห์
+
+- [ใช้การส่งของผู้ดูแลระบบเพื่อส่งสแปม Phish URL และไฟล์ที่น่าสงสัยไปยัง Microsoft](https://docs.microsoft.com/microsoft-365/security/office-365-security/admin-submission)
+
+- [จัดการรายการ อนุญาต/บล็อกผู้เช่า](https://docs.microsoft.com/microsoft-365/security/office-365-security/tenant-allow-block-list)
+
+- [ส่วนหัวของข้อความป้องกันสแปมในMicrosoft 365](https://docs.microsoft.com/microsoft-365/security/office-365-security/anti-spam-message-headers)
+
+- [การป้องกันสแปมขาออกใน EOP](https://docs.microsoft.com/microsoft-365/security/office-365-security/outbound-spam-controls)

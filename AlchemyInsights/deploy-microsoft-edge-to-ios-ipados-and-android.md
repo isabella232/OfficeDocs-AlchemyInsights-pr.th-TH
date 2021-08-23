@@ -13,16 +13,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "8241"
 - "9004604"
-ms.openlocfilehash: 62fe3cfd2979f43e836f7073eef9df507fd8115e
-ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
+- "13637"
+- "9008577"
+ms.openlocfilehash: 33a878f104fc0af7be59c59e0b860be173916bd2
+ms.sourcegitcommit: 2be4a0352cb84a703ebf12966e1c17b64df07364
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58316893"
+ms.lasthandoff: 08/16/2021
+ms.locfileid: "58361977"
 ---
 # <a name="deploy-microsoft-edge-to-ios-ipados-and-android"></a>ปรับใช้Microsoft Edgeกับ iOS, iPadOS และ Android
 
-สถานการณ์สมมติแบบแนะMicrosoft Edgeที่สรุปอยู่Microsoft Edgeกําหนดให้กับผู้ใช้อุปกรณ์ iOS, iPadOS และ Android
+สถานการณ์สมมติแบบแนะMicrosoft Edgeที่สรุปอยู่ด้านล่างจะช่วยให้คุณกําหนดสิทธิ์ให้กับผู้ใช้อุปกรณ์ iOS, iPadOS และ Android
 
 **หมายเหตุ**: ถ้าคุณบล็อกผู้ใช้จากการลงทะเบียนอุปกรณ์เคลื่อนที่ สถานการณ์สมมติแบบแนะMicrosoft Edgeนี้จะไม่ใช้งาน และผู้ใช้จะต้องMicrosoft Edgeด้วยตนเอง
 
@@ -40,4 +42,4 @@ ms.locfileid: "58316893"
 - ข้อมูลเฉพาะตัวคู่
 - การรวมกับMicrosoft Intuneนโยบายการป้องกันแอป
 - การรวมกับAzure Active Directoryพร็อกซีแอปพลิเคชัน
-- ทางลัดของรายการโปรดและโฮมเพจที่มีการจัดการ
+- ทางลัดของรายการโปรดและโฮมเพจที่มีการจัดการแล้ว
