@@ -3,7 +3,6 @@ title: ซื้อสิทธิ์การใช้งานเพิ่ม�
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.date: ''
 ms.reviewer: shegu, nicholak
 ms.audience: Admin
 ms.topic: article
@@ -15,12 +14,13 @@ ms.custom:
 - commerce_licensing
 - "530"
 - "1400007"
-ms.openlocfilehash: e7d9616a1e3ff499cf7859699e837893927fcded
-ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
+ms.date: 08/27/2021
+ms.openlocfilehash: 6a00dd03114e7b393a8bbe45da10773ccbb77bc9
+ms.sourcegitcommit: 44081ba551e0424c7b78ba2304c5705b38567f3d
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58313753"
+ms.lasthandoff: 08/27/2021
+ms.locfileid: "58679246"
 ---
 # <a name="buy-additional-licenses"></a>ซื้อสิทธิ์การใช้งานเพิ่มเติม
 
