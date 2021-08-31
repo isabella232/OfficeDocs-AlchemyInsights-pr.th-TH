@@ -1,5 +1,5 @@
 ---
-title: ปัญหาในการลงชื่อเข้าใช้Microsoft 365แอป
+title: ปัญหาในการลงชื่อเข้าใช้Microsoft 365แอปของคุณ
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,23 +12,25 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000571"
 - "2574"
-ms.openlocfilehash: 1954ceef7454a4bb047d366cc55793dc78a969e375e9eea88d2d0dbe7f4997ef
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: f8f2824cc4a575ab7d7c9adec5b75e5955ec9fb5
+ms.sourcegitcommit: b6dd6ae628a02ea6b997a993c49de083465bc2ac
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54088019"
+ms.lasthandoff: 08/30/2021
+ms.locfileid: "58744665"
 ---
 # <a name="issues-signing-into-microsoft-365-apps"></a>ปัญหาในการลงชื่อเข้าใช้Microsoft 365 Apps
 
+หมายเหตุ: ถ้าคุณใช้งาน Windows เวอร์ชันที่เก่ากว่า (เช่น Windows 7 SP1, Windows Server 2008 R2) ให้ใช้การแก้ไขง่ายๆ เพื่อ[](https://download.microsoft.com/download/0/6/5/0658B1A7-6D2E-474F-BC2C-D69E5B9E9A68/MicrosoftEasyFix51044.msi)เปิดใช้งาน TLS 1.2 เป็นค่าเริ่มต้น For more information, see [Update to enable TLS 1.1 and TLS 1.2 as default secure protocols in WinHTTP in Windows](https://support.microsoft.com/topic/update-to-enable-tls-1-1-and-tls-1-2-as-default-secure-protocols-in-winhttp-in-windows-c4bd73d2-31d7-761e-0178-11268bb10392).
+
 เมื่อต้องการแก้ไขปัญหาการลงชื่อเข้าใช้Microsoft 365แอปของคุณ ให้ลองตัวเลือกต่อไปนี้บนเครื่องที่ได้รับผลกระทบ:  
 
-- ดูข้อมูลWindowsโปรดดู[รายการแนะนําแก้ไขปัญหาทั่วไปในการลงชื่อเข้าใช้](https://docs.microsoft.com/office365/troubleshoot/administration/disabling-adal-wam-not-recommended#recommendations-on-resolving-common-sign-in-issues)
+- ดูข้อมูลWindowsโปรดดู[รายการแนะนำแก้ไขปัญหาทั่วไปในการลงชื่อเข้าใช้](https://docs.microsoft.com/office365/troubleshoot/administration/disabling-adal-wam-not-recommended#recommendations-on-resolving-common-sign-in-issues)
 - For Mac, [see Can't sign in to an Office 2016 for Mac app](https://docs.microsoft.com/office365/troubleshoot/authentication/sign-in-to-office-2016-for-mac-fail)
 
-**เคล็ดลับ** บนคอมพิวเตอร์Windows เราจะสามารถวินิจฉัยและแก้ไขปัญหาการOfficeลงชื่อเข้าใช้ทั่วไปต่างๆ ให้คุณโดยอัตโนมัติ ดาวน์โหลดและเรียกใช้ **[Microsoft ตัวช่วยการสนับสนุนและการกู้คืน](https://aka.ms/SaRA-OfficeSignInScenario)** เพื่อใช้เครื่องมืออัตโนมัติของเรา
+**เคล็ดลับ** บนเครื่องWindows อัตโนมัติ เราสามารถวินิจฉัยและแก้ไขปัญหาการOfficeลงชื่อเข้าใช้ทั่วไปหลายอย่างให้คุณโดยอัตโนมัติ ดาวน์โหลดและเรียกใช้ **[Microsoft ตัวช่วยการสนับสนุนและการกู้คืน](https://aka.ms/SaRA-OfficeSignInScenario)** เพื่อใช้เครื่องมืออัตโนมัติของเรา
 
-**หมายเหตุ:** ไม่แนะให้ปิดใช้งานการรับรองความถูกต้องสมัยใหม่ (ADAL) หรือการจัดการบัญชีเว็บ (WAM) เพื่อแก้ไขปัญหาการลงชื่อเข้าใช้  **หรือ** การเปิดใช้งาน ถ้าข้อผิดพลาดเกิดขึ้นขณะเชื่อมต่อกับMicrosoft 365 Office 2013 ตรวจสอบให้แน่ใจว่าคุณเปิดใช้งานการรับรองความถูก[ต้องแบบใหม่](https://docs.microsoft.com/microsoft-365/admin/security-and-compliance/enable-modern-authentication)Officeไคลเอ็นต์ของคุณ
+**หมายเหตุ:** ไม่แนะให้ปิดใช้งานการรับรองความถูกต้องสมัยใหม่ (ADAL) หรือการจัดการบัญชีเว็บ (WAM) เพื่อแก้ไขปัญหาการลงชื่อเข้าใช้  **หรือ** การเปิดใช้งาน ถ้าข้อผิดพลาดเกิดขึ้นขณะเชื่อมต่อกับMicrosoft 365 Office 2013 ตรวจสอบให้แน่ใจว่าคุณเปิดใช้งานการรับรองความถูก[ต้องแบบ](https://docs.microsoft.com/microsoft-365/admin/security-and-compliance/enable-modern-authentication)ใหม่Officeไคลเอ็นต์ของคุณ
 
 ดูวิธีการแก้ไขปัญหาเฉพาะที่:
 
