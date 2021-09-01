@@ -1,9 +1,8 @@
 ---
-title: วิธีการซื้อMicrosoft 365
+title: วิธีการซื้อMicrosoft 365บ้าน
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.date: ''
 ms.reviewer: drjones, jmueller
 ms.audience: Admin
 ms.topic: article
@@ -15,14 +14,15 @@ ms.custom:
 - commerce_purchase
 - "531"
 - "1400007"
-ms.openlocfilehash: 3eb518dbdd71985fe06044925dd52bfbca98defc
-ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
+ms.date: 08/10/2021
+ms.openlocfilehash: 61070576e6961a40f275dbb76493d8dc93192bb7
+ms.sourcegitcommit: e781da003fb7b878854846cbe12b13b9dca8df92
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58318581"
+ms.lasthandoff: 08/31/2021
+ms.locfileid: "58842425"
 ---
-# <a name="how-to-make-a-microsoft-365-purchase"></a>วิธีการซื้อMicrosoft 365
+# <a name="how-to-make-a-microsoft-365-purchase"></a>วิธีการซื้อMicrosoft 365บ้าน
 
 คุณสามารถซื้อการสมัครใช้งาน Microsoft 365 ในศูนย์การจัดการได้
   
@@ -34,7 +34,7 @@ ms.locfileid: "58318581"
 
 **การแก้ไขปัญหา**
 
-หากคุณประสบปัญหาในการโหลดหน้า ให้ลองเปิดเว็บเพจในเบราว์เซอร์อื่น หรือลองเปิดหน้าต่างเบราว์เซอร์ส่วนตัวของหน้า เช่น หน้าต่าง InPrivate ในหน้าต่าง Microsoft Edge หรือหน้าต่างไม่ระบุตัวตนใน Google Chrome
+หากคุณประสบปัญหาในการโหลดหน้า ให้ลองเปิดเว็บเพจในเบราว์เซอร์อื่น หรือลองเปิดหน้าหน้าต่างเบราว์เซอร์ส่วนตัว เช่น หน้าต่าง InPrivate ในหน้าต่าง Microsoft Edge หรือหน้าต่างไม่ระบุตัวตนใน Google Chrome
 
 **แหล่งข้อมูลเพิ่มเติม**
   

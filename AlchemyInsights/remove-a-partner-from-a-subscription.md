@@ -14,12 +14,13 @@ ms.custom:
 - commerce_subscriptions
 - "9001683"
 - "5064"
-ms.openlocfilehash: 676b4d0bfcb8575f026c03dcc4dcfd03b74bfd05
-ms.sourcegitcommit: 1b4ecaba74cfcff155528dc9e1002011afe0f110
+ms.date: 04/14/2021
+ms.openlocfilehash: 444911e00ed47cf095dd707a20c1f26e6e240859
+ms.sourcegitcommit: e781da003fb7b878854846cbe12b13b9dca8df92
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 08/21/2021
-ms.locfileid: "58450789"
+ms.lasthandoff: 08/31/2021
+ms.locfileid: "58845697"
 ---
 # <a name="remove-a-partner-from-a-subscription"></a>เอาคู่ค้าออกจากการสมัครใช้งาน
 
@@ -27,7 +28,7 @@ ms.locfileid: "58450789"
 
 **ลบคู่ค้าออกจากการสมัครใช้งาน**
 
-1. ในศูนย์การจัดการ ไปที่ การเรียกเก็บเงิน **>[บริการ&ของคุณ](https://go.microsoft.com/fwlink/p/?linkid=842054)**
+1. ในศูนย์การจัดการ ไปที่ การเรียกเก็บเงิน **> [ผลิตภัณฑ์&บริการ](https://go.microsoft.com/fwlink/p/?linkid=842054)** ของคุณ
 2. ถ้าคุณมีการสมัครใช้งานหลายรายการ ให้เลือกชื่อของการสมัครใช้งานที่คุณต้องการแก้ไข
 3. ภายใต้ **ID คู่ค้า** ให้คลิก **แก้ไขคู่ค้าของ** ระเบียน
 4. บนหน้า **ข้อมูล** คู่ค้า ให้ล้าง **กล่อง ID** คู่ค้า **แล้วคลิก** ส่ง

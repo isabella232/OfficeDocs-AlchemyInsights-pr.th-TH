@@ -4,7 +4,6 @@ ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
 ms.reviewer: jkinma, jmueller
-ms.date: ''
 audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -15,12 +14,13 @@ ms.custom:
 - commerce_subscriptions
 - "53"
 - "1400001"
-ms.openlocfilehash: 03ee652d21cb87d9534f2d5d4b1918d815788c22
-ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
+ms.date: 08/10/2021
+ms.openlocfilehash: 597c3a8f1d64f5ecdf60fe4d911b44863e5f2ccc
+ms.sourcegitcommit: e781da003fb7b878854846cbe12b13b9dca8df92
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58330227"
+ms.lasthandoff: 08/31/2021
+ms.locfileid: "58842353"
 ---
 # <a name="canceling-your-microsoft-365-subscription"></a>ยกเลิกการสมัครใช้งาน Microsoft 365 ใช่หรือไม่
 
@@ -33,4 +33,4 @@ ms.locfileid: "58330227"
 
 เมื่อต้องการเรียนรู้เพิ่มเติมเกี่ยวกับการยกเลิกการสมัครใช้งาน หรือตัวเลือก ให้ดู [ยกเลิกการสมัครใช้งาน](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription)ของคุณ
 
-ถ้าคุณต้องการใช้การสมัครใช้งานของคุณต่อไปในช่วงเวลาทดลองใช้ คุณสามารถปิดการเรียกเก็บเงินตามระยะเวลาที่การสมัครใช้งานได้ เมื่อต้องการเรียนรู้วิธีการ ให้ดู[ต่ออายุMicrosoft 365 for](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/renew-your-subscription)business
+ถ้าคุณต้องการใช้การสมัครใช้งานของคุณต่อไปในช่วงเวลาทดลองใช้ คุณสามารถปิดการเรียกเก็บเงินตามระยะเวลาที่การสมัครใช้งานได้ เมื่อต้องการเรียนรู้วิธีการ ให้ดู[ต่ออายุMicrosoft 365ธุรกิจ](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/renew-your-subscription)

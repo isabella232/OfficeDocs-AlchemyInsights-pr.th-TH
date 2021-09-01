@@ -3,7 +3,6 @@ title: เปลี่ยนแปลงข้อมูลการเรีย�
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.date: ''
 ms.reviewer: jkinma, jmueller
 ms.audience: Admin
 ms.topic: article
@@ -15,12 +14,13 @@ ms.custom:
 - commerce_billing
 - "9002555"
 - "4942"
-ms.openlocfilehash: 4f17eaec292b24344aa31bd12dcccc1a0ac7cf4a7d693f912ccfc03ac316db47
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.date: 08/10/2021
+ms.openlocfilehash: fda2ca4725d5941c7dd5cbe8ba347ec075578ba2
+ms.sourcegitcommit: e781da003fb7b878854846cbe12b13b9dca8df92
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57896838"
+ms.lasthandoff: 08/31/2021
+ms.locfileid: "58845953"
 ---
 # <a name="change-billing-information"></a>เปลี่ยนแปลงข้อมูลการเรียกเก็บเงิน
 
