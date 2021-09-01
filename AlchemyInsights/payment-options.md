@@ -3,7 +3,6 @@ title: ตัวเลือกการการ Payment
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.date: ''
 ms.reviewer: jkinma, jmueller
 ms.audience: ITPro
 ms.topic: article
@@ -14,22 +13,23 @@ ms.custom:
 - commerce_billing
 - "1639"
 - "9000134"
-ms.openlocfilehash: ee601c667a0d2aefb8ced7444fd5e2319924dc13
-ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
+ms.date: 08/10/2021
+ms.openlocfilehash: 5ba7e3ea21fa85e8674782d43e802a137126fc4a
+ms.sourcegitcommit: e781da003fb7b878854846cbe12b13b9dca8df92
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58324417"
+ms.lasthandoff: 08/31/2021
+ms.locfileid: "58844729"
 ---
 # <a name="payment-options-for-microsoft-365-for-business-subscriptions"></a>ตัวเลือกการการMicrosoft 365เงินของการสมัครใช้งานทางธุรกิจ
   
-บัตรเครดิต บัตรเดบิต บัญชีธนาคาร (บริการหักบัญชีเงินฝากอัตโนมัติ) และใบแจ้งหนี้ (การหักเงินด้วยเช็คหรือการโอนเงินผ่านระบบอิเล็กทรอนิกส์ (EFT)) คือตัวเลือกการMicrosoft 365ทั้งหมดที่เกี่ยวกับการสมัครใช้งานทางธุรกิจ
+บัตรเครดิต บัตรเดบิต บัญชีธนาคาร (บริการหักบัญชีเงินฝากอัตโนมัติ) และใบแจ้งหนี้ (การหักเงินผ่านเช็คหรือการโอนเงินผ่านระบบอิเล็กทรอนิกส์ (EFT)) คือตัวเลือกการMicrosoft 365ทั้งหมดที่ทํากับการสมัครใช้งานทางธุรกิจ
   
 **จ่ายด้วยบัตรเครดิตหรือบัตรเดบิตหรือบัญชีธนาคาร**
   
 คุณสามารถจ่ายค่าสมัครใช้งานของคุณด้วยบัตรเครดิตหรือบัตรเดบิต หรือบัญชีธนาคาร เมื่อคุณจ่ายค่าบริการด้วยหนึ่งในวิธีการเงินเหล่านี้ เราจะเรียกเก็บเงินตามวิธีการเงินดังกล่าวต่อไปจนกว่าการสมัครใช้งานจะหมดอายุ หรือถูกยกเลิก คุณสามารถ [จัดการวิธีการจ่ายเงิน](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods) ได้ทุกเมื่อที่ต้องการ คุณยังสามารถเลือกรับส[ําเนาของใบแจ้งยอดเงินในอีเมล](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/view-your-bill-or-invoice#receive-a-copy-of-your-billing-statement-in-email)
 
-ถ้าบัตรเครดิตของคุณถูกปฏิเสธหรือเลยกําหนดเวลาครบกําหนด และคุณได้เพิ่มวิธีการการช้เงินที่มียอดเลยกําหนดคุณสามารถใช้ **ยอดคงเหลือ** ที่เลยกําหนดเพื่อจ่ายเงิน วิธีการเงินที่คุณใช้ในการจ่ายยอดที่พ้นกําหนดจะกลายเป็นวิธีการช้เงินใหม่ของการสมัครใช้งานทั้งหมดที่ใช้วิธีการจ่ายเงินที่ถูกปฏิเสธ หากต้องการข้อมูลเพิ่มเติม ให้ดู [จะเกิดอะไรขึ้นถ้าฉันมียอดคงค้าง](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/pay-for-your-subscription#what-if-i-have-an-outstanding-balance)
+ถ้าบัตรเครดิตของคุณถูกปฏิเสธหรือเลยกําหนดเวลาครบกําหนด และคุณได้เพิ่มวิธีการการช้เงินที่มียอดเลยกําหนดคุณสามารถใช้ **ยอดคงเหลือ** ที่เลยกําหนดเพื่อจ่ายเงิน วิธีการจ่ายเงินที่คุณใช้ในการจ่ายยอดที่พ้นกําหนดจะกลายเป็นวิธีการช้เงินใหม่ของการสมัครใช้งานทั้งหมดที่ใช้วิธีการจ่ายเงินที่ถูกปฏิเสธ หากต้องการข้อมูลเพิ่มเติม ให้ดู [จะเกิดอะไรขึ้นถ้าฉันมียอดคงค้าง](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/pay-for-your-subscription#what-if-i-have-an-outstanding-balance)
 
 **จ่ายตามใบแจ้งหนี้ (เช็คหรือโอนเงินผ่านระบบอิเล็กทรอนิกส์)**
   
@@ -39,4 +39,4 @@ ms.locfileid: "58324417"
   
 **ข้อมูลเพิ่มเติม**
   
-[วิธีการซื้อการสมัครใช้งาน Microsoft 365 business](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/pay-for-your-subscription)
+[วิธีการซื้อการสมัครใช้งาน Microsoft 365 for Business](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/pay-for-your-subscription)

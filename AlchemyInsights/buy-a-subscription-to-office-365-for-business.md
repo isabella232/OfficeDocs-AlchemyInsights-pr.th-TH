@@ -3,7 +3,6 @@ title: ซื้อการสมัครใช้งานเพื่อMicr
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.date: ''
 ms.reviewer: drjones, jmueller
 ms.audience: Admin
 ms.topic: article
@@ -15,22 +14,23 @@ ms.custom:
 - commerce_purchase
 - "257"
 - "1400007"
+ms.date: 08/10/2021
 ms.assetid: ed072510-d4b6-44ad-b24a-f99b9892eaa8
-ms.openlocfilehash: ca5e927ad200d6cbf47e2ff58a9c74b17fe70532
-ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
+ms.openlocfilehash: 1ea808a1d98ade11fc65ef9cafed8d71a79ed347
+ms.sourcegitcommit: e781da003fb7b878854846cbe12b13b9dca8df92
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58325786"
+ms.lasthandoff: 08/31/2021
+ms.locfileid: "58845089"
 ---
 # <a name="buy-a-subscription-to-microsoft-365-from-your-free-trial"></a>ซื้อการสมัครใช้งานเพื่อMicrosoft 365จากเวอร์ชันทดลองใช้ฟรีของคุณ
 
-คุณได้ลองMicrosoft 365ของคุณแล้ว และตอนนี้คุณก็พร้อมที่จะซื้อ คุณมีสองตัวเลือกเมื่อซื้อMicrosoft 365เวอร์ชันทดลองใช้ของคุณ:
+คุณได้ลองMicrosoft 365ผลิตภัณฑ์ของคุณแล้ว และตอนนี้คุณก็พร้อมที่จะซื้อ คุณมีสองตัวเลือกเมื่อซื้อMicrosoft 365เวอร์ชันทดลองใช้ของคุณ:
   
  **ซื้อแผนเดียวกับเวอร์ชันทดลองใช้**
   
 1. ในศูนย์การจัดการ ให้ไปที่หน้า \> [การเรียกเก็บเงินผลิตภัณฑ์](https://go.microsoft.com/fwlink/p/?linkid=842054)ของคุณ
-2. **บนแท็บ** ผลิตภัณฑ์ ให้เลือกการสมัครใช้งานที่คุณต้องการซื้อ
+2. **บนแท็บ** ผลิตภัณฑ์ ให้เลือกการสมัครใช้งานที่คุณสามารถซื้อ
 3. บนหน้ารายละเอียดการสมัครใช้งาน ในส่วน สิทธิ์การใช้งาน ให้เลือก **ซื้อ** การสมัครใช้งานแบบ **ชําระเงิน** ทันที แล้วทําตามขั้นตอนเพื่อตรวจสอบ
  
 **ซื้อการสมัครใช้งานอื่น**
@@ -42,4 +42,4 @@ ms.locfileid: "58325786"
 
 **การแก้ไขปัญหา**
 
-หากคุณประสบปัญหาในการโหลดหน้า ให้ลองเปิดเว็บเพจในเบราว์เซอร์อื่น หรือลองเปิดหน้าต่างเบราว์เซอร์ส่วนตัวของหน้า เช่น หน้าต่าง InPrivate ในหน้าต่าง Microsoft Edge หรือหน้าต่างไม่ระบุตัวตนใน Google Chrome
+หากคุณประสบปัญหาในการโหลดหน้า ให้ลองเปิดเว็บเพจในเบราว์เซอร์อื่น หรือลองเปิดหน้าหน้าต่างเบราว์เซอร์ส่วนตัว เช่น หน้าต่าง InPrivate ในหน้าต่าง Microsoft Edge หรือหน้าต่างไม่ระบุตัวตนใน Google Chrome

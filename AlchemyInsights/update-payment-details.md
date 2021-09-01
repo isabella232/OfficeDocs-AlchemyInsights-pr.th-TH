@@ -3,7 +3,6 @@ title: อัปเดตข้อมูลบัตรเครดิต
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.date: ''
 ms.reviewer: jamitche, jmueller
 ms.audience: Admin
 ms.topic: article
@@ -15,16 +14,17 @@ ms.custom:
 - commerce_billing
 - "428"
 - "1500016"
-ms.openlocfilehash: 3942acf1cc4f62ad4368bbccc9c616deba17601c
-ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
+ms.date: 08/11/2021
+ms.openlocfilehash: 69cb08380caf1227ce218d9eb26d7a485609ff01
+ms.sourcegitcommit: e781da003fb7b878854846cbe12b13b9dca8df92
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58330687"
+ms.lasthandoff: 08/31/2021
+ms.locfileid: "58844297"
 ---
 # <a name="update-credit-card-information"></a>อัปเดตข้อมูลบัตรเครดิต
 
-1. ในศูนย์การจัดการ Microsoft 365 ไปที่หน้า **วิธีการ** \> [การเรียกเก็บเงิน](https://go.microsoft.com/fwlink/p/?linkid=2018806)
+1. ในศูนย์การจัดการ Microsoft 365ไปที่หน้า **วิธีการ** \> [การเรียกเก็บเงิน](https://go.microsoft.com/fwlink/p/?linkid=2018806)
 
     **หมายเหตุ**: หากคุณพบการวนรอบที่ส่งคุณกลับไปยังโฮมเพจของผู้ดูแลระบบก่อนที่การอัปเดตจะเสร็จสมบูรณ์ ให้ลองโหมด InPrivate หรือ Incognito
   
@@ -40,6 +40,6 @@ ms.locfileid: "58330687"
 
 **การแก้ไขปัญหา**
 
-หากคุณประสบปัญหาในการโหลดหน้า ให้ลองเปิดเว็บเพจในเบราว์เซอร์อื่น หรือลองเปิดหน้าต่างเบราว์เซอร์ส่วนตัวของหน้า เช่น หน้าต่าง InPrivate ในหน้าต่าง Microsoft Edge หรือหน้าต่างไม่ระบุตัวตนใน Google Chrome 
+หากคุณประสบปัญหาในการโหลดหน้า ให้ลองเปิดเว็บเพจในเบราว์เซอร์อื่น หรือลองเปิดหน้าหน้าต่างเบราว์เซอร์ส่วนตัว เช่น หน้าต่าง InPrivate ในหน้าต่าง Microsoft Edge หรือหน้าต่างไม่ระบุตัวตนใน Google Chrome 
 
 ดูข้อมูลเพิ่มเติมที่[จัดการวิธีการเงิน](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods)

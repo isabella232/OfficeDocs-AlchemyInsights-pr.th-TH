@@ -1,9 +1,8 @@
 ---
-title: Microsoft 365ราคาและแผน Nonprofit
+title: Microsoft 365แผนและราคา Nonprofit
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.date: 04/21/2020
 ms.reviewer: drjones, jmueller
 ms.audience: Admin
 ms.topic: article
@@ -15,17 +14,18 @@ ms.custom:
 - commerce_purchase
 - "478"
 - "1500026"
+ms.date: 04/21/2020
 ms.assetid: e6ec87f5-98d4-444d-b1e7-dc36cd60f064
-ms.openlocfilehash: 91911353be373c305d1d042883618cb1b78aa27f196eb35a21d031113b61c4fb
-ms.sourcegitcommit: d71b18e1403859fbfc45ddd9a57c8ab68f4d9f96
+ms.openlocfilehash: 6b155a9345ed53137e953bdffff7bba7dfb0a96e
+ms.sourcegitcommit: e781da003fb7b878854846cbe12b13b9dca8df92
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54502555"
+ms.lasthandoff: 08/31/2021
+ms.locfileid: "58844369"
 ---
-# <a name="microsoft-365-for-nonprofit-plans-and-pricing"></a>Microsoft 365ราคาและแผน Nonprofit
+# <a name="microsoft-365-for-nonprofit-plans-and-pricing"></a>Microsoft 365แผนและราคา Nonprofit
 
-องค์กรไม่แสวงหาผลMicrosoft 365ที่มีคุณสมบัติเหมาะสมสามารถรับการบริจาคหรืออัปเกรดเป็นฟีเจอร์ขั้นสูงในส่วนลดที่สําคัญ เพื่อให้มีคุณสมบัติเหมาะสมMicrosoft 365องค์กรไม่แสวงหาการกุศล คุณต้องมีสถานะด้าน[การกุศล](https://go.microsoft.com/fwlink/p/?LinkID=330253)ที่เป็นที่ยอมรับในประเทศของคุณ และเซ็นชื่อในนโยบายไม่เลือกปฏิบัติของ Microsoft ไมโครซอฟท์ขอสงวนสิทธิ์ในการตรวจสอบสิทธิ์เมื่อใดก็ได้ และระงับบริการให้กับองค์กรที่ไม่มีสิทธิ์
+องค์กรไม่แสวงหาผลMicrosoft 365ที่มีคุณสมบัติเหมาะสมสามารถรับการบริจาคหรืออัปเกรดเป็นฟีเจอร์ขั้นสูงในส่วนลดที่สําคัญ เพื่อให้มีคุณสมบัติเหมาะสมMicrosoft 365องค์กรไม่แสวงหาการกุศล[คุณต้องมีสถานะ](https://go.microsoft.com/fwlink/p/?LinkID=330253)ด้านการกุศลที่เป็นที่ยอมรับในประเทศของคุณ และเซ็นชื่อในนโยบายไม่เลือกปฏิบัติของ Microsoft ไมโครซอฟท์ขอสงวนสิทธิ์ในการตรวจสอบสิทธิ์เมื่อใดก็ได้ และระงับบริการให้กับองค์กรที่ไม่มีสิทธิ์
   
 ดูข้อมูลเพิ่มเติมที่ ถาม[บ่อย](https://products.office.com/nonprofit/office-365-nonprofit)
   

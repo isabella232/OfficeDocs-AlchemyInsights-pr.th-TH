@@ -3,7 +3,6 @@ title: ซื้อ Microsoft Defender Office 365
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.date: ''
 ms.reviewer: drjones, jmueller
 ms.audience: Admin
 ms.topic: article
@@ -15,19 +14,20 @@ ms.custom:
 - commerce_purchase
 - "9003019"
 - "5758"
-ms.openlocfilehash: 20d241947c356b3d2b9f050f88de8af1d370d799
-ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
+ms.date: 08/10/2021
+ms.openlocfilehash: 6c8670db2905471220c7030003c36f4b76f65cc0
+ms.sourcegitcommit: e781da003fb7b878854846cbe12b13b9dca8df92
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58323723"
+ms.lasthandoff: 08/31/2021
+ms.locfileid: "58844153"
 ---
 # <a name="purchase-microsoft-defender-for-office-365"></a>ซื้อ Microsoft Defender Office 365
 
-Microsoft Defender Office 365จะรวมอยู่ในการสมัครใช้งานบางอย่าง เช่น Microsoft 365 E5, Office 365 E5, Office 365 A5 และ Microsoft 365 Business Premium หากการสมัครใช้งานของคุณไม่มี Microsoft Defender for Office 365 คุณสามารถซื้อ Microsoft [Defender Office 365](https://docs.microsoft.com/microsoft-365/security/office-365-security/office-365-atp)เป็น Add-on ของการสมัครใช้งานบางรายการได้ เมื่อต้องการซื้อในศูนย์การจัดการ Microsoft 365:
+Microsoft Defender Office 365จะรวมอยู่ในการสมัครใช้งานบางรายการ เช่น Microsoft 365 E5, Office 365 E5, Office 365 A5 และ Microsoft 365 Business Premium หากการสมัครใช้งานของคุณไม่มี Microsoft Defender for Office 365 คุณสามารถซื้อ Microsoft [Defender](https://docs.microsoft.com/microsoft-365/security/office-365-security/office-365-atp) Office 365เป็น Add-on ของการสมัครใช้งานบางรายการได้ เมื่อต้องการซื้อในศูนย์การจัดการ Microsoft 365:
 
 1. ในศูนย์การจัดการ ให้ไปที่หน้า **บริการ**  >  [การซื้อ](https://go.microsoft.com/fwlink/p/?linkid=868433)การเรียกเก็บเงิน
-2. ที่ด้านล่างของหน้า ซื้อบริการ **ในส่วน** **Add-on ให้ค้นหา Add-on** ของ Microsoft Defender Office 365 Add-on **แล้วเลือก** รายละเอียด
+2. ที่ด้านล่างของหน้า ซื้อ **บริการ ในส่วน** **Add-on ให้ค้นหา Add-on** ของ Microsoft Defender Office 365 Add-on **แล้วเลือก** รายละเอียด
 3. บนหน้ารายละเอียดผลิตภัณฑ์ **ให้เลือก** ซื้อ
 4. หากต้องป้อนข้อมูลการสั่งซื้ออื่นๆ ให้ครบถ้วน ข้อมูลนี้อาจรวมถึงการเลือกการสมัครใช้งานที่มี Add-on และจํานวนผู้ใช้ที่จะใช้ เมื่อคุณเสร็จสิ้น เลือก **เช็คเอาท์** ทันที
 5. หากต้องตรวจสอบข้อมูลการสั่งซื้อและราคา **จากนั้นเลือก** ถัดไป
