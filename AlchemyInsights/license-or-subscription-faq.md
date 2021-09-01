@@ -3,7 +3,7 @@ title: สิทธิ์การใช้งานหรือการสม�
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.reviewer: ?, ?
+ms.reviewer: jkinma, jmueller
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -15,12 +15,13 @@ ms.custom:
 - "9002903"
 - "5582"
 - "5583"
-ms.openlocfilehash: 3624a8f4f7ca00d5a133e25361b33861aa05592c
-ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
+ms.date: 08/11/2021
+ms.openlocfilehash: c43b3d5b7e140fe91812b42b8622c826f9987f29
+ms.sourcegitcommit: e781da003fb7b878854846cbe12b13b9dca8df92
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58316469"
+ms.lasthandoff: 08/31/2021
+ms.locfileid: "58836736"
 ---
 # <a name="license-or-subscription-faq"></a>สิทธิ์การใช้งานหรือการสมัครใช้งานที่ถามบ่อย
 
@@ -34,4 +35,4 @@ ms.locfileid: "58316469"
 - [เปลี่ยนการเรียกเก็บเงินเป็นกิจวัต](https://go.microsoft.com/fwlink/p/?linkid=2119216)ร
 - [ยกเลิก](https://go.microsoft.com/fwlink/p/?linkid=2119113)การสมัครใช้งาน
 - [ปิด](https://docs.microsoft.com/alchemyinsights/how-to-close-your-account)บัญชีของคุณ
-- คุณสามารถซื้อการสมัครใช้งานเพิ่มเติมบนหน้า การเรียกเก็บเงิน **> [ซื้อ](https://go.microsoft.com/fwlink/p/?linkid=868433)** บริการ
+- คุณสามารถซื้อการสมัครใช้งานเพิ่มได้บนหน้า การเรียกเก็บเงิน **> [ซื้อ](https://go.microsoft.com/fwlink/p/?linkid=868433)** บริการ
