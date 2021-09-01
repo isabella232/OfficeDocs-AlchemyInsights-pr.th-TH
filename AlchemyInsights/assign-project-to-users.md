@@ -3,7 +3,6 @@ title: กําหนดProjectให้กับผู้ใช้
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.date: ''
 ms.reviewer: micurn, nicholak
 ms.audience: Admin
 ms.topic: article
@@ -15,18 +14,19 @@ ms.custom:
 - commerce_licensing
 - "9002424"
 - "5103"
-ms.openlocfilehash: 49f0b0fe500f496d56aea6ff74f682edc2cc3e8b
-ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
+ms.date: 08/10/2021
+ms.openlocfilehash: f8c0ee53cadb8559eab349cf78cd8caf86341557
+ms.sourcegitcommit: e781da003fb7b878854846cbe12b13b9dca8df92
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58329207"
+ms.lasthandoff: 08/31/2021
+ms.locfileid: "58842821"
 ---
 # <a name="assign-project-to-users"></a>กําหนดProjectให้กับผู้ใช้
 
 Projectมอบหมายให้กับผู้ใช้ใน **ศูนย์การจัดการ Microsoft 365ธุรกิจ**
 
-1. ไปที่ **การเรียกเก็บเงิน >[สิทธิ์การใช้งาน](https://go.microsoft.com/fwlink/p/?linkid=842264)**
+1. ไปที่ **การเรียกเก็บเงิน > [สิทธิ์การใช้งาน](https://go.microsoft.com/fwlink/p/?linkid=842264)** ของคุณ
 2. เลือกผลิตภัณฑ์ที่คุณต้องการกําหนดสิทธิ์การใช้งาน
 3. คลิก **กําหนด** สิทธิ์การใช้งาน
 4. ในบานหน้าต่าง **มอบหมายสิทธิ์การใช้งานให้กับ** ผู้ใช้ ให้เริ่มพิมพ์ชื่อของผู้ใช้ แล้วเลือกจากผลลัพธ์ คุณสามารถเพิ่มผู้ใช้ได้ถึง 20 รายในคราวเดียวกัน

@@ -15,18 +15,19 @@ ms.custom:
 - "1500005"
 - "4728"
 - "4727"
-ms.openlocfilehash: 41fef2ca1d65b46e49b602b5cd03e19a4ab708fc
-ms.sourcegitcommit: 1b4ecaba74cfcff155528dc9e1002011afe0f110
+ms.date: 04/14/2021
+ms.openlocfilehash: 3b3adfe422d35bab3cd623f0ab48c5a014e19aa6
+ms.sourcegitcommit: e781da003fb7b878854846cbe12b13b9dca8df92
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 08/21/2021
-ms.locfileid: "58451833"
+ms.lasthandoff: 08/31/2021
+ms.locfileid: "58843505"
 ---
 # <a name="understand-your-bill"></a>เข้าใจใบเรียกเก็บเงินของคุณ
 
 **ดูใบเรียกเก็บเงินของคุณ**
 
-1. ในหน้า ศูนย์การจัดการ Microsoft 365การเรียกเก็บเงิน หรือการเรียกเก็บเงิน > **&[การเรียกเก็บเงิน](https://go.microsoft.com/fwlink/p/?linkid=848039)**
+1. ในหน้า ศูนย์การจัดการ Microsoft 365การเรียกเก็บเงิน ไปที่ **หน้าการเรียกเก็บเงิน>[การเรียกเก็บเงิน&การเรียกเก็บเงิน](https://go.microsoft.com/fwlink/p/?linkid=848039)**
 
 2. เลือกช่วงวันที่จากรายการดรอปดาวน์ แล้วเลือกการสั่งซื้อที่คุณต้องการตรวจทานหรือคลิกลิงก์ ดาวน์โหลด **pdf** ใบแจ้งหนี้ เพื่อดูสําเนาของใบเรียกเก็บเงิน
 
