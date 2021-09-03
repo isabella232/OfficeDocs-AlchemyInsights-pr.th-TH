@@ -11,13 +11,15 @@ localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9002973"
+- "6700002"
 - "5687"
-ms.openlocfilehash: 57a7973d8d7a8daede01b86f8bf2261a5aa33328fa3fa4ac3b2e0a8967ee964b
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+- "5762"
+ms.openlocfilehash: f2a393b5fb820cfdbd04191cdd1fcda00e7c2b96
+ms.sourcegitcommit: 1761960d03b3df7783b744ee539a7e6dbabae90c
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54116279"
+ms.lasthandoff: 09/03/2021
+ms.locfileid: "58884036"
 ---
 # <a name="help-with-intune-enrollment"></a>ความช่วยเหลือเกี่ยวกับการลงทะเบียน Intun1
 
@@ -32,6 +34,6 @@ ms.locfileid: "54116279"
 
 **การแก้ไขปัญหาการลงทะเบียนอุปกรณ์**
 
-1. ใช้พอร์ทัลการแก้ไขปัญหา Intun1 เพื่อวินิจฉัยและแก้ไขความล้มเหลวในการลงทะเบียนทั่วไป ตรวจทาน [เอกสาร](https://docs.microsoft.com/intune/help-desk-operators) นี้เพื่อดูรายละเอียดเพิ่มเติม
+1. ใช้พอร์ทัลการแก้ไขปัญหา Intuns เพื่อวินิจฉัยและแก้ไขความล้มเหลวในการลงทะเบียนทั่วไป ตรวจทาน [เอกสาร](https://docs.microsoft.com/intune/help-desk-operators) นี้เพื่อดูรายละเอียดเพิ่มเติม
 
-2. ตรวจทานเอกสารเหล่านี้เพื่อดูรายการข้อผิดพลาดทั่วไปที่ป้องกันไม่ให้การลงทะเบียนและการแก้ไขปัญหาแต่ละรายการ:[คู่มือการแก้ไขปัญหา](https://support.microsoft.com/help/4469913/troubleshooting-windows-device-enrollment-problems-in-microsoft-intune)[และ การแก้ไขปัญหาเอกสาร](https://docs.microsoft.com/intune/troubleshoot-device-enrollment-in-intune)
+2. ตรวจทานเอกสารเหล่านี้เพื่อดูรายการข้อผิดพลาดทั่วไปที่ป้องกันไม่ให้การลงทะเบียนและการแก้ไขปัญหาแต่ละรายการ: คู่มือ[การแก้ไขปัญหา](https://support.microsoft.com/help/4469913/troubleshooting-windows-device-enrollment-problems-in-microsoft-intune)[และ การแก้ไขปัญหา](https://docs.microsoft.com/intune/troubleshoot-device-enrollment-in-intune)เอกสาร
