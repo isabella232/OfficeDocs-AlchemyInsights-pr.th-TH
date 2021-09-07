@@ -15,16 +15,16 @@ ms.custom:
 - "6700005"
 - "10064"
 - "9003771"
-ms.openlocfilehash: c13bc161b19a5fef1352beb28bdcc20110111a9a61a47433d82e1e69aff7f88d
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 4c8e03a817751ba7dc1710aed5a3e19c6e79db33
+ms.sourcegitcommit: ae556b6b26974392ca68a68426a2b40967ae0071
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53978180"
+ms.lasthandoff: 09/07/2021
+ms.locfileid: "58923573"
 ---
 # <a name="endpoint-manager---security-baselines"></a>ตัวจัดการ EndPoint - ข้อมูลพื้นฐานเกี่ยวกับความปลอดภัย
 
-ข้อมูลพื้นฐานด้านความปลอดภัยเป็นกลุ่มการตั้งค่าพื้นฐานที่กําหนดค่าWindowsซึ่งช่วยให้คุณใช้การตั้งค่าความปลอดภัยที่แนะน้าโดยทีมรักษาความปลอดภัยที่เกี่ยวข้อง ข้อมูลพื้นฐานเหล่านี้สามารถถูกปรับแต่งให้แสดงเฉพาะการตั้งค่าและค่าที่ต้องการ For more information about security baselines, see [Use security baselines to configure Windows 10 devices intuned](https://docs.microsoft.com/mem/intune/protect/security-baselines).
+ข้อมูลพื้นฐานด้านความปลอดภัยเป็นกลุ่มการตั้งค่าพื้นฐานที่กําหนดWindowsซึ่งช่วยให้คุณใช้การตั้งค่าความปลอดภัยที่แนะน้าโดยทีมรักษาความปลอดภัยที่เกี่ยวข้อง ข้อมูลพื้นฐานเหล่านี้สามารถถูกปรับแต่งให้แสดงเฉพาะการตั้งค่าและค่าที่ต้องการ For more information about security baselines, see [Use security baselines to configure Windows 10 devices intuned](https://docs.microsoft.com/mem/intune/protect/security-baselines).
 
 ขณะนี้มีข้อมูลพื้นฐานเกี่ยวกับผลิตภัณฑ์เหล่านี้:
 
@@ -37,6 +37,8 @@ ms.locfileid: "53978180"
 สําหรับการแนะนําเกี่ยวกับวิธีการเปลี่ยนเวอร์ชันแนวหลักที่มีประสิทธิภาพที่สุด ให้ดู[จัดการโปรไฟล์ข้อมูลพื้นฐานด้านความปลอดภัยใน](https://docs.microsoft.com/mem/intune/protect/security-baselines-configure)Microsoft Intune
 
 หลังจากการปรับใช้ข้อมูลพื้นฐานด้านความปลอดภัย คุณสามารถตรวจสอบสถานะของการปรับใช้และการตั้งค่าการตรวจสอบบนอุปกรณ์พื้นฐานได้
+
+เนื่องจากข้อมูลพื้นฐานด้านความปลอดภัยประกอบด้วยการตั้งค่ามากมาย คุณจึงควรตรวจทานการเปลี่ยนแปลงการกําหนดค่าและทดสอบเพื่อให้แน่ใจว่าการตั้งค่าทั้งหมดเหมาะสมกับอุปกรณ์และความต้องการทางธุรกิจของคุณ
 
 **หมายเหตุ:** ข้อมูลการรายงานของข้อมูลพื้นฐานอาจใช้เวลาถึง 24 ชั่วโมงจึงจะปรากฏจากการปรับใช้ครั้งแรกไปยังอุปกรณ์และสูงสุด 6 ชั่วโมงเพื่อการอัปเดตเพิ่มเติม 
 
