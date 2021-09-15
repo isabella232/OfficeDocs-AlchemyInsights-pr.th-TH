@@ -15,12 +15,12 @@ ms.custom:
 - "13810"
 - "13812"
 - "9008619"
-ms.openlocfilehash: 16aa4f052c934421423c73244f03a20aa38e4785
-ms.sourcegitcommit: 76c61dec041b93d0039764fae38107108da324aa
+ms.openlocfilehash: ff8eac6487ef544277c5ce2c0c0b7068c9d400ca
+ms.sourcegitcommit: b47c6d5e74819b73becaf1dc5eacc72eaf7c1055
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 09/04/2021
-ms.locfileid: "59316352"
+ms.lasthandoff: 09/15/2021
+ms.locfileid: "59327833"
 ---
 # <a name="reports-in-microsoft-365-admin-center-do-not-show-readable-username"></a>รายงานใน ศูนย์การจัดการ Microsoft 365ไม่แสดงชื่อผู้ใช้ที่สามารถอ่านได้
 
@@ -30,5 +30,5 @@ ms.locfileid: "59316352"
 
 ผู้ดูแลระบบส่วนกลางสามารถแปลงการเปลี่ยนแปลงนี้ให้กับผู้เช่าของตนและแสดงข้อมูลผู้ใช้ที่ระบุตัวตนได้ ถ้าข้อปฏิบัติด้านความเป็นส่วนตัวขององค์กรอนุญาต เมื่อต้องการแปลงการเปลี่ยนแปลงของผู้เช่า:
 
-1. ในศูนย์การจัดการ ให้ไปที่ **การตั้งค่า**  >  **Org**  >  [**Settings Services**](https://admin.microsoft.com/Adminportal/Home#/Settings/Services)**แล้วเลือก** รายงาน 
+1. ในศูนย์การจัดการ ให้ไปที่ **การตั้งค่า**  >  **Org**  >  [**Settings Services**](https://admin.microsoft.com/Adminportal/Home#/Settings/Services )**แล้วเลือก** รายงาน 
 1. **ภายใต้ เลือกวิธีแสดงข้อมูล** ผู้ใช้ ให้เลือก **แสดงข้อมูลผู้ใช้** ที่ระบุได้ในรายงาน แล้วเรียกใช้รายงานอีกครั้ง
