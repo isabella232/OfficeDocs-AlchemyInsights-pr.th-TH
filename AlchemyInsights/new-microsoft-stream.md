@@ -1,5 +1,5 @@
 ---
-title: โยกย้ายจาก Microsoft Stream (คลาสสิก) ไปยัง Microsoft Stream ใหม่
+title: โยกย้ายจากMicrosoft Stream (Classic)ไปยัง Microsoft Stream ใหม่
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,17 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001509"
 - "6449"
-ms.openlocfilehash: d1196b0a9737da577833c90a7b5202fde264973c8fe9b196ec55d595315d2a20
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: a88d4beab4d3749d622f200f7b4117e7ed4a80f9
+ms.sourcegitcommit: cce7932374d1b8ad5806a28bff2b4bac4702852d
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54097397"
+ms.lasthandoff: 09/23/2021
+ms.locfileid: "59482687"
 ---
 # <a name="microsoft-stream"></a>Microsoft Stream
 
-Microsoft Stream เป็นบริการวิดีโอระดับองค์กรที่ผู้คนในองค์กรสามารถอัปโหลด ดู และแชร์วิดีโอได้อย่างปลอดภัย คุณสามารถแชร์การบันทึกของชั้นเรียน การประชุม งานนําเสนอ เซสชันการฝึกอบรม หรือวิดีโออื่นๆ ที่ช่วยในการทํางานร่วมกันของทีมได้  
+วิสัยทัศน์ใหม่ให้กับ Microsoft Stream ช่วยส่งเสริมให้ผู้ใช้สร้าง แชร์ ค้นพบ และจัดการวิดีโอได้เช่นเดียวกับไฟล์อื่นๆ สำหรับข้อมูลเพิ่มเติม ให้ดู:
 
-- [Microsoft Stream ใหม่](https://docs.microsoft.com/stream/new-stream)
-- [Microsoft Stream (คลาสสิก)](https://docs.microsoft.com/stream/overview)
-- [โยกย้ายจาก Microsoft Stream (คลาสสิก) ไปยัง Microsoft Stream ใหม่](https://docs.microsoft.com/stream/classic-migration)
+- [Stream (สร้างขึ้นSharePoint) Microsoft Stream เวอร์ชันใหม่](https://docs.microsoft.com/stream/streamnew/new-stream)
+- [ภาพรวมของการโยกย้ายจากMicrosoft Stream (Classic)ไปยัง Stream (สร้างขึ้นSharePoint)](https://docs.microsoft.com/stream/streamnew/stream-classic-to-new-migration-overview)
