@@ -14,27 +14,28 @@ ms.custom:
 - "1490"
 - "3200003"
 ms.assetid: ''
-ms.openlocfilehash: 7b819b9bb18b5c0a635e708eccc0f23271267874707e5f3a7d41b633a05f2822
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: b60cfc298ee05375523e3660f407ab03e630c861
+ms.sourcegitcommit: e9e282be4997b0ee95f1ff4491e0943f8fc52444
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54105587"
+ms.lasthandoff: 09/22/2021
+ms.locfileid: "59481824"
 ---
 # <a name="troubleshoot-content-search-errors"></a>การแก้ไขปัญหาข้อผิดพลาดการค้นหาเนื้อหา
 
 คุณประสบปัญหาในการค้นหาเนื้อหาหรือล้มเหลวเมื่อคุณส่งออกผลลัพธ์การค้นหาหรือไม่
+ตัวอย่างเช่น คุณจะได้รับสิ่งต่อไปนี้เมื่อคุณเรียกใช้การค้นหาหรือไม่
 
-ตัวอย่างเช่น คุณจะได้รับสิ่งต่อไปนี้เมื่อเรียกใช้การค้นหาหรือไม่
-
-- ข้อผิดพลาด CS008 หรือ CS012
+- ข้อผิดพลาด CS007, CS008 หรือ CS012
 
 - ข้อผิดพลาดเซิร์ฟเวอร์ไม่ว่าง/หมดเวลา
 
 - มีข้อผิดพลาดของแอปพลิเคชันเกิดขึ้น
 
-หรือเมื่อค้นหาหรือส่งออกผลลัพธ์จากกล่องจดหมายจํานวนมาก (กล่องจดหมายมากกว่า 100,000 กล่อง) คุณได้รับข้อผิดพลาดการส่งออกหรือไม่
+หรือคุณได้รับข้อผิดพลาดการส่งออกเมื่อคุณค้นหาหรือส่งออกผลลัพธ์จากกล่องจดหมายจํานวนมาก (มากกว่า 100,000 รายการ)
 
-For these types of errors, retry the search for the content locations that have failed. [ดู](https://docs.microsoft.com/microsoft-365/compliance/retry-failed-content-search)บทความนี้เพื่อดูข้อมูลเพิ่มเติม
+For these errors,try the search for the content locations that have failed or update the search by reducing the complexity of the search query. ตัวอย่างเช่น การค้นหาอักขระตัวแทนอาจส่งกลับผลลัพธ์มากเกินไปเพื่อให้ระบบประมวลผล ซึ่งก่อให้เกิดข้อผิดพลาด CS007   
 
-ถ้าคุณส่งออกกล่องจดหมายมากกว่า 100K คุณจะต้องใช้ Powershell ต่อไปนี้เพื่อดาวน์โหลดผลลัพธ์การส่งออก: การส่งออกผลลัพธ์จากกล่องจดหมายมากกว่า[100K](https://docs.microsoft.com/microsoft-365/compliance/export-search-results?view=o365-worldwide%23exporting-results-from-more-than-100000-mailboxes)
+For more information, see [Retry a Content Search to resolve a content location error or](https://docs.microsoft.com/microsoft-365/compliance/retry-failed-content-search) [Investigate, troubleshoot, and resolve common eDiscovery issues](https://docs.microsoft.com/microsoft-365/compliance/ediscovery-troubleshooting-common-issues).
+
+ถ้าคุณส่งออกกล่องจดหมายมากกว่า 100K คุณจะต้องดาวน์โหลดผลลัพธ์การส่งออก For details, see [Export Content search results](https://docs.microsoft.com/microsoft-365/compliance/export-search-results).
